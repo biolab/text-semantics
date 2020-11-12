@@ -4,6 +4,13 @@ Script scrapes all the proposals. And write them in the separate directory.
 For every proposal it saves a .yaml file with metadata and separate files
 with proposal texts, proposal, response (optinal - if response present),
 and comments (optional - if comments present).
+
+Requirements:
+- requests,
+- yaml,
+- BeautifulSoup4,
+- selenium,
+- chromedriver_binary (from conda-forge) - chromium driver
 """
 
 import os
