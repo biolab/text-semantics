@@ -235,7 +235,15 @@ def main(chromium_driver_path):
     for i in range(max_id, 0, -1):
         t = time.time()
         url = urljoin(BASE_URL + "predlog/", str(i))
-        proposal = scrape_single_proposal(url, browser)
+        try:
+            # some rare proposals have completely different shape and no
+            # meta information (e.g. prop 679)
+            proposal = scrape_single_proposal(url, browser)
+        except IndexError:
+            # skip those
+            proposal = None
+            print(f"Skipping proposal {i}")
+
         if proposal:
             save_proposal(proposal, proposals_dir)
         print(f"Required {time.time() - t} for {url}")
