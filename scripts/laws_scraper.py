@@ -1,3 +1,11 @@
+"""
+Script for parsing laws from PISRS and uradni list.
+
+Requirements:
+- BeautifulSoup
+- pandas
+"""
+
 import os
 import re
 from datetime import datetime
@@ -8,7 +16,7 @@ from bs4 import BeautifulSoup as Soup
 
 query = "register%20OR%20registr*"
 web = "http://pisrs.si/Pis.web/"
-filter_ = "veljavni"
+filter_ = "zakoni"
 save_to = "laws/"
 
 
@@ -138,6 +146,10 @@ def main():
             f"{filter_}&chosenFilters=vsiPredpisi&od=&do=&sortOrder"
             f"=relevantnost&page={str(page)}&scrollTop=0"
         )
+        print(f"{web}pravniRedRSSearch?search="
+            f"{query}&filter="
+            f"{filter_}&chosenFilters=vsiPredpisi&od=&do=&sortOrder"
+            f"=relevantnost&page={str(page)}&scrollTop=0")
         s1 = Soup(html.read(), "html.parser")
         if s1.find(id="predpisi").find("a"):
             for a in s1.find(id="predpisiTable").find_all("a", href=True):
