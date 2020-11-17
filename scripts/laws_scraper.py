@@ -57,6 +57,9 @@ def scrape_single_uradni_list(url):
         .replace(" ", "-")
         .replace("/", "-")
         .replace(",", "")
+        .replace(".", "-")
+        .replace("(", "")
+        .replace(")", "")
     )
     text_file = f"{t_short}.txt"
     with open(f"{save_to}{text_file}", "w") as f:
