@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="text-semantics", # Replace with your own username
+    name="text-semantics",  # Replace with your own username
     version="0.0.1",
     author="Bioinformatics Laboratory, FRI UL and Revelo d. o. o.",
     author_email="contact@orange.biolab.si",
@@ -18,5 +18,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires=">=3.6",
+    install_requires=["requests", "pyyaml", "beautifulsoup4", "pandas"],
 )
