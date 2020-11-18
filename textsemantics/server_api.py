@@ -48,7 +48,7 @@ class ServerAPI:
 
     def get_dataset_info(self, dataset_name: str) -> Dict[str, str]:
         """
-        Get number of instances in a server dataset and a metadata type.
+        Get the number of instances in a server dataset and a metadata type.
 
         Parameters
         ----------
@@ -83,7 +83,7 @@ class ServerAPI:
     @staticmethod
     def _join_yaml_metadata(files: List[Tuple[str, str]], sample_size: int = None) -> pd.DataFrame:
         """
-        Download YAMLs with metadata and concatenate them in a dataframe.
+        Download YAMLs with metadata and concatenate them in a data frame.
         """
         yamls = [f for f in files if f[0].endswith((".yml", ".yaml"))]
         if sample_size is not None:
@@ -147,7 +147,7 @@ class ServerAPI:
 
         Returns
         -------
-        The dataframe where each row represent a data instance, columns are
+        The data frame where each row represents a data instance, columns are
         metadata. Some of them are paths to document file.
         """
         files = self._list_files(urljoin(self.server_url, dataset_name))
