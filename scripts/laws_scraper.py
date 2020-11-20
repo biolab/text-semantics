@@ -23,7 +23,17 @@ save_to = "laws/"
 def get_text(soup):
     return "\n".join(
         a.text
-        for a in soup.findAll(True, {"class": ["esegment_h4", "esegment_p"]})
+        for a in soup.findAll(
+            True,
+            {
+                "class": [
+                    "esegment_h4",
+                    "esegment_p",
+                    "esegment_px",
+                    "esegment_h4x",
+                ]
+            },
+        )
     )
 
 
@@ -61,6 +71,7 @@ def scrape_single_uradni_list(url):
         .replace("(", "")
         .replace(")", "")
     )
+    assert len(text) > 0, f"Empty text {url}"
     text_file = f"{t_short}.txt"
     with open(f"{save_to}{text_file}", "w") as f:
         f.write(text)
@@ -149,10 +160,12 @@ def main():
             f"{filter_}&chosenFilters=vsiPredpisi&od=&do=&sortOrder"
             f"=relevantnost&page={str(page)}&scrollTop=0"
         )
-        print(f"{web}pravniRedRSSearch?search="
+        print(
+            f"{web}pravniRedRSSearch?search="
             f"{query}&filter="
             f"{filter_}&chosenFilters=vsiPredpisi&od=&do=&sortOrder"
-            f"=relevantnost&page={str(page)}&scrollTop=0")
+            f"=relevantnost&page={str(page)}&scrollTop=0"
+        )
         s1 = Soup(html.read(), "html.parser")
         if s1.find(id="predpisi").find("a"):
             for a in s1.find(id="predpisiTable").find_all("a", href=True):
