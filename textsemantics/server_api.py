@@ -189,7 +189,8 @@ class ServerAPI:
             "text/plain": lambda x: x.content.decode("utf-8"),
         }
         r = requests.get(url)
-        type_ = r.headers['Content-Type']
+        type_ = r.headers['Content-Type'].split()[0].strip(";")
+
         return handler.get(type_)(r)
 
     def get_texts(self, urls: Iterable[Optional[str]]) -> List[Optional[str]]:
