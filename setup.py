@@ -19,5 +19,13 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
-    install_requires=["requests", "pyyaml", "beautifulsoup4", "pandas"],
+    install_requires=[
+        "requests",
+        "pyyaml",
+        "beautifulsoup4",
+        "pandas",
+        "docx2txt",
+        "pdfminer3k",
+        "odfpy",
+    ],
 )

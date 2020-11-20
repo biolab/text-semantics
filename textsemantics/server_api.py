@@ -11,6 +11,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from requests_futures.sessions import FuturesSession
 
+from textsemantics.utils import parse_pdf, parse_docx, parse_odt
+
 
 class ServerAPI:
     def __init__(
@@ -187,6 +189,9 @@ class ServerAPI:
             return None
         handler = {
             "text/plain": lambda x: x.content.decode("utf-8"),
+            "application/pdf": parse_pdf,
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": parse_docx,
+            "application/octet-stream": parse_odt
         }
         r = requests.get(url)
         type_ = r.headers['Content-Type'].split()[0].strip(";")
@@ -230,5 +235,3 @@ if __name__ == "__main__":
     # get all texts in the column - metadata["Law text"]
     texts = api.get_texts(metadata["Law text"])
     print(texts)
-
-
