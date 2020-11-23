@@ -41,6 +41,17 @@ class OntologyAPI:
         return [os.path.splitext(m["ontology file"])[0] for m in mds]
 
     def download_ontology(self, ontology_name: str, path: str) -> None:
+        """
+        Download ontology to the local directory together with all imported
+        ontologies.
+
+        Parameters
+        ----------
+        ontology_name
+            The name of the ontology to download
+        path
+            Location to save ontology on the local computer
+        """
         meta_file = requests.get(f"{self.server_url}{ontology_name}.yaml")
         meta_file.raise_for_status()  # raise when 404
         meta = yaml.safe_load(io.StringIO(meta_file.content.decode("utf-8")))
