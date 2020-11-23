@@ -9,7 +9,7 @@ from requests_futures.sessions import FuturesSession
 from textsemantics.utils import list_files
 
 
-class OntologiesAPI:
+class OntologyAPI:
     def __init__(
         self,
         server_url: str = "http://file.biolab.si/text-semantics/ontologies",
@@ -53,7 +53,7 @@ class OntologiesAPI:
 
 
 if __name__ == "__main__":
-    api = OntologiesAPI()
+    api = OntologyAPI()
     ontologies = api.list_ontologies()
     print(ontologies)
 
