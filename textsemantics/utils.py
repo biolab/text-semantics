@@ -1,7 +1,12 @@
 import io
+import os
 import tempfile
+from typing import List, Tuple
+from urllib.parse import urljoin, unquote
 
 import docx2txt
+import requests
+from bs4 import BeautifulSoup
 from odf import opendocument, text, teletype
 from pdfminer.pdfparser import PDFParser, PDFDocument
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -49,3 +54,19 @@ def parse_odt(response):
     odtfile = opendocument.load(tmp.name)
     texts = odtfile.getElementsByType(text.P)
     return " ".join(teletype.extractText(t) for t in texts)
+
+
+def list_files(url: str) -> List[Tuple[str, str]]:
+    """
+    Return a list of (filename, file-URL) pairs in the server directory
+    """
+    if not url.endswith("/"):
+        url += "/"
+
+    soup = BeautifulSoup(requests.get(url).text, "html.parser")
+    return [
+        (unquote(os.path.basename(node.get("href").rstrip("/"))),
+         urljoin(url, node.get("href")))
+        for node in soup.find_all("a")
+        if node.text != "../"
+    ]

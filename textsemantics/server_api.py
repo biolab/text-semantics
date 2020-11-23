@@ -1,17 +1,15 @@
 import io
-import os
 import random
 from multiprocessing import Pool
 from typing import List, Tuple, Dict, Iterable, Optional
-from urllib.parse import urljoin, unquote
+from urllib.parse import urljoin
 
 import requests
 import yaml
-from bs4 import BeautifulSoup
 import pandas as pd
 from requests_futures.sessions import FuturesSession
 
-from textsemantics.utils import parse_pdf, parse_docx, parse_odt
+from textsemantics.utils import parse_pdf, parse_docx, parse_odt, list_files
 
 
 class ServerAPI:
@@ -19,22 +17,6 @@ class ServerAPI:
         self, server_url: str = "http://file.biolab.si/text-semantics/"
     ):
         self.server_url = server_url
-
-    @staticmethod
-    def _list_files(url: str) -> List[Tuple[str, str]]:
-        """
-        Return a list of (filename, file-URL) pairs in the server directory
-        """
-        if not url.endswith("/"):
-            url += "/"
-
-        soup = BeautifulSoup(requests.get(url).text, "html.parser")
-        return [
-            (unquote(os.path.basename(node.get("href").rstrip("/"))),
-             urljoin(url, node.get("href")))
-            for node in soup.find_all("a")
-            if node.text != "../"
-        ]
 
     def list_datasets(self) -> List[Tuple[str, str]]:
         """
@@ -46,7 +28,7 @@ class ServerAPI:
         -------
         The list of tuples with dataset name and path to the datasets
         """
-        return self._list_files(self.server_url)
+        return list_files(self.server_url)
 
     def get_dataset_info(self, dataset_name: str) -> Dict[str, str]:
         """
@@ -64,7 +46,7 @@ class ServerAPI:
         - Metadata type: the format of metadata (CSV: one table, YAML: separate
           file for each document).
         """
-        files = self._list_files(urljoin(self.server_url, dataset_name))
+        files = list_files(urljoin(self.server_url, dataset_name))
         files_names = [f[0] for f in files]
         yamls = [f.endswith(".yml") or f.endswith(".yaml") for f in files_names]
 
@@ -83,7 +65,9 @@ class ServerAPI:
         return {"Instances number": num_files, "Metadata type": metadata_type}
 
     @staticmethod
-    def _join_yaml_metadata(files: List[Tuple[str, str]], sample_size: int = None) -> pd.DataFrame:
+    def _join_yaml_metadata(
+        files: List[Tuple[str, str]], sample_size: int = None
+    ) -> pd.DataFrame:
         """
         Download YAMLs with metadata and concatenate them in a data frame.
         """
@@ -104,7 +88,9 @@ class ServerAPI:
         return pd.DataFrame(mds)
 
     @staticmethod
-    def _file_names_to_paths(meta_data: pd.DataFrame, files: List[Tuple[str, str]]) -> pd.DataFrame:
+    def _file_names_to_paths(
+        meta_data: pd.DataFrame, files: List[Tuple[str, str]]
+    ) -> pd.DataFrame:
         """
         Transforms file names (if they are not paths already) to full url/path.
         """
@@ -136,7 +122,9 @@ class ServerAPI:
                     meta_data = meta_data.assign(**{col: paths})
         return meta_data
 
-    def get_metadata(self, dataset_name: str, sample_size: int = None) -> pd.DataFrame:
+    def get_metadata(
+        self, dataset_name: str, sample_size: int = None
+    ) -> pd.DataFrame:
         """
         Get metadata for a specified dataset from the server.
 
@@ -152,7 +140,7 @@ class ServerAPI:
         The data frame where each row represents a data instance, columns are
         metadata. Some of them are paths to document file.
         """
-        files = self._list_files(urljoin(self.server_url, dataset_name))
+        files = list_files(urljoin(self.server_url, dataset_name))
         ds_info = self.get_dataset_info(dataset_name)
 
         if ds_info["Metadata type"] == "CSV":
@@ -190,11 +178,12 @@ class ServerAPI:
         handler = {
             "text/plain": lambda x: x.content.decode("utf-8"),
             "application/pdf": parse_pdf,
-            "application/vnd.openxmlformats-officedocument.wordprocessingml.document": parse_docx,
-            "application/octet-stream": parse_odt
+            "application/vnd.openxmlformats-officedocument.wordprocessingml."
+            "document": parse_docx,
+            "application/octet-stream": parse_odt,
         }
         r = requests.get(url)
-        type_ = r.headers['Content-Type'].split()[0].strip(";")
+        type_ = r.headers["Content-Type"].split()[0].strip(";")
 
         return handler.get(type_)(r)
 
