@@ -16,7 +16,7 @@ class OntologyAPI:
     ):
         self.server_url = server_url + ("" if server_url.endswith("/") else "/")
 
-    def list_ontologies(self) -> List[str, str]:
+    def list_ontologies(self) -> List[str]:
         """
         List all ontologies in the directory on the provided URL.
 
