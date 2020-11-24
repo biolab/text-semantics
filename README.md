@@ -25,7 +25,7 @@ metadata = api.get_metadata(datasets[0][0])
 texts = api.get_texts(metadata["Law text"])
 ```
 
-For detailed description looks at docstrings in the 
+For detailed description look at docstrings in the 
 [module](https://github.com/biolab/text-semantics/blob/main/textsemantics/server_api.py).
 
 ### Ontology API
@@ -44,7 +44,7 @@ print(ontologies)
 api.download_ontology(ontologies[1], "target_dir")
 ``` 
 
-For detailed description looks at docstrings in the 
+For detailed description look at docstrings in the 
 [module](https://github.com/biolab/text-semantics/blob/main/textsemantics/ontology_api.py).
 
 
