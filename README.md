@@ -23,6 +23,10 @@ metadata = api.get_metadata(datasets[0][0])
 
 # get all texts in the column - metadata["Law text"] - list of strings
 texts = api.get_texts(metadata["Law text"])
+
+# add texts to dataframe
+metadata['text'] = texts
+print(metadata.columns)
 ```
 
 For detailed description look at docstrings in the 

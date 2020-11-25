@@ -224,3 +224,7 @@ if __name__ == "__main__":
     # get all texts in the column - metadata["Law text"]
     texts = api.get_texts(metadata["Law text"])
     print(texts)
+
+    # add texts to dataframe
+    metadata['text'] = texts
+    print(metadata.columns)
