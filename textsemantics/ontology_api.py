@@ -38,7 +38,7 @@ class OntologyAPI:
             yaml.safe_load(io.StringIO(f.result().content.decode("utf-8")))
             for f in futures
         ]
-        return [os.path.splitext(m["ontology file"])[0] for m in mds]
+        return [m["ontology file"] for m in mds]
 
     def download_ontology(self, ontology_name: str, path: str) -> None:
         """
@@ -52,6 +52,7 @@ class OntologyAPI:
         path
             Location to save ontology on the local computer
         """
+        ontology_name = os.path.splitext(ontology_name)[0]
         meta_file = requests.get(f"{self.server_url}{ontology_name}.yaml")
         meta_file.raise_for_status()  # raise when 404
         meta = yaml.safe_load(io.StringIO(meta_file.content.decode("utf-8")))
