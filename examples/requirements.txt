@@ -3,3 +3,11 @@ owlready2
 nltk
 lemmagen
 wordcloud
+flair
+scikit-learn
+numpy
+scipy
+opentsne
+hdbscan
+matplotlib
+seaborn
