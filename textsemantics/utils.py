@@ -1,7 +1,8 @@
 import io
 import os
+import re
 import tempfile
-from typing import List, Tuple
+from typing import List, Tuple, Any, Callable
 from urllib.parse import urljoin, unquote
 
 import docx2txt
@@ -65,8 +66,20 @@ def list_files(url: str) -> List[Tuple[str, str]]:
 
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
     return [
-        (unquote(os.path.basename(node.get("href").rstrip("/"))),
-         urljoin(url, node.get("href")))
+        (
+            unquote(os.path.basename(node.get("href").rstrip("/"))),
+            urljoin(url, node.get("href")),
+        )
         for node in soup.find_all("a")
         if node.text != "../"
     ]
+
+
+def natural_sorted(l: List[Any], key: Callable = lambda x: x):
+    def convert(text: str):
+        return int(text) if text.isdigit() else text.lower()
+
+    def alphanum_key(items: Any):
+        return [convert(c) for c in re.split("([0-9]+)", key(items))]
+
+    return sorted(l, key=alphanum_key)
