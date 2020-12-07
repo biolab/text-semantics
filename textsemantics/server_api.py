@@ -1,6 +1,7 @@
 import io
 import random
 from multiprocessing import Pool
+from operator import itemgetter
 from typing import List, Tuple, Dict, Iterable, Optional
 from urllib.parse import urljoin
 
@@ -9,7 +10,13 @@ import yaml
 import pandas as pd
 from requests_futures.sessions import FuturesSession
 
-from textsemantics.utils import parse_pdf, parse_docx, parse_odt, list_files
+from textsemantics.utils import (
+    parse_pdf,
+    parse_docx,
+    parse_odt,
+    list_files,
+    natural_sorted,
+)
 
 
 class ServerAPI:
@@ -66,17 +73,29 @@ class ServerAPI:
 
     @staticmethod
     def _join_yaml_metadata(
-        files: List[Tuple[str, str]], sample_size: int = None
+        files: List[Tuple[str, str]],
+        sample_size: int = None,
+        sampling_strategy: str = None,
     ) -> pd.DataFrame:
         """
         Download YAMLs with metadata and concatenate them in a data frame.
         """
-        yamls = [f for f in files if f[0].endswith((".yml", ".yaml"))]
+        yamls = natural_sorted(
+            (f for f in files if f[0].endswith((".yml", ".yaml"))),
+            itemgetter(0),
+        )
         if sample_size is not None:
-            try:
-                yamls = random.sample(yamls, sample_size)
-            except ValueError:  # Sample larger than population
-                yamls = yamls
+            if sampling_strategy == "random":
+                try:
+                    yamls = random.sample(yamls, sample_size)
+                except ValueError:  # Sample larger than population
+                    yamls = yamls
+            elif sampling_strategy == "latest":
+                yamls = yamls[-sample_size:]
+            else:
+                raise ValueError(
+                    "Sample strategy must be one of {random, latest}!"
+                )
 
         # FuturesSession - faster download with parallel thread
         session = FuturesSession(max_workers=20)
@@ -123,7 +142,10 @@ class ServerAPI:
         return meta_data
 
     def get_metadata(
-        self, dataset_name: str, sample_size: int = None
+        self,
+        dataset_name: str,
+        sample_size: int = None,
+        sampling_strategy: str = "random",
     ) -> pd.DataFrame:
         """
         Get metadata for a specified dataset from the server.
@@ -134,12 +156,19 @@ class ServerAPI:
             The name of the dataset
         sample_size
             The random sample size (optional). When None sampling is disabled.
+        sampling_strategy
+            How to get the sample. Options:
+            - random: select random documents
+            - latest: take last sample_size documents. In case of csv metadata
+               last n files from the table, else last n document ordered
+               alphabetically.
 
         Returns
         -------
         The data frame where each row represents a data instance, columns are
         metadata. Some of them are paths to document file.
         """
+        assert sampling_strategy in {"random", "latest"}
         files = list_files(urljoin(self.server_url, dataset_name))
         ds_info = self.get_dataset_info(dataset_name)
 
@@ -149,10 +178,17 @@ class ServerAPI:
             ).content
             meta_data = pd.read_csv(io.StringIO(s.decode("utf-8")))
             if sample_size is not None:
-                meta_data = meta_data.sample(sample_size)
+                if sampling_strategy == "random":
+                    meta_data = meta_data.sample(sample_size)
+                else:  # latest
+                    meta_data = meta_data.tail(sample_size)
             meta_data = self._file_names_to_paths(meta_data, files)
         elif ds_info["Metadata type"] == "YAML":
-            meta_data = self._join_yaml_metadata(files, sample_size=sample_size)
+            meta_data = self._join_yaml_metadata(
+                files,
+                sample_size=sample_size,
+                sampling_strategy=sampling_strategy,
+            )
             meta_data = self._file_names_to_paths(meta_data, files)
         else:
             meta_data = pd.DataFrame(files, columns=["File name", "File path"])
@@ -226,5 +262,5 @@ if __name__ == "__main__":
     print(texts)
 
     # add texts to dataframe
-    metadata['text'] = texts
+    metadata["text"] = texts
     print(metadata.columns)
