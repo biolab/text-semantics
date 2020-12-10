@@ -15,11 +15,22 @@ uredba = "Uredba [0-9]+/[0-9]+/[A-Z]+"
 uradni_list = "Uradni list [A-Z]+, št. [0-9]+/[0-9]+"
 direktive = "(Direktiv[aeo]? |Sklep[a]? |Uredb[aei]? )?(št. )?(Sveta )?" \
             "[0-9]+/[0-9]+/[A-Z]+"
+zakon_doloca = "(ta )?zakon določa"
+minister_pristojen = "minist(e)?r(stvo)?, pristoj(e)?n(o)? za"
+v_skladu = "v skladu (z zakonom|s tem zakonom|z uredbo)"
+po_zakonu = "po (tem )?zakonu(, ki ureja)?"
+namen_zakona = "(namen|za potrebe|določbe) (tega )?zakona"
+skladno_s_predpisi = "v skladu s (predpisi|prejšnjim odstavkom)(, ki urejajo)?"
+prejsnji_odstavek = "iz prejšnjega odstavka"
+minister_predpise = "minister predpiše"
+
 
 
 def remove_structure(doc):
-    regex = [cleni, dolocba, precisceno, izdajam, razglasam,
-             veljava, uredba, uradni_list, direktive]
+    regex = [dolocba, precisceno, izdajam, razglasam,
+             veljava, uredba, uradni_list, direktive, cleni, zakon_doloca,
+             minister_pristojen, v_skladu, po_zakonu, namen_zakona,
+             skladno_s_predpisi, prejsnji_odstavek, minister_predpise]
     for r in regex:
         doc = re.sub(r, '', doc, flags=re.IGNORECASE)
     return doc
