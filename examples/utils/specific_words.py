@@ -39,6 +39,8 @@ def prepare_data(tokens_list):
 
 
 def cos_sim(x, y):
+    if x.sum() == 0 or y.sum() == 0:
+        return 0
     return x.dot(y) / np.linalg.norm(x) / np.linalg.norm(y)
 
 
