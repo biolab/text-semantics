@@ -1,6 +1,9 @@
 import numpy as np
 from flair.data import Sentence
 from flair.embeddings import WordEmbeddings
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+from .word_enrichment import hypergeom_p_values
 
 
 def prepare_data(tokens_list):
@@ -36,11 +39,12 @@ def prepare_data(tokens_list):
 
 
 def cos_sim(x, y):
+    if x.sum() == 0 or y.sum() == 0:
+        return 0
     return x.dot(y) / np.linalg.norm(x) / np.linalg.norm(y)
 
 
 def find_corpus_words(doc_embs, words, word_embs):
-
     # compute distances
     distances = np.zeros((word_embs.shape[0], doc_embs.shape[0]))
     for i in range(word_embs.shape[0]):
@@ -48,7 +52,7 @@ def find_corpus_words(doc_embs, words, word_embs):
             distances[i, j] = 1 - cos_sim(word_embs[i, :], doc_embs[j, :])
 
     # compute scores
-    doc_desc = dict()
+    doc_desc = []
     for j in range(doc_embs.shape[0]):
         scores = np.zeros(word_embs.shape[0])
         for i in range(word_embs.shape[0]):
@@ -57,13 +61,12 @@ def find_corpus_words(doc_embs, words, word_embs):
             scores[i] = distances[i, j] - np.mean(distances[i, mask])
 
         idx = np.argsort(scores)
-        doc_desc[j] = [words[w] for w in idx]
+        doc_desc.append([(words[w], scores[w]) for w in idx])
 
     return doc_desc
 
 
 def find_document_words(doc_embs, words, word_embs, word2doc, doc2word):
-
     word2ind = dict(zip(words, range(len(words))))
     distances = dict()
     for i in range(word_embs.shape[0]):
@@ -82,6 +85,44 @@ def find_document_words(doc_embs, words, word_embs, word2doc, doc2word):
             mean_distance = (sum_of_distances - distances[i, j]) / (doc_embs.shape[0] - 1)
             scores[k] = distances[i, j] - mean_distance
         idx = np.argsort(scores)
-        doc_desc.append([ind2word[x] for x in idx])
-
+        doc_desc.append([(ind2word[x], scores[x]) for x in idx])
     return doc_desc
+
+
+def embedding_corpus_words(tokens_list):
+    doc_embs, words, word_embs, _, _ = prepare_data(tokens_list)
+    return find_corpus_words(doc_embs, words, word_embs)
+
+
+def embedding_document_words(tokens_list):
+    doc_embs, words, word_embs, word2doc, doc2word = prepare_data(tokens_list)
+    return find_document_words(doc_embs, words, word_embs, word2doc,
+                                        doc2word)
+
+
+def enrichment_words(tokens_list):
+    joined_texts = [' '.join(tokens) for tokens in tokens_list]
+    vectorizer = TfidfVectorizer()
+    X = vectorizer.fit_transform(joined_texts)
+    words = vectorizer.get_feature_names()
+
+    def specific_words_enrichment(document_index):
+        p_values = hypergeom_p_values(X, X[document_index])
+        order = np.argsort(p_values)
+        return [(words[i], p_values[i]) for i in order]
+
+    return [specific_words_enrichment(i) for i in range(len(tokens_list))]
+
+
+def tfidf_words(tokens_list):
+    joined_texts = [' '.join(tokens) for tokens in tokens_list]
+    vectorizer = TfidfVectorizer()
+    X = vectorizer.fit_transform(joined_texts)
+    words = vectorizer.get_feature_names()
+
+    def find_tfidf_words(document_id):
+        feature_index = X[document_id, :].nonzero()[1]
+        features = [(words[i], X[document_id, i]) for i in feature_index]
+        return sorted(features, key=lambda tup: tup[1], reverse=True)
+
+    return [find_tfidf_words(i) for i in range(len(tokens_list))]
