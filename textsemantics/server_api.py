@@ -21,7 +21,7 @@ from textsemantics.utils import (
 
 class ServerAPI:
     def __init__(
-        self, server_url: str = "http://file.biolab.si/text-semantics/"
+        self, server_url: str = "http://file.biolab.si/text-semantics/data/"
     ):
         self.server_url = server_url
 
@@ -250,10 +250,10 @@ if __name__ == "__main__":
     print(datasets)
 
     # print dataset info
-    print(api.get_dataset_info(datasets[0][0]))
+    print(api.get_dataset_info('zakoni-o-registrih'))
 
     # get info about a particular dataset
-    metadata = api.get_metadata(datasets[0][0])
+    metadata = api.get_metadata('zakoni-o-registrih')
     print(metadata.columns)
     print(metadata["Law text"])
 
