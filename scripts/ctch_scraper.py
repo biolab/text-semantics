@@ -90,13 +90,18 @@ def get_keywords(soup):
 def get_text(soup):
     body = soup.find("div", attrs={"class": "tei_body"})
     body_text = []
-    for sect in body.findAll("section"):
-        if sect.header:
-            body_text.append(sect.header.text)
-        for p in sect.findAll("p"):
-            for s in p.findAll("span"):
-                s.decompose()
-            body_text.append(p.text)
+    for sect in body.findAll(["p", "header"]):
+        if sect.name == "header":
+            body_text.append(sect.text)
+        else:  # p
+            for s in sect.findAll("span"):
+                # print(s.attrs["class"])
+                if (
+                    "class" in s.attrs and "numberParagraph" in s.attrs["class"]
+                    or s.a and "notelink" in s.a.attrs["class"]
+                ):
+                    s.decompose()
+            body_text.append(sect.text)
     return "\n".join(body_text)
 
 
@@ -122,6 +127,7 @@ def read_articles(articles):
                 "Abstract": abstract,
                 "Keywords": keywords,
                 "Text": text,
+                "URL": art,
             }
         )
     return data
@@ -133,5 +139,7 @@ with open("ctch_articles.json", "w", encoding="utf-8") as f:
 
 df = pd.DataFrame(art)
 df.to_csv("ctch_articles.csv", index=False)
+
 print(len(df))
-print(df.isnull().sum())
+# it should be zero - no missing text
+print(((df['Text'].values == '') | (df['Text'].isna())).sum())
