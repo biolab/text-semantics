@@ -1,5 +1,6 @@
 import io
 import random
+import unicodedata
 from multiprocessing import Pool
 from operator import itemgetter
 from typing import List, Tuple, Dict, Iterable, Optional
@@ -114,6 +115,9 @@ class ServerAPI:
         Transforms file names (if they are not paths already) to full url/path.
         """
         files_names, files_paths = list(zip(*files))
+        # normalizing in case characters with accent or caron are write as two
+        # character unicode - filenames generated on macos
+        files_names = [unicodedata.normalize("NFC", x) for x in files_names]
         for col in meta_data:
             try:
                 is_file = (
@@ -129,7 +133,9 @@ class ServerAPI:
                 for item in meta_data[col]:
                     try:
                         if item:
-                            idx = files_names.index(item)
+                            idx = files_names.index(
+                                unicodedata.normalize("NFC", item)
+                            )
                             paths.append(files_paths[idx])
                         else:
                             paths.append(None)
