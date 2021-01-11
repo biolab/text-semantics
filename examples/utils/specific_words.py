@@ -1,12 +1,9 @@
-from operator import itemgetter
-
 import numpy as np
 from flair.data import Sentence
 from flair.embeddings import WordEmbeddings
-from rake_nltk import Rake, Metric
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# from .word_enrichment import hypergeom_p_values
+from .word_enrichment import hypergeom_p_values
 
 
 def prepare_data(tokens_list):
@@ -131,36 +128,3 @@ def tfidf_words(tokens_list):
         return sorted(features, key=lambda tup: tup[1], reverse=True)
 
     return [find_tfidf_words(i) for i in range(len(tokens_list))]
-
-
-def rake_phrases(text_list, language="slovene"):
-    r = Rake(language=language)
-
-    res = []
-    for txt in text_list:
-        r.extract_keywords_from_text(txt)
-        res.append([(x, y) for y, x in r.get_ranked_phrases_with_scores()])
-
-    return res
-
-
-def rake_words(text_list, language="slovene"):
-    r = Rake(language=language)
-
-    def get_ranked_words_with_scores():
-        scores = []
-        for w in r.degree:
-            if r.metric == Metric.DEGREE_TO_FREQUENCY_RATIO:
-                sc = 1.0 * r.degree[w] / r.frequency_dist[w]
-            elif r.metric == Metric.WORD_DEGREE:
-                sc = 1.0 * r.degree[w]
-            else:
-                sc = 1.0 * r.frequency_dist[w]
-            scores.append((w, sc))
-        return sorted(scores, reverse=True, key=itemgetter(1))
-
-    res = []
-    for txt in text_list:
-        r.extract_keywords_from_text(txt)
-        res.append(get_ranked_words_with_scores())
-    return res

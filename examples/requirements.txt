@@ -11,5 +11,8 @@ opentsne
 hdbscan
 matplotlib
 seaborn
-rake-nltk
 tika
+gensim
+-e git://github.com/zelandiya/RAKE-tutorial.git#egg=nlp-rake
+-e git://github.com/LIAAD/yake#egg=yake
+umap-learn
