@@ -16,10 +16,10 @@ api = ServerAPI()
 datasets = api.list_datasets()
 
 # get dataset info - dictionary with dataset size and metadata type
-api.get_dataset_info(datasets[0][0])
+api.get_dataset_info('zakoni-o-registrih')
 
 # get metadata for particular dataset - pandas dataframe
-metadata = api.get_metadata(datasets[0][0])
+metadata = api.get_metadata('zakoni-o-registrih')
 
 # get all texts in the column - metadata["Law text"] - list of strings
 texts = api.get_texts(metadata["Law text"])
