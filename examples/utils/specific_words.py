@@ -91,6 +91,41 @@ def find_document_words(doc_embs, words, word_embs, word2doc, doc2word):
         doc_desc.append([(ind2word[x], scores[x]) for x in idx])
     return doc_desc
 
+
+def find_cluster_words(doc_embs, words, word_embs, cluster_labels):
+    # find unique cluster labels
+    unique_clusters = [c for c in np.unique(cluster_labels) if c > -1]
+    n_clusters = len(unique_clusters)
+
+    # find centroids
+    cluster_centroids = np.zeros((n_clusters, doc_embs.shape[1]))
+    for c, c_label in enumerate(unique_clusters):
+        cluster_centroids[c, :] = np.mean(doc_embs[cluster_labels == c_label], axis=0)
+
+    # compute distances between centroids and words
+    word_distance_vectors = np.zeros((word_embs.shape[0], n_clusters))
+    for i in range(word_embs.shape[0]):
+        for j, c_label in enumerate(unique_clusters):
+            word_distance_vectors[i, j] = 1 - cos_sim(word_embs[i, :],
+                                                      cluster_centroids[j, :])
+
+    # describe clusters
+    cluster_describer = dict()
+    for c, c_label in enumerate(unique_clusters):
+        cluster_describer[c_label] = list()
+        cluster_metric = np.zeros(word_embs.shape[0])
+        for i in range(word_embs.shape[0]):
+            mask = np.full(n_clusters, fill_value=True)
+            mask[c] = False
+            cluster_metric[i] = word_distance_vectors[i, c] - np.mean(
+                word_distance_vectors[i, mask])
+        inds = np.argsort(cluster_metric)
+        for ind in inds:
+            cluster_describer[c_label].append(words[ind])
+
+    return cluster_describer
+
+
 def embedding_corpus_words(tokens_list):
     doc_embs, words, word_embs, _, _ = prepare_data(tokens_list)
     return find_corpus_words(doc_embs, words, word_embs)
@@ -99,7 +134,7 @@ def embedding_corpus_words(tokens_list):
 def embedding_document_words(tokens_list):
     doc_embs, words, word_embs, word2doc, doc2word = prepare_data(tokens_list)
     return find_document_words(doc_embs, words, word_embs, word2doc,
-                                        doc2word)
+                               doc2word)
 
 
 def enrichment_words(tokens_list):
