@@ -82,12 +82,14 @@ def find_document_words(doc_embs, words, word_embs, word2doc, doc2word):
             # current document and a single word
             i = word2ind[word]
             sum_of_distances = sum([distances[i, x] for x in word2doc[word]])
-            mean_distance = (sum_of_distances - distances[i, j]) / (doc_embs.shape[0] - 1)
+            if len(word2doc[word]) > 1:
+                mean_distance = (sum_of_distances - distances[i, j]) / (len(word2doc[word]) - 1)
+            else:
+                mean_distance = 0
             scores[k] = distances[i, j] - mean_distance
         idx = np.argsort(scores)
         doc_desc.append([(ind2word[x], scores[x]) for x in idx])
     return doc_desc
-
 
 def embedding_corpus_words(tokens_list):
     doc_embs, words, word_embs, _, _ = prepare_data(tokens_list)
