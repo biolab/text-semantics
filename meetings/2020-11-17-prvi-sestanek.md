@@ -1,3 +1,5 @@
+![](logos.png)
+
 # Prvi sestanek
 
 **Datum:** 17. 11. 2020
