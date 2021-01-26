@@ -1,3 +1,5 @@
+![](logos.png)
+
 # Telefonski pogovor z Mirom
 
 **Datum:** 24. 11. 2020

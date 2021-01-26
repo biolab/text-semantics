@@ -1,3 +1,5 @@
+![](logos.png)
+
 # Vmesni sestanek, predstavitev napredka
 
 **Datum:** 14. 1. 2021
