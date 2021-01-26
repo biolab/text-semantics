@@ -2,7 +2,7 @@
 
 # Telefonski pogovor z Mirom
 
-**Datum:** 25. 1. 2020
+**Datum:** 25. 1. 2021
 
 **Prisotni:** dr. Miro Lozej, Primož Godec 
 
