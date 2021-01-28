@@ -84,7 +84,11 @@ def _preprocess_corpus(corpus: List[str], language: str) -> List[List[str]]:
     return preprocessed
 
 
-def prepare_embeddings(tokens_list: List[List[str]]) -> Tuple[np.ndarray, Dict[str, List[float]], Dict[str, Set[int]], List[Set[str]]]:
+def prepare_embeddings(
+    tokens_list: List[List[str]],
+) -> Tuple[
+    np.ndarray, Dict[str, np.ndarray], Dict[str, Set[int]], List[Set[str]]
+]:
     embedder = WordEmbeddings("sl")
     word_embs = {}
     doc_embs = list()
@@ -113,7 +117,9 @@ def prepare_embeddings(tokens_list: List[List[str]]) -> Tuple[np.ndarray, Dict[s
     return doc_embs, word_embs, word2doc, doc2word
 
 
-def find_corpus_words(doc_embs: np.ndarray, word_embs: Dict[str, np.ndarray]) -> List[List[Tuple[str, float]]]:
+def find_corpus_words(
+    doc_embs: np.ndarray, word_embs: Dict[str, np.ndarray]
+) -> List[List[Tuple[str, float]]]:
     # compute distances
     distances = np.zeros((len(word_embs), doc_embs.shape[0]))
     words = list(word_embs.keys())
@@ -135,7 +141,12 @@ def find_corpus_words(doc_embs: np.ndarray, word_embs: Dict[str, np.ndarray]) ->
     return doc_desc
 
 
-def find_document_words(doc_embs: np.ndarray, word_embs: Dict[str, np.ndarray], word2doc: Dict[str, Set[int]], doc2word: List[Set[str]]) -> List[List[Tuple[str, float]]]:
+def find_document_words(
+    doc_embs: np.ndarray,
+    word_embs: Dict[str, np.ndarray],
+    word2doc: Dict[str, Set[int]],
+    doc2word: List[Set[str]],
+) -> List[List[Tuple[str, float]]]:
     distances = dict()
     for word, w_emb in word_embs.items():
         for j in word2doc[word]:
@@ -165,7 +176,9 @@ def embedding_corpus_keywords(
     tokens: Optional[List[List[str]]] = None,
     language: str = "slovenian",
 ):
-    assert bool(texts) != bool(tokens), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    assert bool(texts) != bool(
+        tokens
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
     doc_embs, word_embs, _, _ = prepare_embeddings(tokens)
@@ -177,7 +190,9 @@ def embedding_document_keywords(
     tokens: Optional[List[List[str]]] = None,
     language: str = "slovenian",
 ):
-    assert bool(texts) != bool(tokens), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    assert bool(texts) != bool(
+        tokens
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
     doc_embs, word_embs, word2doc, doc2word = prepare_embeddings(tokens)
@@ -191,13 +206,17 @@ def enrichment_keywords(
     background_tokens: Optional[List[List[str]]] = None,
     language: str = "slovenian",
 ):
-    assert bool(texts) != bool(tokens), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    assert bool(texts) != bool(
+        tokens
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
-    assert bool(background_texts) != bool(
-        background_tokens
-    ), "Parametri naj vsebujejo zgolj besedilo (background text) ali zgolj žetone (background tokens)"
+    assert (
+        bool(background_texts) != bool(background_tokens),
+        "Parametri naj vsebujejo zgolj besedilo (background text) ali zgolj "
+        "žetone (background tokens)",
+    )
     if not background_tokens:
         background_tokens = _preprocess_corpus(texts, language)
 
@@ -221,7 +240,9 @@ def tfidf_keywords(
     tokens: Optional[List[List[str]]] = None,
     language: str = "slovenian",
 ):
-    assert bool(texts) != bool(tokens), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    assert bool(texts) != bool(
+        tokens
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
@@ -252,7 +273,9 @@ def text_rank_keywords(
     language: str = "slovenian",
     keyphrases: bool = False,
 ):
-    assert bool(texts) != bool(tokens), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    assert bool(texts) != bool(
+        tokens
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
