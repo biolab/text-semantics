@@ -11,7 +11,7 @@ import yaml
 import pandas as pd
 from requests_futures.sessions import FuturesSession
 
-from textsemantics.utils import (
+from textsemantics.utils.api_utils import (
     parse_pdf,
     parse_docx,
     parse_odt,

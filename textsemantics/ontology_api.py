@@ -6,7 +6,7 @@ import requests
 import yaml
 from requests_futures.sessions import FuturesSession
 
-from textsemantics.utils import list_files
+from textsemantics.utils.api_utils import list_files
 
 
 class OntologyAPI:
