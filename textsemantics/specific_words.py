@@ -178,7 +178,7 @@ def embedding_corpus_keywords(
 ):
     assert bool(texts) != bool(
         tokens
-    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
     doc_embs, word_embs, _, _ = prepare_embeddings(tokens)
@@ -192,7 +192,7 @@ def embedding_document_keywords(
 ):
     assert bool(texts) != bool(
         tokens
-    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
     doc_embs, word_embs, word2doc, doc2word = prepare_embeddings(tokens)
@@ -208,14 +208,14 @@ def enrichment_keywords(
 ):
     assert bool(texts) != bool(
         tokens
-    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
     assert (
         bool(background_texts) != bool(background_tokens),
         "Parametri naj vsebujejo zgolj besedilo (background text) ali zgolj "
-        "žetone (background tokens)",
+        "pojavnice (background tokens)",
     )
     if not background_tokens:
         background_tokens = _preprocess_corpus(texts, language)
@@ -242,7 +242,7 @@ def tfidf_keywords(
 ):
     assert bool(texts) != bool(
         tokens
-    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
@@ -275,7 +275,7 @@ def text_rank_keywords(
 ):
     assert bool(texts) != bool(
         tokens
-    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj žetone"
+    ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
 
