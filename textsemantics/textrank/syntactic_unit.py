@@ -1,8 +1,10 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
-This module contains implementation of SyntacticUnit class. It generally used while text cleaning.
-:class:`~gensim.summarization.syntactic_unit.SyntacticUnit` represents printable version of provided text.
+This module contains implementation of SyntacticUnit class. It is generally 
+used while text cleaning.
+:class:`~gensim.summarization.syntactic_unit.SyntacticUnit` represents printable 
+version of provided text.
 
 """
 
@@ -19,7 +21,7 @@ class SyntacticUnit(object):
     tag : str
         Tag of unit, optional.
     index : int
-        Index of sytactic unit in corpus, optional.
+        Index of syntactic unit in corpus, optional.
     score : float
         Score of synctatic unit, optional.
 

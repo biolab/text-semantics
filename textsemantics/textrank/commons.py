@@ -1,17 +1,18 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
 This module provides functions of creating graph from sequence of values and
-removing of unreachable nodes.
+removing unreachable nodes.
 
 
 Examples
 --------
 
-Create simple graph and add edges. Let's take a look at nodes.
+Create simple graph and add edges. Let's take a look at the nodes.
 
 .. sourcecode:: pycon
 
+    >>> from textsemantics.textrank.commons import build_graph, remove_unreachable_nodes
     >>> gg = build_graph(['Felidae', 'Lion', 'Tiger', 'Wolf'])
     >>> gg.add_edge(("Felidae", "Lion"))
     >>> gg.add_edge(("Felidae", "Tiger"))
@@ -41,7 +42,7 @@ def build_graph(sequence):
 
     Returns
     -------
-    :class:`~gensim.summarization.graph.Graph`
+    :class:`~textsemantics.textrank.graph.Graph`
         Created graph.
 
     """
@@ -57,7 +58,7 @@ def remove_unreachable_nodes(graph):
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
 
     """

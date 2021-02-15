@@ -1,16 +1,17 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
-This module contains abstract class IGraph represents graphs interface and
-class Graph (based on IGraph) which implements undirected graph.
+This module contains the abstract class IGraph, which represents the graph's
+interface and class Graph (based on IGraph), which implements undirected graph.
 
 Examples
 --------
 
-Create simple graph with 4 nodes.
+Create a simple graph with 4 nodes.
 
 .. sourcecode:: pycon
 
+    >>> from textsemantics.textrank.graph import Graph
     >>> g = Graph()
     >>> g.add_node('Felidae')
     >>> g.add_node('Lion')
@@ -48,7 +49,7 @@ class IGraph(object):
 
     @abstractmethod
     def __len__(self):
-        """Returns number of nodes in graph"""
+        """Returns the number of nodes in graph."""
         pass
 
     @abstractmethod
@@ -77,7 +78,7 @@ class IGraph(object):
 
     @abstractmethod
     def neighbors(self, node):
-        """Return all nodes that are directly accessible from given node.
+        """Returns all nodes that are directly accessible from given node.
 
         Parameters
         ----------
@@ -160,7 +161,7 @@ class IGraph(object):
 
     @abstractmethod
     def edge_weight(self, edge):
-        """Returns weigth of given edge.
+        """Returns the weigth of given edge.
 
         Parameters
         ----------

@@ -1,5 +1,5 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
 This module contains functions and processors used for processing text,
 extracting sentences from text, working with acronyms and abbreviations.
@@ -67,7 +67,7 @@ def replace_with_separator(text, separator, regexs):
 
 def merge_syntactic_units(original_units, filtered_units, tags=None):
     """Process given sentences and its filtered (tokenized) copies into
-    :class:`~gensim.summarization.syntactic_unit.SyntacticUnit`. Also adds tags if they are provided to produced units.
+    :class:`~textsemantics.textrank.syntactic_unit.SyntacticUnit`. Also adds tags if they are provided to produced units.
 
     Parameters
     ----------
@@ -76,11 +76,11 @@ def merge_syntactic_units(original_units, filtered_units, tags=None):
     filtered_units : list
         List of tokenized sentences.
     tags : list of str, optional
-        List of strings used as tags for each unit. None as deafault.
+        List of strings used as tags for each unit. None as default.
 
     Returns
     -------
-    list of :class:~gensim.summarization.syntactic_unit.SyntacticUnit
+    list of :class:~textsemantics.textrank.syntactic_unit.SyntacticUnit
         List of syntactic units (sentences).
 
     """
@@ -131,7 +131,7 @@ def clean_text_by_word(text, deacc=True):
     Returns
     -------
     dict
-        Words as keys, :class:`~gensim.summarization.syntactic_unit.SyntacticUnit` as values.
+        Words as keys, :class:`~textsemantics.textrank.syntactic_unit.SyntacticUnit` as values.
 
     Example
     -------
@@ -174,11 +174,11 @@ def tokenize_by_word(text, deacc):
     .. sourcecode:: pycon
 
         >>> from gensim.summarization.textcleaner import tokenize_by_word
-        >>> g = tokenize_by_word('Veni. Vedi. Vici.')
+        >>> g = tokenize_by_word('Veni. Vidi. Vici.')
         >>> print(next(g))
         veni
         >>> print(next(g))
-        vedi
+        vidi
         >>> print(next(g))
         vici
 

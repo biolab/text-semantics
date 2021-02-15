@@ -1,5 +1,5 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
 This module calculate PageRank [1]_ based on wordgraph.
 
@@ -13,8 +13,8 @@ Calculate Pagerank for words
 
 .. sourcecode:: pycon
 
-    >>> from gensim.summarization.keywords import get_graph
-    >>> from gensim.summarization.pagerank_weighted import pagerank_weighted
+    >>> from textsemantics.textrank.keywords import get_graph
+    >>> from textsemantics.textrank.pagerank_weighted import pagerank_weighted
     >>> graph = get_graph("The road to hell is paved with good intentions.")
     >>> # result will looks like {'good': 0.70432858653171504, 'hell': 0.051128871128006126, ...}
     >>> result = pagerank_weighted(graph)
@@ -23,7 +23,7 @@ Build matrix from graph
 
 .. sourcecode:: pycon
 
-    >>> from gensim.summarization.pagerank_weighted import build_adjacency_matrix
+    >>> from textsemantics.textrank.pagerank_weighted import build_adjacency_matrix
     >>> build_adjacency_matrix(graph).todense()
     matrix([[ 0.,  0.,  0.,  0.,  0.],
             [ 0.,  0.,  1.,  0.,  0.],
@@ -47,7 +47,7 @@ def pagerank_weighted(graph, damping=0.85):
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
     damping : float
         Damping parameter, optional
@@ -76,10 +76,10 @@ def build_adjacency_matrix(graph, coeff=1):
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
     coeff : float
-        Matrix values coefficient, optonal.
+        Matrix values coefficient, optional.
 
     Returns
     -------
@@ -137,11 +137,11 @@ def principal_eigenvector(a):
 
 def process_results(graph, vec):
     """Get `graph` nodes and corresponding absolute values of provided eigenvector.
-    This function is helper for :func:`~gensim.summarization.pagerank_weighted.pagerank_weighted`
+    This function is helper for :func:`~textsemantics.textrank.pagerank_weighted.pagerank_weighted`
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
     vec : numpy.ndarray, shape = [n, ]
         Given eigenvector, n is number of nodes of `graph`.

@@ -1,5 +1,5 @@
 """
-Module was removed form the gensim - this is a fixed copy
+Module was removed from gensim - this is a fixed copy.
 
 This module contains functions to find keywords of the text and building graph
 on tokens from text.
@@ -16,8 +16,8 @@ Extract keywords from text
     ... generation (frequently from formal, machine-readable logical forms),
     ... connecting language and machine perception, dialog systems, or some
     ... combination thereof.'''
-    >>> keywords(text).split('\\n')
-    [u'natural language', u'machine', u'frequently']
+    >>> keywords(text).split('\n')
+    ['natural language', 'machine', 'frequently']
 
 
 Notes
@@ -81,7 +81,7 @@ def _get_words_for_graph(tokens, pos_filter=None):
     Raises
     ------
     ValueError
-        If include and exclude filters ar not empty at the same time.
+        If include and exclude filters are not empty at the same time.
 
     """
     if pos_filter is None:
@@ -102,7 +102,7 @@ def _get_words_for_graph(tokens, pos_filter=None):
 
 
 def _get_first_window(split_text):
-    """Get first :const:`~gensim.parsing.keywords.WINDOW_SIZE` tokens from given `split_text`.
+    """Get first :const:`~textsemantics.textrank.keywords.WINDOW_SIZE` tokens from given `split_text`.
 
     Parameters
     ----------
@@ -112,18 +112,18 @@ def _get_first_window(split_text):
     Returns
     -------
     list of str
-        First :const:`~gensim.parsing.keywords.WINDOW_SIZE` tokens.
+        First :const:`~textsemantics.textrank.keywords.WINDOW_SIZE` tokens.
 
     """
     return split_text[:WINDOW_SIZE]
 
 
 def _set_graph_edge(graph, tokens, word_a, word_b):
-    """Sets an edge between nodes named word_a and word_b if they exists in `tokens` and `graph`, inplace.
+    """Sets an edge between nodes named word_a and word_b if they exist in `tokens` and `graph`, inplace.
 
     Parameters
     ----------
-    graph : :class:~gensim.summarization.graph.Graph
+    graph : :class:~textsemantics.textrank.graph.Graph
         Given graph.
     tokens : dict
         Original units (words) as keys and processed units (tokens) as values.
@@ -143,17 +143,17 @@ def _set_graph_edge(graph, tokens, word_a, word_b):
 
 
 def _process_first_window(graph, tokens, split_text):
-    """Sets an edges between nodes taken from first :const:`~gensim.parsing.keywords.WINDOW_SIZE`
+    """Sets edges between nodes taken from first :const:`~textsemantics.textrank.keywords.WINDOW_SIZE`
     words of `split_text` if they exist in `tokens` and `graph`, inplace.
 
     Parameters
     ----------
-    graph : :class:~gensim.summarization.graph.Graph
+    graph : :class:~textsemantics.textrank.graph.Graph
         Given graph.
     tokens : dict
         Original units (words) as keys and processed units (tokens) as values.
     split_text : list of str
-        Splitted text.
+        Split text.
 
     """
     first_window = _get_first_window(split_text)
@@ -167,7 +167,7 @@ def _init_queue(split_text):
     Parameters
     ----------
     split_text : list of str
-        Splitted text.
+        Split text.
 
     Returns
     -------
@@ -188,7 +188,7 @@ def _process_word(graph, tokens, queue, word):
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
     tokens : dict
         Original units (words) as keys and processed units (tokens) as values.
@@ -220,17 +220,17 @@ def _update_queue(queue, word):
 
 def _process_text(graph, tokens, split_text):
     """Process `split_text` by updating given `graph` with new eges between nodes
-    if they exists in `tokens` and `graph`.
-    Words are taken from `split_text` with window size :const:`~gensim.parsing.keywords.WINDOW_SIZE`.
+    if they exist in `tokens` and `graph`.
+    Words are taken from `split_text` with window size :const:`~textsemantics.textrank.keywords.WINDOW_SIZE`.
 
     Parameters
     ----------
-    graph : :class:`~gensim.summarization.graph.Graph`
+    graph : :class:`~textsemantics.textrank.graph.Graph`
         Given graph.
     tokens : dict
         Original units (words) as keys and processed units (tokens) as values.
     split_text : list of str
-        Splitted text.
+        Split text.
 
     """
     queue = _init_queue(split_text)
@@ -262,17 +262,17 @@ def _queue_iterator(queue):
 
 
 def _set_graph_edges(graph, tokens, split_text):
-    """Updates given `graph` by setting eges between nodes if they exists in `tokens` and `graph`.
-    Words are taken from `split_text` with window size :const:`~gensim.parsing.keywords.WINDOW_SIZE`.
+    """Updates given `graph` by setting edges between nodes if they exists in `tokens` and `graph`.
+    Words are taken from `split_text` with window size :const:`~textsemantics.textrank.keywords.WINDOW_SIZE`.
 
     Parameters
     ----------
-    graph : :class:~gensim.summarization.graph.Graph
+    graph : :class:~textsemantics.textrank.graph.Graph
         Given graph.
     tokens : dict
         Original units (words) as keys and processed units (tokens) as values.
     split_text : list of str
-        Splitted text.
+        Split text.
 
     """
     _process_first_window(graph, tokens, split_text)
@@ -297,7 +297,7 @@ def _extract_tokens(lemmas, scores, ratio, words):
     Returns
     -------
     list of (float, str)
-        Scores and corresponded lemmas.
+        Scores and corresponding lemmas.
 
     """
     lemmas.sort(key=lambda s: scores[s], reverse=True)
@@ -372,14 +372,14 @@ def _strip_word(word, deacc):
 
 
 def _get_combined_keywords(_keywords, split_text, deacc):
-    """Get most scored words (`_keywords`) contained in `split_text` and it's combinations.
+    """Get most scored words (`_keywords`) contained in `split_text` and its combinations.
 
     Parameters
     ----------
     _keywords : dict
         Keywords as keys and its scores as values.
     split_text : list of str
-        Splitted text.
+        Split text.
 
     Returns
     -------
@@ -478,9 +478,9 @@ def keywords(text, ratio=0.2, words=None, split=False, scores=False, pos_filter=
     words : int, optional
         Number of returned words.
     split : bool, optional
-        Whether split keywords if True.
+        If True, split keywords.
     scores : bool, optional
-        Whether score of keyword.
+        If True, return keywords with scores.
     pos_filter : tuple, optional
         Part of speech filters.
     lemmatize : bool, optional
@@ -495,7 +495,7 @@ def keywords(text, ratio=0.2, words=None, split=False, scores=False, pos_filter=
     result: list of str
         If `split`, keywords only **OR**
     result: str
-        Keywords, joined by endl.
+        Keywords, joined by endline.
 
     """
     # Gets a dict of word -> lemma
