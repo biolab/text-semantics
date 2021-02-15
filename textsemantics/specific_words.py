@@ -259,11 +259,16 @@ def tfidf_keywords(
 
 
 def yake_keywords(
-    texts: List[str], language: str = "slovenian", max_len: int = 1
+    texts: List[str],
+    language: str = "slovenian",
+    max_len: int = 1,
+    stopwords: List[str] = None,
 ):
     # yake uses lancodes instead of full language name
     lg = langcodes.find(language).language
-    yake_extractor = yake.KeywordExtractor(lan=lg, n=max_len)
+    yake_extractor = yake.KeywordExtractor(
+        lan=lg, n=max_len, stopwords=stopwords
+    )
     return [yake_extractor.extract_keywords(txt) for txt in texts]
 
 
