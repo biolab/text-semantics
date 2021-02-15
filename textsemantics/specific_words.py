@@ -24,8 +24,8 @@ from lemmagen import (
 from lemmagen.lemmatizer import Lemmatizer
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-from gensim.summarization import keywords as gensim_kw
 
+from textsemantics.textrank import keywords as textrank_kw
 from textsemantics.utils import cos_sim
 from textsemantics.utils.udpipe import get_udipipe_lematizer
 from textsemantics.utils.word_enrichment import hypergeom_p_values
@@ -276,6 +276,7 @@ def text_rank_keywords(
     texts: Optional[List[str]] = None,
     tokens: Optional[List[List[str]]] = None,
     language: str = "slovenian",
+    num_words: int = 20,
     keyphrases: bool = False,
 ):
     assert bool(texts) != bool(
@@ -285,7 +286,9 @@ def text_rank_keywords(
         tokens = _preprocess_corpus(texts, language)
 
     def text_rank(tokens):
-        kw = gensim_kw(" ".join(tokens), words=20, scores=True)
+        kw = textrank_kw(
+            " ".join(tokens), words=num_words, scores=True, deacc=False
+        )
         if not keyphrases:
             kw = [(x, sc) for w, sc in kw for x in w.split()]
         return kw
