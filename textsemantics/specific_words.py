@@ -46,6 +46,19 @@ lemmagen_languages = {
     "estonian": DICTIONARY_ESTONIAN,
 }
 
+ft_languages = {
+    "slovenian": 'sl',
+    "english": 'en',
+    "serbian": 'sr',
+    "italian": 'it',
+    "romanian": 'ro',
+    "french": 'fr',
+    "german": 'de',
+    "spanish": 'es',
+    "czech": 'cs',
+    "bulgarian": 'bg',
+}
+
 
 def _get_lemmatizer(language: str) -> Callable:
     if language in lemmagen_languages:
@@ -85,11 +98,11 @@ def _preprocess_corpus(corpus: List[str], language: str) -> List[List[str]]:
 
 
 def prepare_embeddings(
-    tokens_list: List[List[str]],
+    tokens_list: List[List[str]], model_name: str = 'sl'
 ) -> Tuple[
     np.ndarray, Dict[str, np.ndarray], Dict[str, Set[int]], List[Set[str]]
 ]:
-    embedder = WordEmbeddings("sl")
+    embedder = WordEmbeddings(model_name)
     word_embs = {}
     doc_embs = list()
     doc2word = list()
@@ -171,6 +184,11 @@ def find_document_words(
     return doc_desc
 
 
+def _get_model_name(language: str) -> str:
+    lower = language.lower()
+    return ft_languages[lower] if lower in ft_languages else lower
+
+
 def embedding_corpus_keywords(
     texts: Optional[List[str]] = None,
     tokens: Optional[List[List[str]]] = None,
@@ -181,7 +199,7 @@ def embedding_corpus_keywords(
     ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
-    doc_embs, word_embs, _, _ = prepare_embeddings(tokens)
+    doc_embs, word_embs, _, _ = prepare_embeddings(tokens, _get_model_name(language))
     return find_corpus_words(doc_embs, word_embs)
 
 
@@ -195,7 +213,7 @@ def embedding_document_keywords(
     ), "Parametri naj vsebujejo zgolj besedilo ali zgolj pojavnice"
     if not tokens:
         tokens = _preprocess_corpus(texts, language)
-    doc_embs, word_embs, word2doc, doc2word = prepare_embeddings(tokens)
+    doc_embs, word_embs, word2doc, doc2word = prepare_embeddings(tokens, _get_model_name(language))
     return find_document_words(doc_embs, word_embs, word2doc, doc2word)
 
 
