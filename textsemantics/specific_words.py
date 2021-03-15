@@ -106,10 +106,13 @@ def prepare_embeddings(
             word2doc[token.text].add(i)
             doc2word[i].add(token.text)
 
-            emb = token.embedding.cpu().detach().numpy()
-            doc_emb += emb / len(tokens)
             if token.text not in word_embs:
+                emb = token.embedding.cpu().detach().numpy()
                 word_embs[token.text] = emb
+            else:
+                emb = word_embs[token.text]
+
+            doc_emb += emb / len(tokens)
         doc_embs.append(doc_emb)
 
     doc_embs = np.array(doc_embs)
