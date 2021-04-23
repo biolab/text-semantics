@@ -23,14 +23,12 @@ import requests
 import yaml
 from bs4 import BeautifulSoup  # latest version bs4
 from selenium import webdriver
-# get from conda
+# get from conda: conda install -c conda-forge python-chromedriver-binary
 try:
     import chromedriver_binary
 except ImportError:
-    print(f"Cannot import {chromedriver_binary}")
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support import expected_conditions as EC
-# from selenium.webdriver.support.wait import WebDriverWait
+    print("Cannot import chromedriver_binary")
+
 
 BASE_URL = "https://predlagam.vladi.si/"
 CATEGORIES = (
@@ -132,10 +130,7 @@ def get_comments(soup):
 
 def scrape_single_proposal(proposal_url, browser):
     browser.get(proposal_url)
-    # todo: handle comments
-    # WebDriverWait(browser, 3).until_not(
-    #     EC.text_to_be_present_in_element((By.ID, "comments"), "Nalagam ...")
-    # )
+
     html = browser.page_source
     if browser.current_url == "https://predlagam.vladi.si/":
         # ids with missing proposal throw user to the default site
@@ -158,7 +153,6 @@ def scrape_single_proposal(proposal_url, browser):
     proposal_type = get_proposal_type(soup)
     number_comments = get_number_comments(soup)
     number_views = get_number_views(soup)
-    # comments = get_comments(soup)
 
     return {
         "id": proposal_id,
@@ -176,7 +170,6 @@ def scrape_single_proposal(proposal_url, browser):
         "response date": response_date,
         "number comments": number_comments,
         "number views": number_views,
-        # "comments": comments,
     }
 
 
@@ -186,22 +179,9 @@ def save_proposal(proposal, prop_dir):
     with open(os.path.join(prop_dir, text_file), "w") as f:
         f.write(proposal["text"])
 
-    response_file = None
-    if proposal["response"]:
-        response_file = f"{proposal['id']}-response.txt"
-        with open(os.path.join(prop_dir, response_file), "w") as f:
-            f.write(proposal["response"])
-
-    comment_file = None
-    if proposal.get("comments"):
-        comment_file = f"{proposal['id']}-comments.txt"
-        with open(os.path.join(prop_dir, comment_file), "w") as f:
-            f.write(proposal["comments"])
-
     proposal = proposal.copy()
-    proposal["text"] = text_file
-    proposal["response"] = response_file
-    # proposal["comments"] = comment_file
+    proposal["Text file"] = text_file
+    proposal.pop("text")
 
     with open(os.path.join(prop_dir, f"{proposal['id']}.yaml"), "w") as f:
         yaml.dump(proposal, f, default_flow_style=False)
@@ -228,10 +208,9 @@ def main(chromium_driver_path):
         os.mkdir(proposals_dir)
 
     print("---Scrapping---")
-    # kwargs = [chromium_driver_path] if chromium_driver_path else []
     op = webdriver.ChromeOptions()
     op.add_argument('headless')
-    browser = webdriver.Chrome(options=op)
+    browser = webdriver.Chrome(options=op, executable_path=chromium_driver_path)
     for i in range(max_id, 0, -1):
         t = time.time()
         url = urljoin(BASE_URL + "predlog/", str(i))
