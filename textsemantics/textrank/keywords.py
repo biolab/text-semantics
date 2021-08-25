@@ -532,13 +532,3 @@ def keywords(text, ratio=0.2, words=None, split=False, scores=False, pos_filter=
     combined_keywords = _get_combined_keywords(keywords, text.split(), deacc)
 
     return _format_results(keywords, combined_keywords, split, scores)
-
-
-if __name__ == "__main__":
-    from textsemantics.textrank import keywords
-    text = '''Challenges in natural language processing frequently involve
-     speech recognition, natural language understanding, natural language
-     generation (frequently from formal, machine-readable logical forms),
-     connecting language and machine perception, dialog systems, or some
-     combination thereof.'''
-    print(keywords(text).split('\n'))
