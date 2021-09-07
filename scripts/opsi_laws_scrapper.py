@@ -52,7 +52,7 @@ def extract_laws():
     df = pd.DataFrame(data)
     df = df[df["idPredpisa"].str.contains('|'.join(TYPES))]
     print("picklking:", len(df))
-    df.to_pickle(PICKLE_NAME)  # todo: remove limit
+    df.to_pickle(PICKLE_NAME)
 
 
 def load_pickled_data():
