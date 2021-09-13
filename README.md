@@ -1,5 +1,5 @@
 ![](meetings/logos.png)
-Projekt je sofinanciran s strani Evropske Unije.
+Projekt sofinancira Evropska Unija.
 
 # Semantčni analizator
 
