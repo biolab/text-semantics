@@ -27,8 +27,12 @@ možnosti kombiniranja razvitih metod.
 Skupnost je vzpostavljena na tem repozitoriju v [zavihku Issues](https://github.com/biolab/text-semantics/issues). Uporabnik, ki želi sodelovati v skupnosti, lahko:
 
 - Pregleduje obstoječe razprave, ki jih najde na [zavihku Issues](https://github.com/biolab/text-semantics/issues).
-- Komentira in sodeluje v obstoječih razpravah. To stori tako, da klikne na obstoječo razpravo v seznamu, in v tekstovnem polju na dnu okna doda svoj komentar.
-- Odpre novo razpravo. Za odpiranje nove razprave 1) uporabi gumb New issue v zgornjem desnem kotu strani, 2) vpiše željeni komentar v tekstovno polje in 3) objavi svoj komentar s klikom na gumb Submit new issue.
+- Komentira in sodeluje v obstoječih razpravah. To stori tako, da klikne na obstoječo 
+  razpravo v seznamu, in v tekstovnem polju na dnu okna doda svoj komentar. 
+- Odpre novo razpravo. Za odpiranje nove razprave 1) uporabi gumb New issue v zgornjem 
+  desnem kotu strani, 2) vnese naslov, ki naj bo v primeru, da ne gre za izroček oblike
+  `Ostalo: <pomenjiv naslov>`, 3) vpiše željeni komentar v tekstovno polje in 4) 
+  objavi svoj komentar s klikom na gumb Submit new issue.
 
 Za komentiranje in odpiranje razprave mora uporabnik ustvariti račun na platformi GitHub.
 
