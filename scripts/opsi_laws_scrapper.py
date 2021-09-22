@@ -67,6 +67,10 @@ def remove_duplicates(df):
         # else replace regulations with newer version -
         # newer is one that changes s and have highest npb number
         new_s = df_chng.iloc[df_chng["npbNum"].argmax()]
+        while new_s["vsebina"] is None:
+            print(new_s["idPredpisa"], new_s["npbNum"])
+            df_chng = df_chng[df_chng["npbNum"] != new_s["npbNum"]]
+            new_s = df_chng.iloc[df_chng["npbNum"].argmax()]
         new_s["idPredpisa"] = s["idPredpisa"]
         return new_s
 
@@ -132,6 +136,13 @@ def print_metadata(row):
 
 skip = [
     ("ZAKO525", 0),  # law is an image
+    # not really laws - wrong labels
+    ("ZAKO4611", 0),
+    ("ZAKO5516", 0),
+    ("ZAKO4295", 0),
+    ("ZAKO7575", 0),
+    ("ZAKO8188", 0),
+    ("ZAKO7769", 0),
 ]
 
 
@@ -176,7 +187,7 @@ def extract_data(df):
 
     content = extract_content_columns(df)
     df = df[df.columns.difference(content.columns)]
-    df = pd.concat((df, content), axis=1)
+    df = pd.concat((df, content), axis=1, join="inner")
     return df
 
 
@@ -190,8 +201,8 @@ if __name__ == "__main__":
 
     df = pd.read_pickle(PICKLE_NAME)
     df = remove_duplicates(df)
-    print(len(df))
     df = extract_data(df)
+    print(len(df))
 
     df.to_csv(RESULTING_FILE_NAME, index=False)
     print(f"total time = {time.time() - t} s")
