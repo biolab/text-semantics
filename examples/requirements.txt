@@ -17,3 +17,8 @@ yake
 umap-learn
 sentence-transformers
 pytextrank
+torch
+transformers @ git+https://github.com/huggingface/transformers@144cea253f80bcd9b3c596d12902183c77ceceae
+datasets
+sentence-transformers
+spacy
