@@ -118,7 +118,7 @@ class TransformerKeywordExtractor:
         ]
 
         all_keywords = list()
-        for example, pred, prob in zip(dataset_d['tokens'], predictions, probabilities):
+        for text_idx, (example, pred, prob) in enumerate(zip(dataset_d['tokens'], predictions, probabilities)):
             keywords = list()
             keyword_probabilities = list()
             i = 0
@@ -128,7 +128,8 @@ class TransformerKeywordExtractor:
                     current_prob = prob[i]
                     i = i + 1
                     while i < len(pred) and pred[i] == 'I':
-                        current_keyword += ' ' + example[i]
+                        current_keyword += (example[i] if current_keyword + example[i] in
+                                            texts[text_idx] else ' ' + example[i])
                         current_prob *= prob[i]
                         i += 1
                     else:
