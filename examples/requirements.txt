@@ -1,4 +1,3 @@
-text-semantics
 owlready2
 nltk
 lemmagen
@@ -14,6 +13,12 @@ seaborn
 tika
 gensim
 -e git://github.com/zelandiya/RAKE-tutorial.git#egg=nlp-rake
--e git://github.com/LIAAD/yake#egg=yake
+yake
 umap-learn
 sentence-transformers
+pytextrank
+torch
+transformers @ git+https://github.com/huggingface/transformers@144cea253f80bcd9b3c596d12902183c77ceceae
+datasets
+sentence-transformers
+spacy
