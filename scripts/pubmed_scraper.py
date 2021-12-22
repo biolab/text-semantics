@@ -12,11 +12,11 @@ from xml.etree import ElementTree
 import pandas as pd
 import requests
 
-term = "longevity[MeSH%20Terms]"
-retmax = 100000  # max number of results
+term = "covid-19[MeSH%20Terms]"
+retmax = 12000  # max number of results
 search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={term}&retmax={retmax}"
 fetch_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={ids}&retmode=xml"
-restult_dir = "pubmed_longevity"
+restult_dir = "pubmed_covid19"
 
 
 def get_ids() -> List[str]:
@@ -122,7 +122,9 @@ def fetch_data(ids: List[str]) -> List[Dict]:
             abstract = "\n".join(
                 "".join(a.itertext()) for a in abstract.findall("AbstractText")
             )
-
+            if len(abstract) < 100:
+                print("skipped", id_)
+                continue
             data = {
                 "title": get_title(article),
                 "abstract": abstract,
@@ -168,7 +170,7 @@ print("num all results:", len(all_ids))
 print("num all fetched articles:", len(data))
 
 df = pd.DataFrame(data)
-df.to_pickle("pubmed_longevity.pkl")
+df.to_pickle(f"{restult_dir}.pkl")
 df["abstract_file"] = save_data(df)
 df = df.drop("abstract", axis=1)
 df.to_csv(fr"{restult_dir}/metadata.csv", index=False)
