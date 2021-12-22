@@ -1,6 +1,6 @@
 from collections import defaultdict
+from string import punctuation
 
-import nltk
 from nltk.tokenize import RegexpTokenizer
 from datasets import Dataset
 from transformers import (
@@ -140,11 +140,15 @@ class TransformerKeywordExtractor:
             idx = torch.argsort(torch.tensor(keyword_probabilities), descending=True)
             keywords = [keywords[i] for i in idx]
             probabilities = [keyword_probabilities[i] for i in idx]
+            
+            def strip_punctuation(kw):
+                return kw.strip(punctuation)
 
             def deduplicate(kws, probs):
                 new_kws = list()
                 new_probs = list()
                 for kw, p in zip(kws, probs):
+                    kw = strip_punctuation(kw)
                     if kw not in new_kws:
                         new_kws.append(kw)
                         new_probs.append(p)
