@@ -16,11 +16,11 @@
 		<link id="4" source_node_id="3" sink_node_id="5" source_channel="Selected documents" sink_channel="Data" enabled="true" />
 	</links>
 	<annotations>
-		<text id="0" type="text/plain" rect="(252.0, 314.0, 267.0, 74.0)" font-family=".AppleSystemUIFont" font-size="14">Load sample ontology from the web repository and select part of the tree connected with traffic.</text>
-		<text id="1" type="text/plain" rect="(41.0, 8.0, 156.0, 46.0)" font-family=".AppleSystemUIFont" font-size="14">Load law documents from web repository</text>
-		<text id="2" type="text/plain" rect="(425.0, 50.0, 164.0, 80.0)" font-family=".AppleSystemUIFont" font-size="14">Score document with selected words from ontology
+		<text id="0" type="text/plain" rect="(252.0, 314.0, 267.0, 74.0)" font-family=".AppleSystemUIFont" font-size="14">Naloži ontologijo iz strežniškega repozitorija. Izberemo del ontologije,  ki se nanaša na promet
 </text>
-		<text id="3" type="text/plain" rect="(518.0, 267.0, 212.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Display the document map and render points based on the similarity score</text>
+		<text id="1" type="text/plain" rect="(41.0, 8.0, 156.0, 46.0)" font-family=".AppleSystemUIFont" font-size="14">Naloži zakone o registrih</text>
+		<text id="2" type="text/plain" rect="(425.0, 50.0, 164.0, 80.0)" font-family=".AppleSystemUIFont" font-size="14">Točkuje dokumente glede na izbrane besede iz ontologije</text>
+		<text id="3" type="text/plain" rect="(518.0, 267.0, 212.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Prikaže dokumentno mapo zakonov,  pri tem izriše točke glede na točkovanje iz Score Documents</text>
 		<arrow id="4" start="(98.99999999999999, 50.99999999999999)" end="(114.99999999999997, 83.0)" fill="#C1272D" />
 		<arrow id="5" start="(344.0, 320.0)" end="(363.0, 293.0)" fill="#C1272D" />
 		<arrow id="6" start="(572.0, 271.0)" end="(591.0, 234.0)" fill="#C1272D" />
@@ -31,7 +31,7 @@
 		<properties node_id="0" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'include_children': True, 'ontology': ({'vlada': ({'promet': ({'vožnja': ({}, False), 'cesta': ({}, False), 'vozilo': ({'avtomobil': ({}, False), 'voznik': ({}, False)}, False)}, True), 'sociala': ({'pokojnina': ({}, False), 'zavarovanje': ({}, False), 'prihodek': ({}, False), 'študent': ({}, False)}, False), 'podjetje': ({'davek': ({}, False), 'storitev': ({}, False), 'registracija': ({}, False), 'zaposlitev': ({'zaposlovalec': ({}, False), 'delavec': ({}, False), 'plača': ({}, False)}, False)}, False), 'zdravstvo': ({'zavarovanje': ({}, False)}, False), 'nepremičnina': ({'lastnik': ({}, False), 'davek': ({}, False)}, False), 'državljan': ({}, False)}, False)}, False), 'ontology_index': 0, 'ontology_library': [{'name': 'predlogi-vladi-ontologija.json', 'ontology': {'vlada': {'promet': {'vožnja': {}, 'cesta': {}, 'vozilo': {'avtomobil': {}, 'voznik': {}}}, 'sociala': {'pokojnina': {}, 'zavarovanje': {}, 'prihodek': {}, 'študent': {}}, 'podjetje': {'davek': {}, 'storitev': {}, 'registracija': {}, 'zaposlitev': {'zaposlovalec': {}, 'delavec': {}, 'plača': {}}}, 'zdravstvo': {'zavarovanje': {}}, 'nepremičnina': {'lastnik': {}, 'davek': {}}, 'državljan': {}}}, 'filename': '/var/folders/66/phh6jjq15b1cs5p00d8tjd600000gn/T/tmpkgg3d0e0/predlogi-vladi-ontologija.json', 'error_msg': None}], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07\xcb\x00\x00\x00\xf5\x00\x00\x0b\x1d\x00\x00\x03h\x00\x00\x07\xcb\x00\x00\x01\x11\x00\x00\x0b\x1d\x00\x00\x03h\x00\x00\x00\x01\x00\x00\x00\x00\x07\x80\x00\x00\x07\xcb\x00\x00\x01\x11\x00\x00\x0b\x1d\x00\x00\x03h', '__version__': 1, 'context_settings': []}</properties>
 		<properties node_id="1" format="literal">{'controlAreaVisible': True, 'currentPath': None, 'lemma_cb': True, 'ner_cb': False, 'pos_cb': False, 'recent_paths': [], 'recent_urls': ['http://file.biolab.si/text-semantics/data/zakoni-o-registrih/', 'http://file.biolab.si/text-semantics/data/proposals-to-government-1k/', 'http://file.biolab.si/text-semantics/data/predlogi-vladi-1k/'], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\xc4\x00\x00\x01-\x00\x00\x03\x92\x00\x00\x02X\x00\x00\x01\xc4\x00\x00\x01I\x00\x00\x03\x92\x00\x00\x02X\x00\x00\x00\x00\x02\x00\x00\x00\x05\xa0\x00\x00\x01\xc4\x00\x00\x01I\x00\x00\x03\x92\x00\x00\x02X', 'source': 1, '__version__': 1}</properties>
 		<properties node_id="2" format="literal">{'autocommit': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07A\x00\x00\x00y\x00\x00\nt\x00\x00\x02t\x00\x00\x07A\x00\x00\x00\x95\x00\x00\nt\x00\x00\x02t\x00\x00\x00\x01\x00\x00\x00\x00\x07\x80\x00\x00\x07A\x00\x00\x00\x95\x00\x00\nt\x00\x00\x02t', 'storedsettings': {'name': '', 'preprocessors': [('preprocess.transform', {}), ('preprocess.tokenize', {}), ('preprocess.normalize', {'lemmagen_language': 'Slovenian', 'method': 4, 'snowball_language': 'English', 'udpipe_language': 'English', 'udpipe_tokenizer': False}), ('preprocess.filter', {'abs_end': 10, 'abs_start': 1, 'freq_type': 0, 'incl_num': False, 'invalidated': False, 'language': 'Slovene', 'lx_list': [], 'lx_path': None, 'methods': [0, 2, 4], 'n_tokens': 102, 'pattern': '\\.|,|:|;|!|\\?|\\(|\\)|\\||\\+|\\\'|\\"|‘|’|“|”|\\\'|\\’|…|\\-|–|—|\\$|&amp;|\\*|&gt;|&lt;|\\/|\\[|\\]', 'pos_tags': 'NOUN,VERB', 'rel_end': 0.9, 'rel_start': 0.1, 'sw_list': [], 'sw_path': None})]}, '__version__': 3}</properties>
-		<properties node_id="3" format="pickle">gASVgI4AAAAAAAB9lCiMC2FnZ3JlZ2F0aW9ulEsBjAthdXRvX2NvbW1pdJSIjBJjb250cm9sQXJl
+		<properties node_id="3" format="pickle">gASVpI4AAAAAAAB9lCiMC2FnZ3JlZ2F0aW9ulEsBjAthdXRvX2NvbW1pdJSIjBJjb250cm9sQXJl
 YVZpc2libGWUiIwSZW1iZWRkaW5nX2xhbmd1YWdllEsAjBRlbWJlZGRpbmdfc2ltaWxhcml0eZSJ
 jBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAWg////QQAACOYAAAFQAAAFoP///10A
 AAjmAAABUAAAAAEAAAAAB4AAAAWg////XQAACOYAAAFQlIwRc29ydF9jb2x1bW5fb3JkZXKUSwGM
@@ -39,21 +39,21 @@ A3NpcJSMDl91bnBpY2tsZV9lbnVtlJOUjAxQeVF0NS5RdENvcmWUjAlTb3J0T3JkZXKUSwGHlFKU
 hpSMD3dvcmRfYXBwZWFyYW5jZZSJjA53b3JkX2ZyZXF1ZW5jeZSIjAtfX3ZlcnNpb25fX5RLAYwQ
 Y29udGV4dF9zZXR0aW5nc5RdlCiMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5Qp
 gZR9lCiMBnZhbHVlc5R9lCiMCm5fc2VsZWN0ZWSUSwNK/v///4aUjApzZWxfbWV0aG9klEsBSv7/
-//+GlIwNc2VsZWN0ZWRfcm93c5RdlChLYEuQS8BLTksdTWABS0BLbUu9S0xLH0t/S25L0EszTTUB
-SzFL1Uv9TQABTRQBSxZLIEs+S+pNKwFLcEt5S6RNLAFLOEs8S3JLhkuHS45LlkutS8VLy00GAU0K
-AU0qAU0tAU0/AU1HAUsASwFLAksDSwRLBUsGSwdLCEsJSwpLC0sMSw1LDksPSxBLEUsSSxNLFEsV
-SxdLGEsZSxpLG0scSx5LIUsiSyNLJEslSyZLJ0soSylLKksrSyxLLUsuSy9LMEsySzRLNUs2SzdL
-OUs6SztLPUs/S0FLQktDS0RLRUtGS0dLSEtJS0pLS0tNS09LUEtRS1JLU0tUS1VLVktXS1hLWUta
-S1tLXEtdS15LX0thS2JLY0tkS2VLZktnS2hLaUtqS2tLbEtvS3FLc0t0S3VLdkt3S3hLekt7S3xL
-fUt+S4BLgUuCS4NLhEuFS4hLiUuKS4tLjEuNS49LkUuSS5NLlEuVS5dLmEuZS5pLm0ucS51Lnkuf
-S6BLoUuiS6NLpUumS6dLqEupS6pLq0usS65Lr0uwS7FLskuzS7RLtUu2S7dLuEu5S7pLu0u8S75L
-v0vBS8JLw0vES8ZLx0vIS8lLykvMS81LzkvPS9FL0kvTS9RL1kvXS9hL2UvaS9tL3EvdS95L30vg
-S+FL4kvjS+RL5UvmS+dL6EvpS+tL7EvtS+5L70vwS/FL8kvzS/RL9Uv2S/dL+Ev5S/pL+0v8S/5L
-/00BAU0CAU0DAU0EAU0FAU0HAU0IAU0JAU0LAU0MAU0NAU0OAU0PAU0QAU0RAU0SAU0TAU0VAU0W
-AU0XAU0YAU0ZAU0aAU0bAU0cAU0dAU0eAU0fAU0gAU0hAU0iAU0jAU0kAU0lAU0mAU0nAU0oAU0p
-AU0uAU0vAU0wAU0xAU0yAU0zAU00AU02AU03AU04AU05AU06AU07AU08AU09AU0+AU1AAU1BAU1C
-AU1DAU1EAU1FAU1GAU1IAU1JAU1KAU1LAU1MAU1NAU1OAU1PAU1QAU1RAU1SAU1TAU1UAU1VAU1W
-AU1XAU1YAU1ZAU1aAU1bAU1cAU1dAU1eAU1fAWVoE0sBdYwKYXR0cmlidXRlc5QojAFhlEsChpSM
+//+GlIwNc2VsZWN0ZWRfcm93c5RdlChNJAFLYEvqS5BNAgFL0EtOS8BLHUttTQsBS71LP0unS25L
+jk1fAUvzS/1L5UvVSx9LCktATWABS8dNQgFLTE0hAUvpSzNLckvnS0FNOgFLJktwS75LwU0sAUvC
+SzFLh0s4S7xNKAFLmE0KAUtNS1VLFEtJS+FNEQFNUgFLAEsgS39NQwFLHE0UAUsXS4lLxE0uAU0/
+AUtXS3dLeUuGS5ZL/0sVSxZLgkuRS8tNFgFNGAFNVQFNXAFLZEuBS65Lw01GAUsCS5NLuEvwTSsB
+TS0BSxtLPEuDS4xLlUukS9ZL5kvuTQcBTUEBSwdLC0saSytLLUtGS4VLo0vPS+NNAAFNBgFNKgFN
+MAFNNQFNSgFNTAFLA0sGSw5LEkseSyFLMEs1SzdLPUs+S0hLU0trS3xLgEuES6FLrEvFTQ0BTQ4B
+TSABTTgBTVcBTVsBSyVLMks2S1BLUktsS3hLj0uoS69L30vsS/RNDAFNEgFNGwFNMgFNNwFNOQFN
+RwFNSwFNTgFLAUsJSyRLKEs6SztLSktLS09LWUtzS31LikuLS5JLmkucS6pLrUuwS7lLukvOS9dL
+3EvkS/VL9kv5TQEBTQMBTRkBTSYBTTMBTTwBTT4BTUABTUUBTUgBTVYBTVoBTV4BSwRLBUsISwxL
+DUsPSxBLEUsTSxhLGUsiSyNLJ0spSypLLEsuSy9LNEs5S0JLQ0tES0VLR0tRS1RLVktYS1pLW0tc
+S11LXktfS2FLYktjS2VLZktnS2hLaUtqS29LcUt0S3VLdkt6S3tLfkuIS41LlEuXS5lLm0udS55L
+n0ugS6JLpUumS6lLq0uxS7JLs0u0S7VLtku3S7tLv0vGS8hLyUvKS8xLzUvRS9JL00vUS9hL2Uva
+S9tL3UveS+BL4kvoS+tL7UvvS/FL8kv3S/hL+kv7S/xL/k0EAU0FAU0IAU0JAU0PAU0QAU0TAU0V
+AU0XAU0aAU0cAU0dAU0eAU0fAU0iAU0jAU0lAU0nAU0pAU0vAU0xAU00AU02AU07AU09AU1EAU1J
+AU1NAU1PAU1QAU1RAU1TAU1UAU1YAU1ZAU1dAWVoE0sBdYwKYXR0cmlidXRlc5QojAFhlEsChpSM
 D2FkbWluaXN0cmF0aXZlbpRLAoaUjA9hZG1pbmlzdHJhdGl2bm+USwKGlIwIYWdlbmNpamGUSwKG
 lIwDYWt0lEsChpSMB2FrdGl2ZW6USwKGlIwHYWt0aXZub5RLAoaUjAlha3Rpdm5vc3SUSwKGlIwG
 YWxpbmVhlEsChpSMB2FsaW5lamGUSwKGlIwMYWx0ZXJuYXRpdmVulEsChpSMB2FuYWxpemGUSwKG
@@ -668,10 +668,10 @@ VGl0bGWUSwOGlIwRVXJhZG5pIGxpc3QgSXNzdWWUSwOGlIwORGF0ZSBwdWJsaXNoZWSUSwSGlIwJ
 VGV4dCBmaWxllEsDhpSMC0RhdGUgcGFzc2VklEsEhpSMCkRhdGUgdmFsaWSUSwSGlIwUSW5zdGl0
 dXRpb24gYWNjZXB0ZWSUSwGGlIwUSW5zdGl0dXRpb24gcHJlcGFyZWSUSwGGlIwNS2V5d29yZHMg
 WUFLRZRLA4aUjA5LZXl3b3JkcyBURklERpRLA4aUdJSMCmNsYXNzX3ZhcnOUKXViaBgpgZR9lCho
-G32UKGgdSwNK/v///4aUaB9LA0r+////hpRoIV2UKEtgS5BLwGVoE0sBdWgjKWrdEQAAKGreEQAA
-SwOGlGrgEQAASwOGlGriEQAASwOGlGrkEQAASwOGlGrmEQAASwOGlGroEQAASwSGlGrqEQAASwOG
-lGrsEQAASwSGlGruEQAASwSGlGrwEQAASwGGlGryEQAASwGGlGr0EQAASwOGlGr2EQAASwOGlHSU
-avkRAAApdWJldS4=
+G32UKIwKbl9zZWxlY3RlZJRLA0r+////hpSMCnNlbF9tZXRob2SUSwNK/v///4aUjA1zZWxlY3Rl
+ZF9yb3dzlF2UKEtgS5BLwGVoE0sBdWgjKWrdEQAAKGreEQAASwOGlGrgEQAASwOGlGriEQAASwOG
+lGrkEQAASwOGlGrmEQAASwOGlGroEQAASwSGlGrqEQAASwOGlGrsEQAASwSGlGruEQAASwSGlGrw
+EQAASwGGlGryEQAASwGGlGr0EQAASwOGlGr2EQAASwOGlHSUavkRAAApdWJldS4=
 </properties>
 		<properties node_id="4" format="literal">{'autocommit': True, 'controlAreaVisible': True, 'hidden_cb': True, 'normalization': '(None)', 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x04\x92\xff\xff\xfd\xd0\x00\x00\x05\xde\xff\xff\xfe\xd2\x00\x00\x05r\xff\xff\xff\t\x00\x00\x06\xce\xff\xff\xff\xff\x00\x00\x00\x01\x02\x00\x00\x00\x07\x80\x00\x00\x04\x92\xff\xff\xfd\xec\x00\x00\x05\xde\xff\xff\xfe\xd2', 'wglobal': 'IDF', 'wlocal': 'Count', '__version__': 1}</properties>
 		<properties node_id="5" format="pickle">gASVRHkAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl

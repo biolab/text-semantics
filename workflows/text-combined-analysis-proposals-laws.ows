@@ -27,17 +27,17 @@
 	</links>
 	<annotations>
 		<arrow id="0" start="(320.0, 73.0)" end="(358.0, 124.0)" fill="#C1272D" />
-		<text id="1" type="text/plain" rect="(252.0, 45.0, 162.0, 38.0)" font-family=".AppleSystemUIFont" font-size="14">Load law documents</text>
-		<text id="2" type="text/plain" rect="(50.0, 432.0, 180.0, 51.0)" font-family=".AppleSystemUIFont" font-size="14">Load proposals to the government</text>
+		<text id="1" type="text/plain" rect="(252.0, 45.0, 162.0, 38.0)" font-family=".AppleSystemUIFont" font-size="14">Naloži zakone o registrih</text>
+		<text id="2" type="text/plain" rect="(50.0, 432.0, 180.0, 51.0)" font-family=".AppleSystemUIFont" font-size="14">Naloži predloge vladi</text>
 		<arrow id="3" start="(121.0, 437.0)" end="(138.0, 398.0)" fill="#C1272D" />
-		<text id="4" type="text/plain" rect="(394.0, 423.0, 175.0, 80.0)" font-family=".AppleSystemUIFont" font-size="14">Observe the document map with proposals and select a subgroup of interest</text>
+		<text id="4" type="text/plain" rect="(394.0, 423.0, 175.0, 80.0)" font-family=".AppleSystemUIFont" font-size="14">Prikaže dokumentno mapo predlogov.  Izberemo skupino predlogov,  ki se nanašajo na promet.</text>
 		<arrow id="5" start="(475.0, 421.0)" end="(496.0, 387.0)" fill="#C1272D" />
-		<text id="6" type="text/plain" rect="(611.0, 423.0, 203.0, 81.0)" font-family=".AppleSystemUIFont" font-size="14">Extract keywords for the selected group of documents</text>
+		<text id="6" type="text/plain" rect="(611.0, 423.0, 203.0, 81.0)" font-family=".AppleSystemUIFont" font-size="14">Izlušči ključne besede iz izbrane skupine dokumentov</text>
 		<arrow id="7" start="(662.0, 427.0)" end="(641.0, 383.0)" fill="#C1272D" />
 		<arrow id="8" start="(755.0000000000001, 157.0)" end="(742.0000000000001, 202.0)" fill="#C1272D" />
-		<text id="9" type="text/plain" rect="(708.0, 97.0, 147.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Score documents with selected keywords</text>
+		<text id="9" type="text/plain" rect="(708.0, 97.0, 147.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Točkuje zakone z izbranimi ključnimi besedami</text>
 		<arrow id="10" start="(870.0, 338.0)" end="(856.0, 292.0)" fill="#C1272D" />
-		<text id="11" type="text/plain" rect="(795.0, 341.0, 161.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Observe the laws map enhanced with scores according to keywords</text>
+		<text id="11" type="text/plain" rect="(795.0, 341.0, 161.0, 63.0)" font-family=".AppleSystemUIFont" font-size="14">Prikaže dokumentno mapo zakonov,  ki so izrisani glede na točkovanje</text>
 	</annotations>
 	<thumbnail />
 	<node_properties>
@@ -8475,7 +8475,7 @@ AEsDameIAABLA2poiAAASwNqaYgAAEsDamqIAABLA2priAAASwN1dWJldS4=
 aXNpYmxllImMFGVtYmVkZGluZ19sYW5nX2luZGV4lEsAjA9yYWtlX2xhbmdfaW5kZXiUSwSME3Nh
 dmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAWsAAADFAAAD6gAAAsAAAAFrAAAA4QAAA+oA
 AALAAAAAAAAAAAAFoAAAAWsAAADhAAAD6gAAAsCUjBhzZWxlY3RlZF9zY29yaW5nX21ldGhvZHOU
-j5QojAZURi1JREaUjAVZQUtFIZSQjBFzb3J0X2NvbHVtbl9vcmRlcpRLAYwDc2lwlIwOX3VucGlj
+j5QojAVZQUtFIZSMBlRGLUlERpSQjBFzb3J0X2NvbHVtbl9vcmRlcpRLAYwDc2lwlIwOX3VucGlj
 a2xlX2VudW2Uk5SMDFB5UXQ1LlF0Q29yZZSMCVNvcnRPcmRlcpRLAYeUUpSGlIwPeWFrZV9sYW5n
 X2luZGV4lEsdjAtfX3ZlcnNpb25fX5RLAYwQY29udGV4dF9zZXR0aW5nc5RdlCiMFW9yYW5nZXdp
 ZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMCm5fc2VsZWN0ZWSU
@@ -36941,12 +36941,12 @@ dGVklEtlhpSMFEluc3RpdHV0aW9uIHByZXBhcmVklEtlhpSMDUtleXdvcmRzIFlBS0WUS2eGlIwO
 S2V5d29yZHMgVEZJREaUS2eGlGphPwAAS2aGlGpjPwAAS2aGlGplPwAAS2aGlGpnPwAAS2aGlGpp
 PwAAS2WGlGVK/f///4aUjA9kaXNwbGF5X2luZGljZXOUXZQoSwFLA2WMDXJlZ2V4cF9maWx0ZXKU
 aDpK/////4aUjA5zZWFyY2hfaW5kaWNlc5RdlChLAEsBSwJLA0sESwVLBksHSwhLCUsKSwtLDEsN
-Sw5LD0sQSxFLEmWMEnNlbGVjdGVkX2RvY3VtZW50c5SPlCiMXDIzNDUtLVpha29uLW8tdmFybm9z
-dGktY2VzdG5lZ2EtcHJvbWV0YS11cmFkbm8tcHJlxI1pxaHEjWVuby1iZXNlZGlsby1aVkNQLTEt
-VVBCNS1zdHJhbi02MDIxlIxbMzAzMS0tWmFrb24tby1wcmF2aWxpaC1jZXN0bmVnYS1wcm9tZXRh
-LXVyYWRuby1wcmXEjWnFocSNZW5vLWJlc2VkaWxvLVpQckNQLVVQQjItc3RyYW4tOTE1M5SMKTM2
-ODYtLVpha29uLW8tdm96bmlraWgtWlZvei0xLXN0cmFuLTEyNzAzlIwwMzU5Mi0tWmFrb24tby1t
-b3Rvcm5paC12b3ppbGloLVpNVi0xLXN0cmFuLTExMzE3lJBK/v///4aUaAZLAXVoTihoT0sChpSM
+Sw5LD0sQSxFLEmWMEnNlbGVjdGVkX2RvY3VtZW50c5SPlCiMMDM1OTItLVpha29uLW8tbW90b3Ju
+aWgtdm96aWxpaC1aTVYtMS1zdHJhbi0xMTMxN5SMWzMwMzEtLVpha29uLW8tcHJhdmlsaWgtY2Vz
+dG5lZ2EtcHJvbWV0YS11cmFkbm8tcHJlxI1pxaHEjWVuby1iZXNlZGlsby1aUHJDUC1VUEIyLXN0
+cmFuLTkxNTOUjCkzNjg2LS1aYWtvbi1vLXZvem5pa2loLVpWb3otMS1zdHJhbi0xMjcwM5SMXDIz
+NDUtLVpha29uLW8tdmFybm9zdGktY2VzdG5lZ2EtcHJvbWV0YS11cmFkbm8tcHJlxI1pxaHEjWVu
+by1iZXNlZGlsby1aVkNQLTEtVVBCNS1zdHJhbi02MDIxlJBK/v///4aUaAZLAXVoTihoT0sChpSM
 AjAwlEsChpSMAzAwMJRLAoaUjAMwMDOUSwKGlIwCMDGUSwKGlIwCMDKUSwKGlIwCMDOUSwKGlIwC
 MDSUSwKGlIwCMDWUSwKGlIwCMDaUSwKGlIwCMDeUSwKGlIwCMDiUSwKGlIwCMDmUSwKGlIwDMTAw
 lEsChpSMAzEwMZRLAoaUjAMxMDKUSwKGlIwDMTAzlEsChpSMAzEwNJRLAoaUjAMxMDWUSwKGlIwD
