@@ -1,7 +1,7 @@
 ![](meetings/logos.png)
 Projekt sofinancira Evropska Unija.
 
-# Semantčni analizator
+# Semantični analizator
 
 V okviru projekta semantični analizator izdelujemo orodje, s katerim analiziramo besedila (na primer
 zakonske dokumente), ugotavljamo, kateri pojmi v dokumentih ključno opredeljujejo vsebino
@@ -16,7 +16,7 @@ standardne funkcije s področja analitike besedil, vizualizacije in strojnega u�
 podatkov z ontologijami pojmov bodo dostopni v zapisu izdelanem v okolju Protege Desktop 5.2.0. 
 Vsa razvita programska koda v projektu je prosto
 dostopna in dosegljiva na tem repozitoriju in repozitoriju [Orangeovega dodatka za analizo besedil](https://github.com/biolab/orange3-text). 
-Orodje vključuj grafični programski vmesnik in
+Orodje vključuje grafični programski vmesnik in
 možnosti kombiniranja razvitih metod.
 
 
@@ -31,7 +31,7 @@ Skupnost je vzpostavljena na tem repozitoriju v [zavihku Issues](https://github.
   razpravo v seznamu, in v tekstovnem polju na dnu okna doda svoj komentar. 
 - Odpre novo razpravo. Za odpiranje nove razprave 1) uporabi gumb New issue v zgornjem 
   desnem kotu strani, 2) vnese naslov, ki naj bo v primeru, da ne gre za izroček oblike
-  `Ostalo: <pomenjiv naslov>`, 3) vpiše željeni komentar v tekstovno polje in 4) 
+  `Ostalo: <pomenljiv naslov>`, 3) vpiše željeni komentar v tekstovno polje in 4) 
   objavi svoj komentar s klikom na gumb Submit new issue.
 
 Za komentiranje in odpiranje razprave mora uporabnik ustvariti račun na platformi GitHub.
