@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-          path: "requirements-scrap.txt"
+      - run: pip install requirements-scrap.txt
 
       - name: Download data
         run: python scripts/stop_birokraciji_scraper.py
