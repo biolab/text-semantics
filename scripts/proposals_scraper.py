@@ -1,35 +1,32 @@
 """
-This is a script for scraping proposals to government webpage predlagaj.valdi.si
+This is a script for scraping proposals to government webpage predlagam.valdi.si
 Script scrapes all the proposals. And write them in the separate directory.
 For every proposal it saves a .yaml file with metadata and separate files
 with proposal texts, proposal, response (optinal - if response present),
 and comments (optional - if comments present).
-
-Requirements:
-- requests,
-- yaml,
-- BeautifulSoup4,
-- selenium,
-- chromedriver_binary (from conda-forge) - chromium driver
 """
-
+import logging
 import os
-import sys
+import shutil
 import time
-from datetime import datetime
+from datetime import date, datetime
+from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin
 
 import requests
 import yaml
-from bs4 import BeautifulSoup  # latest version bs4
+from bs4 import BeautifulSoup
 from selenium import webdriver
-# get from conda: conda install -c conda-forge python-chromedriver-binary
-try:
-    import chromedriver_binary
-except ImportError:
-    print("Cannot import chromedriver_binary")
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.webdriver import WebDriver
+from webdriver_manager.chrome import ChromeDriverManager
 
+# init logging
+logging.basicConfig()
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
+# global settings
 BASE_URL = "https://predlagam.vladi.si/"
 CATEGORIES = (
     "z-odzivom-organa",
@@ -38,9 +35,61 @@ CATEGORIES = (
     "zavrnjeni",
     "neustrezni",
 )
+ROOT_DIRECTORY = "data"
+CSV_FILE = "predlogi-vladi.csv"
+DESTINATION_DIRECTORY = "predlogi-vladi"
 
 
-def get_proposal_page(category_url):
+def cleanup():
+    """Remove directories and folders from previous scrapping"""
+    logger.info("Removing files and directories form previous scraping")
+    try:
+        shutil.rmtree(ROOT_DIRECTORY)
+    except FileNotFoundError:
+        logger.debug(f"{ROOT_DIRECTORY} not found, removing skipped")
+
+
+def init():
+    """Prepare folders for saving proposals"""
+    logger.info(f"Creating {ROOT_DIRECTORY}")
+    os.mkdir(ROOT_DIRECTORY)
+
+    dest_dir = os.path.join(ROOT_DIRECTORY, DESTINATION_DIRECTORY)
+    logger.info(f"Creating {dest_dir}")
+    os.mkdir(dest_dir)
+
+
+def init_browser() -> WebDriver:
+    """Init browser required for scraping"""
+    logger.info("Chrome browser init")
+    op = webdriver.ChromeOptions()
+    op.add_argument("headless")
+    driver_service = ChromeService(ChromeDriverManager().install())
+    browser = webdriver.Chrome(options=op, service=driver_service)
+    logger.info("Chrome browser init done")
+    return browser
+
+
+def get_maximal_id() -> int:
+    """
+    Find maximal proposal id on page - the last proposal on the page is one with
+    the highest id
+    """
+    logger.info("Retrieving maximal proposal ID")
+    proposal_numbers = []
+    for category in CATEGORIES:
+        pages = get_proposal_page(urljoin(BASE_URL + "predlogi/", category))
+        # last proposal have the highest id
+        id_ = int(pages[0].rsplit("/", maxsplit=1)[1])
+        logger.info(f"Page {category}, max ID: {id_}")
+        proposal_numbers.append(id_)
+
+    max_id = max(proposal_numbers)
+    logger.info(f"Maximal overall id is {max_id}")
+    return max_id
+
+
+def get_proposal_page(category_url: str) -> List[str]:
     html = requests.get(category_url)
     soup = BeautifulSoup(html.text, "html.parser")
     uls = soup.findAll("ul", {"class": "sug-list"})
@@ -50,21 +99,21 @@ def get_proposal_page(category_url):
     return [a["href"] for a in links]
 
 
-def get_author(soup):
+def get_author(soup: BeautifulSoup) -> str:
     return soup.findAll("div", {"class": "author"})[0].a.text
 
 
-def get_title(soup):
+def get_title(soup: BeautifulSoup) -> str:
     return soup.findAll("div", {"class": "text"})[0].h2.text
 
 
-def get_text(soup):
+def get_text(soup: BeautifulSoup) -> str:
     return "\n".join(
         p.text for p in soup.findAll("div", {"class": "text"})[0].findAll("p")
     )
 
 
-def get_upvotes_downvotes(soup):
+def get_upvotes_downvotes(soup: BeautifulSoup) -> Tuple[int, int]:
     upvotes, downvotes = None, None
     up = soup.findAll("div", {"class": "vote1"})
     if len(up):
@@ -75,7 +124,7 @@ def get_upvotes_downvotes(soup):
     return upvotes, downvotes
 
 
-def get_dates(soup, date_type):
+def get_dates(soup: BeautifulSoup, date_type: str) -> Optional[date]:
     date = soup.find("div", {"class": "status"}).ul.findAll(recursive=False)
     for d in date:
         if d.span.text == date_type:
@@ -83,7 +132,7 @@ def get_dates(soup, date_type):
     return None
 
 
-def get_response(soup):
+def get_response(soup: BeautifulSoup) -> Optional[str]:
     response = None
     odziv = soup.find("div", {"id": "proposition-response"})
     if odziv:
@@ -99,60 +148,57 @@ def get_response(soup):
     return response
 
 
-def get_proposal_type(soup):
+def get_proposal_type(soup: BeautifulSoup) -> str:
     return soup.find("h1").text.strip()
 
 
-def get_number_comments(soup):
+def get_number_comments(soup: BeautifulSoup) -> int:
     return int(soup.find("span", {"class": "ico3-7"}).text.split()[0])
 
 
-def get_number_views(soup):
+def get_number_views(soup: BeautifulSoup) -> int:
     return int(soup.find("span", {"class": "ico3-4"}).text.split()[0])
 
 
-def get_comments(soup):
-    comments = []
-    cl = soup.find("ul", {"class": "comments-list"})
-    if cl:
-        lis = cl.findAll("section", {"class": "comment"})
-        for c in lis:
-            author = c.header.span.a.text
-            content_div = c.findAll("div", recursive=False)
-            comment_text = None  # only one match
-            for d in content_div:
-                if d.get("id").startswith("comment-body"):
-                    comment_text = d.p.text
-            assert comment_text is not None
-            comments.append(f"---{author}---\n{comment_text}")
-    return "\n".join(comments)
-
-
-def scrape_single_proposal(proposal_url, browser):
-    browser.get(proposal_url)
+def scrape_single_proposal(proposal_idx: int, browser: WebDriver) -> Optional[Dict]:
+    """Scrape proposal with ID == proposal_idx"""
+    start_t = time.time()
+    url = urljoin(BASE_URL + "predlog/", str(proposal_idx))
+    logger.info(f"Scrapping {url}")
+    browser.get(url)
 
     html = browser.page_source
     if browser.current_url == "https://predlagam.vladi.si/":
         # ids with missing proposal throw user to the default site
+        logger.info(f"Skipped {url}: missing proposal")
         return None
     soup = BeautifulSoup(html, "html.parser")
     if soup.findAll(text="404: Vsebina ne obstaja"):
+        logger.info(f"Skipped {url}: content does not exist")
         return None
 
-    url = browser.current_url
-    proposal_id = url.split("/")[-1]
-    author = get_author(soup)
-    title = get_title(soup)
-    text = get_text(soup)
-    upvotes, downvotes = get_upvotes_downvotes(soup)
-    sent_date = get_dates(soup, "PREDLOG POSLAN")
-    end_consideration_date = get_dates(soup, "KONEC OBRAVNAVE")
-    response_due_date = get_dates(soup, "ROK ZA ODGOVOR")
-    response_date = get_dates(soup, "ODGOVOR")
-    response = get_response(soup)
-    proposal_type = get_proposal_type(soup)
-    number_comments = get_number_comments(soup)
-    number_views = get_number_views(soup)
+    try:
+        # some rare proposals have completely different shape and no
+        # meta information (e.g. prop 679)
+        url = browser.current_url
+        proposal_id = url.split("/")[-1]
+        author = get_author(soup)
+        title = get_title(soup)
+        text = get_text(soup)
+        upvotes, downvotes = get_upvotes_downvotes(soup)
+        sent_date = get_dates(soup, "PREDLOG POSLAN")
+        end_consideration_date = get_dates(soup, "KONEC OBRAVNAVE")
+        response_due_date = get_dates(soup, "ROK ZA ODGOVOR")
+        response_date = get_dates(soup, "ODGOVOR")
+        response = get_response(soup)
+        proposal_type = get_proposal_type(soup)
+        number_comments = get_number_comments(soup)
+        number_views = get_number_views(soup)
+    except IndexError:
+        logger.info(f"Skipped {url}: bad proposal format")
+        return None
+
+    logger.info(f"Scrapped {url} in {round(time.time() - start_t, 3)} seconds")
 
     return {
         "id": proposal_id,
@@ -173,64 +219,41 @@ def scrape_single_proposal(proposal_url, browser):
     }
 
 
-def save_proposal(proposal, prop_dir):
-    # proposal is saved as a text file
+def save_proposal(proposal: Dict):
+    """Save proposal text in text file and meta information to yaml"""
+    logger.info(f"Saving proposal with ID {proposal['id']} to file")
+    dir_ = os.path.join(ROOT_DIRECTORY, DESTINATION_DIRECTORY)
+
+    # save proposal text as txt file
     text_file = f"{proposal['id']}.txt"
-    with open(os.path.join(prop_dir, text_file), "w") as f:
+    with open(os.path.join(dir_, text_file), "w") as f:
         f.write(proposal["text"])
 
+    # save metainfo as yaml
     proposal = proposal.copy()
     proposal["Text file"] = text_file
     proposal.pop("text")
 
-    with open(os.path.join(prop_dir, f"{proposal['id']}.yaml"), "w") as f:
+    with open(os.path.join(dir_, f"{proposal['id']}.yaml"), "w") as f:
         yaml.dump(proposal, f, default_flow_style=False)
 
 
-def main(chromium_driver_path):
-    print("---Getting max id---")
-    # find maximal proposal id on page - the last proposal on the page
-    # is one with the highest id
-    proposal_numbers = []
-    for category in CATEGORIES:
-        pages = get_proposal_page(urljoin(BASE_URL + "predlogi/", category))
-        # last proposal have the highest id
-        proposal_numbers.append(int(pages[0].rsplit("/", maxsplit=1)[1]))
-
-    max_id = max(proposal_numbers)
-    print("The maximum proposal id is ", max_id)
-
-    # scrape all proposal starting with the max_id and continuing to zero
-    proposals_dir = os.path.join(
-        os.path.dirname(os.path.realpath(__file__)), "proposals-to-government"
-    )
-    if not os.path.isdir(proposals_dir):
-        os.mkdir(proposals_dir)
-
-    print("---Scrapping---")
-    op = webdriver.ChromeOptions()
-    op.add_argument('headless')
-    browser = webdriver.Chrome(options=op, executable_path=chromium_driver_path)
+def main():
+    # prepare environment
+    cleanup()
+    init()
+    # get maximal proposal id
+    max_id = get_maximal_id()
+    max_id = 100  # todo: remove
+    # init browser
+    browser = init_browser()
+    # retrieving proposals from the newest to the oldest
     for i in range(max_id, 0, -1):
-        t = time.time()
-        url = urljoin(BASE_URL + "predlog/", str(i))
-        try:
-            # some rare proposals have completely different shape and no
-            # meta information (e.g. prop 679)
-            proposal = scrape_single_proposal(url, browser)
-        except IndexError:
-            # skip those
-            proposal = None
-            print(f"Skipping proposal {i}")
-
+        proposal = scrape_single_proposal(i, browser)
         if proposal:
-            save_proposal(proposal, proposals_dir)
-        print(f"Required {time.time() - t} for {url}")
-        if i % 100 == 0:
-            time.sleep(30)
+            save_proposal(proposal)
     browser.close()
 
 
 if __name__ == "__main__":
-    driver_path = None if len(sys.argv) < 2 else sys.argv[1]
-    main(driver_path)
+    main()
