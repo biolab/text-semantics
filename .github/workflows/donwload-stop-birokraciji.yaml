@@ -1,0 +1,35 @@
+name: Download stop birokraciji
+
+on:
+  pull_request:
+    branches:
+    - main  # todo: change to periodical
+
+jobs:
+  download-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          path: "requirements-scrap.txt"
+
+      - name: Download data
+        run: python scripts/stop_birokraciji_scraper.py
+
+#      - name: Upload to server
+#        # deploy only when on master (skip on pull request)
+#        if: ${{ github.ref == 'refs/heads/main' }}
+#        uses: appleboy/scp-action@master
+#        with:
+#          host: ${{ secrets.SCP_SERVER }}
+#          username: ${{ secrets.SCP_USERNAME }}
+#          key: ${{ secrets.SCP_KEY }}
+#          source: "data/stop-birokraciji/"
+#          target: "/var/www/html/text-semantics/data/stop-birokraciji/"
+#          strip_components: 1
+#          rm: true  # remove target dir before copying
