@@ -8,6 +8,7 @@ on:
 jobs:
   download-and-upload:
     strategy:
+      fail-fast: false
       matrix:
         include:
           - scraper: stop-birokraciji
