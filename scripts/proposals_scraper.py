@@ -244,7 +244,6 @@ def main():
     init()
     # get maximal proposal id
     max_id = get_maximal_id()
-    max_id = 100  # todo: remove
     # init browser
     browser = init_browser()
     # retrieving proposals from the newest to the oldest
