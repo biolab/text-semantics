@@ -12,8 +12,13 @@ jobs:
         include:
           - scraper: stop-birokraciji
             script: stop_birokraciji_scraper.py
+            publish_dir: stop-birokraciji
           - scraper: predlogi-vladi
             script: proposals_scraper.py
+            publish_dir: predlogi-vladi
+          - scraper: zakoni
+            script: opsi_laws_scrapper.py ZAKO
+            publish_dir: regulations
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -35,6 +40,6 @@ jobs:
           # GITHUB_TOKEN prevent running generate-index action at gh-pages
           # this is why BIOLAB_HELPER_PAT must be used here
           github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
-          publish_dir: ./data/${{ matrix.scraper }}
+          publish_dir: ./data/${{ matrix.publish_dir }}
           publish_branch: gh-pages
           destination_dir: ${{ matrix.scraper }}

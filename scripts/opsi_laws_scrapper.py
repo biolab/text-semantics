@@ -218,9 +218,8 @@ def extract_data(df: pd.DataFrame) -> pd.DataFrame:
 def save_documents(df: pd.DataFrame):
     for _, document in df.iterrows():
         logger.info(f"Saving proposal with ID {document['idPredpisa']}")
-        file_name = normalize("NFKD", str(document["naslov"]))
+        file_name = normalize("NFKD", str(document["idPredpisa"]))
         file_name = file_name.encode("ascii", "ignore").decode("utf-8")
-        file_name = file_name.replace(" ", "-").replace("/", "-")[:100]
         dest_dir = os.path.join(ROOT_DIRECTORY, DESTINATION_DIRECTORY)
 
         text_file = f"{file_name}.txt"
