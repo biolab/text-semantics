@@ -175,7 +175,7 @@ def main():
     cleanup()
     init()
     max_id = get_max_id()
-    df = scrape_pages(max_id)
+    df = scrape_pages(20)
     df.to_csv(os.path.join(ROOT_DIRECTORY, CSV_FILE), index=False)
 
 

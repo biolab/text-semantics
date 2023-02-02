@@ -1,4 +1,4 @@
-name: Download stop birokraciji
+name: Download data
 
 on:
   push:
@@ -7,6 +7,11 @@ on:
 
 jobs:
   download-and-upload:
+    strategy:
+      matrix:
+        include:
+          - scraper: stop-birokraciji
+            script: stop_birokraciji_scraper.py
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -19,7 +24,7 @@ jobs:
       - run: pip install -r requirements-scrap.txt
 
       - name: Download data
-        run: python scripts/stop_birokraciji_scraper.py
+        run: python scripts/${{ matrix.script }}
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
@@ -28,6 +33,6 @@ jobs:
           # GITHUB_TOKEN prevent running generate-index action at gh-pages
           # this is why BIOLAB_HELPER_PAT must be used here
           github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
-          publish_dir: ./data/stop-birokraciji
+          publish_dir: ./data/${{ matrix.scraper }}
           publish_branch: gh-pages
-          destination_dir: stop-birokraciji
+          destination_dir: ${{ matrix.scraper }}
