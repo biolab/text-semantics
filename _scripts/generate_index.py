@@ -8,7 +8,7 @@ EXCLUDED = ["index.html", "README.md", ".nojekyll"]
 file_path = os.path.dirname(os.path.realpath(__file__))
 with open(os.path.join(file_path, "index.html")) as f:
     template_index = f.read()
-template_a = "<a href='{link}/'>{name}</a>"
+template_a = "<a href='{link}'>{name}</a>"
 
 
 def generate(dir):
