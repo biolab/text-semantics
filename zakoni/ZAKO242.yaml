@@ -1,0 +1,16 @@
+Text file: ZAKO242.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1508536800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO242
+idPredpisaChng: ZAKO242
+instock: .nan
+naslov: ZAKON o Vladi Republike Slovenije (ZVRS)
+npbNum: 16
+path: /2017/25/2017-01-2521-1993-01-0124-npb16
+sopPredpisa: 2017-01-2521
+sopPredpisaChng: 1993-01-0124

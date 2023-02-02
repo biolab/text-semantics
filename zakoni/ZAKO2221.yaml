@@ -1,0 +1,16 @@
+Text file: ZAKO2221.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 945990000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2221
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O UREDITVI PLA\u010CILNEGA PROMETA NA DAN 31.\_12. 1999 (ZUPP99)"
+npbNum: 0
+path: /1999/49/1999-01-4966
+sopPredpisa: 1999-01-4966
+sopPredpisaChng: null

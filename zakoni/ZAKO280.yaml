@@ -1,0 +1,17 @@
+Text file: ZAKO280.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1582326000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO280
+idPredpisaChng: ZAKO280
+instock: .nan
+naslov: "ZAKON o delavcih v dr\u017Eavnih organih (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 11)"
+npbNum: 11
+path: /2020/01/2020-01-0196-1990-03-0742-npb11
+sopPredpisa: 2020-01-0196
+sopPredpisaChng: 1990-03-0742

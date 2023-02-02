@@ -1,0 +1,20 @@
+Text file: ZAKO5064.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1196463600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1181944800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO5064
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O VARSTVU POTRO\u0160NIKOV PRED NEPO\u0160TENIMI POSLOVNIMI PRAKSAMI\
+  \ (ZVPNPP)"
+npbNum: 0
+path: /2007/28/2007-01-2826
+sopPredpisa: 2007-01-2826
+sopPredpisaChng: null

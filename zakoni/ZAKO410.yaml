@@ -1,0 +1,17 @@
+Text file: ZAKO410.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 801957600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO410
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O PREVZEMU DR\u017DAVNIH FUNKCIJ, KI SO JIH DO 31. 12. 1994 OPRAVLJALI\
+  \ ORGANI OB\u010CIN"
+npbNum: 0
+path: /1995/13/1995-01-1356
+sopPredpisa: 1995-01-1356
+sopPredpisaChng: null

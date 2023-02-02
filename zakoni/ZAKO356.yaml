@@ -1,0 +1,13 @@
+Text file: ZAKO356.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO356
+idPredpisaChng: ZAKO356
+instock: .nan
+naslov: "ZAKON o Bloudkovih priznanjih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2005/49/2005-01-4919-1994-01-2000-npb2
+sopPredpisa: 2005-01-4919
+sopPredpisaChng: 1994-01-2000

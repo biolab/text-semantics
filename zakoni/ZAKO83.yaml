@@ -1,0 +1,16 @@
+Text file: ZAKO83.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 640908000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO83
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o ustavitvi nekaterih postopkov o prekr\u0161kih"
+npbNum: 0
+path: /1990/07/1990-03-0715
+sopPredpisa: 1990-03-0715
+sopPredpisaChng: null

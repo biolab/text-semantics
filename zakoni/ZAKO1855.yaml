@@ -1,0 +1,16 @@
+Text file: ZAKO1855.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 250815600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1855
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON o blagovnem prometu
+npbNum: 0
+path: /1977/13/1977-04-1349
+sopPredpisa: 1977-04-1349
+sopPredpisaChng: null

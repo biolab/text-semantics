@@ -1,0 +1,16 @@
+Text file: ZAKO5760.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1301094000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO5760
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O ZASEBNEM VAROVANJU (ZZasV-1)
+npbNum: 0
+path: /2011/06/2011-01-0690
+sopPredpisa: 2011-01-0690
+sopPredpisaChng: null

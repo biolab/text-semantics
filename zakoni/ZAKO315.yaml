@@ -1,0 +1,17 @@
+Text file: ZAKO315.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 762822000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO315
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o zagotovitvi sredstev za odpravo posledic su\u0161e v kmetijstvu v\
+  \ letu 1993"
+npbNum: 0
+path: /1994/04/1994-01-0466
+sopPredpisa: 1994-01-0466
+sopPredpisaChng: null

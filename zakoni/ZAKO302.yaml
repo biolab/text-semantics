@@ -1,0 +1,17 @@
+Text file: ZAKO302.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649455200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO302
+idPredpisaChng: ZAKO302
+instock: .nan
+naslov: "ZAKON o varstvu pred po\u017Earom (ZVPoz) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 8)"
+npbNum: 8
+path: /2022/08/2022-01-0834-1993-01-2577-npb8
+sopPredpisa: 2022-01-0834
+sopPredpisaChng: 1993-01-2577

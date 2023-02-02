@@ -1,0 +1,13 @@
+Text file: ZAKO40.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO40
+idPredpisaChng: ZAKO40
+instock: .nan
+naslov: "ZAKON o zakonski zvezi in dru\u017Einskih razmerjih (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 10)"
+npbNum: 10
+path: /2004/30/2004-01-3093-1976-04-0644-npb10
+sopPredpisa: 2004-01-3093
+sopPredpisaChng: 1976-04-0644

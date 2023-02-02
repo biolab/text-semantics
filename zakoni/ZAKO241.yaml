@@ -1,0 +1,16 @@
+Text file: ZAKO241.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 724374000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO241
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o kritju izgube slovenskih \u017Eelezarn"
+npbNum: 0
+path: /1992/26/1992-01-2639
+sopPredpisa: 1992-01-2639
+sopPredpisaChng: null

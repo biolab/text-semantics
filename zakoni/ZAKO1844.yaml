@@ -1,0 +1,16 @@
+Text file: ZAKO1844.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 671493600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1844
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O STAVKI
+npbNum: 0
+path: /1991/02/1991-07-0297
+sopPredpisa: 1991-07-0297
+sopPredpisaChng: null

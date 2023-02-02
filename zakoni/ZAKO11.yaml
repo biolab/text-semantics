@@ -1,0 +1,13 @@
+Text file: ZAKO11.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO11
+idPredpisaChng: ZAKO11
+instock: .nan
+naslov: "ZAKON o voja\u0161ki dol\u017Enosti (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2002/53/2002-01-5309-1991-03-0742-npb3
+sopPredpisa: 2002-01-5309
+sopPredpisaChng: 1991-03-0742

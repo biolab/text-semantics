@@ -1,0 +1,19 @@
+Text file: ZAKO7952.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649023200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1619215200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO7952
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O KATASTRU NEPREMI\u010CNIN (ZKN)"
+npbNum: 0
+path: /2021/10/2021-01-1047
+sopPredpisa: 2021-01-1047
+sopPredpisaChng: null

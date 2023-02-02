@@ -1,0 +1,19 @@
+Text file: ZAKO3707.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1067986800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO3707
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O SPLO\u0160NI VARNOSTI PROIZVODOV (ZSVP-1)"
+npbNum: 0
+path: /2003/45/2003-01-4500
+sopPredpisa: 2003-01-4500
+sopPredpisaChng: null

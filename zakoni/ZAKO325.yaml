@@ -1,0 +1,17 @@
+Text file: ZAKO325.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1624399200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO325
+idPredpisaChng: ZAKO325
+instock: .nan
+naslov: "ZAKON o ustavnem sodi\u0161\u010Du (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 6)"
+npbNum: 6
+path: /2021/19/2021-01-1973-1994-01-0562-npb6
+sopPredpisa: 2021-01-1973
+sopPredpisaChng: 1994-01-0562

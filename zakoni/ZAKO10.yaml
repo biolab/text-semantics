@@ -1,0 +1,16 @@
+Text file: ZAKO10.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1173222000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO10
+idPredpisaChng: ZAKO10
+instock: .nan
+naslov: "ZAKON o zavodih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2006/53/2006-01-5348-1991-03-0481-npb3
+sopPredpisa: 2006-01-5348
+sopPredpisaChng: 1991-03-0481

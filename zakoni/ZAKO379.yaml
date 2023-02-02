@@ -1,0 +1,17 @@
+Text file: ZAKO379.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 957996000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO379
+idPredpisaChng: ZAKO379
+instock: .nan
+naslov: "ZAKON O PREVOZIH V CESTNEM PROMETU (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 4)"
+npbNum: 4
+path: /2000/16/2000-01-1687-1994-01-2594-npb4
+sopPredpisa: 2000-01-1687
+sopPredpisaChng: 1994-01-2594

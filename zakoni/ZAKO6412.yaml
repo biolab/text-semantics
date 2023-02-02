@@ -1,0 +1,17 @@
+Text file: ZAKO6412.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1588284000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO6412
+idPredpisaChng: ZAKO6412
+instock: .nan
+naslov: "ZAKON O PREPRE\u010CEVANJU ZAMUD PRI PLA\u010CILIH (ZPreZP-1) (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/08/2020-01-0897-2012-01-2400-npb1
+sopPredpisa: 2020-01-0897
+sopPredpisaChng: 2012-01-2400

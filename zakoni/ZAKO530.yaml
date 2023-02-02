@@ -1,0 +1,17 @@
+Text file: ZAKO530.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 754959600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO530
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o uporabi sredstev solidarnosti za odpravo posledic su\u0161e v kmetijstvu\
+  \ v letu 1993"
+npbNum: 0
+path: /1993/23/1993-01-2368
+sopPredpisa: 1993-01-2368
+sopPredpisaChng: null

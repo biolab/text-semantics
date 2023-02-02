@@ -1,0 +1,18 @@
+Text file: ZAKO415.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 807573600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO415
+idPredpisaChng: ZAKO415
+instock: .nan
+naslov: "ZAKON O NAJEMU POSOJIL IN PORO\u0160TVU ZA NAJETA POSOJILA ZA ODKUP PRIDELKA\
+  \ P\u0160ENICE V LETU 1995 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 1)"
+npbNum: 1
+path: /1995/21/1995-01-2160-1995-01-1730-npb1
+sopPredpisa: 1995-01-2160
+sopPredpisaChng: 1995-01-1730

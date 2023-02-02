@@ -1,0 +1,17 @@
+Text file: ZAKO1849.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 988322400000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1849
+idPredpisaChng: ZAKO1849
+instock: .nan
+naslov: "ZAKON O POPISU PREBIVALSTVA, GOSPODINJSTEV IN STANOVANJ V REPUBLIKI SLOVENIJI\
+  \ LETA 2002  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2001/15/2001-01-1584-2000-01-3056-npb1
+sopPredpisa: 2001-01-1584
+sopPredpisaChng: 2000-01-3056

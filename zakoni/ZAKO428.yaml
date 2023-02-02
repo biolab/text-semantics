@@ -1,0 +1,12 @@
+Text file: ZAKO428.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO428
+idPredpisaChng: ZAKO428
+instock: .nan
+naslov: "ZAKON O USTANOVAH (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2005/31/2005-01-3116-1995-01-2788-npb2
+sopPredpisa: 2005-01-3116
+sopPredpisaChng: 1995-01-2788

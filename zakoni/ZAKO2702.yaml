@@ -1,0 +1,16 @@
+Text file: ZAKO2702.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 677800800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2702
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON o posebnem prispevku solidarnosti v letu 1991
+npbNum: 0
+path: /1991/11/1991-03-1183
+sopPredpisa: 1991-03-1183
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: ZAKO103.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 662598000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 661215600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO103
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON o intervencijah v gospodarstvu
+npbNum: 0
+path: /1990/21/1990-03-2130
+sopPredpisa: 1990-03-2130
+sopPredpisaChng: null

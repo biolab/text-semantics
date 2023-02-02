@@ -1,0 +1,13 @@
+Text file: ZAKO1263.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO1263
+idPredpisaChng: ZAKO1263
+instock: .nan
+naslov: "OBLIGACIJSKI ZAKONIK (OZ) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 3)"
+npbNum: 3
+path: /2007/48/2007-01-4826-2001-01-4287-npb3
+sopPredpisa: 2007-01-4826
+sopPredpisaChng: 2001-01-4287

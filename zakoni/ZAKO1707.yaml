@@ -1,0 +1,17 @@
+Text file: ZAKO1707.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 917132400000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1707
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O NADOMESTITVI INDEKSA DROBNOPRODAJNIH CEN Z INDEKSOM CEN \u017DIVLJENJSKIH\
+  \ POTREB\u0160\u010CIN (ZNIDC)"
+npbNum: 0
+path: /1999/00/1999-01-0001
+sopPredpisa: 1999-01-0001
+sopPredpisaChng: null

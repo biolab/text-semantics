@@ -1,0 +1,16 @@
+Text file: ZAKO100.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 714434400000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO100
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON o volitvah predsednika republike
+npbNum: 0
+path: /1992/19/1992-01-1943
+sopPredpisa: 1992-01-1943
+sopPredpisaChng: null

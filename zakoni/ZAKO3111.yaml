@@ -1,0 +1,16 @@
+Text file: ZAKO3111.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1007506800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO3111
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O AMNESTIJI (ZA-1)
+npbNum: 0
+path: /2001/47/2001-01-4796
+sopPredpisa: 2001-01-4796
+sopPredpisaChng: null

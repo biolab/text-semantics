@@ -1,0 +1,19 @@
+Text file: ZAKO509.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 888015600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO509
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O SOGLASJU REPUBLIKE SLOVENIJE DARS D.D. ZA NAJETJE KREDITOV ZA GRADNJO\
+  \ AVTOCESTNIH ODSEKOV VRANSKO \u2013 BLAGOVICA, BLAGOVICA \u2013 \u0160ENTJAKOB,\
+  \ PESNICA \u2013 SLIVNICA, OBVOZNICA LENDAVA, KOZINA \u2013 KLANEC IN VI\u0160NJA\
+  \ GORA \u2013 BI\u010C (ZSDKAO)"
+npbNum: 0
+path: /1998/05/1998-01-0518
+sopPredpisa: 1998-01-0518
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ZAKO350.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 773704800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO350
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O NAJEMU POSOJIL IN PORO\u0160TVU ZA NAJETA POSOJILA ZA ODKUP P\u0160\
+  ENICE LETINE 1994"
+npbNum: 0
+path: /1994/16/1994-01-1675
+sopPredpisa: 1994-01-1675
+sopPredpisaChng: null

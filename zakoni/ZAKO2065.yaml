@@ -1,0 +1,16 @@
+Text file: ZAKO2065.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 997480800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2065
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O OVERITVI LISTIN V MEDNARODNEM PROMETU (ZOLMP)
+npbNum: 0
+path: /2001/34/2001-01-3467
+sopPredpisa: 2001-01-3467
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ZAKO1123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 865029600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1123
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O ZAGOTOVITVI SREDSTEV ZA POTREBE REPUBLIKE SLOVENIJE V OBDOBJU ZA\u010C\
+  ASNEGA FINANCIRANJA V LETU 1997 (ZZF97)"
+npbNum: 0
+path: /1997/17/1997-01-1732
+sopPredpisa: 1997-01-1732
+sopPredpisaChng: null

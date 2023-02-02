@@ -1,0 +1,17 @@
+Text file: ZAKO130.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1388530800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO130
+idPredpisaChng: ZAKO130
+instock: .nan
+naslov: "ZAKON o stavbnih zemlji\u0161\u010Dih (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 4)"
+npbNum: 4
+path: /2013/36/2013-01-3676-1984-04-0932-npb4
+sopPredpisa: 2013-01-3676
+sopPredpisaChng: 1984-04-0932

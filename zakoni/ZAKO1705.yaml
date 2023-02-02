@@ -1,0 +1,16 @@
+Text file: ZAKO1705.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 312505200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1705
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o sistemu obrambe pred to\u010Do"
+npbNum: 0
+path: /1979/14/1979-04-1465
+sopPredpisa: 1979-04-1465
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: ZAKO6609.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1384902000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO6609
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O PRENEHANJU VELJAVNOSTI ZAKONA O KOZMETI\u010CNIH PROIZVODIH (ZPVZKozP)"
+npbNum: 0
+path: /2013/33/2013-01-3302
+sopPredpisa: 2013-01-3302
+sopPredpisaChng: null

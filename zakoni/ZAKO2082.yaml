@@ -1,0 +1,16 @@
+Text file: ZAKO2082.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 933285600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2082
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON ZA IZVAJANJE INTERVENTNIH UKREPOV V KMETIJSTVU V LETU 1999 (ZIUK99)
+npbNum: 0
+path: /1999/28/1999-01-2867
+sopPredpisa: 1999-01-2867
+sopPredpisaChng: null

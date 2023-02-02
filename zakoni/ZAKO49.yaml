@@ -1,0 +1,17 @@
+Text file: ZAKO49.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1388530800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO49
+idPredpisaChng: ZAKO49
+instock: .nan
+naslov: "ZAKON o davkih ob\u010Danov (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 11)"
+npbNum: 11
+path: /2013/36/2013-01-3676-1988-04-1922-npb11
+sopPredpisa: 2013-01-3676
+sopPredpisaChng: 1988-04-1922

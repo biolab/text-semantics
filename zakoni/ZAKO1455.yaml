@@ -1,0 +1,13 @@
+Text file: ZAKO1455.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO1455
+idPredpisaChng: ZAKO1455
+instock: .nan
+naslov: "ZAKON o javnih zbiranjih (ZJZ) (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 8)"
+npbNum: 8
+path: /2011/29/2011-01-2970-2002-01-2834-npb8
+sopPredpisa: 2011-01-2970
+sopPredpisaChng: 2002-01-2834

@@ -1,0 +1,18 @@
+Text file: ZAKO454.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 828140400000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO454
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI DARS D.D. IZ KREDITOV,\
+  \ NAJETIH ZA REALIZACIJO GRADNJE AVTOCESTNIH ODSEKOV IZ NACIONALNEGA PROGRAMA IZGRADNJE\
+  \ AVTOCEST V REPUBLIKI SLOVENIJI, KI SE ZA\u010CNEJO GRADITI V LETU 1996 (ZPDA96)"
+npbNum: 0
+path: /1996/09/1996-01-0957
+sopPredpisa: 1996-01-0957
+sopPredpisaChng: null

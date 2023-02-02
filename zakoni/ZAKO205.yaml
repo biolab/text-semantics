@@ -1,0 +1,17 @@
+Text file: ZAKO205.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 678146400000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO205
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O ZAGOTOVITVI SREDSTEV ZA GRADNJO ODSEKOV AVTOMOBILSKIH CEST MALENCE-\u0160\
+  MARJE SAP IN HRU\u0160ICA-VRBA"
+npbNum: 0
+path: /1991/00/1991-01-0023
+sopPredpisa: 1991-01-0023
+sopPredpisaChng: null

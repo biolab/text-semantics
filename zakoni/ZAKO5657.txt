@@ -1,0 +1,575 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina zakona)
+(1) Ta zakon določa pravila za vzpostavitev in zagotavljanje infrastrukture
+za prostorske informacije v Republiki Sloveniji.
+(2) S tem zakonom se v pravni red Republike Slovenije prenaša
+Direktiva 2007/2/ES Evropskega parlamenta in Sveta z dne 14. marca 2007 o
+vzpostavitvi infrastrukture za prostorske informacije v Evropski skupnosti
+(INSPIRE) (UL L št. 108, z dne 25. 4. 2007, str. 1), zadnjič
+popravljena s Popravkom Direktive 2007/2/ES Evropskega parlamenta in Sveta z
+dne 14. marca 2007 o vzpostavitvi infrastrukture za prostorske informacije
+v Evropski skupnosti (INSPIRE) (UL L št. 365 z dne 19. 12. 2014, str.
+165), (v nadaljnjem besedilu: direktiva INSPIRE).
+2. člen
+(infrastruktura za prostorske informacije)
+Infrastrukturo za prostorske informacije sestavljajo
+metapodatki, zbirke prostorskih podatkov in storitve v zvezi s prostorskimi
+podatki, omrežne storitve in tehnologije, dogovori o souporabi zbirk
+prostorskih podatkov in storitev v zvezi s prostorskimi podatki, dostopu do
+njih in njihovi uporabi ter mehanizmi in postopki za usklajevanje in
+spremljanje ravnanja po tem zakonu.
+3. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem zakonu, pomenijo:
+1.      prostorski
+podatki so podatki, ki se neposredno ali posredno nanašajo na posamezno
+lokacijo ali geografsko območje,
+2.      zbirka
+prostorskih podatkov je vsak določljiv in urejen niz prostorskih podatkov,
+3.      referenčna
+različica zbirke prostorskih podatkov je zbirka prostorskih podatkov v celoti
+ali niz prostorskih podatkov, ki je del zbirke podatkov, v kateri se prostorski
+podatki izvirno vodijo in vzdržujejo,
+4.      storitve
+v zvezi s prostorskimi podatki so dejavnosti, ki se opravljajo z računalnikom v
+zvezi z zbirkami prostorskih podatkov ali metapodatki,
+5.      prostorski
+objekt je abstraktna predstavitev pojava na konkretni lokaciji ali geografskem
+območju,
+6.      metapodatki
+so informacije, ki opisujejo zbirke prostorskih podatkov in storitve v zvezi s
+prostorskimi podatki ter omogočajo njihovo iskanje, evidentiranje in uporabo,
+7.      osebe
+javnega prava so državni organi, organi samoupravnih lokalnih skupnosti, javne
+agencije, javni skladi in druge osebe javnega prava, nosilci javnih pooblastil
+in izvajalci javnih služb v Republiki Sloveniji,
+8.      tretja
+oseba je vsaka fizična ali pravna oseba, ki ni oseba javnega prava,
+9.      upravljavka
+oziroma upravljavec (v nadaljnjem besedilu: upravljavec) je oseba javnega prava
+ali tretja oseba, ki vodi in vzdržuje eno ali več zbirk prostorskih podatkov
+ter z njimi povezanih storitev.
+4. člen
+(zbirke prostorskih podatkov)
+(1) Ta zakon se uporablja za zbirke prostorskih podatkov in
+storitve v zvezi s prostorskimi podatki, ki:
+-       
+se nanašajo na območje Republike Slovenije,
+-       
+so v elektronski obliki,
+-       
+so hranjene s strani ali v imenu:
+a)   
+osebe javnega prava, če jih je pripravila ali prejela oseba javnega
+prava, oziroma jih ta oseba upravlja ali posodablja in spadajo v področje
+njenih nalog javnega značaja,
+b)   
+tretje osebe, ki ji je bila omogočena vzpostavitev povezave v državno
+komunikacijsko omrežje iz 14. člena tega zakona,
+-       
+se nanašajo na eno ali več tem iz 6. člena tega zakona.
+(2) Če obstaja več enakih izvodov iste zbirke prostorskih podatkov,
+se ta zakon uporablja le za referenčno različico zbirke prostorskih podatkov,
+ki je podlaga različnim izvodom.
+5. člen
+(seznam zbirk prostorskih podatkov)
+(1) Zbirke prostorskih podatkov, ki izpolnjujejo pogoje iz
+prejšnjega člena, se vpišejo v seznam zbirk prostorskih podatkov. 
+(2) Izpolnjevanje pogojev za vpis v seznam zbirk prostorskih podatkov
+ugotavlja nacionalna točka za stike za INSPIRE (v nadaljnjem besedilu:
+nacionalna točka za stike). Nacionalna točka za stike ugotavlja tudi, katera
+zbirka prostorskih podatkov je referenčna, če obstaja več enakih izvodov iste
+zbirke prostorskih podatkov.
+(3) Seznam zbirk prostorskih podatkov vsebuje naslednje podatke:
+-       
+ime zbirke prostorskih podatkov,
+-       
+pravno podlago za vzpostavitev zbirke prostorskih podatkov,
+-       
+teme prostorskih podatkov iz 6. člena tega zakona, na katero se zbirka
+nanaša,
+-       
+ime in matična številka upravljavca.
+(4) Zbirko prostorskih podatkov vpiše nacionalna točka za
+stike v seznam zbirk prostorskih podatkov na predlog predlagatelja predpisa ali
+upravljavca, lahko pa jo vpiše po uradni dolžnosti.
+(5) Nova zbirka prostorskih podatkov se vpiše v seznam zbirk
+prostorskih podatkov po uveljavitvi predpisa, ki določa novo zbirko prostorskih
+podatkov.
+(6) Seznam zbirk prostorskih podatkov objavi nacionalna točka
+za stike na geoportalu za prostorske informacije iz 7. člena tega zakona.
+6. člen
+(razvrstitev prostorskih podatkov)
+(1) Prostorski podatki, za katere se uporablja ta zakon, se nanašajo
+na naslednje teme:
+-       
+I. skupina:
+1.     
+referenčni koordinatni sistemi,
+2.     
+geografska koordinatna mreža,
+3.     
+zemljepisna imena,
+4.     
+prostorske enote,
+5.     
+naslovi,
+6.     
+katastrske parcele,
+7.     
+prometno omrežje,
+8.     
+hidrografija,
+9.     
+zavarovana območja;
+-       
+II. skupina:
+1.      digitalni
+model reliefa,
+2.     
+pokrovnost tal,
+3.      ortofoto,
+4.     
+geologija;
+-       
+III. skupina:
+1.     
+statistične enote,
+2.     
+stavbe,
+3.     
+tla,
+4.     
+dejanska in namenska raba prostora,
+5.     
+zdravje in varnost prebivalstva,
+6.     
+komunalne in javne storitve,
+7.     
+naprave in objekti za spremljanje okolja,
+8.     
+proizvodni in industrijski objekti in naprave,
+9.     
+objekti in naprave za kmetijstvo in ribogojstvo,
+10.  
+porazdelitev prebivalstva – demografski podatki,
+11.  
+območja upravljanja/zaprta območja/regulirana območja in poročevalske
+enote,
+12.  
+območja nevarnosti naravnih nesreč,
+13.  
+ozračje,
+14.  
+meteorološke značilnosti,
+15.  
+oceanografske značilnosti,
+16.  
+morske regije,
+17.  
+biogeografske regije,
+18.  
+habitati in biotopi,
+19.  
+porazdelitev vrst,
+20.  
+energetski viri,
+21.  
+mineralni viri.
+(2) Podrobnejše opise tem podatkov iz prejšnjega odstavka objavi
+nacionalna točka za stike na geoportalu za prostorske informacije iz 7. člena
+tega zakona.
+7. člen
+(geoportal za prostorske informacije)
+(1) Za dostop do zbirk prostorskih podatkov in storitev v
+zvezi s prostorskimi podatki ter drugih storitev in informacij v zvezi z
+infrastrukturo za prostorske informacije se vzpostavi osrednji portal za dostop
+do infrastrukture za prostorske informacije (v nadaljnjem besedilu: geoportal
+za prostorske informacije).
+(2) Upravljavec geoportala za prostorske informacije je nacionalna
+točka za stike.
+(3) Nacionalna točka za stike zagotavlja, da so storitve
+infrastrukture za prostorske informacije, ki so sestavni del evropske podatkovne
+infrastrukture, dostopne tudi na geoportalu INSPIRE na ravni Evropske
+skupnosti.
+II. METAPODATKI
+8. člen
+(vsebina metapodatkov)
+(1) Metapodatki se izdelajo, vodijo in vzdržujejo za zbirke prostorskih
+podatkov, ki so vpisane v seznam zbirk prostorskih podatkov, in za storitve v
+zvezi s prostorskimi podatki.
+(2) Metapodatki vključujejo naslednje informacije:
+-       
+ime in opis zbirk prostorskih podatkov in storitev v zvezi s
+prostorskimi podatki ter ključne besede za opis teh zbirk in storitev,
+-       
+o skladnosti zbirk prostorskih podatkov z izvedbenimi pravili, ki
+določajo tehnične ureditve za medopravilnost zbirk prostorskih podatkov in
+storitev v zvezi s prostorskimi podatki, 
+-       
+pogoje za dostop do zbirk prostorskih podatkov in storitev v zvezi s
+prostorskimi podatki in za njihovo uporabo ter morebitna nadomestila za njihovo
+uporabo,
+-       
+o kakovosti in časovni veljavnosti zbirk prostorskih podatkov,
+-       
+o upravljavcih,
+-       
+o morebitnih omejitvah uporabe zbirk prostorskih podatkov in razlogih
+zanje, če omejitve obstajajo.
+9. člen
+(obveznost zagotavljanja metapodatkov)
+(1) Metapodatke izdelajo, vodijo in vzdržujejo upravljavci.
+(2) Metapodatki morajo biti popolni in kakovostni, da
+omogočajo enostavno iskanje in uporabo prostorskih podatkov in storitev v zvezi
+s prostorskimi podatki. Popolnost in kakovost metapodatkov zagotavljajo
+upravljavci.
+(3) Metapodatki se vodijo in vzdržujejo v digitalni obliki v
+informacijskem sistemu za metapodatke, ki je sestavni del geoportala za
+prostorske informacije. Informacijski sistem za metapodatke mora omogočati, da
+upravljavci metapodatke za svoje zbirke prostorskih podatkov vnesejo neposredno
+v informacijski sistem za metapodatke in jih vzdržujejo v njem oziroma da
+informacijski sistem za metapodatke prevzame ali poveže metapodatke iz
+informacijskih sistemov zbirk prostorskih podatkov. Informacijski sistem za
+metapodatke vzpostavi, vodi in vzdržuje nacionalna točka za stike.
+(4) Metapodatki za nove zbirke prostorskih podatkov in storitve
+v zvezi s prostorskimi podatki morajo biti izdelani ob vzpostavitvi nove
+zbirke, najpozneje pa v dveh letih od uveljavitve predpisa, ki določa novo
+zbirko prostorskih podatkov.
+III. MEDOPRAVILNOST ZBIRK PROSTORSKIH PODATKOV IN STORITEV V
+ZVEZI S PROSTORSKIMI PODATKI
+10. člen
+(medopravilnost)
+(1) Medopravilnost omogoča povezovanje zbirk prostorskih podatkov
+in vzajemnega delovanja storitev v zvezi s prostorskimi podatki na način, ki ne
+zahteva ročnih posegov in daskladen rezultat ter poveča dodano vrednost zbirk
+prostorskih podatkov in storitev v zvezi s prostorskimi podatki.
+(2) Medopravilnost zbirk prostorskih podatkov, ki so vpisane v
+seznam zbirk prostorskih podatkov, in storitev v zvezi s prostorskimi podatki,
+ki ustrezajo temam prostorskih podatkov iz 6. člena tega zakona, zagotavljajo
+upravljavci.
+(3) Z medopravilnostjo mora biti zagotovljena povezava med
+različnimi prostorskim podatki, ki se nanašajo na isti kraj, in med istimi
+prostorskimi podatki, ki se nanašajo na isti prostorski objekt, kadar je ta
+predstavljen v različnih merilih.
+(4) Informacije za izvedbo in zagotavljanje medopravilnosti zbirk
+prostorskih podatkov in z njimi povezanih storitev, vključno s podatki, kodami
+in tehničnimi razvrstitvami, so osebam javnega prava in tretjim osebam dostopne
+preko geoportala za prostorske informacije brezplačno.
+11. člen
+(medopravilnost pri vzpostavitvi nove zbirke prostorskih podatkov
+ali prenovi zbirke prostorskih podatkov)
+Pri vzpostavitvi nove zbirke prostorskih podatkov ali prenovi
+zbirke prostorskih podatkov, ki je vpisana v seznam zbirk prostorskih podatkov,
+mora upravljavec določiti:
+-       
+pravila za enolično označevanje prostorskih objektov, če se prostorski
+objekti prvič evidentirajo, oziroma se mora prevzeti označevanje prostorskih
+objektov, če so prostorski objekti že enolično označeni v drugi izvorni zbirki
+prostorskih podatkov, pri čemer lahko upravljavec uvede svojo enolično
+označitev, vendar mora zagotoviti povezavo te označitve z označitvijo v izvorni
+zbirki podatkov,
+-       
+razmerja med prostorskimi objekti, za katere se vzpostavljajo prostorski
+podatki v novi ali prenovljeni zbirki,
+-       
+glavne značilnosti in ustrezne večjezične slovarje, ki se običajno
+zahtevajo pri politikah, ki lahko vplivajo na okolje,
+-       
+informacije o časovnem obdobju veljavnosti podatkov,
+-       
+način in obdobje vzdrževanja podatkov.
+12. člen
+(čezmejni pojavi)
+O opisu in položaju prostorskih podatkov, ki se nanašajo na
+geografske pojave na meji med Republiko Slovenijo in eno ali več sosednjimi
+državami, se upravljavci zbirk prostorskih podatkov, ob sodelovanju nacionalne
+točke za stike, dogovorijo z upravljavci zbirk prostorskih podatkov iz
+sosednjih držav.
+IV. OMREŽNE STORITVE
+13. člen
+(omrežne storitve)
+(1) Za zbirke prostorskih podatkov in storitve v zvezi s
+prostorskimi podatki, za katere so bili ustvarjeni metapodatki v skladu s tem
+zakonom, upravljavci zagotovijo naslednje storitve, dostopne na svetovnem
+spletu ali drugem ustreznem telekomunikacijskem omrežju (v nadaljnjem besedilu:
+omrežne storitve):
+-       
+storitve iskanja, ki omogočajo iskanje zbirk prostorskih podatkov in
+storitev v zvezi s prostorskimi podatki na podlagi vsebine metapodatkov ter
+prikazovanje vsebine metapodatkov,
+-       
+storitve pregledovanja, ki omogočajo minimalno prikazovanje, krmarjenje,
+povečanje oziroma pomanjšanje, panoramski pregled ali prosojno prekrivanje
+zbirk prostorskih podatkov ter prikazovanje vsebin metapodatkov v skladu z
+8. členom tega zakona,
+-       
+storitve prenosa, ki omogočajo prenos izvodov zbirk ali delov zbirk
+prostorskih podatkov in neposredni dostop, kadar je izvedljivo,
+-       
+storitve preoblikovanja, ki omogočajo spreminjanje zbirk prostorskih
+podatkov zaradi zagotavljanja medopravilnosti,
+-       
+storitve, ki omogočajo priklic drugih storitev v zvezi s prostorskimi
+podatki.
+(2) Omrežne storitve morajo biti preproste za uporabo, javne
+in lahko dostopne.
+(3) Opise omrežnih storitev, programskih rešitev, postopkov in
+načinov uporabe omrežnih storitev objavi nacionalna točka za stike na geportalu
+za prostorske informacije na predlog upravljavcev. Uporaba opisov je
+brezplačna.
+14. člen
+(tehnične možnosti za povezave)
+(1) Ministrstvo, pristojno za javno upravo, zagotovi osebam
+javnega prava tehnične možnosti za povezavo njihovih zbirk prostorskih podatkov
+in storitev v zvezi s prostorskimi podatki z omrežnimi storitvami v državnem
+komunikacijskem omrežju.
+(2) Ministrstvo, pristojno za javno upravo, tretjim osebam na
+njihovo zahtevo omogoči vzpostavitev povezave v državno komunikacijsko omrežje,
+če so upravljavci zbirke prostorskih podatkov, ki je vpisana v seznam zbirk
+prostorskih podatkov, in izpolnjujejo tehnične pogoje za vzpostavitev povezave v
+državno komunikacijsko omrežje. O zahtevi odloči ministrstvo, pristojno za
+javno upravo. Stroške vzpostavitve in vzdrževanja povezave krijejo tretje osebe
+same.
+(3) Tehnične pogoje za vzpostavitev povezave v državno komunikacijsko
+omrežje iz prejšnjega odstavka določi ministrstvo, pristojno za javno upravo,
+in jih objavi na svojih spletnih straneh.
+15. člen
+(omejitev javnega dostopa)
+(1) Upravljavci lahko omejijo javni dostop do zbirk
+prostorskih podatkov in omrežnih storitev iz prve alineje prvega odstavka
+13. člena tega zakona za podatke, glede katerih je na podlagi zakona, ki
+ureja dostop do informacij javnega značaja, mogoče zavrniti zahtevo za dostop
+do informacij javnega značaja iz razloga, ker gre za podatek, ki je na podlagi
+zakona, ki ureja tajne podatke, opredeljen kot tajen.
+(2) Upravljavci lahko omejijo javni dostop do zbirk
+prostorskih podatkov in omrežnih storitev iz druge, tretje, četrte in pete
+alineje prvega odstavka 13. člena tega zakona za naslednje podatke, glede
+katerih je na podlagi zakona, ki ureja dostop do informacij javnega značaja,
+mogoče zavrniti zahtevo za dostop do informacij javnega značaja:
+-       
+podatek, ki je na podlagi zakona, ki ureja tajne podatke, opredeljen kot
+tajen;
+-       
+podatek, ki je opredeljen kot poslovna skrivnost v skladu z zakonom, ki
+ureja gospodarske družbe;
+-       
+osebni podatek, katerega razkritje bi pomenilo kršitev varstva osebnih
+podatkov v skladu z zakonom, ki ureja varstvo osebnih podatkov;
+-       
+podatek, ki je bil pridobljen ali sestavljen zaradi kazenskega pregona
+ali v zvezi z njim, ali postopka s prekrški in bi njegovo razkritje škodovalo
+njegovi izvedbi;
+-       
+podatek, ki je bil pridobljen ali sestavljen zaradi upravnega postopka,
+in bi njegovo razkritje škodovalo njegovi izvedbi;
+-       
+podatek, ki je bil pridobljen ali sestavljen zaradi pravdnega,
+nepravdnega ali drugega sodnega postopka, in bi njegovo razkritje škodovalo
+njegovi izvedbi.
+(3) Ne glede na določbe prvega in drugega odstavka tega člena
+prosilec lahko zahteva dostop do zbirk prostorskih podatkov in storitve iz prve
+alineje prvega odstavka 13. člena tega zakona s sklicevanjem na prevladujoči
+javni interes za razkritje. Če upravljavec zahtevi ugodi, ne izda posebne
+odločbe, temveč o tem napravi uradni zaznamek. Če upravljavec zahtevo za dostop
+delno ali v celoti zavrne, o tem izda pisno odločbo, zoper katero ima prosilec
+pravico do pritožbe. O pritožbi odloča pooblaščenec za dostop do informacij
+javnega značaja, zoper odločbo pooblaščenca pa je mogoče začeti upravni spor.
+(4) Ne glede na določbe prvega in drugega odstavka tega člena
+se dostop do zbirk prostorskih podatkov in storitev iz prvega in drugega
+odstavka tega člena dovoli, če gre za podatke glede emisij v okolje, odpadkov,
+nevarnih snovi v obratu ali podatke iz varnostnega poročila in druge podatke,
+za katere tako določa zakon, ki ureja varstvo okolja.
+16. člen
+(zaračunavanje omrežnih storitev)
+(1) Uporaba omrežnih storitev iskanja zbirk iz prve alineje prvega
+odstavka 13. člena tega zakona in pregledovanja podatkov iz druge alineje
+prvega odstavka 13. člena tega zakona je brezplačna.
+(2) Podatki, ki so na voljo prek omrežnih storitev
+pregledovanja podatkov iz druge alineje prvega odstavka 13. člena tega zakona,
+so lahko v obliki, ki preprečuje njihovo ponovno uporabo za komercialne namene.
+(3) Za uporabo omrežnih storitev prenosa podatkov ali dela
+podatkov iz tretje alineje prvega odstavka 13. člena tega zakona, storitve
+preoblikovanja zbirk prostorskih podatkov zaradi zagotavljanja medopravilnosti
+iz četrte alineje prvega odstavka 13. člena tega zakona in priklic drugih
+storitev v zvezi s prostorskimi podatki iz pete alineje prvega odstavka 13.
+člena tega zakona lahko upravljavci zaračunavajo stroške za uporabo omrežnih
+storitev. Stroški za uporabo omrežnih storitev se določijo največ v višini, ki
+zagotavlja vzdrževanje zbirk prostorskih podatkov in storitve v zvezi s
+prostorskimi podatki, v stroškovniku. Zagotavljanje omrežnih storitev je lastna
+dejavnost upravljavca, prihodki od zaračunanih stroškov pa se lahko uporabijo
+le za vzdrževanje zbirk prostorskih podatkov in storitev v zvezi s prostorskimi
+podatki.
+(4) Vlada Republike Slovenije (v nadaljnjem besedilu: vlada)
+predpiše podrobnejša merila in pogoje za določanje stroškov za uporabo omrežnih
+storitev iz prejšnjega odstavka.
+(5) Če upravljavec zaračunava stroške za uporabo omrežnih storitev,
+mora stroškovnik iz tretjega odstavka tega člena objaviti v svojem katalogu
+informacij javnega značaja in na geoportalu za prostorske informacije ter ga
+dati na vpogled vsakemu prosilcu.
+(6) Če upravljavci zaračunavajo stroške za uporabo omrežnih storitev,
+morajo zagotoviti elektronsko poslovanje in omogočiti plačilo storitve z vsemi
+veljavnimi plačilnimi instrumenti.
+(7) Uporaba omrežnih storitev iz prvega odstavka 13. člena tega
+zakona je za osebe javnega prava za opravljanje nalog javnega značaja
+brezplačna. 
+V. POGOJI SOUPORABE PODATKOV IN STORITEV
+17. člen
+(souporaba podatkov in storitev)
+(1) Upravljavci morajo osebam javnega prava zagotoviti dostop
+do zbirk prostorskih podatkov in storitev v zvezi s prostorskimi podatki ter
+izmenjavo in uporabo teh zbirk in storitev (v nadaljnjem besedilu: souporaba
+podatkov in storitev) za opravljanje nalog, ki sodijo v delovno področje osebe
+javnega prava, oziroma nalog, za katere je bila oseba javnega prava
+ustanovljena (v nadaljnjem besedilu: naloge javnega značaja), ki lahko vplivajo
+na okolje. Souporaba podatkov in storitev je za osebe javnega prava za
+opravljanje nalog javnega značaja brezplačna. Zagotavljanje souporabe podatkov
+in storitev za opravljanje nalog javnega značaja je med osebami javnega prava
+brez omejitev.
+(2) Upravljavci lahko omejijo souporabo podatkov in storitev
+za naslednje podatke, glede katerih je na podlagi zakona, ki ureja dostop do
+informacij javnega značaja, mogoče zavrniti zahtevo za dostop do informacij
+javnega značaja:
+-       
+podatek, ki je na podlagi zakona, ki ureja tajne podatke, opredeljen kot
+tajen ali
+-       
+podatek, ki je bil pridobljen ali sestavljen zaradi pravdnega,
+nepravdnega ali drugega sodnega postopka, in bi njegovo razkritje škodovalo
+njegovi izvedbi.
+(3) Podatki iz zbirk prostorskih podatkov in storitve v zvezi
+s prostorskimi podatki, ki jih osebe javnega prava posredujejo institucijam in
+organom Evropske skupnosti za izpolnitev obveznosti poročanja na podlagi
+predpisov Evropske skupnosti, povezanih z okoljem, se ne zaračunavajo.
+(4) Upravljavci lahko javnim organom drugih držav iz
+9. točke 3. člena direktive INSPIRE (v nadaljnjem besedilu: javni
+organi drugih držav) ter institucijam in organom Evropske skupnosti souporabo
+podatkov in storitev zaračunajo. Pri zaračunavanju souporabe podatkov in
+storitev morajo biti pristojbine ohranjene na minimumu, potrebnem za
+zagotovitev ustrezne kakovosti in zagotavljanja zbirk prostorskih podatkov in
+storitev v zvezi s prostorskimi podatki skupaj z razumno donosnostjo naložbe.
+Pristojbine morajo ustrezati splošnemu cilju olajševanja skupne uporabe zbirk
+prostorskih podatkov in storitev v zvezi s prostorskimi podatki med javnimi
+organi. Pristojbino za souporabo podatkov in storitev določijo upravljavci v
+stroškovniku.
+(5) Vlada predpiše podrobnejša merila in pogoje za določanje
+pristojbine iz prejšnjega odstavka.
+(6) Ne glede na določbo četrtega odstavka tega člena
+upravljavci omogočijo javnim organom drugih držav ter institucijam in organom
+Evropske skupnosti souporabo podatkov in storitev za namene opravljanja nalog
+javnega značaja, ki lahko vplivajo na okolje, na podlagi dogovora o souporabi
+podatkov in storitev. Pogoje za sklepanje dogovorov in besedila dogovorov
+morajo upravljavci objaviti na geoportalu za prostorske informacije.
+(7) Organizacijam, ustanovljenim z mednarodnimi sporazumi, katerih
+pogodbenice so Evropska skupnost in države članice, se za izvajanje nalog, ki
+lahko vplivajo na okolje, omogoči souporaba podatkov in storitev na podlagi
+dogovora o souporabi podatkov in storitev, ob upoštevanju načela vzajemnosti in
+enakosti.
+(8) Upravljavci omogočijo tretjim osebam souporabo podatkov
+in storitev za namene opravljanja nalog javnega značaja, ki lahko vplivajo na
+okolje, na podlagi dogovora o souporabi podatkov in storitev.
+(9) Če upravljavec zaračunava souporabo podatkov in storitev,
+mora objaviti stroškovnik iz četrtega odstavka tega člena v svojem katalogu
+informacij javnega značaja in na geoportalu za prostorske informacije ter ga
+dati na vpogled vsakemu prosilcu, in zagotoviti pogoje iz šestega odstavka
+prejšnjega člena.
+VI. NACIONALNA TOČKA ZA STIKE
+18. člen
+(nacionalna točka za stike)
+(1) Za stike z Evropsko komisijo v zvezi z direktivo INSPIRE in
+za učinkovito izvajanje infrastrukture za prostorske informacije skrbi
+nacionalna točka za stike.
+(2) Naloge nacionalne točka za stike izvaja ministrstvo, pristojno
+za geodetsko dejavnost (v nadaljnjem besedilu: ministrstvo).
+(3) Nacionalna točka za stike opravlja zlasti naslednje naloge:
+-       
+vodi in vzdržuje seznam zbirk prostorskih podatkov,
+-       
+vodi podrobnejše opise tem prostorskih podatkov,
+-       
+upravlja geoportal za prostorske informacije,
+-       
+vodi in vzdržuje informacijski sistem za metapodatke,
+-       
+skrbi za zagotavljanje medopravilnosti zbirk prostorskih podatkov in
+storitev v zvezi z njimi,
+-       
+pripravlja predloge operativnih programov vlade iz 20. člena tega
+zakona,
+-       
+skrbi za izvajanje izvedbenih pravil direktive INSPIRE v Republiki
+Sloveniji,
+-       
+pripravlja in dopolnjuje strategijo infrastrukture za prostorske informacije,
+-       
+pripravlja program dejavnosti in ukrepov, potrebnih za izpolnjevanje
+zahtev za vzpostavitev infrastrukture za prostorske informacije,
+-       
+pripravlja poročila o zagotavljanju infrastrukture za prostorske informacije
+za Evropsko komisijo.
+(4) Nacionalna točka za stike zagotavlja medopravilnost zbirk
+prostorskih podatkov in storitev v zvezi z njimi iz pete alineje prejšnjega
+odstavka tako, da sodeluje pri usklajevanju predpisov pri vzpostavitvi nove
+zbirke prostorskih podatkov oziroma sodeluje pri prenovi zbirke prostorskih
+podatkov, vpisane v seznam zbirk prostorskih podatkov. Upravljavec zbirke, ki
+se prenavlja, lahko nadaljuje z aktivnostmi le, ko nacionalna točka za stike
+oceni, da predlagan način zagotavlja medopravilnost zbirke prostorskih
+podatkov. Če upravljavec ne zagotovi medopravilnosti, nacionalna točka za stike
+predlaga vladi sprejem ukrepov, potrebnih za zagotovitev medopravilnosti zbirk prostorskih
+podatkov.
+19. člen
+(spremljanje in poročanje)
+(1) Nacionalna točka za stike spremlja vzpostavitev in uporabo
+infrastrukture za prostorske informacije ter Evropski komisiji in javnosti omogoča
+stalen dostop do teh informacij.
+(2) Nacionalna točka za stike vsaka tri leta pripravi
+poročilo o zagotavljanju infrastrukture za prostorske informacije in ga
+predloži vladi v sprejem.
+(3) Vlada pošlje poročilo o zagotavljanju infrastrukture za prostorske
+informacije Evropski komisiji.
+
+Zakon o infrastrukturi za prostorske informacije
+– ZIPI (Uradni list RS, št. 8/10) vsebuje naslednje prehodne in
+končni določbi:
+»VII. PREHODNE DOLOČBE
+20. člen
+(operativni program vlade)
+(1) Za zagotavljanje medopravilnosti zbirk prostorskih podatkov
+in storitev v zvezi s prostorskimi podatki pripravi ministrstvo v sodelovanju z
+ministrstvi, pristojnimi za zbirke prostorskih podatkov, predlog programa
+priprave metapodatkov.
+(2) Program priprave metapodatkov za zbirke prostorskih podatkov,
+ki so vpisane v seznam zbirk prostorskih podatkov, sprejme vlada tako, da se za
+obstoječe zbirke prostorskih podatkov vzpostavijo metapodatki v naslednjih
+rokih:
+-       
+za zbirke prostorskih podatkov, ki se nanašajo na prvo in drugo skupino
+tem podatkov iz 6. člena tega zakona, in za storitve, povezane s temi
+prostorskimi podatki, najpozneje do 3. decembra 2010;
+-       
+za zbirke prostorskih podatkov, ki se nanašajo na tretjo skupino tem
+podatkov iz 6. člena tega zakona in za storitve, povezane s temi prostorskimi
+podatki, najpozneje do 3. decembra 2013.
+21. člen
+(začetek poročanja Evropski
+komisiji)
+Vlada pošlje prvo poročilo o zagotavljanju infrastrukture za
+prostorske informacije iz tretjega odstavka 19. člena tega zakona Evropski
+komisiji najpozneje do 15. maja 2010.
+VIII. KONČNI DOLOČBI
+22. člen
+(prenehanje veljavnosti)
+Z dnem uveljavitve tega zakona preneha veljati drugi stavek
+1. člena Uredbe o prostorskem informacijskem sistemu (Uradni list RS, št.
+119/07).
+23. člen
+(začetek veljavnost)
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o infrastrukturi
+za prostorske informacije – ZIPI-A (Uradni list RS, št. 84/15) vsebuje naslednjo končno določbo:
+»8. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.

@@ -1,0 +1,18 @@
+Text file: ZAKO501.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1582326000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO501
+idPredpisaChng: ZAKO501
+instock: .nan
+naslov: "ZAKON O VI\u0160INI POVRA\u010CIL STRO\u0160KOV V ZVEZI Z DELOM IN NEKATERIH\
+  \ DRUGIH PREJEMKOV (ZPSDP) (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2020/01/2020-01-0198-1997-01-4007-npb4
+sopPredpisa: 2020-01-0198
+sopPredpisaChng: 1997-01-4007

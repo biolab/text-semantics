@@ -1,0 +1,16 @@
+Text file: ZAKO412.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 805845600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO412
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O ZEMLJI\u0160KI KNJIGI"
+npbNum: 0
+path: /1995/15/1995-01-1589
+sopPredpisa: 1995-01-1589
+sopPredpisaChng: null

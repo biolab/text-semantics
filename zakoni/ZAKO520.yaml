@@ -1,0 +1,13 @@
+Text file: ZAKO520.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO520
+idPredpisaChng: ZAKO520
+instock: .nan
+naslov: "ZAKON O POPOTRESNI OBNOVI OBJEKTOV IN SPODBUJANJU RAZVOJA V POSO\u010CJU\
+  \ (ZPOOSRP) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2005/08/2005-01-0896-1998-01-1948-npb6
+sopPredpisa: 2005-01-0896
+sopPredpisaChng: 1998-01-1948

@@ -1,0 +1,17 @@
+Text file: ZAKO104.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 638233200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO104
+idPredpisaChng: ZAKO104
+instock: .nan
+naslov: "ZAKON o javnem to\u017Eilstvu (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /1990/04/1990-03-0410-1977-04-0525-npb3
+sopPredpisa: 1990-03-0410
+sopPredpisaChng: 1977-04-0525

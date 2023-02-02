@@ -1,0 +1,16 @@
+Text file: ZAKO502.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 883609200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO502
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O UKINITVI PRAVICE DO REGRESA ZA LETNI DOPUST ZA LETO 1998 (ZURD98)
+npbNum: 0
+path: /1997/40/1997-01-4012
+sopPredpisa: 1997-01-4012
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: ZAKO5005.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1206399600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO5005
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O DAVKU NA DOBITKE PRI KLASI\u010CNIH IGRAH NA SRE\u010CO (ZDDKIS)"
+npbNum: 0
+path: /2008/08/2008-01-0888
+sopPredpisa: 2008-01-0888
+sopPredpisaChng: null

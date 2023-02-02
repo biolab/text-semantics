@@ -1,0 +1,17 @@
+Text file: ZAKO1008.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616799600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO1008
+idPredpisaChng: ZAKO1008
+instock: .nan
+naslov: "ZAKON o izvr\u0161bi in zavarovanju (ZIZ) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 34)"
+npbNum: 34
+path: /2021/07/2021-01-0718-1998-01-2303-npb34
+sopPredpisa: 2021-01-0718
+sopPredpisaChng: 1998-01-2303

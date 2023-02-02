@@ -1,0 +1,20 @@
+Text file: ZAKO513.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1530396000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1526680800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO513
+idPredpisaChng: ZAKO513
+instock: .nan
+naslov: "ZAKON o varstvu potro\u0161nikov (ZVPot) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 12)"
+npbNum: 12
+path: /2018/14/2018-01-1409-1998-01-0815-npb12
+sopPredpisa: 2018-01-1409
+sopPredpisaChng: 1998-01-0815

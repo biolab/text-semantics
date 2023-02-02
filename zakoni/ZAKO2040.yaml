@@ -1,0 +1,17 @@
+Text file: ZAKO2040.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1498860000000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2040
+idPredpisaChng: ZAKO2040
+instock: .nan
+naslov: "ZAKON o vojnih grobi\u0161\u010Dih (ZVG) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2017/17/2017-01-1754-2003-01-3144-npb2
+sopPredpisa: 2017-01-1754
+sopPredpisaChng: 2003-01-3144

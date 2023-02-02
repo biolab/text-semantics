@@ -1,0 +1,14 @@
+Text file: ZAKO227.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO227
+idPredpisaChng: ZAKO227
+instock: .nan
+naslov: "ZAKON o trajnem prenehanju izkori\u0161\u010Danja uranove rude in prepre\u010D\
+  evanju posledic rudarjenja v Rudniku urana \u017Dirovski vrh (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2006/08/2006-01-0845-1992-01-1788-npb3
+sopPredpisa: 2006-01-0845
+sopPredpisaChng: 1992-01-1788

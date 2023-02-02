@@ -1,0 +1,16 @@
+Text file: ZAKO480.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 861919200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO480
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O TR\u017DNI IN\u0160PEKCIJI (ZTI)"
+npbNum: 0
+path: /1997/11/1997-01-1138
+sopPredpisa: 1997-01-1138
+sopPredpisaChng: null

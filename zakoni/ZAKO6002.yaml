@@ -1,0 +1,20 @@
+Text file: ZAKO6002.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1393628400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1386370800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO6002
+idPredpisaChng: ZAKO6002
+instock: .nan
+naslov: "ZAKON O ZAPOSLOVANJU IN DELU TUJCEV (ZZDT-1) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/36/2013-01-3600-2011-01-1152-npb2
+sopPredpisa: 2013-01-3600
+sopPredpisaChng: 2011-01-1152

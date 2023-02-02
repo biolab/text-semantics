@@ -1,0 +1,16 @@
+Text file: ZAKO399.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 798501600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO399
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O PORAVNAVANJU OBVEZNOSTI DO BANK IZ IZPLA\u010CANIH DEVIZNIH VLOG"
+npbNum: 0
+path: /1995/08/1995-01-0886
+sopPredpisa: 1995-01-0886
+sopPredpisaChng: null

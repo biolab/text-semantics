@@ -1,0 +1,13 @@
+Text file: ZAKO420.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO420
+idPredpisaChng: ZAKO420
+instock: .nan
+naslov: "ZAKON O POMILOSTITVI (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 2) "
+npbNum: 2
+path: /2005/07/2005-01-0775-1995-01-2165-npb2
+sopPredpisa: 2005-01-0775
+sopPredpisaChng: 1995-01-2165

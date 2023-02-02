@@ -1,0 +1,17 @@
+Text file: ZAKO123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 696985200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO123
+idPredpisaChng: ZAKO123
+instock: .nan
+naslov: "ZAKON o prepovedi nomadske pa\u0161e (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 3)"
+npbNum: 3
+path: /1992/02/1992-01-0246-1974-04-0449-npb3
+sopPredpisa: 1992-01-0246
+sopPredpisaChng: 1974-04-0449

@@ -1,0 +1,17 @@
+Text file: ZAKO199.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1075417200000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO199
+idPredpisaChng: ZAKO199
+instock: .nan
+naslov: "ZAKON o pokopali\u0161ki in pogrebni dejavnosti ter o urejanju pokopali\u0161\
+  \u010D (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2004/00/2004-01-0064-1984-04-1606-npb2
+sopPredpisa: 2004-01-0064
+sopPredpisaChng: 1984-04-1606

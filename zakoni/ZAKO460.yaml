@@ -1,0 +1,13 @@
+Text file: ZAKO460.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ZAKO460
+idPredpisaChng: ZAKO460
+instock: .nan
+naslov: "ZAKON O \u0160OLSKI IN\u0160PEKCIJI (ZSolI) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2005/50/2005-01-5039-1996-01-1827-npb2
+sopPredpisa: 2005-01-5039
+sopPredpisaChng: 1996-01-1827

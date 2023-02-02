@@ -1,0 +1,18 @@
+Text file: ZAKO400.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 818463600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO400
+idPredpisaChng: ZAKO400
+instock: .nan
+naslov: "ZAKON o ukrepih za sanacijo gospodarskega polo\u017Eaja TAM Maribor, d.d.\
+  \ in njegovih odvisnih dru\u017Eb ter Avtomonta\u017Ee AM BUS, d.o.o., Ljubljana\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /1995/32/1995-01-3296-1995-01-0951-npb1
+sopPredpisa: 1995-01-3296
+sopPredpisaChng: 1995-01-0951

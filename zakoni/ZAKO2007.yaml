@@ -1,0 +1,16 @@
+Text file: ZAKO2007.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 933976800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2007
+idPredpisaChng: null
+instock: .nan
+naslov: ZAKON O STANDARDIZACIJI (ZSta-1)
+npbNum: 0
+path: /1999/27/1999-01-2794
+sopPredpisa: 1999-01-2794
+sopPredpisaChng: null

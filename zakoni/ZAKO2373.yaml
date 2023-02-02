@@ -1,0 +1,17 @@
+Text file: ZAKO2373.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- -651286800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO2373
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON o priznanju veljavnosti zakonskih zvez, sklenjenih pred 9. majem 1946,\
+  \ ki se jim je po prej\u0161njih predpisih oporekala veljavnost"
+npbNum: 0
+path: /1949/00/1949-05-0090
+sopPredpisa: 1949-05-0090
+sopPredpisaChng: null

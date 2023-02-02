@@ -1,0 +1,17 @@
+Text file: ZAKO5050.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1660773600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO5050
+idPredpisaChng: ZAKO5050
+instock: .nan
+naslov: "KAZENSKI ZAKONIK (KZ-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 11)"
+npbNum: 11
+path: /2022/26/2022-01-2603-2008-01-2296-npb11
+sopPredpisa: 2022-01-2603
+sopPredpisaChng: 2008-01-2296

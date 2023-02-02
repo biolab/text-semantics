@@ -1,0 +1,19 @@
+Text file: ZAKO8060.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609282800000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO8060
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON O FINAN\u010CNI RAZBREMENITVI OB\u010CIN (ZFRO)"
+npbNum: 0
+path: /2020/32/2020-01-3287
+sopPredpisa: 2020-01-3287
+sopPredpisaChng: null

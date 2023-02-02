@@ -1,0 +1,16 @@
+Text file: ZAKO8435.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1651701600000000000
+- null
+- null
+- 10
+idPredpisa: ZAKO8435
+idPredpisaChng: null
+instock: .nan
+naslov: "ZAKON ZA UREJANJE POLO\u017DAJA \u0160TUDENTOV (ZUP\u0160-1)"
+npbNum: 0
+path: /2022/11/2022-01-1186
+sopPredpisa: 2022-01-1186
+sopPredpisaChng: null
