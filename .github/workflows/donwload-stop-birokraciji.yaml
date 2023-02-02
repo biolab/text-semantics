@@ -1,7 +1,7 @@
 name: Download stop birokraciji
 
 on:
-  pull_request:
+  push:
     branches:
     - main  # todo: change to periodical
 
@@ -23,7 +23,7 @@ jobs:
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
-        # if: ${{ github.ref == 'refs/heads/main' }}  todo: enable
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}  # created by workflow
           publish_dir: ./data/stop-birokraciji
