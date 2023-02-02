@@ -20,7 +20,7 @@ jobs:
           - scraper: zakoni
             script: opsi_laws_scrapper.py ZAKO
             publish_dir: regulations
-          - scraper: zakoni
+          - scraper: podzakonski-akti
             script: opsi_laws_scrapper.py PRAV SKLE URED ODLO ODRE AKT_ KOLP STAT TARI POSL RESO DEKL MERI NACP USTZ STRA USTA
             publish_dir: regulations
     runs-on: ubuntu-latest
