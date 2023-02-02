@@ -1,0 +1,18 @@
+Text file: AKT_837.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1543618800000000000
+- null
+- null
+- 10
+idPredpisa: AKT_837
+idPredpisaChng: AKT_837
+instock: .nan
+naslov: "SPLO\u0160NI AKT o na\u010Dinu izra\u010Duna vi\u0161ine pla\u010Dil za uporabo\
+  \ elementov o\u0161tevil\u010Denja (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2018/35/2018-01-3532-2013-01-1222-npb3
+sopPredpisa: 2018-01-3532
+sopPredpisaChng: 2013-01-1222

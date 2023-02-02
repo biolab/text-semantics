@@ -1,0 +1,18 @@
+Text file: URED3942.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1136934000000000000
+- null
+- null
+- 10
+idPredpisa: URED3942
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o prepovedi izpolnjevanja zahtevkov s pogodbami in transakcijami,\
+  \ na izvajanje katerih vplivajo Resolucija Varnostnega sveta Zdru\u017Eenih narodov\
+  \ 757 (1992) in sorodne resolucije"
+npbNum: 0
+path: /2005/51/2005-01-5190
+sopPredpisa: 2005-01-5190
+sopPredpisaChng: null

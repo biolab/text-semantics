@@ -1,0 +1,17 @@
+Text file: NACP51.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1217541600000000000
+- null
+- null
+- 10
+idPredpisa: NACP51
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o nacionalnem planu zdravstvenega varstva 2008\u22122013 \xBB\
+  Zadovoljni uporabniki in izvajalci zdravstvenih storitev\xAB (ReNPZV)"
+npbNum: 0
+path: /2008/31/2008-01-3163
+sopPredpisa: 2008-01-3163
+sopPredpisaChng: null

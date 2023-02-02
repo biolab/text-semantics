@@ -1,0 +1,17 @@
+Text file: SKLE6300.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1141426800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE6300
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi prodajne vrednosti za eno tono \u0161koljk za leto\
+  \ 2006"
+npbNum: 0
+path: /2006/09/2006-01-0968
+sopPredpisa: 2006-01-0968
+sopPredpisaChng: null

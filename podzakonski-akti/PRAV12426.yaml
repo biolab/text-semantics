@@ -1,0 +1,16 @@
+Text file: PRAV12426.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1472248800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12426
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o metodologiji in obvezni vsebini lokalnega energetskega koncepta
+npbNum: 0
+path: /2016/24/2016-01-2434
+sopPredpisa: 2016-01-2434
+sopPredpisaChng: null

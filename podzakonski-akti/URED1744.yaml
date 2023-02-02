@@ -1,0 +1,18 @@
+Text file: URED1744.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1007161200000000000
+- null
+- null
+- 10
+idPredpisa: URED1744
+idPredpisaChng: URED1744
+instock: .nan
+naslov: "UREDBA o neposrednih pla\u010Dilih za rejo \u017Eivali in plemenskih \u017E\
+  ivali ter podporah za pospe\u0161evanje prodaje kmetijskih pridelkov oziroma \u017E\
+  ivil za leto 2001 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2001/47/2001-01-4766-2001-01-3781-npb2
+sopPredpisa: 2001-01-4766
+sopPredpisaChng: 2001-01-3781

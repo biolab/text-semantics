@@ -1,0 +1,1024 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(Splošno)
+(1) Ta pravilnik določa metodologijo za posredovanje in
+analizo podatkov o plačah in drugih izplačilih (v nadaljnjem besedilu: plače) v
+javnem sektorju (v nadaljnjem besedilu: metodologija) v skladu z 38. in 39.
+členom Zakona o sistemu plač v javnem sektorju (Uradni list RS, št. 95/07 –
+uradno prečiščeno besedilo v nadaljnjem besedilu: ZSPJS). 
+(2) Metodologija je podlaga za oblikovanje informacijskega
+sistema za posredovanje in analizo podatkov o plačah v javnem sektorju – ISPAP
+(v nadaljnjem besedilu: informacijski sistem), ki se vzpostavi pri Agenciji
+Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu:
+agencija).
+2. člen
+(Vsebina)
+Metodologija določa vsebino, obliko in način prenosa podatkov
+o plačah proračunskega uporabnika, ki jih ministrstvo, pristojno za sistem plač
+v javnem sektorju (v nadaljnjem besedilu: ministrstvo), uporablja za pripravo
+analiz v skladu z 39. členom ZSPJS.
+3. člen
+(Veljavnost)
+Določbe tega pravilnika veljajo za vse uporabnike proračuna,
+kakor jih določa Sklep o subjektih, za katere velja Zakon o sistemu plač v
+javnem sektorju (Uradni list RS, št. 115/02).
+II. POSREDOVANJE PODATKOV O PLAČAH PRORAČUNSKIH UPORABNIKOV
+4. člen
+(Rok za posredovanje podatkov)
+Uporabnik proračuna mora podatke o plačah poslati agenciji
+naslednji delovni dan po izplačilu plač oziroma najpozneje do 18. dne v mesecu.
+5. člen
+(Nezmožnost posredovanja podatkov)
+Če uporabnik proračuna ne pošlje podatkov v predpisanem roku,
+mora v pisni, elektronski ali drugi primerni obliki pojasniti razloge
+ministrstvu in agenciji.
+6. člen
+(Način posredovanja podatkov)
+(1) Podatki o plačah se pošljejo agenciji v elektronski
+obliki. 
+(2) Podatki o plačah morajo biti kodirani in digitalno
+podpisani s kvalificiranim potrdilom za pravne osebe enega od overiteljev
+digitalnih potrdil, ki so vpisani v Register overiteljev spletnih digitalnih
+potrdil v Republiki Sloveniji in jih v aplikacijah podpira agencija. 
+(3) Če podatke o plačah pošilja drug poslovni subjekt, ga
+mora za to pooblastiti uporabnik proračuna. Uporabnik proračuna predloži
+agenciji pred prvim pošiljanjem podatkov pooblastilo z navedbo identifikacijske
+številke kvalificiranega potrdila pošiljatelja. Če pošiljatelj nima šifre
+proračunskega uporabnika, mu agencija dodeli ustrezno šifro za pošiljanje
+podatkov (v nadaljnjem besedilu: šifra pošiljatelja). 
+(4) Uporabnik proračuna mora izpolniti vlogo za način
+posredovanja podatkov o plačah v javnem sektorju, ki jo zagotovi agenciji vsaj
+30 dni pred prvim pošiljanjem. 
+(5) Vloga iz prejšnjega odstavka je kot priloga sestavni del
+tega pravilnika.
+7. člen
+(Sklopi podatkov)
+(1) Podatki, ki se zbirajo in analizirajo v informacijskem
+sistemu, so določeni v 2. in 3. členu Uredbe o enotni metodologiji in obrazcih
+za obračun in izplačilo plač v javnem sektorju (Uradni list RS, št. 109/2007). 
+(2) Uporabnik proračuna predloži naslednje podatke: 
+Identifikacija obračuna: 
+-       
+datum pošiljanja obračuna (LLLL-MM-DD) 
+-       
+ura pošiljanja obračuna (HH:MM:SS) 
+-       
+zaporedna številka paketa 
+-       
+šifra poročevalca 
+-       
+ime datoteke. 
+Podatki o proračunskem uporabniku: 
+-       
+šifra proračunskega uporabnika (Z350) 
+-       
+naziv proračunskega uporabnika 
+-       
+elektronski naslov (elektronski naslov za sprejemanje obvestil) 
+-       
+mesec obračuna (Z010) 
+-       
+leto obračuna (Z010) 
+-       
+dan izplačila 
+-       
+mesec izplačila 
+-       
+leto izplačila 
+-       
+oznaka obračuna. 
+Osnovni podatki o obračunu: 
+-       
+davčna številka zaposlenega (Z360) 
+-       
+povprečna mesečna delovna obveznost (Z050 / Z052) 
+-       
+valuta obračuna plače (ISO 4217) 
+-       
+devizni tečaj 
+-       
+država zaposlitve (Z520) 
+-       
+pretvornik (Z450) 
+-       
+bruto bruto plača (Z280) 
+-       
+bruto plača (Z080) 
+-       
+osnova za izračun prispevkov (Z270) 
+-       
+osnova za izračun davkov (Z271) 
+-       
+neto plača I (Z290) 
+-       
+neto izplačilo (Z300). 
+Podatki o delovnem mestu: 
+-       
+šifra delovnega mesta (Z370) 
+-       
+plačni razred delovnega mesta (Z380-ZSPJS, priloga 1) 
+-       
+primerljivi znesek plače, določen po predpisih in kolektivnih pogodbah,
+ki se uporabljajo do začetka izplačila plač po ZSPJS (Z111) 
+-       
+znižan primerljivi znesek plače, določen po predpisih in kolektivnih
+pogodbah, ki se uporabljajo do začetka izplačila plač po ZSPJS za ostale
+funkcionarje (Z109) 
+-       
+osnovna plača (Z070) 
+-       
+osnovna plača za krajši delovni čas (Z071) 
+-       
+osnovna plača – za obračun II (Z114) 
+-       
+osnovna plača – za obračun III (Z116) 
+-       
+osnovna plača – za obračun IV (Z118) 
+-       
+osnovna plača – za obračun V (Z108) 
+-       
+osnovna plača – za obračun VI (Z571) 
+-       
+prevedena osnovna plača (Z105) 
+-       
+korekcijska osnovna plača (Z106) 
+-       
+primerljivi znesek plače, določen po ZSPJS (Z104) 
+-       
+skupna razlika za odpravo nesorazmerja (Z107) 
+-       
+razlika odprave nesorazmerja (Z113) 
+-       
+zmanjšanje po uredbi (Z115) 
+-       
+razlika – 14. člen ZSPJS (Z117) 
+-       
+razlika – 15. člen ZSPJS (Z119) 
+-       
+razlika do plače glede na 49. člen ZSPJS (A040) 
+-       
+povečanje osnovne plače po drugem stavku drugega odstavka 59. člena
+Zakona o službi v Slovenski vojski (Z560) 
+-       
+povečanje osnovne plače po četrtem odstavku 58. člena ZSSloV (Z570) 
+-       
+delež zaposlitve na delovnem mestu (Z550) 
+-       
+delež osnovne plače (Z551). 
+Podatki o porabi ur za obdobje obračuna
+plače: 
+-       
+šifra vrste izplačila (tipi izplačil A in B) 
+-       
+vrsta izplačila – opis (opis vrste izplačila) 
+-       
+obdobje obračuna vrste izplačila 
+-       
+število ur (Z060 / Z061) 
+-       
+bruto znesek izplačila za vrsto izplačila (Z040) 
+-       
+neto znesek izplačila za vrsto izplačila. 
+Podatki o vrsti in znesku dodatkov za
+obdobje obračuna: 
+-       
+šifra vrste izplačila (tipi izplačil C – dodatki) 
+-       
+vrsta izplačila – opis (opis vrste izplačila) 
+-       
+obdobje obračuna vrste izplačila 
+-       
+število ur (Z060/Z061) 
+-       
+bruto znesek izplačila za vrsto izplačila (Z040) 
+-       
+neto znesek izplačila za vrsto izplačila. 
+Podatki o vrsti in znesku izplačil za
+delovno uspešnost za obdobje obračuna: 
+-       
+šifra vrste izplačila (tipi izplačil D – delovna uspešnost) 
+-       
+vrsta izplačila – opis (opis vrste izplačila) 
+-       
+obdobje obračuna vrste izplačila 
+-       
+bruto znesek izplačila za vrsto izplačila (Z040) 
+-       
+neto znesek izplačila za vrsto izplačila. 
+Podatki o drugih izplačilih: 
+-       
+šifra vrste izplačila (tipi izplačil: E, F, G, H, I nad uredbo, J, L, N,
+O in R) 
+-       
+vrsta izplačila – opis (opis vrste izplačila) 
+-       
+obdobje obračuna vrste izplačila 
+-       
+število ur (Z060/Z061) 
+-       
+bruto znesek izplačila za vrsto izplačila (Z040) 
+-       
+neto znesek izplačila za vrsto izplačila.
+8. člen
+(Ime datoteke)
+(1) Ime datoteke je sestavljeno iz dveh vsebinskih sklopov in
+ima končnico ".xml": 
+-       
+šifra proračunskega uporabnika oziroma šifra pošiljatelja (5-mestna
+šifra); 
+-       
+zaporedna številka paketa v koledarskem letu, pri čemer so v paketu vsi
+podatki, poslani v posamezni datoteki.
+(2) Ob ponovitvi prenosa že poslanih
+podatkov je treba znova predložiti vse podatke, datoteko pa označiti z isto
+zaporedno številko paketa.
+9. člen
+(Oblika datoteke za posredovanje podatkov)
+(1) Datoteka ima obliko XML. Numerična polja so brez ločila
+tisočic, decimalno ločilo je "." (število je zaokroženo na dve
+decimalni mesti). Kodna preglednica šumnikov je predpisana v glavi dokumenta
+XML. Datumska polja se izpolnijo v obliki LLLL-MM-DD. 
+(2) Datoteka je sestavljena iz blokov s po štirimi sklopi
+podatkov. Število blokov v njej je enako številu proračunskih uporabnikov, za
+katere se poroča. 
+(3) Datoteka ima naslednjo sestavo: 
+-       
+identifikacija obračuna (IDENT), v kateri se navedejo datum in ura
+pošiljanja obračuna, šifra poročevalca in ime datoteke; 
+-       
+naslovni sklop (ZAVEZANCI) identificira proračunskega uporabnika ter
+določa obdobje obračuna in datum izplačila plače. Naveden je na začetku vsakega
+niza štirih sklopov, ki se nanašajo na isto obdobje obračuna plače posameznega
+proračunskega uporabnika; 
+-       
+obračunski sklop (OBRAČUNSKI) identificira podatke zaposlenega (davčna
+številka) in sumarne podatke iz obračuna plače. Tu je tudi podatek "Država
+zaposlitve", ki določa plačo za delo v tujini, če država zaposlitve ni
+"Slovenija"; 
+-       
+sklop za delovno mesto (DELMESTO) identificira obračun plače zaposlenega
+na posameznem delovnem mestu. Če se plača za istega zaposlenega obračuna na več
+delovnih mestih, se za vsako od njih določi svoj sklop (DELMESTO); 
+-       
+sklop vrste izplačila (VRSTEIZPL) določa znesek za vsako vrsto izplačila
+pri posameznem obračunu plače (obračunskem sklopu); 
+-       
+kontrolni sklop (KONTROLNI) navaja število obračunskih sklopov
+(OBRAČUNSKI), število sklopov vrste izplačila (VRSTEIZPL) in vsebuje kontrolne
+skupne vsote za posamezne vrste izplačil za posameznega proračunskega
+uporabnika. 
+(4) Podroben opis sestave XML je del tehnične dokumentacije,
+opis posameznih podatkov znotraj navedenih sklopov pa je naslednji: 
+Identifikacija obračuna
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+ID obračuna
+
+Oznaka, da gre za
+  naslovni stavek (vedno "NS")
+
+
+2.
+
+Datum pošiljanja
+  obračuna 
+
+V obliki LLLL-MM-DD
+  (datum, ko je bil obračun poslan
+
+
+3.
+
+Čas pošiljanja obračuna
+
+V obliki HH:MM:SS (čas,
+  ko je bil obračun poslan)
+
+
+4.
+
+Številka paketa
+
+3-mestna zaporedna
+  številka paketa
+
+
+5.
+
+Šifra poročevalca
+
+5-mestna šifra
+
+
+6.
+
+Ime datoteke
+
+V obliki XXXXX999.XML
+
+
+Podatki o proračunskem uporabniku
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+Šifra proračunskega
+  uporabnika
+
+5-mestna šifra
+
+
+2.
+
+Naziv proračunskega
+  uporabnika
+
+Naziv iz šifranta PU
+
+
+3.
+
+Elektronski naslov
+
+ 
+
+
+4.
+
+Mesec obračuna
+
+V obliki MM (mesec, za
+  katerega se obračunava)
+
+
+5.
+
+Leto obračuna
+
+V obliki LLLL (leto, za
+  katero se bračunava)
+
+
+6.
+
+Dan izplačila
+
+V obliki DD (dan
+  izplačila plače)
+
+
+7.
+
+Mesec izplačila
+
+V obliki MM (mesec
+  izplačila plače)
+
+
+8.
+
+Leto izplačila
+
+V obliki LLLL (leto
+  izplačila plače)
+
+
+9.
+
+Oznaka obračuna
+
+0 – redna transakcija,
+  1 – storno transakcija 2 – preskusna transakcija
+
+
+Obračunski sklop
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+Zaporedna številka
+  obračuna
+
+Numerični podatek
+
+
+2.
+
+Šifra zaposlenega
+
+Davčna številka
+  zaposlenega
+
+
+3.
+
+Povprečna mesečna
+  obveznost
+
+Numerično (prazno,
+  kadar "OS vsebuje združene podatke za obračun zaposlenega na več
+  delovnih mestih) 
+
+
+4.
+
+Valuta izplačila plače 
+
+Numerična šifra valute
+  po standardu ISO 4217
+
+
+5.
+
+Devizni tečaj
+
+Srednji tečaj Banke
+  Slovenija za valuto izplačila
+
+
+6.
+
+Država zaposlitve
+
+Država zaposlitve javnega
+  uslužbenca (Z520)
+
+
+7.
+
+Pretvornik
+
+Pretvornik za delo v
+  tujini (Z450)
+
+
+8.
+
+Bruto plača
+
+Numerično
+
+
+9.
+
+Bruto bruto plača
+
+Numerično (pri zaposlenem na več delovnih mestih se
+  uporabi ustrezen delež skupne bruto bruto plače)
+
+
+10.
+
+Osnova za izračun
+  prispevkov
+
+Numerično (pri zaposlenem na več delovnih mestih se
+  uporabi ustrezen delež skupne osnove)
+
+
+11.
+
+Osnova za davek od
+  osebnih prejemkov
+
+Numerično
+
+
+12.
+
+Neto plača I
+
+Numerično (pri zaposlenem na več delovnih mestih se
+  uporabi ustrezen delež skupne neto plače)
+
+
+13.
+
+Neto izplačilo
+
+Numerično (pri zaposlenem na več delovnih mestih se
+  uporabi ustrezen delež skupnega neto izplačila)
+
+
+Podatki o delovnem mestu
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+šifra delovnega mesta
+
+Šifra iz kataloga
+  delovnih mest, nazivov in funkcij v javnem sektorju (Z370)
+
+
+2.
+
+plačni razred delovnega
+  mesta
+
+ZSPJS, priloga 1 (Z380)
+
+
+3.
+
+primerljivi znesek
+  plače, določen po predpisih in kolektivnih pogodbah, ki se uporabljajo do
+  začetka izplačila plač po ZSPJS 
+
+Numerično (Z111)
+
+
+4.
+
+znižan primerljivi
+  znesek plače določen po predpisih in kolektivnih pogodbah, ki se uporabljajo
+  do začetka izplačila plač po ZSPJS 
+
+Numerično (Z109)
+
+
+5.
+
+osnovna plača
+
+Numerično (Z070)
+
+
+6.
+
+osnovna plača za krajši
+  delovni čas 
+
+Numerično (Z071)
+
+
+7.
+
+osnovna plača – za
+  obračun II
+
+Numerično (Z114)
+
+
+8.
+
+osnovna plača – za
+  obračun III
+
+Numerično (Z116)
+
+
+9.
+
+osnovna plača – za
+  obračun IV
+
+Numerično (Z118)
+
+
+10.
+
+osnovna plača – za
+  obračun V
+
+Numerično (Z108)
+
+
+11.
+
+prevedena osnovna plača
+
+Numerično (Z105)
+
+
+12.
+
+korekcijska osnovna
+  plača
+
+Numerično (Z106)
+
+
+13.
+
+primerljivi znesek
+  plače, določen po ZSPJS
+
+Numerično (Z104)
+
+
+14.
+
+skupna razlika za
+  odpravo nesorazmerja
+
+Numerično (Z107)
+
+
+15.
+
+razlika odprave
+  nesorazmerja
+
+Numerično (Z113)
+
+
+16.
+
+zmanjšanje po uredbi
+
+Numerično (Z115)
+
+
+17.
+
+razlika – 14. člen
+  ZSPJS
+
+Numerično (Z117)
+
+
+18.
+
+razlika do plače glede
+  na 49. člen ZSPJS
+
+Numerično (A040)
+
+
+19.
+
+delež zaposlitve na
+  delovnem mestu 
+
+Numerično (Z550)
+
+
+20.
+
+delež osnovne plače
+
+Numerično (Z551)
+
+
+21.
+
+osnovna plača – za
+  obračun VI
+
+Numerično (Z571)
+
+
+22.
+
+povečanje osnovne plače
+  po drugem stavku drugega odstavka 59. člena Zakona o službi v Slovenski
+  vojski
+
+Numerično (Z560)
+
+
+23.
+
+povečanje osnovne plače
+  po četrtem odstavku 58. člena ZSSloV
+
+Numerično (Z570)
+
+
+24.
+
+razlika – 15. člen
+  ZSPJS (Z119)
+
+Numerično (Z119)
+
+
+Vrste izplačil
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+Šifra vrste izplačila
+
+Tipi izplačil: A, B, C,
+  D, E, F, G, H, I nad uredbo, J (razen J020, J030, J040, J080), L, N, O in R
+  (razen R020, R030)
+
+
+2.
+
+Vrsta izplačila – opis
+
+Opis vrste izplačila
+
+
+3.
+
+Mesec obračuna
+
+V obliki MM (če se
+  izplačuje za različno obdobje, kakor je navedeno v "NS")
+
+
+4.
+
+Leto obračuna
+
+V obliki LLLL (če se
+  izplačuje za različno obdobje, kakor je navedeno v "NS")
+
+
+5.
+
+Število ur
+
+Obvezno za vse vrste
+  izplačil, ki pri načinu izračuna upoštevajo število ur.
+
+
+6.
+
+Bruto znesek izplačila
+
+Numerično (bruto znesek
+  v valuti iz obračunskega stavka po srednjem tečaju Banke Slovenije na dan
+  izplačila)
+
+
+7.
+
+Neto znesek izplačila
+
+Numerično (neto znesek
+  v valuti iz obračunskega stavka po srednjem tečaju Banke Slovenije na dan
+  izplačila)
+
+
+Kontrolni sklop za vsakega proračunskega uporabnika
+
+
+#
+
+Podatek
+
+Opis
+
+
+1.
+
+Število obračunov
+
+Število vseh
+  obračunskih stavkov "ZAVEZANCI"
+
+
+2.
+
+Število vrst izplačil
+
+Število stavkov vrste
+  izplačil "VRSTEIZPL"
+
+
+3.
+
+Vsota vrst izplačila A
+  – bruto
+
+Skupna vsota vseh vrst
+  izplačila A – numerično
+
+
+4.
+
+Vsota vrst izplačila A
+  – neto
+
+Skupna vsota vseh vrst
+  izplačila A – numerično
+
+
+5.
+
+Vsota vrst izplačila B
+  – bruto
+
+Skupna vsota vseh vrst
+  izplačila B – numerično
+
+
+6.
+
+Vsota vrst izplačila B
+  – neto
+
+Skupna vsota vseh vrst
+  izplačila B – numerično
+
+
+7.
+
+Vsota vrst izplačila C
+  – bruto
+
+Skupna vsota vseh vrst
+  izplačila C – numerično
+
+
+8.
+
+Vsota vrst izplačila C
+  – neto
+
+Skupna vsota vseh vrst
+  izplačila C – numerično
+
+
+9.
+
+Vsota vrst izplačila D
+  – bruto
+
+Skupna vsota vseh vrst
+  izplačila D – numerično
+
+
+10.
+
+Vsota vrst izplačila D
+  – neto
+
+Skupna vsota vseh vrst
+  izplačila D – numerično
+
+
+10. člen
+(Potrjevanje prejema in sporočanje napak)
+(1) Informacijski sistem preveri prejete datoteke in pošlje
+potrdilo o prejemu. Če so v datoteki napake, jo sistem v celoti zavrne z
+obrazložitvijo napak. 
+(2) Agencija preveri ustreznost prejetih podatkov v
+informacijski sistem. Datoteko z neustreznimi podatki lahko zavrne, pošiljatelj
+pa jih mora popraviti in datoteko poslati znova.
+III. ANALIZA PODATKOV O PLAČAH V JAVNEM SEKTORJU
+11. člen
+(Podatki za analizo plač)
+Vsi podatki, ki so potrebni za analizo plač v javnem
+sektorju, so določeni v 7. členu tega pravilnika.
+12. člen
+(Opazovani podatki – meritve)
+Osnovne meritve pri analizi plač v javnem sektorju so: 
+-       
+znesek osnovne plače, 
+-       
+število porabljenih ur, 
+-       
+znesek dodatkov, 
+-       
+znesek dela plače za delovno uspešnost, 
+-       
+znesek drugih vrst izplačil.
+13. člen
+(Izhodišča)
+Izhodišča, iz katerih se opazujejo meritve iz prejšnjega
+člena, so naslednja: 
+-       
+čas (leto, četrtletje, mesec), 
+-       
+uporabnik proračuna, 
+-       
+delovno mesto, 
+-       
+naziv oziroma funkcija, 
+-       
+šifra zaposlenega, 
+-       
+plačni razred, 
+-       
+plačna skupina (plačna podskupina), 
+-       
+tarifni razred.
+14. člen
+(Analize)
+(1) Ministrstvo pripravi rezultate analiz v obliki, primerni
+za objavo na spletni strani ali drugih dogovorjenih mestih. 
+(2) Javnosti so v skladu z 38. členom ZSPJS dostopni podatki
+o delovnem mestu, nazivu ali funkciji, o osnovnih plačah, o dodatkih in delu
+plače za delovno uspešnost, razen dodatka za delovno dobo. 
+(3) Objavljeni dokumenti vsebujejo opazovane podatke iz 12.
+člena tega pravilnika, predstavljene po različnih izhodiščih iz 13. člena tega
+pravilnika. 
+(4) Rezultat analize so tudi izračuni po posameznih
+izhodiščih: 
+-       
+vsota zneskov različnih vrst izplačil (vseh plač v javnem sektorju), 
+-       
+število zaposlenih, ki prejemajo različne vrste izplačil, 
+-       
+razmerja med zneski ob spremembi parametrov izračuna plač.
+15. člen
+(Simulacije)
+Ministrstvo nadzorovano spreminja opazovane podatke zaradi
+ugotavljanja učinkov teh sprememb: 
+Simulacije in merjenje učinkov sprememb
+plačnih razredov: 
+Vhodi v sistem za simulacijo: 
+-       
+število plačnih razredov, 
+-       
+število zaposlenih, 
+-       
+osnovne plače v posameznem plačnem razredu. 
+Izhodi iz sistema za simulacije: 
+-       
+skupni obseg sredstev za izplačilo plač, 
+-       
+razmerje med največjo in najmanjšo plačo (osnovno, bruto). 
+Simulacije in merjenje učinkov sprememb dodatkov: 
+Vhodi v sistem za simulacijo: 
+-       
+dodatki, 
+-       
+število zaposlenih. 
+Izhodi iz sistema za simulacije: 
+-       
+skupni obseg sredstev za izplačilo plač, 
+-       
+skupni obseg sredstev za dodatke, 
+-       
+razmerje med največjo in najmanjšo plačo (osnovno, bruto). 
+Simulacije in merjenje učinkov sprememb dela plače za delovno
+uspešnost: 
+Vhodi v sistem za simulacijo: 
+-       
+del plače za delovno uspešnost, 
+-       
+število zaposlenih. 
+Izhodi iz sistema za simulacije: 
+-       
+skupni obseg sredstev za izplačilo plač, 
+-       
+skupni obseg sredstev za uspešnost, 
+-       
+razmerje med največjo in najmanjšo plačo (osnovno, bruto).
+16. člen
+(Podrobnejša navodila)
+Agencija in ministrstvo objavita podrobnejša tehnična
+navodila na svojih spletnih straneh.
+IV. KONČNI DOLOČBI
+17. člen
+(Veljavnost)
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik
+o metodologiji za posredovanje in analizo podatkov o plačah v javnem sektorju
+(Uradni list RS, št. 115/07).
+18. člen
+(Uporaba)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije, uporabljati pa se začne s 1. aprilom 2008.
+Št. 0100-29/2007
+Ljubljana, dne 6. marca 2008
+EVA 2008-3111-0016
+dr. Gregor Virant l.r.
+Minister
+za javno upravo
+
+Priloga: Vloga za
+način pošiljanja podatkov o plačah v javnem sektorju

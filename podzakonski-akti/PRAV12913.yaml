@@ -1,0 +1,17 @@
+Text file: PRAV12913.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1489446000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12913
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o dostopu do podatkov o porabi zemeljskega plina gospodinjskega
+  odjemalca
+npbNum: 0
+path: /2017/04/2017-01-0464
+sopPredpisa: 2017-01-0464
+sopPredpisaChng: null

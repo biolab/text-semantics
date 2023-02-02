@@ -1,0 +1,20 @@
+Text file: PRAV11452.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577833200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1556920800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11452
+idPredpisaChng: PRAV11452
+instock: .nan
+naslov: "PRAVILNIK o izra\u010Dunavanju in poro\u010Danju o stanju rezerv nafte in\
+  \ naftnih derivatov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2019/11/2019-01-1122-2012-01-3863-npb2
+sopPredpisa: 2019-01-1122
+sopPredpisaChng: 2012-01-3863

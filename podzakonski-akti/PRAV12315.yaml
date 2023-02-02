@@ -1,0 +1,17 @@
+Text file: PRAV12315.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1611270000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12315
+idPredpisaChng: PRAV12315
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Sne\u017E\
+  nik (2015\u20132024) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/01/2021-01-0189-2015-01-4316-npb1
+sopPredpisa: 2021-01-0189
+sopPredpisaChng: 2015-01-4316

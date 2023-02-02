@@ -1,0 +1,16 @@
+Text file: SKLE835.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 725151600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE835
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o glavnih znamenjih bankovca za 20 tolarjev
+npbNum: 0
+path: /1992/28/1992-01-2813
+sopPredpisa: 1992-01-2813
+sopPredpisaChng: null

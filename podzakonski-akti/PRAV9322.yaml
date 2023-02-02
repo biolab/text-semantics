@@ -1,0 +1,16 @@
+Text file: PRAV9322.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1256943600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9322
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvr\u0161evanju pooblastil in nalog pravosodnih policistov"
+npbNum: 0
+path: /2009/37/2009-01-3799
+sopPredpisa: 2009-01-3799
+sopPredpisaChng: null

@@ -1,0 +1,601 @@
+1. člen
+(vsebina pravilnika)
+(1) Ta pravilnik določa podrobno vsebino in način vodenja registra
+kulturne dediščine (v nadaljnjem besedilu: register), prikaza vrednotenja
+dediščine v prostoru ter minimalno vsebino in način dokumentiranja dediščine.
+(2) Ta pravilnik določa tudi skupna merila in zahteve za prikaz
+enotnega javnega digitalnega gradiva o dediščini, vključno s knjižničnim in
+arhivskim gradivom, ki jih morajo upoštevati izvajalci registriranja in
+dokumentiranja dediščine.
+(3) Ta pravilnik ne velja za registriranje ter dokumentiranje
+arhivskega in knjižničnega gradiva, ki se po strokovnih merilih in mednarodnih
+priporočilih šteje za arhivsko in knjižno dediščino. Registriranje in
+dokumentiranje arhivskega in knjižničnega gradiva se izvaja v skladu s posebnim
+zakonom in izvršilnimi predpisi, izdanimi na njegovi podlagi.
+2. člen
+(pomen izrazov)
+(1) Posamezni izrazi, uporabljeni v tem pravilniku, imajo naslednji
+pomen:
+1.     
+»aplikativni sistem« je sklop računalniških aplikacij, podatkovnih zbirk
+in sistemov za prenos podatkov, ki podpirajo strokovne, upravne in druge
+postopke pri uporabi sodobne informacijsko telekomunikacijske tehnologije;
+2.     
+»metapodatki« so podatki, ki opisujejo informacijske vire, in s tem
+omogočajo lažjo uporabo teh virov; metapodatki so lahko opisni,
+administrativni, za trajno hrambo, strukturalni in drugi;
+3.     
+»posredovanje oziroma stalen dostop do podatkov« je prenos digitalnih
+podatkov na elektronskem mediju oziroma stalen dostop do podatkov prek spletnih
+storitev;
+4.     
+»spletne storitve« so programska oprema za podporo vzajemnega delovanja
+dveh ali več računalniških sistemov prek omrežja;
+5.     
+»tehnična pravila« so prikaz podrobne tehnične oblike podatkov in
+postopkov, kot so logični in fizični model podatkovne zbirke, klasifikacijske
+sheme, pravila za identifikatorje, obvezni in priporočeni standardi,
+podrobnosti časovnih opredelitev in podobno;
+6.     
+»upravljavec« registra je subjekt, ki v sodelovanju z državnimi organi,
+organi samoupravnih lokalnih skupnosti, s pristojnimi organizacijami in drugimi
+izvaja naloge vzpostavljanja, pripravljanja, vodenja, vzdrževanja in
+spremljanja uporabe registra.
+(2) Preostali izrazi, ki se uporabljajo v tem pravilniku, imajo
+enak pomen kot v Zakonu o varstvu kulturne dediščine (Uradni list RS, št. 16/08
+in 123/08; v nadaljnjem besedilu: zakon).
+3. člen
+(register)
+(1) Register sestavljajo trije medsebojno povezani deli: register
+nepremične dediščine, register premične dediščine in register žive dediščine.
+(2) V registru se vodijo podatki po enotah kulturne dediščine
+(v nadaljnjem besedilu: enota dediščine), kjer je:
+-       
+enota nepremične dediščine: območje dediščine, posamezna nepremičnina
+ali njen del,
+-       
+enota premične dediščine: zbirka ali posamezna premičnina (predmet),
+-       
+enota žive dediščine: živa dediščina s kulturnim prostorom, ki ji
+pripada.
+(3) V registru se vodijo osnovni, varstveni in predstavitveni
+podatki o enotah dediščine.
+4. člen
+(enotna identifikacija dediščine)
+(1) Vsaki enoti dediščine se določi enolična oznaka (v nadaljnjem
+besedilu: enotna identifikacija dediščine, s kratico EID), ki je enotna na
+državni ravni.
+(2) Upravni organi, pristojne organizacije in ostali
+subjekti, ki so v okviru svojih pristojnosti vključeni v varstvo dediščine, se
+morajo pri obravnavi določene enote dediščine sklicevati na enotno
+identifikacijo dediščine.
+(3) Enotna identifikacija dediščine je sestavljena iz dveh delov:
+prvega dela, ki je oznaka pristojne organizacije, in drugega dela, ki je
+zaporedna številka enote dediščine v okviru prvega dela, začenši z 1.
+(4) Oznako pristojne organizacije iz prejšnjega odstavka določi
+minister, pristojen za kulturo (v nadaljnjem besedilu: minister), drugi del
+enotne identifikacije dediščine pa določi za enote nepremične dediščine
+ministrstvo, pristojno za varstvo kulturne dediščine (v nadaljnjem besedilu:
+ministrstvo), za enote premične in žive dediščine pa pristojna organizacija.
+5. člen
+(register nepremične dediščine)
+(1) Register nepremične dediščine vsebuje osnovne podatke, varstvene
+podatke in predstavitvene podatke o enotah nepremične dediščine.
+(2) Osnovni podatki o enotah nepremične dediščine so:
+-       
+enotna identifikacija dediščine,
+-       
+ime,
+-       
+sinonimi imena,
+-       
+tipološka gesla,
+-       
+zvrst dediščine,
+-       
+obseg,
+-       
+opis,
+-       
+datacija,
+-       
+naselje,
+-       
+opis lokacije,
+-       
+geokode lokacije,
+-       
+avtor ali izdelovalec,
+-       
+karakteristična fotografija z navedbo avtorja,
+-       
+varstvene usmeritve,
+-       
+pristojnosti,
+-       
+opombe,
+-       
+podatki o vpisu, spremembah vpisa in izbrisu,
+-       
+povezave z drugimi enotami dediščine (register nepremične dediščine,
+register premične dediščine, register žive dediščine),
+-       
+morebitne omejitve glede javnosti podatkov in
+-       
+zaznamki.
+(3) Varstveni podatki za nepremične spomenike so:
+-       
+enotna identifikacija dediščine,
+-       
+akt o razglasitvi,
+-       
+tip razglasitve (stalna, začasna),
+-       
+obseg razglasitve,
+-       
+pomen spomenika (državni, lokalni),
+-       
+podatki o parcelah,
+-       
+identifikacija nepremičnine po predpisih o evidentiranju nepremičnin,
+-       
+geokode lokacije spomenika,
+-       
+vrednote, ki utemeljujejo razglasitev,
+-       
+varstveni režim,
+-       
+geokode lokacije vplivnega območja,
+-       
+varstveni režim v vplivnem območju,
+-       
+podatki o načrtu upravljanja,
+-       
+podatki o vpisu v zemljiško knjigo,
+-       
+podatki o predkupni pravici,
+-       
+podatki o inventarni knjigi premičnin, ki so sestavni del spomenika,
+-       
+podatki o javni dostopnosti spomenika,
+-       
+opombe varstva,
+-       
+podatki o začetku, spremembah in prenehanju varstva,
+-       
+zaznamki varstva in
+-       
+listine varstva.
+(4) Pobudo za vpis v register nepremične dediščine lahko da
+vsakdo. Predlog za vpis pripravi pristojna organizacija. Predlog vsebuje
+podatke iz drugega odstavka tega člena. Enoto nepremične dediščine v register
+vpiše ministrstvo.
+(5) Za nepremične spomenike pripravi podatke iz tretjega odstavka
+tega člena pristojna organizacija na podlagi predloga za razglasitev ter akta o
+razglasitvi in jih posreduje upravljavcu registra najpozneje do dneva pred
+uveljavitvijo akta o razglasitvi spomenika.
+(6) Spremembe vpisa in izbris osnovnih podatkov iz drugega odstavka
+tega člena ter varstvenih podatkov iz tretjega odstavka tega člena se izvršijo
+s smiselno uporabo določb četrtega in prejšnjega odstavka tega člena.
+(7) Ne glede na določbe prejšnjih odstavkov lahko upravljavec
+registra uskladi oziroma drugače dopolni podatke iz drugega in tretjega
+odstavka tega člena, če to nima za posledico spremembe obsega enote dediščine,
+varstvenih usmeritev dediščine oziroma varstvenega režima spomenika.
+(8) Ne glede na določbe prejšnjih odstavkov tega člena lahko
+upravljavec registra vpiše, spremeni ali dopolni varstvene podatke v skladu z
+veljavnim aktom o razglasitvi.
+6. člen
+(register premične dediščine)
+(1) Register premične dediščine vsebuje osnovne podatke, varstvene
+podatke in predstavitvene podatke o enotah (predmetih in zbirkah) premične
+dediščine.
+(2) Osnovni podatki o enotah (zbirkah) premične dediščine so:
+-       
+enotna identifikacija dediščine,
+-       
+inventarna številka predmeta,
+-       
+ime,
+-       
+sinonimi imena (drugo ime),
+-       
+tipološka gesla (tip predmeta),
+-       
+zvrst dediščine,
+-       
+opis,
+-       
+mere, materiali in tehnike,
+-       
+datacija (izdelava, uporaba),
+-       
+opis lokacije (provenienca, izdelava, uporaba),
+-       
+geokode provenience,
+-       
+trenutna lokacija,
+-       
+avtor ali izdelovalec,
+-       
+karakteristična fotografija (z navedbo avtorja),
+-       
+varstvene usmeritve,
+-       
+pristojnosti (institucija),
+-       
+podatki o inventarni knjigi,
+-       
+opombe (napisi, oznake, razlikovalne posebnosti),
+-       
+podatki o vpisu, spremembah vpisa in izbrisu,
+-       
+povezave z drugimi enotami dediščine (register premične dediščine,
+register nepremične dediščine, register žive dediščine),
+-       
+morebitne omejitve glede javnosti podatkov in
+-       
+zaznamki.
+(3) Varstveni podatki za premične spomenike so:
+-       
+enotna identifikacija dediščine,
+-       
+akt o razglasitvi,
+-       
+tip razglasitve (stalna, začasna),
+-       
+pomen spomenika (državni, lokalni),
+-       
+podatki o lastniku,
+-       
+vrednote, ki utemeljujejo razglasitev,
+-       
+varstveni režim,
+-       
+podatki o javni dostopnosti spomenika,
+-       
+opombe varstva,
+-       
+podatki o začetku, spremembah in prenehanju varstva,
+-       
+zaznamki varstva in
+-       
+listine varstva.
+(4) Podatke iz drugega odstavka tega člena posredujejo pristojne
+organizacije v register praviloma avtomatizirano ali jih napravijo stalno
+dostopne za register prek spletnih storitev:
+-       
+ob vpisu enote premične dediščine v svojo inventarno knjigo na podlagi
+18. člena zakona,
+-       
+ob dokumentiranju in postopkih izvoza ali iznosa nacionalnega bogastva,
+-       
+ob pripravi predloga za razglasitev premične dediščine za kulturni
+spomenik na podlagi 19. člena zakona in
+-       
+ob inventarizaciji premične dediščine, ki je del nepremičnega spomenika
+ali dediščine.
+(5) Podatke iz tretjega odstavka tega člena posredujejo pristojne
+organizacije v register praviloma avtomatizirano ali jih napravijo stalno
+dostopne za register prek spletnih storitev:
+-       
+ob razglasitvi premične dediščine za premični spomenik na podlagi 19.
+člena zakona in
+-       
+ob vpisu premične dediščine v inventarno knjigo premičnin, kadar je ta
+sestavni del nepremičnega spomenika na podlagi drugega odstavka 13. člena
+zakona.
+(6) Spremembe vpisa in izbris osnovnih podatkov iz drugega odstavka
+tega člena ter varstvenih podatkov iz tretjega odstavka tega člena se izvršijo
+s smiselno uporabo določb četrtega in prejšnjega odstavka tega člena.
+(7) Za izvajanje tega člena pripravi upravljavec registra tehnična
+pravila registra premične dediščine in jih objavi na portalu registra.
+7. člen
+(register žive dediščine)
+(1) Register žive dediščine vsebuje osnovne podatke, varstvene
+podatke in predstavitvene podatke o enotah žive dediščine.
+(2) Osnovni podatki o enotah žive dediščine so:
+-       
+enotna identifikacija dediščine,
+-       
+ime,
+-       
+sinonimi imena,
+-       
+tipološka gesla (tipi),
+-       
+opis,
+-       
+utemeljitev,
+-       
+zvrst dediščine,
+-       
+datacija (od‑do),
+-       
+naselje,
+-       
+opis prostora,
+-       
+geokode prostora,
+-       
+nosilec izročila, znanja ali dejavnosti,
+-       
+karakteristični prikaz (fotografija, video, audio) z navedbo avtorja,
+-       
+varstvene usmeritve,
+-       
+pristojnosti,
+-       
+opombe,
+-       
+podatki o vpisu, spremembah vpisa in izbrisu,
+-       
+povezave z drugimi enotami registra (register žive dediščine, register
+nepremične dediščine, register nepremične dediščine),
+-       
+morebitne omejitve glede javnosti podatkov in
+-       
+zaznamki.
+(3) Varstveni podatki za žive mojstrovine so:
+-       
+enotna identifikacija dediščine,
+-       
+akt o razglasitvi,
+-       
+tip razglasitve (stalna, začasna),
+-       
+pomen žive mojstrovine (državni, lokalni),
+-       
+vrednote, ki utemeljujejo razglasitev,
+-       
+varstveni režim,
+-       
+opombe varstva,
+-       
+podatki o začetku, spremembah in prenehanju varstva,
+-       
+zaznamki varstva in
+-       
+listine varstva.
+(4) Pobudo za vpis v register žive dediščine lahko da vsakdo.
+Predlog za vpis pripravi pristojna organizacija. Predlog vsebuje podatke iz
+drugega odstavka tega člena. Enoto žive dediščine v register vpiše ministrstvo.
+(5) Za žive mojstrovine pripravi podatke iz tretjega odstavka
+tega člena pristojna organizacija na podlagi predloga za razglasitev in akta o
+razglasitvi ter jih posreduje upravljavcu registra najpozneje do dneva pred
+uveljavitvijo akta o razglasitvi.
+(6) Spremembe vpisa in izbris osnovnih podatkov iz drugega odstavka
+tega člena ter varstvenih podatkov iz tretjega odstavka tega člena se izvršijo
+s smiselno uporabo določb četrtega in prejšnjega odstavka tega člena.
+(7) Ne glede na določbe četrtega do šestega odstavka lahko
+upravljavec registra uskladi ali drugače dopolni podatke iz drugega in tretjega
+odstavka, če to ne spreminja obsega enote dediščine, varstvenih usmeritev
+dediščine ali varstvenega režima žive mojstrovine.
+(8) Ne glede na določbe prejšnjih odstavkov lahko upravljavec
+registra vpiše, spremeni ali dopolni varstvene podatke v skladu z veljavnim
+aktom o razglasitvi.
+8. člen
+(karakteristična fotografija)
+Karakteristična fotografija iz drugega odstavka 5. člena in drugega
+odstavka 6. člena ter karakteristični prikaz iz drugega odstavka prejšnjega
+člena morajo biti prosti vseh materialnih avtorskih pravic brez časovnih in
+prostorskih omejitev.
+9. člen
+(predstavitveni podatki registra)
+(1) Predstavitveni podatki o enotah dediščine so posamezni informacijski
+zapisi v besedilni, grafični ali drugi medijski obliki, ki dodatno opisujejo
+enoto dediščine.
+(2) Format podatkov iz prejšnjega odstavka mora upoštevati domača
+in mednarodna priporočila in standarde, predvsem odprte standarde, ki veljajo
+za besedilo, fotografijo, zvok, video, multimedijo, prostorske informacije,
+tridimenzionalne predstavitve in navidezno resničnost. Format podatkov mora
+biti primeren za predstavitev na svetovnem spletu.
+(3) Podatki iz prvega odstavka tega člena morajo vsebovati tudi
+metapodatkovni opis, predvsem opisne metapodatke po metapodatkovnem standardu
+Dublin Core. Ta opis mora vsebovati tudi povezave z enotami dediščine.
+(4) Predstavitveni podatki se prevzemajo v register predvsem iz
+vsebin, ki so pomembne za register in ki nastajajo na podlagi financiranja iz
+javnih sredstev. Subjekti, pri katerih nastajajo te vsebine, po končanem
+financiranju posredujejo te podatke upravljavcu registra z upoštevanjem drugega
+in prejšnjega odstavka.
+(5) Predstavitveni podatki se lahko vzdržujejo tudi z ročno, polavtomatizirano
+ali avtomatizirano izdelavo povezav z vsebinami, ki so pomembne za register in
+so objavljene na svetovnem spletu.
+10. člen
+(vodenje registra)
+(1) Upravljavec registra s sodelovanjem državnih organov, organov
+samoupravnih lokalnih skupnosti, pristojnih organizacij in drugih opravlja
+zlasti naslednje naloge:
+-       
+vodi vzpostavitev, razvoj in vzdrževanje registra,
+-       
+spremlja uporabo registra,
+-       
+usklajuje pripravo strokovnih, postopkovnih in tehničnih rešitev za
+sestavo tehničnih pravil, predvidenih s tem pravilnikom,
+-       
+sodeluje pri pripravi priporočil na področju registra,
+-       
+sodeluje pri pripravi klasifikacijskih shem za področje registra,
+-       
+posreduje podatke registra uporabnikom,
+-       
+vodi portal registra in
+-       
+strokovno in tehnično podpira pristojne organizacije in ostale subjekte,
+ki sodelujejo pri vzdrževanju in uporabi registra.
+(2) Upravljavec registra je ministrstvo.
+11. člen
+(uporaba in portal registra)
+(1) Podatki registra se uporabljajo za izvajanje varstva dediščine,
+predstavljanje dediščine domači in mednarodni javnosti, raziskovanje, vzgojo,
+izobraževanje ter za druge nepridobitne in pridobitne dejavnosti.
+(2) Upravljavec registra vzpostavi in vzdržuje portal
+registra. Portal je osrednji portal kulturne dediščine v Sloveniji, povezan s
+širšim prostorom, in vsebuje:
+-       
+pregledovalnik podatkov registra do ravni posamezne enote dediščine,
+-       
+objavo tehničnih pravil registra in drugih predpisov za registriranje in
+dokumentiranje dediščine,
+-       
+povezavo s standardi in priporočili za digitalizacijo, trajno hrambo in
+dostopnost digitalnih kulturnih vsebin,
+-       
+objavo enotnega prikaza javnega digitalnega gradiva o dediščini iz 13.
+člena tega pravilnika,
+-       
+prikaz vrednotenja nepremične dediščine v prostoru in
+-       
+povezavo z drugimi portali digitalnih kulturnih vsebin v Sloveniji,
+Evropi in svetu.
+(3) Podatki na portalu registra so javni, razen osebnih in
+drugih s predpisi zavarovanih podatkov, in so brezplačno dostopni.
+(4) Podatkov iz registra brez soglasja upravljavca ni
+dovoljeno v nobeni obliki reproducirati, dajati na voljo javnosti in predelovati.
+(5) Prikaz vrednotenja nepremične dediščine v prostoru iz
+pete alineje drugega odstavka tega člena vsebuje podatke iz drugega odstavka
+71. člena zakona in prikaze, kot so:
+-       
+kartografski prikazi zgodovinskih stanj (npr. franciscejski kataster),
+-       
+interaktivno tridimenzionalno pregledovanje vidnosti gabaritov kulturne
+dediščine,
+-       
+simulacije negativnih okoljskih vplivov na kulturno dediščino,
+-       
+vrednotenje pozitivnih ekonomskih vplivov kulturne dediščine v prostoru
+(npr. kulturni turizem),
+-       
+prikaz potencialno kritičnih točk varstva dediščine glede na namensko
+rabo prostora,
+-       
+dobre prakse pozitivnih vplivov kulturne dediščine in
+-       
+primeri ravnanja ob naravnih in drugih nesrečah.
+12. člen
+(dokumentiranje)
+(1) Pristojne organizacije morajo dokumentirati dediščino v
+skladu z določbami tega pravilnika, drugimi predpisi o varstvu kulturne
+dediščine, mednarodnimi ter domačimi standardi in priporočili za posamezna
+strokovna področja in internimi pravili pristojnih organizacij.
+(2) Minimalna vsebina dokumentiranja enote dediščine obsega
+dokumentacijski obrazec in dokumentacijo.
+(3) Dokumentacijski obrazec vsebuje pregledni opis vseh ključnih
+stanj in dogodkov varstva enote oziroma enot dediščine, kot so evidentiranje,
+vhodno dokumentiranje, akcesija, inventarizacija, vrednotenje, posegi,
+spremljanje stanja in ogroženosti, premestitve in podobno.
+(4) Dokumentacija je z dokumentacijskim obrazcem povezana zbirka
+pisnih, slikovnih in zvočnih dokumentov in drugih gradiv v analogni ali
+digitalni obliki, ki podrobno dokumentirajo enoto kulturne dediščine.
+(5) Format digitalnih podatkov iz prejšnjega odstavka mora
+upoštevati domača in mednarodna priporočila in standarde, predvsem odprte
+standarde, ki veljajo za besedilo, fotografijo, zvok, multimedijo, prostorske
+informacije, tridimenzionalne predstavitve in navidezno resničnost. Format
+podatkov mora biti primeren za trajno hrambo podatkov.
+(6) Podatki iz četrtega odstavka tega člena morajo vsebovati metapodatkovni
+opis, predvsem opisne metapodatke po metapodatkovnem standardu Dublin Core.
+(7) Dokumentacija v digitalni obliki vsebuje najmanj:
+-       
+za nepremično in premično dediščino več fotografij z različnih pogledov
+ali tridimenzionalni model,
+-       
+za živo dediščino videoposnetek.
+13. člen
+(enoten prikaz javnega digitalnega gradiva o dediščini)
+(1) Enoten prikaz javnega digitalnega gradiva o dediščini vsebuje
+predstavitvene podatke registra, knjižnično in arhivsko gradivo, avdiovizualno
+gradivo in podatke drugih kulturnih organizacij.
+(2) Izvajalci registriranja in dokumentiranja dediščine
+morajo pri vodenju podatkov iz prejšnjega odstavka upoštevati minimalne
+zahteve, ki so po vsebini in obliki določene v drugem in tretjem odstavku 9.
+člena tega pravilnika.
+(3) Enoten prikaz javnega digitalnega gradiva o dediščini se
+na podlagi medopravilnega okvira objavi na portalu registra. Ta okvir je tudi
+nacionalni medopravilni okvir (nacionalni agregator) za Evropsko digitalno
+knjižnico Evropeano in ostale mednarodne portale digitalnih kulturnih vsebin.
+(4) Za izvajanje določb tega člena pripravi upravljavec registra
+skupaj z Narodno univerzitetno knjižnico in Arhivom Republike Slovenije
+tehnična pravila o enotnem prikazu javnega digitalnega gradiva o dediščini in
+jih objavi na portalu registra.
+PREHODNE IN KONČNE DOLOČBE
+14. člen
+(vzpostavitev registra)
+(1) Obstoječi register nepremične kulturne dediščine se uskladi
+z določbami tega pravilnika in začne delovati najpozneje v 12 mesecih po
+uveljavitvi tega pravilnika.
+(2) Register premične dediščine po tem pravilniku se vzpostavi
+in začne delovati najpozneje v 12 mesecih po uveljavitvi tega pravilnika.
+Podatki o enotah premične dediščine, ki so na dan začetka delovanja registra po
+tem pravilniku že vpisane v inventarno knjigo, se posredujejo v register
+najpozneje v 36 mesecih po uveljavitvi tega pravilnika.
+(3) Register žive dediščine po tem pravilniku se vzpostavi in
+začne delovati najpozneje v 12 mesecih po uveljavitvi tega pravilnika.
+15. člen
+(tehnična pravila)
+(1) Tehnična pravila za izvajanje določb o registru premične dediščine
+iz 6. člena tega pravilnika pripravi upravljavec registra in jih objavi na
+portalu registra najpozneje v šestih mesecih po uveljavitvi tega pravilnika.
+(2) Tehnična pravila za izvajanje določb o enotnem prikazu javnega
+digitalnega gradiva o dediščini iz 13. člena tega pravilnika pripravi
+upravljavec registra skupaj z Narodno univerzitetno knjižnico in Arhivom
+Republike Slovenije in jih objavi na portalu registra najpozneje v šestih
+mesecih po uveljavitvi tega pravilnika.
+16. člen
+(aplikativni sistemi)
+(1) Aplikativni sistem za podporo delovanju registra
+nepremične dediščine iz 5. člena tega pravilnika se uskladi z določbami tega
+pravilnika najpozneje v 12 mesecih po uveljavitvi tega pravilnika.
+(2) Aplikativni sistem za podporo delovanju registra premične
+dediščine iz 6. člena tega pravilnika se pripravi najpozneje v 12 mesecih po
+uveljavitvi tega pravilnika. Aplikativni sistemi za inventarizacijo enot
+premične dediščine se uskladijo s tehničnimi pravili iz sedmega odstavka 6.
+člena tega pravilnika najpozneje v šestih mesecih po sprejetju teh pravil.
+(3) Aplikativni sistem za podporo delovanju registra žive dediščine
+iz 7. člena tega pravilnika se pripravi najpozneje v 12 mesecih po uveljavitvi
+tega pravilnika.
+17. člen
+(portal, dokumentiranje, enoten prikaz javnega digitalnega gradiva
+o dediščini)
+(1) Portal registra iz 11. člena tega pravilnika se vzpostavi
+in začne delovati najpozneje v 12 mesecih po uveljavitvi tega pravilnika.
+(2) Pristojne organizacije morajo uskladiti dokumentiranje dediščine
+z minimalno vsebino in načinom dokumentiranja, določenim v 12. členu tega
+pravilnika, najpozneje v 24 mesecih po uveljavitvi tega pravilnika.
+(3) Enoten prikaz javnega digitalnega gradiva o dediščini iz
+13. člena tega pravilnika se vzpostavi in začne delovati najpozneje v 18
+mesecih po uveljavitvi tega pravilnika.
+18. člen
+(enote nepremične dediščine)
+(1) Enote nepremične kulturne dediščine se do vzpostavitve registra
+po tem pravilniku vpisujejo v register skladno s Pravilnikom o registru
+nepremične kulturne dediščine (Uradni list RS, št. 25/02).
+(2) Nepremična dediščina, ki je bila ali bo do vzpostavitve registra
+po tem pravilniku vpisana v register nepremične kulturne dediščine na podlagi
+Pravilnika o registru nepremične kulturne dediščine (Uradni list RS, št.
+25/02), se z dnem vzpostavitve registra po tem pravilniku šteje za vpisano v
+register po tem pravilniku. Pri tem se kot varstvene usmeritve upoštevajo tipi
+varstvenih usmeritev oziroma varstvenih režimov, določeni v strokovnih zasnovah
+varstva, ki jih je pripravil Zavod za varstvo kulturne dediščine za območja
+posameznih občin na podlagi zakona.
+(3) Za enote nepremične dediščine iz prejšnjega odstavka tega
+člena je drugi del enotne identifikacije dediščine iz tretjega odstavka 4.
+člena enak evidenčni številki dediščine (EŠD), določeni na podlagi pravilnika
+iz prejšnjega odstavka tega člena.
+(4) V vseh dokumentih, v katerih je bil pred začetkom uporabe
+tega pravilnika uporabljen sklic na evidenčno številko dediščine (EŠD), se ta
+šteje kot sklic na enotno identifikacijo dediščine (EID) po tem pravilniku.
+19. člen
+(uporaba izvršilnih predpisov)
+Pravilnik o registru nepremične kulturne dediščine (Uradni list
+RS, št. 25/02) se uporablja do vzpostavitve registra nepremične dediščine v
+skladu s tem pravilnikom.
+20. člen
+(veljavnost pravilnika)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 0070-10/2009/17
+Ljubljana, dne 10. avgusta 2009
+EVA 2009-3511-0017
+Majda Širca l.r.
+Ministrica
+za kulturo

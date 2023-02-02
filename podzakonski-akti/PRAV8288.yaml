@@ -1,0 +1,17 @@
+Text file: PRAV8288.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1178316000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8288
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi vizualnega in akusti\u010Dnega opozorila za programske\
+  \ vsebine, ki niso primerne za otroke in mladoletnike"
+npbNum: 0
+path: /2007/21/2007-01-2120
+sopPredpisa: 2007-01-2120
+sopPredpisaChng: null

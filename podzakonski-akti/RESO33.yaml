@@ -1,0 +1,17 @@
+Text file: RESO33.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1085090400000000000
+- null
+- null
+- 10
+idPredpisa: RESO33
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO o Nacionalnem programu izgradnje avtocest v Republiki Sloveniji
+  (ReNPIA)
+npbNum: 0
+path: /2004/23/2004-01-2300
+sopPredpisa: 2004-01-2300
+sopPredpisaChng: null

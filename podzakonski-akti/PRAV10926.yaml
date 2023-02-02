@@ -1,0 +1,17 @@
+Text file: PRAV10926.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1358550000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10926
+idPredpisaChng: PRAV10926
+instock: .nan
+naslov: "PRAVILNIK o obra\u010Dunu davka na bilan\u010Dno vsoto bank (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2013/01/2013-01-0121-2011-01-4338-npb1
+sopPredpisa: 2013-01-0121
+sopPredpisaChng: 2011-01-4338

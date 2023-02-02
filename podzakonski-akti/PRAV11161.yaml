@@ -1,0 +1,16 @@
+Text file: PRAV11161.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1375135200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11161
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trg p\u0161enice in koruze"
+npbNum: 0
+path: /2013/24/2013-01-2480
+sopPredpisa: 2013-01-2480
+sopPredpisaChng: null

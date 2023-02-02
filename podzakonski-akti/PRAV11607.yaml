@@ -1,0 +1,17 @@
+Text file: PRAV11607.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1362092400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+idPredpisa: PRAV11607
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplome Visoke \u0161ole za zdravstvo Novo\
+  \ mesto"
+npbNum: 0
+path: /2013/03/2013-01-0385
+sopPredpisa: 2013-01-0385
+sopPredpisaChng: null

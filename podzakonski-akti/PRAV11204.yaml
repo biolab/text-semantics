@@ -1,0 +1,17 @@
+Text file: PRAV11204.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1361574000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11204
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pi\u0161\
+  ece (2012\u20132021)"
+npbNum: 0
+path: /2013/05/2013-01-0500
+sopPredpisa: 2013-01-0500
+sopPredpisaChng: null

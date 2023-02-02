@@ -1,0 +1,18 @@
+Text file: PRAV13360.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1656626400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13360
+idPredpisaChng: PRAV13360
+instock: .nan
+naslov: "PRAVILNIK o uvrstitvi delovnih mest direktorjev s podro\u010Dja javne uprave\
+  \ v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 18)"
+npbNum: 18
+path: /2022/21/2022-01-2106-2017-01-3520-npb18
+sopPredpisa: 2022-01-2106
+sopPredpisaChng: 2017-01-3520

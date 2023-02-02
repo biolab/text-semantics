@@ -1,0 +1,17 @@
+Text file: URED7453.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1550185200000000000
+- null
+- null
+- 10
+idPredpisa: URED7453
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o podatkih, ki so jih distributerji naftnih derivatov in drugi zavezanci\
+  \ dol\u017Eni zagotavljati ministrstvu"
+npbNum: 0
+path: /2019/02/2019-01-0250
+sopPredpisa: 2019-01-0250
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV12838.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1538172000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12838
+idPredpisaChng: PRAV12838
+instock: .nan
+naslov: "PRAVILNIK o priznanju organizacij proizvajalcev in zdru\u017Eenj organizacij\
+  \ proizvajalcev v sektorjih sadje in zelenjava, olj\u010Dno olje in namizne oljke\
+  \ ter hmelj (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2018/30/2018-01-3049-2018-01-0861-npb1
+sopPredpisa: 2018-01-3049
+sopPredpisaChng: 2018-01-0861

@@ -1,0 +1,17 @@
+Text file: URED2950.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1059170400000000000
+- null
+- null
+- 10
+idPredpisa: URED2950
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o neposrednem pla\u010Dilu za pitane pra\u0161i\u010De, zaklane v\
+  \ obdobju od 1. marca 2003 do 30. junija 2003"
+npbNum: 0
+path: /2003/35/2003-01-3538
+sopPredpisa: 2003-01-3538
+sopPredpisaChng: null

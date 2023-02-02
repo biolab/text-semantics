@@ -1,0 +1,17 @@
+Text file: PRAV510.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1002319200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV510
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o meroslovnih zahtevah za pomo\u017Eno opremo za preto\u010Dna\
+  \ merila za teko\u010Dine razen vode, ki lahko nosi oznake in znake EEC*"
+npbNum: 0
+path: /2001/39/2001-01-3921
+sopPredpisa: 2001-01-3921
+sopPredpisaChng: null

@@ -1,0 +1,12 @@
+Text file: SKLE12127.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12127
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o zaprtju Gospodarskega urada Republike Slovenije v Milanu
+npbNum: 0
+path: /2020/30/2020-01-3017
+sopPredpisa: 2020-01-3017
+sopPredpisaChng: null

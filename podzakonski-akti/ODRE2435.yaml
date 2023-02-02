@@ -1,0 +1,17 @@
+Text file: ODRE2435.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1521241200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2435
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi datuma za\u010Detka izvajanja cestninjenja v prostem\
+  \ prometnem toku"
+npbNum: 0
+path: /2018/07/2018-01-0745
+sopPredpisa: 2018-01-0745
+sopPredpisaChng: null

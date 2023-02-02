@@ -1,0 +1,20 @@
+Text file: SKLE5331.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1120168800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1120428000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE5331
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 85 o dolo\u010Ditvi cene\
+  \ za enoto storitve za Norve\u0161ko z za\u010Detkom uporabe 1. julija 2005,"
+npbNum: 0
+path: /2005/27/2005-01-2798
+sopPredpisa: 2005-01-2798
+sopPredpisaChng: null

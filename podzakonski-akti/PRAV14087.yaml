@@ -1,0 +1,17 @@
+Text file: PRAV14087.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616194800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14087
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o nalogah, pogojih in cenah storitev opravljanja javne slu\u017E\
+  be v hmeljarstvu"
+npbNum: 0
+path: /2021/08/2021-01-0834
+sopPredpisa: 2021-01-0834
+sopPredpisaChng: null

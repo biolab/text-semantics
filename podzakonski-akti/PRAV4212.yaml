@@ -1,0 +1,17 @@
+Text file: PRAV4212.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1038006000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4212
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK  o skladi\u0161\u010Denju, oddaji, prevozu in odstranjevanju neuporabljene\
+  \ krvi in krvnih pripravkov"
+npbNum: 0
+path: /2002/50/2002-01-5044
+sopPredpisa: 2002-01-5044
+sopPredpisaChng: null

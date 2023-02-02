@@ -1,0 +1,16 @@
+Text file: PRAV993.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 857602800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV993
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o finan\u010Dnem poslovanju zbornice"
+npbNum: 0
+path: /1997/15/1997-01-1577
+sopPredpisa: 1997-01-1577
+sopPredpisaChng: null

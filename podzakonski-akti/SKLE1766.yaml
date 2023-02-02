@@ -1,0 +1,16 @@
+Text file: SKLE1766.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 920070000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1766
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o prera\u010Dunu pokojnin, uveljavljenih v letu 1999"
+npbNum: 0
+path: /1999/05/1999-01-0573
+sopPredpisa: 1999-01-0573
+sopPredpisaChng: null

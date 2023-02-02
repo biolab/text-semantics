@@ -1,0 +1,17 @@
+Text file: URED1153.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 953334000000000000
+- null
+- null
+- 10
+idPredpisa: URED1153
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o prenehanju veljavnosti uredbe o izdaji vizuma za vstop tujcu z namenom
+  opravljanja dela
+npbNum: 0
+path: /2000/11/2000-01-1112
+sopPredpisa: 2000-01-1112
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: SKLE10739.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1459548000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10739
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uporabi parametrov, specifi\u010Dnih za posamezno zavarovalnico"
+npbNum: 0
+path: /2016/07/2016-01-0762
+sopPredpisa: 2016-01-0762
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13721.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1563573600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13721
+idPredpisaChng: PRAV13721
+instock: .nan
+naslov: "PRAVILNIK o vrstah dejanskih rab dela stavbe in vrstah prostorov, ki pripadajo\
+  \ delu stavbe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/22/2019-01-2281-2019-01-0922-npb1
+sopPredpisa: 2019-01-2281
+sopPredpisaChng: 2019-01-0922

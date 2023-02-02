@@ -1,0 +1,17 @@
+Text file: ODRE2600.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1606777200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2600
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o zgornji meji \u0161tevila ponudb za delo v Republiki Sloveniji\
+  \ za leto 2021"
+npbNum: 0
+path: /2020/31/2020-01-3109
+sopPredpisa: 2020-01-3109
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: PRAV6400.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1104534000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6400
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini, na\u010Dinu in rokih obve\u0161\u010Danja Dav\u010D\
+  ne uprave Republike Slovenije in In\u0161pektorata Republike Slovenije za delo o\
+  \ zaposlitvi dijaka ali \u0161tudenta na podlagi napotnice poobla\u0161\u010Dene\
+  \ organizacije, ki opravlja dejavnost posredovanja dela dijakom ali \u0161tudentom"
+npbNum: 0
+path: /2004/62/2004-01-6212
+sopPredpisa: 2004-01-6212
+sopPredpisaChng: null

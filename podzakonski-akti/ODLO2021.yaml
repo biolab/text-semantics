@@ -1,0 +1,19 @@
+Text file: ODLO2021.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1584745200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2021
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o za\u010Dasni oprostitvi pla\u010Dila prispevka za zagotavljanje podpor\
+  \ proizvodnji elektri\u010Dne energije v soproizvodnji z visokim izkoristkom in\
+  \ iz obnovljivih virov energije za kon\u010Dne odjemalce odjemne skupine NN brez\
+  \ merjenja mo\u010Di in gospodinjske odjemalce elektri\u010Dne energije"
+npbNum: 0
+path: /2020/06/2020-01-0646
+sopPredpisa: 2020-01-0646
+sopPredpisaChng: null

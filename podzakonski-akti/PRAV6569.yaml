@@ -1,0 +1,17 @@
+Text file: PRAV6569.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1174431600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6569
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o registru izvajalcev v dejavnosti zdravstvene in babi\u0161ke\
+  \ nege"
+npbNum: 0
+path: /2007/12/2007-01-1226
+sopPredpisa: 2007-01-1226
+sopPredpisaChng: null

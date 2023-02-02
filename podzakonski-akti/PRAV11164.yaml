@@ -1,0 +1,16 @@
+Text file: PRAV11164.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1342216800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11164
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pridelavi in tr\u017Eenju ohranjevalnih semenskih me\u0161anic"
+npbNum: 0
+path: /2012/21/2012-01-2120
+sopPredpisa: 2012-01-2120
+sopPredpisaChng: null

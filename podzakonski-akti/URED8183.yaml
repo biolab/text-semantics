@@ -1,0 +1,16 @@
+Text file: URED8183.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1603490400000000000
+- null
+- null
+- 10
+idPredpisa: URED8183
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o Pravno-informacijskem sistemu Republike Slovenije
+npbNum: 0
+path: /2020/24/2020-01-2499
+sopPredpisa: 2020-01-2499
+sopPredpisaChng: null

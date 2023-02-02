@@ -1,0 +1,18 @@
+Text file: RESO8.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 835826400000000000
+- null
+- null
+- 10
+idPredpisa: RESO8
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o polo\u017Eaju avtohtonih slovenskih manj\u0161in v sosednjih\
+  \ dr\u017Eavah in s tem povezanimi nalogami dr\u017Eavnih in drugih dejavnikov Republike\
+  \ Slovenije (RePASM)"
+npbNum: 0
+path: /1996/22/1996-01-2280
+sopPredpisa: 1996-01-2280
+sopPredpisaChng: null

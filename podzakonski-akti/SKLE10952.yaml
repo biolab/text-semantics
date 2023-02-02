@@ -1,0 +1,13 @@
+Text file: SKLE10952.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10952
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o soglasju za odprtje Konzulata Republike Estonije v Republiki Sloveniji\
+  \ s sede\u017Eem v Ljubljani"
+npbNum: 0
+path: /2017/07/2017-01-0733
+sopPredpisa: 2017-01-0733
+sopPredpisaChng: null

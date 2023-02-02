@@ -1,0 +1,16 @@
+Text file: SKLE10240.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1422658800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+idPredpisa: SKLE10240
+idPredpisaChng: null
+instock: .nan
+naslov: "POSEBNI ZNAK za alarmiranje ob neposredni nevarnosti nesre\u010De s klorom"
+npbNum: 0
+path: /2015/01/2015-01-0164
+sopPredpisa: 2015-01-0164
+sopPredpisaChng: null

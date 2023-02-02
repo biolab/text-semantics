@@ -1,0 +1,17 @@
+Text file: ODLO2330.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1624572000000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2330
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o Programu porabe sredstev Sklada za podnebne spremembe v obdobju 2021\u2013\
+  2023"
+npbNum: 0
+path: /2021/21/2021-01-2187
+sopPredpisa: 2021-01-2187
+sopPredpisaChng: null

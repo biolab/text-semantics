@@ -1,0 +1,13 @@
+Text file: SKLE10981.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10981
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi cenzusa pri posebni obliki izredne denarne socialne\
+  \ pomo\u010Di kot pomo\u010D pri kritju stro\u0161kov pogreba od januarja 2017"
+npbNum: 0
+path: /2016/34/2016-01-3498
+sopPredpisa: 2016-01-3498
+sopPredpisaChng: null

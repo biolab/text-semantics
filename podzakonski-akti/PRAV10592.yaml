@@ -1,0 +1,17 @@
+Text file: PRAV10592.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1387234800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10592
+idPredpisaChng: PRAV10592
+instock: .nan
+naslov: "PRAVILNIK o \u0161olah vo\u017Enje in vodenju registra \u0161ol vo\u017E\
+  nje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/38/2013-01-3825-2011-01-2107-npb2
+sopPredpisa: 2013-01-3825
+sopPredpisaChng: 2011-01-2107

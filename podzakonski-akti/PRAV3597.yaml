@@ -1,0 +1,16 @@
+Text file: PRAV3597.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 832370400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3597
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o zbirkah podatkov
+npbNum: 0
+path: /1996/15/1996-01-1575
+sopPredpisa: 1996-01-1575
+sopPredpisaChng: null

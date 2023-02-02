@@ -1,0 +1,17 @@
+Text file: SKLE4400.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1634335200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE4400
+idPredpisaChng: SKLE4400
+instock: .nan
+naslov: "SKLEP o ustanovitvi javnega zavoda Slovensko narodno gledali\u0161\u010D\
+  e Nova Gorica (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/32/2021-01-3257-2004-01-0002-npb3
+sopPredpisa: 2021-01-3257
+sopPredpisaChng: 2004-01-0002

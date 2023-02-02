@@ -1,0 +1,17 @@
+Text file: ODRE2306.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1427497200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2306
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode\
+  \ za vzrejo salmonidnih vrst rib za leto 2015"
+npbNum: 0
+path: /2015/07/2015-01-0784
+sopPredpisa: 2015-01-0784
+sopPredpisaChng: null

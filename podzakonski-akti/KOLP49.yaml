@@ -1,0 +1,17 @@
+Text file: KOLP49.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1623448800000000000
+- null
+- null
+- 10
+idPredpisa: KOLP49
+idPredpisaChng: KOLP49
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za poklicne novinarje (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2021/20/2021-01-2010-1991-01-1281-npb7
+sopPredpisa: 2021-01-2010
+sopPredpisaChng: 1991-01-1281

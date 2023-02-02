@@ -1,0 +1,17 @@
+Text file: SKLE89.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1474668000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE89
+idPredpisaChng: SKLE89
+instock: .nan
+naslov: "SKLEP o ustanovitvi javnega raziskovalnega zavoda Pedago\u0161ki in\u0161\
+  titut (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2016/26/2016-01-2600-1995-01-1252-npb7
+sopPredpisa: 2016-01-2600
+sopPredpisaChng: 1995-01-1252

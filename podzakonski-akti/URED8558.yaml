@@ -1,0 +1,16 @@
+Text file: URED8558.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1650492000000000000
+- null
+- null
+- 10
+idPredpisa: URED8558
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o oblikovanju cen naftnih derivatov
+npbNum: 0
+path: /2022/11/2022-01-1194
+sopPredpisa: 2022-01-1194
+sopPredpisaChng: null

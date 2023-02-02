@@ -1,0 +1,16 @@
+Text file: TARI66.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1103151600000000000
+- null
+- null
+- 10
+idPredpisa: TARI66
+idPredpisaChng: null
+instock: .nan
+naslov: TARIFO Zavoda IPF za uporabo glasbenih posnetkov na internetu
+npbNum: 0
+path: /2005/00/2005-01-0075
+sopPredpisa: 2005-01-0075
+sopPredpisaChng: null

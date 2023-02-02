@@ -1,0 +1,19 @@
+Text file: PRAV12271.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1453071600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1452898800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12271
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o plovilih za rekreacijo
+npbNum: 0
+path: /2016/00/2016-01-0094
+sopPredpisa: 2016-01-0094
+sopPredpisaChng: null

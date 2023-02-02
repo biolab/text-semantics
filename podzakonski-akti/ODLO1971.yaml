@@ -1,0 +1,13 @@
+Text file: ODLO1971.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ODLO1971
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o razpisu nadomestnih volitev za enega \u010Dlana Sodnega sveta, ki\
+  \ ga voli Dr\u017Eavni zbor"
+npbNum: 0
+path: /2019/00/2019-01-0012
+sopPredpisa: 2019-01-0012
+sopPredpisaChng: null

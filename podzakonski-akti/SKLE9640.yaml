@@ -1,0 +1,18 @@
+Text file: SKLE9640.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1375740000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE9640
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o poro\u010Danju upravljavca pokojninskega sklada, oblikovanega kot\
+  \ kritni sklad, o kapitalu, rezervacijah za nedoseganje zajam\u010Dene vrednosti\
+  \ sredstev in strukturi nalo\u017Eb iz naslova teh rezervacij"
+npbNum: 0
+path: /2013/24/2013-01-2484
+sopPredpisa: 2013-01-2484
+sopPredpisaChng: null

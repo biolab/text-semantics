@@ -1,0 +1,17 @@
+Text file: KOLP103.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1544223600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP103
+idPredpisaChng: KOLP103
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za raziskovalno dejavnost (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 18)"
+npbNum: 18
+path: /2018/38/2018-01-3873-1992-01-2095-npb18
+sopPredpisa: 2018-01-3873
+sopPredpisaChng: 1992-01-2095

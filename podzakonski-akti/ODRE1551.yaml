@@ -1,0 +1,17 @@
+Text file: ODRE1551.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 985989600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1551
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o minimalni zajam\u010Deni donosnosti za mesece september 2000,\
+  \ oktober 2000, november 2000, december 2000, januar 2001 in februar 2001"
+npbNum: 0
+path: /2001/13/2001-01-1368
+sopPredpisa: 2001-01-1368
+sopPredpisaChng: null

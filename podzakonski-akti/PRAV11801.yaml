@@ -1,0 +1,16 @@
+Text file: PRAV11801.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1375826400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11801
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi cen oro\u017Enih listin"
+npbNum: 0
+path: /2013/25/2013-01-2588
+sopPredpisa: 2013-01-2588
+sopPredpisaChng: null

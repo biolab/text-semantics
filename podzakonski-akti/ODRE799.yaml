@@ -1,0 +1,16 @@
+Text file: ODRE799.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 776124000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE799
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO
+npbNum: 0
+path: /1994/18/1994-01-1844
+sopPredpisa: 1994-01-1844
+sopPredpisaChng: null

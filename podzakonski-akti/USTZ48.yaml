@@ -1,0 +1,16 @@
+Text file: USTZ48.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622757600000000000
+- null
+- null
+- 10
+idPredpisa: USTZ48
+idPredpisaChng: null
+instock: .nan
+naslov: USTAVNI ZAKON O DOPOLNITVI II. POGLAVJA USTAVE REPUBLIKE SLOVENIJE (UZ62a)
+npbNum: 0
+path: /2021/19/2021-01-1970
+sopPredpisa: 2021-01-1970
+sopPredpisaChng: null

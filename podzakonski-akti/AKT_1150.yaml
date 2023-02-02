@@ -1,0 +1,12 @@
+Text file: AKT_1150.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_1150
+idPredpisaChng: null
+instock: .nan
+naslov: "REVALORIZACIJO diskontirane, vmesne in splo\u0161ne tarife Skupnega sporazuma,"
+npbNum: 0
+path: /2020/00/2020-01-0022
+sopPredpisa: 2020-01-0022
+sopPredpisaChng: null

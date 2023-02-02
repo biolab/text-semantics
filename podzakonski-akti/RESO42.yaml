@@ -1,0 +1,17 @@
+Text file: RESO42.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1140044400000000000
+- null
+- null
+- 10
+idPredpisa: RESO42
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU RAVNANJA  Z RADIOAKTIVNIMI ODPADKI IN IZRABLJENIM\
+  \ JEDRSKIM GORIVOM ZA OBDOBJE 2006\u20132015 (ReNPROJG)"
+npbNum: 0
+path: /2006/06/2006-01-0612
+sopPredpisa: 2006-01-0612
+sopPredpisaChng: null

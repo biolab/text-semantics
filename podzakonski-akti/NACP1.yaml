@@ -1,0 +1,16 @@
+Text file: NACP1.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 793666800000000000
+- null
+- null
+- 10
+idPredpisa: NACP1
+idPredpisaChng: null
+instock: .nan
+naslov: NACIONALNI RAZISKOVALNI PROGRAM
+npbNum: 0
+path: /1995/04/1995-01-0485
+sopPredpisa: 1995-01-0485
+sopPredpisaChng: null

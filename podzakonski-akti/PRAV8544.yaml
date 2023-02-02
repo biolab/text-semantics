@@ -1,0 +1,16 @@
+Text file: PRAV8544.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1212703200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8544
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prikazu stanja prostora
+npbNum: 0
+path: /2008/21/2008-01-2132
+sopPredpisa: 2008-01-2132
+sopPredpisaChng: null

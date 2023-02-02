@@ -1,0 +1,18 @@
+Text file: PRAV2886.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1103065200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2886
+idPredpisaChng: PRAV2886
+instock: .nan
+naslov: "PRAVILNIK o pogojih, ki jih morajo izpolnjevati laboratoriji za pregledovanje\
+  \ brisov materni\u010Dnega vratu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2004/53/2004-01-5351-2001-01-3652-npb1
+sopPredpisa: 2004-01-5351
+sopPredpisaChng: 2001-01-3652

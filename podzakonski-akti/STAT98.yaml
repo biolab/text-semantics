@@ -1,0 +1,17 @@
+Text file: STAT98.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1480114800000000000
+- null
+- null
+- 10
+idPredpisa: STAT98
+idPredpisaChng: STAT98
+instock: .nan
+naslov: "STATUT Univerze v Ljubljani (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 33)"
+npbNum: 33
+path: /2016/31/2016-01-3148-2005-01-0230-npb33
+sopPredpisa: 2016-01-3148
+sopPredpisaChng: 2005-01-0230

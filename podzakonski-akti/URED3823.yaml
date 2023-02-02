@@ -1,0 +1,16 @@
+Text file: URED3823.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1133564400000000000
+- null
+- null
+- 10
+idPredpisa: URED3823
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o omejevalnih ukrepih proti Zimbabveju
+npbNum: 0
+path: /2005/46/2005-01-4697
+sopPredpisa: 2005-01-4697
+sopPredpisaChng: null

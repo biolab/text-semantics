@@ -1,0 +1,17 @@
+Text file: PRAV12656.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1514588400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12656
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Dom\u017E\
+  ale (2017\u20132026)"
+npbNum: 0
+path: /2017/38/2017-01-3876
+sopPredpisa: 2017-01-3876
+sopPredpisaChng: null

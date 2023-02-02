@@ -1,0 +1,13 @@
+Text file: SKLE12936.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12936
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uskladitvi minimalne premije kolektivnega dodatnega pokojninskega\
+  \ zavarovanja za javne uslu\u017Ebence"
+npbNum: 0
+path: /2022/25/2022-01-2552
+sopPredpisa: 2022-01-2552
+sopPredpisaChng: null

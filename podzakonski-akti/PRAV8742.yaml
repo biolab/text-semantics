@@ -1,0 +1,17 @@
+Text file: PRAV8742.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1253311200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8742
+idPredpisaChng: PRAV8742
+instock: .nan
+naslov: "PRAVILNIK o kategorizaciji nastanitvenih obratov (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2009/31/2009-01-3193-2008-01-2641-npb2
+sopPredpisa: 2009-01-3193
+sopPredpisaChng: 2008-01-2641

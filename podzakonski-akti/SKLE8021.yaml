@@ -1,0 +1,17 @@
+Text file: SKLE8021.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1374271200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8021
+idPredpisaChng: SKLE8021
+instock: .nan
+naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev bank in hranilnic (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2013/24/2013-01-2405-2009-01-0813-npb1
+sopPredpisa: 2013-01-2405
+sopPredpisaChng: 2009-01-0813

@@ -1,0 +1,17 @@
+Text file: PRAV9718.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1640732400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9718
+idPredpisaChng: PRAV9718
+instock: .nan
+naslov: "PRAVILNIK  o napredovanju v pla\u010Dne razrede na Univerzi na Primorskem\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2021/41/2021-01-4169-2009-01-1392-npb2
+sopPredpisa: 2021-01-4169
+sopPredpisaChng: 2009-01-1392

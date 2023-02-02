@@ -1,0 +1,440 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa bistvene in posebne zahteve, ki jih
+morajo izpolnjevati plinomeri in korektorji, način označevanja, postopke
+ugotavljanja skladnosti in overitev ter rok redne overitve. 
+Ta pravilnik se označi skrajšano z oznako MP-53.
+2. člen
+Plinomeri v tem pravilniku so: mehovni plinomeri, plinomeri z
+rotacijskimi bati, plinomeri s turbino in drugi plinomeri.
+3. člen
+Korektorji omogočajo pretvorbo pri merilnih pogojih izmerjene
+prostornine plina: 
+-       
+glede na temperaturo, 
+-       
+glede na tlak, 
+-       
+glede na temperaturo in tlak, 
+-       
+glede na temperaturo in tlak z upoštevanjem korekcije zaradi odstopanja
+merjenega plina od idealnega plina.
+4. člen
+Šteje se, da plinomer oziroma korektor, ki izpolnjuje vse
+zahteve mednarodnega priporočila OIML R 6, OIML R 31 ali OIML R 32 Mednarodne
+organizacije za zakonsko meroslovje (OIML) (v nadaljnjem besedilu: OIML R 6,
+OIML R 31 in OIML R 32), izpolnjuje tudi zahteve tega pravilnika. 
+Sklicevanje na mednarodna priporočila OIML izhaja iz članstva
+Republike Slovenije v Mednarodni organizaciji za zakonsko meroslovje
+(Organisation Internationale de Métrologie Légale). 
+Mednarodno priporočilo OIML v francoskem jeziku in prevod v
+angleškem jeziku sta dosegljiva na Uradu RS za meroslovje.
+5. člen
+V tem pravilniku uporabljeni izrazi imajo naslednji pomen: 
+-       
+»plinomer« je merilni instrument za merjenje prostornine plina, ki
+preteče skozenj pri merilnih pogojih; 
+-       
+»korektor« je naprava, ki avtomatsko pretvarja pri merilnih pogojih
+izmerjeno pretočeno prostornino plina v prostornino plina, ki ustreza
+standardnemu stanju plina; 
+-       
+»merilni rezultat« je pretočena prostornina plina; 
+-       
+»najmanjši pretok (Qmin)« je najmanjši pretok, pri katerem
+plinomer izpolnjuje zahteve glede največjega dopustnega pogreška; 
+-       
+»največji pretok (Qmax)« je največji pretok, pri katerem
+plinomer izpolnjuje zahteve glede največjega dopustnega pogreška; 
+-       
+»prehodni pretok (Qt)« je pretok med najmanjšim in največjim
+pretokom, ki celotno območje pretokov razdeli na dva dela, v katerih je
+največji dopustni pogrešek različen; 
+-       
+»preobremenitveni pretok (Qr)« je največji pretok, pri
+katerem lahko plinomer za kratek čas obratuje, ne da bi bil presežen največji
+dopustni pogrešek; 
+-       
+»standardni pogoji« so pogoji, pri katerih se poda prostornina plina po
+pretvorbi.
+II. BISTVENE ZAHTEVE
+6. člen
+Proizvajalec mora določiti klimatsko, mehansko in
+elektromagnetno okolje, za katerega je namenjen plinomer oziroma korektor, in
+pri tem poleg bistvenih zahtev upoštevati zahteve za obratovalne pogoje. 
+Klimatsko in mehansko okolje, v katerih se uporablja plinomer
+oziroma korektor, se določita z naslednjimi razredi: 
+1.     
+razred C označuje klimatsko okolje, in sicer: 
+- 
+v razred C1 spadajo zaprti prostori z zvezno kontrolo temperature in
+brez kontrole vlažnosti, 
+- 
+v razred C2 spadajo zaprti prostori brez kontrole temperature in
+vlažnosti, 
+- 
+v razred C3 spadajo odprti prostori; 
+2.     
+razred M označuje mehansko okolje, in sicer: 
+- 
+v razred M1 spadajo prostori z vibracijami in sunki manjše jakosti
+(zanemarljivo tresenje lahkih podpornih elementov, sunki zaradi loputanja z vrati...),
+- 
+v razred M2 spadajo prostori, kjer je stopnja vibracij in sunkov visoka
+(npr. zaradi delovanja strojev, mimo vozečih vozil), 
+-  v razred M3 spadajo
+prostori, kjer je stopnja vibracij in sunkov zelo visoka (npr. če so merila
+nameščena neposredno na stroje);
+
+
+ 
+
+Kombinirana
+  klimatska in mehanska okolja
+
+
+Okolje
+
+C1
+
+C2
+
+C3
+
+
+M1
+
+A
+
+B
+
+C
+
+
+M2
+
+D
+
+E
+
+F
+
+
+M3
+
+G
+
+H
+
+I
+
+
+3.     
+razred E označuje elektromagnetno okolje, in sicer: 
+- 
+v razred E1 spadajo bivalni in poslovni prostori ter okolje lahke
+industrije, 
+- 
+v razred E2 spadajo industrijska okolja.
+7. člen
+Merilni rezultat je lahko prikazan na kazalniku ali
+natisnjen. Kazalnik je lahko mehanski, elektronski ali kombiniran (mehanski in
+elektronski). 
+Kazanje merilnega rezultata mora biti jasno in nedvoumno ter
+opremljeno z znaki in napisi, potrebnimi za informiranje uporabnika o pomenu
+merilnega rezultata. Pri normalnih pogojih uporabe mora biti odčitavanje
+enostavno. Dodatna kazanja se lahko uporabljajo, če jih ni mogoče zamenjati z
+merilnimi rezultati. 
+Razdelek skale mora biti v obliki 1 x 10n, 2 x 10n
+ali 5 x 10n, kjer je n pozitivno ali negativno celo število ali 0.
+Merska enota ali njen simbol morata biti navedena v neposredni bližini
+številčne vrednosti. 
+Če je merilni rezultat natisnjen, mora biti enostavno čitljiv
+in obstojen.
+III. POSEBNE ZAHTEVE
+8. člen
+Proizvajalec mora določiti naznačene vrednosti za obratovalne
+pogoje: 
+-       
+za območje pretokov plina, katerega vrednosti morajo izpolnjevati
+naslednje zahteve: 
+Qmax/Qmin ≥ 5; 
+Qmax/Qt ≥ 5; 
+Qr/Qmax = 1,2; 
+-       
+za temperaturno območje, pri čemer je treba upoštevati, da mora plinomer
+oziroma korektor meriti v temperaturnem območju najmanj 40 °C; 
+-       
+za tlačno območje, pri čemer je treba upoštevati, da mora plinomer
+oziroma korektor meriti v tlačnem območju, kjer je razmerje med največjim in
+najmanjšim delovnim tlakom enako 2 ali večje od 2; 
+-       
+za pogoje, odvisne od vrste oziroma namembnosti plina, kot so: skupina
+ali vrsta plinov in največji obratovalni tlak; 
+-       
+za klimatsko in mehansko okolje, v katerem naj bi se plinomer
+uporabljal, skladno s tabelo iz 6. člena; 
+-       
+za napajanje z električno energijo: nazivno vrednost izmenične napetosti
+in/ali območje enosmerne napetosti.
+9. člen
+Pogoji za pretvorbo merilnih rezultatov so določeni s
+standardnim stanjem plina pri absolutnem tlaku 101.325 Pa in absolutni
+temperaturi 288,15 K.
+10. člen
+Največji dopustni pogreški za
+plinomere so:
+
+
+ 
+
+Qmin ≤ Q
+  < Qt
+
+Qt ≤Q ≤Qmax
+
+
+Mehovni plinomer
+
+± 3%
+
+± 2%
+
+
+Plinomer z
+  rotacijskimi bati,
+plinomer s turbino
+  in drugi
+plinomeri
+
+± 2%
+
+± 1%
+
+
+11. člen
+Za mehovne plinomere v uporabi sta meji največjega dopustnega
+pogreška v območju Qmin ≤ Q < Qt – 6%in + 3%, v
+območju Qt ≤Q ≤Qmax pa ± 3%.
+12. člen
+Največji dopustni pogrešek korektorja je ± 1%.
+13. člen
+Proizvajalec mora določiti razred elektromagnetnega okolja E1
+ali E2, v katerem naj bi se plinomer oziroma korektor uporabljal. 
+Vplivi elektromagnetnih motenj na plinomer oziroma korektor
+morajo biti takšni, da: 
+-       
+sprememba merilnega rezultata ni večja od kritične vrednosti spremembe,
+to je od vrednosti največjega dopustnega pogreška za prostornino, ki ustreza
+pretoku Qmax v času 1 minute; 
+-       
+prikazanega merilnega rezultata ni mogoče šteti za pravilnega, če
+kazanje merilnega rezultata pokaže trenutne spremembe, ki jih ni mogoče
+interpretirati, shraniti ali prenesti kot merilni rezultat. 
+Po motnji mora plinomer oziroma korektor: 
+-       
+delovati znotraj največjih dopustnih pogreškov, 
+-       
+imeti zaščitene vse merilne funkcije in 
+-       
+omogočati, da se pridobi merilni rezultat, ki je bil prikazan pred
+motnjo.
+14. člen
+Plinomer oziroma korektor, napajan iz omrežja (izmeničnega
+ali enosmernega), mora imeti rezervno napajanje ali na drug način zaščitene
+merilne funkcije za primer izpada glavnega vira električne energije.
+15. člen
+Baterijsko napajanje mora imeti življenjsko dobo najmanj tri
+leta. Po poteku 90% življenjske dobe se mora pojaviti ustrezno opozorilo.
+16. člen
+Kazalna naprava mora imeti dovolj mest, namenjenih za kazanje
+pretočene prostornine plina, da se vrednost pretočene prostornine najmanj dve
+leti normalnega delovanja ne vrne na ničelno vrednost.
+17. člen
+Plinomer mora imeti možnost namestitve v poljuben položaj
+obratovanja, če ni jasno označeno drugače.
+18. člen
+Elektronski korektor mora imeti vgrajeno kontrolo za
+obratovanje zunaj obratovalnega območja, ki ga je določil proizvajalec.
+19. člen
+Plinomer in korektor morata kazati izmerjeno prostornino v
+kubičnih metrih (m3).
+IV. NAPISI IN OZNAKE
+20. člen
+Napisi in oznake na plinomeru oziroma korektorju morajo biti
+v slovenskem jeziku.
+21. člen
+Plinomer mora imeti na številčnici kazalne naprave ali na
+posebni napisni ploščici čitljivo in neizbrisno zapisane naslednje podatke: 
+-       
+uradno oznako odobritve tipa merila, 
+-       
+firmo oziroma ime ali znak proizvajalca, 
+-       
+oznako tipa, ki jo je določil proizvajalec, 
+-       
+serijsko številko in leto proizvodnje, 
+-       
+oznako velikosti plinomera G.., 
+-       
+največji pretok Qmax =... m3/h, (ali dm3/h),
+-       
+najmanjši pretok Qmin =... m3/h (ali dm3/h)
+in, 
+-       
+največji obratovalni tlak pmax =... MPa (ali kPa ali Pa ali
+bar ali mbar).
+22. člen
+Korektor mora imeti na posebni ploščici čitljivo in
+neizbrisno zapisane naslednje podatke: 
+-       
+uradno oznako odobritve tipa merila, 
+-       
+firmo oziroma ime ali znak proizvajalca, 
+-       
+oznako tipa, ki jo je določil proizvajalec, 
+-       
+serijsko številko in leto proizvodnje, 
+-       
+koeficient stisljivosti in/ali metodo izračuna, 
+-       
+območje delovnih tlakov p = ...... do ....... MPa (ali kPa ali Pa ali
+bar ali mbar) oziroma srednji delovni tlak psr = ...... MPa (ali kPa
+ali Pa ali bar ali mbar) za korektorje, ki korigirajo samo glede na
+temperaturo, 
+-       
+območje delovnih temperatur T= ....do ...... K (ali t =......do......°C)
+oziroma srednjo delovno temperaturo za korektorje, ki korigirajo samo glede na
+tlak, 
+-       
+srednji letni atmosferski tlak za področje, kjer je korektor v uporabi,
+če korektor meri nadtlak oziroma korigira samo glede na temperaturo, in 
+-       
+vrednosti, ki določajo standardno stanje plina, ps = 101.325
+Pa ali ps = 1,01325 bar in Ts = 288,15 K ali ts
+= 15 °C. 
+Podatki iz četrte do devete alinee prejšnjega odstavka so
+lahko shranjeni v neizbrisnem spominu korektorja in se na poseben ukaz (npr. s
+pritiskom na tipko) izpišejo na prikazovalniku oziroma številčnici korektorja. 
+Na številčnici korektorja mora biti napis “korigirana
+prostornina” ali oznaka “V(s)”. Drugi podatki, ki se lahko prikažejo na
+številčnici (prikazovalniku), morajo biti nedvoumno označeni.
+V. UGOTAVLJANJE SKLADNOSTI
+23. člen
+Za plinomer oziroma korektor je obvezna odobritev tipa
+merila, ki ji sledi bodisi prva overitev bodisi izjava o skladnosti z odobrenim
+tipom.
+24. člen
+V postopku odobritve tipa merila se opravi preskus tipa
+merila, pri katerem se s pregledom vzorca tipa merila in dokumentacije ter s
+preskusi ugotovi, ali plinomer oziroma korektor izpolnjuje zahteve iz tega
+pravilnika. Če je korektor sestavni del plinomera, se oba preskusita kot
+celota.
+25. člen
+Pri preskusu tipa merila se izvedejo najmanj naslednji
+preskusi: 
+-       
+preskus točnosti iz 26. člena tega pravilnika, 
+-       
+preskus vpliva različnih vplivnih veličin, pri katerem mora plinomer
+izpolnjevati vse ustrezne zahteve iz tega pravilnika (primeri preskusov so
+določeni v OIML R 6, R 31 in 32), 
+-       
+preskus vzdržljivosti iz 27. člena tega pravilnika.
+26. člen
+Pri preskusu točnosti se preveri, ali plinomer oziroma
+korektor izpolnjuje zahteve iz 10. oziroma 12. člena tega pravilnika. 
+Preskus točnosti plinomerov se opravi s pretokom zraka z
+gostoto 1,2 kg/m3. 
+Pri plinomeru se preskus točnosti opravi pri sedmih pretokih,
+enakomerno porazdeljenih po obratovalnem območju. Pri pretokih, enakih ali
+večjih od 0,1 Qmax, se meritev pogreškov ponovi najmanj šestkrat, s
+spreminjanjem pretoka med zaporednimi meritvami. Razlika med poljubnima dvema
+pogreškoma pri istem pretoku ne sme preseči 0,6%. 
+Pri mehovnem plinomeru razlika med maksimumom in minimumom
+krivulje povprečnih vrednosti pogreškov kot funkcije pretoka v območju od 0,1 Qmax
+do Qmax ne sme preseči 2%. 
+Pri plinomerih z rotacijskimi bati in turbinskih plinomerih
+absolutna razlika med maksimumom in minimumom krivulje pogreškov kot funkcije
+pretoka v območju 0,4 Qmax in Qmax ne sme preseči 1%. 
+Pri korektorju mora biti krivulja pogreškov v celotnem
+obratovalnem območju korektorja v mejah ±0,8%.
+27. člen
+Pri preskusu vzdržljivosti se izmerijo vrednosti pogreškov
+pred obratovanjem plinomera oziroma korektorja in po njem pri Qmax v
+določenem času. 
+Za mehovni plinomer se izvede preskus vzdržljivosti z
+obratovanjem pri Qmax v trajanju 2.000 ur. Preskus vzdržljivosti za
+mehovne plinomere je natančneje določen v točki 7.2.3 OIML R 31. 
+Za plinomer z rotacijskimi bati, turbinski plinomer in druge
+plinomere se izvede preskus vzdržljivosti z obratovanjem pri Qmax v
+trajanju 1.000 ur. Preskus vzdržljivosti za plinomere z rotacijskimi bati in
+turbinske plinomere je natančneje določen v točki 6.2.3 OIML R 32. 
+Preizkus vzdržljivost korektorja se izvede v obratovalnih
+pogojih v trajanju 1.000 ur. Preskus vzdržljivosti za korektorje je natančneje
+določen v točkah 6.2 in 11.5.1 OIML R 6.
+28. člen
+Prva overitev plinomera oziroma korektorja vključuje: 
+-       
+ugotavljanje skladnosti plinomera oziroma korektorja z odobrenim tipom, 
+-       
+meroslovni pregled plinomera oziroma korektorja, s katerim se ugotavlja,
+ali plinomer oziroma korektor izpolnjuje zahteve tega pravilnika. 
+Preskus točnosti plinomerov se opravi s pretokom zraka z
+gostoto 1,2 kg/m3. 
+Pri prvi overitvi mehovnega plinomera se preveri, ali
+plinomer izpolnjuje zahteve iz 10. člena tega pravilnika, z meritvijo pogreškov
+pri naslednjih pretokih: Qmin, Qt in Qmax. 
+Pri prvi overitvi plinomera z rotacijskimi bati, turbinskega
+plinomera in drugih plinomerov se preveri, ali plinomer izpolnjuje zahteve iz
+10. člena tega pravilnika, z meritvijo pogreškov pri sedmih enakomerno
+razporejenih pretokih med Qmin in Qmax (z vključno Qmin
+in Qmax). 
+Preskusa iz tretjega in prejšnjega odstavka se lahko opravita
+tudi pri drugih pretokih, če se s tem dosežejo enako zanesljivi rezultati
+meritev. 
+Pri prvi overitvi korektorja se preveri, ali korektor
+izpolnjuje zahteve iz 12. člena tega pravilnika, z meritvijo pogreškov v
+obratovalnih pogojih za celoten obseg merjenja. V najmanj šestih točkah, ki
+pokrivajo celoten obseg merjenja, se merijo pogreški najprej za rastoče
+faktorje korekcije in nato za padajoče faktorje korekcije.
+VI. REDNE IN IZREDNE OVERITVE
+29. člen
+Za plinomere in korektorje so obvezne redne in izredne overitve.
+Rok za redno overitev je 5 let.
+30. člen
+Pri redni ali izredni overitvi mehovnega plinomera se opravi
+preskus točnosti iz tretjega odstavka 28. člena. Pri redni ali izredni overitvi
+plinomera z rotacijskimi bati ali turbinskega plinomera se opravi preskus
+točnosti iz četrtega odstavka 28. člena. Pri redni ali izredni overitvi
+korektorja se opravi preskus točnosti iz šestega odstavka 28. člena.
+VII. PREHODNA IN KONČNI DOLOČBI
+31. člen
+Plinomeri oziroma korektorji, ki imajo na dan uveljavitve
+tega pravilnika veljavno odobritev tipa merila na podlagi pravilnika o
+metroloških pogojih za pretočna merila za prostornino plina (Uradni list SFRJ,
+št. 9/85) oziroma pravilnika o metroloških pogojih za merila, ki korigirajo
+prostornino pretočenega plina (Uradni list SFRJ, št. 9/85), se smejo dati v
+prvo overitev po tem pravilniku do izteka roka veljavnosti odločbe ali
+certifikata o odobritvi tipa merila oziroma najdlje do 31. decembra 2010. 
+Plinomeri oziroma korektorji, ki imajo na dan uveljavitve
+tega pravilnika veljavno odobritev tipa merila in prvo overitev na podlagi
+pravilnika o metroloških pogojih za pretočna merila za prostornino plina
+(Uradni list SFRJ, št. 9/85) oziroma pravilnika o metroloških pogojih za
+merila, ki korigirajo prostornino pretočenega plina (Uradni list SFRJ, št.
+9/85), se smejo še naprej dajati v redno oziroma izredno overitev, če glede
+največjih dopustnih pogreškov izpolnjujejo zahteve 10. oziroma 12. člena tega
+pravilnika.
+32. člen
+Z dnem, ko začne veljati ta pravilnik, se prenehata uporabljati
+pravilnik o metroloških pogojih za pretočna merila za prostornino plina (Uradni
+list SFRJ, št. 9/85) in pravilnik o metroloških pogojih za merila, ki
+korigirajo prostornino pretočenega plina (Uradni list SFRJ, št. 9/85).
+33. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 009-27/02
+Ljubljana, dne 19. marca 2002.
+dr. Lucija Čok l. r. 
+Ministrica 
+za šolstvo, znanost in šport

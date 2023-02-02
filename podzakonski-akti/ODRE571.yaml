@@ -1,0 +1,17 @@
+Text file: ODRE571.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 950914800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE571
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
+  \ enote Pa\u0161ki Kozjak"
+npbNum: 0
+path: /2000/06/2000-01-0632
+sopPredpisa: 2000-01-0632
+sopPredpisaChng: null

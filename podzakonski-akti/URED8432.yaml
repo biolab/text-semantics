@@ -1,0 +1,16 @@
+Text file: URED8432.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649455200000000000
+- null
+- null
+- 10
+idPredpisa: URED8432
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o samooskrbi z elektri\u010Dno energijo iz obnovljivih virov energije"
+npbNum: 0
+path: /2022/08/2022-01-0867
+sopPredpisa: 2022-01-0867
+sopPredpisaChng: null

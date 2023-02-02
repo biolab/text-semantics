@@ -1,0 +1,17 @@
+Text file: PRAV2368.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 739836000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2368
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu usposabljanja in enotah, v katerih se izvaja usposabljanje\
+  \ voja\u0161kih obveznikov v ONZ"
+npbNum: 0
+path: /1993/11/1993-01-1166
+sopPredpisa: 1993-01-1166
+sopPredpisaChng: null

@@ -1,0 +1,814 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(1) Ta pravilnik
+določa tehnične zahteve za prezračevanje in klimatizacijo stavb (v nadaljnjem
+besedilu: prezračevanje) ter tehnične zahteve za mehanske prezračevalne
+sisteme, če se ti vgradijo v stavbo.
+(2) V okviru
+določanja tehničnih zahtev iz prejšnjega odstavka ta pravilnik obravnava
+notranje okolje v pogledu kakovosti zraka in toplotnega okolja, s tem da določa
+najnižjo, še dopustno kakovost tega dela notranjega okolja.
+(3) Ta pravilnik
+ne velja za nestanovanjske kmetijske stavbe, stavbe, ki spadajo v skupino
+industrijskih objektov, ter stavbe, namenjene za uporabo manj kot štiri mesece
+v letu (npr. počitniške hiše in gorske koče).
+2. člen
+(1) Ta pravilnik
+velja za novogradnje in spremembe namembnosti posameznih prostorov v že
+zgrajenih stavbah. Velja tudi za rekonstrukcije že zgrajenih stavb, če so dane
+tehnične možnosti za njihovo izvedbo in upoštevani pogoji varstva kulturne
+dediščine.
+(2) Če so za
+nekatere vrste stavb zahteve za prezračevanje določene s posebnim predpisom,
+veljajo zanje tiste zahteve tega pravilnika, ki niso urejene s takim predpisom.
+3. člen
+(1) V tem pravilniku uporabljeni izrazi
+imajo naslednji pomen:
+1.     »prezračevanje« je izmenjava odtočnega zraka z zunanjim
+zrakom v prostorih in doseganje njegove čistosti ter s tem povezanega ugodja
+oseb v prostorih;
+2.     »naravno prezračevanje« je prezračevanje, pri katerem se
+izkoriščajo naravne fizikalne lastnosti zraka pri različnih temperaturah v
+prostorih in zunaj njih, brez uporabe mehanskih naprav. Naravno prezračevanje
+poteka skozi odprta okna in zunanja vrata, prezračevalne odprtine in
+prezračevalne kanale ter čim manj nekontrolirano skozi pripire, zidove itn.;
+3.     »mehansko prezračevanje« je prezračevanje, pri katerem se zamenjava
+odtočnega zraka z zunanjim doseže z mehansko napravo, pri klimatizaciji s
+klimatizacijsko napeljavo. Klimatizacijska napeljava je kombinacija vseh
+potrebnih komponent, ki zagotavljajo klimatizacijo prostora;
+4.     »klimatizacija« je mehansko prezračevanje, pri katerem so
+temperatura, vlažnost, prezračevanje in čistoča zraka kontrolirani;
+5.     »hibridno prezračevanje« je prezračevanje, pri katerem se hkrati
+uporabljata naravno in mehansko prezračevanje;
+6.     »učinkovitost prezračevanja« je razmerje med koncentracijo
+onesnaževalcev v odtočnem zraku in koncentracijo onesnaževalcev zraka v coni
+dihanja (bivalna cona). Učinkovitost prezračevanja se določi z enačbo:
+kjer je:
+         –   učinkovitost prezračevanja,
+CODZ     –  koncentracija
+onesnaženosti v odtočnem zraku,
+CVTZ      –  koncentracija
+onesnaženosti v vtočnem zraku,
+Ci         –   koncentracija
+onesnaženosti zraka v coni dihanja;
+7.     »bivalna cona« je območje notranjega okolja, v katerem je ponavadi
+uporabnik prostora, praviloma obsega območje 1 m od zunanjega okna in zidu,
+vrat in grelnega ali hladilnega telesa, 0,5 m od notranjega zidu ter najmanj
+0,1 m in največ 1,8 m nad tlemi;
+8.     »olf« je enota za onesnaževanje zraka, ki ga povzroča ena
+oseba s povprečno površino 1,8 m2 pri mirni sedeči aktivnosti
+58,2 W/m2 = 1 met (metabolizem v toplotnem okolju, predpisanem v 12.
+členu tega pravilnika;
+9.     »temperatura zraka« v prostoru je temperatura, merjena v
+sredini prostora na višini 1,1 m;
+10.  »občutena
+temperatura« ali »operativna temperatura« je srednja temperatura med temperaturo
+zraka v prostoru in srednjo sevalno temperaturo, določena z enačbo:
+q0 =
+uq1 + (1 – u)qs
+kjer
+je:
+q0 – občutena temperatura v izbrani
+lokaciji prostora (oC),
+q1 – temperatura zraka v prostoru (oC),
+qs – srednja sevalna temperatura obdajajočih površin glede na izbrano
+lokacijo v prostoru (oC),
+u – vrednost, podana v tabeli v odvisnosti od srednje hitrosti zraka
+v (m/s):
+
+
+v (m/s)
+
+do 0,2
+
+od 0,2 do 0,6
+
+od 0,6 do 1,0
+
+
+u
+
+0,5
+
+0,6
+
+0,7
+
+
+V primerih, ko je relativna hitrost zraka manjša od 0,2
+m/s ali ko je razlika med srednjo sevalno temperaturo in temperaturo zraka
+manjša od 4 oC, se občutena temperatura lahko izračuna kot srednja
+vrednost temperature zraka in srednje sevalne temperature;
+11.  »asimetrična
+sevalna temperatura« je razlika temperature sevanja dveh površin telesa,
+ločenih z namišljeno ravnino;
+12.  »srednja
+hitrost zraka« je izmerjena lokalna hitrost zraka v bivalni coni v najmanj
+180-sekundnem intervalu, merjena vsesmerno, določena z enačbo:
+kjer je:
+ – srednja hitrost zraka (m/s),
+N
+– skupno število merjenj (-),
+ – trenutna hitrost zraka (m/s);
+13.  »intenziteta
+turbulence« je razmerje standardnega odklona hitrosti zraka in srednje hitrosti
+zraka, določeno z enačbo:
+Tu = 100 (SD/)
+kjer je:
+Tu
+– intenziteta turbulence (%),
+ – 
+izmerjena srednja hitrost zraka (m/s) v najmanj 180-sekundnem intervalu,
+SD – standardni odklon izmerjene hitrosti zraka (m/s) v najmanj
+180-sekundnem intervalu, določen z enačbo:
+kjer je:
+SD  
+– standardni odklon,
+N     
+– skupno število merjenj (-),
+    – trenutna hitrost zraka (m/s),
+     – izmerjena srednja hitrost zraka (m/s) v najmanj
+180-sekundnem intervalu;
+14.  frakcija
+»PM10« je masna koncentracija prostorsko nastalih delcev z
+aerodinamičnim premerom, manjšim od 10 μm;
+15.  vrste
+zraka so:
+-  
+zunanji (sveži): doveden zrak ali vhodni
+zunanji zrak v sistem pred njegovo obdelavo,
+-  
+vtočni (vpihovani): vstopni zrak v obravnavani
+prostor ali zrak, vstopajoč v sistem brez obdelave,
+-  
+prehodni: notranji zrak, ki prehaja iz enega v
+drug obravnavani prostor,
+-  
+odtočni: zrak, ki zapušča obravnavani prostor,
+-  
+obtočni (recirkulacijski): zrak, ki se vrača v
+zrak obravnavanega prostora,
+-  
+zavrženi: zrak, zavržen v atmosfero,
+-  
+sekundarni: zrak, odvzet prostoru in ponovno
+vrnjen v isti prostor brez obdelave,
+-  
+notranji: zrak v obravnavanem prostoru ali
+bivalni coni,
+-  
+izgubljeni: zrak, iztekajoč skozi netesnosti
+sistema,
+-  
+infiltracijski: zrak, ki vdira v notranjost
+stavbe skozi netesnosti stavbe,
+-  
+eksfiltracijski: zrak, ki odteka iz stavbe v
+atmosfero skozi zračne netesnosti stavbe,
+-  
+mešani: zrak, ki vsebuje dva ali več zračnih
+tokov. V primeru mešanja z zračnimi tokovi slabše kakovosti ta slabša kakovost
+določi celotni zračni tok.
+(2) Pri risanju
+in označevanju vrst zraka v projektni dokumentaciji in tudi na vgrajenih
+elementih sistema se uporabljajo okrajšave in
+barve, navedene na sliki 1 in v tabelah 1, 1.1, 2 in 3 pod točko 1. Vrste zraka
+v prilogi 1 tega pravilnika, ki je njegov sestavni del (v nadaljnjem besedilu:
+priloga 1).
+4. člen
+(1) V stavbe se
+lahko vgrajujejo samo gradbeni proizvodi, ki so bili dani v promet v skladu s
+predpisi o gradbenih proizvodih. Pri projektiranju je treba predvideti uporabo
+materialov z najnižjo emisijo z upoštevanjem značilnosti vlažnosti, enostavnosti
+čiščenja, trajnosti in zahtevanih lastnosti sestave sendvič konstrukcij.
+(2) Sestavni
+deli prezračevalnih sistemov, ki se vgrajujejo v stavbe, so gradbeni proizvodi,
+ki omogočajo, da stavbe izpolnjujejo bistvene varnostne, higienske in
+zdravstvene zahteve. Mehanski, elektromehanski in električni deli
+prezračevalnih sistemov morajo poleg zahtev iz tega pravilnika izpolnjevati
+tudi vse zahteve predpisov, ki urejajo tovrstne proizvode.
+(3) Vgraditi se
+smejo samo tisti mehanski prezračevalni sistemi, za katere proizvajalec izda
+izjavo o skladnosti s standardi iz 21. člena tega pravilnika.
+5. člen
+(1) V tem
+pravilniku navedeni parametri notranjega okolja morajo biti zagotovljeni v vseh
+bivalnih conah prostorov pri normalnih vremenskih razmerah skladno z namembnostjo
+prostorov ter pri predvidenem številu prisotnih oseb v prostorih. S tem
+pravilnikom zahtevani parametri notranjega okolja veljajo za prostore,
+namenjene za delo in bivanje ljudi (npr. poslovni, vzgojno-varstveni,
+stanovanja), za druge prostore (npr. garaže) morajo biti ustrezni parametri
+notranjega okolja določeni v projektni dokumentaciji.
+(2) Če v
+bivalnih conah prostorov niso zagotovljeni parametri notranjega okolja z
+naravnim prezračevanjem, morajo biti v stavbo vgrajene naprave oziroma
+napeljava, ki to zagotavljajo.
+(3)
+Prezračevanje in predpisane parametre notranjega okolja je treba doseči z
+najmanjšo možno rabo energije z upoštevanjem podnebnih razmer lokacije in
+zahtev uporabnikov prostora. Prezračevalni sistem mora zagotoviti zahtevano
+izmenjavo zraka oziroma učinkovito prezračevanje ob najmanjši izgubi
+toplote/hladu prezračevanega prostora in stavbe.
+6. člen
+Pri
+projektiranju prezračevanja v prostorih, v katerih se pojavljajo ali nastajajo
+emisije škodljivih ali eksplozijsko nevarnih plinov, par, hlapov, prahu oziroma
+druge človekovemu zdravju in ugodju škodljive emisije oziroma snovi, je treba
+doseči takšno kakovost notranjega zraka, da bo kljub emisijam zagotovljeno
+stanje, ki ne ogroža zdravja uporabnikov stavbe in tudi ne ljudi v njeni okolici.
+II. NOTRANJE OKOLJE
+1. Kakovost zraka
+7. člen
+(1) Zrak v
+prostoru mora biti svež in prijeten, brez vonjav in ne sme ogrožati zdravja
+ljudi v prostoru.
+(2) Pri
+projektiranju in gradnji stavb je treba šteti, da je vir onesnaževanja
+notranjega zraka stavba kot celota - gradbeni material, pohištvo, prezračevalni
+sistem, oprema, kot je podano v tabeli A.7 standarda SIST CR 1752,
+Prezračevanje stavb - Kriteriji načrtovanja notranjega okolja.
+(3)
+Onesnaževanje notranjega zraka, povezano z uporabniki prostora, je opredeljeno
+v tabeli A.6 standarda SIST CR 1752.
+8. člen
+(1) Najmanjši
+potrebni vtok zunanjega zraka je 15 m3/h na osebo v prostorih, kjer
+kajenje ni dovoljeno, brez upoštevanja drugih virov onesnaževanja notranjega
+zraka in pri učinkovitosti prezračevanja ena (1).
+(2) V času
+prisotnosti ljudi v prostorih stavbe, ki so namenjeni za delo in bivanje ljudi,
+je treba dosegati volumsko izmenjavo zraka (n) vsaj n = 0,5 h-1. Z
+uporabljenim sistemom prezračevanja je treba preprečiti pretok zraka iz bolj
+obremenjenih prostorov (npr. kuhinje, stranišča, kopalnice, garaže,
+laboratorija …) v ostale prostore v stavbi.
+(3) V času
+odsotnosti ljudi v prostorih stavbe, ki so namenjeni za delo in bivanje ljudi,
+je treba zagotoviti in vzdrževati izmenjavo zraka najmanj n = 0,2 h-1
+za odstranitev emisij stavbe in preprečitev drugih škodljivosti (npr. pojav
+kondenzacije).
+(4) V stavbah z
+vgrajenimi mehanskimi sistemi za prezračevanje in v prostorih z višino stropov
+nad 3,5 m je zahtevana volumska izmenjava zraka lahko manjša, n < 0,5 h-1,
+ob doseganju parametrov za notranje okolje v bivalni coni prostora. Količina
+zraka se preračuna na notranje mere prostorov.
+(5) V bivalnih
+prostorih stanovanjskih stavb je treba zagotoviti prezračevanje v skladu z
+zahtevami standarda SIST DIN 1946-6.
+(6) V prostorih,
+v katerih je kajenje dovoljeno, mora najmanjša dodatna količina vtoka zunanjega
+zraka znašati 45 m3/h na osebo (upošteva se predvideno število oseb
+za prostor).
+(7) Količina
+zunanjega zraka se lahko določi tudi glede na talno površino in mora znašati
+najmanj 1,5 m3/h na kvadratni meter talne površine prostora,
+brez upoštevanja drugih virov onesnaževanja zraka.
+(8) Količine
+zunanjega zraka za prezračevanje stavb so podane v tabeli 8 pod točko 4.
+Količina zraka v prilogi 1. V tej tabeli podane vrednosti zagotavljajo dopustno
+notranje okolje pri običajno znanih pogojih in ne upoštevajo morebitnih
+dodatnih onesnaževalcev. Distribucija zraka mora biti določena glede na
+lokacijo človeka in delujoče naprave.
+9. člen
+(1) S
+prezračevanjem je treba zagotavljati, da koncentracije notranjih onesnaževalcev
+zraka v prostorih stavbe ne presegajo vrednosti, podanih v tabeli 7 pod točko
+4. Količina zraka v prilogi 1.
+(2) Zdravju
+škodljive koncentracije snovi v zraku ne smejo presegati vrednosti iz standarda
+SIST CR 1752, dodatek E.
+10. člen
+(1) Tok zraka
+ter razširjenost emisij in vonjav med posameznimi prostori stavbe oziroma med
+stavbo in njenim okoljem je treba nadzorovati s tlačno razliko vtočnih in
+odtočnih tokov zraka z nadtlakom ali podtlakom do 10 Pa. Prostori z različnim
+namenom uporabe ne smejo imeti skupnega prezračevalnega sistema.
+(2) Stavbe je
+treba graditi tako, da se prepreči nekontroliran vtok zraka, še posebej v
+vetrovnih legah, ter zagotoviti tesnost lupine stavbe. Tesnost stavbe je določena
+s predpisom o toplotni zaščiti stavb.
+2. Toplotno okolje
+11. člen
+(1) Projektirani
+ali izmerjeni občutek človekovega toplotnega okolja se izrazi skladno z
+zahtevami standarda SIST ISO 7730, točki 3.1 in 4. Če obleka in aktivnost nista
+opredeljeni, znašata vrednosti za obleko v povprečju 0,5 clo (0,078 m2
+K/W) v času brez ogrevanja (letnem) in 1,0 clo (0,155 m2 K/W) v
+ogrevalnem (zimskem) obdobju pri aktivnosti 1,2 met (sedenje).
+(2) Toplotno
+okolje mora biti tako, da je indeks PPD manjši od 15 %, indeks PMV pa v mejah
+–0,7 < PMV < +0,7
+12. člen
+(1) V prostorih
+mora biti zagotovljena takšna vlažnost zraka, da s svojim neposrednim oziroma
+posrednim učinkom ne vpliva na ugodje in zdravje ljudi ter ne povzroči nastanka
+površinske kondenzacije na stenah.
+(2) Pri
+temperaturi zraka med 20 °C in 26 °C je območje dopustne relativne vlažnosti
+med 30 % in 70 %.
+(3) V
+stanovanjskih prostorih je priporočljiva relativna vlažnost zraka pod 60 %, kar
+zmanjšuje rast alergenih in patogenih organizmov. Pri klimatizaciji prostorov
+mora biti zagotovljena relativna vlažnost zraka pod 60 %.
+(4) Optimalna
+občutena temperatura v odvisnosti od aktivnosti in obleke uporabnika prostora
+se določi skladno s SIST CR 1752, slika A.2, kategorija C.
+13. člen
+(1) Gibanje
+zraka v prostoru je pri optimalni občuteni temperaturi dopustno, če je odstotek
+nezadovoljnih uporabnikov prostora manjši od 25 % - po metodologiji iz
+standarda SIST CR 1752, točka A.2.4.3.
+(2) Dopustne
+srednje hitrosti zraka v bivalni coni so podane v SIST CR 1752, slika A.3,
+kategorija C, v odvisnosti od lokalne temperature zraka v prostoru in
+intenzitete turbulence. Območje sprejemljivosti srednje hitrosti zraka pri
+normalnih pogojih predstavlja območje pod ustrezno krivuljo intenzitete
+turbulence.
+(3) Hitrosti
+zraka v bivalni coni pri temperaturi zraka prostora, kot je določena s
+prejšnjim členom, tveganju prepiha 25 % in intenziteti turbulence 40 % se
+načrtujejo skladno s tabelo 4 pod točko 2. Načrtovana hitrost zraka v prilogi 1
+tega pravilnika. Hitrosti zraka ne smejo biti presežene pri normalnem delovanju
+sistema, presežene so lahko samo pri časovno omejenem intenzivnem
+prezračevanju.
+14. člen
+Parametri za
+toplotno ugodje sedeče osebe v bivalni coni so naslednji:
+1.     temperatura zraka:
+v času brez ogrevanja med 22 °C in 26 °C, priporočljivo 23 °C do 25
+°C,
+v času ogrevanja med 19 °C in 24 °C, priporočljivo 20 °C
+do 22 °C;
+2.     navpična temperaturna razlika zraka med glavo in gležnji za sedečo
+osebo (med 0,1 m in 1,1 m nad podom) manjša od 3 K, v vseh drugih primerih
+manjša od 4 K;
+3.     površinska temperatura poda med 17 °C in 26 °C, pri sistemu talnega
+ogrevanja do 29 °C (izjemi sta prostori z nestalno prisotnostjo in
+prostori s posebno namembnostjo);
+4.     pod oziroma talna obloga poda zaradi svojega neposrednega oziroma
+posrednega vpliva ne sme onesnaževati zraka v prostoru in ne sme vplivati na
+ugodje in zdravje uporabnikov prostorov;
+5.    
+največja sevalna temperaturna asimetrija:
+
+za hladno steno 
+
+< 13 °C,
+
+
+za toplo steno 
+
+< 35 °C,
+
+
+za hladen strop 
+
+< 18 °C,
+
+
+za topel strop 
+
+< 7 °C.
+
+Z oblikovanjem stavbe in senčili je treba v času hlajenja
+preprečiti vpliv neposrednega sončnega sevanja v bivalni coni;
+6.    
+priporočena srednja hitrost zraka:
+
+v času ogrevanja
+  in hlajenja
+
+0,15 m/s,
+
+
+v ostalem času 
+
+0,2 m/s.
+
+15. člen
+(1) Količina
+vtoka (zunanjega) zraka se uravnava po dejanskih potrebah obremenjenosti in
+času zasedenosti z uporabnikom prostora.
+(2) Zaradi
+varčevanja z energijo se v stavbah ali v delih stavb, ki se prezračujejo
+mehansko in kjer je volumska izmenjava zraka v bivalni coni ali v celotnem
+prostoru večja, n > 0,7 h-1, vgradijo naprave za pridobivanje
+toplote zavrženega ali odtočnega zraka. Naprave za pridobivanje toplote
+zavrženega ali odtočnega zraka morajo imeti pri projektnih pogojih učinek h > 65
+%, razen:
+-       h ≥ 50 %   pri
+vgradnji ploščnega prenosnika toplote in toku zraka > 15.000 m3/h,
+-       
+h ≥ 45 %  pri vgradnji ploščnega prenosnika toplote in toku zraka ≤
+15.000 m3/h ali toplotne cevi,
+-       
+h ≥ 40 %  pri vgradnji lamelnega prenosnika toplote ali če je
+obratovanje prezračevalne naprave občasno (do 150 ur letno).
+(3) Vgradnja
+naprave za vračanje toplote ni potrebna pri prezračevanju toka zraka do
+1.200 m3/h, v posebnih primerih (npr. vir toksičnih ali
+eksplozijskih snovi) in v primerih, ko dokazano tega ni mogoče izvesti.
+(4)
+Regenerativni prenosniki toplote se lahko uporabljajo le v primerih, ko
+zavrženi ali odtočni zrak ne vsebujeta tobačnega
+dima ali drugih škodljivih onesnaževalcev.
+III. PREZRAČEVANJE IN PREZRAČEVALNI SISTEMI
+16. člen
+(1) Prostori v
+stavbah se prezračujejo naravno, mehansko ali hibridno.
+(2)
+Prezračevalni sistemi so namenjeni doseganju in uravnavanju predpisane ravni
+notranjega okolja v prostorih.
+1. Projektiranje prezračevalnih sistemov
+17. člen
+(1)
+Prezračevalni sistem mora biti projektiran in izveden tako, da pri normalnem
+vzdrževanju racionalno in nemoteno deluje ves čas uporabe in da je omogočen
+lahek dostop za čiščenje, vzdrževanje in popravila tega sistema.
+(2) Izkaz
+energijskih karakteristik prezračevalnega sistema in predvidena raba energije
+morata biti navedena v obrazcu »Izkaz energijskih karakteristik prezračevanja
+stavbe« iz priloge 3, ki je sestavni del tega pravilnika. Izpolnjen obrazec je
+obvezen del projektne dokumentacije.
+18. člen
+(1) Pri
+projektiranju prezračevalnih sistemov je treba upoštevati:
+-       namembnost in fleksibilnost prostora z opredelitvijo bivalne cone,
+-       obremenjenost prostora z uporabniki (na m2 površine),
+-       ocenitev uporabnikove aktivnosti in navad oblačenja,
+-       obremenitev prostora z onesnaževalci,
+-       delež kadilcev, kjer je dovoljeno kajenje,
+-       kakovost razpoložljivega zunanjega zraka,
+-       nivo zunanjega hrupa,
+-       meteorološke pogoje,
+-       delež steklenih površin in njihovih transmisij,
+-       možnost odpiranja oken,
+-       uporabo senčil,
+-       hladilno/grelne obremenitve notranjega in zunanjega izvora,
+-       fizikalne lastnosti materialov, uporabljenih v stavbi,
+-       kontrolo in dušenje hrupa zaradi mehanskega oziroma hibridnega
+prezračevalnega sistema,
+-       način vzdrževanja in kakovost čiščenja prezračevalnega sistema in
+prostorov.
+(2) Projektant
+mora izbrati takšne načine prezračevanja, ki ob doseganju najmanj minimalno
+predpisanih parametrov omogočajo ekonomsko, tehnično in organizacijsko
+najustreznejši način obratovanja, vzdrževanja in upravljanja z vgrajenimi
+prezračevalnimi sistemi.
+19. člen
+(1) Parametri
+načrtovanja prostorov različnih namembnosti so podani v tabelah 5 in 6 pod
+točko 3. Parametri načrtovanja v prilogi 1.
+(2) Če parametri
+v prostoru odstopajo od parametrov, podanih v tabelah iz prejšnjega
+odstavka, se prezračevalni sistem projektira po naslednji metodologiji:
+1.    
+toplotno okolje:
+- 
+oceni se stopnja aktivnosti uporabnikov
+prostorov skladno s standardom SIST CR 1752, priloga D1,
+- 
+oceni se toplotni upor obleke uporabnikov
+prostorov za letno oziroma zimsko obdobje skladno s standardom SIST CR 1752,
+priloga D2,
+- 
+določi se (optimalna) občutena temperatura,
+- 
+izbere se želeno največje število nezadovoljnih
+uporabnikov prostorov (indeks PPD) in določi dopustno temperaturno območje
+skladno s standardom SIST CR 1752,
+- 
+izbere se želeno največje število nezadovoljnih
+ljudi zaradi prepiha, ugotovi dopustna srednja hitrost zraka z upoštevanjem
+40-odstotne intenzitete turbulence, če za izbrani sistem ni opredeljena
+drugače,
+- 
+določi se navpična temperaturna razlika,
+površinska temperatura poda in asimetrična sevalna temperatura;
+2.     najmanjša količina zunanjega zraka:
+2.1   kakovost zraka:
+najmanjša količina zunanjega zraka se določi
+glede na največje dopustne koncentracije onesnaževalcev v prostoru po
+naslednjem postopku:
+-    
+dentificirajo se vse kritične kemične in druge
+emisije, oceni njihova intenziteta in mesto izvora,
+-    
+ugotovijo se predpisane dopustne
+koncentracijske vrednosti in
+-    
+izračuna se potrebna količina zraka za
+stacionarno stanje s pogojem, da je kakovost vtočnega (zunanjega) zraka boljša
+od notranjega zraka (točka 4. Količina zraka, enačba 1 v prilogi 1),
+-    
+pri prezračevalnem sistemu, ki oskrbuje več
+prostorov z različnimi potrebami po deležu zunanjega zraka, se za določitev
+potrebne skupne količine zunanjega zraka uporabi enačba 3, navedena pod točko
+4. Količina zraka v prilogi 1.
+Ob navzočnosti večjega števila virov onesnaževanja zraka je za
+prezračevanje obravnavanega prostora odločujoča največja izračunana količina
+zraka.
+2.2.  
+toplotno okolje:
+najmanjšo količino zraka določajo naslednji kriteriji:
+2.2.1  količina zunanjega zraka na osebo (8. člen tega pravilnika);
+2.2.2  transport toplote/hladu s prezračevanjem, določen po
+naslednjem postopku:
+-    
+določi se hladilna in/ali grelna obremenitev
+(moč),
+-    
+določi se temperatura vtoka zraka,
+-    
+določi se količina vtoka zraka: za načrtovano
+toplotno okolje z upoštevanjem hladilne/grelne moči in temperaturne razlike med
+prostorskim in vtočnim zrakom (enačba 2 pod točko 4. Količina zraka v
+prilogi 1);
+2.2.3  odstranitev onesnaževalcev (točka 2.1 tega
+člena);
+2.2.4  distribucija zraka v prezračevani prostor
+(dosežena učinkovitost prezračevanja).
+2. Tehnične zahteve za prezračevalne sisteme
+20. člen
+(1)
+Prezračevalni sistem mora biti opremljen z merilnimi in krmilnimi instrumenti
+za nadzor in upravljanje njegovih glavnih funkcij delovanja ter oskrbovan in
+vzdrževan tako, da izpolnjuje zahteve po tem pravilniku ves čas svojega
+delovanja.
+(2) Namestitev
+prezračevalnih odprtin, njihovo število in porazdelitev morajo biti takšni, da
+ne povzročajo nezaželenih učinkov toka zraka. Prezračevalne odprtine morajo
+biti stalno dostopne za vzdrževanje in čiščenje.
+(3) Vsi deli
+prezračevalnega sistema morajo biti iz negorljivega materiala, gladkih
+notranjih površin, kjer se maščoba in umazanija lahko čistita. Le v izjemnih
+primerih je lahko uporabljen gorljiv material, kar mora biti v projektni
+dokumentaciji posebej označeno in utemeljeno.
+(4) Strojna
+oprema mora biti opremljena z ustreznim varovanjem in varnostnimi napravami za
+vzdrževanje in popravila ter za takojšnjo ustavitev po potrebi.
+(5)
+Prezračevalni sistem oziroma njegovi deli, vgrajeni na zunanjem delu stavbe,
+morajo biti odporni proti vremenskim razmeram ter ne smejo škodljivo vplivati
+na okolico. Pri absolutni temperaturni razliki med vtočnim ali odtočnim zrakom
+in okolico nad 10 K morajo biti prezračevalni sistem oziroma njegovi sestavni
+deli toplotno izolirani. Debelina toplotne izolacije (toplotne prevodnosti ≤
+0,04 W/mK) mora biti ≥ 40 mm, da ne prihaja do kondenzacije v sami notranjosti
+ali na površini sistema, da je izolacija zaščitena proti poškodbam in da je
+omogočeno čiščenje kanalov.
+21. člen
+Mehanski
+prezračevalni sistemi oziroma mehanski deli hibridnih prezračevalnih sistemov
+morajo poleg tehničnih zahtev iz prejšnjega člena izpolnjevati tudi ustrezne
+tehnične zahteve - vključno s predpisanimi metodami preskušanja – iz
+standardov, navedenih v prilogi 2, ki je sestavni del tega pravilnika.
+3. Preskus in prevzem vgrajenega
+prezračevalnega sistema
+22. člen
+(1) Izvajalec
+vgradnje prezračevalnega sistema mora le-tega pred preskusom hidravlično
+uravnovesiti in nastaviti skladno s podatki iz projektne dokumentacije ter
+dokazati njegovo zračno tesnost. Izvajalec mora v dogovoru z investitorjem
+najpozneje do tehničnega prevzema poskrbeti za preskus sistema. Delovanje
+sistema mora biti preskušeno pri različnih vremenskih razmerah.
+(2) Izvajalec
+mora poskrbeti za preskus funkcionalnosti sistema, ki se izvede pred količinsko
+nastavitvijo zračnih tokov. Pred preskusom funkcionalnosti sistema se preveri
+pravilnost izvedbe sistema, da sprememba funkcionalnosti sistema ne bi vplivala
+na zračne tokove. Funkcionalnost električne opreme prezračevalnega sistema se
+preskusi po priključitvi na električno omrežje. Zračni kanali morajo biti
+čisti.
+(3) V času
+preskusa mora sistem obratovati z nazivno močjo, količine zraka morajo biti
+nastavljene na največje načrtovane vrednosti. Načrtovani tlačni pogoji se
+preverjajo z meritvijo pretoka zraka ali z meritvijo padcev tlaka ali z dimnim
+preskusom.
+23. člen
+(1) Parametri
+toplotnega okolja in kakovosti zraka, toka zraka, karakteristike električnih
+naprav in drugi načrtovani podatki morajo biti preskušeni s pretokom zraka, ki
+ustreza načrtovanim vrednostim. Pri preskusu sistema so dopustna naslednja
+odstopanja izmerjenih vrednosti:
+
+količina zraka za
+  posamezni prostor
+
+±20 %
+
+
+količina zraka za
+  posamezni sistem
+
+±15 %
+
+
+temperatura zraka
+
+±2 °C
+
+
+relativna
+  vlažnost zraka 
+
+±15 % abs.
+
+
+hitrost zraka v
+  bivalni coni
+
+±0,05 m/s
+
+
+temperatura zraka
+  in občutena temperatura v bivalni coni
+
+±1,5 °C
+
+
+raba energije,
+  preračunana na načrtovano količino zraka
+
+do +5 %
+
+(2) Podana odstopanja
+iz prejšnjega odstavka vključujejo dovoljeni odklon od načrtovanih vrednosti in
+tudi merilno negotovost.
+(3) Če
+funkcionalnost sistema in/ali delov sistema zahteva manjša odstopanja, kot so
+opredeljena v prvem odstavku tega člena, jih mora projektant posebej navesti v
+projektni dokumentaciji. Vse temperature in karakteristike ogrevanja ali
+hlajenja morajo sočasno ustrezati danim odstopanjem.
+(4) Meritve se
+opravijo z merilnimi instrumenti skladno z meroslovnimi predpisi. Točnost
+uporabljenih merilnih instrumentov mora biti v okviru odstopanj, kot so
+navedena v tem členu.
+(5) Preskus
+sistema mora zajemati tudi meritve hrupa po veljavnih predpisih o hrupu v
+naravnem in življenjskem okolju in o zvočni zaščiti stavb.
+24. člen
+Po končanem pregledu, preskusu oziroma
+meritvah se izdela poročilo, ki mora vsebovati:
+-      
+podatke o izvajalcu preskusa,
+-      
+podatke o naročniku,
+-      
+definicijo zahtevka za opravljanje preskusa,
+-      
+podatke o lokaciji stavbe in/ali sistema, ki se
+preskuša,
+-      
+podatke o metodologiji preskusa in uporabljenih
+merilnih instrumentih,
+-      
+podatke o meteoroloških pogojih v času
+preskusa,
+-      
+rezultate preskusa,
+-      
+analizo merilnih rezultatov in ugotovitve,
+-      
+oceno merilnih pogreškov,
+-      
+sklepne ugotovitve z odločitvijo glede na
+veljavne predpise.
+25. člen
+Preskusni
+postopek in merilne metode, skupna celotna kontrola, preskus delovanja,
+preskusne in specialne meritve prezračevalnega sistema se izvajajo skladno s
+standardom SIST prEN 12599.
+26. člen
+(1) Izvajalec
+mora o pregledih, preskusih, merjenjih, količinski nastavitvi zračnih tokov,
+nastavitvi avtomatske regulacije in kontrole izdelati zapisnik in poročilo iz
+24. člena tega pravilnika, ki ju izroči investitorju oziroma lastniku po
+opravljenih preskusih oziroma najpozneje ob predaji sistema.
+(2) Vse
+spremembe na sistemu, ki so bile izvedene med gradnjo, morajo biti zapisane v
+projektni dokumentaciji (projekt izvedenih del) in na shemi vgrajenega sistema,
+ki se izročita investitorju oziroma lastniku. Investitor oziroma lastnik mora
+prejeti tudi vsa navodila o delovanju sistema, njegovem upravljanju in
+vzdrževanju v slovenskem jeziku.
+(3) Projektna
+dokumentacija prezračevalnega sistema mora vsebovati vse postopke načrtovanja,
+procesne in kontrolne diagrame, risbe, sheme itn. Dokumentacija, izročena
+lastniku, mora poleg tega vsebovati tudi tehnične specifikacije delovanja,
+navodila za uporabo in vzdrževanje ter tehnična navodila za sisteme, vse v
+slovenskem jeziku.
+27. člen
+(1) Sistem sme
+biti predan v upravljanje le osebju, ki je strokovno usposobljeno (v nadaljnjem
+besedilu: upravljavec) v zvezi z uporabo, obratovanjem in vzdrževanjem sistema.
+Pri prevzemu sistema je treba pregledati celoten sistem glede na njegovo
+delovanje in vzdrževanje in druge pomembne okoliščine v prisotnosti
+investitorja oziroma lastnika.
+(2) Od vgradnje
+dalje mora upravljavec voditi knjigo delovanja, servisiranja in vzdrževanja
+prezračevalnega sistema oziroma naprave z
+navedbo časovnih intervalov in odgovornih oseb.
+(3) Projektant
+in izvajalec klimatizirane stavbe sta dolžna zagotoviti izvedbo meritev v prvem
+letu rednega obratovanja sistema po izdaji uporabnega dovoljenja. Meritve se
+opravijo v zimskem času, ko je zunanja temperatura zraka pod 5 °C, in v letnem
+času, ko je zunanja temperatura zraka nad 25 °C. Osnovni namen teh meritev je
+ugotoviti skladnost izvedbe in doseganje parametrov notranjega okolja s
+projektno dokumentacijo.
+4. Obratovanje in vzdrževanje
+prezračevalnega sistema
+28. člen
+(1) Vsi deli
+prezračevalnega sistema morajo biti narejeni in vgrajeni tako, da sta omogočeni
+njihovo čiščenje in zamenjava. Po vgradnji in ob pregledih morajo biti
+komponente očiščene in po potrebi razkužene na zdravju neškodljiv način, za kar
+mora biti predvideno zadostno število ustrezno velikih čistilnih odprtin
+skladno s standardom SIST EN 12097.
+(2) Prezračevalni
+sistemi in komponente za vtočni zrak morajo obratovati in biti vzdrževani tako,
+da so zahteve za higieno in čistočo zraka neprestano dosežene skladno z
+zahtevanimi oziroma načrtovanimi vrednostmi ter predpisi.
+29. člen
+(1)
+Prezračevalni sistemi morajo biti narejeni, vgrajeni in vzdrževani tako, da
+rast in razmnoževanje mikroorganizmov na vseh komponentah sistemov nista
+mogoča. Skupno število aerobnih bakterij v vodi v vlažilni komori ne sme biti
+več kot 1000 CFU* v 1 ml vode pri inkubacijski temperaturi 22 ± 2 °C
+v 68 ± 4 urah in 36 ± 2 °C v 44 ± 4 ure. Bakterij vrste Legionella v 1 ml vode
+v vlažilni komori ne sme biti. Za razkuževanje se uporablja fizikalna ali
+kemijska metoda. Izbrana metoda mora biti učinkovita in zdravju neškodljiva.
+Priporočljivo je, da so vlažilne komore in vodni zbiralniki opremljeni z
+avtomatskim sistemom za izpust vode in osušitev, če ne obratujejo več kot en
+dan.
+(2) Vlažilne
+komore, filtri, predgrelniki in dogrelniki morajo biti kontrolirani glede na
+vlago. Relativna vlažnost zraka v sistemu ne sme preseči 90 %.
+(3) Zračni
+filtri morajo biti načrtovani, vgrajeni, servisirani ali zamenjani tako, da
+prostorsko nastali lebdeči delčki ter tudi anorganski in organski prah v čim
+manjši količini prodrejo v prezračevane prostore, oziroma tako, da se količina
+prahu v prostorih ne poveča. Priporočeni razred filtra je najmanj F6 (po SIST
+EN 779). Vgrajeni filtri, dušilniki zvoka in toplotna izolacija ne smejo
+spuščati mineralnih vlaken in drugih škodljivih onesnaževalcev v vtočni tok zraka
+pri obratovanju.
+30. člen
+(1) Redni
+pregled prezračevalnih naprav in sistemov je treba izvesti najmanj enkrat na
+leto, če v navodilih za uporabo ni določeno drugače. Količina bakterij v vodi
+vlažilne komore se kontrolira najmanj dvakrat na leto.
+(2) Izredni
+pregled prezračevalnih naprav in sistemov se opravi po posegih, ki lahko
+vplivajo na funkcionalnost sistema oziroma na količino mikroorganizmov v
+sistemu. V tem primeru se opravijo tudi kontrola količine bakterij v vodi
+vlažilne komore in tudi ciljane bakteriološke analize.
+(3) Ugotovitve
+rednih in tudi izrednih pregledov se vpisujejo v knjigo pregledov, ki jo hrani
+upravljavec prezračevalnega sistema.
+IV. NADZORSTVO
+31. člen
+(1) Nadzorstvo
+nad izvajanjem določb tega pravilnika izvajajo inšpektorji, pristojni za
+graditev.
+(2) Nadzorstvo
+nad izvajanjem prvega odstavka 29. člena in 30. člena tega pravilnika
+izvajajo inšpektorji, pristojni za zdravje.
+
+Priloga 1: Vrste zraka; Načrtovana hitrost zraka;
+Parametri načrtovanja; Količina zraka;
+Priloga 2: Standardi prezračevalnih sistemov
+Priloga 3: Izkaz energijskih karakteristik
+prezračevanja stavbe
+
+Pravilnik o prezračevanju in klimatizaciji
+stavb (Uradni list RS, št. 42/02)
+vsebuje naslednje prehodne in končne določbe:
+»V. POSEBNA, PREHODNE IN KONČNE DOLOČBE
+32. člen
+(1) Standardi,
+navedeni v tem pravilniku, se hranijo in so na voljo pri slovenskem nacionalnem
+organu za standarde.
+(2) Idejni
+projekti, projekti za pridobitev gradbenega dovoljenja, projekti za razpis,
+projekti za izvedbo in projekti izvedenih del, za katerih izdelavo so bile
+pogodbe sklenjene pred uveljavitvijo tega pravilnika, se izdelajo po dosedanjih
+predpisih.
+33. člen
+(1) Z dnem
+uveljavitve tega pravilnika preneha veljati 7. člen pravilnika o racionalni
+rabi energije pri gretju in prezračevanju objektov ter pripravi tople vode
+(Uradni list SRS, št. 31/84).
+(2) Z dnem
+uveljavitve tega pravilnika se preneha uporabljati pravilnik o tehničnih
+ukrepih in pogojih za prezračevanje stanovanjskih hiš (Uradni list SFRJ, št.
+35/70).
+(3) Z dnem
+uveljavitve tega pravilnika se za stavbe iz 1. člena tega pravilnika prenehajo
+uporabljati določbe 7. člena, drugega odstavka 23. člena, 24. člena, 31. člena,
+44. do 46. člena, 58. člena in 66. člena pravilnika o tehničnih normativih za
+ventilacijske ali klimatizacijske sisteme (Uradni list SFRJ, št. 38/89).
+34. člen
+Ta pravilnik
+začne veljati tri mesece po objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi pravilnika o prezračevanju
+in klimatizaciji stavb (Uradni list RS, št. 105/02) vsebuje naslednjo končno določbo:
+»2. člen
+Ta pravilnik
+začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.

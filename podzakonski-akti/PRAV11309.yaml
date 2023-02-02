@@ -1,0 +1,17 @@
+Text file: PRAV11309.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1337983200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11309
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o merilih za sofinanciranje izvajanja letnega programa \u0161porta\
+  \ na dr\u017Eavni ravni"
+npbNum: 0
+path: /2012/16/2012-01-1632
+sopPredpisa: 2012-01-1632
+sopPredpisaChng: null

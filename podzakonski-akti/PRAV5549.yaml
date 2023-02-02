@@ -1,0 +1,18 @@
+Text file: PRAV5549.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1078095600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5549
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine nadomestila za kritje stro\u0161kov\
+  \ za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010D\
+  jih v letu 2004"
+npbNum: 0
+path: /2004/05/2004-01-0572
+sopPredpisa: 2004-01-0572
+sopPredpisaChng: null

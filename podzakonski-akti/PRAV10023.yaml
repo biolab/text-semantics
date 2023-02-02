@@ -1,0 +1,17 @@
+Text file: PRAV10023.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277935200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10023
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za prepre\u010Devanje \u0161irjenja in zatiranje krompirjevih\
+  \ ogor\u010Dic"
+npbNum: 0
+path: /2010/26/2010-01-2638
+sopPredpisa: 2010-01-2638
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13210.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1546902000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13210
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o razvr\u0161\u010Danju in ozna\u010Devanju govejih in pra\u0161\
+  i\u010Djih trupov"
+npbNum: 0
+path: /2018/40/2018-01-4077
+sopPredpisa: 2018-01-4077
+sopPredpisaChng: null

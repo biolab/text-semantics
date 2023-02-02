@@ -1,0 +1,17 @@
+Text file: PRAV13322.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1645830000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13322
+idPredpisaChng: PRAV13322
+instock: .nan
+naslov: "PRAVILNIK o zdravstvenih pogojih voznikov motornih vozil (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/03/2022-01-0315-2018-01-0592-npb1
+sopPredpisa: 2022-01-0315
+sopPredpisaChng: 2018-01-0592

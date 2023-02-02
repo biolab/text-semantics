@@ -1,0 +1,17 @@
+Text file: PRAV9700.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1244239200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9700
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sprejemu letnih na\u010Drtov lovsko upravljavskih obmo\u010D\
+  ij v Republiki Sloveniji za leto 2009"
+npbNum: 0
+path: /2009/21/2009-01-2116
+sopPredpisa: 2009-01-2116
+sopPredpisaChng: null

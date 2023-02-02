@@ -1,0 +1,18 @@
+Text file: PRAV7057.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1151100000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7057
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o pogojih, pod katerimi se lahko pri rekonstrukciji ali odstranitvi\
+  \ objektov in pri vzdr\u017Eevalnih delih na objektih, instalacijah ali napravah\
+  \ odstranjujejo materiali, ki vsebujejo azbest"
+npbNum: 0
+path: /2006/25/2006-01-2551
+sopPredpisa: 2006-01-2551
+sopPredpisaChng: null

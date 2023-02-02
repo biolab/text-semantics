@@ -1,0 +1,16 @@
+Text file: PRAV12884.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1532124000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12884
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o jodiranju jedilne soli
+npbNum: 0
+path: /2018/24/2018-01-2426
+sopPredpisa: 2018-01-2426
+sopPredpisaChng: null

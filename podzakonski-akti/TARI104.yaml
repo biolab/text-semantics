@@ -1,0 +1,18 @@
+Text file: TARI104.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1235775600000000000
+- null
+- null
+- 10
+idPredpisa: TARI104
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO o vrednosti to\u010Dke za leto 2009 za pla\u010Dilo na podlagi obvestila,\
+  \ za pla\u010Dilo za uporabo radijskih frekvenc in za pla\u010Dilo za uporabo elementov\
+  \ o\u0161tevil\u010Denja"
+npbNum: 0
+path: /2009/05/2009-01-0571
+sopPredpisa: 2009-01-0571
+sopPredpisaChng: null

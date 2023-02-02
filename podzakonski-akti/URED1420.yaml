@@ -1,0 +1,16 @@
+Text file: URED1420.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 746488800000000000
+- null
+- null
+- 10
+idPredpisa: URED1420
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o za\u010Dasni omejitvi porabe vode iz vodotokov"
+npbNum: 0
+path: /1993/18/1993-01-1893
+sopPredpisa: 1993-01-1893
+sopPredpisaChng: null

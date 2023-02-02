@@ -1,0 +1,16 @@
+Text file: PRAV10353.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1301094000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10353
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK  o za\u0161\u010Diti podatkov policije"
+npbNum: 0
+path: /2011/07/2011-01-0703
+sopPredpisa: 2011-01-0703
+sopPredpisaChng: null

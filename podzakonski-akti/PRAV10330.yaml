@@ -1,0 +1,19 @@
+Text file: PRAV10330.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1283292000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1279922400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10330
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ocenjevanju znanja v srednjih \u0161olah"
+npbNum: 0
+path: /2010/33/2010-01-3343
+sopPredpisa: 2010-01-3343
+sopPredpisaChng: null

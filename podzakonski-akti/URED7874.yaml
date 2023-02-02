@@ -1,0 +1,17 @@
+Text file: URED7874.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595628000000000000
+- null
+- null
+- 10
+idPredpisa: URED7874
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za rabo termalne vode iz izvira Klevev\u0161ka toplica\
+  \ za ogrevanje"
+npbNum: 0
+path: /2020/19/2020-01-1974
+sopPredpisa: 2020-01-1974
+sopPredpisaChng: null

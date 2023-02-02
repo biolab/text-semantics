@@ -1,0 +1,16 @@
+Text file: ODRE624.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 938815200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE624
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o uvedbi namakanja na kompleksu imenovanem \u0160empaske gmajne"
+npbNum: 0
+path: /1999/37/1999-01-3795
+sopPredpisa: 1999-01-3795
+sopPredpisaChng: null

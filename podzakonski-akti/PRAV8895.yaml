@@ -1,0 +1,17 @@
+Text file: PRAV8895.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1205190000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8895
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o najve\u010Djem dovoljenem ugrezu ladij za plovbo v III. bazenu\
+  \ koprskega pristani\u0161\u010Da"
+npbNum: 0
+path: /2008/06/2008-01-0643
+sopPredpisa: 2008-01-0643
+sopPredpisaChng: null

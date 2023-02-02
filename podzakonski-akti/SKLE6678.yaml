@@ -1,0 +1,16 @@
+Text file: SKLE6678.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1167606000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE6678
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o poro\u010Danju o medban\u010Dnih depozitih "
+npbNum: 0
+path: /2006/44/2006-01-4445
+sopPredpisa: 2006-01-4445
+sopPredpisaChng: null

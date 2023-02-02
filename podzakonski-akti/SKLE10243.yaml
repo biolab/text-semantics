@@ -1,0 +1,17 @@
+Text file: SKLE10243.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1437775200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10243
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
+  \ vinogradov in izpada dohodka v vinskem letu 2015/2016"
+npbNum: 0
+path: /2015/21/2015-01-2133
+sopPredpisa: 2015-01-2133
+sopPredpisaChng: null

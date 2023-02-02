@@ -1,0 +1,16 @@
+Text file: ODRE2567.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1590789600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2567
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o sprejemu vi\u0161je\u0161olskega \u0161tudijskega programa Elektrotehnika"
+npbNum: 0
+path: /2020/11/2020-01-1154
+sopPredpisa: 2020-01-1154
+sopPredpisaChng: null

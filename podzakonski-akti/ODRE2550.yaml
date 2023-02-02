@@ -1,0 +1,17 @@
+Text file: ODRE2550.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1583967600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2550
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o razglasitvi epidemije nalezljive bolezni SARS-CoV-2 (COVID-19)\
+  \ na obmo\u010Dju Republike Slovenije"
+npbNum: 0
+path: /2020/05/2020-01-0532
+sopPredpisa: 2020-01-0532
+sopPredpisaChng: null

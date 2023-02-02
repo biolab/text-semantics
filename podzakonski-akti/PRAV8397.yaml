@@ -1,0 +1,17 @@
+Text file: PRAV8397.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1324681200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8397
+idPredpisaChng: PRAV8397
+instock: .nan
+naslov: "PRAVILNIK o dovoljenjih za biocidne proizvode na podlagi medsebojnega priznavanja\
+  \ znotraj Evropske unije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/42/2011-01-4255-2007-01-3358-npb1
+sopPredpisa: 2011-01-4255
+sopPredpisaChng: 2007-01-3358

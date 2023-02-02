@@ -1,0 +1,17 @@
+Text file: PRAV4660.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1045522800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4660
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o kakovosti pecilnega pra\u0161ka, pra\u0161ka za puding in vanilijevega\
+  \ sladkorja"
+npbNum: 0
+path: /2003/05/2003-01-0500
+sopPredpisa: 2003-01-0500
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: URED841.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 791247600000000000
+- null
+- null
+- 10
+idPredpisa: URED841
+idPredpisaChng: URED841
+instock: .nan
+naslov: "UREDBA o metodologiji za izdelavo otvoritvene bilance stanja (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /1995/03/1995-01-0349-1993-01-1081-npb6
+sopPredpisa: 1995-01-0349
+sopPredpisaChng: 1993-01-1081

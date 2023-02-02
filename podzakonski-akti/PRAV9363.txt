@@ -1,0 +1,756 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina pravilnika)
+(1) Ta pravilnik določa varnostne ukrepe pred previsoko napetostjo
+dotika na elektrificiranih progah slovenskega železniškega omrežja enosmernega
+sistema 3 kV, enofaznega sistema 25 kV, 50 Hz (Dobova) ter enofaznega sistema
+15 kV, 16 2/3 Hz (Jesenice).
+(2) Varnostne ukrepe pred previsoko napetostjo dotika na
+elektrificiranih progah podrobneje določijo upravljavec in prevozniki v svojih
+operativnih aktih.
+2. člen
+(veljavnost drugih predpisov)
+(1) Pri delih na napajalnih daljnovodih, elektronapajalnih postajah,
+voznem omrežju ter drugih elektroenergetskih napravah in instalacijah veljajo
+poleg določb tega pravilnika tudi splošni elektrotehnični predpisi za varstvo
+pri delu pred previsoko napetostjo dotika.
+(2) Varnostni ukrepi iz tega pravilnika ne izključujejo
+uporabe varnostnih ukrepov, določenih v drugih predpisih,v obsegu, ki se nanaša
+na elektrificirane železniške proge.
+3. člen
+(uporaba določb)
+Po določbah tega pravilnika se morajo ravnati vsi železniški delavci
+in izvajalci del, ki se gibljejo ali opravljajo dela na območju
+elektrificiranih tirov.
+4. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem pravilniku, imajo naslednji pomen:
+1.     
+»delovišče« je mesto dela na elektrificiranih progah;
+2.     
+»elektronapajalna postaja« (v nadaljnjem besedilu: ENP) je
+elektroenergetski postroj, v katerem se izmenična napetost iz
+elektroenergetskega omrežja transformira na nižjo napetost in usmeri v
+enosmerno napetost ter nato preko stikal dovaja na vozno omrežje;
+3.     
+»enofazni sistem 25 kV, 50 Hz« je sistem električne vleke, pri katerem
+se elektrovlečna vozila napajajo z enofazno napetostjo 25 kV, frekvence 50 Hz;
+4.     
+»enofazni sistem 15 kV, 16 2/3 Hz« je sistem električne vleke, pri
+katerem se elektrovlečna vozila napajajo z enofazno napetostjo 15 kV, frekvence
+16 2/3 Hz;
+5.     
+»enosmerni sistem 3 kV« je sistem električne vleke, pri katerem se
+elektrovlečna vozila napajajo z enosmerno napetostjo 3 kV;
+6.     
+»izenačitev potenciala« je postopek stalnega ali začasnega povezovanja
+medsebojno nepovezanih oziroma ne dovolj povezanih vodnikov ali prevodnih delov
+naprav in konstrukcij z električno prevodno zvezo z namenom vzpostavljanja izenačenega
+potenciala;
+7.     
+»izolirana tirnica« je del tirnega traku, ki omogoča kontrolo
+zasedenosti tirov, kretnic in progovnih odsekov in ni del povratnega voda;
+8.     
+»ločilec (odsekovni izolator)« je električna meja med delom voznega
+voda, napajanega preko enega stikala, in delom voznega voda, napajanega preko
+drugega stikala. Služi za prehod električnih vozil z enega dela voznega voda na
+drugi del voznega voda pod obremenitvijo, če sta oba pod napetostjo;
+9.     
+»ločilnik« je stikalna naprava, ki se lahko izklaplja, kadar skozi njo
+ne teče električni tok;
+10.  
+»ločišče« je električna in mehanska meja med voznim vodom odseka odprte
+proge in odseka postaje;
+11.  
+»nevarno območje« je prostor, ki je omejen z določeno varovalno
+razdaljo. Po njem se je prepovedano gibati ali vanj segati z različnim orodjem
+ali opremo;
+12.  
+»napajalni vod voznega omrežja« je vod, ki s posredovanjem prečnih vezi
+ali vzdolžnim napajalnim vodom povezuje elektronapajalne postaje z voznim
+vodom;
+13.  
+»obhodni vod voznega omrežja« je vod, ki omogoča električno povezovanje
+dveh odsekov voznih vodov odprte proge preko postaje;
+14.  
+»odjemnik toka« je naprava na strehi električne lokomotive, električnega
+motornika in motorne garniture ali merilnega vozila, ki služi za odjemanje toka
+s kontaktnega voda;
+15.  
+»odklopni ločilnik« je stikalna naprava, ki se v sili lahko izklaplja,
+tudi ko skozi njo teče električni tok;
+16.  
+»odsek VO« je del voznega omrežja, ki je napajan preko enega ali več
+stikal ter njegovo mejo predstavlja ločilec (odsekovni izolator) ali ločišče;
+17.  
+»ozemljilo« je kovinski del (prevodnik, trak, palica, plošča, cev),
+vkopan v zemljo in je z njo v prevodnem stiku;
+18.  
+»ozemljitev« je električna prevodna vez prevodnih delov in konstrukcij z
+zemljo, vzpostavljena z ozemljilom. Pogojno se s pojmom ozemljitve razume tudi
+električna prevodna zveza prevodnih delov naprav in konstrukcij s tirnico –
+povratnim vodom, čeprav se taka zveza tehnično opredeljuje kot zaščitna vez s
+povratnim vodom;
+19.  
+»ozemljitvena palica« je varovalna naprava, s katero se vodniki zračnih
+vodov voznega omrežja v breznapetostnem stanju povezujejo s tirnico – povratnim
+vodom;
+20.  
+»ozemljitvena vez (ozemljitev)« je električna prevodna vez med
+prevodnimi deli naprav in konstrukcijami z ozemljilom;
+21.  
+»palica za omejitev delovišča« je ozemljitvena palica, opremljena z
+rdečo signalno zastavico;
+22.  
+»pododsek voznega omrežja« je del odseka voznega omrežja postaje,
+katerega vozni vodi so ločeni z ločilci ali koncem voznega voda. Pododsek
+voznega omrežja postaje sestavljajo vozni vodi posameznih tirov ali skupin
+tirov;
+23.  
+»pooblaščeni vzdrževalec stabilnih naprav električne vleke« je
+pooblaščen izvršilni železniški delavec upravljavca, ki izvaja, operativno vodi
+in neposredno nadzoruje dela pri vzdrževanju stabilnih naprav električne vleke
+ter zagotavlja, da so po končanih delih naprave električne vleke v stanju, ki zagotavlja
+varen železniški promet;
+24.  
+»povratni vod ENP« je del voda od mesta kabelskega priključka na tirnico
+do minus pola usmernika;
+25.  
+»povratni vod« so tirnica ter prečne in vzdolžne vezi, ki povezujejo te
+tirnice med seboj in služijo kot povratni vodnik, na katerega se priključujejo
+prevodni deli naprav in konstrukcij, ki ne pripadajo obratovalnemu tokokrogu in
+ki lahko zaradi okvare pridejo pod napetost;
+26.  
+»stabilne naprave električne vleke« (v nadaljnjem besedilu: SNEV)
+sestavljajo sistem elektroenergetskih naprav in napeljav, potrebnih za
+obratovanje električne vleke;
+27.  
+»stikalo na voznem omrežju« je skupni naziv za ločilnik in odklopni ločilnik,
+s katerima se zanesljivo doseže v izklopljenem položaju varnostna razdalja med
+polom pod napetostjo in polom brez napetosti;
+28.  
+»varnostna razdalja« je najmanjša dopustna oddaljenost vodnika oziroma
+dela pod napetostjo od dela brez napetosti v katerikoli smeri pri temperaturi
++40 °C in obtežitvi zaradi vetra od 0 do polne vrednosti;
+29.  
+»varovalna razdalja« je najmanjša dovoljena razdalja med deli pod
+napetostjo in delavcem oziroma neizoliranim orodjem ali opremo, ki jo delavec
+uporablja, in znaša pri enosmernem sistemu 3 kV 1250 mm, pri enofaznem sistemu
+25 kV, 50 Hz ter 15 kV, 16 2/3 Hz pa 1500 mm. Območje, manjše od 1250 oziroma
+1500 mm od delov voznega omrežja pod napetostjo, se imenuje nevarno območje. To
+se oblikuje radialno od delov voznega omrežja pod napetostjo;
+30.  
+»vodja del« je delavec, ki izpolnjuje pogoje in opravlja dela in naloge
+v skladu z določbami zakona, ki ureja graditev objektov;
+31.  
+»vozno omrežje« (v nadaljnjem besedilu: VO) je del stabilnih naprav
+električne vleke, ki prenaša električno energijo z elektronapajalnih postaj do
+elektrovlečnih vozil;
+32.  
+»vozni vod« (v nadaljnjem besedilu: VV) predstavljajo vodniki, ki
+služijo za napajanje elektrovlečnih vozil z električno energijo. Sestavljen je
+iz nosilne vrvi, enega ali dveh kontaktnih vodnikov, tokovnih vezi, obešalk in
+spojnega materiala;
+33.  
+»zatezno polje« je del voznega voda, katerega konca sta vpeta na drog
+voznega omrežja togo ali preko škripčevja;
+34.  
+»zvezni vod« je vod, ki po stikalu povezuje napajalni oziroma obhodni
+vod z voznim vodom postaje;
+35.  
+»zaščitna vrv« je kovinska vrv, ki je nameščena po drogovih vozne mreže
+(v nadaljnjem besedilu: VM);
+36.  
+»zaščitni odsek VO« je izolirano in ozemljeno omejeno območje med seboj
+povezanih drogov VM z zaščitno vrvjo;
+37.  
+»zaščitna naprava VO« je naprava, ki preprečuje pojave nevarne napetosti
+dotika v delih voznega omrežja, ki normalno niso pod napetostjo.
+5. člen
+(deli voznega omrežja, ki so normalno pod napetostjo)
+Deli voznega omrežja, ki so normalno pod napetostjo, so:
+-       
+vozni, napajalni in obhodni vodi,
+-       
+tokovne zveze,
+-       
+priključni vodi,
+-       
+ločilne naprave,
+-       
+oprema za nošenje vodnikov do izolatorjev,
+-       
+izolatorji,
+-       
+prenapetostni odvodniki.
+6. člen
+(deli voznega omrežja, ki normalno niso pod napetostjo)
+Deli voznega omrežja, ki normalno niso pod napetostjo, so:
+-       
+drogovi voznega omrežja,
+-       
+drogovi in prečke togih portalov,
+-       
+deli opreme za nošenje vodnikov od izolatorjev do droga voznega omrežja,
+-       
+drogovi in portali za napajalne vode, ločilnike in odklopne ločilnike,
+-       
+pogoni ločilnikov in odklopnih ločilnikov,
+-       
+povratni vod,
+-       
+vse ozemljitvene vezi in ozemljila.
+7. člen
+(druge kovinske konstrukcije, ki normalno niso pod
+napetostjo)
+Druge kovinske konstrukcije oziroma njihovi deli, ki normalno
+niso pod napetostjo in so v območju možnega mehaničnega dotika in električnega
+vpliva od delov VO, ki so pod napetostjo, so:
+-       
+kovinski drogovi za razne namene,
+-       
+drogovi in kovinske omarice komunikacijskih mest ob progi,
+-       
+kovinske konstrukcije mostov, nadvozov in ograj,
+-       
+peronske nadstrešnice,
+-       
+zapornice ali polzapornice,
+-       
+relejne omarice,
+-       
+nosilci prostozračnih kabelskih vodov ipd.,
+-       
+cevovodi,
+-       
+omarice z jeklenkami za plin,
+-       
+druge kovinske konstrukcije.
+8. člen
+(načini izenačitve potencialov kovinskih delov naprav in
+konstrukcij v vplivnem območju voznega omrežja)
+Načini izenačitve potencialov kovinskih delov naprav in konstrukcij
+v vplivnem območju voznega omrežja so:
+-       
+direktna povezava kovinskih delov naprav in konstrukcij na povratni vod
+(tirnico) s kovinskimi vodniki ustreznih presekov,
+-       
+indirektna povezava kovinskih delov naprav in konstrukcij na povratni
+vod (tirnico) preko električnih elementov ali vezij za izenačitev potencialov.
+9. člen
+(nevtralni, neozemljeni deli voznega omrežja)
+Nevtralni, neozemljeni deli voznega omrežja so vodniki nevtralnega
+voznega voda.
+II. VIRI NEVARNOSTI PREVISOKE NAPETOSTI DOTIKA
+10. člen
+(glavni potencialni vir nevarnosti)
+(1) Glavni potencialni vir nevarnosti je VO, ki je normalno pod
+napetostjo.
+(2) Neposredni ali posredni dotik s katerim koli delom VO, ki
+je normalno pod napetostjo, je življenjsko nevaren, čeprav je napetost v njem
+izključena. Šele ko sta opravljeni ozemljitev in izenačitev potencialov, se
+šteje, da naprave niso več pod napetostjo.
+11. člen
+(drugi potencialni viri nevarnosti)
+Drugi potencialni viri nevarnosti so:
+-       
+prekinjeni povratni vod (tirnica, kontinuitetna vez, medtirnična vez),
+ki je lahko pod napetostjo tudi, če je napetost v VV tega odseka izključena, če
+se opravlja električna vleka po enem ali obeh sosednjih odsekih;
+-       
+poškodovana‑prekinjena
+povezava med vodnikom minus pola ENP in priključno zbiralko‑tirnico tira;
+-       
+kovinske konstrukcije, ki niso povezane s povratnim vodom in ki so
+oddaljene od osi najbližjega elektrificiranega tira pri enosmernem sistemu 3 kV
+manj od 9 m, pri enofaznem sistemu 25 kV, 50 Hz manj od 65 m in pri enofaznem
+sistemu 15 kV, 16 2/3 Hz manj od 20 m;
+-       
+prekinjena povezava med zaščitno napravo in tirnico povratnega voda;
+-       
+prekinjena zaščitna vrv ozemljilnega odseka VO.
+12. člen
+(opozorila o virih nevarnosti pred previsoko napetostjo
+dotika)
+(1) Železniški delavci in druge osebe, ki imajo pravico dostopa
+in opravljanja del na železniškem območju elektrificiranih tirov, morajo biti
+pravočasno poučeni o nevarnostih na elektrificiranih progah.
+(2) Opozorilo o nevarnosti pred previsoko napetostjo dotika se
+javno objavi na območju elektrificiranih prog na vidnih mestih v prostorih,
+kjer se zadržujejo potniki in drugi uporabniki železniških storitev.
+(3) Opozorilo mora biti oblikovano tako, da je vidno in berljivo
+z razdalje dveh metrov. V sredini opozorila je treba pod besedilo z rdečo barvo
+natisniti elektrotehnično puščico, katere skupna višina znaša 70% višine
+besedila.
+(4) Vsebina in oblika opozorila o nevarnostih pred previsoko napetostjo
+dotika sta določeni v prilogi 1, ki je sestavni del tega pravilnika.
+III. PREPOVEDI
+13. člen
+(splošne prepovedi)
+(1) Ne glede na napetostno stanje v voznem omrežju je prepovedano:
+-       
+nameščanje in premikanje ozemljitvenih palic ter dotikanje njihovih
+vodnikov brez ustreznih varovalnih sredstev oziroma v nasprotju s predpisanim
+zaporedjem;
+-       
+približevanje nosilnim konstrukcijam voznega omrežja, na katerih se
+dogajajo nenormalni pojavi, kot so prasketanje, iskrenje, svetlikanje, cvrčanje
+ipd.;
+-       
+postavljanje kakršnega koli materiala okoli nosilnih konstrukcij voznega
+omrežja v območju njihovih temeljev;
+-       
+prenašanje pokončnih predmetov, zastav, transparentov in podobnega na
+območju elektrificiranih tirov;
+-       
+vzdigovanje antenskih palic na sredstvih za zveze ali vozilih na odprtih
+tovornih vagonih, če so na elektrificiranih tirih ali se gibljejo preko
+nivojskega prehoda ceste z elektrificirano železnico;
+-       
+snemanje in poškodovanje varovalnih naprav, ki varujejo ali opozarjajo
+na električne vodnike (polne ali rešetkaste ograje, mreže, opozorila, napisi
+ipd.);
+-       
+metanje kakršnihkoli predmetov na vodnike ali konstrukcije VO;
+-       
+škropljenje kovinske konstrukcije VO z vodo ali drugo tekočino.
+(2) Preden je napetost v VO izključena ter opravljeni
+ozemljitev in izenačitev potencialov, je prepovedano:
+-       
+dotikati se vseh delov VO, ki so normalno pod napetostjo;
+-       
+dotikati se predmetov, ki visijo z delov VO;
+-       
+približati se mestu, kjer se odtrgani vodnik VO dotika tal, na razdaljo
+manj kot 15 metrov;
+-       
+približati se s katerimkoli delom telesa, orodjem oziroma neizoliranim
+predmetom nevarnemu območju VO;
+-       
+vzpenjati se na nosilne konstrukcije VO.
+14. člen
+(prepovedi pri delih na vozilih na elektrificiranih tirih)
+Preden je napetost v VO izključena in preden sta opravljeni ozemljitev
+ter izenačitev potencialov, je pri delih na vozilih prepovedano:
+-       
+dotikati se odjemnika toka ali drugih električnih naprav in priprav na
+električnih lokomotivah, električnih motornikih in motornih garniturah ali
+merilnih vozilih;
+-       
+vzdigovanje grabelj pri parnih lokomotivah nad zgornji rob strehe
+strojevodske kabine;
+-       
+škropljenje premoga z vodo ali njegovo premetavanje v zalogovniku;
+-       
+vzpenjanje na streho lokomotiv in motornih voz, lokomotivskega kotla ali
+zalogovnika parne lokomotive, na streho potniških in tovornih vagonov, na
+motorna vozila za gradnjo in vzdrževanje prog ter na dvigala z gibljivo ročico
+in na tovore na odprtih tovornih vagonih, ko so ti na elektrificiranem tiru.
+15. člen
+(prepovedi pri delih na območju elektrificiranih tirov)
+Pred izključitvijo napetosti v VO, ozemljitvijo in
+izenačitvijo potencialov je prepovedano:
+-       
+nakladanje, razkladanje ali prekladanje blaga na odprtih tovornih
+vagonih (izjemoma je dovoljeno razkladanje vagonov serije Fac in Eamos, s
+katerimi se dostavlja gramoz na odprto progo);
+-       
+ročno pranje zunanjih površin vozil z vodnim curkom;
+-       
+delo dvigal in druga dela (postavljanje opažev, sekanje drevja, odstranjevanje
+podrasti), če bi se lahko s katerim koli delom stroja ali predmetom približali
+na razdaljo, manjšo od 3 m, od dela VO pod napetostjo.
+16. člen
+(prepovedi pri vzdrževalnih delih na območju elektrificiranih
+tirov)
+Pred izključitvijo napetosti v VO, ozemljitvijo in
+izenačitvijo potencialov je pri vzdrževalnih delih prepovedano:
+-       
+izvajanje vseh vzdrževalnih del, pri katerih lahko pride delavec s
+telesom ali orodjem v nevarno območje;
+-       
+dotikanje vodnikov z golimi rokami ali neizoliranim orodjem, kot so: žicevodi
+ali žice zračnih TK vodov, energetski zračni vodi, tudi ko je napetost v njih
+izključena, če je njihova vzporedna dolžina z VO enaka ali večja kot 1600 m pri
+enosmernem sistemu 3 kV ali 800 m pri enofaznem sistemu 25 kV, 50 Hz ter 15 kV,
+16 2/3 Hz;
+-       
+nagibanje čez zaščitno mrežo svetlobnega signala, ko ta sega v nevarno
+območje;
+-       
+zadrževanje na ploščadi svetlobnega signala v času, ko po tiru poleg
+njega vozi elektrovlečno vozilo z dvignjenim odjemnikom toka;
+-       
+dotikanje z golimi rokami ali neizoliranim orodjem: dveh tirnic enega
+tira, koncev dveh tirnic v istem tirnem traku, ki sta spojena z izolirnim
+tirnim stikom ali med katerima je pretrgana prespojitev, tirnice z ene in druge
+strani njenega zloma ali prereza, koncev ločenih ali prekinjenih vodnikov iskrišč,
+tirnih dušilk, povratnega voda, zaščitne naprave in ozemljitev;
+-       
+zamenjati iskrišča, zaščitne naprave VO ali tirne dušilke, ne da bi jih
+prej premostili.
+IV. PREVOZ TOVOROV S PREKORAČENIMI MERAMI V VIŠINO
+17. člen
+(nivojska križanja z elektrificirano progo)
+(1) Za izredne prevoze čez nivojske prehode mora izvajalec izrednega
+prevoza pridobiti soglasje upravljavca.
+(2) Izredni prevozi s cestnimi vozili s prekoračenimi merami v
+višino čez nivojske prehode z elektrificirano progo so dovoljeni ob navzočnosti
+vzdrževalca stabilnih naprav električne vleke.
+(3) Pred vožnjo vozila iz prejšnjega odstavka morajo biti v pisni
+obliki določeni varnostni ukrepi med cestnim prevoznikom in upravljavcem javne
+železniške infrastrukture.
+18. člen
+(izredni prevozi)
+Izredni prevozi po železnici, ki prekoračujejo nakladalni profil
+ali predpisane kode proge, so dovoljeni pod pogoji, ki jih določa Prometni
+pravilnik (Uradni list RS, št. 123/07).
+V. SKUPNE DOLOČBE O VARNEM DELU
+19. člen
+(varnostne razdalje med VO pod napetostjo in progovnimi
+vozili)
+(1) Progovna vozila in progovni delovni stroji se lahko
+približajo z najbolj izpostavljenim delom k delom VO pod napetostjo, na
+povečano varnostno razdaljo 300 mm pri enosmernem sistemu 3 kV ter 500 mm pri
+enofaznem sistemu 25 kV, 50 Hz in 15 kV, 16 2/3 Hz.
+(2) Približevanje vozil in strojev iz prejšnjega odstavka je dovoljeno
+pod naslednjimi pogoji:
+-       
+da ima vozilo oziroma stroj mehanična ali druga enakovredna omejila za
+gibljive dele, ki ne dopuščajo prekoračitve najmanjše varnostne razdalje;
+-       
+da so vsi kovinski deli vozila oziroma stroja zanesljivo spojeni z
+galvansko zvezo preko kolesnih dvojic s tirnico
+-       
+povratnim vodom.
+20. člen
+(ozemljitvene palice)
+(1) Za omejitve delovišča, ozemljitve delovišča, izenačenja potencialov
+v VO in za ugotavljanje breznapetostnega stanja v VO, se smejo uporabljati samo
+ozemljitvene palice, ki imajo ustrezno potrdilo o uporabnosti, izdano od
+pooblaščene organizacije. Ozemljitvena palica, s katero se ugotavlja
+breznapetostno stanje v VO, mora imeti na stezni glavi pritrjeno žično varovalko
+(bakrena žica preseka 2,5 mm2).
+(2) Ozemljitvena palica, skozi katero je stekel tok kratkega stika,
+se ne sme uporabljati, dokler je ne pregleda in preskusi pooblaščena
+organizacija.
+21. člen
+(odgovorna oseba pri delih brez izključitve napetosti v VO)
+(1) Pri delih, ki se po določbah tega pravilnika lahko opravljajo
+brez izključitve napetosti v VO, kadar jih opravljajo delavci za vzdrževanje
+voznega omrežja, je za varnost na delovišču odgovoren pooblaščeni vzdrževalec
+stabilnih naprav električne vleke.
+(2) Pri delih, ki se po določbah tega pravilnika lahko opravljajo
+brez izključitve napetosti v VO, kadar jih opravljajo delavci upravljavca javne
+železniške infrastrukture, ki ne pripadajo službi za vzdrževanje voznega omrežja,
+je za varnost na delovišču odgovoren njihov vodja del, ki je usposobljen za izvršilnega
+železniškega delavca vzdrževalca prog, objektov in opreme proge, vzdrževalca
+signalnovarnostnih naprav ali vzdrževalca telekomunikacijskih omrežij in
+opreme.
+(3) Pri delih, ki se po določbah tega pravilnika lahko opravljajo
+brez izključitve napetosti v VO, kadar jih opravljajo delavci, ki niso delavci
+upravljavca, je za varnost na delovišču odgovoren njihov vodja del, ki je
+usposobljen za izvršilnega železniškega delavca vzdrževalca stabilnih naprav
+električne vleke, vzdrževalca prog, objektov in opreme proge, vzdrževalca signalnovarnostnih
+naprav ali vzdrževalca telekomunikacijskih omrežij in opreme. Če njihov vodja
+del ni usposobljen za izvršilnega železniškega delavca iz prejšnjega stavka,
+mora za varnost na delovišču skrbeti delavec upravljavca, ki je usposobljen za
+izvršilnega železniškega delavca za ustrezno področje.
+22. člen
+(odgovorna oseba pri delih z izključitvijo napetosti v VO)
+Pri delih, ki se po določbah tega pravilnika morajo
+opravljati z izključitvijo napetosti v VO, je za omejitev delovišča, ozemljitev
+in izenačitev potencialov odgovoren pooblaščeni vzdrževalec stabilnih naprav
+električne vleke.
+23. člen
+(pristojnosti in odgovornosti pooblaščenega vzdrževalca stabilnih
+naprav električne vleke)
+(1) Pooblaščeni vzdrževalec stabilnih naprav električne vleke
+ima, kadar dela opravljajo delavci za vzdrževanje VO, naslednje pristojnosti in
+odgovornosti:
+-       
+ureja in uveljavlja vse potrebne varnostne ukrepe pri vzdrževanju VO;
+-       
+po izvedenih vseh potrebnih varnostnih ukrepih izda pisno dovoljenje za
+delo, ki ga podpišejo vsi delavci, ki sodelujejo pri tem delu;
+-       
+delavce je dolžan seznaniti z napetostnim stanjem na napravah, zahtevati
+uporabo osebne zaščitne opreme in nadzirati njihovo delo;
+-       
+po končanem delu se mora prepričati, ali so vsi delavci zapustili mesto
+dela, jih obvestiti, da se zavarovanje ukinja in da ne smejo opravljati
+nobenega dela v nevarnem območju. Šele ko vsi delavci to pisno potrdijo, odredi
+odstranitev varovalnih sredstev in opreme.
+(2) Pooblaščeni vzdrževalec stabilnih naprav električne vleke
+ima, kadar dela opravljajo delavci, ki ne pripadajo službi za vzdrževanje
+voznega omrežja, naslednje pristojnosti in odgovornosti:
+-       
+pred začetkom del mora nedvoumno seznaniti njihovega vodjo del na kraju
+dela z napetostnim stanjem v VO na delu proge, na katerem se bodo opravljala
+dela, in z mejo delovišča, znotraj katere bo v času del napetost v delu VO
+izključena, njeni deli ozemljeni in izenačeni potenciali;
+-       
+po izvedenih vseh potrebnih varnostnih ukrepih izda njihovemu vodji del
+pisno dovoljenje za delo (original);
+-       
+po prejemu dovoljenja za delo njihov vodja del izda svojim delavcem
+dovoljenje za začetek del;
+-       
+od prejema dovoljenja za delo je njihov vodja del na delovišču odgovoren
+za varnost delavcev po določbah tega pravilnika;
+-       
+dolžan je prekiniti vsa dela, ki bi lahko ogrožala stabilnost ali
+delovanje voznega omrežja;
+-       
+po končanih delih vodja del pisno obvesti pooblaščenega vzdrževalca
+stabilnih naprav električne vleke, da so dela končana in da so vsi delavci
+zapustili mesta del;
+-       
+po prejemu pisnega obvestila o končanju del vzdrževalec stabilnih naprav
+električne vleke preveri, ali so izpolnjeni pogoji za vzpostavljanje
+napetostnega stanja. Ko ugotovi, da so vsi pogoji za vzpostavitev napetostnega
+stanja izpolnjeni, lahko prične z vzpostavljanjem napetostnega stanja voznega omrežja.
+24. člen
+(pristojnosti in odgovornosti delavcev)
+(1) Vsak delavec, ki dela ali se mudi na območju delovišča, mora
+upoštevati določbe tega pravilnika, na njegovi podlagi izdanih navodil ter
+določb varnostnega načrta, če je bil izdelan. Izpolnjevati mora navodila vodje
+del in pooblaščenega vzdrževalca stabilnih naprav električne vleke in pri delu
+uporabljati vsa predpisana varovalna sredstva in opremo.
+(2) Med svojim delom delavec ne sme prehajati meje delovišča.
+(3) Kadar ni jasno, kaj natančno pomenijo določbe tega pravilnika,
+mora delavec zahtevati potrebna pojasnila pri svojemu vodji del.
+VI. VARNOSTNI UKREPI PRI DELIH, KI ZAHTEVAJO IZKLJUČITEV
+NAPETOSTI
+25. člen
+(zavarovanje delovišča)
+(1) V zahtevi po izključitvi napetosti mora biti naveden odsek
+VO, tir ali območje, ter vrsta voda (vozni vod, napajalni vod, obhodni vod, …),
+na katerem se bodo dela opravljala.
+(2) Delovišče mora biti z vseh strani, od koder je možen prenos
+napetosti, omejeno s palicami za omejitev delovišča. Največja dovoljena
+razdalja med palicami za omejitev delovišča pri enosmernem sistemu 3 kV je 1600
+m ali izjemoma največ dolžina enega zateznega polja in 800 m pri enofaznem
+sistemu 25 kV, 50 Hz ter 15 kV, 16 2/3 Hz.
+(3) Največja dovoljena razdalja med dvema ozemljitvenima palicama
+na mestu dela v postajah, na odprti dvotirni in enotirni progi pri enosmernem
+sistemu 3 kV je 800 m, pri enofaznem sistemu 25 kV, 50 Hz ter 15 kV, 16 2/3 Hz
+pa 200 m.
+(4) Če je pri delih na VO postaje ali odprte enotirne proge ali
+odprte dvotirne proge napetost v vseh vodih izključena, ni treba postavljati
+ozemljitvenih palic na kraju dela, če je z njega vidna vsaj palica za omejitev
+delovišča.
+(5) Če je med delom treba prestavljati ozemljitvene palice, palice
+za omejitev delovišča in zveze za izenačitev potencialov, morajo vsi delavci
+zapustiti mesto dela. Z delom lahko nadaljujejo po premestitvi palic in zvez za
+izenačitev potencialov.
+(6) Ozemljitvene palice se lahko odstranijo šele tedaj, ko je
+zadnji delavec zapustil mesto dela.
+(7) Ozemljevanje VO preko ploščadi motornega progovnega vozila
+za posebne namene ni dovoljeno.
+26. člen
+(ozemljitev in izenačitev potencialov)
+(1) Izenačitev potencialov med voznim vodom, povratnim vodom
+(tirnica) in drogovi VO, ki so posamično povezani na tirnico – povratni vod, se
+izvede s postavitvijo ozemljitvene palice med voznim vodom in tirnico –
+povratni vod.
+(2) Pri odprtem skupinskem ozemljevanju se izenačitev potencialov
+med voznim vodom, tirnico – povratni vod in drogom voznega omrežja izvede s
+postavitvijo ozemljitvene palice med voznim vodom in tirnico – povratni vod in
+z začasno povezavo med tirnico – povratni vod in drogom voznega omrežja.
+(3) Izenačitev potencialov med kovinskimi konstrukcijami, navedenimi
+v 7. členu tega pravilnika, ki niso stalno povezane na tirnico – povratni vod,
+in voznim vodom se izvede s postavitvijo začasne zveze med maso teh konstrukcij
+in povratnim vodom.
+(4) Ob popolni prekinitvi več vzporednih voznih vodov morajo
+biti vsi vodniki medsebojno spojeni z začasnimi zvezami za izenačitev
+potencialov in ozemljeni na tirnico – povratni vod – enega tira s postavljanjem
+ozemljitvenih palic na obeh straneh mesta prekinitve.
+(5) Če je začasna zveza za izenačitev potencialov izvedena z
+uporabo ozemljitvene palice, je v tem primeru ta palica tudi palica za
+ozemljitev delovišča. Za omejitev delovišča se mora v vsakem primeru uporabiti
+palica za omejitev delovišča.
+(6) Izenačitev potencialov se vedno izvaja šele, ko so palice
+za omejitev delovišča že postavljene.
+27. člen
+(zavarovanje neprekinjenosti povratnega voda VO)
+(1) Noben stalni vodnik povratnega voda ne sme biti prekinjen
+ali odstranjen prej, preden se namesto njega ne namesti začasni vodnik, ne
+glede na to, ali je VO pod napetostjo ali ne.
+(2) Noben začasni vodnik povratnega voda se ne sme odstraniti
+prej, preden se ponovno ne namesti stalni vodnik.
+(3) Glede začasnih vodnikov povratnega voda VO veljajo naslednje
+zahteve:
+-       
+za enosmerni sistem 3 kV se mora uporabljati s prozorno izolacijo
+izolirana bakrena vrv s presekom 95 mm2;
+-       
+za enofazna sistema 25 kV, 50 Hz ter 15 kV, 16 2/3 Hz se mora
+uporabljati s prozorno izolacijo izolirana bakrena vrv s presekom najmanj 50
+mm2;
+-       
+stopnja izolacije izoliranih vodnikov mora biti 1 kV;
+-       
+začasni vodniki morajo biti na svojih koncih opremljeni s priključki za
+spenjanje;
+-       
+na en priključek za spenjanje se sme priključiti samo en vodnik.
+(4) Na kraju priključka povratnega voda na povratni vod ENP
+se za začasni vodnik povratnega voda uporabijo enaki vodniki, kot so
+uporabljeni v prvi alineji prejšnjega odstavka, vendar njihov skupni presek ne
+sme biti manjši od skupnega preseka stalnih vodnikov.
+(5) Začasno zavarovanje neprekinjenosti povratnega voda se
+mora izvesti s posebnimi sponami za tirnice. Spone so nameščene z obeh strani
+mesta, kjer se bodo prekinjali stalni vodniki povratnega voda. Spone so
+medsebojno povezane z začasnim vodnikom, kot je določeno v tretjem odstavku tega
+člena.
+(6) Če je začasni vodnik povratnega voda sestavljen iz več
+delov, morajo biti ti prej zanesljivo medsebojno spojeni.
+(7) Načine začasnega zavarovanja neprekinjenosti povratnega voda
+natančneje določa navodilo o varnostnih ukrepih pred previsoko napetostjo
+dotika na elektrificiranih progah, ki ga izda upravljavec.
+(8) Pri prekinitvi ali odstranitvi vodnikov povratnega voda mora
+biti navzoč pooblaščeni vzdrževalec stabilnih naprav električne vleke.
+Navzočnost pooblaščenega vzdrževalca stabilnih naprav električne vleke ni
+potrebna, če je v skupini za vzdrževanje prog in progovnih naprav en delavec,
+ki je poučen in pooblaščen za dela na povratnem vodu. Stalne vodnike povratnega
+voda sme ponovno nameščati samo pooblaščeni vzdrževalec stabilnih naprav
+električne vleke.
+(9) Na mestu priključka povratnega voda na povratni vod ENP
+mora ostati vsaj en priključek na tirni trak, da bi se preko njega ohranila
+neprekinjenost te zveze. Če to ni mogoče, se mora napajanje iz take ENP
+izločiti.
+28. člen
+(zavarovanje neprekinjenosti ozemljitvenih vezi)
+(1) Nobena stalna ozemljitvena vez ne sme biti prekinjena ali
+odstranjena prej, preden se namesto nje ne namesti ustrezna začasna
+ozemljitvena vez, ne glede na to, ali je VO pod napetostjo ali ne.
+(2) Nobena začasna ozemljitvena vez se ne sme odstraniti prej,
+preden se ponovno ne namesti stalna ozemljitvena vez.
+(3) Za začasne ozemljitvene vezi veljajo glede presekov vodnikov
+iste določbe kot za vodnike povratnega voda.
+(4) Začasna skupinska ozemljitvena vez se izvede tako, da se
+posamezni konci ozemljitvenih vrvi, ki bodo sneti s tirnice – povratnega voda,
+pred tem spojijo z začasnimi vodniki povratnega voda. Nato se vsaka posamezna
+ozemljilna vez sname s tirnice in njen prosti konec spoji z istim vodnikom.
+(5) Začasni vodnik povratnega voda, na katerega je
+priključena skupinska ozemljitvena vez, se po ponovni namestitvi stalnih
+vodnikov povratnega voda ne sme sneti, preden se ne obnovijo tudi stalne vezi
+vseh konstrukcij, ki so bile začasno priključene nanj.
+(6) Pri prekinitvi ali odstranitvi ozemljitvenih vezi mora
+biti navzoč pooblaščeni vzdrževalec stabilnih naprav električne vleke.
+Navzočnost pooblaščenega vzdrževalca stabilnih naprav električne vleke ni
+potrebna, če je v skupini za vzdrževanje prog in progovnih naprav delavec, ki
+je poučen in pooblaščen za dela na ozemljitvah. Stalne ozemljitvene vezi sme
+ponovno nameščati samo pooblaščeni vzdrževalec stabilnih naprav električne
+vleke.
+29. člen
+(posebne obveznosti delavcev pri vzdrževanju)
+(1) Ob atmosferskih praznitvah je treba delo prekiniti in počakati,
+da je nevarnost mimo, delavci pa se morajo umakniti od vseh konstrukcij VO.
+(2) Pri delih na VO enega tira, kadar so vozni vodi sosednjih
+tirov pod napetostjo, morajo biti delavci pozorni na dele VO teh tirov, ki
+segajo proti njim. Ko po sosednjem tiru vozijo elektrovlečna vozila z
+dvignjenim odjemnikom toka, morajo za ta čas delavci prenehati delo in
+počakati, da vozila odpeljejo mimo.
+(3) Pri delih na nosilnih konstrukcijah, ki nosijo vode,
+napajane preko več stikal, je treba na konstrukcijo med VV pod napetostjo in VV
+brez napetosti začasno namestiti razmejitvene označbe.
+VII. VZDRŽEVANJE SIGNALNOVARNOSTNIH IN TELEKOMUNIKACIJSKIH
+NAPRAV TER ELEKTROENERGETSKIH NAPRAV, KO JE VOZNO OMREŽJE POD NAPETOSTJO
+30. člen
+(pogoji za varno delo)
+Kadar je vzporedna dolžina žicevoda, signalnovarnostnih in
+telekomunikacijskih vodov, energetskih vodov (kabelskih in prostozračnih) z VO
+pod napetostjo daljša kot:
+-       
+pri enosmernem sistemu 3 kV 1600 m in je njihova srednja oddaljenost od
+osi najbližjega elektrificiranega tira manjša od 9 m,
+-       
+pri enofaznem sistemu 25 kV, 50 Hz 800 m in je njihova srednja
+oddaljenost od osi najbližjega elektrificiranega tira manjša od 65 m,
+-       
+pri enofaznem sistemu 15 kV, 16 2/3 Hz 800 m in je njihova srednja
+oddaljenost od osi najbližjega elektrificiranega tira manjša od 20 m, je treba
+pri delih na njih uporabiti enega od naslednjih varnostnih ukrepov:
+a) ozemljitev s pomožnim ozemljilom na kraju dela, pri čemer
+se morajo uporabljati zaščitne rokavice za napetost do 1000 V;
+b) ozemljitev z dvema ozemljiloma levo in desno od mesta dela,
+pri čemer se morajo uporabljati zaščitne rokavice za napetost do 1000 V;
+c) izolacijska ločitev delavca od zemlje in vseh kovinskih konstrukcij,
+ki so v zvezi z zemljo, z izolacijskim pogrinjalom ali ploščadjo, najmanjše
+stopnje izolacije 1000 V.
+31. člen
+(začasne tokovne vezi)
+Pred začetkom del na spajanju prekinjenih vodnikov ali
+žicevodov, kovinskih plaščev in armatur energetskih, telekomunikacijskih in
+signalnih kablov oziroma vodnikov prostozračnih vodov mora biti zagotovljena
+neprekinjenost vodnika plašča ali armature z namestitvijo začasne tokovne vezi.
+Najmanjši presek take vezi, izdelane iz bakrene vrvi, mora biti 10 mm2.
+32. člen
+(začasne vezi za izenačitev potencialov)
+(1) Kadar se dela z neizoliranim orodjem in se pri tem neposredno
+ali posredno dotika dveh ali več delov žicevoda, konstrukcij, energetskih,
+telekomunikacijskih in signalnovarnostnih naprav, morajo biti ti medsebojno
+povezani z začasnimi vezmi za izenačitev potencialov.
+(2) Pri nameščanju začasnih vezi za izenačitev potencialov se
+morajo uporabljati zaščitne rokavice za napetost do 1000 V.
+33. člen
+(dela na napravah za kontrolo zasedenosti tira)
+(1) Kadar se opravljajo dela na napravah za kontrolo zasedenosti
+tira, ki so na tiru ali poleg njega, se morajo v celoti spoštovati določbe tega
+pravilnika, ki se nanašajo na ohranitev neprekinjenosti povratnega voda VO.
+(2) Pri zamenjavi posameznih poškodovanih vodnikov se morajo
+prej namestiti ustrezni začasni vodniki, kar upravljavec podrobneje določi v
+navodilu o varnostnih ukrepih pred previsoko napetostjo dotika na
+elektrificiranih progah.
+34. člen
+(dela na ozemljenih napravah)
+Pri delih na signalnovarnostnih, telekomunikacijskih in elektroenergetskih
+napravah, ki so ozemljene na tirnico – povratni vod, mora biti ozemljitvena vez
+stalno zagotovljena.
+35. člen
+(delo na napravah, ki segajo v nevarno območje VO)
+(1) Če so signali, ki segajo v nevarno območje VO, opremljeni
+z mehaničnimi zaščitnimi mrežami, ki na celotnem območju ograjujejo njihovo
+ploščad, se dela na napravah, ki segajo v nevarno območje VO, lahko opravljajo
+tudi, ko so sosednji vodi VO pod napetostjo.
+(2) Zaščitna mreža mora biti nameščena skladno z veljavnim SIST
+EN standardom za to področje tako, da preprečuje delavcu, da bi se s telesom
+ali orodjem približal delom VO pod napetostjo.
+VIII. PRVA POMOČ PONESREČENIM Z ELEKTRIČNIM TOKOM
+36. člen
+(obveznost dajanja prve pomoči)
+Obveznost vsakega delavca in drugih oseb, ki se mudijo na
+kraju nesreče, je dati prvo pomoč ponesrečenim z električnim tokom.
+37. člen
+(prva pomoč ponesrečencu)
+(1) Navodilo o dajanju prve pomoči ponesrečenemu z električnim
+tokom je v prilogi 2, ki je sestavni del tega pravilnika. Navodilo se na
+območju elektrificiranih prog javno objavi na vidnih mestih v prostorih, kjer
+se zadržujejo potniki in drugi uporabniki železniških storitev.
+(2) Natančnejša navodila o ločitvi in odstranitvi
+ponesrečenca od delov VO pod napetostjo ter dajanju prve pomoči so določena v
+navodilu o varnostnih ukrepih pred previsoko napetostjo dotika na
+elektrificiranih progah upravljavca javne železniške infrastrukture.
+IX. PREHODNA IN KONČNA DOLOČBA
+38. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega pravilnika se preneha uporabljati Pravilnik
+o varnostnih ukrepih pred previsoko napetostjo dotika na elektrificiranih
+progah (Uradni list RS, št. 11/02).
+39. člen
+(začetek veljavnosti pravilnika)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 007-4/2009/ZP16
+Ljubljana, dne 12. junija 2009
+EVA 2009-2411-0004
+dr. Patrick Vlačič l.r.
+Minister
+za promet
+
+Priloga
+1: Opozorilo o nevarnostih pred previsoko napetostjo dotika
+Priloga
+2: Dajanje prve pomoči ponesrečenemu z električnim tokom

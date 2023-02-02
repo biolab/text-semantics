@@ -1,0 +1,17 @@
+Text file: PRAV9188.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1303509600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9188
+idPredpisaChng: PRAV9188
+instock: .nan
+naslov: "PRAVILNIK o obrazcu izjave o premo\u017Eenjskem stanju (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/11/2011-01-1167-2008-01-3943-npb1
+sopPredpisa: 2011-01-1167
+sopPredpisaChng: 2008-01-3943

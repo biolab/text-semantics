@@ -1,0 +1,16 @@
+Text file: SKLE1642.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 877125600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1642
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o vzetju iz prodaje in uporabe po\u0161tnih znamk in celin"
+npbNum: 0
+path: /1997/30/1997-01-3006
+sopPredpisa: 1997-01-3006
+sopPredpisaChng: null

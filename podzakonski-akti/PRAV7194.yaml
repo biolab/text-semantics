@@ -1,0 +1,20 @@
+Text file: PRAV7194.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1370815200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1362783600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7194
+idPredpisaChng: PRAV7194
+instock: .nan
+naslov: "PRAVILNIK o merilnih instrumentih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2013/05/2013-01-0510-2006-01-1800-npb2
+sopPredpisa: 2013-01-0510
+sopPredpisaChng: 2006-01-1800

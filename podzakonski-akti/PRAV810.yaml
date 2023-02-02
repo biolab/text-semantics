@@ -1,0 +1,16 @@
+Text file: PRAV810.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 842652000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV810
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o registraciji voja\u0161kih zrakoplovov"
+npbNum: 0
+path: /1996/30/1996-01-3061
+sopPredpisa: 1996-01-3061
+sopPredpisaChng: null

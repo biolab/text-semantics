@@ -1,0 +1,296 @@
+1. člen
+(predmet urejanja)
+Ta pravilnik določa pogoje, roke, način vključitve in uporabe
+eZdravja za obvezne uporabnike storitev eZdravja.
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem pravilniku, pomenijo:
+1.     
+Informacijski sistem je urejen in organiziran sistem, ki omogoča vnos
+podatkov in obvezne uporabnike oskrbuje z informacijami za odločanje.
+2.     
+Infrastruktura so sredstva, ki zagotavljajo ustrezno delovanje informacijskega
+sistema.
+3.     
+Komunikacijska oprema je oprema, ki omogoča komuniciranje med
+informacijskimi sistemi, storitvami in drugimi informacijskimi viri.
+4.     
+Kvalificirano potrdilo ima enak pomen, kot ga opredeljuje zakon, ki
+ureja elektronsko poslovanje in elektronski podpis.
+5.     
+Omrežni promet je prenos podatkov v računalniških omrežjih.
+6.     
+Omrežje obveznega uporabnika vsebuje strojno in programsko
+komunikacijsko opremo na lokacijah uporabnika (lokalno omrežje) in povezave med
+njimi (krajevno omrežje), ki omogoča delovanje ostale računalniške opreme
+izvajalca in povezavo na priključno točko zNET.
+7.     
+VPN povezava je navidezno zasebno omrežje, ki omogoča varen prenos
+podatkov skozi šifriran tunel v okviru javne komunikacijske infrastrukture.
+8.     
+Zlonamerna programska oprema je oprema, katere namen je škodljivo
+vplivati na delovanje informacijskega sistema (npr. virus, črv, stranska vrata,
+trojanski konj, vohunski program).
+9.     
+zNET je zasebno zdravstveno računalniško omrežje, ki ga upravlja
+Nacionalni inštitut za javno zdravje in ki zagotavlja varne in zanesljive
+komunikacijske povezave med obveznimi uporabniki, pri čemer ne vključuje
+lokalnih omrežij obveznih uporabnikov.
+3. člen
+(zagotavljanje kakovosti infrastrukture)
+(1) Za vključitev in uporabo storitev eZdravja obvezni
+uporabniki zagotavljajo kakovostno informacijsko-komunikacijsko infrastrukturo
+in izpolnjujejo vse minimalne varnostne zahteve, določene s tem pravilnikom.
+(2) Obvezni uporabniki zagotavljajo varovanje svoje
+informacijsko-komunikacijske infrastrukture z ukrepi, primernimi glede na
+tveganja.
+4. člen
+(dostop do storitev eZdravja)
+(1) Obvezni uporabniki dostopajo do storitev eZdravja
+prek omrežja zNET z uporabo strojne in programske komunikacijske opreme, ki jo
+predpiše in upravlja Nacionalni inštitut za javno zdravje (v nadaljnjem
+besedilu: NIJZ).
+(2) Obvezni uporabniki imajo nameščeno ustrezno različico
+informacijskega sistema za obdelavo zdravstvene dokumentacije, ki omogoča
+uporabo storitev eZdravja. Ustreznost različice informacijskega sistema odobri
+NIJZ.
+(3) Obvezni uporabnik storitev eZdravja določi odgovorno
+osebo za nadzor nad izvajanjem postopkov in ukrepov, določenih s tem
+pravilnikom, in o tem v 15 dneh po določitvi obvesti NIJZ.
+5. člen
+(načini vključitve v zNET)
+(1) Način vključitve obveznih uporabnikov v zNET je odvisen
+od velikosti obveznih uporabnikov in vrste storitev, do katerih dostopajo.
+(2) Vključitev obveznih uporabnikov iz prejšnjega
+odstavka v zNET se izvede v skladu s tehničnimi navodili, ki jih določi NIJZ in
+ki bodo objavljena na spletni strani NIJZ.
+6. člen
+(pogoji za oddaljen dostop)
+(1) Oddaljen dostop do omrežja obveznega uporabnika se
+omogoči le tistim zaposlenim pri obveznem uporabniku ali pogodbenem izvajalcu
+obveznega uporabnika, ki zaradi narave svojega dela nujno potrebuje oddaljen
+dostop.
+(2) Osebe iz prvega odstavka tega člena pri oddaljenem
+dostopu:
+-       
+zagotavljajo varnostne mehanizme, določene v 8. in 9. členu tega
+pravilnika,
+-       
+preprečujejo možnost nepooblaščenega dostopa do notranjega omrežja,
+-       
+varujejo podatke pred naključnim in namernim razkritjem drugim
+neupravičenim osebam,
+-       
+(črtana),
+-       
+se po uporabi odjavijo iz sistema in
+-       
+zagotavljajo, da osebni podatki ne ostanejo shranjeni na delovni
+postaji.
+(3) Oddaljen dostop do informacijskega sistema obveznega
+uporabnika je omogočen le toliko časa, dokler za to obstaja potreba.
+(4) Obvezni uporabnik zagotavlja revizijsko sled
+oddaljenega dostopanja do omrežja, informacijskih sistemov in podatkov.
+7. člen
+(črtan)
+8. člen
+(varovanje strojne in programske opreme)
+(1) Obvezni uporabnik omogoča uporabo samo licencirane
+opreme. Dostop do strojne in programske opreme je dovoljen le tistim zaposlenim
+pri obveznem uporabniku ali zunanjim izvajalcem, ki zaradi narave svojega dela
+nujno potrebujejo dostop.
+(2) Obvezni uporabnik določi pooblaščeno osebo, ki
+odobri:
+-       
+nameščanje programske opreme;
+-       
+iznos podatkov ali strojne opreme iz prostorov obveznega uporabnika;
+-       
+nameščanje ali priključevanje programske in strojne opreme, ki omogoča
+zajem in analizo omrežnega prometa;
+-       
+vzdrževanje, spreminjanje ali popravljanje strojne in programske opreme.
+(3) Obvezni uporabnik ustrezno dokumentira namestitve,
+spremembe in dopolnitve strojne in programske opreme ter spremembe konfiguracij
+komunikacijske opreme (ID uporabnika, čas dostopa, namen in opis izvedenih
+sprememb).
+(4) Obvezni uporabnik zagotavlja obvezno uporabo rešitev
+za varovanje pred zlonamerno programsko opremo na vseh strežnikih in delovnih
+postajah. Ob pojavu zlonamerne programske opreme jo obvezni uporabnik odstrani
+ter ugotovi in odpravi vzrok pojava.
+(5) Za potrebe obnove računalniškega sistema ob okvarah in
+ob drugih izjemnih situacijah obvezni uporabnik zagotavlja redno izdelavo
+varnostnih kopij podatkov. Kopije se hranijo na določenih mestih, ki morajo
+biti ognjevarna, zavarovana proti poplavam in elektromagnetnim motnjam, v
+okviru predpisanih klimatskih pogojev in zaklenjena. Vsi vpogledi se beležijo.
+9. člen
+(uporaba gesel)
+(1) Dostop do programske opreme in podatkov se varuje s
+sistemom gesel za avtorizacijo ter identifikacijo uporabnikov programov in
+podatkov. Sistem upravljanja z gesli omogoča možnost naknadnega ugotavljanja,
+kdo in kdaj je obdeloval osebne podatke.
+(2) Vsa gesla, ki omogočajo nadzor nad
+informacijsko-komunikacijsko infrastrukturo ali nadzor sistema upravljanja z
+gesli, se hranijo v zapečatenih ovojnicah in se jih varuje pred dostopom
+nepooblaščenih oseb. Uporabi se jih samo v izrednih okoliščinah oziroma ob
+nujnih primerih. Vsaka uporaba vsebine zapečatenih ovojnic se dokumentira. Po
+vsaki takšni uporabi se določijo nova gesla.
+(3) Splošna pravila pri uporabi gesel:
+-       
+za vsako geslo za dostop je odgovorna ena oseba;
+-       
+gesla so težko ugotovljiva in imajo vsaj 8 znakov (sestavljena naj bodo
+iz kombinacije črk (male in velike), številk in posebnih znakov (npr.
+()_+|@^#$\));
+-       
+uporaba samo črkovnih znakov je prepovedana;
+-       
+geslo ni zapisano ali shranjeno na mestu, kjer je lahko dostopno drugim;
+-       
+gesla se redno menjajo v določenih časovnih intervalih, vsaj enkrat
+vsakih šest mesecev;
+-       
+spreminjanje gesel je obvezno (kjer je mogoče, naj zamenjavo vsilijo
+tehnični sistemi);
+-       
+začetno geslo ali geslo po vzpostavitvi je začasno in mora biti
+spremenjeno ob njegovi prvi uporabi;
+-       
+začasna gesla je uporabnikom treba pošiljati oziroma izročati na varen
+način;
+-       
+če uporabnik geslo pozabi, mu sistemski skrbnik dodeli novo začasno
+geslo, ki ga uporabnik spremeni ob prvi prijavi;
+-       
+(črtana);
+-       
+računalnik se po določenem časovnem obdobju neaktivnosti avtomatično
+zaklene.
+(4) Poleg pravil iz prejšnjega odstavka veljajo za gesla
+za strežniške sisteme in skrbniška gesla naslednja pravila:
+-       
+gesla se menjajo najmanj vsakih 60 dni;
+-       
+dolžina gesla je najmanj deset znakov;
+-       
+prepovedana je uporaba istega gesla za različne sisteme ali aplikacije;
+-       
+nabor oseb z dostopom do skrbniških gesel mora biti omejen;
+-       
+ob prekinitvi delovnega razmerja se osebi, ki ima dostop do skrbniških
+gesel, skrbniška gesla takoj zamenjajo.
+9.a člen
+(uporaba listin v papirnati obliki)
+(1) Izjema od uporabe informacijskih storitev
+eZdravja je predpis recepta na uradno veljavnem receptnem obrazcu v papirnati
+obliki, ki se predpiše: 
+1.     
+v skladu s predpisom, ki ureja razvrščanje, predpisovanje in izdajanje
+zdravil za uporabo v humani medicini, če se na poseben zdravniški recept
+predpiše zdravilo, ki vsebuje narkotične in psihotropne snovi iz skupine II,
+IIIa in IIIc zakona, ki ureja proizvodnjo in promet s prepovedanimi drogami, in
+se predpiše na poseben recept; 
+2.     
+v skladu s pravili, ki urejajo obvezno zdravstveno zavarovanje, če se
+predpiše: 
+- 
+zdravilo ali živilo za posebne zdravstvene namene, ki ga želi zavarovana
+oseba kupiti v drugi državi članici Evropske unije in v Republiki Sloveniji
+uveljaviti pravico do povračila stroškov njegove vrednosti; 
+- 
+zdravilo ali živilo za posebne zdravstvene namene, ki ga želi zavarovana
+oseba kupiti v tujini zaradi njegove deficitarnosti na slovenskem trgu in v
+Republiki Sloveniji uveljaviti pravico do povračila stroškov njegove vrednosti;
+- 
+zdravilo na recept za osebno rabo ali 
+3.     
+ob izvajanju zdravstvenih storitev zdravljenja na domu, če se predpiše
+zdravilo ali živilo za posebne zdravstvene namene. 
+(2) Izjema od uporabe informacijskih storitev eZdravja
+je predpis napotnice na uradno veljavni listini, ki jo izda Zavod za
+zdravstveno zavarovanje Slovenije v papirnati obliki, in se predpiše ob
+izvajanju zdravstvenih storitev zdravljenja na domu. 
+(3) Izjema od uporabe informacijskih storitev eZdravja
+je dovoljena tudi, kadar uporaba informacijskih storitev eZdravja zaradi
+tehničnih vzrokov ni mogoča. Obvezni uporabniki storitev eZdravja in NIJZ čim
+prej odpravijo tehnične vzroke za nezmožnost uporabe informacijskih storitev
+eZdravja. 
+(4) Poleg uporabe informacijskih storitev eZdravja se za
+naslednje zdravstvene storitve izda še izpis kopije listine v papirnati obliki:
+-       
+predpis zdravila, ki ga je treba zaradi narave bolezni izdati takoj, kar
+se na receptu označi z besedo »nujno« v skladu s predpisom, ki ureja
+razvrščanje, predpisovanje in izdajanje zdravil za uporabo v humani medicini; 
+-       
+napotitev s stopnjo nujnosti »nujno«.
+10. člen
+(priloga)
+Roki, način vključitve in uporabe storitev eZdravja so v
+prilogi, ki je sestavni del tega pravilnika.
+10.a člen
+(posredovanje rezultatov mikrobioloških preiskav na
+prisotnost virusa SARS-CoV-2)
+(1) Izvajalci zdravstvene dejavnosti v Centralni register
+podatkov o pacientih posredujejo rezultate mikrobioloških preiskav na
+prisotnost virusa SARS-COV-2 v skladu z metodološkimi in tehničnimi navodili
+NIJZ.
+(2) Posredovanje rezultatov iz prejšnjega odstavka je obvezno
+za:
+-       
+vse mikrobiološke preiskave na prisotnost virusa SARS-CoV-2, ki so
+financirane iz javnih sredstev ali se izvajajo na podlagi dogovora z
+upravičencem do finančne pomoči za izvedbo hitrih antigenskih testov, in
+-       
+vse mikrobiološke preiskave, kjer je prisotnost virusa SARS-CoV-2
+potrjena.
+
+Priloga:
+Roki, način vključitve in uporabe storitev eZdravja
+
+Pravilnik o pogojih, rokih, načinu vključitve
+in uporabe eZdravja za obvezne uporabnike (Uradni list RS, št. 69/15) vsebuje naslednjo prehodno in
+končno določbo:
+»11. člen
+(prehodno obdobje)
+(1) Do začetka izvajanja nalog eZdravja na NIJZ
+minister, pristojen za zdravje, izda tehnična navodila iz drugega odstavka 5.
+člena tega pravilnika in jih objavi na spletni strani ministrstva, pristojnega
+za zdravje.
+(2) Tehnična navodila iz prejšnjega odstavka minister,
+pristojen za zdravje, izda ob uveljavitvi tega pravilnika.
+12. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.«.
+
+Pravilnik o spremembi in dopolnitvi Pravilnika
+o pogojih, rokih, načinu vključitve in uporabe eZdravja za obvezne uporabnike
+(Uradni list RS, št. 25/19) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+3. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik
+o dopolnitvi Pravilnika o pogojih, rokih, načinu vključitve in uporabe eZdravja
+za obvezne uporabnike (Uradni list RS, št. 10/21)
+vsebuje naslednjo prehodno in končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+2. člen
+(omejena uporaba)
+Novi 10.a člen se uporablja do 31. decembra 2021.
+3. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik
+o spremembah Pravilnika o pogojih, rokih, načinu vključitve in uporabe eZdravja
+za obvezne uporabnike (Uradni list RS, št. 58/21)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+7. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

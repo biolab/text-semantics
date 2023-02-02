@@ -1,0 +1,665 @@
+I. UVODNI DOLOČBI
+1. člen
+Ta pravilnik določa plačilne naloge, ki jih za opravljanje
+plačilnih storitev uporabljajo proračunski uporabniki, ter obliko in vsebino
+izpiskov o prometu in stanju, delne izpise in obrestne liste, ki jih Uprava
+Republike Slovenije za javna plačila (v nadaljnjem besedilu: UJP) zagotavlja
+prek spletne aplikacije UJPnet (v nadaljnjem besedilu: UJPnet), v obliki za
+tiskanje in v elektronski obliki.
+2. člen
+Izrazi, uporabljeni v tem pravilniku, pomenijo:
+1.     
+proračunski uporabnik je neposredni ali posredni uporabnik državnega
+proračuna oziroma občinskega proračuna, Zavod za zdravstveno zavarovanje
+Slovenije, Zavod za pokojninsko in invalidsko zavarovanje Slovenije,
+upravljavec sredstev sistema enotnega zakladniškega računa (v nadaljnjem
+besedilu: EZR) ter nadzornik javnofinančnih prihodkov, ki je vpisan v register
+proračunskih uporabnikov pri UJP;
+2.     
+gotovinski račun je posebni račun z ničelnim stanjem, odprt pri banki,
+ki ga proračunski uporabnik uporablja izključno za namene dvigov in pologov
+gotovine;
+3.     
+domača valuta je valuta euro;
+4.     
+tuja valuta je druga valuta države članice Evropske unije, ki ni euro,
+ali valuta države, ki ni članica Evropske unije in nima eura za svojo domačo
+valuto;
+5.     
+domača plačilna transakcija je plačilna transakcija v domači valuti,
+kjer ima prejemnik plačila odprt račun pri banki s sedežem v Republiki
+Sloveniji;
+6.     
+čezmejna plačilna transakcija je plačilna transakcija, kjer ima
+prejemnik plačila odprt račun pri banki s sedežem izven Republike Slovenije v
+državi članici Evropske unije;
+7.     
+druga plačilna transakcija je plačilna transakcija, kjer ima prejemnik
+plačila odprt račun pri banki s sedežem izven države članice Evropske unije;
+8.     
+SEPA direktna obremenitev (v nadaljnjem besedilu: SDD) je plačilna
+transakcija za poravnavo enkratnih ali ponavljajočih obveznosti v eurih na
+območju SEPA, kjer lahko proračunski uporabnik nastopa kot prejemnik sredstev
+ali kot plačnik;
+9.     
+plačilni nalog je naročilo proračunskega uporabnika UJP za negotovinsko
+poravnavo obveznosti ali terjatev v domači ali tuji valuti, Banki Slovenije
+oziroma banki za polog in dvig gotovine v domači ali tuji valuti v papirni ali
+elektronski obliki;
+10.  
+plačilni nalog v papirni obliki je plačilni nalog, ki se izpiše na
+obrazcih UPN, TPNO 70 in TPNP 60;
+11.  
+plačilni nalog v elektronski obliki je nalog, ki se uporabi za
+negotovinsko poravnavo obveznosti v domači valuti ali tuji valuti z nazivom
+datoteke: ISO 20022 XML, za plačilni nalog SDD se uporabi naziv datoteke:
+SDD.xml, za tuji plačilni nalog za odliv pa naziv datoteke: TPNO.txt;
+12.  
+izpisek o prometu in stanju je izpisek plačilnih transakcij in stanja
+podračuna proračunskega uporabnika, gotovinskega računa pri banki ali posebnega
+namenskega transakcijskega računa (v nadaljnjem besedilu: PNTR) pri Banki
+Slovenije;
+13.  
+delni izpis je izpis plačilnih transakcij enega ali več podračunov,
+pripravljenih po posebnih merilih, določenih v pravilniku, ki ureja plačevanje
+in razporejanja obveznih dajatev in drugih javnofinančnih prihodkov, in za
+potrebe evidentiranja poslovnih dogodkov na podračunu, prek katerega posluje
+več proračunskih uporabnikov, za potrebe nadzornikov javnofinančnih prihodkov;
+14.  
+PDP poročilo je informacija o razčlenitvi pobranih obveznih dajatev na prehodnem
+davčnem podračunu;
+15.  
+PCP poročilo je informacija o razčlenitvi pobranih obveznih dajatev na
+prehodnem carinskem podračunu;
+16.  
+poročilo o terjatvah in obveznostih javnofinančnih prihodkov je
+obvestilo nadzornika javnofinančnih prihodkov računovodski službi javnofinančne
+blagajne o odprtih terjatvah in obveznostih za obdobje poročanja;
+17.  
+obrestni list za račune je izpis obračunanih obresti na stanje računov,
+odprtih pri Banki Slovenije (EZR in PNTR), in podračunov, odprtih pri UJP;
+18.  
+obračun stroškov iz naslova negativnih obresti je izpis obračunanih
+negativnih obresti za stanje na EZR in PNTR;
+19.  
+standardizirana referenca je podatek na plačilnem nalogu, ki je
+sestavljen iz modela in sklicevanja na številko;
+20.  
+ID številka e-računa je številka e-računa, generirana ob prejemu v
+UJPnet.
+II. UPORABA PLAČILNIH NALOGOV
+3. člen
+(1) Standardizirana referenca se pri uporabi plačilnih
+nalogov oblikuje v skladu s Pravili za oblikovanje in uporabo standardiziranih
+referenc pri opravljanju plačilnih storitev, ki so Priloga 1 tega pravilnika in
+njegov sestavni del.
+(2) Plačilni nalogi se
+uporabljajo v skladu s spodnjo preglednico:
+
+
+Vrsta plačilnega naloga
+
+Oblika
+
+Valuta
+
+Vrsta plačilne
+  transakcije
+
+
+Domača
+
+Čezmejna
+
+Druga
+
+
+UPN
+
+papir
+
+EUR
+
+DA
+
+DA
+
+NE
+
+
+TPNO 70
+
+papir
+
+Vse
+
+DA*
+
+DA
+
+DA
+
+
+TPNP 60
+
+papir
+
+Vse
+
+NE
+
+DA
+
+DA
+
+
+plačilni nalog v
+  elektronski obliki**
+
+xml
+
+EUR
+
+DA
+
+DA
+
+NE
+
+
+tuji plačilni nalog
+
+txt in xml
+
+Vse
+
+NE
+
+DA
+
+DA
+
+
+plačilni nalog za SDD
+
+xml
+
+EUR
+
+DA
+
+DA
+
+NE
+
+
+* v primeru več
+statističnih vrstic
+** v UJPnet naziv Evropski nalog
+(3) Za dvig gotovine v domači valuti pri Banki Slovenije
+ali banki, ki vodi gotovinski račun, proračunski uporabnik predloži UJP obrazec
+UPN ali plačilni nalog v elektronski obliki.
+(4) Za dvig gotovine v tuji valuti pri Banki Slovenije
+ali banki, ki vodi gotovinski račun, proračunski uporabnik predloži UJP obrazec
+TPNO 70 ali tuj plačilni nalog v elektronski obliki.
+(5) Za polog gotovine v domači oziroma tuji valuti pri
+Banki Slovenije proračunski uporabnik predloži obrazec UPN oziroma obrazec TPNP
+60.
+(6) Za polog gotovine v domači oziroma tuji valuti pri
+banki, ki vodi gotovinski račun, proračunski uporabnik predloži obrazec, ki ga
+določa banka.
+(7) Podatek o ID številki e-računa, ki jo proračunski
+uporabnik prejme prek UJPnet, se obvezno navede na plačilnem nalogu za
+poravnano obveznosti iz naslova e-računa v papirni oziroma elektronski obliki.
+V primeru, da se plačilni nalog ne nanaša na poravnavo obveznosti iz naslova
+e-računa, se obvezno navede konstanta 999999999999999.
+(8) Podatek o šifri PU se navede v datoteki s plačilnimi
+nalogi v breme podračuna javnofinančnih prihodkov, na katerem je uporabnik
+UJPnet pridobil pravico poslovanja od več nadzornikov javnofinančnih prihodkov.
+III. PLAČILNI NALOGI V PAPIRNI OBLIKI
+1. Obrazec UPN
+4. člen
+(1) Glede oblike, vsebine in tiskanja obrazca UPN se
+neposredno uporablja Tehnični standard univerzalnega plačilnega naloga
+Združenja bank Slovenije.
+(2) Navodilo za izpolnjevanje obrazca UPN je Priloga 2
+tega pravilnika in njegov sestavni del.
+(3) Vzorčni primeri izpolnjenih obrazcev UPN so objavljeni
+na spletnih straneh UJP.
+5. člen
+(1) Obrazec UPN lahko proračunski uporabniki kot
+prejemniki plačila izdajo plačniku, za gotovinsko ali negotovinsko poravnavo
+obveznosti. Proračunski uporabnik izdajatelj lahko izda obrazec UPN z ali brez
+kode QR.
+(2) Vse obrazce UPN, ki so izdani za poravnavo obveznih
+dajatev, ki se plačujejo na podračune javnofinančnih prihodkov, je možno
+plačati s plačilnimi karticami in mobilnimi denarnicami na negotovinskih
+plačilnih mestih UJP. Seznam negotovinskih plačilnih mest UJP je objavljen na
+spletni strani UJP.
+6. člen
+Obrazec UPN se uporablja tudi, kadar UJP v skladu z zakonom obremeni
+podračun proračunskega uporabnika na podlagi odločb pristojnih organov in
+sklepov sodišč, ali v primeru unovčenja menice ali drugega instrumenta
+zavarovanja plačila.
+7. člen
+Proračunski uporabnik ob predložitvi dveh ali več obrazcev UPN
+v breme istega podračuna predložijo UJP tudi popis zneskov s posamičnih
+obrazcev UPN in njihov seštevek.
+8. člen
+(1) Proračunski uporabnik postane izdajatelj obrazca UPN
+s kodo QR (v nadaljnjem besedilu: izdajatelj), če:
+1.     
+ima odprt podračun pri UJP,
+2.     
+je uspešno opravil preverjanje pravilnosti podatkov obrazca UPN s
+kodo QR, ki ga izvaja s strani Združenja bank Slovenije za to pooblaščeni
+izvajalec.
+(2) Izdajatelj obrazca UPN s kodo QR zagotovi izpis kode
+QR na obrazcu UPN v skladu s tehničnim standardom univerzalnega
+plačilnega naloga UPN QR. Vsebina in način zapisa podatkov v
+kodi QR na obrazcu UPN je opredeljena v pravilih, ki določajo vsebino in način
+zapisa podatkov v kodi QR, ki so dostopna prek povezave na spletni strani UJP.
+9. člen
+(1) Izdajatelj obrazca UPN s kodo QR pri UJP podpiše
+Izjavo o sprejemu pravil o izdajanju obrazca univerzalni plačilni nalog (UPN),
+ki je objavljena na spletnih straneh UJP.
+(2) Izdajatelj obrazca UPN s kodo QR se s podpisom
+Izjave UPN zavezuje, da bo UJP na podlagi zahteve in sporočene reference
+posredoval zahtevane podatke o plačniku. Izdajatelj obrazca UPN s kodo QR mora
+podatke o plačniku hraniti pet let po izvršeni transakciji.
+2. Obrazec TPNO 70
+10. člen
+(1) Za izvršitev tujega plačilnega naloga za odliv in za
+dvig tuje gotovine se uporablja obrazec TPNO 70, ki je Priloga 3 tega
+pravilnika in njegov sestavni del.
+(2) Navodilo za izpolnjevanje obrazca TPNO 70 je Priloga
+4 tega pravilnika in njegov sestavni del.
+(3) Vzorčni primeri izpolnjenih obrazcev TPNO 70 so
+objavljeni na spletnih straneh UJP.
+(4) Obrazec TPNO 70 se uporablja tudi za plačilne
+transakcije z več statističnimi vrsticami, in sicer v valuti euro in tujih valutah,
+kjer ima prejemnik sredstev odprt račun pri ponudniku plačilnih storitev izven
+Republike Slovenije. Več statističnih vrstic se uporablja v primerih, kadar
+želi proračunski uporabnik kot plačnik izvesti plačilo po različnih namenih
+(Vknjižba/Odredba) in referencah v breme. Podatki za transakcije se generirajo
+v izpisku na podlagi skupnega zneska plačila, ki se izvrši prek plačilnega
+prometa in hkrati dodatnih transakcij, ki odražajo statistične vrstice v breme
+in v dobro posebej.
+3. Obrazec TPNO 70 s seznamom prejemnikov plačil
+11. člen
+(1) Proračunski uporabnik lahko pri odrejanju plačil več
+prejemnikom hkrati predloži UJP en obrazec TPNO 70 skupaj z obrazcem Seznam
+prejemnikov plačil, ki je Priloga 5 tega pravilnika in njegov sestavni del, pri
+čemer morajo biti izpolnjeni naslednji pogoji:
+1.     
+vsi prejemniki morajo imeti račun pri istem ponudniku plačilnih
+storitev,
+2.     
+za vsa plačila velja isti datum obremenitve,
+3.     
+za vsa plačila velja ista oznaka stroškov,
+4.     
+obveznosti se plačujejo v isti valuti,
+5.     
+za vsa plačila velja ista valuta kritja in
+6.     
+vsa plačila se izvršujejo v breme istega podračuna proračunskega
+uporabnika.
+(2) Obrazec TPNO 70 lahko uporablja tudi UJP, in sicer v
+skladu s Protokolom o postopku prenosa sredstev s posebnih namenskih
+transakcijskih računov med UJP in Zakladnico enotnega zakladniškega računa
+države (v nadaljnjem besedilu: Zakladnica).
+(3) Navodilo za izpolnjevanje obrazca TPNO 70 s seznamom
+prejemnikov plačil je Priloga 6 tega pravilnika in njegov sestavni del.
+(4) Vzorčni primer izpolnjenega obrazca Seznam
+prejemnikov plačil je objavljen na spletnih straneh UJP.
+4. Nalog za kritje
+12. člen
+(1) Če proračunski uporabnik predloži obrazec TPNO 70 v
+breme podračuna državnega proračuna in kritje zagotavlja Zakladnica, mora le-ta
+UJP predložiti obrazec Nalog za kritje, ki je Priloga 7 tega pravilnika in
+njegov sestavni del.
+(2) Postopek, po katerem Zakladnica določa kritje za
+čezmejna in druga plačila, velja le za neposredne uporabnike državnega
+proračuna.
+(3) Navodilo za izpolnjevanje obrazca Nalog za kritje je
+Priloga 8 tega pravilnika in njegov sestavni del.
+(4) Vzorčni primer izpolnjenega obrazca Nalog za kritje
+je objavljen na spletnih straneh UJP.
+13. člen
+Pri nujnih čezmejnih in drugih transakcijah mora proračunski uporabnik
+poleg predložitve obrazca TPNO 70 UJP o nujnosti plačila telefonsko obvestiti
+tudi Banko Slovenije, in sicer takoj ob predložitvi obrazca TPNO 70 oziroma
+najkasneje do 12. ure istega dne.
+5. Obrazec TPNP 60
+14. člen
+(1) Za izvršitev tujega plačilnega naloga za priliv se
+uporablja obrazec TPNP 60, ki je Priloga 9 tega pravilnika in njegov sestavni
+del.
+(2) Navodilo za izpolnjevanje obrazca TPNP 60 je Priloga
+10 tega pravilnika in njegov sestavni del.
+(3) Vzorčni primer izpolnjenega obrazca TPNP 60 je
+objavljen na spletnih straneh UJP.
+15. člen
+(1) Obrazec TPNP 60 se uporablja:
+1.     
+kot obvestilo UJP proračunskemu uporabniku o prejetem plačilu v
+katerikoli valuti, kadar ima plačnik račun odprt v državi članici Evropske
+unije ali v tretji državi,
+2.     
+kot obvestilo UJP proračunskemu uporabniku o prejetem plačilu v tuji
+valuti, kadar ima plačnik račun ali podračun odprt v Republiki Sloveniji, ali
+3.     
+za polog tuje gotovine pri Banki Slovenije, medtem ko se za pologe tuje
+gotovine pri banki uporabi obrazec, ki ga določa banka.
+(2) Kadar je prejeto plačilo v valuti, v kateri se EZR
+ali PNTR ne vodita, se sredstva razporedijo v domači valuti.
+(3) Banka Slovenije posreduje UJP obvestilo o prejetem
+plačilu, na podlagi katerega UJP pripravi obrazec TPNP 60. UJP na dogovorjeni
+način posreduje proračunskemu uporabniku obrazec TPNP 60 v dopolnitev v
+primeru, da so podatki o prejetem plačilu na obvestilu nepopolni oziroma ne
+zadoščajo za razporeditev prejetega plačila.
+(4) Ostale obrazce TPNP 60 UJP proračunskim uporabnikom odloži
+na UJPnet.
+(5) Obrazec TPNP 60, ki ga proračunski uporabnik prejme
+v dopolnitev, mora proračunski uporabnik predložiti UJP najkasneje četrti
+delovni dan po prejemu.
+(6) Proračunski uporabnik mora svojim dolžnikom
+posredovati vsaj naslednje podatke: BIC kodo, ki je za Banko Slovenije BSLJSI2X,
+številko podračuna proračunskega uporabnika v strukturi IBAN, šifro
+proračunskega uporabnika in referenco v dobro v skladu s Prilogo 1 tega
+pravilnika.
+6. Predložitev plačilnega naloga za SDD
+16. člen
+(1) Proračunski uporabnik prejemnik plačila lahko po
+predhodnem soglasju plačnika predloži UJP plačilni nalog za SDD v dobro svojega
+podračuna in v breme računa plačnika.
+(2) Do spremembe soglasja za SDD pride v primeru:
+-       
+spremembe naziva prejemnika plačila ali naziva plačnika,
+-       
+spremembe računa plačnika ali spremembe podračuna prejemnika plačila,
+-       
+spremembe BIC banke plačnika ali
+-       
+statusne spremembe proračunskega uporabnika.
+(3) Ob spremembi soglasja za SDD mora proračunski
+uporabnik kot prejemnik plačila v plačilnem nalogu za SDD predložiti tudi
+naslednje podatke soglasja:
+-       
+referenco originalnega soglasja,
+-       
+naziv originalnega prejemnika plačila,
+-       
+originalno oznako prejemnika plačila,
+-       
+originalni račun plačnika in
+-       
+originalni BIC banke plačnika.
+7. Pogoji za izvršitev plačilnih nalogov v papirni
+obliki
+17. člen
+(1) Proračunski uporabnik mora papirne obrazce plačilnih
+nalogov predložiti na predpisan način in izpolnjene s podatki v skladu s tem
+pravilnikom in drugimi predpisi, ki zahtevajo obvezno uporabo referenc.
+(2) Obrazce UPN in TPNO 70 mora proračunski uporabnik predložiti
+UJP najkasneje na dan obremenitve podračuna, vendar ne več kot 60 koledarskih
+dni pred datumom obremenitve podračuna proračunskega uporabnika. Če proračunski
+uporabnik obrazce UPN in TPNO 70 predloži UJP na dan, ki ni določen kot njegov
+delovni dan ali po uri, ki je določena v urniku za prejem plačilnih nalogov,
+objavljenem na spletnih straneh UJP (v nadaljnjem besedilu: urnik), UJP takšen
+obrazec obdela naslednji delovni dan.
+(3) Obrazec TPNP 60 pripravi UJP na podlagi obvestila
+Banke Slovenije o prejetem plačilu v skladu s Prilogo 10 tega pravilnika in ga
+v skladu s četrtim odstavkom 15. člena tega pravilnika predloži
+proračunskemu uporabniku.
+(4) UJP ob sprejemu papirnih obrazcev plačilnih nalogov
+izvaja vsebinsko kontrolo tako, da preveri pravilnost, čitljivost in popolnost
+obrazcev, ter formalno kontrolo podatkov s podatki na veljavnem seznamu
+deponiranih podpisov pri UJP.
+(5) Nepravilno izpolnjeni papirni obrazci plačilnih
+nalogov so obrazci, na katerih:
+-       
+posamezni podatki niso vpisani v zanje predvidena polja na način, kot je
+to določeno s tem pravilnikom,
+-       
+podatki niso čitljivo vpisani ali
+-       
+niso vpisani obvezni podatki.
+18. člen
+(1) UJP zavrne prejem obrazcev UPN in TPNO 70 ter jih
+vrne proračunskemu uporabniku v dopolnitev v primeru:
+-       
+ko plačilni nalogi niso izpolnjeni v skladu s Prilogo 2, Prilogo 4,
+Prilogo 6, Prilogo 8 in Prilogo 10 tega pravilnika,
+-       
+ko sredstva na podračunu proračunskega uporabnika tudi konec dneva ne
+zadoščajo za celotno poravnavo obveznosti,
+-       
+ko je naveden pretekli datum izvršitve, ali
+-       
+če so predloženi več kot 60 koledarskih dni pred datumom obremenitve
+podračuna proračunskega uporabnika.
+(2) UJP na dan zavrnitve oziroma najkasneje naslednji
+delovni dan obvesti proračunskega uporabnika o razlogih zavrnitve.
+19. člen
+(1) Podatek standardizirana referenca se na papirnih
+obrazcih plačilnih nalogov izpolni v skladu s Prilogo 1 tega pravilnika.
+(2) UJP v primeru napačne uporabe modela oziroma
+napačnega izračuna kontrolne številke pri uporabi reference SI:
+-       
+na papirnih obrazcih plačilnih nalogov spremeni model v 00,
+-       
+zavrne obrazce UPN in TPNO 70, če gre za plačilo obveznih dajatev in
+drugih javnofinančnih prihodkov v skladu z drugimi predpisi, ki urejajo obvezno
+uporabo referenc.
+(3) UJP v primeru navedbe računa oziroma podračuna
+pravne osebe, ki ni objavljen v registru transakcijskih računov, ali navedbe
+ukinjenega računa oziroma podračuna pravne osebe zavrne obrazce UPN in TPNO 70.
+20. člen
+Na zahtevo proračunskega uporabnika UJP izda potrdilo o
+bremenitvi oziroma odobritvi računa, ki vsebuje enake podatke, kot so
+predloženi na papirnem obrazcu plačilnega naloga.
+IV. PLAČILNI NALOGI V ELEKTRONSKI OBLIKI
+21. člen
+(1) Za predložitev plačilnih nalogov v elektronski
+obliki se uporabljajo naslednji nosilci podatkov:
+a)    
+zgoščenka, dostavljena osebno ali po pošti,
+b)    
+USB ključ, dostavljen osebno ali po pošti,
+c)    
+UJPnet sporočilo, posredovano prek UJPnet.
+(2) Za predložitev podatkov prek UJPnet veljajo splošni pogoji,
+ki urejajo spletno poslovanje med proračunskimi uporabniki in UJP. Podrobnosti
+in morebitne posebnosti pisno uredita proračunski uporabnik in UJP.
+22. člen
+(1) Struktura elektronske oblike podatkov, ki se
+izmenjujejo med proračunskimi uporabniki ter ostalimi, ki poročajo za
+proračunske uporabnike, in UJP, ki se uporablja za elektronsko izmenjavo
+podatkov med proračunskimi uporabniki in ostalimi, ki poročajo za proračunske
+uporabnike ter UJP, se objavi na spletni strani Ministrstva za finance. Zaradi
+zagotavljanja pravilnih podatkov o plačniku oziroma končnemu dolžniku ter o
+prejemniku oziroma končnemu prejemniku sredstev, se izpolnijo vsa polja, če je
+plačnik hkrati dolžnik oziroma če je prejemnik sredstev tudi končni prejemnik.
+(2) Proračunski uporabnik predloži UJP plačilne naloge v
+elektronski obliki na zgoščenki, USB ključu ali prek UJPnet v strukturi, ki je
+določena s strukturo elektronske oblike.
+(3) Če proračunski uporabnik uporablja plačilne naloge v
+elektronski obliki in jih predloži na zgoščenki ali USB ključu, mora UJP
+predložiti tudi izpis podatkov na papirju. Vsebina izpisa na papirju mora biti
+enaka vsebini podatkov na predloženi zgoščenki ali USB ključu. Podpis in žig
+plačnika se morata ujemati s podpisom in žigom na veljavnem seznamu deponiranih
+podpisov pri UJP.
+23. člen
+(1) Proračunski uporabnik lahko UJP na predpisan način
+predloži tudi nujne plačilne naloge v elektronski obliki, in sicer vse vrste
+plačilnih nalogov, razen plačilnih nalogov za SDD.
+(2) Če proračunski uporabnik UJP predloži nujni plačilni
+nalog v elektronski obliki, mora biti ta plačilni nalog posredovan ločeno od
+ostalih plačilnih nalogov.
+24. člen
+(1) Plačilne naloge v elektronski obliki mora
+proračunski uporabnik predložiti UJP najkasneje na dan obremenitve podračuna, vendar
+ne več kot 60 koledarskih dni pred datumom obremenitve podračuna proračunskega
+uporabnika v skladu z urnikom.
+(2) Plačilne naloge za SDD v elektronski obliki lahko
+proračunski uporabnik predloži UJP najkasneje en delovni dan pred datumom
+izvršitve SDD v skladu z urnikom in ne več kot 30 koledarskih dni pred datumom
+izvršitve SDD.
+(3) Čezmejne plačilne naloge za SDD v elektronski obliki
+lahko proračunski uporabnik predloži UJP najkasneje dva delovna dneva pred
+datumom izvršitve SDD v skladu z urnikom in ne več kot 30 koledarskih dni pred
+datumom izvršitve SDD.
+(4) Če proračunski uporabnik plačilne naloge predloži
+UJP na zgoščenki ali USB ključu na dan, ki ni določen kot delovni dan, ali po
+uri, ki je določena v urniku, UJP takšne plačilne naloge obdela naslednji
+delovni dan.
+25. člen
+(1) UJP zavrne izvršitev plačilnega naloga v elektronski
+obliki, če:
+1.     
+je naveden pretekli datum izvršitve,
+2.     
+je plačilni nalog predložen več kot 60 koledarskih dni pred datumom
+obremenitve podračuna proračunskega uporabnika,
+3.     
+je plačilni nalog za SDD predložen več kot 30 koledarskih dni pred
+datumom izvršitve SDD,
+4.     
+plačilni nalog ni pripravljen v predpisani strukturi,
+5.     
+sredstva na podračunu proračunskega uporabnika na dan predvidene
+obremenitve podračuna proračunskega uporabnika ne zadoščajo za celotno
+poravnavo obveznosti,
+6.     
+račun oziroma podračun pravne osebe ni aktiven ali ni objavljen v
+registru transakcijskih računov,
+7.     
+plačilni nalog za SDD ni bil posredovan v skladu z urnikom,
+8.     
+se prekine izvajanje SDD plačilnih transakcij v skladu s pravilnikom, ki
+opredeljuje postopke in pogoje vodenja računov neposrednih in posrednih
+uporabnikov državnega in občinskih proračunov pri UJP.
+(2) UJP na dan zavrnitve oziroma najkasneje naslednji
+delovni dan obvesti proračunskega uporabnika o razlogih zavrnitve.
+26. člen
+(1) Podatek strukturirana referenca se na plačilnih
+nalogih v elektronski obliki izpolni v skladu s strukturo elektronske oblike.
+(2) UJP v primeru napačne uporabe modela oziroma
+napačnega izračuna kontrolne številke pri strukturirani referenci SI:
+-       
+na plačilnih nalogih iz prejšnjega odstavka spremeni model v 00,
+-       
+zavrne plačilne naloge iz prejšnjega odstavka, če gre za plačilo
+obveznih dajatev, in sicer v skladu z drugimi predpisi.
+(3) Podatek strukturirana referenca se na plačilnih
+nalogih za SDD v elektronski obliki v UJP kontrolira le za podračune, pri
+katerih je predpisana oblika strukturirane reference.
+(4) Kontrolo strukturiranih referenc v dobro oziroma v
+breme UJP opravi v skladu s strukturo elektronske oblike.
+27. člen
+Na zahtevo proračunskega uporabnika UJP izda potrdilo o
+bremenitvi oziroma odobritvi računa, ki vsebuje enake podatke kot so na
+predloženem plačilnem nalogu v elektronski obliki oziroma plačilnem nalogu za
+SDD v elektronski obliki.
+28. člen
+Kontrolo strukture številke podračuna plačnika in računa
+oziroma podračuna prejemnika plačila UJP opravi v skladu z izračunom kontrolne
+številke po poenostavljenem modulu MOD 97-10, ki je določen v standardu ISO/IEC
+7064. Primer izračuna kontrole strukture številke podračuna in računa je
+objavljen na spletnih straneh UJP.
+V. IZPISKI O PROMETU IN STANJU, DELNI IZPISI, OBRESTNI LISTI,
+PDP IN PCP POROČILA TER POROČILA O TERJATVAH IN OBVEZNOSTIH JAVNOFINANČNIH
+PRIHODKOV V PAPIRNI IN ELEKTRONSKI OBLIKI
+29. člen
+(1) UJP proračunskim uporabnikom zagotavlja izpiske o
+prometu in stanju na podračunu, izpiske o prometu in stanju na gotovinskem
+računu, PNTR, delne izpise o stanju in določenih transakcijah na podračunu,
+obrestne liste, PDP in PCP poročila ter poročila o terjatvah in obveznostih
+javnofinančnih prihodkov v oblikah, primernih za tiskanje in elektronski obliki
+na UJPnet.
+(2) O načinu posredovanja izpiskov o prometu in stanju
+na podračunu, izpiskov o prometu in stanju na gotovinskem računu, PNTR, delnih
+izpisov o stanju in določenih transakcijah na podračunu ter obrestnih listov,
+se dogovorita proračunski uporabnik oziroma nadzornik javnofinančnih prihodkov
+in UJP.
+VI. LASTNOSTI IN PRAVILA OBLIKOVANJA STRUKTURE DATOTEK V TXT
+OBLIKI
+30. člen
+V strukturo elektronske oblike so vključene lastnosti in
+pravila oblikovanja strukture datoteke v txt obliki, in sicer struktura datoteke
+z nazivom TPNO.txt predstavlja datoteko podatkov za predložitev tujega
+plačilnega naloga za odliv.
+VII. LASTNOSTI IN PRAVILA OBLIKOVANJA STRUKTURE DATOTEK V XML
+OBLIKI
+31. člen
+(1) V strukturo elektronske oblike so vključene
+lastnosti in pravila oblikovanja struktur datotek v xml obliki, in sicer:
+1.     
+struktura datotek z nazivom ISO 20022 XML predstavlja datoteko podatkov
+za predložitev domačih, čezmejnih in tujih plačilnih nalogov,
+2.     
+struktura datoteke z nazivom Izpisek ISO 20022 XML predstavlja datoteko
+za prevzem izpiska o prometu in stanju na podračunu,
+3.     
+struktura datoteke z nazivom DelniIzpis.xml predstavlja datoteko
+podatkov za prevzem delnega izpisa o stanju in določenih transakcijah na
+podračunu,
+4.     
+struktura datoteke z nazivom ObrestniList.xml predstavlja datoteko
+podatkov za prevzem obrestnega lista o dnevnih obrestih za denarna sredstva na
+EZR in PNTR,
+5.     
+strukturi datotek z nazivom PDP_PPPPPPPPPPPPPPPP_DDMMLLLL.xml in
+PCP_PPPPPPPPPPPPPPPP_DDMMLLLL.xml predstavljata datoteki s podatki za prevzem
+PDP in PCP poročil,
+6.     
+struktura datoteke z nazivom Terjatve in obveznosti JFP.xml predstavlja
+datoteko za prevzem poročila o terjatvah in obveznostih javnofinančnih
+prihodkov.
+(2) V strukturo elektronske oblike plačilnih nalogov za
+SDD so vključene tudi lastnosti in pravila oblikovanja datotek za SDD v
+strukturi ISO 20022 XML.
+VIII. PREHODNA IN KONČNA DOLOČBA
+32. člen
+(1) Z dnem uveljavitve tega pravilnika preneha veljati
+Pravilnik o plačilnih navodilih, SEPA direktnih obremenitvah, izpiskih o
+prometu in stanju, delnih izpisih ter obrestnih listih v papirni in elektronski
+obliki (Uradni list RS, št. 109/12, 44/13, 58/14, 51/15, 77/16 – ZOPSPU-1
+in 29/17).
+(2) Ne glede na prejšnji odstavek lahko proračunski
+uporabniki v obdobju šest mesecev od uveljavitve tega pravilnika uporabljajo in
+UJP predložijo v obdelavo obrazce TPNO 70, ki so izpolnjeni v skladu s Prilogo
+3, Prilogo 4, Prilogo 6 in Prilogo 8 pravilnika iz prejšnjega odstavka.
+33. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 007/11/2019
+Ljubljana, dne 21. maja 2019
+EVA 2019-1611-0012
+Dr. Andrej Bertoncelj
+minister
+za finance
+
+Priloga 1: Pravila
+za oblikovanje in uporabo standardiziranih referenc pri opravljanju plačilnih
+storitev
+Priloga 2: Navodilo
+za izpolnjevanje obrazca UPN
+Priloga3: Obrazec
+TPNO 70
+Priloga 4: Navodilo
+za izpolnjevanje obrazca TPNO 70
+Priloga 5: Obrazec
+seznam prejemnikov plačil
+Priloga 6: Navodilo
+za izpolnjevanje obrazca TPNO 70 s seznamom prejemnikov plačil
+Priloga 7: Obrazec
+nalog za kritje
+Priloga 8: Navodilo
+za izpolnjevanje obrazca nalog za kritje
+Priloga 9: Obrazec
+TPNP 60
+Priloga 10:
+Navodilo za izpolnjevanje obrazca TPNP 60

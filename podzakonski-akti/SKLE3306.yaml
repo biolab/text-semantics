@@ -1,0 +1,16 @@
+Text file: SKLE3306.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1037746800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE3306
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o prenehanju veljavnosti sklepa o kratkoro\u010Dnih posojilih bankam"
+npbNum: 0
+path: /2002/49/2002-01-4904
+sopPredpisa: 2002-01-4904
+sopPredpisaChng: null

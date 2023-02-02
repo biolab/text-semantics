@@ -1,0 +1,16 @@
+Text file: PRAV14232.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1660341600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14232
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o spremljanju stanja kmetijskih tal
+npbNum: 0
+path: /2022/25/2022-01-2546
+sopPredpisa: 2022-01-2546
+sopPredpisaChng: null

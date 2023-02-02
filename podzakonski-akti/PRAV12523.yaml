@@ -1,0 +1,17 @@
+Text file: PRAV12523.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1449270000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12523
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu nabiranja in dnevni koli\u010Dini nabranih \u0161\
+  koljk"
+npbNum: 0
+path: /2015/34/2015-01-3433
+sopPredpisa: 2015-01-3433
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: URED7123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1605308400000000000
+- null
+- null
+- 10
+idPredpisa: URED7123
+idPredpisaChng: URED7123
+instock: .nan
+naslov: "UREDBA o koncesiji za rabo podzemne vode za ogrevanje in potrebe kopali\u0161\
+  \u010Da Terme \u010Cate\u017E d. d. iz vrtin K-1/69, V-3/69, V-16/97, V-17/97, V-1/63,\
+  \ V-4/63 in V-14/72 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/28/2020-01-2870-2015-01-4102-npb1
+sopPredpisa: 2020-01-2870
+sopPredpisaChng: 2015-01-4102

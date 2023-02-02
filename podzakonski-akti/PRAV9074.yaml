@@ -1,0 +1,19 @@
+Text file: PRAV9074.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1219701600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1218751200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9074
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o obrazcih o pisnih izjavah volje pacienta
+npbNum: 0
+path: /2008/36/2008-01-3636
+sopPredpisa: 2008-01-3636
+sopPredpisaChng: null

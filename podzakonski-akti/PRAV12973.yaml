@@ -1,0 +1,16 @@
+Text file: PRAV12973.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1492207200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12973
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o specializaciji iz medicinske biokemije
+npbNum: 0
+path: /2017/07/2017-01-0745
+sopPredpisa: 2017-01-0745
+sopPredpisaChng: null

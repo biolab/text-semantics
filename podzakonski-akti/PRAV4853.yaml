@@ -1,0 +1,17 @@
+Text file: PRAV4853.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1091224800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4853
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Bloke\
+  \ (2003\u20132012)"
+npbNum: 0
+path: /2004/37/2004-01-3774
+sopPredpisa: 2004-01-3774
+sopPredpisaChng: null

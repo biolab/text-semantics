@@ -1,0 +1,16 @@
+Text file: URED3439.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1091829600000000000
+- null
+- null
+- 10
+idPredpisa: URED3439
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za graditev 4-sede\u017Enice Ka\u0161tivnik na Kopah"
+npbNum: 0
+path: /2004/38/2004-01-3885
+sopPredpisa: 2004-01-3885
+sopPredpisaChng: null

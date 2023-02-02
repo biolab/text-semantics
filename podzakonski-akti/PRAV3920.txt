@@ -1,0 +1,1160 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa bistvene in posebne
+zahteve, ki jih morajo izpolnjevati pretočna merila in merilni sistemi za
+zvezno in dinamično merjenje količin tekočin razen vode (v nadaljnjem besedilu:
+merilni sistemi) in njihovi sestavni deli, postopke ugotavljanja skladnosti in
+overitev, roke rednih overitev in način označevanja pretočnih meril in merilnih
+sistemov.
+Ta pravilnik se označi skrajšano z oznako
+MP-10.
+2. člen
+Šteje se, da pretočno merilo ali merilni
+sistem, ki izpolnjuje vse zahteve mednarodnega priporočila OIML R 117,
+izpolnjuje tudi zahteve tega pravilnika.
+3. člen
+V tem pravilniku uporabljeni izrazi imajo
+naslednji pomen:
+1.     
+pretočno merilo je merilo, načrtovano za zvezno merjenje, shranjevanje
+in kazanje količine tekočine, ki pri danih pogojih merjenja steče skozi merilni
+element v zaprtem in popolnoma polnem vodu;
+2.     
+merilni sistem je sistem, ki vključuje pretočno merilo in vse naprave,
+potrebne za zagotovitev točnega merjenja ali namenjene za lažje merjenje
+(dodatne in pomožne naprave);
+3.     
+dodatne naprave so naprave, ki opravljajo funkcije, neposredno udeležene
+v zbiranju, prenašanju ali kazanju merilnih rezultatov, kot na primer:
+- 
+naprava za vračanje na ničlo,
+- 
+tiskalnik,
+- 
+pomnilnik,
+- 
+kazalnik denarnega zneska,
+- 
+kazalnik skupne prostornine (totalizator),
+- 
+naprava za pretvorbo,
+- 
+naprava za predhodno nastavitev,
+- 
+samopostrežna naprava;
+(Dodatne naprave so lahko del računalnika
+ali del pretočnega merila, lahko pa so tudi samostojne naprave.)
+4.     
+pomožne naprave so vse druge naprave, ki zagotavljajo pravilno merjenje,
+olajšajo delo ali lahko kakorkoli vplivajo na meritve, na primer:
+- 
+naprava za odstranjevanje plinov,
+- 
+indikator plina,
+- 
+kontrolno steklo,
+- 
+filter,
+- 
+črpalka,
+- 
+naprava, ki predstavlja referenčno točko,
+- 
+naprava za preprečevanje vrtinčenja,
+- 
+cevi,
+- 
+ventili,
+- 
+gumene cevi;
+5.     
+referenčna točka je točka, v kateri se tekočina sprejema ali oddaja;
+6.     
+merjena veličina je veličina, ki se meri;
+7.     
+vplivna veličina je veličina, ki ni merjena veličina, vendar vpliva na
+merilni rezultat;
+8.     
+nazivni pogoji delovanja so vrednosti merjene in vplivnih veličin, ki
+določajo normalne delovne pogoje merila;
+9.     
+normalni pogoji so določeni pogoji, pri katerih je podan merilni
+rezultat po pretvorbi;
+10.  
+najmanjša količina merjenja je najmanjša količina tekočine, katere
+merjenje je za dani merilni sistem meroslovno sprejemljivo;
+11.  
+motnja je vplivna veličina, ki ne spada med vplivne veličine, ki
+določajo normalne delovne pogoje merila in katerih vrednosti ter zahteve za
+obnašanje so predpisane;
+12.  
+kritična vrednost spremembe merilnega rezultata je vrednost, pri kateri
+postane sprememba vrednosti merilnega rezultata nesprejemljiva. Ta vrednost se
+izraža v enakih merskih enotah kot merilni rezultat;
+13.  
+neposredna prodaja je trgovinska transakcija, pri kateri:
+- 
+je merilni rezultat osnova za določitev cene, ki se plača, in
+- 
+morajo stranke, udeležene v transakciji, sprejeti merilni rezultat na
+kraju samem,
+- 
+se menjava lastnika in plačilo izvedeta takoj ali pa se takoj določijo
+obveznosti strank kot rezultat strinjanja vseh udeleženih strank z merilnim
+rezultatom;
+14.  
+(črtana).
+4. člen
+Drugi deli merilnega sistema so podrobneje
+določeni v poglavju “Terminology“ mednarodnega priporočila OIML R 117 (v
+nadaljnjem besedilu: OIML R 117).
+5. člen
+Če več pretočnih meril, namenjenih za
+ločene meritve, uporablja skupne elemente (računalnik, filter, odvajalnik
+plinov, napravo za pretvorbo), se šteje, da vsako pretočno merilo, vključno s
+skupnimi elementi, tvori svoj merilni sistem. Če je več pretočnih meril
+namenjenih eni meritvi, pa se šteje, da vsa pretočna merila tvorijo en merilni
+sistem.
+II. PODROČJE UPORABE
+6. člen
+Merilni sistemi in njihovi sestavni deli,
+na katere se nanaša ta pravilnik, se uporabljajo za merjenje naslednjih
+tekočin:
+-       
+tekoče surove nafte in z njo povezanih proizvodov (nafta, tekoči
+ogljikovodiki, utekočinjeni naftni plin, tekoča goriva, maziva za stroje,
+industrijska olja...),
+-       
+prehrambnih tekočin (mleko in mlečni izdelki; pivo, vino in druge
+alkoholne pijače; brezalkoholne gazirane in negazirane pijače; rastlinska
+olja...),
+-       
+alkoholov in drugih tekočin razen vode in kriogenih tekočin. 
+7. člen
+(črtan)
+III. BISTVENE ZAHTEVE
+8. člen
+Proizvajalec mora določiti klimatsko,
+mehansko in elektromagnetno okolje, za katerega je merilni sistem namenjen, in
+pri tem poleg bistvenih zahtev upoštevati zahteve za pogoje delovanja.
+Klimatsko in mehansko okolje, v katerih se
+merilni sistem uporablja, se določita z naslednjimi razredi:
+Razred C označuje klimatsko okolje.
+V razred C1 spadajo zaprti prostori z
+zvezno kontrolo temperature in brez kontrole vlažnosti.
+V razred C2 spadajo zaprti prostori brez
+kontrole temperature in vlažnosti.
+V razred C3 spadajo odprti prostori.
+Razred M označuje mehansko okolje.
+V razred M1 spadajo prostori z vibracijami
+in sunki manjše jakosti (zanemarljivo tresenje lahkih podpornih elementov,
+sunki zaradi loputanja z vrati...)
+V razred M2 spadajo prostori, kjer je
+stopnja vibracij in sunkov visoka (npr. zaradi delovanja strojev, mimo vozečih
+vozil...).
+V razred M3
+spadajo prostori, kjer je stopnja vibracij in sunkov zelo visoka (npr. če so
+merila nameščena neposredno na stroje).
+
+
+Kombinirana klimatska in mehanska okolja
+
+
+Okolje
+
+C1
+
+C2
+
+C3
+
+
+M1
+
+A
+
+B
+
+C
+
+
+M2
+
+D
+
+E
+
+F
+
+
+M3
+
+G
+
+H
+
+I
+
+
+Razred E označuje elektromagnetno okolje.
+V razred E1 spadajo bivalni in poslovni
+prostori ter okolje lahke industrije.
+V razred E2 spadajo industrijska okolja.
+9. člen
+Na meroslovne lastnosti merilnega sistema
+ne sme biti mogoče vplivati s priključitvijo poljubne naprave, preko
+priključene naprave ali preko katerekoli oddaljene naprave, ki komunicira z
+merilom.
+10. člen
+Merilni rezultat je lahko prikazan na
+kazalniku ali natisnjen.
+Kazanje vsakega merilnega rezultata mora
+biti jasno in nedvoumno ter opremljeno z znaki in napisi, ki so potrebni za
+informiranje uporabnika o pomenu merilnega rezultata. Pri normalnih pogojih
+uporabe mora biti odčitavanje enostavno. Dodatna kazanja se lahko uporabljajo,
+če jih ni mogoče zamenjati z merilnimi rezultati.
+Razdelek skale mora biti v obliki 1 x 10n,
+2 x 10n ali 5 x 10n, kjer je n celo število. Merska enota
+ali njen simbol morata biti navedena v neposredni bližini številčne vrednosti.
+Če je merilni rezultat natisnjen, mora biti
+preprosto čitljiv in neizbrisljiv.
+Merilni sistem, ki se uporablja za
+neposredno prodajo, mora biti načrtovan tako, da kaže merilne rezultate kupcu
+in prodajalcu.
+Merilni sistemi, ki so vključeni v
+distrubucijski sistem in s katerih je mogoče merilne rezultate odčitavati z
+mobilno enoto za zajemanje podatkov ali preko povezave na daljavo, morajo imeti
+vgrajen kazalnik, namenjen stranki. Kazanje tega kazalnika predstavlja merilni
+rezultat, ki se uporabi kot osnova za obračun.
+Merilni sistem, ki ni vključen v
+distribucijski sistem, mora imeti napravo za trajno shranjevanje merilnih
+rezultatov in informacij, ki omogočajo identifikacijo meritve, če so izpolnjeni
+vsi naslednji pogoji:
+1.     
+merilni sistem se uporablja pri neposredni prodaji,
+2.     
+meritev je neponovljiva,
+3.     
+merilo je ponavadi v uporabi brez prisotnosti prodajalca ali kupca.
+Dodatno mora biti po zaključeni meritvi na
+zahtevo mogoče dobiti trajni dokaz o merilnem rezultatu in informacijo,
+potrebno za identifikacijo meritve.
+11. člen
+Vse bistvene zahteve veljajo smiselno tudi
+za pretočna merila, ki se tipsko odobrijo in uporabljajo samostojno.
+IV. POSEBNE ZAHTEVE
+12. člen
+Območje pretokov določi proizvajalec ob
+upoštevanju naslednjih pogojev:
+1.      Območje
+pretokov merilnega sistema mora biti znotraj območja pretokov posameznih
+elementov merilnega sistema.
+2.     
+Pretočno merilo
+
+
+Vrsta tekočine
+
+Najmanjše razmerje Qmax;Qmin
+
+
+Utekočinjeni plini ali tekočine z viskoznostjo, ki je večja
+  ali enaka 20 mPas
+ 
+
+5: 1
+
+
+Vse druge
+  tekočine
+
+10: 1
+
+
+3.     
+Merilni sistem
+
+
+Merilni sistem
+
+Vrsta tekočine
+
+Najmanjše razmerje Qmax;Qmin
+
+
+Priprave za merjenje tekočih goriv pri polnjenju
+  rezervoarjev motornih vozil
+ 
+
+Vse, razen utekočinjenega naftnega plina
+
+10: 1
+
+
+ 
+
+Utekočinjen naftni plin
+
+5: 1
+
+
+Merilni sistemi na cevovodih in merilni sistemi za
+  natovarjanje in raztovarjanje ladij
+
+-
+
+Ni določeno
+
+
+Vsi drugi merilni sistemi
+
+-
+
+2: 1
+
+
+13. člen
+Proizvajalec določi lastnosti tekočin z
+navedbo imena ali vrste tekočine ali njenih značilnih lastnosti, kot so:
+1.     
+temperaturno območje,
+2.     
+območje tlaka,
+3.     
+območje gostote,
+4.     
+območje viskoznosti.
+14. člen
+Proizvajalec določi nazivne pogoje
+delovanja za merilne sisteme in za pretočna merila, ki se odobrijo in
+uporabljajo samostojno, posebej še:
+1.      klimatsko
+in mehansko okolje razreda B, C ali I, v katerem naj bi se uporabljal merilni
+sistem ali pretočno merilo, ki se odobri in uporablja samostojno, skladno s
+tabelo v 8. členu tega pravilnika in z upoštevanjem naslednjih pogojev glede
+temperaturnega območja:
+- 
+najmanjše območje 50 °C za razreda C in I
+- 
+najmanjše območje 30 °C za razred B,
+2.     
+napetost napajanja: nazivna AC napetost ali/in meje DC napetosti,
+3.     
+normalne pogoje za pretvorbo.
+15. člen
+Za količine,
+ki so enake ali večje od dveh litrov ali ekvivalentne mase, so največji
+dovoljeni pogreški kazanja naslednji:
+
+
+ 
+
+ 
+
+Razred točnosti
+
+
+ 
+
+0.3
+
+0.5
+
+1.0
+
+1.5
+
+
+Merilni sistemi (A)
+
+0,3%
+
+0,5%
+
+1,0%
+
+1,5%
+
+
+Pretočna merila (B)
+
+0,2%
+
+0,3%
+
+0,6%
+
+1,0%
+
+
+16. člen
+Za količine,
+manjše od dveh litrov ali ekvivalentne mase, so največji dovoljeni pogreški
+kazanja naslednji:
+
+
+Merjena količina - V
+
+Največji dovoljeni pogrešek
+
+
+V < 0,1 l
+
+4 x vrednost iz tabele v 15. členu
+  x 0,1 l
+
+
+0,1
+  l £ V <
+  0,2 l
+
+4 x vrednost iz tabele v 15. členu
+
+
+0,2
+  l £ V <
+  0,4 l
+
+2 x vrednost iz tabele v 15. členu
+  x  0,4 l
+
+
+0,4
+  l £ V <
+  1
+
+2 x vrednost iz tabele v 15. členu 
+
+
+1
+  l £ V <
+  2 l
+
+Vrednost iz tabele v 15. členu x 2
+  l
+
+
+Opomba: Vrednosti, podane v litrih, se
+pretvorijo v ekvivalent mase pri merilih, ki kažejo maso.
+17. člen
+Ne glede na velikost merjene količine pa je
+velikost največjega dovoljenega pogreška določena z večjo od naslednjih dveh
+vrednosti:
+-       
+absolutno vrednostjo največjega dovoljenega pogreška, podano v tabeli v
+15. členu ali v tabeli v 16. členu tega pravilnika,
+-       
+absolutno vrednostjo največjega dovoljenega pogreška za najmanjšo
+količino merjenja (Emin), določeno v 18. členu tega pravilnika.
+18. člen
+Emin se določi na naslednji način:
+Vmin > / = 2 l ali
+ekvivalent mase
+Za najmanjše merjene količine, večje ali
+enake 2 l (ali ekvivalentne mase):
+1.      možnost:
+Emin mora izpolnjevati pogoj Emin > 2R, kjer je R ločljivost
+kazalne naprave,
+2.     
+možnost: Emin je določen z izrazom: Emin = (2 Vmin)
+x (A/100), kjer je Vmin najmanjša merjena količina in A številčna
+vrednost, določena v vrsti A tabele v 15. členu.
+Vmin < 2 l ali ekvivalent mase
+Za najmanjše merjene količine, ki so manjše
+od dveh litrov ali ekvivalentne mase, je Emin dvakratna vrednost,
+določena v tabeli v 16. členu tega pravilnika, z upoštevanjem vrste A v tabeli
+v 15. členu tega pravilnika.
+19. člen
+Za pretvorbo rezultata kazanja v
+prostornino pri normalnih pogojih ali v maso so največji dovoljeni pogreški
+podani v vrsti A tabele v 15. členu tega pravilnika.
+20. člen
+Največji dovoljeni pogreški naprave za
+pretvorbo pri kazanju rezultata po pretvorbi so enaki ± (A – B), kjer sta A in B vrednosti v tabeli v 15. členu tega
+pravilnika. Vendar pa največji dovoljeni pogrešek ne sme biti manjši od večje
+od naslednjih dveh vrednosti:
+-       
+polovice razdelka skale kazalne naprave za prikaz rezultata po
+pretvorbi,
+-       
+polovice vrednosti, ki ustreza Emin.
+21. člen
+Deli naprave za pretvorbo, ki se lahko
+preskusijo ločeno:
+1.      Računalnik
+Največji dovoljeni pogrešek kazanja količine
+tekočine, ki se uporabi za računanje (pozitiven ali negativen), je enak eni
+desetini največjega dovoljenega pogreška, določenega v vrsti A tabele v 15.
+členu tega pravilnika. Vendar pa največji dovoljeni pogrešek ne sme biti manjši
+od polovice razdelka skale merilnega sistema, s katerim naj bi se računalnik
+uporabljal.
+2.     
+Senzorji
+Senzorji morajo
+biti najmanj tako točni, kot je navedeno v tabeli:
+
+
+Največji dovoljeni pogreški pri meritvi
+
+Razred točnosti merilnega sistema
+
+
+ 
+
+0.3
+
+0.5
+
+1.0
+
+1.5
+ 
+
+temperature
+
+0,3 °C
+
+ 
+
+0,5 °C
+
+ 
+ 
+
+tlaka
+
+ 
+
+manj kot 1 MPa: ± 50 kPa
+od 1 do 4 MPa: ± 5%
+nad 4 MPa: ± 200 kPa
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+gostote 
+
+±1 kg/m3
+
+±2 kg/m3
+
+ 
+ 
+
+22. člen
+Največji dovoljeni pogrešek pri računanju
+vsake karakteristične veličine za tekočino (pozitiven ali negativen) je enak
+dvema petinama vrednosti, določene v 2. točki 21. člena tega pravilnika. Vendar
+pa največji dovoljeni pogrešek ne sme biti manjši od polovice razdelka skale
+kazalne naprave za kazanje rezultata po pretvorbi.
+23. člen
+Proizvajalec določi elektromagnetno okolje
+E1 ali E2, v katerem naj bi se uporabljal merilni sistem ali pretočno merilo,
+ki se tipsko odobri in uporablja samostojno.
+Vplivi elektromagnetnih motenj na merilni
+sistem (ali pretočno merilo, ki se tipsko odobri in uporablja samostojno) so
+lahko naslednji:
+-       
+sprememba merilnega rezultata ni večja od kritične vrednosti spremembe
+merilnega rezultata, določene v zadnjem odstavku tega člena;
+-       
+kazanje merilnega rezultata pokaže trenutno spremembo, ki je ni mogoče
+interpretirati, jo shraniti ali prenesti kot merilni rezultat. Pri sistemu s
+prekinitvami v tem primeru merjenje ne sme biti mogoče;
+-       
+sprememba merilnega rezultata je večja od kritične vrednosti spremembe
+merilnega rezultata, pri čemer mora merilni sistem omogočiti, da se merilni
+rezultat dobi tik pred doseženo kritično vrednostjo spremembe, in mora
+prekiniti potek meritve pri sistemu s prekinitvami.
+Kritična vrednost spremembe merilnega
+rezultata je tista od naslednjih dveh vrednosti, ki je večja:
+-       
+ena petina največjega dovoljenega pogreška za določeno merjeno količino
+ali
+-       
+Emin.
+24. člen
+Merilni sistem mora biti izdelan tako, da
+so pogreški v času enega leta od takrat, ko je bilo merilo prvič dano v
+uporabo, pri normalni uporabi brez justiranja v mejah dvakratnega dovoljenega
+pogreška.
+Največji dovoljeni pogreški merilnega
+sistema v uporabi med zaporednima overjanjema morajo biti manjši od dvakratnega
+največjega dovoljenega pogreška za merilni sistem, določenega v 15., 16. in 17.
+členu tega pravilnika.
+Za pretočno merilo, ki se tipsko odobri in
+uporablja samostojno, veljata smiselno enaki zahtevi kot za merilne sisteme,
+navedeni v prvem in drugem odstavku tega člena, le da se upoštevajo največji
+dovoljeni pogreški za pretočno merilo (v 15., 16. in 17. členu tega
+pravilnika).
+25. člen
+Za vsako merjeno količino, povezano z isto
+meritvijo, kazanja različnih naprav med seboj ne smejo odstopati za več kot en
+razdelek skale, če imajo naprave enak razdelek skale. Če imajo naprave različne
+razdelke skal, odstopanje ne sme biti večje od največjega razdelka skale. Pri
+samopostrežnem sistemu pa morajo biti vsi razdelki skal naprav, ki kažejo
+merilni rezultat, enaki in merilni rezultati se med seboj ne smejo razlikovati.
+26. člen
+Merilni sistem mora praviloma vključevati
+samo eno referenčno točko. Če je prisotnih več referenčnih točk, se pod nobenim
+pogojem ne sme dopustiti delitev merjene tekočine.
+27. člen
+Vpliv zraka ali drugih plinov v tekočini na
+merilni rezultat ne sme preseči:
+-       
+0,5% merjene količine za tekočine razen pitnih tekočin in za tekočine z
+viskoznostjo, ki ni večja od 1 mPas, ali
+-       
+1% za pitne tekočine in za tekočine z viskoznostjo, večjo od 1 mPas.
+Vendar pa ni potrebno, da je ta vpliv
+manjši od 1% najmanjše količine merjenja.
+28. člen
+Merilni sistem, namenjen za neposredno
+prodajo, mora biti opremljen z napravo, ki kazanje merilnega rezultata vrne na
+nič.
+Kazanje prostornine pri pogojih merjenja
+mora biti stalno.
+29. člen
+Za pretočno merilo, ki se odobri in
+uporablja samostojno, veljajo smiselno enake posebne zahteve kot za merilni
+sistem.
+30. člen
+Pri pripravah za merjenje tekočih goriv pri
+polnjenju rezervoarjev motornih vozil mora biti onemogočeno vračanje merilnega
+rezultata na nič med merjenjem.
+Začetek nove meritve ne sme biti mogoč,
+dokler se kazanje merilnega rezultata ne vrne na nič.
+Če je priprava za merjenje tekočih goriv
+pri polnjenju rezervoarjev motornih vozil opremljena s kazalnikom denarnega
+zneska, razlika med kazanjem denarnega zneska in denarnim zneskom, izračunanim
+iz cene in kazanja količine, ne sme biti večja od cene, ki ustreza Emin. Ni pa
+potrebno, da bi bila ta razlika manjša od najmanjše denarne enote.
+31. člen
+Merilni sistem, ki deluje brez prekinitev,
+mora biti opremljen z napravo, ki v sili omogoči napajanje in tako zaščiti vse
+merilne funkcije med prekinitvijo glavnega napajanja.
+Merilni sistem, ki deluje s prekinitvami,
+mora izpolnjevati zgornjo zahtevo za merilne sisteme brez prekinitev ali pa
+vključevati naprave za shranjevanje in kazanje podatkov, ki omogočajo zaključek
+prenosa, ki je v teku, in naprave, ki ob prekinitvi napajanja ustavijo potek
+meritve.
+Absolutna vrednost največjega dovoljenega
+pogreška za prikazano količino se poveča za 5% najmanjše merjene količine.
+32. člen
+Razredi
+točnosti in njihova uporaba so navedeni v naslednji tabeli:
+
+
+Najnižji
+   razred točnosti
+
+Vrsta
+   merilnega sistema
+
+
+0.3
+
+Merilni
+  sistemi, priključeni na cevovod
+
+
+0.5
+
+Vsi
+  sistemi, ki ne spadajo v druge razrede, še posebej
+-       
+  priprave za merjenje tekočih goriv pri polnjenju rezervoarjev motornih
+  vozil (razen priprav za merjenje utekočinjenega naftnega plina pri polnjenju
+  rezervoarjev motornih vozil),
+-       
+  merilni sistemi na cestnih cisternah za tekočine z nizko viskoznostjo,
+-       
+  merilni sistemi za praznjenje ladijskih rezervoarjev ter železniških
+  in cestnih cistern,
+-       
+  merilni sistemi za mleko,
+-       
+  merilni sistemi za polnjenje ladijskih rezervoarjev,
+-       
+  merilni sistemi za polnjenje rezervoarjev letal z gorivom
+
+
+1.0
+
+Merilni sistemi (razen priprav za merjenje tekočega
+  naftnega plina pri polnjenju rezervoarjev motornih vozil) za utekočinjene
+  pline pod tlakom, ki merijo pri temperaturah, ki so enake ali višje od - 10 °C,
+Priprave
+  za merjenje utekočinjenega naftnega plina pri polnjenju rezervoarjev motornih
+  vozil,
+Merilni
+  sistemi iz razredov 0.3 in 0.5, ki se uporabljajo za tekočine,
+-       
+  katerih temperatura je nižja od -10 °C ali višja od 50 °C ali
+-       
+  katerih dinamična viskoznost je večja od 1000 mPas ali
+-       
+  katerih največji pretok ni večji od 20 l/h, 
+
+
+1.5
+
+Merilni sistemi za utekočinjeni ogljikov dioksid,
+Merilni
+  sistemi (razen priprav za merjenje utekočinjenega naftnega plina pri
+  polnjenju rezervoarjev motornih vozil) za utekočinjene pline pod tlakom pri
+  temperaturah pod - 10 °C (razen kriogenih tekočin), 
+
+
+33. člen
+Izmerjena količina mora biti prikazana v
+mililitrih (ml) ali kubičnih centimetrih (cm3), litrih (l ali L),
+kubičnih metrih (m3), gramih (g), kilogramih (kg) ali tonah (t).
+V. NAPISI IN OZNAKE
+34. člen
+Napisi in oznake na merilnem sistemu in
+njegovih sestavnih delih morajo biti v slovenskem jeziku.
+Merilni sistem mora imeti na številčnici
+kazalne naprave ali na posebni napisni ploščici čitljivo in neizbrisljivo
+zapisane naslednje podatke:
+1.     
+oznako tipske odobritve,
+2.     
+firmo ali znak proizvajalca,
+3.     
+oznako tipa, ki jo določi proizvajalec,
+4.     
+serijsko številko in leto proizvodnje,
+5.     
+delovno območje merilnega sistema,
+6.     
+delovno območje pretočnega merila,
+7.     
+razred točnosti.
+Vsak del merilnega sistema, ki ima
+odobritev tipa merila, mora imeti na napisni ploščici podatke, navedene pod 1.,
+2., 3. in 4. točko iz prejšnjega odstavka.
+V certifikatu o odobritvi tipa merila se
+lahko posebej določi, kateri napisi morajo biti na merilu.
+Najmanjša količina merjenja merilnega
+sistema mora biti v vseh primerih jasno vidna na številčnici vsake kazalne
+naprave, namenjene kazanju merilnih rezultatov uporabniku.
+Napisi na sestavnem delu merilnega sistema
+ne smejo biti v nasprotju z napisi na napisni ploščici merilnega sistema.
+Če je prikazana prostornina pri normalnih
+pogojih, morajo biti v neposredni bližini rezultata meritve navedeni normalni
+pogoji v naslednji obliki
+Tn =... °C (ali K)
+pn =... MPa (ali kPa ali Pa ali bar).
+35. člen
+Merilni sistem mora biti opremljen z
+informacijami o njegovem delovanju. Če je potrebno, morajo te informacije
+vključevati:
+-       
+nazivne pogoje delovanja,
+-       
+razrede klimatskega, mehanskega in elektromagnetnega okolja,
+-       
+navodila za instalacijo, vzdrževanje, popravljanje, dovoljene
+nastavitve,
+-       
+navodila za pravilno delovanje in morebitne posebne pogoje uporabe.
+Za merilne sisteme, namenjene za množično
+uporabo, ali za skupine merilnih sistemov ni nujno, da ima vsak posebej
+navodila za uporabo.
+36. člen
+Merilni sistem je treba z varovalnimi
+oznakami zaščititi pred nedovoljenimi posegi, ki vplivajo na točnost merjenja.
+Varovalne oznake so praviloma mehanske (svinčeni žigi, nalepke), v posebnih primerih
+pa se lahko uporabljajo tudi drugačne vrste oznak (npr. elektronske). Z
+varovalnimi oznakami je treba onemogočiti spreminjanje parametrov, ki se
+uporabljajo pri izračunu merilnega rezultata.
+Varovalne oznake se namestijo na vseh delih
+merilnega sistema, ki jih ni mogoče drugače zaščititi pred posegi, ki vplivajo
+na točnost merjenja. Oznake morajo biti lahko dostopne.
+Če se merilni sistem uporablja za merjenje
+pitnih tekočin, mora namestitev varovalnih oznak omogočati, da se sistem
+razstavi zaradi čiščenja.
+37. člen
+Programska oprema, ki ima pomembno
+meroslovno funkcijo, mora biti opredeljena kot takšna in ustrezno zaščitena
+pred nedovoljenimi posegi. Identifikacija programske opreme mora biti
+preprosta. Evidenca posegov mora biti na voljo dovolj časa oziroma najmanj za
+čas, ki je enak dvakratnemu roku overjanja.
+Vrsta merjene tekočine ali njena viskoznost
+se lahko vnese v računalnik pred meritvijo, razen pri neposredni prodaji.
+Vneseni podatek in napis, da je bil ta podatek ročno vnesen, se morata izpisati
+hkrati z merilnim rezultatom.
+Merilni rezultati in meroslovno pomembni
+podatki, ki so shranjeni ali se prenašajo, morajo biti ustrezno zaščiteni pred
+namernimi in nenamernimi nedovoljenimi posegi.
+38. člen
+Če je dostop do parametrov, ki se uporabljajo
+pri izračunu merilnega rezultata, zaščiten samo z elektronskimi oznakami,
+morajo te izpolnjevati naslednje zahteve:
+a)     dostop je dovoljen samo osebam, ki izvajajo overitve (npr. s kodo
+ali posebno napravo). Koda mora biti nastavljiva. Pri neposredni prodaji dostop
+samo s kodo ni dovoljen;
+b)     shranjeni morajo biti najmanj podatki o zadnjem posegu, pri katerem
+je bila uporabljena elektronska oznaka. Zapis mora vsebovati datum in
+karakteristične podatke, ki omogočajo identifikacijo tega posega. Podatki o
+zadnjem posegu morajo biti dostopni najmanj za čas, ki je enak dvakratnemu roku
+overjanja.
+39. člen
+Pri merilnih sistemih, katerih deli se
+lahko odklopijo drug od drugega, mora elektronska zaščita izpolnjevati
+naslednje zahteve:
+a)     dostop do parametrov, ki se uporabljajo pri izračunu merilnega
+rezultata, preko odklopljenih delov merilnega sistema ne sme biti mogoč, če
+nista izpolnjeni zahtevi iz drugega odstavka tega člena;
+b)     vključitev kakršnekoli naprave, ki bi vplivala na točnost meritve,
+mora biti onemogočena z elektronsko ali mehansko zaščito.
+Za merilne sisteme, katerih dele lahko
+odklopi uporabnik in ki niso zamenljivi, veljajo zahteve iz prejšnjega
+odstavka. Takšni merilni sistemi morajo biti opremljeni z napravami, ki
+preprečijo delovanje sistema, če ni sestavljen skladno s proizvajalčevo
+konfiguracijo.
+40. člen
+Za pretočno merilo, ki se tipsko odobri in
+uporablja samostojno, veljajo smiselno enake zahteve za napise in oznake kot za
+merilni sistem.
+VI. UGOTAVLJANJE SKLADNOSTI
+41. člen
+Za merilne sisteme je obvezna odobritev
+tipa merila, ki ji sledi bodisi prva overitev bodisi izjava o skladnosti z
+odobrenim tipom. Za posamezne dele merilnega sistema niso obvezne samostojne
+odobritve tipa merila in overitve, če se ti deli sistema ne uporabljajo
+samostojno.
+Za pretočno merilo, ki ni del merilnega
+sistema, je obvezna odobritev tipa merila, ki ji sledi bodisi prva overitev
+bodisi izjava o skladnosti z odobrenim tipom.
+Za merilne sisteme in pretočna merila, ki
+se tipsko odobrijo in uporabljajo samostojno, so obvezne nadaljnje overitve.
+42. člen
+Preskus merilnega sistema pri odobritvi
+tipa vključuje preverjanje, ali posamezni sestavni deli, ki niso bili
+samostojno tipsko odobreni, ustrezajo zahtevam tega pravilnika, ali so sestavni
+deli med seboj združljivi in ali merilni sistem kot celota izpolnjuje zahteve
+tega pravilnika.
+Obseg preskusa merilnega sistema se določi
+po tem, ali so bili njegovi sestavni deli že tipsko odobreni. Število preskusov
+se lahko zmanjša, če merilni sistem vsebuje podsistem, ki je bil že tipsko odobren
+znotraj drugega merilnega sistema in se uporablja pri enakih merilnih pogojih.
+43. člen
+Pogreški merilnega sistema se izmerijo pri
+najmanj šestih pretokih, ki so ekvidistantno porazdeljeni po celotnem merilnem
+območju. Pri vsakem pretoku se opravijo najmanj tri neodvisne meritve
+pogreškov. Noben pogrešek ne sme po absolutni vrednosti presegati največjega
+dovoljenega pogreška, določenega v 15., 16. in 17. členu tega pravilnika.
+Če je potrebno, se preskus točnosti izvede
+pri mejnih vrednostih delovnega območja (za tlak, temperaturo in viskoznost) in
+pri najmanjši količini merjenja.
+44. člen
+Preskus vzdržljivosti se izvede praviloma s
+tekočino, za katero je merilni sistem namenjen, ali s tekočino s podobnimi
+značilnostmi. Če je merilni sistem namenjen za več tekočin, se za preskus
+vzdržljivosti uporabi tista, ki po svojih lastnostih najbolj odstopa.
+Pred preskusom vzdržljivosti se opravi
+preskus točnosti.
+Preskus vzdržljivosti mora praviloma
+trajati 100 ur (s prekinitvami ali brez njih). V posebnih primerih (nove
+tehnologije, nove zlitine, nove tekočine) se preskus vzdržljivosti lahko
+podaljša (do 200 ur).
+Preskus vzdržljivosti se opravi s pretokom
+med 0,8 Qmax in Qmax.
+Po preskusu vzdržljivosti se ponovno opravi
+preskus točnosti. Pri tem noben pogrešek ne sme po absolutni vrednosti
+presegati največjega dovoljenega pogreška, določenega v 15., 16. in 17. členu
+tega pravilnika.
+45. člen
+Če se računalnik preskusi samostojno, se
+preskusi opravijo samo z računalnikom, tako da se na vhodu simulirajo različne
+vrednosti.
+Preskus točnosti zajema preskus točnosti
+prikaza izmerjenega rezultata (prostornine pri pogojih merjenja ali denarnega
+zneska). Pogrešek se določi po vrednosti rezultata, izračunanega na osnovi
+simuliranih vrednosti na vhodu. Največji dovoljeni pogreški so določeni v 1.
+točki 21. člena tega pravilnika.
+Izvedejo se tudi preskusi, predvideni za
+elektronske naprave, ki so opisani v OIML R 117.
+46. člen
+Preveriti je treba, ali naprava za
+pretvorbo ustreza zahtevam 20. člena tega pravilnika. Za ta namen se šteje, da
+je prostornina pri pogojih merjenja, ki se pretvarja, brez pogreška.
+Pri elektronski napravi za pretvorbo se
+izvedejo tudi preskusi, predvideni za elektronske naprave, ki so opisani v OIML
+R 117.
+47. člen
+Če se dodatna naprava, ki omogoča izpis rezultata,
+preskusi samostojno, se njeno kazanje primerja s kazanjem kazalne naprave, ki
+je že preskušena in ki ima enak ali manjši razdelek skale. Rezultat mora
+ustrezati zahtevi iz prvega odstavka 25. člena tega pravilnika.
+48. člen
+Za elektronski merilni sistem se poleg
+zgoraj opisanih preskusov opravijo še preskusi, opisani v OIML R 117.
+49. člen
+Preskus priprav za merjenje tekočih goriv,
+ki se uporabljajo za polnjenje rezervoarjev motornih vozil.
+Preskusi se opravijo po postopkih, opisanih
+v OIML R 118.
+50. člen
+Izvedejo se lahko tudi drugi preskusi, če
+so potrebni za ugotavljanje, ali merilni sistem in njegovi sestavni deli
+izpolnjujejo zahteve tega pravilnika.
+51. člen
+Preskus pretočnega merila pri odobritvi
+tipa merila se izvede praviloma s celotnim pretočnim merilom, opremljenim s
+kazalno napravo, in z vsemi pripadajočimi dodatnimi napravami.
+Če dodatne naprave ne vplivajo na merilni
+rezultat, jih ni treba vključiti v preskus.
+Pri odobritvi tipa merila za pretočno
+merilo se opravijo smiselno enaki preskusi, kot so navedeni v 43., 44., 45.,
+46., 47. in 48. členu tega pravilnika za odobritev tipa merila za merilni
+sistem. Pri tem se glede največjih dovoljenih pogreškov upoštevajo največji
+dovoljeni pogreški za pretočno merilo, določeni v 15., 16. in 17. členu tega
+pravilnika.
+52. člen
+Prva overitev merilnega sistema se opravi
+enostopenjsko, če se sistem lahko transportira v enem kosu in če se overitev
+opravi pri pogojih, za katere je merilni sistem predviden. V vseh drugih
+primerih se opravi dvostopenjsko.
+Pri prvi stopnji se overi pretočno merilo
+samo, opremljeno z dodatnimi napravami ali vključeno v podsistem. Preskusi na
+prvi stopnji se lahko opravijo tako, da se pretočno merilo priključi na
+preskusno linijo (po možnosti pri proizvajalcu) ali na postavljeni merilni
+sistem. Na tej stopnji ni nujno, da se preskus izvede s tekočinami, za katere
+je merilni sistem namenjen.
+Na drugi stopnji se merilni sistem overi
+pri danih pogojih delovanja. Opravi se v prostoru, kjer je merilni sistem v
+uporabi, in s tekočino, za katero je namenjen.
+53. člen
+Če se prva overitev izvede v dveh stopnjah,
+vključuje prva stopnja:
+-       
+ugotavljanje skladnosti pretočnega merila in dodatnih naprav z odobrenim
+tipom ter
+-       
+meroslovni pregled pretočnega merila in dodatnih naprav, s katerim se
+ugotavlja, ali pretočno merilo in dodatne naprave ustrezajo zahtevam tega
+pravilnika. Pri tem se lahko izvedejo vsi preskusi iz 43., 44., 45., 46., 47.
+in 48. člena tega pravilnika, najmanj pa preskus točnosti iz 43. člena tega
+pravilnika. Za določanje največjega dovoljenega pogreška pri preskusu točnosti
+se uporabi vrsta B tabele iz 15. člena tega pravilnika.
+Druga stopnja dvostopenjske prve overitve
+pa vključuje:
+-       
+ugotavljanje skladnosti merilnega sistema skupaj z vsemi dodatnimi in
+pomožnimi napravami z odobrenim tipom ter
+-       
+meroslovni pregled merilnega sistema, s katerim se ugotavlja, ali
+merilni sistem skupaj z dodatnimi in pomožnimi napravami ustreza zahtevam tega
+pravilnika. Pri tem se lahko izvedejo vsi preskusi iz 43., 44., 45., 46., 47.
+in 48. člena tega pravilnika, najmanj pa preskus točnosti, s katerim se
+ugotavlja, ali merilni sistem izpolnjuje zahteve iz 15., 16. in 17. člena tega
+pravilnika, priprave za merjenje tekočih goriv pa tudi zahtevo iz tretjega
+odstavka 30. člena tega pravilnika. Priporočena metoda za izvedbo preskusa
+točnosti za priprave za merjenje tekočih goriv je določena v prilogi I, ki je
+sestavni del tega pravilnika. Za določitev največjega dovoljenega pogreška se
+uporabi vrsta A tabele iz 15. člena tega pravilnika.
+54. člen
+Če se prva overitev izvede enostopenjsko,
+se opravijo vsi preskusi iz 53. člena tega pravilnika.
+55. člen
+Prva overitev pretočnega merila se lahko
+opravi, če ima pretočno merilo samostojno odobritev tipa in ni del merilnega
+sistema. Prva overitev pretočnega merila se opravi pri danih pogojih delovanja,
+in to v prostoru, kjer je pretočno merilo v uporabi, in s tekočino, za katero
+je namenjeno.
+Prva overitev vključuje:
+-       
+ugotavljanje skladnosti pretočnega merila in dodatnih naprav z odobrenim
+tipom ter
+-       
+meroslovni pregled pretočnega merila in dodatnih naprav, s katerim se
+ugotavlja, ali pretočno merilo in dodatne naprave ustrezajo zahtevam tega
+pravilnika. Pri tem se lahko izvedejo smiselno vsi preskusi iz 43., 44., 45.,
+46., 47. in 48. člena tega pravilnika, najmanj pa preskus točnosti, s katerim
+se ugotavlja, ali pretočno merilo izpolnjuje zahteve iz 15., 16. in 17. člena
+tega pravilnika.
+56. člen
+Redna in izredna overitev merilnega sistema
+se opravita pri danih pogojih delovanja, in to praviloma v prostoru, kjer je merilni
+sistem v uporabi, in s tekočino, za katero je namenjen.
+Redna in izredna overitev merilnega sistema
+vključujeta meroslovni pregled, s katerim se ugotavlja, ali merilni sistem in
+njegovi sestavni deli ustrezajo zahtevam tega pravilnika. Pri tem se izvede
+preskus točnosti iz 53. člena tega pravilnika.
+56.a člen
+Pretočno merilo mora biti pred izvedbo
+postopka izredne overitve naravnano tako, da je zagotovljeno najmanjše možno
+odstopanje kazanja od nazivne vrednosti. V primeru, da ima imetnik merila na eni
+lokaciji v uporabi večje število pretočnih meril ali merilnih sistemov v
+povprečju ne sme biti negativnega odstopanja kazanja od nazivne vrednosti.
+57. člen
+Redna in izredna overitev se opravita pri
+danih pogojih delovanja, in to praviloma v prostoru, kjer je pretočno merilo v
+uporabi, in s tekočino, za katero je namenjeno.
+Redna in izredna overitev pretočnega merila
+vključujeta meroslovni pregled, s katerim se ugotavlja, ali pretočno merilo
+ustreza zahtevam tega pravilnika. Pri tem se izvede preskus točnosti, s katerim
+se ugotavlja, ali pretočno merilo izpolnjuje zahteve iz 15., 16. in 17. člena
+tega pravilnika.
+58. člen
+Roki za redne overitve pretočnih meril in
+merilnih sistemov so:
+-       
+za pretočna merila: 1 leto;
+-       
+za merilne sisteme (razen merilnih sistemov za merjenje tekočih goriv
+pri polnjenju rezervoarjev motornih vozil): 2 leti;
+-       
+za merilne sisteme za merjenje tekočih goriv pri polnjenju rezervoarjev
+motornih vozil: 12 mesecev.
+
+Priloga
+I: Priporočene metode za izvedbo preskusa točnosti pri overitvi merilnih
+sistemov
+
+Pravilnik o meroslovnih zahtevah za pretočna
+merila in merilne sisteme za zvezno in dinamično merjenje količin tekočin razen
+vode (Uradni list RS, št. 62/01) vsebuje naslednje prehodne in
+končne določbe:
+»VII. PREHODNE IN KONČNE DOLOČBE
+59. člen
+Sklicevanje na mednarodna priporočila OIML
+izhaja iz članstva Republike Slovenije v Mednarodni organizaciji za zakonsko
+meroslovje (International Organization of Legal Metrology).
+Izvirniki mednarodnih priporočil (v
+angleškem in francoskem jeziku) so na Uradu Republike Slovenije za meroslovje v
+Ljubljani.
+60. člen
+Merilni sistemi, ki imajo na dan
+uveljavitve tega pravilnika veljavno prvo overitev v skladu s pravilnikom o
+metroloških pogojih za prostorninska merila za razne tekočine, ki so v merilnem
+sestavu (Uradni list SFRJ, št. 9/85 in Uradni list RS, št. 22/00), se smejo še
+naprej dajati v redno oziroma izredno overitev, če glede največjih dovoljenih
+pogreškov izpolnjujejo zahteve 15., 16. in 17. člena tega pravilnika.
+61. člen
+Merilni sistemi, ki imajo na dan
+uveljavitve tega pravilnika veljavno odobritev tipa merila na podlagi
+pravilnika o metroloških pogojih za priprave za merjenje tekočih goriv (Uradni
+list SFRJ, št. 48/85 in 20/86, ter Uradni list RS, št. 22/00), se smejo dati v
+prvo overitev po tem pravilniku do izteka roka veljavnosti odločbe ali
+certifikata o odobritvi tipa merila oziroma najdlje do 31. 12. 2010.
+Merilni sistemi, ki imajo na dan
+uveljavitve tega pravilnika veljavno odobritev tipa merila in prvo overitev na
+podlagi pravilnika o metroloških pogojih za priprave za merjenje tekočih goriv
+(Uradni list SFRJ, št. 48/85 in 20/86, ter Uradni list RS, št. 22/00), se smejo
+še naprej dajati v redno oziroma izredno overitev, če glede največjih
+dovoljenih pogreškov izpolnjujejo zahteve 15., 16. in 17. člena tega
+pravilnika.
+62. člen
+Pretočna merila, ki imajo na dan
+uveljavitve tega pravilnika veljavno odobritev tipa merila na podlagi
+pravilnika o metroloških pogojih za pretočna prostorninska merila za razne
+tekočine z neposrednim merjenjem prostornine (Uradni list SFRJ, št. 11/85 in
+Uradni list RS, št. 22/00), se smejo dati v prvo overitev po tem pravilniku do
+izteka roka veljavnosti odločbe ali certifikata o odobritvi tipa merila oziroma
+najdlje do 31. 12. 2010.
+Pretočna merila, ki imajo na dan
+uveljavitve tega pravilnika veljavno odobritev tipa merila in prvo overitev na
+podlagi pravilnika o metroloških pogojih za pretočna prostorninska merila za
+razne tekočine z neposrednim merjenjem prostornine (Uradni list SFRJ, št. 11/85
+in Uradni list RS, št. 22/00), se smejo še naprej dajati v redno oziroma
+izredno overitev, če glede največjih dovoljenih pogreškov izpolnjujejo zahteve
+15., 16. in 17. člena tega pravilnika.
+63. člen
+Z dnem, ko začne veljati ta pravilnik, se
+prenehajo uporabljati pravilnik o metroloških pogojih za prostorninska merila
+za razne tekočine, ki so v merilnem sestavu (Uradni list SFRJ, št. 9/85 in
+Uradni list RS, št. 22/00), pravilnik o metroloških pogojih za priprave za
+merjenje tekočih goriv (Uradni list SFRJ, št. 48/85 in 20/86 ter Uradni list
+RS, št. 22/00) in pravilnik o metroloških pogojih za pretočna prostorninska merila
+za razne tekočine z neposrednim merjenjem prostornine (Uradni list SFRJ, št.
+11/85 in Uradni list RS, št. 22/00).
+64. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+pravilnika o meroslovnih zahtevah za pretočna merila in merilne sisteme za
+zvezno in dinamično merjenje količin tekočin razen vode (Uradni list RS, št. 100/02) vsebuje naslednjo prehodno in
+končno določbo:
+»14. člen
+Postopki redne overitve, začeti pred
+uveljavitvijo tega pravilnika, se dokončajo po dosedanjem postopku za redno
+overitev.
+15. člen
+Ta pravilnik začne veljati 1. januarja
+2003.«.
+
+Pravilnik o merilnih instrumentih (Uradni list
+RS, št. 42/06) v zvezi s prenehanjem veljavnosti
+določb pravilnika določa:
+»41. člen
+(prenehanje
+veljavnosti)
+Z dnem uveljavitve tega pravilnika
+prenehajo veljati naslednji predpisi: 
+[…]
+-       
+Pravilnik o meroslovnih zahtevah za pretočna merila in merilne sisteme
+za zvezno in dinamično merjenje količin tekočin razen vode (Uradni list RS, št.
+62/01 in 100/02),
+[…]
+Predpisi iz prejšnjega odstavka se
+uporabljajo še naprej za: 
+-       
+prve overitve in EGS-prve overitve meril iz 39. člena tega pravilnika,
+do izteka veljavnosti odobritve tipa ali EGS-odobritve tipa ali do 30. oktobra
+2016, če odobritev tipa oziroma EGS-odobritev tipa nima omejene veljavnosti, 
+-       
+redne in izredne overitve meril iz 40. člena tega pravilnika.«;
+ter vsebuje naslednjo končno določbo:
+»42. člen
+(začetek
+veljavnosti)
+Ta pravilnik začne veljati 30. oktobra
+2006.«.
+
+Pravilnik o spremembi Pravilnika o meroslovnih
+zahtevah za pretočna merila in merilne sisteme za zvezno in dinamično merjenje
+količin tekočin razen vode (Uradni list RS, št. 71/06) vsebuje naslednjo končno določbo:
+»2. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o meroslovnih zahtevah za pretočna merila in merilne sisteme za
+zvezno in dinamično merjenje količin tekočin razen vode (Uradni list RS, št. 111/06) vsebuje naslednjo končno določbo:
+»3. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o merilnih instrumentih (Uradni list RS, št. 16/13) v zvezi z delnim prenehanjem
+uporabe določb pravilnika določa:
+»PREHODNE IN KONČNE DOLOČBE
+17. člen
+Z dnem uveljavitve
+tega pravilnika se v delu, ki se nanaša na redne in izredne overitve, prenehajo
+uporabljati naslednji predpisi: 
+[…]
+-       
+Pravilnik o meroslovnih zahtevah za pretočna merila in merilne sisteme
+za zvezno in dinamično merjenje količin tekočin razen vode (Uradni list RS, št.
+62/01, 100/02 in 42/06), 
+[…]«;
+ter vsebuje naslednjo končno določbo:
+»20. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece
+po njegovi uveljavitvi.«.

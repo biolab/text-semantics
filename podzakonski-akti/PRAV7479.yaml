@@ -1,0 +1,20 @@
+Text file: PRAV7479.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1151704800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1145656800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7479
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sejninah in povra\u010Dilu stro\u0161kov \u010Dlanom Komisije\
+  \ za za\u0161\u010Dito ogro\u017Eenih oseb"
+npbNum: 0
+path: /2006/15/2006-01-1529
+sopPredpisa: 2006-01-1529
+sopPredpisaChng: null

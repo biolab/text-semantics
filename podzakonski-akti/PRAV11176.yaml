@@ -1,0 +1,17 @@
+Text file: PRAV11176.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1419634800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11176
+idPredpisaChng: PRAV11176
+instock: .nan
+naslov: "PRAVILNIK o pogojih za izvajanje poskusov na \u017Eivalih (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2014/36/2014-01-3645-2013-01-1429-npb1
+sopPredpisa: 2014-01-3645
+sopPredpisaChng: 2013-01-1429

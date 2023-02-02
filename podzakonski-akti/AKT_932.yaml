@@ -1,0 +1,17 @@
+Text file: AKT_932.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1624053600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_932
+idPredpisaChng: AKT_932
+instock: .nan
+naslov: "AKT o pravilih monitoringa kakovosti oskrbe z elektri\u010Dno energijo (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/19/2021-01-1956-2015-01-2458-npb3
+sopPredpisa: 2021-01-1956
+sopPredpisaChng: 2015-01-2458

@@ -1,0 +1,17 @@
+Text file: PRAV8753.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1223676000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8753
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu in postopku analiznega, farmakolo\u0161ko-toksikolo\u0161\
+  kega in klini\u010Dnega presku\u0161anja zdravil za uporabo v veterinarski medicini"
+npbNum: 0
+path: /2008/38/2008-01-3886
+sopPredpisa: 2008-01-3886
+sopPredpisaChng: null

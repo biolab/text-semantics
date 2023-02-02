@@ -1,0 +1,17 @@
+Text file: ODLO2360.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616713200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2360
+idPredpisaChng: ODLO2360
+instock: .nan
+naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja javnega prevoza potnikov na ozemlju\
+  \ Republike Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2021/08/2021-01-0864-2021-01-0539-npb4
+sopPredpisa: 2021-01-0864
+sopPredpisaChng: 2021-01-0539

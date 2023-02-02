@@ -1,0 +1,17 @@
+Text file: PRAV8890.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199142000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8890
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu vpisovanja podatkov, potrebnih za spremljanje izvr\u0161\
+  evanja prora\u010Duna, v pla\u010Dilna navodila"
+npbNum: 0
+path: /2007/60/2007-01-6088
+sopPredpisa: 2007-01-6088
+sopPredpisaChng: null

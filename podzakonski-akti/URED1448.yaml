@@ -1,0 +1,17 @@
+Text file: URED1448.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1341612000000000000
+- null
+- null
+- 10
+idPredpisa: URED1448
+idPredpisaChng: URED1448
+instock: .nan
+naslov: "UREDBA o povra\u010Dilu stro\u0161kov za slu\u017Ebena potovanja v tujino\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+npbNum: 10
+path: /2012/21/2012-01-2176-1994-01-1535-npb10
+sopPredpisa: 2012-01-2176
+sopPredpisaChng: 1994-01-1535

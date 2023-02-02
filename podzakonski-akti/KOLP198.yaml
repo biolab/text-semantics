@@ -1,0 +1,17 @@
+Text file: KOLP198.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1435701600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP198
+idPredpisaChng: KOLP198
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za gozdarstvo Slovenije (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2015/18/2015-01-1824-2005-01-0457-npb7
+sopPredpisa: 2015-01-1824
+sopPredpisaChng: 2005-01-0457

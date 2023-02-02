@@ -1,0 +1,18 @@
+Text file: PRAV10542.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1302818400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10542
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov\
+  \ prestrukturiranja vinogradov in izpada dohodka v vinskem letu 2011/2012, in predvidenem\
+  \ dele\u017Eu sofinanciranja v vinskem letu 2010/2011"
+npbNum: 0
+path: /2011/09/2011-01-0969
+sopPredpisa: 2011-01-0969
+sopPredpisaChng: null

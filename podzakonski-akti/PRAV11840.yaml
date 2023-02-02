@@ -1,0 +1,18 @@
+Text file: PRAV11840.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1441922400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11840
+idPredpisaChng: PRAV11840
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki javnih in drugih listin o zaklju\u010Denem\
+  \ izobra\u017Eevanju na Visoki \u0161oli za storitve v Ljubljani (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2015/26/2015-01-2695-2013-01-2713-npb1
+sopPredpisa: 2015-01-2695
+sopPredpisaChng: 2013-01-2713

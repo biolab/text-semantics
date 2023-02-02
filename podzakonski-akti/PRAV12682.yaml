@@ -1,0 +1,17 @@
+Text file: PRAV12682.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1514588400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12682
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ormo\u017E\
+  \ (2017\u20132026)"
+npbNum: 0
+path: /2017/38/2017-01-3888
+sopPredpisa: 2017-01-3888
+sopPredpisaChng: null

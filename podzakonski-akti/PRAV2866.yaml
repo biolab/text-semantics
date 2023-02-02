@@ -1,0 +1,17 @@
+Text file: PRAV2866.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1216764000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2866
+idPredpisaChng: PRAV2866
+instock: .nan
+naslov: "PRAVILNIK o hrupu zrakoplovov (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 2
+path: /2008/32/2008-01-3293-2000-01-2546-npb2
+sopPredpisa: 2008-01-3293
+sopPredpisaChng: 2000-01-2546

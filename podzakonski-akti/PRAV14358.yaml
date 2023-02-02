@@ -1,0 +1,17 @@
+Text file: PRAV14358.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1623448800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14358
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sofinanciranju izvajanja letnega programa \u0161porta Fundacije\
+  \ za financiranje \u0161portnih organizacij v Republiki Sloveniji"
+npbNum: 0
+path: /2021/20/2021-01-2009
+sopPredpisa: 2021-01-2009
+sopPredpisaChng: null

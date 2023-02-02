@@ -1,0 +1,17 @@
+Text file: URED7102.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1444428000000000000
+- null
+- null
+- 10
+idPredpisa: URED7102
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi na\u010Dina izra\u010Dunavanja in pla\u010Dila pravi\u010D\
+  nega nadomestila za uporabo del, ki jim preneha status osirotelega dela"
+npbNum: 0
+path: /2015/30/2015-01-3015
+sopPredpisa: 2015-01-3015
+sopPredpisaChng: null

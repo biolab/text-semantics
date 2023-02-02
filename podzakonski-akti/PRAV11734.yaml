@@ -1,0 +1,16 @@
+Text file: PRAV11734.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1384210800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11734
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o opremi in vmesnikih za zakonito prestrezanje komunikacij
+npbNum: 0
+path: /2013/32/2013-01-3221
+sopPredpisa: 2013-01-3221
+sopPredpisaChng: null

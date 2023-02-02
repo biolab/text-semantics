@@ -1,0 +1,17 @@
+Text file: PRAV3873.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 988408800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3873
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvajanju ukrepov nadzora v mejnih prodajalnah in obra\u010D\
+  unu razlike tro\u0161arine"
+npbNum: 0
+path: /2001/16/2001-01-1615
+sopPredpisa: 2001-01-1615
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV12336.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1596232800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12336
+idPredpisaChng: PRAV12336
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eenju semenskega krompirja (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/18/2020-01-1860-2015-01-3856-npb1
+sopPredpisa: 2020-01-1860
+sopPredpisaChng: 2015-01-3856

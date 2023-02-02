@@ -1,0 +1,16 @@
+Text file: URED2824.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1047596400000000000
+- null
+- null
+- 10
+idPredpisa: URED2824
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Osilnica"
+npbNum: 0
+path: /2003/09/2003-01-0988
+sopPredpisa: 2003-01-0988
+sopPredpisaChng: null

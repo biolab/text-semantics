@@ -1,0 +1,17 @@
+Text file: PRAV12406.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1652479200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12406
+idPredpisaChng: PRAV12406
+instock: .nan
+naslov: "PRAVILNIK o zdravni\u0161kih licencah (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/12/2022-01-1275-2015-01-1978-npb1
+sopPredpisa: 2022-01-1275
+sopPredpisaChng: 2015-01-1978

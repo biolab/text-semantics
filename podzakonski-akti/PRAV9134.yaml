@@ -1,0 +1,17 @@
+Text file: PRAV9134.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1341007200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9134
+idPredpisaChng: PRAV9134
+instock: .nan
+naslov: "PRAVILNIK o registru melioracijskih skupnosti (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/21/2012-01-2121-2009-01-0124-npb1
+sopPredpisa: 2012-01-2121
+sopPredpisaChng: 2009-01-0124

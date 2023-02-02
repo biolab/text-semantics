@@ -1,0 +1,17 @@
+Text file: PRAV12346.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649887200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12346
+idPredpisaChng: PRAV12346
+instock: .nan
+naslov: "PRAVILNIK o usposabljanju in preizkusu znanja o ravnanju z oro\u017Ejem (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/08/2022-01-0891-2015-01-4089-npb1
+sopPredpisa: 2022-01-0891
+sopPredpisaChng: 2015-01-4089

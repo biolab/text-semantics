@@ -1,0 +1,12 @@
+Text file: SKLE8528.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE8528
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o odprtju Konzulata Republike Slovenije v Iraklionu
+npbNum: 0
+path: /2011/16/2011-01-1656
+sopPredpisa: 2011-01-1656
+sopPredpisaChng: null

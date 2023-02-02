@@ -1,0 +1,17 @@
+Text file: URED254.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 963007200000000000
+- null
+- null
+- 10
+idPredpisa: URED254
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o vrednosti meril za dolo\u010Ditev obmo\u010Dij s posebnimi razvojnimi\
+  \ problemi in dolo\u010Ditvi ob\u010Din, ki izpolnjujejo ta merila"
+npbNum: 0
+path: /2000/27/2000-01-2733
+sopPredpisa: 2000-01-2733
+sopPredpisaChng: null

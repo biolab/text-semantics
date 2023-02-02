@@ -1,0 +1,16 @@
+Text file: PRAV12458.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1449874800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12458
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dovoljenju in posebnem dovoljenju za\_gospodarski ribolov"
+npbNum: 0
+path: /2015/35/2015-01-3514
+sopPredpisa: 2015-01-3514
+sopPredpisaChng: null

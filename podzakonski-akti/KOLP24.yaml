@@ -1,0 +1,20 @@
+Text file: KOLP24.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1661983200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1659132000000000000
+- null
+- null
+- 10
+idPredpisa: KOLP24
+idPredpisaChng: KOLP24
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA \u010Dasopisnoinformativne, zalo\u017Eni\u0161ke in knjigotr\u0161\
+  ke dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 22)"
+npbNum: 22
+path: /2022/25/2022-01-2553-2000-01-2001-npb22
+sopPredpisa: 2022-01-2553
+sopPredpisaChng: 2000-01-2001

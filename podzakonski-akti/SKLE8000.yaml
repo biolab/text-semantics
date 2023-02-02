@@ -1,0 +1,16 @@
+Text file: SKLE8000.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1235430000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8000
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o najvi\u0161ji pokojninski osnovi"
+npbNum: 0
+path: /2009/05/2009-01-0508
+sopPredpisa: 2009-01-0508
+sopPredpisaChng: null

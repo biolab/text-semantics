@@ -1,0 +1,17 @@
+Text file: STAT123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 985989600000000000
+- null
+- null
+- 10
+idPredpisa: STAT123
+idPredpisaChng: STAT123
+instock: .nan
+naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) (Statut\
+  \ UM-UPB4)"
+npbNum: 4
+path: /2001/10/2001-01-1077-2007-01-3568-npb4
+sopPredpisa: 2001-01-1077
+sopPredpisaChng: 2007-01-3568

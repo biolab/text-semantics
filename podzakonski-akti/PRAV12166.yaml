@@ -1,0 +1,17 @@
+Text file: PRAV12166.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1415401200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12166
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku za imenovanje v naziv predavatelj vi\u0161je \u0161\
+  ole"
+npbNum: 0
+path: /2014/31/2014-01-3187
+sopPredpisa: 2014-01-3187
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV5801.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5801
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih in postopkih za priznanje tujih licenc letalskega osebja
+npbNum: 0
+path: /2004/16/2004-01-1676
+sopPredpisa: 2004-01-1676
+sopPredpisaChng: null

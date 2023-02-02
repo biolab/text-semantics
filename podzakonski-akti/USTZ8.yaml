@@ -1,0 +1,17 @@
+Text file: USTZ8.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 766706400000000000
+- null
+- null
+- 10
+idPredpisa: USTZ8
+idPredpisaChng: USTZ8
+instock: .nan
+naslov: "USTAVNI ZAKON ZA IZVEDBO USTAVE REPUBLIKE SLOVENIJE (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /1994/08/1994-01-0895-1991-01-1411-npb1
+sopPredpisa: 1994-01-0895
+sopPredpisaChng: 1991-01-1411

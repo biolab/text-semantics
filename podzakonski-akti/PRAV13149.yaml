@@ -1,0 +1,17 @@
+Text file: PRAV13149.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1583535600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13149
+idPredpisaChng: PRAV13149
+instock: .nan
+naslov: "PRAVILNIK o napredovanju zaposlenih Univerze v Mariboru v pla\u010Dne razrede\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/04/2020-01-0469-2017-01-1539-npb1
+sopPredpisa: 2020-01-0469
+sopPredpisaChng: 2017-01-1539

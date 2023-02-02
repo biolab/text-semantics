@@ -1,0 +1,17 @@
+Text file: PRAV13327.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513983600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13327
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
+  anov za leto 2018"
+npbNum: 0
+path: /2017/36/2017-01-3600
+sopPredpisa: 2017-01-3600
+sopPredpisaChng: null

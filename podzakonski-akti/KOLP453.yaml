@@ -1,0 +1,17 @@
+Text file: KOLP453.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1564610400000000000
+- null
+- null
+- 10
+idPredpisa: KOLP453
+idPredpisaChng: KOLP453
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA Banke Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2019/24/2019-01-2403-2016-01-3146-npb3
+sopPredpisa: 2019-01-2403
+sopPredpisaChng: 2016-01-3146

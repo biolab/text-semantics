@@ -1,0 +1,457 @@
+I. UVODNA DOLOČILA IN OPREDELITEV POJMOV
+1. člen
+(1) Pravila sistema izmenjave informacij o zadolženosti
+poslovnih subjektih – SISBIZ (v nadaljevanju »pravila SISBIZ«) določajo
+tehnične pogoje za dostop do sistema, ukrepe za zavarovanje zaupnih podatkov,
+ki se zbirajo in obdelujejo v sistemu, ter ostale pogoje upravljanja in uporabe
+sistema in s tem povezane porazdelitve medsebojnih pravic, obveznosti in
+odgovornosti med Upravljavcem ter Članom sistema izmenjave informacij (v
+nadaljevanju "Član").
+(2) Izrazi, uporabljeni v teh pravilih, pomenijo:
+SISBIZ – elektronski sistem za vpogled v podatke in
+informacije o zadolženosti poslovnih subjektov, ki se izmenjujejo v skladu z
+ZCKR.
+Upravljavec sistema zbirke podatkov o zadolženosti
+poslovnih subjektov – Banka Slovenije (v nadaljevanju Upravljavec),
+ki zagotavlja pravilno in nemoteno delovanje SISBIZ in v tem okviru predvsem
+delovanje programske in strojne opreme ter njeno fizično in elektronsko
+zaščito, vključno s funkcionalnostjo sistema v smislu določb podzakonskih
+predpisov in navodil, ter upravlja zbirko podatkov v skladu z določbami ZCKR in
+ZBan-2.
+Član – kreditodajalec iz 15. člena ZCKR, ki sklepa
+kreditne posle s poslovnimi subjekti.
+Poslovni subjekt – pravna oseba, podjetnik ali
+zasebnik.
+Generalni skrbnik pri upravljavcu – pooblaščena oseba
+pri Upravljavcu, ki je zadolžena za izvajanje nalog v skladu s temi pravili.
+Generalni skrbnik in njegov namestnik (v nadaljevanju generalni
+skrbnik) – pooblaščena oseba pri Članu, ki je zadolžena za izvajanje nalog
+v skladu s temi pravili.
+Zaupni podatki – zaupni podatki o strankah bank, kot
+so opredeljeni v zakonu, ki ureja bančništvo, ter drugi podatki o posameznih
+kreditojemalcih ali dajalcih zavarovanj, ki se v skladu z zakonom, ki ureja
+gospodarske družbe ali v skladu z drugimi predpisi, varujejo kot poslovna
+skrivnost.
+ZCKR – Zakon o centralnem kreditnem registru v
+vsakokrat veljavni vsebini.
+ZBan-2 – Zakon o bančništvu v vsakokrat veljavni
+vsebini.
+(3) Kadar se ta pravila sklicujejo na določbe drugih
+predpisov, se te določbe uporabljajo v njihovem vsakokrat veljavnem besedilu.
+II. UPRAVLJANJE SISBIZ
+2. člen
+(1) Upravljavec vzpostavi in upravlja SISBIZ v skladu z ZCKR
+z namenom, da omogoči Članom učinkovitejše ocenjevanje kreditnega tveganja pred
+sklepanjem kreditnih poslov s poslovnimi subjekti ter pri njihovem izvrševanju,
+in z namenom vzpodbujanja politik in ukrepov za odgovorno kreditiranje, ter za
+vzdržno zadolževanje in preprečevanje prezadolženosti poslovnih subjektov.
+(2) Upravljavec koordinira zahteve ali predloge za spremembe
+in nadgradnje SISBIZ in organizira delo s Člani.
+(3) Upravljavec komunicira z javnostmi v zadevah organizacije
+in delovanja SISBIZ.
+(4) Upravljavec upravlja zbirke podatkov v skladu ZCKR in
+predpisi o varstvu osebnih podatkov.
+(5) Upravljavec ima pravico vpogleda, upravljanja in obdelave
+osebnih podatkov o generalnih skrbnikih pri Članih in ima za namene, predvidene
+v ZCKR, pravico in pooblastilo za obdelavo zaupnih podatkov poslovnih
+subjektov, ki so predmet obdelave v SISBIZ.
+3. člen
+(1) Upravljavec pred vključitvijo in kasneje v rednih
+intervalih (praviloma na 3 leta) zagotovi pregled skladnosti poslovanja SISBIZ
+v skladu z ZCKR in temi pravili, pri Članih, ki z Upravljavcem sklenejo Pogodbo
+o uporabi SISBIZ.
+(2) Upravljavec lahko poleg rednih pregledov iz prvega
+odstavka tega člena kadarkoli izvede izredni pregled skladnosti poslovanja
+SISBIZ v skladu z ZCKR in temi pravili, kadar pri Članu obstajajo okoliščine,
+ki kažejo na znatne kršitve določb ZCKR in pravil SISBIZ.
+(3) Pri Članu, ki so mu bila v okviru pregleda iz prvega in
+drugega odstavka tega člena izdana priporočila, ki izhajajo iz ugotovitev z
+visoko stopnjo tveganja, se po poteku obdobja za realizacijo priporočil
+(praviloma v treh mesecih) izvede ponoven pregled z namenom ugotovitve
+realizacije priporočil.
+(4) Stroške pregleda iz prvega, drugega in tretjega odstavka
+tega člena nosi Član pregleda v skladu z vsakokrat veljavno Tarifo sistema
+izmenjave informacij.
+III. VKLJUČITEV IN DOSTOP DO SISBIZ ZA ČLANE
+4. člen
+(1) Za vključitev in dostop do SISBIZ morajo Člani z
+Upravljavcem skleniti Pogodbo o uporabi SISBIZ in izpolniti naslednje pogoje:
+-       
+imenovati generalnega skrbnika SISBIZ in njegovega namestnika,
+-       
+vzpostaviti testno okolje SISBIZ v skladu z navodili Upravljavca,
+-       
+zaključiti testiranje z izpolnjeno UAT (User Acceptance Test) izjavo,
+-       
+opraviti pregled o ustreznosti/pripravljenosti za vključitev v sistem
+SISBIZ.
+(2) Upravljavec omogoči vključitev Člana v testno okolje
+SISBIZ po podpisu Pogodbe o uporabi SISBIZ in imenovanju generalnega skrbnika
+SISBIZ ter njegovega namestnika.
+(3) Pregled o ustreznosti/pripravljenosti za vključitev Člana
+v produkcijsko okolje sistema SISBIZ se opravi pred njegovo vključitvijo v
+produkcijsko okolje sistema SISBIZ. Vsebina pregleda obsega najmanj pregled:
+-       
+postopkov za zagotavljanje varovanja informacij v okviru SISBIZ,
+-       
+postopkov za podporo uporabi SISBIZ pri vsakdanjem delu,
+-       
+postopkov za seznanjanje zaposlenih z namenom SISBIZ ter njegovo
+uporabo,
+-       
+postopkov za seznanjanje poslovnih subjektov z namenom SISBIZ ter
+njihovimi pravicami,
+-       
+postopkov za zagotavljanje popolnosti in ažurnosti podatkov posredovanih
+v SISBIZ,
+-       
+načrta testiranja in testni scenarij uporabe SISBIZ.
+(4) Po ugotovitvi ustrezne pripravljenosti Člana na uporabo
+sistema SISBIZ, Upravljavec Člana obvesti o izpolnitvi pogojev za vključitev v
+produkcijsko okolje SISBIZ.
+(5) Upravljavec lahko začasno onemogoči (izklopi) uporabo
+SISBIZ Članu, ki krši določila Pogodbe o uporabi SISBIZ ali določila teh
+pravil. Ko Član iz prejšnjega stavka preneha oziroma odpravi kršitev, se mu
+ponovno omogoči (vklopi) dostop do SISBIZ. Strošek začasnega izklopa in
+ponovnega priklopa se Članu obračuna v skladu z vsakokrat veljavno Tarifo
+sistema izmenjave informacij.
+(6) Člani so dolžni ta pravila izpolnjevati ves čas.
+Upravljavec izvaja pregled izpolnjevanja teh pravil pri Članu v okviru
+opravljanja pregleda v skladu s Pogodbo o uporabi SISBIZ. Pri Članih, nad
+katerimi ima Upravljavec pristojnost nadzora po določbah ZBan-2, pa tudi z
+opravljanjem nadzora v skladu z določbami ZBan-2.
+5. člen
+(1) Nadzor dostopa v SISBIZ in identifikacija pooblaščenih
+oseb se izvaja s kvalificiranim digitalnim potrdilom (certifikatom) izdanim s
+strani v ta namen pooblaščenih izdajateljev in ustreznega varnega medija za
+hrambo certifikata in dostop do SISBIZ (pametne kartice s čipom, pametni
+ključki).
+(2) Za dostop v SISBIZ preko spletne aplikacije se uporablja
+kvalificirano digitalno potrdilo izdano na Člana, ki je vezano na pooblaščeno
+fizično osebo Člana. Za poizvedovanje po podatkih v SISBIZ z uporabo
+aplikacijskega vmesnika se prijavi kvalificirano digitalno strežniško potrdilo
+izdano na ime Člana.
+(3) V primeru poizvedovanja preko kvalificiranega digitalnega
+strežniškega potrdila se upošteva enoznačni način identificiranja pooblaščene
+osebe v sistemu SISBIZ (ID pooblaščene osebe). Prepovedano je kakršnokoli
+posojanje ali skupinska uporaba kvalificiranih digitalnih potrdil, ki so vezani
+na posamezno pooblaščeno osebo Člana.
+(4) Član za svojega generalnega skrbnika naroči digitalno
+potrdilo pri pooblaščenem izdajatelju. Po prejemu digitalnega potrdila
+(kartice, pametnega ključka) le-tega prijavi preko spletne aplikacije Banke Slovenije
+za prijavo digitalnega potrdila. Generalni skrbnik Člana doda v sistem SISBIZ
+pooblaščeno osebo tako, da:
+-       
+omogoči aplikaciji, da prebere digitalno potrdilo (ID digitalnega
+potrdila),
+-       
+vpiše podatke pooblaščene osebe Člana (ime in priimek, šifro pooblaščene
+osebe, službeni naslov, telefon, in elektronski naslov),
+-       
+potrdi vnos (sistem združi ID digitalnega potrdila v bazi SISBIZ s
+podatki pooblaščene osebe Člana in kasneje to uporabi pri preverjanju
+digitalnega potrdila ter upravičenosti dostopa do sistema SISBIZ; vsakokratno
+preverjanje veljavnosti samega digitalnega potrdila gre prek CRL list).
+(5) Kvalificirana digitalna potrdila morajo biti shranjena na
+varni lokaciji (pametnem ključku ali pametni kartici, oziroma v primeru uporabe
+strežniškega potrdila, na varovanem strežniku). Ob dostopu do sistema SISBIZ
+mora biti kvalificirano digitalno potrdilo dosegljivo, da lahko Upravljavec
+oziroma sistem SISBIZ opravi identifikacijo dostopajočega.
+(6) Dostop do podatkov je dovoljen le pooblaščenim osebam pri
+Upravljavcu in Članu, ki se za delo s SISBIZ prijavljajo v sistem z uporabo
+digitalnega potrdila.
+(7) Vsak dostop do podatkov s strani pooblaščene osebe pri
+Upravljavcu in Članu se beleži in nadzoruje z verodostojno in celovito
+revizijsko sledjo, ki se hrani za obdobje šestih let na način, ki omogoča
+poznejše ugotavljanje časa vnosa podatkov v zbirko zaupnih podatkov, namen
+uporabe ali druge obdelave, vključno z vpogledi, in kdo je to storil.
+IV. POOBLASTILA IN NALOGE ZNOTRAJ SISTEMA SISBIZ
+6. člen
+Pri Upravljavcu deluje Generalni skrbnik, ki na predlog Člana
+dodeljuje, spreminja ali odvzema pravice (pooblastila) Generalnemu skrbniku in
+njegovemu namestniku posameznega Člana, ta pa podeljuje, spreminja ali odvzema
+pooblastila za delo na SISBIZ svojim sodelavcem – pooblaščenim osebam pri
+Članu. Vključitev, izbris ali popravek podatkov o generalnih skrbnikih in
+njihovih namestnikov pri posameznem Članu opravi Upravljavec na osnovi pisne
+zahteve posameznega Člana.
+7. člen
+Pri Upravljavcu so pooblastila in naloge porazdeljene med
+Generalnega skrbnika in Informatorja.
+1.     
+Generalni skrbnik:
+- 
+izvaja vse potrebne postopke za vključevanje Članov v sistem SISBIZ,
+- 
+izvaja tehnični postopek začasnega izklopa Člana, ki krši določila
+Pogodbe o uporabi SISBIZ ali določila teh pravil,
+- 
+v postopku reševanja pritožbe izvaja poizvedbe v podatke o poslovnem
+subjektu,
+- 
+na predlog Člana dodeljuje ali odvzema pravice generalnemu skrbniku in
+njegovemu namestniku pri posameznem Članu,
+- 
+ima vpogled v seznam generalnih skrbnikov in njihovih namestnikov ter
+ažurira listo preklica Generalnih skrbnikov in njihovih namestnikov posameznega
+Člana,
+- 
+pri oblikovanju novih vsebinskih zahtev ali predlogov za spremembe in
+nadgradnje aplikacije SISBIZ koordinira delo s Člani,
+- 
+pripravlja statistike in poročila,
+- 
+sodeluje pri reševanju pritožb v zvezi s pravicami poslovnih subjektov,
+ki izhajajo iz ZCKR.
+2.     
+Informator:
+- 
+izvaja poizvedbe o poslovnem subjektu.
+8. člen
+Pri Članu so pooblastila in naloge porazdeljene med
+Generalnega skrbnika in njegovega namestnika, Pooblaščeno osebo z večjimi
+pooblastili, Pooblaščeno osebo za urejanje pooblastil, Pooblaščeno osebo –
+informatorja, Pooblaščeno osebo za urejanje reklamacij.
+1.     
+Generalni skrbnik in namestnik:
+- 
+dodeljuje, spreminja ali odvzema pooblastila in kvalificirana digitalna
+potrdila vsem pooblaščenim osebam znotraj Člana,
+- 
+izvaja poizvedbe v podatke o poslovnem subjektu,
+- 
+izvaja paketni izvoz podatkov o zadolženosti poslovnih subjektov,
+- 
+vnaša, ažurira in pregleduje pritožbe v zvezi s pravicami poslovnih
+subjektov, ki izhajajo iz ZCKR,
+- 
+ima dostop do statističnih podatkov,
+- 
+ima dostop do vseh menijskih operacij za vsa ostala pooblastila pri
+Članu.
+2.     
+Pooblaščena oseba z večjimi pooblastili:
+- 
+izvaja poizvedbe v podatke o poslovnem subjektu,
+- 
+izvaja paketni izvoz podatkov o zadolženosti poslovnih subjektov,
+- 
+vnaša, ažurira in pregleduje pritožbe komitentov.
+3.     
+Pooblaščena oseba za urejanje pooblastil:
+- 
+dodeljuje, spreminja ali odvzema pooblastila in kvalificirana digitalna
+potrdila vsem ostalim pooblaščenim osebam Člana (razen nivoja generalni skrbnik
+pri Članu SISBIZ).
+4.     
+Pooblaščena oseba – informator:
+- 
+izvaja poizvedbe v podatke o poslovnem subjektu.
+5.     
+Pooblaščena oseba za urejanje reklamacij:
+- 
+vnaša, ažurira in pregleduje pritožbe v zvezi s pravicami poslovnih
+subjektov, ki izhajajo iz ZCKR.
+V. PODATKI V SISTEMU SISBIZ
+9. člen
+(1) V sistemu SISBIZ se zbirajo podatki in informacije, ki
+jih v skladu z ZCKR predpiše Upravljavec s Sklepom o vsebini podatkov in
+informacij v centralnem kreditnem registru in sistemu izmenjave informacij o
+zadolženosti poslovnih subjektov. Poleg teh podatkov Člani sporočajo
+Upravljavcu še podatke o generalnih skrbnikih in njihovih namestnikih pri
+Članih.
+(2) V sistem SISBIZ se vključujejo podatki in informacije iz
+centralnega kreditnega registra, ki deluje pri Upravljavcu v skladu z ZCKR,
+vanj pa jih posredujejo Člani na podlagi standardiziranega poročanja, ki ga
+predpiše Upravljavec.
+(3) Člani so odgovorni za pravilnost podatkov in informacij,
+ki jih posredujejo za namen centralnega kreditnega registra pri Upravljavcu.
+(4) Izbris podatkov zaradi izpolnitve obveznosti se opravi
+avtomatično po poteku rokov za hranjenje podatkov, v skladu z ZCKR.
+VI. VPOGLED V PODATKE SISBIZ
+10. člen
+(1) Vpogled v podatke o zadolženosti posameznega poslovnega
+subjekta v SISBIZ lahko opravijo le pooblaščene osebe Člana (prek spletne
+aplikacije Info SISBIZ) za namen:
+-       
+cene kreditne sposobnosti kreditojemalca,
+-       
+ocene kreditnega tveganja, ki bi s sklenitvijo posameznega kreditnega
+posla nastalo za Člana ali je nastalo v zvezi z izvajanjem kreditnega posla,
+-       
+izterjave zapadlih obveznosti,
+-       
+reševanja reklamacije poslovnega subjekta,
+-       
+revizije,
+-       
+posodabljanja podatkov, ki se vključujejo v sistem izmenjave informacij.
+Vpogled v SISBIZ Člani opravijo posamično za vsak poslovni
+subjekt posebej. Posamezen vpogled se Članu obračuna v skladu z vsakokrat
+veljavno Tarifo sistema izmenjave informacij.
+(2) Generalni skrbnik Člana lahko za namen ocene kreditnega
+tveganja (upravljanje s kreditnim tveganjem) v zvezi z izvajanjem obstoječih
+kreditnih poslov, iz sistema SISBIZ pridobi podatke o vseh njihovih komitentih
+– poslovnih subjektih in kreditnih poslih, ki se izmenjujejo v okviru sistema
+SISBIZ (v nadaljevanju: paketni izvoz podatkov). Paketni izvoz podatkov se
+Članu obračuna v skladu z vsakokrat veljavno Tarifo sistema izmenjave
+informacij.
+(3) Kakršnakoli uporaba SISBIZ ali zaupnih podatkov za namene
+ali v primerih, ki jih ZCKR in ta pravila SISBIZ ne predvidevajo, predstavlja
+kršitev, ki se sankcionira.
+(4) Vpogled v podatke Upravljavcu omogoča pridobitev
+informacije, kateri od Članov je podatke posredoval v sistem SISBIZ, Članom pa
+je ta informacija onemogočena.
+(5) Član mora podatke, ki jih je pridobil iz sistema SISBIZ,
+hraniti v nespremenjeni obliki ter mu je prepovedana kakršnakoli nadaljnja
+obdelava teh podatkov za namene, ki niso v skladu z ZCKR.
+VII. NADOMESTILA ZA UPORABO SISBIZ
+11. člen
+(1) Nadomestila za uporabo SISBIZ se določijo v vsakokrat
+veljavni Tarifi sistema izmenjave informacij (v nadaljevanju Tarifa). Tarifa
+določa tudi plačilne roke in ostale plačilne modalitete ter pogoje.
+(2) Upravljavec je upravičen zaračunavati Članom nadomestila
+iz vsakokrat veljavne Tarife.
+(3) Upravljavec pri sprejemanju Tarife upošteva načelo
+poštene in nediskriminatorne obravnave Članov. Višina nadomestila mora
+ustrezati dejanskim stroškom delovanja sistema in dostopanja do informacij.
+(4) Upravljavec istočasno s sprejemom Tarife ali njene
+spremembe določi datum učinkovanja te spremembe. Upravljavec bo vsakokratno
+spremembo Tarife objavil v Uradnem listu Republike Slovenije.
+VIII. PRAVICE POSLOVNIH SUBJEKTOV
+12. člen
+(1) Poslovni subjekt ima po ZCKR pravico do seznanitve z
+obdelavo lastnih zaupnih podatkov v sistemu izmenjave SISBIZ, vključno s
+podatki o tem, kateri Član jih je v sistem posredoval in komu so bili
+posredovani na vpogled.
+(2) Poslovnemu subjektu je izvajanje pravice iz prejšnjega
+odstavka omogočeno prek spletne aplikacije Moj SISBIZ, ki mu omogoča vpogled in
+izpis podatkov, ki se o njem izmenjujejo v SISBIZ.
+(3) Uporaba spletne aplikacije Moj SISBIZ je omogočena le
+registriranim uporabnikom pri poslovnem subjektu.
+(4) Poslovni subjekt registrira uporabnika za spletno
+aplikacijo Moj SISBIZ tako, da preko spletne aplikacije Upravljavca za prijavo
+digitalnih potrdil registrira kvalificirano digitalno potrdilo uporabnika, ki
+je v njegovi organizaciji pooblaščen za dostop do Moj SISBIZ in posreduje
+natisnjen obrazec o prijavljenem kvalificiranem digitalnem potrdilu uporabnika
+po pošti na naslov Upravljavca. Uporabnik po prejemu e-obvestila o izvedeni
+odobritvi kvalificiranega digitalnega potrdila vstopi v aplikacijo Moj SISBIZ
+in naroči predračun za želeno obdobje dostopa ter ga plača v skladu z vsakokrat
+veljavno Tarifo. Za en poslovni subjekt je lahko prijavljenih več uporabnikov.
+(5) Upravljavec omogoči registriranemu uporabniku poslovnega
+subjekta dostop do lastnih podatkov v sistemu izmenjave informacij o
+zadolženosti poslovnih subjektov v aplikaciji Moj SISBIZ najkasneje v roku treh
+delovnih dni po prejemu plačila predračuna.
+(6) Poslovni subjekt lahko pooblasti tretjo osebo, da se s
+kvalificiranim digitalnim potrdilom poslovnega subjekta v njegovem imenu prek
+elektronskega sistema za izmenjavo informacij o zadolženosti poslovnih
+subjektov SISBIZ seznani z obdelavo zaupnih podatkov v aplikaciji Moj SISBIZ,
+vključno s podatki o tem, kateri Član sistema je v sistem posredoval in komu so
+bili posredovani na vpogled. Upravljavec bo pooblaščenemu uporabniku poslovnega
+subjekta omogočil dostop do aplikacije Moj SISBIZ na podlagi pisnega
+pooblastila (Priloga 2 teh pravil). Obrazec je dosegljiv tudi na spletni strani
+SISBIZ. Podpis na pooblastilu mora biti overjen pri upravni enoti ali notarju.
+13. člen
+(1) Če poslovni subjekt posameznim podatkom, ki se o njem
+izmenjujejo prek sistema SISBIZ, utemeljeno nasprotuje, lahko zahteva njihov
+izbris, spremembo ali popravek pri Upravljavcu ali pri Članu, ki je poročal
+sporne podatke. Pravico iz prejšnjega stavka poslovni subjekt uveljavlja prek
+spletne aplikacije Moj SISBIZ, ki mu je na voljo pod pogoji in na način, ki so
+opredeljeni v tretjem, četrtem, petem in šestem odstavku 12. člena teh pravil.
+Poslovni subjekt, ki nima možnosti dostopa do spleta ali ne razpolaga s
+kvalificiranim digitalnim potrdilom, lahko pravico iz tega odstavka uveljavlja
+pisno pri Upravljavcu ali Članu na obrazcu »Zahteva poslovnega subjekta za
+popravek podatkov v sistemu izmenjave informacij o zadolženosti poslovnih
+subjektov (SISBIZ)«, ki je v Prilogi 1 teh pravil.
+(2) Član sistema najkasneje v dvajsetih delovnih dneh od
+prejema zahteve iz prejšnjega odstavka poslovni subjekt obvesti, ali je zahteva
+utemeljena, na način, ki ga poslovni subjekt opredeli v zahtevi. V primeru
+utemeljene zahteve je Član dolžan podatke izbrisati, dopolniti ali popraviti v
+roku petih delovnih dni po poteku roka iz prejšnjega stavka.
+(3) V primeru, da poslovni subjekt zahtevo odda pri
+Upravljavcu, ta pa jo v nadaljnje reševanje posreduje Članu, jo je ta dolžan
+obravnavati na način in v rokih, opredeljenih v drugem odstavku tega člena. Z odgovorom,
+ki ga Član posreduje poslovnemu subjektu, je dolžan seznaniti tudi Upravljavca.
+(4) Če se vsebina zahteve poslovnega subjekta nanaša na
+podatke, ki so v SISBIZ prikazani kot rezultat izračuna različnih podatkov,
+lahko Upravljavec poslovnemu subjektu posreduje informacije, ki so bile
+uporabljene v izračunu na nivoju posameznega Člana.
+14. člen
+(1) Upravljavec poslovne subjekte o njihovih pravicah iz tega
+poglavja primerno obvesti, npr. z ustreznimi objavami na svojih spletnih
+straneh.
+(2) Člani seznanjajo poslovne subjekte o pravicah iz tega
+poglavja in o vsebini ter namenu SISBIZ prek informativne zloženke, ki jo
+pripravi Upravljavec in prek svojih spletnih strani. Član je dolžan imeti
+zloženke na vidnem mestu v prostorih, kjer posluje s poslovnimi subjekti.
+IX. UKREPI ZA ZAVAROVANJE ZAUPNIH PODATKOV IN VZPOSTAVITEV
+EVIDENCE DEJAVNOSTI OBDELAVE OSEBNIH PODATKOV
+15. člen
+(1) Člani in Upravljavec so dolžni zagotoviti zavarovanje
+zaupnih podatkov, ki se o poslovnih subjektih izmenjujejo v sistemu SISBIZ, in
+v svojih aktih predpisati postopke in ukrepe za zavarovanje zaupnih podatkov.
+Določiti morajo osebe, ki lahko zaradi narave njihovega dela obdelujejo
+določene zaupne podatke.
+(2) Zavarovanje zaupnih podatkov obsega organizacijske,
+tehnične in logično-tehnične postopke in ukrepe, s katerimi se varujejo zaupni
+podatki, preprečuje slučajno ali namerno nepooblaščeno uničevanje podatkov,
+njihova sprememba ali izguba ter nepooblaščena obdelava teh podatkov tako, da
+se:
+-       
+varujejo prostori, oprema in sistemsko programska oprema, vključno z
+vhodno-izhodnimi enotami;
+-       
+varuje aplikativna programska oprema, s katero se obdelujejo zaupni
+podatki;
+-       
+preprečuje nepooblaščen dostop do zaupnih podatkov pri njihovem prenosu,
+vključno s prenosom po telekomunikacijskih sredstvih in omrežjih;
+-       
+zagotavlja učinkovit način blokiranja, uničenja, izbrisa ali
+anonimiziranja zaupnih podatkov;
+-       
+omogoča poznejše ugotavljanje, kdaj so bili posamezni zaupni podatki
+vneseni v zbirke podatkov, uporabljeni ali drugače obdelani in kdo je to storil.
+(3) Če poslovni subjekt upravičeno domneva, da Član ne
+izpolnjuje ukrepov za zavarovanje zaupnih podatkov, lahko o domnevni kršitvi
+obvesti nadzorni organ, ki je v skladu z ZCKR Banka Slovenije.
+(4) Dolžnost varovanja zaupnih podatkov velja tudi po prenehanju
+delovnega razmerja ali drugega pogodbenega razmerja s Članom.
+16. člen
+Član in Upravljavec sta dolžna vzpostaviti evidenco
+dejavnosti obdelave osebnih podatkov za tisti del osebnih podatkov (o
+generalnih skrbnikih oziroma pooblaščenih osebah pri Članu), ki sta jih oziroma
+jih bosta vnesla v SISBIZ.
+X. CELOSTNA PODOBA
+17. člen
+Člani so dolžni v tistem delu svojega poslovanja s poslovnimi
+subjekti, ki je neposredno povezano z uveljavljanjem pravic in obveznosti iz
+naslova delovanja SISBIZ, uporabljati znak SISBIZ na način, kot jim ga ob
+vsakokratni spremembi sporoči Upravljavec.
+XI. MEDNARODNA IZMENJAVA PODATKOV
+18. člen
+Upravljavec lahko pristopi k mednarodnemu dogovoru o
+izmenjavi podatkov v skladu z določbami 25. člena ZCKR.
+XII. KONČNE DOLOČBE
+19. člen
+Sestavni del pravil sta naslednji prilogi:
+-       
+Priloga 1: Zahteva poslovnega subjekta za popravek podatkov v sistemu
+izmenjave informacij o zadolženosti poslovnih subjektov (SISBIZ)
+-       
+Priloga 2: Pooblastilo tretje osebe za vpogled v Moj SISBIZ
+20. člen
+Ta pravila se objavijo v Uradnem listu Republike Slovenije in
+začnejo veljati 19. oktobra 2018.
+Z dnem, ko začnejo veljati ta
+pravila, prenehajo veljati Pravila sistema izmenjave informacij o zadolženosti
+poslovnih subjektov – SISBIZ (Uradni list RS, št. 72/17).
+Ljubljana, dne 2. oktobra 2018
+dr. Primož Dolenc l.r.
+namestnik predsednika 
+Sveta Banke Slovenije
+
+Priloga
+1: Zahteva poslovnega subjekta za popravek podatkov v sistemu izmenjave informacij
+o zadolženosti poslovnih subjektov (SISBIZ)
+Priloga
+2: Pooblastilo tretje osebe za vpogled v Moj SISBIZ

@@ -1,0 +1,188 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+Ta pravilnik podrobneje določa vsebino informacijskega
+sistema za vodenje obnov, nadgradenj in investicij v javno železniško
+infrastrukturo, vodenja, uporabe in vzdrževanja.
+2. člen
+(pomen izrazov)
+Posamezni izrazi, ki se uporabljajo v tem pravilniku, imajo
+naslednji pomen: 
+-       
+aplikativni sistem je sklop računalniških aplikacij, podatkovnih baz in
+sistemov za prenos podatkov, ki služijo podpori upravljavskim procesom ob
+uporabi sodobne informacijsko telekomunikacijske tehnologije; 
+-       
+medopravilnost je možnost povezovanja podatkovnih baz in vzajemnega
+delovanja storitev brez ponavljajočih se ročnih posegov na način, ki da skladen
+rezultat in poveča dodano vrednost podatkovnih baz in storitev; 
+-       
+posredovanje podatkov (prevzemanje podatkov) je prenos digitalnih
+podatkov na elektronskem mediju s stalnim dostopom do podatkov preko omrežnih
+storitev; 
+-       
+tehnična pravila so prikaz podrobne tehnične oblike podatkov oziroma
+postopkov, kot so logični in fizični model podatkovne baze, klasifikacijske
+sheme, pravila za identifikatorje, podrobnosti časovnih opredelitev in podobno;
+-       
+upravljavec informacijskega sistema je subjekt, ki izvaja naloge
+vzpostavitve, vodenja in vzdrževanja informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo; 
+-       
+upravljavec podatkovne baze je subjekt, ki vzpostavi in vzdržuje
+posamezno podatkovno bazo, ki se uporablja v okviru informacijskega sistema za
+vodenje obnov, nadgradenj in investicij v javno železniško infrastrukturo; 
+-       
+neformalna digitalna oblika akta ali drugega dokumenta je prikaz
+besedila ter slik v obliki, ki ne omogoča bistvenega nadaljnjega procesiranja
+in jih je mogoče izpisati in/ali izrisati na papir brez ročnega dodelovanja v
+identični vsebini in obliki, kot jo ima analogna oblika pravno veljavnega akta,
+in sicer z običajnimi računalniškimi orodji in napravami, praviloma z uporabo
+odprtih standardov. Smiselno enako velja tudi za prikaz in pregledovanje
+neformalne digitalne oblike akta na zaslonu računalnika.
+3. člen
+(namen informacijskega sistema)
+Informacijski sistem za vodenje obnov, nadgradenj in
+investicij v javno železniško infrastrukturo se vzpostavi in vzdržuje za
+opravljanje in spremljanje nalog subjektov, ki izvajajo dejavnost vodenja
+obnov, dejavnost nadgradenj in dejavnost investicij v javno železniško
+infrastrukturo, za potrebe spremljanja stanja obnov, nadgradenj in investicij,
+za izvajanje nadzora ter za omogočanje neposrednega vpogleda Ministrstvu za
+promet v informacijski sistem pri posameznem subjektu.
+II. VSEBINA INFORMACIJSKEGA SISTEMA
+4. člen
+(vsebina)
+Informacijski sistem za vodenje obnov, nadgradenj in
+investicij v javno železniško infrastrukturo vsebuje naslednje podatke o: 
+-       
+pravni podlagi, 
+-       
+investicijski dokumentaciji, 
+-       
+okoljski dokumentaciji, 
+-       
+strokovnih podlagah za Državni prostorski načrt, 
+-       
+Državnem prostorskem načrtu, 
+-       
+projektni dokumentaciji za gradnjo, 
+-       
+upravnih aktih, ki se nanašajo na gradnje in pridobivanje zemljišč, 
+-       
+javnem naročilu, 
+-       
+odkupu zemljišč, 
+-       
+pogodbah in 
+-       
+izvajanju posamezne dejavnosti.
+5. člen
+(ažuriranje podatkov)
+Vsi podatki o poteku gradnje, ki se vodijo v gradbenem
+dnevniku, morajo biti vneseni v informacijski sistem v roku desetih delovnih
+dni od vpisa v gradbeni dnevnik. V sistem se vnašajo podatki iz gradbenega
+dnevnika, ki so podpisani s strani odgovorne osebe izvajalca del in nadzornega
+organa.
+6. člen
+(osnovne funkcije informacijskega sistema)
+Osnovne funkcije informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo morajo zagotavljati
+orodja, ki omogočajo pripravo in spremljanje izvajanja obnov, nadgradenj in
+investicij v elektronski obliki, in sicer: 
+-       
+dostop do podatkov glede na dovoljenja uporabnika in zaščito podatkov, 
+-       
+pregledovanje z možnostjo filtriranja podatkov, 
+-       
+iskanje zapisov na osnovi določenih vrednosti, 
+-       
+možnost spreminjanja podatkov (vnos, popravljanje, brisanje) z
+ustreznimi kontrolami, 
+-       
+vodenje zgodovine sprememb, 
+-       
+pregledovanje in popravljanje šifrantov, 
+-       
+analiziranje podatkov, izdelavo poročil, 
+-       
+pomoč, 
+-       
+možnost prenosa baze podatkov v drugo okolje.
+III. VZDRŽEVANJE IN UPORABA INFORMACIJSKEGA SISTEMA
+7. člen
+(vzdrževanje)
+Vzdrževanje informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo pomeni predvsem: 
+-       
+prevzemanje podatkov od upravljavcev podatkovnih baz, kjer se podatki
+izvirno vzdržujejo, 
+-       
+predelava podatkov v obliko, primerno za uporabo v postopkih spremljanja
+in nadzora nad izvajanjem investicij ter izdelavo poročil, 
+-       
+avtomatiziran prenos podatkov ob vodenju upravnih postopkov, ki se
+nanašajo na gradnje, 
+-       
+razvoj inovativnih metod in orodij spremljanja investicij in 
+-       
+objavljanje priporočil in spletnih povezav.
+8. člen
+(upravljavci)
+(1) Vzpostavitev, vodenje in uporabo informacijskega sistema
+za vodenje obnov, nadgradenj in investicij v javno železniško infrastrukturo
+vodijo in koordinirajo upravljavci informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo. 
+(2) Upravljavci informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo opravljajo naslednje
+naloge: 
+-       
+pripravljajo strokovne, postopkovne in tehnične rešitve za vzpostavitev
+informacijskega sistema za vodenje obnov, nadgradenj in investicij v javno
+železniško infrastrukturo, 
+-       
+vzpostavijo, vzdržujejo, razvijajo ter spremljajo delovanje
+informacijskega sistema za vodenje obnov, nadgradenj in investicij v javno
+železniško infrastrukturo, 
+-       
+vodijo pripravo analiz, projekcij in simulacij za potrebe prikaza stanja
+obnov, nadgradenj in investicij v javno železniško infrastrukturo.
+9. člen
+(uporaba)
+(1) Uporaba informacijskega sistema za vodenje obnov, nadgradenj
+in investicij v javno železniško infrastrukturo pomeni predvsem: 
+-       
+prevzemanje podatkov, ki se iz informacijskega sistema za vodenje obnov,
+nadgradenj in investicij v javno železniško infrastrukturo posredujejo
+Ministrstvu za promet, 
+-       
+uporaba osnovnih omrežnih storitev, kot so storitve dostopa, iskanja,
+pregledovanja, prenosa, preoblikovanja podatkov informacijskega sistema za
+vodenje obnov, nadgradenj in investicij v javno železniško infrastrukturo, 
+-       
+uporaba kompleksnih omrežnih in drugih storitev, kot je uporaba orodij,
+ki omogočajo pripravo in spremljanje izvajanja obnov, nadgradenj in investicij
+v elektronski obliki in 
+-       
+uporaba grafičnega in tekstualnega dela prikaza stanja obnov, nadgradenj
+in investicij. 
+(2) Podatki in storitve informacijskega sistema iz prejšnjega
+odstavka so prosto dostopni Ministrstvu za promet. 
+(3) Podatki in storitve iz prvega odstavka tega člena
+Ministrstvo za promet prosto uporablja, razen v delih, ki so omejeni z
+avtorskimi in sorodnimi pravicami ter drugimi pravicami pravnih ali fizičnih
+oseb.
+IV. PREHODNE IN KONČNE DOLOČBE
+10. člen
+(vzpostavitev informacijskega sistema)
+Informacijski sistem za vodenje obnov, nadgradenj in
+investicij v javno železniško infrastrukturo se vzpostavi do 11. januarja 2013.
+11. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 007-142/2011
+Ljubljana, dne 7. decembra 2011
+EVA 2011-2411-0077
+dr. Patrick Vlačič l.r.
+Minister
+za promet

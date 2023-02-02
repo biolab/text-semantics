@@ -1,0 +1,13 @@
+Text file: RESO122.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO122
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o Programu varstva in razvoja Parka \u0160kocjanske jame za obdobje\
+  \ 2019\u20132023 (RePVRP\u0160J19\u201323)"
+npbNum: 0
+path: /2019/02/2019-01-0246
+sopPredpisa: 2019-01-0246
+sopPredpisaChng: null

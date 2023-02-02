@@ -1,0 +1,12 @@
+Text file: ODLO2655.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ODLO2655
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o razpisu rednih volitev v dr\u017Eavni zbor"
+npbNum: 0
+path: /2022/02/2022-01-0295
+sopPredpisa: 2022-01-0295
+sopPredpisaChng: null

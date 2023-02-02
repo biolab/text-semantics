@@ -1,0 +1,16 @@
+Text file: AKT_1038.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1522533600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1038
+idPredpisaChng: null
+instock: .nan
+naslov: "SPLO\u0160NI AKT o cestninjenju"
+npbNum: 0
+path: /2018/06/2018-01-0653
+sopPredpisa: 2018-01-0653
+sopPredpisaChng: null

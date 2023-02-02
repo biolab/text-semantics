@@ -1,0 +1,16 @@
+Text file: ODRE1500.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 975538800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1500
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o hitrosti gibanja traku pri podzemnem pridobivanju premoga
+npbNum: 0
+path: /2000/43/2000-01-4359
+sopPredpisa: 2000-01-4359
+sopPredpisaChng: null

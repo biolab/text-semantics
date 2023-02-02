@@ -1,0 +1,20 @@
+Text file: PRAV14732.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1672527600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1654898400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14732
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o strokovnem izpitu za strokovne sodelavce na podro\u010Dju socialnega\
+  \ varstva"
+npbNum: 0
+path: /2022/17/2022-01-1711
+sopPredpisa: 2022-01-1711
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: URED4128.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1445637600000000000
+- null
+- null
+- 10
+idPredpisa: URED4128
+idPredpisaChng: URED4128
+instock: .nan
+naslov: "UREDBA o vodovarstvenem obmo\u010Dju za vodno telo vodonosnika Selni\u0161\
+  ka dobrava (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2015/31/2015-01-3138-2006-01-3097-npb3
+sopPredpisa: 2015-01-3138
+sopPredpisaChng: 2006-01-3097

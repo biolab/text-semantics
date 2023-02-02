@@ -1,0 +1,20 @@
+Text file: PRAV9632.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230764400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230332400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9632
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga (kalo, razsip, razbitje,\
+  \ okvara)"
+npbNum: 0
+path: /2008/52/2008-01-5242
+sopPredpisa: 2008-01-5242
+sopPredpisaChng: null

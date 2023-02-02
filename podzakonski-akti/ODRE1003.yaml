@@ -1,0 +1,17 @@
+Text file: ODRE1003.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 959983200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1003
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
+  \ izobrazbe \u2013 Lesarstvo"
+npbNum: 0
+path: /2000/23/2000-01-2320
+sopPredpisa: 2000-01-2320
+sopPredpisaChng: null

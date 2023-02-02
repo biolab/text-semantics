@@ -1,0 +1,17 @@
+Text file: PRAV11584.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1505772000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11584
+idPredpisaChng: PRAV11584
+instock: .nan
+naslov: "PRAVILNIK o nacionalnem preverjanju znanja v osnovni \u0161oli (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/23/2017-01-2337-2013-01-1131-npb1
+sopPredpisa: 2017-01-2337
+sopPredpisaChng: 2013-01-1131

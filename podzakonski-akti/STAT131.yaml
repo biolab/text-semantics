@@ -1,0 +1,17 @@
+Text file: STAT131.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1341007200000000000
+- null
+- null
+- 10
+idPredpisa: STAT131
+idPredpisaChng: STAT131
+instock: .nan
+naslov: "STATUT Zavoda Republike Slovenije za zaposlovanje (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2012/20/2012-01-2073-2008-01-1369-npb2
+sopPredpisa: 2012-01-2073
+sopPredpisaChng: 2008-01-1369

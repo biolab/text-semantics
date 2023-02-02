@@ -1,0 +1,16 @@
+Text file: PRAV10017.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1276898400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10017
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161ih podatkih registra pla\u010Dilnih pravic"
+npbNum: 0
+path: /2010/22/2010-01-2234
+sopPredpisa: 2010-01-2234
+sopPredpisaChng: null

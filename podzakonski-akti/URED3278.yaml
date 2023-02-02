@@ -1,0 +1,16 @@
+Text file: URED3278.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1183413600000000000
+- null
+- null
+- 10
+idPredpisa: URED3278
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o zemeljski oskrbi na letali\u0161\u010Dih"
+npbNum: 0
+path: /2007/28/2007-01-2891
+sopPredpisa: 2007-01-2891
+sopPredpisaChng: null

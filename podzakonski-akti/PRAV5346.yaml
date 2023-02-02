@@ -1,0 +1,17 @@
+Text file: PRAV5346.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1068850800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5346
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Vurberg-Duplek\
+  \ (2000\u20132009)"
+npbNum: 0
+path: /2003/48/2003-01-4899
+sopPredpisa: 2003-01-4899
+sopPredpisaChng: null

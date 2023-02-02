@@ -1,0 +1,17 @@
+Text file: URED8258.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1659132000000000000
+- null
+- null
+- 10
+idPredpisa: URED8258
+idPredpisaChng: URED8258
+instock: .nan
+naslov: "UREDBA o dolo\u010Ditvi dogodkov, ob katerih se v letu 2022 izdajo prilo\u017E\
+  nostni kovanci (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2022/25/2022-01-2595-2021-01-0640-npb2
+sopPredpisa: 2022-01-2595
+sopPredpisaChng: 2021-01-0640

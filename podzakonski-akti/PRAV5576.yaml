@@ -1,0 +1,16 @@
+Text file: PRAV5576.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1096149600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5576
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prepovedi pribli\u017Eevanja dolo\u010Denemu kraju oziroma osebi"
+npbNum: 0
+path: /2004/42/2004-01-4211
+sopPredpisa: 2004-01-4211
+sopPredpisaChng: null

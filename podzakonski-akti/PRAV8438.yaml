@@ -1,0 +1,17 @@
+Text file: PRAV8438.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199487600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8438
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ljutomer\
+  \ (2006\u20132015)"
+npbNum: 0
+path: /2008/00/2008-01-0011
+sopPredpisa: 2008-01-0011
+sopPredpisaChng: null

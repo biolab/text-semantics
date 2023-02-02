@@ -1,0 +1,17 @@
+Text file: PRAV9911.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1292972400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9911
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obrazcu informativnega izra\u010Duna dohodnine in obrazcu napovedi\
+  \ za odmero dohodnine za leto 2010"
+npbNum: 0
+path: /2010/53/2010-01-5305
+sopPredpisa: 2010-01-5305
+sopPredpisaChng: null

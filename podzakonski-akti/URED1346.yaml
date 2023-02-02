@@ -1,0 +1,18 @@
+Text file: URED1346.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356994800000000000
+- null
+- null
+- 10
+idPredpisa: URED1346
+idPredpisaChng: URED1346
+instock: .nan
+naslov: "UREDBA o podrobnej\u0161ih pogojih, ki jih mora izpolnjevati prireditelj\
+  \ pri trajnem prirejanju klasi\u010Dnih iger na sre\u010Do (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2012/43/2012-01-4359-2000-01-3340-npb2
+sopPredpisa: 2012-01-4359
+sopPredpisaChng: 2000-01-3340

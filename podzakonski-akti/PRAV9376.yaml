@@ -1,0 +1,17 @@
+Text file: PRAV9376.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1371592800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9376
+idPredpisaChng: PRAV9376
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za prepre\u010Devanje vnosa in \u0161irjenja borove ogor\u010D\
+  ice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2013/18/2013-01-1860-2009-01-2241-npb1
+sopPredpisa: 2013-01-1860
+sopPredpisaChng: 2009-01-2241

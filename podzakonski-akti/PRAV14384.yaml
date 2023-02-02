@@ -1,0 +1,16 @@
+Text file: PRAV14384.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1629756000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14384
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Danju cen subvencioniranega prevoza"
+npbNum: 0
+path: /2021/27/2021-01-2762
+sopPredpisa: 2021-01-2762
+sopPredpisaChng: null

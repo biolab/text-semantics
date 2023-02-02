@@ -1,0 +1,17 @@
+Text file: URED1009.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 870472800000000000
+- null
+- null
+- 10
+idPredpisa: URED1009
+idPredpisaChng: URED1009
+instock: .nan
+naslov: "UREDBA o izdaji, razdelitvi in uporabi lastni\u0161kih certifikatov (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
+npbNum: 7
+path: /1997/25/1997-01-2567-1993-01-1664-npb7
+sopPredpisa: 1997-01-2567
+sopPredpisaChng: 1993-01-1664

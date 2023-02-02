@@ -1,0 +1,12 @@
+Text file: SKLE12622.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12622
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dlana Fiskalnega sveta"
+npbNum: 0
+path: /2021/39/2021-01-3980
+sopPredpisa: 2021-01-3980
+sopPredpisaChng: null

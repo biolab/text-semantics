@@ -1,0 +1,16 @@
+Text file: NACP24.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 953247600000000000
+- null
+- null
+- 10
+idPredpisa: NACP24
+idPredpisaChng: null
+instock: .nan
+naslov: "NACIONALNI PROGRAM \u0161porta v Republiki Sloveniji (NPS)"
+npbNum: 0
+path: /2000/10/2000-01-1065
+sopPredpisa: 2000-01-1065
+sopPredpisaChng: null

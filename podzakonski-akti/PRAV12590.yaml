@@ -1,0 +1,19 @@
+Text file: PRAV12590.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1452898800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12590
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obrazcu zdravni\u0161kega potrdila o bolni\u0161ni\u010Dnem zdravljenju\
+  \ za namen vlo\u017Eitve pro\u0161nje za odlog nastopa kazni zapora in obrazcu zdravni\u0161\
+  kega potrdila za namen vlo\u017Eitve pro\u0161nje za prekinitev oziroma podalj\u0161\
+  anje prekinitve izvr\u0161evanja kazni zapora"
+npbNum: 0
+path: /2016/00/2016-01-0095
+sopPredpisa: 2016-01-0095
+sopPredpisaChng: null

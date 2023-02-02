@@ -1,0 +1,17 @@
+Text file: PRAV14750.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1656626400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14750
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o zagotavljanju izvajanja podalj\u0161\
+  ane obravnave osebam, ki so prebolele oku\u017Ebo z virusom SARS-CoV-2"
+npbNum: 0
+path: /2022/21/2022-01-2105
+sopPredpisa: 2022-01-2105
+sopPredpisaChng: null

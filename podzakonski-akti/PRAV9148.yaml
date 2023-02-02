@@ -1,0 +1,16 @@
+Text file: PRAV9148.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1250632800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9148
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o za\u0161\u010Diti \u017Eivali med prevozom"
+npbNum: 0
+path: /2009/29/2009-01-2961
+sopPredpisa: 2009-01-2961
+sopPredpisaChng: null

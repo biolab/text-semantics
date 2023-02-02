@@ -1,0 +1,17 @@
+Text file: PRAV12755.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1600466400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12755
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o enotnih tehnolo\u0161kih zahtevah za zajem in hrambo gradiva\
+  \ v digitalni obliki"
+npbNum: 0
+path: /2020/21/2020-01-2181
+sopPredpisa: 2020-01-2181
+sopPredpisaChng: null

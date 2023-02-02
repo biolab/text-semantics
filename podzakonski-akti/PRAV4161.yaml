@@ -1,0 +1,18 @@
+Text file: PRAV4161.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1070665200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4161
+idPredpisaChng: PRAV4161
+instock: .nan
+naslov: "PRAVILNIK o meroslovnih zahtevah za hladilne posode za mleko (bazenske hladilnike),\
+  \ mlekomere in merilne posode (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2003/49/2003-01-4985-2002-01-1150-npb1
+sopPredpisa: 2003-01-4985
+sopPredpisaChng: 2002-01-1150

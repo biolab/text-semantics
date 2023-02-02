@@ -1,0 +1,17 @@
+Text file: PRAV6709.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356735600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6709
+idPredpisaChng: PRAV6709
+instock: .nan
+naslov: "PRAVILNIK o vpisu v srednje \u0161ole (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 2)"
+npbNum: 2
+path: /2012/42/2012-01-4219-2006-01-0478-npb2
+sopPredpisa: 2012-01-4219
+sopPredpisaChng: 2006-01-0478

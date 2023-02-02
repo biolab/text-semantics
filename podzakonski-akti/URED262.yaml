@@ -1,0 +1,19 @@
+Text file: URED262.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 974502000000000000
+- null
+- null
+- 10
+idPredpisa: URED262
+idPredpisaChng: URED262
+instock: .nan
+naslov: "UREDBA o izvajanju Srednjeevropskega sporazuma o prosti trgovini (CEFTA)\
+  \ ter za\u010Dasni uporabi Dodatnega protokola \u0161t. 6 k CEFTA, Sporazuma o pristopu\
+  \ Romunije k CEFTA in Sporazuma o pristopu Republike Bolgarije k CEFTA (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2000/43/2000-01-4380-1999-01-4940-npb3
+sopPredpisa: 2000-01-4380
+sopPredpisaChng: 1999-01-4940

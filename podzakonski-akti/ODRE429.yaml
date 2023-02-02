@@ -1,0 +1,16 @@
+Text file: ODRE429.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 924213600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE429
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o obrazcu napovedi za odmero davka na promet nepremi\u010Dnin"
+npbNum: 0
+path: /1999/12/1999-01-1216
+sopPredpisa: 1999-01-1216
+sopPredpisaChng: null

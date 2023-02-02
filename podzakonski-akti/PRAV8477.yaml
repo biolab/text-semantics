@@ -1,0 +1,16 @@
+Text file: PRAV8477.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1194994800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8477
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o opravljanju strokovnega izpita za izvajalca elektroribolova
+npbNum: 0
+path: /2007/49/2007-01-4923
+sopPredpisa: 2007-01-4923
+sopPredpisaChng: null

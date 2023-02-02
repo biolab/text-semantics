@@ -1,0 +1,16 @@
+Text file: MERI20.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1095458400000000000
+- null
+- null
+- 10
+idPredpisa: MERI20
+idPredpisaChng: null
+instock: .nan
+naslov: "MERILA za akreditacijo visoko\u0161olskih zavodov in \u0161tudijskih programov"
+npbNum: 0
+path: /2004/43/2004-01-4355
+sopPredpisa: 2004-01-4355
+sopPredpisaChng: null

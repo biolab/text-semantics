@@ -1,0 +1,17 @@
+Text file: URED438.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 840837600000000000
+- null
+- null
+- 10
+idPredpisa: URED438
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o lokacijskem na\u010Drtu za avtocesto na odseku Diva\u010Da\u2013\
+  Kozina"
+npbNum: 0
+path: /1996/27/1996-01-2762
+sopPredpisa: 1996-01-2762
+sopPredpisaChng: null

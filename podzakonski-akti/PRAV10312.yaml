@@ -1,0 +1,17 @@
+Text file: PRAV10312.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1328050800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10312
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o metodologiji za dolo\u010Ditev potrebnih ukrepov in delitev stro\u0161\
+  kov zaradi prekomerne prometne obremenitve javnih cest s tovornimi vozili"
+npbNum: 0
+path: /2012/02/2012-01-0255
+sopPredpisa: 2012-01-0255
+sopPredpisaChng: null

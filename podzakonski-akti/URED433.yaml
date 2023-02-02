@@ -1,0 +1,18 @@
+Text file: URED433.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1397512800000000000
+- null
+- null
+- 10
+idPredpisa: URED433
+idPredpisaChng: URED433
+instock: .nan
+naslov: "UREDBA o lokacijskem na\u010Drtu za odsek avtoceste Slivnica\u2013Pesnica\
+  \ (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 5)"
+npbNum: 5
+path: /2014/08/2014-01-0831-1998-01-1816-npb5
+sopPredpisa: 2014-01-0831
+sopPredpisaChng: 1998-01-1816

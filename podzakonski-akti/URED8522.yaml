@@ -1,0 +1,16 @@
+Text file: URED8522.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1645743600000000000
+- null
+- null
+- 10
+idPredpisa: URED8522
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za graditev \u017Ei\u010Dni\u0161ke naprave Vitranc\_1"
+npbNum: 0
+path: /2022/04/2022-01-0459
+sopPredpisa: 2022-01-0459
+sopPredpisaChng: null

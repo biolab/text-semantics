@@ -1,0 +1,18 @@
+Text file: URED7069.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1619820000000000000
+- null
+- null
+- 10
+idPredpisa: URED7069
+idPredpisaChng: URED7069
+instock: .nan
+naslov: "UREDBA o koncesiji za rabo termalne vode za ogrevanje in potrebe kopali\u0161\
+  \u010Da \u2013 Zdravili\u0161\u010De Radenci iz\_vrtin T-4/88 in T-5/03 (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2021/14/2021-01-1405-2015-01-3428-npb2
+sopPredpisa: 2021-01-1405
+sopPredpisaChng: 2015-01-3428

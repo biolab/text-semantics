@@ -1,0 +1,18 @@
+Text file: SKLE5920.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1143154800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE5920
+idPredpisaChng: SKLE5920
+instock: .nan
+naslov: "SKLEP o usklajevanju poslovanja Slovenske izvozne dru\u017Ebe, d.d., Ljubljana\
+  \ s predpisi, ki urejajo poslovanje bank (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2006/12/2006-01-1241-2005-01-2630-npb1
+sopPredpisa: 2006-01-1241
+sopPredpisaChng: 2005-01-2630

@@ -1,0 +1,17 @@
+Text file: POSL6.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1050703200000000000
+- null
+- null
+- 10
+idPredpisa: POSL6
+idPredpisaChng: POSL6
+instock: .nan
+naslov: "POSLOVNIK o parlamentarni preiskavi (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2003/13/2003-01-1352-1993-01-2286-npb1
+sopPredpisa: 2003-01-1352
+sopPredpisaChng: 1993-01-2286

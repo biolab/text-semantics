@@ -1,0 +1,20 @@
+Text file: DEKL14.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1023400800000000000
+- null
+- null
+- 10
+idPredpisa: DEKL14
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO  o podpori resoluciji o vlogi parlamentov v podpori izvajanja\
+  \ resolucije 1397, ki jo je 12. marca 2002 sprejel varnostni svet zdru\u017Eenih\
+  \ narodov in zlasti odstavka, v katerem svet izra\u017Ea svojo zavezanost k \u201C\
+  viziji regije, kjer dve dr\u017Eavi, Izrael in Palestina, \u017Eivita druga ob drugi\
+  \ znotraj varnih in priznanih meja\u201C (DeReVSZN)"
+npbNum: 0
+path: /2002/24/2002-01-2449
+sopPredpisa: 2002-01-2449
+sopPredpisaChng: null

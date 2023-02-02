@@ -1,0 +1,17 @@
+Text file: PRAV9313.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230764400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9313
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o merilih za ugotavljanje dohodkov, prihrankov in premo\u017Eenja\
+  \ ob\u010Danov za prijavo v obvezno zdravstveno zavarovanje"
+npbNum: 0
+path: /2008/57/2008-01-5752
+sopPredpisa: 2008-01-5752
+sopPredpisaChng: null

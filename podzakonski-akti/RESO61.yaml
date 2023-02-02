@@ -1,0 +1,16 @@
+Text file: RESO61.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1270245600000000000
+- null
+- null
+- 10
+idPredpisa: RESO61
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO o strategiji nacionalne varnosti Republike Slovenije (ReSNV-1)
+npbNum: 0
+path: /2010/11/2010-01-1189
+sopPredpisa: 2010-01-1189
+sopPredpisaChng: null

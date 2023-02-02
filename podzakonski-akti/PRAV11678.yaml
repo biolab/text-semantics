@@ -1,0 +1,17 @@
+Text file: PRAV11678.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1599256800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11678
+idPredpisaChng: PRAV11678
+instock: .nan
+naslov: "PRAVILNIK o padalstvu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2020/21/2020-01-2139-2016-01-1368-npb1
+sopPredpisa: 2020-01-2139
+sopPredpisaChng: 2016-01-1368

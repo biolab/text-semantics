@@ -1,0 +1,17 @@
+Text file: PRAV10243.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1286575200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10243
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o merilih za preverjanje poro\u010Dila o emisijah toplogrednih\
+  \ plinov in pogojih, ki jih mora izpolnjevati preveritelj"
+npbNum: 0
+path: /2010/42/2010-01-4272
+sopPredpisa: 2010-01-4272
+sopPredpisaChng: null

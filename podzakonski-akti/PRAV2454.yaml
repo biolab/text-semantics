@@ -1,0 +1,17 @@
+Text file: PRAV2454.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1298934000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2454
+idPredpisaChng: PRAV2454
+instock: .nan
+naslov: "PRAVILNIK o delovnem \u010Dasu notarjev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2011/04/2011-01-0490-1994-01-1871-npb4
+sopPredpisa: 2011-01-0490
+sopPredpisaChng: 1994-01-1871

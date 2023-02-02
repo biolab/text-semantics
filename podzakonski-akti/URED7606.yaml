@@ -1,0 +1,17 @@
+Text file: URED7606.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1604703600000000000
+- null
+- null
+- 10
+idPredpisa: URED7606
+idPredpisaChng: URED7606
+instock: .nan
+naslov: "UREDBA o nacionalnem radonskem programu (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2020/26/2020-01-2624-2018-01-0799-npb2
+sopPredpisa: 2020-01-2624
+sopPredpisaChng: 2018-01-0799

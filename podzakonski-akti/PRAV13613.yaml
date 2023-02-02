@@ -1,0 +1,20 @@
+Text file: PRAV13613.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1576882800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1574463600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13613
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pregledih ro-ro potni\u0161kih ladij in hitrih potni\u0161kih\
+  \ plovil"
+npbNum: 0
+path: /2019/29/2019-01-2941
+sopPredpisa: 2019-01-2941
+sopPredpisaChng: null

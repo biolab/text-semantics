@@ -1,0 +1,17 @@
+Text file: PRAV13005.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1526076000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13005
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih pogojih, ki jih morajo izpolnjevati videoelektronska\
+  \ identifikacijska sredstva"
+npbNum: 0
+path: /2018/14/2018-01-1461
+sopPredpisa: 2018-01-1461
+sopPredpisaChng: null

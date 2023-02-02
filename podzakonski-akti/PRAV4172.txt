@@ -1,0 +1,867 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa meroslovne in z njimi
+povezane tehnične zahteve, ki jih morajo izpolnjevati merilni transformatorji
+za električne števce razredov točnosti 0,1, 0,2, 0,2 S, 0,5 in 0,5 S (v nadaljnjem besedilu: merilni transformatorji), ki se uporabljajo za
+obračunavanje električne energije v krogih izmeničnega toka s frekvenco 50 Hz,
+postopke ugotavljanja skladnosti in način označevanja.
+Ta pravilnik se označi s skrajšano oznako
+MP–52. (črtan)
+2. člen
+Merilni transformatorji po tem pravilniku
+so:
+-      
+tokovni merilni transformator;
+-      
+tokovni merilni transformator z razširjenim
+območjem;
+-      
+skupina tokovnih merilnih transformatorjev,
+izdelana kot celota iz dveh ali treh tokovnih merilnih transformatorjev;
+-      
+napetostni merilni transformator, enopolno
+izoliran;
+-      
+napetostni merilni transformator, dvopolno
+izoliran, posamičen ali dva transformatorja v V–vezavi, v skupnem okrovu s
+tremi izolatorji;
+-      
+kapacitivni napetostni merilni transformator;
+-      
+kombinirani merilni transformator, izdelan kot
+celota iz enega tokovnega merilnega transformatorja in enega napetostnega
+merilnega transformatorja, enopolno izoliranega, v skupnem okrovu;
+-      
+skupina merilnih transformatorjev, izdelana kot
+celota iz dveh ali treh tokovnih merilnih transformatorjev, z dvema ali tremi
+napetostnimi merilnimi transformatorji v skupnem okrovu.
+3. člen
+V tem pravilniku uporabljeni izrazi imajo
+naslednji pomen:
+-      
+»nazivno razmerje transformacije tokovnega
+merilnega transformatorja ali napetostnega merilnega transformatorja« je
+razmerje med nazivnim primarnim tokom in nazivnim sekundarnim tokom ali razmerjem
+med nazivno primarno napetostjo in nazivno sekundarno napetostjo. Nazivno
+razmerje transformacije se poda v obliki neskrajšanega ulomka;
+-      
+»nazivni primarni tok in nazivni sekundarni tok
+tokovnega merilnega transformatorja« sta efektivni vrednosti primarnega toka in
+sekundarnega toka, ki morata biti navedeni na napisni ploščici in po katerih se
+določajo karakteristike transformatorja;
+-      
+»nazivna moč tokovnega merilnega
+transformatorja« je navidezna moč, izražena v voltamperih, s predpisanim
+faktorjem moči, ki jo lahko daje transformator sekundarnemu krogu pri nazivnem
+sekundarnem toku in priključeni nazivni obremenitvi;
+-      
+»nazivna moč napetostnega merilnega
+transformatorja« je navidezna moč, izražena v voltamperih, z navedenim
+faktorjem moči, ki jo lahko daje transformator sekundarnemu krogu pri nazivni
+sekundarni napetosti in priključeni nazivni obremenitvi;
+-      
+»nazivna primarna napetost in nazivna
+sekundarna napetost napetostnega merilnega transformatorja« sta efektivni
+vrednosti primarne napetosti in sekundarne napetosti, ki morata biti navedeni
+na napisni ploščici in po katerih se določajo karakteristike transformatorja;
+-      
+»obremenitev tokovnega merilnega
+transformatorja« je polna upornost sekundarnega kroga, izražena v ohmih, za
+navedenim faktorjem moči. Obremenitev tokovnega merilnega transformatorja je
+lahko izražena kot navidezna moč sekundarnega kroga v voltamperih, z navedenim
+faktorjem moči in nazivnim sekundarnim tokom;
+-      
+»obremenitev napetostnega merilnega
+transformatorja« je polna prevodnost sekundarnega kroga, izražena v siemensih,
+z navedenim faktorjem moči. Obremenitev napetostnega merilnega transformatorja
+je lahko izražena kot navidezna moč sekundarnega kroga v voltamperih za
+navedenim faktorjem moči in nazivno sekundarno napetostjo;
+-      
+»nazivna obremenitev« je vrednost obremenitve,
+na kateri temeljijo meje dopustnih pogreškov, predpisane s tem pravilnikom;
+-      
+»fazni pogrešek tokovnega merilnega
+transformatorja« je fazna razlika med vektorjem primarnega toka in vektorjem
+sekundarnega toka. Smer vektorja se izbere tako, da je fazna razlika za idealni
+transformator enaka nič;
+-       »fazni pogrešek napetostnega merilnega transformatorja« je fazna
+razlika med vektorjem primarne napetosti in vektorjem sekundarne napetosti.
+Smer vektorja se izbere tako, da je fazna razlika za idealni transformator
+enaka nič.
+II. MEROSLOVNE ZAHTEVE
+4. člen
+Merilni
+transformatorji morajo imeti naslednje nazivne vrednosti:
+-       sekundarni
+nazivni tok 1 A, 2 A ali 5 A za tokovne merilne transformatorje razredov
+točnosti 0,1; 0,2 in 0,5.
+-       sekundarni
+nazivni tok 5 A za tokovne merilne transformatorje razreda točnosti 0,2 S in
+0,5 S;
+-       sekundarna
+nazivna napetost 100 V; 110 V; 100 /Ö3 V; 200 V; 2 x 100 /Ö3 V, 200 /Ö3
+V ali 2 x 200 /Ö3 V;
+-       primarni
+nazivni tok 10 A, 12,5 A, 15 A, 20 A, 30 A,
+ 40 A, 50 A, 60 A ali 75 A kot tudi njihove decimalne dele ali večkratnike. Te
+vrednosti se nanašajo tudi na najmanjšo vrednost primarnega toka pri preklopnih
+merilnih transformatorjih;
+-       primarni
+nazivni tok 25 A, 50 A, 100 A kot tudi njihove decimalne dele ali večkratnike
+za tokovne merilne transformatorje razredov točnosti 0,2 S in 0,5 S;
+-       nazivne
+moči 2,5 VA, 5 VA, 10 VA, 15 VA ali 30 VA za tokovne merilne transformatorje;
+-       nazivne
+moči 2,5 VA, 5 VA, 10 VA ali 15 VA za tokovne merilne transformatorje razredov
+točnosti 0,2 S in 0,5 S;
+-      
+nazivne moči 10 VA, 15 VA, 25 VA, 30 VA, 50 VA,
+75 VA, 100 VA, 150 VA, 200 VA, 300 VA, 400 VA in 500 VA za napetostne merilne
+transformatorje.
+Merilni transformatorji morajo imeti
+nazivno vrednost frekvence 50 Hz.
+5. člen
+Glede na konstrukcijo morajo imeti merilni
+transformatorji potrebno število mest za namestitev overitvenih in zaščitnih
+oznak.
+6. člen
+Merilni transformator mora imeti ustrezen
+pokrov za sekundarne priključke. Pokrov mora biti izdelan tako, da se na
+sekundarne priključke lahko namestijo zaščitne oznake.
+7. člen
+Tokovni pogrešek tokovnega merilnega
+transformatorja se izračuna po naslednji enačbi:
+kjer je:
+Kn – nazivno razmerje transformacije,
+Ip – efektivna vrednost primarnega toka v A,
+Is – efektivna vrednost sekundarnega toka v A, ki ustreza toku Ip
+v danih merilnih pogojih.
+8. člen
+Fazni pogrešek tokovnega merilnega
+transformatorja je pozitiven, če je vektor sekundarnega toka časovno pred
+vektorjem primarnega toka. Ta pogrešek se izrazi v minutah.
+9. člen
+Napetostni pogrešek napetostnega merilnega
+transformatorja se izračuna po naslednji enačbi:
+kjer je:
+Kn –
+nazivno razmerje transformacije,
+Up –
+efektivna vrednost primarne napetosti v V,
+Us –
+efektivna vrednost sekundarne napetosti v V, ki ustreza napetosti Up v danih
+merilnih pogojih.
+10. člen
+Fazni pogrešek napetostnega merilnega
+transformatorja je pozitiven, če je vektor sekundarne napetosti časovno pred
+vektorjem primarne napetosti. Ta pogrešek se izrazi v minutah.
+11. člen
+Meje dopustnih pogreškov tokovnih merilnih
+transformatorjev so določene v naslednji tabeli:
+ 
+
+
+Oznaka razreda točnosti
+
+Meje
+   dopustnih pogreškov, odvisno od odstotka nazivnega toka
+
+
+Tokovni
+   pogrešek ±Pi%
+
+Fazni
+   pogrešek ±di min
+
+
+200
+
+150
+
+120
+
+100
+
+20
+
+5
+
+1
+
+200
+
+150
+
+120
+
+100
+
+20
+
+5
+
+1
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+
+0,1
+
+–
+
+–
+
+0,1
+
+0,1
+
+0,2
+
+0,4
+
+–
+
+–
+
+–
+
+5
+
+5
+
+8
+
+15
+
+–
+
+
+0,2
+
+–
+
+–
+
+0,2
+
+0,2
+
+0,35
+
+0,75
+
+–
+
+–
+
+–
+
+10
+
+10
+
+15
+
+30
+
+–
+
+
+0,5
+
+–
+
+–
+
+0,5
+
+0,5
+
+0,75
+
+1,5
+
+–
+
+–
+
+–
+
+30
+
+30
+
+45
+
+90
+
+–
+
+
+0,1
+ext. 150%
+
+–
+ 
+
+ 
+0,1
+
+ 
+–
+
+ 
+0,1
+
+ 
+0,2
+
+ 
+0,4
+
+ 
+–
+
+ 
+–
+
+ 
+5
+
+ 
+–
+
+ 
+5
+
+ 
+8
+
+ 
+15
+
+ 
+–
+
+
+0,1
+ext. 200%
+
+ 
+0,1
+
+ 
+–
+
+ 
+–
+
+ 
+0,1
+
+ 
+0,2
+
+ 
+0,4
+
+ 
+–
+
+ 
+5
+
+ 
+–
+
+ 
+–
+
+ 
+5
+
+ 
+8
+
+ 
+15
+
+ 
+–
+
+
+0,2
+ext. 150%
+
+ 
+–
+
+ 
+0,2
+
+ 
+–
+
+ 
+0,2
+
+ 
+0,35
+
+ 
+0,75
+
+ 
+–
+
+ 
+–
+
+ 
+10
+
+ 
+–
+
+ 
+10
+
+ 
+15
+
+ 
+30
+
+ 
+–
+
+
+0,2
+ext. 200%
+
+ 
+0,2
+
+ 
+–
+
+ 
+–
+
+ 
+0,2
+
+ 
+0,35
+
+ 
+0,75
+
+ 
+–
+
+ 
+10
+
+ 
+–
+
+ 
+–
+
+ 
+10
+
+ 
+15
+
+ 
+30
+
+ 
+–
+
+
+0,5
+ext. 150%
+
+ 
+–
+
+ 
+0,5
+
+ 
+–
+
+ 
+0,5
+
+ 
+0,75
+
+ 
+1,5
+
+ 
+–
+
+ 
+–
+
+ 
+30
+
+ 
+–
+
+ 
+30
+
+ 
+45
+
+ 
+90
+
+ 
+–
+
+
+0,5
+ext. 200%
+
+ 
+0,5
+
+ 
+–
+
+ 
+–
+
+ 
+0,5
+
+ 
+0,75
+
+ 
+1,5
+
+ 
+–
+
+ 
+30
+
+ 
+–
+
+ 
+–
+
+ 
+30
+
+ 
+45
+
+ 
+90
+
+ 
+–
+
+
+0,2 S
+
+–
+
+–
+
+0,2
+
+0,2
+
+0,2
+
+0,35
+
+0,75
+
+–
+
+–
+
+10
+
+10
+
+10
+
+15
+
+30
+
+
+0,5 S
+
+–
+
+–
+
+0,5
+
+0,5
+
+0,5
+
+0,75
+
+1,5
+
+–
+
+–
+
+30
+
+30
+
+30
+
+45
+
+90
+
+12. člen
+Tokovni in fazni pogreški tokovnih merilnih
+transformatorjev pri nazivni frekvenci ne smejo preseči vrednosti v tabeli iz
+prejšnjega člena tega pravilnika za vse vrednosti obremenitve med 25% in 100%
+nazivne obremenitve.
+Obremenitev, uporabljena pri preskušanju,
+mora biti induktivna s faktorjem moči 0,8, razen če je njena moč pod 5 VA. V
+tem primeru mora biti faktor moči obremenitve enak ena.
+Obremenitev, izražena v voltamperih, ne sme
+biti manjša od 1 VA.
+13. člen
+Pogreški tokovnih merilnih transformatorjev
+z več jedri morajo biti za vsako jedro, ki se uporablja za obračunavanje
+električne energije v mejah, določenih v tabeli iz 11. člena tega pravilnika,
+tako pri sekundarnih na kratko vezanih navitjih drugih jeder kot tudi tedaj,
+kadar so ta sekundarna navitja obremenjena z nazivnimi obremenitvami.
+14. člen
+Meje dopustnih pogreškov napetostnih
+merilnih transformatorjev so določene v naslednji tabeli:
+ 
+15. člen
+Napetostni in fazni pogreški napetostnih
+merilnih transformatorjev pri nazivni frekvenci za kapacitivni merilni
+transformator v območju od 99% do 101% nazivne frekvence ne smejo preseči
+vrednosti v tabeli iz prejšnjega člena tega pravilnika za nobeno vrednost
+obremenitve med 25% in 100% nazivne obremenitve ob indukcijskem faktorju moči
+0,8.
+Napetostne in fazne pogreške je treba
+določiti na priključkih napetostnih merilnih transformatorjev, pri čemer se
+všteje tudi vpliv varovalk ali uporov, če so sestavni deli tega
+transformatorja.
+16. člen
+Pogreški napetostnih merilnih
+transformatorjev z več navitji morajo biti za vsako navitje, ki se uporablja za
+obračunavanje električne energije, v mejah, določenih v tabeli iz 14. člena
+tega pravilnika, tako pri praznem teku drugih navitij kot tudi tedaj, kadar so
+ta navitja obremenjena z nazivnimi obremenitvami.
+Navitje za vezavo v odprt trikotnik ostane
+pri preskušanju razreda točnosti napetostnega merilnega transformatorja
+neobremenjeno.
+17. člen
+Meje dopustnih pogreškov v tabelah iz 11.
+in 14. člena tega pravilnika veljajo za vsak čas vključitve in vsako
+temperaturo okolja med najvišjo srednjo dnevno temperaturo +40 °C in najnižjo
+temperaturo za hrambo merilnih transformatorjev v prostorih –5 °C oziroma
+temperaturo za hrambo na prostem –25 °C do +40 °C. Za kapacitivne napetostne
+merilne transformatorje veljajo meje dopustnih pogreškov v tabeli iz 14. člena
+tega pravilnika, ko je doseženo stacionarno stanje.
+18. člen
+Za kombinirane merilne transformatorje,
+izdelane kot celota iz enega tokovnega merilnega transformatorja in enega
+enopolno izoliranega napetostnega merilnega transformatorja v skupnem okrovu,
+velja glede pogreškov naslednje:
+-      
+pri delovanju napetostnega merilnega
+transformatorja med 80% in 120% nazivne napetosti mora biti pogrešek tokovnega
+merilnega transformatorja za vse vrednosti obremenitve med 25% in 100% nazivne
+obremenitve v mejah, ki ustrezajo njegovemu razredu točnosti;
+-      
+pri delovanju tokovnega merilnega
+transformatorja med 5% oziroma 1% nazivnega toka in nazivnega trajnega
+termičnega toka mora biti pogrešek napetostnega merilnega transformatorja za
+vse vrednosti obremenitve med 25% in 100% nazivne obremenitve na vseh jedrih v
+mejah, ki ustrezajo njegovemu razredu točnosti.
+III. NAPISI IN OZNAKE
+19. člen
+Napisi in oznake na merilnem
+transformatorju morajo biti v slovenskem jeziku.
+20. člen
+Napisi in oznake na merilnem
+transformatorju morajo biti jasni, dobro vidni v delovnih pogojih in napisani
+tako, da jih ni mogoče zbrisati ali sneti.
+21. člen
+Na napisni ploščici merilnega
+transformatorja morajo biti naslednji podatki:
+-      
+oznaka vrste merilnega transformatorja,
+-      
+firma oziroma ime ali znak proizvajalca,
+-      
+oznaka tipa,
+-       tovarniška številka in leto izdelave, pri čemer sta lahko
+zadnji dve številki leta izdelave ločeni od tovarniške številke s poševno črto,
+-      
+nazivni vrednosti primarnega toka in
+sekundarnega toka ali primarne napetosti in sekundarne napetosti,
+-      
+nazivna frekvenca,
+-       nazivna moč in ustrezna oznaka razreda točnosti,
+-      
+uradna oznaka odobritve tipa merilnega
+transformatorja,
+-      
+oznake ustreznih priključkov in jeder ali
+navitij, če ima transformator dve ali več jeder oziroma navitij,
+-      
+najvišja obratovalna napetost, ločena s poševno
+črto od vrednosti zdržne izmenične napetosti in zdržne udarne napetosti. Zdržna
+udarna napetost mora biti navedena le pri merilnih transformatorjih, ki so
+namenjeni za vgradnjo v postroje na prostem,
+-      
+oznaka razširjenega območja,
+-      
+toplotni razred izolacije, če se razlikuje od
+razreda A,
+-      
+varnostni faktor,
+-       nazivni kratkotrajni termični tok pri
+tokovnih merilnih transformatorjih,
+-      
+nazivni faktor napetosti in ustrezno nazivno
+trajanje pri napetostnih merilnih transformatorjih.
+Napisna ploščica mora biti pritrjena na
+merilni transformator tako, da je ni mogoče sneti ali zamenjati.
+22. člen
+Za merilne transformatorje iz več sestavnih
+delov morajo biti poleg podatkov iz prejšnjega člena tega pravilnika na napisni
+ploščici navedeni tudi podatki o sestavnih delih.
+Za tokovne merilne transformatorje z več
+jedri ali za napetostne merilne transformatorje z več navitji morajo biti poleg
+podatkov iz prejšnjega člena tega pravilnika na napisni ploščici navedene še
+nazivne vrednosti moči za vsako jedro ali za vsako navitje.
+Za kombinirane merilne transformatorje in
+skupine merilnih transformatorjev morajo biti na napisni ploščici navedeni
+posebej podatki za tokovni merilni transformator in za napetostni merilni
+transformator.
+23. člen
+Za kapacitivne napetostne merilne
+transformatorje morata biti poleg podatkov iz 21. člena tega pravilnika na
+napisni ploščici še naslednja podatka:
+-      
+nazivna kapaciteta delilnika napetosti,
+-      
+nazivna napetost delilnika napetosti v
+kilovoltih.
+24. člen
+Tokovni merilni transformatorji z
+razširjenim območjem morajo imeti na napisni ploščici poleg oznake razreda
+točnosti še dodatno oznako, ki pomeni vrednost nazivnega trajnega termičnega
+toka razširjenih tokovnih območij v odstotkih nazivnega toka, danega v obliki
+ext. 150% ali ext. 200%.
+Če je tokovno območje razširjeno do 1%
+nazivnega toka, mora biti za oznako razreda točnosti črka S (npr. 0,5 S).
+25. člen
+Z namestitvijo overitvenih in zaščitnih
+oznak na merilni transformator se potrdi, da merilni transformator izpolnjuje
+zahteve iz tega pravilnika.
+IV. UGOTAVLJANJE SKLADNOSTI
+26. člen
+Za merilne transformatorje je obvezna
+odobritev tipa merila, ki ji sledi bodisi prva overitev bodisi izjava o
+skladnosti z odobrenim tipom.
+K zahtevi za odobritev tipa mora vložnik
+zahteve priložiti poleg dokumentacije iz 5. člena pravilnika o načinih ugotavljanja skladnosti za posamezne
+vrste instrumentov ter o vrstah in načinih njihove označitve z oznakami
+skladnosti (Uradni list RS, št. 72/01) še naslednjo dokumentacijo:
+-      
+navodilo za uporabo in vzdrževanje v slovenskem
+jeziku,
+-      
+navodilo za preskus pri ugotavljanju skladnosti
+pri prvih overitvah z zahtevami tega pravilnika.
+27. člen
+Preskus merilnih transformatorjev vključuje
+tudi preverjanje proizvajalčeve dokumentacije iz prejšnjega člena tega
+pravilnika, da se ugotovi, ali so podatki in postopki navedeni jasno in
+razumljivo.
+28. člen
+Prva overitev vključuje tudi vizualni
+pregled vsakega merilnega transformatorja, da se preveri skladnost z odobrenim
+tipom merila.
+Prva overitev se izvede na način, ki je
+opisan v dokumentaciji proizvajalca, in sicer v takem obsegu, da se preveri
+skladnost z zahtevami iz tega pravilnika.
+V. (črtano)
+29. člen
+(črtan)
+30. člen
+(črtan)
+31. člen
+Merilna negotovost merilnega postopka, s
+katerim se preverjajo meroslovne lastnosti merila, mora biti najmanj za 1/3 boljša
+od zahtevane točnosti merilnega transformatorja.
+
+Pravilnik o meroslovnih zahtevah za merilne
+transformatorje za električne števce (Uradni list RS, št. 30/02)
+vsebuje naslednjo prehodno in končno določbo:
+»VI. PREHODNA IN KONČNA DOLOČBA
+32. člen
+Z dnem, ko začne veljati ta pravilnik, se
+preneha uporabljati pravilnik o metroloških pogojih za merilne transformatorje
+za električne števce (Uradni list SFRJ, št. 66/84).
+33. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o meroslovnih zahtevah za transformatorje za električne števce
+(Uradni list RS, št. 28/06) vsebuje naslednjo končno določbo:
+»6. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

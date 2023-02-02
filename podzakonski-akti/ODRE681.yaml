@@ -1,0 +1,16 @@
+Text file: ODRE681.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 756169200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE681
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o prikazu terjatev do tujine
+npbNum: 0
+path: /1993/25/1993-01-2507
+sopPredpisa: 1993-01-2507
+sopPredpisaChng: null

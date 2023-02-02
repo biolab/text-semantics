@@ -1,0 +1,18 @@
+Text file: TARI23.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 907365600000000000
+- null
+- null
+- 10
+idPredpisa: TARI23
+idPredpisaChng: TARI23
+instock: .nan
+naslov: "TARIFA za opravljanje pomorske pilota\u017Ee na obmo\u010Dju teritorialnega\
+  \ morja in notranjih morskih voda Republike Slovenije (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /1998/32/1998-01-3255-1996-01-4023-npb2
+sopPredpisa: 1998-01-3255
+sopPredpisaChng: 1996-01-4023

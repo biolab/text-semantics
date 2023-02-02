@@ -1,0 +1,12 @@
+Text file: SKLE12623.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12623
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju namestnika varuha \u010Dlovekovih pravic"
+npbNum: 0
+path: /2021/39/2021-01-3981
+sopPredpisa: 2021-01-3981
+sopPredpisaChng: null

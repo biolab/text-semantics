@@ -1,0 +1,17 @@
+Text file: PRAV7995.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1565388000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7995
+idPredpisaChng: PRAV7995
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za varstvo pred utopitvami na kopali\u0161\u010Dih (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2019/23/2019-01-2310-2007-01-4256-npb3
+sopPredpisa: 2019-01-2310
+sopPredpisaChng: 2007-01-4256

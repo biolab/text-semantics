@@ -1,0 +1,17 @@
+Text file: PRAV12023.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1405375200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12023
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prepovedi pribli\u017Eevanja dolo\u010Deni osebi, kraju ali obmo\u010D\
+  ju"
+npbNum: 0
+path: /2014/20/2014-01-2027
+sopPredpisa: 2014-01-2027
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: USTA1.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622757600000000000
+- null
+- null
+- 10
+idPredpisa: USTA1
+idPredpisaChng: USTA1
+instock: .nan
+naslov: "USTAVA REPUBLIKE SLOVENIJE (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 11)"
+npbNum: 11
+path: /2021/19/2021-01-1970-1991-01-1409-npb11
+sopPredpisa: 2021-01-1970
+sopPredpisaChng: 1991-01-1409

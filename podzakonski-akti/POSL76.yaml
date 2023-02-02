@@ -1,0 +1,17 @@
+Text file: POSL76.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1652479200000000000
+- null
+- null
+- 10
+idPredpisa: POSL76
+idPredpisaChng: POSL76
+instock: .nan
+naslov: "POSLOVNIK Dr\u017Eavnega sveta (PoDS-1) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2022/15/2022-01-1540-2008-01-3028-npb7
+sopPredpisa: 2022-01-1540
+sopPredpisaChng: 2008-01-3028

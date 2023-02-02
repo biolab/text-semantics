@@ -1,0 +1,12 @@
+Text file: AKT_726.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_726
+idPredpisaChng: null
+instock: .nan
+naslov: "RAZPISUJEM volitve \u010Dlanov Dr\u017Eavnoto\u017Eilskega sveta"
+npbNum: 0
+path: /2011/30/2011-01-3072
+sopPredpisa: 2011-01-3072
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV8482.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1191621600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8482
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vrstah in izboru elektronskih publikacij za obvezni izvod
+npbNum: 0
+path: /2007/44/2007-01-4422
+sopPredpisa: 2007-01-4422
+sopPredpisaChng: null

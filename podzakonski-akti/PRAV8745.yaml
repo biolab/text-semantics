@@ -1,0 +1,17 @@
+Text file: PRAV8745.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1221861600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8745
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o razvrstitvi vitaminskih in mineralnih izdelkov za peroralno uporabo,
+  ki so v farmacevtskih oblikah, med zdravila
+npbNum: 0
+path: /2008/37/2008-01-3733
+sopPredpisa: 2008-01-3733
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13431.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1575068400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13431
+idPredpisaChng: PRAV13431
+instock: .nan
+naslov: "PRAVILNIK o \u0161olskem redu v srednjih \u0161olah (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/31/2019-01-3127-2018-01-1381-npb1
+sopPredpisa: 2019-01-3127
+sopPredpisaChng: 2018-01-1381

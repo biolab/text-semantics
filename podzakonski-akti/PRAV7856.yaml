@@ -1,0 +1,17 @@
+Text file: PRAV7856.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1161295200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7856
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o omejitvi uporabe dr\u017Eavnih cest za promet tovornih vozil,\
+  \ katerih najve\u010Dja dovoljena masa presega 7,5 ton"
+npbNum: 0
+path: /2006/43/2006-01-4379
+sopPredpisa: 2006-01-4379
+sopPredpisaChng: null

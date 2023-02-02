@@ -1,0 +1,16 @@
+Text file: URED4837.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1217023200000000000
+- null
+- null
+- 10
+idPredpisa: URED4837
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o ravnanju z odpadnimi jedilnimi olji in mastmi
+npbNum: 0
+path: /2008/30/2008-01-3029
+sopPredpisa: 2008-01-3029
+sopPredpisaChng: null

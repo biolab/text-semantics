@@ -1,0 +1,12 @@
+Text file: ODLO2142.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ODLO2142
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o razpisu nadomestnih volitev v dr\u017Eavni svet"
+npbNum: 0
+path: /2020/21/2020-01-2126
+sopPredpisa: 2020-01-2126
+sopPredpisaChng: null

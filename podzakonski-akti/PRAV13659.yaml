@@ -1,0 +1,17 @@
+Text file: PRAV13659.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577228400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13659
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ravne\
+  \ (2019\u20132028)"
+npbNum: 0
+path: /2019/35/2019-01-3534
+sopPredpisa: 2019-01-3534
+sopPredpisaChng: null

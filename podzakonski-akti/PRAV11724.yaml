@@ -1,0 +1,17 @@
+Text file: PRAV11724.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1380578400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11724
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o enostavnih komunikacijskih objektih in vzdr\u017Eevanju komunikacijskih\
+  \ objektov"
+npbNum: 0
+path: /2013/28/2013-01-2801
+sopPredpisa: 2013-01-2801
+sopPredpisaChng: null

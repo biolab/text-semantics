@@ -1,0 +1,12 @@
+Text file: SKLE11134.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11134
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP ODLO\u010CBA"
+npbNum: 0
+path: /2017/13/2017-01-1328
+sopPredpisa: 2017-01-1328
+sopPredpisaChng: null

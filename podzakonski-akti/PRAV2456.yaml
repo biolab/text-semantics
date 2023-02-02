@@ -1,0 +1,17 @@
+Text file: PRAV2456.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 922489200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2456
+idPredpisaChng: PRAV2456
+instock: .nan
+naslov: "PRAVILNIK o kriterijih za uveljavljanje dodatka za nego otroka (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /1999/09/1999-01-0948-1996-01-1578-npb1
+sopPredpisa: 1999-01-0948
+sopPredpisaChng: 1996-01-1578

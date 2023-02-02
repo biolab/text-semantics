@@ -1,0 +1,18 @@
+Text file: PRAV10840.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1626472800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10840
+idPredpisaChng: PRAV10840
+instock: .nan
+naslov: "PRAVILNIK o standardih in normativih za izvajanje storitev za trg dela in\
+  \ metodologiji za oblikovanje cen teh storitev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2021/22/2021-01-2231-2011-01-3165-npb2
+sopPredpisa: 2021-01-2231
+sopPredpisaChng: 2011-01-3165

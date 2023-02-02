@@ -1,0 +1,17 @@
+Text file: MERI43.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1402005600000000000
+- null
+- null
+- 10
+idPredpisa: MERI43
+idPredpisaChng: null
+instock: .nan
+naslov: "MERILA za akreditacijo in zunanjo evalvacijo visoko\u0161olskih zavodov in\
+  \ \u0161tudijskih programov"
+npbNum: 0
+path: /2014/16/2014-01-1623
+sopPredpisa: 2014-01-1623
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV12232.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1634248800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12232
+idPredpisaChng: PRAV12232
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu izvajanja mature za kandidate s posebnimi potrebami\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/23/2021-01-2340-2014-01-3400-npb1
+sopPredpisa: 2021-01-2340
+sopPredpisaChng: 2014-01-3400

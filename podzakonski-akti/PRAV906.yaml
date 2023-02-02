@@ -1,0 +1,17 @@
+Text file: PRAV906.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 989100000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV906
+idPredpisaChng: PRAV906
+instock: .nan
+naslov: "PRAVILNIK o nagradah in priznanjih Republike Slovenije za znanstveno-raziskovalno\
+  \ delo (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2001/19/2001-01-1979-1998-01-1736-npb2
+sopPredpisa: 2001-01-1979
+sopPredpisaChng: 1998-01-1736

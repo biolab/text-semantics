@@ -1,0 +1,17 @@
+Text file: PRAV6938.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1128117600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6938
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o zagotovitvi sredstev za strokovno izpopolnjevanje sodnih izvedencev
+  in sodnih cenilcev
+npbNum: 0
+path: /2005/37/2005-01-3751
+sopPredpisa: 2005-01-3751
+sopPredpisaChng: null

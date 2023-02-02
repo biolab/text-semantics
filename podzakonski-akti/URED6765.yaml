@@ -1,0 +1,18 @@
+Text file: URED6765.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1563573600000000000
+- null
+- null
+- 10
+idPredpisa: URED6765
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o pravilih za pripravo napovedi polo\u017Eaja proizvodnih naprav na\
+  \ obnovljive vire energije in s soproizvodnjo toplote in elektri\u010Dne energije\
+  \ z visokim izkoristkom na trgu z elektri\u010Dno energijo"
+npbNum: 0
+path: /2019/22/2019-01-2273
+sopPredpisa: 2019-01-2273
+sopPredpisaChng: null

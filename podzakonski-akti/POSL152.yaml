@@ -1,0 +1,17 @@
+Text file: POSL152.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1640732400000000000
+- null
+- null
+- 10
+idPredpisa: POSL152
+idPredpisaChng: null
+instock: .nan
+naslov: POSLOVNIK komisij Radiotelevizije Slovenija za ocenjevanje filmskih in drugih
+  avdiovizualnih projektov
+npbNum: 0
+path: /2021/41/2021-01-4168
+sopPredpisa: 2021-01-4168
+sopPredpisaChng: null

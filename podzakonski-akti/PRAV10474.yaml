@@ -1,0 +1,17 @@
+Text file: PRAV10474.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1371852000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10474
+idPredpisaChng: PRAV10474
+instock: .nan
+naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu izdaje potnega lista za begunca\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2013/19/2013-01-1991-2011-01-2524-npb1
+sopPredpisa: 2013-01-1991
+sopPredpisaChng: 2011-01-2524

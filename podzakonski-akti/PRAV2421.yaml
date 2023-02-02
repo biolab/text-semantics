@@ -1,0 +1,18 @@
+Text file: PRAV2421.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 965944800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2421
+idPredpisaChng: PRAV2421
+instock: .nan
+naslov: "PRAVILNIK o bistvenih sestavinah pravil agrarne skupnosti ter o vsebini registra\
+  \ agrarnih skupnosti in njihovih \u010Dlanov (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 2)"
+npbNum: 2
+path: /2000/33/2000-01-3351-1994-01-0623-npb2
+sopPredpisa: 2000-01-3351
+sopPredpisaChng: 1994-01-0623

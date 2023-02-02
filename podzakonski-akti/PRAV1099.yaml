@@ -1,0 +1,17 @@
+Text file: PRAV1099.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 932767200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV1099
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posesti in no\u0161enju slu\u017Ebenega oro\u017Eja in streliva\
+  \ v policiji"
+npbNum: 0
+path: /1999/26/1999-01-2603
+sopPredpisa: 1999-01-2603
+sopPredpisaChng: null

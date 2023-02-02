@@ -1,0 +1,17 @@
+Text file: SKLE3606.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1048892400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE3606
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o veljavnosti \u010Detrtega in petega dodatka k \u010Detrti izdaji\
+  \ Evropske farmakopeje"
+npbNum: 0
+path: /2003/12/2003-01-1263
+sopPredpisa: 2003-01-1263
+sopPredpisaChng: null

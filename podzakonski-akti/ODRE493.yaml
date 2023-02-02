@@ -1,0 +1,16 @@
+Text file: ODRE493.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 930780000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE493
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o navedbi tarifnih oznak kombinirane nomenklature carinske tarife
+npbNum: 0
+path: /1999/25/1999-01-2511
+sopPredpisa: 1999-01-2511
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: STAT143.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1229554800000000000
+- null
+- null
+- 10
+idPredpisa: STAT143
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT Skupnosti zavodov \u2013 Zdru\u017Eenja zdravstvenih zavodov Slovenije\
+  \ (\u010Distopis)"
+npbNum: 0
+path: /2009/00/2009-01-0017
+sopPredpisa: 2009-01-0017
+sopPredpisaChng: null

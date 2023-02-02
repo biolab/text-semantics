@@ -1,0 +1,17 @@
+Text file: SKLE695.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 919983600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE695
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Danju trezorskih maksimumov za depoje bankovcev Banke Slovenije\
+  \ pri depotnih bankah"
+npbNum: 0
+path: /1999/04/1999-01-0436
+sopPredpisa: 1999-01-0436
+sopPredpisaChng: null

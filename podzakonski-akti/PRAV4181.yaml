@@ -1,0 +1,21 @@
+Text file: PRAV4181.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1371333600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1363388400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4181
+idPredpisaChng: PRAV4181
+instock: .nan
+naslov: "PRAVILNIK o meroslovnih zahtevah za stati\u010Dne \u0161tevce delovne elektri\u010D\
+  ne energije razredov to\u010Dnosti 0,2 S in 0,5 S (prenehal veljati) (se preneha\
+  \ uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2013/06/2013-01-0613-2002-01-1388-npb4
+sopPredpisa: 2013-01-0613
+sopPredpisaChng: 2002-01-1388

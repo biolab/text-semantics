@@ -1,0 +1,17 @@
+Text file: PRAV7200.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1133564400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7200
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu Usposabljanje za \u017Eivljenjsko\
+  \ uspe\u0161nost \u2013 Jaz in moje delovno mesto"
+npbNum: 0
+path: /2005/47/2005-01-4700
+sopPredpisa: 2005-01-4700
+sopPredpisaChng: null

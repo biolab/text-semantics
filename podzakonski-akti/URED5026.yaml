@@ -1,0 +1,16 @@
+Text file: URED5026.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230764400000000000
+- null
+- null
+- 10
+idPredpisa: URED5026
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o na\u010Dinu nakazovanja dohodnine ob\u010Dinam"
+npbNum: 0
+path: /2008/56/2008-01-5625
+sopPredpisa: 2008-01-5625
+sopPredpisaChng: null

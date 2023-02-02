@@ -1,0 +1,1102 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik predpisuje tehnične zahteve in
+pogoje za graditev, obratovanje in vzdrževanje plinovodov z največjim delovnim
+tlakom do vključno 16 barov za varno oskrbo z zemeljskim plinom.
+Za izpolnjevanje predpisanih tehničnih
+pogojev je treba pri načrtovanju, graditvi, preskušanju, obratovanju, začetku
+in prenehanju obratovanja, vzdrževanju, obnavljanju ter drugih delih v celoti
+upoštevati zahteve in pogoje tega pravilnika in standarda SIST EN 12007 ter v
+njem navedene standarde.
+2. člen
+Ta pravilnik velja za plinovode z največjim
+delovnim tlakom do vključno 16 barov od vstopnega mesta do vključno glavne
+plinske zaporne pipe na priključnem plinovodu (v nadaljevanju: izstopno mesto)
+končnega odjemalca.
+3. člen
+Plinovode po tem pravilniku sestavljajo:
+glavni plinovodi, priključni plinovodi, merilno-regulacijske, regulacijske,
+merilne in kompresorske postaje.
+4. člen
+V tem pravilniku uporabljeni pojmi imajo
+naslednji pomen:
+Cone eksplozijske
+nevarnosti so prostori ali deli prostorov, v
+katerih je potencialno prisotna eksplozijska zmes zemeljskega plina in zraka;
+Deli plinovoda so:
+-      
+cevi (vključno s hladno oblikovanimi loki);
+-      
+fitingi (reducirni kosi, T-kosi, tovarniško
+izdelana kolena in loki, prirobnice, cevne kape, varilni nastavki, razstavljivi
+mehanski kosi idr.);
+-      
+konstrukcije, izdelane iz prej navedenih
+elementov (razdelilni kosi, lovilniki delcev, merilne in regulacijske proge
+idr.);
+-      
+armature (zaporni elementi, sifoni, kondenčne
+cevi, odzračevalne in izpihovalne cevi, izolacijski elementi, sekcijski
+izolacijski elementi idr.),
+-      
+elementi katodne zaščite (anodno ležišče,
+merilna mesta, kabelski razvod in naprave idr.),
+-      
+odorirne naprave;
+-      
+druge naprave (merilne naprave, kompenzatorji,
+regulatorji tlaka, črpalke, kompresorji idr.);
+Delovni tlak (OP) je tlak zemeljskega plina, pri katerem omrežje deluje trajno pod
+nadzorom regulacijskih naprav;
+Distribucija plina je transport zemeljskega plina po omrežju do odjemalcev na
+določenem območju;
+Dodatni varnostni odmik je horizontalni odmik, ki se določi na podlagi višinske razlike
+med temenom plinovoda in temenom drugega voda ali kanalizacije in ga določi
+projektant glede na sestavo tal, dimenzijo vodov, značilnosti omrežja in drugih
+posebnih pogojev;
+Dodatna zaščita je zaščita, ki jo določi projektant glede na križanje ali
+vzporedno vodenje plinovodov z drugimi komunalnimi vodi, objekti in cestami;
+Družina plina določa osnovne značilnosti zemeljskega plina. Z družino plina mora
+biti podana tudi pripadajoča specifikacija lastnosti plina.
+Elektroenergetski vodi so nizkonapetostni vodi do 1 kV in visokonapetostni vodi nad 1 kV;
+Glavni plinovod je plinovod v omrežju, na katerega so vezani priključni plinovodi;
+Glavna plinska zaporna
+pipa je zaporni element na koncu priključnega
+plinovoda;
+Izstopno mesto je mesto na koncu priključnega plinovoda z vključno glavno plinsko
+zaporno pipo;
+Kabelska kanalizacija je kanalizacija, v kateri so napeljani telekomunikacijski,
+informacijski in elektroenergetski vodi;
+Kabinetna regulacijska
+postaja je inštalacija in oprema, uporabljena samo
+za hišno tlačno regulacijo plina in/ali merilno opremo in drugo opremo
+(omarica, premajhna za vstop osebja);
+Kineta je prostor, v katerem se zaščiteno vodi komunalni vod in je
+premajhen za vstop osebja;
+Kolektor je prostor, v katerem so napeljani komunalni vodi in je dovolj
+velik za vstop osebja;
+Kompresorska postaja je postroj, sestavljen iz vstopnega in izstopnega cevovoda do
+ločitvenih zapornih elementov in opreme ter se uporablja za dvig tlaka plina v
+nadzorovanem procesu;
+Merilna postaja je postroj, sestavljen iz vstopnega in izstopnega cevovoda do
+ločitvenih zapornih elementov in opreme vgrajeno v ohišju postaje, ki se
+uporablja za merjenje parametrov plina v nadzorovanem procesu;
+Merilno-regulacijska
+postaja je postroj, sestavljen iz vstopnega in
+izstopnega cevovoda do ločitvenih zapornih elementov in opreme, ki se uporablja
+za regulacijo tlaka plina, zaščito pred preseganjem nastavljenega tlaka plina
+in merjenje parametrov plina v nadzorovanem procesu;
+Mesto dobave je točka primopredaje zemeljskega plina;
+Načrtovani koeficient (C)
+je koeficient, ki se uporablja pri načrtovanju
+plinovodov iz polietilena. Je vedno enak ali večji od 2, njegov izračun pa je
+vezan na SIST EN 12007 – 2. del;
+Načrtovani tlak (DP) je tlak, na katerem temelji projektni izračun;
+Najvišji delovni tlak
+(MOP) je tlak, pri katerem lahko omrežje trajno
+obratuje pri normalnih obratovalnih razmerah;
+Najvišji tlak v primeru
+motnje (MIP) je najvišji tlak, ki ga omrežje lahko
+prenese kratek čas in ga omejujejo varnostne naprave;
+Normalno obratovanje je dalj časa trajajoče, neprekinjeno obratovanje znotraj območja
+parametrov, za katere je bil plinovod načrtovan. Normalno obratovanje
+izključuje okvaro opreme in delov plinovoda.
+Notranja plinska
+napeljava je napeljava z vso opremo od glavne
+plinske zaporne pipe do vključno odvoda dimnih plinov;
+Odjemalec je pravna ali fizična oseba na pogodbeni ravni, oskrbovana s
+plinom za lastno uporabo;
+Plinovod je sistem cevovodov z vso pripadajočo opremo in postajami do
+izstopnega mesta;
+Plinovodno omrežje je sistem plinovodov, ki ga sestavljajo cevovodi ter pripadajoče
+postaje in naprave (skrajšano: omrežje);
+Posebni varnostni ukrepi so ukrepi, ki jih mora upoštevati izvajalec del na omrežju
+(usposobljeno strokovno osebje) na podlagi izdelanih analiz ali študij, da
+doseže še sprejemljiv vpliv okolice na plinovod in obratno;
+Poseg je graditev, trajno skladiščenje, sajenje dreves in drugi posegi v
+varnostnem pasu plinovoda, ki bi lahko omejevali dostop, obratovanje in
+vzdrževanje omrežja;
+Preskusni tlak (TP) je tlak, ki se uporabi za tlačni preskus plinovoda ali tlačno
+obremenitev;
+Priključni plinovod je plinovod od glavnega plinovoda do izstopnega mesta;
+Projektant je oseba, ki je skladno s predpisi usposobljena za načrtovanje in
+projektiranje plinovodnega omrežja po veljavnih predpisih;
+Regulacijska postaja je postroj, sestavljen iz vstopnega in izstopnega cevovoda do
+ločitvenih zapornih elementov in opreme, ki se uporablja za regulacijo tlaka
+plina in zaščito pred preseganjem nastavljenega tlaka plina v nadzorovanem
+procesu;
+Sistem nadzora tlaka je sistem za regulacijo tlaka plina, varovanje tlaka
+pred preseganjem in po potrebi registrirni in alarmni sistemi;
+Sistem za regulacijo
+tlaka je sistem, ki zagotavlja, da je tlak na
+izhodu v okviru zahtevanih, nastavljenih mej;
+Sistem za varovanje pred
+preseganjem tlaka je sistem, ki neodvisno od
+sistema za regulacije tlaka zagotavlja, da izhodni tlak za regulatorjem tlaka
+ne preseže predhodno nastavljene vrednosti
+Široka potrošnja so
+odjemalci, ki zemeljski plin uporabljajo v stanovanjskih objektih in tudi v
+kotlovnicah in poslovnih objektih, kjer za obratovanje in vzdrževanje plinske
+napeljave ni usposobljenega strokovnega osebja.;
+Tesnostni preskus je postopek preverjanja zahtevane tesnosti cevovoda, postaje,
+opreme ali postroja;
+Tlak je nadtlak zemeljskega plina v omrežju pri statičnih pogojih;
+Tlak preskusa trdnosti
+(STP) je tlak, ki se uporabi za preskus trdnosti
+plinovoda;
+Tlak preskusa tesnosti je tlak, ki se uporabi za preskus tesnostni plinovoda;
+Toplotno omrežje je vročevodno, parovodno ali toplovodno omrežje;
+Trasiranje je načrtovanje trase plinovodov v javnih in zasebnih zemljiščih v
+skladu z veljavno zakonodajo ter zahtevami glede lokacije in odmikov po tem
+pravilniku ter skladno z zahtevami upravljavcev drugih komunalnih vodov;
+Trdnostni preskus je postopek, ki dokaže, da cevovod, oprema, postrojenje ali
+postaja izpolnjuje zahtevano mehansko trdnost;
+Upravljavec plinovodnega
+omrežja je pravna ali fizična oseba, ki je
+pooblaščena za razvoj, načrtovanje, graditev, upravljanje, transport plina in
+vzdrževanje plinovodnega omrežja;
+Usposobljeno strokovno
+osebje je osebje, ki ima ustrezno izobrazbo,
+izkušnje in dovoljenje za opravljanje dejavnosti na plinovodnem omrežju skladno
+z veljavno zakonodajo;
+Varnostni odmik je svetla razdalja med dvema komunalnima vodoma ali plinovodom in
+gradbenim objektom;
+Varnostni pas je pas zemljišča, na katerem ima upravljavec plinovodnega omrežja
+pravico nadzorovati dejavnosti in posege in v katerem ima pravico dostopa do
+plinovoda. Širina pasu na vsako stran plinovoda je določena glede na delovni
+tlak plina v plinovodu;
+Vstopno mesto je mesto oskrbe omrežja z vključno prvim izstopnim zapornim
+elementom po izstopu iz regulacijske ali merilne postaje;
+Vzdrževanje so dejavnosti, ki imajo za cilj ohranitev obratovanja vsakega
+posameznega dela plinovoda oziroma obnove v stanje, da lahko varno opravlja
+zahtevano funkcijo;
+Zemeljski plin je naravna mešanica ogljikovodikov, ki je lažja od zraka in pri
+temperaturi 15 °C in absolutnem tlaku 101,325 kPa v plinastem stanju, katerega
+glavna sestavina je metan.
+5. člen
+Za dosego potrebne kakovosti oskrbe s
+zemeljskim plinom morata upravljavec omrežja in dobavitelj plina poleg določil
+tega pravilnika upoštevati tudi vse druge veljavne predpise.
+6. člen
+Za potrebno kakovost oskrbe z zemeljskim
+plinom mora upravljavec omrežja upoštevati ustrezne postopke, s katerimi
+zagotavlja varno in strokovno delo na omrežju.
+7. člen
+Fizične in pravne osebe, ki sodelujejo pri
+načrtovanju, graditvi, obratovanju in vzdrževanju plinovodnega omrežja ali
+delov le-teh, morajo biti usposobljene skladno z veljavno zakonodajo upoštevaje
+značilnosti omrežja, in sicer najmanj za:
+-      
+družino plina,
+-      
+lokalne razmere,
+-      
+načrtovani ali delovni tlak,
+-      
+materiale, uporabljene v omrežju,
+-      
+tehnike spajanja in
+-      
+postopke v primeru nevarnosti.
+II. LASTNOSTI ZEMELJSKEGA PLINA
+8. člen
+Družina in kakovost zemeljskega plina
+morata biti določena skladno s slovenskimi standardi. Značilnosti plina
+določene s specifikacijo lastnosti plina, ki pripomorejo k varnemu obratovanju
+omrežja morajo poznati dobavitelji, načrtovalci in upravljavci omrežja.
+9. člen
+Zemeljski plin, dobavljen odjemalcem, mora
+praviloma vsebovati značilen vonj, ki se ga doseže z dodajanjem odorirnega
+sredstva. Zemeljski plin, namenjen za široko potrošnjo mora biti odoriran.
+Količina odorirnega sredstva mora biti tolikšna, da omogoča zaznavanje
+prisotnosti plina v zraku v količini, večji od petine spodnje eksplozivne
+vrednosti.
+Odorirno sredstvo mora biti netoksično in
+neškodljivo v koncentracijah, ki so v normalni uporabi ter ne sme povzročati
+korozije. Pri zgorevanju plina mora vonj izginiti.
+Odorirnega sredstva ni treba dodajati
+zemeljskemu plinu, ki ni namenjen za široko potrošnjo. Če zemeljski plin ni
+odoriran, mora biti zagotovljena nadomestna metoda ali sredstvo za ugotavljanje
+netesnosti na notranji plinski napeljavi odjemalca.
+10. člen
+Ob morebitnih toksičnih učinkih sestavin
+plina in tveganju pomanjkanja kisika je treba zagotoviti varnost v vseh
+delovnih postopkih na plinovodnem omrežju, vezanih na vzdrževanje omrežja ter
+uporabo in uhajanje plina.
+III. LOKACIJA
+11. člen
+Plinovodi z največjim delovnim tlakom plina
+do vključno 16 barov se gradijo v naseljih ali zunaj njih, v ograjenih
+kompleksih in v objektih. Pri izbiri trase, načrtovanju in graditvi plinovodov
+je treba zagotoviti stabilnost cevovodov, varstvo ljudi in premoženja ter
+preprečiti morebitne škodljive vplive plinovodov na okolje in obratno.
+1. Trasiranje
+12. člen
+Plinovode v javnih in zasebnih zemljiščih
+je treba trasirati po zakonskih zahtevah in zahtevah glede lokacije in odmikov
+po določilih tega pravilnika.
+13. člen
+Kjer je to možno, naj se v urbanih naseljih
+glavni plinovodi položijo v javna zemljišča, in sicer v pločnike ali čim bliže
+robovom cestišča.
+Če se glavni plinovodi položijo v zemljišče
+v zasebni lasti, mora biti med lastnikom zemljišča in upravljavcem omrežja
+sklenjen sporazum o dovoljenih posegih v varnostni pas plinovoda. V sporazumu
+je treba opredeliti potrebne varnostne ukrepe za varno obratovanje plinovodov
+ter omogočiti upravljavcu omrežja dostop do zemljišča za obratovalne in
+vzdrževalne namene.
+Sporazum mora zagotavljati, da na varnostnem
+pasu zemljišča ob plinovodu ne bo drugih posegov, ki bi lahko ogrožali
+plinovod. V primeru, da predvidena dela v bližini plinovoda predstavljajo
+nevarnost za plinovod, ima upravljavec omrežja pravico zahtevati ustrezne
+spremembe načina izvajanja ali zaustavitev del v primeru, ko dela že potekajo.
+14. člen
+Pri načrtovanju, graditvi, preskušanju,
+začetku obratovanja, obratovanju in vzdrževanju plinovodov z največjim delovnim
+tlakom do 5 barov v zgradbah se obvezno upoštevajo tehnične zahteve iz standarda
+SIST EN 1775.
+Deli omrežja, nameščeni v zgradbah, morajo
+biti načrtovani, zgrajeni in zaščiteni tako, da vpliv morebitnega plamena ne
+vodi do znatnega povečanja obsega plamena v prostoru.
+Vsi jaški, kanali ali votli prostori, v
+katerih so v objektu vodeni plinovodi, morajo biti ustrezno prezračevani.
+Plinovodov z največjim delovnim tlakom nad
+5 barov ni dovoljeno voditi v zgradbah, razen za oskrbovanje energetskih
+postrojev.
+Za plinovode znotraj regulacijskih in
+merilnih postaj je obvezna uporaba zahtev standardov SIST EN 12186 in SIST EN
+1776.
+15. člen
+Če se plinovodi položijo nad zemljo, morajo
+biti le-ti razpoznavno nameščeni in primerno zavarovani pred zunanjimi vplivi
+(kot npr. vremenskimi vplivi, UV sevanjem, toplotnimi raztezki, obremenitvami,
+poškodbami idr.).
+2. Splošne zahteve in posebni varnostni
+ukrepi
+16. člen
+Ob načrtovanju plinovodnega omrežja mora
+biti tveganje zaradi vpliva okolice kot so drugi položeni vodi, premiki zemlje,
+dreves, drugih objektov ali prometa zmanjšano na najnižjo mogočo še
+sprejemljivo mejo.
+Pri križanjih in vzporednem vodenju
+plinovodov z drugimi komunalnimi vodi je treba upoštevati veljavne predpise ter
+zahteve upravljavca plinovodnega omrežja in upravljavcev drugih komunalnih
+vodov.
+Izjemoma se s posebnimi varnostnimi ukrepi
+in v soglasju z upravljavci komunalnih vodov razdalje med vodi lahko glede na
+predpisane tudi zmanjšajo.
+V zemljo položeni plinovodi ne smejo biti
+nadzidani in morajo pri prečkanju skozi jaške ali kanale potekati v zaščitni
+cevi.
+Za zagotovitev obratovalne varnosti se
+zahteva izpolnjevanje minimalnih pogojev glede odmikov in križanj, določenih od
+17. do 35. člena tega pravilnika. Pri tem je treba za izračun največjega
+delovnega tlaka v plinovodih ali debeline stene cevi obvezno upoštevati zahteve
+standarda SIST EN 12007.
+17. člen
+Pri križanjih in vzporednem vodenju
+komunalnih vodov s plinovodi je treba upoštevati osnovne zahteve glede kota
+križanja in varnostnih odmikov med komunalnimi vodi za zagotovitev obratovalne
+varnosti.
+Pri plinovodih z največjim delovnim tlakom
+do vključno 5 barov mora biti:
+-      
+kot križanja: od 30 do 90,
+-      
+višinski odmik pri križanju: najmanj 0,2 m,
+-      
+vzdolžni odmik: najmanj 0,4 m.
+Globina polaganja plinovodov mora biti
+tolikšna, da bo kritje nad temenom glavnih plinovodov najmanj 0,6 m, v primeru
+priključnih plinovodov je kritje nad temenom plinovoda najmanj 0,5 m.
+Globina polaganja plinovodov v cestiščih
+mora biti določena glede na material plinovoda, debelino stene cevi ter zaščito
+plinovoda in ne sme biti manjša od 1 m.
+Pri plinovodih z največjim delovnim tlakom
+nad 5 barov do vključno 16 barov mora biti:
+-      
+kot križanja: od 45 do 90,
+-      
+višinski odmik pri križanju: najmanj 0,5 m,
+-      
+vzdolžni odmik: najmanj 1,0 m.
+Globina polaganja plinovodov mora biti
+tolikšna, da bo kritje nad temenom glavnih in priključnih plinovodov najmanj
+0,8 m.
+Globina polaganja plinovodov v cestiščih
+mora upoštevati vse predvidene obremenitve in biti določena glede na material
+plinovoda, debelino stene cevi ter zaščito plinovoda in ne sme biti manjša od
+1,2 m.
+Pri določanju globine polaganja plinovoda
+se mora upoštevati vse predvidene obremenitve.
+V izjemnih primerih se s posebnimi
+varnostnimi ukrepi varnostni odmiki in globina polaganja plinovodov lahko
+zmanjšajo.
+3. Posebne zahteve pri posameznih komunalnih
+vodih
+18. člen
+Z uporabo posebnih varnostnih ukrepov je
+mogoče zmanjšati predpisane varnostni odmike in globine polaganja plinovodov.
+Po izvedeni analizi projektanta ali pooblaščene organizacije se uporabi
+ustrezne posebne varnostne ukrepe, kot so lahko:
+-      
+povečanje debeline stene plinovoda ali izbira
+ustreznega materiala plinovoda,
+-      
+prekritje plinovoda z ustreznimi elementi,
+-      
+zgraditev pregradnih sten,
+-      
+vodenje plinovoda v zaščitnih ceveh ali
+kinetah,
+-      
+druge ustrezne ukrepe.
+Mogoči so tudi drugi posebni varnostni
+ukrepi, ki pa morajo biti izbrani in uporabljeni na podlagi predhodno izdelane
+analize vpliva plinovoda na okolje in obratno.
+Za vse uporabljene posebne varnostne ukrepe
+mora projektant pridobiti pisno soglasje upravljavca plinovodnega omrežja.
+19. člen
+Pri križanju in vzporednem poteku
+plinovodov z vodovodi morajo biti odmiki skladni z osnovnimi zahtevami po
+varnostnih odmikih, določenih v 17. členu tega pravilnika.
+20. člen
+Pri križanju in vzporednem poteku
+telekomunikacijskih vodov ali vodov TV s plinovodi morajo biti odmiki skladni z
+osnovnimi zahtevami po varnostnih odmikih, določenih v 17. členu tega
+pravilnika.
+21. člen
+Pri križanju in vzporednem poteku
+plinovodov s plinovodi morajo biti odmiki skladni z osnovnimi zahtevami po
+varnostnih odmikih, navedenih v 17. členu tega pravilnika.
+Ob sočasni graditvi plinovodov se lahko
+horizontalni varnostni odmiki pri vzporednem vodenju zmanjšajo do 50%.
+22. člen
+Pri križanju in vzporednem polaganju
+jeklenih plinovodov z visoko in nizkonapetostnimi vodniki je za preprečitev
+medsebojnega vpliva in dodatno zaščito treba upoštevati slovenske standarde.
+Odmiki plinovodov z največjim delovnim
+tlakom do vključno 5 barov od elektroenergetskih vodov morajo biti skladni z
+osnovnimi zahtevami po varnostnih odmikih, določenih v 17. členu tega
+pravilnika.
+Pri križanju plinovoda z največjim delovnim
+tlakom nad 5 barov do vključno 16 barov in elektroenergetskega voda mora biti
+najmanjši višinski odmik 0,3 m. Pri vzporednem poteku mora biti
+elektroenergetski vod oddaljen od plinovoda najmanj 0,5 m.
+V izjemnih primerih se s posebnimi
+varnostnimi ukrepi varnostni odmiki lahko tudi zmanjšajo.
+23. člen
+Pri križanju kanalizacijskega voda s
+plinovodom mora plinovod potekati nad kanalizacijskim vodom. Če to ni mogoče,
+je potrebna dodatna zaščita, za preprečitev prehajanja plina v kanalizacijski
+vod.
+Višinski varnostni odmik plinovoda od
+kanalizacijskega voda mora biti v skladu z osnovnimi zahtevami za varnostne
+višinske odmike, določenih v 17. členu tega pravilnika.
+24. člen
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kanalizacijskega voda, mora biti varnostni
+odmik plinovoda z največjim delovnim tlakom do 5 barov od kanalizacijskega voda
+najmanj 0,5 m. V izjemnih primerih se s posebnimi varnostnimi ukrepi odmik plinovoda
+od kanalizacijskega voda lahko tudi zmanjša.
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kanalizacijskega voda, mora biti varnostni
+odmik plinovoda z največjim delovnim tlakom nad 5 barov do vključno 16 barov v
+skladu z osnovnimi zahtevami po varnostnih odmikih, določenih v 17. členu tega
+pravilnika.
+Pri vzporednem poteku, ko je teme plinovoda
+niže od temena kanalizacijskega voda, mora biti osnovni varnostni odmik povečan
+za dodatni varnostni odmik. V izjemnih primerih se dodatni varnostni odmik
+lahko nadomesti s posebnimi varnostnimi ukrepi.
+25. člen
+Pri križanju in vzporednem poteku
+toplotnega omrežja s plinovodi morajo biti varnostni odmiki skladni z osnovnimi
+zahtevami po odmikih, določenih v 17. členu tega pravilnika.
+26. člen
+Pri križanju toplotnega omrežja v kineti s
+plinovodom z največjim delovnim tlakom do vključno 5 barov mora plinovod
+potekati nad kineto. Če to ni mogoče, je potrebna dodatna zaščita, za
+preprečitev prehajanja plina v kineto.
+Višinski varnostni odmik plinovoda od
+kinete mora biti v skladu z osnovnimi zahtevami za varnostne višinske odmike,
+določenih v 17. členu tega pravilnika.
+27. člen
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kinete, mora biti varnostni odmik plinovoda z
+delovnim tlakom do vključno 5 barov od kinete najmanj 0,5 m. V izjemnih
+primerih se s posebnimi varnostnimi ukrepi odmik plinovoda od kinete lahko tudi
+zmanjša.
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kinete, mora biti varnostni odmik plinovoda z
+delovnim tlakom nad 5 barov do vključno 16 barov v skladu z osnovnimi zahtevami
+po varnostnih odmikih, določenih v 17. členu tega pravilnika.
+Pri vzporednem poteku, ko je teme plinovoda
+niže od temena kinete, mora biti osnovni varnostni odmik povečan za dodatni
+varnostni odmik. V izjemnih primerih se dodatni varnostni odmik lahko nadomesti
+s posebnimi varnostnimi ukrepi.
+28. člen
+Pri križanju kabelske kanalizacije s
+plinovodom mora plinovod potekati nad kineto. Če to ni mogoče, je potrebna
+dodatna zaščita za preprečitev prehajanja plina v kabelsko kanalizacijo.
+Višinski varnostni odmik plinovoda od
+kabelske kanalizacije mora biti v skladu z osnovnimi zahtevami za varnostne
+višinske odmike, določenih v 17. členu tega pravilnika.
+29. člen
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kabelske kanalizacije, mora biti varnostni
+odmik plinovoda z največjim delovnim tlakom do vključno 5 barov od kabelske
+kanalizacije najmanj 0,5 m. V izjemnih primerih se s posebnimi varnostnimi
+ukrepi varnostni odmik plinovoda od kabelske kanalizacije lahko tudi zmanjša.
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kabelske kanalizacije, mora biti varnostni
+odmik plinovoda z delovnim tlakom nad 5 barov do vključno 16 barov v skladu z
+osnovnimi zahtevami po varnostnih odmikih, določenih v 17. členu tega
+pravilnika.
+Pri vzporednem poteku, ko je teme plinovoda
+niže od temena kabelske kanalizacije, mora biti osnovni varnostni odmik povečan
+za dodatni varnostni odmik. V izjemnih primerih se dodatni varnostni odmik
+lahko nadomesti s posebnimi varnostnimi ukrepi.
+30. člen
+Pri križanju kolektorja s plinovodom mora
+plinovod potekati nad kolektorjem. Če to ni mogoče, je potrebna dodatna zaščita
+za preprečitev prehajanja plina v kolektor.
+Višinski varnostni odmik plinovoda od
+kolektorja mora biti v skladu z osnovnimi zahtevami za varnostne višinske
+odmike, določenih v 17. členu tega pravilnika.
+31. člen
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kolektorja, mora biti varnostni odmik plinovoda
+z največjim delovnim tlakom do vključno 5 barov od kolektorja najmanj 0,5 m. V
+izjemnih primerih se s posebnimi varnostnimi ukrepi varnostni odmik plinovoda
+od kolektorja lahko tudi zmanjša.
+Pri vzporednem poteku, ko je teme plinovoda
+više ali v isti višini kot teme kolektorja, mora biti varnostni odmik plinovoda
+z delovnim tlakom nad 5 barov do vključno 16 barov v skladu z osnovnimi
+zahtevami po varnostnih odmikih, določenih v 17. členu tega pravilnika.
+Pri vzporednem poteku, ko je teme plinovoda
+niže od temena kolektorja, mora biti osnovni varnostni odmik povečan za dodatni
+varnostni odmik. V izjemnih primerih se dodatni varnostni odmik lahko nadomesti
+s posebnimi varnostnimi ukrepi.
+32. člen
+Podzemno prečkanje železniške proge (tira)
+mora biti praviloma izvedeno v zaščitni cevi. Ustje zaščitne cevi mora biti
+zunaj gradbenega telesa železniškega tira in ne manj kot 5 m na vsako stran od
+skrajne osi tira. Teme zaščitne cevi plinovoda mora potekati najmanj 1,5 m pod
+zgornjim robom železniškega praga.
+Pri vzporednem poteku in približevanju
+varnostni odmik med zunanjo steno plinovoda in osjo skrajnega tira ne sme biti
+manjši od 8 m, oziroma 6 m od osi industrijskega tira.
+33. člen
+Pri križanju plinovoda z avtocestami,
+hitrimi cestami, glavnimi, regionalnimi in lokalnimi cestami mora biti plinovod
+ustrezno zaščiten.
+Pri vzporednem poteku plinovoda z
+avtocestami mora biti odmik plinovoda od skrajnega roba vozišča vsaj 5 m. V
+primeru hitrih cest mora biti odmik plinovoda od roba cestišča vsaj 2,5 m.
+Pri križanju plinovoda z največjim delovnim
+tlakom do vključno 5 bar z avtocestami, hitrimi, glavnimi, regionalnimi,
+lokalnimi cestami in javnimi potmi, mora biti višina prekritja določena glede
+na material plinovoda, debelino stene cevi ter dodatno zaščito plinovoda in ne
+sme biti manjša od 1 m, merjeno od nivoja cestišča.
+Pri križanju plinovoda z največjim delovnim
+tlakom od 5 bar do vključno 16 bar z avtocestami, hitrimi, glavnimi, regionalnimi,
+lokalnimi cestami in javnimi potmi, mora biti višina prekritja določena glede
+na material plinovoda, debelino stene cevi ter dodatno zaščito plinovoda in ne
+sme biti manjša od 1,2 m, merjeno od nivoja cestišča.
+V izjemnih primerih se s posebnimi varnostnimi
+ukrepi varnostni odmiki in globina polaganja plinovodov lahko zmanjšajo.
+34. člen
+Pri graditvi plinovoda ob gradbenem objektu
+je treba z varnostnimi odmiki zagotoviti stabilnost plinovodov in gradbenih
+objektov.
+Pri graditvi plinovodov z največjim
+delovnim tlakom do vključno 5 barov mora biti najmanjši horizontalni varnostni
+odmik med plinovodom in objektom 0,5 m. Pri graditvi plinovodov z največjim
+delovnim tlakom nad 5 barov do vključno 16 barov mora biti horizontalni
+varnostni odmik med plinovodom in objektom vsaj 2,5 m. V izjemnih primerih je z
+uporabo posebnih varnostnih ukrepov varnostni odmik lahko manjši.
+Pri graditvi objektov ob plinovodu mora
+biti z ustreznim varnostnim odmikom zagotovljena stabilnost plinovoda. Ob
+določevanju odmika je treba upoštevati najmanj način graditve, strukturo tal in
+globino plinovoda. Varnostni odmik ne sme biti manjši od 1 m pri graditvi ob
+plinovodu z največjim delovnim tlakom do vključno 5 barov in ne manjši od 5 m v
+primeru graditve ob plinovodu z največjim delovnim tlakom nad 5 barov do
+vključno 16 barov. V primeru predvidenih manjših varnostnih odmikov, mora biti
+pred graditvijo izvedena analiza vpliva graditve na plinovod in izvedeni morajo
+biti posebni varnostni ukrepi za zaščito plinovoda.
+Najmanjši še dopustni varnostni odmik
+plinovoda z največjim delovnim tlakom nad 5 barov do vključno 16 barov pri
+upoštevanju posebnih varnostnih ukrepov od objekta znaša 2,5 m.
+35. člen
+Nadzemno prečkanje plinovoda z vodotokom se
+lahko izvede po mostni konstrukciji in v posebnih pogojih samostojno. Plinovod
+je lahko vidno obešen na mostno konstrukcijo, vendar izven svetlega profila in
+pasivno zaščiten, lahko pa je vgrajen v konstrukcijo.
+Pri vodenju plinovoda po votlih prostorih
+konstrukcije morajo biti le-ti prezračevani ali naknadno zasuti. V vseh
+primerih izvedbe s pomočjo konstrukcije je treba upoštevati statiko
+konstrukcije in njeno dilatacijo. Prečkanje mora biti izvedeno z uporabo
+ustrezne metode graditve.
+Pri načrtovanju in polaganju podzemnega
+prečkanja vodotokov morajo biti praviloma raziskane geološke razmere in
+predvideni ustrezni varnostni ukrepi. Vsako podzemno prečkanje vodotoka je
+treba načrtovati posebej v skladu z ustreznimi metodami iz SIST EN 12007 – 1.
+del.
+Najmanjše prekritje plinovoda pod vodotokom
+mora biti določeno tako, da se plinovod zaščiti pred predvidljivimi aktivnostmi
+v vodotokih in ne sme biti manjše od 0,5 m. Način prečkanja mora biti obdelan v
+projektni dokumentaciji in potrjen s strani upravljavca vodotoka.
+36. člen
+Merilno-regulacijske, regulacijske in
+merilne postaje morajo biti postavljene v skladu z varnostnimi odmiki od
+različnih objektov, ki so določeni v Prilogi tega pravilnika, ki je njen
+sestavni del. Pri upoštevanju varnostnih odmikov glede na postavitev postaje,
+vstopni tlak, načrtovani pretok zemeljskega plina in vrste objektov se mora
+upoštevati, da je tveganje za okoliško območje še sprejemljivo. Odmiki ne
+veljajo za kabinetne regulacijske postaje.
+Pri podzemni izvedbi postaje se razdalje
+merijo od nadzemnih delov regulacijske postaje (prezračevalni jaški, oddušne
+cevi).
+Z varnostnim odmikom je mišljena najmanjša
+vodoravna razdalja med zunanjostjo postaje in objektom. Če ni mogoče zadostiti
+pogojem varnostnih odmikov iz Priloge, je treba na podlagi izdelane analize
+uporabiti posebne varnostne ukrepe.
+IV. NAČRTOVANJE
+37. člen
+Načrtovanje plinovodov mora potekati
+skladno z veljavnimi predpisi ob upoštevanju tehniškega razvoja, pri tem je
+potrebno upoštevati vse tehnične, okoljevarstvene, prostorske, varnostne in
+druge vidike ter postopke.
+Osnovni podatki in načini načrtovanja
+morajo biti dokumentirani skupaj z dejanskimi podatki ob zgraditvi omrežja, kot
+so dimenzija, material, načrtovani tlak, družina plinov in geodetski posnetek.
+Dokumentacija mora biti na voljo dokler plinovodno omrežje obratuje.
+38. člen
+Pred začetkom načrtovanja je treba zbrati
+vse podatke, potrebne za načrtovanje predvidenega dela plinovodnega omrežja.
+Podatki morajo vsebovati najmanj:
+-      
+družino plina,
+-      
+pričakovani pretok plina,
+-      
+načrtovani tlak,
+-      
+premer plinovoda,
+-      
+material plinovoda,
+-      
+lokacijo obstoječega plinovodnega omrežja in
+-      
+regulacijo tlaka.
+39. člen
+Globina polaganja plinovodov je odvisna od
+vrste dejavnikov, predvsem od:
+-      
+klimatskih pogojev,
+-      
+možnosti vpliva tretje osebe,
+-      
+razmer na zemljišču,
+-      
+lokacije drugih podzemnih vodov,
+-      
+lokacije drugih podzemnih ovir,
+-      
+prometnih omejitev,
+-      
+tehnike polaganja,
+-      
+najvišjega delovnega tlaka.
+40. člen
+Pri načrtovanju plinovodnega omrežja je
+treba upoštevati naslednje parametre:
+a) 
+družino zemeljskega plina,
+b) 
+lokacijo ter število dejanskih in pričakovanih
+odjemalcev, tip odjemalca, profil odjema in podnebne razmere in obseg območja,
+za katero se načrtuje oskrba s plinom,
+c) 
+načrtovane parametre plinovoda:
+-  najvišji delovni in načrtovani tlak plina,
+-  zahteve za zagotovitev minimalnega tlaka v plinovodnem omrežju in
+normalnega tlačnega razpona v plinovodnem omrežju za zagotovitev varne uporabe
+plina,
+-  hitrost plina v plinovodu,
+-  dinamične spremembe v pretoku plina zaradi specifične uporabe,
+-  izračun tlačnih razmer v omrežju pri določitvi premera plinovoda.
+Pri bolj kompleksnih mrežah se uporabijo ustrezni modeli za izračun.
+Izračun in dimenzioniranje plinovodnega omrežja
+morata biti izvedena upoštevaje vse navedene parametre.
+41. člen
+Materiale iz katerih so izdelani plinovodi,
+je treba izbrati glede na družino plina in načrtovane parametre plinovoda.
+Ustrezati morajo slovenskim standardom.
+Pri oblikovanju zahtev za načrtovanje,
+graditev in preskušanje pri uporabi različnih materialov je obvezna uporaba
+standarda SIST EN 12007 in drugih slovenskih standardov glede na vrsto
+materiala.
+42. člen
+Najvišji delovni tlak v omrežju mora biti
+manjši ali največ enak načrtovanemu tlaku ter višji ali najmanj enak najnižjemu
+tlaku, ki zagotavlja normalno obratovanje plinovodnega omrežja.
+Pri določevanju najvišjega tlaka pri motnji
+in preskusnega tlaka, odvisno od najvišjega delovnega tlaka, se obvezno
+uporablja standard SIST EN 12007.
+43. člen
+Pri načrtovanju plinovodov je treba
+upoštevati sestavo tal in z ustreznimi varnostnimi ukrepi predvideti zaščito
+plinovoda pred nevarnostmi, ki jih lahko povzroči sestava tal ali okoliški
+vplivi (nestabilna tla, odnašanje materiala, posebne razmere podzemnih vod,
+morebitna agresivnost tal idr.).
+Pri načrtovanju morajo biti podani ustrezni
+varnostni ukrepi za premostitev težav, povezanih s polaganjem plinovodov v tla
+različne sestave.
+44. člen
+Meritve pretoka zemeljskega plina je treba
+izvajati po veljavnih predpisih.
+Kot osnova za določitev količine plina se
+upoštevajo standardni pogoji tlaka 101,325 kPa in temperaturo plina 288,15 K
+ter za določitev zgorevalne toplote temperatura plina 288,15 K.
+Pri določevanju fizikalnih načinov merjenja
+pretoka plina, najpogosteje uporabljane metode in odgovornost za zagotavljanje
+sledljivosti, zanesljivosti in zadovoljevanje osnovnih zahtev po natančnosti,
+varnosti in ekonomičnosti je obvezna uporaba standarda SIST EN 1776.
+45. člen
+Pri določitvi pasivnega in aktivnega
+sistema za protikorozijsko zaščito je obvezna uporaba standarda SIST EN 12007.
+Glavni plinovodi, priključni plinovodi ali
+njihovi deli iz jekla morajo biti zaščiteni pred korozijo. Zaščita naj bo
+pasivna, kjer je to potrebno, pa aktivna. Deli glavnih in priključnih
+plinovodov iz jekla, nameščenih na prostem, morajo biti pasivno protikorozijsko
+zaščiteni.
+46. člen
+V plinovode morajo biti vgrajeni zaporni
+elementi, ki ločijo posamezne sekcije, odcepe ali območja plinovodnega omrežja.
+Mesto vgraditve zapornih elementov določi
+projektant v dogovoru z upravljavcem plinovodnega omrežja. Del zapornega
+elementa na površini mora biti ustrezno zaščiten in označen.
+47. člen
+Sifoni in kondenčne cevi se vgrajujejo na
+najnižjih mestih plinovodov ali tam, kjer lahko pride do zadrževanja vode v
+plinovodnem omrežju.
+Del sifona in kondenčne cevi na površini
+mora biti ustrezno zaščiten in označen.
+48. člen
+Kjer je potrebno, se v plinovod vgradi
+odzračevalna ali izpihovalna cev. Odzračevanje in izpihovanje morata biti
+izvedeno tako, da je zagotovljeno varno izpihovanje omrežja.
+Del odzračevalne in izpihovalne cevi na
+površini mora biti ustrezno zaščiten in označen.
+49. člen
+Priključni plinovod je sestavni del
+plinovodnega omrežja. Vsi elementi priključnega plinovoda in njihova vgradnja
+morajo biti v skladu s tem pravilnikom, slovenskimi in evropskimi standardi ter
+zahtevami in priporočili upravljavcev plinovodnih omrežij.
+50. člen
+Pri priključnih plinovodih iz jekla mora
+biti vgrajen izolacijski element. Izolacijski element je lahko v sklopu glavne
+plinske zaporne pipe ali neposredno za njo kot samostojen element.
+Izolacijski elementi v objektih morajo biti
+primerni za zemeljski plin in imeti zvečano toplotno odpornost.
+Mesto vgraditve sekcijskih izolacijskih
+elementov določi projektant po navodilih upravljavca plinovodnega omrežja.
+51. člen
+Glavna plinska zaporna pipa mora biti vedno
+dostopna intervencijski skupini in skupini za ugotavljanje netesnosti in
+poškodb na plinovodnem omrežju.
+52. člen
+Regulacijske, merilne in kompresorske
+postaje morajo biti načrtovane in grajene v skladu s standardom SIST EN 12007
+in v njem določenimi standardi za področje teh postaj.
+53. člen
+Regulacijske postaje morajo biti načrtovane
+in grajene v skladu s standardom SIST EN 12186 in v njem določenimi standardi
+za področje regulacijskih postaj.
+Za kombinacijo regulacijskih in merilnih
+postaj se morajo uporabljati dodatne zahteve standarda SIST EN 1776.
+54. člen
+Regulacijska postaja je lahko nameščena na
+prostem, pokritem ali v zaprtem prostoru. Postaja mora biti zavarovana pred
+vstopom nepooblaščene osebe. Kolikor je uporabljena zaščitna ograja, mora biti
+oprema nameščena v zadostni oddaljenosti od ograje, da se preprečijo mogoči
+vplivi okolice na elemente regulacijske postaje.
+Postaja, katere oprema ni varovana v
+zaprtem prostoru, mora imeti pred posegi tretje osebe varovane vse elemente, s
+katerimi je mogoče spreminjati hidravlične parametre v omrežju (zaporni
+elementi, naprave – regulatorji tlaka plina idr).
+Pri določanju dodatnih zahtev glede
+prostora postaje se obvezno uporablja standard SIST EN 12186.
+55. člen
+Cone eksplozijske nevarnosti določi
+projektant na podlagi izračunov eksplozijske nevarnosti, ki morajo biti
+izdelani po zakonih in predpisih.
+56. člen
+Regulacijska postaja mora biti načrtovana
+tako, da:
+-      
+glede na prostorske razmere lahko pravilno
+obratuje,
+-      
+so njeni deli lahko dostopni za upravljanje in
+vzdrževanje,
+-      
+je mogoče dele postaje ločiti z zapornimi
+elementi,
+-      
+vsak del postaje, vključno z vzporednimi vodi,
+izpolnjuje zahteve standarda SIST EN 12186.
+Pri določevanju dodatnih zahtev za
+predgrevanje, izločevalnike in filtre, dovoljeni hrup, prezračevalne odprtine,
+električno napeljavo, razsvetljavo, katodno zaščito, cevi, pomožne naprave,
+varjenje, tlačne analize in ločitvene zaporne elemente se obvezno uporablja
+standard SIST EN 12186.
+57. člen
+Sistem nadzora tlaka mora vzdrževati tlak v
+zahtevanih mejah in mora zagotavljati, da tlak ne preseže dovoljenega nivoja.
+Sistem regulacije tlaka mora vzdrževati
+tlak plina v mejah, ki so sprejemljive za omrežje. Nastavljena vrednost na
+regulatorju tlaka plina ne sme preseči največjega delovnega tlaka.
+Sistem varovanja pred previsokim tlakom
+mora delovati samodejno, da se prepreči preseganje tlaka prek dovoljenih meja.
+Pri določevanju zahtev za delovanje sistema
+varovanja pred previsokim tlakom in vrst naprav varovanja tlaka je obvezna
+uporaba standarda SIST EN 12186.
+58. člen
+Vsi elementi postaje pod tlakom morajo biti
+preskušeni. Preskusni postopki morajo biti izbrani skladno s SIST EN 12327. Preskušanje
+mora biti v skladu z zahtevami za preskušanje v SIST EN 12186.
+59. člen
+Regulacijska postaja lahko začne obratovati
+po opravljenih trdnostnih in tesnostnih preskusih. Začetek obratovanja mora
+biti izveden po SIST EN 12327.
+Obratovanje regulacijske postaje je skladno
+z obratovanjem drugega plinovodnega omrežja. Pri določevanju dodatnih zahtev se
+mora uporabljati standard SIST EN 12186.
+Vsi deli regulacijske postaje morajo biti
+primerno vzdrževani, da se zagotovi njeno zanesljivo obratovanje.
+60. člen
+Merilne postaje morajo biti načrtovane,
+grajene in vzdrževane po standardu SIST EN 1776 in v njem navedenih standardih
+za področje merilnih postaj.
+61. člen
+Pri določevanju funkcionalnih zahtev za
+načrtovanje, graditev, obratovanje in vzdrževanje novih kompresorskih postaj se
+mora upoštevati standard SIST EN 12583.
+Za kompresorske postaje, ki že obratujejo,
+se mora standard SIST EN 12583 uporabljti le za dele, ki se nadomestijo,
+povečajo ali spremenijo skladno z zahtevami standarda.
+62. člen
+Vsi zaporni elementi, sifoni, katodna
+zaščita, odzračevalne in izpihovalne cevi, izolacijski elementi in merilna
+mesta, ki so vgrajena v plinovod, morajo biti označeni s pozicijsko tablico.
+Tablica mora poleg oznake elementa plinovoda vsebovati še številko in lokacijo
+vgrajenega elementa.
+63. člen
+Kataster plinovodov je treba po predpisih
+geodetsko izmeriti in vzdrževati. Geodetske izmere morajo biti izdelane v
+državnem koordinatnem sistemu in morajo vsebovati najmanj:
+-      
+začetek in konec plinovodov,
+-      
+dimenzije plinovodov in pozicije sprememb
+dimenzije,
+-      
+material plinovodov in pozicije sprememb
+materiala,
+-      
+odcepe za priključne plinovode,
+-      
+začetek in konec zaščitne cevi,
+-      
+višino plinovodov (absolutna višina temena
+cevi),
+-      
+etaže,
+-      
+elemente katodne zaščite,
+-      
+točke prehoda plinovodov (vidno – zemeljsko),
+-      
+pozicije zapornih elementov, sifonov,
+-      
+križanja z drugimi vodi.
+Podatki, ki jih je treba vpisati na izmeri,
+so: oznaka, dimenzija in material elementov in cevi.
+V. GRADITEV
+64. člen
+Ves čas graditve je treba namenjati posebno
+pozornost varnosti osebja, okolja in bližnjega premoženja skladno s predpisi.
+Pred začetkom del je treba preveriti
+skladnost vseh za vgraditev predvidenih delov omrežja ter pregledati obstoječe
+elemente in naprave zaradi morebitnih poškodb ali ovir, ki bi lahko ovirale
+pretok plina.
+65. člen
+Plinovode lahko polaga le usposobljeno
+strokovno osebje, ki pri tem uporablja ustrezno opremo za opravljanje del po
+veljavnih standardih.
+Dno jarka, v katerega se polaga plinovod,
+mora biti brez ostrih predmetov, ki bi lahko poškodovali cev ali oblogo cevi. V
+nasprotnem primeru mora biti plinovod položen na peščeno posteljico ali
+zavarovan s posebno mehansko zaščito. Izdelavo peščene posteljice, obsipa in
+zasipa cevovoda ter položaj opozorilnega traku določi projektant.
+Kadar graditev izvaja ali nadzira tretja
+oseba, je treba upravljavcu omrežja izdati potrdilo, da so bili deli omrežja
+zgrajeni po predpisih in standardih ter v skladu s prakso.
+66. člen
+Pri določanju osnovnih zahtev glede
+prevoza, skladiščenja in pregleda cevi in elementov se mora glede na material
+plinovodov uporabljati standard SIST EN 12007.- 2. del. in SIST EN 12007 – 3.
+del.
+Za spajanje cevi in drugih elementov
+omrežja in za priklop na obstoječe plinovodno omrežje se mora izbrati ustrezna
+metoda in postopek skladno z zahtevami standardov SIST EN 12007 – 2. del. in
+SIST EN 12007 – 3. del. Spajanje lahko izvaja le usposobljeno strokovno osebje.
+Polaganje, vsebina zapisa o polaganju in
+nadzor morajo biti opravljeni po zahtevah standardov SIST EN 12007 – 2. del. in
+SIST EN 12007 – 3. del.
+67. člen
+Pri priklopu novega plinovoda na obstoječe
+plinovodno omrežje se za skupen največji delovni tlak prevzame nižjega od obeh
+delovnih tlakov. Pri načrtovanju in izvedbi povezave novega in obstoječega
+omrežja se morajo upoštevati vse posebne zahteve glede materialov obstoječega
+omrežja in dodatne zahteve upravljavca plinovodnega omrežja.
+Pri določanju posebnih zahtev je obvezna
+uporaba standarda SIST EN 12007.
+VI. TLAČNI PRESKUS, ZAČETEK IN PRENEHANJE OBRATOVANJA
+68. člen
+Upravljavec plinovodnega omrežja je
+odgovoren za zagotovitev ustreznih tlačnih preskusov na omrežju pred začetkom
+obratovanja, skladno s standardom SIST EN 12327.
+69. člen
+Metode tlačnega preskusa določi projektant
+z obvezno uporabo standarda SIST EN 12327 z nivoji preskusnega tlaka glede na
+dimenzije plinovodov, material, preskusni volumen in največji delovni tlak
+omrežja.
+70. člen
+Tlačni preskus izvaja usposobljeno
+strokovno osebje, ki pri tem uporablja ustrezno opremo za izvedbo tlačnega
+preskusa po izbrani metodi. Po izvedenem tlačnem preskusu mora biti narejen
+zapisnik o tlačnem preskusu.
+Kadar opravlja tlačni preskus tretja oseba
+ali pa ga nadzira, je treba upravljavcu omrežja izdati zapisnik o tlačnem
+preskusu in potrdilo, da so bili deli omrežja preskušeni po predpisih in
+standardih ter v skladu s prakso.
+71. člen
+Upravljavec omrežja mora hraniti
+dokumentacijo o preskusih na plinovodnem omrežju skupaj s podatki o datumih in
+rezultatih preskušanja ves čas uporabe omrežja do njegove fizične odstranitve.
+72. člen
+Začetek in prenehanje obratovanja
+plinovodnega omrežja mora biti skladno z zahtevami standarda SIST EN 12327.
+73. člen
+Ustrezna metoda mora biti izbrana za
+začetek in prenehanje obratovanja glavnih in priključnih plinovodov glede na
+družino plina, tlačni nivo, volumen in stopnjo odcepov. Dela morajo biti skrbno
+načrtovana s pisnim postopkom in načrtom varnega opravljanja dela.
+74. člen
+Začetek in prenehanje obratovanja omrežja
+izvede pristojna strokovna oseba, ki jo določi upravljavec omrežja (oseba upravljavca
+omrežja ali druga oseba glede na lokalna pravila). Obratovanje se lahko začne,
+ko se pridobi ustrezno dovoljenje, skladno z zakoni in predpisi.
+Upravljavec omrežja mora poskrbeti, da bodo
+vsi odjemalci, prizadeti zaradi načrtovanega začetka ali ustavitve obratovanja
+omrežja, o predvidenih posegih pravočasno obveščeni.
+VII. OBRATOVANJE, NADZOR IN VZDRŽEVANJE
+75. člen
+Upravljavec plinovodnega omrežja mora v
+okviru obratovanja zagotavljati zahtevano stopnjo odoriranosti plina, skladno z
+9. členom tega pravilnika, ustrezen delovni tlak in varnost omrežja.
+Organizirati mora dežurno službo,
+intervencijsko skupino in skupino za ugotavljanje in odpravo netesnosti in
+poškodb in s tem zagotoviti varno obratovanje plinovodnega omrežja.
+Spremljati in arhivirati je treba vse
+dokumente v zvezi z obratovanjem plinovodnega omrežja.
+76. člen
+Obratovanje, nadzor in vzdrževanje
+regulacijskih postaj, merilnih postaj in kompresorskih postaj mora potekati po
+standardih SIST EN 12186, SIST EN 1776 in SIST EN 12583.
+77. člen
+Upravljavec omrežja mora vpeljati sistem
+evidentiranja zgrajenih glavnih in priključnih plinovodov in zagotoviti njihovo
+spremljanje tekom obratovanja. Urejeno mora imeti dokumentacijo vgrajenih
+plinovodov.
+Sistem evidentiranja mora v skladu s
+standardom SIST EN 12007 – 1. del obsegati vsaj: družino plina, podatke o
+graditvi, preskušanju in začetku obratovanja, pravice do dostopa in traso,
+mesto vgraditve ter druge značilnosti plinovodnega omrežja (točka 13.2
+standarda SIST EN 12007).
+Kataster omrežja za lociranje plinovodov
+mora biti na voljo upravljavcem komunalnih naprav, lokalnim in državnim
+organom.
+78. člen
+Upravljavec omrežja mora organizirati
+preverjanje netesnosti na plinovodnem omrežju. Pogostost preverjanja in izbira
+postopka morata biti skladna s standardom SIST EN 12007 – 1. del.
+79. člen
+Za zagotovitev obratovalne varnosti in
+zanesljivosti obratovanja mora upravljavec omrežja vpeljati stalen sistem za
+kontrolo, nadzor in vzdrževanje.
+80. člen
+Tretje osebe morajo vsak predvideni poseg,
+ki bi lahko vplival na plinovodno omrežje, vnaprej javiti upravljavcu omrežja.
+Pred posegom mora tretja oseba pridobiti od upravljavca omrežja soglasje za
+vsak poseg v varnostni pas plinovodov.
+Varnostni pas plinovodov je določen na
+podlagi največjega delovnega tlaka zemeljskega plina v plinovodu in znaša:
+-      
+za največji delovni tlak do vključno 5 barov: 2
+m na vsako stran plinovoda in
+-      
+za največji delovni tlak nad 5 barov do 16
+barov: 5 m na vsako stran plinovoda.
+Upravljavec omrežja mora nadzirati vsa dela
+v varnostnem pasu, s čimer se zagotovi varnost obratovanja plinovodnega
+omrežja.
+81. člen
+Upravljavec omrežja mora na zahtevo tretjih
+oseb, npr. mestnih javnih podjetij, cestnih podjetij in pogodbenikov, le tem
+priskrbeti informacije o lokaciji glavnih in priključnih plinovodov in vse
+ustrezne opreme, da bi jim bile v pomoč pri izvajanju del brez ogrožanja
+varnosti plinovodnega omrežja.
+Tretje osebe, ki bodo izvajale dela v
+bližini plinovodnega omrežja, morajo za izvajanje predvidenih del pridobiti od
+upravljavca omrežja pogoje in zahteve za graditev.
+82. člen
+Upravljavec omrežja mora voditi evidenco
+opuščenih plinovodov in njihovih delov, ki so ločeni od plinovodnega omrežja.
+83. člen
+Za zagotovitev varnega in zanesljivega
+obratovanja plinovodnega omrežja mora upravljavec omrežja organizirati službo
+za vzdrževanje. Upravljavec mora prevzeti ustrezne ukrepe za zaščito življenj
+in posesti med obratovanjem in vzdrževanjem omrežja.
+Deli plinovodnega omrežja morajo biti
+vzdrževani po standardih SIST EN 12007, SIST EN 12186, SIST EN 1776 in SIST EN
+12583 in drugih slovenskih standardih za posamezne elemente omrežja.
+Vsa vzdrževalna dela na plinovodih sme
+opravljati le upravljavec omrežja ali usposobljeno strokovno osebje, ki ima z
+upravljavcem sklenjeno pogodbo o vzdrževanju.
+84. člen
+Vzdrževalna dela, ki se ne štejejo za
+rekonstrukcijo plinovoda, so dela izboljšanja pretočnih kapacitet in varnostnih
+lastnosti, pri katerih se ne posega izven varnostnega pasu plinovoda.
+Dela iz prejšnjega odstavka se štejejo za
+vzdrževalna pod pogojem, da se ne spreminjajo osnovne konstrukcijsko tehnične
+lastnosti plinovoda, ter da se ne poslabšajo razmere glede varstva okolja.
+Ta dela se morajo pred začetkom izvajanja
+priglasiti pristojnemu organu.
+VIII. OBNOVA
+85. člen
+Obnova plinovodnega omrežja mora biti
+načrtovana in izvedena po standardu SIST EN 12007 4. del. Pri tem je za izbiro
+tehnike obnove odgovorno usposobljeno strokovno osebje, za izbiro materiala in
+dimenzije pa projektant, pri čemer je obvezna uporaba določil standarda SIST EN
+12007 - 1. del. Nadaljnja navodila glede načrtovanja polietilenskih in jeklenih
+plinovodov so podana v standardu SIST EN 12007 – 2. in 3. del.
+Na izbiro postopka obnove vplivajo:
+-      
+struktura obstoječega omrežja,
+-      
+višina delovnega tlaka v omrežju po obnovi,
+-      
+zahtevani pretok v omrežju,
+-      
+število priključnih plinovodov,
+-      
+obstoj in število odcepov, lokov, armatur,
+-      
+obstoječe stanje dela omrežja, ki se naj bi
+obnovil,
+-      
+lega dela omrežja, ki se naj bi obnovil,
+-      
+število, vrsta in stanje cevnih povezav na delu
+omrežja, ki se naj bi obnovil,
+-      
+obveznosti do odjemalcev na omrežju med obnovo
+in po njej.
+86. člen
+Pri dviganju najvišjega delovnega tlaka
+zemeljskega plina nad načrtovani tlak je obvezna uporaba določil standarda SIST
+EN 12007 – 4. del.
+Vso odgovornost pri povišanju delovnega
+tlaka v omrežju prevzame upravljavec omrežja in zagotovi, da vsi elementi
+omrežja trdnostno in tesnostno ustrezajo predvidenemu tlaku. Najvišji dovoljeni
+delovni tlak se določi glede na tlačno stopnjo najneugodnejšega elementa v
+omrežju.
+87. člen
+Pri načrtovanju del na omrežju je treba od
+upravljavcev komunalnih vodov, ki so v bližini, pridobiti vse informacije
+potrebne za načrtovanje predvidene obnove plinovoda.
+Načrtovanje obnove mora potekati po
+veljavnih predpisih.
+88. člen
+Pred začetkom del je treba preveriti
+skladnost vseh za vgraditev predvidenih delov plinovodnega omrežja ter
+pregledati obstoječe naprave zaradi morebitnih ovir, ki bi lahko ovirale pretok
+plina.
+Paziti je treba, da se pri ločitvi dela
+omrežja, ki se obnavlja, preostali del omrežja ne poškoduje. Posebno pozornost
+je treba nameniti priključnim plinovodom na delu omrežja, ki se obnavlja.
+89. člen
+Lega in velikost izkopa sta odvisni od
+višine kritja nad temenom plinovoda, premera predvidenega plinovoda in drugih
+dejavnikov. Ob izkopu je treba bližnje vode po potrebi zaščititi.
+Po končanih delih je treba vzpostaviti
+prvotno stanje na področju mesta izkopa.
+90. člen
+Kadar gre za obnovo z zgraditvijo novih
+plinovodov ter opustitev starih, je treba upoštevati standard SIST EN 12007 –
+2. in 3. del – odvisno od materiala novih plinovodov.
+Ob vgraditvi novih plinovodov v obstoječe
+(metoda “relining”), se stare plinovode pregleda in po potrebi očisti, da ne
+pride do poškodb.
+91. člen
+Po končanih delih je treba obnovljeni del
+omrežja trdnostno in tesnostno preskusiti skladno s standardom SIST EN 12327.
+Če tesnostni preskus ne more biti izveden, upravljavec omrežja določi ustrezen
+postopek preskusa.
+92. člen
+Upravljavec omrežja mora poskrbeti za zapis
+podatkov o obnovi skladno z zahtevami standarda SIST EN 12007.
+IX. NAČRT ZA POSREDOVANJE V PRIMERU NEVARNOSTI
+93. člen
+Upravljavec omrežja mora vpeljati,
+preskusiti in obnavljati interni načrt za posredovanje pri nevarnostih, ki
+lahko nastanejo pri oskrbi s plinom. Načrt naj po potrebi vključuje tudi druge
+inštitucije (policija, gasilska brigada ipd.) in komunalne organizacije.
+
+Priloga: Varnostni odmiki (m)
+
+Pravilnik o tehničnih pogojih za graditev,
+obratovanje in vzdrževanje plinovodov z največjim delovnim tlakom do vključno
+16 barov (Uradni list RS, št. 26/02)
+vsebuje naslednjo prehodno in končno določbo:
+»X. PREHODNA IN KONČNA DOLOČBA
+94. člen
+Z dnem uveljavitve tega pravilnika
+prenehajo veljati določbe pravilnika o tehničnih pogojih in normativih za varen
+transport tekočih in plinastih ogljikovodikov po magistralnih naftovodih in
+plinovodih za mednarodni transport (Uradni list SFRJ, št. 26/85) za tisti del,
+ki velja za plinovode z najvišjim delovnim tlakom do vključno 16 barov.
+Za plinovode, ki so v gradnji ali v
+postopku pridobivanja upravno-tehnične dokumentacije in za katere so bili
+projekti izdelani pred uveljavitvijo tega pravilnika, se uporablja določbe do
+sedaj veljavnega pravilnika o tehničnih pogojih in normativih za varen
+transport tekočih in plinastih ogljikovodikov po magistralnih naftovodih in
+plinovodih za mednarodni transport (Uradni list SFRJ, št. 26/85).
+Določbe 77. člena o sledenju in vpeljavi
+sistema evidentiranja ter 93. člena glede vpeljave načrta za nevarnost se
+pričnejo uporabljati 12 mesecev po uveljavitvi tega pravilnika.
+95. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+pravilnika o tehničnih pogojih za graditev, obratovanje in vzdrževanje
+plinovodov z največjim delovnim tlakom do vključno 16 barov (Uradni list RS,
+št. 54/02) vsebuje naslednjo končno določbo:
+»3. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.

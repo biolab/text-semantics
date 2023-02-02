@@ -1,0 +1,17 @@
+Text file: PRAV9380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1262386800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9380
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obve\u0161\u010Danju in objavljanju podatkov o pojavu in raz\u0161\
+  irjenosti rastlinskih \u0161kodljivih organizmov v Republiki Sloveniji"
+npbNum: 0
+path: /2009/45/2009-01-4575
+sopPredpisa: 2009-01-4575
+sopPredpisaChng: null

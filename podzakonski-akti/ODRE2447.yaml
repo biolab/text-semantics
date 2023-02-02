@@ -1,0 +1,18 @@
+Text file: ODRE2447.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1529013600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2447
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi datuma, od katerega se v postopkih dodelitve izredne\
+  \ brezpla\u010Dne pravne pomo\u010Di podatki o upravi\u010Denosti do denarne socialne\
+  \ pomo\u010Di pridobivajo po elektronski poti"
+npbNum: 0
+path: /2018/19/2018-01-1932
+sopPredpisa: 2018-01-1932
+sopPredpisaChng: null

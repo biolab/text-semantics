@@ -1,0 +1,18 @@
+Text file: ODLO538.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 952383600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO538
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o preferencialnih pravilih o poreklu blaga, ki se v letu 2000 uporabljajo\
+  \ za izvajanje uredbe \_o za\u010Dasni uporabi sporazuma o prosti trgovini med Republiko\
+  \ Slovenijo in Republiko Latvijo"
+npbNum: 0
+path: /2000/09/2000-01-0909
+sopPredpisa: 2000-01-0909
+sopPredpisaChng: null

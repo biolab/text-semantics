@@ -1,0 +1,17 @@
+Text file: PRAV3696.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 998604000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3696
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zdravni\u0161kih pregledih posameznikov za ugotavljanje zdravstvene\
+  \ zmo\u017Enosti za posest ali no\u0161enje oro\u017Eja"
+npbNum: 0
+path: /2001/35/2001-01-3559
+sopPredpisa: 2001-01-3559
+sopPredpisaChng: null

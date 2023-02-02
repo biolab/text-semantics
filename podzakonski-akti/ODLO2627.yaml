@@ -1,0 +1,12 @@
+Text file: ODLO2627.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ODLO2627
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o razre\u0161itvi namestnice varuha \u010Dlovekovih pravic"
+npbNum: 0
+path: /2021/35/2021-01-3597
+sopPredpisa: 2021-01-3597
+sopPredpisaChng: null

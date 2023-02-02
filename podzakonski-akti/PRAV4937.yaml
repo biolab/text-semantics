@@ -1,0 +1,16 @@
+Text file: PRAV4937.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1067032800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4937
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o meroslovnih zahtevah za neavtomatske tehtnice*
+npbNum: 0
+path: /2003/43/2003-01-4334
+sopPredpisa: 2003-01-4334
+sopPredpisaChng: null

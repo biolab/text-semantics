@@ -1,0 +1,13 @@
+Text file: SKLE10368.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10368
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Stockholmu,\
+  \ v Kraljevini \u0160vedski"
+npbNum: 0
+path: /2015/21/2015-01-2146
+sopPredpisa: 2015-01-2146
+sopPredpisaChng: null

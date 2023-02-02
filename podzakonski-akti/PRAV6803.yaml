@@ -1,0 +1,17 @@
+Text file: PRAV6803.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1435356000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6803
+idPredpisaChng: PRAV6803
+instock: .nan
+naslov: "PRAVILNIK o integrirani pridelavi polj\u0161\u010Din (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2015/17/2015-01-1713-2010-01-5765-npb1
+sopPredpisa: 2015-01-1713
+sopPredpisaChng: 2010-01-5765

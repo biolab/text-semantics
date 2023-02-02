@@ -1,0 +1,17 @@
+Text file: SKLE11742.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622844000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE11742
+idPredpisaChng: SKLE11742
+instock: .nan
+naslov: "SKLEP o zavarovalno-statisti\u010Dnih podatkih (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2021/16/2021-01-1699-2019-01-1124-npb4
+sopPredpisa: 2021-01-1699
+sopPredpisaChng: 2019-01-1124

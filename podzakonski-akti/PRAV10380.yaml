@@ -1,0 +1,17 @@
+Text file: PRAV10380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1293490800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10380
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o oblikovanju in izvajanju programov
+  razvoja raziskovalne dejavnosti
+npbNum: 0
+path: /2010/55/2010-01-5500
+sopPredpisa: 2010-01-5500
+sopPredpisaChng: null

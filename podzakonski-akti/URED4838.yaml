@@ -1,0 +1,17 @@
+Text file: URED4838.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595023200000000000
+- null
+- null
+- 10
+idPredpisa: URED4838
+idPredpisaChng: URED4838
+instock: .nan
+naslov: "UREDBA o izrabljenih vozilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2020/19/2020-01-1910-2011-01-1576-npb2
+sopPredpisa: 2020-01-1910
+sopPredpisaChng: 2011-01-1576

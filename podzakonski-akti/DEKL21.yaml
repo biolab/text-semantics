@@ -1,0 +1,18 @@
+Text file: DEKL21.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1170370800000000000
+- null
+- null
+- 10
+idPredpisa: DEKL21
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO o podpori Slovesni deklaraciji Parlamentarne skup\u0161\u010D\
+  ine Sveta Evrope Parlamenti, zdru\u017Eeni v boju proti nasilju nad \u017Eenskami\
+  \ v dru\u017Eini  (DeDSEBN\u017D)"
+npbNum: 0
+path: /2007/03/2007-01-0384
+sopPredpisa: 2007-01-0384
+sopPredpisaChng: null

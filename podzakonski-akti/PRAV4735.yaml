@@ -1,0 +1,17 @@
+Text file: PRAV4735.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1046473200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4735
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK  o izobra\u017Eevalnih programih Usposabljanje za \u017Eivljenjsko\
+  \ uspe\u0161nost"
+npbNum: 0
+path: /2003/08/2003-01-0831
+sopPredpisa: 2003-01-0831
+sopPredpisaChng: null

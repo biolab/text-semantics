@@ -1,0 +1,16 @@
+Text file: URED4091.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1138402800000000000
+- null
+- null
+- 10
+idPredpisa: URED4091
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi obdobja poletnega \u010Dasa"
+npbNum: 0
+path: /2006/02/2006-01-0299
+sopPredpisa: 2006-01-0299
+sopPredpisaChng: null

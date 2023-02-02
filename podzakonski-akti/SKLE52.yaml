@@ -1,0 +1,17 @@
+Text file: SKLE52.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1242424800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE52
+idPredpisaChng: SKLE52
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Atlanti (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2009/17/2009-01-1721-1999-01-0397-npb1
+sopPredpisa: 2009-01-1721
+sopPredpisaChng: 1999-01-0397

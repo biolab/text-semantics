@@ -1,0 +1,16 @@
+Text file: ODRE1728.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1012863600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1728
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o vi\u0161ini zavarovalne vsote"
+npbNum: 0
+path: /2002/02/2002-01-0254
+sopPredpisa: 2002-01-0254
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED4220.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199746800000000000
+- null
+- null
+- 10
+idPredpisa: URED4220
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o pogodbenem opravljanju prostovoljne slu\u017Ebe v pomo\u017Eni policiji"
+npbNum: 0
+path: /2007/59/2007-01-5989
+sopPredpisa: 2007-01-5989
+sopPredpisaChng: null

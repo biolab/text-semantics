@@ -1,0 +1,17 @@
+Text file: ODRE950.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE950
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o energijskem ozna\u010Devanju gospodinjskih elektri\u010Dnih pe\u010D\
+  ic*"
+npbNum: 0
+path: /2003/40/2003-01-4087
+sopPredpisa: 2003-01-4087
+sopPredpisaChng: null

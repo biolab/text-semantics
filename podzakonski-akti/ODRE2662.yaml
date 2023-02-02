@@ -1,0 +1,17 @@
+Text file: ODRE2662.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1620943200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2662
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o podatkih, ki jih distributerji naftnih derivatov in drugi zavezanci
+  zagotavljajo ministrstvu
+npbNum: 0
+path: /2021/15/2021-01-1556
+sopPredpisa: 2021-01-1556
+sopPredpisaChng: null

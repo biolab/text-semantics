@@ -1,0 +1,18 @@
+Text file: URED4480.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1273874400000000000
+- null
+- null
+- 10
+idPredpisa: URED4480
+idPredpisaChng: URED4480
+instock: .nan
+naslov: "UREDBA o emisiji snovi v zrak iz nepremi\u010Dnih plinskih turbin z vhodno\
+  \ toplotno mo\u010Djo manj kot 50\_MW in nepremi\u010Dnih motorjev z notranjim zgorevanjem\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2010/18/2010-01-1848-2007-01-1842-npb2
+sopPredpisa: 2010-01-1848
+sopPredpisaChng: 2007-01-1842

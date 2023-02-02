@@ -1,0 +1,17 @@
+Text file: PRAV13401.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1527890400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13401
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih za uporabo virov ionizirajo\u010Dih sevanj v zdravstvene\
+  \ namene in pri namerni izpostavljenosti ljudi v nemedicinske namene"
+npbNum: 0
+path: /2018/16/2018-01-1625
+sopPredpisa: 2018-01-1625
+sopPredpisaChng: null

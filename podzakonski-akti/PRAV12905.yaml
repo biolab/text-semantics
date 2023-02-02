@@ -1,0 +1,17 @@
+Text file: PRAV12905.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1645830000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12905
+idPredpisaChng: PRAV12905
+instock: .nan
+naslov: "PRAVILNIK o sofinanciranju socialnovarstvenih programov (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/03/2022-01-0360-2016-01-2986-npb3
+sopPredpisa: 2022-01-0360
+sopPredpisaChng: 2016-01-2986

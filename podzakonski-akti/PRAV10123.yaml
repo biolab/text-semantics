@@ -1,0 +1,17 @@
+Text file: PRAV10123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1262732400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10123
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o priznanju dodatnega izobra\u017Eevanja za\_podalj\u0161anje veljavnosti\
+  \ dovoljenja za opravljanje nalog poobla\u0161\u010Denega revizorja"
+npbNum: 0
+path: /2009/49/2009-01-4995
+sopPredpisa: 2009-01-4995
+sopPredpisaChng: null

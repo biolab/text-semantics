@@ -1,0 +1,17 @@
+Text file: PRAV4264.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1024610400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4264
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev, ki jih morajo izpolnjevati rezervoarji,\
+  \ namenjeni skladi\u0161\u010Denju naftnih derivatov za dr\u017Eavne blagovne rezerve"
+npbNum: 0
+path: /2002/25/2002-01-2582
+sopPredpisa: 2002-01-2582
+sopPredpisaChng: null

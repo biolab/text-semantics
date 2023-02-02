@@ -1,0 +1,17 @@
+Text file: PRAV4575.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1514761200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4575
+idPredpisaChng: PRAV4575
+instock: .nan
+naslov: "PRAVILNIK o merilih za trajanje, primerih in pogojih dopusta sodnikov (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/29/2017-01-2971-2003-01-1059-npb1
+sopPredpisa: 2017-01-2971
+sopPredpisaChng: 2003-01-1059

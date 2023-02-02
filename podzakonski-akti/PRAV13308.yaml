@@ -1,0 +1,16 @@
+Text file: PRAV13308.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1564178400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13308
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o elaboratu ekonomike
+npbNum: 0
+path: /2019/21/2019-01-2125
+sopPredpisa: 2019-01-2125
+sopPredpisaChng: null

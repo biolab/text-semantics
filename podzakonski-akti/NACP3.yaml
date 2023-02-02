@@ -1,0 +1,17 @@
+Text file: NACP3.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 961538400000000000
+- null
+- null
+- 10
+idPredpisa: NACP3
+idPredpisaChng: null
+instock: .nan
+naslov: "NACIONALNI PROGRAM ZDRAVSTVENEGA VARSTVA REPUBLIKE SLOVENIJE \u2013 ZDRAVJE\
+  \ ZA VSE DO LETA 2004 (NPZV)"
+npbNum: 0
+path: /2000/23/2000-01-2333
+sopPredpisa: 2000-01-2333
+sopPredpisaChng: null

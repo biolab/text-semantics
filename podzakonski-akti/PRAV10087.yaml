@@ -1,0 +1,17 @@
+Text file: PRAV10087.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1264806000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10087
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu delitve in obra\u010Dunu stro\u0161kov za toploto\
+  \ v stanovanjskih in drugih stavbah z ve\u010D posameznimi deli"
+npbNum: 0
+path: /2010/02/2010-01-0241
+sopPredpisa: 2010-01-0241
+sopPredpisaChng: null

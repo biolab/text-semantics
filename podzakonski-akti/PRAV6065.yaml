@@ -1,0 +1,18 @@
+Text file: PRAV6065.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1090360800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6065
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu prijavljanja in odjavljanja televizijskih in radijskih\
+  \ sprejemnikov ter o na\u010Dinu pla\u010Devanja prispevka za programe Radiotelevizije\
+  \ Slovenija"
+npbNum: 0
+path: /2004/33/2004-01-3371
+sopPredpisa: 2004-01-3371
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV12887.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1497045600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12887
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o potrdilu o strokovni usposobljenosti varnostnega svetovalca
+npbNum: 0
+path: /2017/13/2017-01-1378
+sopPredpisa: 2017-01-1378
+sopPredpisaChng: null

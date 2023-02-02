@@ -1,0 +1,17 @@
+Text file: URED7652.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1529100000000000000
+- null
+- null
+- 10
+idPredpisa: URED7652
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
+  \ vinogradov in izpada dohodka v vinskem letu 2018/2019"
+npbNum: 0
+path: /2018/19/2018-01-1906
+sopPredpisa: 2018-01-1906
+sopPredpisaChng: null

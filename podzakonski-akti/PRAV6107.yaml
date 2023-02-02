@@ -1,0 +1,16 @@
+Text file: PRAV6107.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1095458400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6107
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o mojstrskih izpitih
+npbNum: 0
+path: /2004/43/2004-01-4350
+sopPredpisa: 2004-01-4350
+sopPredpisaChng: null

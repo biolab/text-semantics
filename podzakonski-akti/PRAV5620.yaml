@@ -1,0 +1,16 @@
+Text file: PRAV5620.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1081461600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5620
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o kakovosti finih pekovskih izdelkov
+npbNum: 0
+path: /2004/12/2004-01-1218
+sopPredpisa: 2004-01-1218
+sopPredpisaChng: null

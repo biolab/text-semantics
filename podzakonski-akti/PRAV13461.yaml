@@ -1,0 +1,17 @@
+Text file: PRAV13461.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1521846000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13461
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplom na Visoki \u0161oli Ravne na Koro\u0161\
+  kem"
+npbNum: 0
+path: /2018/08/2018-01-0831
+sopPredpisa: 2018-01-0831
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: URED999.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1007506800000000000
+- null
+- null
+- 10
+idPredpisa: URED999
+idPredpisaChng: URED999
+instock: .nan
+naslov: "UREDBA o uveljavljanju ugovora vesti voja\u0161ki dol\u017Enosti in o izvajanju\
+  \ civilne slu\u017Ebe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2001/48/2001-01-4802-1996-01-2274-npb1
+sopPredpisa: 2001-01-4802
+sopPredpisaChng: 1996-01-2274

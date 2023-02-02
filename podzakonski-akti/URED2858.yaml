@@ -1,0 +1,16 @@
+Text file: URED2858.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1050012000000000000
+- null
+- null
+- 10
+idPredpisa: URED2858
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi obrambnih potreb"
+npbNum: 0
+path: /2003/12/2003-01-1221
+sopPredpisa: 2003-01-1221
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV10886.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1354316400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10886
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih in postopku deponiranja lastnih sredstev in vra\u010D\
+  ila teh sredstev tujcu"
+npbNum: 0
+path: /2012/34/2012-01-3454
+sopPredpisa: 2012-01-3454
+sopPredpisaChng: null

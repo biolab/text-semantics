@@ -1,0 +1,17 @@
+Text file: AKT_870.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1374530400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_870
+idPredpisaChng: null
+instock: .nan
+naslov: "SPLO\u0160NI AKT o elementih vzor\u010Dne ponudbe za razvezan dostop do krajevne\
+  \ zanke"
+npbNum: 0
+path: /2013/24/2013-01-2492
+sopPredpisa: 2013-01-2492
+sopPredpisaChng: null

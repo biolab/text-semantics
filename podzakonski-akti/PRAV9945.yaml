@@ -1,0 +1,20 @@
+Text file: PRAV9945.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1325372400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1305324000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9945
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o usposabljanju in pooblastilih za izvajanje ukrepov varstva pred\
+  \ po\u017Earom"
+npbNum: 0
+path: /2011/15/2011-01-1509
+sopPredpisa: 2011-01-1509
+sopPredpisaChng: null

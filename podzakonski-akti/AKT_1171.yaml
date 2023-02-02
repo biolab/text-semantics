@@ -1,0 +1,26 @@
+Text file: AKT_1171.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1600380000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1171
+idPredpisaChng: null
+instock: .nan
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijske sisteme zemeljskega plina\
+  \ za geografska obmo\u010Dja Ob\u010Dine Tr\u017Ei\u010D, Ob\u010Dine Radovljica,\
+  \ Ob\u010Dine Beltinci, Ob\u010Dine Rogatec, Ob\u010Dine Odranci, Ob\u010Dine Trzin,\
+  \ Ob\u010Dine Menge\u0161, Ob\u010Dine Dom\u017Eale, Ob\u010Dine Turni\u0161\u010D\
+  e, Ob\u010Dine Vodice, Ob\u010Dine Komenda, Ob\u010Dine Slovenska Bistrica, Ob\u010D\
+  ine Slovenske Konjice, Ob\u010Dine Gornja Radgona, Ob\u010Dine Cerklje na Gorenjskem,\
+  \ Ob\u010Dine \u0160en\u010Dur \u2013 3. o\u017Eje obmo\u010Dje, Ob\u010Dine \u0160\
+  kofja Loka, Ob\u010Dine Dobrovnik \u2013 o\u017Eje obmo\u010Dje, Ob\u010Dine Idrija,\
+  \ Ob\u010Dine Se\u017Eana, Ob\u010Dine Dravograd, Ob\u010Dine Muta, Ob\u010Dine\
+  \ Ravne na Koro\u0161kem, Ob\u010Dine Prevalje, Ob\u010Dine \u0160marje pri Jel\u0161\
+  ah, Ob\u010Dine Me\u017Eica in Ob\u010Dine \u010Crna na Koro\u0161kem"
+npbNum: 0
+path: /2020/21/2020-01-2180
+sopPredpisa: 2020-01-2180
+sopPredpisaChng: null

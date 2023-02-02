@@ -1,0 +1,17 @@
+Text file: PRAV5230.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1636758000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5230
+idPredpisaChng: PRAV5230
+instock: .nan
+naslov: "PRAVILNIK o normativih in standardih v srednjih \u0161olah z italijanskim\
+  \ u\u010Dnim jezikom (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2021/35/2021-01-3519-2003-01-4014-npb7
+sopPredpisa: 2021-01-3519
+sopPredpisaChng: 2003-01-4014

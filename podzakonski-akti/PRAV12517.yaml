@@ -1,0 +1,17 @@
+Text file: PRAV12517.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577401200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12517
+idPredpisaChng: PRAV12517
+instock: .nan
+naslov: "PRAVILNIK o ultralahkih letalnih napravah (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2019/33/2019-01-3316-2016-01-2111-npb4
+sopPredpisa: 2019-01-3316
+sopPredpisaChng: 2016-01-2111

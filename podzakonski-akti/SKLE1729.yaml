@@ -1,0 +1,16 @@
+Text file: SKLE1729.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 761007600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1729
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o pove\u010Danju republi\u0161kih \u0161tipendij"
+npbNum: 0
+path: /1994/02/1994-01-0287
+sopPredpisa: 1994-01-0287
+sopPredpisaChng: null

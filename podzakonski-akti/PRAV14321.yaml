@@ -1,0 +1,17 @@
+Text file: PRAV14321.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649023200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14321
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161em na\u010Dinu o\u0161tevil\u010Devanja in ozna\u010D\
+  evanja stanovanj in poslovnih prostorov"
+npbNum: 0
+path: /2021/25/2021-01-2543
+sopPredpisa: 2021-01-2543
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV6353.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1112306400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6353
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Rodni\
+  \ vrh (2004\u20132013)"
+npbNum: 0
+path: /2005/11/2005-01-1106
+sopPredpisa: 2005-01-1106
+sopPredpisaChng: null

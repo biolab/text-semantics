@@ -1,0 +1,17 @@
+Text file: PRAV10778.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1403301600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10778
+idPredpisaChng: PRAV10778
+instock: .nan
+naslov: "PRAVILNIK o Festivalu slovenskega filma (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2014/18/2014-01-1842-2011-01-2060-npb2
+sopPredpisa: 2014-01-1842
+sopPredpisaChng: 2011-01-2060

@@ -1,0 +1,17 @@
+Text file: PRAV6412.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1342216800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6412
+idPredpisaChng: PRAV6412
+instock: .nan
+naslov: "PRAVILNIK o rekreacijskih plovilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2012/20/2012-01-2069-2005-01-1650-npb1
+sopPredpisa: 2012-01-2069
+sopPredpisaChng: 2005-01-1650

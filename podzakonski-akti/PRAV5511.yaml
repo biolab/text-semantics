@@ -1,0 +1,16 @@
+Text file: PRAV5511.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1120168800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5511
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eenju razmno\u017Eevalnega materiala okrasnih rastlin"
+npbNum: 0
+path: /2005/26/2005-01-2678
+sopPredpisa: 2005-01-2678
+sopPredpisaChng: null

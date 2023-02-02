@@ -1,0 +1,18 @@
+Text file: ODRE2694.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1637362800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2694
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010D\
+  ne energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010D\
+  ne energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2022"
+npbNum: 0
+path: /2021/35/2021-01-3547
+sopPredpisa: 2021-01-3547
+sopPredpisaChng: null

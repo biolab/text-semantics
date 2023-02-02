@@ -1,0 +1,19 @@
+Text file: PRAV11648.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1388530800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1379714400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11648
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu izvajanja 153. \u010Dlena Zakona o elektronskih komunikacijah"
+npbNum: 0
+path: /2013/27/2013-01-2742
+sopPredpisa: 2013-01-2742
+sopPredpisaChng: null

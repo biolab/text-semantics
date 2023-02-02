@@ -1,0 +1,16 @@
+Text file: ODRE285.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 920674800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE285
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o pogojih za ustanavljanje javnih vrtcev
+npbNum: 0
+path: /1999/05/1999-01-0514
+sopPredpisa: 1999-01-0514
+sopPredpisaChng: null

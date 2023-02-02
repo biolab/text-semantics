@@ -1,0 +1,16 @@
+Text file: URED1299.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 961538400000000000
+- null
+- null
+- 10
+idPredpisa: URED1299
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen u\u010Dbenikov"
+npbNum: 0
+path: /2000/25/2000-01-2517
+sopPredpisa: 2000-01-2517
+sopPredpisaChng: null

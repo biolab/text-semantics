@@ -1,0 +1,17 @@
+Text file: SKLE2000.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1283810400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2000
+idPredpisaChng: SKLE2000
+instock: .nan
+naslov: "SKLEP o ustanovitvi Kmetijsko gozdarskega zavoda Kranj (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/38/2010-01-3854-2000-01-5097-npb1
+sopPredpisa: 2010-01-3854
+sopPredpisaChng: 2000-01-5097

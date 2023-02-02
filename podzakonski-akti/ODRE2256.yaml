@@ -1,0 +1,18 @@
+Text file: ODRE2256.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1438984800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2256
+idPredpisaChng: ODRE2256
+instock: .nan
+naslov: "ODREDBA o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj\
+  \ \u017Eivali v letu 2015 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 1)"
+npbNum: 1
+path: /2015/23/2015-01-2303-2014-01-3669-npb1
+sopPredpisa: 2015-01-2303
+sopPredpisaChng: 2014-01-3669

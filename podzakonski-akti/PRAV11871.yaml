@@ -1,0 +1,17 @@
+Text file: PRAV11871.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1390604400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11871
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o ocenjevanju in razvr\u0161\
+  \u010Danju trupov ovc, jagnjet in sesnih jagnjet na klavni liniji"
+npbNum: 0
+path: /2014/01/2014-01-0124
+sopPredpisa: 2014-01-0124
+sopPredpisaChng: null

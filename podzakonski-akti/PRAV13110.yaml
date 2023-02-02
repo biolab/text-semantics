@@ -1,0 +1,16 @@
+Text file: PRAV13110.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1505340000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13110
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o elektronskem poslovanju v civilnih sodnih postopkih
+npbNum: 0
+path: /2017/23/2017-01-2335
+sopPredpisa: 2017-01-2335
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ODRE2542.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1583794800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2542
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o prepovedi zbiranja na javnih prireditvah v javnih prostorih zaprtega
+  tipa v Republiki Sloveniji
+npbNum: 0
+path: /2020/04/2020-01-0495
+sopPredpisa: 2020-01-0495
+sopPredpisaChng: null

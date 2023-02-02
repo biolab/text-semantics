@@ -1,0 +1,16 @@
+Text file: URED6604.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1385766000000000000
+- null
+- null
+- 10
+idPredpisa: URED6604
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o cestnini za uporabo cestnega predora Karavanke
+npbNum: 0
+path: /2013/35/2013-01-3541
+sopPredpisa: 2013-01-3541
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV12525.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1644015600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12525
+idPredpisaChng: PRAV12525
+instock: .nan
+naslov: "PRAVILNIK o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov\
+  \ za redne preglede klimatskih sistemov (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2022/01/2022-01-0116-2016-01-0597-npb1
+sopPredpisa: 2022-01-0116
+sopPredpisaChng: 2016-01-0597

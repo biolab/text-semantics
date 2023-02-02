@@ -1,0 +1,1365 @@
+1. SPLOŠNA DOLOČBA
+1. člen
+(vsebina)
+Ta pravilnik določa:
+1.     
+način vodenja podatkov katastra nepremičnin;
+2.     
+način določitve in vpisa meje parcele s poligonom, daljicami in točkami,
+označitve meje parcele v naravi, strokovna pravila za koordinatni vklop ter
+predpisano točnost koordinat točk;
+3.     
+mejno vrednost razlike površine glede na objekt, kateremu se določa
+površina;
+4.     
+velikosti površine in položajno točnost točk;
+5.     
+kriterije za določitev neposredne bližine meje parcele;
+6.     
+podrobnejšo vsebino in način vodenja zapisnika mejne obravnave;
+7.     
+postavljanje mejnikov na oziroma ob državni meji, če ratificirana
+mednarodna pogodba prepoveduje postavljanje mejnikov;
+8.     
+vsebino, obseg in obliko podatkov predloga za izvedbo lokacijske
+izboljšave na širšem območju izvedbe katastrskega postopka;
+9.     
+način določanja in vodenja bonitete zemljišč;
+10.  
+pravila grafičnih presekov dejanskih rab zemljišč s parcelami;
+11.  
+način izračuna površine dejanskih rab zemljišč po parcelah, mejne
+vrednosti razlike površin ter način izkazovanja podatkov o dejanskih rabah
+zemljišč;
+12.  
+vrste sestavine dela stavbe;
+13.  
+vrste dejanskih rab dela stavbe, vrste prostorov in povezavo dejanske
+rabe delov stavb na klasifikacijo vrst objektov CC-SI v skladu s predpisom, ki
+ureja razvrščanje objektov;
+14.  
+podrobnejši način merjenja prostorov, izračuna neto tlorisne površine
+dela stavbe in površine prostorov ter način določitve uporabne površine dela
+stavbe in prostornine rezervoarjev in silosov;
+15.  
+pravila vodenja podatkov o mejah občin z mejami parcel;
+16.  
+način pridobitve elaborata za izdelavo drugega mnenja in
+17.  
+podrobnejšo vsebino elaboratov za posamezno vrsto katastrskega postopka.
+2. PODROBNEJŠI PODATKI O PARCELAH, STAVBAH IN DELIH
+STAVB
+2.1 Izmenjevalni formati
+2. člen
+(izmenjevalni formati)
+(1) Za poenoteno vodenje podatkov katastra nepremičnin
+so izmenjevalni formati za vpis podatkov v kataster nepremičnin objavljeni na
+osrednjem spletnem mestu državne uprave.
+(2) Izmenjevalni formati in njihove spremembe morajo
+biti objavljene vsaj 30 dni pred začetkom njihove uporabe.
+2.2 Podrobnejši podatki o parcelah
+3. člen
+(meja parcele)
+(1) Meje parcele se vpišejo v kataster nepremičnin, če
+je površina parcele enaka ali večja od 1 m².
+(2) Spremenjena ali nova meja parcele se v katastru
+nepremičnin vpiše tako, da se vpišejo nove točke in njihove medsebojne povezave
+ali se spremenijo ali ukinejo obstoječe točke ter njihove medsebojne povezave.
+(3) Točka se ukine, če se z izvedbo spremembe iz
+prejšnjega odstavka zmanjša število lomnih točk.
+(4) Nova točka se vpiše, če se z izvedbo spremembe iz
+drugega odstavka tega člena poveča število lomnih točk.
+(5) Točka se spremeni, če je sprememba koordinat točke v
+intervalu točnosti koordinat točke.
+4. člen
+(številka točke)
+(1) Številka točke je sestavljena iz šifre katastrske
+občine in zaporedne številke v okviru katastrske občine.
+(2) Točke na meji katastrskih občin se oštevilčijo v
+katastrski občini z nižjo številko šifre katastrske občine.
+(3) Številka ukinjene točke se ne sme ponovno uporabiti,
+spremenjena točka pa ohrani številko.
+5. člen
+(koordinate točke)
+(1) Za točko se vodijo ravninske koordinate in višinske
+koordinate v državnem prostorskem koordinatnem sistemu.
+(2) Ravninske koordinate točk so določene z geodetsko
+izmero in drugimi geodetskimi metodami določitve koordinat ali z lokacijsko
+izboljšavo.
+(3) Višinska koordinata točke je višina, ki je določena
+na podlagi grafičnega preseka katastrskega načrta in digitalnega modela
+reliefa.
+(4) Koordinate točk se vodijo v metrih in se zaokrožijo
+na dve decimalni mesti.
+6. člen
+(točnost koordinat točke)
+(1) Točnost ravninskih koordinat točke je določena kot
+koren srednjega kvadratnega odstopanja (v nadaljnjem besedilu: DRMS), ki se
+izračuna iz standardnih odklonov v smereh obeh koordinatnih osi σE in σN po naslednji enačbi:
+(2) DRMS točke, ki v katastrskem postopku določa urejeno
+mejo, mora biti manjši ali enak 1 m (DRMS ≤ 1 m).
+(3) Po določitvi DRMS se točki dodeli šifra točnosti iz
+šifranta, ki je sestavni del izmenjevalnih formatov iz 2. člena tega
+pravilnika.
+7. člen
+(model transformacije koordinat, način označitve točke v
+naravi in status točke)
+(1) Model transformacije koordinat je verzija modela
+transformacije z državnim modelom transformacije, določenim v skladu s
+predpisi, ki urejajo državni geodetski referenčni sistem.
+(2) Način označitve točke v naravi je podatek o vrsti
+znamenja, s katerim je označena točka v naravi.
+(3) Status točke je podatek o tem, ali je točka določena
+ali spremenjena v upravnem, sodnem ali tehničnem postopku.
+8. člen
+(namenska raba zemljišč)
+(1) Podatki o namenski rabi zemljišč se vodijo s
+šiframi, ki so določene v šifrantu namenske rabe zemljišč v Prilogi 1, ki je
+sestavni del tega pravilnika.
+(2) Namenska raba zemljišč se izkazuje v obliki deležev
+površin namenskih rab za vsako parcelo posebej. Deleži so zapisani v odstotkih
+in zaokroženi na eno decimalno mesto.
+2.3. Podrobnejši podatki o stavbah in delih stavb
+9. člen
+(tloris stavbe)
+(1) Tloris stavbe se vpiše v kataster nepremičnin, če je
+njegova površina enaka ali večja od 1 m².
+(2) Koordinate točk tlorisa stavbe se določijo v
+državnem prostorskem koordinatnem sistemu. Vodijo se v metrih in zaokrožijo na
+dve decimalni mesti.
+(3) Koordinate točk tlorisa stavbe se določijo kot
+geodetska izmera v skladu z zakonom, ki ureja državni geodetski referenčni
+sistem.
+(4) Površina tlorisa stavbe na parceli se izračuna iz
+ravninskih koordinat točk. Vodi se v kvadratnih metrih.
+10. člen
+(tloris zemljišča pod stavbo, tloris nadzemnega dela stavbe
+in tloris podzemnega dela stavbe)
+(1) Tloris zemljišča pod stavbo se vodi kot poligon v
+državnem prostorskem koordinatnem sistemu.
+(2) Površina tlorisa zemljišča pod stavbo na parceli se
+izračuna s presekom poligona tlorisa zemljišča pod stavbo in mej parcel. Vodi
+se v kvadratnih metrih.
+(3) Tloris nadzemnega dela stavbe in tloris podzemnega
+dela stavbe se vodita kot poligona v državnem prostorskem koordinatnem sistemu.
+(4) Tloris nadzemnega dela stavbe, tloris podzemnega
+dela stavbe in tloris zemljišča pod stavbo ne smejo segati izven tlorisa
+stavbe.
+11. člen
+(podatek, s katero parcelo je stavba povezana)
+(1) Podatek, s katero parcelo je stavba povezana, je
+določen s tlorisom stavbe.
+(2) Če je v katastru nepremičnin vpisan tloris stavbe,
+je podatek o povezavi stavbe s parcelo parcelna številka ene ali več parcel, na
+katerih je v katastru nepremičnin vpisan tloris te stavbe.
+(3) Če v katastru nepremičnin ni vpisanega tlorisa
+stavbe, je podatek o povezavi stavbe s parcelo točka povezave. Točka povezave
+mora ležati znotraj tlorisa stavbe in hkrati znotraj parcele. Če stavba leži na
+več parcelah, ima več točk povezave. Informacija, katere od teh parcel so
+povezane s stavbo, se pridobi iz tlorisa nadzemnega dela stavbe, v primeru
+podzemnih stavb pa informacijo poda vlagatelj zahteve za vpis stavbe v kataster
+nepremičnin ali vpis spremembe podatkov katastra nepremičnin. Točka povezave je
+določena s koordinatami v državnem prostorskem koordinatnem sistemu. Koordinate
+točke povezave se izrazijo v metrih in zaokroži na dve decimalni mesti.
+12. člen
+(centroid stavbe)
+(1) Stavbi se določi centroid stavbe.
+(2) Koordinate centroida stavbe se določijo v državnem
+prostorskem koordinatnem sistemu. Vodijo se v metrih in zaokrožijo na dve
+decimalni mesti.
+(3) Centroid stavbe leži znotraj tlorisa stavbe.
+13. člen
+(višinske kote stavbe)
+(1) Višinske kote stavbe se določijo z geodetsko izmero
+v državnem prostorskem koordinatnem sistemu. Vodijo se v metrih in zaokrožijo
+na eno decimalno mesto.
+(2) Najnižja višinska kota stavbe je višina tlaka v prvi
+etaži. Najvišja višinska kota stavbe je najvišja višina strehe ali zidanega
+dela stavbe. Karakteristična višina stavbe je višina terena ob glavnem vhodu v
+stavbo glede na površje zemljišča.
+14. člen
+(etaža)
+(1) Številka etaže in številka pritlične etaže se vodita
+kot pozitivna cela številka.
+(2) Številka pritlične etaže opredeljuje tisto etažo, ki
+je neposredno nad zemeljsko površino ali največ za pol etažne višine nad njo.
+Če stavba take etaže nima, se številka pritlične etaže ne določi.
+(3) Višina tal etaže se določi v državnem prostorskem
+koordinatnem sistemu. Vodi se v metrih in zaokroži na eno decimalno mesto.
+(4) Višina etaže se vodi v metrih in zaokroži na eno
+decimalno mesto. V primeru različnih višin etaže se vodi prevladujoča višina
+etaže.
+15. člen
+(število etaž)
+(1) Število etaž je skupno število etaž v stavbi pod
+površjem in nad njim. Vodi se kot pozitivna cela številka.
+(2) Medetaže se štejejo kot etaže.
+16. člen
+(hišna številka)
+Za vsako hišno številko se določi povezava s številko stavbe
+iz katastra nepremičnin.
+17. člen
+(centroid hišne številke)
+(1) Lega centroida hišne številke je določena s
+centroidom stavbe.
+(2) Če ima stavba določenih več hišnih številk, se za
+vsako hišno številko določi svoj centroid, praviloma blizu vhoda v stavbo, ki
+ga označuje, vendar znotraj tlorisa stavbe.
+(3) Koordinate centroida hišne številke se določijo v
+državnem prostorskem koordinatnem sistemu. Vodijo se v metrih in zaokrožijo na
+dve decimalni mesti.
+18. člen
+(dovoljena raba stavbe)
+Dovoljena raba stavbe se prevzame iz prostorskega
+informacijskega sistema do nivoja podrazreda natančno.
+19. člen
+(poligon dela stavbe)
+Točke poligona dela stavbe se vpišejo s koordinatami v
+državnem prostorskem koordinatnem sistemu. Koordinate se vodijo v metrih in
+zaokrožijo na dve decimalni mesti.
+20. člen
+(sestavina dela stavbe)
+(1) Lomne točke poligona sestavine dela stavbe se
+vpišejo s koordinatami v državnem prostorskem koordinatnem sistemu. Koordinate
+se vodijo v metrih in zaokrožijo na dve decimalni mesti.
+(2) Površina sestavine dela stavbe se vodi v kvadratnih
+metrih.
+(3) Vrsti sestavin delov stavb sta atrij in parkirišče.
+(4) Identifikacijska oznaka sestavine dela stavbe je
+določena z zaporedno številko znotraj Republike Slovenije.
+21. člen
+(neto tlorisna površina dela stavbe)
+(1) Neto tlorisna površina dela stavbe je vsota površin
+prostorov, ki pripadajo delu stavbe. Pri izračunu neto tlorisne površine dela
+stavbe se ne upoštevajo površine prostorov, po katerih se hodi samo med
+vzdrževanjem (npr. prazni prostori med zemljiščem in spodnjo stranjo stavbe,
+prostori znotraj prezračevanih streh in nepohodni podstrešni prostori).
+(2) Neto tlorisna površina dela stavbe se izračuna v
+skladu s standardom SIST ISO 9836 tako, da se glede načina meritev in določitve
+površin uporabljata točki 5.1.1.1 in 5.1.5, razen točke 5.1.5.2 v delu, ki
+določa razdelitev na način iz točke 5.1.3.1, in točke 5.1.5.5.
+(3) Dolžine stranic prostora se merijo na centimeter
+natančno. Stranice se merijo v višini tal, pri čemer se ne upoštevajo obrobe,
+pragovi ipd. Dolžine stranic prostorov, ki niso zaprti do polne višine ali so
+samo delno zaprti in nimajo elementov, ki omejujejo prostor (npr. balkon, terasa),
+se merijo do roba.
+(4) Neto tlorisna površina dela stavbe se vodi v
+kvadratnih metrih in zaokroži na eno decimalno mesto.
+(5) Če ima stavba en del stavbe ali če ima stavba več
+delov stavbe in je vsak od njih cela etaža ali več celih etaž, se lahko neto tlorisna
+površina dela stavbe ne glede na določbe tega člena izračuna iz merskih
+podatkov zemljišča pod stavbo in tlorisa stavbe ob upoštevanju debelin zunanjih
+zidov stavbe in števila etaž, če naročnik elaborata, ki je podlaga za vpis
+stavbe in delov stavbe v kataster nepremičnin, to zahteva.
+(6) Podrobnejši način merjenja prostorov, izračun neto
+tlorisne površine dela stavbe in površine prostorov so določeni v Prilogi 3, ki
+je sestavni del tega pravilnika.
+22. člen
+(uporabna površina dela stavbe)
+(1) Uporabna površina dela stavbe se vodi v kvadratnih
+metrih in zaokroži na eno decimalno mesto.
+(2) Uporabna površina dela stavbe se izračuna v skladu s
+točko 5.1.7.1 standarda SIST ISO 9836.
+(3) Način določitve uporabne površine dela stavbe je v
+Prilogi 3 tega pravilnika.
+23. člen
+(prostornina rezervoarjev in silosov)
+(1) Prostornina rezervoarjev in silosov se izračuna v
+skladu s točko 5.2.1.2.a standarda SIST ISO 9836.
+(2) Prostornina rezervoarjev in silosov se vodi v
+kubičnih metrih in zaokroži na eno decimalno mesto.
+(3) Podrobnejši način določitve prostornine rezervoarjev
+in silosov je v Prilogi 3 tega pravilnika.
+24. člen
+(vrsta in površina prostorov)
+(1) Površina prostora se vodi v kvadratnih metrih in
+zaokroži na eno decimalno mesto.
+(2) Vrste prostorov in povezava dejanske rabe delov
+stavb na klasifikacijo vrst objektov CC-SI v skladu s predpisom, ki ureja
+razvrščanje objektov, so navedeni v Prilogi 2, ki je sestavni del tega
+pravilnika.
+25. člen
+(dejanska raba dela stavbe)
+Vrste dejanskih rab dela stavbe so navedene v Prilogi 2 tega
+pravilnika.
+26. člen
+(hišna številka dela stavbe)
+(1) Če je stavbi določena hišna številka, se delu stavbe
+vpiše hišna številka le, če je del stavbe stanovanje ali poslovni prostor.
+(2) Če je stavbi določenih več hišnih številk, se delu
+stavbe lahko vpiše ena izmed hišnih številk, ki je določena stavbi glede na
+lego oziroma dostop do dela stavbe.
+(3) Del stavbe ima lahko le eno hišno številko.
+3. NAČIN IZKAZOVANJA PARCELNE ŠTEVILKE, ŠTEVILKE STAVBE
+IN ŠTEVILKE DELA STAVBE
+27. člen
+(izkazovanje parcelne številke)
+(1) Parcelna številka se izkazuje tako, da se izpiše:
+beseda »parcela«, po presledku šifra katastrske občine brez vodilnih ničel, po
+presledku številka parcele, ki je določena v okviru katastrske občine, brez
+vodilnih ničel, ki ji sledita poševnica in poddelilka brez vodilnih ničel, če
+je ta določena.
+(2) Parcelna številka se lahko izkazuje tudi tako, da se
+izpiše: besedilo »katastrska občina«, po presledku šifra katastrske občine brez
+vodilnih ničel, po presledku ime katastrske občine, po presledku beseda
+»parcela«, po presledku številka parcele, ki je določena v okviru katastrske
+občine, brez vodilnih ničel, ki ji sledita poševnica in poddelilka brez
+vodilnih ničel, če je ta določena.
+28. člen
+(izkazovanje številke stavbe in številke dela stavbe)
+(1) Številka stavbe se izkazuje tako, da se izpiše:
+beseda »stavba«, po presledku šifra katastrske občine brez vodilnih ničel, ki
+ji sledi vezaj in številka stavbe, ki je določena v okviru katastrske občine,
+brez vodilnih ničel.
+(2) Številka stavbe se lahko izkazuje tudi tako, da se
+izpiše: besedilo »katastrska občina«, po presledku šifra katastrske občine brez
+vodilnih ničel, po presledku ime katastrske občine, po presledku beseda
+»stavba« in po presledku številka stavbe, ki je določena v okviru katastrske
+občine, brez vodilnih ničel.
+(3) Številka dela stavbe se izkazuje tako, da se izpiše:
+besedilo »del stavbe«, po presledku šifra katastrske občine brez vodilnih
+ničel, ki ji sledi vezaj in številka stavbe, ki je določena v okviru katastrske
+občine, brez vodilnih ničel, ter vezaj in številka dela stavbe, ki je določena
+v okviru stavbe, brez vodilnih ničel.
+(4) Številka dela stavbe se lahko izkazuje tudi tako, da
+se izpiše: besedilo »katastrska občina«, po presledku šifra katastrske občine
+brez vodilnih ničel, po presledku ime katastrske občine, po presledku beseda
+»stavba«, po presledku številka stavbe, ki je določena v okviru katastrske
+občine, brez vodilnih ničel, po presledku besedilo »del stavbe« in po presledku
+številka dela stavbe, ki je določena v okviru stavbe, brez vodilnih ničel.
+4. PRAVILA ZA IZDELAVO ELABORATOV
+4.1 Splošno
+29. člen
+(obrazci za izdelavo elaboratov)
+(1) V katastrskih postopkih se elaborati pripravijo na
+naslednjih obrazcih, ki so v Prilogi 5, ki je sestavni del tega pravilnika:
+1.     
+obrazec I: izjava vlagatelja zahteve;
+2.     
+obrazec N: naslovna stran elaborata;
+3.     
+obrazec V: vsebina elaborata;
+4.     
+obrazec P-1: skica;
+5.     
+obrazec P-2: prikaz sprememb;
+6.     
+obrazec P-3: strokovno poročilo;
+7.     
+obrazec B: poročilo bonitiranja zemljišča;
+8.     
+obrazec IZB: predlog izboljšave na širšem območju;
+9.     
+obrazec S-1: podatki o stavbi;
+10.  
+obrazec S-2: načrt stavbe;
+11.  
+obrazec S-3: etažni načrt;
+12.  
+obrazec S-4: podatki o delih stavbe;
+13.  
+obrazec S-5: prostori in površina;
+14.  
+obrazec S-6: sestavina dela stavbe;
+15.  
+obrazec S-7: preštevilčba;
+16.  
+obrazec S-8: katastrski podatki o stavbi in delu stavbe, ki se
+spreminjajo z zahtevo brez elaborata;
+17.  
+obrazec S-9: podatki o stavbi in delu stavbe, ki se spreminjajo z
+zahtevo brez elaborata;
+18.  
+obrazec S-10: prikaz sprememb za stavbe;
+19.  
+obrazec OB-0: spreminjanje mej občin;
+20.  
+obrazec OB-1: skica;
+21.  
+obrazec OB-2: prikaz sprememb;
+22.  
+obrazec OB-3: strokovno poročilo.
+(2) Obrazci iz prejšnjega odstavka se izdelajo v
+digitalni obliki.
+4.2 Pravila za izdelavo elaboratov spreminjanja podatkov o
+parcelah
+30. člen
+(strokovna pravila za koordinatni vklop)
+Koordinatni vklop mora biti izveden tako, da se ob
+upoštevanju podatkov iz zbirke listin grafično prilagodi okolica parcel brez
+ustvarjanja dodatnih lomov ter da se ohranjajo topološka pravilnost, oblika
+parcele in medsebojna razmerja med parcelami.
+31. člen
+(neposredna bližina meje parcele in točnost obstoječega dela
+meje)
+(1) Neposredna bližina meje parcele se določi za vsak
+del meje parcele posebej. Neposredna bližina meje parcele je enaka dvakratniku
+točnosti obstoječega dela meje parcele.
+(2) Točnost dela meje je enaka točnosti koordinat
+krajišč daljice (v nadaljnjem besedilu: točka daljice), ki določata del meje.
+Točnost dela meje določa zgornja meja intervala vrednosti, določenega za
+posamezno šifro točnosti v šifrantu, ki je sestavni del izmenjevalnih formatov
+iz 2. člena tega pravilnika. Če je točnost točk daljice različna, se točnost
+dela meje vzdolž meje določi z linearno interpolacijo točnosti točk, ki
+določata krajišči daljice.
+(3) Če ena izmed točk daljice, ki določajo mejo parcele,
+nima določene točnosti koordinat, se šteje, da točnost dela meje ni določena.
+(4) Če točka daljice nima določene točnosti koordinat in
+je bila koordinata določena z numeričnimi metodami izmere in na podlagi izmere
+izdelani načrti v merilu 1:1000, 1:2000 ali 1:2500, se šteje, da je neposredna
+bližina meje na teh območjih določena z dvakratno grafično natančnostjo merila
+načrta.
+32. člen
+(način določitve predlagane meje)
+(1) Za določitev predlagane meje po podatkih katastra
+nepremičnin in za ugotovitev, ali se pokazana meja razlikuje od podatkov
+katastra nepremičnin, se uporabijo podatki katastra nepremičnin, vključno s
+podatki iz zbirke listin.
+(2) Če je točnost koordinat točk meje parcele nižja od
+20 cm, pooblaščeni geodet pred uporabo teh koordinat oceni zanesljivost in
+točnost koordinat točk na podlagi primerjave in analize podatkov zbirke listin
+ter meritev pred izvedbo mejne obravnave. Pri določitvi predlagane meje v
+okviru ocenjene točnosti se lahko upošteva tudi mejo dejanskega uživanja
+oziroma potek meje po grajenih ali naravnih objektih.
+33. člen
+(vodenje zapisnika mejne obravnave)
+(1) Pooblaščeni geodet, ki vodi mejno obravnavo,
+zapisnik mejne obravnave piše sam ali ga po njegovih navodilih piše druga
+oseba.
+(2) Pred začetkom mejne obravnave se lahko pripravi
+okvirni del zapisnika mejne obravnave, ki vsebuje:
+-       
+navedbo parcelne številke parcele, za katero se ureja meja, ter šifro in
+ime katastrske občine,
+-       
+navedbo kraja in časa začetka izvedbe mejne obravnave,
+-       
+navedbo imena in priimka pooblaščenega geodeta, ki vodi mejno obravnavo,
+-       
+navedbo oseb, vabljenih na mejno obravnavo. Če je vabljena fizična
+oseba, se navede ime in priimek, naslov stalnega prebivališča in leto rojstva,
+za pravne osebe pa ime oziroma firma in naslov sedeža. Za vsakega vabljenega se
+navede tudi parcelna številka parcele, katere lastnik je. Če vabljena oseba ni
+lastnik parcele, ki se ureja, ali lastnik sosednje parcele, mora biti naveden
+razlog vabila (npr. hipotekarni upnik). Za pravne osebe se navede oseba, ki
+zastopa pravno osebo, in njen položaj (zakoniti zastopnik, pooblaščenec).
+(3) Na začetku mejne obravnave se ugotovi, katere
+vabljene osebe so prisotne. Če so na mejni obravnavi poleg vabljenih oseb
+prisotne druge osebe, ki so lahko stranke v mejni obravnavi, se zanje v
+zapisniku mejne obravnave navede podatke iz četrte alineje prejšnjega odstavka.
+(4) Zapisnik mejne obravnave vsebuje natančen vrstni
+red, potek in vsebino v postopku opravljenih dejanj in danih izjav. Zapisnik
+mejne obravnave se vodi tako, da je iz njega mogoče nedvoumno ugotoviti, pri
+katerih dejanjih so bili posamezni udeleženci prisotni in kaj so izjavili. V
+opisu poteka mejne obravnave mora biti navedeno zlasti, kateri udeleženci
+soglašajo s predlagano mejo in kateri udeleženci so pokazali svojo pokazano
+mejo, ker s predlagano mejo ne soglašajo. Iz zapisnika mejne obravnave mora
+biti nedvoumno razvidno, na katero predlagano mejo ali njen del oziroma
+pokazano mejo ali njen del se nanaša soglasje oziroma druge izjave udeležencev.
+Meja, ki se ureja, se v zapisniku mejne obravnave navede s parcelno številko
+parcel in točkami, ki so predmet mejne obravnave, ali z eno ali več skic meje
+ali dela meje parcele z navedenimi parcelnimi številkami in točkami, ki so
+predmet mejne obravnave.
+(5) Pooblaščeni geodet na mejni obravnavi posebej
+opozori in v zapisniku mejne obravnave navede:
+-       
+katere pokazane meje se razlikujejo od meje po podatkih katastra
+nepremičnin, z navedbo dejanskih in dopustnih odstopanj za vsako lomno točko na
+tej meji,
+-       
+da je udeležence na mejni obravnavi, ki so pokazali mejo, ki se
+razlikuje od meje po podatkih katastra nepremičnin, opozoril, da take meje ni
+mogoče vpisati v kataster nepremičnin kot urejene meje,
+-       
+da se šteje, da se udeleženci strinjajo s predlagano mejo, če niso
+pokazali svoje pokazane meje, tudi če na mejni obravnavi s predlagano mejo ne
+soglašajo,
+-       
+podatke oziroma dejansko stanje v naravi, na podlagi katerih je določil
+predlagano mejo, če se dve ali več pokazanih mej ne razlikujejo od meje po
+podatkih katastra nepremičnin.
+(6) Če se na mejni obravnavi predložijo dokumenti (npr.
+stari načrti, skice, fotografije, ugotovitve iz faze priprav na mejno
+obravnavo), se priložijo zapisniku mejne obravnave.
+(7) Zapisnik mejne obravnave se vodi kronološko. Če se
+mejna obravnava ne konča isti dan, se v zapisnik mejne obravnave za vsak dan
+posebej vpišejo dejanja, ki so bila izvedena tega dne, in ta del podpišejo
+stranke in drugi udeleženci, ki so sodelovali na mejni obravnavi določenega
+dne.
+(8) Če se mejna obravnava za isto parcelo izvede z
+udeleženci ločeno, mora biti to razvidno iz zapisnika mejne obravnave. Iz
+zapisnika mejne obravnave mora biti razvidno tudi, da je v primeru, ko je
+nadaljevanje mejne obravnave z drugimi udeleženci vplivalo na predhodna
+izvedena dejanja, pooblaščeni geodet o tem pisno seznanil udeležence prej
+izvedenega dela mejne obravnave. Če so se udeleženci prej izvedenega dela mejne
+obravnave s spremembami strinjali, se mejna obravnava ne ponovi. V vseh ostalih
+primerih se mejna obravnava v tem delu ponovno izvede, izjave in soglasja, dana
+v predhodno izvedeni mejni obravnavi, se v tem primeru ne upoštevajo.
+(9) Preden udeleženec podpiše zapisnik mejne obravnave,
+se mu ga prebere. Če želi, zapisnik mejne obravnave udeleženec prebere sam. Če
+je na mejni obravnavi več udeležencev, pooblaščeni geodet lahko prebere
+udeležencu le tisti del zapisnika, ki se nanaša nanj, če se ta udeleženec s tem
+strinja.
+(10) Če udeleženec želi podpisati le svojo prisotnost na
+mejni obravnavi, mora biti to v zapisniku mejne obravnave nedvoumno zapisano,
+navedeno pa mora biti tudi, pri katerih dejanjih je bil prisoten.
+(11) Popravki in dopolnitve že podpisanih delov
+zapisnika mejne obravnave se navedejo na koncu zapisnika mejne obravnave, s
+podpisi pooblaščenega geodeta in udeležencev, na katere popravek ali dopolnitev
+vpliva.
+34. člen
+(vodenje zapisnika mejne obravnave v postopku nove izmere)
+(1) V opisu poteka mejne obravnave v postopku nove
+izmere se v zapisniku mejne obravnave namesto vsebine iz četrtega odstavka
+prejšnjega člena navede le, kateri udeleženci soglašajo s predlagano mejo ali
+delom meje in kateri udeleženci ne soglašajo s predlagano mejo ali delom meje.
+Iz zapisnika mora biti nedvoumno razvidno, na katero predlagano mejo ali njen
+del se nanaša soglasje ali nesoglasje udeležencev. Meja, ki se ureja, se v
+zapisniku navede s parcelno številko parcel in točkami, ki so predmet mejne
+obravnave, ali z eno ali več skic meje ali dela meje parcele z navedenimi
+parcelnimi številkami in točkami, ki so predmet mejne obravnave.
+(2) Iz zapisnika mejne obravnave v postopku nove izmere
+mora biti razvidno, da je pooblaščeni geodet na mejni obravnavi v postopku nove
+izmere namesto opozoril iz petega odstavka prejšnjega člena udeležence posebej
+opozoril, da bodo v katastru nepremičnin kot urejene vpisane samo soglasno
+urejene meje in da bo, če ne bo doseženo soglasje, izvedena lokacijska
+izboljšava te meje.
+(3) Če se v postopku nove izmere izvede preureditev
+parcel se v postopku nove izmere za parcele na območju preureditve parcel
+izdela tudi zapisnik o preureditvi parcel, ki vsebuje:
+-       
+navedbo parcelnih številk na območju preureditve parcel in grafični
+prikaz stanja po preureditvi parcel z navedbo parcelnih številk in točk na
+mejah parcel po preureditvi,
+-       
+navedbo parcelnih številk in vseh lastnikov za vse parcele na območju
+preureditve in podpis soglasja vseh lastnikov parcel z izvedeno preureditvijo
+parcel.
+35. člen
+(izjava o soglasju k izravnani meji)
+(1) Izjavo o soglasju k izravnani meji mora lastnik
+parcele dati pisno.
+(2) Izjava o soglasju k izravnani meji vsebuje:
+-       
+navedbo parcelnih številk parcel in točk, med katerimi se izravna meja,
+ter ime in šifro katastrske občine,
+-       
+navedbo lastnikov parcel, med katerimi se izravnava meja, in
+-       
+podpis soglasja z izravnano mejo lastnikov parcel, med katerimi se
+izravna meja.
+36. člen
+(označitev urejene meje parcele v naravi, dodatni mejniki in
+posredna označitev meje)
+(1) Urejena meja parcele se v naravi označi tako, da se
+točke označijo z mejniki.
+(2) Če je pri označitvi urejene meje parcele
+ugotovljeno, da v naravi že obstajajo mejniki, vendar niso postavljeni na
+pravem mestu, geodetsko podjetje te mejnike odstrani oziroma postavi na pravo
+mesto.
+(3) Urejena meja parcele se v naravi lahko označi z
+dodatnimi mejniki, ki morajo biti postavljeni tako, da ne spremenijo poteka
+urejene meje parcele. Za dodatni mejnik se v katastru nepremičnin določi točka.
+(4) Če mejnika zaradi fizičnih ovir v naravi ni mogoče
+postaviti v naravi na mejo parcele, se meja parcele lahko označi posredno.
+Posredna označba mora nedvoumno označevati položaj točke. Za posredno označbo
+se ne sme uporabiti mejnikov iz prve, druge in tretje alineje 37. člena tega
+pravilnika.
+(5) Posredna označitev meje iz prejšnjega odstavka se
+izvede na parceli lastnika, ki zahteva označitev meje, ali na sosednji parceli,
+če s tem soglaša lastnik sosednje parcele.
+(6) Če ratificirana mednarodna pogodba prepoveduje
+postavljanje mejnikov na oziroma ob državni meji, se del meje parcele, ki
+poteka po državni meji, lahko označi s posredno označbo, del meje parcele, ki
+se državne meje dotika, pa se lahko označi s posredno označbo ali dodatnim
+mejnikom.
+37. člen
+(mejniki)
+Vidni del mejnika v naravi je lahko:
+-       
+kvadratne oblike velikosti 10 x 10 cm,
+-       
+okrogle oblike s premerom najmanj 2 cm in največ 10 cm,
+-       
+križ velikosti 5 x 5 cm, vklesan v naravni kamen ali v grajen objekt,
+ali
+-       
+druga nazorna označba, ki nedvoumno in trajno označuje položaj točke v
+naravi.
+4.3. Pravila za izdelavo elaboratov vpisa podatkov o stavbi
+in delih stavb oziroma vpisa sprememb podatkov o stavbi in delih stavb
+38. člen
+(zapisnik obravnave elaborata vpisa podatkov o stavbi in
+delih stavb oziroma vpisa sprememb podatkov o stavbi in delih stavb)
+Če je posameznik lastnik vseh delov stavbe ali vseh delov
+stavbe, ki se spreminjajo, se lahko namesto zapisnika obravnave elaborata na
+obrazec S-1 iz Priloge 5 tega pravilnika vpiše njegova izjava, ki jo mora
+podpisati, da podatki izkazujejo dejansko stanje stavbe in delov stavb v
+naravi.
+39. člen
+(zapisnik obravnave elaborata v primeru sprememb podatkov o
+stavbah in skupnih delih stavb)
+Za podatke o stavbi in za skupne dele stavb, ki so v etažni
+lastnini, se obravnava elaborata izvede z upravnikom stavbe, če je ta določen.
+Če upravnik stavbe ni določen, se obravnava izvede z vsemi etažnimi lastniki.
+40. člen
+(etažni načrt)
+(1) V postopku izdelave elaborata se izdela etažni načrt
+v elektronski obliki.
+(2) Etažni načrt se izdela za vsako etažo posebej.
+Etažni načrti se oštevilčijo s številko stavbe in številko etaže. Za vsako
+etažo se vodi podatek o poligonu etaže, višini tal in višini etaže.
+(3) V etažnem načrtu se prikažejo poligoni, ki pripadajo
+posameznemu delu stavbe. Del stavbe ima lahko več poligonov v eni ali več
+etažah. Poligoni se označijo s številko dela stavbe in številko etaže. Poligoni
+istih delov stavb v eni etaži se ne smejo dotikati.
+(4) Meja poligona, ki pripadajo posameznemu delu stavbe,
+se vpiše s koordinatami v državnem prostorskem koordinatnem sistemu. Koordinate
+se vodijo v metrih in zaokrožijo na dve decimalni mesti. Pri določitvi mej
+poligona se ne upošteva debeline sten. Meje poligona morajo biti vpisane tako,
+da je razmerje površin poligonov v etažnem načrtu sorazmerno razmerju
+izmerjenih površin poligonov v posamezni etaži.
+(5) Etažni načrti posameznih etaž morajo biti lokacijsko
+usklajeni med seboj in s tlorisom stavbe.
+5. VRSTE ELABORATOV
+5.1 Skupni določbi
+41. člen
+(elaborat)
+(1) Elaborati morajo vsebovati obrazec N in obrazec V iz
+Priloge 5 tega pravilnika.
+(2) Če se hkrati izvede več katastrskih postopkov, se
+lahko izdela skupen elaborat. Na naslovni strani skupnega elaborata se navedejo
+vsi izvedeni katastrski postopki, v skupnem elaboratu pa se nahaja zbir
+sestavin elaboratov posameznih katastrskih postopkov tako, da je vsaka
+sestavina v skupnem elaboratu le enkrat.
+(3) Ne glede na prejšnji odstavek se skupnega elaborata
+ne izdela za naslednje katastrske postopke:
+-       
+nova izmera,
+-       
+komasacija,
+-       
+spremembe bonitete zemljišč ali
+-       
+določitev spremenjenih mej občin, ki ga sporazumno izvedeta občini.
+(4) Pooblaščeni geodet ali pooblaščeni projektant z
+elektronskim podpisom na naslovni strani elaborata potrdi, da elaborat izkazuje
+dejansko stanje na terenu in je izdelan v skladu s predpisi, standardi in
+pravili za evidentiranje nepremičnin. Datum elektronskega podpisa se šteje kot
+datum potrditve elaborata.
+(5) Če elaborat izdela Geodetska uprava Republike
+Slovenije (v nadaljnjem besedilu: geodetska uprava), se na naslovni strani
+namesto podatkov o podjetju vpišejo podatki organizacijske enote geodetske
+uprave, ki je izdelala elaborat in namesto podatkov o pooblaščenem geodetu ali
+pooblaščenem projektantu podatki o uradni osebi geodetske uprave, ki je
+potrdila elaborat. Uradna oseba geodetske uprave, ki je potrdila elaborat z
+elektronskim podpisom na naslovni strani elaborata, potrdi, da je elaborat izdelan
+v skladu s predpisi, standardi in pravili za evidentiranje nepremičnin.
+(6) Na naslovni strani elaborata za vpis sprememb v
+katastru nepremičnin na podlagi pravnomočne sodne odločbe ali sodne poravnave
+se ne vpišejo podatki o podjetju, namesto podatkov o pooblaščenemu geodetu ali
+pooblaščenemu projektantu pa se vpišeta ime in priimek sodnega izvedenca
+geodetske stroke, namesto številke objave katastrskega postopka se vpiše datum
+dokončanja elaborata. Sodni izvedenec z elektronskim podpisom na naslovni strani
+elaborata potrdi, da je elaborat izdelan v skladu s predpisi, standardi in
+pravili za evidentiranje nepremičnin.
+(7) Navodila za izpolnitev obrazcev, ki jih morajo
+vsebovati elaborati, in primeri izpolnjenih obrazcev so objavljeni osrednjem
+spletnem mestu državne uprave.
+42. člen
+(izjava vlagatelja zahteve)
+Kadar zahtevo z elaboratom vloži v informacijski sistem
+kataster pooblaščeni geodet ali pooblaščeni projektant, se elaboratu priloži
+podpisana izjava vlagatelja zahteve o njegovi privolitvi, da se zahteva z
+elaboratom vloži v informacijski sistem kataster, na obrazcu I iz Priloge 5
+tega pravilnika.
+5.2 Elaborati spreminjanja podatkov o parcelah
+43. člen
+(elaborati za spreminjanje podatkov o parcelah)
+Elaborati za spreminjanje podatkov o parcelah se oblikujejo
+glede na vrsto katastrskih postopkov in so naslednji:
+1.     
+elaborat ureditve meje parcele,
+2.     
+elaborat označitve urejene meje parcele,
+3.     
+elaborat nove izmere,
+4.     
+elaborat lokacijske izboljšave,
+5.     
+elaborat parcelacije,
+6.     
+elaborat izravnave meje,
+7.     
+elaborat komasacije,
+8.     
+elaborat določitve območja služnosti in območja stavbne pravice in
+9.     
+elaborat spremembe bonitete zemljišč.
+44. člen
+(sestavine elaborata)
+Sestavine elaboratov, ki se izdelajo za spreminjanje podatkov
+o parceli, razen elaborata spremembe bonitete zemljišč iz 73. člena tega
+pravilnika, so poleg obrazca N in obrazca V še naslednji obrazci iz Priloge 5
+tega pravilnika:
+-       
+obrazec P-1,
+-       
+obrazec P-2,
+-       
+obrazec P-3.
+45. člen
+(oblika elaborata)
+(1) Elaborat se izdela v formatu A4.
+(2) Ne glede na prejšnji odstavek se lahko obrazec P-1
+in obrazec P-2 izdelata v formatu A3, če je to potrebno zaradi preglednosti
+vsebine.
+(3) Strani elaborata se oštevilčijo.
+(4) Obrazci iz prvega odstavka prejšnjega člena so lahko
+izdelani na več straneh. Če so izdelani na več straneh, mora biti na vsaki
+strani ponovljena glava obrazca.
+46. člen
+(obrazec P-1: skica)
+(1) Skica je položajno usklajen prikaz fizičnih struktur
+in pojavov na zemeljskem površju ter podatkov o parcelah in stavbah v času
+izvedbe postopka za izdelavo elaborata.
+(2) Skica se izdela na obrazcu P-1 iz Priloge 5 tega
+pravilnika. Skica vsebuje naslednje podatke:
+1.     
+o mejah parcel, tlorisu stavbe in sestavinah delov stavbe, območjih
+služnosti in območjih stavbne pravice, območjih občin, območjih katastrskih
+občin, državni meji,
+2.     
+parcelne številke, številke stavb, identifikacijske oznake območij
+stavbnih pravic, identifikacijske oznake območij služnosti, identifikacijske
+oznake sestavin delov stavb, šifre in imena občin ter šifre in imena
+katastrskih občin,
+3.     
+o točkah,
+4.     
+o označitvi točk,
+5.     
+o v naravi izmerjenih razdaljah:
+- 
+med točkami na meji parcel,
+- 
+med točkami na meji parcel in drugimi točkami, uporabljenimi pri izmeri,
+6.     
+o lastnikih (ime in priimek oziroma firma),
+7.     
+o topografski vsebini,
+8.     
+o geodetskih točkah.
+(3) Skica ima tudi opis skice, ki poleg podatkov,
+navedenih na obrazcu, vsebuje tudi pomen uporabljenih dodatnih simbolov in
+dodatnih barv.
+(4) V skici elaborata ureditve meje se prikažejo tudi
+pokazane meje in razdalje med pokazanimi mejami in predlagano mejo, pri čemer
+se označi, kdo je pokazal posamezno pokazano mejo.
+(5) V skici elaborata parcelacije se navede tudi predpis
+ali akt omejitve spreminjanja mej parcel, če se je ta upošteval pri izdelavi
+elaborata.
+47. člen
+(obrazec P-2: prikaz sprememb)
+Prikaz sprememb se izdela na obrazcu P-2 iz Priloge 5 tega
+pravilnika. V prikazu sprememb se prikažejo podatki, ki so vpisani v katastru
+nepremičnin, in spremembe, predlagane v elaboratu. Spremembe meje parcele,
+območja služnosti, območja stavbne pravice in določitev spremenjenih mej občin
+se prikažejo grafično, spremembe drugih podatkov pa opisno.
+48. člen
+(obrazec P-3: strokovno poročilo)
+Strokovno poročilo se izdela na obrazcu P-3 iz Priloge 5 tega
+pravilnika. Strokovno poročilo vsebuje:
+-       
+podatke o določitvi koordinat točk,
+-       
+izračun površin,
+-       
+uporabljene podatke in
+-       
+analizo točnosti.
+49. člen
+(podatki o določitvi koordinat točk)
+(1) Če se spremenijo ali na novo določijo koordinate
+točk, vsebuje strokovno poročilo iz prejšnjega člena podatke o določitvi
+koordinat točk, ki omogočajo ponovno izvedbo in sledljivost postopka ter
+preveritev izvedenih opazovanj, izračunov in predlaganih sprememb koordinat.
+(2) Podatki o določitvi koordinat točk so:
+-       
+podatki izmere, kontrolnih merjenj in izračun koordinat, če se
+koordinate določijo z geodetsko izmero ali drugimi geodetskimi metodami
+določitve koordinat,
+-       
+podatki o transformaciji, če se koordinate določijo s transformacijo,
+-       
+opis postopka lokacijske izboljšave z navedbo in opisom metode določitve
+koordinat točk, če se koordinate določijo z lokacijsko izboljšavo,
+-       
+seznam točk katastra nepremičnin s podatki točk pred in po spremembi.
+50. člen
+(izračun površin in mejna vrednost)
+(1) Površina parcele, območja stavbne pravice na parceli
+in območja služnosti na parceli se vodi v kvadratnih metrih.
+(2) Površina urejene parcele se izračuna iz ravninskih
+koordinat točk in se zaokroži na kvadratni meter.
+(3) Površina parcele, ki ni urejena, se spremeni, če je
+absolutna vrednost razlike med vpisano površino in površino, izračunano iz
+ravninskih koordinat točk po spremembi, večja od 10 % vpisane površine.
+(4) Ob spremembi podatkov o mejah parcele se z novim
+stanjem uskladijo naslednji podatki:
+-       
+podatek, s katero stavbo je parcela povezana,
+-       
+površina tlorisa stavbe na parceli,
+-       
+površina zemljišča pod stavbo na parceli in
+-       
+podatki o sestavinah delov stavbe na parceli.
+51. člen
+(uporabljeni podatki)
+(1) Strokovno poročilo vsebuje navedbo podatkov, ki so
+bili uporabljeni v postopkih za izdelavo elaborata, utemeljitev uporabe
+navedenih podatkov in posebej navedbo razlogov, kadar niso bili uporabljeni
+zadnji vpisani in drugi razpoložljivi podatki.
+(2) V strokovnem poročilu elaborata za vpis sprememb v
+katastru nepremičnin na podlagi pravnomočne sodne odločbe ali sodne poravnave
+se uporabljeni podatki ne navedejo.
+52. člen
+(analiza točnosti)
+(1) Strokovno poročilo vsebuje analizo točnosti, ki
+vsebuje analizo točnosti koordinat točk in določitev neposredne bližine meje
+parcele.
+(2) Analiza točnosti dokazuje, da spremenjena ali nova
+meja ne posega v sosednjo parcelo.
+(3) Če na podlagi vpisanih podatkov o točnosti točk ni
+mogoče dokazati izpolnjevanja pogoja iz prejšnjega odstavka, mora biti to
+utemeljeno z dodatnimi meritvami, lokacijsko izboljšavo ali ureditvijo meje.
+53. člen
+(druge sestavine elaboratov)
+Poleg sestavin elaboratov iz 44. člena tega pravilnika so
+sestavine posameznih elaboratov naslednje:
+1.     
+sestavine elaborata ureditve meje so tudi:
+- 
+dokazila, da so bile stranke, ki se postopka izdelave elaborata ureditve
+meje niso udeležile, pravilno vabljene,
+- 
+seznam oseb, ki v zemljiški knjigi nimajo vpisanega podatka o EMŠO ali
+matični številki pravne osebe oziroma v katastru nepremičnin upravljavec ni
+vpisan z matično številko pravne osebe, in
+- 
+zapisnik mejne obravnave;
+2.     
+sestavina elaborata izravnave meje so tudi izjave lastnikov o soglasju k
+izravnanem delu meje in dokazila o izpolnjevanju pogojev za izravnavo;
+3.     
+sestavina elaborata označitve urejene meje parcele je tudi navedba
+obveščenih lastnikov parcel in lastnikov, ki so se udeležili označitve urejene
+meje v naravi;
+4.     
+sestavini elaborata parcelacije sta tudi načrt parcel, če se parcelacija
+izvede zaradi načrtovane prostorske ureditve v postopkih prostorskega
+načrtovanja, in soglasje k parcelaciji, kadar to določajo predpisi, ki urejajo
+prostor;
+5.     
+sestavina elaborata nove izmere so tudi:
+- 
+dokazila o izpolnjevanju pogojev za uvedbo nove izmere,
+- 
+dokazila o izpolnjevanju pogojev za preureditev parcel, če se izvaja;
+6.     
+sestavine elaborata pogodbene komasacije so tudi pogodba, načrt nove
+razdelitve zemljišč in komasacijsko soglasje ali dovoljenje;
+7.     
+sestavina elaborata upravne komasacije je tudi dokončna odločba
+upravnega organa.
+54. člen
+(predlog za izvedbo lokacijske izboljšave na širšem območju
+izvedbe katastrskega postopka)
+(1) Predlog za izvedbo lokacijske izboljšave na širšem
+območju izvedbe katastrskega postopka se vloži na obrazcu IZB iz Priloge 5 tega
+pravilnika. Priloge obrazca IZB iz Priloge 5 tega pravilnika v izmenjevalnih
+formatih so naslednji podatki:
+-       
+koordinate točk, ki so bile določene v katastrskem postopku,
+-       
+koordinate točk iz arhivskih elaboratov, transformirane v državni
+prostorski koordinatni sistem,
+-       
+lokalne koordinate točk iz arhivskih elaboratov v primeru, ko
+transformacija v državni prostorski koordinatni sistem ni mogoča, in
+-       
+podatke obdelave katastrskega postopka z lokacijsko izboljšavo.
+(2) Podatke iz druge in tretje alineje prejšnjega
+odstavka geodetsko podjetje posreduje za arhivske elaborate na območju parcel
+ali njihovih delov, ki so v pasu najmanj 200 m od meje parcele, za katero se
+izvaja katastrski postopek.
+(3) Podatke iz prvega odstavka tega člena geodetsko
+podjetje posreduje geodetski upravi preko elektronske pošte.
+5.3 Elaborat za vpis podatkov o stavbi in delih stavb
+oziroma vpis sprememb podatkov o stavbi in delih stavb
+55. člen
+(vrste elaboratov)
+Za vzdrževanje podatkov o stavbah in delih stavb se
+uporabljata elaborat za vpis podatkov o stavbi in delih stavb ter elaborat za
+vpis sprememb podatkov o stavbi in o delih stavb.
+56. člen
+(sestavine elaborata)
+(1) Elaborata iz prejšnjega člena se izdelata v formatu
+A4. Izjemoma se lahko etažni načrt izdela v formatu A3, če je to potrebno
+zaradi preglednosti vsebine. Strani elaborata se oštevilčijo.
+(2) Elaborata iz prejšnjega člena obsegata:
+-       
+obrazce, na katerih se izdela elaborat,
+-       
+zapisnik obravnave elaborata,
+-       
+dokazila, da so bile stranke, ki se obravnave elaborata niso udeležile,
+pravilno vabljene, in seznam oseb, ki v zemljiški knjigi nimajo vpisanega
+podatka o EMŠO ali matični številki pravne osebe oziroma v katastru nepremičnin
+upravljavec ni vpisan z matično številko pravne osebe,
+-       
+podatke za vpis podatkov v kataster nepremičnin v predpisanih
+izmenjevalnih formatih in
+-       
+geolocirane fotografije stavbe.
+57. člen
+(obrazci)
+(1) Sestavine elaboratov, ki se izdelajo za vzdrževanje
+podatkov o stavbah in delih stavb, so poleg obrazca N in obrazca V še naslednji
+obrazci iz Priloge 5 tega pravilnika:
+1.     
+obrazec S-1;
+2.     
+obrazec S-2;
+3.     
+obrazec S-3;
+4.     
+obrazec S-4;
+5.     
+obrazec S-5;
+6.     
+obrazec S-6;
+7.     
+obrazec S-7;
+8.     
+obrazec S-8;
+9.     
+obrazec S-9 in
+10.  
+obrazec S-10.
+(2) Elaborat iz 55. člena tega pravilnika vsebuje poleg
+obrazcev iz prejšnjega odstavka še obrazec P-1 in obrazec P-3 s smiselno
+uporabo vsebin, ki so potrebne za vpis podatkov o tlorisu stavbe in sestavin
+delov stavb.
+(3) Na eni strani je lahko več obrazcev, razen obrazca
+S-2 in obrazca S-3, ki morata biti izdelana vsak na svoji strani ali na več
+straneh.
+(4) Obrazec je lahko izdelan na več straneh. Če je
+izdelan na več straneh, mora biti na vsaki strani ponovljena glava obrazca.
+58. člen
+(obrazec S-1: podatki o stavbi)
+(1) Za stavbe, ki imajo določenih več hišnih številk, se
+na obrazcu S-1 iz Priloge 5 tega pravilnika vpiše podatek o vseh naslovih.
+(2) Izjava geodetskega podjetja ali projektanta, da je
+koordinate točk tlorisa stavbe določil oziroma tloris stavbe izdelal
+pooblaščeni geodet, se napiše na obrazcu S-1 iz Priloge 5 tega pravilnika.
+59. člen
+(obrazec S-2: načrt stavbe)
+(1) Prerez stavbe, iz katerega so razvidne lege vseh
+etaž v stavbi z vpisanimi številkami etaž, se prikaže na obrazcu S-2 iz Priloge
+5 tega pravilnika. Označijo se tudi vhodi v stavbo in točke, na katere se
+nanašajo višine.
+(2) Tloris stavbe, ki je navpična projekcija zunanjih
+obrisov celotne stavbe nad in pod zemljiščem na vodoravno ravnino, se prikaže
+na obrazcu S-2 iz Priloge 5 tega pravilnika. Tloris se izdela v merilu 1:200,
+1:500 ali 1:1000 glede na preglednost vsebine in se posebej navede. Označi se
+smer proti severu. Posebej se prikaže nadzemni tloris stavbe, podzemni tloris
+stavbe in tloris zemljišča pod stavbo.
+60. člen
+(obrazec S-3: etažni načrt)
+(1) Izris etažnega načrta, ki zaradi preglednosti
+vsebuje tudi prerez stavbe, se prikaže na obrazcu S-3 iz Priloge 5 tega
+pravilnika.
+(2) Obrazec S-3 iz Priloge 5 tega pravilnika vsebuje za
+vsako etažo višino tal in višino etaže ter merilo, v katerem je etažni načrt
+izrisan.
+61. člen
+(obrazec S-6: sestavina dela stavbe)
+Sestavina dela stavbe v povezavi s tlorisom stavbe in parcelo
+se grafično prikaže na obrazcu S-6 iz Priloge 5 tega pravilnika.
+62. člen
+(obrazec S-7: preštevilčba)
+Preštevilčba stavb in preštevilčba delov stavb se prikaže na
+obrazcu S-7 iz Priloge 5 tega pravilnika tako, da se navedejo številke stavb in
+številke delov stavb pred in po preštevilčbi. Preštevilčba številk stanovanj in
+številk poslovnih prostorov se prikaže tako, da se navedejo številke stanovanj
+in številke poslovnih prostorov pred in po preštevilčbi. Če številk ni, se
+stanje prikaže z oznako »/«.
+63. člen
+(obrazec S-10: prikaz sprememb za stavbe)
+V prikazu sprememb za stavbe se na obrazcu S-10 iz Priloge 5
+tega pravilnika prikažejo podatki tlorisa stavbe in sestavin delov stavb, ki so
+vpisani v katastru nepremičnin, in spremembe, predlagane v elaboratu. Spremembe
+tlorisov stavbe in sestavin delov stavb se prikažejo grafično.
+64. člen
+(elaborat za vpis podatkov o stavbi in delih stavb)
+(1) Elaborat za vpis podatkov o stavbi in delih stavb
+mora poleg obrazca N in obrazca V iz Priloge 5 tega pravilnika vsebovati
+naslednje:
+1.     
+obrazce iz Priloge 5 tega pravilnika:
+- 
+obrazec S-1;
+- 
+obrazec S-2;
+- 
+obrazec S-3;
+- 
+obrazec S-4;
+- 
+obrazec S-5;
+- 
+obrazec S-9;
+- 
+obrazec S-10;
+- 
+obrazec P-1;
+- 
+obrazec P-3;
+2.     
+zapisnik obravnave elaborata;
+3.     
+dokazila, da so bile stranke, ki se obravnave elaborata niso udeležile,
+pravilno vabljene in seznam oseb, ki v zemljiški knjigi nimajo vpisanega
+podatka o EMŠO ali matični številki pravne osebe oziroma v katastru nepremičnin
+upravljavec ni vpisan z matično številko pravne osebe;
+4.     
+fotografije stavbe.
+(2) Elaborat za vpis podatkov o stavbi in delih stavb
+lahko vsebuje tudi:
+-       
+obrazec S-6 iz Priloge 5 tega pravilnika;
+-       
+obrazec S-7 iz Priloge 5 tega pravilnika;
+-       
+zahtevo naročnika elaborata za izračun površine dela stavbe v skladu s
+petim odstavkom 21. člena tega pravilnika.
+65. člen
+(elaborat za vpis sprememb podatkov o stavbi in delih
+stavbe)
+Elaborat za vpis sprememb podatkov o stavbi in delih stavbe
+vsebuje podatke, določene s tem pravilnikom za posamezno vrsto spremembe
+podatkov.
+66. člen
+(obrazci elaborata za vpis sprememb podatkov o stavbi in
+delih stavbe)
+(1) Vsebina elaborata za vpis sprememb podatkov o stavbi
+in delih stavbe je odvisna od podatka, ki se spreminja.
+(2) Elaborat za vpis sprememb podatkov o stavbi in delih
+stavbe mora vsebovati obrazec N in obrazec V iz Priloge 5 tega pravilnika ter
+obrazce in dokumente iz 56. člena tega pravilnika, ki se jih sprememba dotika,
+in zapisnik o izvedeni obravnavi.
+67. člen
+(način izpolnjevanja obrazcev pri izdelavi elaborata za vpis
+sprememb podatkov o stavbi in delih stavbe)
+(1) Pri izdelavi elaborata za vpis sprememb podatkov o
+stavbi in delih stavbe se obrazci za posamezne spremembe podatkov izpolnijo
+tako, da se izdela nov obrazec, lahko pa se podatki izpolnijo na kopiji obrazca
+iz elaborata že vpisane stavbe tako, da je pregledno in nedvoumno razvidno,
+kateri podatki so se spremenili in kako. Novo stanje se označi z rdečo barvo.
+(2) Ne glede na prejšnji odstavek je treba obrazec
+spremembe izdelati na novem obrazcu v skladu s tem pravilnikom, če obrazec iz
+elaborata že vpisane stavbe ni izdelan v skladu s tem pravilnikom.
+6. SPREMEMBE PODATKOV NA ZAHTEVO BREZ ELABORATA
+68. člen
+(spremembe podatkov o stavbi in o delih stavbe, ki se
+spreminjajo z zahtevo brez elaborata)
+(1) Če se spremenijo podatki o stavbi ali delu stavbe,
+ki se spreminjajo na zahtevo brez elaborata, mora biti zahtevi za spremembo
+podatkov o stavbi in delu stavbe priložen obrazec S-9 iz Priloge 5 tega
+pravilnika.
+(2) Zahtevi iz prejšnjega odstavka se priložijo:
+-       
+v primeru spremembe letnic obnove stavbe oziroma dela stavbe: dokazila,
+ki izkazujejo spremenjeno leto obnove;
+-       
+v primeru spremembe podatka o upravniku dela stavbe: sklenjena pogodbo o
+upravljanju;
+-       
+v primeru spremembe podatka o vrsti prostorov ali podatka o površini
+prostorov: obrazec S-5 iz Priloge 5 tega pravilnika.
+69. člen
+(spremembe podatkov o stavbi in delu stavbe, ki se
+spreminjajo z zahtevo brez elaborata in so vpisane v kataster nepremičnin s
+statusom stavbe »katastrsko vpisana stavba« oziroma s statusom dela stavbe
+»katastrsko vpisani del stavbe«)
+(1) Podatek o številu etaž, številki pritlične etaže,
+letu izgradnje stavbe, številki etaže in o dejanski rabi dela stavbe, v kolikor
+je stavba ali del stavbe vpisana v kataster nepremičnin s statusom stavbe
+»katastrsko vpisana stavba« oziroma s statusom dela stavbe »katastrsko vpisani
+del stavbe«, se lahko spremeni tudi na podlagi vlagateljeve zahteve za
+spremembo podatka o stavbi in delu stavbe na podlagi dokazil.
+(2) Zahtevi iz prejšnjega odstavka se priloži obrazec
+S-8 iz Priloge 5 tega pravilnika.
+(3) Zahtevi iz prvega odstavka tega člena se priložijo:
+-       
+v primeru spremembe podatka o dejanski rabi dela stavbe: obrazec S-5 iz
+Priloge 5 tega pravilnika ter fotografija, ki izkazuje dejansko rabo dela
+stavbe;
+-       
+v primeru spremembe podatka o številu etaž, podatka o številki etaže ali
+podatka o številki pritlične etaže: prerez stavbe z označenimi etažami;
+-       
+v primeru spremembe leta izgradnje stavbe: dokazila, ki izkazujejo
+spremenjeno leto izgradnje stavbe.
+(4) V primeru solastništva posameznega dela stavbe
+obrazce podpišejo vsi solastniki, za podatke o stavbi in za skupne prostore pa
+upravnik stavbe.
+7. DRUGO MNENJE
+70. člen
+(način pridobitve elaborata za izdelavo drugega mnenja)
+(1) Geodetsko podjetje, ki je prejelo naročilo za
+izdelavo drugega mnenja, preko elektronske pošte posreduje geodetski upravi
+vlogo za posredovanje elaborata skupaj z naročilom za izdelavo drugega mnenja.
+Vloga vsebuje številko elaborata, ki je vpisan v informacijski sistem kataster
+in za katerega se izdeluje drugo mnenje. Številka elaborata se pridobi iz
+informacijskega sistema kataster.
+(2) Geodetska uprava geodetskemu podjetju iz prejšnjega
+odstavka posreduje zahtevan elaborat najpozneje v treh delovnih dneh od prejema
+vloge za pridobitev elaborata za izdelavo drugega mnenja.
+8. BONITETA ZEMLJIŠČA
+71. člen
+(podatki za določanje bonitete zemljišča)
+(1) Lastnosti tal, klime, reliefa in posebnih vplivov se
+ugotavljajo po merilih za bonitiranje zemljišč iz Priloge 4, ki je sestavni del
+tega pravilnika.
+(2) Lastnosti tal, klime in reliefa se določijo v
+točkah, posebni vplivi pa v deležu.
+72. člen
+(določitev bonitete zemljišča)
+(1) Zemljišče z enakimi lastnostmi tal, klime, reliefa
+in posebnih vplivov se določi kot svoje območje bonitete zemljišča, ki se mu
+izračunajo in določijo bonitetne točke. Meja območja bonitete zemljišča je
+neodvisna od poteka meje parcele.
+(2) Bonitetne točke območja bonitete zemljišča se
+izračunajo po naslednji enačbi:
+kjer so:
+B = boniteta območja;
+Tx = točke lastnost tal;
+Kx = točke lastnosti klime;
+Rx = točke lastnosti reliefa;
+Σ % posebni vplivi = vsota deležev
+posebnih vplivov.
+(3) Število bonitetnih točk za parcelo se izračuna na
+podlagi grafičnega preseka območij bonitete zemljišča s parcelami.
+(4) Če leži parcela na več območjih bonitete zemljišč,
+se število bonitetnih točk parcele izračuna po naslednji enačbi:
+,
+kjer so:
+B = boniteta parcele;
+Pn = površina dela parcele, ki leži na
+območju bonitete zemljišč z boniteto Bn, določena z grafičnim presekom območij
+bonitete zemljišč s parcelami;
+Bn= boniteta območja bonitete zemljišč.
+(5) Bonitetne točke parcele in območja bonitete zemljišč
+se določijo s celim številom.
+(6) Če se spremeni območje bonitete zemljišča ali
+spremenijo bonitetne točke, se izdela predlog spremembe območja bonitete
+zemljišč, ki prikazuje stanje pred in po spremembi območja.
+(7) Boniteta zemljišča se ugotavlja za tla, ki so
+strukturno neporušena in izkazujejo lastnosti v skladu z merili za bonitiranje
+zemljišč iz Priloge 4 tega pravilnika. Če je kmetijsko ali gozdno zemljišče
+degradirano na način, da na zemljišču delno ali v celoti manjka humusno
+akumulativni sloj ali ni dostopno zaradi navoženega materiala (npr. prod,
+pesek, glina, odpadni material od gradbenih del, smeti, fekalije), se boniteta
+zemljišča ne ugotavlja oziroma ostane nespremenjena do sanacije degradiranega
+območja.
+(8) Ne glede na prejšnji odstavek se boniteta zemljišča
+na degradiranem območju ugotavlja za tehnogena tla in substrate.
+(9) Za določitev teksture in kislosti (pH) tal v tleh se
+opravi laboratorijska analiza. Kislost tal se določi z ekstrakcijo KCl, v
+skladu s standardom SIST ISO 10390. Tekstura tal se določi kot teksturni razred
+po USDA teksturni klasifikaciji in v skladu s standardom SIST ISO 11277.
+Laboratorijska analiza se opravi v povprečnem vzorcu tal iz globine 0 do 30 cm.
+V vzorec, namenjen laboratorijski analizi, se ne zajamejo organski horizonti.
+Če so tla plitvejša od 30 cm, se povprečen vzorec, namenjen laboratorijski
+analizi, odvzame znotraj razpoložljive globine.
+(10) Območja bonitete zemljišča in njihove bonitetne
+točke se lahko spremenijo tudi zaradi sprememb lastnosti tal, klime, reliefa,
+ki jih ugotovi geodetska uprava na podlagi prevzema podatkov iz drugih evidenc.
+73. člen
+(elaborat spremembe bonitete zemljišč)
+(1) Elaborat spremembe bonitete zemljišč vsebuje obrazec
+N, obrazec V in obrazec B iz Priloge 5 tega pravilnika.
+(2) V elaboratu spremembe bonitete zemljišč so
+koordinate novega območja bonitete in koordinate točke meritev, ki so določene
+za ugotovljene lastnosti tal, klime oziroma reliefa, določene v državnem
+prostorskem koordinatnem sistemu v metrih in zaokrožene na dve decimalni mesti.
+(3) V prikazu sprememb elaborata spremembe bonitete
+zemljišč se grafično prikažejo spremembe območij bonitete, bonitetnih točk in
+točke meritev, ki so določene za ugotovljene lastnosti tal, klime oziroma
+reliefa.
+(4) Priloga poročila bonitiranja zemljišč je
+laboratorijska analiza vzorca humusno akumulativnega sloja A horizonta oziroma
+vzorca do globine 30 cm za kislost (pH) in teksturo tal po priporočenih
+standardiziranih metodah iz standarda SIST ISO 10390 in SIST ISO 11277.
+(5) Laboratorijsko analizo vzorca humusno akumulativnega
+sloja za kislost (pH) in teksturo tal opravi laboratorij, ki je prepoznan kot
+ustrezno kakovosten s strani ministrstva, pristojnega za kmetijstvo, ali
+ministrstva, pristojnega za okolje.
+9. DEJANSKA RABA ZEMLJIŠČ
+74. člen
+(podatki skupnega sloja dejanske rabe zemljišč)
+(1) V skupni sloj dejanske rabe zemljišč se vpišejo
+poligoni in podatki o poligonih podrobnejših dejanskih rab zemljišč, ki jih
+določi upravljavec evidence dejanske rabe zemljišč, ki se vodi na podlagi
+zakona (v nadaljnjem besedilu: matična evidenca).
+(2) O poligonih dejanske rabe zemljišč iz prejšnjega
+odstavka se vpišejo naslednji podatki:
+-       
+številka poligona dejanske rabe zemljišč, določena v skladu s predpisom,
+ki določa vrste dejanskih rab zemljišč, ki se vodijo v katastru nepremičnin,
+-       
+ena ali več šifer dejanske rabe zemljišč, v katero je geodetska uprava v
+skladu s predpisom, ki ureja vrste dejanskih rab zemljišč, ki se vodijo v
+katastru nepremičnin, razvrstila podrobnejše dejanske rabe zemljišč iz matične
+evidence (v nadaljnjem besedilu: dejanska raba zemljišč),
+-       
+koordinate točk poligona dejanske rabe zemljišč,
+-       
+položajna točnost in
+-       
+datum vira.
+(3) Območja, na katerih se poligoni različnih vrst
+dejanske rabe zemljišč prekrivajo (v nadaljnjem besedilu: hkratna dejanska raba
+zemljišč), so v skupnem sloju dejanskih rab samostojni poligoni s šiframi
+dejanskih rab poligonov, ki se prekrivajo.
+(4) Koordinate točk poligona dejanske rabe zemljišč, ki
+določajo poligon, se vodijo v državnem prostorskem koordinatnem prostorskem
+sistemu zaokroženi na dve decimalni mesti.
+(5) Položajna točnost se določi po šifrantu, ki ga
+geodetska uprava posreduje upravljavcem matičnih evidenc.
+(6) Datum vira je podatek o datumu podatkovnega vira, ki
+je bil uporabljen za določitev poligona dejanske rabe zemljišč v matični
+evidenci. Za poligone hkratne dejanske rabe zemljišč je datum vira najstarejši
+datum veljavnosti posameznih dejanskih rab zemljišč, ki so v tem poligonu
+hkratnih dejanskih rab zemljišč.
+75. člen
+(način vodenja podatkov o poligonih)
+Podatki o poligonih iz prejšnjega člena se v skupnem sloju
+dejanske rabe zemljišč spremenijo, če se spremenijo, izbrišejo ali določijo
+novi poligoni v matičnih evidencah.
+76. člen
+(delež površine dejanske rabe zemljišč)
+(1) Deleži površin dejanskih rab zemljišč se za parcelo
+izračunajo v kvadratnih metrih. V kataster nepremičnin se vpišejo kot delež
+površine parcele.
+(2) Deleži površin dejanskih rab zemljišč na parceli se
+izračunajo, če se spremeni meja parcele ali če se spremeni poligon.
+(3) Deleži površin dejanskih rab zemljišč na parceli se
+izračunajo iz koordinat poligona, določenega z grafičnim presekom skupnega
+sloja dejanske rabe zemljišč z mejami parcel. Če sta na parceli dva ali več
+poligonov z enako dejansko rabo zemljišč, se deleži seštejejo. Če vsota deležev
+na parceli presega 100 %, se deleži izravnajo na 100 %.
+(4) Dejanske rabe zemljišč se vpišejo na parcelo ali se
+že vpisane dejanske rabe spremenijo, če je površina dejanske rabe, ki še ni
+vpisana na parceli, večja ali če se vsaj ena od že vpisanih dejanskih rab
+zemljišč spremeni za več od 1,5 kratnika kvadratnega korena površine
+parcele ().
+(5) Če se zaradi neizpolnjevanja pogojev iz prejšnjega
+odstavka površine hkratnih dejanskih rab zemljišč ne vpišejo na parcelo, se
+prištejejo površini dejanske rabe zemljišč na parceli, če je ta enaka eni od
+hkratnih dejanskih rab zemljišč. Če sta dve ali več hkratnih dejanskih rab
+zemljišč enaki dejanskim rabam zemljišč na parceli, se površina hkratne
+dejanske rabe zemljišč razdeli in se v enakih deležih pripiše vsem enakim
+dejanskim rabam zemljišč.
+77. člen
+(izkazovanje podatkov o dejanski rabi zemljišč)
+(1) Dejanske rabe zemljišč, ki se vpišejo v kataster
+nepremičnin, se izkazujejo za posamezne vrste dejanskih rab zemljišč in za
+hkratne dejanske rabe zemljišč.
+(2) Posamezne vrste dejanskih rab zemljišč in hkratne
+dejanske rabe zemljišč se izkazujejo v grafični obliki in v obliki deležev
+površin dejanskih rab za vsako parcelo posebej. Deleži so zapisani v odstotkih
+in zaokroženi na eno decimalno mesto.
+10. VZDRŽEVANJE POTEKA MEJ OBČIN Z MEJAMI PARCEL
+78. člen
+(uskladitev poteka meje občine)
+Potek meje občine se uskladi s spremenjeno mejo parcele, če
+se meja parcele v katastrskem načrtu spremeni zaradi postopkov parcelacije,
+komasacije ali izravnave meje in je razlika med potekom meje občine in
+spremenjeno mejo parcele znotraj območja, ki v širini 1 m poteka na vsaki
+strani dosedanje meje občine.
+79. člen
+(elaborat spremembe meje občine)
+Sestavine elaborata spremembe meje občine so naslednji
+obrazci iz Priloge 5 tega pravilnika:
+-       
+obrazec OB-0,
+-       
+obrazec OB-1,
+-       
+obrazec OB-2,
+-       
+obrazec OB-3 in
+-       
+sporazum med občinami glede poteka meje.
+11. PREHODNI IN KONČNI DOLOČBI
+80. člen
+(prva objava izmenjevalnih formatov)
+Ne glede na drugi odstavek 2. člena tega pravilnika se
+izmenjevalni formati prvič objavijo vsaj sedem dni pred začetkom njihove
+uporabe.
+81. člen
+(izkazovanje parcelne številke za stavbne parcele)
+Do uskladitve podatkov o parcelnih številkah v skladu s 161.
+členom Zakona o katastru nepremičnin (Uradni list RS, št. 54/21) se za parcele,
+označene s »stavbno parcelno številko«, parcelna številka izkazuje tako, kot je
+določeno v prvem oziroma drugem odstavku 27. člena tega pravilnika, pri čemer
+se pred številko parcele, ki je določena v okviru katastrske občine, izpiše
+zvezdica »*«.
+82. člen
+(prenehanje uporabe)
+Z dnem začetka uporabe tega pravilnika se prenehajo
+uporabljati:
+-       
+Pravilnik o evidentiranju podatkov v zemljiškem katastru (Uradni list
+RS, št. 48/18, 51/18 – popr., 35/19 in 54/21 − ZKN),
+-       
+Pravilnik o določanju in vodenju bonitete zemljišč (Uradni list RS, št.
+47/08 in 54/21 − ZKN),
+-       
+Pravilnik o vzpostavitvi bonitete zemljišč (Uradni list RS, št. 35/08 in
+54/21 – ZKN),
+-       
+Pravilnik o vpisih v kataster stavb (Uradni list RS, št. 73/12, 87/14,
+66/16 in 54/21 − ZKN),
+-       
+Pravilnik o vrstah dejanskih rab dela stavbe in vrstah prostorov, ki
+pripadajo delu stavbe (Uradni list RS, št. 22/19, 46/19 in 54/21 – ZKN).
+83. člen
+(začetek veljavnosti in uporabe)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije, uporabljati pa se začne 4. aprila 2022.
+Št. 007-64/2022
+Ljubljana, dne 18. marca 2022
+EVA 2022-2550-0028
+Mag. Andrej Vizjak
+minister
+za okolje in prostor
+
+Priloga
+1: Šifrant namenske rabe zamljišč
+Priloga
+2: Vrste dejanskih rab dela stavbe, vrste prostorov in povezava dejanske rabe
+delov stavb na klasifikacijo vrst objektov CC-SI v skladu s predpisom, ki ureja
+razvrščanje objektov
+Priloga
+3: Podrobnejši način merjenja prostorov, izračun neto tlorisne površine dela
+stavbe in površine prostorov ter način določitve uporabne površine dela stavbe
+in prostornine rezervoarjev in silosov
+Priloga
+4: Merila za bonitiranje zemljišč
+Priloga
+5: Obrazci za izdelavo elaboratov

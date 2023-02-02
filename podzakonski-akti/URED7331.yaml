@@ -1,0 +1,17 @@
+Text file: URED7331.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1524002400000000000
+- null
+- null
+- 10
+idPredpisa: URED7331
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za rabo termalne vode iz vrtine TOP-1/05 za ogrevanje\
+  \ in potrebe kopali\u0161\u010Da v Kopa\u010Dnici"
+npbNum: 0
+path: /2018/11/2018-01-1141
+sopPredpisa: 2018-01-1141
+sopPredpisaChng: null

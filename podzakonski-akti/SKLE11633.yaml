@@ -1,0 +1,16 @@
+Text file: SKLE11633.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1543014000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE11633
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi dneva Slovenske obve\u0161\u010Devalno-varnostne agencije"
+npbNum: 0
+path: /2018/35/2018-01-3590
+sopPredpisa: 2018-01-3590
+sopPredpisaChng: null

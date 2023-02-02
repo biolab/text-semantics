@@ -1,0 +1,16 @@
+Text file: PRAV9370.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1258153200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9370
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o cestnih priklju\u010Dkih na javne ceste"
+npbNum: 0
+path: /2009/38/2009-01-3808
+sopPredpisa: 2009-01-3808
+sopPredpisaChng: null

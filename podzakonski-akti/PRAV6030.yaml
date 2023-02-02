@@ -1,0 +1,17 @@
+Text file: PRAV6030.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1112997600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6030
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o vzdr\u017Eevalni organizaciji,\
+  \ potrjeni po JAR-145"
+npbNum: 0
+path: /2005/10/2005-01-1039
+sopPredpisa: 2005-01-1039
+sopPredpisaChng: null

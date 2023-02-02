@@ -1,0 +1,17 @@
+Text file: STAT156.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1620252000000000000
+- null
+- null
+- 10
+idPredpisa: STAT156
+idPredpisaChng: STAT156
+instock: .nan
+naslov: "STATUT Zdru\u017Eenja mestnih ob\u010Din Slovenije (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2021/30/2021-01-3007-2010-01-3778-npb6
+sopPredpisa: 2021-01-3007
+sopPredpisaChng: 2010-01-3778

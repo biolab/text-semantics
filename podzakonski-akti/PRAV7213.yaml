@@ -1,0 +1,17 @@
+Text file: PRAV7213.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1136934000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7213
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o opravljanju socialno varstvenih storitev na podlagi dovoljenja
+  za delo in vpisa v register
+npbNum: 0
+path: /2006/00/2006-01-0074
+sopPredpisa: 2006-01-0074
+sopPredpisaChng: null

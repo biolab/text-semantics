@@ -1,0 +1,16 @@
+Text file: SKLE10645.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1453503600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10645
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o omejenih skladih
+npbNum: 0
+path: /2016/00/2016-01-0011
+sopPredpisa: 2016-01-0011
+sopPredpisaChng: null

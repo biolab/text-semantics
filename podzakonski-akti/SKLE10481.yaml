@@ -1,0 +1,17 @@
+Text file: SKLE10481.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1492207200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10481
+idPredpisaChng: SKLE10481
+instock: .nan
+naslov: "SKLEP o uporabi Smernic o varnosti spletnih pla\u010Dil (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2017/10/2017-01-1000-2015-01-1951-npb2
+sopPredpisa: 2017-01-1000
+sopPredpisaChng: 2015-01-1951

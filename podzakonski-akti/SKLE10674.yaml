@@ -1,0 +1,17 @@
+Text file: SKLE10674.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513033200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10674
+idPredpisaChng: SKLE10674
+instock: .nan
+naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2017 (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/33/2017-01-3376-2017-01-2000-npb1
+sopPredpisa: 2017-01-3376
+sopPredpisaChng: 2017-01-2000

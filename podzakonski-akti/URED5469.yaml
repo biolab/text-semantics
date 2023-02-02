@@ -1,0 +1,20 @@
+Text file: URED5469.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1472680800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1453503600000000000
+- null
+- null
+- 10
+idPredpisa: URED5469
+idPredpisaChng: URED5469
+instock: .nan
+naslov: "UREDBA o dolo\u010Ditvi zneska tro\u0161arine za energente (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 62)"
+npbNum: 63
+path: /2016/00/2016-01-0001-2010-01-1175-npb63
+sopPredpisa: 2016-01-0001
+sopPredpisaChng: 2010-01-1175

@@ -1,0 +1,17 @@
+Text file: PRAV12433.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1443218400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12433
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izobrazbi u\u010Diteljev in drugih strokovnih delavcev v prilagojenih\
+  \ izobra\u017Eevalnih programih osnovne \u0161ole z enakovrednim izobrazbenim standardom"
+npbNum: 0
+path: /2015/26/2015-01-2688
+sopPredpisa: 2015-01-2688
+sopPredpisaChng: null

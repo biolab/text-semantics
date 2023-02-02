@@ -1,0 +1,16 @@
+Text file: SKLE689.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 952729200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE689
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o vi\u0161ini stro\u0161kov vpogleda v izpitno dokumentacijo"
+npbNum: 0
+path: /2000/09/2000-01-0997
+sopPredpisa: 2000-01-0997
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: ODLO2611.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1637362800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2611
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o finan\u010Dni pomo\u010Di pri reji pra\u0161i\u010Dev v letu 2021"
+npbNum: 0
+path: /2021/35/2021-01-3535
+sopPredpisa: 2021-01-3535
+sopPredpisaChng: null

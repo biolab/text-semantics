@@ -1,0 +1,17 @@
+Text file: PRAV8417.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1215813600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8417
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Rog (2007\u2013\
+  2016)"
+npbNum: 0
+path: /2008/30/2008-01-3039
+sopPredpisa: 2008-01-3039
+sopPredpisaChng: null

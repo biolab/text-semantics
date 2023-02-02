@@ -1,0 +1,21 @@
+Text file: PRAV10236.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277935200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277416800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10236
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vrsti, obliki in na\u010Dinu dostave podatkov o pla\u010Dilu\
+  \ dohodka osebi, ki se po drugem odstavku 58. \u010Dlena Zakona o dav\u010Dnem postopku\
+  \ \u0161teje za pla\u010Dnika davka"
+npbNum: 0
+path: /2010/26/2010-01-2668
+sopPredpisa: 2010-01-2668
+sopPredpisaChng: null

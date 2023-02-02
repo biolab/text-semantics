@@ -1,0 +1,12 @@
+Text file: AKT_1198.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_1198
+idPredpisaChng: null
+instock: .nan
+naslov: "ZNESEK MINIMALNE PLA\u010CE"
+npbNum: 0
+path: /2021/02/2021-01-0240
+sopPredpisa: 2021-01-0240
+sopPredpisaChng: null

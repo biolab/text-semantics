@@ -1,0 +1,16 @@
+Text file: URED5616.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1299884400000000000
+- null
+- null
+- 10
+idPredpisa: URED5616
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o letali\u0161kih pristojbinah"
+npbNum: 0
+path: /2011/07/2011-01-0701
+sopPredpisa: 2011-01-0701
+sopPredpisaChng: null

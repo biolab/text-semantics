@@ -1,0 +1,17 @@
+Text file: PRAV13605.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1644015600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13605
+idPredpisaChng: PRAV13605
+instock: .nan
+naslov: "PRAVILNIK o odobritvi in nalogah delavnic za tahografe in naprave za omejevanje\
+  \ hitrosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/02/2022-01-0238-2019-01-1043-npb3
+sopPredpisa: 2022-01-0238
+sopPredpisaChng: 2019-01-1043

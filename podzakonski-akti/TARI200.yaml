@@ -1,0 +1,17 @@
+Text file: TARI200.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1520031600000000000
+- null
+- null
+- 10
+idPredpisa: TARI200
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO Javne agencije Republike Slovenije za zdravila in medicinske pripomo\u010D\
+  ke"
+npbNum: 0
+path: /2018/03/2018-01-0364
+sopPredpisa: 2018-01-0364
+sopPredpisaChng: null

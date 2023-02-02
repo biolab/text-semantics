@@ -1,0 +1,17 @@
+Text file: PRAV13562.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1532728800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13562
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na\
+  \ Evro-sredozemski univerzi"
+npbNum: 0
+path: /2018/26/2018-01-2655
+sopPredpisa: 2018-01-2655
+sopPredpisaChng: null

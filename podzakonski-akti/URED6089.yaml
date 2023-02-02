@@ -1,0 +1,17 @@
+Text file: URED6089.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1341525600000000000
+- null
+- null
+- 10
+idPredpisa: URED6089
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o navajanju porabe energije in drugih virov z energijskimi nalepkami
+  in standardiziranimi podatki za proizvode, povezane z energijo
+npbNum: 0
+path: /2012/21/2012-01-2114
+sopPredpisa: 2012-01-2114
+sopPredpisaChng: null

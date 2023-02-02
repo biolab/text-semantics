@@ -1,0 +1,17 @@
+Text file: PRAV9993.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1293836400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9993
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Velike\
+  \ La\u0161\u010De (2010\u20132019)"
+npbNum: 0
+path: /2010/58/2010-01-5834
+sopPredpisa: 2010-01-5834
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV7180.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1468533600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7180
+idPredpisaChng: PRAV7180
+instock: .nan
+naslov: "PRAVILNIK o organizaciji lovsko-\u010Duvajske slu\u017Ebe, o vsebini in pogojih\
+  \ za opravljanje izpita za lovskega \u010Duvaja ter obliki izkaznice in slu\u017E\
+  benega znaka (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2016/20/2016-01-2033-2005-01-5538-npb3
+sopPredpisa: 2016-01-2033
+sopPredpisaChng: 2005-01-5538

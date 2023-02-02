@@ -1,0 +1,16 @@
+Text file: URED4400.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1198450800000000000
+- null
+- null
+- 10
+idPredpisa: URED4400
+idPredpisaChng: null
+instock: .nan
+naslov: "SREDNJERO\u010CNI PROGRAM statisti\u010Dnih raziskovanj 2008\u20132012"
+npbNum: 0
+path: /2007/59/2007-01-5995
+sopPredpisa: 2007-01-5995
+sopPredpisaChng: null

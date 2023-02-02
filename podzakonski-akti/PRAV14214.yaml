@@ -1,0 +1,16 @@
+Text file: PRAV14214.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622239200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14214
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sofinanciranju \u0161olskih tekmovanj"
+npbNum: 0
+path: /2021/15/2021-01-1560
+sopPredpisa: 2021-01-1560
+sopPredpisaChng: null

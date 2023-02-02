@@ -1,0 +1,17 @@
+Text file: URED3888.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1136588400000000000
+- null
+- null
+- 10
+idPredpisa: URED3888
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o emisiji azbesta v zrak in pri odvajanju industrijske odpadne vode
+  iz naprav, v katerih se uporablja azbest
+npbNum: 0
+path: /2005/51/2005-01-5153
+sopPredpisa: 2005-01-5153
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV8504.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1232146800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8504
+idPredpisaChng: PRAV8504
+instock: .nan
+naslov: "PRAVILNIK o veterinarskih pogojih, ki morajo biti izpolnjeni za nekomercialne\
+  \ premike hi\u0161nih \u017Eivali, in o modelu potnega lista, ki mora spremljati\
+  \ te \u017Eivali (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2009/00/2009-01-0090-2008-01-0980-npb2
+sopPredpisa: 2009-01-0090
+sopPredpisaChng: 2008-01-0980

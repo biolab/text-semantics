@@ -1,0 +1,17 @@
+Text file: PRAV2871.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1058220000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2871
+idPredpisaChng: PRAV2871
+instock: .nan
+naslov: "PRAVILNIK o organizaciji stalne arbitra\u017Ee pri Gospodarski zbornici Slovenije\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2003/31/2003-01-3195-2000-01-2344-npb1
+sopPredpisa: 2003-01-3195
+sopPredpisaChng: 2000-01-2344

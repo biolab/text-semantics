@@ -1,0 +1,17 @@
+Text file: PRAV2512.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1367618400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2512
+idPredpisaChng: PRAV2512
+instock: .nan
+naslov: "PRAVILNIK o povrnitvi stro\u0161kov v kazenskem postopku (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/14/2013-01-1470-1997-01-3027-npb2
+sopPredpisa: 2013-01-1470
+sopPredpisaChng: 1997-01-3027

@@ -1,0 +1,17 @@
+Text file: ODRE904.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 742946400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE904
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o obliki obveznice Republike Slovenije za poravnavanje obveznosti\
+  \ iz neizpla\u010Danih deviznih vlog"
+npbNum: 0
+path: /1993/16/1993-01-1674
+sopPredpisa: 1993-01-1674
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV11835.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1625868000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11835
+idPredpisaChng: PRAV11835
+instock: .nan
+naslov: "PRAVILNIK o dodatni strokovni in fizi\u010Dni pomo\u010Di za otroke s posebnimi\
+  \ potrebami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/23/2021-01-2339-2013-01-3192-npb1
+sopPredpisa: 2021-01-2339
+sopPredpisaChng: 2013-01-3192

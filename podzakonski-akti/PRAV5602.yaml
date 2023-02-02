@@ -1,0 +1,18 @@
+Text file: PRAV5602.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1601330400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5602
+idPredpisaChng: PRAV5602
+instock: .nan
+naslov: "PRAVILNIK o pogojih, ki jih morajo izpolnjevati laboratoriji za izvajanje\
+  \ preiskav na podro\u010Dju laboratorijske medicine (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2020/23/2020-01-2325-2004-01-2916-npb3
+sopPredpisa: 2020-01-2325
+sopPredpisaChng: 2004-01-2916

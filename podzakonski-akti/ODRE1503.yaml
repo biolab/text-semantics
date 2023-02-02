@@ -1,0 +1,17 @@
+Text file: ODRE1503.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1038610800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1503
+idPredpisaChng: ODRE1503
+instock: .nan
+naslov: "PRAVILNIK o preventivnih ukrepih v zvezi s transmisivnimi spongiformnimi\
+  \ encefalopatijami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2002/51/2002-01-5142-2001-01-0118-npb1
+sopPredpisa: 2002-01-5142
+sopPredpisaChng: 2001-01-0118

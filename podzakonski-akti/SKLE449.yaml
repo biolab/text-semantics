@@ -1,0 +1,19 @@
+Text file: SKLE449.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 946681200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 943484400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE449
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o dolo\u010Ditvi kontnega okvira za zadruge"
+npbNum: 0
+path: /1999/45/1999-01-4535
+sopPredpisa: 1999-01-4535
+sopPredpisaChng: null

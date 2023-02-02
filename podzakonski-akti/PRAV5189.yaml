@@ -1,0 +1,17 @@
+Text file: PRAV5189.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1064008800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5189
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o varovanju zdravja pri delu nose\u010Dih delavk, delavk, ki so\
+  \ pred kratkim rodile ter doje\u010Dih delavk"
+npbNum: 0
+path: /2003/39/2003-01-3919
+sopPredpisa: 2003-01-3919
+sopPredpisaChng: null

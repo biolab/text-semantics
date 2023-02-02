@@ -1,0 +1,19 @@
+Text file: PRAV10121.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356735600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10121
+idPredpisaChng: PRAV10121
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova\
+  \ prodaje blaga in storitev na trgu v javnih zavodih iz pristojnosti Ministrstva\
+  \ za delo, dru\u017Eino in socialne zadeve (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2012/40/2012-01-4074-2010-01-0242-npb1
+sopPredpisa: 2012-01-4074
+sopPredpisaChng: 2010-01-0242

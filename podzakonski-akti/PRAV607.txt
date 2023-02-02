@@ -1,0 +1,570 @@
+I. SPLOŠNA DOLOČBA
+1. člen
+Ta pravilnik določa meroslovne in z njimi povezane tehnične
+zahteve, ki jih morajo izpolnjevati merila, ki se uporabljajo za ugotavljanje
+prostorninskih deležev ene ali več od naslednjih sestavin izpušnega plina:
+ogljikovega monoksida (CO), ogljikovega dioksida (CO2),
+ogljikovodikov (HC, izražen kot n-heksan) in kisika (O2) na ravni
+vlažnosti analiziranega vzorca (v nadaljevanju: merila).
+Ta pravilnik se označi skrajšano z oznako MP-2-R 99.
+II. PODROČJE UPORABE
+2. člen
+Ta pravilnik se nanaša na merila, ki so namenjena kontroli in
+vzdrževanju motornih vozil v rabi z bencinskim motorjem z električnim vžiganjem
+(ottovim motorjem), in zajema merila, katerih detekcija temelji na:
+-       
+načelu infrardeče absorpcije v plinih za CO, CO2 in HC,
+-       
+načelu gorivne celice za O2,
+-       
+drugih načelih detekcije.
+Pravilnik obravnava tri razrede točnosti, in sicer razred 0,
+razred I in razred II. Vse zahteve za razred I veljajo enako tudi za razred 0,
+razen če s tem pravilnikom ni določeno drugače.
+3. člen
+Posamezni izrazi, uporabljeni v tem pravilniku, in opis
+merila so navedeni v 2. in 3. točki Mednarodnega priporočila OIML R 99 (v
+nadaljevanju: OIML R 99).
+III. MEROSLOVNE ZAHTEVE
+4. člen
+1.1. Kazanje rezultata meritve
+Prostorninski deleži plinskih sestavin morajo biti izraženi v
+% vol. za CO, CO2 in O2 ter v ppm vol. za HC. Simboli za
+enote morajo biti nedvoumno pripisani h kazanju, kot so: »% vol. CO«, »% vol.
+CO2«, »% vol. O2«, in »ppm vol. HC«.
+1.2. Merilno območje
+Najmanjša merilna območja
+kazanja, ki jih je še mogoče deliti, so:
+                               CO                           CO2                            O2                                         HC
+Razred I                 0–5% vol.                 0–16%
+vol.           0–21% vol.          0–2000 ppm vol.
+Razred II                0–7%
+vol.                 0 – 16% vol.         0–21% vol.          0–2000 ppm vol.
+1.3. Razločljivost kazanja
+1.3.1. Vrednosti razdelkov na analogni skali in skalne oznake
+Vrednosti razdelkov za analogni prikaz morajo biti 0,1 ali
+0,2% vol. za CO, CO2 in O2 ter 10 ali 20 ppm vol. za HC.
+Najmanjša dolžina razdelka skale mora biti 1,25 mm. Debelina igle kazalca ne
+sme biti večja od četrtine dolžine razdelka skale. Igla kazalca mora prekrivati
+najmanj eno tretjino najkrajše oznake in mora biti jasno vidna. Graduacija mora
+biti označena s številkami, ki so visoke najmanj 5 mm in oblikovane tako, da
+napačno razlaganje ni mogoče.
+1.3.2. Digitalni prikaz
+Številke pri digitalnem prikazu
+morajo biti visoke najmanj 5 mm. Najmanj pomembna številka na prikazalniku mora
+imeti enako ali boljšo razločljivost, kot so naslednje vrednosti:
+                               CO                           CO2                            O2                                         HC
+Razred I                 0,01% vol.                0,1% vol.              *                           1
+ppm vol.
+Razred II                0,05%
+vol.                0,1% vol.              0,1% vol.             5 ppm vol.
+*   0,02% vol. za vrednosti merjene veličine
+<=4% vol., zunaj tega območja pa 0,1% vol.
+1.4. Mejni pogreški
+1.4.1. Mejni lastni pogreški
+Za merilo pod referenčnimi
+pogoji, določenimi v točki 1.5.1., veljajo naslednji mejni pogreški:
+a: absolutni pogrešek kazanja merila
+b: relativni pogrešek kazanja merila
+1.4.2. Mejni pogreški ob prvi overitvi
+Ob prvi overitvi veljajo za merilo pod nazivnimi
+obratovalnimi pogoji, določenimi v točki 1.5.2., naslednji mejni pogreški:
+a: absolutni pogrešek kazanja merila
+b: relativni pogrešek kazanja merila
+1.4.3. Mejni pogreški ob naslednji overitvi
+Mejni pogreški ob naslednji overitvi so enaki dovoljenim
+pogreškom ob prvi overitvi.
+1.5. Vplivne veličine
+1.5.1. Referenčni pogoji:
+a)    
+temperatura:                                                            20
+°C ±2 °C
+b)    
+relativna vlaga:                                                        55%
+(5%
+c)    
+atmosferski tlak:                                                      stabilni
+okoljni
+d)    
+omrežna napetost:                                                   nazivna
+napetost ±2%,
+nazivna frekvenca ±1%
+e)    
+prisotnost vplivnih plinskih sestavin:                        nobenih,
+razen merjenih veličin v N2
+1.5.2. Nazivni obratovalni pogoji
+a)    
+temperatura:                                                     5 °C do
+40 °C
+b)    
+relativna vlaga:                                                 do 90%
+c)    
+atmosferski tlak:                                               razred
+I: 860 do 1060 hPa
+razred II: okoljski ±25 hPa
+d)    
+sprememba omrežne nazive napetosti:           –15% do +10% nazivne frekvence:
+±2%
+Če merilo napaja baterija, mora biti napajanje v mejah specifikacij
+proizvajalca. Če ima merilo prenosni generator za napajanje, morajo biti
+zahteve zanj skladne s specifikacijami za omrežno napetost.
+1.5.3. Vpliv drugih plinov, ki niso merjena veličina
+Merilo mora biti načrtovano tako, da na meritve ne morejo za
+več kot polovico vrednosti mejnega pogreška ob prvi overitvi vplivati druge
+plinske sestavine, ki niso merjena veličina, če so ti plini navzoči v
+naslednjih največjih prostorninskih deležih:
+16% vol. CO2, 6% vol. CO, 10% vol. O2,
+5% vol. H2, 0,3% vol. NO, 2000 ppm vol. HC (kot n-heksan), vodni
+hlapi do nasičenja.
+Prisotnost H2 ni potrebna pri uporabi infrardeče
+tehnike ali za preskušanje celice za meritev O2.
+1.6. Motnje
+Pomembne napake, opredeljene v točki 2.20 OIML R 99, se ne
+smejo zgoditi oziroma jih s pripravami za preverjanje ne smejo odkriti in se
+nanje odzvati zaradi naslednjih motenj:
+a)    
+mehanskih udarcev,
+b)    
+kratkotrajne redukcije toka,
+c)    
+sunkov omrežne napetosti,
+d)    
+elektrostatične razelektritve,
+e)    
+elektromagnetnega polja,
+f)     
+magnetnega polja omrežne frekvence,
+g)    
+vibracij (samo za prenosno merilo).
+1.7. Odzivni čas
+Pri merjenju CO, CO2 in HC mora merilo, ki
+vključuje tudi določen sistem priprave plina, v najmanj 15 sekundah od
+spremembe s plina z vsebnostjo nič, pokazati 95% končne vrednosti, določene s
+kalibracijskimi plini.
+Pri merjenju O2 mora merilo v 60 sekundah po
+spremembi od zraka do kalibracijskega plina brez kisika pokazati vrednost, ki
+se za manj kot 0,1% vol. razlikuje od končne vrednosti.
+1.8. Ogrevalni čas
+Po ogrevalnem času mora merilo izpolnjevati meroslovne
+zahteve, navedene v tem pravilniku.
+Merilo razreda I mora imeti način za preprečevanje kazanja
+merjenih prostorninskih deležev plina med ogrevalnim časom.
+Ogrevalni čas za merilo razreda II ne sme biti daljši od 30
+minut.
+1.9. Ekvivalenčni faktor propana/heksana
+Delež ogljikovodikov mora biti izražen v ekvivalentu ppm vol.
+n-heksana (C6H14). Merilo je mogoče naravnati s pomočjo
+propana (C3H8), zato mora biti na vsakem merilu stalno in
+jasno označen ali lahko prikazljiv konverzijski faktor, tako imenovani
+»ekvivalenčni faktor C3/C6« ali PEF. Kot alternativna
+možnost je dovoljeno prikazovanje vrste konverzijskih faktorjev, ki naj bi
+ustrezali pripadajočim koncentracijam. Konverzijski faktor ali faktorje mora za
+vsako merilo navesti proizvajalec do treh pomembnih številk natančno. Če je
+element, ki je občutljiv na plin, zamenjan ali popravljen, je treba merilu
+priložiti nov konverzijski faktor oziroma faktorje.
+Pri merilih z enim samim konverzijskim faktorjem se vrednosti
+merjenja, ki jih dobimo, če preskušamo z n-heksanom, ne smejo razlikovati za
+več, kot je veljavni mejni pogrešek od krivulje, ugotovljene s propanom.
+Pri merilih, ki lahko prikazujejo vrsto konverzijskih
+faktorjev, se vrednosti merjenja, ki jih dobimo, če preskušamo z n-heksanom, ne
+smejo za več kot polovico vrednosti veljavnega mejnega pogreška razlikovati od
+krivulje, ugotovljene s propanom.
+Vrednost tega faktorja je ponavadi med 0,490 in 0,540.
+1.10. Računanje lambde
+Merila, ki so opremljena s kazalnikom lambde, morajo ustrezno
+izračunavanje izvajati s standardizirano formulo, navedeno v OIML R 99, d
+odatek F.
+Za vrednosti lambda med 0,8 in 1,2 mejni pogrešek, izračunan
+glede na razločljivost in uporabo določene formule, ne sme presegati 0,3%.
+Vrednost lambda mora biti prikazana digitalno s 4 decimalnimi
+mesti in označena z ustreznim simbolom ali znakom (npr. lambda ali = x.xxxx).
+1.11. Časovna stabilnost ali lezenje
+Če se merilo uporablja v skladu z navodili proizvajalca,
+morajo meritve, ki jih merilo opravi v stabilnih pogojih okolja in po
+naravnavanju s pomočjo kalibracijskega plina ali s pomočjo interne priprave za
+naravnavanje, ostati znotraj mejnih pogreškov ob prvi overitvi za obdobje
+najmanj 4 ur, ne da bi bila potrebna ponovna uporaba kalibracijskega plina ali
+ponovna interna naravnavanja. Če je merilo opremljeno s sredstvom za
+kompenziranje lezenja, kot je na primer avtomatsko ničliranje ali avtomatsko
+interno naravnavanje, izvajanje teh naravnavanj ne sme povzročiti kazanja, ki
+bi ga lahko zamešali z meritvijo zunanjega plina.
+1.12. Ponovljivost
+Za 20 zaporednih meritev iste mešanice kalibracijskega plina,
+ki jih izvede ista oseba z istim merilom v relativno kratkih časovnih
+presledkih, preskušano standardno odstopanje 20 rezultatov ne sme biti večje od
+ene tretjine modula mejnega pogreška ob prvi overitvi, vzeto iz točke 1.4.2. za
+ustrezno mešanico plina.
+IV. TEHNIČNE ZAHTEVE
+5. člen
+1. Konstrukcija
+1.1. Vsi sestavni deli sistema za ravnanje s plinom morajo
+biti izdelani iz protikorozijsko odpornega materiala; zlasti material sonde za
+vzorčenje mora vzdržati temperaturo izpušnega plina. Uporabljeni materiali ne
+smejo vplivati na sestavo merjenega vzorca plina.
+1.2 Sonda za vzorčenje mora biti oblikovana tako, da jo je
+mogoče vložiti v izpušno cev vozila najmanj 30 cm globoko in z napravo za
+zadrževanje držati v tem položaju ne glede na globino.
+1.3 Sistem za ravnanje s plinom mora vsebovati filtrirno
+enoto z večkrat uporabljivimi ali zamenljivimi elementi, ki so zmožni
+odstranjevati delce s premerom, večjim od 5 µm. Merilo mora omogočati uporabo
+najmanj 30 min z izpušnim plinom iz avtomobilskega motorja, ki ima delež HC
+okrog 800 ppm. Omogočeno mora biti opazovanje stopnje onesnaženja filtra, ne da
+bi ga bilo treba odstraniti. Filter mora biti mogoče po potrebi preprosto in brez
+posebnega orodja zamenjati.
+1.4 Sistem za ravnanje s plinom mora imeti ločilnik vode, ki
+preprečuje kondenziranje vode v merilnem pretovorniku. Če se ločilnik nasiči,
+se mora avtomatsko izprazniti ali pa se mora merjenje avtomatsko ustaviti.
+1.5 Poleg sonde morajo imeti merila z merjenjem HC možnost
+uvajanja okolnega zraka ali kakega drugega plina brez ogljikovodikov, ki se
+uporablja kot referenca za ničliranje merila. To možnost imajo lahko tudi
+merila brez merjenja HC. Če se za naravnavanje uporablja okolni zrak, mora
+le-ta prehajati skozi ogljeni filter ali ustrezen ekvivalenten sistem. Celice,
+ki merijo kisik, za ničliranje ne smejo uporabiti okolnega zraka; če je
+ničliranje potrebno, je treba uporabiti plin, ki ne vsebuje kisika.
+Za uvajanje kalibracijskega plina v sistem za ravnanje s
+plinom se lahko doda še ena odprtina. Obe odprtini se morata nahajati po toku
+navzdol od vodnega separatorja in filtrirne enote, da se verjetnost onesnaženja
+uvedenih plinov kar najbolj zmanjša. Merilo mora imeti tudi sredstvo za
+vzdrževanje enakega tlaka v detektorju med ničliranjem, kalibriranjem plina in
+vzorčenjem.
+1.6. Črpalka za odjem izpušnega plina mora biti nameščena
+tako, da njene vibracije ne vplivajo na meritve. Uporabnik mora imeti možnost
+vklopiti in izklopiti črpalko ločeno od drugih sestavnih delov merila; vendar
+pa ne sme biti mogoče izvajati meritve pri izklopljeni črpalki.
+1.7. Merilo mora biti opremljeno z napravo, ki pokaže, kdaj
+se pretok plina zmanjša na tako raven, ko bi detekcija prekoračila odzivni čas
+oziroma polovico vrednosti mejnega pogreška prve overitve. Pri merilu razreda I
+mora ta naprava, ko je meja dosežena, preprečiti merjenje.
+1.8. Sistem za ravnanje s plinom mora biti neprepusten za
+zrak do take mere, da razredčitev z okolskim zrakom ne vpliva na rezultat
+meritve za več kot:
+-       
+za CO, CO2 in HC: pol modula mejnega pogreška prve overitve;
+-       
+za O2: 0,1% vol.
+V proizvajalčevih navodilih za uporabo mora biti podan
+postopek preskusa tesnjenja, ki je zadosti točen, da se z njim odkrije določeno
+največje uhajanje.
+Z merilom razreda I v primeru, da je ta vrednost prekoračena,
+ne sme biti mogoče izvajati merjenja.
+1.9 Merilo je lahko opremljeno z vmesnikom, ki omogoča
+povezavo merila s perifernimi napravami ali drugimi merili.
+Vmesnik ne sme perifernim napravam, drugim priključenim
+merilom ali motnjam, ki delujejo nanj, omogočati, da nedopustno vplivajo na
+meroslovne funkcije merila in njegove merilne podatke.
+Funkcije, ki se izvajajo ali prožijo prek vmesnika, morajo
+izpolnjevati ustrezne zahteve in pogoje iz 5. člena tega pravilnika.
+Če je merilo priključeno na tiskalnik, mora biti prenos
+podatkov od merila do tiskalnika načrtovan tako, da rezultatov ni mogoče
+ponarediti. Če naprave za preverjanje odkrijejo pomembno napako ali nepravilno
+delovanje merila, ne sme biti mogoče izpisovati dokumenta za zakonske namene.
+2. Priprave za naravnavanje
+2.1. Merilo mora imeti pripravo za naravnavanje, ki omogoča
+ničliranje, kalibracijo plina (če jo ima) in interno naravnavanje. Priprava je
+lahko polavtomatska ali avtomatska.
+2.2. Pri merilih razreda I mora biti priprava za ničliranje
+in interno naravnavanje avtomatska.
+2.3 Pri merilih razreda II je priprava za naravnavanje lahko
+polavtomatska ali avtomatska.
+2.4 Interno naravnavanje ne sme vplivati niti na naravnano
+ničlo niti na linearnost odziva merila in mora biti povezana z vsemi
+naravnavanji, ki so bila izvedena s kalibracijskim plinom. Možen mora biti tak
+način povezave, da bo po vsaki kalibraciji s plinom mogoče naravnati vrednost
+plina in vrednost internega naravnavanja in da bo kazanje enako vrednosti
+kalibracijskega plina.
+2.5. Merilo razreda I mora za določene preskuse nuditi
+možnost opazovanja negativnih kazanj blizu ničle.
+Merilo razreda II mora biti sposobno prikazovati negativna
+kazanja blizu ničle, zato da ga je mogoče po potrebi ničlirati.
+3. Varnost delovanja
+3.1. Merilo mora biti načrtovano in izdelano tako, da v
+primeru izpostavljenosti motnjam, naštetim v 4. členu, točki 1.6. tega
+pravilnika, ne bo prišlo do pomembnih napak oziroma teh napak ne bo odkrila in
+se nanje odzvala priprava za preverjanje. Če je to doseženo s pomočjo
+avtomatskih priprav za samopreverjanje, mora biti mogoče tudi preverjati
+pravilno delovanje takih priprav.
+3.2. Merilo z merjenjem HC mora imeti pripravo za
+preverjanje, ki odkriva ostanke plina HC. Ta priprava se uporablja za
+ugotavljanje, ali je pred meritvijo pokazana vrednost manj kot 20 ppm vol.
+n-heksana za vzorec okolskega zraka, ki je vzet s sondo. Merilo razreda I v
+primeru, ko vrednost ostanka HC prekorači 20 ppm vol. n-heksana, ne sme biti
+zmožno meriti.
+3.3. Merilo s kanalom za O2 mora biti opremljeno z
+napravo za avtomatsko prepoznavanje okvare senzorja zaradi staranja in
+prekinitve na povezovalnem vodu.
+3.4. Merilo razreda I mora nadzirati avtomatska priprava za
+samopreverjanje, ki naj deluje tako, da bo, preden bo meritev mogoče pokazati
+ali izpisati, potrjena prava vrednost oziroma stanje (tj. znotraj meja) vseh
+internih naravnavanj, naravnavanj kalibracijskega plina in vseh drugih
+parametrov priprave za preverjanje. Tipi priprave za preverjanje za posamezne
+parametre merila morajo biti naslednji:
+Parameter merila                                                                     Tip
+priprave za preverjanje
+Preverjanje ogrevanja                                                             P
+(trajni avtomatski)
+Preverjanje nizkega pretoka                                                    P
+Preverjanje ostanka HC                                                          I
+(prekinjeni avtomatski)
+Preverjanje internega referenčnega naravnavanja                 P
+ali I
+Preverjanje kalibracije plina                                                     I
+Preverjanje tesnjenja                                                               I
+3.5. Merilo, opremljeno s pripravo za avtomatsko ali
+polavtomatsko naravnavanje, ne sme omogočati izvajanja meritve, dokler niso
+bila zaključena pravilna naravnavanja.
+3.6. Merilo, opremljeno s pripravo za polavtomatsko
+naravnavanje, ne sme omogočati izvajanja meritve, če je potrebno naravnavanje.
+3.7. Tako avtomatske kot polavtomatske priprave za
+naravnavanje so lahko opremljene s sredstvom za opozarjanje, da je potrebno
+takojšnje naravnavanje.
+3.8. Vsi deli merila, ki jih materialno ni mogoče drugače
+zavarovati pred operacijami, ki bi lahko vplivale na točnost ali integriteto
+merila, morajo biti učinkovito zapečateni. To velja zlasti za:
+-       
+sredstva naravnavanja,
+-       
+integriteto programske opreme,
+-       
+kisikovo gorivno celico, ki jo je mogoče menjati.
+3.9. Merilo, ki nima naprave za kompenzacijo tlaka, je treba
+kalibrirati vsak dan. Ta zahteva mora biti navedena v navodilih za uporabo.
+3.10. Merilo, ki je baterijsko napajano, mora še naprej
+delovati pravilno ali pa ne sme kazati nikakršnih vrednosti, če je napetost pod
+vrednostjo, ki jo je specificiral proizvajalec.
+V. NAPISI IN OZNAKE
+6. člen
+Napisi in oznake na merilu morajo biti v slovenskem jeziku.
+Merilo mora imeti trajno in jasno berljivo napisno ploščico
+(ploščice) z naslednjimi podatki:
+a)    
+blagovna znamka oziroma ime proizvajalca,
+b)    
+leto izdelave,
+c)    
+oznaka razreda OIML,
+d)    
+oznaka odobritve tipa in številka modela,
+e)    
+serijska številka merila in merilnega pretvornika,
+f)     
+najmanjša in nazivna hitrost pretoka,
+g)    
+nazivna omrežna napetost, frekvenca in zahtevana moč,
+h)    
+plinske sestavine in ustrezna največja izmerjena vrednost,
+i)      
+opis tipa in model kisikove gorivne celice.
+Nadalje mora biti na čelni plošči vsakega merila označena ali
+na kazalni napravi stalno prikazana vrednost konverzijskega faktorja
+propan/heksana, za merila iz razreda II pa čas ogrevanja.
+Če je prikazanih več konverzijskih faktorjev propan/heksana,
+morajo biti ti prikazani skupaj s pripadajočo koncentracijo.
+Za merila, ki imajo vgrajeno programsko kontrolo meroslovnih
+funkcij, mora biti njena identifikacija navedena na napisni ploščici oziroma
+stalno prikazana.
+VI. UGOTAVLJANJE SKLADNOSTI
+7. člen
+Preskus tipa merila se izvede na podlagi dokumentacije, ki jo
+mora proizvajalec ali njegov predstavnik priložiti zahtevi za odobritev tipa
+merila in mora vsebovati:
+1.     
+splošno in drugo dokumentacijo, določeno z drugimi meroslovnimi
+predpisi, ki omogoča ugotovitev skladnosti tipa merila z zahtevami tega
+pravilnika;
+2.     
+navodila za uporabo v slovenskem jeziku, ki morajo vključevati tudi:
+a)   
+časovne presledke in postopke za naravnavanje in vzdrževanje, ki jih je
+treba upoštevati, da bi bili v skladu z mejnimi pogreški,
+b)   
+opis postopka preskusa tesnjenja (leakage test),
+c)   
+navodilo uporabniku, naj pred vsako meritvijo HC izvede preverjanje
+ostanka HC, z opisom postopka preverjanja ostanka HC,
+d)   
+največjo in najmanjšo temperaturo skladiščenja,
+e)   
+specifikacijo potrebne napetosti in frekvence za prenosni generator v
+skladu s točko 1.5.2., upoštevaje spremembe obremenitve, ki so tipične za mesto
+uporabe,
+f)    
+izjavo o nazivnih obratovalnih pogojih,
+g)   
+če se računa vrednost lambde, opis uporabljene formule,
+h)   
+navodilo za zamenjavo kisikove gorivne celice;
+3.     
+če je vključeno izračunavanje lambde, tudi vse podatke ali druge
+informacije, ki bi lahko podprle ugotovitev, da sta načrtovanje in konstrukcija
+merila v skladu z zahtevami tega pravilnika.
+8. člen
+Pregled merila vsebuje tudi preveritev proizvajalčevih pisnih
+navodil za uporabo, da se ugotovi, ali so pravilni postopki jasno navedeni,
+zlasti tisti iz 6. člena.
+9. člen
+Pregled in preskušanje merila se opravita na najmanj eni in
+ne več kot treh enotah ter praviloma na celotnem merilu.
+Če velikost in konfiguracija merila nista primerni za njegovo
+preskušanje kot enote ali če gre za določen sestavni del ali napravo merila, se
+lahko na tem sestavnem delu ali napravi izvede ločen preskus. Take preskuse je
+dovoljeno izvesti le, če je mogoče sestaviti simulirano meritev, ki odraža
+nazivne obratovalne pogoje tega sestavnega dela ali naprave. Merilo ali njegovi
+sestavni deli se za preskus ne razstavljajo.
+Za splošno oceno načrtovanja in konstrukcije se uporabi
+vizualni pregled.
+10. člen
+V primeru, da gre za oba razreda meril, mora biti vsebina
+plinskih mešanic, ki se uporabljajo med odobritvijo tipa, v skladu s tisto, ki
+je določena v OIML R 99, dodatek A (ponavadi plin merjene veličine v N2).
+Za prvo overitev, naslednje overitve in druge preskuse se uporabljajo ustrezne
+ekvivalentne mešanice plinov, ki vsebujejo CO in CO2 ter HC in N2,
+kjer je to izvedljivo.
+Postopki za ugotavljanje skladnosti merila z zahtevami tega
+pravilnika s preskusom tipa merila so navedeni v OIML R 99 v 8. točki in
+dodatku A.
+11. člen
+Kalibracijski plini, ki se uporabljajo za preskus tipa merila
+in overitve, morajo imeti certifikat skladnosti z mednarodnimi standardi z
+izjavo o meroslovni sledljivosti.
+Plini so lahko dobavljeni v plinskih valjih (jeklenkah) ali z
+dinamičnim mešanjem in morajo imeti naslednje podatke:
+1.     
+naziv dobavitelja plinskih jeklenk in serijsko številko,
+2.     
+sestavo plinske mešanice,
+3.     
+temperaturne omejitve za uporabo in skladiščenje,
+4.     
+datum analize in datum poteka,
+5.     
+ime preskuševalnega organa,
+6.     
+oznako »mešanica kalibracijskega plina«.
+Druge tehnične zahteve so navedene v OIML R 99, dodatek B.
+12. člen
+Prva overitev vključuje tudi vizualni pregled vsakega merila,
+s katerim se ugotovi skladnost z odobrenim tipom.
+Prva overitev merila se izvede s pomočjo ustreznih sredstev
+za preskušanje in certificiranih in meroslovno sledljivih kalibracijskih plinov
+ter najmanj s preskusi, navedenimi v OIML R 99, dodatek C.
+13. člen
+Preskusi prve overitve se izvajajo s pomočjo plinskih mešanic
+najmanj treh različnih prostorninskih deležev za merilo razreda I in najmanj 2
+prostorninskih deležev za merilo razreda II, v okviru naslednjih nazivnih
+obsegov merjenih veličin:
+-       
+merila razreda I:
+CO:               0,5% vol. do 5% vol.
+CO2:             4% vol. do 16%
+vol.
+HC:               100 ppm. vol. do 2 000 ppm
+vol.
+-       
+merila razreda II:
+CO:               1% vol. do 7% vol.
+CO2:             6% vol. do 16%
+vol.
+HC:               300 ppm vol. do 2 000 ppm
+vol.
+Pri obeh razredih se merilnik za kisik preskusi na
+odčitavanje ničle in merilnega območja s pomočjo kalibracijskega plina brez
+kisika (samo CO in/ali CO2 in/ali HC v N2) ter
+kalibracijskega plina, ki vsebuje 20,9% vol. O2.
+Kalibracijski plini morajo biti dovedeni v sondo pri okolskem
+tlaku (do (750 Pa).
+Opaženi pogreški morajo biti za vsako meritev v mejah mejnih
+pogreškov iz 4. člena, točke 1.4.2.
+14. člen
+Naslednje redne overitve merila na isti lokaciji se izvedejo
+s takim številom certificiranih plinskih mešanic, kot je potrebno za prvo
+overitev, ter s preskusi, določenimi za prvo overitev. Rok redne overitve je
+šest mesecev.
+Če je bilo merilo prestavljeno na novo lokacijo ali je bilo v
+popravilu, ki pa ne zajema zamenjave sestavnih delov, določenih v OIML R 99,
+dodatek E5, ali v proizvajalčevih navodilih za uporabo, se izvedejo vsi
+preskusi, ki so vključeni v prvo overitev.
+15. člen
+Sklicevanje na mednarodno priporočilo OIML R 99 izhaja iz
+članstva Republike Slovenije v Mednarodni organizaciji za zakonsko meroslovje
+(International Organization of Legal Metrology).
+Izvirnik mednarodnega priporočila OIML R 99 (v angleškem ali
+francoskem jeziku) je na Uradu Republike Slovenije za standardizacijo in meroslovje
+v Ljubljani.
+
+Pravilnik o meroslovnih zahtevah za merila za
+merjenje izpušnih plinov vozil (Uradni list RS, št. 5/98) vsebuje naslednjo prehodno in
+končni določbi:
+»16. člen
+Merila, za katera je bila izdana odločba oziroma certifikat o
+odobritvi tipa merila v skladu s pravilnikom o metroloških pogojih za
+analizatorje plinov, ki delujejo po principu infrardeče spektrofotometrije
+(Uradni list SFRJ, št. 48/85 in št. 83/87) in pravilnikom o metroloških karakteristikah
+čistih plinov CO, CO2, CH4, H2, O2,
+N2 in Ar za pripravo referenčnih plinskih zmesi (Uradni list SFRJ,
+št. 18/88) se smejo še naprej dajati v redno oziroma izredno overitev.
+17. člen
+Z dnem, ko začne veljati ta pravilnik, se prenehata
+uporabljati:
+-       
+pravilnik o metroloških pogojih za analizatorje plinov, ki delujejo po
+principu infrardeče spektrofotometrije (Uradni list SFRJ, št. 48/85 in št.
+83/87)
+-       
+pravilnik o metroloških karakteristikah čistih plinov CO, CO2,
+CH4, H2, O2, N2 in Ar za pripravo
+referenčnih plinskih zmesi (Uradni list SFRJ, št. 18/88) razen v delu, ki se
+nanaša na CO, CO2, HC in O2.
+18. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o
+merilnih instrumentih (Uradni list RS, št. 42/06) z zvezi z delnim prenehanjem
+veljavnosti tega pravilnika določa:
+»41. člen
+(prenehanje veljavnosti)
+Z dnem uveljavitve tega pravilnika prenehajo veljati
+naslednji predpisi:
+-       
+[…],
+-       
+Pravilnik o meroslovnih zahtevah za merila za merjenje izpušnih plinov
+vozil (Uradni list RS, št. 5/98).
+Predpisi iz prejšnjega odstavka se uporabljajo še naprej za:
+-       
+prve overitve in EGS-prve overitve meril iz 39. člena tega pravilnika,
+do izteka veljavnosti odobritve tipa ali EGS-odobritve tipa ali do 30. oktobra
+2016, če odobritev tipa oziroma EGS-odobritev tipa nima omejene veljavnosti,
+-       
+redne in izredne overitve meril iz 40. člena tega pravilnika.«;
+ter vsebuje naslednjo končno določbo:
+»42. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati 30. oktobra 2006.«.
+
+Pravilnik o
+spremembi Pravilnika o meroslovnih zahtevah za merila za merjenje izpušnih
+plinov vozil (Uradni list RS, št. 83/06) vsebuje naslednjo končno določbo:
+»2. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o
+spremembah in dopolnitvah Pravilnika o merilnih instrumentih (Uradni list RS,
+št. 16/13) v zvezi z delnim prenehanjem
+veljavnosti tega pravilnika določa:
+»17. člen
+[…]
+[…]
+Z dnem uveljavitve tega pravilnika se v delu, ki se nanaša na
+roke rednih overitev, prenehajo uporabljati naslednji predpisi:
+-       
+[…]
+-       
+Pravilnik o meroslovnih zahtevah za merila za merjenje izpušnih plinov
+vozil (Uradni list RS, št. 5/98, 42/06 in 83/06).«;
+ter vsebuje naslednjo končno določbo:
+»20. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije, uporabljati pa se začne tri mesece po njegovi
+uveljavitvi.«.

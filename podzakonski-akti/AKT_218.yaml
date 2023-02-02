@@ -1,0 +1,16 @@
+Text file: AKT_218.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 692665200000000000
+- null
+- null
+- 10
+idPredpisa: AKT_218
+idPredpisaChng: null
+instock: .nan
+naslov: soglasje
+npbNum: 0
+path: /1991/11/1991-01-1116
+sopPredpisa: 1991-01-1116
+sopPredpisaChng: null

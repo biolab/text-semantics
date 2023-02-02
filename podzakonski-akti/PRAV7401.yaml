@@ -1,0 +1,17 @@
+Text file: PRAV7401.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1208988000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7401
+idPredpisaChng: PRAV7401
+instock: .nan
+naslov: "PRAVILNIK o merilih in postopku za dolo\u010Ditev vi\u0161ine subvencije\
+  \ pla\u010De za invalide (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2008/16/2008-01-1687-2005-01-5163-npb1
+sopPredpisa: 2008-01-1687
+sopPredpisaChng: 2005-01-5163

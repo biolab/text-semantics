@@ -1,0 +1,17 @@
+Text file: SKLE58.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 814143600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE58
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi obmo\u010Dij ob\u010Din, ki jih je v letu 1995 prizadelo\
+  \ neurje s to\u010Do ali burjo"
+npbNum: 0
+path: /1995/28/1995-01-2844
+sopPredpisa: 1995-01-2844
+sopPredpisaChng: null

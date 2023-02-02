@@ -1,0 +1,17 @@
+Text file: PRAV10766.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1528495200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10766
+idPredpisaChng: PRAV10766
+instock: .nan
+naslov: "PRAVILNIK o monitoringu fizikalno-kemijskih lastnosti teko\u010Dih goriv\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2018/16/2018-01-1685-2011-01-3239-npb2
+sopPredpisa: 2018-01-1685
+sopPredpisaChng: 2011-01-3239

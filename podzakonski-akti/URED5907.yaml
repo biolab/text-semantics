@@ -1,0 +1,17 @@
+Text file: URED5907.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1491602400000000000
+- null
+- null
+- 10
+idPredpisa: URED5907
+idPredpisaChng: URED5907
+instock: .nan
+naslov: "UREDBA o ureditvi trga z vinom (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 5)"
+npbNum: 5
+path: /2017/06/2017-01-0671-2012-01-0239-npb5
+sopPredpisa: 2017-01-0671
+sopPredpisaChng: 2012-01-0239

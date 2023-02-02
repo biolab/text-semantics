@@ -1,0 +1,17 @@
+Text file: SKLE8274.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1325372400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8274
+idPredpisaChng: SKLE8274
+instock: .nan
+naslov: "SKLEP o opravljanju menjalni\u0161kih poslov (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/42/2011-01-4270-2009-01-3982-npb1
+sopPredpisa: 2011-01-4270
+sopPredpisaChng: 2009-01-3982

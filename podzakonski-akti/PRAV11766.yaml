@@ -1,0 +1,18 @@
+Text file: PRAV11766.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1387407600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11766
+idPredpisaChng: PRAV11766
+instock: .nan
+naslov: "PRAVILNIK o zaklju\u010Dku izvr\u0161evanja dr\u017Eavnega in ob\u010Dinskih\
+  \ prora\u010Dunov za leto 2013 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 2)"
+npbNum: 2
+path: /2013/38/2013-01-3861-2013-01-2787-npb2
+sopPredpisa: 2013-01-3861
+sopPredpisaChng: 2013-01-2787

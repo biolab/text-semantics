@@ -1,0 +1,17 @@
+Text file: PRAV9325.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1229727600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9325
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
+  anov za leto 2009"
+npbNum: 0
+path: /2008/52/2008-01-5234
+sopPredpisa: 2008-01-5234
+sopPredpisaChng: null

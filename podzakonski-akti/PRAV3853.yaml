@@ -1,0 +1,19 @@
+Text file: PRAV3853.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1259103600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3853
+idPredpisaChng: PRAV3853
+instock: .nan
+naslov: "PRAVILNIK o podatkih in evidencah za obra\u010Dun finan\u010Dnih obveznosti\
+  \ iz pokojninskega in invalidskega zavarovanja ter o obrazcih in dokumentaciji,\
+  \ ki se predlo\u017Ei obra\u010Dunu obveznosti (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2009/39/2009-01-3937-2001-01-1272-npb1
+sopPredpisa: 2009-01-3937
+sopPredpisaChng: 2001-01-1272

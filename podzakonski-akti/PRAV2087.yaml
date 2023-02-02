@@ -1,0 +1,17 @@
+Text file: PRAV2087.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 940024800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2087
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o postopku uveljavljanja pravic delavcev v primeru insolventnosti
+  delodajalca
+npbNum: 0
+path: /1999/37/1999-01-3784
+sopPredpisa: 1999-01-3784
+sopPredpisaChng: null

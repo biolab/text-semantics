@@ -1,0 +1,16 @@
+Text file: PRAV4046.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1009580400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4046
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vsebini prijave znamke
+npbNum: 0
+path: /2001/50/2001-01-5001
+sopPredpisa: 2001-01-5001
+sopPredpisaChng: null

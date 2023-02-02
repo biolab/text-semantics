@@ -1,0 +1,17 @@
+Text file: PRAV9624.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1239400800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9624
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvr\u0161evanju obveznosti do predsednika republike na obrambnem\
+  \ podro\u010Dju"
+npbNum: 0
+path: /2009/11/2009-01-1191
+sopPredpisa: 2009-01-1191
+sopPredpisaChng: null

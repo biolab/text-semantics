@@ -1,0 +1,16 @@
+Text file: PRAV12970.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1485558000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12970
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih za izdajo potrdil o pridobljenih poklicnih kvalifikacijah
+npbNum: 0
+path: /2017/01/2017-01-0176
+sopPredpisa: 2017-01-0176
+sopPredpisaChng: null

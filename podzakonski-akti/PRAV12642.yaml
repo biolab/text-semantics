@@ -1,0 +1,17 @@
+Text file: PRAV12642.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1611356400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12642
+idPredpisaChng: PRAV12642
+instock: .nan
+naslov: "PRAVILNIK o tla\u010Dni opremi (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 2
+path: /2021/01/2021-01-0199-2016-01-2810-npb2
+sopPredpisa: 2021-01-0199
+sopPredpisaChng: 2016-01-2810

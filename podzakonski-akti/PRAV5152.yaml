@@ -1,0 +1,17 @@
+Text file: PRAV5152.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1058824800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5152
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti pravilnika o upravljanju prostorov v \xBB\
+  Domu podiplomcev Ljubljana\xAB"
+npbNum: 0
+path: /2003/34/2003-01-3434
+sopPredpisa: 2003-01-3434
+sopPredpisaChng: null

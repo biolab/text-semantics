@@ -1,0 +1,17 @@
+Text file: PRAV6988.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1290812400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6988
+idPredpisaChng: PRAV6988
+instock: .nan
+naslov: "PRAVILNIK o priznanjih policije (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2010/49/2010-01-4941-2005-01-4571-npb3
+sopPredpisa: 2010-01-4941
+sopPredpisaChng: 2005-01-4571

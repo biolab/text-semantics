@@ -1,0 +1,17 @@
+Text file: PRAV8655.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1507932000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8655
+idPredpisaChng: PRAV8655
+instock: .nan
+naslov: "UREDBA o merilih za delo v izmenah izvr\u0161ilnih \u017Eelezni\u0161kih\
+  \ delavcev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/26/2017-01-2679-2008-01-3208-npb1
+sopPredpisa: 2017-01-2679
+sopPredpisaChng: 2008-01-3208

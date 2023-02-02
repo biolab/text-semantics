@@ -1,0 +1,13 @@
+Text file: AKT_997.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_997
+idPredpisaChng: AKT_997
+instock: .nan
+naslov: "AKT o ustanovitvi javnega zavoda Center vesoljskih tehnologij Hermana Poto\u010D\
+  nika Noordunga (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/38/2017-01-3896-2017-01-0800-npb1
+sopPredpisa: 2017-01-3896
+sopPredpisaChng: 2017-01-0800

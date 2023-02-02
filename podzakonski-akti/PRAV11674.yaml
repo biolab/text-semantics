@@ -1,0 +1,17 @@
+Text file: PRAV11674.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1375480800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11674
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vzletnih mestih in pristajalnih obmo\u010Djih za balone in zra\u010D\
+  ne ladje"
+npbNum: 0
+path: /2013/25/2013-01-2586
+sopPredpisa: 2013-01-2586
+sopPredpisaChng: null

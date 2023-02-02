@@ -1,0 +1,18 @@
+Text file: PRAV9270.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1224280800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9270
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi podrobnej\u0161ih meril in na\u010Dina izra\u010D\
+  una predpla\u010Dil za neposredna pla\u010Dila zaradi izjemnih razmer v kmetijstvu\
+  \ v letu 2008"
+npbNum: 0
+path: /2008/42/2008-01-4236
+sopPredpisa: 2008-01-4236
+sopPredpisaChng: null

@@ -1,0 +1,20 @@
+Text file: PRAV11223.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1383260400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1359154800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11223
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o minimalnih pogojih za za\u0161\u010Dito posameznih nelovnih povr\u0161\
+  in pred \u0161kodo od divjadi"
+npbNum: 0
+path: /2013/01/2013-01-0108
+sopPredpisa: 2013-01-0108
+sopPredpisaChng: null

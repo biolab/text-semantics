@@ -1,0 +1,17 @@
+Text file: SKLE2006.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1333144800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2006
+idPredpisaChng: SKLE2006
+instock: .nan
+naslov: "SKLEP o ustanovitvi Kmetijsko gozdarskega zavoda Ptuj (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2012/09/2012-01-0940-2000-01-5103-npb2
+sopPredpisa: 2012-01-0940
+sopPredpisaChng: 2000-01-5103

@@ -1,0 +1,17 @@
+Text file: TARI115.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1254348000000000000
+- null
+- null
+- 10
+idPredpisa: TARI115
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFNE POSTAVKE za dobavo in odjem toplote iz toplovodnega omre\u017Eja\
+  \ v Ob\u010Dini Piran"
+npbNum: 0
+path: /2009/32/2009-01-3224
+sopPredpisa: 2009-01-3224
+sopPredpisaChng: null

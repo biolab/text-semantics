@@ -1,0 +1,16 @@
+Text file: SKLE3013.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1020636000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE3013
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o izro\u010Ditvi prilo\u017Enostnih kovancev v prodajo \_in obtok"
+npbNum: 0
+path: /2002/18/2002-01-1874
+sopPredpisa: 2002-01-1874
+sopPredpisaChng: null

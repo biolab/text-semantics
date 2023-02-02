@@ -1,0 +1,13 @@
+Text file: SKLE12475.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12475
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o izvolitvi dveh \u010Dlanov Sodnega sveta, ki jih voli Dr\u017Eavni\
+  \ zbor"
+npbNum: 0
+path: /2021/20/2021-01-2082
+sopPredpisa: 2021-01-2082
+sopPredpisaChng: null

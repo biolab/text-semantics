@@ -1,0 +1,17 @@
+Text file: PRAV3957.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1347660000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3957
+idPredpisaChng: PRAV3957
+instock: .nan
+naslov: "PRAVILNIK o pogojih za opravljanje pomorskega prometa (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2012/27/2012-01-2718-2001-01-3877-npb5
+sopPredpisa: 2012-01-2718
+sopPredpisaChng: 2001-01-3877

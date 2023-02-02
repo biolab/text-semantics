@@ -1,0 +1,16 @@
+Text file: PRAV12137.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- -48301200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12137
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o normativih za graditev in opremo osnovnih \u0161ol "
+npbNum: 0
+path: /1968/01/1968-04-0163
+sopPredpisa: 1968-04-0163
+sopPredpisaChng: null

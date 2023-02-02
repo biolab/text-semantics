@@ -1,0 +1,17 @@
+Text file: PRAV11273.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1399932000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11273
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o razvrstitvi razvojnih regij po stopnji razvitosti za programsko\
+  \ obdobje 2014\u20132020"
+npbNum: 0
+path: /2014/14/2014-01-1405
+sopPredpisa: 2014-01-1405
+sopPredpisaChng: null

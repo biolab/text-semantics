@@ -1,0 +1,16 @@
+Text file: URED3987.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1152309600000000000
+- null
+- null
+- 10
+idPredpisa: URED3987
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o arbitra\u017Ei v sporih v zvezi z avtorsko ali sorodnimi pravicami"
+npbNum: 0
+path: /2006/27/2006-01-2789
+sopPredpisa: 2006-01-2789
+sopPredpisaChng: null

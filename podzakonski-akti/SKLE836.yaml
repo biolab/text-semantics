@@ -1,0 +1,16 @@
+Text file: SKLE836.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 722818800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE836
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o glavnih znamenjih bankovca za 10 tolarjev
+npbNum: 0
+path: /1992/25/1992-01-2581
+sopPredpisa: 1992-01-2581
+sopPredpisaChng: null

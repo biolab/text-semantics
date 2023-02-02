@@ -1,0 +1,18 @@
+Text file: SKLE104.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 847494000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE104
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o rokih in o na\u010Dinu odpla\u010Dila obveznosti Republike Slovenije\
+  \ iz obveznic izdanih zaradi zamenjave dolga po novem finan\u010Dnem sporazumu iz\
+  \ leta 1988"
+npbNum: 0
+path: /1996/35/1996-01-3574
+sopPredpisa: 1996-01-3574
+sopPredpisaChng: null

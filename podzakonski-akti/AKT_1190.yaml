@@ -1,0 +1,16 @@
+Text file: AKT_1190.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1625090400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1190
+idPredpisaChng: null
+instock: .nan
+naslov: "SPLO\u0160NI AKT o kakovosti izvajanja univerzalne po\u0161tne storitve"
+npbNum: 0
+path: /2020/30/2020-01-3034
+sopPredpisa: 2020-01-3034
+sopPredpisaChng: null

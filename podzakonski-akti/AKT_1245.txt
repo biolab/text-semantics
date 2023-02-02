@@ -1,0 +1,555 @@
+I
+Tarifne postavke za omrežnino za
+prenosni sistem znašajo:
+
+
+odjemna skupina
+
+tarifne postavke
+
+
+napetostni nivo
+
+način priključitve
+
+vrsta odjema
+
+obračunska moč
+   (EUR/kW/mesec)
+
+prevzeta delovna
+   energija (EUR/kWh)
+
+
+VT
+
+MT
+
+ET
+
+
+VN
+
+ 
+
+T ≥ 6000 ur
+
+0,93077
+
+0,00154
+
+0,00120
+
+
+ 
+
+6000 > T ≥ 2500
+  ur
+
+0,99541
+
+0,00141
+
+0,00108
+
+
+ 
+
+T < 2500 ur
+
+1,07303
+
+0,00149
+
+0,00115
+
+
+SN
+
+zbiralke SN
+
+T ≥ 2500 ur
+
+1,81269
+
+0,00040
+
+0,00031
+
+
+T < 2500 ur
+
+1,79284
+
+0,00052
+
+0,00041
+
+
+ 
+
+T ≥ 2500 ur
+
+1,06597
+
+0,00204
+
+0,00158
+
+
+ 
+
+T < 2500 ur
+
+0,87304
+
+0,00324
+
+0,00250
+
+
+NN
+
+zbiralke NN
+
+T ≥ 2500 ur
+
+1,17104
+
+0,00163
+
+0,00127
+
+
+T < 2500 ur
+
+1,01686
+
+0,00261
+
+0,00199
+
+
+ 
+
+T ≥ 2500 ur
+
+1,02508
+
+0,00221
+
+0,00170
+
+
+ 
+
+T < 2500 ur
+
+0,89838
+
+0,00302
+
+0,00231
+
+
+ 
+
+polnjenje EV
+
+0,44919
+
+0,00151
+
+0,00117
+
+
+ 
+
+brez merjenja
+  moči
+
+0,37893
+
+0,00567
+
+0,00436
+
+0,00523
+
+
+ 
+
+gospodinjstvo
+
+0,37893
+
+0,00567
+
+0,00436
+
+0,00523
+
+
+II
+Tarifne postavke za omrežnino za
+distribucijski sistem znašajo:
+
+
+odjemna skupina
+
+tarifne postavke
+
+
+napetostni nivo
+
+način priključitve
+
+vrsta odjema
+
+obračunska moč
+   (EUR/kW/mesec)
+
+prevzeta delovna
+   energija (EUR/kWh)
+
+
+VT
+
+MT
+
+ET
+
+
+VN
+
+ 
+
+T ≥ 6000 ur
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+6000 > T ≥ 2500
+  ur
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+T < 2500 ur
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SN
+
+zbiralke SN
+
+T ≥ 2500 ur
+
+1,19466
+
+0,00032
+
+0,00024
+
+ 
+
+
+T < 2500 ur
+
+1,17882
+
+0,00043
+
+0,00032
+
+ 
+
+
+ 
+
+T ≥ 2500 ur
+
+2,06483
+
+0,00563
+
+0,00433
+
+ 
+
+
+ 
+
+T < 2500 ur
+
+1,53291
+
+0,00893
+
+0,00687
+
+ 
+
+
+NN
+
+zbiralke NN
+
+T ≥ 2500 ur
+
+3,03650
+
+0,00580
+
+0,00448
+
+ 
+
+
+T < 2500 ur
+
+2,48828
+
+0,00922
+
+0,00710
+
+ 
+
+
+ 
+
+T ≥ 2500 ur
+
+4,52176
+
+0,01418
+
+0,01091
+
+ 
+
+
+ 
+
+T < 2500 ur
+
+3,71260
+
+0,01921
+
+0,01477
+
+ 
+
+
+ 
+
+polnjenje EV
+
+1,85630
+
+0,00960
+
+0,00739
+
+ 
+
+
+ 
+
+brez merjenja
+  moči
+
+0,39524
+
+0,03615
+
+0,02779
+
+0,03335
+
+
+ 
+
+gospodinjstvo
+
+0,39524
+
+0,03615
+
+0,02779
+
+0,03335
+
+
+III
+Tarifne postavke za omrežnino za
+čezmerno prevzeto jalovo energijo znašajo:
+
+
+odjemna skupina
+
+tarifne postavke
+
+
+napetostni nivo
+
+prekomerno prevzeta
+  jalova energija (EUR/kvarh)
+
+
+
+
+
+VN
+
+0,00352
+
+
+SN, NN
+
+0,00902
+
+
+IV
+Tarifne postavke za omrežnino za
+priključno moč znašajo:
+
+
+odjemna skupina
+
+tarifna postavka
+
+
+napetostni nivo /
+   vrsta odjema
+
+omrežnina za
+   priključno moč (EUR/kW)
+
+
+VN
+
+42,20
+
+
+SN
+
+81,71
+
+
+NN z merjenjem moči
+
+97,43
+
+
+polnjenje EV
+
+76,72
+
+
+NN brez merjenja moči
+
+68,28
+
+
+Gospodinjski odjem
+
+38,36
+
+
+V
+Tarifne postavke za omrežnino za
+distribucijski sistem za potrebe izvajanja kvalificiranih pilotnih projektov
+znašajo: 
+
+
+odjemna skupina
+
+tarifne postavke
+
+
+napetostni nivo
+
+vrsta odjema
+
+obračunska moč
+  (EUR/kW/mesec)
+
+prevzeta delovna
+  energija (EUR/kWh)
+
+
+PKKT
+
+NKKT
+
+VT
+
+MT
+
+ET
+
+
+NN
+
+brez merjenja moči
+
+0,39524
+
+0,55580
+
+0,00695
+
+0,02717
+
+0,02088
+
+0,02536
+
+
+gospodinjstvo
+
+0,39524
+
+0,83370
+
+0,00695
+
+0,02576
+
+0,01981
+
+0,02205
+
+
+Št. 211-47/2021/9
+Maribor, dne 17. decembra 2021
+EVA 2021-2430-0157
+Agencija za energijo
+direktorica
+mag. Duška Godina

@@ -1,0 +1,16 @@
+Text file: STRA76.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1502488800000000000
+- null
+- null
+- 10
+idPredpisa: STRA76
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o vzpostavitvi infrastrukture za alternativna goriva v prometu
+npbNum: 0
+path: /2017/21/2017-01-2131
+sopPredpisa: 2017-01-2131
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV12264.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1428703200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12264
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu imenovanja prito\u017Ebene komisije"
+npbNum: 0
+path: /2015/09/2015-01-0997
+sopPredpisa: 2015-01-0997
+sopPredpisaChng: null

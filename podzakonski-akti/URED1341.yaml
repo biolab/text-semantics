@@ -1,0 +1,18 @@
+Text file: URED1341.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 686876400000000000
+- null
+- null
+- 10
+idPredpisa: URED1341
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o prenehanju veljavnosti uredbe o pla\u010Devanju v tujino in o izterjavi\
+  \ pla\u010Dil za izvo\u017Eeno blago in storitve v pogojih ote\u017Eenega pla\u010D\
+  evanja v tujino"
+npbNum: 0
+path: /1991/06/1991-01-0605
+sopPredpisa: 1991-01-0605
+sopPredpisaChng: null

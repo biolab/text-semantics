@@ -1,0 +1,18 @@
+Text file: ODLO2412.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1618524000000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2412
+idPredpisaChng: ODLO2412
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi ponujanja kulturnih in kinematografskih storitev\
+  \ kon\u010Dnim uporabnikom v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/12/2021-01-1223-2021-01-1133-npb1
+sopPredpisa: 2021-01-1223
+sopPredpisaChng: 2021-01-1133

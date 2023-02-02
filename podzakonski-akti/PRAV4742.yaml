@@ -1,0 +1,17 @@
+Text file: PRAV4742.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1047596400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4742
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sprejemu gozdnogospodarskega na\u010Drta gozdnogospodarske enote\
+  \ v Ju\u017Eno Pohorje (2000\u20132009)"
+npbNum: 0
+path: /2003/10/2003-01-1000
+sopPredpisa: 2003-01-1000
+sopPredpisaChng: null

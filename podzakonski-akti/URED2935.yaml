@@ -1,0 +1,17 @@
+Text file: URED2935.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1055541600000000000
+- null
+- null
+- 10
+idPredpisa: URED2935
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Sredi\u0161\u010D\
+  e ob Dravi I"
+npbNum: 0
+path: /2003/28/2003-01-2803
+sopPredpisa: 2003-01-2803
+sopPredpisaChng: null

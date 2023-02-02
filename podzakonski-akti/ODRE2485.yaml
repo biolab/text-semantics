@@ -1,0 +1,19 @@
+Text file: ODRE2485.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1548975600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1548457200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2485
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o uskladitvi mej dohodkov za letne pravice za leto 2019
+npbNum: 0
+path: /2019/01/2019-01-0109
+sopPredpisa: 2019-01-0109
+sopPredpisaChng: null

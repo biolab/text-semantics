@@ -1,0 +1,16 @@
+Text file: PRAV13439.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1529704800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13439
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o sistemskem nadzoru v zdravstvu
+npbNum: 0
+path: /2018/19/2018-01-1924
+sopPredpisa: 2018-01-1924
+sopPredpisaChng: null

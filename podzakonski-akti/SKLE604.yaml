@@ -1,0 +1,13 @@
+Text file: SKLE604.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE604
+idPredpisaChng: SKLE604
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Vancouvru (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/16/2016-01-1630-2000-01-0405-npb1
+sopPredpisa: 2016-01-1630
+sopPredpisaChng: 2000-01-0405

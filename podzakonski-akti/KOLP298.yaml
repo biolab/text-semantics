@@ -1,0 +1,17 @@
+Text file: KOLP298.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1309384800000000000
+- null
+- null
+- 10
+idPredpisa: KOLP298
+idPredpisaChng: KOLP298
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA med delavci in dru\u017Ebami drobnega gospodarstva (KPdg)\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/27/2011-01-2733-2010-01-4958-npb1
+sopPredpisa: 2011-01-2733
+sopPredpisaChng: 2010-01-4958

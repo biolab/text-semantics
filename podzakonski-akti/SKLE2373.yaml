@@ -1,0 +1,16 @@
+Text file: SKLE2373.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 996271200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2373
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o opustitvi nadome\u0161\u010Denih delov dr\u017Eavne ceste"
+npbNum: 0
+path: /2001/33/2001-01-3339
+sopPredpisa: 2001-01-3339
+sopPredpisaChng: null

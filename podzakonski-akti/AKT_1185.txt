@@ -1,0 +1,953 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) S tem aktom se določajo pravila o pogojih
+zagotavljanja storitev dostopa in postopki za dodeljevanje prenosnih
+zmogljivosti na povezovalnih točkah prenosnega sistema, upravljanja
+prezasedenosti prenosnega sistema in trgovanja z zmogljivostmi na sekundarnem
+trgu.
+(2) Za vprašanja glede pogojev dostopa in postopkov
+dodeljevanja zmogljivosti na povezovalnih točkah, ki jih ta akt ne ureja, se
+uporabljajo pravila iz Uredbe Komisije (EU) 2017/459 z dne 16. marca 2017
+o oblikovanju kodeksa omrežja za mehanizme za dodeljevanje zmogljivosti v
+prenosnih sistemih plina in razveljavitvi Uredbe (EU) št. 984/2013 (UL L št. 72
+z dne 17. 3. 2017, str. 1; v nadaljnjem besedilu: Uredba 2017/459/EU).
+2. člen
+(obseg uporabe akta)
+(1) S tem aktom se ureja:
+-       
+pogoje zagotavljanja storitev dostopa do sistema na povezovalnih točkah;
+-       
+način dodeljevanja zmogljivosti na povezovalnih točkah;
+-       
+trgovanje na sekundarnem trgu z zmogljivostmi na povezovalnih točkah;
+-       
+postopke upravljanja prezasedenosti v primeru pogodbene prezasedenosti;
+-       
+postopke izvajanja razširitvene zmogljivosti;
+-       
+objave informacij.
+(2) Operater prenosnega sistema na svoji spletni strani
+objavi vse povezovalne točke.
+3. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem aktu, pomenijo:
+-       
+agencija: pomeni Agencija za energijo;
+-       
+četrtletna zmogljivost: pomeni zmogljivost, ki jo uporabnik sistema v
+določenem obsegu zakupi na letni dražbi četrtletnih standardnih produktov
+zmogljivosti za vse plinske dneve v določenem četrtletju (s pričetkom
+1. oktobra, 1. januarja, 1. aprila in 1. julija);
+-       
+delovni dnevi: pomenijo dneve od ponedeljka do petka, razen tistih dni,
+ki so po zakonu dela prosti;
+-       
+dnevna zmogljivost za dan vnaprej: pomeni zmogljivost, ki jo uporabnik
+sistema v določenem obsegu zakupi na tekoči dražbi dnevnih standardnih produktov
+zmogljivosti za prihodnji plinski dan;
+-       
+dolgoročne storitve dostopa: pomenijo storitve zakupa letnih
+zmogljivosti;
+-       
+kalorična vrednost: pomeni zgornjo kalorično vrednost (zgornjo
+kurilnost) zemeljskega plina, to je vso toploto, ki se sprosti pri zgorevanju.
+Podaja se v enoti kWh/m3 pri temperaturi zgorevanja 25 °C in pri
+temperaturi zemeljskega plina 0 °C;
+-       
+kratkoročne storitve dostopa: pomenijo storitve zakupa četrtletnih,
+mesečnih, dnevnih zmogljivosti za dan vnaprej in zmogljivosti znotraj dneva;
+-       
+letna zmogljivost: pomeni zmogljivost, ki jo uporabnik sistema v
+določenem obsegu zakupi na letni dražbi letnih standardnih produktov
+zmogljivosti za vse plinske dneve v določenem plinskem letu;
+-       
+mesečna zmogljivost: pomeni zmogljivost, ki jo uporabnik sistema v
+določenem obsegu zakupi na tekoči dražbi mesečnih standardnih produktov
+zmogljivosti za vse plinske dneve v določenem koledarskem mesecu (s pričetkom
+na prvi dan vsakega meseca);
+-       
+plinski dan: pomeni časovno obdobje 24 zaporednih ur od 6:00 ure zjutraj
+do 6:00 ure zjutraj naslednjega dne;
+-       
+plinsko leto: pomeni časovno obdobje od 1. oktobra v tekočem
+koledarskem letu do 30. septembra v naslednjem koledarskem letu;
+-       
+pogodba o prenosu za dražbene zmogljivosti: pomeni pogodbo o prenosu za
+tiste zmogljivosti, ki so bile uporabniku sistema dodeljene na dražbi;
+-       
+povezovalna točka: pomeni fizično ali navidezno točko, ki povezuje
+sosednja vstopno-izstopna sistema ali povezuje vstopno-izstopni sistem s
+povezovalnim plinovodom, če so te točke predmet rezervacijskih postopkov
+uporabnikov sistema, pri čemer so v Republiki Sloveniji predmet rezervacijskih
+postopkov le mejne vstopne ali mejne izstopne točke, v katerih je prenosni
+sistem v Republiki Sloveniji povezan s prenosnim sistemom v sosednjih državah;
+-       
+prekinljiva zmogljivost: pomeni prenosno zmogljivost, ki jo operater
+prenosnega sistema lahko prekine v skladu s pogoji, določenimi v splošnih
+pogojih pogodbe o prenosu za dražbene zmogljivosti, ki veljajo za prekinljive
+zmogljivosti;
+-       
+splošni pogoji pogodbe o prenosu za dražbene zmogljivosti: so sestavni
+del pogodbe o prenosu za dražbene zmogljivosti, s katerimi so opredeljene
+medsebojne pravice in obveznosti operaterja prenosnega sistema in uporabnika
+sistema, v skladu s katerimi bosta izvrševala pogodbe o prenosu za dražbene
+zmogljivosti, razen tistih sestavin pogodbe, ki se določijo na dražbi;
+-       
+uporabnik sistema: pomeni uporabnika prenosnega sistema, kot je
+opredeljen v 56. točki 159. člena Energetskega zakona (Uradni list RS, 60/19 –
+uradno prečiščeno besedilo in 65/20; v nadaljnjem besedilu: EZ-1) in
+potencialnega uporabnika prenosnega sistema;
+-       
+zagotovljena zmogljivost: pomeni prenosno zmogljivost, za katero
+operater prenosnega sistema s pogodbo o prenosu za dražbene zmogljivosti jamči,
+da se ne prekinja;
+-       
+zmogljivost znotraj dneva: pomeni zmogljivost, ki je bila ponujena in
+dodeljena po zaprtju dražb zmogljivosti za dan vnaprej za navedeni dan in je
+zakupljena za obdobje od ure začetka zakupa do konca navedenega plinskega dne.
+(2) Drugi izrazi, ki v tem aktu niso opredeljeni, imajo
+enak pomen, kot ga določajo EZ-1, Uredba Komisije 2017/459/EU in Uredba (ES)
+št. 715/2009 Evropskega parlamenta in Sveta z dne 13. julija 2009 o
+pogojih za dostop do prenosnih omrežij zemeljskega plina in razveljavitvi
+Uredbe (ES) št. 1775/2005 (UL L št. 211 z dne 14. 8. 2009, str. 36),
+zadnjič spremenjena z Uredbo (EU) 2018/1999 Evropskega parlamenta in Sveta z
+dne 11. decembra 2018 o upravljanju energetske unije in podnebnih ukrepov,
+spremembi uredb (ES) št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in
+Sveta, direktiv 94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU,
+2012/27/EU in 2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta
+2009/119/ES in (EU) 2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013
+Evropskega parlamenta in Sveta (UL L št. 328 z dne 21. 12. 2018, str. 1; v
+nadaljnjem besedilu: Uredba 715/2009/ES).
+II. POGOJI ZAGOTAVLJANJA STORITEV DOSTOPA DO SISTEMA NA
+POVEZOVALNIH TOČKAH
+4. člen
+(organizacija dostopa po sistemu vstopno-izstopnih točk)
+(1) Dostop do sistema na povezovalnih točkah operater
+prenosnega sistema zagotavlja s sklepanjem pogodb o prenosu za dražbene
+zmogljivosti, ločeno in neodvisno na mejnih vstopnih in mejnih izstopnih
+točkah.
+(2) S sklenitvijo pogodbe o prenosu za dražbene
+zmogljivosti za določeno mejno vstopno točko pridobi uporabnik sistema pravico,
+da operater prenosnega sistema na tej vstopni točki od njega prevzame zemeljski
+plin.
+(3) S sklenitvijo pogodbe o prenosu za dražbene
+zmogljivosti za določeno mejno izstopno točko pridobi uporabnik sistema
+pravico, da mu operater prenosnega sistema na tej izstopni točki preda
+zemeljski plin.
+(4) Sklenitev pogodbe o prenosu za dražbene zmogljivosti
+je vsem uporabnikom sistema omogočena pod enakimi pogoji in na način, določen s
+tem aktom.
+(5) Uporabniki sistema plačujejo za storitve dostopa do
+sistema na povezovalnih točkah znesek zakupa upoštevaje pogodbeno zmogljivost,
+dodeljeno s pogodbo o prenosu za dražbene zmogljivosti, in sicer ne glede na
+obseg dejanske uporabe zmogljivosti v relevantnem obračunskem obdobju (načelo
+»pelji ali plačaj«).
+5. člen
+(standardne storitve dostopa)
+(1) Operater prenosnega sistema ponuja standardne
+produkte zmogljivosti na dražbah.
+(2) Standardni produkti zmogljivosti vključujejo ponudbo
+zagotovljenih in prekinljivih prenosnih zmogljivosti, ki se s pogodbo o prenosu
+za dražbene zmogljivosti sklepajo za tipska časovna obdobja kot letni,
+četrtletni, mesečni, dnevni standardni produkt zmogljivosti, razen standardni
+produkt znotraj dneva, ki lahko vključuje samo ponudbo zagotovljenih
+zmogljivosti.
+6. člen
+(zagotovljena storitev dostopa)
+Dostop do sistema na povezovalnih točkah se nudi v obliki
+standardnih produktov za zagotovljene zmogljivosti in sicer v obsegu
+razpoložljivih zmogljivosti, v katere so vključene tudi dodatne zmogljivosti v
+smislu točke 2.2.1. Priloge 1 k Uredbi (ES) št. 715/2009, ki jih operater
+prenosnega sistema pridobi z uporabo postopkov upravljanja pogodbene prezasedenosti.
+7. člen
+(prekinljiva storitev dostopa)
+(1) Dostop do sistema na povezovalnih točkah ponudi
+operater prenosnega sistema kot prekinljivo zmogljivost daljšo od enega dneva v
+primeru, če:
+-       
+je bil ustrezni mesečni, četrtletni ali letni standardni produkt
+zmogljivosti za zagotovljeno zmogljivost na posamezni povezovalni točki prodan
+z dražbeno premijo;
+-       
+razpoložljivih zagotovljenih zmogljivosti ni več na voljo ali
+-       
+produkt zagotovljene zmogljivosti ni bil ponujen.
+Operater prenosnega
+sistema ponudi dnevni produkt zmogljivosti za prekinljivo zmogljivost če je
+bila zagotovljena prenosna zmogljivost za dan v naprej razprodana ali ni bila
+ponujena.
+(2) Prenosno zmogljivost v nasprotni smeri od fizičnega
+pretoka zemeljskega plina nudi operater prenosnega sistema samo kot prekinljivo
+storitev dostopa. Prekinljive zmogljivosti v protitoku se lahko dodelijo do
+višine dejansko zakupljenih zagotovljenih zmogljivosti v fizični smeri pretoka
+zemeljskega plina.
+(3) Uporabniku sistema, ki mu je bila dodeljena
+prekinljiva zmogljivost, lahko operater prenosnega sistema ob upoštevanju
+minimalnega časa do začetka prekinitve iz drugega odstavka 33. člena Uredbe
+2017/459/EU, kadarkoli prekine prenos zemeljskega plina, če bi skupne napovedi
+v smeri fizičnega pretoka in protitoku presegle količino zemeljskega plina, ki
+se lahko prenese skozi posamezno povezovalno vstopno ali izstopno točko.
+Minimalni čas do začetka prekinitve je lahko tudi krajši, če se o tem
+dogovorita sosednja operaterja prenosnega sistema in tovrstni dogovor odobri
+pristojni nacionalni regulativni organ. Prekinitev se izvede v obsegu, ki je
+potreben za izvršitev pogodb o prenosu za zagotovljene zmogljivosti.
+(4) Vrstni red prekinitev prenosa operater prenosnega
+sistema določi skladno s 35. členom Uredbe 2017/459/EU.
+III. NAČIN DODELJEVANJA ZMOGLJIVOSTI NA POVEZOVALNIH TOČKAH
+8. člen
+(postopki dodeljevanja zmogljivosti)
+(1) Zmogljivosti se za vsako posamezno povezovalno točko
+ponudijo na ločenih in med seboj neodvisnih elektronskih dražbah. Za izvedbo
+dražbenih postopkov operater prenosnega sistema določi spletno rezervacijsko
+platformo, ki omogoča izvedbo elektronskih dražbenih postopkov skladno s
+pravili tega akta in pravili Uredbe 2017/459/EU. Izbrano spletno rezervacijsko
+platformo operater prenosnega sistema objavi na svoji spletni strani.
+(2) Letne zmogljivosti se ponudijo na letnih dražbah, ki
+potekajo enkrat letno s pričetkom na prvi ponedeljek v juliju vsako plinsko
+leto za prihodnje plinsko leto ali več prihodnjih plinskih let, razen, če je v
+koledarju dražb določeno drugače, kar velja za vse produkte zmogljivosti.
+(3) Na dražbi za letne zmogljivosti operater prenosnega
+sistema ponudi v zakup letne zmogljivosti za najmanj pet in za največ
+15 zaporednih prihodnjih plinskih let.
+(4) Četrtletne zmogljivosti se ponudijo vsako plinsko
+leto na letnih dražbah, ki potekajo štirikrat letno s pričetkom:
+-       
+na prvi ponedeljek v avgustu za zmogljivosti od prvega do četrtega
+četrtletja v prihodnjem plinskem letu;
+-       
+na prvi ponedeljek v novembru za zmogljivosti od drugega do četrtega
+četrtletja v plinskem letu;
+-       
+na prvi ponedeljek v februarju za zmogljivosti od tretjega do četrtega
+četrtletja v plinskem letu in
+-       
+na prvi ponedeljek v maju za zmogljivosti za zadnje četrtletje v
+plinskem letu.
+(5) Mesečne zmogljivosti, dnevne zmogljivosti za dan
+vnaprej in zmogljivosti znotraj dneva se ponudijo na tekočih dražbah, ki
+potekajo enkrat mesečno, enkrat dnevno oziroma vsako uro v dnevu s pričetkom:
+-       
+za mesečne zmogljivosti: na tretji ponedeljek vsakega meseca za
+prihodnji koledarski mesec;
+-       
+za dnevne zmogljivosti za dan vnaprej: vsak plinski dan ob 16:30 uri za
+prihodnji plinski dan;
+-       
+za zmogljivosti znotraj dneva: štiri ure pred želeno začetno uro zakupa
+do konca plinskega dne.
+(6) Za vse povezovalne točke se dražbeni postopki, ki se
+nanašajo na istovrstni standardni produkt zmogljivosti, začnejo istočasno in v
+skladu z vsakokrat veljavnim koledarjem dražb.
+(7) Operater prenosnega sistema pred začetkom vsake
+dražbe predhodno in v rokih, ki jih za posamezne postopke dražb določajo
+pravila Uredbe 2017/459/EU, obvesti uporabnike sistema o obsegu razpoložljive
+zmogljivosti, ki bo ponujena na dražbi za posamezno povezovalno točko. Pri tem
+upošteva tudi medsebojno pogojene zmogljivosti, v skladu z dovoljenjem
+agencije.
+(8) Letne, četrtletne in mesečne zmogljivosti se na
+dražbah dodeljujejo z uporabo algoritma za stopnjevano dražbo, skladno s 17.
+členom Uredbe 2017/459/EU, dnevne zmogljivosti za dan vnaprej in zmogljivosti
+znotraj dneva pa z uporabo algoritma z enotno poravnalno ceno v skladu z 18.
+členom Uredbe 2017/459/EU.
+(9) Vsem uporabnikom sistema, ki so bili na dražbi
+uspešni, se dodeli zmogljivost s posameznimi pogodbami o prenosu za dražbene
+zmogljivosti, glede na njihove ponudbe za obseg zmogljivost in po ceni zakupa,
+določeni na dražbi.
+(10) Uporabnike sistema, ki so bili neuspešni na dražbi,
+se o tem, da so bile njihove ponudbe zavrnjene kot neuspešne, obvesti z objavo
+končnih rezultatov dražbe na spletni rezervacijski platformi. Šteje se, da je
+neuspešni ponudnik na dražbi odstopil od dražbenega postopka za dodelitev
+zmogljivosti.
+9. člen
+(pristop k spletni rezervacijski platformi)
+(1) Za zagotovitev možnosti uporabe dražb mora imeti
+uporabnik sistema vzpostavljeno ustrezno povezavo, ki je združljiva z
+informacijskim sistemom spletne rezervacijske platforme na način, da mu omogoča
+uporabo le-te.
+(2) Podrobnejši postopek vzpostavitve dostopa
+elektronskega vmesnika do spletne rezervacijske platforme in dodelitev
+identifikacijskih elementov, ki omogočajo uporabniku sistema enolično
+identifikacijo pri dostopu do spletne rezervacijske platforme, določi
+upravljavec spletne rezervacijske platforme z navodili. Uporabnik sistema mora
+zagotoviti in sprotno zagotavljati, da njegova povezava do informacijskega
+sistema spletne rezervacijske platforme izpolnjuje pogoje ter druge zahteve, ki
+se predpišejo z navodili.
+(3) Za pridobitev pravice do koriščenja storitev spletne
+rezervacijske platforme, mora uporabnik sistema izpolnjevati tehnične pogoje iz
+prvega odstavka tega člena in izpolniti druge obveznosti, ki izhajajo iz
+splošnih pogojev pristopa k spletni rezervacijski platformi, objavljenih s
+strani upravljavca spletne rezervacijske platforme.
+10. člen
+(pogoji za pristop k dražbi)
+(1) K dražbi za dodeljevanje zmogljivosti lahko pristopi
+uporabnik sistema, če v roku, določenem v prvem odstavku 11. člena tega akta,
+operater prenosnega sistema prejme podpisano izjavo uporabnika sistema, da je
+seznanjen in sprejema vsebino splošnih pogojev pogodbe o prenosu za dražbene
+zmogljivosti ter so izpolnjeni tudi naslednji pogoji:
+-       
+če ima najmanj pet delovnih dni pred datumom začetka dražbe uporabnik
+sistema s strani upravljavca spletne rezervacijske platforme že pridobljeno
+pravico koristiti storitve spletne rezervacijske platforme ali to pravico do
+tega roka pridobi in
+-       
+če v navedenem roku iz prejšnje alineje operater prenosnega sistema
+prejme finančno jamstvo skladno s 13. členom tega akta.
+(2) Izjavi iz prejšnjega odstavka mora uporabnik
+sistema, ki je tuja pravna ali fizična oseba, priložiti tudi dokazilo v skladu
+s predpisi države, v kateri je registriral svojo dejavnost, o vpisu subjekta v
+register poklicev ali trgovski register in o njegovem zakonitem zastopniku.
+Podatke za uporabnike sistema iz Republike Slovenije pridobi operater
+prenosnega sistema sam iz javnih evidenc.
+(3) Za izpolnitev vseh pogojev za pristop k dražbi je
+uporabnik sistema dolžan pravočasno pričeti s postopki pridobivanja pravice
+uporabe spletne rezervacijske platforme z upravljavcem le-te.
+(4) Operater prenosnega sistema zavrne uporabniku
+sistema pristop k dražbi, če pogoji iz tega člena niso pravočasno ali pravilno
+izpolnjeni. V tem primeru operater prenosnega sistema razloge za zavrnitev
+utemelji in jih nemudoma pisno sporoči uporabniku sistema.
+(5) Uporabniku sistema, ki pred prvo udeležbo na dražbi
+pravočasno in pravilno izpolni vse zahtevane pogoje iz prvega odstavka tega
+člena, operater prenosnega sistema prizna aktivni status za sodelovanje na
+dražbah ob predložitvi dokazil oziroma prvi naslednji delovni dan, kar
+uporabniku sistema omogoča oddajanje nakupnih ponudb za zakup zmogljivosti na
+dražbah.
+(6) Operater prenosnega sistema lahko uporabniku
+sistema, ki mu je bil odobren pristop k dražbam, prekliče aktivni status, s
+katerim mu onemogoči sodelovanje na dražbi, če:
+-       
+pravočasno ne predloži podpisane izjave spremenjenih splošnih pogojev
+pogodbe o prenosu za dražbene zmogljivosti skladno s četrtim odstavkom 11.
+člena tega akta;
+-       
+ne poravna zapadlih obveznosti do operaterja prenosnega sistema v zvezi
+s sklenjenimi pogodbami o prenosu za dražbene zmogljivosti, če znesek
+neporavnanih obveznosti presega dano finančno jamstvo in če tudi na poziv
+operaterja prenosnega sistema ne zagotovi dodatnega zavarovanja v primernem
+roku.
+(7) Preklic aktivnega statusa traja, dokler uporabnik
+sistema ne odpravi razlogov, na katerih je temeljil preklic. Razloge za preklic
+aktivnega statusa operater prenosnega sistema pisno utemelji in jih nemudoma
+sporoči uporabniku sistema.
+11. člen
+(splošni pogoji pogodbe o prenosu za dražbene zmogljivosti)
+(1) Uporabnik sistema, ki želi pristopiti k dražbi za
+dodelitev zmogljivosti, mora operaterju prenosnega sistema najmanj deset
+delovnih dni pred datumom začetka prve dražbe, na kateri posamezni uporabnik
+sodeluje, predložiti podpisano izjavo, da je seznanjen in sprejema vsebino splošnih
+pogojev pogodbe o prenosu za dražbene zmogljivosti ter da sprejema njihovo
+zavezujočo naravo kot sestavni del pogodbe o prenosu za dražbene zmogljivosti.
+S podpisom izjave uporabnik sistema ne prevzame obveznosti pristopiti in
+sodelovati na dražbi.
+(2) Splošni pogoji pogodbe o prenosu za dražbene
+zmogljivosti opredeljujejo pravice in obveznosti, v skladu s katerimi bosta
+stranki izvrševali pogodbe o prenosu za dražbene zmogljivosti, ki bodo
+uporabniku sistema dodeljene z uspešnimi dražbami. V splošnih pogojih se
+uredijo vse pogodbene sestavine pogodbe o prenosu za dražbene zmogljivosti,
+razen standardnega produkta zmogljivosti, ki je predmet zakupa na dražbi, cene
+zakupa, obsega zakupljene zmogljivosti in bilančne pripadnosti, ki se določijo
+na vsakokratni dražbi, na kateri je bil uporabnik sistema s svojo ponudbo
+uspešen.
+(3) Splošne pogoje pogodbe o prenosu za dražbene
+zmogljivosti, ki so kot Priloga 1 sestavni del tega akta, operater prenosnega
+sistema objavi na svoji spletni strani in obsegajo najmanj naslednje:
+-       
+opredelitev namena in pravnih učinkov splošnih pogojev pogodbe o prenosu
+za dražbene zmogljivosti;
+-       
+postopek sklepanja pogodbe o prenosu za dražbene zmogljivosti;
+-       
+opredelitev medsebojnih pravic in obveznosti v zvezi z izvajanjem
+prenosa zemeljskega plina;
+-       
+pogoji in vrstni red prekinitve prekinljivih zmogljivosti;
+-       
+obračunavanje zakupa zmogljivosti, način plačevanja in plačilni pogoji;
+-       
+vodenje in razpolaganje s sredstvi finančnega jamstva;
+-       
+varovanje zaupnih podatkov;
+-       
+opredelitev predpisov, s katerimi se urejajo posamezna vprašanja pogodbe
+o prenosu za dražbene zmogljivosti.
+(4) Če se Splošni pogoji pogodbe o prenosu za dražbene
+zmogljivosti spremenijo, operater prenosnega sistema o tem obvesti uporabnika
+sistema. Uporabnik sistema mora najmanj deset delovnih dni pred datumom začetka
+dražbe, za katero veljajo spremenjeni splošni pogoji in na kateri želi
+posamezni uporabnik sodelovati, predložiti operaterju prenosnega sistema
+podpisano izjavo, da je seznanjen z vsebino spremenjenih splošnih pogojev.
+12. člen
+(pogodba o prenosu za dražbene zmogljivosti)
+(1) Pogodba o prenosu za dražbene zmogljivosti je med
+strankama sklenjena v trenutku, ko so objavljeni končni rezultati dražbe, iz
+katerih izhaja, da je bila sprejeta ponudba uporabnika sistema za določen
+standardni produkt zmogljivosti in cena, kot je bila dosežena na dražbi.
+(2) Vsaka pogodba o prenosu za dražbene zmogljivosti, ki
+je sklenjena v skladu s prejšnjim odstavkom, predstavlja samostojno pogodbeno
+razmerje med strankama s pogodbenimi sestavinami kot izhajajo iz splošnih
+pogojev pogodbe o prenosu za dražbene zmogljivosti in kot jih za posamezno
+pogodbeno razmerje določita stranki z uporabo dražbenega postopka.
+(3) Uporabnik sistema na spletni rezervacijski platformi
+prejme potrditev sklenitve posamezne pogodbe o prenosu za dražbene
+zmogljivosti, iz katere izhaja mejna vstopna oziroma mejna izstopna točka,
+obseg dodeljenih zmogljivosti, čas, za katerega se zakupi zmogljivost, cena
+zakupa in bilančna pripadnost.
+(4) Pogodbe o prenosu za dražbene zmogljivosti so lahko
+sklenjene tudi za ista ali prekrivajoča se obdobja.
+13. člen
+(finančno jamstvo)
+(1) Finančno jamstvo je namenjeno zavarovanju izpolnitve
+obveznosti uporabnika sistema do operaterja prenosnega sistema, ki bodo nastale
+v zvezi z na dražbah sklenjenimi pogodbami o prenosu.
+(2) Finančno jamstvo, ki je pogoj za pristop k dražbi,
+je lahko v obliki bančne garancije, garancije zavarovalnice ali denarnih
+sredstev, ki jih uporabnik sistema položi na poseben transakcijski račun
+operaterja prenosnega sistema. Uporabnik sistema zagotovi operaterju prenosnega
+sistema finančno jamstvo v višini, za katero uporabnik sistema oceni, da ga bo
+potreboval za svojo skupno udeležbo na dražbah.
+(3) Bančna garancija ali garancija zavarovalnice (v
+nadaljnjem besedilu: garancija) mora biti izdana s strani prvovrstne banke
+oziroma zavarovalnice v obliki nepogojne, nepreklicne in na prvi pisni poziv
+plačljive garancije in z veljavnostjo še 90 dni po zaključku obdobja
+zakupa zmogljivosti.
+(4) Če namerava uporabnik sistema zakupiti prenosne
+zmogljivosti za več zaporednih let, veljavnost garancije ne sme biti krajša od
+enega leta, uporabnik sistema pa mora najmanj 60 dni pred iztekom veljavnosti
+posamezne garancije obnoviti zavarovanje, tako da pred iztekom tega roka predloži
+novo garancijo ali položi denarna sredstva na poseben transakcijski račun
+operaterja prenosnega sistema. Če uporabnik sistema novega finančnega jamstva
+ne predloži v predvidenem roku, operater prenosnega sistema uporabniku sistema
+zavrne vse nadaljnje napovedi prevzema in predaje zemeljskega plina na zadevni
+povezovalni točki.
+(5) Operater prenosnega sistema v svojem imenu odpre
+poseben transakcijski račun in ga objavi na svoji spletni strani, na katerega
+deponira denarna sredstva, ki jih uporabnik sistema nakaže za zagotovitev
+ustreznega finančnega jamstva. Uporabniku sistema pripadajo obresti na
+sredstva, vplačana na prej navedeni račun, v višini, kot jih prizna banka za
+sredstva na vpogled, in krije pripadajoče stroške navedenega posebnega transakcijskega
+računa, če znaša pripadajoči del obresti oziroma stroškov za posameznega
+uporabnika po mesečnem obračunu za poseben transakcijski račun najmanj 10,00
+eurov.
+(6) Če uporabnik sistema zahteva vrnitev garancije ali
+vračilo sredstev, nakazanih na posebni transakcijski račun, operater prenosnega
+sistema ugodi njegovi zahtevi, ko so poravnane vse dospele obveznosti in druge
+pogodbene obveznosti uporabnika sistema, ki bodo v zvezi s sklenjenimi
+pogodbami o prenosu za dražbene zmogljivosti dospele v bodoče.
+(7) Uporabnik sistema mora zagotoviti finančno jamstvo
+za zakup:
+-       
+letnega ali četrtletnega standardnega produkta: v višini trikratnika
+mesečnega zneska predvidenega zakupa;
+-       
+mesečnega standardnega produkta: v višini mesečnega zneska predvidenega
+zakupa;
+-       
+dnevnega standardnega produkta: v višini mesečnega zneska predvidenega
+zakupa;
+-       
+standardnega produkta znotraj dneva: v višini mesečnega zneska
+predvidenega zakupa.
+(8) Uporabnik sistema lahko na dražbah poda nakupne
+ponudbe za posamezni standardni produkt, če je zagotovil finančno jamstvo
+najmanj v višini, kot je opredeljena v prejšnjem odstavku.
+(9) Razpoložljivo finančno jamstvo uporabnika sistema se
+z vnosom vsake nakupne ponudbe znižuje v višini, kot je navedena v sedmem
+odstavku tega člena. V primeru sodelovanja na več dražbah hkrati, se od
+razpoložljivega stanja finančnega jamstva odštevajo predhodna finančna jamstva
+posameznega standardnega produkta zmogljivosti, pri katerih uporabnik sistema
+sodeluje. Če je uporabnik sistema na dražbi uspešen, se razpoložljivo finančno
+jamstvo udeleženca zniža v višini, kot je navedeno v sedmem odstavku tega člena
+in za obdobje, kot je navedeno v tretjem oziroma četrtem odstavku tega člena,
+kar predstavlja blokirano finančno jamstvo uporabnika sistema.
+(10) Uporabnik sistema mora sproti in pravočasno
+zagotavljati, da pred vsako dražbo razpolaga z zadostnim razpoložljivim stanjem
+finančnega jamstva, ki ga potrebuje na dražbi. Dopolnitev razpoložljivega
+stanja finančnega jamstva se na dražbi upošteva, če uporabnik sistema najmanj
+pet delovnih dni pred začetkom dražbe predloži operaterju prenosnega sistema
+novo oziroma dodatno garancijo ali če v tem roku položi dodatna denarna
+sredstva na poseben transakcijski račun.
+14. člen
+(cena zakupa za dodeljene zmogljivosti na dražbi)
+(1) Cena zakupa, ki jo uporabnik sistema plača za
+dodeljene zmogljivosti na dražbi, je sestavljena iz tarifnih postavk za
+omrežnino, kot veljajo v času, ko se zakupljena zmogljivost lahko uporabi in
+dražbene premije, ki je bila določena na uspešni dražbi.
+(2) Tarifne postavke omrežnine za zakup standardnih
+produktov zagotovljenih in prekinljivih zmogljivosti na povezovalnih točkah
+določi operater prenosnega sistema v skladu s splošnim aktom agencije, ki ureja
+obračunavanje omrežnine za prenosni sistem zemeljskega plina. Tarifne postavke
+omrežnine, ki veljajo za posamezni standardni produkt zmogljivosti na prvi dan,
+ko se zakupljena zmogljivost lahko uporabi, se na dražbi uporabijo kot
+pridržana cena.
+(3) Omrežnino za dodeljene zmogljivosti operater
+prenosnega sistema obračuna in zaračuna uporabniku sistema na način in pod
+pogoji, ki jih določi agencija s splošnim aktom, ki ureja obračunavanje
+omrežnine za prenosni sistem zemeljskega plina.
+(4) Znesek dražbene premije določi operater prenosnega
+sistema tako, da pomnoži dražbeno premijo z zakupljeno zmogljivostjo. Znesek
+dražbene premije operater prenosnega sistema zaračuna uporabniku sistema na
+enak način in pod enakimi pogoji, kot so določeni za obračunavanje omrežnine za
+prenosni sistem zemeljskega plina.
+(5) Za letne in četrtletne zmogljivosti operater
+prenosnega sistema znesek dražbene premije obračunava mesečno tako, da celotno
+obveznost v enakih delih porazdeli na posamezne mesece zakupa. Šteje se, da
+terjatev tako izračunane mesečne obveznosti nastane zadnji dan vsakega
+obračunskega meseca, na katerega se nanaša letni in četrtletni zakup.
+(6) Šteje se, da terjatev za znesek dražbene premije za
+dodeljene mesečne zmogljivosti, dnevne zmogljivosti za dan vnaprej in
+zmogljivosti znotraj dneva nastane zadnji dan obračunskega meseca, na katerega
+se nanaša zakup zmogljivosti.
+15. člen
+(plačilni pogoji)
+Operater prenosnega sistema izda račun za dodeljene
+zmogljivosti z zapadlostjo 30 dni po nastanku terjatve. Kot datum nastanka
+terjatve se šteje zadnji dan obračunskega meseca, na katerega se nanaša zakup
+zmogljivosti.
+16. člen
+(izražanje zmogljivosti in prenesenih količin zemeljskega
+plina v energijskih enotah)
+(1) Zmogljivosti se izražajo v energijskih enotah na
+časovno enoto z uporabo naslednje energijske enote: kWh/dan ali kWh/h.
+(2) V energijski enoti iz prejšnjega odstavka operater
+prenosnega sistema zagotavlja tudi podatke o prenesenih količinah zemeljskega
+plina. Pri določanju kurilnosti prenesenega zemeljskega plina operater
+prenosnega sistema uporablja rezultate meritev lastnosti plina na prenosnem
+sistemu. Rezultati meritev lastnosti plina v sosednjih prenosnih sistemih, iz
+katerih plin na povezovalnih točkah vstopa v slovenski prenosni sistem, se
+uporabljajo kot kontrolni podatki. Znotraj prenosnega sistema operater
+prenosnega sistema določa kurilne vrednosti zemeljskega plina z analitičnimi
+postopki, ki jih opiše na svoji spletni strani, ali z dodatnimi meritvami
+lastnosti zemeljskega plina. Dnevna količina v energijskih enoti se določi na
+osnovi povprečne dnevne kalorične vrednosti zemeljskega plina.
+17. člen
+(izpad spletne dražbene platforme)
+(1) V primeru izpada spletne rezervacijske platforme za
+dražbe letnih, četrtletnih ali mesečnih zmogljivosti, operater prenosnega
+sistema ustrezno obvesti vse uporabnike sistema in agencijo o nadomestnem
+terminu dodeljevanja prenosnih zmogljivosti za izpadlo dražbo.
+(2) V primeru izpada spletne rezervacijske platforme v
+času tekoče dražbe za dnevne zmogljivosti operater prenosnega sistema v času
+med 18:00 in 19:00 uro na dan draženja zbira zavezujoče ponudbe za zakup
+prenosnih zmogljivosti in razpoložljive zmogljivosti za posamezno dražbo
+razdeli po principu vrstnega reda prispelih ponudb na podlagi časovnega žiga
+prejema. Uporabniki sistema, ki željo zakupiti prenosne zmogljivosti,
+posredujejo ponudbe v elektronski obliki preko spletne aplikacije operaterja
+prenosnega sistema, izpolnjene v skladu s podatki iz tretjega odstavka 12.
+člena tega akta.
+(3) V primeru izpada spletne rezervacijske platforme za
+dražbe zmogljivosti znotraj dneva operater prenosnega sistema zbira zavezujoče
+ponudbe za zakup prenosnih zmogljivosti, ki jih prejme v času med 180 in 150
+minut pred začetkom želenega zakupa, in razpoložljive zmogljivosti za posamezno
+dražbo razdeli po principu vrstnega reda prispelih ponudb na podlagi časovnega
+žiga prejema. Uporabniki sistema, ki želijo zakupiti prenosne zmogljivosti,
+posredujejo ponudbe v elektronski obliki preko spletne aplikacije operaterja
+prenosnega sistema, izpolnjene v skladu s podatki iz tretjega odstavka 12.
+člena tega akta.
+(4) O rezultatu dodelitve dnevnih prenosnih zmogljivosti
+ter zmogljivosti znotraj dneva skladno s tem členom operater prenosnega sistema
+z elektronskim sporočilom najkasneje 135 minut pred začetkom želenega zakupa
+seznani pošiljatelje ponudb, s čemer se šteje, da je sklenjena posamezna
+pogodba o prenosu. Šteje se, da je bila z elektronskim sporočilom operaterja
+prenosnega sistema ponudba uporabnika sistema za zakup določenega obsega
+standardnega produkta zmogljivosti in po ceni zakupa sprejeta.
+IV. TRGOVANJE NA SEKUNDARNEM TRGU Z ZMOGLJIVOSTMI NA
+POVEZOVALNIH TOČKAH
+18. člen
+(predmet trgovanja na sekundarnem trgu)
+(1) Predmet trgovanja na sekundarnem trgu so lahko samo
+prenosne zmogljivosti na posamezni povezovalni točki, na katero se nanaša
+pogodba o prenosu.
+(2) Uporabniki sistema, ki imajo s pogodbo o prenosu z
+operaterjem prenosnega sistema zakupljeno zmogljivost na posamezni povezovalni
+točki, lahko s pogodbeno zmogljivostjo, ki je ne izkoriščajo, razpolagajo na
+sekundarnem trgu, in sicer tako:
+-       
+da jo dajo v podzakup ali
+-       
+da jo ponovno prodajo (prenos pogodbe o prenosu).
+(3) Na sekundarnem trgu se s pogodbeno zmogljivostjo iz
+prejšnjega odstavka trguje v skladu s tem aktom po tržno dogovorjenih cenah ter
+v okviru pravic in obveznosti, s katerimi uporabniki sistema razpolagajo.
+Predmet razpolaganja na sekundarnem trgu je le zmogljivost na določeni
+povezovalni točki pod pogoji, kot je določeno s pogodbo o prenosu z operaterjem
+prenosnega sistema, kar se s prenosom na sekundarnem trgu ne spremeni.
+19. člen
+(oddaja zmogljivosti v podzakup)
+(1) Uporabnik sistema, ki ima del pogodbeno dogovorjene
+zmogljivosti neizkoriščene, lahko le-to odda v podzakup na sekundarnem trgu
+tako, da sklene pogodbo o podzakupu, pri tem pa ostane njegova pogodba o
+prenosu z operaterjem prenosnega sistema v veljavi. Oddaja zmogljivosti v
+podzakup se praviloma izvaja na spletni rezervacijski platformi.
+(2) V tem primeru morata uporabnika sistema, ki sklepata
+pravni posel na sekundarnem trgu, preko spletne rezervacijske platforme oddati
+podatke o želenem pravnem poslu.
+(3) Operater prenosnega sistema v roku treh delovnih dni
+po prejemu obvestila o oddanih podatkih želenega pravnega posla iz prejšnjega
+odstavka, preko spletne rezervacijske platforme potrdi pravni posel na
+sekundarnem trgu, za predvideno povezovalno točko in za predviden začetek ter
+konec trajanja pravnega posla, če je posel sklenjen skladno s tem aktom.
+(4) Če operater prenosnega sistema v roku iz prejšnjega
+odstavka potrdi pravni posel, se šteje, da je pravni posel na sekundarnem trgu
+sklenjen, o čemer sta uporabnika obveščena preko spletne rezervacijske
+platforme, s potrdilom o sklenitvi pogodbe o podzakupu, ki vsebuje navedbo vseh
+pogodbenih sestavin. Operater prenosnega sistema realizira pogodbo o podzakupu
+pod pogojem, da je sklenjena skladno z določbami tega člena in da je bil
+operater prenosnega sistema pravočasno obveščen o začetku njenega izvajanja.
+20. člen
+(ponovna prodaja zmogljivosti)
+(1) V primeru ponovne prodaje zmogljivosti na sekundarnem
+trgu uporabnik sistema (prenosnik) v celoti prenese pogodbo o prenosu, ki jo
+ima sklenjeno z operaterjem prenosnega sistema, na tretjo osebo (prevzemnik),
+tako da postane prevzemnik imetnik vseh njegovih pravic in obveznosti iz
+pogodbe o prenosu ter namesto prenosnika vstopi v pravno razmerje z operaterjem
+prenosnega sistema.
+(2) Uporabnik sistema, ki ponovno prodaja zmogljivosti,
+mora pred sklenitvijo pravnega posla pisno obvestiti operaterja prenosnega
+sistema o predlogu sporazuma o ponovni prodaji zmogljivosti. Pri predložitvi
+predloga sporazuma lahko prikrije podatek o ceni oziroma druge, zanj poslovno
+občutljive podatke.
+(3) Operater prenosnega sistema na podlagi obvestila iz
+prejšnjega odstavka v roku treh delovnih dni pisno potrdi ali zavrne ponovno
+prodajo zmogljivosti.
+(4) Uporabnik sistema sme skleniti sporazum o ponovni
+prodaji zmogljivosti le, če operater prenosnega sistema pravni posel potrdi
+skladno s prejšnjim odstavkom. Prenos pogodbe o prenosu je veljaven le na
+podlagi potrditve operaterja prenosnega sistema ter začne veljati po prejemu te
+potrditve.
+(5) Operater prenosnega sistema zavrne potrditev
+predvsem iz naslednjih razlogov:
+-       
+če je pravni posel sklenjen v nasprotju s tem aktom;
+-       
+če prevzemnik ne predloži finančnega jamstva v skladu s tem aktom.
+(6) Uporabnik sistema, ki je zmogljivost ponovno prodal,
+mora najkasneje v 15 dneh po sklenitvi sporazuma o ponovni prodaji
+zmogljivosti, vendar ne kasneje kot tri delovne dni pred začetkom izvajanja
+le-tega, o tem obvestiti operaterja prenosnega sistema tako, da mu posreduje
+fotokopijo sporazuma o ponovni prodaji zmogljivosti, pri čemer lahko prikrije
+podatek o ceni oziroma druge, zanj poslovno občutljive podatke.
+V. POSTOPKI UPRAVLJANJA PREZASEDENOSTI V PRIMERU POGODBENE
+PREZASEDENOSTI
+21. člen
+(spremljanje dejanske uporabe pogodbenih zmogljivosti)
+Operater prenosnega sistema v okviru izvajanja nalog
+upravljanja prenosnega sistema spremlja in nadzoruje napovedano uporabo
+prenosnih zmogljivosti z zakupljenimi zagotovljenimi prenosnimi zmogljivostmi.
+22. člen
+(področje uporabe postopkov upravljanja pogodbene
+prezasedenosti)
+(1) Postopki upravljanja prezasedenosti se uporabljajo
+za povezovalne točke prenosnega sistema.
+(2) Operater prenosnega sistema izvaja postopke
+upravljanja prezasedenosti v primeru pogodbene prezasedenosti, z namenom
+vračanja neizkoriščenih zmogljivosti nazaj na trg tako, da se prerazporedijo v
+rednem postopku dodeljevanja kot zagotovljene zmogljivosti.
+(3) Operater prenosnega sistema ob nastanku stanja
+pogodbene prezasedenosti na svoji spletni strani objavi obdobje pogodbene
+prezasedenosti na posamezni povezovalni točki ter o tem obvesti agencijo.
+23. člen
+(ukrepi za upravljanje prezasedenosti)
+(1) V primeru pogodbene prezasedenosti se uporabijo
+naslednji postopki upravljanja prezasedenosti:
+1.     
+predaja pogodbenih zmogljivosti;
+2.     
+mehanizem dolgoročne uporabe ali izgube zmogljivosti;
+3.     
+mehanizem uporabe ali izgube zagotovljenih zmogljivosti za dan vnaprej;
+4.     
+povečanje zmogljivosti s programom prevelikega zakupa in ponovnega
+odkupa.
+(2) Operater prenosnega sistema izvaja postopke za
+upravljanje prezasedenosti, ki so med seboj neodvisni, ko so izpolnjeni pogoji
+za izvajanje posameznega postopka, opredeljeni s tem aktom. Če pride do
+izvajanja posameznega postopka in so bile na njegovi podlagi pridobljene
+dodatne zmogljivosti, se slednje dodeljujejo po naslednjem vrstnem redu:
+zmogljivosti iz 1. točke prejšnjega odstavka, zmogljivosti iz 2. in 3. točke
+prejšnjega odstavka ter zmogljivosti iz 4. točke prejšnjega odstavka.
+(3) V primeru pogodbene prezasedenosti operater
+prenosnega sistema ugotovi in ponudi vse dodatne zmogljivosti, ki izhajajo iz
+uporabe postopkov upravljanja prezasedenosti, v rednem postopku dodeljevanja
+zmogljivosti na povezovalnih točkah.
+(4) Dodatne zmogljivosti, ki izhajajo iz uporabe
+postopkov upravljanja prezasedenosti v primeru pogodbene prezasedenosti dodeli
+operater prenosnega sistema šele takrat, ko so razporejene vse zagotovljene
+zmogljivosti v okviru tehnične zmogljivosti.
+1. Predaja pogodbenih zmogljivosti
+24. člen
+(pravica do predaje pogodbenih zmogljivosti)
+(1) Uporabnik sistema lahko v primeru pogodbene
+prezasedenosti in za obdobje pogodbene prezasedenosti preda operaterju
+prenosnega sistema zakupljene zagotovljene zmogljivosti na povezovalni točki,
+za časovno obdobje daljše od enega dne, in sicer najmanj tri delovne dni pred
+želenim datumom predaje. Vzorec obvestila o predaji se nahaja na spletni strani
+operaterja prenosnega sistema.
+(2) Uporabnik sistema ohrani svoje pravice in obveznosti
+iz pogodbe o prenosu, dokler operater prenosnega omrežja predanih zagotovljenih
+zmogljivosti dejansko ne prerazporedi in do obsega zmogljivosti, ki jih
+operater prenosnega sistema ne prerazporedi.
+(3) Uporabnik sistema mora nemudoma obvestiti operaterja
+prenosnega sistema, če po prejemu obvestila o predaji s strani operaterja
+prenosnega sistema, za predane zagotovljene zmogljivosti sklene pogodbo na
+sekundarnem trgu.
+(4) Operater prenosnega sistema prerazporedi predane
+zmogljivosti po vrstnem redu prejetja obvestil o predaji.
+25. člen
+(aneks o prerazporeditvi)
+(1) Zmogljivosti se prerazporedijo s sklenitvijo pogodbe
+o prenosu za predane zmogljivosti z drugim uporabnikom sistema. Ko se za
+predane zmogljivosti sklene pogodba o prenosu se šteje, da je operater
+prenosnega sistema sprejel ponudbo uporabnika sistema o predaji zmogljivosti
+ter da je sklenjen k pogodbi o prenosu aneks o prerazporeditvi, o čemer
+operater prenosnega sistema uporabnika sistema nemudoma obvesti z aneksom o
+prerazporeditvi.
+(2) V aneksu o prerazporeditvi med operaterjem
+prenosnega sistema ter uporabnikom sistema se ugotovi, da se obseg zmogljivosti
+iz pogodbe o prenosu zmanjša za obseg, ki je bil zaradi postopka upravljanja
+prezasedenosti prerazporejen in za katerega je bila sklenjena pogodba o prenosu
+z drugim uporabnikom sistema.
+26. člen
+(prepoved prenosa na sekundarnem trgu)
+Po sklenitvi aneksa o prerazporeditvi, uporabnik sistema ne
+razpolaga več s predanimi in prerazporejenimi zagotovljenimi zmogljivostmi,
+zato z njimi tudi ne more trgovati na sekundarnem trgu.
+2. Mehanizem dolgoročne uporabe ali izgube
+zmogljivosti
+27. člen
+(preklic pogodbene zmogljivosti)
+(1) Operater prenosnega sistema zagotavlja agenciji za
+posamezno povezovalno točko podatke o dnevnem obsegu izkoriščanja pogodbenih
+zmogljivosti veljavnih pogodb o prenosu, ki so sklenjene za obdobje daljše od
+enega leta ter pogodb o prenosu, ki so sklenjene za krajše časovno obdobje, ki
+so skupno sklenjene za neprekinjeno obdobje vsaj dveh let. Operater prenosnega
+sistema pošilja predmetne informacije agenciji do 15. novembra vsako leto,
+za obdobje od 1. aprila do 30. septembra istega leta ter do
+15. maja vsako leto, za obdobje od 1. oktobra predhodnega leta do
+31. marca istega leta.
+(2) Po prejemu odločbe agencije, da mora operater
+prenosnega sistema delno ali v celoti preklicati pogodbene zmogljivosti na
+posameznih povezovalnih točkah, ki se sistematično nezadostno izkoriščajo,
+operater prenosnega sistema o tem obvesti uporabnike sistema, ki imajo s
+pogodbo o prenosu dodeljene take zmogljivosti.
+(3) Preklic je lahko za del zmogljivosti ali celoten
+obseg zmogljivosti ter za določen čas ali za preostanek veljavnega pogodbenega
+časa, skladno z odločbo agencije.
+(4) Uporabnik sistema ohrani svoje pravice in obveznosti
+iz pogodbe o prenosu, dokler operater prenosnega sistema preklicanih
+zmogljivosti dejansko ne prerazporedi in do obsega zmogljivosti, ki jih
+operater prenosnega sistema ne prerazporedi.
+(5) Preklicane zmogljivosti se prerazporedijo s
+sklenitvijo pogodbe o prenosu, in sicer za preklicane zmogljivosti z drugim uporabnikom
+sistema. Ko se za preklicane zmogljivosti sklene pogodba o prenosu, se šteje,
+da je sklenjen aneks o prerazporeditvi preklicanih zmogljivosti, o čemer
+operater prenosnega sistema uporabnika sistema nemudoma obvesti z aneksom o
+prerazporeditvi preklicanih zmogljivosti.
+(6) V aneksu o prerazporeditvi preklicanih zmogljivosti
+med operaterjem prenosnega sistema ter uporabnikom sistema se ugotovi, da se
+obseg zmogljivosti iz pogodbe o prenosu zmanjša za obseg, ki je bil zaradi
+postopka upravljanja prezasedenosti preklican ter prerazporejen in za katerega
+je bila sklenjena pogodba o prenosu z drugim uporabnikom sistema.
+3. Mehanizem uporabe ali izgube zagotovljenih
+zmogljivosti za dan vnaprej
+28. člen
+(sprememba začetne napovedi)
+(1) Če se na podlagi letnega poročila ACER o spremljanju
+prezasedenosti na povezovalnih točkah v skladu s točko 2.2.1(2) Priloge 1 k
+Uredbi 715/2009/ES (v nadaljnjem besedilu: letno poročilo ACER o spremljanju
+prezasedenosti) ugotovi, da je na povezovalnih točkah povpraševanje večje od
+ponudbe, ter da je na dražbah dosežena dražbena premija, mora operater
+prenosnega sistema od 1. marca za obdobje enega leta uporabiti mehanizem
+uporabe ali izgube zagotovljenih zmogljivosti za dan vnaprej in o tem obvestiti
+uporabnike sistema in agencijo.
+(2) Po obvestilu iz prejšnjega odstavka lahko uporabnik
+sistema za posamezno povezovalno točko za čas trajanja pogodbene prezasedenosti
+izvede popravek pravočasne začetne napovedi za dan vnaprej za pogodbene
+zagotovljene zmogljivosti v okviru naslednjih omejitev:
+-       
+navzdol do najmanj 10 % in navzgor do največ 90 % zakupljenih pogodbenih
+zmogljivosti na posamezni povezovalni točki;
+-       
+ne glede na prejšnjo alinejo lahko uporabnik sistema, ki je izvedel
+začetno napoved v višini več kot 80 % pogodbenih zakupljenih zmogljivosti,
+začetno napoved popravi navzgor za polovico nenapovedanega obsega, navzdol pa
+do najmanj 10 % zakupljenih pogodbenih zmogljivosti na posamezni povezovalni
+točki;
+-       
+ne glede na prvo alinejo lahko uporabnik sistema, katerega začetna
+napoved ne preseže 20 % pogodbenih zmogljivosti, začetno napoved popravi
+navzdol za polovico napovedanega obsega, navzgor pa do največ 90 % zakupljenih
+pogodbenih zmogljivosti na posamezni povezovalni točki.
+(3) Določbe prejšnjega odstavka se ne uporabljajo za
+uporabnike sistema, ki so v predhodnem koledarskem letu na povezovalni točki
+imeli povprečno zakupljenih manj kot 10 % povprečnih tehničnih prenosnih
+zmogljivosti.
+(4) Uporabnik sistema, ki na podlagi izvedenih napovedi
+ni upravičen do koriščenja dela zagotovljene zakupljene prenosne zmogljivosti,
+lahko v okviru obstoječe pogodbe za zagotovljene zmogljivosti za omejeni del
+popravi napoved v obliki prekinljivih zmogljivosti.
+(5) Če se na podlagi letnega poročila ACER o spremljanju
+prezasedenosti pokaže, da se razmere, opredeljene v prvem odstavku tega člena,
+v naslednjih treh letih najverjetneje ne ponovijo, ker so zmogljivosti na
+voljo, lahko operater prenosnega sistema prekine izvajanje mehanizma uporabe
+ali izgube zagotovljenih zmogljivosti za dan vnaprej.
+(6) Dodatne zmogljivosti, ki izhajajo iz uporabe tega
+postopka upravljanja prezasedenosti, so tiste pogodbene zmogljivosti, za katere
+uporabnik sistema ob upoštevanju omejitev iz drugega odstavka tega člena ne
+more izvesti popravka napovedi in jih operater prenosnega sistema ponudi
+skladno s tretjim odstavkom 23. člena tega akta.
+4. Program prevelikega zakupa in ponovnega odkupa
+29. člen
+(obveznost ponujanja zmogljivosti iz programa prevelikega
+zakupa in ponovnega odkupa)
+Operater prenosnega sistema ponuja poleg zagotovljenih
+zmogljivosti v okviru tehničnih zmogljivosti povezovalne točke še dodatne
+zagotovljene zmogljivosti iz programa prevelikega zakupa in ponovnega odkupa,
+in sicer ob upoštevanju tehničnih pogojev, kot so kalorična vrednost, temperatura
+in pričakovana potrošnja.
+30. člen
+(ponudba dodatnih zagotovljenih zmogljivosti v okviru
+programa)
+(1) Operater prenosnega sistema ponuja za posamezen dan
+v letu dodatne zagotovljene zmogljivosti na posamezni povezovalni točki, kot
+dnevne zmogljivosti, v kolikor statistični podatki za posamezen dan v letu
+izkazujejo izpolnjenost naslednjih pogojev:
+-       
+da je bila predmetna povezovalna točka v zadnjih petih letih pogodbeno
+prezasedena;
+-       
+da so bile vsako leto v zadnjih treh letih za predmetno povezovalno točko
+sklenjene pogodbe o prenosu za prekinljive zmogljivosti, skladno s katerimi se
+je izvajal prenos in ki niso bile prekinjene s strani operaterja prenosnega
+sistema in,
+-       
+da je bila na predmetni povezovalni točki v zadnjih petih letih vsako
+leto na razpolago neizkoriščena zmogljivost v višini najmanj 10 % tehnične
+zmogljivosti.
+(2) Operater prenosnega sistema pri določitvi dodatnih
+zmogljivosti iz programa prevelikega zakupa in ponovnega odkupa ustrezno
+upošteva tudi dodatne zmogljivosti, ki so na razpolago iz ostalih ukrepov za
+upravljanje pogodbene prezasedenosti.
+(3) Ne glede na predhodna določila tega člena, sme
+operater prenosnega sistema v prvem letu po uveljavitvi predmetnega postopka
+upravljanja prezasedenosti objaviti dodatne zmogljivosti samo v takem obsegu,
+da skupne zmogljivosti, katere operater prenosnega sistema ponuja iz naslova
+ukrepov za upravljanje pogodbene prezasedenosti, ne presegajo 5 % tehnične
+zmogljivosti predmetne povezovalne točke. Meja 5 % iz prejšnjega stavka se v
+drugem letu po uveljavitvi predmetnega postopka upravljanja prezasedenosti
+poveča na 10 %, v tretjem letu in naslednjih letih pa na 15 %.
+31. člen
+(ponovni odkup zmogljivosti)
+(1) Če operater prenosnega sistema na podlagi prejetih
+nominacij ali na drug ustrezen način ugotovi, da nameravajo uporabniki sistema
+v določenem dnevu ali daljšem obdobju na določeni povezovalni točki uporabiti
+vse zakupljene zagotovljene zmogljivosti po pogodbah o prenosu, ki skupaj
+presegajo tehnično zmogljivost te povezovalne točke, obvesti vse uporabnike
+sistema, ki imajo v obravnavanem obdobju in na obravnavani povezovalni točki
+sklenjene pogodbe o prenosu za zagotovljene zmogljivosti, o veljavnem postopku
+ponovnega odkupa ter jih pozove k dajanju ponudb za ponovni odkup zmogljivosti.
+(2) Operater prenosnega sistema v pozivu navede tudi rok
+zbiranja ponudb.
+(3) Ponudbe uporabnikov sistema morajo navajati količino
+ponujenih zagotovljenih prenosnih zmogljivosti in ceno na enoto.
+(4) Po izteku roka za zbiranje ponudb, operater
+prenosnega sistema izbere najcenejše ponudbe. Če ima več ponudb isto ceno,
+upošteva operater prenosnega sistema vrstni red prejema ponudb.
+(5) Če operater prenosnega sistema od uporabnika sistema
+odkupi tako ponujeno prenosno zmogljivost, pogodbeno obveznost za tako
+odkupljeno prenosno zmogljivost deloma ali v celoti pobota z obveznostjo
+uporabnika sistema iz pogodbe o prenosu. Morebitni preostanek denarne
+obveznosti dolžnik poravna. Plačilni pogoji tako izstavljenih računov morajo
+biti enaki, kot jih določa akt, ki ureja obračun omrežnine.
+(6) Če obseg pridobljenih ponudb ni zadosten za
+realizacijo pogodb o prenosu za dodatne zmogljivosti, operater prenosnega
+sistema po metodi sorazmernega zmanjševanja (pro rata) zavrne tisti del
+nominacij za dodatne zmogljivosti, ki jih tehnično ni mogoče realizirati. Za
+zavrnjeni del nominacij operater prenosnega sistema alocira zemeljski plin iz
+sistema izravnave odstopanj, v obsegu in na način, kot ga omogoča sistem
+izravnave odstopanj.
+32. člen
+(način obračuna)
+Operater prenosnega sistema obračuna dodatne zmogljivosti v
+skladu s tem aktom na enak način, kot druge zagotovljene zmogljivosti na
+primarnem trgu.
+VI. POSTOPKI IZVAJANJA RAZŠIRITVENE ZMOGLJIVOSTI
+33. člen
+(razširitvena zmogljivost)
+(1) Operater prenosnega sistema izvaja postopke razširitvene
+zmogljivosti v skladu z Uredbo 2017/459/EU. Dodatni pogoji pogodb o prenosu za
+razširitvene zmogljivosti, sklenjenih na spletni rezervacijski platformi, so
+podrobneje opredeljeni v splošnih pogojih pogodbe o prenosu za razširitvene
+zmogljivosti.
+(2) Operater prenosnega sistema v okviru postopka
+razširitvene zmogljivosti v skladu z Uredbo 2017/459/EU sprejme splošne pogoje
+za sklepanje in izvajanje pogodb za razširitvene zmogljivosti, ko so odobreni s
+strani agencije v okviru projekta razširitvene zmogljivosti. Splošni pogoji so
+sestavni del pogodbe za razširitvene zmogljivosti.
+VII. OBJAVE INFORMACIJ
+34. člen
+(objava)
+(1) Operater prenosnega sistema zagotavlja objavo
+informacij skladno z zahtevami Uredbe 715/2009/ES.
+(2) Objavljene informacije so podane na jasen in
+pregleden način in so dostopne vsem uporabnikom enako.
+VIII. PREHODNE IN KONČNE DOLOČBE
+35. člen
+(možnost skrajšanja obstoječih dolgoročnih pogodb o prenosu
+za povezovalne točke)
+Če imajo uporabniki sistema na dan uveljavitve tega akta z operaterjem
+prenosnega sistema sklenjeno dolgoročno pogodbo o prenosu za povezovalne točke,
+ki je bila sklenjena pred 11. novembrom 2014 in se v zadnjem koledarskem
+letu veljavnosti pogodbe izteče na datum po 30. septembru, lahko
+uporabniki sistema z operaterjem prenosnega sistema sklenejo aneks k takšni
+pogodbi tako, da s tem aneksom skrajšajo veljavnost dolgoročno sklenjene
+pogodbe o prenosu tako, da je veljavna do 30. septembra zadnjega
+koledarskega leta veljavnosti pogodbe. Uporabniki sistema pisno zahtevo za
+skrajšanje trajanja pogodbe posredujejo operaterju prenosnega sistema
+najkasneje do 10. januarja v zadnjem koledarskem letu veljavnosti pogodbe.
+36. člen
+(izvajanje poslov na sekundarnem trgu za obstoječe
+dolgoročne pogodbe o prenosu za povezovalne točke)
+(1) Uporabniki sistema, ki imajo na dan uveljavitve tega
+akta z operaterjem prenosnega sistema sklenjeno dolgoročno pogodbo o prenosu za
+povezovalne točke, ki je bila sklenjena pred 11. novembrom 2014, postopkov
+za oddajo zmogljivosti v podzakup na sekundarnem trgu, kot so določeni v 19.
+členu tega akta, ne izvajajo preko spletne rezervacijske platforme. Obvestilo o
+nameravanem pravnem poslu pošlje uporabnik sistema operaterju prenosnega
+sistema pisno. Operater prenosnega sistema lahko v roku treh delovnih dni po
+prejemu obvestila prav tako pisno posreduje morebitno zavrnitev.
+(2) Če operater prenosnega sistema ne zavrne pravnega
+posla, se šteje, da je pogodba o podzakupu sklenjena. Uporabnik sistema, ki je
+sklenil pogodbo o prenosu in je zmogljivost dal v podzakup, mora najkasneje v
+15 dneh po sklenitvi pogodbe o podzakupu, vendar ne kasneje kot tri delovne
+dneve pred začetkom izvajanja le-te, o tem obvestiti operaterja prenosnega
+sistema tako, da mu posreduje fotokopijo pogodbe o podzakupu, pri čemer v tej
+pogodbi lahko prikrije podatek o ceni oziroma druge, zanj poslovno občutljive
+podatke.
+(3) Vzorci dokumentov so objavljeni na spletni strani
+operaterja prenosnega sistema.
+37. člen
+(prenehanje veljavnosti predpisov)
+Z dnem uveljavitve tega akta prenehajo veljati Pravila o
+pogojih in načinu razdelitve zmogljivosti na povezovalnih točkah prenosnega
+sistema z dražbo (Uradni list RS, št. 67/14 in 79/16) ter poglavji V. TRGOVANJE
+NA SEKUNDARNEM TRGU Z ZMOGLJIVOSTMI NA RELEVANTNIH TOČKAH in VI. POSTOPKI UPRAVLJANJA
+PREZSEDENOSTI V PRIMERU POGODBENE PREZASEDENOSTI Pravil o postopku za
+dodeljevanje zmogljivosti prenosnega sistema za vstopne in izstopne točke
+znotraj Republike Slovenije, upravljanja prezasedenosti prenosnega sistema in
+trgovanja z zmogljivostmi na sekundarnem trgu (Uradni list RS, št. 80/14, 81/14
+– popr. in 62/16).
+38. člen
+(začetek veljavnosti)
+Ta akt začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. SKR/MZ/2020-647
+Ljubljana, dne 7. septembra 2020
+EVA 2020-2430-0094
+PLINOVODI d.o.o.
+Glavni direktor
+Marjan Eberlinc
+Namestnica glavnega direktorja
+mag. Sarah Jezernik
+
+Priloga:
+Splošni pogoji pogodbe o prenosu za dražbene zmogljivosti

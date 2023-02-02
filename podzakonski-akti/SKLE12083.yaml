@@ -1,0 +1,19 @@
+Text file: SKLE12083.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1588284000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12083
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o nedopustnosti razpisa zakonodajnega referenduma o Zakonu o spremembi\
+  \ in dopolnitvah Zakona o za\u010Dasnih ukrepih v zvezi s sodnimi, upravnimi in\
+  \ drugimi javnopravnimi zadevami za obvladovanje \u0161irjenja nalezljive bolezni\
+  \ SARS-CoV-2 (COVID-19) (ZZUSUDJZ-A, EPA 1121-VIII)"
+npbNum: 0
+path: /2020/09/2020-01-0900
+sopPredpisa: 2020-01-0900
+sopPredpisaChng: null

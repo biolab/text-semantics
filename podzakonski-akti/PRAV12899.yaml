@@ -1,0 +1,17 @@
+Text file: PRAV12899.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1474063200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12899
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o sofinanciranju \u0161olskih\
+  \ tekmovanj"
+npbNum: 0
+path: /2016/25/2016-01-2557
+sopPredpisa: 2016-01-2557
+sopPredpisaChng: null

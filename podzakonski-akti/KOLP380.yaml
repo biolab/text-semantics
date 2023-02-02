@@ -1,0 +1,16 @@
+Text file: KOLP380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1388530800000000000
+- null
+- null
+- 10
+idPredpisa: KOLP380
+idPredpisaChng: null
+instock: .nan
+naslov: KOLEKTIVNO POGODBO dejavnosti gostinstva in turizma Slovenije
+npbNum: 0
+path: /2013/40/2013-01-4033
+sopPredpisa: 2013-01-4033
+sopPredpisaChng: null

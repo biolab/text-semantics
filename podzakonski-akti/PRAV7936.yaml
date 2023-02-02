@@ -1,0 +1,16 @@
+Text file: PRAV7936.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1195858800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7936
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o notranji kontroli
+npbNum: 0
+path: /2007/53/2007-01-5311
+sopPredpisa: 2007-01-5311
+sopPredpisaChng: null

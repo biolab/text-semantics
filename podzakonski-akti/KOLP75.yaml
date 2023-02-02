@@ -1,0 +1,17 @@
+Text file: KOLP75.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 956354400000000000
+- null
+- null
+- 10
+idPredpisa: KOLP75
+idPredpisaChng: KOLP75
+instock: .nan
+naslov: "KOLEKTIVNA\_POGODBA za dejavnost poslovanja z nepremi\u010Dninami (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2000/16/2000-01-1653-1998-01-0386-npb2
+sopPredpisa: 2000-01-1653
+sopPredpisaChng: 1998-01-0386

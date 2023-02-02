@@ -1,0 +1,18 @@
+Text file: PRAV8513.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1299279600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8513
+idPredpisaChng: PRAV8513
+instock: .nan
+naslov: "PRAVILNIK o pogojih in na\u010Dinu ra\u010Dunalni\u0161kega dostopa do podatkov\
+  \ iz evidenc in zbirk geodetskih podatkov (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2011/03/2011-01-0385-2008-01-0978-npb1
+sopPredpisa: 2011-01-0385
+sopPredpisaChng: 2008-01-0978

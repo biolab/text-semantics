@@ -1,0 +1,17 @@
+Text file: STAT5.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1619647200000000000
+- null
+- null
+- 10
+idPredpisa: STAT5
+idPredpisaChng: STAT5
+instock: .nan
+naslov: "STATUT ODVETNI\u0160KE ZBORNICE SLOVENIJE (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 11)"
+npbNum: 11
+path: /2021/11/2021-01-1179-1994-01-0571-npb11
+sopPredpisa: 2021-01-1179
+sopPredpisaChng: 1994-01-0571

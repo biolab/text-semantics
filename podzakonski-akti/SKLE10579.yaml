@@ -1,0 +1,16 @@
+Text file: SKLE10579.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1441058400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10579
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o vsebini na\u010Drtov sanacije bank in hranilnic"
+npbNum: 0
+path: /2015/26/2015-01-2628
+sopPredpisa: 2015-01-2628
+sopPredpisaChng: null

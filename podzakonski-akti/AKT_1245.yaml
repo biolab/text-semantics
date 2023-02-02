@@ -1,0 +1,13 @@
+Text file: AKT_1245.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_1245
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFNE\_POSTAVKE za omre\u017Enine elektrooperaterjev za regulativno obdobje\
+  \ od 1.\_januarja 2022 do 31.\_decembra 2022"
+npbNum: 0
+path: /2021/41/2021-01-4132
+sopPredpisa: 2021-01-4132
+sopPredpisaChng: null

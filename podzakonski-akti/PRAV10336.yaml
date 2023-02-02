@@ -1,0 +1,17 @@
+Text file: PRAV10336.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1284760800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10336
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posredovanju podatkov o stanju kapacitet v vrtcih na spletno\
+  \ stran Ministrstva za \u0161olstvo in \u0161port"
+npbNum: 0
+path: /2010/38/2010-01-3841
+sopPredpisa: 2010-01-3841
+sopPredpisaChng: null

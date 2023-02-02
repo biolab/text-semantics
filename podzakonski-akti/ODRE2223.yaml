@@ -1,0 +1,17 @@
+Text file: ODRE2223.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1386370800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2223
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj\
+  \ \u017Eivali v letu 2014"
+npbNum: 0
+path: /2013/36/2013-01-3612
+sopPredpisa: 2013-01-3612
+sopPredpisaChng: null

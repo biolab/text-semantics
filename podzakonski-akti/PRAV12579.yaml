@@ -1,0 +1,17 @@
+Text file: PRAV12579.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1612566000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12579
+idPredpisaChng: PRAV12579
+instock: .nan
+naslov: "PRAVILNIK o registru kmetijskih gospodarstev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2021/03/2021-01-0348-2016-01-3572-npb5
+sopPredpisa: 2021-01-0348
+sopPredpisaChng: 2016-01-3572

@@ -1,0 +1,17 @@
+Text file: TARI95.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1498860000000000000
+- null
+- null
+- 10
+idPredpisa: TARI95
+idPredpisaChng: TARI95
+instock: .nan
+naslov: "TARIFA o taksah in nadomestilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 8)"
+npbNum: 8
+path: /2017/16/2017-01-1610-2008-01-2278-npb8
+sopPredpisa: 2017-01-1610
+sopPredpisaChng: 2008-01-2278

@@ -1,0 +1,20 @@
+Text file: TARI114.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1251756000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1251496800000000000
+- null
+- null
+- 10
+idPredpisa: TARI114
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO nadomestil za ponovno uporabo informacij javnega zna\u010Daja Poslovnega\
+  \ registra Slovenije"
+npbNum: 0
+path: /2009/31/2009-01-3113
+sopPredpisa: 2009-01-3113
+sopPredpisaChng: null

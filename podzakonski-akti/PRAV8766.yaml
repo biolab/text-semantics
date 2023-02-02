@@ -1,0 +1,17 @@
+Text file: PRAV8766.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1222466400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8766
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o razveljavitvi Pravilnika o pogojih, ki jih morajo izpolnjevati
+  strokovnjaki, ki dajejo izvedenska mnenja o zdravilu za uporabo v veterinarski medicini
+npbNum: 0
+path: /2008/38/2008-01-3892
+sopPredpisa: 2008-01-3892
+sopPredpisaChng: null

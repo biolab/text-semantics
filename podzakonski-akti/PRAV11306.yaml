@@ -1,0 +1,17 @@
+Text file: PRAV11306.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1333749600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11306
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na\
+  \ Alma Mater Europaea \u2013 Evropskem sredi\u0161\u010Du Maribor"
+npbNum: 0
+path: /2012/10/2012-01-1041
+sopPredpisa: 2012-01-1041
+sopPredpisaChng: null

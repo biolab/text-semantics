@@ -1,0 +1,17 @@
+Text file: DEKL18.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1086213600000000000
+- null
+- null
+- 10
+idPredpisa: DEKL18
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO  O STALI\u0160\u010CIH ZA ZA\u010CETEK DELOVANJA REPUBLIKE SLOVENIJE\
+  \ V INSTITUCIJAH EU V LETU 2004 (DeZDIEU)"
+npbNum: 0
+path: /2004/27/2004-01-2754
+sopPredpisa: 2004-01-2754
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV14604.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1660341600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14604
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih, ki jih mora izpolnjevati nosilec javnega pooblastila
+  za krovno spremljanje stanja kmetijskih tal
+npbNum: 0
+path: /2022/25/2022-01-2547
+sopPredpisa: 2022-01-2547
+sopPredpisaChng: null

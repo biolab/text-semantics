@@ -1,0 +1,17 @@
+Text file: ODRE289.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 882486000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE289
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
+  anov za leto 1998"
+npbNum: 0
+path: /1997/37/1997-01-3764
+sopPredpisa: 1997-01-3764
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV5666.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1077318000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5666
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o razveljavitvi pravilnika o strokovno medicinskih pogojih za odvzem
+  krvi
+npbNum: 0
+path: /2004/06/2004-01-0642
+sopPredpisa: 2004-01-0642
+sopPredpisaChng: null

@@ -1,0 +1,21 @@
+Text file: PRAV14299.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1633039200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1625090400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14299
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izpolnjevanju carinske deklaracije, elektronskem poslovanju s\
+  \ Finan\u010Dno upravo Republike Slovenije in o drugih obrazcih, ki se uporabljajo\
+  \ pri izvajanju carinskih formalnosti"
+npbNum: 0
+path: /2021/22/2021-01-2215
+sopPredpisa: 2021-01-2215
+sopPredpisaChng: null

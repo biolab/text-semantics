@@ -1,0 +1,17 @@
+Text file: URED2010.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1008975600000000000
+- null
+- null
+- 10
+idPredpisa: URED2010
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o pred\u010Dasni izpolnitvi obveznosti iz obveznic Republike Slovenije\
+  \ serije RS151095M"
+npbNum: 0
+path: /2001/51/2001-01-5169
+sopPredpisa: 2001-01-5169
+sopPredpisaChng: null

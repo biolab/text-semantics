@@ -1,0 +1,17 @@
+Text file: ODRE217.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1056405600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE217
+idPredpisaChng: ODRE217
+instock: .nan
+naslov: "PRAVILNIK o plinskih napravah (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2003/29/2003-01-2996-2000-01-4423-npb2
+sopPredpisa: 2003-01-2996
+sopPredpisaChng: 2000-01-4423

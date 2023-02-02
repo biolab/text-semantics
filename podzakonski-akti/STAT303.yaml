@@ -1,0 +1,17 @@
+Text file: STAT303.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1650060000000000000
+- null
+- null
+- 10
+idPredpisa: STAT303
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT samostojnega visoko\u0161olskega zavoda Visoke \u0161ole za upravljanje\
+  \ pode\u017Eelja Grm Novo mesto"
+npbNum: 0
+path: /2022/10/2022-01-1096
+sopPredpisa: 2022-01-1096
+sopPredpisaChng: null

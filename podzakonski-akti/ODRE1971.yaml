@@ -1,0 +1,17 @@
+Text file: ODRE1971.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1147471200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1971
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi obratovalnega \u010Dasa mejnega prehoda za obmejni\
+  \ promet Sedlarjevo"
+npbNum: 0
+path: /2006/21/2006-01-2105
+sopPredpisa: 2006-01-2105
+sopPredpisaChng: null

@@ -1,0 +1,13 @@
+Text file: DEKL36.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: DEKL36
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah\
+  \ Evropske unije v obdobju januar 2013\u2013junij 2014 (DeUDIEU1314)"
+npbNum: 0
+path: /2013/07/2013-01-0794
+sopPredpisa: 2013-01-0794
+sopPredpisaChng: null

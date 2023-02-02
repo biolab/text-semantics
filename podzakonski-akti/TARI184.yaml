@@ -1,0 +1,17 @@
+Text file: TARI184.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1654293600000000000
+- null
+- null
+- 10
+idPredpisa: TARI184
+idPredpisaChng: TARI184
+instock: .nan
+naslov: "ODVETNI\u0160KA TARIFA (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2022/16/2022-01-1639-2015-01-0024-npb1
+sopPredpisa: 2022-01-1639
+sopPredpisaChng: 2015-01-0024

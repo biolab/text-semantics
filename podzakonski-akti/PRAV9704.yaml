@@ -1,0 +1,17 @@
+Text file: PRAV9704.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1254261600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9704
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o trajanju pripravni\u0161tva, na\u010Dinu, poteku in programu\
+  \ usposabljanja pripravnikov v pravosodnih organih"
+npbNum: 0
+path: /2009/32/2009-01-3288
+sopPredpisa: 2009-01-3288
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13224.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1507932000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13224
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev javnoveljavnih \u0161tudijskih programov,\
+  \ ki dajejo kompetence za strokovno izobra\u017Eenega delavca v \u0161portu"
+npbNum: 0
+path: /2017/26/2017-01-2600
+sopPredpisa: 2017-01-2600
+sopPredpisaChng: null

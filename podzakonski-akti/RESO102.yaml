@@ -1,0 +1,13 @@
+Text file: RESO102.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO102
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o nacionalnem planu zdravstvenega varstva 2016\u20132025 \xBB\
+  Skupaj za dru\u017Ebo zdravja\xAB (ReNPZV16\u201325)"
+npbNum: 0
+path: /2016/09/2016-01-0999
+sopPredpisa: 2016-01-0999
+sopPredpisaChng: null

@@ -1,0 +1,12 @@
+Text file: SKLE12620.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12620
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o imenovanju predsednika Fiskalnega sveta
+npbNum: 0
+path: /2021/39/2021-01-3978
+sopPredpisa: 2021-01-3978
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV10640.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595455200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10640
+idPredpisaChng: PRAV10640
+instock: .nan
+naslov: "ODREDBA o \u0161tevilu mest dr\u017Eavnih to\u017Eilcev (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2020/19/2020-01-1918-2011-01-3242-npb6
+sopPredpisa: 2020-01-1918
+sopPredpisaChng: 2011-01-3242

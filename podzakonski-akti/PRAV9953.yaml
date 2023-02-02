@@ -1,0 +1,16 @@
+Text file: PRAV9953.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1260313200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9953
+idPredpisaChng: null
+instock: .nan
+naslov: AKT
+npbNum: 0
+path: /2009/44/2009-01-4409
+sopPredpisa: 2009-01-4409
+sopPredpisaChng: null

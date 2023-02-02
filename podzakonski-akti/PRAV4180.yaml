@@ -1,0 +1,16 @@
+Text file: PRAV4180.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1018648800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4180
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o meroslovnih zahtevah za plinomere in korektorje
+npbNum: 0
+path: /2002/13/2002-01-1387
+sopPredpisa: 2002-01-1387
+sopPredpisaChng: null

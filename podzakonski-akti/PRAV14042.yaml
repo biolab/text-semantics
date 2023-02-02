@@ -1,0 +1,16 @@
+Text file: PRAV14042.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1590184800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14042
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o strokovni verifikaciji socialnovarstvenih programov
+npbNum: 0
+path: /2020/09/2020-01-0982
+sopPredpisa: 2020-01-0982
+sopPredpisaChng: null

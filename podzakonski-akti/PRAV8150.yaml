@@ -1,0 +1,17 @@
+Text file: PRAV8150.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1208988000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8150
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o metodologiji izdelave in vsebini \u0161tudije izvedljivosti alternativnih\
+  \ sistemov za oskrbo stavb z energijo"
+npbNum: 0
+path: /2008/14/2008-01-1429
+sopPredpisa: 2008-01-1429
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV14380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1651874400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14380
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o usposabljanju in preverjanju usposobljenosti strokovnjakov in\
+  \ svetovalcev v hi\u0161i za otroke"
+npbNum: 0
+path: /2022/13/2022-01-1365
+sopPredpisa: 2022-01-1365
+sopPredpisaChng: null

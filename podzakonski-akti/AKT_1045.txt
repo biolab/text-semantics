@@ -1,0 +1,215 @@
+1. člen
+(predmet akta)
+S tem aktom se določa podrobnejša pravila o:
+-       
+vodenju registra transakcijskih računov (v nadaljnjem besedilu: RTR) pri
+Agenciji Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem
+besedilu: AJPES),
+-       
+vsebini RTR,
+-       
+povezovanju RTR s Poslovnim registrom Slovenije (v nadaljnjem besedilu:
+PRS), Centralnim registrom prebivalstva (v nadaljnjem besedilu: CRP) in davčnim
+registrom, zaradi prevzemanja ažurnih podatkov o imetnikih transakcijskih
+računov,
+-       
+izpolnjevanju pogojev za izmenjavo podatkov s ponudniki plačilnih
+storitev,
+-       
+posredovanju podatkov ponudnikov plačilnih storitev o imetnikih
+transakcijskih računov, in o transakcijskih računih oziroma podračunih, ki jih
+vodijo, AJPES za vodenje RTR,
+-       
+vrstah računov v RTR in njihovih oznakah,
+-       
+zagotavljanju podatkov o imetnikih transakcijskih računov in o
+transakcijskih računih iz RTR ponudnikom plačilnih storitev,
+-       
+dostopu do podatkov iz RTR.
+2. člen
+(izrazi)
+Izrazi, uporabljeni v tem aktu, imajo naslednji pomen:
+1.     
+»ponudniki plačilnih storitev« so subjekti, pristojni za opravljanje
+plačilnih storitev v Sloveniji, opredeljeni v 1., 7. in 8. točki 20. člena
+Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in
+plačilnih sistemih (Uradni list RS, št. 7/18 in 9/18 – popr.; v nadaljnjem
+besedilu: ZPlaSSIED),
+2.     
+»banka« je subjekt, ki ima dovoljenje za opravljanje bančnih storitev
+skladno z zakonom, ki ureja bančništvo,
+3.     
+»poslovni subjekt« je pravna oseba, samostojni podjetnik posameznik in
+zasebnik, ki kot poklic opravlja določeno dejavnost.
+3. člen
+(vsebina RTR)
+(1) V RTR se obdelujejo:
+-       
+podatki o imetniku transakcijskega računa,
+-       
+podatki o transakcijskem računu in
+-       
+podatki o ponudniku plačilnih storitev.
+(2) RTR se glede podatkov o imetnikih transakcijskih
+računov in glede načina dostopa do podatkov deli na:
+1.     
+poslovne subjekte (oznaka P) in
+2.     
+fizične osebe (oznaka F).
+(3) V poslovnem delu RTR se vodijo podatki o
+transakcijskih računih, katerih imetnik je poslovni subjekt. V delu RTR za
+fizične osebe pa se vodijo podatki o transakcijskih računih, katerih imetniki
+so fizične osebe.
+4. člen
+(povezovanje podatkov iz RTR z drugimi registri)
+(1) AJPES zagotavlja točnost in ažurnost podatkov v RTR
+s povezovanjem z drugimi registri, in sicer:
+-       
+s PRS,
+-       
+s CRP,
+-       
+z davčnim registrom.
+(2) Za povezovanje z registri iz prejšnjega odstavka se
+uporablja davčna številka kot enolična identifikacijska oznaka.
+(3) Kadar davčna številka kot enolična identifikacijska
+oznaka ni na voljo, AJPES podatke o imetniku računa, ki se vodijo v RTR,
+pridobi od ponudnikov plačilnih storitev. Za pravilnost podatkov v RTR so v tem
+primeru odgovorni ponudniki plačilnih storitev.
+(4) AJPES ob vsaki spremembi podatka o imetniku
+transakcijskega računa v registrih iz prvega odstavka tega člena prevzame
+spremenjene podatke v RTR.
+5. člen
+(registracija ponudnika plačilnih storitev)
+Ponudniki plačilnih storitev se za izmenjavo podatkov, ki se
+vodijo v RTR, pri AJPES registrirajo z vlogo, ki vsebuje:
+1.     
+osnovne podatke (matična številka, naziv, naslov),
+2.     
+kvalificirano potrdilo za elektronski podpis, ki se bo uporabljalo za
+posredovanje podatkov (lahko jih je več),
+3.     
+podpis zakonitega zastopnika ponudnika plačilnih storitev.
+6. člen
+(posredovanje podatkov v RTR)
+(1) Ponudniki plačilnih storitev posredujejo AJPES
+podatke o računih, ki jih vodijo, prek spletnih servisov AJPES na način in v
+obliki, ki sta določena v tehničnem protokolu. Ponudniki plačilnih storitev
+posredujejo AJPES podatke na dan odprtja ali zaprtja računa, ali na dan
+veljavnosti spremembe v podatkih imetnika računa oziroma računa.
+(2) Kadar ponudnik plačilnih storitev omogoči imetniku
+računa odpiranje in zapiranje računa ali izvedbo sprememb z datumom vnaprej, to
+spremembo evidentira, AJPES pa podatke posreduje največ petnajst dni pred
+veljavnostjo spremembe. AJPES zagotavlja objavo podatkov v RTR od dneva
+veljavnosti računa oziroma od dneva veljavnosti spremembe dalje.
+(3) V primeru odpovedi sistemov ali komunikacijskih
+povezav ponudniki plačilnih storitev posredujejo AJPES podatke prek XML
+datotek, ki bodo prenesene po alternativnih povezavah ali na fizičnih medijih.
+(4) AJPES objavi tehnični protokol za izmenjavo podatkov
+na svoji spletni strani.
+7. člen
+(kontrola podatkov)
+(1) Podatke AJPES ob prevzemu preveri skladno z določili
+tehničnega protokola za izmenjavo podatkov.
+(2) Če so ob prevzemanju podatkov ugotovljene napake,
+AJPES podatke z obrazložitvijo zavrne ali pošiljatelja opozori na neskladje
+podatkov. Ponudnik plačilnih storitev potrebne spremembe podatkov posreduje
+takoj, ko je to mogoče.
+8. člen
+(kriteriji za določitev oznak vrst računov)
+(1) Računi so v RTR opredeljeni z enomestno črkovno
+oznako vrst računa, ki je za posamezne vrste računov določena v prilogi, ki je
+sestavni del tega akta. Oznaka vrste računa se določi glede na status imetnika
+računa ali glede na lastnosti sredstev na računu.
+(2) Oznako vrste računa določi ponudnik plačilnih
+storitev glede na okoliščine, ki izhajajo iz sklenjene pogodbe o vodenju
+računa, pomembne za določitev oznake vrste računa.
+9. člen
+(kriteriji za dodelitev oznake)
+(1) Kadar sredstva na transakcijskem računu ne zadoščajo
+za izvršitev sklepa o izvršbi ali zavarovanju imetnika računa, ponudnik
+plačilnih storitev takemu računu dodeli posebno oznako R.
+(2) Ponudnik plačilnih storitev oznako R posreduje AJPES
+kot spremembo na transakcijskem računu.
+10. člen
+(zagotavljanje podatkov o imetnikih transakcijskih računov in
+o transakcijskih računih)
+(1) AJPES sproti, dnevno in brezplačno zagotavlja
+ponudnikom plačilnih storitev podatke o spremembah v RTR za poslovne subjekte.
+(2) AJPES sproti in dnevno brezplačno zagotavlja
+ponudnikom plačilnih storitev podatke o spremembah v RTR imetnikov računov
+fizičnih oseb le za račune, ki jih vodijo.
+(3) Med podatke o spremembah v RTR so vključene tako
+spremembe, ki so posledica povezovanja AJPES z registri iz 5. člena tega akta,
+kot tudi spremembe, ki jih AJPES posredujejo ponudniki plačilnih storitev.
+(4) AJPES sproti, dnevno in brezplačno zagotavlja
+ponudnikom plačilnih storitev podatke o številkah transakcijskih računov
+fizičnih oseb, ki se obdelujejo v RTR.
+(5) AJPES brezplačno omogoči ponudnikom plačilnih
+storitev za uporabnika preverjanje istovetnosti podatkov o transakcijskih računih
+fizičnih oseb, odprtih pri drugih ponudnikih plačilnih storitev, če so poleg
+številke transakcijskega računa o imetniku računa zagotovljeni tudi naslednji
+podatki:
+-       
+davčna številka ali identifikacijska oznaka ter ime in priimek ali
+-       
+ime in priimek ter naslov prebivališča fizične osebe.
+Če sta v registru dve ali več oseb z enakim imenom, priimkom
+in naslovom prebivališča, ponudnik plačilnih storitev poizvedbo dopolni z
+davčno številko ali identifikacijsko oznako fizične osebe.
+(6) AJPES brezplačno omogoči bankam za uporabnika preverjanje
+obstoja transakcijskega računa pri obravnavi prošnje potrošnika za odprtje
+osnovnega plačilnega računa ter za izvrševanje sklepov o izvršbi ali
+zavarovanju, odprtih pri drugih ponudnikih plačilnih storitev, če so poleg
+številke transakcijskega računa o imetniku računa zagotovljeni tudi naslednji
+podatki:
+-       
+davčna številka ali identifikacijska oznaka ter ime in priimek ali
+-       
+ime in priimek ter naslov prebivališča fizične osebe,
+Če sta v registru dve ali več oseb z enakim imenom, priimkom in
+naslovom prebivališča, mora ponudnik plačilnih storitev poizvedbo dopolniti z
+davčno številko fizične osebe.
+11. člen
+(javni dostop do podatkov o transakcijskih računih poslovnih
+subjektov)
+AJPES zagotavlja brezplačni vpogled v podatke o posameznem poslovnem
+subjektu v RTR na svoji spletni strani.
+12. člen
+(dostop do osebnih podatkov o transakcijskih računih fizičnih
+oseb)
+(1) Če AJPES ugodi zahtevi za pridobitev osebnih
+podatkov iz RTR, s katero prosilec izkaže pravni interes za pridobitev osebnih
+podatkov o transakcijskih računih fizičnih oseb, AJPES izda potrdilo o osebnih
+podatkih o transakcijskem računu fizičnih oseb. Prosilec lahko zahtevo vloži v
+pisni ali elektronski obliki.
+(2) Pogoji in način vložitve zahteve v elektronski
+obliki so določeni v aktu AJPES, ki določa navodila za vlaganje zahtev za
+pridobitev osebnih podatkov fizičnih oseb iz RTR v elektronski obliki.
+(3) V primeru, ko prosilec posreduje pisno zahtevo za
+pridobitev osebnih podatkov iz RTR se potrdilo o osebnih podatkih o
+transakcijskem računu fizičnih oseb AJPES prosilcu posreduje z navadno pošto.
+(4) Neposredni elektronski dostop do osebnih podatkov iz
+RTR zagotovi AJPES sodiščem, davčnemu organu, drugim državnim organom, nosilcem
+javnih pooblastil in drugim osebam, ki so na podlagi zakona upravičene
+pridobiti osebne podatke iz RTR.
+13. člen
+(prenehanje uporabe Akta o vzpostavitvi in vodenju registra
+transakcijskih računov)
+Z dnem, ko začne veljati ta akt, se preneha uporabljati Akt o
+vzpostavitvi in vodenju registra transakcijskih računov (Uradni list RS, št.
+49/10, 27/11, 59/16 in 7/18 – ZPlaSSIED).
+14. člen
+(začetek veljavnosti)
+Ta akt začne veljati 1. julija 2018.
+Št. 007-31/2018-1
+Ljubljana, dne 16. maja 2018
+EVA 2018-1611-0021
+mag. Vesna Zupančič Klarič
+l.r.
+predsednica Sveta AJPES
+K temu Aktu je dala soglasje Banka Slovenije dne 8. 5.
+2018.
+
+Priloga: Črkovne
+oznake računa

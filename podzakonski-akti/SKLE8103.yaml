@@ -1,0 +1,17 @@
+Text file: SKLE8103.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1426892400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8103
+idPredpisaChng: SKLE8103
+instock: .nan
+naslov: "SKLEP o poro\u010Danju posameznih dejstev in okoli\u0161\u010Din bank in\
+  \ hranilnic (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+npbNum: 10
+path: /2015/07/2015-01-0731-2009-01-2051-npb10
+sopPredpisa: 2015-01-0731
+sopPredpisaChng: 2009-01-2051

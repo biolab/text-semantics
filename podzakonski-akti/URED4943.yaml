@@ -1,0 +1,16 @@
+Text file: URED4943.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1225234800000000000
+- null
+- null
+- 10
+idPredpisa: URED4943
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o poslovanju z uporabniki v javnem zdravstvu
+npbNum: 0
+path: /2008/41/2008-01-4178
+sopPredpisa: 2008-01-4178
+sopPredpisaChng: null

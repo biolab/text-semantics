@@ -1,0 +1,17 @@
+Text file: PRAV4172.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1143842400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4172
+idPredpisaChng: PRAV4172
+instock: .nan
+naslov: "PRAVILNIK o meroslovnih zahtevah za merilne transformatorje za elektri\u010D\
+  ne \u0161tevce (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2006/11/2006-01-1133-2002-01-1338-npb1
+sopPredpisa: 2006-01-1133
+sopPredpisaChng: 2002-01-1338

@@ -1,0 +1,17 @@
+Text file: PRAV11778.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1373061600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11778
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku vklju\u010Devanja delavca v ukrepe na trgu dela med\
+  \ odpovednim rokom"
+npbNum: 0
+path: /2013/21/2013-01-2183
+sopPredpisa: 2013-01-2183
+sopPredpisaChng: null

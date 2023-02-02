@@ -1,0 +1,20 @@
+Text file: PRAV12921.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1535925600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1531951200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12921
+idPredpisaChng: PRAV12921
+instock: .nan
+naslov: "PRAVILNIK o dodeljevanju \u0161tipendij za deficitarne poklice (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2018/23/2018-01-2308-2016-01-2435-npb1
+sopPredpisa: 2018-01-2308
+sopPredpisaChng: 2016-01-2435

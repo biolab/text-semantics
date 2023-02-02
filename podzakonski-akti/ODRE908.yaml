@@ -1,0 +1,17 @@
+Text file: ODRE908.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1159567200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE908
+idPredpisaChng: ODRE908
+instock: .nan
+naslov: "PRAVILNIK za energijsko ozna\u010Devanje gospodinjskih pomivalnih strojev\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2006/42/2006-01-4258-2001-01-5083-npb1
+sopPredpisa: 2006-01-4258
+sopPredpisaChng: 2001-01-5083

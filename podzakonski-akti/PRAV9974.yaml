@@ -1,0 +1,16 @@
+Text file: PRAV9974.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1273269600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9974
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pristojbinah na podro\u010Dju medicinskih pripomo\u010Dkov"
+npbNum: 0
+path: /2010/17/2010-01-1778
+sopPredpisa: 2010-01-1778
+sopPredpisaChng: null

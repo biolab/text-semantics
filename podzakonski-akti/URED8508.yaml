@@ -1,0 +1,17 @@
+Text file: URED8508.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1653688800000000000
+- null
+- null
+- 10
+idPredpisa: URED8508
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D iz vodnega vira\
+  \ \u010C-1 nad \u010Crnivcem"
+npbNum: 0
+path: /2022/17/2022-01-1700
+sopPredpisa: 2022-01-1700
+sopPredpisaChng: null

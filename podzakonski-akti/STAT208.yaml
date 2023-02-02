@@ -1,0 +1,16 @@
+Text file: STAT208.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1440799200000000000
+- null
+- null
+- 10
+idPredpisa: STAT208
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT Agencije za komunikacijska omre\u017Eja in storitve Republike Slovenije"
+npbNum: 0
+path: /2015/26/2015-01-2602
+sopPredpisa: 2015-01-2602
+sopPredpisaChng: null

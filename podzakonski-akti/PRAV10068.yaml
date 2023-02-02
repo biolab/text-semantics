@@ -1,0 +1,17 @@
+Text file: PRAV10068.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1644015600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10068
+idPredpisaChng: PRAV10068
+instock: .nan
+naslov: "PRAVILNIK o ocenjevanju uspe\u0161nosti javnih uslu\u017Ebencev v Ministrstvu\
+  \ za zunanje zadeve (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/02/2022-01-0236-2011-01-0552-npb1
+sopPredpisa: 2022-01-0236
+sopPredpisaChng: 2011-01-0552

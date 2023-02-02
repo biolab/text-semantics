@@ -1,0 +1,17 @@
+Text file: SKLE12280.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1610751600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12280
+idPredpisaChng: null
+instock: .nan
+naslov: UGOTOVITVENI SKLEP o uskladitvi pokojnin in drugih prejemkov od 1. januarja
+  2021
+npbNum: 0
+path: /2021/01/2021-01-0121
+sopPredpisa: 2021-01-0121
+sopPredpisaChng: null

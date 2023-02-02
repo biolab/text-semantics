@@ -1,0 +1,16 @@
+Text file: SKLE2522.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1002319200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2522
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uskladitvi vrednosti to\u010Dke v odvetni\u0161ki tarifi"
+npbNum: 0
+path: /2001/40/2001-01-4067
+sopPredpisa: 2001-01-4067
+sopPredpisaChng: null

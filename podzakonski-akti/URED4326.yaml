@@ -1,0 +1,17 @@
+Text file: URED4326.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1170802800000000000
+- null
+- null
+- 10
+idPredpisa: URED4326
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o emisiji snovi in toplote pri odvajanju odpadne vode iz naprav za
+  proizvodnjo kovinskih izdelkov
+npbNum: 0
+path: /2007/02/2007-01-0227
+sopPredpisa: 2007-01-0227
+sopPredpisaChng: null

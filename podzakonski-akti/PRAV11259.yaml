@@ -1,0 +1,17 @@
+Text file: PRAV11259.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1348869600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11259
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za ugotavljanje, prepre\u010Devanje in zatiranje bolezni\
+  \ modrikastega jezika"
+npbNum: 0
+path: /2012/27/2012-01-2797
+sopPredpisa: 2012-01-2797
+sopPredpisaChng: null

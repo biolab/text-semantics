@@ -1,0 +1,13 @@
+Text file: SKLE9024.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9024
+idPredpisaChng: SKLE9024
+instock: .nan
+naslov: "SKLEP o soglasju za odprtje Konzulata Kanade v Ljubljani na \u010Delu s \u010D\
+  astnim konzulom (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/29/2011-01-2903-1996-01-1233-npb1
+sopPredpisa: 2011-01-2903
+sopPredpisaChng: 1996-01-1233

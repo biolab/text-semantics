@@ -1,0 +1,17 @@
+Text file: PRAV2572.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 880758000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2572
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu izvr\u0161evanja nalog ob uvedbi postopka prisilne\
+  \ poravnave"
+npbNum: 0
+path: /1997/34/1997-01-3453
+sopPredpisa: 1997-01-3453
+sopPredpisaChng: null

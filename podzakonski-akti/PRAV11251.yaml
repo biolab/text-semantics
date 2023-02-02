@@ -1,0 +1,17 @@
+Text file: PRAV11251.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616799600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11251
+idPredpisaChng: PRAV11251
+instock: .nan
+naslov: "PRAVILNIK o dokumentaciji v osnovni \u0161oli (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2021/08/2021-01-0877-2012-01-2532-npb2
+sopPredpisa: 2021-01-0877
+sopPredpisaChng: 2012-01-2532

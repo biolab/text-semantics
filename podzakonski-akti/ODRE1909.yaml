@@ -1,0 +1,17 @@
+Text file: ODRE1909.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1044054000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1909
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi najni\u017Ejega dohodka kme\u010Dkega gospodarstva,\
+  \ ki je podlaga za vklju\u010Ditev v obvezno pokojninsko in invalidsko zavarovanje"
+npbNum: 0
+path: /2003/04/2003-01-0457
+sopPredpisa: 2003-01-0457
+sopPredpisaChng: null

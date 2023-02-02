@@ -1,0 +1,20 @@
+Text file: PRAV9303.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1222812000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1226012400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9303
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga za dejavnost cvetli\u010D\
+  arn"
+npbNum: 0
+path: /2008/43/2008-01-4375
+sopPredpisa: 2008-01-4375
+sopPredpisaChng: null

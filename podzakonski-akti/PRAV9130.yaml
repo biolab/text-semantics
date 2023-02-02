@@ -1,0 +1,16 @@
+Text file: PRAV9130.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1228863600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9130
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o znakih in ozna\u010Dbah na smu\u010Di\u0161\u010Du"
+npbNum: 0
+path: /2008/49/2008-01-4994
+sopPredpisa: 2008-01-4994
+sopPredpisaChng: null

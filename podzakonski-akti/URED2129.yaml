@@ -1,0 +1,16 @@
+Text file: URED2129.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1015628400000000000
+- null
+- null
+- 10
+idPredpisa: URED2129
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o identifikacijskih oznakah stavb in stanovanj
+npbNum: 0
+path: /2002/09/2002-01-0901
+sopPredpisa: 2002-01-0901
+sopPredpisaChng: null

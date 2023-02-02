@@ -1,0 +1,17 @@
+Text file: PRAV12729.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1484175600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12729
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o uvrstitvi oseb na \u010Dakalni seznam zaradi zdravljenja s presaditvijo\
+  \ delov \u010Dlove\u0161kega telesa"
+npbNum: 0
+path: /2016/36/2016-01-3691
+sopPredpisa: 2016-01-3691
+sopPredpisaChng: null

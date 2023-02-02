@@ -1,0 +1,18 @@
+Text file: PRAV2605.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1247868000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2605
+idPredpisaChng: PRAV2605
+instock: .nan
+naslov: "PRAVILNIK o ozna\u010Devanju materialov, ki se uporabljajo za glavne sestavne\
+  \ dele obutve, namenjene prodaji potro\u0161nikom (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2009/27/2009-01-2712-2000-01-1162-npb3
+sopPredpisa: 2009-01-2712
+sopPredpisaChng: 2000-01-1162

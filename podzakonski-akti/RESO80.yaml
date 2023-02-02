@@ -1,0 +1,14 @@
+Text file: RESO80.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO80
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o strate\u0161kih usmeritvah razvoja slovenskega kmetijstva in\
+  \ \u017Eivilstva do leta 2020 \u2013 \xBBZagotovimo.si hrano za jutri\xAB (ReSURSK\u017D\
+  )"
+npbNum: 0
+path: /2011/10/2011-01-1096
+sopPredpisa: 2011-01-1096
+sopPredpisaChng: null

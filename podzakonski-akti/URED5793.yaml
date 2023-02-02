@@ -1,0 +1,18 @@
+Text file: URED5793.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1302732000000000000
+- null
+- null
+- 10
+idPredpisa: URED5793
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o izvajanju Uredbe Sveta (EU) \u0161t. 101/2011 z dne 4. februarja\
+  \ 2011 o omejevalnih ukrepih zoper nekatere osebe, subjekte in organe glede na razmere\
+  \ v Tuniziji"
+npbNum: 0
+path: /2011/12/2011-01-1250
+sopPredpisa: 2011-01-1250
+sopPredpisaChng: null

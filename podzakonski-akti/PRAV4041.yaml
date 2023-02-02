@@ -1,0 +1,20 @@
+Text file: PRAV4041.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1242338400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1240005600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4041
+idPredpisaChng: PRAV4041
+instock: .nan
+naslov: "PRAVILNIK o vle\u010Dni in tehni\u010Dnovagonski dejavnosti (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2009/13/2009-01-1322-2002-01-2712-npb1
+sopPredpisa: 2009-01-1322
+sopPredpisaChng: 2002-01-2712

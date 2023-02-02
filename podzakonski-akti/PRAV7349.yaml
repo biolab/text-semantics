@@ -1,0 +1,16 @@
+Text file: PRAV7349.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1176501600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7349
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o izpitu za bonitiranje in o pooblastilu za bonitiranje
+npbNum: 0
+path: /2007/14/2007-01-1437
+sopPredpisa: 2007-01-1437
+sopPredpisaChng: null

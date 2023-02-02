@@ -1,0 +1,16 @@
+Text file: PRAV5500.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1143842400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5500
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o cenah storitev javne slu\u017Ebe zdravstvenega varstva rastlin"
+npbNum: 0
+path: /2006/14/2006-01-1409
+sopPredpisa: 2006-01-1409
+sopPredpisaChng: null

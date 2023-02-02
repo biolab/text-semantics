@@ -1,0 +1,17 @@
+Text file: PRAV14314.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1629324000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14314
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju uporabe Pravilnika o obratovalnem monitoringu onesna\u017E\
+  evanja podzemne vode"
+npbNum: 0
+path: /2021/27/2021-01-2719
+sopPredpisa: 2021-01-2719
+sopPredpisaChng: null

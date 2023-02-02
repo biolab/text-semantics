@@ -1,0 +1,18 @@
+Text file: PRAV9129.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1218232800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9129
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ureditvi vpra\u0161anj pri dolo\u010Danju obmo\u010Dij naselij,\
+  \ dolo\u010Danju hi\u0161nih \u0161tevilk in poteka ulic ter o ozna\u010Devanju\
+  \ ulic in stavb"
+npbNum: 0
+path: /2008/33/2008-01-3363
+sopPredpisa: 2008-01-3363
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV2559.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 959810400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2559
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sestavi in na\u010Dinu dela koordinacije centrov za prepre\u010D\
+  evanje in zdravljenje odvisnosti od prepovedanih drog"
+npbNum: 0
+path: /2000/19/2000-01-1997
+sopPredpisa: 2000-01-1997
+sopPredpisaChng: null

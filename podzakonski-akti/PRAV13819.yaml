@@ -1,0 +1,17 @@
+Text file: PRAV13819.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1581116400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13819
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o seznamu in izhodi\u0161\u010Dih za vrednosti medicinskih pripomo\u010D\
+  kov iz obveznega zdravstvenega zavarovanja"
+npbNum: 0
+path: /2020/01/2020-01-0108
+sopPredpisa: 2020-01-0108
+sopPredpisaChng: null

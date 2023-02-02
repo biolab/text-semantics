@@ -1,0 +1,16 @@
+Text file: DEKL8.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 677800800000000000
+- null
+- null
+- 10
+idPredpisa: DEKL8
+idPredpisaChng: null
+instock: .nan
+naslov: DEKLARACIJA OB NEODVISNOSTI
+npbNum: 0
+path: /1991/00/1991-01-0007
+sopPredpisa: 1991-01-0007
+sopPredpisaChng: null

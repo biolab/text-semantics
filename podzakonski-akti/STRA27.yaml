@@ -1,0 +1,17 @@
+Text file: STRA27.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1134687600000000000
+- null
+- null
+- 10
+idPredpisa: STRA27
+idPredpisaChng: null
+instock: .nan
+naslov: "NACIONALNE USMERITVE za izbolj\u0161anje dostopnosti grajenega okolja, informacij\
+  \ in komunikacij za invalide"
+npbNum: 0
+path: /2005/50/2005-01-5023
+sopPredpisa: 2005-01-5023
+sopPredpisaChng: null

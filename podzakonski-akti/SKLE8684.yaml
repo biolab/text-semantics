@@ -1,0 +1,17 @@
+Text file: SKLE8684.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1293490800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8684
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uskladitvi premij za odkup elektri\u010Dne energije, proizvedene\
+  \ v hidroelektrarnah, za leto 2010"
+npbNum: 0
+path: /2010/54/2010-01-5495
+sopPredpisa: 2010-01-5495
+sopPredpisaChng: null

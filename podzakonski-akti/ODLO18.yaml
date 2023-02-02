@@ -1,0 +1,18 @@
+Text file: ODLO18.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1415401200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO18
+idPredpisaChng: ODLO18
+instock: .nan
+naslov: "ODLOK o preoblikovanju Instituta \xBBJo\u017Eef Stefan\xAB v Ljubljani v\
+  \ javni raziskovalni zavod (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 7)"
+npbNum: 7
+path: /2014/33/2014-01-3321-1992-01-0721-npb7
+sopPredpisa: 2014-01-3321
+sopPredpisaChng: 1992-01-0721

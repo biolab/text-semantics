@@ -1,0 +1,13 @@
+Text file: SKLE9377.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9377
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o odprtju Konzulata Republike Slovenije v Trabzonu, v Republiki Tur\u010D\
+  iji"
+npbNum: 0
+path: /2013/14/2013-01-1464
+sopPredpisa: 2013-01-1464
+sopPredpisaChng: null

@@ -1,0 +1,921 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina pravilnika)
+Ta pravilnik v
+skladu z Direktivo Evropskega parlamenta in Sveta 2002/20/ES z dne 7. marca 2002 o odobritvi elektronskih komunikacijskih omrežij in storitev (UL L št. 108 z dne 24. aprila 2002, str. 21) določa način izračuna plačil na podlagi
+obvestila, plačil za uporabo radijskih frekvenc in plačil za uporabo elementov
+oštevilčenja.
+2. člen
+(pomen izrazov)
+(1) V tem pravilniku uporabljeni
+izrazi imajo naslednji pomen:
+1.    
+Agencija za pošto in elektronske komunikacije Republike Slovenije (v nadaljnjem besedilu: agencija) je neodvisen regulativni organ na področju pošte in
+elektronskih komunikacij, ki je ustanovljen s Sklepom o ustanovitvi Agencije za
+pošto in elektronske komunikacije Republike Slovenije (Uradni list RS, št. 60/01, 52/02 in 80/04) in ki na področju elektronskih komunikacij deluje v skladu z Zakonom o elektronskih komunikacijah (Uradni list RS, št. 13/07 – uradno prečiščeno besedilo,
+102/07 – ZDRad in 110/09; v nadaljnjem besedilu: zakon).
+2.    
+Bazna postaja je kopenska radijska postaja v kopenski mobilni storitvi
+ali sistemu točka-več točk, ki omogoča komunikacijo drugim radijskim postajam v
+telekomunikacijskem sistemu.
+3.    
+Identifikacijska koda podatkovnega omrežja (v nadaljnjem besedilu: DNIC) je koda, ki v skladu s priporočilom ITU-T X.121 določa določeno javno podatkovno omrežje.
+4.    
+Izohrona radijska frekvenca je oddajna radijska frekvenca izohrone radijske
+postaje, ki je enaka oddajni radijski frekvenci radijske postaje, za katero je
+izdana odločba o dodelitvi radijskih frekvenc.
+5.    
+Izohrona radijska postaja je radijska postaja, ki uporablja izohrono
+radijsko frekvenco in se nahaja na drugi lokaciji kot radijska postaja, za
+katero je izdana odločba o dodelitvi radijskih frekvenc, vendar znotraj vpliva
+te postaje.
+6.    
+Koda mednarodne signalizacijske točke (v nadaljnjem besedilu: ISPC) je koda signalizacijske točke, določena v skladu s priporočilom ITU-T Q.708.
+7.    
+Koda mobilnega omrežja (v nadaljnjem besedilu: MNC) je koda, ki določa
+mobilno omrežje v skladu s priporočilom ITU-T E.212.
+8.    
+Koda nacionalne signalizacijske točke (v nadaljnjem besedilu: DPC) je
+koda, določena v skladu s priporočilom ITU-T Q.704.
+8.a  Koda nestandardne
+opreme je binarna koda, ki v skladu s priporočilom ITU-T T.35 določa
+nestandardno opremo za potrebe identifikacije proizvodov s področja prenosa
+govora preko paketnih omrežij v skladu s priporočilom ITU-T H.323.
+9.    
+Kot do čistine (»terrain clearance angle«) je kot, ki se ga uporablja
+pri natančnejšem določanju vpliva radijskih postaj in izmeri v skladu s
+priporočilom ITU-R P.1546.
+10.  Načrtovani
+stroški so stroški, ki jih agencija predvidi za dosego načrtovanih ciljev in
+nalog, načrtovanih v programu dela agencije za prihodnje koledarsko leto.
+11.  Pravilnik
+o radiokomunikacijah ITU je dokument ITU o skupnih mednarodnih zahtevah za
+radiokomunikacije, ki se spreminja na svetovni radiokomunikacijski konferenci
+in je na voljo v prostorih agencije.
+12.  Priporočila
+ ITU-R in ITU-T so priporočila s področja radiokomunikacij in telekomunikacij,
+ki jih sprejema in redno objavlja ITU in so na voljo v prostorih agencije.
+13.  Priporočilo
+ ITU-R P.1546 je priporočilo za napoved vpliva radijskih postaj v radiodifuzni
+storitvi, kopenski mobilni storitvi, pomorski mobilni storitvi in določenih
+fiksnih storitvah v radiofrekvenčnem pasu od 30 MHz do 3.000 MHz.
+14.  Sporazum
+iz Ženeve leta 1984 je mednarodni dokument, ki določa radijske frekvence za
+zvokovne prenose, njihovo dodelitev in koordinacijo, osnovne značilnosti radijskih
+postaj in druge podatke, potrebne za oddajanje zvokovnih prenosov, in je na
+voljo v prostorih agencije.
+15.  Številka
+izdajateljeve oznake (v nadaljnjem besedilu: IIN) je oznaka, določena v
+priporočilu ITU-T E.118, ki je potrebna pri obračunavanju.
+16.  Usmerjalne
+kode 98MN so kode, namenjene za potrebe usmerjanja pri izvedbi prenosljivosti
+številk.
+(2) Preostali izrazi, uporabljeni v
+tem pravilniku, imajo enak pomen, kot je določen v zakonu.
+3. člen
+(način izračuna plačil)
+(1) Plačila, določena s tem
+pravilnikom, se izražajo s številom točk.
+(2) Višina določenega plačila se
+izračuna kot zmnožek števila točk in vrednosti točke za to vrsto plačila, kot
+veljata tisto leto, za katero se višina plačila odmerja.
+(3) Plačila, določena s tem
+pravilnikom, se ne izključujejo, razen če ta pravilnik ne določa drugače.
+4. člen
+(vrednost točke in tarifa)
+(1) Vrednost točke določi agencija
+posebej za plačilo na podlagi obvestila, za plačilo za uporabo radijskih
+frekvenc in za plačilo za uporabo elementov oštevilčenja.
+(2) Vrednost točke za posamezno vrsto
+plačila mora agencija določiti tako, da zbrana plačila na podlagi obvestila
+krijejo načrtovane stroške iz prvega odstavka 6. člena zakona, zbrana
+plačila za uporabo radijskih frekvenc načrtovane stroške iz prvega odstavka
+56. člena zakona, zbrana plačila za uporabo elementov oštevilčenja pa
+načrtovane stroške iz prvega odstavka 70. člena zakona. V načrtovanih
+stroških, ki so podlaga za posamezno vrsto plačila, upošteva agencija tudi
+sorazmerni delež stroškov skupnih služb agencije, ki odpade na regulacijo
+elektronskih komunikacij, glede na število zaposlenih v ustreznih sektorjih ter
+saldo finančnih sredstev za to vrsto plačila iz preteklega koledarskega leta.
+(3) Tarifa vsebuje vrednosti točke za
+posamezno vrsto plačila in obrazložitev iz petega odstavka 6. člena
+zakona, lahko pa tudi višino posameznih plačil, izračunanih na podlagi ustrezne
+vrednosti točke.
+(4) Predlog tarife mora agencija
+najkasneje do 31. oktobra tekočega leta predložiti v soglasje Vladi Republike Slovenije (v nadaljnjem besedilu: vlada) skupaj s programom dela in finančnim načrtom
+za prihodnje koledarsko leto ter revidiranimi računovodskimi izkazi za preteklo
+koledarsko leto.
+(5) Če vlada do 15. decembra
+tekočega leta ne izda soglasja, se do uveljavitve predlagane tarife uporablja
+veljavna tarifa.
+5. člen
+(odmera in plačevanje plačil)
+(1) Plačilo za posameznega zavezanca
+odmeri agencija z odločbo o odmeri plačila. Zavezanec je odmerjeno plačilo
+dolžan nakazati v 30 dneh od vročitve te odločbe na transakcijski račun
+agencije.
+(2) Plačila se plačujejo letno in se
+odmerijo vnaprej za tekoče koledarsko leto.
+(3) Ne glede na določbo prejšnjega
+odstavka se za uporabo radijskih frekvenc za namene iz drugega in tretjega
+odstavka 50. člena zakona odmeri enkratno plačilo, ki ustreza tolikim
+dvanajstinam letnega plačila, kolikor mesecev je odločba o dodelitvi radijskih
+frekvenc veljavna, vendar ne manj od ene dvanajstine letnega plačila.
+(4) V prvem koledarskem letu, ko
+nastopi obveznost plačila, agencija odmeri le toliko dvanajstin letnega
+plačila, kolikor celih mesecev preostane od nastanka obveznosti do konca leta,
+vendar ne manj od ene dvanajstine letnega plačila.
+(5) Zavezanec za plačilo je dolžan
+plačati celotno letno plačilo v koledarskem letu, v katerem je prenehal
+zagotavljati javna komunikacijska omrežja ali izvajati javne komunikacijske
+storitve ali mu je prenehala pravica do uporabe radijskih frekvenc oziroma
+elementov oštevilčenja.
+(6) Ne glede na določbe prejšnjega
+odstavka pa je zavezanec, ki mu je pravica do uporabe radijskih frekvenc
+oziroma elementov oštevilčenja prenehala zaradi poteka roka, za katerega je
+bila podeljena, oziroma zaradi razlogov, ki niso na njegovi strani, dolžan
+plačati le toliko dvanajstin letnega plačila, kolikor celih mesecev je bila ta
+pravica veljavna, vendar ne manj kot eno dvanajstino letnega plačila.
+II. PLAČILA NA PODLAGI OBVESTILA
+6. člen
+(zavezanci)
+Zavezanci za
+plačilo na podlagi obvestila so vsi operaterji.
+7. člen
+(število točk)
+(1) Operaterji so glede na njihov
+letni prihodek iz zagotavljanja javnih komunikacijskih omrežij oziroma iz
+izvajanja javnih komunikacijskih storitev razdeljeni v sledeče razrede:
+-      
+razred 1:   do vključno 100,000.000 tolarjev;
+-      
+razred 2:   nad 100,000.000 do vključno 1.000,000.000 tolarjev;
+-      
+razred 3:   nad 1.000,000.000 do vključno 40.000,000.000 tolarjev;
+-      
+razred 4:   nad 40.000,000.000 tolarjev.
+(2) Število točk za posamezen razred
+je:
+-      
+razred 1:   100;
+-      
+razred 2:   1000;
+-      
+razred 3:   10.000;
+-      
+razred 4:   800.000.
+III. PLAČILA ZA UPORABO RADIJSKIH FREKVENC
+8. člen
+(zavezanci)
+(1) Zavezanci za plačila za uporabo
+radijskih frekvenc so imetniki odločb o dodelitvi radijskih frekvenc razen
+imetnikov odločb o dodelitvi radijskih frekvenc za radioamatersko ali
+radioamatersko satelitsko storitev. Plačilo se določi za vsako odločbo o
+dodelitvi radijskih frekvenc posebej.
+(2) Število točk je določeno v posebni
+odločbi o določitvi števila točk.
+9. člen
+(fiksno število točk)
+(1) Plačilo v višini 60 točk se določi
+za radijske frekvence:
+-      
+za pomorsko mobilno storitev, če so te radijske frekvence navedene v
+dodatku 18 pravilnika o radiokomunikacijah ITU;
+-      
+za zrakoplovno mobilno (R) storitev, če so te radijske frekvence
+navedene v dodatku 26 pravilnika o radiokomunikacijah ITU;
+-      
+za zrakoplovno mobilno (OR) storitev, če so te radijske frekvence
+navedene v dodatku 27 pravilnika o radiokomunikacijah ITU;
+-      
+(črtana);
+-      
+zrakoplovne radionavigacijske postaje;
+-      
+pomorske radionavigacijske postaje;
+-      
+baznih postaj v lokalnem sistemu enosmernega pozivanja.
+(2) Plačilo v višini 700 točk se
+določi za radijske frekvence srednje valovnega radijskega oddajnika.
+(3) Plačilo v višini 600 točk se določi za
+radijske frekvence za satelitsko novinarstvo (SNG/OB).
+(4) Za radijske frekvence za
+sprejemnik se ne plačuje plačil.
+10. člen
+(radijske frekvence za radiodifuzijo)
+(1) Za uporabo radijskih frekvenc za
+radiodifuzijo je število točk sledeče:
+-      
+za radijske frekvence 174–230 MHz, 470–582 MHz in 582–960 MHz, ki so
+določene za analogne in digitalne televizijske prenose in digitalne zvokovne
+prenose: 600 x D1 x D2 točk;
+-      
+za radijske frekvence 87,5 – 108 MHz, ki so določene s sporazumom iz
+Ženeve leta 1984 za zvokovne prenose: 400 x D1 x D2 točk.
+(2) Če si radijske frekvence za
+radiodifuzijo časovno delita dva ali več imetnikov odločb o dodelitvi radijskih
+frekvenc, je vsak od njiju oziroma njih zavezanec za plačilo sorazmernega
+deleža glede na čas uporabe, pri čemer je vsota teh deležev enaka celotni
+višini plačila za polni čas uporabe.
+11. člen
+(faktor D1)
+(1) Faktor D(1) se v skladu s tabelo
+iz četrtega odstavka tega člena določi glede na površino območja pokrivanja v
+Republiki Sloveniji. Površina območja pokrivanja je:
+-      
+v primeru dodelitve radijskih frekvenc za multipleks eksplicitno
+določena v odločbi o dodelitvi radijskih frekvenc za multipleks,
+-      
+za frekvence, ki niso podeljene z odločbo o dodelitvi radijskih frekvenc
+za multipleks, določena kot površina, kjer je izračunani vpliv radijske postaje
+večji od referenčne vrednosti iz tretjega odstavka tega člena.
+(2) Površina območja pokrivanja se izračuna
+na podlagi priporočila ITU-R P. 1546 z upoštevanjem izsevane moči oddajnika,
+sevalnega diagrama, efektivnih višin oddajne lokacije, digitalnega modela
+nadmorskih višin Republike Slovenije z natančnostjo 100 x 100 m
+ter z upoštevanjem korekcije na podlagi kota do čistine. Računa se s parametrom
+»50% lokacij in 50% časa.
+(3) Če v
+odločbi o dodelitvi radijskih frekvenc ni drugače določeno, so referenčne
+vrednosti za posamezne radiofrekvenčne pasove naslednje:
+
+
+87,5–108 MHz
+ 
+
+ 
+
+66 dB(mV/m)
+ 
+
+
+174–230 MHz
+ 
+
+za analogne televizijske
+  prenose:
+ 
+
+55 dB(mV/m)
+ 
+
+
+za digitalne
+  televizijske prenose (DVB-T)
+ 
+
+50 dB(mV/m)
+ 
+
+
+za digitalne
+  zvokovne prenose (T-DAB)
+ 
+
+60 dB(mV/m)
+ 
+
+
+470–582 MHz
+ 
+
+za analogne
+  televizijske prenose:
+ 
+
+65 dB(mV/m)
+ 
+
+
+za digitalne
+  televizijske prenose (DVB-T)
+ 
+
+54 dB(mV/m)
+ 
+
+
+582–960 MHz
+ 
+
+za analogne
+  televizijske prenose:
+ 
+
+70 dB(mV/m)
+ 
+
+
+za digitalne
+  televizijske prenose (DVB-T)
+ 
+
+58 dB(mV/m)
+ 
+
+
+(4) Vrednost
+faktorja D(1) se določi na naslednji način:
+1.    
+za radijske frekvence v pasu 87,5 – 108 MHz
+
+
+Površina
+  območja
+
+Vrednost
+  faktorja D(1)
+
+
+do
+  vključno 50 km2
+
+0,5
+
+
+nad
+  50 km2 do vključno 200 km2
+
+0,75
+
+
+nad
+  200 km2 do vključno 600 km2
+
+1
+
+
+nad
+  600 km2 do vključno 1500 km2
+
+1,5
+
+
+nad
+  1500 km2 do vključno 2500 km2
+
+2
+
+
+nad
+  2500 km2 do vključno 5000 km2
+
+3
+
+
+nad
+  5000 km2
+
+6
+
+
+2.    
+za radijske frekvence 174 – 230 MHz, 470 – 582 MHz in 582 – 960 MHz
+
+
+Površina
+  območja
+
+Vrednost
+  faktorja D1
+
+
+do
+  vključno 50 km2
+
+0,5
+
+
+nad
+  50 km2 do vključno 200 km2
+
+0,75
+
+
+nad
+  200 km2 do vključno 600 km2
+
+1
+
+
+nad
+  600 km2 do vključno 1500 km2
+
+1,7
+
+
+nad
+  1500 km2 do vključno 2500 km2
+
+3,3
+
+
+nad
+  2500 km2 do vključno 5000 km2
+
+5
+
+
+nad
+  5000 km2
+
+10
+
+
+12. člen
+(faktor D2)
+(1) Faktor D(2) je odvisen od mestnih
+območij, ki so del območja pokrivanja iz 11. člena tega pravilnika. Mestno
+območje iz tabele iz tretjega odstavka tega člena se upošteva pri določitvi
+faktorja D(2), če območje pokrivanja presega polovico mestnega območja.
+(2) Če se z radijskimi frekvencami za
+radiodifuzijo ne pokriva nobenega od spodaj navedenih mestnih območij, je
+faktor D2 = 1.
+(3) Če se
+z radijskimi frekvencami za radiodifuzijo pokriva enega od spodaj navedenih
+mestnih območij, je faktor D2 enak sledeči vrednosti tega mestnega
+območja:
+
+
+Mestno območje
+
+Vrednost mestnega območja
+
+
+Ljubljana
+
+5,0
+
+
+Maribor
+
+2,5
+
+
+Celje
+
+1,4
+
+
+Kranj
+
+1,3
+
+
+Novo mesto
+
+1,2
+
+
+Koper – Capodistria
+
+1,2
+
+
+Velenje
+
+1,2
+
+
+(4) Če se na podlagi odločbe o
+dodelitvi radijskih frekvenc pokriva več zgoraj navedenih mestnih območij, je
+faktor D2 enak vsoti vrednosti vključenih mestnih območij iz prejšnjega
+odstavka.
+13. člen
+(ostale radijske frekvence)
+(1) Število točk za radijske
+frekvence, ki niso zajete v 9. do 12. členu tega pravilnika, se določi na
+naslednji način: B x C x E točk.
+(2) Faktor C je odvisen od skupne
+širine radijskih frekvenc in se določi na sledeči način:
+C = skupna širina dodeljenih radijskih
+frekvenc / 25 kHz.
+(3) Faktor
+ B je odvisen od uporabljenega radiofrekvenčnega območja:
+
+
+Radiofrekvenčno
+  območje
+
+Vrednost
+  faktorja B
+
+
+do vključno 470 MHz
+
+10
+
+
+nad    470 MHz    do vključno 960 MHz
+
+3
+
+
+nad    960 MHz    do vključno 2.300 MHz
+
+1
+
+
+nad    2.300 MHz do vključno 5.000 MHz
+
+0,6
+
+
+nad    5.000 MHz do vključno 10.000 MHz
+
+0,4
+
+
+nad    10.000 MHz    do vključno 17.700 MHz
+
+0,3
+
+
+nad    17.700 MHz    do vključno 27.500 MHz
+
+0,2
+
+
+nad    27.500 MHz do vključno 40.000 MHz
+
+0,1
+
+
+nad 40.000 MHz
+
+0,01
+
+
+(4) Faktor E je odvisen od področja
+uporabe, in sicer:
+-      
+za uporabo radijskih frekvenc na celotnem območju Republike Slovenije: E
+= 50;
+-      
+za lokalno uporabo radijskih frekvenc – največ 130 občin: E = 25;
+-      
+za lokalno uporabo radijskih frekvenc – največ 65 občin: E = 10;
+-      
+za lokalno uporabo radijskih frekvenc – največ 5 občin: E = 5;
+-      
+za lokalno uporabo radijskih frekvenc v sistemu z eno bazno postajo: E =
+10;
+-      
+za usmerjeno zvezo (točka – točka): E = 1;
+-      
+za uporabo radijskih frekvenc nad 2000 MHz v času prireditev ne glede na
+področje uporabe: E = 1.
+14. člen
+(posebni primeri uporabe)
+(1) Za določitev plačila za uporabo
+radijskih frekvenc za preizkuse in meritve se izračunano število točk pomnoži s
+faktorjem 0,1.
+(2) Ne glede ne določbo prejšnjega
+odstavka se pri radiodifuziji izračunano število točk za uporabo radijskih
+frekvenc za preizkuse pomnoži s faktorjem 2, izračunano število točk za uporabo
+radijskih frekvenc za prireditve pa s faktorjem 1,5.
+(3) Za uporabo radijskih frekvenc iz prve
+alineje prvega odstavka 11. člena pravilnika, katere so podeljene z odločbo o
+dodelitvi radijskih frekvenc za multipleks, se ne plačuje plačil po odločbah o
+dodelitvi radijskih frekvenc za posamezne oddajne točke znotraj multipleksa.
+(4) Izračunano število točk za uporabo
+radijskih frekvenc 11,7 – 12,5 GHz se pomnoži s faktorjem 0,2. V primeru, da
+področje pokrivanja ne zajema nobene od mestnih občin, pa se ta zmnožek dodatno
+pomnoži s faktorjem 0,25.
+(5) (črtan).
+IV. PLAČILA ZA UPORABO ELEMENTOV OŠTEVILČENJA
+15. člen
+(zavezanci)
+(1) Zavezanci za plačila za uporabo
+številk so imetniki odločb o dodelitvi številk.
+(2) Ne glede na določbo prejšnjega
+odstavka je zavezanec za plačilo za uporabo številke, ki je bila prenesena v
+skladu z 71. členom zakona, operater, h kateremu je bila ta številka
+prenesena.
+16. člen
+(število točk)
+Število točk
+je določeno glede na količino, dolžino in vrsto elementov oštevilčenja, in
+sicer je število točk na element oštevilčenja za posamezno vrsto elementov
+oštevilčenja sledeče:
+
+
+Vrsta
+   elementov oštevilčenja
+
+Število
+   točk na element oštevilčenja
+
+
+Geografske
+  številke:
+
+ 
+
+
+ 
+
+0,03
+
+
+Negeografske
+  številke:
+
+ 
+
+
+-         
+  številke, ki se uporabljajo v javnih mobilnih omrežjih
+  ali za potrebe dostopa do javnih komunikacijskih storitev na fiksni lokaciji
+
+0,03
+
+
+-         
+  številke brezplačnih storitev 80CDEF(GH):
+
+ 
+
+
+-         
+  šestmestne 80CDEF,
+
+40
+
+
+-         
+  osemmestne 80CDEFGH.
+
+3
+
+
+-         
+  številke premijskih storitev 90CDEF(GH):
+
+ 
+
+
+-         
+  šestmestne 90CDEF,
+
+40
+
+
+-         
+  osemmestne 90CDEFGH.
+
+3
+
+
+-       številke
+  za storitve, kot so daljinsko glasovanje, masovno klicanje... 89CDEF(G(H)):
+
+ 
+
+
+-         
+  šestmestne 89CDEF,
+
+40
+
+
+-         
+  sedemmestne 89CDEFG,
+
+10
+
+
+-         
+  osemmestne 89CDEFGH.
+
+3
+
+
+-         
+  številke za vstop v posebna omrežja (podatkovna
+  omrežja, internet) 88CDEFGH
+
+ 
+3
+
+
+Številke
+  skrajšanega izbiranja razen za številke za klice v sili in številke za dostop
+  do družbeno koristnih vseevropskih telefonskih storitev (116QRT):
+
+ 
+
+
+-         
+  trimestne številke
+
+5.000
+
+
+-         
+  štirimestne številke
+
+500
+
+
+-         
+  petmestne številke
+
+50
+
+
+Predpone
+  za izbiro operaterja prenosnih omrežij 10 PQ 
+
+650
+
+
+Nacionalna
+  smerna koda (NDC – AB(C(D)):
+
+ 
+
+
+-         
+  dvomestne kode
+
+1.600
+
+
+-         
+  trimestne kode
+
+400
+
+
+-         
+  štirimestne kode
+
+200
+
+
+Signalne
+  kode in druge kode 
+
+ 
+
+
+-         
+  identifikacijska koda podatkovnega omrežja - DNIC
+
+10
+
+
+-         
+  koda mednarodne signalizacijske točke - ISPC
+
+200
+
+
+-         
+  koda nacionalne signalizacijske točke - DPC
+
+10
+
+
+-         
+  koda mobilnega omrežja - MNC
+
+200
+
+
+-         
+  številka izdajateljeve oznake - IIN
+
+10
+
+
+-         
+  usmerjalne kode 98MN
+
+10
+
+
+-         
+  koda nestandardne opreme – (koda proizvajalca opreme)
+
+10
+
+
+-         
+  druge kode
+
+10
+
+
+
+Pravilnik o načinu izračuna plačil na podlagi
+obvestila, za uporabo radijskih frekvenc in za uporabo številk (Uradni list RS,
+št. 118/04)
+vsebuje naslednje prehodne in končne določbe:
+»V. PREHODNE IN KONČNE DOLOČBE
+17. člen
+(sprejem tarife
+za leto 2005)
+Ne glede na določbi četrtega in petega
+odstavka 4. člena tega pravilnika agencija predlog tarife po tem pravilniku
+za leto 2005 predloži v soglasje vladi najkasneje v 30 dneh po uveljavitvi tega
+pravilnika.
+18. člen
+(prenehanje
+veljavnosti)
+(1) Z dnem uveljavitve tega pravilnika
+preneha veljati Pravilnik o načinu izračuna določenih pristojbin na področju
+telekomunikacij (Uradni list RS, št. 2/02 in 35/02), uporablja pa se do
+vključno 31. decembra 2004.
+(2) Postopki, začeti na podlagi
+Pravilnika o načinu izračuna določenih pristojbin na področju telekomunikacij (Uradni list RS, št. 2/02 in 35/02), se končajo po določbah omenjenega pravilnika.
+19. člen
+(začetek
+veljavnosti)
+Ta pravilnik začne
+veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. januarja 2005.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo radijskih
+frekvenc in za uporabo številk (Uradni list RS, št. 90/05) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+2. člen
+Ne glede na določbo šestega odstavka 5.
+člena Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo
+radijskih frekvenc in za uporabo številk (Uradni list RS, št. 118/04) mora
+imetnik odločb o dodelitvi številk, s katerimi mu je bila v skladu s
+Pravilnikom o načrtu oštevilčenja (Uradni list RS, št. 2/02 in 40/03) dodeljena
+predpona za izbiro operaterjev mednarodnih omrežij oziroma predpona za izbiro
+operaterjev medkrajevnih prenosnih omrežij, za te predpone plačati celotno
+plačilo za uporabo številk za leto 2005, odmerjeno v skladu z drugim oziroma četrtim odstavkom 5. člena Pravilnika
+o načinu izračuna plačil na podlagi obvestila, za uporabo radijskih frekvenc in
+za uporabo številk (Uradni list RS, št. 118/04).
+Ne glede na določbo četrtega odstavka 5.
+člena Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo
+radijskih frekvenc in za uporabo številk (Uradni list RS, št. 118/04) a imetnik
+odločbe o dodelitvi številk iz prejšnjega odstavka za leto 2005 ne plača
+plačila za uporabo predpone za izbiro operaterjev prenosnih omrežij, dodeljene
+v skladu s prvim odstavkom 24. člena Pravilnika o načrtu oštevilčenja (Uradni
+list RS, št. 57/05).
+3. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo radijskih
+frekvenc in za uporabo številk (Uradni list RS, št. 22/07) vsebuje naslednje prehodne in
+končne določbe:
+»PREHODNE IN KONČNE DOLOČBE
+10. člen
+Do 31. decembra 2009 se število točk
+za digitalne televizijske in digitalne zvokovne prenose, določene v 10. členu
+pravilnika, množi s faktorjem 0,1.
+Do 31. decembra 2007 se površina
+območja pokrivanja iz drugega odstavka 11. člena pravilnika izračuna na podlagi
+priporočila ITU-R P. 1546 z upoštevanjem izsevane moči oddajnika, heff,
+delta(h), digitalnega zemljevida Republike Slovenije z natančnostjo
+100 x 100 m, vendar brez upoštevanja korekcije na podlagi kota
+do čistine. Računa se z natančnostjo največ 1 km2 in podatkom »50%
+lokacij in 50% časa. Površina območja pokrivanja se izračuna s seštevanjem
+posameznih območij velikosti največ 1 km2.
+11. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo radijskih
+frekvenc in za uporabo elementov oštevilčenja (Uradni list RS, št. 46/10) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+4. člen
+Do izteka obdobja hkratne analogne in
+digitalne radiodifuzije, določenega z zakonom, ki ureja digitalno
+radiodifuzijo, se število točk za digitalne televizijske in digitalne zvokovne
+prenose, določene v 10. členu pravilnika, množi s faktorjem 0,1.
+5. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o načinu izračuna plačil na podlagi obvestila, za uporabo radijskih
+frekvenc in za uporabo elementov oštevilčenja (Uradni list RS, št. 35/11) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+6. člen
+Določba 5. člena tega pravilnika se začne
+uporabljati 1. januarja 2012. 
+Do pričetka uporabe določbe 5. člena tega
+pravilnika se uporablja tabela iz 16. člena Pravilnika o načinu izračuna plačil
+na podlagi obvestila, za uporabo radijskih frekvenc in za uporabo elementov
+oštevilčenja (Uradni list RS, št. 118/04, 90/05, 22/07 in 46/10).
+7. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi Pravilnika o načinu
+izračuna plačil na podlagi obvestila, za uporabo radijskih frekvenc in za
+uporabo elementov oštevilčenja (Uradni list RS, št. 78/11) vsebuje naslednjo končno določbo:
+»2. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.

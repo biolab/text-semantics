@@ -1,0 +1,17 @@
+Text file: PRAV12741.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1530914400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12741
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sledljivosti \u010Dlove\u0161kih tkiv in celic ter izdelkov in\
+  \ materialov, ki prihajajo v stik s tkivi in celicami"
+npbNum: 0
+path: /2018/21/2018-01-2128
+sopPredpisa: 2018-01-2128
+sopPredpisaChng: null

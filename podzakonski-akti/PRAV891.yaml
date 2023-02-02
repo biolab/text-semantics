@@ -1,0 +1,16 @@
+Text file: PRAV891.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 843861600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV891
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o \u0161tudijskem koledarju v vi\u0161jih strokovnih \u0161olah"
+npbNum: 0
+path: /1996/31/1996-01-3138
+sopPredpisa: 1996-01-3138
+sopPredpisaChng: null

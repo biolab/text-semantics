@@ -1,0 +1,17 @@
+Text file: ODLO346.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 946681200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO346
+idPredpisaChng: null
+instock: .nan
+naslov: ODLOK o preferencialnih pravilih o poreklu blaga, ki se v letu 2000 uporabljajo
+  za izvajanje Srednjeevropskega sporazuma o prosti trgovini (CEFTA)
+npbNum: 0
+path: /1999/49/1999-01-4942
+sopPredpisa: 1999-01-4942
+sopPredpisaChng: null

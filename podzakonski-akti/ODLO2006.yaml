@@ -1,0 +1,17 @@
+Text file: ODLO2006.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1583535600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2006
+idPredpisaChng: null
+instock: .nan
+naslov: ODLOK o ustanovitvi, nalogah in organizaciji Urada Vlade Republike Slovenije
+  za varovanje tajnih podatkov
+npbNum: 0
+path: /2020/04/2020-01-0463
+sopPredpisa: 2020-01-0463
+sopPredpisaChng: null

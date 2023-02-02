@@ -1,0 +1,18 @@
+Text file: PRAV8192.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1362178800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8192
+idPredpisaChng: PRAV8192
+instock: .nan
+naslov: "PRAVILNIK o posebnih pogojih za dajanje biocidnih proizvodov v promet in\
+  \ merilih za dolo\u010Ditev biocidnih proizvodov, ki se prodajajo le na dolo\u010D\
+  enih mestih prodaje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/03/2013-01-0380-2007-01-3842-npb2
+sopPredpisa: 2013-01-0380
+sopPredpisaChng: 2007-01-3842

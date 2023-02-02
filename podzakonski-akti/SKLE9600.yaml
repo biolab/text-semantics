@@ -1,0 +1,17 @@
+Text file: SKLE9600.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1381528800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE9600
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o registru osebnih ra\u010Dunov, potrdilu o stanju na osebnem ra\u010D\
+  unu in potrdilu o vpla\u010Dilih, ki jih je financiral delodajalec"
+npbNum: 0
+path: /2013/28/2013-01-2848
+sopPredpisa: 2013-01-2848
+sopPredpisaChng: null

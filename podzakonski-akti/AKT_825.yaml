@@ -1,0 +1,18 @@
+Text file: AKT_825.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1557525600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_825
+idPredpisaChng: AKT_825
+instock: .nan
+naslov: "USTANOVITVENI AKT Javnega \u0161tipendijskega, razvojnega, invalidskega in\
+  \ pre\u017Eivninskega sklada Republike Slovenije (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2019/14/2019-01-1430-2013-01-0859-npb3
+sopPredpisa: 2019-01-1430
+sopPredpisaChng: 2013-01-0859

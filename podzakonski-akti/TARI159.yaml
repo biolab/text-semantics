@@ -1,0 +1,17 @@
+Text file: TARI159.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1363388400000000000
+- null
+- null
+- 10
+idPredpisa: TARI159
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO nadomestil stro\u0161kov za izvajanje obveznega ve\u010Dstranskega\
+  \ pobota"
+npbNum: 0
+path: /2013/06/2013-01-0624
+sopPredpisa: 2013-01-0624
+sopPredpisaChng: null

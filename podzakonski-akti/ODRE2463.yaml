@@ -1,0 +1,17 @@
+Text file: ODRE2463.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1544223600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2463
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za\_rabo vode\
+  \ za vzrejo salmonidnih vrst rib za\_leto 2019"
+npbNum: 0
+path: /2018/38/2018-01-3803
+sopPredpisa: 2018-01-3803
+sopPredpisaChng: null

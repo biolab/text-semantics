@@ -1,0 +1,16 @@
+Text file: URED3825.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1133564400000000000
+- null
+- null
+- 10
+idPredpisa: URED3825
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o omejevalnih ukrepih proti Demokrati\u010Dni republiki Kongo"
+npbNum: 0
+path: /2005/46/2005-01-4694
+sopPredpisa: 2005-01-4694
+sopPredpisaChng: null

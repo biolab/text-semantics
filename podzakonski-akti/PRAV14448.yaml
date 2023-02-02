@@ -1,0 +1,17 @@
+Text file: PRAV14448.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1660773600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14448
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o evidencah s podro\u010Dja ekolo\u0161ke pridelave in predelave\
+  \ kmetijskih pridelkov in \u017Eivil"
+npbNum: 0
+path: /2022/26/2022-01-2612
+sopPredpisa: 2022-01-2612
+sopPredpisaChng: null

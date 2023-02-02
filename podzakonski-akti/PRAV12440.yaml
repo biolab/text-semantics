@@ -1,0 +1,17 @@
+Text file: PRAV12440.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1558735200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12440
+idPredpisaChng: PRAV12440
+instock: .nan
+naslov: "PRAVILNIK o no\u0161enju uniforme v Finan\u010Dni upravi Republike Slovenije\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/15/2019-01-1512-2015-01-1116-npb1
+sopPredpisa: 2019-01-1512
+sopPredpisaChng: 2015-01-1116

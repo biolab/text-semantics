@@ -1,0 +1,17 @@
+Text file: PRAV4067.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1067032800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4067
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zahtevah za zagotavljanje neoviranega dostopa, vstopa in uporabe\
+  \ objektov v javni rabi ter ve\u010Dstanovanjskih stavb"
+npbNum: 0
+path: /2003/43/2003-01-4330
+sopPredpisa: 2003-01-4330
+sopPredpisaChng: null

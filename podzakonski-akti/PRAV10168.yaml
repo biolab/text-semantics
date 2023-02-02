@@ -1,0 +1,18 @@
+Text file: PRAV10168.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1272924000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10168
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dejavnostih, ki bodo prvi\u010D vklju\u010Dene v sistem trgovanja\
+  \ s pravicami do emisije toplogrednih plinov po letu 2012, o podatkih, ki jih morajo\
+  \ poslati, in na\u010Dinu njihovega preverjanja"
+npbNum: 0
+path: /2010/17/2010-01-1701
+sopPredpisa: 2010-01-1701
+sopPredpisaChng: null

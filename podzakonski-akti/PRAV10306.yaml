@@ -1,0 +1,18 @@
+Text file: PRAV10306.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1419030000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10306
+idPredpisaChng: PRAV10306
+instock: .nan
+naslov: "PRAVILNIK o postopkih (so)financiranja, ocenjevanja in spremljanju izvajanja\
+  \ raziskovalne dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 4)"
+npbNum: 4
+path: /2014/37/2014-01-3707-2011-01-0110-npb4
+sopPredpisa: 2014-01-3707
+sopPredpisaChng: 2011-01-0110

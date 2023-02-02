@@ -1,0 +1,13 @@
+Text file: KOLP406.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: KOLP406
+idPredpisaChng: null
+instock: .nan
+naslov: RAZLAGE Kolektivne pogodbe za zdravnike in zobozdravnike v Republiki Sloveniji
+  (KPZZ), sprejete na seji 3. septembra 2014 z nadaljevanjem 3. februarja 2015
+npbNum: 0
+path: /2015/02/2015-01-0293
+sopPredpisa: 2015-01-0293
+sopPredpisaChng: null

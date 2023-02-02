@@ -1,0 +1,17 @@
+Text file: PRAV8678.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1296860400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8678
+idPredpisaChng: PRAV8678
+instock: .nan
+naslov: "PRAVILNIK o vozni\u0161kih dovoljenjih (prenehal veljati) (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/01/2011-01-0106-2009-01-2501-NPB2
+sopPredpisa: 2011-01-0106
+sopPredpisaChng: 2009-01-2501

@@ -1,0 +1,18 @@
+Text file: ODLO2186.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1606777200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2186
+idPredpisaChng: ODLO2186
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi ponujanja in prodajanja blaga in storitev\
+  \ neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki Sloveniji\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/31/2020-01-3108-2020-01-2911-npb1
+sopPredpisa: 2020-01-3108
+sopPredpisaChng: 2020-01-2911

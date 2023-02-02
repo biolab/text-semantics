@@ -1,0 +1,17 @@
+Text file: POSL44.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1291417200000000000
+- null
+- null
+- 10
+idPredpisa: POSL44
+idPredpisaChng: POSL44
+instock: .nan
+naslov: "POSLOVNIK Dr\u017Eavnoto\u017Eilskega sveta (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/50/2010-01-5043-2003-01-1447-npb1
+sopPredpisa: 2010-01-5043
+sopPredpisaChng: 2003-01-1447

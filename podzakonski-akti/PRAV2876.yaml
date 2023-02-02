@@ -1,0 +1,18 @@
+Text file: PRAV2876.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1029535200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2876
+idPredpisaChng: PRAV2876
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu izra\u010Duna \u010Diste vrednosti premo\u017Eenja\
+  \ in vrednosti enote premo\u017Eenja prvega pokojninskega sklada (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2002/32/2002-01-3278-2000-01-2417-npb1
+sopPredpisa: 2002-01-3278
+sopPredpisaChng: 2000-01-2417

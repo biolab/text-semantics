@@ -1,0 +1,16 @@
+Text file: SKLE1679.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 926114400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1679
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o programu za pred\u0161olske otroke"
+npbNum: 0
+path: /1999/16/1999-01-1685
+sopPredpisa: 1999-01-1685
+sopPredpisaChng: null

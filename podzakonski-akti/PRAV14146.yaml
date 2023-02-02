@@ -1,0 +1,16 @@
+Text file: PRAV14146.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1604098800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14146
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o strokovnem izpitu na podro\u010Dju socialnega varstva"
+npbNum: 0
+path: /2020/25/2020-01-2551
+sopPredpisa: 2020-01-2551
+sopPredpisaChng: null

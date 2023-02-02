@@ -1,0 +1,17 @@
+Text file: PRAV14003.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1581548400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14003
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o izdaji potrdila na podlagi ustreznih kvalifikacij in znanjih,
+  potrebnih za strokovno presojo dokumentov v virtualni podatkovni sobi
+npbNum: 0
+path: /2020/02/2020-01-0252
+sopPredpisa: 2020-01-0252
+sopPredpisaChng: null

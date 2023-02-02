@@ -1,0 +1,472 @@
+1. člen
+(vsebina pravilnika)
+Ta pravilnik določa minimalne tehnične zahteve za varno,
+kakovostno in ekonomsko učinkovito vzdrževanje elektroenergetskih postrojev.
+2. člen
+(področje uporabe)
+(1) Ta pravilnik se uporablja za elektroenergetske
+postroje, ki so del elektroenergetskega sistema, in za elektroenergetske postroje,
+ki so priključeni na elektroenergetski sistem za vse napetostne nivoje.
+(2) Ta pravilnik se ne uporablja za vzdrževanje vodov za
+električno vleko, v eksplozijsko ogroženih prostorih in za električne inštalacije
+v stavbah.
+3. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem pravilniku, imajo
+naslednji pomen:
+-       
+diagnostična metoda je postopek ugotavljanja parametrov, ki so
+značilni za delovanje posamezne naprave in se ugotavljajo na podlagi
+subjektivnih in objektivnih postopkov;
+-       
+diagnostika je proces določanja stanja naprave na podlagi
+velikosti značilnih parametrov ali njihovih sprememb;
+-       
+dogodek je sprememba stanja naprave, ki onemogoča ali ovira
+izvrševanje osnovne funkcije naprave;
+-       
+elektroenergetski postroj (v nadaljnjem besedilu: EEP) je skupek
+gradbenih objektov, stavb, inštalacij, strojev, naprav, vodov in pomožnih
+naprav za proizvajanje, pretvarjanje, transformiranje, razdeljevanje, prenos
+ali porabo električne energije;
+-       
+izredno preprečevalno vzdrževanje je vzdrževanje, ki se izvaja po
+ugotovljeni pomanjkljivosti, ki ogroža delovanje EEP;
+-       
+kazalniki vzdrževanja so spremenljivke, ki se spremljajo v zvezi
+z vzdrževanjem EEP ter se nanašajo na stroške dela in storitev na vzdrževano
+enoto;
+-       
+napovedno vzdrževanje je način preprečevalnega vzdrževanja na
+podlagi diagnostike, ki je podlaga za ugotavljanje stanja naprave in služi za
+načrtovanje napovednega vzdrževanja na podlagi stanja EEP;
+-       
+naprava je zbirno ime za medsebojno funkcijsko povezane elemente;
+-       
+nezahtevno vzdrževanje je vzdrževanje, ki s tem pravilnikom ni
+določeno kot zahtevno vzdrževanje;
+-       
+nizka napetost je izmenična napetost, ki ne presega
+1 000 V;
+-       
+obnova je delo na elementih postroja ali voda, ki se izvaja z
+namenom, da se podaljša njegova življenjska doba;
+-       
+odgovorna oseba za obratovanje je oseba, ki jo skrbnik EEP
+pooblasti za obratovanje EEP;
+-       
+odgovorna oseba za vzdrževanje je oseba, ki jo skrbnik EEP
+pooblasti za vzdrževanje EEP;
+-       
+odloženo popravljalno vzdrževanje je vzdrževanje, pri katerem se
+začne okvara odpravljati s časovnim zamikom;
+-       
+okvara je stanje, v katerem naprava ni sposobna opravljati funkcij,
+zaradi katerih je vgrajena, razen med preprečevalnim vzdrževanjem, drugimi
+načrtovanimi deli ali izpadom napajanja;
+-       
+pomanjkljivost je stanje naprav ali objekta, ki omogoča njihovo
+delovanje s polno ali z zmanjšano funkcionalnostjo in s povečanim tveganjem za
+nastanek okvare;
+-       
+popravljalno vzdrževanje je delo, ki se izvaja po ugotovitvi okvare
+z namenom, da se naprava povrne v stanje, ko lahko opravlja zahtevano funkcijo;
+-       
+posodobitev je vzdrževalno delo na EEP, pri katerem z zamenjavo
+posameznih delov naprav in z vgradnjo sodobnejših delov ohranjamo EEP na nivoju
+novejšega stanja tehnike;
+-       
+pregled je preverjanje stanja naprav z opazovanjem, z meritvami
+ali s preskušanjem karakteristik naprave;
+-       
+preprečevalno vzdrževanje je delo, ki se izvaja v načrtovanih intervalih
+ali glede stanje naprave, z namenom, da se zmanjša verjetnost okvare ali
+poslabšanja delovanja;
+-       
+preprečevalno vzdrževanje glede na stanje je vzdrževanje, kjer se
+vzdrževanje prilagaja stanju naprave;
+-       
+preprečevalno vzdrževanje po času je vzdrževanje, kjer je časovni
+interval izvajanja del stalen ali prilagodljiv;
+-       
+remont je obsežen nabor preprečevalnih vzdrževalnih ukrepov za
+ohranjanje zahtevane ravni delovanja naprave;
+-       
+revizija je delo na elementih naprave ali voda, ki se opravlja
+periodično po navodilih o vzdrževanju pred nastankom okvare, z namenom, da se
+ohrani življenjska doba naprave;
+-       
+skrbnik EEP je lastnik EEP ali pravna oziroma fizična oseba, na
+katero lastnik s pogodbo prenese naloge skrbnika po tem pravilniku;
+-       
+stanje naprave je lastnost, ki se določi na podlagi ugotavljanja in
+spremljanja velikosti karakterističnih parametrov o delovanju in vzdrževanju
+naprave;
+-       
+takojšnje popravljalno vzdrževanje je vzdrževanje, pri katerem se
+začne okvara odpravljati takoj po nastanku;
+-       
+visoka napetost je izmenična napetost, ki presega
+1 000 V;
+-       
+vzdrževanje je kombinacija tehničnih, administrativnih in
+vodstvenih ukrepov v življenjski dobi naprave s ciljem obdržati napravo v
+stanju ali napravo vrniti v stanje, v katerem lahko opravlja svojo funkcijo;
+-       
+zahtevno vzdrževanje je vzdrževanje, pri katerem nastanejo večja
+tveganja za zdravje in življenje ljudi in živali oziroma predstavljajo veliko
+tveganje za premoženje (npr. revizija, remont, obnova in rekonstrukcija EEP) ter
+dela pod napetostjo, razen dela na merilnih napravah;
+-       
+življenjska doba je časovno obdobje od vgradnje naprave do njene
+izločitve iz uporabe, pri čemer se predvidevajo normalni pogoji obratovanja in
+izvajanja vzdrževanja.
+(2) Drugi izrazi v tem pravilniku imajo enak pomen, kot
+je določen v Energetskem zakonu (Uradni list RS, št. 17/14) in Zakonu o
+graditvi objektov (Uradni list RS, št. 102/04 – uradno prečiščeno besedilo,
+14/05 – popr., 92/05 – ZJC-B, 93/05 – ZVMS, 111/05 – odl. US, 126/07, 108/09,
+61/10 – ZRud-1, 20/11 – odl. US, 57/12, 101/13 – ZDavNepr, 110/13 in 19/15).
+4. člen
+(interni akt o vzdrževanju)
+(1) Skrbnik EEP mora sprejeti interni akt o vzdrževanju,
+razen če ima samo EEP nizke napetosti. Z internim aktom o vzdrževanju se
+določijo pravila vzdrževanja glede na vrsto in obseg EEP, in sicer:
+-       
+način priprave, načrtovanja in izvajanja vzdrževanja;
+-       
+ukrepanje v primeru okvar in nesreč;
+-       
+postopek imenovanja odgovornih oseb za izvajanje vzdrževanja;
+-       
+pogoji za takojšnje popravljalno vzdrževanje;
+-       
+pogoji za odloženo popravljalno vzdrževanje;
+-       
+način izvajanja nadzora vzdrževanja in postopek imenovanja odgovornih
+oseb za vzdrževanje;
+-       
+strokovna znanja in usposobljenost oseb, zadolženih za nadzor;
+-       
+način in postopek usklajenega sodelovanja obratovalnega in vzdrževalnega
+osebja;
+-       
+način in roki usposabljanja ter preverjanja znanja vzdrževalnega osebja;
+-       
+vrste zahtevnih vzdrževalnih del;
+-       
+vodenje dokumentacije o statistiki vzdrževanja, izvajanju vzdrževanja;
+-       
+vrste kazalnikov vzdrževanja za posamezen EEP ali skupino;
+-       
+vrste EEP, katerim se periodično ali občasno preverja ustreznost
+izolacije.
+(2) Interni akt o vzdrževanju je treba nemudoma
+dopolniti ali spremeniti, če se med izvajanjem vzdrževanja ugotovijo njegove
+pomanjkljivosti.
+5. člen
+(načrt vzdrževanja)
+(1) Skrbnik mora gleda na pravila vzdrževanja, določena
+v skladu s prejšnjim členom, izdelati načrt vzdrževanja za EEP in pri tem
+upoštevati:
+-       
+navodila proizvajalcev EEP;
+-       
+projekte, na podlagi katerih so EEP zgrajeni;
+-       
+lastne in tuje izkušnje pri vzdrževanju EEP;
+-       
+stanje, ugotovljeno s pregledi, diagnosticiranjem, meritvami ali
+preizkušanjem EEP;
+-       
+ocene spremembe stanja EEP, ki jih povzročajo nenačrtovani dogodki in
+posebne obremenitve;
+-       
+stanje EEP, ugotovljeno pri predhodnih vzdrževalnih posegih;
+-       
+starost EEP;
+-       
+pomembnost naprav;
+-       
+obseg in stroške izvajanja vzdrževanja EEP.
+(2) Načrt vzdrževanja mora biti izdelan pred začetkom
+leta, na katerega se načrt vzdrževanja nanaša.
+6. člen
+(navodila za vzdrževanje)
+(1) Vsak EEP mora imeti navodila za vzdrževanje, ki so
+izdelana pregledno, pri čemer se upoštevajo varnostni vidiki. Navodilo za
+vzdrževanje mora obsegati vsaj:
+-       
+definicije pojmov in uporabljenih kratic;
+-       
+natančen opis vrste vzdrževalnih del in opravil za posamezen tip EEP;
+-       
+roke opravljanja posameznih vzdrževalnih del in opravil za EEP;
+-       
+obseg in časovni okvir revizije EEP;
+-       
+način ugotavljanja stanja EEP, ki se vzdržujejo po stanju EEP;
+-       
+vrsta in obseg diagnostike za napovedno vzdrževane EEP;
+-       
+način ugotavljanja okvar in pomanjkljivosti ter določitev njihove
+odprave;
+-       
+navodila proizvajalcev, izvajalcev in projektantov;
+-       
+določitev vsebine in načina pregledov, ugotavljanja stanja, preverjanja
+delovanja, nastavitev parametrov EEP;
+-       
+vrsto, obseg in roke meritev in preizkusov stanja izolacijske trdnosti;
+-       
+določitev vrste in količine rezervnih delov, njihovo hrambo in
+pripadajočo dokumentacijo.
+(2) Navodila za vzdrževanje je treba po vsaki spremembi
+EEP posodobiti, voditi in hraniti do izločitve EEP ali njegovega dela iz
+uporabe.
+(3) Navodila za vzdrževanje morajo biti dostopna
+izvajalcem vzdrževanja.
+(4) Če ima skrbnik več EEP enakega tipa, zadoščajo ena
+navodila za vzdrževanje za posamezni tip EEP.
+7. člen
+(usklajevanje izvajalcev vzdrževanja in obratovanja)
+Skrbnik EEP mora zagotoviti sodelovanje, koordinacijo in
+seznanitev s podatki in informacijami med izvajalci obratovanja in vzdrževanja,
+zlasti pa:
+-       
+uskladiti termine izvajanja vzdrževalnih del,
+-       
+določiti obseg vzdrževanja,
+-       
+izvajanje stikalnih manipulacij,
+-       
+izvedbo zavarovalnih ukrepov,
+-       
+prepoved daljinskega krmiljenja v času izvajanja vzdrževalnih del na
+EEP,
+-       
+izmenjavo podatkov, pomembnih za izvajanje vzdrževanja,
+-       
+izmenjavo podatkov, pomembnih za ugotavljanje stanja naprav in
+-       
+medsebojno obveščanje o nenormalnem stanju EEP.
+8. člen
+(prevzem EEP v vzdrževanje)
+(1) Skrbnik EEP po končani gradnji, remontu, obnovi ali
+posodobitvi EEP ali njegovega dela zagotovi prevzem v vzdrževanje. Predajo EEP
+v vzdrževanje izvede odgovorna oseba za gradnjo, remont, obnovo ali posodobitev,
+prevzem v vzdrževanje pa izvede odgovorna oseba za vzdrževanje.
+(2) Prevzem EEP v vzdrževanje se izvede po:
+-       
+pridobljenem uporabnem dovoljenju;
+-       
+opravljenem strokovnem pregledu, če so bila dela izvedena na podlagi
+uredbe, ki ureja vzdrževalna dela v javno korist na področju energetike ali
+-       
+končanem remontu, obnovi ali posodobitvi.
+(3) Prevzem EEP v vzdrževanje se izvede tako, da se:
+-       
+določi čas izvedbe prevzema z navedbo vseh prisotnih,
+-       
+določi natančen popis vrste EEP in kraja njegove predaje v vzdrževanje;
+-       
+preverijo dokazila o varnosti in zanesljivosti;
+-       
+izdela dokumentacijo za vzdrževanje;
+-       
+izdela navodila za vzdrževanje z izjavami vzdrževalnega osebja, da so z
+njimi seznanjeni;
+-       
+preveri dokazila o usposobljenosti vzdrževalnega osebja;
+-       
+zagotovi orodje, oprema, priprave in instrumenti za izvajanje
+vzdrževanja.
+(4) O prevzemu EEP v vzdrževanje se vodi zapisnik o
+ugotovitvah glede izpolnjevanja pogojev za prevzem EEP v vzdrževanje,
+morebitnih pomanjkljivostih in ukrepih za njihovo odpravo.
+9. člen
+(prekinitev vzdrževanja)
+(1) Odgovorna oseba za vzdrževanje mora zagotoviti, da
+je med prekinitvami vzdrževanja vzdrževan EEP zaščiten pred poškodbami.
+Delovišče mora biti zavarovano pred nepooblaščenim dostopom.
+(2) V primeru prekinitve vzdrževanja odgovorna oseba za
+vzdrževanje izdela poročilo o nedokončanih delih in o stanju vzdrževanega EEP
+ter odgovorni osebi za obratovanje poda pisno ugotovitev o izpolnjevanju
+pogojev vzdrževanega EEP za ponoven začetek obratovanja.
+10. člen
+(zaključek vzdrževanja in poročilo)
+(1) Po končanem zahtevnem vzdrževanju odgovorna oseba za
+nadzor preveri pravilnost in kakovost opravljenih del ter odgovorni osebi za
+obratovanje poda pisno ugotovitev o izpolnjevanju pogojev vzdrževanega EEP za
+ponoven začetek obratovanja.
+(2) Po končanem nezahtevnem vzdrževanju odgovorna oseba
+za vzdrževanje EEP obvesti odgovorno osebo za obratovanje o zaključku
+vzdrževanja in o izpolnjevanju pogojev vzdrževanega EEP za ponoven začetek
+obratovanja.
+11. člen
+(zunanje izvajanje vzdrževanja)
+Skrbnik EEP, ki za vzdrževanje EEP nima vzdrževalnega osebja,
+s pogodbo odda vzdrževanje enemu ali več zunanjim izvajalcem.
+12. člen
+(strokovna znanja in usposobljenost osebja)
+(1) Skrbnik EEP mora zagotoviti, da ima vzdrževalno
+osebje:
+-       
+ustrezno strokovno izobrazbo;
+-       
+strokovna in praktična znanja;
+-       
+znanja iz varnosti in zdravja pri delu, varstva pred požarom in
+varovanja okolja.
+(2) Skrbnik določi vrste potrebnih znanj iz prejšnjega
+odstavka v sistemizaciji delovnih mest.
+(3) Pri ocenjevanju usposobljenosti vzdrževalnega osebja
+se uporabijo najmanj naslednja merila:
+-       
+poznavanje EEP, na katerem je treba opraviti vzdrževanje;
+-       
+praktične izkušnje z vzdrževanjem EEP;
+-       
+poznavanje nevarnosti, ki lahko nastanejo med izvajanjem vzdrževanja in
+varnostnih ukrepov, ki jih je treba upoštevati;
+-       
+sposobnost ocene nevarnosti pri delu.
+(4) Skrbnik EEP za osebe, ki sodelujejo v procesih
+vzdrževanja, dokumentira in hrani podatke o strokovnem usposabljanju in
+pridobivanju strokovnega znanja.
+(5) Zunanji izvajalci lahko izvajajo vzdrževanje, če
+vzdrževalno osebje izpolnjuje pogoje iz prvega in tretjega odstavka tega člena.
+13. člen
+(EEP izven uporabe)
+(1) Skrbnik EEP zagotavlja vzdrževanje EEP, ki je izven
+uporabe, na način, da je mogoča njegova uporaba.
+(2) Skrbnik EEP zagotavlja vzdrževanje EEP, ki je izven
+uporabe zaradi obratovalnih razlogov, na način, kot da je v obratovanju.
+14. člen
+(rezervni deli)
+(1) Vrsto in količino rezervnih delov določi skrbnik
+EEP.
+(2) Način, pogoji in doba skladiščenja rezervnih delov
+morajo biti v skladu z navodili proizvajalca in morajo zagotavljati brezhibno
+stanje ter možnost takojšnje uporabe. O posameznem rezervnem delu mora biti na
+razpolago dokumentacija v skladu s predpisi, ki urejajo dajanje proizvodov na
+trg.
+15. člen
+(statistika dogodkov in kazalniki)
+(1) Skrbnik EEP, ki je del elektroenergetskega sistema,
+izvaja vzdrževanje na način, da je zagotovljena funkcionalnost
+elektroenergetskega sistema in kakovost električne energije. Skrbnik EEP vodi
+statistiko dogodkov vzdrževanja, ki obsega najmanj:
+-       
+splošno opredelitev dogodka;
+-       
+časovno opredelitev dogodka;
+-       
+mesto dogodka;
+-       
+vzrok dogodka;
+-       
+posledice dogodka;
+-       
+ukrepe za vzpostavitev brezhibnega stanja EEP.
+(2) Na podlagi zahtev iz prejšnjega odstavka tega člena,
+skrbnik določi tehnične, organizacijske in ekonomske kazalnike vzdrževanja, ki
+so podlaga za ugotavljanje ustreznosti izbranega vzdrževanja.
+16. člen
+(kontrola električne izolacije)
+(1) Pred začetkom obratovanja novega EEP, po izvedenem
+remontu, posodobitvi ali obnovi EEP se visokonapetostnim električnim delom EEP
+preveri električna izolacija.
+(2) Skrbnik EEP v navodilih za vzdrževanje določi vrsto,
+obseg in roke kontrole izolacije v času življenjske dobe EEP.
+(3) O kontroli električne izolacije mora biti izdelano
+poročilo z ugotovitvijo o ustreznosti električne izolacije, z upoštevanjem rezultatov
+iz preteklih obdobij.
+(4) Če kakovost električne izolacije EEP ne ustreza
+vrednosti določeni s projektom ali s strani proizvajalca, se kakovost izolacije
+nemudoma popravi na predpisano raven ali preneha z obratovanjem EEP.
+17. člen
+(dokumentacija za vzdrževanje)
+(1) Pred začetkom uporabe EEP se pripravi dokumentacija za
+vzdrževanje, ki vsebuje vsaj:
+-       
+projekt izvedenih del;
+-       
+geodetski posnetek trase za prostorsko razpršene EEP;
+-       
+tehnične karakteristike in parametre EEP;
+-       
+navodila proizvajalcev in izvajalcev vgrajenih naprav;
+-       
+rezultate tipskih in kosovnih preizkusov;
+-       
+rezultate prvih meritev, diagnosticiranja in funkcionalnih preizkusov;
+-       
+certifikate, dokazila in izjave o skladnosti;
+-       
+navodila za vzdrževanje.
+(2) Način vodenja dokumentacije mora zagotavljati njeno
+verodostojnost in preglednost. V dokumentacijo za vzdrževanje se vnašajo vse
+spremembe, ki nastanejo v času uporabe EEP.
+18. člen
+(dokumentacija o vzdrževanju)
+(1) EEP mora imeti dokumentacijo o vzdrževanju, ki
+obsega vsaj:
+-       
+čas in datum začetka ter konca izvajanja posameznega vzdrževanja;
+-       
+lokacijo izvajanja vzdrževanja;
+-       
+način in obseg vzdrževanja;
+-       
+opis izvedenih vzdrževalnih del;
+-       
+popis vgrajenega materiala in rezervnih delov;
+-       
+stanje EEP, ki je bil vzdrževan;
+-       
+rezultati diagnostike, meritev in preizkusov posameznih naprav s popisom
+uporabljenih instrumentov in naprav;
+-       
+stroški opravljenega dela;
+-       
+predlogi za nadaljnje vzdrževanje z navedbo okvirnega roka izvedbe
+vzdrževanja;
+-       
+imena izvajalcev del in odgovorne osebe za izvajanje del ter nadzor;
+-       
+navedbo pomanjkljivosti, okvar in dogodkov;
+-       
+statistiko vzdrževanja posamezne naprave.
+(2) Dokumentacija o vzdrževanju mora zagotavljati
+sledljivost predhodnega vzdrževanja.
+19. člen
+(dostopnost in hranjenje dokumentacije)
+(1) Skrbnik EEP vzdrževalnemu osebju zagotavlja
+dostopnost navodil za vzdrževanje, dokumentacije za vzdrževanje in
+dokumentacije o izvajanju vzdrževanja EEP.
+(2) Dokumentacija za vzdrževanje in o vzdrževanju EEP se
+hrani do dokončne izločitve EEP iz uporabe.
+PREHODNE IN KONČNE DOLOČBE
+20. člen
+(prehodna določba)
+(1) Skrbnik EEP vzpostavi sistem vzdrževanja v skladu s
+tem pravilnikom v enem letu od uveljavitve tega pravilnika.
+(2) Ne glede na določbo prejšnjega odstavka skrbnik EEP
+uskladi statistiko dogodkov in kazalnike z določbo 15. člena v petih letih od
+uveljavitve tega pravilnika.
+21. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega pravilnika se preneha uporabljati
+Pravilnik o tehniških predpisih za obratovanje in vzdrževanje
+elektroenergetskih postrojev (Uradni list SFRJ, št. 19/68), razen poglavja
+1.4..
+22. člen
+(uveljavitev)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 007-90/2015/22
+Ljubljana, dne 2. decembra 2015
+EVA 2015-2430-0035
+dr. Peter Gašperšič l.r.
+Minister
+za infrastrukturo

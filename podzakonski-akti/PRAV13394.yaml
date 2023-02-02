@@ -1,0 +1,16 @@
+Text file: PRAV13394.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1520636400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13394
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o razvojnih nalogah v visokem \u0161olstvu"
+npbNum: 0
+path: /2018/06/2018-01-0684
+sopPredpisa: 2018-01-0684
+sopPredpisaChng: null

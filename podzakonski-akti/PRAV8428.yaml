@@ -1,0 +1,17 @@
+Text file: PRAV8428.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199487600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8428
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Jurklo\u0161\
+  ter (2007\u20132016)"
+npbNum: 0
+path: /2008/00/2008-01-0008
+sopPredpisa: 2008-01-0008
+sopPredpisaChng: null

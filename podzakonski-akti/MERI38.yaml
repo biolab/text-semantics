@@ -1,0 +1,17 @@
+Text file: MERI38.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1332543600000000000
+- null
+- null
+- 10
+idPredpisa: MERI38
+idPredpisaChng: MERI38
+instock: .nan
+naslov: "MERILA za uvrstitev v register strokovnjakov (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2012/08/2012-01-0862-2010-01-4996-npb2
+sopPredpisa: 2012-01-0862
+sopPredpisaChng: 2010-01-4996

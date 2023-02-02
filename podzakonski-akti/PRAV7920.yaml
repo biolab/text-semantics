@@ -1,0 +1,18 @@
+Text file: PRAV7920.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1358550000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7920
+idPredpisaChng: PRAV7920
+instock: .nan
+naslov: "PRAVILNIK o obrazcu za obra\u010Dun dav\u010Dnih odtegljajev od pla\u010D\
+  il dohodkov rezidentov in nerezidentov in na\u010Dinu predlo\u017Eitve obrazca dav\u010D\
+  nemu organu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2013/01/2013-01-0120-2006-01-6014-npb3
+sopPredpisa: 2013-01-0120
+sopPredpisaChng: 2006-01-6014

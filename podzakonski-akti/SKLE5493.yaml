@@ -1,0 +1,16 @@
+Text file: SKLE5493.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1111446000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE5493
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o dajanju bankovcev za 10.000 tolarjev v obtok
+npbNum: 0
+path: /2005/09/2005-01-0997
+sopPredpisa: 2005-01-0997
+sopPredpisaChng: null

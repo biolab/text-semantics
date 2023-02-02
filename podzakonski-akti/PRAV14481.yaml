@@ -1,0 +1,17 @@
+Text file: PRAV14481.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1643670000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14481
+idPredpisaChng: PRAV14481
+instock: .nan
+naslov: "PRAVILNIK o izvajanju mikrobiolo\u0161kih preiskav na virus SARS-CoV-2 (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/02/2022-01-0210-2021-01-3516-npb3
+sopPredpisa: 2022-01-0210
+sopPredpisaChng: 2021-01-3516

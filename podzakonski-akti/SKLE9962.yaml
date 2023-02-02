@@ -1,0 +1,13 @@
+Text file: SKLE9962.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9962
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o posebnem programu vzgoje in izobra\u017Eevanja za otroke in mladostnike\
+  \ s posebnimi potrebami"
+npbNum: 0
+path: /2014/04/2014-01-0457
+sopPredpisa: 2014-01-0457
+sopPredpisaChng: null

@@ -1,0 +1,21 @@
+Text file: ODLO2325.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1612566000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1612479600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2325
+idPredpisaChng: ODLO2325
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi zbiranja ljudi v zavodih s podro\u010Dja vzgoje\
+  \ in izobra\u017Eevanja ter univerzah in samostojnih visoko\u0161olskih zavodih\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2021/03/2021-01-0318-2021-01-0233-npb2
+sopPredpisa: 2021-01-0318
+sopPredpisaChng: 2021-01-0233

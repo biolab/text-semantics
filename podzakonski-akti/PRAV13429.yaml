@@ -1,0 +1,17 @@
+Text file: PRAV13429.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1575068400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13429
+idPredpisaChng: PRAV13429
+instock: .nan
+naslov: "PRAVILNIK o bivanju v dija\u0161kih domovih (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/31/2019-01-3128-2018-01-1379-npb1
+sopPredpisa: 2019-01-3128
+sopPredpisaChng: 2018-01-1379

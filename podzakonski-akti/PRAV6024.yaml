@@ -1,0 +1,16 @@
+Text file: PRAV6024.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1110582000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6024
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prenehanju veljavnosti pravilnika o izvajanju PIC postopka
+npbNum: 0
+path: /2005/08/2005-01-0836
+sopPredpisa: 2005-01-0836
+sopPredpisaChng: null

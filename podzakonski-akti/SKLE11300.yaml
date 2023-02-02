@@ -1,0 +1,13 @@
+Text file: SKLE11300.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11300
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dlana nadzornega sveta Slovenskega dr\u017Eavnega\
+  \ holdinga, d.d."
+npbNum: 0
+path: /2017/34/2017-01-3440
+sopPredpisa: 2017-01-3440
+sopPredpisaChng: null

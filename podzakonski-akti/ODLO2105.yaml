@@ -1,0 +1,17 @@
+Text file: ODLO2105.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1590789600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2105
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka pri reji drobnice\
+  \ zaradi epidemije COVID-19"
+npbNum: 0
+path: /2020/11/2020-01-1179
+sopPredpisa: 2020-01-1179
+sopPredpisaChng: null

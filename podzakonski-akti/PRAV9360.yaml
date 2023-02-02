@@ -1,0 +1,16 @@
+Text file: PRAV9360.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1289602800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9360
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o \u017Eelezni\u0161kih signalnovarnostnih napravah"
+npbNum: 0
+path: /2010/45/2010-01-4558
+sopPredpisa: 2010-01-4558
+sopPredpisaChng: null

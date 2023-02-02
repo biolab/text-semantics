@@ -1,0 +1,16 @@
+Text file: PRAV14613.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1658527200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14613
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o statusu \u010Drede, proste goveje virusne diareje"
+npbNum: 0
+path: /2022/22/2022-01-2298
+sopPredpisa: 2022-01-2298
+sopPredpisaChng: null

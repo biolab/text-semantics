@@ -1,0 +1,17 @@
+Text file: ODRE1034.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 961192800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1034
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o obveznih sestavinah sporo\u010Dila o predhodni prijavi cen komunalnih\
+  \ storitev"
+npbNum: 0
+path: /2000/25/2000-01-2541
+sopPredpisa: 2000-01-2541
+sopPredpisaChng: null

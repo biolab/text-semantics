@@ -1,0 +1,13 @@
+Text file: SKLE12649.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12649
+idPredpisaChng: null
+instock: .nan
+naslov: "KOLI\u010CNIK uskladitve pre\u017Eivnin in nadomestil pre\u017Eivnin za leto\
+  \ 2022"
+npbNum: 0
+path: /2022/02/2022-01-0204
+sopPredpisa: 2022-01-0204
+sopPredpisaChng: null

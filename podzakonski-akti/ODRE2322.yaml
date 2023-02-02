@@ -1,0 +1,17 @@
+Text file: ODRE2322.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1434146400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2322
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o zgornji meji \u0161tevila ponudb za delo v Republiki Sloveniji\
+  \ za leto 2015"
+npbNum: 0
+path: /2015/17/2015-01-1716
+sopPredpisa: 2015-01-1716
+sopPredpisaChng: null

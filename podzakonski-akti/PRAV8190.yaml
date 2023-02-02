@@ -1,0 +1,18 @@
+Text file: PRAV8190.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1185314400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8190
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vrsti odhodkov, na\u010Dinu poro\u010Danja o realiziranih odhodkih\
+  \ in nakazovanju sredstev ob\u010Dinam za sofinanciranje skupnega opravljanja posameznih\
+  \ nalog ob\u010Dinske uprave"
+npbNum: 0
+path: /2007/36/2007-01-3640
+sopPredpisa: 2007-01-3640
+sopPredpisaChng: null

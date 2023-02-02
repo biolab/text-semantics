@@ -1,0 +1,17 @@
+Text file: PRAV9281.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230764400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9281
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dostavi podatkov za odmero davka od dobi\u010Dka od odsvojitve\
+  \ izvedenih finan\u010Dnih instrumentov za leto 2008"
+npbNum: 0
+path: /2008/58/2008-01-5807
+sopPredpisa: 2008-01-5807
+sopPredpisaChng: null

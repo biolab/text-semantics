@@ -1,0 +1,20 @@
+Text file: ODLO2343.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1613343600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1613170800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2343
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja javnega prevoza potnikov na ozemlju\
+  \ Republike Slovenije"
+npbNum: 0
+path: /2021/04/2021-01-0426
+sopPredpisa: 2021-01-0426
+sopPredpisaChng: null

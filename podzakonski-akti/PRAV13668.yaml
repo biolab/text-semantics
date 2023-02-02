@@ -1,0 +1,18 @@
+Text file: PRAV13668.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1559944800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13668
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi vzorca izjave o dostopnosti glede skladnosti spleti\u0161\
+  \u010D in mobilnih aplikacij z zahtevami glede dostopnosti in o metodologiji spremljanja\
+  \ skladnosti spleti\u0161\u010D in mobilnih aplikacij"
+npbNum: 0
+path: /2019/15/2019-01-1509
+sopPredpisa: 2019-01-1509
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13993.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13993
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem
+  postopku
+npbNum: 0
+path: /2020/27/2020-01-2768
+sopPredpisa: 2020-01-2768
+sopPredpisaChng: null

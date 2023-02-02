@@ -1,0 +1,17 @@
+Text file: PRAV8207.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1167606000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8207
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi ozemelj, ki uporabljajo ukrepe, ki ustrezajo ali\
+  \ so enaki tistim, ki jih dolo\u010Da Direktiva Sveta 2003/48/ES"
+npbNum: 0
+path: /2006/60/2006-01-6000
+sopPredpisa: 2006-01-6000
+sopPredpisaChng: null

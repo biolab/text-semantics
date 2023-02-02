@@ -1,0 +1,17 @@
+Text file: PRAV10227.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1269039600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10227
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o izvajanju javnih razpisov za odkup avdiovizualnih del neodvisnih
+  producentov
+npbNum: 0
+path: /2010/09/2010-01-0925
+sopPredpisa: 2010-01-0925
+sopPredpisaChng: null

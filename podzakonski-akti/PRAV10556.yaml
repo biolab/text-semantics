@@ -1,0 +1,16 @@
+Text file: PRAV10556.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1317679200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10556
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o kriterijih za usposabljanje v gospodarski dru\u017Ebi"
+npbNum: 0
+path: /2011/31/2011-01-3152
+sopPredpisa: 2011-01-3152
+sopPredpisaChng: null

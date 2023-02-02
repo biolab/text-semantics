@@ -1,0 +1,17 @@
+Text file: PRAV5617.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1079737200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5617
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o razveljavitvi pravilnika o ozna\u010Devanju tekstilnih in usnjenih\
+  \ izdelkov"
+npbNum: 0
+path: /2004/08/2004-01-0895
+sopPredpisa: 2004-01-0895
+sopPredpisaChng: null

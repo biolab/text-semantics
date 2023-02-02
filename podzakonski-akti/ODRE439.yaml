@@ -1,0 +1,17 @@
+Text file: ODRE439.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 939420000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE439
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih za uporabo pridelka zavarovane sorte za nadaljnjo setev
+  in o kriterijih za male kmete
+npbNum: 0
+path: /1999/39/1999-01-3900
+sopPredpisa: 1999-01-3900
+sopPredpisaChng: null

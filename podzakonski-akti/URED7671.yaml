@@ -1,0 +1,16 @@
+Text file: URED7671.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1527890400000000000
+- null
+- null
+- 10
+idPredpisa: URED7671
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o razvr\u0161\u010Danju objektov"
+npbNum: 0
+path: /2018/19/2018-01-1900
+sopPredpisa: 2018-01-1900
+sopPredpisaChng: null

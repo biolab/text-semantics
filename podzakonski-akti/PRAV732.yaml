@@ -1,0 +1,16 @@
+Text file: PRAV732.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 869868000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV732
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih za ob\u010Dasno varovanje otrok na domu"
+npbNum: 0
+path: /1997/23/1997-01-2337
+sopPredpisa: 1997-01-2337
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ODLO512.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 950914800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO512
+idPredpisaChng: ODLO512
+instock: .nan
+naslov: "ODLOK o razpisu prvih volitev v svet Kmetijsko gozdarske zbornice Slovenije\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2000/06/2000-01-0694-2000-01-0530-npb1
+sopPredpisa: 2000-01-0694
+sopPredpisaChng: 2000-01-0530

@@ -1,0 +1,16 @@
+Text file: PRAV3489.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 933372000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3489
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK  o izdajanju in urejanju glasila Vzajemnost
+npbNum: 0
+path: /1999/28/1999-01-2834
+sopPredpisa: 1999-01-2834
+sopPredpisaChng: null

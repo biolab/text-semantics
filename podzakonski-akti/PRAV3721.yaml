@@ -1,0 +1,17 @@
+Text file: PRAV3721.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1081980000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3721
+idPredpisaChng: PRAV3721
+instock: .nan
+naslov: "PRAVILNIK o zahtevani dokumentaciji za registracijo in oceno fitofarmacevtskih\
+  \ sredstev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2004/13/2004-01-1344-2002-01-1345-npb1
+sopPredpisa: 2004-01-1344
+sopPredpisaChng: 2002-01-1345

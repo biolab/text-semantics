@@ -1,0 +1,17 @@
+Text file: PRAV12791.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1461362400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12791
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zdravstvenih pogojih osebja, ki opravlja dela na \u017Ei\u010D\
+  ni\u0161kih napravah"
+npbNum: 0
+path: /2016/10/2016-01-1044
+sopPredpisa: 2016-01-1044
+sopPredpisaChng: null

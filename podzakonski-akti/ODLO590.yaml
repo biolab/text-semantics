@@ -1,0 +1,17 @@
+Text file: ODLO590.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 705967200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO590
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK  o dolo\u010Ditvi dr\u017Eav, od katerih je izterjava terjatev onemogo\u010D\
+  ena ali ote\u017Eena"
+npbNum: 0
+path: /1992/12/1992-01-1229
+sopPredpisa: 1992-01-1229
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV11341.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1339797600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11341
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o opremi in\u0161pektorjev, ki izvajajo in\u0161pekcijsko nadzorstvo\
+  \ nad fizi\u010Dnim varovanjem jedrskih in radioaktivnih snovi in objektov"
+npbNum: 0
+path: /2012/17/2012-01-1734
+sopPredpisa: 2012-01-1734
+sopPredpisaChng: null

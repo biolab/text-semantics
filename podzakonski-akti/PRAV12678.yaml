@@ -1,0 +1,17 @@
+Text file: PRAV12678.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1528495200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12678
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Vojnik\
+  \ (2017\u20132026)"
+npbNum: 0
+path: /2018/19/2018-01-1925
+sopPredpisa: 2018-01-1925
+sopPredpisaChng: null

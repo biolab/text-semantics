@@ -1,0 +1,18 @@
+Text file: URED28.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1009839600000000000
+- null
+- null
+- 10
+idPredpisa: URED28
+idPredpisaChng: URED28
+instock: .nan
+naslov: "UREDBA o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za\
+  \ proizvodnjo sredstev za lepljenje (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2001/54/2001-01-5424-2001-01-0669-npb1
+sopPredpisa: 2001-01-5424
+sopPredpisaChng: 2001-01-0669

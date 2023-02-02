@@ -1,0 +1,18 @@
+Text file: PRAV13421.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1603317600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13421
+idPredpisaChng: PRAV13421
+instock: .nan
+naslov: "PRAVILNIK o pripravni\u0161tvu in strokovnih izpitih zdravstvenih delavcev\
+  \ in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/26/2020-01-2606-2018-01-2423-npb1
+sopPredpisa: 2020-01-2606
+sopPredpisaChng: 2018-01-2423

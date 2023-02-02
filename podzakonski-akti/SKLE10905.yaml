@@ -1,0 +1,12 @@
+Text file: SKLE10905.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10905
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o usklajeni vi\u0161ini minimalnega dohodka od julija 2016"
+npbNum: 0
+path: /2016/28/2016-01-2813
+sopPredpisa: 2016-01-2813
+sopPredpisaChng: null

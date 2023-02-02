@@ -1,0 +1,17 @@
+Text file: PRAV7019.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1131145200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7019
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti azbestu
+  pri delu
+npbNum: 0
+path: /2005/40/2005-01-4036
+sopPredpisa: 2005-01-4036
+sopPredpisaChng: null

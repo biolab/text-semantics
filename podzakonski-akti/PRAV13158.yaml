@@ -1,0 +1,16 @@
+Text file: PRAV13158.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1511132400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13158
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obliki letnega poro\u010Dila dr\u017Eavnega odvetni\u0161tva"
+npbNum: 0
+path: /2017/30/2017-01-3059
+sopPredpisa: 2017-01-3059
+sopPredpisaChng: null

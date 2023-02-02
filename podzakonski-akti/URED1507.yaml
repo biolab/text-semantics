@@ -1,0 +1,17 @@
+Text file: URED1507.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 975711600000000000
+- null
+- null
+- 10
+idPredpisa: URED1507
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o oblikovanju cen proizvodnje in distribucije pare in tople vode za
+  namene daljinskega ogrevanja
+npbNum: 0
+path: /2000/45/2000-01-4597
+sopPredpisa: 2000-01-4597
+sopPredpisaChng: null

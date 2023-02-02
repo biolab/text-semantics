@@ -1,0 +1,20 @@
+Text file: PRAV10932.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1422745200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10932
+idPredpisaChng: PRAV10932
+instock: .nan
+naslov: "PRAVILNIK o vsebini, obliki, na\u010Dinu izdaje ter prenehanja potrdil o\
+  \ prijavi prebivanja in dovoljenj za prebivanje za dr\u017Eavljane dr\u017Eav \u010D\
+  lanic Evropske unije in njihove dru\u017Einske \u010Dlane ter dru\u017Einske \u010D\
+  lane slovenskih dr\u017Eavljanov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 3)"
+npbNum: 3
+path: /2015/01/2015-01-0158-2011-01-4216-npb3
+sopPredpisa: 2015-01-0158
+sopPredpisaChng: 2011-01-4216

@@ -1,0 +1,18 @@
+Text file: PRAV12300.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1551308400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12300
+idPredpisaChng: PRAV12300
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih, strokovnih in organizacijskih pogojih, ki jih\
+  \ morajo izpolnjevati organizacije za izdelavo strokovnih podlag s podro\u010Dja\
+  \ kmetijstva (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/04/2019-01-0427-2016-01-3399-npb1
+sopPredpisa: 2019-01-0427
+sopPredpisaChng: 2016-01-3399

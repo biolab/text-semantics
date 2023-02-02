@@ -1,0 +1,16 @@
+Text file: ODRE383.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 921884400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE383
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO vzgojno-izobra\u017Eevalnem programu \_osnovna \u0161ola"
+npbNum: 0
+path: /1999/08/1999-01-0869
+sopPredpisa: 1999-01-0869
+sopPredpisaChng: null

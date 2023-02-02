@@ -1,0 +1,17 @@
+Text file: PRAV6835.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1155247200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6835
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obveznih pregledih za varno izvajanje linijskih prevozov z ro-ro\
+  \ trajekti in hitrimi potni\u0161kimi plovili"
+npbNum: 0
+path: /2006/34/2006-01-3459
+sopPredpisa: 2006-01-3459
+sopPredpisaChng: null

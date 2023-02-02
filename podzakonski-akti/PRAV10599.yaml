@@ -1,0 +1,19 @@
+Text file: PRAV10599.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1317420000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1308952800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10599
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o edukacijskih in psihosocialnih delavnicah
+npbNum: 0
+path: /2011/21/2011-01-2175
+sopPredpisa: 2011-01-2175
+sopPredpisaChng: null

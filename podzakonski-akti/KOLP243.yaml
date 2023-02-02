@@ -1,0 +1,17 @@
+Text file: KOLP243.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622757600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP243
+idPredpisaChng: KOLP243
+instock: .nan
+naslov: "ANEKS h Kolektivni pogodbi javnega zavoda RTV Slovenija (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/18/2021-01-1851-2008-01-3024-npb3
+sopPredpisa: 2021-01-1851
+sopPredpisaChng: 2008-01-3024

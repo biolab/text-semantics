@@ -1,0 +1,19 @@
+Text file: AKT_720.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1314828000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_720
+idPredpisaChng: null
+instock: .nan
+naslov: "AKT o prenehanju veljavnosti Sistemskih obratovalnih navodil za distribucijsko\
+  \ omre\u017Eje zemeljskega plina za geografska obmo\u010Dja Mestne ob\u010Dine Ljubljana,\
+  \ Ob\u010Dine Brezovica, Ob\u010Dine Dobrova - Polhov Gradec, Ob\u010Dine Dol pri\
+  \ Ljubljani, Ob\u010Dine Ig, Ob\u010Dine Medvode in Ob\u010Dine \u0160kofljica"
+npbNum: 0
+path: /2011/29/2011-01-2944
+sopPredpisa: 2011-01-2944
+sopPredpisaChng: null

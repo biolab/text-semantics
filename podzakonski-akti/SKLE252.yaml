@@ -1,0 +1,16 @@
+Text file: SKLE252.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 932508000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE252
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o uskladitvi pridobljenih strokovnih in znanstvenih naslovov
+npbNum: 0
+path: /1999/27/1999-01-2740
+sopPredpisa: 1999-01-2740
+sopPredpisaChng: null

@@ -1,0 +1,12 @@
+Text file: PRAV10378.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: PRAV10378
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vsebini in obliki diplom Evropske pravne fakultete v Novi Gorici
+npbNum: 0
+path: /2010/39/2010-01-3909
+sopPredpisa: 2010-01-3909
+sopPredpisaChng: null

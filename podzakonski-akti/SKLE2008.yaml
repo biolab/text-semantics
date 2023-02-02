@@ -1,0 +1,17 @@
+Text file: SKLE2008.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 982969200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2008
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o organizaciji in delovnem podro\u010Dju Urada Republike Slovenije\
+  \ za makroekonomske analize in razvoj"
+npbNum: 0
+path: /2001/08/2001-01-0851
+sopPredpisa: 2001-01-0851
+sopPredpisaChng: null

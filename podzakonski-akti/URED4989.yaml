@@ -1,0 +1,17 @@
+Text file: URED4989.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1360278000000000000
+- null
+- null
+- 10
+idPredpisa: URED4989
+idPredpisaChng: URED4989
+instock: .nan
+naslov: "UREDBA o kategorizaciji prog (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2013/03/2013-01-0359-2009-01-0130-npb3
+sopPredpisa: 2013-01-0359
+sopPredpisaChng: 2009-01-0130

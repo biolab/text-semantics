@@ -1,0 +1,17 @@
+Text file: ODRE2719.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1645830000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2719
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi cene licenc in dovolilnic za opravljanje prevozov\
+  \ v cestnem prometu"
+npbNum: 0
+path: /2022/04/2022-01-0466
+sopPredpisa: 2022-01-0466
+sopPredpisaChng: null

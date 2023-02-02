@@ -1,0 +1,16 @@
+Text file: SKLE8360.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1262300400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8360
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi \u010Dlanarine OOZ Ljubljana Vi\u010D za leto 2010"
+npbNum: 0
+path: /2010/00/2010-01-0092
+sopPredpisa: 2010-01-0092
+sopPredpisaChng: null

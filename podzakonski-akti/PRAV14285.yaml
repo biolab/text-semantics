@@ -1,0 +1,17 @@
+Text file: PRAV14285.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1636153200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14285
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju sredstev iz dr\u017Eavnega prora\u010Duna vrtcem\
+  \ za namen sofinanciranja pla\u010Dil star\u0161ev"
+npbNum: 0
+path: /2021/32/2021-01-3272
+sopPredpisa: 2021-01-3272
+sopPredpisaChng: null

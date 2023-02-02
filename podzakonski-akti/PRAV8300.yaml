@@ -1,0 +1,17 @@
+Text file: PRAV8300.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1176501600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8300
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti 9. \u010Dlena Pravilnika o onesna\u017E\
+  evalcih v \u017Eivilih"
+npbNum: 0
+path: /2007/14/2007-01-1443
+sopPredpisa: 2007-01-1443
+sopPredpisaChng: null

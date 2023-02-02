@@ -1,0 +1,16 @@
+Text file: URED703.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 935359200000000000
+- null
+- null
+- 10
+idPredpisa: URED703
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dajanju soglasij k cenam novih u\u010Dbenikov"
+npbNum: 0
+path: /1999/30/1999-01-3023
+sopPredpisa: 1999-01-3023
+sopPredpisaChng: null

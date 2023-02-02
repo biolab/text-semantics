@@ -1,0 +1,16 @@
+Text file: SKLE5277.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1103756400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE5277
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP
+npbNum: 0
+path: /2004/58/2004-01-5847
+sopPredpisa: 2004-01-5847
+sopPredpisaChng: null

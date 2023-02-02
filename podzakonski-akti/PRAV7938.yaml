@@ -1,0 +1,17 @@
+Text file: PRAV7938.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1190152800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7938
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih in merilih za podelitev javnega pooblastila izdajatelja
+  licenc
+npbNum: 0
+path: /2007/42/2007-01-4258
+sopPredpisa: 2007-01-4258
+sopPredpisaChng: null

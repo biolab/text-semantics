@@ -1,0 +1,12 @@
+Text file: SKLE10976.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10976
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju generalne konzulke Republike Slovenije v M\xFCnchnu"
+npbNum: 0
+path: /2017/20/2017-01-2073
+sopPredpisa: 2017-01-2073
+sopPredpisaChng: null

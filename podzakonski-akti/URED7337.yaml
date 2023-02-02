@@ -1,0 +1,17 @@
+Text file: URED7337.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1598911200000000000
+- null
+- null
+- 10
+idPredpisa: URED7337
+idPredpisaChng: URED7337
+instock: .nan
+naslov: "UREDBA o cestninskih cestah in cestnini (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2020/19/2020-01-1982-2016-01-3302-npb5
+sopPredpisa: 2020-01-1982
+sopPredpisaChng: 2016-01-3302

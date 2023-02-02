@@ -1,0 +1,17 @@
+Text file: SKLE3399.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1341007200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE3399
+idPredpisaChng: SKLE3399
+instock: .nan
+naslov: "SKLEP o povra\u010Dilu potnih stro\u0161kov (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2012/20/2012-01-2074-2002-01-5566-npb3
+sopPredpisa: 2012-01-2074
+sopPredpisaChng: 2002-01-5566

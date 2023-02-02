@@ -1,0 +1,18 @@
+Text file: URED5012.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1287180000000000000
+- null
+- null
+- 10
+idPredpisa: URED5012
+idPredpisaChng: URED5012
+instock: .nan
+naslov: "UREDBA o podporah elektri\u010Dni energiji, proizvedeni v soproizvodnji toplote\
+  \ in elektri\u010Dne energije z visokim izkoristkom (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2010/43/2010-01-4372-2009-01-1779-npb5
+sopPredpisa: 2010-01-4372
+sopPredpisaChng: 2009-01-1779

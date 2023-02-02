@@ -1,0 +1,16 @@
+Text file: PRAV12728.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1498255200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12728
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o opredelitvi v zvezi z darovanjem delov \u010Dlove\u0161kega telesa"
+npbNum: 0
+path: /2017/15/2017-01-1531
+sopPredpisa: 2017-01-1531
+sopPredpisaChng: null

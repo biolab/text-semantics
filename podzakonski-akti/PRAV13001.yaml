@@ -1,0 +1,17 @@
+Text file: PRAV13001.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1506376800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13001
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zaklju\u010Dku izvr\u0161evanja dr\u017Eavnega in ob\u010Dinskih\
+  \ prora\u010Dunov za leto 2017"
+npbNum: 0
+path: /2017/24/2017-01-2416
+sopPredpisa: 2017-01-2416
+sopPredpisaChng: null

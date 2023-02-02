@@ -1,0 +1,17 @@
+Text file: PRAV9484.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1235170800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9484
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o letnem gozdnogospodarskem na\u010Drtu gozdnogospodarske enote\
+  \ Racna gora-Kri\u017Ena gora (2009)"
+npbNum: 0
+path: /2009/04/2009-01-0494
+sopPredpisa: 2009-01-0494
+sopPredpisaChng: null

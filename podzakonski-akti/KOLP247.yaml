@@ -1,0 +1,17 @@
+Text file: KOLP247.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1544223600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP247
+idPredpisaChng: KOLP247
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za dejavnost poklicnega gasilstva \u2013 tarifni del (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2018/38/2018-01-3880-2008-01-2577-npb3
+sopPredpisa: 2018-01-3880
+sopPredpisaChng: 2008-01-2577

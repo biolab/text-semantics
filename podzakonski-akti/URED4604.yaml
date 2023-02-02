@@ -1,0 +1,19 @@
+Text file: URED4604.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199142000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1191362400000000000
+- null
+- null
+- 10
+idPredpisa: URED4604
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o preverjanju radioaktivnosti po\u0161iljk odpadnih kovin"
+npbNum: 0
+path: /2007/42/2007-01-4255
+sopPredpisa: 2007-01-4255
+sopPredpisaChng: null

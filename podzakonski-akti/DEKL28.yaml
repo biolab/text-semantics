@@ -1,0 +1,13 @@
+Text file: DEKL28.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: DEKL28
+idPredpisaChng: null
+instock: .nan
+naslov: DEKLARACIJO o aktivni vlogi Slovenije pri oblikovanju nove svetovne politike
+  do podnebnih sprememb (DeONSPPS)
+npbNum: 0
+path: /2009/41/2009-01-4118
+sopPredpisa: 2009-01-4118
+sopPredpisaChng: null

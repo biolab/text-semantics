@@ -1,0 +1,17 @@
+Text file: RESO14.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1149544800000000000
+- null
+- null
+- 10
+idPredpisa: RESO14
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o prometni politiki Republike Slovenije (RePPRS)  (Intermodalnost:\
+  \ \u010Das za sinergijo)"
+npbNum: 0
+path: /2006/24/2006-01-2426
+sopPredpisa: 2006-01-2426
+sopPredpisaChng: null

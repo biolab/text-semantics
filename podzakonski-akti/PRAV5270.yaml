@@ -1,0 +1,17 @@
+Text file: PRAV5270.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1067032800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5270
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kamnik\
+  \ (2000\u20132009)"
+npbNum: 0
+path: /2003/45/2003-01-4553
+sopPredpisa: 2003-01-4553
+sopPredpisaChng: null

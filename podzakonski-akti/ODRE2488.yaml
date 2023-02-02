@@ -1,0 +1,17 @@
+Text file: ODRE2488.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1552431600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2488
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o spremembi vzgojno-izobra\u017Eevalnega programa osnovna \u0161\
+  ola"
+npbNum: 0
+path: /2019/06/2019-01-0602
+sopPredpisa: 2019-01-0602
+sopPredpisaChng: null

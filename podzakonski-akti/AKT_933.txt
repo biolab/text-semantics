@@ -1,0 +1,362 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina in namen)
+(1) Ta akt določa vrsto uporabljenih sistemov za
+identifikacijo entitet, pravila in obveznosti izvajanja storitve dodeljevanja
+identifikatorjev posameznih entitet ter prehodno obdobje uvajanja novih
+sistemov identificiranja.
+(2) Namen akta je zagotoviti učinkovito, standardizirano
+in avtomatizirano izmenjavo podatkov med izvajalci energetskih dejavnosti in drugimi
+udeleženci na trgu z električno energijo in zemeljskim plinom z uporabo
+standardiziranih sistemov identificiranja. Izvajalci energetskih dejavnosti
+morajo na način, kot ga določa ta akt, enoumno označiti entitete, ki so predmet
+izmenjave podatkov.
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem aktu, imajo enak pomen kot izrazi,
+uporabljeni v 4., 36. in 159. členu Energetskega zakona (Uradni list RS, št.
+17/14), poleg tega pa imajo posamezni izrazi še naslednji pomen:
+
+-       
+  avtomatizirana izmenjava podatkov:
+
+je elektronska izmenjava
+  podatkov dveh subjektov brez človeške interakcije, običajno implementirana na
+  osnovi spletnih storitev, ki zagotavljajo enostavno povezljivost različnih
+  informacijskih sistemov;
+ 
+
+
+-       
+  domena:
+
+je razmejeno področje, ki
+  je enoumno identificirano za specifičen namen in področje, kjer je možno
+  določiti porabo, proizvodnjo ali trgovanje (na primer področja omrežja, kjer
+  se nahajajo merilna mesta in izvajajo meritve, področja tržne izravnave s
+  skupnimi tržnimi pravili, ki obsegajo več lokalnih omrežij ali kontrolnih
+  področij);
+ 
+
+
+-       
+  Energy Identification Coding (v nadaljnjem besedilu: EIC):
+
+je sistem identificiranja
+  Evropskega združenja operaterjev prenosnih sistemov za električno energijo (v
+  nadaljnjem besedilu: ENTSO-E), ki je opredeljen v standardu Energy
+  Identification Coding Scheme (EIC) – Reference manual;
+ 
+
+
+-       
+  entiteta:
+
+je fizični objekt (npr.
+  merilna naprava), virtualni (logični) objekt (npr. merilna točka), storitev
+  (npr. dobava energije), produkt (npr. energija) ali subjekt na trgu, ki ima
+  svoje značilnosti in ga je treba globalno in enoumno identificirati za
+  potrebe učinkovitega delovanja trga z električno energijo in zemeljskim
+  plinom;
+ 
+
+
+-       
+  GS1:
+
+je sistem identificiranja
+  organizacije GS1, ki je opredeljen v standardu GS1 General Specifications;
+ 
+
+
+-       
+  harmonizirani model vlog na trgu z energijo:
+
+je odprt standard, ki ga
+  vzdržujejo ENTSO-E, Evropski forum za izmenjavo poslovnih informacij (ebIX®)
+  in Evropska federacija trgovcev električne energije (EFET). Opisuje
+  harmoniziran model na ravni Evropske unije, ki opredeljuje vse logične vloge,
+  v katerih nastopajo subjekti na trgu;
+ 
+
+
+-       
+  identificiranje entitet:
+
+pomeni dodeljevanje
+  identifikatorja posamezni entiteti;
+ 
+
+
+-       
+  identifikator:
+
+je identifikacijski ključ,
+  ki se uporablja za razlikovanje entitet, tako da lahko uporabniki učinkovito
+  pridobivajo informacije ali poslovna sporočila v zvezi z njimi.
+  Identifikatorji nastopajo kot enolični kazalci na podatke, ki se navezujejo
+  na označeno entiteto;
+ 
+
+
+-       
+  pridobivanje identifikatorjev:
+
+pomeni pridobivanje enega
+  ali več identifikatorjev od upravljavca določenega sistema identificiranja za
+  potrebe identificiranja entitet;
+ 
+
+
+-       
+  sistem identificiranja:
+
+je skupek standardov
+  oziroma pravil, ki omogočajo enoumno določitev globalnih identifikatorjev, s
+  katerimi označujemo različne entitete;
+ 
+
+
+-       
+  subjekt na trgu:
+
+je izvajalec energetskih
+  dejavnosti ali drugi udeleženec na trgu z električno energijo in zemeljskim
+  plinom, ki sodeluje v poslovni transakciji in v njej prevzema eno samo ali
+  več logičnih vlog (na primer operaterji, trgovci, proizvajalci in večji
+  odjemalci, borze, distribucijska podjetja, dobavitelji, ponudniki energetskih
+  storitev);
+ 
+
+
+-       
+  uporaba identifikatorjev:
+
+pomeni uporabo
+  identifikatorja entitet v avtomatizirani izmenjavi podatkov;
+ 
+
+
+-       
+  večji odjemalec:
+
+je odjemalec, ki ima
+  porabo enako ali večjo od 600 GWh/leto;
+ 
+
+
+-       
+  vloga na trgu z energijo:
+
+pomeni vsako vlogo, v
+  kateri nastopa subjekt na trgu v okviru izvajanja svoje dejavnosti in je
+  posebej opredeljena v harmoniziranem modelu vlog na trgu z energijo (npr.
+  sistemski operater, trgovec, dobavitelj, odgovorni bilančne skupine itd.).
+  Posamezne vloge na trgu z energijo ni možno deliti med več subjektov na trgu.
+  Vloga na trgu z energijo določa predvideno obnašanje subjekta na trgu
+  navzven. Vloge opisujejo zunanje poslovne interakcije subjekta na trgu z
+  drugimi subjekti na trgu v povezavi s ciljem posamezne poslovne transakcije.
+
+3. člen
+(minimalne zahteve za sisteme identificiranja)
+(1) Sistem identificiranja je ustrezen, če ostajajo
+izdani identifikatorji skozi čas nespremenjeni, in če ostane pomen posameznega
+identifikatorja vedno enak.
+(2) Vsak uporabljen sistem identificiranja mora
+izpolnjevati naslednje zahteve:
+-       
+identifikatorji morajo biti globalno unikatni;
+-       
+identifikatorji ne smejo imeti nobenega drugega pomena kot unikatno identifikacijo:
+vsa semantika oziroma značilnosti (lastnosti) morajo biti shranjene v objekt
+oziroma entiteto, ki je predmet identifikacije in ne v sam identifikator;
+-       
+ob statusnem preoblikovanju družb ni potrebe po preštevilčenju izdanih
+identifikatorjev;
+-       
+identifikatorji morajo vsebovati kontrolno vsoto za učinkovito ugotavljanje
+napak.
+4. člen
+(predmet identifikacije)
+(1) Predmet identifikacije po tem aktu so tiste
+podatkovne entitete, ki nastopajo v procesih izmenjave podatkov med posameznimi
+vlogami na trgu z energijo.
+(2) Predmet enoumnega označevanja so najmanj sledeče
+entitete:
+-       
+subjekti na trgu;
+-       
+domene;
+-       
+merilna mesta, kjer se meri električna energija oziroma zemeljski plin;
+-       
+merilne točke, v katerih evidentiramo količine oziroma agregate količin
+za poravnavo ali obračun, čezmejne povezave in drugo;
+-       
+resursni objekti, v katerih se proizvaja, porablja ali hrani energija
+(na primer proizvodna enota in drugo);
+-       
+povezovalni vodi, ki povezujejo dve področji izravnave;
+-       
+lokacije oziroma fizični naslov, kjer se nahaja subjekt na trgu ali
+informacijski sistem subjekta na trgu;
+-       
+fizična oprema (na primer merilna oprema kot so števci, registri,
+zbiralke in drugo);
+-       
+produkti in storitve (na primer energija, moč, zemeljski plin in drugo),
+ki imajo določeno ceno, so naročeni ali obračunani v kateri koli točki dobavne
+verige.
+5. člen
+(vloge in odgovornosti pri identifikaciji entitet)
+(1) Subjekti na trgu morajo v avtomatizirani izmenjavi
+podatkov na trgu in za potrebe registracije uporabljati v skladu s tem aktom
+dodeljene identifikatorje entitet.
+(2) Identifikatorje entitet dodeljujejo naslednji
+izvajalci energetskih dejavnosti:
+-       
+sistemski operater prenosa električne energije in operater prenosnega
+sistema zemeljskega plina dodeljujeta identifikatorje entitetam iz drugega
+odstavka 4. člena za namene učinkovitega delovanja trga ter zanesljivega
+delovanja in obratovanja prenosnega sistema;
+-       
+distribucijski operater električne energije in operater distribucijskega
+sistema zemeljskega plina morata identificirati vsa merilna mesta za potrebe
+registra merilnih mest, vse obračunske merilne točke oziroma prevzemno-predajna
+mesta, števce in po potrebi ostale entitete iz drugega odstavka 4. člena za
+namene učinkovitega delovanja trga ter zanesljivega delovanja in obratovanja
+distribucijskega sistema;
+-       
+operater trga z električno energijo in operater prenosnega sistema
+zemeljskega plina morata identificirati bilančne skupine, ki jih upravljata.
+(3) Subjekti na trgu, ki sodelujejo v izmenjavi
+podatkov, imajo glede na svoje vloge naslednje odgovornosti:
+-       
+operater trga z električno energijo in operater prenosnega sistema
+zemeljskega plina morata uporabljati identifikatorje članov bilančne sheme v
+skladu z določbami tega akta za potrebe enoumnega identificiranja članov in
+vodenja bilančne sheme;
+-       
+operaterji, dobavitelji, trgovci in večji proizvajalci nad 1 MW, ki
+trgujejo na trgu z energijo, morajo pridobiti lastni identifikator subjekta za
+potrebe registracije v bilančnih shemah, nacionalnem registru udeležencev na
+trgu v skladu z Uredbo (EU) št. 1227/2011 Evropskega parlamenta in Sveta z dne
+25. oktobra 2011 o celovitosti in preglednosti veleprodajnega energetskega
+trga (UL L št. 326 z dne 8. 12. 2011, str. 1; v nadaljnjem besedilu:
+REMIT), borzah in drugo;
+-       
+odjemalci, ki jih zavezujejo določbe REMIT, morajo pridobiti lastni
+identifikator za potrebe poročanja podatkov.
+(4) Izvajalci energetskih dejavnosti, ki dodeljujejo
+identifikatorje, morajo ravnati v skladu s pravili, ki veljajo za posamezne sisteme
+identificiranja, predvsem pa skrbeti za pravilno upravljanje njihovega
+življenjskega cikla.
+(5) Izvajalci energetskih dejavnosti, ki dodeljujejo
+identifikatorje, so dolžni skrbeti, da ne pride do dodeljevanja že uporabljenih
+identifikatorjev kateri koli drugi entiteti tudi v primeru, ko entiteta, ki ji
+je bil dodeljen določen identifikator, zaključi svoj življenjski cikel.
+6. člen 
+(identifikacija subjektov na trgu) 
+Subjekti na trgu se morajo v izmenjavi podatkov v vseh svojih
+vlogah, opredeljenih v harmoniziranem modelu vlog na trgu z energijo,
+identificirati z istim lastnim identifikatorjem.
+II. SISTEMI IDENTIFICIRANJA
+7. člen
+(uporaba sistemov identificiranja)
+(1) Izvajalci energetskih dejavnosti iz drugega odstavka
+5. člena morajo pri izbiri sistemov identificiranja upoštevati odprte standarde
+ter priporočila in smernice Evropske unije s ciljem aktivno prispevati k
+vzpostavitvi enotnega notranjega trga z energijo.
+(2) Pri elektronski izmenjavi podatkov se prednostno
+uporabljata sistema EIC in GS1.
+(3) Identifikatorji EIC se uporabljajo v skladu s
+standardom EIC in priporočili ENTSO-E.
+(4) Izvajalci energetskih dejavnosti, ki uporabijo
+sistem GS1, morajo pri dodeljevanju uporabiti naslednje vrste identifikatorjev:
+-       
+GS1 GLN za lastni identifikator subjekta na trgu;
+-       
+GS1 GSRN za domene, merilna mesta, merilne točke oziroma
+prevzemno-predajna mesta;
+-       
+GS1 GIAI za fizično opremo (gradnike infrastrukture);
+-       
+GS1 GTIN za produkte.
+(5) Dovoljena je uporaba drugih sistemov, če so skladni
+z odprtimi standardi in določbami tega akta.
+7.a člen 
+(ohranjanje celovitosti identifikacije entitet) 
+(1) Subjekti na trgu, ki v okviru svoje določene vloge
+na trgu izmenjujejo podatke z drugimi subjekti na trgu, morajo pri izmenjavi
+podatkov zagotavljati konsistentni prenos podatkov oziroma z njimi povezanih
+informacij z uporabo identifikatorjev iz 7. člena. Pri tem morajo ohranjati
+celovitost dodeljenih identifikatorjev podatkom na celotni podatkovni poti v
+izmenjavi od subjekta, ki je vir teh podatkov, do končnega prejemnika teh
+podatkov ali informacij, ki so rezultat obdelave izvornih podatkov.
+(2) Vsakemu subjektu, ki je prejemnik podatkov iz
+prejšnjega odstavka, mora biti omogočeno neposredno preverjanje prejetih
+podatkov oziroma z njimi povezanih informacij pri subjektu, ki je vir teh
+podatkov, kakor tudi pri vseh drugih subjektih v podatkovni izmenjavi z uporabo
+v posamični izmenjavi prejetega identifikatorja podatkovno-informacijskih
+entitet iz 7. člena.
+(3) Obveza ohranitve celovitosti identifikatorja od
+izvora do cilja velja tudi v procesu izmenjave podatkov z izdajanjem računov
+odjemalcem električne energije in zemeljskega plina v elektronski in tiskani
+obliki.
+8. člen
+(privzetje obstoječih identifikatorjev)
+Subjekti na trgu morajo v avtomatizirani izmenjavi podatkov za
+produkte uporabljati naslednje identifikatorje GS1-GTIN:
+-       
+delovna energija (npr. kWh): 8716867000030;
+-       
+jalova energija (npr. kvarh): 8716867000047;
+-       
+delovna moč (npr. kW): 8716867000016;
+-       
+jalova moč (npr. kvar): 8716867000023;
+-       
+zmogljivost priključka (npr. A ali kVA): 8716867000054;
+-       
+uporaba priključka (npr. kWh): 8716867000061;
+-       
+prenosna zmogljivost (npr. kVA): 8716867000078;
+-       
+uporaba prenosne zmogljivosti (npr. kWh): 5410000100085;
+-       
+zemeljski plin (npr. Sm3 ali kWh ali Nm3):
+5410000100016;
+-       
+kapacitivna jalova energija (npr. kvarh): 8716867000139;
+-       
+induktivna jalova energija (npr. kvarh): 8716867000146;
+-       
+voda (npr. m3): 8716867009911.
+
+Akt o identifikaciji entitet v elektronski
+izmenjavi podatkov med udeleženci na trgu z električno energijo in zemeljskim
+plinom (Uradni list RS, št. 39/15) vsebuje naslednje prehodne in
+končno določbo:
+»III. PREHODNE IN KONČNA DOLOČBA
+9. člen
+(prehodno obdobje)
+(1) Uporaba ustreznega sistema identificiranja domen na
+področju trga z električno energijo se vzpostavi najkasneje do 1. januarja
+2017.
+(2) Uporaba ustreznega sistema identificiranja domen na
+področju trga z zemeljskim plinom se vzpostavi najkasneje do 30. junija
+2017.
+(3) Uporaba obstoječih identifikatorjev produktov se
+vzpostavi najkasneje do 30. junija 2016.
+10. člen
+(uveljavitev akta)
+Ta akt začne veljati osmi dan po objavi v Uradnem listu
+Republike Slovenije.«.
+
+Akt o spremembah in dopolnitvah Akta o
+identifikaciji entitet v elektronski izmenjavi podatkov med udeleženci na trgu
+z električno energijo in zemeljskim plinom (Uradni list RS, št. 36/16) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA 
+3. člen 
+Ta akt začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.«.

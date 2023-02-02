@@ -1,0 +1,16 @@
+Text file: POSL123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513033200000000000
+- null
+- null
+- 10
+idPredpisa: POSL123
+idPredpisaChng: null
+instock: .nan
+naslov: "SPREMEMBE IN DOPOLNITVE POSLOVNIKA Ustavnega sodi\u0161\u010Da"
+npbNum: 0
+path: /2017/33/2017-01-3382
+sopPredpisa: 2017-01-3382
+sopPredpisaChng: null

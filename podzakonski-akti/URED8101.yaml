@@ -1,0 +1,19 @@
+Text file: URED8101.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1594245600000000000
+- null
+- null
+- 10
+idPredpisa: URED8101
+idPredpisaChng: URED8101
+instock: .nan
+naslov: "UREDBA o metodologiji za ocenjevanje \u0161kode, pogojih in postopku dodelitve\
+  \ javnih sredstev iz to\u010Dke b) drugega odstavka 20.a \u010Dlena Zakona o interventnih\
+  \ ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za dr\u017E\
+  avljane in gospodarstvo (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/17/2020-01-1743-2020-01-1101-npb1
+sopPredpisa: 2020-01-1743
+sopPredpisaChng: 2020-01-1101

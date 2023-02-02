@@ -1,0 +1,17 @@
+Text file: PRAV9508.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1346104800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9508
+idPredpisaChng: PRAV9508
+instock: .nan
+naslov: "PRAVILNIK o medicinskih pripomo\u010Dkih (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/26/2012-01-2622-2010-01-1842-npb1
+sopPredpisa: 2012-01-2622
+sopPredpisaChng: 2010-01-1842

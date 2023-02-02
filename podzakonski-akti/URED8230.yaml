@@ -1,0 +1,18 @@
+Text file: URED8230.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1613170800000000000
+- null
+- null
+- 10
+idPredpisa: URED8230
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine\
+  \ tehni\u010Dni kamen \u2013 apnenec v pridobivalnem prostoru Suhor 2 v ob\u010D\
+  ini \u010Crnomelj"
+npbNum: 0
+path: /2021/04/2021-01-0475
+sopPredpisa: 2021-01-0475
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV6445.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1108422000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6445
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posebnem delu strokovnega izpita za in\u0161pektorja varstva\
+  \ pred sevanji"
+npbNum: 0
+path: /2005/04/2005-01-0416
+sopPredpisa: 2005-01-0416
+sopPredpisaChng: null

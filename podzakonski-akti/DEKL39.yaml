@@ -1,0 +1,13 @@
+Text file: DEKL39.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: DEKL39
+idPredpisaChng: null
+instock: .nan
+naslov: DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah Evropske
+  unije v letu 2015 (DeUDIEU15)
+npbNum: 0
+path: /2015/02/2015-01-0223
+sopPredpisa: 2015-01-0223
+sopPredpisaChng: null

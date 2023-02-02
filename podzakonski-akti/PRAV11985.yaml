@@ -1,0 +1,16 @@
+Text file: PRAV11985.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1431727200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11985
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o priznanjih in nagradah Finan\u010Dne uprave Republike Slovenije"
+npbNum: 0
+path: /2015/14/2015-01-1400
+sopPredpisa: 2015-01-1400
+sopPredpisaChng: null

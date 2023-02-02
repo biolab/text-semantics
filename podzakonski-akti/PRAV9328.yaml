@@ -1,0 +1,16 @@
+Text file: PRAV9328.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1252706400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9328
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ocenjevanju znanja v vi\u0161jih strokovnih \u0161olah"
+npbNum: 0
+path: /2009/31/2009-01-3152
+sopPredpisa: 2009-01-3152
+sopPredpisaChng: null

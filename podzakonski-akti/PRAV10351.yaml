@@ -1,0 +1,17 @@
+Text file: PRAV10351.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1617400800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10351
+idPredpisaChng: PRAV10351
+instock: .nan
+naslov: "PRAVILNIK o infrastrukturnih obveznostih zavodom, ki opravljajo raziskovalno\
+  \ dejavnost (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2021/10/2021-01-1037-2011-01-0111-npb4
+sopPredpisa: 2021-01-1037
+sopPredpisaChng: 2011-01-0111

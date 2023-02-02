@@ -1,0 +1,17 @@
+Text file: PRAV13943.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1546297200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+idPredpisa: PRAV13943
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplome na IAM Visoka \u0161ola za multimedije,\
+  \ Ljubljana."
+npbNum: 0
+path: /2019/32/2019-01-3240
+sopPredpisa: 2019-01-3240
+sopPredpisaChng: null

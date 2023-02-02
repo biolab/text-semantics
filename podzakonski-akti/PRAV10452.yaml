@@ -1,0 +1,18 @@
+Text file: PRAV10452.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1647644400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10452
+idPredpisaChng: PRAV10452
+instock: .nan
+naslov: "PRAVILNIK o prijavi in odjavi iz evidenc, zaposlitvenem na\u010Drtu, pravicah\
+  \ in obveznostih pri iskanju zaposlitve ter nadzoru nad osebami, prijavljenimi v\
+  \ evidencah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2022/07/2022-01-0730-2010-01-5496-npb5
+sopPredpisa: 2022-01-0730
+sopPredpisaChng: 2010-01-5496

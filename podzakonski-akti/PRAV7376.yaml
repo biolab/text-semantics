@@ -1,0 +1,19 @@
+Text file: PRAV7376.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1166310000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1150495200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7376
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku izdaje veterinarskih spri\u010Deval za izvoz"
+npbNum: 0
+path: /2006/25/2006-01-2556
+sopPredpisa: 2006-01-2556
+sopPredpisaChng: null

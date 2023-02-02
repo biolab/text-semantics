@@ -1,0 +1,13 @@
+Text file: RESO116.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO116
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU VARSTVA PRED NARAVNIMI IN DRUGIMI NESRE\u010C\
+  AMI V LETIH OD 2016 DO 2022 (ReNPVNDN16\u201322)"
+npbNum: 0
+path: /2016/32/2016-01-3210
+sopPredpisa: 2016-01-3210
+sopPredpisaChng: null

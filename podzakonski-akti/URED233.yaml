@@ -1,0 +1,18 @@
+Text file: URED233.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 975106800000000000
+- null
+- null
+- 10
+idPredpisa: URED233
+idPredpisaChng: URED233
+instock: .nan
+naslov: "UREDBA o uvedbi finan\u010Dnih intervencij za ohranjanje in razvoj kmetijstva\
+  \ ter proizvodnje hrane za leto 2000 (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 6)"
+npbNum: 6
+path: /2000/45/2000-01-4516-2000-01-1248-npb6
+sopPredpisa: 2000-01-4516
+sopPredpisaChng: 2000-01-1248

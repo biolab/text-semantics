@@ -1,0 +1,18 @@
+Text file: PRAV5300.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1160690400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5300
+idPredpisaChng: PRAV5300
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih, prostorskih, strokovnih in organizacijskih pogojih,\
+  \ ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih\
+  \ rastlin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2006/44/2006-01-4496-2003-01-5128-npb3
+sopPredpisa: 2006-01-4496
+sopPredpisaChng: 2003-01-5128

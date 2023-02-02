@@ -1,0 +1,435 @@
+1. člen
+(vsebina)
+(1) Ta pravilnik določa tehnične zahteve, ki morajo biti
+izpolnjene za učinkovito rabo energije v stavbah na področju toplotne zaščite,
+ogrevanja, hlajenja, prezračevanja ali njihove kombinacije, priprave tople vode
+in razsvetljave v stavbah, zagotavljanja lastnih obnovljivih virov energije za
+delovanje sistemov v stavbi ter metodologijo za izračun energijskih lastnosti
+stavbe v skladu z Direktivo 31/2010/EU Evropskega parlamenta in Sveta z dne 19.
+maja 2010 o energetski učinkovitosti stavb (UL L št. 153 z dne 18. 6. 2010,
+str. 13).
+(2) Ta pravilnik se izda ob upoštevanju postopka informiranja
+v skladu z Direktivo 98/34/ES Evropskega parlamenta in Sveta z dne 22. junija
+1998 o določitvi postopka za zbiranje informacij na področju tehničnih
+standardov in tehničnih predpisov (UL L št. 204 z dne 21. 7. 1998, str. 37),
+zadnjič spremenjeno z Direktivo Sveta 2006/96/ES z dne 20. novembra 2006 o
+prilagoditvi nekaterih direktiv na področju prostega pretoka blaga zaradi
+pristopa Bolgarije in Romunije (UL L št. 363 z dne 20. 12. 2006, str. 81).
+2. člen
+(uporaba)
+(1) Ta pravilnik se uporablja pri gradnji novih stavb in
+rekonstrukciji stavbe oziroma njenega posameznega dela, kjer se posega v
+najmanj 25 odstotkov površine toplotnega ovoja, če je to tehnično izvedljivo.
+(2) Pri rekonstrukciji stavbe oziroma njenega posameznega
+dela, kjer se posega v manj kot 25 odstotkov površine toplotnega ovoja stavbe
+oziroma njenega posameznega dela, pri investicijskih in drugih vzdrževalnih
+delih, ali če se gradi ali rekonstruira stavba z bruto tlorisno površino,
+manjšo od 50 m², morajo biti dela izvedena tako, da so izpolnjene zahteve glede
+toplotne prehodnosti iz tabele 1 točke 3.1.1 tehnične smernice za graditev
+TSG-1-004 Učinkovita raba energije.
+(3) Pri rekonstrukciji stavb, kjer se zamenjujejo ali
+vgrajujejo novi sistemi v stavbi in pri vzdrževalnih delih na sistemih,
+podsistemih in njihovih elementih, se uporabljajo določbe 8. do 12. člena tega
+pravilnika.
+3. člen
+(področje uporabe)
+(1) Ta pravilnik se uporablja za stavbe, razen za:
+-       
+stavbe za promet in izvajanje elektronskih komunikacij (CC-SI 124),
+-       
+rezervoarje, silose in skladišča (CC-SI 1252),
+-       
+nestanovanjske kmetijske stavbe (CC-SI 1271),
+-       
+stavbe za opravljanje verskih obredov, pokopališke stavbe (CC-SI 1272),
+-       
+nadstrešnice, javne sanitarije, zaklonišča ipd. (CC-SI del 1274),
+-       
+industrijske stavbe (CC-SI 1251), ki se ne ogrevajo ali klimatizirajo na
+temperaturo v prostorih, višjo od 12 ºC, ali katerih notranji viri toplote
+zaradi tehnoloških procesov nadomeščajo v času ogrevanja več kot polovico
+toplotnih izgub ali so v času ogrevanja praviloma odprte več kot polovico
+delovnega časa.
+(2) Oznake CC-SI iz prejšnjega odstavka so oznake v skladu z
+uredbo, ki ureja uporabo enotne klasifikacije vrst objektov.
+4. člen
+(izrazi)
+(1) Izrazi, uporabljeni v tem pravilniku, imajo naslednji
+pomen:
+1.     
+»cevni razvod« je podsistem, ki povezuje vir toplote s porabnikom, kot
+na primer ogrevalom, hranilnikom toplote ipd.;
+2.     
+»energijsko učinkovito daljinsko ogrevanje oziroma hlajenje« je
+daljinsko ogrevanje oziroma hlajenje, pri katerem je energija proizvedena iz
+obnovljivih virov ali prihaja iz obratov SPTE z visokim izkoristkom v skladu s
+predpisom, ki ureja podpore električni energiji, proizvedeni v soproizvodnji toplote
+in električne energije z visokim izkoristkom;
+3.     
+»faktor oblike« je razmerje med površino toplotnega ovoja stavbe in neto
+ogrevano prostornino stavbe (ƒo = A/Ve, (m-1));
+4.     
+»generator toplote« je naprava za pretvarjanje energije vira v toploto;
+5.     
+»generator hladu« je naprava za pretvarjanje energije vira v hlad;
+6.     
+»javna stavba« je nestanovanjska stavba z bruto tlorisno površino, večjo
+od 250 m2, katere gradnja, rekonstrukcija ali izvedba vzdrževalnih
+del je vsaj delno financirana iz javnih sredstev, in katere investitor je
+zavezan naročanju gradnje v skladu z zakonom, ki ureja javna naročila;
+7.     
+»klimatski sistem« je kombinacija elementov, ki zagotavljajo obdelavo
+zraka, pri kateri je temperatura zraka regulirana in se lahko zniža, lahko tudi
+v kombinaciji z regulacijo prezračevanja, vlažnosti in čistoče zraka;
+8.     
+»količnik specifičnih transmisijskih toplotnih izgub« je razmerje med
+količnikom transmisijskih toplotnih izgub stavbe HT in
+celotno zunanjo površino stavbe A (H'T, (W/(m2K));
+9.     
+»letna potrebna toplota za hlajenje stavbe« je potreba po hladu, ki ga
+je treba v enem letu dovesti v stavbo za doseganje projektnih notranjih
+temperatur v obdobju hlajenja, določena po standardu SIST EN ISO 13790 (QNC
+(kWh));
+10.  
+»letna potrebna toplota za ogrevanje stavbe«, je potreba po toploti, ki
+jo je treba v enem letu dovesti v stavbo za doseganje projektnih notranjih
+temperatur v obdobju ogrevanja, določena po standardu SIST EN ISO 13790 (QNH,
+(kWh));
+11.  
+»letna primarna energija za delovanje sistemov« je celotna primarna
+energija, ki zajema letno primarno energijo sistema za ogrevanje in hlajenje,
+letno primarno energijo za delovanje sistema mehanskega prezračevanja v skladu
+predpisom ki ureja prezračevanje in klimatizacijo stavb, letno primarno
+energijo sistema za pripravo tople vode in letno primarno energijo sistema za
+razsvetljavo (kWh/a);
+12.  
+»kondicionirana prostornina stavbe« je neto prostornina stavbe, ki jo
+obdaja površina toplotnega ovoja stavbe (Ve, (m3));
+13.  
+»pasivni gradbeni element« je tehnični ukrep, namenjen preprečevanju ali
+zmanjšanju vstopa toplote v notranjost zaradi vpliva sončnega obsevanja v času
+potrebe po hlajenju prostora oziroma stavbe, izpostavljene sončnemu obsevanju;
+14.  
+»povprečna letna temperatura zunanjega zraka« je za posamezno lokacijo
+določena s karto povprečne letne temperature in je dostopna na spletni strani:
+http://www.geodetska-uprava.si/DHTML_HMZ/wm_ppp.htm, (TL (ºC));
+15.  
+»površina toplotnega ovoja stavbe« je zunanja površina dela stavbe s
+kontroliranim notranjim okoljem, skozi katero prehaja toplota ali hlad, določena
+po standardu SIST EN ISO 13789, v okolje (A (m2));
+16.  
+»primarna energija« je energija primarnih nosilcev energije, pridobljena
+z izkoriščanjem naravnih energetskih virov, ki niso izpostavljeni še nobeni
+tehnični pretvorbi (Qp);
+17.  
+»posamezni del stavbe« je del stavbe, nadstropje ali enota (stanovanje),
+zasnovan za samostojno uporabo, ki se lahko samostojno pravno ureja;
+18.  
+»sistemi v stavbi« so sistemi, namenjeni ogrevanju in hlajenju,
+prezračevanju, pripravi tople vode in razsvetljavi stavbe, ter njihove kombinacije;
+19.  
+»topla voda« je topla sanitarna voda oziroma topla voda, ki ustreza
+predpisanim zahtevam za pitno vodo.
+(2) Drugi izrazi, uporabljeni v tem pravilniku, imajo enak
+pomen, kot ga določajo predpisi s področja graditve, energetike in gradbenih
+proizvodov, ter slovenski standardi, ki obravnavajo učinkovito rabo energije v
+stavbah in so navedeni na seznamu referenčnih dokumentov iz tehnične smernice.
+5. člen
+(tehnična smernica)
+Tehnična smernica za graditev TSG-1-004 Učinkovita raba
+energije (v nadaljnjem besedilu: tehnična smernica) določa gradbene ukrepe
+oziroma rešitve za dosego zahtev iz tega pravilnika in določa metodologijo
+izračuna energijskih lastnosti stavbe. Uporaba tehnične smernice je obvezna.
+6. člen
+(robni pogoji)
+Pri zagotavljanju učinkovite rabe energije v stavbah je treba
+upoštevati celotno življenjsko dobo stavbe, njeno namembnost, podnebne podatke,
+materiale konstrukcije in ovoja, lego in orientiranost, parametre notranjega
+okolja, vgrajene sisteme in naprave ter uporabo obnovljivih virov energije.
+7. člen
+(mejne vrednosti učinkovite rabe energije)
+Energijska učinkovitost stavbe je dosežena, če so izpolnjeni
+naslednji pogoji:
+1.     
+koeficient specifičnih transmisijskih toplotnih izgub skozi površino
+toplotnega ovoja stavbe, določen z izrazom H'T (W/m2K)
+= HT/A, ne presega:
+kjer z pomeni brezdimenzijsko
+razmerje med površino oken (gradbena odprtina) in površino toplotnega ovoja
+stavbe. Za kriterije velja:
+- 
+če je f0 < 0,2, se upošteva, da je f0 = 0,2,
+- 
+če je f0 > 1,0, se upošteva, da je f0 = 1,0;
+2.     
+dovoljena letna potrebna toplota za ogrevanje QNH
+stavbe, preračunana na enoto kondicionirane površine Au oziroma
+prostornine Ve stavbe, ne presega:
+- 
+za stanovanjske stavbe: QNH/Au ≤ 45 + 60 f0
+- 4,4 TL (kWh/(m2a)),
+- 
+za nestanovanjske stavbe: QNH / Ve ≤ 0,32
+(45 + 60 f0 - 4,4 TL) (kWh/(m3a)),
+- 
+za javne stavbe: QNH / Ve ≤ 0,29 (45 + 60 f0
+- 4,4 TL) (kWh/(m3a));
+3.     
+dovoljen letni potreben hlad za hlajenje Q(NC) stavbe, preračunan na
+enoto hlajene površine stavbe A(u), ne presega:
+- 
+za stanovanjske stavbe: QNC/Au ≤ 50 kWh/(m2a);
+4.     
+letna primarna energija za delovanje sistemov v stavbi Q(p), preračunana
+na enoto ogrevane površine stavbe Au, ne presega:
+- 
+za stanovanjske stavbe: Qp/Au = 200 +1,1
+(60 f0 - 4,4 TL) kWh/(m2a);
+5.     
+ne sme biti presežena nobena od mejnih vrednosti, določenih v tabeli 1
+točke 3.1.1 tehnične smernice.
+8. člen
+(arhitekturna zasnova)
+Stavbo je treba zasnovati in graditi tako, da je energijsko
+ustrezno orientirana, da je razmerje med površino toplotnega ovoja stavbe in
+njeno kondicionirano prostornino z energijskega stališča ugodno, da so prostori
+v stavbi energijsko optimalno razporejeni, in da materiali in elementi
+konstrukcije ter celotna zunanja površina stavbe omogočajo učinkovito
+upravljanje z energijskimi tokovi.
+9. člen
+(toplotna zaščita)
+(1) S toplotno zaščito površine toplotnega ovoja stavbe in
+ločilnih elementov delov stavbe z različnimi režimi notranjega toplotnega
+ugodja je treba:
+-       
+zmanjšati prehod energije skozi površino toplotnega ovoja stavbe,
+-       
+zmanjšati podhlajevanje ali pregrevanje stavbe,
+-       
+zagotoviti tako sestavo gradbenih konstrukcij, da ne prihaja do poškodb
+ali drugih škodljivih vplivov zaradi difuzijskega prehoda vodne pare, in
+-       
+nadzorovati (uravnavati) zrakotesnost stavbe.
+(2) Stavbe je treba projektirati in graditi tako, da je vpliv
+toplotnih mostov na letno potrebo po energiji za ogrevanje in hlajenje čim
+manjši in da toplotni mostovi ne povzročajo škode stavbi ali njenim
+uporabnikom.
+10. člen
+(ogrevanje)
+Projektirani in izvedeni sistem ogrevanja stavbe mora ob
+najmanjših toplotnih izgubah zagotoviti takšno raven notranjega toplotnega
+ugodja, kot je določena s predpisi, ki urejajo prezračevanje in klimatizacijo
+stavb, oziroma je določena v projektni nalogi, če je ta strožja od predpisane.
+Energijsko učinkovitost ogrevalnega sistema se zagotavlja z izborom energijsko
+učinkovitih generatorjev toplote, načrtovanja in izvedbe energijsko
+učinkovitega cevnega razvoda, izbora nizke projektne temperature ogrevalnega
+sistema in njegovega uravnoteženja ter regulacije temperature zraka v stavbi,
+njenem posameznem delu ali prostoru.
+11. člen
+(hlajenje)
+(1) S projektiranjem in vgradnjo pasivnih gradbenih elementov
+je treba zagotoviti, da se tudi v času sončnega obsevanja in visokih zunanjih
+temperatur zraka prostori v stavbi zaradi sončnega obsevanja ne pregrejejo
+bolj, kot je določeno za temperaturo zraka v skladu s predpisom, ki ureja
+prezračevanje in klimatizacijo stavb.
+(2) Če z uporabo rešitev iz prejšnjega odstavka v stavbi ni
+mogoče zagotoviti predpisanega toplotnega ugodja, se sme projektirati in
+izvesti sistem intenzivnega nočnega hlajenja oziroma prezračevanja stavb in
+druge alternativne rešitve.
+(3) Če z uporabo rešitev iz prvega in drugega odstavka tega
+člena v stavbi ni mogoče zagotoviti predpisanega toplotnega ugodja, se sme
+projektirati in izvesti sistem za hlajenje stavbe. Energijsko učinkovit
+hladilni sistem se zagotavlja z izborom energijsko učinkovitih generatorjev
+hladu in pripadajočih elementov, energijsko učinkovitim razvodom, izborom
+ustrezne projektne temperature hladilnega sistema in njegovim uravnoteženjem
+ter regulacijo temperature zraka v stavbi, njenem posameznem delu ali prostoru.
+12. člen
+(prezračevanje)
+(1) Če ni mogoče izvesti naravnega prezračevanja za doseganje
+kakovosti zraka v prostorih v skladu s predpisi, ki urejajo prezračevanje in
+klimatizacijo stavb, se sme projektirati in izvesti sistem hibridnega ali
+mehanskega prezračevanja.
+(2) Energijska učinkovitost prezračevalnega sistema se
+zagotavlja z izborom energijsko učinkovitih naprav in pripadajočih elementov,
+energijsko učinkovitim razvodom, najmanjšo še potrebno količino zraka,
+uravnoteženjem sistema ter regulacijo kakovosti zraka v stavbi, njenem
+posameznem delu ali prostoru.
+(3) Vgrajeni mehanski ali hibridni sistemi prezračevanja
+stavb morajo zagotoviti učinkovito vračanje toplote zraka.
+13. člen
+(priprava tople vode)
+(1) Energijska učinkovitost sistema za pripravo tople vode se
+zagotavlja z izborom energijsko učinkovitih hranilnikov tople vode in pripadajočih
+elementov, energijsko učinkovitim razvodom, uravnoteženjem in regulacijo
+sistema v stavbi, njenem posameznem delu ali prostoru.
+(2) Topla voda se praviloma zagotavlja s sprejemniki sončne
+energije ali alternativnim sistemom z uporabo obnovljivih virov energije.
+14. člen
+(razsvetljava)
+Učinkovita raba energije za razsvetljavo se zagotavlja z
+naravno osvetlitvijo, če to ni mogoče, pa je treba uporabiti energijsko
+učinkovita svetila in pripadajoče elemente ter ustrezno regulacijo. Pri tem je
+treba upoštevati tudi velikosti prostora in število njegovih uporabnikov.
+15. člen
+(vhodni podatki)
+(1) Podnebni podatki so dostopni na spletni aplikaciji
+pregledovalnika podnebnih podlag na spletni strani:
+http://www.geodetska-uprava.si/DHTML_HMZ/wm_ppp.htm. Uporabijo se lahko tudi
+konkretno ugotovljene podnebne podlage, ki jih investitorju oziroma projektantu
+posreduje organ, pristojen za zbiranje in obdelovanje podatkov o podnebju.
+(2) Pri izračunih, kjer so potrebni snovni podatki (vključno
+s toplotno prevodnostjo) o uporabljenih materialih, se uporabijo podatki o
+gradbenih proizvodih iz listine o skladnosti za posamezen proizvod v skladu s
+predpisi, ki urejajo dajanje gradbenih proizvodov v promet. Če teh podatkov ni,
+se za običajne gradbene proizvode uporabijo podatki iz 10. točke tehnične
+smernice.
+16. člen
+(obnovljivi viri energije)
+(1) Energijska učinkovitost stavbe je dosežena, če je poleg
+zahtev iz 7. člena tega pravilnika najmanj 25 odstotkov celotne končne energije
+za delovanje sistemov v stavbi zagotovljeno z uporabo obnovljivih virov
+energije v stavbi.
+(2) Energijska učinkovitost stavbe je dosežena tudi, če je
+delež končne energije za ogrevanje in hlajenje stavbe ter pripravo tople vode
+pridobljen na enega od naslednjih načinov:
+-       
+najmanj 25 odstotkov iz sončnega obsevanja,
+-       
+najmanj 30 odstotkov iz plinaste biomase,
+-       
+najmanj 50 odstotkov iz trdne biomase,
+-       
+najmanj 70 odstotkov iz geotermalne energije,
+-       
+najmanj 50 odstotkov iz toplote okolja,
+-       
+najmanj 50 odstotkov iz naprav SPTE z visokim izkoristkom v skladu s
+predpisom, ki ureja podpore električni energiji, proizvedeni v soproizvodnji
+toplote in električne energije z visokim izkoristkom,
+-       
+je stavba najmanj 50 odstotkov oskrbovana iz sistema energijsko
+učinkovitega daljinskega ogrevanja oziroma hlajenja.
+(3) Šteje se, da je energijska učinkovitost stavbe dosežena,
+če je dovoljena letna potrebna toplota za ogrevanje stavbe, preračunana na
+enoto kondicionirane površine oziroma površino stavbe za najmanj 30 odstotkov
+nižja od mejne vrednosti iz 7. člena tega pravilnika.
+(4) Ne glede na prvi, drugi in tretji odstavek tega člena se
+za enostanovanjske stavbe šteje, da je energijska učinkovitost dosežena, če je
+vgrajenih najmanj 6 m2 (svetle površine) sprejemnikov sončne
+energije z letnim donosom najmanj 500 kWh/(m2a).
+17. člen
+(elaborat)
+(1) Doseganje učinkovite rabe energije v stavbah oziroma
+izpolnjevanje zahtev iz tega pravilnika se dokazuje v elaboratu gradbene fizike
+za področje učinkovite rabe energije v stavbah (v nadaljnjem besedilu: elaborat
+URE).
+(2) Elaborat URE mora vsebovati najmanj:
+-       
+vhodne podatke,
+-       
+navedbo uporabljenih metod in uporabo privzetih vrednosti,
+-       
+izračune, iz katerih mora biti razvidno, da projektirane gradbene
+konstrukcije in stavba kot celota izpolnjujejo zahteve iz tega pravilnika,
+-       
+vmesne rezultate za elemente učinkovite rabe energije iz 9. do 14. ter
+16. člena tega pravilnika,
+-       
+potrebno letno primarno energijo za delovanje sistemov v stavbi,
+-       
+izpuste CO2, ki nastanejo pri delovanju sistemov v stavbi, in
+-       
+kazalnike letne rabe primarne energije in kazalnike izpustov CO2.
+(3) Rezultati iz prejšnjega odstavka se prikažejo tabelarično
+v skladu s tabelami 4 do 9 standarda SIST EN 15 603, pri čemer se vse vrednosti
+za energijo prikazujejo v kWh.
+18. člen
+(izpusti CO2 in kazalniki)
+(1) Izpusti CO2, ki nastanejo pri delovanju
+sistemov v stavbi, se določijo na podlagi podatkov za specifične izpuste CO2
+za posamezne vire energije, tako da se letna potrebna primarna energija za
+delovanje sistemov, izračunana za posamezen vir energije, pomnoži s
+pripadajočim podatkom za specifične izpuste CO2, ki je določen v 11.
+točki tehnične smernice, v dodatku 1, in se vrednosti seštejejo.
+(2) Kazalniki letne rabe primarne energije za delovanje
+sistemov se določijo v obliki letne rabe primarne energije, letne rabe primarne
+energije na enoto uporabne površine stavbe, ter letne rabe primarne energije na
+enoto kondicionirane prostornine stavbe.
+(3) Kazalniki izpustov CO2 zaradi delovanja
+sistemov v stavbi se izrazijo v obliki letnih izpustov CO2 (v kg),
+letnih izpustov CO2 na enoto uporabne površine stavbe, ter letnih
+izpustov CO2 na enoto kondicionirane prostornine stavbe.
+19. člen
+(izkaz energijskih lastnosti stavbe)
+(1) Povzetki izračunov iz elaborata URE morajo biti navedeni
+na obrazcu »Izkaz energijskih lastnosti stavbe«, ki je kot priloga 1 sestavni
+del tega pravilnika.
+(2) Po zaključku gradnje je treba na podlagi izvedene gradnje
+energijske lastnosti stavbe ponovno določiti in izpolniti obrazec iz prejšnjega
+odstavka ter označiti, da gre za izvedeno stanje. Izkaz energijskih lastnosti
+stavbe, ki je obvezen sestavni del dokazila o zanesljivosti objekta, mora
+dokazovati, da so izpolnjene zahteve iz 7. in 16. člena tega pravilnika.
+20. člen
+(izdelava projektne dokumentacije)
+Do 31. decembra 2010 se lahko vlogam za izdajo gradbenega
+dovoljenja prilagajo projekti za pridobitev gradbenega dovoljenja, izdelani po
+dosedanjih predpisih, od 1. januarja 2011 pa se sme zahtevi za izdajo
+gradbenega dovoljenja priložiti samo projekt, izdelan v skladu s tem
+pravilnikom.
+21. člen
+(mejne vrednosti učinkovite rabe energije v prehodnem
+obdobju)
+Ne glede na 7. člen tega pravilnika se do 31. decembra 2014
+vlogam za izdajo gradbenega dovoljenja prilagajo projekti za pridobitev
+gradbenega dovoljenja, za katere se šteje, da je energijska učinkovitost stavbe
+dosežena, če so izpolnjeni naslednji pogoji:
+1.     
+koeficient specifičnih transmisijskih toplotnih izgub H'T (W/m2K) ne
+presega:
+2.     
+dovoljena letna potrebna toplota za ogrevanje QNH stavbe,
+preračunana na enoto kondicionirane površine Au oziroma prostornine
+Ve stavbe, ne presega:
+- 
+za stanovanjske stavbe: QNH/Au ≤ 56 + 60 f0
+- 4,5 TL (kWh/m2a),
+- 
+za nestanovanjske stavbe: QNH/Ve ≤ 0,32 (56 + 60 f0
+- 4,5 TL) (kWh/m3a),
+- 
+za javne stavbe: QNH/Ve ≤ 0,29 (56 + 60 f0
+- 4,5 TL) (kWh/m3a);
+3.     
+dovoljen letni potreben hlad za hlajenje QNC stavbe,
+preračunan na enoto hlajene površine stavbe Au, ne presega:
+- 
+za stanovanjske stavbe: QNC/Au ≤ 70 kWh/(m2a);
+4.     
+letna primarna energija za delovanje sistemov v stavbi Qp,
+preračunana na enoto ogrevane površine stavbe Au, ne presega:
+- 
+za stanovanjske stavbe: Qp/Au = 275 +1,1 (60 f0
+- 4,4 Tl) kWh/(m2a);
+5.     
+ne sme biti presežena nobena od mejnih vrednosti, določenih v tabeli 1
+točke 3.1.1 tehnične smernice.
+22. člen
+(prenehanje veljavnosti)
+Z dnem uveljavitve tega pravilnika prenehata veljati
+Pravilnik o toplotni zaščiti in učinkoviti rabi energije v stavbah (Uradni list
+RS, št. 42/02, 110/02 - ZGO-1, 29/04 in 93/08) in Pravilnik o učinkoviti rabi
+energije v stavbah (Uradni list RS, št. 93/08 in 47/09), uporabljata pa se do
+31. decembra 2010 pri izdelavi projektne dokumentacije iz 20. člena tega
+pravilnika.
+23. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati 1. julija 2010.
+Št. 0071-101/2009
+Ljubljana, dne 22. junija 2010
+EVA 2010-2511-0021
+dr. Roko Žarnić l.r. 
+Minister 
+za okolje in prostor
+
+Priloga
+1: Izkaz energijskih lastnosti stavbe

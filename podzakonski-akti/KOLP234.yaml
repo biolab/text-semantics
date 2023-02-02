@@ -1,0 +1,17 @@
+Text file: KOLP234.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1512774000000000000
+- null
+- null
+- 10
+idPredpisa: KOLP234
+idPredpisaChng: KOLP234
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za javni sektor (KPJS) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 11)"
+npbNum: 11
+path: /2017/32/2017-01-3284-2008-01-2429-npb11
+sopPredpisa: 2017-01-3284
+sopPredpisaChng: 2008-01-2429

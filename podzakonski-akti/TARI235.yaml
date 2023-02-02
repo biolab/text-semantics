@@ -1,0 +1,21 @@
+Text file: TARI235.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609282800000000000
+- null
+- null
+- 10
+idPredpisa: TARI235
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO 2021 o vrednosti to\u010Dke in o vi\u0161ini dele\u017Ea glede na\
+  \ zara\u010Dunano uporabnino za uporabo javne \u017Eelezni\u0161ke infrastrukture,\
+  \ za delovanje regulatornega organa na podro\u010Dju \u017Eelezni\u0161kega prometa"
+npbNum: 0
+path: /2020/36/2020-01-3642
+sopPredpisa: 2020-01-3642
+sopPredpisaChng: null

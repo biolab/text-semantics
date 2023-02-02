@@ -1,0 +1,16 @@
+Text file: SKLE1421.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 687135600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1421
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o dodatnih pogojih kreditiranja tujine
+npbNum: 0
+path: /1991/06/1991-01-0686
+sopPredpisa: 1991-01-0686
+sopPredpisaChng: null

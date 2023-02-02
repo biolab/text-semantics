@@ -1,0 +1,18 @@
+Text file: PRAV13831.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1573858800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13831
+idPredpisaChng: PRAV13831
+instock: .nan
+naslov: "PRAVILNIK o obrazcih prijav podatkov o pokojninskem in invalidskem ter zdravstvenem\
+  \ zavarovanju, zavarovanju za star\u0161evsko varstvo in zavarovanju za primer brezposelnosti\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2019/30/2019-01-3063-2019-01-2495-npb1
+sopPredpisa: 2019-01-3063
+sopPredpisaChng: 2019-01-2495

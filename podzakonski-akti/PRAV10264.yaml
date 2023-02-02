@@ -1,0 +1,17 @@
+Text file: PRAV10264.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1276034400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10264
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o te\u010Daju in preizkusu znanja iz predpisov, ki urejajo proizvodnjo\
+  \ in skladi\u0161\u010Denje kemikalij ter promet z njimi"
+npbNum: 0
+path: /2010/20/2010-01-2067
+sopPredpisa: 2010-01-2067
+sopPredpisaChng: null

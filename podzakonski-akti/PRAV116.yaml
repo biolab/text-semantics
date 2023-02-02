@@ -1,0 +1,17 @@
+Text file: PRAV116.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 878943600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV116
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK za varno vzletanje in pristajanje letal v pogojih zmanj\u0161ane\
+  \ vidljivosti"
+npbNum: 0
+path: /1997/32/1997-01-3280
+sopPredpisa: 1997-01-3280
+sopPredpisaChng: null

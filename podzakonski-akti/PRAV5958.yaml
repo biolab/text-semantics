@@ -1,0 +1,18 @@
+Text file: PRAV5958.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1244239200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5958
+idPredpisaChng: PRAV5958
+instock: .nan
+naslov: "PRAVILNIK o nadaljnjem izobra\u017Eevanju in usposabljanju strokovnih delavcev\
+  \ v vzgoji in izobra\u017Eevanju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 4)"
+npbNum: 4
+path: /2009/20/2009-01-2046-2004-01-2910-npb4
+sopPredpisa: 2009-01-2046
+sopPredpisaChng: 2004-01-2910

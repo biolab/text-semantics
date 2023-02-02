@@ -1,0 +1,17 @@
+Text file: PRAV6902.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1113602400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6902
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
+  \ enote Po\u017Earje"
+npbNum: 0
+path: /2005/13/2005-01-1313
+sopPredpisa: 2005-01-1313
+sopPredpisaChng: null

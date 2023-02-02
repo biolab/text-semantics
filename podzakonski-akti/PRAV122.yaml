@@ -1,0 +1,17 @@
+Text file: PRAV122.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 875224800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV122
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o obratovalnem monitoringu pri vnosu nevarnih snovi in rastlinskih
+  hranil v tla
+npbNum: 0
+path: /1997/28/1997-01-2869
+sopPredpisa: 1997-01-2869
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV10897.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1318024800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10897
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obliki, pogojih in na\u010Dinu uporabe posebnih svetlobnih znakov\
+  \ vozil za izredne prevoze"
+npbNum: 0
+path: /2011/33/2011-01-3333
+sopPredpisa: 2011-01-3333
+sopPredpisaChng: null

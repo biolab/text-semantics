@@ -1,0 +1,12 @@
+Text file: RESO67.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO67
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO O STRATEGIJI ZA JADRAN (ReSJad)
+npbNum: 0
+path: /2009/47/2009-01-4702
+sopPredpisa: 2009-01-4702
+sopPredpisaChng: null

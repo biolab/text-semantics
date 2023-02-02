@@ -1,0 +1,17 @@
+Text file: PRAV9195.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1220047200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9195
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov za pridobitev poklicne\
+  \ in srednje strokovne izobrazbe"
+npbNum: 0
+path: /2008/36/2008-01-3696
+sopPredpisa: 2008-01-3696
+sopPredpisaChng: null

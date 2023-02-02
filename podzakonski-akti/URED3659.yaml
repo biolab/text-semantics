@@ -1,0 +1,18 @@
+Text file: URED3659.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1309212000000000000
+- null
+- null
+- 10
+idPredpisa: URED3659
+idPredpisaChng: URED3659
+instock: .nan
+naslov: "UREDBA o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav,\
+  \ v katerih se uporabljajo organska topila (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 4)"
+npbNum: 4
+path: /2011/23/2011-01-2375-2005-01-4927-npb4
+sopPredpisa: 2011-01-2375
+sopPredpisaChng: 2005-01-4927

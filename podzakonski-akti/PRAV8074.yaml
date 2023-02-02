@@ -1,0 +1,18 @@
+Text file: PRAV8074.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1174946400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8074
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vrednostih, potrebnih za ovrednotenje programa prestrukturiranja\
+  \ v vinskem letu 2007/2008, in koeficientu za izra\u010Dun vi\u0161ine podpore za\
+  \ prestrukturiranje v vinskem letu 2006/2007"
+npbNum: 0
+path: /2007/13/2007-01-1358
+sopPredpisa: 2007-01-1358
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13143.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1501279200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13143
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika za varno vzletanje in pristajanje\
+  \ letal v pogojih zmanj\u0161anje vidljivosti"
+npbNum: 0
+path: /2017/21/2017-01-2137
+sopPredpisa: 2017-01-2137
+sopPredpisaChng: null

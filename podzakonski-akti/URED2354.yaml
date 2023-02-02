@@ -1,0 +1,17 @@
+Text file: URED2354.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1057960800000000000
+- null
+- null
+- 10
+idPredpisa: URED2354
+idPredpisaChng: URED2354
+instock: .nan
+naslov: "UREDBA o zvrsteh naravnih vrednot (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2003/32/2003-01-3226-2002-01-2531-npb1
+sopPredpisa: 2003-01-3226
+sopPredpisaChng: 2002-01-2531

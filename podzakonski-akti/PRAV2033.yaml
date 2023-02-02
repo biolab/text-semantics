@@ -1,0 +1,18 @@
+Text file: PRAV2033.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1299279600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2033
+idPredpisaChng: PRAV2033
+instock: .nan
+naslov: "PRAVILNIK o pogojih za pripravo in izvajanje programa prepre\u010Devanja\
+  \ in obvladovanja bolni\u0161ni\u010Dnih oku\u017Eb (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/03/2011-01-0384-1999-01-3597-npb2
+sopPredpisa: 2011-01-0384
+sopPredpisaChng: 1999-01-3597

@@ -1,0 +1,20 @@
+Text file: PRAV8910.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1198191600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1197932400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8910
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ozna\u010Devanju bli\u017Eine mejne \u010Drte, mejnih prehodov\
+  \ in njihovih obmo\u010Dij"
+npbNum: 0
+path: /2007/58/2007-01-5847
+sopPredpisa: 2007-01-5847
+sopPredpisaChng: null

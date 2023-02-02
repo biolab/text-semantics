@@ -1,0 +1,16 @@
+Text file: MERI49.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1573254000000000000
+- null
+- null
+- 10
+idPredpisa: MERI49
+idPredpisaChng: null
+instock: .nan
+naslov: "MERILA za kreditno vrednotenje \u0161tudijskih programov po ECTS"
+npbNum: 0
+path: /2019/29/2019-01-2943
+sopPredpisa: 2019-01-2943
+sopPredpisaChng: null

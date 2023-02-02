@@ -1,0 +1,18 @@
+Text file: ODLO2177.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1604617200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2177
+idPredpisaChng: ODLO2177
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi ponujanja in prodajanja blaga in storitev\
+  \ potro\u0161nikom v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 2
+path: /2020/27/2020-01-2782-2020-01-2688-npb2
+sopPredpisa: 2020-01-2782
+sopPredpisaChng: 2020-01-2688

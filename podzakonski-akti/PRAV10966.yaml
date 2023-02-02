@@ -1,0 +1,16 @@
+Text file: PRAV10966.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1327100400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10966
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vrstah podatkov, ki jih zagotavljajo izvajalci energetskih dejavnosti
+npbNum: 0
+path: /2012/01/2012-01-0127
+sopPredpisa: 2012-01-0127
+sopPredpisaChng: null

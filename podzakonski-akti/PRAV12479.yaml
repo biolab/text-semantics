@@ -1,0 +1,17 @@
+Text file: PRAV12479.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1471039200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12479
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o finan\u010Dnih spodbudah za energetsko u\u010Dinkovitost, daljinsko\
+  \ ogrevanje in rabo obnovljivih virov energije"
+npbNum: 0
+path: /2016/23/2016-01-2360
+sopPredpisa: 2016-01-2360
+sopPredpisaChng: null

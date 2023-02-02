@@ -1,0 +1,16 @@
+Text file: TARI53.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1078527600000000000
+- null
+- null
+- 10
+idPredpisa: TARI53
+idPredpisaChng: null
+instock: .nan
+naslov: TARIFO o pravnih storitvah
+npbNum: 0
+path: /2004/06/2004-01-0659
+sopPredpisa: 2004-01-0659
+sopPredpisaChng: null

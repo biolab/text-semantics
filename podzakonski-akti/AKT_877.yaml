@@ -1,0 +1,16 @@
+Text file: AKT_877.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1386111600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_877
+idPredpisaChng: null
+instock: .nan
+naslov: "SPLO\u0160NI AKT o raz\u010Dlenjenem ra\u010Dunu"
+npbNum: 0
+path: /2013/35/2013-01-3562
+sopPredpisa: 2013-01-3562
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV9623.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1319839200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9623
+idPredpisaChng: PRAV9623
+instock: .nan
+naslov: "PRAVILNIK o programih za integracijo tujcev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/36/2011-01-3651-2009-01-1060-npb1
+sopPredpisa: 2011-01-3651
+sopPredpisaChng: 2009-01-1060

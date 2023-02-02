@@ -1,0 +1,17 @@
+Text file: URED2120.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1014937200000000000
+- null
+- null
+- 10
+idPredpisa: URED2120
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi pristani\u0161\u010D, ki so namenjena za mednarodni\
+  \ javni promet"
+npbNum: 0
+path: /2002/05/2002-01-0511
+sopPredpisa: 2002-01-0511
+sopPredpisaChng: null

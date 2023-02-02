@@ -1,0 +1,16 @@
+Text file: SKLE9512.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356044400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE9512
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o \u010Detrtletnem poro\u010Danju podatkov o poslovanju poslovnih subjektov"
+npbNum: 0
+path: /2012/38/2012-01-3846
+sopPredpisa: 2012-01-3846
+sopPredpisaChng: null

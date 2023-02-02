@@ -1,0 +1,16 @@
+Text file: SKLE12654.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1645830000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12654
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o podalj\u0161anju ukrepa kratkotrajne odsotnosti zaradi bolezni"
+npbNum: 0
+path: /2022/05/2022-01-0542
+sopPredpisa: 2022-01-0542
+sopPredpisaChng: null

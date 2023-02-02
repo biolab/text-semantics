@@ -1,0 +1,16 @@
+Text file: ODRE2280.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1399068000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2280
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o seznamu izdanih tehni\u010Dnih smernic"
+npbNum: 0
+path: /2014/11/2014-01-1175
+sopPredpisa: 2014-01-1175
+sopPredpisaChng: null

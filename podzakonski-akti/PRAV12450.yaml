@@ -1,0 +1,17 @@
+Text file: PRAV12450.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1430517600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12450
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini zbirke podatkov dr\u017Eavnega prostorskega\
+  \ koordinatnega sistema"
+npbNum: 0
+path: /2015/11/2015-01-1115
+sopPredpisa: 2015-01-1115
+sopPredpisaChng: null

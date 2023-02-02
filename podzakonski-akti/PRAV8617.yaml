@@ -1,0 +1,17 @@
+Text file: PRAV8617.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1220911200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8617
+idPredpisaChng: PRAV8617
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi tarif pri uporabi arhivskega gradiva (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2008/37/2008-01-3753-2008-01-2073-npb1
+sopPredpisa: 2008-01-3753
+sopPredpisaChng: 2008-01-2073

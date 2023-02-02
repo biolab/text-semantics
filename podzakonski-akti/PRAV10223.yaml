@@ -1,0 +1,17 @@
+Text file: PRAV10223.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1279231200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10223
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izbiri izvajalcev kontrol na kraju samem (podrobnej\u0161i prostorski\
+  \ pogoji za opravljanje kontrol iz 2. sklopa)"
+npbNum: 0
+path: /2010/31/2010-01-3129
+sopPredpisa: 2010-01-3129
+sopPredpisaChng: null

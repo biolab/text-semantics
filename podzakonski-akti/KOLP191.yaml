@@ -1,0 +1,20 @@
+Text file: KOLP191.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1167606000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1172876400000000000
+- null
+- null
+- 10
+idPredpisa: KOLP191
+idPredpisaChng: KOLP191
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA dejavnosti Cestnega gospodarstva (KPD-CG) (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2007/09/2007-01-0900-2004-01-5763-npb4
+sopPredpisa: 2007-01-0900
+sopPredpisaChng: 2004-01-5763

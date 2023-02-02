@@ -1,0 +1,17 @@
+Text file: URED588.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1209765600000000000
+- null
+- null
+- 10
+idPredpisa: URED588
+idPredpisaChng: URED588
+instock: .nan
+naslov: "UREDBA o preoblikovanju podjetja Rudnik \u017Eivega srebra Idrija, p.o. (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2008/17/2008-01-1741-1995-01-1577-npb2
+sopPredpisa: 2008-01-1741
+sopPredpisaChng: 1995-01-1577

@@ -1,0 +1,17 @@
+Text file: ODRE2017.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1261522800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2017
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj\
+  \ \u017Eivali v letu 2010"
+npbNum: 0
+path: /2009/47/2009-01-4784
+sopPredpisa: 2009-01-4784
+sopPredpisaChng: null

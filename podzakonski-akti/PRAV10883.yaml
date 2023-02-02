@@ -1,0 +1,17 @@
+Text file: PRAV10883.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1345240800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10883
+idPredpisaChng: null
+instock: .nan
+naslov: "NAVODILO o razlogih za zavrnitev vstopa v Republiko Slovenijo dr\u017Eavljanu\
+  \ tretje dr\u017Eave"
+npbNum: 0
+path: /2012/24/2012-01-2491
+sopPredpisa: 2012-01-2491
+sopPredpisaChng: null

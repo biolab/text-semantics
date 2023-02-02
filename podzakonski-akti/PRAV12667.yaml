@@ -1,0 +1,16 @@
+Text file: PRAV12667.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1495836000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12667
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o hi\u0161nem redu azilnega doma"
+npbNum: 0
+path: /2017/13/2017-01-1318
+sopPredpisa: 2017-01-1318
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: URED8011.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609369200000000000
+- null
+- null
+- 10
+idPredpisa: URED8011
+idPredpisaChng: URED8011
+instock: .nan
+naslov: "UREDBA o namenitvi dela dohodnine za donacije (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2020/37/2020-01-3774-2019-01-3491-npb2
+sopPredpisa: 2020-01-3774
+sopPredpisaChng: 2019-01-3491

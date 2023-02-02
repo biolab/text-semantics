@@ -1,0 +1,16 @@
+Text file: PRAV2380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 828741600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2380
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o voja\u0161ki knji\u017Eici"
+npbNum: 0
+path: /1996/08/1996-01-0853
+sopPredpisa: 1996-01-0853
+sopPredpisaChng: null

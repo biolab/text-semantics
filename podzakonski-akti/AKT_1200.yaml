@@ -1,0 +1,18 @@
+Text file: AKT_1200.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1615590000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1200
+idPredpisaChng: null
+instock: .nan
+naslov: "SISTEMSKA\_OBRATOVALNA\_NAVODILA za distribucijski sistem toplote za geografsko\
+  \ obmo\u010Dje Ob\u010Dine Postojna \u2013 enote urejanja prostora PO-053, PO-062,\
+  \ PO-063, PO-065, PO-103, PO-104, PO-105 in PO-131"
+npbNum: 0
+path: /2021/05/2021-01-0558
+sopPredpisa: 2021-01-0558
+sopPredpisaChng: null

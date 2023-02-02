@@ -1,0 +1,17 @@
+Text file: PRAV10885.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1335564000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10885
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku nastanitve v Centru za tujce ter obliki in vsebini izkaznice\
+  \ o dovolitvi zadr\u017Eevanja na obmo\u010Dju Republike Slovenije"
+npbNum: 0
+path: /2012/11/2012-01-1119
+sopPredpisa: 2012-01-1119
+sopPredpisaChng: null

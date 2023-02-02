@@ -1,0 +1,18 @@
+Text file: ODRE1823.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1257548400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1823
+idPredpisaChng: ODRE1823
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za prepre\u010Devanje \u0161irjenja in zatiranje \u0161\
+  arke, ki jo povzro\u010Da virus Plum pox virus (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2009/37/2009-01-3713-2002-01-0723-npb4
+sopPredpisa: 2009-01-3713
+sopPredpisaChng: 2002-01-0723

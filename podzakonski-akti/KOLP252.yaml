@@ -1,0 +1,18 @@
+Text file: KOLP252.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1213999200000000000
+- null
+- null
+- 10
+idPredpisa: KOLP252
+idPredpisaChng: null
+instock: .nan
+naslov: "KOLEKTIVNO POGODBO o izredni uskladitvi pla\u010D za leto 2007 in na\u010D\
+  inu usklajevanja pla\u010D, povra\u010Dilu stro\u0161kov v zvezi z delom in drugih\
+  \ osebnih prejemkih za leti 2008 in 2009 (KPPl)"
+npbNum: 0
+path: /2008/26/2008-01-2656
+sopPredpisa: 2008-01-2656
+sopPredpisaChng: null

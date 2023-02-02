@@ -1,0 +1,2316 @@
+I. SPLOŠNI DOLOČBI
+1. člen
+(vsebina)
+(1) Ta pravilnik določa za sevalne in
+jedrske objekte:
+1.    
+način uporabe obratovalnih pogojev in omejitev;
+2.    
+način in pogostost poročanja o izvajanju programov zbiranja in
+analiziranja obratovalnih izkušenj;
+3.    
+način in obseg nadzora staranja;
+4.    
+način vzdrževanja, preizkušanja in pregleda SSK;
+5.    
+vsebino, obseg in pogostost rednega in izrednega poročanja;
+6.    
+pogostost, vsebino, obseg, trajanje in način izvajanja občasnih
+varnostnih pregledov ter način poročanja o teh pregledih;
+7.    
+primere, v katerih Uprava Republike Slovenije za jedrsko varnost (v
+nadaljnjem besedilu: Uprava) sama odredi izvedbo občasnega varnostnega
+pregleda, če razpolaga z novimi in pomembnimi dokazi o sevalni ali jedrski
+varnosti objekta;
+8.    
+vsebino, kakovost in način uporabe verjetnostnih varnostnih analiz za
+preverjanje varnosti jedrskih objektov;
+9.    
+metodologijo ocenjevanja in razvrščanja sprememb ter način in obliko
+obveščanja in priglasitve sprememb v sevalnih ali jedrskih objektih.
+(2) Ta pravilnik določa tudi
+podrobnejše zahteve za:
+1.    
+načrt zaščite in reševanja za obvladovanje izrednih dogodkov v sevalnih
+ali jedrskih objektih,
+2.    
+postopke ob izrednem dogodku v sevalnih ali jedrskih objektih in
+3.    
+način obveščanja o izrednem dogodku.
+(3) Ta pravilnik v skladu z Direktivo
+Sveta z dne 27. novembra 1989 o obveščanju prebivalstva o ukrepih
+zdravstvenega varstva, ki jih je treba sprejeti, in o pravilih ravnanja v
+primeru radiološkega izrednega dogodka (UL L št. 357 z dne 7. 12.
+1989, str. 31) določa zahteve glede obveščanja prebivalstva, za katerega je
+verjetno, da bo prizadeto v primeru radiološkega izrednega dogodka, ter posredovanje
+informacij vsem osebam, ki bi lahko bile vključene v organizacijo nujne pomoči
+v primeru radiološkega izrednega dogodka.
+2. člen
+(izrazi)
+(1) Izrazi, uporabljeni v tem
+pravilniku, imajo naslednji pomen:
+1.    
+akutno obsevanje je enkratna izpostavljenost ionizirajočemu sevanju, ki
+praviloma ni daljša od dveh dni;
+2.    
+človeška napaka je napaka, ki jo je naredil ali povzročil človek s
+svojim ukrepom zaradi napačnega razumevanja procesa ali napačne presoje stanja.
+Nastane lahko tudi z nehoteno izvedbo ali opustitvijo nekega ukrepa;
+3.    
+človeški dejavniki so elementi razmerja med človekom in njegovim delom,
+npr. dejavniki, ki vplivajo na to, kako bo operater v komandni sobi sposoben
+uporabljati pisne postopke: čitljivost, slovnica, usposabljanje, zunanji
+pritiski ipd;
+4.    
+dejavniki tveganja so SSK, človeške dejavnosti, povezane z obratovanjem
+(upravljanje, vzdrževanje, preizkušanje), zunanji dogodki ipd., ki vplivajo na
+stopnjo tveganja objekta;
+5.    
+deterministična varnostna analiza je varnostna analiza, izvedena z
+uporabo determinističnih metod;
+6.    
+deterministični učinki sevanja so klinično ugotovljive okvare obsevanega
+organa, tkiva ali organizma zaradi poškodbe celic. Za nastanek takega učinka so
+določljive vrednosti doz, pri katerih se pojavi. Nad temi vrednostmi doz pa
+velja, da večja kot je vrednost doze, večji je deterministični učinek;
+7.    
+dogodek brez posledic je splet okoliščin, ki lahko povzročijo neustrezno
+dejanje ali dogodek in posledično ogrožanje sevalne ali jedrske varnosti,
+varnosti delavcev ali razpoložljivosti objekta;
+8.    
+dogodek je pripetljaj, ki ga povzroči naravni dogodek, človeška napaka
+ali dejanje, nepravilni pisni postopek ali navodilo, okvara opreme, obratovalna
+napaka ali projektna neustreznost, in lahko ogroža sevalno ali jedrsko varnost.
+Dogodek vodi v pričakovan obratovalni dogodek ali v stanje nesreče. Pri tem se
+lahko delno ali v celoti sprožijo varnostne funkcije;
+9.    
+evakuacija je začasen in organiziran umik ljudi ob izrednem dogodku z
+nekega območja v izognitev dozam, ki presegajo intervencijske nivoje, in
+neželeni izpostavitvi ionizirajočemu sevanju;
+10.  interval
+pregleda ali preizkušanja je obdobje, v katerem se izvedejo vsi predvideni
+pregledi in preizkusi na izbrani opremi;
+11.  izogibna
+doza je ocenjena vrednost razlike med dozo, ki je posledica izrednega dogodka
+brez izvajanja intervencijskih ukrepov, in dozo zaradi izrednega dogodka ob
+izvajanju intervencijskih ukrepov;
+12.  jodna
+profilaksa je zaužitje neradioaktivnega joda pred nastankom izrednega dogodka
+ali takoj po njem, da se zavaruje ščitnica pred obsevanjem zaradi kopičenja
+radioaktivnih izotopov joda v njej;
+13.  klasifikacija
+je razvrščanje SSK v varnostne razrede glede na njihovo pomembnost za jedrsko
+varnost;
+14.  konfiguracija
+SSK v sevalnem ali jedrskem objektu je prikaz položaja posameznih SSK glede na
+fizično postavitev in operabilnost. Odvisna je od postavitve SSK, ki je v
+obratovanju, je pripravljen na obratovanje na katero koli zahtevo ali pa ni na
+razpolago zaradi preizkušanja, vzdrževanja, korektivnih ukrepov ali
+neoperabilnosti. Pravilna konfiguracija mora zagotavljati operabilnost sistema,
+ki je lahko dosežena na različne načine;
+15.  komandna
+soba je prostor v sevalnem ali jedrskem objektu, v katerem se zbirajo
+informacije o obratovanju slednjega in iz katerega je mogoče krmiliti vse za
+varnost pomembne procese;
+16.  korektivni
+ukrep je ukrep, ki prepreči ponovitev dogodka ali nezaželenega stanja SSK ali
+objekta. Zajema lahko popravilo oziroma spremembo na SSK, spremembo procesa
+vzdrževanja ali preizkušanja, poseben pregled SSK, spremembo procesa
+obratovanja objekta ali spremembo dejavnosti v zvezi z izobraževanjem ali
+usposabljanjem osebja;
+17.  kvalifikacija
+je proces, s katerim se dokaže, da so oprema, postopki in osebje za
+preizkušanje ali pregled SSK zmožni razkriti vse napake v materialu ali opremi;
+18.  lokacija
+je geografsko območje, na katerem je sevalni ali jedrski objekt in na katerem
+potekajo dejavnosti, ki jim je ta namenjen;
+19.  mednarodna
+lestvica jedrskih in radioloških dogodkov je orodje za skladno obveščanje
+javnosti o varnostnem pomenu dogodkov, povezanih z radiološko in jedrsko
+varnostjo. Obveščanje poteka prek Mednarodne agencije za atomsko energijo;
+20.  način
+upoštevanja intervencijskih nivojev vključuje navodila, metode, pripomočke,
+orodje, postopke in druga sredstva ali metodologije, ki pomagajo pri odločanju
+o uvedbi zaščitnega ukrepa za prebivalstvo, tako da se upoštevajo vrednosti, ki
+so določene s temi nivoji;
+21.  navodila
+za ravnanje ob nezgodi so namenjena obvladovanju projektnih dogodkov in
+vsebujejo navodila za vrnitev objekta v varno stanje. Tovrstna navodila za
+jedrske elektrarne obsegajo tudi obvladovanje dogodkov, ki po posledicah
+presegajo projektne dogodke vse do začetka poškodbe sredice, ne pa same
+poškodbe;
+22.  nenormalno
+obratovanje je obratovanje zunaj normalnih območij parametrov objekta z
+obratovalnimi nepravilnostmi in je lahko posledica dogodka;
+23.  neposredni
+vzrok je okvara, dejanje, opustitev dejanja ali stanje, ki neposredno povzroči
+dogodek. Navadno ne pojasnjuje, zakaj je prišlo do okoliščin, ki so povzročile
+odstopanje;
+24.  nesreča
+je izredni dogodek ali zaporedje več povezanih izrednih dogodkov, ki povzročijo
+večjo poškodbo jedrskega ali sevalnega objekta ali zmanjšanje učinkovitosti varnostnih
+pregrad za preprečevanje širjenja radioaktivnih snovi v okolje oziroma lahko
+povzročijo obsevanost ali kontaminacijo osebja, prebivalstva ali okolja;
+25.  nezgodno
+stanje ali nezgoda je nezaželeno stanje, ki ga povzroči neustrezno človeško
+dejanje oziroma izguba operabilnosti sistema ali komponente in ki zahteva
+prepoznavanje napake ter njeno odpravo oziroma korektivni ukrep;
+26.  notranja
+obsevanost je učinek obsevanja, ki ga povzroča ionizirajoče sevanje na
+organizem, kadar je vir sevanja v telesu zaradi vnosa ali aktivacije;
+27.  občasni
+varnostni pregled je sistematično preverjanje varnosti sevalnih ali jedrskih
+objektov, ki se izvaja v rednih obdobjih (časovnih intervalih), da bi se
+ugotovili zbirni učinki staranja, sprememb na objektu, obratovalnih izkušenj in
+tehničnega razvoja ter sprememb na lokaciji objekta, tako pa zagotovila visoka
+stopnja varnosti v celotni obratovalni dobi sevalnega ali jedrskega objekta.
+Občasni varnostni pregled je dopolnilno orodje k stalnemu preverjanju varnosti,
+s katerim se mora celovito preveriti stopnja jedrske varnosti sevalnega ali
+jedrskega objekta in potrditi, da je ta sposoben varno obratovati v naslednjem
+obdobju;
+28.  obratovalni
+kazalnik je merljivi parameter, ki omogoča opazovanje obstoječe učinkovitosti
+izvajanja nekega procesa oziroma njeno spremljanje skozi daljše obdobje;
+29.  obratovalni
+pogoji in omejitve so skupina pravil, ki so del varnostnega poročila in
+določajo omejitve parametrov, zmogljivost in delovanje opreme, pa tudi
+ukrepanje osebja za varno obratovanje sevalnega ali jedrskega objekta;
+30.  obratovanje
+so vse dejavnosti za doseganje namena, zaradi katerega je bil sevalni ali
+jedrski objekt zgrajen, vključno z vzdrževanjem, menjavo goriva (če gre za
+jedrsko elektrarno ali raziskovalni reaktor), pregledi med obratovanjem,
+shranjevanjem, skladiščenjem, odlaganjem rudarske ali hidrometalurške jalovine,
+radioaktivnih odpadkov ali izrabljenega goriva ter z drugimi sorodnimi
+dejavnostmi;
+31.  obremenitveni
+cikel je zaključeno zaporedje dogajanj, ki obsega prehod iz izhodiščnih v nove
+procesne okoliščine, poljubno dolgo obratovanje ali vzdrževanje v novem stanju
+in vrnitev v izhodiščno stanje. V enem takem ciklu je lahko en ali več
+obremenitvenih ciklov z manjšimi intenzitetami procesnih okoliščin;
+32.  odstopanje
+je neskladnost, pomanjkljivost ali opustitev zahtev iz pisnih postopkov, ki je
+bila odkrita med vzdrževanjem, preizkušanjem, nadzorom SSK ali analizo dogodka;
+33.  operabilnost
+je stanje SSK, v katerem je zagotovljena zmožnost delovanja oziroma opravljanja
+svoje naloge v skladu z obratovalnimi pogoji in omejitvami. Zagotovljeno mora
+biti tudi delovanje drugih potrebnih SSK, ki s podpornimi funkcijami (npr.
+električno napajanje, hlajenje, mazanje …) omogočajo operabilnost posamezne SSK
+v skladu z obratovalnimi pogoji in omejitvami;
+34.  operater
+je strokovno usposobljena oseba z izpitom, ki krmili ali daje navodila za
+krmiljenje sevalnega ali jedrskega objekta;
+35.  operativni
+intervencijski nivo je vrednost intervencijskega nivoja, ki se izraža z
+neposredno merljivo veličino, kakršna je hitrost doze zunanjega sevanja,
+površinska kontaminacija ali koncentracija radioaktivnih snovi v zraku, pitni
+vodi, hrani ali krmi. Operativni intervencijski nivoji se uporabljajo v začetni
+fazi izrednega dogodka za hitro odločanje o intervencijskih ukrepih;
+36.  operativni
+podporni center je vnaprej določen prostor na območju lokacije sevalnega ali
+jedrskega objekta z zvezami in organizacijo, ki med izrednim dogodkom zagotavlja
+namestitev intervencijskega osebja in napotitev k izvajanju intervencijskih
+ukrepov po tem območju;
+37.  pisni
+postopki so odobreni postopki in odobrena delovna navodila za izvajanje
+dejavnosti in del. Zajeti morajo vsa normalna stanja, odstopanja in
+nepravilnosti glede na normalna in izredna stanja sevalnega ali jedrskega objekta;
+38.  pogoji
+okolja so razmere, v katerih mora izbrani SSK, oprema ali instrument obratovati
+in ki so med drugim določene s temperaturo, tlakom, sevanjem, relativno vlažnostjo,
+kemičnim okoljem, stopnjo poplavljenosti, potresi ipd;
+39.  pogostost
+poškodbe sredice je merilo tveganja, ki pove, s kakšno verjetnostjo lahko
+pričakujemo pregretje in poškodbo sredice jedrskega reaktorja v enoletnem
+obdobju;
+40.  pogostost
+velikih zgodnjih izpustov je merilo tveganja, ki pove pričakovano število
+velikih zgodnjih izpustov na enoto časa;
+41.  poškodba
+sredice je odkritje in segrevanje sredice reaktorja do točke, pri kateri je
+pričakovati povečano oksidacijo in resno poškodbo gorivnih elementov večjega
+dela sredice;
+42.  predpostavljeni
+začetni dogodek je dogodek, ki je vključen med začetne dogodke kot del
+projektnih osnov in ki lahko sproži prehodni pojav ali nezgodno stanje;
+43.  pregled
+SSK je sistematični pregled ustreznosti SSK, ki se praviloma izvaja v vnaprej
+določenih presledkih. Zajema lahko vse sorodne komponente ali pa se med njimi
+izberejo tiste, za katere se s pregledom, meritvijo ali preizkušanjem oceni
+ustreznost materiala in operabilnost. Ustreznost drugih sorodnih komponent se
+lahko oceni glede na ustreznost vzorca izbranih komponent. Pri tem se lahko
+začetni vzorec pregleda komponent poveča, da je ocena stanja stvarnejša;
+44.  prehodni
+pojav je skupek dogajanj, s katerim neki sistem prehaja iz enega v drugo
+stabilno stanje;
+45.  preizkušanje
+je vnaprej načrtovana dejavnost za ugotavljanje operabilnosti SSK in se opravi
+po vzdrževalnih posegih oziroma po opravljenih spremembah na SSK. Periodično
+preizkušanje, ki je predpisano v obratovalnih pogojih in omejitvah, imenujemo
+nadzorno preizkušanje;
+46.  prenosna
+pot je pot, po kateri radioaktivna snov doseže in obseva človeka;
+47.  prioriteta
+korektivnega ukrepa je določitev nujnosti njegove izvedbe glede na pomembnost
+izvajane dejavnosti za sevalno ali jedrsko varnost. Nujna prioriteta tega
+ukrepa se določi, če je ogrožena varnost ljudi, objekta, okolja ali
+zanesljivost delovanja SSK, pomembnih za varnost. Prva prioriteta se določi, če
+je lahko ogrožena ta varnost ali zanesljivost;
+48.  pripravljenost
+na izredni dogodek so vnaprej načrtovane in vzdrževane dejavnosti ter
+organizacijski, človeški, tehnični, materialni in drugi elementi za izvajanje
+obratovalno‑tehničnih ukrepov, pa tudi ukrepov zaščite in reševanja, ki so
+potrebni zaradi celovitega in učinkovitega obvladovanja izrednega dogodka v
+sevalnem ali jedrskem objektu ter zaradi usklajenega vodenja pri obvladovanju
+posledic tega dogodka v okolju;
+49.  prispevni
+vzrok je vzrok, ki prispeva k verjetnosti nastanka dogodka, vendar ga sam po
+sebi še ne povzroči;
+50.  procesni
+pogoji so tehnološki pogoji, pod katerimi SSK opravlja svojo funkcijo, na
+primer mehanska obremenitev, tlak, temperatura ipd;
+51.  projektne
+osnove objekta opredeljujejo njegovo potrebno zmogljivost za obvladovanje
+določenega obsega stanj ob upoštevanju predpisanih zahtev jedrske in sevalne
+varnosti. Vključujejo tudi pogoje za normalno obratovanje, prehodne pojave,
+dogodke, ki izvirajo iz predpostavljenih začetnih dogodkov ali njihovih
+kombinacij, ter varnostno klasifikacijo SSK, pomembnih predpostavk in izbranih
+analitičnih metod. Projektne osnove so prvi pogoj za zagotovitev preprečitve
+posledic pričakovanega obratovalnega ali projektnega dogodka oziroma, če
+preprečitev ni mogoča, ublažitev teh posledic;
+52.  projektne
+osnove SSK so podatki, ki določajo posebni namen izbranega SSK, in posebne
+vrednosti ali obseg vrednosti, ki jim morajo zadostiti SSK. Te vrednosti so
+omejitve, ki izhajajo iz splošno sprejete sodobne prakse za dosego
+funkcionalnih zahtev, ali pa zahteve, ki izhajajo iz analize (temelječe na
+izračunu ali poskusu) posledic predpostavljenega začetnega dogodka, pri katerem
+mora dani SSK izpolniti svojo funkcijo;
+53.  projektni
+dogodki so naravni dogodki ali dogodki zaradi človeške dejavnosti na vplivnem
+območju sevalnega ali jedrskega objekta (zunanji projektni dogodki) in dogodki
+v samem sevalnem ali jedrskem objektu (notranji projektni dogodki), ki utegnejo
+ogroziti njegovo varnost in so predpostavljeni kot najneugodnejši začetni
+dogodki, ki naj bi jih bili varnostni sistemi sevalnega ali jedrskega objekta
+sposobni obvladati brez večjega sproščanja radioaktivnih snovi v okolje ter so
+na podlagi opravljenih raziskav in analiz izbrani za določitev projektnih
+osnov;
+54.  projicirana
+doza je ocenjena vrednost doze, ki bi jo posameznik prejel zaradi izrednega
+dogodka, če ne bi bili uvedeni nobeni intervencijski ukrepi;
+55.  radiološki
+izredni dogodek je katero koli stanje, ki povzroči ali utegne povzročiti
+pomembnejše uhajanje radioaktivnih snovi v okolico;
+56.  referenčna
+dokumentacija je dokumentacija, na katero se sklicuje vsebina varnostnega
+poročila ali je bila kako drugače podlaga za izdajo soglasja za gradnjo ali poskusno
+obratovanje ali za izdajo dovoljenja za obratovanje, prenehanje obratovanja ali
+razgradnjo sevalnega ali jedrskega objekta;
+57.  remont
+je prekinitev proizvodnega procesa sevalnega ali jedrskega objekta zaradi
+menjave goriva, popravil oziroma vzdrževalnih del. Remont jedrske elektrarne se
+začne s prekinitvijo dobave elektrike v električno omrežje in konča s ponovno
+vzpostavitvijo te dobave;
+58.  scenarij
+je predpostavljeni potek dogodkov v sevalnem ali jedrskem objektu (od začetnega
+dogodka prek odpovedi opreme in dejavnosti osebja do končnega stabilnega stanja
+objekta);
+59.  simulator
+je naprava, ki se odziva na dejavnosti operaterja enako kakor pravi sistem.
+Simulator jedrske elektrarne navadno vključuje glavno komandno sobo v enakem
+merilu, v kakršnem je prava komandna soba;
+60.  skupinska
+doza je vsota doz, ki so jih ali bi jih prejeli posamezniki določene populacije
+ljudi zaradi izpostavljenosti viru sevanja. Enota za skupinsko dozo je človek
+sievert;
+61.  smernice
+za obvladovanje težkih nesreč so pisni postopki z usmeritvami operaterjem za
+obvladovanje posledic teh nesreč;
+62.  splošna
+nevarnost je nesreča, ki vključuje dejanske ali neizogibne precejšnje poškodbe
+sredice ali njeno taljenje z možnostjo izgube celovitosti zadrževalnega hrama.
+Pričakuje se, da bodo radioaktivni izpusti zahtevali varnostne ukrepe,
+namenjene izogibanju ali zmanjšanju doz, ki jih prejme prebivalstvo, tudi daleč
+od lokacije objekta;
+63.  sprememba
+v sevalnem ali jedrskem objektu je vsaka nameravana sprememba v zvezi z
+objektom ali načinom njegovega upravljanja ali njegovim obratovanjem, vključno
+z vzdrževalnimi deli, pregledovanjem, preskušanjem ali uvedbo tehnične,
+organizacijske ali druge spremembe v zvezi s temi deli;
+64.  SSK
+je kratica, ki označuje skupek konstrukcij, sistemov in komponent. Konstrukcije
+so pasivni elementi, kakršni so zgradbe in ščiti. Sistem tvori več komponent,
+ki so sestavljene tako, da opravljajo določeno (aktivno) funkcijo. Med SSK se
+uvršča tudi programska oprema za instrumentacijo in regulacijo. Če je objekt
+skladišče ali odlagališče radioaktivnih odpadkov, se med SSK uvrščajo tudi
+paketi radioaktivnih odpadkov;
+65.  stabilni
+jod je neradioaktivni jod, navadno kot kalijev jodat ali jodid, v obliki
+tablet, ki se uporablja za jodno profilakso;
+66.  stanja
+objekta so normalna stanja sevalnega ali jedrskega objekta (redno obratovanje,
+vključno z odpovedjo opreme z verjetnostjo nastanka enkrat na leto) in izredna
+stanja (odpoved opreme in drugi izredni dogodki z verjetnostjo nastanka manj
+kakor enkrat na leto in več kakor enkrat v obratovalni dobi objekta);
+67.  stohastični
+učinki so statistično ugotovljive okvare zaradi spremenjenih lastnosti
+obsevanih celic, ki se lahko razmnožujejo. Stohastični učinki, kakršen je
+nastanek malignega raka ali dednih posledic v genih, niso odvisni od doze in
+zanje prag ne obstaja, vendar je njihov nastanek verjetnejši pri višji dozi;
+68.  stopenjski
+pristop pomeni, da se pomembnim značilnostim posveti večja pozornost (npr. se
+podrobneje oziroma izdatneje projektirajo ali opišejo) in manj pomembnim
+značilnostim manj pozornosti (npr. se projektirajo ali opišejo manj podrobno);
+69.  tehnični
+podporni center so prostori in ustrezna podporna oprema na lokaciji objekta ali
+blizu te lokacije na voljo osebju, ki zagotavlja tehnično podporo operaterjem
+in strokovnemu osebju ter vodenje obvladovanja izrednega dogodka na območju
+objekta;
+70.  temeljni
+vzrok je najosnovnejši vzrok za dogodek, katerega odstranitev zagotavlja, da se
+ta dogodek ne ponovi;
+71.  težka
+nesreča je nesreča v jedrski elektrarni ali raziskovalnem reaktorju, ki glede
+svojih posledic presega projektni dogodek in vodi k taljenju sredice ali ogrožanju
+okolja;
+72.  trajna
+preselitev je preselitev ljudi in živali z radioaktivno kontaminiranega
+območja, ki ne predvideva vrnitve v nekaj letih;
+73.  tveganje
+je zmnožek pričakovane pogostosti dogodka in posledic, ki bi nastale;
+74.  used
+je usedanje radioaktivnih delcev iz radioaktivnega oblaka zaradi teže ali
+spiranja s padavinami na tla in druge prizemne površine;
+75.  varnostna
+funkcija je učinek, ki mora biti dosežen, ali delo, ki mora biti opravljeno, za
+zagotovitev sevalne oziroma jedrske varnosti;
+76.  varnostna
+kultura so značilnosti in vedenje v organizaciji ali pri posameznikih, ki
+zagotavljajo varstvu in varnosti najvišjo prednost in pozornost, ustrezno njeni
+pomembnosti. Za sevalno ali jedrsko področje se ta pojem nanaša na osebno
+zavzetost in odgovornost vseh vpletenih posameznikov v katero koli dejavnost,
+ki ima vpliv na delovanje in varnost sevalnega ali jedrskega objekta. Ključni
+elementi varnostne kulture so odprt odnos do svobodne izmenjave informacij,
+vključno z neomejenim razmišljanjem o varnostnih vprašanjih skupaj z vprašanji,
+ki se pri tem pojavljajo, preprečevanje samozadostnosti in predanost
+popolnosti, pa tudi gojitev osebne in skupinske odgovornosti, pa tudi dviga
+nivoja sevalne ali jedrske varnosti;
+77.   varnostna
+ocena je postopek, s katerim se podrobno oceni vpliv načrtovane spremembe na
+sevalno ali jedrsko varnost objekta;
+78.  varnostna
+pregrada je fizična prepreka, ki ovira ali preprečuje gibanje ljudi,
+radioaktivnih snovi oziroma drugih pojavov (npr. ogenj, voda, izstrelki opreme)
+ali ščiti pred ionizirajočim sevanjem v sevalnem ali jedrskem objektu;
+79.  varnostno
+presejanje je postopek, s katerim se opravi prva presoja vpliva načrtovane
+spremembe na sevalno ali jedrsko varnost objekta;
+80.  varnostna
+rezerva je razlika med mejno vrednostjo parametra, pri kateri SSK odpove, in
+vrednostjo parametra, ki ga v postopku pridobitve soglasja in dovoljenja za
+jedrske in sevalne objekte odobri Uprava;
+81.  varnostno
+poročilo je dokument ali zbirka dokumentov, ki vsebuje ključne informacije o
+sevalnem ali jedrskem objektu, o njegovih obratovalnih omejitvah in pogojih ter
+o njegovem vplivu na okolje, pa tudi opis projekta, analizo možnih nezgod in
+ukrepe, ki so nujni za odpravo oziroma zmanjšanje nevarnosti za okolje,
+prebivalstvo in osebje objekta;
+82.  veliki
+zgodnji izpust je hiter, neoviran izpust cepitvenih produktov iz zadrževalnega
+hrama v zrak, ki se zgodi pred učinkovito izvedbo ukrepov za zmanjšanje
+posledic izrednega dogodka, tako da obstaja nevarnost vpliva na zdravje
+prebivalstva;
+83.  verjetnostne
+varnostne analize so varnostne analize zanesljivosti sistemov sevalnega ali
+jedrskega objekta, pri katerih se z uporabo verjetnostnih metod prepozna in
+ovrednoti obseg možnih vplivov na sevalno ali jedrsko varnost, kakršni so
+odpoved komponent in njihova nerazpoložljivost, človeške napake, negativni
+vplivi okolja, požari, poplave in potresi;
+85.1. Verjetnostne varnostne
+analize prvega nivoja so analize, s katerimi določimo zaporedje dogodkov, ki
+lahko vodijo do poškodbe sredice, ocenjujemo pričakovano pogostost poškodbe
+sredice ter ugotavljamo slabe in dobre strani varnostnih sistemov in postopkov,
+s katerimi preprečujemo to poškodbo;
+85.2. Verjetnostne varnostne
+analize drugega nivoja so analize, s katerimi določimo načine, na katere
+radioaktivni izpusti iz sevalnega ali jedrskega objekta dosežejo okolje,
+ocenimo njihov obseg in pričakovano pogostost ter ugotavljamo sorazmerno
+pomembnost ukrepov za njihovo preprečitev in omilitev;
+85.3. Verjetnostne varnostne
+analize tretjega nivoja so analize, s katerimi se prepoznajo in ovrednotijo
+posledice radioaktivnih izpustov na okolje in zdravje ljudi;
+84.  vplivno
+območje je tridimenzionalni prostor ob sevalnem ali jedrskem objektu, nad in
+pod njim, ki ga določajo dejavniki iz okolice, ki lahko vplivajo na objekt, ter
+do koder sežejo vplivi objekta na okolje;
+85.  vodstvo
+je posameznik ali skupina posameznikov, ki ima pooblastila za vodenje celotnega
+sevalnega ali jedrskega objekta ali posamezne organizacijske enote v njem;
+86.  vzdrževanje
+je načrtovani proces, ki zagotavlja obnavljanje SSK zaradi ohranjanja njihove
+funkcionalnosti med celotno življenjsko dobo. Vzdrževanje je lahko prediktivno
+ali periodično. Prediktivno vzdrževanje se izvaja stalno ali občasno na podlagi
+opazovanja in spremljanja stanja SSK, pri čemer se z analizo poteka degradacije
+napove njihova odpoved. Periodično vzdrževanje pa je sestavljeno iz zamenjav
+delov, nadzora in preizkušanj, ki se izvajajo po vnaprej določenem programu
+(določeni cikli, časovni presledki, obratovalni časi ipd.), in lahko temelji na
+priporočilih proizvajalca opreme. Pri ugotovljenem odstopanju oziroma odpovedi
+SSK se v sklopu vzdrževanja opravijo korektivni ukrepi;
+87.  začasna
+preselitev je preselitev ljudi in živali, ki traja od nekaj tednov do nekaj
+mesecev po nesreči;
+88.  začasna
+sprememba v sevalnem ali jedrskem objektu je vsaka sprememba, ki velja samo v
+določenem obdobju. Izvede se, če ni potrebe po stalni spremembi v objektu,
+lahko pa je tudi vmesna stopnja pri izvedbi stalne spremembe;
+89.  zaklanjanje
+je zadrževanje ljudi v zaprtih prostorih ob izrednem dogodku do nekaj dni, da
+se izognejo dozam zaradi zunanje obsevanosti in vnosa, ki bi presegla
+intervencijske nivoje;
+90.  zaščitni
+ukrep je ukrep, s katerim preprečimo deterministične učinke sevanja in
+zmanjšamo tveganje za stohastične učinke sevanja;
+91.  zunanji
+podporni center je vnaprej določen prostor zunaj območja lokacije sevalnega ali
+jedrskega objekta z opremo, podatkovnimi povezavami, zvezami, dokumentacijo in
+organizacijo, ki med izrednim dogodkom zagotavlja inženirsko, tehnično in
+logistično podporo intervencijskemu osebju v objektu, usklajevanje z
+institucijami v okolju in podpornimi organizacijami, ocenjevanje radioloških
+posledic izrednega dogodka, priporočanje takojšnih zaščitnih ukrepov za ogroženo
+prebivalstvo in obveščanje o statusu izrednega dogodka na območju lokacije
+objekta.
+(2) Drugi izrazi, uporabljeni v tem
+pravilniku, imajo enak pomen kakor izrazi, opredeljeni v zakonu, ki ureja
+varstvo pred ionizirajočimi sevanji in jedrsko varnost.
+II. VARNOST PO ZAČETKU OBRATOVANJA OBJEKTA
+II.1 Upravljanje objekta
+3. člen
+(uporaba obratovalnih pogojev in omejitev)
+(1) Delavci z dovoljenjem za
+opravljanje del in nalog upravljanja tehnološkega procesa in njegovega nadzora
+v sevalnem ali jedrskem objektu morajo biti natančno seznanjeni z vsebino,
+nameni in tehničnimi osnovami obratovalnih pogojev in omejitev. Delavci, ki
+opravljajo dela in naloge v zvezi z nadzorom nad upravljanjem tehnološkega
+procesa v objektu, se morajo zavedati pomembnosti obratovalnih pogojev in
+omejitev za varnost objekta.
+(2) Informacije o obratovalnih pogojih
+in omejitvah morajo biti dostopne za vse delavce, ki upravljajo objekt. V
+objektih, ki imajo komandno sobo, morajo biti te informacije dostopne v
+komandni sobi.
+(3) Obratovalne pogoje in omejitve je
+treba pregledovati in po potrebi spremeniti v skladu z obratovalnimi
+izkušnjami, razvojem znanosti in tehnologije ter po vsaki spremembi v objektu,
+zaradi katere bi bilo to opravičljivo oziroma potrebno.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora vzpostaviti in izvajati ustrezen program obratovanja,
+vzdrževanja, preizkušanja in pregledov SSK, ki zagotavlja izpolnjevanje zahtev
+iz obratovalnih pogojev in omejitev, ustrezno analizo in arhiviranje ugotovitev
+tega nadzora.
+4. člen
+(brezpogojni ukrepi)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora takoj začeti izvajati ukrepe za prehod v varno
+obratovalno stanje, določeno v obratovalnih pogojih in omejitvah, če:
+1.    
+je ugotovljeno odstopanje od obratovalnih pogojev in omejitev,
+2.    
+obratovalno osebje ni prepričano, da je obstoječe obratovanje v mejah,
+opisanih v obratovalnih pogojih in omejitvah,
+3.    
+se objekt ne odziva, kakor je pričakovano.
+(2) Če se v primeru iz prejšnjega
+odstavka v sevalnem ali jedrskem objektu normalno obratovanje zaustavi (v
+jedrski elektrarni ali raziskovalnem reaktorju zaustavitev verižne reakcije),
+mora upravljavec pred ponovnim zagonom:
+1.    
+ugotoviti vzrok nastalih okoliščin, ki so povzročile neizpolnjevanje
+obratovalnih pogojev in omejitev,
+2.    
+določiti korektivne ukrepe za preprečitev ponovitve dogodka in
+3.    
+izpolniti vse pogoje za ponovni zagon.
+5. člen
+(pisni postopki za obratovanje oziroma
+razgradnjo sevalnega ali jedrskega objekta)
+Upravljavec sevalnega ali jedrskega objekta
+mora pripraviti in uporabljati pisne postopke za njegovo obratovanje,
+prenehanje obratovanja oziroma razgradnjo, ki morajo pokrivati vsa stanja
+objekta, predvidena v varnostnem poročilu, predvsem pa za:
+a) 
+obratovanje, in sicer:
+- zagon
+sistemov,
+- obratovanje
+objekta,
+- zaustavitev
+obratovanja,
+- ukrepanje
+v sili;
+b) 
+nesreče, in sicer:
+- prepoznavanje
+nesreče,
+- preprečevanje
+razvoja nesreče in njeno odpravo,
+- omilitev
+posledic nesreče;
+c) 
+vzdrževanje, nadzor in druga opravila, ki so
+pomembna za sevalno in jedrsko varnost, varnost delavcev in zanesljivost
+elektrarne, in sicer:
+- dela
+pri vzdrževanju, korektivnih ukrepih, pregledu in tehničnem nadzoru opreme,
+- dela
+pri ravnanju z radioaktivnimi snovmi,
+- radiološki
+nadzor v objektu in njegovi okolici,
+- organizacijo,
+delovanje in ukrepe za varstvo pred ionizirajočimi sevanji,
+- organizacijo,
+delovanje in ukrepe za varstvo pred požari.
+II.2 Spremljanje obratovalnih izkušenj
+6. člen
+(osnove spremljanja obratovalnih izkušenj)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora spremljati lastne in tuje obratovalne izkušnje, nova
+spoznanja, pridobljena pri raziskavah in razvoju, spremembe predpisov in standardov,
+navodila proizvajalcev, njihovih združenj in mednarodnih organizacij ter jih
+sistematično vrednotiti in uporabljati.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora določiti osebje za spremljanje obratovalnih izkušenj, ki
+mu morajo biti zagotovljena ustrezna sredstva, usposabljanje in podpora
+vodstva.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da se na podlagi spremljanja obratovalnih
+izkušenj iz prvega odstavka tega člena:
+-      
+sprejmejo ustrezni sklepi in ukrepi,
+-      
+upoštevajo dobre izkušnje in
+-      
+sprejmejo pravočasni in ustrezni ukrepi, ki bi preprečili ponovitev
+dogodka ali poslabšanje sevalne ali jedrske varnosti.
+7. člen
+(program spremljanja obratovalnih
+izkušenj)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pripraviti program spremljanja obratovalnih izkušenj, ki
+mora obsegati najmanj:
+1.    
+vrsto, obseg in merila za zbiranje podatkov o lastnih in tujih
+obratovalnih izkušnjah,
+2.    
+način zbiranja in shranjevanja podatkov o lastnih in tujih obratovalnih
+izkušnjah,
+3.    
+način vrednotenja zbranih podatkov,
+4.    
+metode analiziranja zbranih podatkov,
+5.    
+način izvajanja preventivnih ali korektivnih ukrepov, izhajajočih iz
+izsledkov analiz, zato da bi se preprečile degradacije SSK oziroma nastanek ali
+ponovitev podobnega dogodka v objektu, ter
+6.    
+zahteve za seznanjanje osebja in vodstva sevalnega ali jedrskega objekta
+z varnostno pomembnimi obratovalnimi izkušnjami.
+(2) Upravljavec mora za izvajanje
+programa spremljanja obratovalnih izkušenj pripraviti pisne postopke.
+(3) Upravljavec mora zagotoviti
+dokumentiranje in shranjevanje obratovalnih izkušenj, izhajajočih iz normalnega
+in nenormalnega obratovanja, korektivnih ukrepov, povratnih informacij o
+korektivnih ukrepih in drugih informacij, povezanih s sevalno ali jedrsko
+varnostjo, upoštevajoč dostopnost, možnost sistematičnega iskanja, preglednost
+in razumljivost prikaza za osebje, ki izvaja program spremljanja obratovalnih
+izkušenj.
+(4) Upravljavec mora s
+samovrednotenjem ali neodvisnim vrednotenjem v rednih časovnih presledkih,
+krajših od obdobja med občasnima varnostnima pregledoma, preveriti in
+posodobiti ustreznost programa spremljanja obratovalnih izkušenj iz prvega
+odstavka tega člena ter pri tem upoštevati minule obratovalne izkušnje.
+Morebitna sprememba programa spremljanja obratovalnih izkušenj mora biti
+izvedena v skladu s 34., 35. in 36. členom tega pravilnika.
+8. člen
+(seznanjanje z obratovalnimi izkušnjami)
+(1) Program spremljanja obratovalnih
+izkušenj mora od zaposlenih zahtevati poročanje o vseh dogodkih in jih spodbujati
+tudi k poročanju o dogodkih brez posledic. Pri tem jim mora biti zagotovljeno,
+da zaradi poročanja ne bo nezaželenih posledic.
+(2) Z informacijami, pridobljenimi na
+podlagi obratovalnih izkušenj, mora biti seznanjeno ustrezno osebje, ki je
+vključeno v procese vzdrževanja, proizvodnje, tehnične podpore, zagotovitve
+kakovosti, strokovnega usposabljanja in fizičnega varovanja sevalnega ali
+jedrskega objekta.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora poskrbeti za izmenjavo informacij o obratovalnih
+izkušnjah z ustreznimi mednarodnimi organizacijami in domačimi ali tujimi
+sevalnimi ali jedrskimi objekti. Vzdrževati mora stike s projektanti,
+dobavitelji in raziskovalnimi organizacijami, ki so bili vključeni v
+projektiranje in gradnjo objekta, ter jim po potrebi dati povratne informacije
+o obratovalnih izkušnjah in od njih pridobivati nasvete ob okvari ali
+degradaciji SSK ali pa o nadzoru poteka obratovalnega dogodka.
+9. člen
+(spremljanje in analiza dogodkov v
+sevalnem ali jedrskem objektu)
+(1) Program spremljanja obratovalnih
+izkušenj mora zagotavljati sistematično spremljanje in analizo dogodkov v
+sevalnem ali jedrskem objektu. Vključevati mora merila za vrednotenje dogodkov
+glede na njihovo pomembnost. V programu spremljanja obratovalnih izkušenj mora
+biti določen tudi rok za izdelavo analize, ki je odvisen od pomembnosti
+dogodka.
+(2) Dogodke iz prejšnjega odstavka, ki
+so pomembni za sevalno ali jedrsko varnost, je treba ovrednotiti čim prej
+zaradi nujnosti uvedbe takojšnjih korektivnih ukrepov.
+(3) Program spremljanja obratovalnih
+izkušenj mora omogočiti prepoznavanje dogodkov, ki so se že zgodili, vendar
+njihove posledice pri poslabšanju sevalne ali jedrske varnosti še niso opazne,
+prepoznavanje možnih znanilcev poslabšanja sevalne ali jedrske varnosti in
+možnega poslabšanja sevalne ali jedrske varnostni ali zmanjšanja varnostnih
+rezerv.
+(4) Pri analizi iz prvega odstavka
+tega člena je treba upoštevati:
+1.    
+pomembnost dogodka glede na sevalno ali jedrsko varnost objekta,
+vključno z morebitnimi posledicami,
+2.    
+časovno zaporedje posameznih dogodkov,
+3.    
+odstopanja od predvidenega odziva ali ukrepa,
+4.    
+analizo prispevnih, neposrednih in temeljnih vzrokov ter
+5.    
+izbiro korektivnih ukrepov in časovnega načrta njihovega izvajanja.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora imeti na voljo pisne postopke za ustrezno analizo
+dogodka, v katere so vključene tudi metode analiziranja človekovega ravnanja in
+varnostne kulture.
+(6) Za jedrske elektrarne in
+raziskovalne reaktorje morajo biti podatki, pridobljeni na podlagi analiz
+dogodkov iz prvega odstavka tega člena, ustrezno ovrednoteni in upoštevani v
+modelih verjetnostnih varnostnih analiz. Poleg pomembnosti dogodkov je treba
+spremljati njihovo pogostost in to upoštevati v podatkovnih zbirkah vhodnih
+podatkov za izdelavo verjetnostnih varnostnih analiz.
+(7) Korektivni ukrepi na SSK ali
+spremembe na podlagi analiz iz prvega odstavka tega člena morajo biti
+predlagani, odobreni in izvedeni čim prej. Pri hkratnih zahtevkih za več
+korektivnih ukrepov je treba upoštevati prioriteto glede na varnostno pomembnost
+degradiranega SSK. Operabilnost SSK se potrdi s primernim preizkušanjem in
+pregledom po opravljenem korektivnem ukrepu.
+(8) Morebitni korektivni ukrepi na
+podlagi analize iz prvega odstavka tega člena, na primer tehnične spremembe,
+organizacijski ukrepi, usposabljanje osebja ter dejavnosti s področij
+vzdrževanja, preizkušanja in pregleda SSK, morajo biti izvedeni pravočasno in
+primerno, da se zmanjša verjetnost ponovitve enakega ali podobnega dogodka in
+izboljša sevalna ali jedrska varnost objekta.
+(9) Določba šestega odstavka tega
+člena se ne uporablja za raziskovalni reaktor TRIGA.
+10. člen
+(spremljanje in analiza tujih obratovalnih
+izkušenj)
+(1) Program spremljanja obratovalnih
+izkušenj mora zagotavljati sistematično spremljanje, analizo in upoštevanje
+tovrstnih izkušenj tujih sevalnih ali jedrskih objektov in iz njih izhajajočih
+priporočil, upoštevajoč različne vire informacij.
+(2) Na podlagi predhodnega pregleda
+različnih poročil tujih obratovalnih izkušenj oziroma priporočil je treba
+izbrati tiste, ki so mogoči v lastnem objektu oziroma so se zgodili na podobnem
+sevalnem ali jedrskem objektu. Za tako izbrane dogodke je treba dodatno
+pridobiti čim več vhodnih podatkov, izkušenj in povratnih informacij. Izbrane
+dogodke je treba podrobneje analizirati in določiti ustrezne preprečevalne
+ukrepe v lastnem objektu.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora voditi evidenco vseh pregledanih in obravnavanih
+obratovalnih izkušenj iz prejšnjega odstavka. Evidenca mora obsegati tudi tiste
+znane ukrepe, ki so bili izvedeni na podobnem sevalnem ali jedrskem objektu za
+preprečitev ponovitve dogodka.
+11. člen
+(spremljanje obratovalnih kazalnikov)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora imeti program spremljanja obratovalnih kazalnikov, ki prikazujejo
+varnost in obratovanje objekta. Vsak kazalnik mora biti opredeljen in imeti
+razvit postopek ovrednotenja njegove vrednosti, upoštevajoč tudi mednarodne
+izkušnje.
+(2) Kazalniki iz prvega odstavka tega
+člena morajo pri jedrskih objektih pokrivati najmanj naslednja področja:
+1.    
+jedrsko varnost, ki vključuje dogodke, razpoložljivost varnostnih
+sistemov, celovitost varnostnih pregrad, usposobljenost osebja, pripravljenost
+na izredne dogodke in kazalnike tveganja,
+2.    
+varstvo pred sevanji, ki vključuje sevalno izpostavljenost osebja in
+prebivalstva,
+3.    
+varstvo pri delu, vključno s požarno varnostjo,
+4.    
+splošno učinkovitost objekta s stališča stabilnosti in zmožnosti
+obratovanja,
+5.    
+varnostno kulturo,
+6.    
+spremljanje obratovalnih izkušenj,
+7.    
+vzdrževanje, vključno z nadzorom staranja in upravljanja sprememb in
+kakovosti ter nadzorom učinkovitosti vzdrževanja,
+8.    
+fizično varovanje.
+(3) Kazalniki iz prvega odstavka tega
+člena morajo pri sevalnih objektih pokrivati najmanj naslednja področja:
+1.    
+varstvo pred sevanji, ki vključuje sevalno izpostavljenost osebja in
+prebivalstva,
+2.    
+varstvo pri delu, vključno s požarno varnostjo,
+3.    
+varnostno kulturo, ki vključuje človeško učinkovitost, upoštevanje
+postopkov, odnos do postopkov, upoštevanje upravnih omejitev in zakonodaje,
+4.    
+fizično varovanje.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora s samoovrednotenjem ali neodvisnim vrednotenjem v rednih
+časovnih presledkih, krajših od obdobja med občasnima varnostnima pregledoma,
+preveriti in posodobiti ustreznost programa spremljanja obratovalnih kazalnikov.
+Morebitna sprememba programa mora biti izvedena v skladu s 34., 35. in 36.
+členom tega pravilnika.
+12. člen
+(neodvisna skupina za spremljanje
+varnosti)
+(1) Za vsak jedrski objekt, razen za
+skladišča ali odlagališča radioaktivnih odpadkov oziroma jedrskega goriva, mora
+njegov upravljavec zagotoviti delovanje neodvisne skupine za spremljanje in
+oceno sevalne in jedrske varnosti (v nadaljnjem besedilu: neodvisna skupina)
+ter ji zagotoviti pogoje dela in dostopnost do vseh informacij. Neodvisna
+skupina mora biti funkcijsko neodvisna od drugih organizacijskih enot v
+objektu.
+(2) Neodvisna skupina mora imeti
+pravico, da na lastno pobudo razišče katero koli posebnost v vodenju ali obratovanju
+objekta iz prejšnjega odstavka ter druge dejavnosti na tem objektu, vključno z
+vzdrževanjem, spremembami in obratovalnimi izkušnjami. Njen namen je zagotoviti
+neodvisno preverjanje, da so vse dejavnosti na objektu izvedene pravilno in da
+je delež človeških napak zmanjšan, kolikor je le mogoče. Neodvisna skupina
+lahko vodstvu objekta predlaga korektivne ukrepe glede na izsledke lastne
+preiskave.
+(3) Neodvisna skupina mora imeti
+zagotovljena ustrezna sredstva in podporo vodstva za izvajanje svojega dela,
+kar vključuje tudi potrebno usposabljanje.
+(4) Neodvisna skupina mora vsaj enkrat
+na mesec poročati vodstvu jedrskega objekta o svojem delu.
+(5) Za jedrsko elektrarno mora
+neodvisno skupino sestavljati najmanj pet posameznikov, za druge jedrske
+objekte pa najmanj trije. Člani neodvisne skupine morajo imeti zaključeno
+izobrazbo najmanj dodiplomskega študijskega programa tehnične ali naravoslovne smeri
+in vsak po najmanj dve leti delovnih izkušenj, od katerih mora biti vsaj eno
+leto z jedrskega področja.
+13. člen
+(poročanje o programu spremljanja
+obratovalnih izkušenj)
+Upravljavec sevalnega ali jedrskega objekta
+mora poslati Upravi:
+-      
+program spremljanja obratovalnih izkušenj iz 7. člena tega pravilnika,
+-      
+program spremljanja obratovalnih kazalnikov iz 11. člena tega
+pravilnika in
+-      
+vsako spremembo ali dopolnitev programov iz tega člena.
+II.3 Nadzor staranja
+14. člen
+(osnove nadzora staranja)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora za varnostno pomembne SSK sistematično prepoznavati
+možne mehanizme staranja in njihove učinke, vključno z obrabo in možno
+degradacijo, ter sproti spremljati in ocenjevati stanje z vzdrževanjem,
+preizkušanjem in pregledom SSK.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora izvajati ukrepe za pravočasno zmanjšanje ali odpravo učinkov
+staranja. Zagotoviti mora, da so v projektnih osnovah navedene zahteve po
+izvajanju varnostnih funkcij SSK izpolnjene v celotni obratovalni dobi objekta.
+15. člen
+(program nadzora staranja)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pripraviti program nadzora staranja, s katerim se
+prepoznajo mehanizmi staranja vseh SSK, pomembnih za varnost, ugotovijo možne
+posledice staranja ter določijo nujni ukrepi za ohranitev operabilnosti in
+zanesljivosti SSK. Program nadzora staranja mora obsegati najmanj:
+1.    
+merila za izbiro SSK, ki so vključeni v program nadzora staranja,
+2.    
+izbiro preventivnih dejavnosti za odpravo ali blažitev učinkov staranja,
+3.    
+spremljanje sprememb nadzorovanih parametrov v daljšem obdobju za
+ugotavljanje časovnega poteka staranja SSK,
+4.    
+merila sprejemljivosti za nadzorovane učinke staranja,
+5.    
+izbiro korektivnih ukrepov za SSK, ki ne zadovoljujejo meril
+sprejemljivosti,
+6.    
+organizacijski nadzor staranja ter
+7.    
+navodila za vrednotenje lastnih in tujih obratovalnih izkušenj o
+staranju.
+(2) Program nadzora staranja mora
+upoštevati najmanj:
+1.    
+pogoje okolja,
+2.    
+procesne pogoje,
+3.    
+število obremenitvenih ciklov,
+4.    
+program vzdrževanja, preizkušanja in pregledovanja ter
+5.    
+predvideno obratovalno dobo objekta.
+(3) Program nadzora staranja mora za
+jedrske elektrarne vsebovati nadzor staranja za mehanske, električne in
+gradbene SSK. Za jedrske elektrarne mora biti v ta program vključen nadzor
+celotne tlačne meje primarnega sistema, za raziskovalne reaktorje pa vsaj
+nadzor reaktorske tlačne posode, če ta obstaja, s pripadajočimi zvari.
+Spremljati je treba najmanj pojav krhkosti materiala zaradi vpliva nevtronskega
+fluksa ter proces utrujanja materiala zaradi termičnih in drugih obremenitev.
+Izmerjene rezultate je treba primerjati z napovedanimi lastnostmi, ki so vezane
+na celotno obratovalno dobo.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora pregledati in posodobiti program nadzora staranja v
+rednih časovnih presledkih, krajših od obdobja med občasnima varnostnima
+pregledoma, zato da se vanj vključijo nove informacije in spoznanja ter
+vpeljejo boljše metode in ocene učinkovitosti programa vzdrževanja,
+preizkušanja in pregledov SSK glede na celotno obratovalno dobo objekta. Morebitna
+sprememba programa mora biti izvedena v skladu s 34., 35. in 36. členom tega
+pravilnika.
+16. člen
+(poročanje o nadzoru staranja)
+Upravljavec sevalnega ali jedrskega objekta
+mora poslati Upravi program nadzora staranja in vsako njegovo spremembo ali
+dopolnitev.
+II.4 Vzdrževanje SSK
+17. člen
+(osnove vzdrževanja, preizkušanja in
+pregledov SSK)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora med celotno obratovalno dobo objekta, med razgradnjo in
+med dolgoročnim nadzorom, če gre za odlagališče, z vzdrževanjem, preizkušanjem
+in pregledi SSK zagotoviti njihovo razpoložljivost, zanesljivost in
+operabilnost. Operabilnost SSK, ki so pomembni za varnost, mora biti v skladu s
+projektnimi osnovami.
+(2) Upravljavec sevalnega ali jedrskega
+objekta mora analizirati rezultate vzdrževanja, preizkušanja in pregleda SSK.
+(3) Za povečanje zanesljivosti in
+razpoložljivosti SSK mora upravljavec sevalnega ali jedrskega objekta izvesti
+ustrezne dejavnosti ali spremembe, ki izhajajo iz povratnih informacij o
+opravljenem vzdrževanju ter iz rezultatov preizkušanj in pregledov SSK. Pri tem
+mora upoštevati tudi napredek v znanosti in tehnologiji.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da vsako dejavnost pri vzdrževanju, preizkušanju
+ali pregledih varnostno pomembnih SSK, pri katerih delno ali v celoti
+sodelujejo zunanji podizvajalci, odobri in nadzoruje pristojno osebje
+upravljavca sevalnega ali jedrskega objekta.
+18. člen
+(programi vzdrževanja, preizkušanja in
+pregleda SSK)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pripraviti programe vzdrževanja, preizkušanja in
+pregledov SSK, s katerimi se lahko oceni, ali je zagotovljeno varno obratovanje
+objekta ali pa so potrebni korektivni ukrepi. Program vzdrževanja, preizkušanja
+in pregledov SSK mora obsegati najmanj:
+1.    
+smernice za izbiro SSK, ki se bodo vzdrževali, preizkušali in
+pregledovali po programu,
+2.    
+seznam standardov, uporabljenih pri kvalifikaciji in umerjanju SSK ter
+določanju mej sprejemljivosti pri pregledih SSK,
+3.    
+zbiranje podatkov o opravljenem delu, ki omogoča določitev začetnih in
+ponavljajočih se odstopanj,
+4.    
+način analize zbranih podatkov ter
+5.    
+določitev meril za morebitno spremembo pogostosti in obsega vzdrževanja,
+preizkušanja in pregledov SSK, pa tudi sprožanja korektivnih ukrepov glede na
+rezultate analiziranih podatkov, zato da se ohranja zanesljivost,
+razpoložljivost in operabilnost SSK.
+(2) Pri določitvi obsega in pogostosti
+vzdrževanja, preizkušanja in pregledov SSK morajo biti v programih iz prejšnjega
+odstavka upoštevani najmanj:
+1.    
+obratovalni pogoji in omejitve,
+2.    
+pomembnost dejavnosti glede pomembnosti SSK za varnost objekta,
+3.    
+v zasnovi upoštevana zanesljivost SSK,
+4.    
+pogostost obratovanja in okoliščine, v katerih SSK obratuje,
+5.    
+rezultati spremljanja stanja SSK,
+6.    
+primerno dolga periodična obdobja med posameznimi preizkušanji in
+pregledi, ki omogočajo pravočasno odkrivanje morebitnih degradacij še preden
+SSK ni več operabilen,
+7.    
+možnost degradacije glede na lastne in tuje obratovalne izkušnje ter
+priporočila proizvajalcev opreme in pooblaščenih izvedencev za sevalno in
+jedrsko varnost.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora v skladu s programi vzdrževanja, preizkušanja in
+pregledov SSK zagotoviti pisne postopke za dejavnosti, ki se izvajajo med
+obratovanjem ter med načrtovanim remontom ali nenačrtovano zaustavitvijo
+objekta. Pisni postopki morajo določati:
+1.    
+pooblastila in odgovornosti za opravljanje določene dejavnosti,
+2.    
+način dela,
+3.    
+primerne metode in standarde za opravljanje dela,
+4.    
+uporabo primernega orodja in merilne opreme,
+5.    
+zadosti rezervnih delov in materiala,
+6.    
+merila za uspešno opravljeno vzdrževanje, preizkušanje in pregled SSK,
+7.    
+ukrepe pri odstopanjih od meril iz prejšnje alineje,
+8.    
+medsebojno usklajenost vseh dejavnosti in izvajalcev ter
+9.    
+druge podrobnosti za delo glede vzdrževanja, preizkušanja in pregledov
+SSK.
+(4) Upravljavec sevalnega ali
+jedrskega objekta lahko v programu iz prvega odstavka tega člena predvidi
+izvajanje vzdrževanja med obratovanjem. Če je objekt raziskovalni reaktor ali
+jedrska elektrarna, mora upravljavec ravnati v skladu z 22. členom tega
+pravilnika, upravljavci drugih objektov pa izvajati vzdrževanje med
+obratovanjem ob smiselni uporabi 22. člena tega pravilnika.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti dokumentiranje in shranjevanje povratnih
+informacij o vzdrževanju, rezultatih preizkušanj in pregledov SSK ter drugih
+informacij, povezanih s sevalno ali jedrsko varnostjo.
+(6) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da se podatki iz prejšnjega odstavka
+sistematično pregledujejo, zato da se prepozna ponavljajoče ali povečane
+degradacije SSK. Na podlagi tako ugotovljenih degradacij je treba začeti
+prediktivno vzdrževanje ali opraviti korektivne ukrepe. V takem primeru je
+treba izvesti pregled ustreznosti programa iz prvega odstavka tega člena.
+(7) Upravljavec sevalnega ali
+jedrskega objekta mora v rednih časovnih presledkih, krajših od obdobja med
+občasnima varnostnima pregledoma, pregledati ustreznost programov iz prvega
+odstavka tega člena glede na obratovalne izkušnje in jih po potrebi posodobiti.
+Program vzdrževanja, preizkušanja in pregledov SSK mora biti pregledan in posodobljen
+na koncu vsakega periodičnega obdobja iz 6. točke drugega odstavka tega člena,
+upoštevajoč pri tem lastne in tuje obratovalne izkušnje ter napredek v znanosti
+in tehnologiji. Morebitna sprememba programa vzdrževanja, preizkušanja in
+pregledov SSK mora biti izvedena v skladu s 34., 35. in 36. členom tega
+pravilnika.
+19. člen
+(načrtovanje vzdrževanja, preizkušanja in
+pregledov SSK)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pred vsakim vzdrževanjem, preizkušanjem in pregledi SSK
+pripraviti podroben načrt te dejavnosti, ki mora biti v skladu s programi
+vzdrževanja, preizkušanja in pregledov SSK iz prvega odstavka prejšnjega člena.
+(2) Preden SSK preneha obratovati
+oziroma je vrnjen v obratovanje, mora upravljavec sevalnega ali jedrskega objekta
+oceniti predvideno spremembo konfiguracije SSK in pisno odobriti novo, ki z
+medsebojno razporeditvijo in nastavitvijo vseh komponent in programske opreme
+omogoča operabilnost SSK. Če je mogoče, je treba funkcionalnost nove konfiguracije
+tudi preizkusiti.
+20. člen
+(izvajanje vzdrževanja SSK)
+(1) Pred vsakim vzdrževalnim posegom
+mora upravljavec sevalnega ali jedrskega objekta oceniti vpliv vzdrževalnih
+dejavnosti na varnost sevalnega ali jedrskega objekta in jih dokončno
+ovrednotiti po vzdrževalnem posegu.
+(2) Po vsakem vzdrževalnem posegu, za
+katerega je bila v skladu s prejšnjim odstavkom opravljena ocena vpliva
+vzdrževalnih dejavnosti, mora upravljavec sevalnega ali jedrskega objekta
+izvesti preizkušanje, s katerim dokaže zmožnost obratovanja oziroma
+operabilnost vzdrževanega SSK. Kjer je to mogoče, je treba po spremembi
+konfiguracije SSK izvesti tudi funkcionalno preizkušanje, ki zagotavlja ponovno
+pravilno namestitev in operabilnost SSK.
+(3) Morebitne korektivne ukrepe SSK je
+treba načrtovati, potrditi in izvesti takoj, ko je to mogoče. Pri tem je treba
+dati večjo prioriteto korektivnim ukrepom SSK, ki imajo večji pomen za varnost
+objekta.
+21. člen
+(izvajanje preizkušanja in pregledov SSK)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora izvajati preizkušanje in preglede SSK.
+(2) Upravljavec jedrske elektrarne ali
+raziskovalnega reaktorja mora na reaktorskem hladilnem sistemu izvesti:
+1.    
+pregled tesnosti pred vsakim ponovnim zagonom reaktorja po opravljenem
+remontu,
+2.    
+tlačni preizkus v vsakem periodičnem obdobju pregledov iz 6. točke
+drugega odstavka 18. člena tega pravilnika.
+(3) Upravljavec jedrske elektrarne ali
+raziskovalnega reaktorja mora v vsakem periodičnem obdobju iz 6. točke drugega
+odstavka 18. člena tega pravilnika opraviti pregled tesnosti zadrževalnega
+hrama s:
+1.    
+preizkušanjem pretoka puščanja,
+2.    
+preizkusom tesnosti penetracij in zapiral, kakršni so na primer ventili
+in zračne komore pri vstopu v zadrževalni hram,
+3.    
+preizkusom delovanja zapiral in
+4.    
+pregledom celovitosti zadrževalnega hrama.
+(4) Če se pri pregledu SSK odkrije
+napaka ali poškodba, ki je zunaj meril za uspešno opravljeni pregled, določenih
+v pisnih postopkih iz tretjega odstavka 18. člena tega pravilnika, se morajo
+opraviti dodatni pregledi, ki se osredotočijo na področja ali komponente s
+podobnimi posebnimi problemi. Obseg nadaljnjih pregledov se določi glede na
+število in vrsto napak ali poškodb, glede na oceno jedrske varnosti in na
+morebitne posledice.
+(5) Pregled SSK mora biti ustrezno
+preverjen v skladu s pisnim postopkom iz tretjega odstavka 18. člena tega pravilnika:
+1.    
+za zahtevano področje pregleda,
+2.    
+glede na metodo neporušne preiskave materiala,
+3.    
+za napake in poškodbe, ki se lahko odkrijejo pri pregledu, ter
+4.    
+za zahtevano učinkovitost in natančnost.
+(6) Če je vzdrževani SSK zajet v
+obratovalnih pogojih in omejitvah, mora preizkušanje po vzdrževalnem posegu
+zadostiti po obsegu najmanj zahtevam nadzornega preizkusa, predpisanega za ta
+SSK v obratovalnih pogojih in omejitvah.
+(7) Oprema, ki se uporablja v sklopu
+preizkušanja in pregledov SSK, mora biti pred uporabo kvalificirana in umerjena.
+Biti mora ustrezno navedena v poročilih o umerjanju. Upravljavec objekta mora
+redno preverjati veljavnost umerjanja v skladu s sistemom za zagotavljanje
+kakovosti.
+(8) Po vsakem dogodku, zaradi katerega
+bi bila lahko oslabljena varnostna funkcija ali operabilnost katere koli SSK,
+mora upravljavec ponovno oceniti varnostne funkcije in opraviti potrebne
+korektivne ukrepe, ki lahko vključujejo tudi pregled SSK, preizkušanje,
+vzdrževanje ali korektivne ukrepe na SSK.
+(9) Določbe drugega in tretjega
+odstavka tega člena se ne uporabljajo za raziskovalni reaktor TRIGA.
+22. člen
+(nadzor tveganja med vzdrževanjem in
+preizkušanjem obratujočega objekta)
+(1) Če se upravljavec jedrske
+elektrarne ali raziskovalnega reaktorja v skladu s četrtim odstavkom 18. člena
+tega pravilnika odloči za vzdrževanje med obratovanjem, mora:
+1.    
+opravljati neprekinjeno vrednotenje, nadzor in vodenje evidenc o vplivih
+vzdrževalnih dejavnosti na sevalno in jedrsko varnost objekta;
+2.    
+pred vzdrževalnim posegom predhodno opraviti oceno vpliva vzdrževanja
+obratujočega objekta na tveganje;
+3.    
+upoštevati meje dovoljenega časa zunaj obratovanja SSK, določenih v
+obratovalnih pogojih in omejitvah, hkrati pa zagotoviti, da je SSK zunaj
+obratovanja zaradi vzdrževanja ali preizkušanja čim krajši čas. Pri tem mora
+biti skupno povečanje verjetnosti za poškodbo sredice manjše od 5·10‑7
+na leto oziroma mora biti skupno povečanje verjetnosti za zgodnje velike
+izpuste manjše od 1·10‑8 na leto;
+4.    
+izogibati se vzdrževanju ali preizkušanju, ki bi povzročilo več
+istočasno nerazpoložljivih SSK in bi se zato preveč povečalo tveganje. Za
+katero koli konfiguracijo SSK s komponentami izven obratovanja zaradi
+vzdrževanja ali preizkušanja, pogostost poškodbe sredice ne sme biti višja od
+1·10‑4 na leto.
+(2) Določba prejšnjega odstavka se ne
+uporablja za raziskovalni reaktor TRIGA.
+(3) Ne glede na določbo 3. točke
+prvega odstavka tega člena za jedrsko elektrarno Krško velja, da mora biti
+skupno povečanje verjetnosti za poškodbo sredice zaradi vzdrževanja in
+preizkušanja SSK manjše od 4·10‑6 na leto oziroma mora biti skupno
+povečanje verjetnosti za zgodnje velike izpuste manjše od 2·10‑7 na
+leto.
+(4) Ne glede na določbo 4. točke
+prvega odstavka tega člena za jedrsko elektrarno Krško velja, da za nobeno
+konfiguracijo SSK s komponentami izven obratovanja, vzdrževanja ali
+preizkušanja, pogostost poškodbe sredice ne sme biti višja od 1·10‑3
+na leto.
+23. člen
+(poročanje o programih vzdrževanja,
+preizkušanja in pregledov SSK)
+Upravljavec sevalnega ali jedrskega objekta
+mora poslati Upravi programe vzdrževanja, preizkušanja in pregledov SSK ter
+vsako njihovo spremembo ali dopolnitev.
+III. POROČANJE O SEVALNI IN JEDRSKI VARNOSTI
+24. člen
+(osnove poročanja)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora poročati Upravi, in sicer o rednem obratovanju in
+obratovalnih izkušnjah ter izredno ob dogodkih.
+(2) Redna poročila o obratovanju so:
+1.    
+dnevna,
+2.    
+mesečna,
+3.    
+četrtletna,
+4.    
+letna in
+5.    
+ob remontu.
+(3) Izredno poročanje ob dogodkih se
+izvaja glede na pomembnost dogodka v zvezi s sevalno ali jedrsko varnostjo.
+(4) Uprava v okviru postopka
+pridobivanja soglasja za poskusno obratovanje sevalnega ali jedrskega objekta
+določi podroben obseg in način priprave rednih in izrednih poročil ter način
+zbiranja, pošiljanja ali dostopnosti poročil.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora poročati Upravi tudi v skladu z zahtevami obratovalnih
+pogojev in omejitev.
+(6) Poročila iz drugega in tretjega
+odstavka tega člena morajo biti poslana v elektronski obliki. Elektronska
+oblika poročil mora omogočiti Upravi nadaljnjo obdelavo podatkov.
+(7) Če zaradi tehničnih razlogov ni
+možno poslati poročil iz drugega in tretjega odstavka tega člena v elektronski
+obliki, jih mora upravljavec poslati v pisni obliki.
+25. člen
+(dnevno poročanje)
+Upravljavec jedrske elektrarne mora poslati
+Upravi vsak dan do 10. ure dopoldne dnevno poročilo o obratovanju za zadnjih 24
+ur. Izjemoma se lahko podatki za dela proste dni pošljejo prvi naslednji
+delovni dan. Zasnova dnevnega poročila je v prilogi 1, ki je sestavni del tega
+pravilnika.
+26. člen
+(mesečno poročanje)
+Upravljavec jedrske elektrarne mora mesečno
+pošiljati Upravi do 15. dne v mesecu poročilo o
+obratovanju za pretekli mesec. Zasnova mesečnega
+poročila je v prilogi 2, ki je sestavni del tega pravilnika.
+27. člen
+(četrtletno poročanje)
+(1) Upravljavec jedrske elektrarne
+mora poslati Upravi do 15. dne v prvem mesecu tekočega
+četrtletja poročilo o obratovanju za preteklo četrtletje. Zasnova četrtletnega
+poročila je v prilogi 3, ki je sestavni del tega pravilnika.
+(2) Četrtletnemu poročilu je treba
+priložiti tudi seznam vseh veljavnih programov in pisnih postopkov ter njihove
+revizije, ki so začele veljati v zadnjem četrtletju.
+28. člen
+(letno poročanje)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora sporočiti Upravi do 28. februarja obratovalne
+podatke za preteklo leto v obliki letnega poročila.
+(2) Zasnova poročila iz prejšnjega
+odstavka:
+1.    
+je za jedrsko elektrarno v prilogi 4, ki je sestavni del tega
+pravilnika,
+2.    
+je za raziskovalni reaktor v prilogi 5, ki je sestavni del tega
+pravilnika,
+3.    
+je za druge sevalne ali jedrske objekte določena ob izdaji soglasja za
+začetek poskusnega obratovanja in dovoljenja za obratovanje.
+29. člen
+(poročanje ob remontu)
+(1) Upravljavec jedrske elektrarne ali
+raziskovalnega reaktorja mora najmanj 30 dni pred začetkom načrtovanega remonta
+predložiti Upravi:
+1.    
+splošni pregled remontnih dejavnosti in načrt zaustavitve,
+2.    
+načrt izvedbe vseh pregledov SSK med remontom,
+3.    
+seznam potrjenih stalnih in predvidenih začasnih sprememb, ki se bodo
+opravile med remontom, ter
+4.    
+že izvedene ali med remontom načrtovane dejavnosti, ki izhajajo iz
+predlogov pooblaščenih izvedencev, navedenih v predhodnih zbirnih strokovnih
+ocenah remonta.
+(2) Upravljavec objekta mora največ 45 dni po koncu remonta predložiti Upravi:
+1.    
+pisno zbirno strokovno oceno pooblaščenih izvedencev za jedrsko varnost,
+ki so spremljali ali izvajali remont,
+2.    
+poročilo o SSK, pregledanih med remontom,
+3.    
+načrt odprave pomanjkljivosti, ki so se pokazale med remontom,
+4.    
+stališča upravljavca objekta o priporočilih, predlogih in komentarjih,
+navedenih v zbirni strokovni oceni iz 1. točke tega odstavka,
+5.    
+uresničitev predvidenega načrta remonta ter
+6.    
+oceno skupinske doze med remontom ter primerjavo in analizo glede na
+predvideni načrt.
+(3) Uprava o oceni skupinske doze med
+remontom in primerjavo ter analizo glede na predvideni plan obvesti Upravo za
+varstvo pred sevanji.
+30. člen
+(poročanje o dogodkih)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora poročati Upravi o dogodkih na objektu v skladu z
+državnim načrtom, ki ureja zaščito in reševanje ob jedrski nesreči.
+(2) Poleg zahteve poročanja iz
+prejšnjega odstavka mora upravljavec sevalnega ali jedrskega objekta obvestiti
+Upravo o dogodku s seznama iz priloge 6, ki je sestavni del tega pravilnika, v
+24 urah po začetku ali odkritju tega dogodka. Sporočilo mora biti tudi
+telefonsko potrjeno inšpektorju Uprave v pripravljenosti.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora najpozneje v 60 dneh po dogodku iz prejšnjega odstavka
+predložiti Upravi poročilo o opravljeni analizi tega dogodka. Poročilo mora
+vsebovati:
+1.    
+kratek opis dogodka, vključno s stanjem sevalnega ali jedrskega objekta
+pred dogodkom in po njem,
+2.    
+elemente analize iz četrtega odstavka 9. člena tega pravilnika, razen
+zapisov intervjujev, ki jih je treba predložiti samo na izrecno zahtevo Uprave,
+upoštevajoč predpise o varovanju osebnih podatkov,
+3.    
+za jedrske elektrarne izsledke verjetnostne varnostne analize dogodka,
+če model analize omogoča njegovo vrednotenje,
+4.    
+že izvedene korektivne ukrepe in njihovo morebitno ovrednotenje ter
+5.    
+klasifikacijo dogodka po mednarodni lestvici jedrskih in radioloških
+dogodkov.
+(4) Uprava o vsebinah iz tega člena,
+ki bi lahko vplivale na varovanje zdravja ljudi pred škodljivimi vplivi
+ionizirajočih sevanj, obvesti Upravo za varstvo pred sevanji.
+IV. OBRAVNAVA SPREMEMB V SEVALNEM ALI JEDRSKEM OBJEKTU
+IV.1 Razvrščanje in ocenjevanje
+sprememb
+31. člen
+(obveznost izvedbe varnostnih izboljšav)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora v najkrajšem času obravnavati izboljšave, kadar ugotovi,
+da je varnost objekta mogoče izboljšati s spremembami v projektu, načinu
+obratovanja, vzdrževanju, preizkušanju, usposabljanju ali postopkih, in to
+kljub temu, da izpolnjuje vse predpisane zahteve za varnost.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora nova odkritja, ki lahko vplivajo na sevalno ali jedrsko
+varnost drugače, kakor je bilo obravnavano v varnostnem poročilu, obravnavati
+in po potrebi izvesti spremembe na objektu oziroma v njegovem upravljanju.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora izvesti spremembe iz prvega in drugega odstavka tega
+člena, če se višina stroškov izvedbe lahko opraviči s prispevkom k izboljšani
+varnosti objekta.
+(4) Uprava mora od upravljavca
+sevalnega ali jedrskega objekta zahtevati obravnavo izboljšave v skladu s prvim
+in drugim odstavkom tega člena, če ugotovi, da je varnost objekta mogoče
+izboljšati s spremembami v projektu, načinu obratovanja, vzdrževanju,
+preizkušanju ali postopkih, kljub temu da objekt izpolnjuje vse predpisane
+zahteve za varnost.
+32. člen
+(osnove ocenjevanja in razvrščanja
+sprememb)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora vsako spremembo v objektu obravnavati s stališča njenega
+vpliva na sevalno oziroma jedrsko varnost.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da je po vsaki spremembi zagotovljeno varno
+obratovanje objekta.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora imeti vzpostavljen proces obravnavanja sprememb, s
+katerim zagotovi, da so začasne in stalne spremembe pravočasno in pravilno
+projektirane, pregledane, nadzirane in izvedene ter da so izpolnjene vse s tem
+povezane varnostne zahteve, upoštevajoč pri tem lastne in tuje obratovalne
+izkušnje, pa tudi nova spoznanja, pridobljena pri tehničnih raziskavah in
+razvoju ter pri upravljanju drugih sevalnih oziroma jedrskih objektov.
+(4) Obseg in kakovost varnostnih
+analiz (determinističnih ali verjetnostnih), ki so opravljene, da opravičijo
+predlagano spremembo, morata biti v skladu s pomembnostjo spremembe za sevalno
+ali jedrsko varnost ter morata temeljiti na podatkih, ki odsevajo dejansko
+stanje objekta tako, kakor je zgrajen, kakor obratuje in kakor se vzdržuje,
+upoštevajoč njegove obratovalne izkušnje.
+33. člen
+(organizacija izvajanja sprememb)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pripraviti program obravnavanja sprememb iz tretjega
+odstavka prejšnjega člena, ki mora obsegati najmanj:
+1.    
+določitev korakov obravnavanja, ki so nujni, da se izvedba spremembe
+lahko nadaljuje,
+2.    
+spremljanje izvedenih sprememb in vrednotenje povratnih informacij s
+stališča izpolnitve zastavljenih ciljev,
+3.    
+način seznanjanja osebja o izvedenih spremembah.
+(2) Obravnava spremembe mora vsebovati
+najmanj:
+1.    
+opis vzroka za spremembo in utemeljitev njene upravičenosti,
+2.    
+projekt spremembe, vključno z določitvijo predvidene skupinske doze, ki
+jo prejme osebje med izvedbo spremembe,
+3.    
+pregled in oceno v preteklosti že opravljenih sprememb in korektivnih
+ukrepov na obravnavanem predmetu spremembe,
+4.    
+varnostno oceno in razvrstitev spremembe v kategorijo v skladu s 35.
+členom tega pravilnika,
+5.    
+odobritev Uprave, če je ta potrebna,
+6.    
+izobraževanje in usposabljanje osebja,
+7.    
+preveritev ustreznosti analize požarne nevarnosti oziroma njeno
+dopolnitev,
+8.    
+izdelavo, vgradnjo in preizkušanje po izvedeni spremembi ter posodobitev
+dokumentacije,
+9.    
+izvedbeni načrt spremljanja izvedene spremembe in vrednotenja povratnih
+informacij,
+10.  način
+končne odobritve uporabnosti izvedene spremembe.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora za ocenjevanje in razvrščanje sprememb v kategorije
+zagotoviti neodvisno osebje, ki ni neposredno vključeno v proces načrtovanja, projektiranja
+in izvedbe sprememb.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora pripravo in spremembo pisnega postopka obravnave
+sprememb izvajati v skladu s 34., 35. in 36. členom tega pravilnika. Vsako novo
+revizijo pisnega postopka obravnave sprememb mora poslati na Upravo.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti dokumentiranje celotnega procesa priprave in
+izvedbe sprememb ter povratnih informacij o izvedenih spremembah. Dokumentacija
+o slednjih mora biti shranjena v celotnem obsegu. Shranjena dokumentacija mora
+biti dostopna osebju, ki obravnava spremembe, omogočeno mora biti sistematično
+iskanje, način prikaza podatkov pa biti pregleden in razumljiv.
+(6) Upravljavec sevalnega ali
+jedrskega objekta mora v rednih časovnih presledkih, krajših od obdobja med
+občasnima varnostnima pregledoma, preveriti izvajanje programa obravnavanja
+sprememb in ga po potrebi posodobiti. Pri teh posodobitvah je treba upoštevati
+tudi ugotovitve pregleda programa spremljanja obratovalnih izkušenj.
+34. člen
+(obravnavanje sprememb)
+Upravljavec sevalnega ali jedrskega objekta
+mora v skladu s prilogama 7 in 8, ki sta sestavni del tega pravilnika, glede na
+sevalno in jedrsko varnost obravnavati vsako nameravano spremembo, ki:
+1.    
+neposredno vpliva na obratovanje objekta s:
+- 
+spremembo SSK ali v procesni programski opremi,
+- 
+spremembo obratovalnih pogojev in omejitev,
+- 
+spremembo pisnih postopkov oziroma
+- 
+katero koli kombinacijo sprememb, navedenih v prvi do tretji alineji
+tega odstavka;
+2.    
+vpliva na obratovanje objekta s:
+- 
+spremembo načina upravljanja znanja,
+- 
+spremembo v organizacijski sestavi ali sestavi zaposlenih,
+- 
+spremembo programov ali s
+- 
+spremembo procesa obravnavanja sprememb na objektu.
+35. člen
+(razvrščanje sprememb v kategorije)
+Upravljavec sevalnega ali jedrskega objekta
+mora razvrstiti vsako nameravano spremembo v objektu glede na oceno vpliva na
+sevalno oziroma jedrsko varnost. Kategorije sprememb so:
+1.    
+sprememba kategorije 1 je manjša sprememba, ki:
+-  
+nima vpliva na sevalno ali jedrsko varnost,
+-  
+se izvaja na predmetu spremembe, nepomembnem za sevalno ali jedrsko
+varnost in neomenjenem v obratovalnem dovoljenju,
+-  
+tudi ob napačnem projektu ali izvedbi ne bi povzročila bistvenega
+povečanja verjetnosti nastanka projektnega dogodka;
+2.    
+sprememba kategorije 2 je malo pomembna sprememba, ki:
+-  
+ima majhen vpliv na sevalno oziroma jedrsko varnost,
+-  
+ne vsebuje bistvenih sprememb v projektnih osnovah, na temelju katerih
+je bilo izdano obratovalno dovoljenje,
+- 
+ne vključuje spremembe obratovalnega dovoljenja;
+3.    
+sprememba kategorije 3 je pomembnejša sprememba, ki:
+- 
+ima bistven vpliv na sevalno oziroma jedrsko varnost,
+- 
+vsebuje bistvene spremembe projektnih osnov,
+- 
+vključuje spremembo obratovalnega dovoljenja.
+36. člen
+(ocenjevanje sprememb)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora pred nameravano spremembo opraviti varnostno presejanje,
+s katerim se določijo njene posledice na sevalno oziroma jedrsko varnost. Obseg
+presejanja je naveden v prilogi 7 tega pravilnika.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora po varnostnem presejanju iz prejšnjega odstavka opraviti
+varnostno oceno za spremembe, za katere se z varnostnim presejanjem ugotovi, da
+sodijo v kategorijo 2 ali 3. Varnostna ocena mora dokazati, da so upoštevani
+vsi varnostni vidiki spremembe in izpolnjena ustrezna varnostna merila ter da
+je sprememba skladna s specifikacijo vključenih SSK. Obseg varnostne ocene je
+naveden v prilogi 8 tega pravilnika.
+(3) Varnostne ocene ni treba opraviti
+za spremembe, za katere se med varnostnim presejanjem ugotovi, da so potrebne zaradi
+odprave nedvoumne napake (na primer: tipkarske napake v dokumentih ali
+prilagoditve opreme parametrom, ki so že zajeti v veljavnih in potrjenih
+varnostnih analizah). Take spremembe se obravnavajo kot spremembe kategorije 1.
+(4) Spremembo obratovalnih pogojev in
+omejitev je treba obravnavati kot spremembo kategorije 3, razen spremembe
+obratovalnih pogojev in omejitev, ki izpolnjujejo pogoje iz prejšnjega
+odstavka.
+(5) Če med obratovanjem objekta pride do
+nenadnih okoliščin, zaradi katerih bi bilo ogroženo stabilno in varno
+obratovanje objekta, upravljavec lahko izvede nujno začasno spremembo. Tako
+spremembo upravljavec obravnava kot spremembo kategorije 1, čeprav jo varnostno
+presejanje iz prvega odstavka tega člena in varnostna ocena iz drugega odstavka
+tega člena uvrščata v kategorijo 2. Upravljavec mora varnostno presejanje,
+varnostno oceno in obvestilo o izvedbi take spremembe dostaviti Upravi
+naslednji delovni dan po izvedbi spremembe. Uprava se do nje opredeli najpozneje
+v treh delovnih dneh.
+37. člen
+(začasne spremembe)
+(1) Upravljavec sevalnega ali
+jedrskega objekta si mora prizadevati, da je število začasnih sprememb v
+objektu čim manjše. Časovna veljavnost začasne spremembe mora biti določena in
+dokumentirana.
+(2) Začasna sprememba mora biti jasno
+označena kot začasna že v predlogu ter kot taka obravnavana, ocenjena in
+razvrščena v kategorijo v skladu s 34., 35. in 36. členom tega pravilnika.
+(3) Za začasne spremembe morajo biti
+izdelani posebni pisni postopki, ki določajo najmanj:
+1.    
+osebje, ki lahko začne, odobri, izvede ali odstrani začasno spremembo,
+2.    
+nadzor nad dokumentacijo, v kateri lahko odseva začasna sprememba,
+3.    
+vodenje evidence in označevanje opreme, ki jo začasna sprememba zadeva,
+4.    
+predložitev informacij obratovalnemu osebju,
+5.    
+čas veljavnosti in način podaljševanja trajanja začasne spremembe,
+6.    
+preverjanje konfiguracije SSK in obveščanje obratovalnega osebja po
+odstranjeni začasni spremembi.
+(4) Upravljavec objekta mora najmanj
+enkrat na leto pregledati vse začasne spremembe. Preveriti mora skladnost
+pisnih postopkov, navodil osebju in druge dokumentacije z odobreno začasno
+spremembo. Pregled mora obsegati tudi oceno nadaljnje potrebe po začasni
+spremembi, odprave začasne spremembe ali prekvalifikacije v stalno spremembo.
+Odprava začasne spremembe ali prekvalifikacija v stalno spremembo se mora
+izvesti v skladu s pisnim organizacijskim postopkom obravnavanja sprememb.
+38. člen
+(izredna začasna prekoračitev obratovalnih
+pogojev in omejitev)
+(1) Upravljavec sevalnega ali
+jedrskega objekta lahko na Upravo, če bi bilo ogroženo zdravje oziroma varnost
+prebivalstva ali osebja objekta, vloži vlogo za začasno prekoračitev
+obratovalnih pogojev ali omejitev, vendar še vedno znotraj varnostnih rezerv,
+če obstaja velika verjetnost, da se zaradi izpolnjevanja zahtev obratovalnih
+pogojev in omejitev povzroči:
+-      
+nepotreben prehodni pojav, ki lahko vodi v nesrečo,
+-      
+če je objekt jedrska elektrarna, možnost za nenačrtovano zaustavitev v
+neugodnih vremenskih razmerah ali drugih pojavih, ki lahko še poslabšajo že
+tako slabo stanje električnega omrežja v danem obdobju.
+(2) Kadar upravljavec sevalnega ali
+jedrskega objekta vloži vlogo iz prejšnjega odstavka ustno ali pisno s prošnjo
+po hitri rešitvi, jo mora v najmanj 48 urah dopolniti s prilogami v skladu z
+zahtevami iz 42. in 43. člena tega pravilnika.
+(3) Uprava mora vlogo iz prvega
+odstavka tega člena obravnavati takoj, morebitni odobritvi prekoračitve
+obratovalnih pogojev ali omejitev pa določiti najkrajši možni čas.
+39. člen
+(izvedba sprememb)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da je pred izvedbo katere koli spremembe v
+celotnem obsegu pripravljeno in potrjeno varnostno presejanje, glede na
+rezultate presejanja pa tudi varnostna ocena iz 36. člena tega pravilnika
+in vsa potrebna podporna dokumentacija.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora pripraviti in izpeljati postopek izvedbe spremembe,
+njenega nadzora in preizkusov, v katerem mora predvideti analizo možnih
+mehanizmov odpovedi ali napak SSK, preizkuse, s katerimi bo taka odpoved
+zaznana, in korektivni program ob morebitnem odstopanju od projektnih osnov ali
+odpovedi.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da je vsaka sprememba izvedena v skladu z
+obratovalnimi pogoji in omejitvami, zahtevami varstva pred sevanji, varstva
+pred požari in varstva pri delu.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da je izvedba spremembe in preizkušanja po
+opravljeni spremembi v skladu z izvedbenim načrtom spremljanja izvedene
+spremembe iz 9. točke drugega odstavka 33. člena tega pravilnika in z
+ustreznimi pisnimi postopki za preizkušanje, ki obravnavajo predmet spremembe
+SSK.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora na podlagi sprememb na opremi pripraviti tudi spremembe
+vsebine pisnih postopkov, ki so povezani z obratovanjem in morajo postati
+veljavni hkrati z izvedbo spremembe. Ustrezno izobraževanje ali usposabljanje
+osebja in morebitne pomembnejše prilagoditve simulatorja, če ta obstaja za ta
+objekt, morajo biti izvedeni pred uvedbo spremembe.
+(6) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti, da pri spremembah na varnostno pomembnih
+SSK, pri katerih delno ali v celoti sodelujejo zunanji podizvajalci, izvajanje
+del odobri in nadzoruje pristojno osebje upravljavca objekta.
+IV.2 Uporaba verjetnostnih varnostnih
+analiz pri ocenjevanju sprememb
+40. člen
+(uporaba verjetnostnih varnostnih analiz)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora uporabljati verjetnostne varnostne analize v sevalnem
+ali jedrskem objektu, v katerega varnostno poročilo so vključene te analize,
+pri varnostnih ocenah sprememb objekta v obsegu, določenem z ustreznimi
+standardi, in v skladu s tehnično ustreznostjo tovrstnih analiz za konkretne
+primere. Z verjetnostnimi varnostnimi analizami je treba dopolnjevati deterministični
+pristop k analizam. Pri tem je treba zagotavljati predvsem ohranitev načela
+obrambe v globino in ohranitev primernih varnostnih rezerv.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora z verjetnostnimi varnostnimi analizami stalno spremljati
+skupno tveganje objekta zaradi vseh izvedenih sprememb.
+(3) Pri uporabi verjetnostnih
+varnostnih analiz in pri odločanju na podlagi njihovih izsledkov je treba
+upoštevati:
+1.    
+zbirni vpliv sprememb na objektu, izražen kot sprememba tveganja. Če je
+objekt jedrska elektrarna, se upošteva sprememba pogostosti poškodbe sredice
+oziroma pogostosti velikih zgodnjih izpustov,
+2.    
+vpliv predlagane spremembe na zapletenost obratovanja, obremenitev
+osebja in splošno ravnanje glede zagotavljanja varnosti,
+3.    
+ravnanje upravljavca pri nadzoru in omejevanju povečanja tveganja pri
+obratovanju, ob spremembah na objektu, postopkih ali uporabi obratovalnih
+izkušenj.
+41. člen
+(omejitev povečanja tveganja zaradi
+sprememb)
+(1) Povečanje tveganja zaradi sprememb
+na objektu ni dovoljeno, razen v izjemnih primerih, pri katerih koristi bistveno
+presegajo posledice povečanja tveganja.
+(2) Vsaka sprememba, zaradi katere se
+poveča tveganje, se obravnava kot sprememba kategorije 3.
+(3) Če je objekt jedrska elektrarna,
+mora biti povečanje tveganja v vsakem primeru manjše od 5·10‑7 na
+leto za pogostost poškodb sredice oziroma manjše od 1·10‑8 na leto
+za pogostost zgodnjih velikih izpustov.
+(4) Ne glede na določbo prejšnjega
+odstavka je treba za jedrsko elektrarno Krško upoštevati omejitev, da mora biti
+povečanje tveganja v vsakem primeru manjše od 1·10‑6 na leto za
+pogostost poškodb sredice oziroma manjše od 1·10‑7 na leto za
+pogostost zgodnjih velikih izpustov.
+IV.3 Priglasitev in obveščanje o
+spremembah
+42. člen
+(obveščanje Uprave)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora dostaviti Upravi seznam izvedenih sprememb kategorije 1,
+s katerega mora biti razviden vzrok za spremembo, kratek opis in datum izvedbe
+spremembe.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora najmanj 90 dni pred nameravano izvedbo spremembe kategorije
+2 predložiti Upravi poročili o varnostnem presejanju in varnostni oceni, iz
+katerih morajo biti razvidni:
+1.    
+opis spremembe, njenega vpliva na obratovanje ter njene skladnosti z
+zahtevami zakonodaje in projektnimi osnovami,
+2.    
+opis vzroka za spremembo,
+3.    
+seznam SSK, na katere bo sprememba vplivala,
+4.    
+skladnost spremembe z ustreznimi standardi,
+5.    
+predvideni izvedbeni načrt spremembe.
+(3) Upravljavec sevalnega ali
+jedrskega objekta mora najmanj 90 dni pred nameravano izvedbo vložiti na Upravi
+vlogo za odobritev spremembe kategorije 3, ki mora vsebovati:
+1.    
+poročili o varnostnem presejanju in varnostni oceni,
+2.    
+opis vzroka za spremembo,
+3.    
+opis spremembe, njenega vpliva na obratovanje ter njene skladnosti z
+zahtevami zakonodaje in projektnimi osnovami,
+4.    
+dodatno dokumentacijo, ki podpira predlagano spremembo (analize,
+standarde, druge dokumente), če ni že bila dostavljena Upravi,
+5.    
+seznam SSK, na katere bo sprememba vplivala,
+6.    
+kopijo dela veljavnega varnostnega poročila, v kateri so označeni
+predlogi sprememb,
+7.    
+strokovno mnenje pooblaščenega izvedenca za sevalno in jedrsko varnost,
+8.    
+predvideni izvedbeni načrt spremljanja izvedene spremembe iz 9. točke
+drugega odstavka 33. člena tega pravilnika.
+(4) Upravljavec sevalnega ali jedrskega
+objekta mora za spremembe kategorije 2 ali 3, ki so bile podprte z uporabo
+verjetnostnih varnostnih analiz, predložiti tudi:
+1.    
+povzetek izračunanih prispevkov k tveganju, vključno z vmesnimi
+rezultati in razlago njihovega pomena, ki mora prikazati tudi učinke spremembe
+na prevladujoča nezgodna zaporedja dogodkov s posebnim poudarkom na morebitnih
+novih prevladujočih dejavnikov tveganja oziroma na povečanju že obstoječega
+tveganja,
+2.    
+uporabljena merila sprejemljivosti in primerjavo rezultatov z merili
+sprejemljivosti.
+(5) Upravljavec sevalnega ali
+jedrskega objekta mora pri spremembah kategorije 2 ali 3, ki so bile podprte z
+uporabo verjetnostnih varnostnih analiz, razpolagati z:
+1.    
+analizo občutljivosti in negotovosti verjetnostnih varnostnih analiz,
+2.    
+pregledom sprememb v modelu za verjetnostne varnostne analize, ki so
+bile narejene pri ocenjevanju predlagane spremembe,
+3.    
+oceno predpostavk ter uporabljenih približkov in poenostavitev,
+4.    
+opisom SSK, dejavnosti operaterjev in obratovalnih značilnosti objekta,
+ki so upoštevani pri uporabi verjetnostnih varnostnih analiz, ter opisom
+njihovih medsebojnih povezav,
+5.    
+opisom prepoznanih pomembnih dejavnikov tveganja,
+6.    
+dokazi in zaključno oceno tehnične ustreznosti verjetnostnih varnostnih
+analiz.
+(6) Upravljavec sevalnega ali jedrskega
+objekta mora na zahtevo Uprave dati na vpogled vso dokumentacijo, ki je predmet
+obravnavane spremembe.
+43. člen
+(obveščanje o postopku obravnavanja
+sprememb)
+(1) Upravljavec sevalnega ali jedrskega
+objekta mora dostaviti Upravi novo revizijo obratovalnih pogojev in omejitev za
+vsako njihovo spremembo iz četrtega odstavka 36. člena tega pravilnika, v 30
+dneh po prejetju odločbe oziroma po opravljeni spremembi, če je bila sprememba
+obratovalnih omejitev in pogojev ocenjena s kategorijo 1.
+(2) Če gre za spremembo iz prejšnjega
+odstavka, ki se izvaja daljše časovno obdobje ali če zaradi drugih utemeljenih
+razlogov spremembe ni mogoče izvesti v 30 dneh od prejema odločbe, mora
+upravljavec novo revizijo obratovalnih pogojev in omejitev dostaviti Upravi
+najpozneje 10 dni po opravljeni spremembi.
+(3) Spremembe iz prvega odstavka tega
+člena morajo biti v obratovalnih pogojih in omejitvah jasno označene in
+sledljive.
+V. OBČASNI VARNOSTNI PREGLED
+44. člen
+(zahteve)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora:
+1.    
+z občasnim varnostnim pregledom sistematično preveriti skupne učinke
+staranja objekta, učinke sprememb na objektu, obratovalne izkušnje, tehnični
+razvoj, vplive sprememb na lokaciji in vse druge možne vplive na sevalno ali
+jedrsko varnost ter ugotoviti skladnost s projektnimi osnovami, na podlagi
+katerih je bilo izdano obratovalno dovoljenje, z veljavnimi mednarodnimi
+varnostnimi standardi in z mednarodno prakso, s tem pa potrditi, da je objekt
+vsaj tako varen, kakor je bilo predvideno med projektiranjem, in da je še naprej
+sposoben varno obratovati;
+2.    
+pri izvedbi občasnega varnostnega pregleda uporabiti najnovejšo,
+ustrezno, sistematično in dokumentirano metodologijo, ki temelji na
+determinističnem, pa tudi verjetnostnem pristopu k analizam in ocenam sevalne
+in jedrske varnosti;
+3.    
+čim prej odpraviti morebitna odstopanja od projekta objekta, ugotovljena
+med občasnim varnostnim pregledom, upoštevajoč njihovo pomembnost za jedrsko
+varnost;
+4.    
+občasni varnostni pregled uporabiti za preverjanje in ureditev znanja o
+objektu in procesih ter njegove tehnične dokumentacije;
+5.    
+z občasnim varnostnim pregledom ugotoviti in oceniti varnostno
+pomembnost odstopanj od veljavnih standardov in najboljše mednarodne prakse;
+6.    
+izvesti vse primerne in smiselne spremembe, ki izhajajo iz občasnega
+varnostnega pregleda;
+7.    
+občasni varnostni pregled izvesti tako, da se za posamezno vsebino
+pripravi pisna ocena stanja, ki je dokumentirana in podprta z ustreznimi
+analizami.
+(2) Določbe prejšnjega odstavka tega
+člena in 45. do 48. člena tega pravilnika se ne uporabljajo za odlagališče z
+rudarsko in hidrometalurško jalovino.
+45. člen
+(postopek in roki)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora najmanj tri leta pred rokom za potrditev poročila o
+občasnem varnostnem pregledu iz petega odstavka tega člena na Upravo vložiti
+vlogo za odobritev vsebine, obsega in časovnega načrta izvedbe takega pregleda,
+ki jih Uprava potrdi z odločbo.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora med izvajanjem občasnega varnostnega pregleda na Upravo
+dostavljati polletna poročila, s katerimi obvešča o poteku in napredku vseh del
+tega pregleda.
+(3) Poleg poročil o poteku del iz
+prejšnjega odstavka mora upravljavec sevalnega ali jedrskega objekta med
+izvajanjem občasnega varnostnega pregleda na Upravo dostavljati tematska
+poročila o pregledu posamezne vsebine tega pregleda. V končni različici teh
+poročil mora upoštevati priporočila, ki jih Uprava predloži ob pregledu.
+Tematsko poročilo mora obsegati opis uporabljenih metod za pregled, potek
+pregleda, vse ugotovitve pregleda in zaključno opisno oceno. V njem morajo biti
+tudi jasno navedene in utemeljene ugotovljene pomanjkljivosti ter predlagane
+spremembe in izboljšave za odpravo pomanjkljivosti in doseganje meril
+sprejemljivosti, postavljenih v vsebini izvedbe občasnega varnostnega pregleda
+iz prvega odstavka tega člena, standardov in mednarodne prakse.
+(4) Upravljavec sevalnega ali
+jedrskega objekta mora opraviti občasni varnostni pregled sevalnega ali
+jedrskega objekta tako, da vloži vlogo za potrditev poročila o občasnem
+varnostnem pregledu na Upravo najpozneje devet let in šest mesecev po
+pridobitvi obratovalnega dovoljenja objekta, če je varnostni pregled prvi
+občasni varnostni pregled, oziroma najpozneje devet let in šest mesecev po
+potrditvi poročila o predhodnem občasnem varnostnem pregledu. Poročilo o
+občasnem varnostnem pregledu mora obsegati povzetek opisov uporabljenih metod,
+zaključno opisno oceno na podlagi tematskih poročil, načrt izvedbe sprememb in
+izboljšav na objektu skupaj z utemeljitvami ter v prilogi vse dokumente, ki so
+sestavni del občasnega varnostnega pregleda. Priloženo mora biti tudi mnenje
+neodvisnega pooblaščenega izvedenca za sevalno in jedrsko varnost o tem
+poročilu.
+(5) Uprava izda odločbo, s katero
+potrdi poročilo o občasnem varnostnem pregledu iz prejšnjega odstavka, v
+šestdesetih dneh po prejemu popolne vloge.
+(6) Upravljavec mora izvesti vse
+spremembe in izboljšave, ki izhajajo iz potrjenega poročila o občasnem
+varnostnem pregledu, najpozneje pet let po potrditvi tega poročila, samo v
+izjemnih primerih, ko gre za drage in zapletene spremembe, se ta rok lahko
+podaljša do osem let po potrditvi poročila.
+46. člen
+(vsebina in obseg občasnega varnostnega
+pregleda)
+(1) Obseg in vsebina občasnega
+varnostnega pregleda, ki sta navedena v vlogi iz prvega odstavka prejšnjega
+člena, morata biti jasno opredeljena in utemeljena. Pri določanju obsega se
+mora upoštevati pomembnost za varnost.
+(2) Obseg in vsebina občasnega
+varnostnega pregleda morata biti prilagojena vrsti objekta in pomembnosti posameznih
+področij za sevalno ali jedrsko varnost, zato je treba pri njuni pripravi
+uporabiti stopenjski pristop.
+(3) V časovnem načrtu izvedbe
+občasnega varnostnega pregleda iz prvega odstavka prejšnjega člena morajo biti
+navedeni roki za izvedbo posameznih vsebin tega pregleda. Za vsako od omenjenih
+vsebin morajo biti predlagani tudi način in roki poročanja o izvedbi tega
+pregleda.
+(4) Zasnova obsega in vsebine
+občasnega varnostnega pregleda sevalnega ali jedrskega objekta je navedena v
+prilogi 9, ki je sestavni del tega pravilnika.
+47. člen
+(načrt sprememb in izboljšav)
+Načrt sprememb in izboljšav, ki je del
+poročila o občasnem varnostnem pregledu, mora obsegati podroben opis vsake
+spremembe in izboljšave ter roke za vsako spremembo ali dejavnost posebej. V
+načrtu mora biti jasno označeno, iz katere ugotovitve ali priporočila občasnega
+varnostnega pregleda izhaja sprememba ali izboljšava.
+48. člen
+(izredno izvajanje varnostnega pregleda)
+(1) Uprava odredi izvedbo izrednega
+občasnega varnostnega pregleda sevalnega ali jedrskega objekta v naslednjih
+primerih:
+1.    
+če je ugotovljena tolikšna oslabitev varnostnih pregrad, da je zmanjšana
+njihova sposobnost zadrževanja radioaktivnih snovi;
+2.    
+če je poslabšanje obratovalnih kazalnikov obsežnejše ali dolgotrajno;
+3.    
+če je povečana pogostost dogodkov, pomembnih za varnost;
+4.    
+če je varnostna kultura poslabšana do te mere, da bi lahko ogrozila
+sevalno ali jedrsko varnost;
+5.    
+če se ponavljajo kršitve obratovalnih pogojev in omejitev;
+6.    
+če bi upoštevanje obratovalnih izkušenj drugih sevalnih ali jedrskih
+objektov ter novih spoznanj o jedrski in sevalni varnosti lahko opazno
+spremenilo varnost sevalnega ali jedrskega objekta oziroma
+7.    
+če razpolaga s pomembnimi dokazi, da je ogrožena sevalna ali jedrska
+varnost.
+(2) Uprava v odločbi, s katero odredi
+izvedbo izrednega pregleda iz prejšnjega odstavka, določi vsebino, obseg in
+roke te izvedbe ter način poročanja. Hkrati presodi vpliv na sevalno ali
+jedrsko varnost in določi začasno spremembo obratovalnega dovoljenja sevalnega
+ali jedrskega objekta.
+VI. VERJETNOSTNE VARNOSTNE ANALIZE
+49. člen
+(obveznost izdelave verjetnostnih
+varnostnih analiz)
+Upravljavec sevalnega ali jedrskega
+objekta, ki ima verjetnostne varnostne analize vključene v varnostno poročilo,
+mora Upravi dostaviti vse potrebno za izvedbo
+samostojnih analiz na Upravi. Dostaviti mora tudi vsako spremembo ali
+posodobitev modela, podatkovne zbirke ali računalniškega programa.
+50. člen
+(obseg verjetnostnih varnostnih analiz)
+(1) Verjetnostna varnostna analiza
+mora vsebovati najmanj:
+1.    
+podroben opis uporabljenega matematičnega modela,
+2.    
+podatkovno zbirko z opisom,
+3.    
+opis vseh analiz in predpostavk,
+4.    
+rezultate, ugotovitve in zaključke analize,
+5.    
+model in računalniški program, s katerim je modeliranje opravljeno in s
+katerim je mogoče ponoviti izračune.
+(2) Analiza iz prejšnjega odstavka
+mora temeljiti na realističnem modelu odziva sevalnega ali jedrskega objekta na
+predpostavljene začetne dogodke z uporabo podatkov, ki kažejo dejanski projekt
+in pisne postopke za obratovanje objekta, upoštevajoč človeške posege.
+(3) Verjetnostna varnostna analiza
+mora vključevati:
+1.    
+vsa pomembna stanja objekta; za jedrsko elektrarno so to predvsem
+stanja od menjave goriva in obratovanja pri nizki moči do obratovanja
+pri polni moči,
+2.    
+vse primerne začetne dogodke in možne nevarnosti, vključno s požarom,
+poplavami, neugodnimi vremenskimi razmerami in potresi,
+3.    
+vse primerne odvisnosti, vključno s funkcionalnimi odvisnostmi zaradi
+enakih pogojev okolja in odvisnosti zaradi drugih skupnih vzrokov,
+4.    
+analizo negotovosti in analize občutljivosti pri verjetnostni varnostni
+analizi prvega nivoja ter analizo občutljivosti ali analize negotovosti pri
+verjetnostni varnostni analizi drugega nivoja,
+5.    
+analize zanesljivosti človeškega dejavnika, upoštevajoč dejavnike, ki
+lahko vplivajo na delo operaterjev in drugega osebja v vseh analiziranih
+stanjih elektrarne.
+51. člen
+(kakovost verjetnostnih varnostnih analiz)
+Upravljavec sevalnega ali jedrskega objekta
+mora verjetnostno varnostno analizo iz prvega odstavka prejšnjega člena:
+1.    
+izdelati, dokumentirati in vzdrževati v skladu s svojim programom
+zagotavljanja kakovosti,
+2.    
+ob vsaki uporabi razumeti in prepoznati ter upoštevati njene omejitve,
+3.    
+izdelati in vzdrževati v skladu z najnaprednejšimi mednarodnimi standardi
+in smernicami ter najboljšo mednarodno prakso,
+4.    
+redno dopolnjevati tako, da kaže dejansko stanje objekta in podatke o
+obratovalnih izkušnjah,
+5.    
+dopolnjevati, če se spremenijo projekt ali pisni postopki za obratovanje
+objekta ali če upravljavec zve za nov pomemben dejavnik tveganja, ki ni zajet v
+modelu,
+6.    
+podpirati z vzdrževanjem podatkovne zbirke o zanesljivosti in
+razpoložljivosti komponent, pogostosti začetnih dogodkov in verjetnosti
+človeških napak.
+52. člen
+(način uporabe verjetnostnih varnostnih
+analiz)
+(1) Upravljavec sevalnega ali jedrskega
+objekta mora pri vsaki uporabi verjetnostnih varnostnih analiz razumeti, prepoznati
+in upoštevati njihove omejitve. Na podlagi omejitev mora tudi presojati o
+primernosti uporabe teh analiz.
+(2) Pri uporabi verjetnostnih
+varnostnih analiz za preverjanje ali vrednotenje sprememb nadzornih pregledov,
+preizkušanj in dovoljenega časa za nerazpoložljivost SSK mora upravljavec
+sevalnega ali jedrskega objekta vključiti v analizo vse možne vplive in pogoje,
+vključno s stanji in varnostnimi funkcijami SSK.
+(3) Poleg rezultatov verjetnostnih
+varnostnih analiz je treba upoštevati tudi:
+1.    
+vzdrževanje načela obrambe v globino,
+2.    
+ohranjanje zadostnih varnostnih rezerv in
+3.    
+negotovost teh rezultatov.
+53. člen
+(obveznost uporabe verjetnostnih
+varnostnih analiz)
+(1) Upravljavec jedrske elektrarne
+mora verjetnostne varnostne analize uporabljati:
+1.    
+v delovnih procesih, povezanih s sevalno ali jedrsko varnostjo. Določiti
+mora vlogo teh analiz pri sprejemanju vseh odločitev, povezanih z varnostjo;
+2.    
+za prepoznavanje potreb po spremembah na objektu in v pisnih postopkih
+za njegovo obratovanje, vključno s prepoznavanjem potreb za obvladovanje težkih
+nesreč. Tako mora zmanjševati tveganje zaradi obratovanja objekta;
+3.    
+pri ocenjevanju tveganja zaradi obratovanja objekta, zato da bi
+prepoznal in dokazoval:
+-  
+uravnoteženost in skladnost projektnih osnov objekta s projektnimi
+načeli,
+-  
+stabilnost in predvidljivost odziva objekta na manjše spremembe, tako da
+majhne spremembe parametrov ne povzročijo nenadzorovanega odziva objekta in
+njegovih sistemov,
+-  
+primernost sprememb v objektu glede na spremembo tveganja, ki jo
+povzročijo,
+-  
+upravičenost sprememb obratovalnih pogojev in omejitev,
+-  
+spremembe pisnih postopkov za obratovanje objekta,
+-  
+varnostno pomembnost obratovalnih dogodkov.
+(2) Rezultati verjetnostnih varnostnih
+analiz se morajo v jedrskih elektrarnah uporabljati pri:
+1.    
+preverjanju vsebine programov vzdrževanja, preizkušanja in pregledov SSK
+iz 18. člena tega pravilnika, v katere morajo biti vključeni vsi pomembni
+dejavniki tveganja;
+2.    
+razvoju in preverjanju programa strokovnega usposabljanja delavcev,
+vključno z usposabljanjem operaterjev v komandni sobi na simulatorju jedrske
+elektrarne.
+VII. OBVLADOVANJE IZREDNIH DOGODKOV
+VII.1 Navodila ob nezgodi in smernice
+za obvladovanje težkih nesreč
+54. člen
+(obseg in vsebina navodil ob nezgodi)
+(1) Navodila ob nezgodi morajo biti
+izdelana tako, da vodijo k ponovni vzpostavitvi varnostnih funkcij oziroma
+njihovi nadomestitvi, če pa je objekt jedrska elektrarna ali raziskovalni
+reaktor, tudi k izvedbi dejavnosti, ki preprečujejo poškodbo sredice.
+(2) Navodila ob nezgodi morajo
+temeljiti na simptomih ali kombinaciji simptomov in prepoznanih dogodkov.
+(3) Navodila ob nezgodi za jedrske
+elektrarne morajo v delu, nanašajočem se na dogodke, ki jih projektni dogodki
+ne zajemajo, temeljiti na ukrepanju na podlagi simptomov in biti zasnovana kot
+smernice za obvladovanje težkih nesreč.
+(4) Navodila ob nezgodi morajo biti
+pripravljena sistematično ter podprta z za ta namen izvedenimi realističnimi in
+za dani objekt posebnimi analizami. Biti morajo skladna z drugimi navodili za
+obratovanje.
+(5) Navodila ob nezgodi morajo
+omogočiti operaterju hitro prepoznavanje dogodkov in njihovo obvladovanje.
+Jasno mora biti določeno, kdaj je treba začeti uporabljati posamezno navodilo
+oziroma ga prenehati uporabljati. Operater ne sme imeti težav pri prehajanju z
+enega navodila na drugo ali na smernice za obvladovanje težkih nesreč.
+55. člen
+(obseg in vsebina smernic za obvladovanje
+težkih nesreč)
+(1) Smernice za obvladovanje težkih
+nesreč so namenjene obvladovanju posledic teh nesreč, če se sredica poškoduje
+kljub ukrepom v skladu z navodili ob nezgodi.
+(2) Smernice za obvladovanje težkih
+nesreč morajo vsebovati opis strategije za obvladovanje scenarijev teh nesreč,
+kakršne izhajajo iz analiz težkih nesreč.
+56. člen
+(preverjanje navodil in smernic)
+(1) Navodila ob nezgodi iz 54. člena
+tega pravilnika in smernice za obvladovanje težkih nesreč iz prejšnjega člena
+morajo biti preverjeni in preizkušeni kar najbolj praktično mogoče v razmerah,
+v kakršnih se bodo tudi uporabljali, da se zagotovi njihova postopkovna in
+tehnična ustreznost za dani sevalni ali jedrski objekt in skladnost z okoljem,
+v katerem se bodo uporabljali.
+(2) Način preverjanja in preizkušanja
+navodil ob nezgodi in smernic za obvladovanje težkih nesreč mora biti dokumentiran.
+Med preverjanjem in preizkušanjem se morajo presoditi tudi vplivi človeškega
+dejavnika. Preizkušanje mora temeljiti na simulaciji značilnih dogodkov, pri
+čemer se mora, kjer je to mogoče, uporabiti simulator.
+57. člen
+(vzdrževanje navodil in smernic)
+Z vzdrževanjem in posodabljanjem navodil ob
+nezgodi in smernic za obvladovanje težkih nesreč mora upravljavec jedrskega ali
+sevalnega objekta zagotoviti, da navodila in smernice vedno ustrezajo svojemu
+namenu.
+58. člen
+(usposabljanje za uporabo navodil in
+smernic)
+(1) Člani organizacije za obvladovanje izrednega dogodka morajo imeti redne vaje in usposabljanja, tudi
+z uporabo simulatorja, kadar je to izvedljivo in tehnično mogoče za nekatere
+scenarije.
+(2) V jedrskih elektrarnah se mora
+izvajati tudi usposabljanje za prehod z navodil ob nezgodi na smernice za obvladovanje
+težkih nesreč.
+(3) V jedrskih elektrarnah je treba
+načrtovati tiste ukrepe, ki so predvideni v smernicah za obvladovanje težkih
+nesreč in ki so nujni za vzpostavitev potrebnih varnostnih funkcij, ter se
+zanje redno usposabljati.
+VII.2 Pripravljenost na izredni dogodek
+59. člen
+(vzdrževanje pripravljenosti)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora zagotavljati načrtovanje in vzdrževanje pripravljenosti
+objekta za morebitni izredni dogodek, ki obsega:
+-      
+načrt zaščite in reševanja z izvedbenimi postopki,
+-      
+organizacijo za obvladovanje izrednega dogodka,
+-      
+prostore in opremo za obvladovanje izrednega dogodka, vključno s
+komunikacijskimi sredstvi,
+-      
+usposabljanje za obvladovanje izrednega dogodka in preizkušanje
+pripravljenosti.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti ukrepe za njegov učinkoviti odziv na dogodke,
+ki zahtevajo zaščitne ukrepe na lokaciji objekta, in sicer za:
+1.    
+vzpostavitev nadzora po kakršnem koli izrednem dogodku, vključno z
+dogodki, ki so posledica kombinacij jedrskega in nejedrskega tveganja;
+2.    
+preprečitev in omilitev posledic dogodkov iz prejšnje alineje;
+3.    
+sodelovanje z zunanjimi organizacijami pri preprečevanju škodljivih
+vplivov za zaposlene in prebivalstvo.
+60. člen
+(načrt zaščite in reševanja objekta)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora izdelati načrt zaščite in reševanja objekta ter zagotoviti potrebno organiziranost za ravnanje ob izrednem
+dogodku z jasno določenimi odgovornostmi in pristojnostmi osebja (v nadaljnjem
+besedilu: organizacija za obvladovanje izrednega dogodka). Zagotoviti mora vse
+potrebno za uskladitev dejavnosti ob izrednem dogodku v objektu in za
+sodelovanje z zunanjimi organizacijami ves čas trajanja izrednega dogodka.
+(2) Načrt zaščite in reševanja
+objekta iz prejšnjega odstavka mora biti usklajen z državnim
+načrtom, ki ureja zaščito in reševanje ob jedrski nesreči ter z načrti drugih
+sodelujočih organizacij.
+(3) Z načrtom zaščite in reševanja
+objekta iz prvega odstavka tega člena morajo biti usklajeni
+načrti dejavnosti podpornih organizacij, interni dokumenti upravljavca in drugi
+načrti sevalnega ali jedrskega objekta (npr. načrt fizičnega varovanja, požarni
+načrt).
+61. člen
+(vsebina načrta)
+(1) Načrt zaščite in reševanja iz
+prejšnjega člena mora poleg zahtev, ki jih predpisuje zakon, ki ureja varstvo
+pred naravnimi in drugimi nesrečami, zagotoviti:
+1.    
+hitro prepoznavanje in razvrstitev izrednega dogodka v stopnjo
+nevarnosti glede na možne posledice in potreben obseg intervencijskega
+ukrepanja,
+2.    
+organiziranost za obvladovanje izrednega dogodka z jasno določenimi
+odgovornostmi in pristojnostmi osebja,
+3.    
+pravočasno sporočanje in alarmiranje osebja organizacije za obvladovanje
+izrednega dogodka,
+4.    
+varnost vseh ljudi na lokaciji objekta, vključno z zaščito osebja iz
+organizacije za obvladovanje izrednega dogodka,
+5.    
+obveščanje pristojnih državnih organov in javnosti, kar vključuje tudi
+pravočasno sporočanje in nadaljnje zagotavljanje podatkov,
+6.    
+ocenjevanje tehničnega stanja objekta in radioloških razmer na lokaciji
+objekta in v njegovi okolici,
+7.    
+zagotavljanje podatkov za preračun operativnih intervencijskih nivojev,
+8.    
+predlaganje takojšnih zaščitnih ukrepov v okolju zaradi posledic
+izrednega dogodka,
+9.    
+spremljanje radioaktivnih izpustov,
+10.  oskrbo
+in prvo pomoč za kontaminirane ali čezmerno obsevane delavce in druge ljudi z
+območja lokacije sevalnega ali jedrskega objekta,
+11.  upravljanje
+objekta, nadzor in izvajanje intervencijskih korektivnih ukrepov in sprememb,
+12.  zagotovila
+zunanjih organizacij, da bodo dajale podporo in pomoč upravljavcu sevalnega ali
+jedrskega objekta pri obvladovanju izrednega dogodka,
+13.  gašenje
+požara in izvajanje korektivnih ukrepov.
+(2) Načrt zaščite in reševanja
+sevalnega ali jedrskega objekta mora upoštevati vse vrste izrednih dogodkov, za
+jedrske elektrarne pa vključno s težkimi nesrečami, za katere je še smiselno
+načrtovanje pripravljenosti.
+62. člen
+(organizacija za obvladovanje izrednega
+dogodka)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti:
+1.    
+stalno prisotnost v objektu oziroma za objekte, ki niso jedrska
+elektrarna, dosegljivost osebja s pristojnostjo in odgovornostjo za razvrstitev
+in razglasitev izrednega dogodka ter za takojšnje izvajanje načrta zaščite in
+reševanja;
+2.    
+zadosti usposobljenega osebja za prevzem delovnih mest v organizaciji za
+obvladovanje izrednega dogodka objekta takoj po razglasitvi začetka tega
+dogodka;
+3.    
+potrebno tehnično pomoč za osebje, ki upravlja objekt;
+4.    
+razpoložljivost ustreznih služb za omejitev posledic izrednega dogodka,
+npr. službe za varstvo pred sevanji, vzdrževalcev, požarne zaščite in drugih;
+5.    
+takojšnje opozarjanje zunanjih institucij in pogodbenih podpornih
+organizacij (policije, zdravstvene službe, zunanje gasilske službe ipd.);
+6.    
+pošiljanje začetnega in nadaljnjih obvestil o dogodku centrom
+obveščanja;
+7.    
+sodelovanje pri obveščanju javnosti in izdelavi priporočil o zaščitnih
+ukrepih za prebivalstvo, če so potrebni.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora imensko določiti vodilno in drugo osebje ter njegove
+pristojnosti v vseh organizacijah in službah, ki sodelujejo pri izvajanju nalog
+v načrtu zaščite in reševanja.
+63. člen
+(prostori in oprema za obvladovanje
+izrednega dogodka)
+(1) Upravljavec jedrske elektrarne
+mora poleg zahtev iz prejšnjega člena zagotoviti:
+1.    
+ustrezne zmogljivosti, vključno z zunanjim podpornim centrom, ki je
+namenjen vodenju celovitega odziva upravljavca jedrske elektrarne na izredni
+dogodek. Tak center mora imeti zmogljivosti, ki so namenjene koordinaciji
+radiološkega monitoringa, presoji stanja v okolici elektrarne, izdelavi priporočil
+za zaščitne ukrepe in koordinaciji dejavnosti z zunanjimi organizacijami;
+2.    
+tehnični podporni center za osebje za obvladovanje izrednega dogodka.
+Center mora imeti na voljo vse pomembne podatke o stanju jedrske elektrarne ter
+o radiološkem stanju v njej in njeni okolici. Imeti mora možnost komunikacije s
+komandno sobo in morebitno pomožno komandno sobo ter drugimi pomembnimi mesti v
+jedrski elektrarni, pa tudi z organizacijami za izvajanje načrta zaščite in
+reševanja v jedrski elektrarni in zunaj nje;
+3.    
+prostore, ki se uporabljajo pri izvajanju načrta zaščite in reševanja
+ter morajo biti primerno umeščeni in zaščiteni za zagotovitev nadzora nad
+izpostavljenostjo osebja. Z ustreznimi ukrepi je treba zagotoviti zaščito
+osebja pred tveganjem zaradi posledic nesreč, tudi če dogodek in odpravljanje
+njegovih posledic trajata dlje časa;
+4.    
+inštrumente, orodje, opremo, dokumentacijo in sisteme za komunikacijo,
+ki se uporabljajo ob izrednem dogodku. Biti morajo vedno na razpolago, z rednim
+preizkušanjem in vzdrževanjem pa je treba ohranjati njihovo operabilnost in
+ustreznost podporne dokumentacije. Shranjeni morajo biti na takšnem mestu in
+tako, da morebitna nesreča nanje nima nezaželenega vpliva.
+(2) Upravljavec sevalnega ali
+jedrskega objekta, ki ni jedrska elektrarna, mora v načrtu zaščite in reševanja
+zagotoviti smiselno podobne zmogljivosti kakor v prejšnjem odstavku, vendar
+prilagojene značilnostim in tveganju tega objekta.
+64. člen
+(usposabljanje za obvladovanje izrednega
+dogodka)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora določiti znanje, veščine in sposobnosti, ki jih
+potrebuje osebje za izvajanje svojih nalog ob izrednem dogodku.
+(2) Upravljavec sevalnega ali
+jedrskega objekta mora zagotoviti predhodno obveščanje osebja in drugih ljudi
+na lokaciji objekta o dejavnostih, ki bi se izvedle ob izrednem dogodku.
+(3) Usposabljanje osebja, ki sodeluje
+pri obvladovanju izrednega dogodka, mora obsegati osnovno usposabljanje o
+načrtu zaščite in reševanja objekta ter nadaljevalno obnovitveno usposabljanje
+v časovnih zaporedjih, s katerimi se zagotovi ohranjanje potrebnega znanja.
+Upravljavec sevalnega ali jedrskega objekta mora zagotoviti, da osebje opravi
+načrtovano usposabljanje.
+(4) Upravljavec jedrske elektrarne
+mora najmanj enkrat na leto preveriti načrt zaščite in reševanja z izvedbo
+vaje. Vaja mora vključevati čim več zunanjih organizacij, ki sodelujejo pri
+izvedbi načrta zaščite in reševanja.
+(5) Upravljavec sevalnega ali
+jedrskega objekta, ki ni jedrska elektrarna, mora preverjati načrt zaščite in
+reševanja z izvajanjem rednih vaj s smiselno uporabo določbe prejšnjega
+odstavka s pogostostjo, ki je primerna značilnostim in tveganju tega objekta.
+(6) Vaje za morebitni izredni dogodek
+morajo biti sistematično ovrednotene. Pridobljene izkušnje morajo biti
+uporabljene za pregled in posodobitev načrta zaščite in reševanja.
+65. člen
+(predhodno obveščanje prebivalstva)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora vnaprej obvestiti prebivalstvo, za katero so v načrtu
+zaščite in reševanja predvideni takojšnji zaščitni ukrepi, o njim namenjenih
+zdravstvenih in zaščitnih ukrepih ter o tem, kako naj ravna v takšnih primerih.
+(2) Poslane informacije morajo
+vsebovati vsaj:
+1.    
+osnovna dejstva o radioaktivnosti ter njenih učinkih na ljudi in okolje;
+2.    
+različne vrste primerov radioloških izrednih dogodkov ter njihove
+posledice za prebivalstvo in okolje;
+3.    
+predvidene zaščitne ukrepe za prebivalstvo v primeru radiološkega
+izrednega dogodka;
+4.    
+informacije o ravnanju prebivalcev ob radiološkem izrednem dogodku.
+(3) Prebivalstvu iz prvega odstavka
+tega člena je treba zagotoviti informacije brez posebne zahteve.
+(4) Informacije iz drugega odstavka
+tega člena je treba dopolnjevati najmanj enkrat na tri leta in kadar koli se
+zgodijo pomembne spremembe glede predvidenih ukrepov. Te informacije morajo
+biti vedno na razpolago javnosti.
+(5) Ob nastopu radiološkega izrednega
+dogodka mora upravljavec sevalnega ali jedrskega objekta brez odlašanja
+pripraviti informacije za prizadeto prebivalstvo o dejstvih glede izrednega
+dogodka, o ukrepih za obvladovanje dogodka in po potrebi o sprejetih zaščitnih
+ukrepih.
+66. člen
+(informiranje intervencijskih delavcev
+zunaj objekta)
+(1) Upravljavec sevalnega ali
+jedrskega objekta mora vsem tistim, ki niso delavci tega objekta oziroma niso
+vključeni v dejavnosti tega objekta, vendar bi bili lahko vključeni v
+organizacijo za obvladovanje izrednega dogodka, dati ustrezne in redno
+obnovljene informacije o tveganju takšnega posredovanja za njihovo zdravje in o
+preventivnih ukrepih, ki jih je v takšnem primeru treba izvesti. Te informacije
+morajo upoštevati vrsto možnih primerov radioloških izrednih ukrepov.
+(2) Takoj po nastopu izrednega dogodka
+je treba informacije iz prejšnjega odstavka ustrezno dopolniti glede na posebne
+okoliščine tega dogodka.
+
+Priloga 1: Zasnova dnevnega poročila o obratovanju
+jedrske elektrarne
+Priloga
+2: Zasnova mesečnega poročila o obratovanju jedrske elektrarne
+Priloga
+3: Zasnova četrtletnega poročila o obratovanju jedrske elektrarne
+Priloga
+4: Zasnova letnega poročila o obratovanju jedrske elektrarne
+Priloga
+5: Zasnova letnega poročila o obratovanju raziskovalnega reaktorja
+Priloga
+6: Seznam dogodkov, o katerih mora upravljavec jedrske elektrarne izredno
+poročati
+Priloga
+7: Varnostno presejanje in razvrstitev spremembe v kategorijo 1
+Priloga
+8: Varnostna ocena ter razvrstitev sprememb v kategoriji 2 in 3
+Priloga
+9: Zasnova obsega in vsebine občasnega varnostnega pregleda sevalnega ali
+jedrskega objekta
+
+Pravilnik o zagotavljanju varnosti po začetku
+obratovanja sevalnih ali jedrskih objektov (Uradni list RS, št. 85/09)
+vsebuje naslednje prehodne in končne določbe:
+»VIII. PREHODNE IN KONČNE DOLOČBE
+67. člen
+(uskladitev)
+Upravljavec sevalnega ali jedrskega objekta
+mora uskladiti obratovanje svojega objekta s tem pravilnikom najpozneje v 12
+mesecih po začetku veljavnosti tega pravilnika.
+68. člen
+(obstoječi
+objekti)
+(1) Ne glede na določbo prejšnjega
+člena Uprava v treh mesecih od uveljavitve tega pravilnika izda odločbo, v
+kateri uskladi veljavni način in obseg poročanja z določbami tega pravilnika za
+jedrsko elektrarno Krško.
+(2) Ne glede na določbo prejšnjega
+člena mora upravljavec jedrske elektrarne Krško uskladiti verjetnostne varnostne
+analize z določbami 1. in 4. točke tretjega odstavka 50. člena in 53.
+člena tega pravilnika, ko bodo uveljavljeni mednarodna praksa in standardi na
+tem področju.
+(3) Ne glede na četrti odstavek 45.
+člena tega pravilnika je rok za vložitev vloge za potrditev drugega poročila o
+občasnem varnostnem pregledu za jedrsko elektrarno Krško 15. december
+2013.
+69. člen
+(prenehanje
+veljavnosti)
+Z dnem uveljavitve tega pravilnika preneha
+veljati Pravilnik o načinu in rokih, v katerih so strokovne organizacije združenega
+dela, pooblaščene za dela in naloge s področja jedrske varnosti, in
+organizacije združenega dela, ki upravljajo z jedrskimi objekti in napravami,
+dolžne voditi evidenco, poročati republiškemu energetskemu inšpektoratu ter o
+načinu medsebojnega informiranja (Uradni list SRS, št. 12/81 in Uradni list RS,
+št. 67/02 – ZVISJV).
+70. člen
+(začetek
+veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o zagotavljanju varnosti po začetku obratovanja sevalnih ali
+jedrskih objektov (Uradni list RS, št. 87/11) vsebuje naslednjo končno določbo:
+»22. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.

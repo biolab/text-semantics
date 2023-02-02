@@ -1,0 +1,17 @@
+Text file: PRAV9424.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1320274800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9424
+idPredpisaChng: PRAV9424
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju varnosti po za\u010Detku obratovanja sevalnih ali\
+  \ jedrskih objektov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/37/2011-01-3729-2009-01-3798-npb1
+sopPredpisa: 2011-01-3729
+sopPredpisaChng: 2009-01-3798

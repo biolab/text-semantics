@@ -1,0 +1,17 @@
+Text file: KOLP483.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1655503200000000000
+- null
+- null
+- 10
+idPredpisa: KOLP483
+idPredpisaChng: KOLP483
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA elektrogospodarstva Slovenije (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/18/2022-01-1806-2017-01-2089-npb3
+sopPredpisa: 2022-01-1806
+sopPredpisaChng: 2017-01-2089

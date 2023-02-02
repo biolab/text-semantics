@@ -1,0 +1,17 @@
+Text file: PRAV11906.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1405720800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11906
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za prepre\u010Devanje \u0161irjenja in zatiranje \u0161\
+  arke, ki jo povzro\u010Da Plum pox virus"
+npbNum: 0
+path: /2014/20/2014-01-2092
+sopPredpisa: 2014-01-2092
+sopPredpisaChng: null

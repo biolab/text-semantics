@@ -1,0 +1,19 @@
+Text file: DEKL15.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1023400800000000000
+- null
+- null
+- 10
+idPredpisa: DEKL15
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO o podpori resoluciji o terorizmu \u2013 nevarnosti \_za demokracijo,\
+  \ \u010Dlovekove pravice in civilno dru\u017Ebo: prispevek parlamentov v boju proti\
+  \ mednarodnemu terorizmu in odpravljanju njegovih vzrokov z namenom ohranjanja mednarodnega\
+  \ miru in varnosti (DeReTer)"
+npbNum: 0
+path: /2002/24/2002-01-2450
+sopPredpisa: 2002-01-2450
+sopPredpisaChng: null

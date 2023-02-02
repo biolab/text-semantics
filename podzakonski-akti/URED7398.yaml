@@ -1,0 +1,16 @@
+Text file: URED7398.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1473372000000000000
+- null
+- null
+- 10
+idPredpisa: URED7398
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o oblikovanju cen dolo\u010Denih naftnih derivatov"
+npbNum: 0
+path: /2016/24/2016-01-2476
+sopPredpisa: 2016-01-2476
+sopPredpisaChng: null

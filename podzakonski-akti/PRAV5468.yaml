@@ -1,0 +1,16 @@
+Text file: PRAV5468.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1098741600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5468
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih, ki jih morajo izpolnjevati primarni centri za dojke
+npbNum: 0
+path: /2004/46/2004-01-4607
+sopPredpisa: 2004-01-4607
+sopPredpisaChng: null

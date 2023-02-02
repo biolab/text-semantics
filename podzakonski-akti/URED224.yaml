@@ -1,0 +1,18 @@
+Text file: URED224.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1017442800000000000
+- null
+- null
+- 10
+idPredpisa: URED224
+idPredpisaChng: URED224
+instock: .nan
+naslov: "UREDBA o vodenju in vzdr\u017Eevanju centralnega registra prebivalstva ter\
+  \ postopku za pridobivanje in posredovanje podatkov (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2002/12/2002-01-1212-2000-01-3338-npb1
+sopPredpisa: 2002-01-1212
+sopPredpisaChng: 2000-01-3338

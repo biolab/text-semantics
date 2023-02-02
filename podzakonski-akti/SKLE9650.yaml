@@ -1,0 +1,13 @@
+Text file: SKLE9650.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9650
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP  o odprtju Konzulata Republike Slovenije v Montevideu, v Vzhodni republiki
+  Urugvaj
+npbNum: 0
+path: /2013/37/2013-01-3739
+sopPredpisa: 2013-01-3739
+sopPredpisaChng: null

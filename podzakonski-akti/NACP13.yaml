@@ -1,0 +1,17 @@
+Text file: NACP13.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 825634800000000000
+- null
+- null
+- 10
+idPredpisa: NACP13
+idPredpisaChng: null
+instock: .nan
+naslov: "NACIONALNI PROGRAM razvoja Slovenske \u017Eelezni\u0161ke infrastrukture\
+  \ (NPRSZI)"
+npbNum: 0
+path: /1996/06/1996-01-0609
+sopPredpisa: 1996-01-0609
+sopPredpisaChng: null

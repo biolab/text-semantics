@@ -1,0 +1,16 @@
+Text file: PRAV8824.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230764400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8824
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o postopku overitve meril
+npbNum: 0
+path: /2008/36/2008-01-3615
+sopPredpisa: 2008-01-3615
+sopPredpisaChng: null

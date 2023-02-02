@@ -1,0 +1,17 @@
+Text file: PRAV7927.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1648249200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7927
+idPredpisaChng: PRAV7927
+instock: .nan
+naslov: "PRAVILNIK o izvajanju Zakona o dav\u010Dnem postopku (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 20)"
+npbNum: 20
+path: /2022/08/2022-01-0838-2006-01-6164-npb20
+sopPredpisa: 2022-01-0838
+sopPredpisaChng: 2006-01-6164

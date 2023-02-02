@@ -1,0 +1,17 @@
+Text file: PRAV9542.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1248472800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9542
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o kakovosti storitve za enotno evropsko telefonsko \u0161tevilko\
+  \ za klice v sili \u201D112\u201D"
+npbNum: 0
+path: /2009/25/2009-01-2595
+sopPredpisa: 2009-01-2595
+sopPredpisaChng: null

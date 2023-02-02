@@ -1,0 +1,449 @@
+1 SPLOŠNE DOLOČBE
+1. člen
+Namen Pravil dražb
+(1) S temi Pravili dražb za izvajanje zakupov posameznih
+sistemskih storitev na izravnalnem trgu ELES (v nadaljnjem besedilu: Pravila
+dražb) operater prenosnega sistema (v nadaljnjem besedilu: OPS) določa pravila
+in pogoje za:
+1.     
+ponudnike storitev izravnave (v nadaljnjem besedilu: PSI), ki želijo
+sodelovati na dražbah za zakup posamezne storitve izravnave OPS;
+2.     
+OPS pri organiziranju in izvajanju dražb za izvajanje zakupov posameznih
+sistemskih storitev na izravnalnem trgu ELES.
+(2) OPS s temi Pravili dražb ureja način sodelovanja PSI
+na dražbah za posamezno storitve izravnave na območju Republike Slovenije, in
+sicer za naslednje storitve izravnave:
+-       
+rezerva za vzdrževanje frekvence (simetrični produkt v pozitivno in
+negativno smer) (RVF),
+-       
+avtomatsko rezervo za povrnitev frekvence v pozitivno smer izravnave
+(aRPF+),
+-       
+avtomatsko rezervo za povrnitev frekvence v negativno smer izravnave
+(aRPF-),
+-       
+ročno rezervo za povrnitev frekvence v pozitivno smer izravnave (rRPF+)
+in
+-       
+ročno rezervo za povrnitev frekvence v negativno smer (rRPF-).
+2. člen
+Cilji Pravil dražb
+(1) Cilj Pravil dražb je zagotoviti pošten in objektiven
+zakup posamezne storitve izravnave na tržen in nediskriminatoren način.
+(2) Pravila dražb urejajo in določajo podrobna pravila
+in pogoje za sodelovanje PSI na:
+-       
+dražbah za zakup izravnalne moči (v nadaljnjem besedilu: dražbe),
+-       
+pravila za zbiranje ponudb izravnalne energije ter
+-       
+pravila za izbor sprejetih ponudb.
+2 KRATICE
+3. člen
+Izrazi in kratice
+Izrazi in kratice uporabljene v tem dokumentu imajo enak
+pomen kot je to opredeljeno v Pravilih in pogojih za ponudnike storitve
+izravnave na izravnalnem trgu ELES (v nadaljnjem besedilu: Pogoji za PSI).
+
+aRPF+
+
+avtomatska rezerva za povrnitev frekvence v pozitivno smer
+  izravnave
+
+
+aRPF-
+
+avtomatska rezerva za povrnitev frekvence v negativno smer
+  izravnave
+
+
+EES
+
+elektroenergetski sistem
+
+
+GCT
+
+čas konca zbiranja ponudb za izravnalno moč ali izravnalno
+  energijo
+
+
+GOT
+
+čas pričetka zbiranja ponudb za izravnalno moč ali
+  izravnalno energijo
+
+
+OPS
+
+operater prenosnega sistema
+
+
+PSI
+
+ponudnik storitev izravnave
+
+
+rRPF+
+
+ročna rezerva za povrnitev frekvence v pozitivno smer
+  izravnave
+
+
+rRPF-
+
+ročna rezerva za povrnitev frekvence v negativno smer
+  izravnave
+
+
+RVF
+
+rezerva za vzdrževanje frekvence
+
+3 DEFINICIJE POJMOV
+Za namene tega dokumenta se uporabljajo naslednje opredelitve
+pojmov:
+(1) dražba – je proces zakupa izravnalne moči;
+(2) FCR kooperacija – mednarodna kooperacija za zakup
+izravnalne moči za RVF;
+(3) izbrana ponudba – je ponudba s seznama ponudb, ki jo
+je v postopku dražb za moč ali zbiranju ponudb izravnalne energije izbral OPS
+in je podlaga za nepreklicno sklenjen posel;
+(4) kvalificirani PSI – je PSI, ki ima veljavno potrdilo
+o kvalifikaciji za sodelovanje na posamezni dražbi za zakup izravnalne moči in
+za zbiranje ponudb izravnalne energije v skladu s temi Pravili dražb ter Pogoji
+za PSI;
+(5) nepreklicno sklenjen posel – posel, ki ga ni več
+mogoče razveljaviti;
+(6) platforma – pomeni namensko platformo za zbiranje
+ponudb za nudenje posamezne storitve izravnave, ki jo OPS potrebuje za
+izravnavo EES Slovenije. OPS uporablja platformo za izbor najugodnejših ponudb
+za izravnalno moč (dražba), za izbor najugodnejših ponudb za izravnalno
+energijo ter za komunikacijo s PSI;
+(7) pogodba – je pogodba sklenjena med OPS in PSI za
+nudenje posamezne storitve izravnave. V pogodbi so zapisana generalna določila
+o obveznostih in pravicah pogodbenih strank. Cena in količina za nudenje
+izravnalne moči po posameznem poslu sta določeni z uradnim obvestilom o
+rezultatu dražbe. Cena za izravnalno energijo pa je enaka ceni ponujeni s
+strani PSI;
+(8) ponudba – ponudba je kombinacija ponudbene količine
+in ponudbene cene, ki jo odda PSI;
+(9) posamezna storitev izravnave – je ena izmed
+naslednjih storitev izravnave: rezerva za vzdrževanje frekvence simetrično v
+obe smeri izravnave, avtomatska rezerva za povrnitev frekvence v pozitivno smer
+izravnave, avtomatska rezerva za povrnitev frekvence v negativno smer
+izravnave, ročna rezerva za povrnitev frekvence v pozitivno smer izravnave in
+ročna rezerva za povrnitev frekvence v negativno smer izravnave;
+(10) sprejeta ponudba – je ponudba oddana s strani PSI,
+ki je uspešno opravila validacijo s strani platforme OPS. OPS platforma
+sprejete ponudbe potrdi s pozitivno potrditveno XML datoteko (pozitivni
+acknowledgement);
+(11) urejen seznam ponudb – pomeni seznam ponudb za
+izravnalno moč ali izravnalno energijo, ki so razvrščene po ceni in časovni
+znački podanih ponudb. Urejen seznam ponudb se uporablja za določitev izbranih
+ponudb pri dražbah za izravnalno moč in za aktivacijo ponudb za izravnalno
+energijo.
+4 KVALIFIKACIJA PSI
+4. člen
+Status in kvalifikacija PSI
+(1) Status kvalificiranega PSI za posamezno storitev
+izravnave pridobijo tisti PSI, ki:
+a)    
+imajo potrdilo o priznanju tehnične sposobnosti skladno s Pogoji za PSI.
+Poleg izpolnjevanja minimalnih tehničnih zahtev mora biti PSI sposoben nuditi
+posamezno storitev izravnave ves čas razpisanega obdobja storitve izravnave;
+b)    
+imajo podpisano pogodbo z OPS za posamezno storitev izravnave. Vzorci
+pogodb za posamezno storitev izravnave so priloga teh Pravil dražb;
+c)    
+so predložili OPS inštrument zavarovanja za resnost ponudbe in dobro
+izvedbo pogodbenih obveznosti, to je deset bianko lastnih menic z menično
+izjavo in pooblastilom za unovčenje v vrednosti 5.000,00 EUR na MW ponujene
+posamezne storitve izravnave in z rokom veljavnosti, ki je vsaj 60 dni daljši
+od časa konca nudenja storitve. Vsebina menične izjave mora biti enaka vsebini
+iz Priloge 1 teh Pravil dražb.
+(2) OPS določi višino priznane kvalificirane izravnalne
+moči za posamezno storitev izravnave kot nižjo od vrednosti med višino priznane
+tehnične sposobnosti in višino določeno z inštrumentom zavarovanja za resnost
+ponudbe in dobro izvedbo pogodbenih obveznosti, ki jo je PSI predložil OPS za
+posamezno storitev izravnave.
+(3) OPS na podlagi izpolnjevanja določil tega člena izda
+PSI potrdilo o kvalifikaciji za sodelovanje na dražbah najkasneje v sedmih
+delovnih dneh od prejema popolne dokumentacije. V primeru nepopolne
+dokumentacije OPS pozove PSI k dopolnitvi oziroma odpravi pomanjkljivosti.
+5 SODELOVANJE PSI NA DRAŽBAH
+5. člen
+Pogoji sodelovanja PSI na dražbah
+(1) Na dražbi za posamezno storitev izravnave lahko
+sodelujejo le PSI, ki so predhodno pridobili status kvalificiranega PSI za to
+storitev izravnave skladno s 4. členom teh Pravil. Kvalificirani PSI za
+posamezno storitev izravnave lahko oddaja ponudbe za izravnalno moč oziroma
+izravnalno energijo do višine proste priznane kvalifikacije za to posamezno
+storitev. Prosta priznana kvalifikacija je razlika med višino kvalificirane
+sposobnosti PSI za posamezno storitev izravnave in že izbranimi in/ali sprejetimi
+ponudbami PSI za to posamezno storitev izravnave za čas dobave določene s
+posamezno dražbo.
+(2) Če je kvalificirani PSI na dražbi za izravnalno moč
+za aRPF+, aRPF-, rRPF+ in rRPF- uspešen (njegove ponudbe za moč so sprejete in
+izbrane) mora za vsako tržno časovno enoto oddati ponudbe za izravnalno
+energijo v višini izbrane ponudbe oziroma določene obveznosti za izravnalno moč
+za posamezno storitev. V nasprotnem primeru OPS izvede postopke obračuna
+posledic določenih v Pogojih za PSI. Določilo tega odstavka ne velja za RVF.
+(3) Kvalificirani PSI ima za aRPF+, aRPF-, rRPF+ in
+rRPF- možnost oddaje ponudb za izravnalno energijo v višini proste
+(neizkoriščene) kvalificirane sposobnosti. Sodelovanje na dražbi za izravnalno
+moč za aRPF+, aRPF-, rRPF+ in rRPF- ni pogoj za oddajo ponudb za izravnalno
+energijo.
+(4) PSI lahko sodeluje na dražbah za posamezno storitev
+izravnave za obdobje, za katerega ima veljaven status kvalificiranega PSI za
+posamezno storitev izravnave.
+6 OBJAVA TERMINOV IN ZNAČILNOSTI DRAŽB
+6. člen
+Organizacija dražb
+OPS izvaja ločene dražbe po posameznih storitvah izravnave.
+7. člen
+Termini in značilnosti dražb
+(1) OPS objavi indikativni koledar dražb na svoji
+spletni strani.
+(2) Čas trajanja dnevnih dražb za storitev izravnave
+RVF:
+-       
+GOT je 11:00 v D-7.
+-       
+GCT je 08:00 v D-1.
+(3) Čas trajanja dnevnih dražb za storitev izravnave
+aRPF+ in aRPF-:
+-       
+GOT je 12:00 v D-4.
+-       
+GCT je 09:30 v D-1.
+(4) Čas trajanja dnevnih dražb za storitev izravnave
+rRPF+ in rRPF-:
+-       
+GOT je 12:00 v D-4.
+-       
+GCT je 10:30 v D-1.
+(5) OPS si pridružuje pravico do spremembe GOT in GCT za
+zbiranje ponudb za izravnalno moč. OPS objavi spremembe na svoji spletni strani
+najkasneje trideset dni pred uveljavitvijo.
+(6) Pomembne podatke vezane na posamezno dražbo
+(produkt, razpisano količino, predviden GOT, predviden GCT, zamejeno ceno in
+ostale relevantne informacije za sodelovanje na posamezni dražbi) OPS sporoči
+kvalificiranim PSI preko dražbenih specifikacij praviloma vsaj dva delovna
+dneva pred začetkom posamezne dražbe.
+(7) V primeru ponovitve dražbe OPS posreduje dražbene
+specifikacije praviloma vsaj en delovni dan pred posamezno dražbo.
+8. člen
+Način izvedbe dražb
+Izvedba dražb poteka preko platforme. PSI komunicirajo s
+platformo z izmenjavo standardiziranih xml datotek preko dogovorjenega
+komunikacijskega kanala. OPS dodeli dostop do platforme (omogoči izmenjavo
+sporočil preko dogovorjenega komunikacijskega kanala) le kvalificiranim PSI.
+7 OBLIKOVANJE PONUDB
+9. člen
+Ponudbe na dražbah in ponudbe za izravnalno energijo
+(1) Kvalificirani PSI vnašajo svoje ponudbe preko
+platforme, pri čemer določijo za storitev izravnave:
+-       
+aRPF+, aRPF-, rRPF+ in rRPF-:
+- 
+količino v MW zaokroženo na celo število,
+- 
+ceno rezervacije za izravnalno moč v EUR/MW/h zaokroženo na dve
+decimalni mesti,
+- 
+ceno izravnalne energije v EUR/MWh zaokroženo na dve decimalni mesti
+skladno z določili Pogojev za PSI.
+-       
+RVF:
+- 
+količino v MW zaokroženo na celo število,
+- 
+ceno rezervacije za izravnalno moč RVF v EUR/MW/produkt zaokroženo na
+dve decimalni mesti,
+- 
+informacijo ali je ponudba deljiva ali nedeljiva.
+Napačno oziroma pomanjkljivo vnesene ponudbe niso veljavne in
+niso sprejete s strani platforme že ob vnosu.
+(2) PSI lahko količino priznane proste kvalificirane
+izravnalne moči poljubno razdeli na več ponudb, pri tem količina posamezne
+ponudbe ne sme biti manjša od minimalno dovoljene količine skladno s Pogoji za
+PSI. Ponudbe s količino manjšo od te vrednosti bodo zavrnjene s strani
+platforme že ob prejemu.
+(3) Časovno značko sprejetim ponudbam določi platforma.
+Sprejete (in s tem veljavne) so le tiste ponudbe, ki so bile v platformo
+vnesene skladno s prvim odstavkom tega člena in v predpisanem času za podajanje
+ponudb (od GOT do GCT).
+(4) Kvalificirani PSI lahko v za to predvidenem času
+poljubno spreminjajo oziroma posodabljajo že sprejete ponudbe. Tudi spremembe
+oziroma posodobitve predhodno sprejetih ponudb morajo biti podane v skladu z
+omejitvami podanimi v tem členu.
+(5) Kvalificirani PSI nimajo vpogleda v ponudbe ostalih
+kvalificiranih PSI.
+(6) OPS oziroma izvajalec dražbe nadzoruje celoten
+proces izvedbe dražbe in skrbi, da le-ta poteka v skladu s Pravili dražb in
+Pogoji za PSI.
+8 IZBOR NAJUGODNEJŠIH PONUDB ZA IZRAVNALNO MOČ
+10. člen
+Kriterij izbire najugodnejših ponudb za izravnalno moč
+(1) Pri izbiri najugodnejših ponudb za izravnalno moč
+imajo prednost ponudbe z nižjo ceno. V primeru več ponudb z isto ceno ima
+prednost ponudba z nižjo (starejšo) časovno oznako.
+(2) Zadnja izbrana ponudba za izravnalno moč aRPF+,
+aRPF-, rRPF+ in rRPF je lahko izbrana v celoti ali le delno – v višini potrebni
+za nakup celotne razpisane količine, vendar ne manjša od en MW.
+(3) Pri izbiri najugodnejših ponudb za izravnalno moč
+RVF v primeru izvedbe dražb na nivoju kooperacije FCR se uporabljajo načela
+dogovorjena v sklopu kooperacije FCR.
+(4) V primeru razdružitve od kooperacije FCR
+(decoupling) OPS izvede lokalno dražbo za zakup storitve izravnave RVF. V tem
+primeru je kriterij minimizacija stroškov zakupa izravnalne moči ob pogoju
+zagotavljanja minimalne povpraševane količine. Posledica tega je lahko izbor
+nedeljive ponudbe, ki skupaj z ostalimi izbranimi ponudbami presega celotno
+povpraševano količino, če so tako stroški celotnega zakupa izravnalne moči
+nižji.
+(5) Vse ponudbe za izravnalno moč so veljavne do prejema
+uradnega obvestila o rezultatih dražbe.
+(6) Za uradno obvestilo o rezultatih dražbe se šteje s
+strani platforme posredovano obvestilo po koncu dražbe. Uradno obvestilo o
+rezultatih dražbe prejmejo vsi udeleženci dražbe, ki so oddali vsaj eno
+veljavno ponudbo. V obvestilu je za vsako njihovo ponudbo jasno označeno, ali
+je bila izbrana v celoti, delno izbrana ali zavrnjena.
+(7) Izbrane ponudbe za izravnalno moč veljajo kot
+nepreklicno sklenjen posel razen v primeru iz drugega odstavka 14. člena
+teh Pravil dražb.
+(8) Izbrane ponudbe za izravnalno moč aRPF+, aRPF-,
+rRPF+ in rRPF- se obračunajo po principu »plačilo na podlagi ponudbe« (ang.
+pay-as-bid).
+(9) Izbrane ponudbe za izravnalno moč RVF se obračunajo
+po principu marginalne cene.
+(10) Dražba je lahko uspešna v celoti ali delno, odvisno
+od sprejete količine, ki je lahko tudi manjša ali večja od količine razpisane s
+strani OPS.
+9 IZBOR NAJUGODNEJŠIH PONUDB ZA IZRAVNALNO ENERGIJO
+11. člen
+Kriterij izbire najugodnejših ponudb za izravnalno energijo
+(1) Vse sprejete ponudbe za izravnalno energijo bo OPS
+zbral v urejen seznam ponudb.
+(2) Vse sprejete ponudbe za izravnalno energijo veljajo
+do izteka obdobja dobave, za katerega je bila podana ponudba.
+(3) Izbor najugodnejše ponudbe za izravnalno energijo se
+izvede ob času aktivacije posamezne storitve izravnave. Pri izbiri
+najugodnejših ponudb za izravnalno moč imajo prednost ponudbe z nižjo ceno. V
+primeru več ponudb za izravnalno energijo z isto ceno ima prednost ponudba za
+izravnalno energijo z nižjo (starejšo) časovno oznako.
+(4) Zadnja izbrana ponudba za izravnalno energijo je
+lahko izbrana v celoti ali le delno – v višini potrebni za izvedbo aktivacije v
+celoti.
+(5) V primeru ogroženosti zanesljivega obratovanja EES
+Slovenije ima OPS pravico aktivirati ponudbe za izravnalno energijo tudi po drugačnem
+vrstnem redu.
+10 ZAMEJENE CENE
+12. člen
+Določitev zamejene cene aRPF+, aRPF-, rRPF+ in rRPF-
+(1) OPS si pridružuje pravico do postavitve zamejene
+cene za izravnalno moč, do katere je pripravljen izbrati ponudbe, skladno s
+Pogoji za PSI.
+(2) Ponudbe za izravnalno moč, ki bodo presegale
+zamejene cene iz prve točke tega člena, bo sicer možno vnesti platformo, a v
+postopku izbora najugodnejših ponudb ne bodo upoštevane.
+(3) Ponudbe za izravnalno energijo, ki presegajo
+zamejene cene iz prve točke tega člena bodo zavrnjene s strani platforme že pri
+vnosu.
+11 OBJAVA REZULTATOV DRAŽB
+13. člen
+Rezultati dražb
+(1) OPS praviloma uradno zaključi dražbo za moč v roku
+30 minut po GCT. S tem so PSI obveščeni o rezultatih dražb preko
+komunikacijskega kanala OPS platforme.
+(2) Po zaključku dražbe za izravnalno moč OPS objavi
+anonimizirane ponudbe in rezultate dražb na svoji spletni strani.
+12 PREKLIC IN RAZVELJAVITEV DRAŽBE
+14. člen
+Sprememba dražb
+(1) OPS ima pravico skrajšati ali podaljšati trajanje
+dražbe.
+(2) O spremembi trajanja dražbe so PSI obveščeni s
+posodobljenimi dražbenimi specifikacijami. Hkrati vse sprejete ponudbe za
+izravnalno moč ostanejo veljavne.
+(3) OPS ima pravico preklicati dražbo do dve uri po
+objavi rezultatov dražbe.
+(4) O preklicu dražbe so PSI obveščeni s posodobljenimi
+dražbenimi specifikacijami. Hkrati so vse sprejete ponudbe za izravnalno moč
+tudi preklicane.
+(5) OPS izvede zakup po nadomestnem postopku v skladu s
+Pogoji za PSI in/ali Zakonom o oskrbi z električno energijo (v nadaljevanju:
+ZOEE):
+-       
+v primeru preklica dnevne dražbe,
+-       
+v kolikor dnevne dražbe za posamezno storitev izravnave v drugem
+časovnem oknu preko platforme ni mogoče izvesti,
+-       
+v kolikor OPS ne uspe zakupiti celotne potrebne količine posamezne
+izravnalne moči na dnevnih dražbah.
+(6) V primeru nezadostnega nakupa v okviru dnevnih dražb
+OPS izvede nadomestni postopek skladno s 66. členom ZOEE. OPS naloži PSI
+nudenje izravnalne moči, ki je skladna s proporcionalnim deležem tehnične
+sposobnosti PSI za posamezno storitev izravnave v relevantno smer. V tem
+primeru o izboru količin OPS obvesti PSI preko standardnega komunikacijskega
+kanala ali elektronske pošte.
+(7) V primeru nedelovanja OPS platforme in posledično
+nezmožnosti izvedbe dnevnih dražb izvede OPS nadomestni postopek pri katerem
+PSI naloži nudenje izravnalne moči, ki je skladna s proporcionalnim deležem
+kvalificirane količine PSI za posamezno storitev izravnave v relevantno smer. V
+tem primeru o izboru količin OPS obvesti PSI preko standardnega
+komunikacijskega kanala ali elektronske pošte.
+(8) V primeru potrebe po izvedbi nadomestnega postopka
+OPS obvesti PSI preko elektronske pošte praviloma v roku 30 minut po GCT ali
+takoj ko OPS ugotovi, da dražb ne bo možno izvesti preko OPS platforme.
+15. člen
+Sankcije v primeru kršitev Pravil dražb
+(1) V primeru suma kršitev Pravil dražb in/ali druge
+zadevne zakonodaje lahko OPS posameznega udeleženca izloči iz dražbe ali
+prekliče že izbrane ponudbe tega udeleženca na dražbi. OPS mora o tovrstnih
+ukrepih udeleženca po elektronski pošti obvestiti v najkrajšem možnem času.
+(2) Vsako ravnanje udeleženca, ki ima za namen ali
+posledico motenje procesa dražbe ali nedopusten vpliv na njen izid, se šteje za
+hujšo kršitev Pravil dražb, ki ima za posledico izločitev udeleženca iz dražbe
+in preklic že izbranih ponudb udeleženca na dražbi. OPS lahko v primeru namerne
+kršitve Pravil dražb z namenom vplivanja na rezultate dražbe kršitelju prekliče
+status kvalificirani PSI.
+13 IZKLJUČITEV ODGOVORNOSTI IZVAJALCA DRAŽBE
+16. člen
+Izključitev odgovornosti
+OPS ni odgovoren za kakršnokoli škodo, posredno ali
+neposredno, nastalo zaradi:
+-       
+nezmožnosti sodelovanja PSI na dražbi oziroma zaradi izostanka izvedbe
+dražbe,
+-       
+nepravočasnega prejetja ponudbe (pred GOT ali po GCT),
+-       
+napake udeleženca dražbe pri oddajanju ponudb,
+-       
+preklica ali razveljavitve dražbe.
+
+Priloga
+1: Inštrument zavarovanja za zavarovanje resnosti ponudbe in dobre izvedbe
+pogodbenih obveznosti 
+
+Pravila dražb za izvajanje zakupov posameznih
+sistemskih storitev na izravnalnem trgu ELES (Uradni list RS, št. 60/22) vsebujejo naslednjo končno
+določbo:
+»14 VELJAVNOST PRAVIL DRAŽB
+17. člen
+Veljavnost Pravil dražb
+Pravila dražb stopijo v veljavo s 1. 6. 2022. Z
+veljavnostjo teh Pravil dražb prenehajo veljati Pravila dražb z dne
+26. 10. 2020.«.
+
+Pravila
+o spremembi Pravil dražb za izvajanje zakupov posameznih sistemskih storitev na
+izravnalnem trgu ELES (Uradni list RS, št. 105/22)
+vsebujejo naslednjo končno določbo:
+»2. člen
+Ta pravila stopijo v veljavo naslednji dan po objavi v
+Uradnem listu Republike Slovenije, uporabljati pa se začnejo s 24. 8. 2022.«.

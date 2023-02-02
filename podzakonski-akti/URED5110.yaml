@@ -1,0 +1,16 @@
+Text file: URED5110.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1272405600000000000
+- null
+- null
+- 10
+idPredpisa: URED5110
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o vrstah in merilih za presojo projektnih dejavnosti
+npbNum: 0
+path: /2010/13/2010-01-1390
+sopPredpisa: 2010-01-1390
+sopPredpisaChng: null

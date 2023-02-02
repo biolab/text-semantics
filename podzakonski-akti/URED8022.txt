@@ -1,0 +1,269 @@
+1. člen
+(vsebina)
+S to uredbo se določijo pripadajoče klasifikacije namenske in
+dejanske rabe, območja vrednostnih con in vrednostne ravni, enačbe, tabele,
+točkovniki, faktorji in grafi, način uporabe teh elementov, datum modelov
+vrednotenja in podatki za pripis posplošene vrednosti za modele vrednotenja
+nepremičnin:
+1.     
+model vrednotenja za stanovanja (STA),
+2.     
+model vrednotenja za hiše (HIS),
+3.     
+model vrednotenja za garaže (GAR),
+4.     
+model vrednotenja za pisarne (PPP),
+5.     
+model vrednotenja za lokale (PPL),
+6.     
+model za stavbe splošnega družbenega pomena (SDP),
+7.     
+model vrednotenja za industrijo (IND),
+8.     
+model vrednotenja za posebno industrijo (INP),
+9.     
+model vrednotenja za kmetijske in druge stavbe (KDS),
+10.  
+model vrednotenja za stavbe za turizem (TUR),
+11.  
+model vrednotenja za druga zemljišča (DRZ),
+12.  
+model vrednotenja za kmetijska zemljišča (KME),
+13.  
+model vrednotenja za gozd (GOZ),
+14.  
+model vrednotenja za stavbna zemljišča (STZ),
+15.  
+model vrednotenja za bencinske servise (PNB),
+16.  
+model vrednotenja za elektrarne (PNE) in
+17.  
+model vrednotenja za marine in pristanišča (PNP).
+2. člen
+(oblikovanje enot vrednotenja)
+Enote vrednotenja se oblikujejo po naslednjem vrstnem redu:
+-       
+ob upoštevanju dejanske rabe delov stavb za dele stavb z zemljišči pod
+stavbami,
+-       
+ob upoštevanju dejanske rabe zemljišč za vodna zemljišča,
+-       
+ob upoštevanju dejanske rabe zemljišč za zemljišča pod javno železniško
+infrastrukturo,
+-       
+ob upoštevanju dejanske rabe zemljišč za zemljišča pod državno in
+občinsko cestno infrastrukturo,
+-       
+ob upoštevanju namenske rabe prostora za preostala zemljišča.
+3. člen
+(modeli vrednotenja za stavbe in dele stavb z zemljiščem pod
+stavbo)
+(1) Enote vrednotenja za stavbe in dele stavb z
+zemljiščem pod stavbo se določijo glede na klasifikacijo dejanske rabe delov
+stavb v skladu s predpisom, ki ureja vrste dejanskih rab dela stavbe in vrste
+prostorov, ki pripadajo delu stavbe.
+(2) Če je v stavbi en del stavbe, se v vrednosti dela
+stavbe upošteva vrednost zemljišča pod stavbo. Če je v stavbi več delov stavbe,
+se v vrednosti posameznega dela stavbe upošteva vrednost sorazmernega deleža
+zemljišča pod stavbo glede na razmerje površin delov stavbe v stavbi.
+(3) Model vrednotenja za stanovanja (STA) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 2
+(stanovanje), 3 (oskrbovano stanovanje) in 4 (bivalna enota).
+(4) Model vrednotenja za hiše (HIS) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 1 (stanovanje
+v enostanovanjski stavbi), 47 (stanovanje v dvostanovanjski stavbi) in 5 (koča,
+dom).
+(5) Model vrednotenja za garaže (GAR) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframa 15 (garaža) in
+16 (garažno parkirno mesto).
+(6) Model vrednotenja za pisarne (PPP) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 8 (poslovni
+prostor javne uprave), 9 (poslovni del stavbe), 24 (del stavbe za izobraževanje
+in znanstveno raziskovalno delo), 25 (del stavbe za zdravstveno oskrbo), 49
+(banka, pošta, zavarovalnica), 50 (konferenčna ali kongresna dvorana) in 51
+(arhiv).
+(7) Model vrednotenja za lokale (PPL) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 7 (prehrambni
+gostinski obrat), 10 (trgovski del stavbe), 12 (del stavbe za opravljanje
+storitev), 53 (igralnica, cirkus, plesna dvorana, diskoteka), 11 (bencinski
+servis) in 52 (trgovski del stavbe na bencinskih servisih).
+(8) Model za stavbe splošnega družbenega pomena (SDP) se
+uporabi za izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 14
+(del stavbe za potniški promet), 22 (del stavbe za kulturo in razvedrilo),
+23 (muzej in knjižnica), 26 (športna dvorana), 30 (del stavbe za opravljanje
+verskih obredov), 32 (del stavbe za zaščito, reševanje in zaklonišče), 41 (del
+stavbe za posebne namene), 42 (sejemska dvorana, razstavišče), 43 (šola,
+vrtec), 44 (bolnica, zdravstveni dom) in 46 (del stavbe za pastoralno dejavnost).
+(9) Model vrednotenja za industrijo (IND) se uporabi za
+izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframi 17 (del stavbe
+za industrijsko rabo), 19 (elektrarna), 21 (skladišče) in 54 (hangar, remiza,
+tovorni terminal).
+(10) Model vrednotenja za posebno industrijo (INP) se
+uporabi za izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframa 18
+(del stavbe za težko industrijo) in 20 (del stavbe z rezervoarjem, silos).
+(11) Model vrednotenja za kmetijske in druge stavbe
+(KDS) se uporabi za izračun vrednosti delov stavbe, ki imajo dejansko rabo s
+šiframi 13 (del stavbe za izvajanje komunikacij), 27 (hlev), 28 (pomožni
+kmetijski del stavbe), 29 (del stavbe za spravilo pridelka), 31 (del stavbe za
+pokopališko dejavnost), 33 (klet), 34 (shramba, sušilnica, pralnica),
+35 (terasa, balkon, loža), 36 (tehnični prostor), 37 (skupni
+komunikacijski prostor), 38 (skupne sanitarije), 39 (ruševina) in
+40 (nestavba), 45 (rastlinjak), 55 (zavetišče in hotel za živali), 56 (del
+stavbe za živali ali rastline v živalskem ali botaničnem vrtu), 57 (drvarnica),
+58 (čebelnjak) in 59 (kolesarnica, čolnarna).
+(12) Model vrednotenja za stavbe za turizem (TUR) se
+uporabi za izračun vrednosti delov stavbe, ki imajo dejansko rabo s šiframa 6
+(nastanitveni gostinski obrat) in 48 (zdravilišče).
+4. člen
+(modeli vrednotenja za zemljišča)
+(1) Enote vrednotenja za vodna zemljišča in zemljišča
+pod javno železniško, javno državno in javno občinsko cestno infrastrukturo se
+določijo glede na klasifikacijo dejanske rabe zemljišč v skladu s predpisom, ki
+ureja dejanske rabe zemljišč, za preostala zemljišča pa glede na klasifikacijo
+namenske rabe prostora v skladu s predpisom, ki ureja vsebino, obliko in način
+priprave občinskega prostorskega načrta ter pogoje za določitev območij sanacij
+razpršene gradnje ter območij za razvoj in širitev naselij.
+(2) Model vrednotenja za druga zemljišča (DRZ) se
+uporabi za izračun vrednosti zemljišč, ki imajo dejansko rabo s šiframi 32
+(javna državna cestna infrastruktura), 34 (javna občinska cestna
+infrastruktura), 36 (javna železniška infrastruktura) in 40 (vodna zemljišča).
+(3) Model vrednotenja za kmetijska zemljišča (KME) se
+uporabi za izračun vrednosti zemljišč, ki imajo namensko rabo območja
+kmetijskih zemljišč, najboljša kmetijska zemljišča in druga kmetijska
+zemljišča.
+(4) Model vrednotenja za gozd (GOZ) se uporabi za
+izračun vrednosti zemljišč, ki imajo namensko rabo območja gozdnih zemljišč, in
+gozdna zemljišča.
+(5) Model vrednotenja za stavbna zemljišča (STZ) se
+uporabi za izračun vrednosti zemljišč, ki se glede na podrobnejšo namensko rabo
+uvrščajo v eno od teh skupin:
+1.     
+Skupina A: območja centralnih dejavnosti, osrednja območja centralnih
+dejavnosti, druga območja centralnih dejavnosti, posebna območja, površine za
+turizem in površine drugih območij.
+2.     
+Skupina B: območja stavbnih zemljišč, območja stanovanj, stanovanjske
+površine, stanovanjske površine za posebne namene, površine podeželskega
+naselja, površine počitniških hiš, površine razpršene poselitve in razpršena
+gradnja.
+3.     
+Skupina C: območja proizvodnih dejavnosti, površine za industrijo,
+gospodarske cone, površine z objekti za kmetijsko proizvodnjo, območja
+mineralnih surovin, površine nadzemnega pridobivalnega prostora in površine
+podzemnega pridobivalnega prostora s površinskim vplivom, ki onemogoča drugo
+rabo.
+4.     
+Skupina D: športna središča, območja zelenih površin, površine za oddih,
+rekreacijo in šport, parki, površine za vrtičkarstvo, druge urejene zelene
+površine in pokopališča.
+5.     
+Skupina E: območja prometne infrastrukture, površine cest, površine
+železnic, letališča, helikopterske ploščadi, pristanišča, druge prometne
+površine, območja komunikacijske infrastrukture, območja energetske
+infrastrukture in območja okoljske infrastrukture.
+6.     
+Skupina F: območja za potrebe obrambe v naseljih, območja za potrebe
+varstva pred naravnimi in drugimi nesrečami in območja za potrebe obrambe zunaj
+naselij.
+7.     
+Skupina G: območja voda, območja površinskih voda, celinske vode, morje,
+območja vodne infrastrukture, območja drugih zemljišč in preostala območja.
+5. člen
+(določitev sestavin modelov vrednotenja)
+(1) Datum modelov vrednotenja od 1. do 14. točke
+1. člena te uredbe je 1. januar 2020.
+(2) Datum modelov vrednotenja od 15. do 17. točke
+1. člena te uredbe je 1. januar 2019.
+(3) Vrednostne cone, vrednostne ravni, pripadajoče
+vrednostne tabele, točkovniki, točkovni razredi in faktorji, enačbe ter način
+uporabe elementov modela vrednotenja in način izračuna vrednosti so za
+posamezne modele vrednotenja določeni v prilogah, ki so sestavni deli te
+uredbe:
+-       
+za model vrednotenja za stanovanja (STA) v Prilogi 1,
+-       
+za model vrednotenja za hiše (HIS) v Prilogi 2,
+-       
+za model vrednotenja za garaže (GAR) v Prilogi 3,
+-       
+za model vrednotenja za pisarne (PPP) v Prilogi 4,
+-       
+za model vrednotenja za lokale (PPL) v Prilogi 5,
+-       
+za model za stavbe splošnega družbenega pomena (SDP) v Prilogi 6,
+-       
+za model vrednotenja za industrijo (IND) v Prilogi 7,
+-       
+za model vrednotenja za posebno industrijo (INP) v Prilogi 8,
+-       
+za model vrednotenja za kmetijske in druge stavbe (KDS) v Prilogi 9,
+-       
+za model vrednotenja za stavbe za turizem (TUR) v Prilogi 10,
+-       
+za model vrednotenja za druga zemljišča (DRZ) v Prilogi 11,
+-       
+za model vrednotenja za kmetijska zemljišča (KME) v Prilogi 12,
+-       
+za model vrednotenja za gozd (GOZ) v Prilogi 13,
+-       
+za model vrednotenja za stavbna zemljišča (STZ) v Prilogi 14,
+-       
+za model vrednotenja za bencinske servise (PNB) v Prilogi 15,
+-       
+za model vrednotenja za elektrarne (PNE) v Prilogi 16 in
+-       
+za model vrednotenja za marine in pristanišča (PNP) v Prilogi 17.
+(4) Vrednostne cone so določene s koordinatami v
+državnem koordinatnem sistemu in se izkazujejo v evidenci modelov vrednotenja,
+v prilogah iz prejšnjega odstavka pa so prikazane v zmanjšanem merilu.
+(5) Podatki o nepremičninah, ki se uporabijo za izračun
+vrednosti nepremičnin po modelih vrednotenja nepremičnin, so navedeni v Prilogi
+18, ki je sestavni del te uredbe.
+KONČNA DOLOČBA
+6. člen
+(začetek veljavnosti)
+Ta uredba začne veljati 1. aprila 2020.
+Št. 00719-7/2020
+Ljubljana, dne 12. marca 2020
+EVA 2019-2550-0089
+Vlada Republike Slovenije
+Marjan Šarec
+Predsednik
+
+Priloga
+1: Model vrednotenja za stanovanja (STA)
+Priloga
+2: Model vrednotenja za hiše (HIS) 
+Priloga
+3: Model vrednotenja za garaže (GAR) 
+Priloga
+4: Model vrednotenja za pisarne (ppp) 
+Priloga
+5: Model vrednotenja za lokale (ppl) 
+Priloga
+6: Model vrednotenja za stavbe splošnega družbenega pomena (sdp) 
+Priloga
+7: Model vrednotenja za industrijo (IND) 
+Priloga
+8: Model vrednotenja za posebno industrijo (INP) 
+Priloga
+9: Model vrednotenja za kmetijske in druge stavbe (KDS) 
+Priloga
+10: Model vrednotenja za stavbe za turizem (TUR) 
+Priloga
+11: Model vrednotenja za druga zemljišča (DRZ) 
+Priloga
+12: Model vrednotenja za kmetijska zemljišča (KME) 
+Priloga
+13: Model vrednotenja za gozd (GOZ) 
+Priloga
+14: Model vrednotenja za stavbna zemljišča (STZ) 
+Priloga
+15: Model vrednotenja za bencinske servise (PNB) 
+Priloga
+16: Model vrednotenja za elektrarne (PNE) 
+Priloga
+17: Model vrednotenja za marine in pristanišča (PNP) 
+Priloga
+18: Podatki o nepremičninah, ki se uporabijo za izračun vrednosti nepremičnin
+po modelih vrednotenja nepremičnin 

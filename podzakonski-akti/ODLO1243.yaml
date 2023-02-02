@@ -1,0 +1,20 @@
+Text file: ODLO1243.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041375600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041116400000000000
+- null
+- null
+- 10
+idPredpisa: ODLO1243
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o dolo\u010Ditvi tarife storitev organizatorja trga z elektri\u010D\
+  no energijo za leto 2003"
+npbNum: 0
+path: /2002/56/2002-01-5690
+sopPredpisa: 2002-01-5690
+sopPredpisaChng: null

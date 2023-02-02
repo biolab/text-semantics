@@ -1,0 +1,17 @@
+Text file: PRAV10787.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1462572000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10787
+idPredpisaChng: PRAV10787
+instock: .nan
+naslov: "PRAVILNIK o podro\u010Djih prostovoljskega dela in vpisniku (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2016/11/2016-01-1188-2011-01-2290-npb2
+sopPredpisa: 2016-01-1188
+sopPredpisaChng: 2011-01-2290

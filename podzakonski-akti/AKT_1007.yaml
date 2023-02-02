@@ -1,0 +1,12 @@
+Text file: AKT_1007.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_1007
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLO\u010CBO"
+npbNum: 0
+path: /2017/02/2017-01-0274
+sopPredpisa: 2017-01-0274
+sopPredpisaChng: null

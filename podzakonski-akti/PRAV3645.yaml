@@ -1,0 +1,17 @@
+Text file: PRAV3645.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 986594400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3645
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o ravnanju z lo\u010Deno zbranimi frakcijami pri opravljanju javne\
+  \ slu\u017Ebe ravnanja s komunalnimi odpadki"
+npbNum: 0
+path: /2001/11/2001-01-1189
+sopPredpisa: 2001-01-1189
+sopPredpisaChng: null

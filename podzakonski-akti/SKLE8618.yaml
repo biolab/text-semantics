@@ -1,0 +1,13 @@
+Text file: SKLE8618.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE8618
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v \u010Cenaju, v Republiki\
+  \ Indiji"
+npbNum: 0
+path: /2011/30/2011-01-3048
+sopPredpisa: 2011-01-3048
+sopPredpisaChng: null

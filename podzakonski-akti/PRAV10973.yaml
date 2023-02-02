@@ -1,0 +1,16 @@
+Text file: PRAV10973.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1325372400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10973
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju preglednosti finan\u010Dnih odnosov"
+npbNum: 0
+path: /2011/49/2011-01-4938
+sopPredpisa: 2011-01-4938
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV4146.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1016838000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4146
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o meroslovnih zahtevah za avtomatske tehtnice za tehtanje cestnih
+  vozil v gibanju
+npbNum: 0
+path: /2002/11/2002-01-1115
+sopPredpisa: 2002-01-1115
+sopPredpisaChng: null

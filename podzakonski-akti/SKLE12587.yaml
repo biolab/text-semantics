@@ -1,0 +1,16 @@
+Text file: SKLE12587.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1640818800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12587
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o poro\u010Danju podru\u017Enic bank dr\u017Eav \u010Dlanic"
+npbNum: 0
+path: /2021/36/2021-01-3630
+sopPredpisa: 2021-01-3630
+sopPredpisaChng: null

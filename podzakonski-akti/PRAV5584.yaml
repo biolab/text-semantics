@@ -1,0 +1,18 @@
+Text file: PRAV5584.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1275084000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5584
+idPredpisaChng: PRAV5584
+instock: .nan
+naslov: "PRAVILNIK o obrazcih in ceni slu\u017Ebenih izkaznic zasebnega varovanja\
+  \ ter o postopku za njihovo podelitev (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2010/21/2010-01-2123-2004-01-0897-npb3
+sopPredpisa: 2010-01-2123
+sopPredpisaChng: 2004-01-0897

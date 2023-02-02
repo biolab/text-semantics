@@ -1,0 +1,17 @@
+Text file: PRAV2903.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1005001200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2903
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku obve\u0161\u010Danja o smrti oseb, ki pridejo v po\u0161\
+  tev kot dajalci delov \u010Dlove\u0161kega telesa zaradi presaditve"
+npbNum: 0
+path: /2001/43/2001-01-4392
+sopPredpisa: 2001-01-4392
+sopPredpisaChng: null

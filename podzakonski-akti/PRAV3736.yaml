@@ -1,0 +1,16 @@
+Text file: PRAV3736.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1071788400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3736
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zootehni\u0161kih standardih za plemensko kranjsko \u010Debelo"
+npbNum: 0
+path: /2003/42/2003-01-4274
+sopPredpisa: 2003-01-4274
+sopPredpisaChng: null

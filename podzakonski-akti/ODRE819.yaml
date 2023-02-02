@@ -1,0 +1,17 @@
+Text file: ODRE819.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 774309600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE819
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi cene lastninske nakaznice in vpisnice za poobla\u0161\
+  \u010Deno investicijsko dru\u017Ebo"
+npbNum: 0
+path: /1994/17/1994-01-1720
+sopPredpisa: 1994-01-1720
+sopPredpisaChng: null

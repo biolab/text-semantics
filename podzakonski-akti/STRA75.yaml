@@ -1,0 +1,13 @@
+Text file: STRA75.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: STRA75
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o nacionalnem programu varnosti in zdravja pri delu 2018\u2013\
+  2027 (ReNPVZD18\u201327)"
+npbNum: 0
+path: /2018/09/2018-01-0956
+sopPredpisa: 2018-01-0956
+sopPredpisaChng: null

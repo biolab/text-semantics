@@ -1,0 +1,17 @@
+Text file: TARI194.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1511305200000000000
+- null
+- null
+- 10
+idPredpisa: TARI194
+idPredpisaChng: TARI194
+instock: .nan
+naslov: "CENIK cestnine za uporabo cestninskih cest (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2017/30/2017-01-3024-2016-01-3308-npb2
+sopPredpisa: 2017-01-3024
+sopPredpisaChng: 2016-01-3308

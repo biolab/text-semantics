@@ -1,0 +1,16 @@
+Text file: PRAV11504.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1420066800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11504
+idPredpisaChng: PRAV11504
+instock: .nan
+naslov: "PRAVILNIK o obra\u010Dunu davka na finan\u010Dne storitve"
+npbNum: 1
+path: /2014/37/2014-01-3767-2013-01-0227-npb1
+sopPredpisa: 2014-01-3767
+sopPredpisaChng: 2013-01-0227

@@ -1,0 +1,16 @@
+Text file: AKT_275.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1014332400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_275
+idPredpisaChng: null
+instock: .nan
+naslov: "SOGLASJE  k aktu o ustanovitvi Fundacije Ana, \_ustanove"
+npbNum: 0
+path: /2002/06/2002-01-0645
+sopPredpisa: 2002-01-0645
+sopPredpisaChng: null

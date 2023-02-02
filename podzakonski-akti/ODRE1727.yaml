@@ -1,0 +1,17 @@
+Text file: ODRE1727.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1010185200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1727
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o pla\u010Dilu stro\u0161kov pregleda, ki jih mora pla\u010Dati ladja,\
+  \ ki ji je pomorski in\u0161pektor prepovedal izplutje iz pristani\u0161\u010Da"
+npbNum: 0
+path: /2001/51/2001-01-5148
+sopPredpisa: 2001-01-5148
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV221.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1149285600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV221
+idPredpisaChng: PRAV221
+instock: .nan
+naslov: "PRAVILNIK o vsebini in poteku sekundarijata (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2006/23/2006-01-2383-1997-01-3897-npb5
+sopPredpisa: 2006-01-2383
+sopPredpisaChng: 1997-01-3897

@@ -1,0 +1,1183 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina pravilnika)
+Ta pravilnik določa pogoje za projektiranje, gradnjo,
+nadgradnjo, obnovo in vzdrževanje železniškega podsistema vodenje-upravljanje
+in signalizacija - telekomunikacijsko omrežje (v nadaljnjem besedilu:
+železniško telekomunikacijsko omrežje), ki je potreben za varno in nemoteno
+odvijanje železniškega prometa v Republiki Sloveniji.
+2. člen
+(področje uporabe)
+(1) Določbe tega pravilnika se uporabljajo za projektiranje,
+gradnjo, nadgradnjo, obnovo in vzdrževanje železniškega telekomunikacijskega
+omrežja, ki omogoča zanesljiv prenos signalov in informacij med
+telekomunikacijskimi napravami, med napravami za prenos govornih in podatkovnih
+informacij za vodenje železniškega prometa, ki imajo lastnost varnostne naprave
+v smislu zagotavljanja varnosti premoženja in ljudi ter prispevajo k večji
+kakovosti varnega in nemotenega odvijanja železniškega prometa.
+(2) Določbe tega pravilnika se uporabljajo tudi za vse druge
+dele železniškega telekomunikacijskega omrežja, ki nimajo varnostno relevantnih
+funkcij iz prejšnjega odstavka.
+3. člen
+(pomen izrazov in kratic)
+(1) V tem pravilniku uporabljeni izrazi imajo naslednji
+pomen:
+-       
+»EIRENE« (European Integrated Railway radio Enhanced NEtwork) je projekt
+UIC, v okviru katerega so bile izdelane in se tudi tekoče nadgrajujejo
+specifikacije za funkcionalne in sistemske zahteve sistema GSM-R.
+-       
+»ES-izjava o verifikaciji podsistema« je dokument, ki ga na podlagi
+potrdila o verifikaciji pripravi naročnik in je pogoj za pridobitev uporabnega
+ali obratovalnega dovoljenja. Za strukturne podsisteme, ki imajo ES-izjavo o
+verifikaciji, se šteje, da so interoperabilni in da izpolnjujejo bistvene
+zahteve, ki veljajo zanje;
+-       
+»informacija« je vsako sporočilo, ki se prenaša po telekomunikacijskem
+omrežju;
+-       
+»interoperabilnost železniškega telekomunikacijskega omrežja« je
+sposobnost vseevropskega železniškega podsistema »vodenje-upravljanje in
+signalizacija - telekomunikacijsko omrežje«, da zagotovi varen in neprekinjen
+promet vlakov ob zahtevani stopnji izkoriščenosti zmogljivosti teh prog;
+-       
+»izvajalec gradnje« je pravna ali fizična oseba, ki kot gospodarsko
+dejavnost opravlja storitve pri izvajanju pripravljalnih del na gradbišču,
+izvajanju gradbenih del, montažah in vgrajevanju strojnih in električnih
+inštalacij ter izvajanju zaključnih gradbenih del;
+-       
+»javna železniška infrastruktura« so objekti in naprave, potrebni za
+nemoteno odvijanje javnega železniškega prometa, ter pripadajoča zemljišča, ki
+funkcionalno služijo njihovi namenski rabi;
+-       
+»motnja v železniškem telekomunikacijskem omrežju« je pomanjkljivost v
+delovanju železniškega telekomunikacijskega omrežja, ki bistveno ne vpliva na
+njegovo funkcionalnost in zato ni ogrožena varnost in urejenost železniškega
+prometa ter ni ovirano opravljanje prometnih ali poslovnih dejavnosti;
+-       
+»napajalna naprava« je naprava, ki železniški telekomunikacijski sistem
+oskrbuje s potrebno električno energijo;
+-       
+»napaka v železniškem telekomunikacijskem omrežju« je takšna
+pomanjkljivost v delovanju železniškega telekomunikacijskega sistema, ki vpliva
+na njegovo funkcionalnost in bi zaradi tega lahko bila ogrožena varnost in
+urejenost prometa ter deloma ovirano ali v celoti onemogočeno opravljanje
+prometnih ali poslovnih dejavnosti;
+-       
+»naročnik« je oseba, ki naroči projektiranje in/ali gradnjo, obnovo ali
+nadgradnjo podsistema. Ta oseba je lahko prevoznik, upravljavec, imetnik ali
+koncesionar, ki je odgovoren za izvedbo projekta, ter organ za vodenje
+investicij v javno železniško infrastrukturo, določen v zakonu, ki ureja
+železniški promet;
+-       
+»pomožni telefon« je vrsta TKn, ki se uporablja ob izpadu vseh drugih
+govornih komunikacijskih povezav na TK-pultu;
+-       
+»potnik« je oseba, ki ima veljavno vozovnico ali jo namerava kupiti v
+vlaku, od trenutka, ko se nahaja na železniškem območju, ki je namenjeno potnikom,
+z namenom potovanja z vlakom, do trenutka, dokler po opravljenem potovanju ne
+zapusti železniškega območja, namenjenega potnikom;
+-       
+»prenosni medij« je snov, ki omogoča prenos informacij, z namenom
+medsebojne povezave dveh ali več telekomunikacijskih naprav ali sistemov;
+-       
+»prenosni sistem« je TKo, ki omogoča hkratni prenos večjega števila
+podatkov preko prenosnega medija;
+-       
+»progovni vodi« so vrsta telekomunikacijske povezave; potekajo vzdolž
+odsekov prog in se zaključujejo na vseh postajah in stalnih službenih mestih,
+ki so na zadevnem odseku proge;
+-       
+»proste zmogljivosti na telekomunikacijskem sistemu« so tiste
+zmogljivosti, ki ostanejo neizkoriščene, ko so zadovoljene vse trenutne in na
+isti tehnologiji temelječe načrtovane potrebe za naslednje petletno obdobje;
+-       
+»radiokomunikacije« so načini vzpostavitve komunikacije med dvema ali
+več točkami, pri čemer se za prenos uporabljajo radijski elektromagnetni
+valovi;
+-       
+»redundanca« je povečanje zanesljivosti prenosa informacije med dvema
+ali več točkami, ki se doseže z vzpostavitvijo dodatne, od osnovne neodvisne,
+prenosne poti, ali s podvojitvijo vitalnih delov naprave ali sistema ali z
+uporabo ustreznih protokolov;
+-       
+»sistem varnega upravljanja« pomeni organizacijo in ureditev, ki ju je
+vzpostavil upravljavec železniške infrastrukture ali prevoznik v železniškem
+prometu, da bi zagotovil varno upravljanje svojih dejavnosti. Je sistem, s
+katerim se zagotavlja doseganje skupnih varnostnih ciljev in skladnost z
+nacionalnimi predpisi, varnostnimi zahtevami iz TSI ter skupnimi varnostnimi
+metodami;
+-       
+»telekomunikacijska naprava« (TKn) je naprava, ki zagotavlja določeno
+telekomunikacijsko storitev ali je temeljni sestavni del določenega ŽTKs;
+-       
+»telekomunikacijski pult« je vrsta TKn, ki se vgrajuje na izvršilnih
+prometnih delovnih mestih in omogoča vzpostavitev vseh vrst komunikacij, ki so
+zahtevane za delovna mesta, ki so navedena v prilogi 2, ki je sestavni del tega
+pravilnika;
+-       
+objave UIC so objave mednarodne železniške zveze;
+-       
+»uporabnik« je pravna ali fizična oseba, ki uporablja storitve omrežja
+ŽTK (ŽTKo) za potrebe svoje dejavnosti;
+-       
+»upravljavec javne železniške infrastrukture« (v nadaljnjem besedilu:
+upravljavec) je pravna oseba, ki je odgovorna za vzdrževanje javne železniške
+infrastrukture, vodenje prometa na njej in za gospodarjenje z njo;
+-       
+»vitalni del« naprave je tisti del naprave, zaradi katerega ob njegovem
+nepravilnem delovanju ali prenehanju delovanja nepravilno deluje ali preneha
+delovati celotna naprava;
+-       
+»vzdrževalec telekomunikacijskih omrežij in opreme« je izvršilni
+železniški delavec, ki je zaposlen pri upravljavcu in je usposobljen za
+izvajanje vzdrževalnih del v skladu z določbami predpisa, ki ureja strokovno
+usposobljenost izvršilnih železniških delavcev;
+-       
+»železniški telekomunikacijski sistem« je del železniškega
+telekomunikacijskega omrežja, ki predstavlja funkcionalno sklenjeno celoto;
+-       
+»železniško telekomunikacijsko omrežje« je funkcionalno sklenjeno
+omrežje, sestavljeno iz ŽTKs in TKn, ki omogoča zadovoljitev potreb po
+telekomunikacijskih storitvah za zagotovitev nemotenega, varnega in urejenega
+odvijanja javnega železniškega prometa na progah v Republiki Sloveniji, s tem
+ko omogoča prenos informacij in podatkov za potrebe vodenja prometa in
+vzdrževanja infrastrukture, prenos informacij za delavce in operativne službe,
+ki sodelujejo pri vodenju prometa ali vzdrževanju infrastrukture, prenos
+informacij za potrebe poslovnih komunikacij, prenos informacij daljinskega
+vodenja in upravljanja prometa ter upravljanja energetskih naprav, prenos
+informacij za potrebe drugih uporabnikov, ki uporabljajo železniški
+telekomunikacijski sistem za svojo poslovno dejavnost, povezano z železniškim
+prometom, in druge storitve.
+(2) V tem pravilniku uporabljene kratice imajo naslednji
+pomen:
+-       
+»CVP« je center vodenja prometa;
+-       
+»EIRENE« (European Integrated Railway radio Enhanced NEtwork) je
+zmogljivo integrirano evropsko železniško radijsko omrežje;
+-       
+»EIRENE FRS« (EIRENE Functional Requirements Specifications) so
+specifikacije funkcionalnih zahtev EIRENE;
+-       
+»EIRENE SRS« (EIRENE System Requirements Specifications) so
+specifikacije sistemskih zahtev EIRENE;
+-       
+»EL« je evidenčni list;
+-       
+»ML« je merilni list;
+-       
+»ENP« je elektro-napajalna postaja;
+-       
+»GSM-R« je globalni sistem mobilnih komunikacij za potrebe železnic;
+-       
+»JŽI« je javna železniška infrastruktura;
+-       
+»PTS« je prometni telekomunikacijski sistem;
+-       
+»RDZ« so radiodispečerske zveze; sistem brezžične komunikacije, razvit
+posebej za potrebe železniškega prometa;
+-       
+»SIST EN« je oznaka slovenskih nacionalnih standardov, ki jih izdaja
+Slovenski inštitut za standardizacijo in ki prevzemajo evropske harmonizirane
+standarde EN;
+-       
+»SVn« je signalnovarnostna naprava;
+-       
+»SVU« je sistem varnega upravljanja;
+-       
+»TKn« je telekomunikacijska naprava;
+-       
+»TKo« je telekomunikacijsko omrežje;
+-       
+»TK-pult« je telekomunikacijski pult;
+-       
+»TSI« so tehnične specifikacije interoperabilnosti;
+-       
+»TS-Z« so tehnične specifikacije za proge in sestavne dele proge ter za
+železniška vozila in njihove sestavne dele in naprave;
+-       
+»UIC« je mednarodna železniška zveza;
+-       
+»UKV« je sistem radiokomunikacije v frekvenčnem območju ultra kratkih
+valov;
+-       
+»ŽAT« je železniška avtomatska telefonija;
+-       
+»ŽTKo« je železniško telekomunikacijsko omrežje;
+-       
+»ŽTKs« je železniški telekomunikacijski sistem.
+(3) Drugi izrazi, uporabljeni v tem pravilniku, imajo enak
+pomen, kot ga določa zakon, ki ureja varnost v železniškem prometu, in na
+njegovi podlagi izdani predpisi, drugi predpisi s področja železniškega
+prometa, telekomunikacij in graditve objektov.
+4. člen
+(funkcionalne zahteve in uporaba standardov)
+(1) ŽTKo mora biti projektirano, grajeno, nadgrajeno,
+obnovljeno in vzdrževano tako, da omogoča zanesljivo, varno in nemoteno
+oddajanje, prenašanje in sprejemanje vseh oblik signalov, znakov, pisane
+besede, slike, zvoka ali sporočil, ki zagotavljajo varen in urejen železniški
+promet. Za zagotovitev te funkcionalnosti se lahko povezuje z drugimi
+telekomunikacijskimi omrežji, ki niso del JŽI.
+(2) Pri projektiranju, gradnji, nadgradnji, obnovi in
+vzdrževanju ŽTKo je treba poleg določil tega pravilnika upoštevati zakon, ki
+ureja varnost v železniškem prometu, in na njegovi podlagi izdane predpise,
+zakon, ki ureja graditev objektov, priznana tehnična pravila stroke in pogoje,
+določene z zakoni in z ratificiranimi mednarodnimi sporazumi, katerih
+sopodpisnica je Republika Slovenija, obvezne objave UIC, SIST EN, TSI in TS-Z
+ter druge tehnične predpise, ki se nanašajo na ŽTKo.
+(3) Minister, pristojen za promet, v soglasju z ministrom,
+pristojnim za trg, objavi v Uradnem listu Republike Slovenije seznam SIST EN
+standardov, ki prevzemajo harmonizirane evropske standarde, in TS-Z, katerih
+uporaba ustvari domnevo o skladnosti sestavnih delov ali naprav ŽTKo z
+zahtevami tega pravilnika.
+(4) Šteje se, da so ŽTKo in njegovi posamezni deli ali
+naprave skladni z zahtevami tega pravilnika, če ustrezajo določbam tega
+pravilnika, določbam TSI in obveznih objav UIC ter določbam SIST EN standardov
+in TS-Z, katerih uporaba ustvari domnevo o skladnosti sestavnih delov ali
+naprav ŽTKo z zahtevami tega pravilnika.
+(5) V primeru, ko gre za osebne podatke, ki se morajo varovati
+v skladu z zakonom, ki ureja varovanje osebnih podatkov, je pri prenosu
+podatkov in sporočil preko železniškega telekomunikacijskega omrežja (ŽTKo),
+pri dostopu do njih kot tudi pri njihovi obravnavi, obdelavi in hranjenju,
+potrebno zagotoviti, da strojna, sistemska in aplikativno programska oprema
+zagotavlja, da je uporaba podatkov v mejah pooblastil uporabnika.
+5. člen
+(pogoji)
+V zvezi s postopki gradnje, preskušanja in obratovanja ŽTKs
+in TKn se poleg določb tega pravilnika uporabljajo določbe zakona, ki ureja
+gradnjo objektov, zakona, ki ureja varnost železniškega prometa, in
+podzakonskih predpisov, izdanih na podlagi navedenih zakonov.
+II. ŽELEZNIŠKO TELEKOMUNIKACIJSKO OMREŽJE
+6. člen
+(razvrstitev naprav železniškega telekomunikacijskega
+omrežja - ŽTKo)
+(1) Naprave ŽTKo se razvrščajo v naslednje kategorije:
+-       
+naprave prve kategorije so ŽTKs in TKn s signalnovarnostnimi funkcijami,
+ki s svojim delovanjem neposredno sodelujejo pri zagotavljanju varnosti in
+urejenosti železniškega prometa,
+-       
+naprave druge kategorije so ŽTKs in TKn brez signalnovarnostne funkcije,
+ki imajo varnostno relevantne lastnosti za varno in nemoteno odvijanje
+železniškega prometa ali zagotavljajo večjo varnost,
+-       
+naprave tretje kategorije so ŽTKs in TKn, ki nimajo signalnovarnostnih in
+varnostno relevantnih funkcij.
+(2) Razvrstitev obstoječih ŽTKs in TKn je v skladu s
+prejšnjim odstavkom določena v prilogi 1, ki je sestavni del tega pravilnika.
+7. člen
+(dodatne možnosti izrabe ŽTKo)
+Če tehnične lastnosti in proste zmogljivosti ŽTKo omogočajo
+opravljanje telekomunikacijskih storitev, se lahko te storitve opravljajo za
+lastne potrebe upravljavca ali kot komercialne storitve na prostem trgu
+telekomunikacijskih storitev, kar upravljavec uredi v pogodbenem razmerju z
+lastnikom JŽI.
+8. člen
+(obseg ŽTKo)
+(1) ŽTKo sestavljajo prenosni mediji, ŽTKs, TKn in terminalne
+naprave.
+(2) Za prenos se lahko uporabljajo žični (kovinski, optični)
+ali brezžični mediji.
+(3) V ŽTKo se lahko vgrajujejo predvsem naslednji ŽTKs in TKn
+s pripadajočo sistemsko programsko opremo:
+-       
+prenosni sistemi,
+-       
+kabelski sistemi,
+-       
+sistem železniške avtomatske telefonije (ŽAT),
+-       
+prometni telekomunikacijski sistem (PTS),
+-       
+sistem železniškega progovnega telefonskega omrežja,
+-       
+naprave za radiokomunikacije,
+-       
+naprave za registriranje posredovanih sporočil,
+-       
+naprave za prenos podatkov in računalniška omrežja,
+-       
+naprave za zvočno in vizualno obveščanje potnikov v realnem času,
+-       
+interfonske naprave,
+-       
+naprave za prenos in prikaz točnega časa,
+-       
+naprave za napajanje TKn,
+-       
+naprave za centralni nadzor in upravljanje telekomunikacijskega sistema,
+-       
+delilniki, inštalacije in sistem lokalnih komunikacijskih omrežij,
+-       
+ozemljila in druge naprave za zaščito telekomunikacijskih sistemov,
+-       
+videonadzorni sistemi ali
+-       
+naprave za klic v sili in potniške informacije (stebriček SOS).
+(4) Terminalne naprave so:
+-       
+telefonski aparati,
+-       
+telefaksi,
+-       
+telekomunikacijski pulti (TK-pulti),
+-       
+radijske terminalne naprave,
+-       
+računalniški terminali in osebni računalniki,
+-       
+naprave za avtomatsko prodajo kart (kartomat) in
+-       
+druge terminalne naprave, ki se kot končni element vgrajujejo pri
+uporabnikih.
+9. člen
+(posebne zahteve)
+(1) Naprave, ki so sestavni del ŽTKo, morajo zagotavljati
+zanesljivost in razpoložljivost. Pri vseh oblikah prenosa se mora zagotavljati
+prednost sporočilom in obvestilom, ki se oddajajo ob nevarnosti oziroma ob
+ogrožanju varnosti železniškega prometa, človeških življenj ali ob nastanku
+večje škode na premoženju.
+(2) Zanesljivost ŽTKs, ki se skladno s 6. členom tega
+pravilnika uvrsti v prvo ali drugo kategorijo, se zagotavlja z vzpostavitvijo
+redundance. Za zagotovitev redundance se lahko uporabijo tudi drugi
+telekomunikacijski sistemi v Republiki Sloveniji ali v tujini.
+(3) Pri napravah, ki so skladno s 6. členom tega pravilnika
+uvrščene v prvo ali drugo kategorijo, se redundantnost zagotavlja tudi na ravni
+strojne in programske opreme vitalnih delov. Za posamezne vrste naprav so
+vitalni deli, pri katerih se zahteva redundantnost, določeni v TS-Z.
+(4) Za vsak ŽTKs in TKn je zanesljivost in razpoložljivost v
+skladu s prvim odstavkom tega člena določena v TS-Z.
+10. člen
+(obseg in vrsta ŽTKs in TKn)
+(1) Obseg in vrsta ŽTKs in TKn, ki se vgrajujejo v javno
+ŽTKo, se določata glede na:
+-       
+kategorijo železniške proge,
+-       
+obseg notranjega in mednarodnega prometa,
+-       
+način vodenja in upravljanja prometa,
+-       
+opremljenost prog s signalnovarnostnimi napravami,
+-       
+obstoječe prenosne medije in telekomunikacijske naprave in
+-       
+druge zahteve, ki so določene v TSI ali TS-Z in predpisu, ki ureja
+opremljenost postaj in postajališč.
+(2) Minimalna opremljenost delovnih mest, upoštevajoč
+kriterije, opisane v prejšnjem odstavku, je razvidna iz priloge 2 tega
+pravilnika.
+(3) Na TKn se lahko priključi samo terminalna oprema, ki
+izpolnjuje tehnične pogoje, določene v četrtem odstavku 4. člena tega
+pravilnika.
+III. POGOJI ZA PROJEKTIRANJE ŽTKo
+11. člen
+(splošni pogoji)
+(1) ŽTKo ne sme v okolje vnašati nepotrebnih obremenitev,
+urbanističnih neskladnosti, elektromagnetnih motenj, ki bi presegale dovoljene
+ravni, in drugih ovir.
+(2) TKn morajo izpolnjevati naslednje zahteve:
+-       
+visoko stopnjo zanesljivosti delovanja, modularnost in hitro
+zamenljivost posameznih elementov v primeru napak,
+-       
+daljinsko upravljanje in nadzor ter minimalni obseg vzdrževanja,
+-       
+povezljivost z drugimi telekomunikacijskimi omrežji in obstoječimi
+napravami v ŽTKo,
+-       
+pogoje interoperabilnosti vseevropskega železniškega omrežja za TKn, ki
+so navedene v TSI,
+-       
+varnost naprav in ljudi ter
+-       
+odpornost na elektromagnetne motnje, ki jih povzroča okolje.
+(3) Pri izvedbi TKn se mora zagotoviti tehnično-tehnološko
+skladnost ŽTKo oziroma njegovih delov in upoštevati pogoje, ki so določeni v
+četrtem odstavku 4. člena tega pravilnika.
+(4) ŽTKo mora biti varno pred vdori iz drugih
+telekomunikacijskih omrežij.
+(5) Upoštevati se morajo vplivi enosmernih in izmeničnih
+tokov vozne mreže na elektrificiranih progah. Izvedeni morajo biti vsi tehnični
+zaščitni ukrepi, s katerimi se zmanjša vpliv teh tokov na najmanjšo možno
+raven.
+(6) Radiokomunikacijske naprave in sistemi morajo delovati na
+tistih frekvenčnih področjih, ki jih pristojni organ, v skladu z določbami
+predpisov, ki urejajo to področje, dodeli za uporabo v železniškem prometu.
+(7) Pri terminalnih napravah, ki se nameščajo pri
+uporabnikih, se mora upoštevati njihov ergonomski in ekološki vidik. Terminalne
+naprave morajo ustrezati standardom, ki določajo raven elektromagnetnega
+sevanja in varnosti za uporabnika. Terminalne naprave morajo biti na TKn
+povezane tako, da je zagotovljeno nemoteno in varno delo uporabnikov.
+(8) Za tehnične prostore, v katere se nameščajo ŽTKs in TKn,
+se morajo upoštevati določila TS-Z. Za posamezno vrsto opreme pa se morajo
+upoštevati tudi zahteve in priporočila proizvajalcev opreme glede klimatskih in
+drugih razmer. Če se v istem prostoru predvideva več vrst TKn, ki imajo
+različne zahteve glede okoljskih pogojev delovanja, se upoštevajo pogoji za
+opremo, ki določa najvišji nivo zahtev, ki pa ne sme biti nižji od zahtev,
+navedenih v tem pravilniku.
+(9) Dostop do ŽTKs in TKn se mora izvesti tako, da je
+omogočen samo pooblaščenim osebam. Dostop nepooblaščenim osebam se fizično
+onemogoči tako, da se TKn namesti v samostojen prostor ali ohišje, ki ga je
+mogoče zakleniti. V primeru projektiranja novih prostorov in v primeru
+obstoječih prostorov, do katerih se mora omogočiti samostojen dostop tudi
+tretjim osebam, se uporabi tehnična rešitev s centralnim sistemom spremljanja
+kontrole dostopov.
+(10) Upravljavec lahko odobri vgrajevanje ŽTKs ali TKn z
+namenom preskušanja novih tehnologij, tehničnih rešitev ali novih načinov
+vzdrževanja. Dovoljenje se lahko izda za omejen in lokacijsko določen obseg, na
+podlagi elaborata, ki določa namen, način vzdrževanja in nadzora ter čas
+trajanja poskusne vgradnje, in pri čemer se zagotovi, da testirana naprava ne
+sodeluje pri zagotavljanju varnosti in urejenosti železniškega prometa. V primeru
+uspešno zaključenega preskusnega obdobja lahko ŽTKs ali TKn ostanejo vgrajeni
+in v funkciji, če so za to izpolnjeni ostali splošni pogoji za ŽTKs ali TKn, ki
+so navedeni v tem členu, in posebne zahteve za ŽTKs ali TKn, ki so navedene v
+9. členu tega pravilnika.
+(11) Pri gradnjah, nadgradnjah, obnovah in vzdrževanju
+kabelskih tras se mora upoštevati tudi z načrtovanimi projekti predvidene
+potrebe za vse sestavne dele javne železniške infrastrukture. Prav tako se
+lahko upoštevajo tudi potrebe drugih zainteresiranih operaterjev
+telekomunikacijskih storitev, lokalnih skupnosti in izvajalcev drugih
+gospodarskih javnih služb v Republiki Sloveniji.
+(12) Pri gradnjah, nadgradnjah, obnovah in vzdrževanju
+železniškega telekomunikacijskega omrežja na obstoječih postajah ali
+postajališčih se mora upoštevati tudi potrebe po komunikacijskih in energetskih
+povezavah za potrebe namestitve kartomatov in naprav za zvočno in vizualno
+obveščanje potnikov, če je glede na vrsto dela to smotrno.
+12. člen
+(opremljenost delovnih mest izvršilnih železniških delavcev)
+(1) Delovna mesta izvršilnih železniških delavcev,
+upravljavcev na področju vodenja prometa vlakov na javni železniški
+infrastrukturi, se opremljajo:
+-       
+s priključkom ŽAT,
+-       
+s TK-pultom,
+-       
+z opremo za prikaz točnega časa (ura),
+-       
+s pomožnim telefonom,
+-       
+s komunikacijskim mestom,
+-       
+z dostopom do podatkovnega omrežja ali
+-       
+z ustrezno novejšo tehnično rešitvijo v skladu z razvojem tehnologije.
+(2) Delovno mesto izvršilnih železniških delavcev upravljavca
+na področju vodenja prometa vlakov na progah, ki so opremljene s sistemom
+radijske zveze med strojevodjo in mestom, s katerega se vodi promet, mora imeti
+ob opremi, določeni v prvem odstavku tega člena, tudi ustrezno opremo, ki
+omogoča komuniciranje po tem sistemu.
+(3) Obvezna opremljenost posameznega delovnega mesta s
+telekomunikacijskimi napravami iz tega člena je določena v prilogi 2 tega
+pravilnika.
+13. člen
+(železniška avtomatska telefonija - ŽAT)
+(1) ŽAT mora biti izvedena tako, da:
+-       
+zagotavlja govorno komunikacijo uporabnikov s poslovnega področja in s
+področja operativnih del pri vodenju prometa, znotraj celotnega javnega
+železniškega omrežja v Republiki Sloveniji ter tudi na ravni mednarodnega
+železniškega telefonskega omrežja in z uporabniki javnega fiksnega in mobilnega
+telefonskega omrežja,
+-       
+omogoča druge telefonske storitve ter podatkovne komunikacije
+uporabnikov s poslovnega področja in področja operativnih del pri vodenju
+prometa znotraj celotnega javnega železniškega omrežja v Republiki Sloveniji
+ter tudi na ravni mednarodnega železniškega telefonskega omrežja in z
+uporabniki javnega telefonskega omrežja,
+-       
+je povezljiva z drugimi ŽTKs in TKn v okviru ŽTKo in združljiva z
+obstoječo tehnologijo ter zagotavlja daljinsko upravljanje in nadzor sistema in
+njegovih elementov,
+-       
+omogoča vzpostavitev zvez v dohodni in odhodni smeri brez posredovanja
+operaterja in
+-       
+omogoča nadgradnjo na ravni strojne in programske opreme.
+(2) Shema oštevilčenja ŽAT mora biti usklajena z mednarodnimi
+priporočili in predpisi, ki urejajo železniško telefonsko številčno shemo, in s
+shemo oštevilčenja, ki jo določajo predpisi o telekomunikacijah v Republiki
+Sloveniji.
+14. člen
+(prometni telekomunikacijski sistem - PTS)
+(1) PTS mora zagotavljati komunikacijsko podporo za potrebe
+delovnih mest izvršilnih železniških delavcev, ki sodelujejo pri zagotavljanju
+in izvajanju varnega in urejenega odvijanja železniškega prometa. PTS je
+sestavljen iz centralne naprave, TK-pultov in vmesnikov. Podpirati mora zlasti:
+-       
+celotno funkcionalnost za potrebe železniške progovne telefonije,
+-       
+dispečerske povezave in povezave za potrebe ENP,
+-       
+povezljivost z radiokomunikacijskimi sistemi, omrežjem ŽAT in s sistemi
+za avtomatsko najavo vlakov,
+-       
+terminalne postajne naprave, zlasti interfonske povezave, ozvočenje za
+potrebe obveščanja potnikov, ozvočenje za službene potrebe in telefonske
+povezave na postajnih območjih,
+-       
+priklop terminalne naprave za prenos podatkovnih informacij,
+-       
+priklop sistema za klic v sili (SOS),
+-       
+povezljivost z drugimi ŽTKs in TKn v okviru ŽTKo,
+-       
+združljivost z obstoječo tehnologijo in
+-       
+zagotavljanje daljinskega upravljanja in nadzora sistema in njegovih
+elementov.
+Zagotavljati mora:
+-       
+funkcionalnosti telefonske centrale, potrebne za izvajanje varnega in
+urejenega železniškega prometa,
+-       
+vmesnik za priklop naprave za registracijo pogovorov in
+-       
+prikaz točnega časa, ki mora biti sinhroniziran z ostalimi napravami za
+prikaz časa, skladno s četrtim odstavkom 22. člena tega pravilnika.
+(2) Vstopanje v PTS iz ŽAT omrežja ali javnega telefonskega
+omrežja mora biti izvedeno tako, da ni ogrožena urejenost in varnost
+železniškega prometa.
+(3) Ozvočenje za potrebe obveščanja potnikov se skladno z
+določili predpisa, ki ureja opremljenost postaj in postajališč, vgrajuje na
+postajah in postajališčih, kjer služi za zvočno obveščanje potnikov v realnem
+času. Krmiljenje ozvočenja se lahko izvaja ročno preko TK-pulta ali avtomatsko.
+(4) Ozvočenje se lahko izvede v okviru PTS ali kot samostojen
+sistem.
+15. člen
+(pomožni telefon - PT)
+(1) PT se mora vgraditi povsod, kjer je vgrajen
+telekomunikacijski TK-pult.
+(2) Zagotavljati mora govorno komunikacijo po progovnih vodih
+med dvema sosednjima postajama in postajami na pripadajočem odseku proge.
+(3) PT morajo biti med seboj povezani na način, da je
+zagotovljena vsaj 99,9% razpoložljivost delovanja.
+(4) Napajanje mora zagotavljati najmanj 72-urno avtonomijo
+delovanja PT.
+16. člen
+(napajalni sistemi)
+(1) Napajalni sistem obsega:
+-       
+priključek napajanja iz javnega energetskega omrežja 230/400 V ≈
+(primarni napajalni vir),
+-       
+napajalno napravo, ki pretvarja električno napetost iz javnega
+energetskega omrežja v obliko in nazivne vrednosti, kot je za ŽTKs in TKn
+določena v TS-Z, in
+-       
+baterije.
+(2) Napajanje iz javnega energetskega omrežja se mora
+projektirati tako, da je zagotovljen dovod iz dveh neodvisnih javnih virov, če
+to omogoča javno energetsko omrežje in če je to ekonomsko upravičeno. Vsi drugi
+pogoji za priključitev morajo biti skladni s predpisi, ki veljajo za javne
+energetske priključke.
+(3) Pri projektiranju napajalne naprave za napajanje ŽTKs in
+TKn se mora upoštevati enosmerno napajanje nazivne nizke napetosti (U < 50 V
+=).
+(4) Napajalna naprava mora ŽTKs in TKn ob izpadu primarnega
+napajalnega vira zagotavljati samostojno rezervno napajanje (avtonomija), in
+sicer:
+-       
+najmanj osem ur, če je napajalna naprava daljinsko nadzorovana, ali
+-       
+najmanj 12 ur, če napajalna naprava ni daljinsko nadzorovana.
+(5) Če je napajanje ŽTKs in TKn podprto tudi s stabilnim
+agregatskim virom napajanja, mora napajalna naprava omogočati najmanj enourno
+samostojno rezervno napajanje (avtonomijo). Pri tem je pogoj, da se agregat ob
+izpadu primarnega napajalnega vira vključi samodejno in omogoča tudi daljinski
+nadzor in upravljanje sistema. Pri ročnem zagonu agregata se mora v skladu s
+četrtim odstavkom tega člena zagotoviti samostojno rezervno napajanje.
+(6) Napajanje s stabilnim agregatom se načrtuje glede na
+obseg in pomen ŽTKs ali TKn, ki so vgrajene na konkretni lokaciji ter glede na
+njihov vpliv na varnost in urejenost železniškega prometa.
+(7) Samostojno rezervno napajanje (avtonomija) se zagotavlja
+z baterijskim napajanjem. Uporabljene morajo biti baterije, ki zagotavljajo
+samostojno rezervno napajanje, kot je določeno v četrtem odstavku tega člena,
+pri čemer so upoštevane vse varnostne zahteve, ki veljajo za delo z nevarnimi
+in zdravju škodljivimi snovmi, in upoštevani postopki ravnanja po njihovi
+izločitvi iz uporabe.
+(8) Uporabljati se morajo takšni tipi baterij, ki ne
+zahtevajo posebne ureditve prostora.
+(9) Napajalni sistemi morajo omogočati nadgrajevanje,
+modularnost in daljinsko upravljanje ter nadzor vseh delov, ki jih sestavljajo,
+vključno z možnostjo daljinskega vklopa in izklopa napajalne naprave in
+agregata.
+17. člen
+(radiokomunikacijski sistemi)
+(1) Radiokomunikacijski sistemi se uporabljajo pri prometno
+operativnih delih v javnem železniškem prometu in pri drugih delih, ki so
+povezana z železniškim prometom, ter pri vzdrževanju javne železniške
+infrastrukture. Uporabljajo se lahko:
+-       
+sistemi UKV na frekvenčnih področjih, ki jih odobri pristojni organ,
+-       
+radiokomunikacijski sistemi, ki so razviti za potrebe železnic (GSM-R),
+-       
+radiokomunikacijski sistem RDZ in
+-       
+drugi radiokomunikacijski sistemi (WiMax, WiFi, ipd.).
+(2) Sistem GSM-R mora v osnovi zagotavljati govorne in
+podatkovne komunikacijske storitve za potrebe železnic. Za ta namen se lahko
+povezuje z omrežji drugih železnic, javnimi mobilnimi in fiksnimi omrežji,
+specialnimi železniškimi sistemi (npr. sistemi za vodenje prometa) in
+nadzornimi sistemi.
+(3) Sistem GSM-R je standardiziran sistem in mora
+izpolnjevati funkcionalne in sistemske specifikacije EIRENE (EIRENE FRS in
+EIRENE SRS).
+(4) Če sistem GSM-R na neki progi ne obstaja ali še ni
+zgrajen, se na postajah, ki ležijo na taki progi, za govorno komunikacijo
+železniškega izvršilnega osebja in za komunikacijo vzdrževalnega osebja upravljavca
+lahko uporabljata sistema UKV in RDZ.
+(5) Za pokrivanje večjih postajnih območij se lahko
+vgrajujejo tudi repetitorske postaje UKV.
+(6) Zaradi prenosa sporočil, ki imajo vpliv na varnost in
+urejenost železniškega prometa, se mora za vse radiokomunikacijske sisteme
+zagotoviti možnost registriranja vseh prenesenih sporočil.
+(7) Pri projektiranju radiokomunikacijskih sistemov se morajo
+upoštevati dodeljeni kanali znotraj frekvenčnih območij za železniški promet.
+(8) V primeru gradnje, nadgradnje, obnove in vzdrževanja
+radiokomunikacijskih sistemov iz četrte alineje prvega odstavka tega člena mora
+biti zagotovljena združljivost z radiokomunikacijskimi sistemi iz prve in druge
+alineje istega odstavka tega člena, kot jo določa predpis, ki ureja elektromagnetno
+združljivost.
+18. člen
+(prenosni sistem)
+(1) Prenosni sistem se uporablja za povezovanje posameznih
+samostojnih TKn v ŽTKo kot funkcionalno sklenjeno celoto. Pri tem se lahko kot
+prenosno pot uporablja vse vrste prenosnih medijev, kot so opredeljeni v 19.
+členu tega pravilnika.
+(2) Prenosni sistem mora biti projektiran tako, da:
+-       
+je združljiv s prenosnimi sistemi drugih železniških uprav in prenosnimi
+sistemi drugih domačih in tujih telekomunikacijskih sistemov,
+-       
+zagotavlja zanesljivost in razpoložljivost ter redundantnost na ravni
+opreme in prenosnih poti in
+-       
+omogoča daljinsko upravljanje in nadziranje do ravni terminalnega
+priključka.
+19. člen
+(prenosni mediji)
+(1) Pri projektiranju kabelskih prenosnih medijev je treba
+upoštevati vrste, tipe, zmogljivosti in konstrukcijo kovinskih in optičnih
+kablov, glede na:
+-       
+kategorijo proge,
+-       
+način polaganja kabla,
+-       
+potrebno število vodnikov glede na potrebno zmogljivost prenosa in glede
+na prenosni sistem in
+-       
+zunanje vplive, zlasti vpliv elektrovleke in atmosferske razelektritve.
+(2) Pri projektiranju brezžičnih povezav se morajo upoštevati
+značilnosti širjenja elektromagnetnih valovanj in zakonodaja s področja
+telekomunikacij.
+20. člen
+(progovno telefonsko omrežje)
+(1) Progovno telefonsko omrežje mora zagotavljati govorno
+sporazumevanje med komunikacijskimi mesti ob železniški progi in delovnimi
+mesti izvršilnih železniških delavcev upravljavca na področju vodenja prometa
+ter vzdrževalnimi službami upravljavca.
+(2) Delovna mesta izvršilnih železniških delavcev vodenja
+prometa, kjer mora biti zagotovljena govorna komunikacija, se določijo na
+podlagi:
+-       
+kategorije železniške proge,
+-       
+načina vodenja in upravljanja prometa in
+-       
+opremljenosti prog s SV napravami.
+(3) Komunikacijska mesta ob železniški progi se morajo
+projektirati v skladu z zahtevami varnostnih predpisov in TSI.
+(4) Komunikacijska mesta ob progi se morajo izvesti tako, da
+so združljiva s PTS.
+(5) Progovno telefonsko omrežje mora obsegati naslednje vrste
+povezav:
+-       
+čuvajniški vod: vrsta govorne povezave, ki se mora izvesti kot
+neprekinjeni vod in povezuje dve sosednji postaji. Nanj morajo biti priključena
+vsa komunikacijska mesta na progovnem odseku med postajama, stalna službena
+mesta ob progi in obe postaji, ki se na čuvajniški vod priključijo paralelno.
+Služi za opravljanje prometno-operativnih del;
+-       
+gradbeni vod: vrsta govorne povezave, ki povezuje ustrezno delovno mesto
+vzdrževalca prog, objektov in opreme proge, s komunikacijskimi mesti na
+določenem progovnem odseku in vse postaje na tem odseku. Vsi priključki morajo
+biti priključeni na vod paralelno;
+-       
+signalnovarnostni vod: vrsta govorne povezave, ki povezuje ustrezno
+delovno mesto vzdrževalca signalnovarnostnih naprav s komunikacijskimi mesti na
+določenem progovnem odseku in vse postaje na tem odseku. Vsi priključki morajo
+biti priključeni na vod paralelno;
+-       
+elektroenergetski vod: vrsta govorne povezave, ki povezuje ustrezno
+delovno mesto vzdrževalca stabilnih naprav električne vleke s komunikacijskimi
+mesti na določenem progovnem odseku in vse postaje na tem odseku. Vsi
+priključki morajo biti priključeni na vod paralelno;
+-       
+nezgodni vod: vrsta govorne povezave, ki povezuje ŽAT-omrežje s
+komunikacijskimi mesti na določenem progovnem odseku in vse postaje na tem
+odseku. Vsi priključki morajo biti priključeni na vod paralelno. Povezava v
+ŽAT-omrežje je lahko avtomatska ali pa preko posredovalnega mesta;
+-       
+obratni vod: vrsta govorne povezave, ki zagotavlja neposredno povezavo
+med prometniki na postajah na določenem progovnem odseku.
+Vse povezave se morajo zaključiti na TK-pultu in na pomožnem
+telefonu.
+V primeru daljinskega upravljanja prometa iz CVP morajo imeti
+vodi iz druge, tretje, četrte in pete alineje tega odstavka povezavo do CVP.
+(6) Poleg zgoraj naštetih povezav se morajo na območjih
+postaj, kjer se take govorne povezave uporabljajo, zagotavljati tudi naslednje
+vrste povezav:
+-       
+kretniški vod: izveden mora biti kot lokalni vod, ki povezuje kretniško
+območje in prometnika;
+-       
+uvozni/izvozni vod: izveden mora biti kot lokalni vod, ki povezuje
+uvozni/izvozni signal in prometnika.
+(7) Pri vseh gradnjah in nadgradnjah železniških prog v
+Republiki Sloveniji se progovno telefonsko omrežje iz petega odstavka tega
+člena projektira na način, da se število vodov zmanjša tako, da:
+-       
+prometni vod nadomešča čuvajniški in nezgodni vod s funkcionalnostjo,
+kot je opisana v petem odstavku tega člena;
+-       
+infrastrukturni vod nadomešča gradbeni vod, signalnovarnostni vod,
+elektroenergetski vod in obratni vod v enoten vod s funkcionalnostjo, kot je
+opisana v petem odstavku tega člena.
+Tudi v tem primeru se morata oba voda zaključiti na TK-pultu,
+na pomožnem telefonu in v CVP.
+(8) Ne glede na to, ali je progovno telefonsko omrežje
+projektirano v skladu s petim ali sedmim odstavkom tega člena, mora biti
+upoštevano pravilo, da ima prometni vod (čuvajniški in nezgodni) pri
+vzpostavljanju povezav prednost.
+21. člen
+(naprave za registriranje)
+(1) Naprave za registriranje telefonskih pogovorov in drugih
+sporočil, ki se prenašajo po ŽTKs in TKn, morajo zagotavljati njihovo
+kakovostno in dolgotrajno shranjevanje na primernih medijih.
+(2) Omogočati morajo registracijo vseh govornih zvez in
+drugih sporočil, ki so v predpisu, ki določa pogoje in način organizacije
+železniškega prometa, določena kot obvezna za registriranje.
+(3) Čas shranjevanja registriranih pogovorov in sporočil na
+zasedenih prometnih mestih ne sme biti krajši od 48 ur.
+(4) Naprave za registriranje morajo imeti daljinsko
+signaliziranje stanja delovanja. Naprava ali programska oprema z enako
+funkcionalnostjo, ki prikazuje stanje delovanja, se mora vgraditi na delovnem
+mestu izvršilnega železniškega delavca upravljavca, ki je zasedeno 24 ur na dan
+in 7 dni v tednu.
+22. člen
+(naprave za merjenje in prikaz časa)
+(1) Naprave za merjenje časa, ki prikazujejo točen čas, se
+morajo vgraditi:
+-       
+na delovnem mestu izvršilnega železniškega delavca - prometnika,
+progovnega prometnika, vlakovnega dispečerja ter dispečerja stabilnih naprav
+električne vleke in
+-       
+na mesta, ki jih določa predpis, ki ureja opremljenost železniških
+postaj in postajališč.
+(2) Naprava za merjenje časa iz prve alineje prejšnjega
+odstavka je službena ura, ki mora imeti sekundni prikaz časa.
+(3) V skladu s predpisom, ki ureja opremljenost postaj in
+postajališč, se morajo naprave za merjenje in prikaz časa vgrajevati tudi na
+postajah in postajališčih. V primeru teh naprav se mora zagotavljati analogni
+prikaz časa.
+(4) Naprave za merjenje časa, ki se uporabljajo pri
+krmiljenju TKn, SVn in elektroenergetskih naprav, morajo biti sinhronizirane z
+virom točnega časa.
+(5) Vse naprave za merjenje časa morajo biti sinhronizirane z
+virom točnega časa. Za vir točnega časa se uporabi matično uro. Matična ura je
+enoten vir točnega časa, ki ga je mogoče sinhronizirati na več možnih načinov,
+in predstavlja vir točnega časa za vse uporabnike.
+23. člen
+(sistemi za videonadzor)
+(1) Sistemi za videonadzor se lahko vgrajujejo zaradi
+zagotavljanja večje pasivne varnosti na peronih, v čakalnicah, tehničnih
+prostorih in na drugih mestih, kjer namestitev takega sistema prispeva k
+povečanju pasivne varnosti (npr. na nivojskih križanjih ceste in železnice, v
+usekih, požarno ogroženih območjih ob železniški progi).
+(2) Videokamere se namestijo na način, da je zagotovljeno
+pokrivanje celotnega prostora, ki je namenjen za nadzorovanje. Pri namestitvi
+zunanjih naprav je potrebno izpolnjevati zahteve glede temperaturnih pogojev in
+zahteve glede odpornosti na prah.
+(3) Snemalna naprava mora zagotavljati kapaciteto za
+predpisan čas shranjevanja posnetkov in daljinski dostop do posnetkov ter
+zagotavljati daljinsko upravljanje z vsemi karakteristikami naprave.
+(4) Čas shranjevanja posnetkov ne sme biti krajši od 48 ur.
+(5) Videonadzorni sistem, s katerim se izvaja videonadzor,
+mora biti zavarovan pred dostopom nepooblaščenih oseb.
+(6) O izvajanju videonadzora se mora objaviti obvestilo, ki
+mora biti vidno in razločno, objavljeno na način, ki omogoči posamezniku, da se
+seznani z njegovim izvajanjem.
+(7) Pri nameščanju videonadzornih sistemov se mora upoštevati
+tudi druge predpise s področja železniškega prometa, ki določajo mesta
+nameščanja.
+24. člen
+(sistemi za vizualno obveščanje potnikov)
+Sistemi za vizualno obveščanje potnikov potnikom v dejanskem
+času zagotavljajo informacije o prihodih in odhodih vlakov ali o njihovih
+nerednostih. Sistemi se nameščajo na postajah in postajališčih. Krmiljenje teh
+sistemov se izvaja lokalno ali centralno. Pri lokalnem krmiljenju se podatki
+vnašajo na prometnem mestu, pri centralnem krmiljenju gre lahko za način
+ročnega ali samodejnega krmiljenja. Pri ročnem centralnem krmiljenju se podatki
+vnašajo v sistem sprotno ali iz vnaprej pripravljenih podatkovnih zapisov, pri
+samodejnem centralnem krmiljenju pa se v sistem za vizualno obveščanje potnikov
+prometni podatki o gibanju vlakov, ki so namenjeni za obveščanje potnikov,
+samodejno prenašajo iz sistema za upravljanje voženj vlakov.
+25. člen
+(drugi ŽTKs in TKn)
+(1) Drugi ŽTKs in TKn so zlasti ozemljila, prenapetostne
+zaščite, lokalna ožičenja, kartomati, in drugi sistemi in naprave, ki niso
+opisani v 13. do 24. členu tega pravilnika.
+(2) Pri projektiranju teh sistemov in naprav se smiselno
+uporabljajo določbe 11. člena tega pravilnika.
+(3) Tehnične in funkcionalne zahteve drugih ŽTKs in TKn so
+določene v TS-Z.
+IV. VZDRŽEVANJE, OBNOVA IN NADGRADNJA TELEKOMUNIKACIJSKIH
+SISTEMOV IN NAPRAV
+1. Splošno
+26. člen
+(zahteve za vzdrževanje in obnovo)
+Z vzdrževanjem in obnovo ŽTKs in TKn se mora zagotavljati:
+-       
+delovanje TKn v njihovi življenjski dobi,
+-       
+zmanjševanje števila napak oziroma najvišjo mogočo raven
+razpoložljivosti ŽTKo,
+-       
+odprava napak v rokih, ki jih predpisuje ta pravilnik, in
+-       
+podaljševanje časa delovanja ŽTKs in TKn.
+27. člen
+(načini vzdrževanja in obnove)
+Zahteve iz prejšnjega člena se zagotavljajo:
+-       
+z rednim vzdrževanjem, ki obsega dela, ki ohranjajo normalno obratovalno
+sposobnost ŽTKs in TKn ter zagotavljajo prometno varnost. V vzdrževanje sodijo
+tudi zamenjava v okviru vzdrževanja, nadzor nad ŽTKs in TKn, zagotovitev
+vzpostavitve prevoznosti prog, vodenje registrov in evidenc in izvajanje
+meritev posameznih parametrov ali delov ŽTKs in TKn,
+-       
+z obnovo in
+-       
+s takojšnjo odpravo morebitnih motenj in napak.
+28. člen
+(organiziranje vzdrževalnih del)
+(1) Vsa vzdrževalna dela se morajo načrtovati in izvajati
+tako, da ni ogrožena varnost železniškega prometa in da ni moten tehnološki
+proces izvajanja železniškega prometa.
+(2) Če vzdrževalnih del ni mogoče organizirati v skladu s
+prejšnjim odstavkom, mora upravljavec vzdrževanje TKn in ŽTKs urediti znotraj
+SVU. Delo je treba načrtovati ter izvajati v času:
+-       
+zapor zaradi del na drugih objektih ali napravah,
+-       
+manjše prometne obremenitve ali
+-       
+presledkov med vožnjami vlakov.
+(3) Ko vzdrževalnih posegov ni mogoče izvajati tako, kot je
+določeno v prejšnjem odstavku, se TKn ali sistem ŽTK izloči iz obratovanja v
+času vzdrževanja. Pri tem mora upravljavec, zlasti pri izvajanju vzdrževalnih
+del na TKn in ŽTKs, ki so v skladu s prvim odstavkom 6. člena tega pravilnika
+razporejeni v prvo ali drugo kategorijo, v okviru svojih možnosti zagotoviti
+varno odvijanje prometa. Varno odvijanje prometa se zagotovi s tehničnimi
+sredstvi in z ustreznim načinom vodenja prometa.
+29. člen
+(skrb za dokumentacijo)
+(1) Z dnem prevzema dokumentacije o vzdrževanju upravljavec
+prevzema vso skrb zanjo in je odgovoren za njeno popolnost in ažurnost.
+(2) V dokumentacijo iz prejšnjega odstavka se morajo sprotno
+vpisovati vsa opravljena dela na napravah.
+(3) Vodenje, ažuriranje, hranjenje in spremljanje sprememb v
+tehnični dokumentaciji se opravlja v skladu s splošnimi predpisi, ki urejajo to
+področje.
+30. člen
+(skrb za varnost)
+Upravljavec mora vzdrževalna dela organizirati tako, da je
+zagotovljena največja možna varnost prometa, premoženja in ljudi.
+31. člen
+(zimsko obdobje)
+(1) Upravljavec mora do začetka zimskega obdobja izvesti
+ukrepe na TKn in ŽTKs, ki služijo za komunikacijo na območju odprte proge in na
+postajnih območjih, ter odpraviti ugotovljene motnje, kot je to opredeljeno v
+SVU.
+(2) Upravljavec mora upoštevati tudi določila drugih
+predpisov s področja železniškega prometa, ki urejajo to področje.
+2. Izvajanje vzdrževanja ŽTKo
+32. člen
+(pogoji za upravljavca)
+(1) Upravljavec mora za izvajanje vzdrževanja ŽTKo
+razpolagati:
+-       
+v skladu s 33. členom tega pravilnika z ustrezno usposobljenim osebjem,
+-       
+s prostori,
+-       
+z orodjem in merilno opremo,
+-       
+z rezervnimi deli in materialom ter
+-       
+z delovnimi zaščitnimi sredstvi.
+(2) Upravljavec lahko za posamezna vzdrževalna dela najame
+zunanjega izvajalca. Upravljavec mora v tem primeru izvajati stalni nadzor nad
+izvajanjem del in je odgovoren za ohranjanje varnosti železniškega prometa.
+33. člen
+(pogoji za vzdrževalno osebje)
+(1) Upravljavec mora imeti osebje, ki je strokovno
+usposobljeno za vzdrževanje posamezne vrste ŽTKs in TKn.
+(2) Izvršilni železniški delavci za vzdrževanje ŽTKs in TKn
+(vzdrževalci telekomunikacijskih omrežij in opreme) morajo izpolnjevati pogoje,
+določene s tem pravilnikom, s predpisom, ki ureja delovna mesta izvršilnih
+železniških delavcev, predpisom, ki ureja strokovno usposobljenost izvršilnih
+železniških delavcev, ter predpisom, ki ureja postopke preverjanja duševne in
+telesne zmožnosti izvršilnih železniških delavcev.
+(3) Ostali delavci, ki niso izvršilni železniški delavci in
+niso opredeljeni v predpisu, ki ureja strokovno usposobljenost izvršilnih
+železniških delavcev, vršijo pa dela, ki so urejena v predpisu, ki ureja
+strokovno usposobljenost izvršilnih železniških delavcev, morajo izpolnjevati
+pogoje, ki so opredeljeni v SVU upravljavca.
+3. Redno vzdrževanje
+34. člen
+(pogoji za redno vzdrževanje)
+(1) Redno vzdrževanje se za naprave v njihovi življenjski
+dobi zagotavlja z rednimi meritvami, nadzorom in obdobnimi pregledi.
+(2) Glede na tehnične možnosti posamezne TKn ali ŽTKs se ti
+lahko nadzirajo tudi z daljinskim sistemom nadzora, sicer pa z rednim nadzorom
+na napravi.
+(3) TKn in ŽTKs se morajo pregledati v rednih obdobjih, ki so
+določena v prilogi 1 tega pravilnika. Če je proizvajalec priporočil pogostejše
+preglede, se to opredeli v navodilu za vzdrževanje za konkretni tip naprave. V
+okviru SVU upravljavec z navodilom podrobno predpiše način in pogostost
+izvajanja nadzora TKn in ŽTKs, način izvajanja rednega vzdrževanja ter
+izvajalce del in njihove odgovornosti.
+(4) Za druge TKn in ŽTKs se izvajajo pregledi v obdobjih, ki
+so določena z navodilom za vzdrževanje.
+(5) Za vodenje evidence o opravljenih pregledih je odgovoren
+upravljavec TKn ali ŽTKs.
+35. člen
+(vodenje evidenc)
+(1) O ŽTKs in TKn, ki so v skladu s 6. členom tega pravilnika
+uvrščene v prvo ali drugo kategorijo, se mora voditi evidenca o spremljanju
+del, pregledih in napakah.
+(2) Za vsak tip TKn in njen sestavni del mora upravljavec
+izdelati EL in ML. EL in ML sta osnova za redno vzdrževanje, smiselno pa se,
+razen terminskih rokov, uporabljata tudi za obnove in nadgradnje.
+(3) EL mora vsebovati
+a)    
+na prvi strani:
+- 
+podatke o tipu TKn in njenem konkretnem delu;
+- 
+podatke o lokaciji;
+- 
+navedbo pristojne enote vzdrževanja;
+- 
+tabelarične rubrike za vpisovanje datuma izvedbe rednega pregleda po
+predpisanih terminih in avtorizacijo izvajalca;
+b)    
+na drugi strani:
+- 
+seznam najpomembnejših del izvajanja rednega pregleda;
+- 
+spisek potrebnega materiala, orodja ter merilnih naprav in indikatorjev;
+- 
+mesto za vpis datuma in avtorizacijo kontrolnega pregleda.
+(4) ML mora vsebovati:
+-       
+podatke o tipu TKn in sestavnih delih, na katerih se izvaja meritev;
+-       
+podatke o lokaciji;
+-       
+navedbo pristojne enote vzdrževanja;
+-       
+vrednosti izmerjenih veličin.
+(5) EL in ML morajo biti združeni v zbirkah za posamezen tip
+naprave. Podrobno vsebino EL in ML predpiše upravljavec v okviru SVU.
+(6) Evidenca o spremljanju del, vseh posegih, spremembah in
+napakah na TKn in ŽTKs se, kjer je to tehnično mogoče, izvaja kot zapisi v
+datoteko zgodovine dogodkov na elektronskem mediju. Kadar to ni mogoče, se
+evidenca vodi v knjigi spremljanja del in pregledov, ki se nahaja pri napravi.
+(7) Za vodenje evidenc je odgovoren upravljavec.
+36. člen
+(redno vzdrževanje po izteku življenjske dobe naprave)
+Po izteku življenjske dobe naprave, kakršno predvidi
+proizvajalec, se mora vzdrževanje opravljati s:
+-       
+pogostejšimi pregledi;
+-       
+preventivno zamenjavo vitalnih delov naprav.
+37. člen
+(dostop do prostorov)
+(1) Vzdrževalci telekomunikacijskih omrežij in opreme morajo
+imeti zagotovljen samostojen dostop do vseh tehničnih prostorov, v katerih se
+nahajajo naprave, ki jih mora upravljavec vzdrževati. Če so v tehničnem
+prostoru nameščene tudi druge naprave, ki niso predmet vzdrževanja,
+nepooblaščeni delavci upravljavca v njih ne smejo posegati.
+(2) O vstopu v prostore, navedene v tem členu, se vodi knjiga
+vstopov. Vanjo tisti, ki jim je dovoljen vstop v te prostore, vpisujejo
+naslednje podatke: ime in priimek osebe, podatki o času vstopa, namen vstopa in
+čas zapustitve prostora.
+(3) Delavec upravljavca mora imeti zagotovljen samostojen
+dostop ali dostop v spremstvu tretje osebe tudi v prostore, ki niso tehnični
+prostori, če je v njih nameščena telekomunikacijska oprema, ki jo osebje
+upravljavca vzdržuje.
+(4) V primeru iz drugega in tretjega odstavka tega člena mora
+biti osebje upravljavca poučeno o posebnih delovnih razmerah v teh tehničnih
+prostorih in ustreznih varnostnih ukrepih. V kolikor ni zagotovljena tehnična
+rešitev s centralnim sistemom spremljanja kontrole dostopov, lahko tretje osebe
+v tehnične prostore vstopajo le v spremstvu osebe, ki sme v prostor vstopati
+samostojno.
+(5) Splošni pogoji dostopa v tehnične prostore so opredeljeni
+v devetem odstavku 11. člena tega pravilnika.
+4. Obnova in nadgradnja
+38. člen
+(obnova in nadgradnja)
+V zvezi z obnovo in nadgradnjo TKn in ŽTKs se poleg določil
+tega pravilnika uporabljajo tudi določila zakona, ki ureja varnost v
+železniškem prometu, predpisa, ki določa pogoje in postopek za začetek,
+izvajanje in dokončanje tekočega in investicijskega vzdrževanja ter
+vzdrževalnih del v javno korist na področju železniške infrastrukture, in
+predpisa, ki ureja ugotavljanje skladnosti in izdajanje dovoljenj za vgradnjo
+elementov, naprav in sistemov v železniško infrastrukturo.
+5. Odprava napak in motenj
+39. člen
+(način odprave napak in motenj)
+(1) V primeru ugotovljene ali javljene napake se mora
+nemudoma začeti z aktivnostmi za njeno odpravo.
+(2) V primeru ugotovljene ali javljene motnje se aktivnosti
+za njeno odpravo lahko začnejo takrat, ko je to z vidika optimalne izrabe virov
+upravljavca najbolj primerno. Rok začetka odpravljanja motnje ne sme biti
+daljši od 72 ur.
+(3) Odprave napak in motenj so predpisane v navodilu za
+vzdrževanje posamezne TKn ali ŽTKs.
+(4) Pri odpravi imajo napake prednost pred motnjami.
+(5) Pri odpravi napak imajo prednost napake na TKn in ŽTKs,
+ki so uvrščeni v prvo kategorijo, pred napakami na TKn ali ŽTKs, ki so uvrščeni
+v drugo kategorijo. Napake na TKn in ŽTKs, ki so uvrščeni v prvo ali drugo kategorijo,
+imajo prednost pred napakami na TKn in ŽTKs, ki so uvrščeni v tretjo
+kategorijo.
+(6) Uporabniki TKn in ŽTKs morajo javiti napake na vnaprej
+znan način in po postopku, ki ga določi upravljavec.
+(7) Vse javljene napake morajo biti ustrezno registrirane v
+skladu z načini sporazumevanja, ki so določeni v predpisu, ki določa pogoje in
+način organizacije železniškega prometa, kar se šteje kot dokazno sporočena
+napaka. Podrobnosti upravljavec predpiše v organizacijskem predpisu za to
+področje.
+(8) Napake, ki se sporočajo po faksu ali elektronski pošti,
+se štejejo kot dokazno sporočene. Pošiljatelj sporočila o napaki mora v tem
+primeru poleg dokumenta, s katerim obvešča o napaki, shraniti tudi dokument, ki
+potrjuje uspešno oddajo sporočila.
+(9) Upravljavec mora voditi evidenco sprejetih obvestil o
+motnjah in napakah, ki se hrani pet let.
+40. člen
+(čas odprave napak)
+(1) Od tedaj, ko je bila v skladu s prejšnjim členom napaka
+sporočena, pa do tedaj, ko je napaka odpravljena, ne sme preteči več kot:
+-       
+tri ure - na glavnih progah,
+-       
+šest ur - na regionalnih progah.
+(2) Ob napakah, ki so posledica naravnih nesreč, izrednih
+dogodkov, atmosferskih praznjenj ali drugih izrednih situacij, se roki za
+odpravo napak podaljšajo.
+(3) Ne glede na časovne omejitve, določene v prvem odstavku
+tega člena, mora upravljavec skrbeti, da se napako odpravi v najkrajšem možnem
+času.
+41. člen
+(obveščanje o odpravi napak)
+(1) Napaka se šteje za odpravljeno, ko naprava deluje in je v
+primeru zasedenega delovnega mesta o tem obveščen uporabnik. Za posredovanje
+sporočila o odpravi napake uporabniku se smiselno uporabljajo določbe šestega,
+sedmega in osmega odstavka 39. člena tega pravilnika. Sporočilo o odpravi
+napake lahko uporabniku posreduje tudi vzdrževalni delavec osebno. Če uporabnik
+vodi pisno evidenco javljenih napak, vzdrževalni delavec odpravo napake, ki jo
+je odpravil osebno na delovnem mestu uporabnika, potrdi s svojim podpisom v tej
+evidenci.
+(2) Upravljavec z organizacijskim predpisom podrobno določi
+postopek sporočanja v zvezi z nastankom in odpravo napake vsem odgovornim
+udeležencem.
+42. člen
+(vodenje skupne evidence motenj in napak)
+(1) Upravljavec mora o vseh ugotovljenih in sporočenih
+motnjah in napakah voditi evidenco.
+(2) Evidenca mora obsegati vsaj:
+-       
+datum in čas nastanka motnje ali napake,
+-       
+datum in čas prejema obvestila ali datum in čas ugotovitve motnje ali
+napake,
+-       
+lokacijo, kjer je motnja ali napaka nastala (postaja, kilometrski
+položaj proge),
+-       
+vrsto naprave ali sistema, na katerem je motnja ali napaka nastala,
+-       
+vzrok nastanka motnje ali napake in
+-       
+datum in čas odprave (nastale motnje ali napake).
+V. PREHODNE IN KONČNE DOLOČBE
+43. člen
+(prehodno obdobje)
+Do vgradnje sistema GSM-R oziroma najdlje do roka, ki je
+predpisan v zakonu, ki ureja varnost železniškega prometa, se lahko uporablja
+obstoječi radiokomunikacijski sistem RDZ, ki je vgrajen na nekaterih glavnih
+progah.
+44. člen
+(seznam standardov in tehničnih specifikacij)
+(1) Do objave seznama SIST EN standardov in TS-Z, katerih
+uporaba ustvari domnevo o skladnosti sestavnih delov ali naprav ŽTKo z
+zahtevami tega pravilnika, se za skladne štejejo tisti sestavni deli ŽTKo, ki
+izpolnjujejo najmanj takšne tehnične zahteve, kot so določene v prilogi 3 tega
+pravilnika in Odredbi o zahtevah, katerim morajo ustrezati postroji, objekti,
+naprave in oprema železniške proge ter železniška vozila, naprave in oprema, ki
+se vgrajujejo v ta vozila (Uradni list RS, št. 76/95), v kolikor niso v
+nasprotju s tem pravilnikom.
+(2) Z dnem objave seznama SIST EN standardov in TS-Z, katerih
+uporaba ustvari domnevo o skladnosti sestavnih delov ali naprav ŽTKo z
+zahtevami tega pravilnika, prenehata veljati priloga 3 tega pravilnika in
+odredba iz prejšnjega odstavka v delu, ki se nanaša na železniško
+telekomunikacijsko omrežje.
+45. člen
+(prenehanje veljavnosti in uporabe predpisov)
+(1) Z dnem uveljavitve tega pravilnika preneha veljati
+Pravilnik o pogojih za projektiranje, gradnjo in vzdrževanje železniškega
+telekomunikacijskega omrežja (Uradni list RS, št. 30/03).
+(2) Z dnem uveljavitve tega pravilnika se prenehajo
+uporabljati:
+-       
+Tehnični pogoji za dobavo in montažo opreme za radiodispečerske zveze na
+območju JŽ ter posebni pogoji za radiodispečerske zveze na območju JŽ (Službeni
+glasnik ZJŽ, št. 6-7/73),
+-       
+Pravilnik o notranjem in mednarodnem telegrafskem, telefonskem in
+radijskem prometu na JŽ (Službeni glasnik ZJŽ, št. 5/86, 2/87 in 9/90),
+-       
+Navodilo za vzdrževanje telegrafsko-telefonskih vodov in linij (Službeni
+glasnik ZJŽ, št. 20/55),
+-       
+Navodilo o vrstah in rabi telekomunikacijskih naprav in zvez (Službeni glasnik
+ZJŽ, št. 46/77),
+-       
+Tehnični pogoji za železniške avtomatske teleprinterske centre (Službeni
+glasnik ZJŽ, št. 2-3/63).
+46. člen
+(uveljavitev pravilnika)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 007-109/2010/15-0006737
+Ljubljana, dne 14. julija 2010
+EVA 2009-2411-0003
+dr. Patrick Vlačič l.r. 
+Minister 
+za promet
+
+Priloga
+1: Razvrstitev obstoječih ŽTKs in TKn ter periodika pregledov
+Priloga
+2: Opremljenost delovnih mest ŽTKs in TKn
+Priloga
+3: Seznam standardov

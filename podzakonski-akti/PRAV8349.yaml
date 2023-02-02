@@ -1,0 +1,16 @@
+Text file: PRAV8349.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1184968800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8349
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o kategorijah storitev zemeljske oskrbe
+npbNum: 0
+path: /2007/32/2007-01-3217
+sopPredpisa: 2007-01-3217
+sopPredpisaChng: null

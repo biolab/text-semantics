@@ -1,0 +1,17 @@
+Text file: PRAV6005.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1101164400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6005
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o metodah za ugotavljanje skladnosti pogojev minimalne kakovosti
+  sladkorjev namenjenih za prehrano ljudi
+npbNum: 0
+path: /2004/50/2004-01-5012
+sopPredpisa: 2004-01-5012
+sopPredpisaChng: null

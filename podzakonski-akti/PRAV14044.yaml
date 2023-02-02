@@ -1,0 +1,17 @@
+Text file: PRAV14044.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1608850800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14044
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o krmi za posebne prehranske
+  namene
+npbNum: 0
+path: /2020/33/2020-01-3327
+sopPredpisa: 2020-01-3327
+sopPredpisaChng: null

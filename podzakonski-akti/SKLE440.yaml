@@ -1,0 +1,18 @@
+Text file: SKLE440.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 944002800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE440
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP \u0161t. 4/99 Pridru\u017Eitvenega sveta med EU in Slovenijo z dne\
+  \ 30. 9. 1999, s katerim se sprejemajo dolo\u010Dila in pogoji sodelovanja Slovenije\
+  \ pri programu Skupnosti na podro\u010Dju malih in srednjih podjetij"
+npbNum: 0
+path: /1999/45/1999-01-4580
+sopPredpisa: 1999-01-4580
+sopPredpisaChng: null

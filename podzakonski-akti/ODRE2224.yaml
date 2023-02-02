@@ -1,0 +1,18 @@
+Text file: ODRE2224.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1386370800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2224
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010D\
+  ne energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010D\
+  ne energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2014"
+npbNum: 0
+path: /2013/34/2013-01-3450
+sopPredpisa: 2013-01-3450
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: POSL125.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1588197600000000000
+- null
+- null
+- 10
+idPredpisa: POSL125
+idPredpisaChng: POSL125
+instock: .nan
+naslov: "POSLOVNIK Dr\u017Eavnoto\u017Eilskega sveta (Poslovnik) (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2020/08/2020-01-0895-2018-01-1061-npb2
+sopPredpisa: 2020-01-0895
+sopPredpisaChng: 2018-01-1061

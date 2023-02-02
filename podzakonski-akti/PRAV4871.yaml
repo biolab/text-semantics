@@ -1,0 +1,17 @@
+Text file: PRAV4871.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1062194400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4871
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o letnih gozdnogospodarskih na\u010Drtih dela gozdnogospodarske\
+  \ enote Nadgorica-Seno\u017Eeti (2003, 2004)"
+npbNum: 0
+path: /2003/40/2003-01-4005
+sopPredpisa: 2003-01-4005
+sopPredpisaChng: null

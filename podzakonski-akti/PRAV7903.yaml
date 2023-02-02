@@ -1,0 +1,17 @@
+Text file: PRAV7903.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1166482800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7903
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
+  anov za leto 2007"
+npbNum: 0
+path: /2006/55/2006-01-5576
+sopPredpisa: 2006-01-5576
+sopPredpisaChng: null

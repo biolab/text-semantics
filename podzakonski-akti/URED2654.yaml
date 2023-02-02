@@ -1,0 +1,19 @@
+Text file: URED2654.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1046473200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041116400000000000
+- null
+- null
+- 10
+idPredpisa: URED2654
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o splo\u0161nih pogojih za dobavo in odjem elektri\u010Dne energije"
+npbNum: 0
+path: /2002/56/2002-01-5688
+sopPredpisa: 2002-01-5688
+sopPredpisaChng: null

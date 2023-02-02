@@ -1,0 +1,18 @@
+Text file: PRAV2009.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 933976800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2009
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu kritja stro\u0161kov na podlagi zakona o prvem pokojninskem\
+  \ skladu Republike Slovenije in preoblikovanju poobla\u0161\u010Denih investicijskih\
+  \ dru\u017Eb"
+npbNum: 0
+path: /1999/30/1999-01-3033
+sopPredpisa: 1999-01-3033
+sopPredpisaChng: null

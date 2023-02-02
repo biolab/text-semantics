@@ -1,0 +1,16 @@
+Text file: PRAV2402.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 896738400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2402
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILA fundacije za financiranje \u0161portnih organizacij v Republiki Sloveniji"
+npbNum: 0
+path: /1998/32/1998-01-3254
+sopPredpisa: 1998-01-3254
+sopPredpisaChng: null

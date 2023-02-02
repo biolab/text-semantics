@@ -1,0 +1,12 @@
+Text file: SKLE9910.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9910
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o razglasitvi dneva slovenskega znakovnega jezika
+npbNum: 0
+path: /2014/00/2014-01-0025
+sopPredpisa: 2014-01-0025
+sopPredpisaChng: null

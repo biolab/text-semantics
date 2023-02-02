@@ -1,0 +1,16 @@
+Text file: SKLE10520.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1440799200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10520
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi javne infrastrukture na podro\u010Dju kulture"
+npbNum: 0
+path: /2015/26/2015-01-2624
+sopPredpisa: 2015-01-2624
+sopPredpisaChng: null

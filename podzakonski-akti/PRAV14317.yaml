@@ -1,0 +1,16 @@
+Text file: PRAV14317.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649023200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14317
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o potrdilih iz katastra nepremi\u010Dnin in registra naslovov"
+npbNum: 0
+path: /2021/25/2021-01-2542
+sopPredpisa: 2021-01-2542
+sopPredpisaChng: null

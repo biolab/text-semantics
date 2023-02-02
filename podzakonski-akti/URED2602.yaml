@@ -1,0 +1,17 @@
+Text file: URED2602.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1210024800000000000
+- null
+- null
+- 10
+idPredpisa: URED2602
+idPredpisaChng: URED2602
+instock: .nan
+naslov: "UREDBA o zato\u010Di\u0161\u010Du za \u017Eivali prosto \u017Eive\u010Dih\
+  \ vrst (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2008/16/2008-01-1636-2002-01-4893-npb2
+sopPredpisa: 2008-01-1636
+sopPredpisaChng: 2002-01-4893

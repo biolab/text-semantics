@@ -1,0 +1,16 @@
+Text file: PRAV11641.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1373666400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11641
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju pravne pomo\u010Di policistom"
+npbNum: 0
+path: /2013/20/2013-01-2066
+sopPredpisa: 2013-01-2066
+sopPredpisaChng: null

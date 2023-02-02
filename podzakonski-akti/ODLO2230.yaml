@@ -1,0 +1,16 @@
+Text file: ODLO2230.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1608850800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2230
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o podalj\u0161anju veljavnosti overitev vodomerov"
+npbNum: 0
+path: /2020/36/2020-01-3611
+sopPredpisa: 2020-01-3611
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: MERI34.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1231542000000000000
+- null
+- null
+- 10
+idPredpisa: MERI34
+idPredpisaChng: null
+instock: .nan
+naslov: "MERILA za dolo\u010Ditev vidnih dose\u017Ekov na strokovnem podro\u010Dju\
+  \ za pridobitev naziva predavatelj vi\u0161je \u0161ole"
+npbNum: 0
+path: /2009/00/2009-01-0016
+sopPredpisa: 2009-01-0016
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: PRAV14651.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1661983200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1655416800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14651
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prijavi nezgode in po\u0161kodbe pri delu"
+npbNum: 0
+path: /2022/17/2022-01-1779
+sopPredpisa: 2022-01-1779
+sopPredpisaChng: null

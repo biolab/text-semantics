@@ -1,0 +1,20 @@
+Text file: PRAV12978.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1483225200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1482534000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12978
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih in postopkih oprostitve tro\u0161arine za energetsko\
+  \ intenzivna podjetja"
+npbNum: 0
+path: /2016/35/2016-01-3571
+sopPredpisa: 2016-01-3571
+sopPredpisaChng: null

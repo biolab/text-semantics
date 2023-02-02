@@ -1,0 +1,16 @@
+Text file: PRAV8618.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1228172400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8618
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vodenju razvidov po Zakonu o \u0161portu"
+npbNum: 0
+path: /2008/46/2008-01-4639
+sopPredpisa: 2008-01-4639
+sopPredpisaChng: null

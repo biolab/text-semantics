@@ -1,0 +1,17 @@
+Text file: PRAV5050.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1054677600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5050
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega strokovnega izobra\u017E\
+  evanja gostinski tehnik (poklicni te\u010Daj)"
+npbNum: 0
+path: /2003/25/2003-01-2577
+sopPredpisa: 2003-01-2577
+sopPredpisaChng: null

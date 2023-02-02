@@ -1,0 +1,16 @@
+Text file: NACP20.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 826239600000000000
+- null
+- null
+- 10
+idPredpisa: NACP20
+idPredpisaChng: null
+instock: .nan
+naslov: PROGRAM RAZVOJA GOZDOV V SLOVENIJI (NPRG)
+npbNum: 0
+path: /1996/06/1996-01-0632
+sopPredpisa: 1996-01-0632
+sopPredpisaChng: null

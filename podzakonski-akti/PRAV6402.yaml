@@ -1,0 +1,18 @@
+Text file: PRAV6402.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1352502000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6402
+idPredpisaChng: PRAV6402
+instock: .nan
+naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja katastra lovsko upravljavskih\
+  \ obmo\u010Dij, lovi\u0161\u010D in lovi\u0161\u010D s posebnim namenom (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/31/2012-01-3134-2005-01-0212-npb1
+sopPredpisa: 2012-01-3134
+sopPredpisaChng: 2005-01-0212

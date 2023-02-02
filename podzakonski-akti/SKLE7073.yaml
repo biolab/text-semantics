@@ -1,0 +1,17 @@
+Text file: SKLE7073.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1431468000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE7073
+idPredpisaChng: SKLE7073
+instock: .nan
+naslov: "SKLEP o minimalnih zahtevah za zagotavljanje ustrezne likvidnostne pozicije\
+  \ bank in hranilnic (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
+npbNum: 7
+path: /2015/12/2015-01-1226-2007-01-1400-npb7
+sopPredpisa: 2015-01-1226
+sopPredpisaChng: 2007-01-1400

@@ -1,0 +1,17 @@
+Text file: PRAV3664.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 980550000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3664
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki letnega poro\u010Dila in skraj\u0161anega letnega\
+  \ poro\u010Dila politi\u010Dnih strank"
+npbNum: 0
+path: /2001/01/2001-01-0119
+sopPredpisa: 2001-01-0119
+sopPredpisaChng: null

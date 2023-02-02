@@ -1,0 +1,17 @@
+Text file: URED4130.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1148680800000000000
+- null
+- null
+- 10
+idPredpisa: URED4130
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o podpori evidentiranju lastnosti, osnovni odbiri in menjavi \u010D\
+  ebeljih matic kranjske \u010Debele v letu 2006"
+npbNum: 0
+path: /2006/22/2006-01-2205
+sopPredpisa: 2006-01-2205
+sopPredpisaChng: null

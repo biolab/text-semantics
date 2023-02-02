@@ -1,0 +1,18 @@
+Text file: PRAV11500.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1548457200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11500
+idPredpisaChng: PRAV11500
+instock: .nan
+naslov: "PRAVILNIK o metodologiji financiranja izobra\u017Eevalnih programov srednjih\
+  \ \u0161ol z italijanskim u\u010Dnim jezikom (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 2)"
+npbNum: 2
+path: /2019/01/2019-01-0104-2012-01-4217-npb2
+sopPredpisa: 2019-01-0104
+sopPredpisaChng: 2012-01-4217

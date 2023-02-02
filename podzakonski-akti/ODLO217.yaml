@@ -1,0 +1,16 @@
+Text file: ODLO217.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 937000800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO217
+idPredpisaChng: null
+instock: .nan
+naslov: ODLOK o izdaji kovanca za 10 tolarjev
+npbNum: 0
+path: /1999/35/1999-01-3590
+sopPredpisa: 1999-01-3590
+sopPredpisaChng: null

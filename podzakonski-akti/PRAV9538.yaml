@@ -1,0 +1,18 @@
+Text file: PRAV9538.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1457046000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9538
+idPredpisaChng: PRAV9538
+instock: .nan
+naslov: "PRAVILNIK o postopkih preverjanja du\u0161evne in telesne zmo\u017Enosti\
+  \ izvr\u0161ilnih \u017Eelezni\u0161kih delavcev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/04/2016-01-0457-2009-01-3443-npb1
+sopPredpisa: 2016-01-0457
+sopPredpisaChng: 2009-01-3443

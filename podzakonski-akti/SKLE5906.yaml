@@ -1,0 +1,17 @@
+Text file: SKLE5906.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 696812400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE5906
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o najmanj\u0161em znesku deviz, ki ga morajo imeti poobla\u0161\u010D\
+  ene banke na ra\u010Dunih v tujini"
+npbNum: 0
+path: /1992/01/1992-01-0188
+sopPredpisa: 1992-01-0188
+sopPredpisaChng: null

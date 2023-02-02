@@ -1,0 +1,19 @@
+Text file: SKLE12213.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1602280800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12213
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uporabi Smernic o spremembi Smernic EBA/GL/2018/01 o enotnih razkritjih\
+  \ v skladu s \u010Dlenom 473a Uredbe (EU) \u0161t. 575/2013 (CRR) v zvezi s prehodnimi\
+  \ ureditvami za zmanj\u0161anje vpliva uvedbe MSRP 9 na kapital za zagotovitev skladnosti\
+  \ s \xBBquick fix\xAB spremembo CRR kot odziv na pandemijo covida-19 (EBA/GL/2020/12)"
+npbNum: 0
+path: /2020/25/2020-01-2502
+sopPredpisa: 2020-01-2502
+sopPredpisaChng: null

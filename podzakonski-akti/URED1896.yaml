@@ -1,0 +1,23 @@
+Text file: URED1896.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1018648800000000000
+- null
+- null
+- 10
+idPredpisa: URED1896
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesijah za izkori\u0161\u010Danje vode iz vodnih virov Ga\u010D\
+  nik 1, Ga\u010Dnik 2, Zavratec, \u010CG-1/93, Devetak v Stra\u017Ei, St-2/87, St-3/92,\
+  \ STO-4/96, DT-1/94, \u017Dd-1/93, H-3/88, Gb-2/90, Ka-1/93, GK-1/93, Jezero pri\
+  \ Dru\u017Einski vasi, Br-3/91, Cl-1/87, Cl-2/89, \u0160-1/92, K-1/86, K-2/86, K-3/95,\
+  \ Mo-2/94, Zaloka, V\u0160-1/92, GV-1, GV-2, GV-3, VG-4, GVN, ZP-2, VK-1, VK-2,\
+  \ VK-3, VK-4, V-6, Brezovi\u0161ki graben, K-2/97, VBP-3/97, B-2/96, DB-1/94, DB-2/95,\
+  \ PR-2/89, PR-3/92, VM-1/94, VM-2/94, Va-1, Krog, Dobli\u010De, \u010CBL-3/91, \u010C\
+  BL-4/92 in VB-1/94 za oskrbo prebivalstva s pitno vodo"
+npbNum: 0
+path: /2002/12/2002-01-1209
+sopPredpisa: 2002-01-1209
+sopPredpisaChng: null

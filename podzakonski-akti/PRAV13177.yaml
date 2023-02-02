@@ -1,0 +1,16 @@
+Text file: PRAV13177.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513983600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13177
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o delovanju in financiranju varuha \u0161portnikovih pravic"
+npbNum: 0
+path: /2017/32/2017-01-3274
+sopPredpisa: 2017-01-3274
+sopPredpisaChng: null

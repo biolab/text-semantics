@@ -1,0 +1,19 @@
+Text file: SKLE9632.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1365804000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1365804000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE9632
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o opravljanju menjalni\u0161kih poslov"
+npbNum: 0
+path: /2013/11/2013-01-1132
+sopPredpisa: 2013-01-1132
+sopPredpisaChng: null

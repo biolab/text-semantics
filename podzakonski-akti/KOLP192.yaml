@@ -1,0 +1,17 @@
+Text file: KOLP192.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1312581600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP192
+idPredpisaChng: KOLP192
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA gradbenih dejavnosti (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 9)"
+npbNum: 9
+path: /2011/29/2011-01-2914-2005-01-0002-npb9
+sopPredpisa: 2011-01-2914
+sopPredpisaChng: 2005-01-0002

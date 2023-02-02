@@ -1,0 +1,18 @@
+Text file: AKT_109.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1334354400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_109
+idPredpisaChng: AKT_109
+instock: .nan
+naslov: "AKT o dolo\u010Ditvi \u0161tevila sodni\u0161kih mest na vi\u0161jih, okro\u017E\
+  nih in okrajnih sodi\u0161\u010Dih v Republiki Sloveniji (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 31)"
+npbNum: 31
+path: /2012/11/2012-01-1122-1994-01-1403-npb31
+sopPredpisa: 2012-01-1122
+sopPredpisaChng: 1994-01-1403

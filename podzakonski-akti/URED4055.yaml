@@ -1,0 +1,17 @@
+Text file: URED4055.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1150840800000000000
+- null
+- null
+- 10
+idPredpisa: URED4055
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o na\u010Dinu prodaje terjatev Republike Slovenije v postopkih prisilnih\
+  \ poravnav ali ste\u010Dajev"
+npbNum: 0
+path: /2006/24/2006-01-2431
+sopPredpisa: 2006-01-2431
+sopPredpisaChng: null

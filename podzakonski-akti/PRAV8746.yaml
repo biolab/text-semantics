@@ -1,0 +1,16 @@
+Text file: PRAV8746.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1226617200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8746
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o razvrstitvi zdravilnih rastlin
+npbNum: 0
+path: /2008/43/2008-01-4369
+sopPredpisa: 2008-01-4369
+sopPredpisaChng: null

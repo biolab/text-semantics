@@ -1,0 +1,18 @@
+Text file: PRAV9880.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1289602800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9880
+idPredpisaChng: PRAV9880
+instock: .nan
+naslov: "PRAVILNIK o delovanju mre\u017Ee za zbiranje ra\u010Dunovodskih podatkov\
+  \ o dohodkih in poslovanju kmetijskih gospodarstev (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/47/2010-01-4781-2010-01-0471-npb1
+sopPredpisa: 2010-01-4781
+sopPredpisaChng: 2010-01-0471

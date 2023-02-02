@@ -1,0 +1,16 @@
+Text file: RESO124.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1570226400000000000
+- null
+- null
+- 10
+idPredpisa: RESO124
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO o strategiji nacionalne varnosti Republike Slovenije (ReSNV-2)
+npbNum: 0
+path: /2019/26/2019-01-2618
+sopPredpisa: 2019-01-2618
+sopPredpisaChng: null

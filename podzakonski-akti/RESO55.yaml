@@ -1,0 +1,17 @@
+Text file: RESO55.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1248472800000000000
+- null
+- null
+- 10
+idPredpisa: RESO55
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU VARSTVA PRED NARAVNIMI IN DRUGIMI NESRE\u010C\
+  AMI V LETIH 2009 DO 2015 (ReNPVNDN)"
+npbNum: 0
+path: /2009/27/2009-01-2789
+sopPredpisa: 2009-01-2789
+sopPredpisaChng: null

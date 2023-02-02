@@ -1,0 +1,17 @@
+Text file: PRAV12201.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1652479200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12201
+idPredpisaChng: PRAV12201
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih pripomo\u010Dkih in prilagoditvi vozila (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/12/2022-01-1261-2014-01-2932-npb3
+sopPredpisa: 2022-01-1261
+sopPredpisaChng: 2014-01-2932

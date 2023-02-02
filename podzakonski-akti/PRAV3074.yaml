@@ -1,0 +1,17 @@
+Text file: PRAV3074.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 681602400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3074
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o organiziranju in izvajanju in\u0161pekcije na podro\u010Dju obrambe\
+  \ in za\u0161\u010Dite"
+npbNum: 0
+path: /1991/02/1991-01-0284
+sopPredpisa: 1991-01-0284
+sopPredpisaChng: null

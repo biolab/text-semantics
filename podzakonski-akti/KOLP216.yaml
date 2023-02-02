@@ -1,0 +1,13 @@
+Text file: KOLP216.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: KOLP216
+idPredpisaChng: KOLP216
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA za lesarstvo (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 5)"
+npbNum: 5
+path: /2013/11/2013-01-1137-2006-01-5571-npb5
+sopPredpisa: 2013-01-1137
+sopPredpisaChng: 2006-01-5571

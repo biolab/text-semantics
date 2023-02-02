@@ -1,0 +1,17 @@
+Text file: PRAV10628.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1299279600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10628
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih in postopkih za to\u010Dkovanje, spremljanje, potrjevanje\
+  \ in evidentiranje obveznega strokovnega izobra\u017Eevanja geodetov"
+npbNum: 0
+path: /2011/03/2011-01-0381
+sopPredpisa: 2011-01-0381
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: SKLE1909.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 981154800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1909
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine nadomestila posebnih stro\u0161kov"
+npbNum: 0
+path: /2001/04/2001-01-0480
+sopPredpisa: 2001-01-0480
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV12269.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1536789600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12269
+idPredpisaChng: PRAV12269
+instock: .nan
+naslov: "PRAVILNIK o enostavnih tla\u010Dnih posodah (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2018/29/2018-01-2955-2016-01-1714-npb1
+sopPredpisa: 2018-01-2955
+sopPredpisaChng: 2016-01-1714

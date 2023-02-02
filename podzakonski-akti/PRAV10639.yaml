@@ -1,0 +1,17 @@
+Text file: PRAV10639.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1333144800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10639
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi \u0161tevila pripravni\u0161kih delovnih mest\
+  \ na posameznih okro\u017Enih dr\u017Eavnih to\u017Eilstvih"
+npbNum: 0
+path: /2012/07/2012-01-0754
+sopPredpisa: 2012-01-0754
+sopPredpisaChng: null

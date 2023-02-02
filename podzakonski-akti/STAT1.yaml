@@ -1,0 +1,16 @@
+Text file: STAT1.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 890434800000000000
+- null
+- null
+- 10
+idPredpisa: STAT1
+idPredpisaChng: null
+instock: .nan
+naslov: STATUT javnega zavoda Moderna galerija
+npbNum: 0
+path: /1998/07/1998-01-0749
+sopPredpisa: 1998-01-0749
+sopPredpisaChng: null

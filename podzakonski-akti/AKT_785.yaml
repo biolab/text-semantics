@@ -1,0 +1,16 @@
+Text file: AKT_785.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1348869600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_785
+idPredpisaChng: null
+instock: .nan
+naslov: "AKT o posredovanju podatkov o kakovosti oskrbe z elektri\u010Dno energijo"
+npbNum: 0
+path: /2012/27/2012-01-2798
+sopPredpisa: 2012-01-2798
+sopPredpisaChng: null

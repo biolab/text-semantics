@@ -1,0 +1,20 @@
+Text file: AKT_1271.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1661292000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1659564000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1271
+idPredpisaChng: AKT_1271
+instock: .nan
+naslov: "PRAVILA DRA\u017DB za izvajanje zakupov posameznih sistemskih storitev na\
+  \ izravnalnem trgu ELES (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/26/2022-01-2617-2022-01-1389-npb1
+sopPredpisa: 2022-01-2617
+sopPredpisaChng: 2022-01-1389

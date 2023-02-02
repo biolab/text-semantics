@@ -1,0 +1,20 @@
+Text file: PRAV13941.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1585692000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1584745200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13941
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posebnih okoli\u0161\u010Dinah, ki vplivajo na posplo\u0161eno\
+  \ vrednost nepremi\u010Dnin"
+npbNum: 0
+path: /2020/04/2020-01-0466
+sopPredpisa: 2020-01-0466
+sopPredpisaChng: null

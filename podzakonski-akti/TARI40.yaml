@@ -1,0 +1,17 @@
+Text file: TARI40.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041894000000000000
+- null
+- null
+- 10
+idPredpisa: TARI40
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFE za uporabo glasbenih neodrskih del \_iz repertoarja Zdru\u017Eenja\
+  \ SAZAS"
+npbNum: 0
+path: /2002/55/2002-01-5563
+sopPredpisa: 2002-01-5563
+sopPredpisaChng: null

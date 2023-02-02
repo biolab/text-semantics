@@ -1,0 +1,17 @@
+Text file: PRAV9959.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1527285600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9959
+idPredpisaChng: PRAV9959
+instock: .nan
+naslov: "PRAVILNIK o izdaji diplom in potrdil o izobra\u017Eevanju (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2018/17/2018-01-1762-2009-01-4134-npb4
+sopPredpisa: 2018-01-1762
+sopPredpisaChng: 2009-01-4134

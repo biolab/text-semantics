@@ -1,0 +1,12 @@
+Text file: RESO133.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO133
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO o znanstvenoraziskovalni in inovacijski strategiji Slovenije 2030  (ReZrIS30)
+npbNum: 0
+path: /2022/09/2022-01-0982
+sopPredpisa: 2022-01-0982
+sopPredpisaChng: null

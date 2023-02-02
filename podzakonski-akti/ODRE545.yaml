@@ -1,0 +1,17 @@
+Text file: ODRE545.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 933976800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE545
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o prenehanju veljavnosti odredbe o koli\u010Dini jodovih soli v kuhinjski\
+  \ soli"
+npbNum: 0
+path: /1999/30/1999-01-3029
+sopPredpisa: 1999-01-3029
+sopPredpisaChng: null

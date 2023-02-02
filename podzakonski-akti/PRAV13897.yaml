@@ -1,0 +1,17 @@
+Text file: PRAV13897.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1583881200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13897
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sestavi, pristojnostih in na\u010Dinu dela Komisije Republike\
+  \ Slovenije za medicinsko etiko"
+npbNum: 0
+path: /2020/03/2020-01-0342
+sopPredpisa: 2020-01-0342
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED6071.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356994800000000000
+- null
+- null
+- 10
+idPredpisa: URED6071
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o oskrbi s pitno vodo
+npbNum: 0
+path: /2012/34/2012-01-3498
+sopPredpisa: 2012-01-3498
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: ODRE936.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 764031600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE936
+idPredpisaChng: null
+instock: .nan
+naslov: ODREDBO o izdaji pete serije zakladnih menic
+npbNum: 0
+path: /1994/05/1994-01-0565
+sopPredpisa: 1994-01-0565
+sopPredpisaChng: null

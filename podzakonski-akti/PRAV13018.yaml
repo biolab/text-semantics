@@ -1,0 +1,16 @@
+Text file: PRAV13018.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1518822000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13018
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o poro\u010Danju o toba\u010Dnih in povezanih izdelkih"
+npbNum: 0
+path: /2018/03/2018-01-0357
+sopPredpisa: 2018-01-0357
+sopPredpisaChng: null

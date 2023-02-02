@@ -1,0 +1,16 @@
+Text file: SKLE8034.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1241820000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8034
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi prodajne vrednosti za 1 tono \u0161koljk za leto 2009"
+npbNum: 0
+path: /2009/16/2009-01-1640
+sopPredpisa: 2009-01-1640
+sopPredpisaChng: null

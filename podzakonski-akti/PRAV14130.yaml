@@ -1,0 +1,17 @@
+Text file: PRAV14130.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1657058400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14130
+idPredpisaChng: PRAV14130
+instock: .nan
+naslov: "PRAVILNIK o strokovnih komisijah (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2022/22/2022-01-2248-2020-01-3020-npb1
+sopPredpisa: 2022-01-2248
+sopPredpisaChng: 2020-01-3020

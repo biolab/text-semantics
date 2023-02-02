@@ -1,0 +1,18 @@
+Text file: PRAV5888.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1301094000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5888
+idPredpisaChng: PRAV5888
+instock: .nan
+naslov: "PRAVILNIK o minimalnih tehni\u010Dnih zahtevah za graditev oskrbovanih stanovanj\
+  \ za starej\u0161e ter o na\u010Dinu zagotavljanja pogojev za njihovo obratovanje\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/07/2011-01-0704-2004-01-4602-npb2
+sopPredpisa: 2011-01-0704
+sopPredpisaChng: 2004-01-4602

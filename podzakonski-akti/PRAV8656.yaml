@@ -1,0 +1,19 @@
+Text file: PRAV8656.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1229209200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1200351600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8656
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o delovnih mestih izvr\u0161ilnih \u017Eelezni\u0161kih delavcev"
+npbNum: 0
+path: /2007/64/2007-01-6418
+sopPredpisa: 2007-01-6418
+sopPredpisaChng: null

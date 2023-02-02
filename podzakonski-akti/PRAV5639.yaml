@@ -1,0 +1,17 @@
+Text file: PRAV5639.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1307743200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5639
+idPredpisaChng: PRAV5639
+instock: .nan
+naslov: "PRAVILNIK o koncesijah na podro\u010Dju socialnega varstva (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/21/2011-01-2117-2004-01-3231-npb2
+sopPredpisa: 2011-01-2117
+sopPredpisaChng: 2004-01-3231

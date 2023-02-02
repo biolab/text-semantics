@@ -1,0 +1,16 @@
+Text file: URED3359.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083276000000000000
+- null
+- null
+- 10
+idPredpisa: URED3359
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Novokra\u010Dine"
+npbNum: 0
+path: /2004/21/2004-01-2149
+sopPredpisa: 2004-01-2149
+sopPredpisaChng: null

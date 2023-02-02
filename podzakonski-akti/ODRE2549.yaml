@@ -1,0 +1,16 @@
+Text file: ODRE2549.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1584054000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2549
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o prepovedi prometa za\u0161\u010Ditnih sredstev"
+npbNum: 0
+path: /2020/05/2020-01-0543
+sopPredpisa: 2020-01-0543
+sopPredpisaChng: null

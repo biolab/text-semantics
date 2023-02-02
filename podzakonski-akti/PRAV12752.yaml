@@ -1,0 +1,17 @@
+Text file: PRAV12752.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1655330400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12752
+idPredpisaChng: PRAV12752
+instock: .nan
+naslov: "PRAVILNIK o katalogu stro\u0161kov in najvi\u0161jih priznanih vrednosti\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2022/19/2022-01-1944-2016-01-0267-npb4
+sopPredpisa: 2022-01-1944
+sopPredpisaChng: 2016-01-0267

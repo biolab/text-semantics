@@ -1,0 +1,13 @@
+Text file: SKLE10460.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10460
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dlanov Strokovnega sveta Agencije za zavarovalni\
+  \ nadzor "
+npbNum: 0
+path: /2015/18/2015-01-1818
+sopPredpisa: 2015-01-1818
+sopPredpisaChng: null

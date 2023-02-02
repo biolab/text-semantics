@@ -1,0 +1,13 @@
+Text file: TARI143.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: TARI143
+idPredpisaChng: null
+instock: .nan
+naslov: "ZA\u010CASNO TARIFO za prenose ve\u010D avtorskih del v enem samem prenosu\
+  \ (Bundle track) preko interneta kon\u010Dnim uporabnikom"
+npbNum: 0
+path: /2012/11/2012-01-1184
+sopPredpisa: 2012-01-1184
+sopPredpisaChng: null

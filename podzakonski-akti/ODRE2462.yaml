@@ -1,0 +1,17 @@
+Text file: ODRE2462.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1544223600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2462
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne cene toplote, ki nastane z\_zgorevanjem\
+  \ ekstra lahkega kurilnega olja, za\_leto 2019"
+npbNum: 0
+path: /2018/38/2018-01-3860
+sopPredpisa: 2018-01-3860
+sopPredpisaChng: null

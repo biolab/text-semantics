@@ -1,0 +1,17 @@
+Text file: PRAV11821.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1365804000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11821
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopnem uvajanju prvega tujega jezika v 1. razred osnovne \u0161\
+  ole"
+npbNum: 0
+path: /2013/11/2013-01-1130
+sopPredpisa: 2013-01-1130
+sopPredpisaChng: null

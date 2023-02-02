@@ -1,0 +1,16 @@
+Text file: PRAV12258.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1482534000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12258
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trg s sve\u017Eim sadjem"
+npbNum: 0
+path: /2016/35/2016-01-3574
+sopPredpisa: 2016-01-3574
+sopPredpisaChng: null

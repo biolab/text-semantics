@@ -1,0 +1,20 @@
+Text file: PRAV6713.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1669849200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1654207200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6713
+idPredpisaChng: PRAV6713
+instock: .nan
+naslov: "PRAVILNIK o normativih za financiranje vi\u0161jih strokovnih \u0161ol (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2022/17/2022-01-1782-2008-01-4031-npb5
+sopPredpisa: 2022-01-1782
+sopPredpisaChng: 2008-01-4031

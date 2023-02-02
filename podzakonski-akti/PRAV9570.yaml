@@ -1,0 +1,17 @@
+Text file: PRAV9570.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1615935600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9570
+idPredpisaChng: PRAV9570
+instock: .nan
+naslov: "PRAVILNIK o izvr\u0161evanju vzgojnih ukrepov (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/07/2021-01-0796-2009-01-3801-npb1
+sopPredpisa: 2021-01-0796
+sopPredpisaChng: 2009-01-3801

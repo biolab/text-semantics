@@ -1,0 +1,17 @@
+Text file: SKLE818.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 927064800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE818
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o 12. izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim\
+  \ bonom"
+npbNum: 0
+path: /1999/18/1999-01-1872
+sopPredpisa: 1999-01-1872
+sopPredpisaChng: null

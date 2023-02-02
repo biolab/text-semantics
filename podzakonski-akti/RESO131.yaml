@@ -1,0 +1,13 @@
+Text file: RESO131.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO131
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o Dolgoro\u010Dni podnebni strategiji Slovenije do leta\_2050\
+  \ (ReDPS50)"
+npbNum: 0
+path: /2021/25/2021-01-2552
+sopPredpisa: 2021-01-2552
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: SKLE2380.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1206745200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2380
+idPredpisaChng: SKLE2380
+instock: .nan
+naslov: "SKLEP o olaj\u0161avah za potovanja dr\u017Eavljanov Bosne in Hercegovine,\
+  \ Makedonije, Ruske Federacije in Tur\u010Dije v Republiko Slovenijo (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2008/11/2008-01-1197-2001-01-3341-npb2
+sopPredpisa: 2008-01-1197
+sopPredpisaChng: 2001-01-3341

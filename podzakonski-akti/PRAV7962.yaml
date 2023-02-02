@@ -1,0 +1,16 @@
+Text file: PRAV7962.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1199142000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7962
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o upravljanju s podatki o kakovosti \u0161ol"
+npbNum: 0
+path: /2007/55/2007-01-5556
+sopPredpisa: 2007-01-5556
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV5831.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5831
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o geografski ozna\u010Dbi Kra\u0161ki pr\u0161ut"
+npbNum: 0
+path: /2004/22/2004-01-2242
+sopPredpisa: 2004-01-2242
+sopPredpisaChng: null

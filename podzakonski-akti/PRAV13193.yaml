@@ -1,0 +1,17 @@
+Text file: PRAV13193.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1567202400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13193
+idPredpisaChng: PRAV13193
+instock: .nan
+naslov: "PRAVILNIK o izvajanju subvencioniranega prevoza (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2019/24/2019-01-2461-2017-01-2204-npb2
+sopPredpisa: 2019-01-2461
+sopPredpisaChng: 2017-01-2204

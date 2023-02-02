@@ -1,0 +1,17 @@
+Text file: PRAV12368.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1438380000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12368
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o no\u0161enju, hrambi in vzdr\u017Eevanju oro\u017Eja v Finan\u010D\
+  ni upravi Republike Slovenije"
+npbNum: 0
+path: /2015/24/2015-01-2408
+sopPredpisa: 2015-01-2408
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV14099.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1605913200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14099
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o organizaciji in izvajanju verske duhovne oskrbe v domovih za\
+  \ starej\u0161e"
+npbNum: 0
+path: /2020/29/2020-01-2935
+sopPredpisa: 2020-01-2935
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV2874.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 960588000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2874
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o \u0161tipendiranju za delovanje na podro\u010Dju \u0161porta"
+npbNum: 0
+path: /2000/24/2000-01-2414
+sopPredpisa: 2000-01-2414
+sopPredpisaChng: null

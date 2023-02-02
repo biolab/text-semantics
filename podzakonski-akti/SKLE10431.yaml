@@ -1,0 +1,13 @@
+Text file: SKLE10431.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10431
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o razre\u0161itvi \u010Dastne konzulke Republike Slovenije v Canicu,\
+  \ v Portugalski Republiki"
+npbNum: 0
+path: /2015/22/2015-01-2290
+sopPredpisa: 2015-01-2290
+sopPredpisaChng: null

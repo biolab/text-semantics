@@ -1,0 +1,16 @@
+Text file: PRAV1013.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 940543200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV1013
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o postopku za varstvo nove sorte rastlin
+npbNum: 0
+path: /1999/40/1999-01-4049
+sopPredpisa: 1999-01-4049
+sopPredpisaChng: null

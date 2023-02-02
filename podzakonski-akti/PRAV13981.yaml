@@ -1,0 +1,16 @@
+Text file: PRAV13981.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577487600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13981
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o poro\u010Danju revizijskih dru\u017Eb"
+npbNum: 0
+path: /2019/36/2019-01-3663
+sopPredpisa: 2019-01-3663
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: AKT_1149.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: AKT_1149
+idPredpisaChng: null
+instock: .nan
+naslov: "REVALORIZACIJO nadomestil za prireditve, organizirane s strani organizacij,\
+  \ ki opravljajo dejavnost mladinskih centrov v Sloveniji za namene podpore mladim\
+  \ in njihovega kakovostnej\u0161ega pre\u017Eivljanja prostega \u010Dasa ter bolj\u0161\
+  ega \u017Eivljenja v dru\u017Ebi, kjer je uporaba fonogramov klju\u010Dnega pomena\
+  \ kot so koncerti in prireditve, ki so organizirane izklju\u010Dno ali prvenstveno\
+  \ zaradi javnega priob\u010Devanja fonogramov ter prireditve, pri katerih gre za\
+  \ kombinacijo razli\u010Dnih umetni\u0161kih zvrsti in pri katerih se fonogrami\
+  \ ne uporabljajo le za zvo\u010Dno ozadje ampak kot del prireditve,"
+npbNum: 0
+path: /2020/00/2020-01-0021
+sopPredpisa: 2020-01-0021
+sopPredpisaChng: null

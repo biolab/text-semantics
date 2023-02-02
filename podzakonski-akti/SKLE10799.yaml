@@ -1,0 +1,12 @@
+Text file: SKLE10799.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10799
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju predsednice in \u010Dlanov Nacionalnega sveta za kulturo "
+npbNum: 0
+path: /2016/12/2016-01-1270
+sopPredpisa: 2016-01-1270
+sopPredpisaChng: null

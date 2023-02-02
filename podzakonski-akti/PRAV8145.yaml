@@ -1,0 +1,17 @@
+Text file: PRAV8145.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1402092000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8145
+idPredpisaChng: PRAV8145
+instock: .nan
+naslov: "PRAVILNIK o \u010Dezmejnem po\u0161iljanju jedrskih in radioaktivnih snovi\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2014/16/2014-01-1633-2008-01-3288-npb1
+sopPredpisa: 2014-01-1633
+sopPredpisaChng: 2008-01-3288

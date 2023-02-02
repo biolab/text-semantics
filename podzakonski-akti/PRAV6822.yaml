@@ -1,0 +1,18 @@
+Text file: PRAV6822.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1275084000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6822
+idPredpisaChng: PRAV6822
+instock: .nan
+naslov: "PRAVILNIK o pogojih za opravljanje poljskih pregledov, vzor\u010Denj in testiranj\
+  \ semenskega materiala kmetijskih rastlin pod uradnim nadzorom (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2010/18/2010-01-1861-2005-01-4035-npb2
+sopPredpisa: 2010-01-1861
+sopPredpisaChng: 2005-01-4035

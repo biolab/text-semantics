@@ -1,0 +1,17 @@
+Text file: PRAV9492.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1651269600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9492
+idPredpisaChng: PRAV9492
+instock: .nan
+naslov: "PRAVILNIK o varstvu gozdov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 2)"
+npbNum: 2
+path: /2022/10/2022-01-1087-2009-01-5220-npb2
+sopPredpisa: 2022-01-1087
+sopPredpisaChng: 2009-01-5220

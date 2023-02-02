@@ -1,0 +1,19 @@
+Text file: PRAV14323.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649023200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1633730400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14323
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o Komisiji za strokovno presojo v katastrskih postopkih
+npbNum: 0
+path: /2021/29/2021-01-2928
+sopPredpisa: 2021-01-2928
+sopPredpisaChng: null

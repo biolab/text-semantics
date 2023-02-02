@@ -1,0 +1,19 @@
+Text file: URED7763.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1586124000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1554501600000000000
+- null
+- null
+- 10
+idPredpisa: URED7763
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o izvajanju slu\u017Ebe iskanja in re\u0161evanja zrakoplova"
+npbNum: 0
+path: /2019/07/2019-01-0701
+sopPredpisa: 2019-01-0701
+sopPredpisaChng: null

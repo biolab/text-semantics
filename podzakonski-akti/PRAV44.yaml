@@ -1,0 +1,16 @@
+Text file: PRAV44.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 706572000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV44
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih za opravljanje zasebne zdravstvene dejavnosti
+npbNum: 0
+path: /1992/13/1992-01-1316
+sopPredpisa: 1992-01-1316
+sopPredpisaChng: null

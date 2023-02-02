@@ -1,0 +1,18 @@
+Text file: PRAV9622.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1230073200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9622
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa, primanjkljaja in uni\u010Denja\
+  \ blaga (kalo, razsip, razbitje in okvara), ki sta nelo\u010Dljivo povezana s skladi\u0161\
+  \u010Denjem in prevozom blaga"
+npbNum: 0
+path: /2008/54/2008-01-5473
+sopPredpisa: 2008-01-5473
+sopPredpisaChng: null

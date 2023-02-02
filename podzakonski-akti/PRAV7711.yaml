@@ -1,0 +1,16 @@
+Text file: PRAV7711.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1150495200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7711
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvajanju diferenciacije pri pouku v osnovni \u0161oli"
+npbNum: 0
+path: /2006/27/2006-01-2720
+sopPredpisa: 2006-01-2720
+sopPredpisaChng: null

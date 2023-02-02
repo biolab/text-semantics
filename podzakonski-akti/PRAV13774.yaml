@@ -1,0 +1,16 @@
+Text file: PRAV13774.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1581116400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13774
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o zdravstveni sposobnosti letalskega in drugega strokovnega osebja
+npbNum: 0
+path: /2020/00/2020-01-0095
+sopPredpisa: 2020-01-0095
+sopPredpisaChng: null

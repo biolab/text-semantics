@@ -1,0 +1,17 @@
+Text file: URED5883.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1317420000000000000
+- null
+- null
+- 10
+idPredpisa: URED5883
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o enkratni pomo\u010Di ribi\u010Dem, ki imajo dovoljenje za gospodarski\
+  \ ribolov in so izvajali gospodarski ribolov v letu 2010"
+npbNum: 0
+path: /2011/32/2011-01-3269
+sopPredpisa: 2011-01-3269
+sopPredpisaChng: null

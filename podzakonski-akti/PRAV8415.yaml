@@ -1,0 +1,17 @@
+Text file: PRAV8415.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1198191600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8415
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Javorje\
+  \ (2007\u20132016)"
+npbNum: 0
+path: /2007/58/2007-01-5895
+sopPredpisa: 2007-01-5895
+sopPredpisaChng: null

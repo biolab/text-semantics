@@ -1,0 +1,17 @@
+Text file: PRAV13660.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577228400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13660
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Smre\u010D\
+  no (2019\u20132028)"
+npbNum: 0
+path: /2019/35/2019-01-3535
+sopPredpisa: 2019-01-3535
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: TARI71.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1119391200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1121637600000000000
+- null
+- null
+- 10
+idPredpisa: TARI71
+idPredpisaChng: null
+instock: .nan
+naslov: TARIFO ZAVODA IPF za kabelsko retransmisijo fonogramov
+npbNum: 0
+path: /2005/30/2005-01-3017
+sopPredpisa: 2005-01-3017
+sopPredpisaChng: null

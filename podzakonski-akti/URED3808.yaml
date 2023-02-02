@@ -1,0 +1,16 @@
+Text file: URED3808.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1140822000000000000
+- null
+- null
+- 10
+idPredpisa: URED3808
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o standardni klasifikaciji institucionalnih sektorjev
+npbNum: 0
+path: /2006/04/2006-01-0497
+sopPredpisa: 2006-01-0497
+sopPredpisaChng: null

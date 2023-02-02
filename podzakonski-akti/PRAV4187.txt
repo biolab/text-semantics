@@ -1,0 +1,1156 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa bistvene in posebne zahteve, ki jih
+morajo izpolnjevati merilniki toplotne energije, postopke ugotavljanja
+skladnosti in overitev, rok redne overitve in način označevanja. 
+Merilnik toplotne energije (v nadaljnjem besedilu: merilnik)
+je vsako merilo, s katerim se lahko meri energija, ki se prejme ali odda preko
+posredniškega medija, ki je lahko voda ali drug medij. 
+Ta pravilnik se označi s skrajšano oznako MP-51-R75
+2. člen
+Ta pravilnik velja za: 
+-       
+sestavljive merilnike, 
+-       
+kompaktne merilnike, 
+-       
+vse merilnike, ki se uporabljajo kot t. i. delilniki stroškov.
+3. člen
+Šteje se, da merilniki, ki izpolnjujejo zahteve mednarodnega
+priporočila OIML R 75 Mednarodne organizacije za zakonsko meroslovje (OIML) (v
+nadaljnjem besedilu: OIML R 75), izpolnjujejo tudi zahteve tega pravilnika. 
+Sklicevanje na mednarodna priporočila OIML izhaja iz članstva
+Republike Slovenije v Mednarodni organizaciji za zakonsko meroslovje
+(Organisation International de Métrologie Légale). 
+Mednarodno priporočilo OIML R 75 v francoskem jeziku in
+prevod v angleškem jeziku sta dosegljiva na Uradu RS za meroslovje.
+4. člen
+V tem pravilniku uporabljeni izrazi imajo naslednji pomen: 
+-       
+»sestavljivi merilniki« so merilniki, sestavljeni iz treh komponent, in
+sicer para temperaturnih zaznaval, merilnika pretoka in računske enote, ki se
+lahko preskušajo in overjajo samostojno ali skupaj v obliki sestavljenega
+merilnika; 
+-       
+»kompaktni merilniki« so merilniki, ki tvorijo nerazstavljiv sestav treh
+komponent, in sicer para temperaturnih zaznaval, merilnika pretoka in računske
+enote, vendar obstaja možnost delnega preskusa posameznih komponent; 
+-       
+»pretok (q)« je prostornina vode ali drugega medija, ki preteče skozi
+merilnik pretoka v časovni enoti in v smeri, označeni na ohišju. Navaja se lahko
+v kubičnih metrih na uro ali v litrih na uro; 
+-       
+»najmanjši pretok (qi)« je spodnja meja območja pretokov, pri
+kateri merilnik kot celota ali merilnik pretoka še izpolnjuje zahteve glede
+največjih dopustnih pogreškov; 
+-       
+»nazivni (stalni) pretok (qp)« je največji pretok, pri
+katerem merilnik kot celota ali merilnik pretoka stalno deluje brez
+prekoračitve največjega dopustnega pogreška; 
+-       
+»največji pretok (qs)« je zgornja meja območja pretokov, pri
+kateri merilnik kot celota ali merilnik pretoka še lahko za omejen čas (manj od
+1 h/dan in manj od 200 h/leto) deluje brez prekoračitve največjega dopustnega
+pogreška. Merilnik pretoka mora biti konstruiran tako, da tudi pri pretokih, ki
+so nekoliko večji od qs, merilni pogrešek ni večji od +10 %; 
+-       
+»merilnik pretoka merilnika« je merilo, skozi katero teče voda ali drug
+medij za prenos toplote in je nameščeno v dovodnem ali v povratnem delu sistema
+za izmenjavo toplote ter oddaja signale, ki so v sorazmerju s prostornino
+pretečene vode ali drugega medija; 
+-       
+»par temperaturnih zaznaval« tvori skupaj merilo za merjenje
+temperaturne razlike (∆Θ) med temperaturo medija v dovodnem delu in temperaturo
+v povratnem delu; 
+-       
+»računska enota« je ločljivi ali neločljivi sestavni del merilnika, ki
+sprejema signale iz merilnika pretoka in para temperaturnih zaznaval ter
+izračuna in prikazuje izmerjeno toplotno energijo; 
+-       
+»kazalna naprava« je del računske enote merilnika, ki prikazuje rezultat
+meritve stalno ali na zahtevo; 
+-       
+»naprava za nastavljanje« je naprava oziroma funkcija, ki je neločljivo
+vgrajena v računsko enoto merilnika in se uporablja za vzporedno premaknitev
+krivulje pogreškov, da bi se pogreški v posameznih točkah merilnega območja
+spravili v meje največjega dopustnega pogreška; 
+-       
+»delovni tlak« je srednja vrednost tlaka, merjenega pred merilnikom
+pretoka merilnika in za njim, ki je odvisna tudi od trenutne vrednosti pretoka;
+-       
+»mejni vrednosti temperaturne razlike (∆Θmin; ∆Θmaks)«
+sta mejni vrednosti območja temperaturnih razlik, znotraj katerega mora
+merilnik delovati brez prekoračitve največjega dopustnega pogreška. Vrednosti
+se navajata v enoti K (kelvin); 
+-       
+»mejni vrednosti temperature delovanja (Θ min; Θ maks)«
+sta mejni vrednosti temperature vode ali drugega prenosnega medija, znotraj
+katerih mora merilnik delovati brez prekoračitve največjega dopustnega
+pogreška. Vrednosti se navajata v enoti °C (stopinja Celzija); 
+-       
+»največja toplotna moč (Ps )« je največja moč, pri kateri
+merilnik še lahko deluje pri zgornji meji temperaturnega območja trajno brez
+prekoračitve največjih dopustnih pogreškov; 
+-       
+»največji dopustni tlak« je največji tlak, ki ga merilnik oziroma
+merilnik pretoka prenese pri največji dopustni temperaturi brez trajne okvare
+in brez trajne spremembe meroslovnih lastnosti; 
+-       
+»največji padec tlaka« je padec tlaka pretočnega medija pri pretoku qp
+in je posledica prisotnosti merilnika oziroma njegovega merilnika pretoka v
+cevi; 
+-       
+»nazivni obratovalni pogoji« so pogoji, ki določajo območja vrednosti
+vplivnih veličin, pri katerih ostaja pogrešek kazanja v okviru največjega
+dopustnega pogreška; 
+-       
+»referenčni pogoji« so posebni obratovalni pogoji, v katerih se izvajajo
+meritve za namene primerjave; 
+-       
+»referenčne vrednosti merjene veličine (RVM)« so specifično ožje
+področje vrednosti pretoka, povratne temperature in temperaturne razlike, ki je
+fiksno določeno za namene primerjav merilnih rezultatov; 
+-       
+»vplivna veličina« je veličina, ki na splošno ni predmet merjenja,
+vendar vpliva na rezultat merjenja; 
+-       
+»motnja« je vrednost vplivne veličine, ki je še znotraj predpisanih
+mejnih vrednosti, vendar zunaj vrednosti, ki so opredeljene kot nazivni
+obratovalni pogoji merilnika; 
+-       
+»napaka« je sprememba kazanja merilnika v nazivnih obratovalnih pogojih
+glede na kazanje v referenčnih pogojih; 
+-       
+»pomembna napaka« je tista napaka, ki preseže vrednost največjega
+dopustnega pogreška, a ni prehodne narave; 
+-       
+»ndp« je največji relativni pogrešek merilnika kot celote ali njegovih
+sestavnih delov, ki je še dovoljen po tem pravilniku; 
+-       
+»največji dopustni pogrešek v uporabi« je enak dvojni vrednosti največjega
+dopustnega pogreška kompaktnega merilnika pri overitvah. Uporablja se samo v
+primerih, ko se merilnik kot celota izgradi iz omrežja izključno za namen
+kontrole pravilnega delovanja; 
+-       
+»relativni pogrešek« je algebrajska razlika med prikazano vrednostjo
+toplotne energije ali pretečene prostornine medija in izračunano ali izmerjeno
+pravo vrednostjo toplotne energije ali pretečene prostornine medija, deljena s
+pravo vrednostjo; 
+-       
+»overitveni razdelek« je najmanjši razdelek na skali, ki pripada
+elementu, ki predstavlja najnižjo številčno vrednost prikazovanega rezultata
+meritve. Pri digitalni kazalni napravi je ta razdelek lahko prepoznaven v
+posebnem načinu delovanja s povečano ločljivostjo, ki se vključi samo pri
+overjanju; 
+-       
+»ločljivost kazalne naprave« je najmanjša razlika med kazanji kazalne
+naprave, ki jo je še mogoče razločiti; 
+-       
+»pomožne naprave« so vse naprave, ki kot del merilnika opravljajo
+pomožno funkcijo pri izvajanju meritve, daljinskem prenosu ali prikazovanju
+rezultata meritve (npr. naprava za ničliranje, naprava za nastavljanje,
+podvojena kazalna naprava, dajalnik impulzov, naprave za shranjevanje
+rezultatov merjenja glede na določeno tarifo ali druga merila itd.). Pomožne
+naprave so lahko mehanske ali elektronske.
+II. BISTVENE ZAHTEVE
+5. člen
+Nazivne obratovalne pogoje določi proizvajalec, izpolnjevati
+pa morajo naslednje bistvene zahteve: 
+1.     
+napajanje: 
+Ne glede na izvedbo zunanjega napajanja (javno izmenično
+omrežje ali zunanja enosmerna napetost) mora celotna konstrukcija napajalnega
+dela zagotavljati, da se ob morebitni prekinitvi napajanja izmerjena vrednost
+ohrani najmanj za obdobje enega leta. 
+a)    
+izmenična napetost iz javnega omrežja: 
+- 
+od –15 % do +10 % nazivne napetosti in 
+- 
+od –2 % do +2 % nazivne frekvence; 
+b)    
+nizkonapetostno izmenično ali enosmerno napajanje (napetost, manjša od
+50 V) 
+- 
+od –50 % do +50 % nazivne izmenične napetosti ali 
+- 
+od –50 % do +75 % nazivne enosmerne napetosti; 
+c)    
+baterijsko napajanje: 
+- 
+nepolnilne baterije ali polnilne baterije, ki se zaradi kostrukcijske
+izvedbe merilnika ne morejo polniti med obratovanjem 
+Če se baterijska napetost zniža do kritične meje, pod katero
+zanesljivo delovanje merila kot celote ni več mogoče, se mora to alarmno stanje
+signalizirati na primeren način. Tik pred prekoračitvijo kritične meje se mora
+merjenje blokirati, zadnja izmerjena vrednost pa shraniti v poseben pomnilnik,
+kjer ostane dosegljiva za obdobje najmanj enega leta. Najkrajšo dobo
+zanesljivega delovanja brez zamenjave baterije ali ponovne vzpostavitve
+normalne delovne napetosti mora specificirati proizvajalec, trajati pa mora
+najmanj dve leti; 
+-       
+polnilne baterije, ki se lahko polnijo med obratovanjem merilnika 
+Merilniki s tako izvedbo napajanja morajo kot prvi pogoj
+izpolnjevati zahteve iz točke 1.c) v primeru, da bi se zunanje napajanje
+prekinilo ali izključilo. Odvisno od izvedbe zunanjega napajanja morajo hkrati
+izpolnjevati še zahteve iz točke 1.b) v primeru prekinitve ali izklopa
+zunanjega napajanja oziroma točke 1.a) v primeru delujočega napajanja; 
+2.     
+temperatura in temperaturna razlika pretočnega medija: 
+Θ min; Θ maks; ∆Θ min; ∆Θ maks
+so določeni z naslednjim pogojem: 
+∆Θ maks/ ∆Θ min Θ 10; ∆Θ min
+= 2 K; 
+3.     
+tlak pretočnega medija je omejen z največjim dopustnim tlakom, ki ga
+merilnik lahko prenese pri največji dopustni temperaturi; 
+4.     
+pretoki so na spodnji meji omejeni z vrednostjo qi, na
+zgornji meji z vrednostjo qs ter s pogojem qp/qi
+. 10; 
+5.     
+toplotna energija je omejena s Ps; 
+6.     
+okoljski razredi: 
+a)   
+razred A (povprečni bivalni pogoji, zaprti prostori): 
+-   
+temperatura okolice: +5 °C do +55 °C, 
+-   
+nižja vlaga, normalni električni in elektromagnetni pogoji, lažje
+mehansko okolje; 
+b)   
+razred B (težji bivalni pogoji, odprti prostori): 
+-   
+temperatura okolice: –25 °C do +55 °C, 
+-   
+srednje vrednosti vlage, normalni električni in elektromagnetni pogoji,
+lažje mehansko okolje; 
+c)   
+razred C (industrijski pogoji): 
+-   
+temperatura okolice: +5 °C do +55 °C, 
+-   
+srednje vrednosti vlage, težji električni in elektromagnetni pogoji,
+lažje mehansko okolje.
+6. člen
+Referenčni pogoji so:
+-       
+temperatura okolice:                                                      +15
+°C do + 35 °C,
+-       
+relativna vlažnost:                                                           25
+% do 75 %,
+-       
+zračni tlak:                                                                      86
+kPa do 106 kPa.
+Pri izvajanju posamezne meritve se temperatura in vlaga
+znotraj specificiranega območja ne smeta spreminjati več kot ±2,5 K oziroma ±5
+%. 
+Referenčne vrednosti merjene veličine (RVM) za qp Θ
+3,5 m3/h so:
+-       
+območje temperaturne razlike:                                      (40 ±
+2 ) K,
+ali                                                                                    ∆Θ
+maks (–2,0) K, če je
+                                                                                     ∆Θ
+maks < 40 K,
+-       
+območje pretoka:                                                           (0,7
+do 0,75) qp m3/h,
+-       
+območje temperature v povratnem vodu:                     (50 ± 5) °C,
+ali zgornja vrednost temperature v
+povratnem vodu, če je ta manjša od                              50
+°C.
+Določene referenčne vrednosti iz tega člena se lahko smiselno
+uporabljajo tudi v primeru, da se preskusi merilnika pretoka pri pretokih,
+večjih od 3,5 m3/h, namesto z vodo izvajajo s simuliranjem pretoka prek vhodnih
+impulzov v računsko enoto. 
+Referenčni pogoji veljajo za merilnik kot celoto. Pri
+preskusu posameznih sestavnih delov se smiselno upoštevajo samo bistvene vrednosti
+veličin.
+7. člen
+Največji dopustni pogreški za posamezne sestavne dele
+merilnika so: 
+a)    
+računska enota: 
+Ec = ± (0,5 + ∆Θ min/ ∆Θ). 
+b)    
+par temperaturnih zaznaval: 
+Et = ± (0,5 + 3 ∆Θ min/ ∆Θ). 
+c)    
+merilnik pretoka: 
+- 
+razred točnosti 2: Ef = ± (2 + 0,02 qp/q), vendar ne več kot
+5 %, 
+- 
+razred točnosti 3: Ef = ± (3 + 0,05 qp/q), vendar ne več kot
+5 %.
+8. člen
+Ndp za merilnik kot enotno merilo v sestavljeni ali
+razstavljivi izvedbi, pri čemer velja, da je razred točnosti merilnika določen
+z razredom točnosti merilnika pretoka, so: 
+-       
+E = Ec + Et + Ef, 
+-       
+E = ± (3 + 4 ∆Θ min/ ∆Θ + 0,02 qp/q), za razred
+točnosti 2, 
+-       
+E = ± (4 + 4 ∆Θ min/ ∆Θ + 0,05 qp/q), za razred
+točnosti 3.
+9. člen
+Pri določanju največjega dopustnega pogreška merilnika kot
+celote se upošteva primerjava med vrednostjo veličine, ki jo prikazuje kazalna
+naprava, in dogovorno pravo vrednostjo te veličine. 
+Kot dogovorna prava vrednost se šteje: 
+1.     
+za prostornino pretečene vode (ali drugega medija): 
+a)   
+prostornina, določena neposredno ali z merjenjem mase na preskusni
+napravi z zahtevano merilno negotovostjo, 
+b)   
+prostornina, simulirana z določenim številom vhodnih impulzov, ki prek
+impulzne vrednosti, izražene v obliki prirastka prostornine na impulz, določajo
+dogovorno pravo vrednost prostornine; 
+2.     
+za temperaturno razliko: 
+a)   
+temperaturna razlika, simulirana s postavitvijo temperaturnih zaznaval v
+termostatske kopeli z zahtevano merilno negotovostjo, ali 
+b)   
+temperaturna razlika, simulirana s preciznimi upori namesto
+temperaturnih zaznaval; 
+3.     
+za toplotno energijo: vrednost energije, izračunana po enačbi: 
+ΘW = k x ΘV x ∆Θ 
+kjer je: 
+∆Θ= simulirana temperaturna razlika skladno
+z opisom iz točke 2.a) ali 2.b), 
+ΘV= simuliran prirastek prostornine skladno
+z opisom v točki 1.a) ali 1.b), 
+k= toplotni koeficient, odvisen od lastnosti
+pretočnega medija, lege merilnika pretoka (dovod ali povratni vod) ter
+temperature v dovodu in povratnem vodu. 
+Za potrebe izračuna se koeficient k določi iz
+standardiziranih tabel.
+10. člen
+Razširjena merilna negotovost preskusne opreme, na kateri je
+določena dogovorna prava vrednost merjene veličine iz 9. člena tega pravilnika,
+mora izpolnjevati naslednji zahtevi: 
+-       
+biti mora manjša od ene petine (1/5) ndp opazovanega merila kot celote
+ali za njegove posamezne sestavne dele ali 
+-       
+če ni manjša od ene petine (1/5) ndp, jo je treba odšteti od vrednosti
+ndp, da se dobi nova vrednost ndp merila kot celote ali njegovega sestavnega
+dela.
+III. POSEBNE ZAHTEVE
+11. člen
+Merska enota za energijo je lahko joule (J) ali vatna ura
+(Wh). Dopustne so izvedbe, kjer je mogoče izbirati med obema merskima enotama,
+ki morata biti prikazani v neposredni bližini prikazane izmerjene vrednosti. 
+Konstrukcija kazalne naprave mora omogočati registracijo
+energije, ki ustreza najmanj 3.000 uram neprekinjenega delovanja pri največji
+moči Ps brez prehoda skozi ničlo. 
+Prikazi vseh drugih podatkov (serijska številka, datum
+vključitve delovanja itd.), značilnih stanj (alarmna stanja, tarifna stanja)
+ter veličin, ki neposredno vstopajo v izračun toplotne energije, morajo biti
+izvedeni tako, da ne povzročajo dvoumnosti. 
+Navidezna ali dejanska velikost številk prikaza mora biti
+vsaj 4 mm. 
+Za potrebe overjanja je lahko uporabljen način prikaza
+merjenih veličin s povečano ločljivostjo. Dostop do vključitve tega načina
+prikaza in tudi do vseh mest, prek katerih je mogoče spreminjati meroslovne
+lastnosti merila in vplivati na izmerjene rezultate posameznih meritev, mora
+biti po overitvi zaščiten z overitvenimi oznakami ali z vstopnimi programskimi
+gesli, ki se aktivirajo z računalniško povezavo ali s pametno kartico (smart
+card).
+12. člen
+Programska oprema, uporabljena za izvajanje posameznih
+glavnih ali pomožnih funkcij pri merilnikih, se razvršča po naslednjih merilih:
+-       
+stopnji tveganja glede na možnosti nepooblaščenega posega s ciljem spreminjanja
+meroslovnih lastnosti (v nadaljnjem besedilu: stopnja tveganja), 
+-       
+stopnji programske zaščite, 
+-       
+stopnji preskušanja programa, 
+-       
+stopnji skladnosti programske opreme v konkretnem merilu s programsko
+opremo, odobreno s preskusom tipa. 
+Po merilih iz prejšnjega odstavka se merilniki uvrščajo v
+srednjo kategorijo, ki pomeni: 
+-       
+stopnja programske zaščite 
+Tisti del programske opreme, ki je
+namenjen izvajanju zakonskih funkcij merilnika, je zaščiten z enostavnimi
+splošnimi programskimi orodji (urejevalniki besedila). 
+-       
+stopnja preskušanja 
+Programska oprema se v postopku
+odobritve tipa ovrednoti na podlagi opisa programskih funkcij, ki jih mora
+proizvajalec ali njegov zastopnik priložiti tehnični dokumentaciji. Opis
+programskega dela, ki je uporabljen pri izvajanju zakonskih funkcij, je
+potreben predvsem s stališča uporabe merila in njegovega preskusa. Poudarek je
+na rezultatih praktičnega meroslovnega preskusa. 
+Pri določenih lastnostih merila, ki
+niso neposredno sestavni del preskusa tipa (npr. zaščita raznih elektronskih
+vmesnikov), se lahko smiselno uporabi deklaracija, ki jo je potrdil
+proizvajalec, da merilo, ki je predloženo kot vzorec tipa, popolnoma ustreza
+opisom v predloženi tehnični dokumentaciji in nima nobenih drugih funkcij poleg
+opisanih. 
+-       
+stopnja skladnosti programske opreme v konkretnem merilu s programsko
+opremo, odobreno s preskusom tipa: 
+Programska oprema v posameznem merilu
+mora biti skladna s tehnično dokumentacijo, odobreno v postopku odobritve tipa.
+Ne glede na manjše spremembe v izvorni kodi programske opreme mora osnovna
+funkcija ustrezati opisu v odobreni dokumentaciji. Tisti deli programske
+opreme, ki so bili vgrajeni v postopku odobritve tipa, morajo ostati istovetni
+v vseh naslednjih posameznih merilih. Vsaka sprememba v vgrajenih programskih
+delih zahteva nov postopek odobritve tipa merila. 
+Vse ostale spremembe programske opreme so dopustne, če pri
+tem dokumentirane funkcije in lastnosti ostajajo nespremenjene. Organ za
+ugotavljanje skladnosti, ki je odobril tip merila, mora biti obveščen o vseh
+tovrstnih spremembah.
+13. člen
+Merilnik kot celota mora biti zaščiten pred nepooblaščenim
+spreminjanjem njegovih nastavitev, pri čemer je zaščita lahko izvedena mehansko
+(npr. z overitvenimi oznakami) ali z vstopnimi programskimi gesli oziroma
+pametnimi karticami pri merilnikih, ki imajo določene funkcije izvedene s
+posebno programsko opremo, ki je neizbrisno shranjena v posebnem pomnilniku.
+14. člen
+Za potrebe overjanja mora imeti računska enota razstavljivega
+ali sestavljivega merilnika možnost sprejemanja ali oddajanja signalov, ki
+posredujejo merjene veličine s povečano razločljivostjo. 
+Vhodi in izhodi za preskusne signale ne smejo povratno
+vplivati na meroslovne lastnosti merilnika. 
+Izhodni signal, ki predstavlja izmerjeno energijo, mora imeti
+dovolj veliko razločljivost, da relativni pogrešek tega signala zaradi
+razločljivosti tudi pri najmanjšem pretoku ostane zanemarljiv. Signal lahko
+nastopa v obliki impulzne vrednosti, podane kot impulz/energijski prirastek,
+ali pa v obliki podatka v ustreznem standardiziranem komunikacijskem formatu,
+ki je dosegljiv preko standardnega komunikacijskega konektorja. Nazivno
+razmerje signala s povečano razločljivostjo nasproti izmerjeni energiji določi
+proizvajalec. 
+Izhodni signal iz merilnika pretoka, ki v računsko enoto
+merilnika posreduje informacijo o pretečeni prostornini vode ali podobnega
+medija, mora imeti tako visoko razločljivost, da relativni pogrešek tudi pri
+najmanjšem pretoku ne preseže 0,8 %, preskusni čas pa ni daljši od 1 h pri qp
+Θ 10 m3/h, ali 1,5 h pri qp > 10 m3/h. 
+Specifikacije vhodnih in izhodnih signalov, njihove
+razporeditve in označitve morajo biti skladne s standardom SIST EN 1434. 
+Standard iz prejšnjega odstavka se hrani in je na voljo pri
+nacionalnem organu za standarde.
+15. člen
+Kot temperaturna zaznavala merilnika se lahko uporabljajo
+samo parna standardizirana uporovna zaznavala. Konstrukcijska izvedba para
+tipal, dolžina kablov ter način priključitve na računsko enoto merilnika morajo
+omogočati vsaj enega izmed dveh načinov simulacije temperaturne razlike iz točk
+2.a) in 2.b) iz 9. člena tega pravilnika. 
+Izvedbe kompaktnih merilnikov, kjer je z zunanje strani
+dosegljivo samo eno zaznavalo, drugo pa neločljivo vgrajeno v ohišje merilnika
+pretoka, niso dopustne, če ne obstaja zanesljiv način simuliranja temperaturne
+razlike za potrebe overjanja. 
+Če se za temperaturna zaznavala
+uporabljajo standardizirana uporovna zaznavala tipa PT 100, morajo največje
+dopustne dolžine dvožičnih priključnih kablov ustrezati vrednostim v naslednji
+tabeli:
+
+
+Presek priključnega
+  kabla (mm2)
+
+Največja dopustna
+  dolžina kabla (m)
+
+
+0,22
+
+2,5
+
+
+0,50
+
+5
+
+
+0,75
+
+7,5
+
+
+1,50
+
+15
+
+
+Če zahteve za dolžino kablov iz tabele ni mogoče izpolniti,
+je treba temperaturna zaznavala priključiti štirižično. Pri tem velja, da originalne
+dolžine kablov, kot jih za konkretne primere uporabe in vrste zaznaval (tipi Pt
+100 ali Pt 500) določa proizvajalec, ni dopustno spreminjati.
+16. člen
+Izvedbe priključnih mest za posamezne sestavne dele pri
+sestavljivih merilnikih morajo izpolnjevati naslednje splošne zahteve: 
+-       
+posamezno priključno mesto ne sme povratno vplivati na druge meroslovne
+lastnosti merilnika, 
+-       
+vsako posamezno priključno mesto mora imeti predvideno možnost zaščite
+(overitvene oznake ali alternativne vrste zaščit, ki preprečujejo nepooblaščeno
+priključevanje oziroma razstavljanje merila kot celote), 
+-       
+fizične izvedbe in oznake priključnih mest morajo biti skladne s
+standardom SIST EN 1434.
+IV. NAPISI IN OZNAKE
+17. člen
+Napisi in oznake na merilniku morajo biti v slovenskem jeziku.
+18. člen
+Na merilniku ali na njegovih sestavnih delih morajo biti
+navedeni naslednji podatki: 
+1.     
+na merilniku pretoka: 
+- 
+proizvajalec (ime ali zaščitni znak), 
+- 
+proizvajalčeva oznaka tipa, leto izdelave, serijska številka, 
+- 
+razred točnosti, 
+- 
+značilne vrednosti pretoka (qi , qp , qs),
+- 
+temperaturne meje (Θmin in Θmax), 
+- 
+največji dovoljeni delovni tlak, 
+- 
+ena ali več puščic za oznako smeri pretoka, 
+- 
+okoljski razred, 
+- 
+pretočni medij, če ni namenjen za vodo, 
+- 
+nazivna impulzna vrednost (litri/impulz). 
+2.     
+na paru temperaturnih zaznaval: 
+- 
+proizvajalec (ime ali zaščitni znak), 
+- 
+oznaka tipa, npr. Pt 100, leto izdelave, serijska številka, 
+- 
+temperaturne meje (Θmin in Θmax), 
+- 
+meje temperaturne razlike (∆Θmin, ∆Θmax), 
+- 
+največji dopustni tlak (pri neposredno v pretočni medij nameščenih
+zaznavalih), 
+- 
+identifikacija zaznaval po mestu namestitve (povratni oziroma dovodni),
+če je ta potrebna. 
+3.     
+na računski enoti: 
+- 
+proizvajalec (ime ali zaščitni znak), 
+- 
+proizvajalčeva oznaka tipa, leto izdelave, serijska številka, 
+- 
+tip temperaturnih zaznaval (Pt 100 ali Pt 500), 
+- 
+okoljski razred, 
+- 
+temperaturne meje (Θmin in Θmax), 
+- 
+meje temperaturne razlike (∆Θmin, ∆Θmax), 
+- 
+oblika vhodnega signala iz merilnika pretoka, 
+- 
+pretočni medij, če to ni voda, 
+- 
+namestitev merilnika pretoka (dovod ali povratni vod). 
+4.     
+na kompaktnem merilniku: 
+- 
+proizvajalec (ime ali zaščitni znak), 
+- 
+proizvajalčeva oznaka tipa, leto izdelave, serijska številka, 
+- 
+značilne vrednosti pretoka (qi, qp, qs),
+- 
+temperaturne meje (Θmin in Θmax), 
+- 
+meje temperaturne razlike (∆Θmin, ∆Θmax), 
+- 
+razred točnosti, 
+- 
+največji dopustni delovni tlak za merilnik pretoka, 
+- 
+pretočni medij, če ni namenjeno za vodo, 
+- 
+namestitev merilnika pretoka (dovod ali povratni vod), 
+- 
+ena ali več puščic za oznako smeri pretoka.
+V. UGOTAVLJANJE SKLADNOSTI
+19. člen
+Za merilnike je obvezna odobritev tipa, ki ji sledi bodisi
+prva overitev bodisi izjava o skladnosti z odobrenim tipom. 
+Postopek odobritve tipa merila obsega: 
+-       
+ugotavljanje skladnosti z zahtevami iz tega pravilnika, 
+-       
+meroslovne preskuse. 
+Preskusna oprema za izvajanje preskusov v postopku odobritve
+tipa mora ustrezati zahtevam iz prve alinee 10. člena tega pravilnika. Oprema
+iz druge alinee 10. člena tega pravilnika se šteje za pogojno primerno samo za
+izvajanje preskusov pri pogoju ∆Θ Θ 3 K. 
+Pred začetkom preskusov se za temperaturna tipala, merilnik
+pretoka in računsko enoto ali za kompaktni merilnik v referenčnih pogojih
+določijo največji dopustni pogreški skladno s 7. in 8. členom tega pravilnika. 
+Preskusni pogoji vključujejo specificirano dolžino ravnega
+dela cevi pred merilom in za njim, navedbo pretočnega medija (če ta ni voda)
+ter pretoke: 
+q1
+(–10, +0) %, q2 ± 5 %, q3 ± 5 %, q4
+± 5 %, q5 (–0, +10) %,
+kjer so: 
+q1 = qs
+in q5 = qi, –q1/q2
+= q2/q3 = q3/q4
+= q4/q5 = K in –K = 4√ (qs/qi)
+Priporočljivo je, da se v opazovanje vključi vrednost pretoka
+– med 0,7 qp in 0,75 qp, ki je v skladu s tem pravilnikom
+hkrati referenčna vrednost merjene veličine (RVM). 
+Preskusne temperature so: 
+a)    
+Θmin do (Θmin +5) °C, vendar ne manj kot 10 °C; 
+b)    
+(50 ± 5) °C, 
+c)    
+(85 ± 5) °C. 
+Temperatura vode v neposredni bližini merilnika se med
+preskusom ne sme spreminjati za več kot 2 K. 
+Pri vsaki vrednosti pretoka se izvedejo tri meritve, katerih
+rezultati se morajo nahajati znotraj meja ndp. 
+Če je v določeni točki območja pretokov pogrešek meritve
+večji od ndp, je treba meritev ponoviti. Ponovljeni preskus se šteje za
+uspešnega: 
+-       
+če je aritmetična srednja vrednost treh rezultatov znotraj meja ndp in 
+-       
+če sta vsaj dva rezultata znotraj meja ndp. 
+Kjer ni določeno drugače, se nadaljnji preskusi izvajajo v
+referenčnih pogojih skladno s 6. členom tega pravilnika in po programu, ki je
+določen s tem pravilnikom. V dogovoru z vložnikom zahteve za odobritev tipa
+merila lahko vrstni red preskusov in število vzorčnih meril izjemoma odstopajo
+od zahtev v tabeli.
+20. člen
+Preskusni program za merilnike
+in njihove sestavne dele je določen v naslednji tabeli:
+
+
+Preskus 
+
+Točka
+OIML
+R 75-2
+
+Izpostavitev
+
+Temperaturna zaznavala
+
+Merilnik pretoka
+
+Računska enota
+
+Kompaktni merilnik
+
+Priporočljivo število vzorcev
+
+
+ 
+
+ 
+
+Faktorji vpliva
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ndp
+
+6.4
+
+Preskus točnosti
+
+x
+
+x
+
+x
+
+x
+
+2
+
+
+ndp
+
+6.5
+
+Suhi termični preskus
+
+ 
+
+x(a)
+
+x
+
+x
+
+2
+
+
+ndp
+
+6.6
+
+Nizke temperature
+
+ 
+
+x(a)
+
+x
+
+x
+
+2
+
+
+ndp
+
+6.7
+
+Statično spreminjanje napajalne napetosti
+
+ 
+
+x(a)
+
+x
+
+x
+
+2
+
+
+ 
+
+ 
+
+Motnje
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+NSFa
+
+6.8
+
+Preskus vzdržljivosti
+
+ 
+
+x
+
+x
+
+x
+
+2
+
+
+NSFd
+
+6.9
+
+Ciklični termični preskus v prisotnosti kondenzacije
+
+ 
+
+x(a)
+
+x
+
+x
+
+1
+
+
+NSFd
+
+6.10
+
+Krajše redukcije napetosti
+
+ 
+
+x(a)
+
+x
+
+x
+
+3
+
+
+NSFa
+
+6.11
+
+Električni prehodni pojavi
+
+ 
+
+x(a)(b)
+
+x(b)
+
+x
+
+3
+
+
+NSFd
+
+6.12
+
+Elektromagnetno polje
+
+ 
+
+x(a)(b)
+
+x(b)
+
+x
+
+3
+
+
+NSFa
+
+6.13
+
+Elektrostatična razbremenitev
+
+ 
+
+x(a)
+
+x
+
+x
+
+3
+
+
+NSFd
+
+6.14
+
+Statično magnetno polje
+
+ 
+
+x
+
+x
+
+x
+
+3
+
+
+NSFd
+
+6.15
+
+Elektromagnetno polje pri omrežni frekvenci
+
+ 
+
+x(a)
+
+x
+
+x
+
+3
+
+
+NSFa
+
+6.16
+
+Tlačni preskus
+
+ 
+
+x
+
+ 
+
+x
+
+1
+
+
+ 
+
+6.17
+
+Padec tlaka
+
+ 
+
+x
+
+ 
+
+x
+
+1
+
+
+ndp = največji
+dopustni pogrešek, 
+NSFd = pomembna napaka se ne sme pojaviti v
+času trajanja preskusa, 
+NSFa = pomembna napaka se ne sme pojaviti po
+preskusu, 
+x = preskus, ki ga je treba izvesti, 
+a = velja samo za merilnike pretoka z
+elektronskimi vezji, 
+b = preskus je treba izvesti s priključenimi
+kabli. 
+Podrobnejša obrazložitev preskusnih pogojev je določena: 
+-       
+za računsko enoto (temperature in temperaturne razlike) v OIML R 75-2,
+točka 6.4.2, 
+-       
+za temperaturna zaznavala (najmanjša potrebna potopna globina, odzivni
+časi) v OIML R 75-2, točka 6.4.3.
+21. člen
+K zahtevi za odobritev tipa merila mora vložnik zahteve poleg
+prilog iz drugega odstavka 5. člena pravilnika o načinih ugotavljanja
+skladnosti za posamezne vrste merilnih instrumentov ter o vrstah in načinih
+njihove označitve z oznakami skladnosti (Uradni list RS, št. 72/01) priložiti
+še naslednjo dokumentacijo: 
+-       
+osnovne specifikacije merilnika, 
+-       
+tehnični opis, 
+-       
+izjavo o lastnem segrevanju temperaturnih zaznaval, 
+-       
+podatek o najmanjši potopni globini temperaturnih zaznaval, 
+-       
+navodilo za uporabnika, 
+-       
+navodila za vgradnjo (zahteve so podrobneje določene v OIML R 75-1, 12.
+točka), 
+-       
+načrt žigosanja merila, 
+-       
+osnovne mehanske sheme, 
+-       
+osnovne materialne specifikacije, 
+-       
+osnovne električne sheme, 
+-       
+seznam sestavnih delov, 
+-       
+opis vgrajene programske opreme (način identifikacije programske
+verzije, diagram poteka), 
+-       
+seznam programabilnih sestavnih delov, 
+-       
+videz osnovne čelne plošče in opis osnovnih funkcij, ki so dosegljive
+prek čelne plošče, 
+-       
+opis osnovnega funkcionalnega preskusa, 
+-       
+opis preskusnih izhodov in razmerja signalov v odnosu do merjenih
+veličin.
+22. člen
+Prva overitev merilnika ali njegovih sestavnih delov obsega: 
+-       
+ugotavljanje skladnosti z odobrenim tipom, 
+-       
+meroslovni preskus. 
+Preskusna oprema za izvajanje preskusov pri prvi overitvi
+mora biti skladna z zahtevami iz prve alinee 10. člena tega pravilnika. Oprema
+iz druge alinee 10. člena tega pravilnika se šteje za pogojno primerno samo za
+izvajanje preskusov pri pogoju ∆Θ Θ 3 K. 
+Preskus merilnika pretoka se izvede pri naslednjih pretokih: 
+a)    
+qi Θ q Θ 1,1 qi, 
+b)    
+0,1 qp Θ q Θ 0,11 qp, 
+c)    
+0,9 qp Θ q Θ 1,0 qp. 
+Preskus se izvaja pri temperaturi (50 ± 5) °C oziroma se
+lahko izvede tudi s hladno vodo, če je tako določeno s certifikatom o odobritvi
+tipa. 
+Par temperaturnih zaznaval se
+preskusi brez ohišja za namestitev v cev po programu iz naslednje tabele:
+
+
+Temperaturno območje preskusov
+
+
+Zap. št.
+
+Za Θmin
+
+Območje
+
+
+1
+
+< 20 °C
+
+Θmin do (Θmin+
+  10 K)
+
+
+ 
+
+> / = 20 °C
+
+35 °C do 45 °C
+
+
+2
+
+vse Θmin
+
+75 °C do 85 °C
+
+
+3
+
+vse Θmin
+
+(Θmax – 30
+  K) do Θmax
+
+
+Če certifikat o odobritvi tipa tako določa, je mogoče tudi
+odstopanje od tega programa. 
+Globina potopa v termostatske kopeli pri vseh navedenih
+preskusih ne sme biti manjša od nazivne najmanjše globine potopa. 
+Izračun odstopanja izmerjenih uporovnih vrednosti in meritev
+izolacijske upornosti sta podrobneje določena v OIML R 75-2, točki 7.2.1. in
+7.2.2.
+23. člen
+Preskus samostojne računske enote pri prvi overitvi se izvede
+v naslednjih pogojih: 
+a)    
+∆Θ min ≤ ∆Θ ≤ 1,2 ∆Θ min; 
+b)    
+10 K ≤ ∆Θ ≤ 20 K; 
+c)    
+∆Θ max – 5 K ≤ ∆Θ ≤ ∆Θ max. 
+Vrednosti simuliranega pretoka ne smejo prekoračiti območja
+delovanja računske enote. 
+Za temperaturo v povratku se lahko izbirajo vrednosti iz
+območja med 40 °C in 70 °C, če s tem ni prekoračena meja Θmax. 
+Med preskusom računske enote v okviru prve overitve je
+dopustno namesto vrednosti, prikazane na kazalni napravi, upoštevati izhodne
+impulze z visoko ločljivostjo. Vsaj en preskus mora vključevati tudi neposredni
+odčitek kazalne naprave. 
+Preskus računske enote vključno s parom temperaturnih
+zaznaval mora vključevati: 
+-       
+temperaturna območja iz petega odstavka prejšnjega člena in prvega
+odstavka tega člena, če se temperaturna zaznavala obravnavajo kot ločljiva od
+računske enote, in 
+-       
+temperaturna območja iz prvega odstavka tega člena, če so temperaturna
+zaznavala neločljiva od računske enote. 
+Preskus kompaktnega merilnika je treba izvesti vsaj pri
+naslednjih pogojih:
+a)    
+∆Θ min ≤ ∆Θ ≤ 1,2 ∆Θ min                                                                                              in
+0,9 qp ≤ q ≤ 1,0 qp;
+b)    
+10 K ≤ ∆Θ ≤ 20 K                                                                                in
+0,2 qp ≤ q ≤ 0,22 qp;
+c)    
+∆Θ max – 5 K ≤ ∆Θ ≤ ∆Θ max                                                                                                  in
+qi ≤ q ≤ 1,1 qi.
+24. člen
+Najmanjši obseg dokumentacije, potrebne pri izvedbi prve
+overitve merilnika, je: 
+-       
+osnovne specifikacije merilnika in njegovih sestavnih delov, 
+-       
+načrt žigosanja, 
+-       
+opis osnovnega funkcionalnega preskusa, 
+-       
+opis preskusnih izhodov in razmerja signalov v odnosu do merjenih veličin,
+-       
+opis preskusnih pogojev za prvo overitev, 
+-       
+opis posebnih preskusnih pogojev, če so bili določeni v certifikatu o
+odobritvi tipa.
+VI. REDNE IN IZREDNE OVERITVE
+25. člen
+Za merilnike so obvezne redne in izredne overitve. 
+Obseg preskusov pri redni in izredni overitvi sestavljivega
+in kompaktnega merilnika oziroma njegovih sestavnih delov je enak kot pri prvi
+overitvi. 
+Za redne overitve veljajo vrednosti največjih dopustnih
+pogreškov iz 7. in 8. člena tega pravilnika.
+26. člen
+Enotni rok za redne overitve vseh izvedb merilnikov in
+njihovih sestavnih delov je pet let.
+VII. PREHODNE IN KONČNE DOLOČBE
+27. člen
+Merilniki, ki imajo na dan uveljavitve tega pravilnika
+veljavno odobritev tipa merila in prvo overitev na podlagi pravilnika o
+metroloških pogojih, ki jih morajo izpolnjevati merilniki toplotne energije
+(Uradni list SFRJ, št. 56/88; 71/88 in 74/90), se smejo še naprej dajati v
+redno oziroma izredno overitev po tem pravilniku, če glede največjih dopustnih
+pogreškov izpolnjujejo zahteve iz 7. in 8. člena tega pravilnika.
+28. člen
+Z dnem uveljavitve tega pravilnika se preneha uporabljati
+pravilnik o metroloških pogojih, ki jih morajo izpolnjevati merilniki toplotne
+energije (Uradni list SFRJ, št. 56/88; 71/88 in 74/90).
+29. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 009-28/02
+Ljubljana, dne. 21. marca 2002.
+dr. Lucija Čok l. r. 
+Ministrica 
+za šolstvo, znanost in šport

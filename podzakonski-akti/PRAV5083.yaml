@@ -1,0 +1,16 @@
+Text file: PRAV5083.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1057615200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5083
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o delih, ki jih delavci na obrambnem podro\u010Dju ne smejo opravljati"
+npbNum: 0
+path: /2003/29/2003-01-2993
+sopPredpisa: 2003-01-2993
+sopPredpisaChng: null

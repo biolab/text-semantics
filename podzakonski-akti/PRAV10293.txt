@@ -1,0 +1,238 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(predmet akta)
+S tem aktom se določa podrobnejša pravila
+o:
+-      
+vzpostavitvi registra transakcijskih računov (v nadaljnjem besedilu:
+RTR) pri Agenciji Republike Slovenije za javnopravne evidence in storitve (v
+nadaljnjem besedilu: AJPES),
+-      
+vsebini registra transakcijskih računov,
+-      
+povezovanju RTR s Poslovnim registrom Slovenije (v nadaljnjem besedilu:
+PRS), centralnim registrom prebivalstva (v nadaljnjem besedilu: CRP) in davčnim
+registrom zaradi prevzemanja ažurnih podatkov o imetnikih transakcijskih
+računov,
+-      
+izpolnjevanju pogojev za izmenjavo podatkov s ponudniki plačilnih
+storitev,
+-      
+posredovanju podatkov bank, Banke Slovenije in Uprave Republike
+Slovenije za javna plačila (v nadaljnjem besedilu: UJP) o imetnikih
+transakcijskih računov, in o transakcijskih računih oziroma podračunih, ki jih
+vodijo, AJPES-u, za vodenje RTR,
+-      
+vrstah računov v RTR in njihovih oznakah,
+-      
+zagotavljanju podatkov o imetnikih transakcijskih računih in o
+transakcijskih računih iz RTR ponudnikom plačilnih storitev,
+-      
+dostopu do podatkov iz RTR.
+2. člen
+(izrazi)
+Izrazi, uporabljeni v tem aktu, imajo
+naslednji pomen:
+1.    
+»ponudniki plačilnih storitev« so subjekti, pristojni za
+opravljanje plačilnih storitev v Slovenije, opredeljeni v 17. členu Zakona o
+plačilnih storitvah in sistemih (Uradni list RS, št. 58/09, 34/10 in 9/11; v
+nadaljnjem besedilu: ZPlaSS),
+2.    
+»banka« je subjekt, ki ima dovoljenje za opravljanje bančnih
+storitev skladno z Zakonom o bančništvu (Uradni list RS, št. 99/10 – uradno
+prečiščeno besedilo; v nadaljnjem besedilu: ZBan-1),
+3.    
+»poslovni subjekt« je pravna oseba, samostojni podjetnik
+posameznik in zasebnik, ki kot poklic opravlja določeno dejavnost.
+II. VZPOSTAVITEV REGISTRA
+3. člen
+(vzpostavitev RTR)
+(1) RTR se pri AJPES vzpostavi
+1. 7. 2010 s podatki o transakcijskih računih in o imetnikih računov, ki
+se na dan 30. 6. 2010 vodijo v RTR pri Banki Slovenije.
+(2) Za vzpostavitev in vodenje RTR
+prevzame AJPES od Banke Slovenije tudi podatke o zaprtih računih, če je od
+dneva zaprtja teh računov minilo manj kot pet let.
+(3) Podatke za vodenje RTR
+zagotavljajo AJPES od 1. 7. 2010 dalje banke in UJP, od 30. 4. 2011 dalje,
+pa podatke zagotavlja tudi Banka Slovenije.
+III. VODENJE REGISTRA
+4. člen
+(vsebina RTR)
+(1) V RTR se obdelujejo:
+-      
+podatki o imetniku transakcijskega računa
+-      
+podatki o transakcijskem računu in
+-      
+podatki o banki oziroma UJP.
+(2) RTR se glede podatkov o imetnikih
+transakcijskih računov in glede načina dostopa do podatkov deli na:
+1.    
+poslovne subjekte (oznaka P) in
+2.    
+fizične osebe (oznaka F).
+(3) V poslovnem delu RTR se vodijo
+podatki o transakcijskih računih, katerih imetnik je poslovni subjekt. V delu
+RTR za fizične osebe pa se vodijo podatki o transakcijskih računih, katerih
+imetniki so fizične osebe.
+5. člen
+(povezovanje podatkov iz RTR z drugimi
+registri)
+(1) AJPES zagotavlja točnost in
+ažurnost podatkov v RTR s povezovanjem z drugimi registri in sicer:
+-      
+s PRS,
+-      
+s CRP,
+-      
+z davčnim registrom.
+(2) Za povezovanje z registri iz
+prejšnjega odstavka se uporablja davčna številka kot enolična identifikacijska
+oznaka.
+(3) Kadar davčna številka kot enolična
+identifikacijska oznaka ni na voljo, AJPES podatke o imetniku računa, ki se
+vodijo v RTR, pridobi od banke, Banke Slovenije, ki transakcijski račun vodi oziroma
+UJP. Za pravilnost podatkov v RTR je v tem primeru odgovorna banka, Banka
+Slovenije oziroma UJP.
+(4) AJPES ob vsaki spremembi podatka o
+imetniku transakcijskega računa v registrih iz prvega odstavka tega člena
+prevzame spremenjene podatke v RTR.
+IV. IZPOLNJEVANJE POGOJEV ZA IZMENJAVO PODATKOV
+6. člen
+(registracija ponudnika plačilnih
+storitev)
+Ponudniki plačilnih storitev se morajo za
+izmenjavo podatkov, ki se vodijo v RTR, pri AJPES registrirati z vlogo, ki vsebuje:
+1.    
+osnovne podatke (matična številka, naziv, naslov),
+2.    
+digitalno potrdilo, ki se bo uporabljalo za posredovanje podatkov (lahko
+jih je več),
+3.    
+podpis zakonitega zastopnika ponudnika plačilnih storitev.
+V. POSREDOVANJE PODATKOV
+7. člen
+(posredovanje podatkov v RTR)
+(1) Banke, Banka Slovenije
+oziroma UJP posredujejo AJPES podatke o računih, ki jih vodijo, prek spletnih
+servisov AJPES na način in v obliki, ki sta določena v tehničnem protokolu.
+Banka, Banka Slovenije oziroma UJP posredujeta AJPES podatke na dan odprtja ali
+zaprtja računa, ali na dan veljavnosti spremembe v podatkih imetnika računa
+oziroma računa.
+(2) Kadar banka, Banka Slovenije
+oziroma UJP omogoči imetniku računa odpiranje in zapiranje računa ali izvedbo
+sprememb z datumom vnaprej, to spremembo pri sebi evidentira, AJPES-u pa
+podatke lahko posreduje največ petnajst dni pred veljavnostjo spremembe. AJPES
+zagotavlja objavo podatkov v RTR od dneva veljavnosti računa oziroma od dneva
+veljavnosti spremembe dalje.
+(3) V primeru odpovedi sistemov ali
+komunikacijskih povezav banke, Banka Slovenije oziroma UJP posredujejo AJPES
+podatke prek XML datotek, ki bodo prenesene po alternativnih povezavah ali na
+fizičnih medijih.
+(4) AJPES objavi tehnični protokol za
+izmenjavo podatkov na svoji spletni strani.
+8. člen
+(kontrola podatkov)
+(1) Podatke AJPES ob prevzemu
+preveri skladno z določili tehničnega protokola za izmenjavo podatkov.
+(2) Če so ob prevzemanju podatkov
+ugotovljene napake, AJPES podatke lahko z obrazložitvijo zavrne ali
+pošiljatelja opozori na neskladje podatkov. Banka, Banka Slovenije oziroma UJP
+potrebne spremembe podatkov posreduje takoj, ko je to mogoče.
+VI. KRITERIJI IN OZNAKE VRST RAČUNOV
+9. člen
+(kriteriji za določitev oznak vrst
+računov)
+(1) Računi so v RTR opredeljeni
+z enomestno črkovno oznako vrste računa, ki je za posamezne vrste računov določena
+v prilogi tega akta. Oznaka vrste računa se določi glede na status imetnika
+računa ali glede na lastnosti sredstev na računu.
+(2) Oznako vrste računa določi banka, Banka
+Slovenije oziroma UJP glede na okoliščine, ki izhajajo iz sklenjene pogodbe o
+vodenju računa, pomembne za določitev oznake vrste računa.
+VII. OZNAKA O POMANJKANJU SREDSTEV NA RAČUNIH
+10. člen
+(kriterij za dodelitev oznake)
+(1) Kadar sredstva na
+transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali
+zavarovanju imetnika računa, banka, Banka Slovenije oziroma UJP takemu računu
+dodeli posebno oznako R.
+(2) Banka, Banka Slovenije oziroma UJP
+oznako R posreduje AJPES kot spremembo na transakcijskem računu.
+VIII. ZAGOTAVLJANJE PODATKOV PONUDNIKOM PLAČILNIH STORITEV
+11. člen
+(zagotavljanje podatkov o imetnikih
+transakcijskih računov in o transakcijskih računih)
+(1) AJPES sproti, dnevno in
+brezplačno zagotavlja ponudnikom plačilnih storitev podatke o spremembah v RTR
+za poslovne subjekte.
+(2) AJPES sproti in dnevno brezplačno
+zagotavlja bankam podatke o spremembah v RTR imetnikov računov fizičnih oseb le
+za račune, ki jih vodijo.
+(3) V podatke o spremembah v RTR so
+vključene tako spremembe, ki so posledica povezovanja AJPES z registri iz 5.
+člena tega akta, kot tudi spremembe, ki jih AJPES posredujejo banke, Banka
+Slovenije oziroma UJP.
+(4) AJPES sproti, dnevno in brezplačno
+zagotavlja ponudnikom plačilnih storitev podatke o številkah transakcijskih računov
+fizičnih oseb, ki se obdelujejo v registru transakcijskih računov.
+(5) AJPES brezplačno omogoči
+ponudnikom plačilnih storitev za uporabnika preverjanje istovetnosti podatkov o
+transakcijskih računih fizičnih oseb, odprtih pri drugih ponudnikih plačilnih
+storitev, če so poleg številke transakcijskega računa o imetniku računa
+zagotovljeni tudi naslednji podatki:
+-      
+davčna številka ter ime in priimek ali
+-      
+ime in priimek ter naslov prebivališča fizične osebe.
+Če sta v registru dve ali več oseb z enakim
+imenom, priimkom in naslovom prebivališča, mora ponudnik poizvedbo dopolniti z
+davčno številko fizične osebe.
+IX. DOSTOP DO PODATKOV
+12. člen
+(javni dostop do podatkov o transakcijskih
+računih poslovnih subjektov)
+AJPES zagotavlja brezplačni vpogled v
+podatke o posameznem poslovnem subjektu v RTR na svoji spletni strani.
+13. člen
+(dostop do osebnih podatkov o
+transakcijskih računih fizičnih oseb)
+(1) Če AJPES ugodi zahtevi za
+pridobitev osebnih podatkov iz RTR, s katero prosilec izkaže pravni interes za
+pridobitev osebnih podatkov o transakcijskih računih fizičnih oseb, AJPES izda
+potrdilo o osebnih podatkih o transakcijskem računu fizičnih oseb. Prosilec
+lahko zahtevo vloži v pisni ali elektronski obliki.
+(2) Pogoji in način vložitve zahteve v
+elektronski obliki so določeni v Navodilu za vlaganje zahtev za pridobitev
+osebnih podatkov fizičnih oseb iz RTR v elektronski obliki, ki ga izda AJPES.
+(3) Prosilec posreduje pisno zahtevo
+za pridobitev osebnih podatkov iz RTR na obrazcih, objavljenih na spletni
+strani AJPES.
+(4) Neposredni elektronski dostop do
+osebnih podatkov iz RTR zagotovi AJPES sodiščem, davčnemu organu, drugim
+državnim organom, nosilcem javnih pooblastil in drugim osebam, ki so na podlagi
+zakona upravičene pridobiti osebne podatke iz RTR.
+
+Priloga:
+Črkovne oznake
+
+Akt o vzpostavitvi in vodenju registra
+transakcijskih računov (Uradni list RS, št. 49/10)
+vsebuje naslednjo končno določbo:
+»X. KONČNA DOLOČBA
+14. člen
+(veljavnost)
+Ta akt začne veljati 1. julija 2010.«.
+
+Akt o spremembah Akta o vzpostavitvi in
+vodenju registra transakcijskih računov (Uradni list RS, št. 27/11) vsebuje naslednjo končno določbo:
+»12. člen
+Ta akt začne veljati 30. aprila 2011.«.
+
+Akt o dopolnitvi Akta o vzpostavitvi in
+vodenju registra transakcijskih računov (Uradni list RS, št. 59/16) vsebuje
+naslednjo končno določbo:
+»2. člen
+Ta akt začne veljati 18. 9. 2016.«.

@@ -1,0 +1,17 @@
+Text file: PRAV5449.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1262386800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5449
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o minimalnih sanitarno zdravstvenih pogojih za opravljanje dejavnosti
+  higienske nege in drugih podobnih dejavnosti
+npbNum: 0
+path: /2009/45/2009-01-4570
+sopPredpisa: 2009-01-4570
+sopPredpisaChng: null

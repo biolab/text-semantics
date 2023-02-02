@@ -1,0 +1,18 @@
+Text file: URED565.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1555711200000000000
+- null
+- null
+- 10
+idPredpisa: URED565
+idPredpisaChng: URED565
+instock: .nan
+naslov: "UREDBA o lokacijskem na\u010Drtu za vzhodno avtocesto od Malenc do \u0160\
+  entjakoba in del severne obvozne ceste od Toma\u010Devega do Zadobrove v Ljubljani\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2019/11/2019-01-1189-1994-01-1132-npb2
+sopPredpisa: 2019-01-1189
+sopPredpisaChng: 1994-01-1132

@@ -1,0 +1,12 @@
+Text file: POSL124.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: POSL124
+idPredpisaChng: null
+instock: .nan
+naslov: POSLOVNIK Sodnega sveta
+npbNum: 0
+path: /2017/35/2017-01-3532
+sopPredpisa: 2017-01-3532
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV10692.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1298934000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10692
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih glede objektov in opreme pri reji koko\u0161i nesnic\
+  \ in pi\u0161\u010Dancev za prirejo mesa"
+npbNum: 0
+path: /2011/05/2011-01-0560
+sopPredpisa: 2011-01-0560
+sopPredpisaChng: null

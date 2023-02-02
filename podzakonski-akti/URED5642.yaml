@@ -1,0 +1,16 @@
+Text file: URED5642.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1306533600000000000
+- null
+- null
+- 10
+idPredpisa: URED5642
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o evropski kriti\u010Dni infrastrukturi"
+npbNum: 0
+path: /2011/17/2011-01-1799
+sopPredpisa: 2011-01-1799
+sopPredpisaChng: null

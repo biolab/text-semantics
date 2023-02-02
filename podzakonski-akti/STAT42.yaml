@@ -1,0 +1,16 @@
+Text file: STAT42.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 974847600000000000
+- null
+- null
+- 10
+idPredpisa: STAT42
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT Centra za razvoj malega gospodarstva \_Ljubljana, d.o.o."
+npbNum: 0
+path: /2000/44/2000-01-4429
+sopPredpisa: 2000-01-4429
+sopPredpisaChng: null

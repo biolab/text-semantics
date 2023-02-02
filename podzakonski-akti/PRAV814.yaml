@@ -1,0 +1,19 @@
+Text file: PRAV814.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1403301600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV814
+idPredpisaChng: PRAV814
+instock: .nan
+naslov: "PRAVILNIK o pogojih, ki jih morajo izpolnjevati \u0161ole ali \u0161olski\
+  \ centri za usposabljanje zrakoplovnega osebja (se delno preneha uporabljati) (se\
+  \ delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 2)"
+npbNum: 2
+path: /2014/16/2014-01-1678-1995-01-1070-npb2
+sopPredpisa: 2014-01-1678
+sopPredpisaChng: 1995-01-1070

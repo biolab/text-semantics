@@ -1,0 +1,13 @@
+Text file: SKLE9471.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9471
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP  o odprtju Konzulata Republike Slovenije v Port-au-Prince, v Republiki
+  Haiti
+npbNum: 0
+path: /2013/26/2013-01-2645
+sopPredpisa: 2013-01-2645
+sopPredpisaChng: null

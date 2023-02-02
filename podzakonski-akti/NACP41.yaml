@@ -1,0 +1,16 @@
+Text file: NACP41.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1288738800000000000
+- null
+- null
+- 10
+idPredpisa: NACP41
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO o nacionalnem programu razvoja pomorstva Republike Slovenije (ReNPRP)
+npbNum: 0
+path: /2010/46/2010-01-4686
+sopPredpisa: 2010-01-4686
+sopPredpisaChng: null

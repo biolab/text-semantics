@@ -1,0 +1,17 @@
+Text file: PRAV13181.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1643670000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13181
+idPredpisaChng: PRAV13181
+instock: .nan
+naslov: "PRAVILNIK o zaposlitvenih centrih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2022/01/2022-01-0158-2018-01-0298-npb1
+sopPredpisa: 2022-01-0158
+sopPredpisaChng: 2018-01-0298

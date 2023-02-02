@@ -1,0 +1,17 @@
+Text file: SKLE12048.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1588629600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12048
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o uporabi smernic o scenarijih za teste izjemnih situacij v skladu z
+  uredbo o skladih denarnega trga
+npbNum: 0
+path: /2020/08/2020-01-0820
+sopPredpisa: 2020-01-0820
+sopPredpisaChng: null

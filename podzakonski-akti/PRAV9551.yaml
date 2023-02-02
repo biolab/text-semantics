@@ -1,0 +1,17 @@
+Text file: PRAV9551.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1523052000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9551
+idPredpisaChng: PRAV9551
+instock: .nan
+naslov: "PRAVILNIK o aerosolnih razpr\u0161ilnikih (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2018/10/2018-01-1040-2009-01-4190-npb3
+sopPredpisa: 2018-01-1040
+sopPredpisaChng: 2009-01-4190

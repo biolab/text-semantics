@@ -1,0 +1,17 @@
+Text file: ODRE1755.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1006556400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1755
+idPredpisaChng: ODRE1755
+instock: .nan
+naslov: "ODREDBA o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
+  \ enote Jelendol (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2001/46/2001-01-4639-2001-01-4424-npb1
+sopPredpisa: 2001-01-4639
+sopPredpisaChng: 2001-01-4424

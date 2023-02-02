@@ -1,0 +1,16 @@
+Text file: SKLE9832.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1381528800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE9832
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o nalo\u017Ebah pokojninskega sklada"
+npbNum: 0
+path: /2013/28/2013-01-2850
+sopPredpisa: 2013-01-2850
+sopPredpisaChng: null

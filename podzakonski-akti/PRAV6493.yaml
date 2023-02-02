@@ -1,0 +1,17 @@
+Text file: PRAV6493.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1156975200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6493
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vsebini prijave za dajanje izdelka, ki vsebuje gensko spremenjene
+  organizme, na trg
+npbNum: 0
+path: /2006/38/2006-01-3815
+sopPredpisa: 2006-01-3815
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: AKT_856.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1530309600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_856
+idPredpisaChng: AKT_856
+instock: .nan
+naslov: "SPLO\u0160NI AKT o na\u010Drtu o\u0161tevil\u010Denja (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2018/20/2018-01-2052-2013-01-2489-npb1
+sopPredpisa: 2018-01-2052
+sopPredpisaChng: 2013-01-2489

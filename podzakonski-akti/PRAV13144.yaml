@@ -1,0 +1,16 @@
+Text file: PRAV13144.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1511132400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13144
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o poslovanju dr\u017Eavnega odvetni\u0161tva"
+npbNum: 0
+path: /2017/30/2017-01-3058
+sopPredpisa: 2017-01-3058
+sopPredpisaChng: null

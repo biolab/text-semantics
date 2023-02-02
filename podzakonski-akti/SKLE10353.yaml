@@ -1,0 +1,12 @@
+Text file: SKLE10353.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10353
+idPredpisaChng: null
+instock: .nan
+naslov: "KOLI\u010CNIK uskladitve pre\u017Eivnin za leto 2015"
+npbNum: 0
+path: /2015/08/2015-01-0852
+sopPredpisa: 2015-01-0852
+sopPredpisaChng: null

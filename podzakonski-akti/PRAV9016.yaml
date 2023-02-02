@@ -1,0 +1,17 @@
+Text file: PRAV9016.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1236985200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9016
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o preverjanju usposobljenosti delavnic za vzdr\u017Eevanje \u017E\
+  elezni\u0161kih vozil"
+npbNum: 0
+path: /2009/05/2009-01-0566
+sopPredpisa: 2009-01-0566
+sopPredpisaChng: null

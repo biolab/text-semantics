@@ -1,0 +1,17 @@
+Text file: ODRE814.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1189807200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE814
+idPredpisaChng: ODRE814
+instock: .nan
+naslov: "PRAVILNIK o cenah in normativih za dolo\u010Danje cen gradbenih del za popotresno\
+  \ obnovo objektov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2007/42/2007-01-4213-1998-01-2736-npb6
+sopPredpisa: 2007-01-4213
+sopPredpisaChng: 1998-01-2736

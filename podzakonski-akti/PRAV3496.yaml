@@ -1,0 +1,17 @@
+Text file: PRAV3496.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1025301600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3496
+idPredpisaChng: PRAV3496
+instock: .nan
+naslov: "PRAVILNIK o napredovanju zaposlenih v javnih zavodih na podro\u010Dju kulture\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2002/27/2002-01-2774-1994-01-1685-npb3
+sopPredpisa: 2002-01-2774
+sopPredpisaChng: 1994-01-1685

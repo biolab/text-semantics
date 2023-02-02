@@ -1,0 +1,17 @@
+Text file: PRAV14250.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1626818400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14250
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o omejitvah in dol\u017Enostih uradnih oseb v zvezi s sprejemanjem\
+  \ daril"
+npbNum: 0
+path: /2021/23/2021-01-2327
+sopPredpisa: 2021-01-2327
+sopPredpisaChng: null

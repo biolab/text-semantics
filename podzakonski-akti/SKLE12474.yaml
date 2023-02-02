@@ -1,0 +1,12 @@
+Text file: SKLE12474.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12474
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o imenovanju ministra
+npbNum: 0
+path: /2021/20/2021-01-2081
+sopPredpisa: 2021-01-2081
+sopPredpisaChng: null

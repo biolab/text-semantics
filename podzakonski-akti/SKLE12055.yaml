@@ -1,0 +1,19 @@
+Text file: SKLE12055.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1593554400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1592604000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12055
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o prenosu delov dr\u017Eavnih cest med ob\u010Dinske ceste"
+npbNum: 0
+path: /2020/14/2020-01-1492
+sopPredpisa: 2020-01-1492
+sopPredpisaChng: null

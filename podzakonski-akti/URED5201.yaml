@@ -1,0 +1,17 @@
+Text file: URED5201.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595023200000000000
+- null
+- null
+- 10
+idPredpisa: URED5201
+idPredpisaChng: URED5201
+instock: .nan
+naslov: "UREDBA o ravnanju z baterijami in akumulatorji ter odpadnimi baterijami in\
+  \ akumulatorji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2020/19/2020-01-1911-2010-01-0111-npb4
+sopPredpisa: 2020-01-1911
+sopPredpisaChng: 2010-01-0111

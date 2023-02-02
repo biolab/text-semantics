@@ -1,0 +1,17 @@
+Text file: ODRE2370.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1472680800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2370
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o uskladitvi najni\u017Eje bruto urne postavke za opravljeno uro\
+  \ za\u010Dasnih in ob\u010Dasnih del"
+npbNum: 0
+path: /2016/24/2016-01-2406
+sopPredpisa: 2016-01-2406
+sopPredpisaChng: null

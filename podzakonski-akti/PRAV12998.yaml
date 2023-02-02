@@ -1,0 +1,17 @@
+Text file: PRAV12998.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1525471200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12998
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev, pod katerimi za nekatere stranke ni treba\
+  \ sporo\u010Diti podatkov o gotovinskih transakcijah"
+npbNum: 0
+path: /2018/14/2018-01-1417
+sopPredpisa: 2018-01-1417
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV14389.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1652479200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14389
+idPredpisaChng: PRAV14389
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju izvajanja podalj\u0161ane obravnave osebam, ki\
+  \ so prebolele oku\u017Ebo z virusom SARS-CoV-2 (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/15/2022-01-1551-2021-01-2926-npb1
+sopPredpisa: 2022-01-1551
+sopPredpisaChng: 2021-01-2926

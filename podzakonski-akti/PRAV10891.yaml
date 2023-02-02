@@ -1,0 +1,17 @@
+Text file: PRAV10891.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1319839200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10891
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o nalaganju denarnih sredstev izven sistema enotnega zakladni\u0161\
+  kega ra\u010Duna dr\u017Eave"
+npbNum: 0
+path: /2011/34/2011-01-3447
+sopPredpisa: 2011-01-3447
+sopPredpisaChng: null

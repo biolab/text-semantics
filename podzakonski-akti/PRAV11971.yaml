@@ -1,0 +1,17 @@
+Text file: PRAV11971.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1592604000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11971
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o Voja\u0161kem letalskem organu in pogojih, ki jih morajo izpolnjevati\
+  \ voja\u0161ki letalski nadzorniki za opravljanje nalog v tem organu"
+npbNum: 0
+path: /2020/12/2020-01-1244
+sopPredpisa: 2020-01-1244
+sopPredpisaChng: null

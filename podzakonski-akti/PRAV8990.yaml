@@ -1,0 +1,17 @@
+Text file: PRAV8990.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1274479200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8990
+idPredpisaChng: PRAV8990
+instock: .nan
+naslov: "PRAVILNIK o obliki in vsebini certifikata o licenci (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/20/2010-01-2062-2008-01-1280-npb1
+sopPredpisa: 2010-01-2062
+sopPredpisaChng: 2008-01-1280

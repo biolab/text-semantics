@@ -1,0 +1,17 @@
+Text file: TARI160.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1360278000000000000
+- null
+- null
+- 10
+idPredpisa: TARI160
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz toplovodnega omre\u017Eja v\
+  \ Ob\u010Dini Nazarje"
+npbNum: 0
+path: /2013/03/2013-01-0330
+sopPredpisa: 2013-01-0330
+sopPredpisaChng: null

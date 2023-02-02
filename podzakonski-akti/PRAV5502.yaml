@@ -1,0 +1,17 @@
+Text file: PRAV5502.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1131145200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5502
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o strokovnem usposabljanju in preverjanju znanja zdravstvenega varstva
+  rastlin
+npbNum: 0
+path: /2005/40/2005-01-4034
+sopPredpisa: 2005-01-4034
+sopPredpisaChng: null

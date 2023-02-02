@@ -1,0 +1,17 @@
+Text file: PRAV10235.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1285365600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10235
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obrazcu vloge za podelitev pooblastila, obrazcu slu\u017Ebene\
+  \ izkaznice ter oznakah nadzornika smu\u010Di\u0161\u010Da"
+npbNum: 0
+path: /2010/39/2010-01-3900
+sopPredpisa: 2010-01-3900
+sopPredpisaChng: null

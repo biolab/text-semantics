@@ -1,0 +1,17 @@
+Text file: PRAV5011.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1054677600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5011
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prilagojenem izobra\u017Eevalnem programu poklicno-tehni\u0161\
+  kega izobra\u017Eevanja Ekonomski tehnik za gibalno ovirane dijake"
+npbNum: 0
+path: /2003/25/2003-01-2543
+sopPredpisa: 2003-01-2543
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13069.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1492207200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13069
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o organizaciji neprekinjenega
+  zdravstvenega varstva
+npbNum: 0
+path: /2017/07/2017-01-0735
+sopPredpisa: 2017-01-0735
+sopPredpisaChng: null

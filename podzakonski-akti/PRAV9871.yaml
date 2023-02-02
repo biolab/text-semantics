@@ -1,0 +1,17 @@
+Text file: PRAV9871.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277503200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9871
+idPredpisaChng: null
+instock: .nan
+naslov: "NAVODILO o na\u010Dinu ravnanja s po\u0161tnimi po\u0161iljkami s prepovedano\
+  \ vsebino"
+npbNum: 0
+path: /2010/24/2010-01-2462
+sopPredpisa: 2010-01-2462
+sopPredpisaChng: null

@@ -1,0 +1,13 @@
+Text file: RESO117.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO117
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o mednarodnem razvojnem sodelovanju in humanitarni pomo\u010D\
+  i Republike Slovenije (ReMRSHP)"
+npbNum: 0
+path: /2017/24/2017-01-2441
+sopPredpisa: 2017-01-2441
+sopPredpisaChng: null

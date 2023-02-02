@@ -1,0 +1,17 @@
+Text file: ODLO12.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 713224800000000000
+- null
+- null
+- 10
+idPredpisa: ODLO12
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o za\u010Dasni odlo\u017Eitvi izvr\u0161evanja odloka o razdelitvi\
+  \ javnega zavoda Slovensko narodno gledali\u0161\u010De Ljubljana na javne zavode"
+npbNum: 0
+path: /1992/19/1992-01-1945
+sopPredpisa: 1992-01-1945
+sopPredpisaChng: null

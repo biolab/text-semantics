@@ -1,0 +1,19 @@
+Text file: PRAV12871.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1529100000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12871
+idPredpisaChng: PRAV12871
+instock: .nan
+naslov: "PRAVILNIK o izpolnjevanju enotne upravne listine, elektronskem poslovanju\
+  \ s Finan\u010Dno upravo Republike Slovenije in o drugih obrazcih, ki se uporabljajo\
+  \ pri izvajanju carinskih formalnosti (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2018/18/2018-01-1844-2016-01-2183-npb2
+sopPredpisa: 2018-01-1844
+sopPredpisaChng: 2016-01-2183

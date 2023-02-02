@@ -1,0 +1,17 @@
+Text file: PRAV9250.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1225407600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9250
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podeljevanju nagrad za prispevek k trajnostnemu razvoju dru\u017E\
+  be"
+npbNum: 0
+path: /2008/43/2008-01-4370
+sopPredpisa: 2008-01-4370
+sopPredpisaChng: null

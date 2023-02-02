@@ -1,0 +1,16 @@
+Text file: PRAV5021.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1056405600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5021
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu Glasba"
+npbNum: 0
+path: /2003/27/2003-01-2760
+sopPredpisa: 2003-01-2760
+sopPredpisaChng: null

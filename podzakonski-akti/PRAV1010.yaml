@@ -1,0 +1,20 @@
+Text file: PRAV1010.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1212271200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1210975200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV1010
+idPredpisaChng: PRAV1010
+instock: .nan
+naslov: "PRAVILNIK o delovnem \u010Dasu posadk zrakoplovov (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2008/20/2008-01-2060-1999-01-1491-npb1
+sopPredpisa: 2008-01-2060
+sopPredpisaChng: 1999-01-1491

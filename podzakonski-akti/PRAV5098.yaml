@@ -1,0 +1,17 @@
+Text file: PRAV5098.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1059775200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5098
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu povezovanja s sorodnimi tujimi in mednarodnimi organizacijami\
+  \ in izmenjavi delov \u010Dlove\u0161kega telesa z drugimi dr\u017Eavami"
+npbNum: 0
+path: /2003/33/2003-01-3395
+sopPredpisa: 2003-01-3395
+sopPredpisaChng: null

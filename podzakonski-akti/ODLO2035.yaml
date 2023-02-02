@@ -1,0 +1,17 @@
+Text file: ODLO2035.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1585951200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2035
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o omejitvi predpisovanja in izdaje zdravil z u\u010Dinkovino klorokin,\
+  \ hidroksiklorokin ali azitromicin"
+npbNum: 0
+path: /2020/07/2020-01-0725
+sopPredpisa: 2020-01-0725
+sopPredpisaChng: null

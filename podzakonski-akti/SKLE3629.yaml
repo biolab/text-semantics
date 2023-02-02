@@ -1,0 +1,19 @@
+Text file: SKLE3629.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1072911600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1051567200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE3629
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o uskladitvi vrednosti to\u010Dke turisti\u010Dne takse"
+npbNum: 0
+path: /2003/19/2003-01-1902
+sopPredpisa: 2003-01-1902
+sopPredpisaChng: null

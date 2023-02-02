@@ -1,0 +1,17 @@
+Text file: PRAV10775.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1330124400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10775
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o analiznem presku\u0161anju zdravil z namenom kontrole kakovosti\
+  \ zdravil"
+npbNum: 0
+path: /2012/03/2012-01-0383
+sopPredpisa: 2012-01-0383
+sopPredpisaChng: null

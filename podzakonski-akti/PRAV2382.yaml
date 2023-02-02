@@ -1,0 +1,16 @@
+Text file: PRAV2382.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 702943200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2382
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o izvajanju nabora in napotitve
+npbNum: 0
+path: /1992/08/1992-01-0808
+sopPredpisa: 1992-01-0808
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED8587.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1656712800000000000
+- null
+- null
+- 10
+idPredpisa: URED8587
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o izjemni izravnalni pomo\u010Di za sektor mleka in mle\u010Dnih proizvodov"
+npbNum: 0
+path: /2022/22/2022-01-2238
+sopPredpisa: 2022-01-2238
+sopPredpisaChng: null

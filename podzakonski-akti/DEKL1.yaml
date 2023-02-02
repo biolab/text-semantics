@@ -1,0 +1,17 @@
+Text file: DEKL1.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 923695200000000000
+- null
+- null
+- 10
+idPredpisa: DEKL1
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO o podpori uveljavljanju za\u0161\u010Dite slovenske manj\u0161\
+  ine v Italiji (DePUZSMI)"
+npbNum: 0
+path: /1999/11/1999-01-1116
+sopPredpisa: 1999-01-1116
+sopPredpisaChng: null

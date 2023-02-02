@@ -1,0 +1,2481 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina in področje uporabe pravilnika)
+(1) Ta pravilnik določa tehnične zahteve in pogoje za
+projektiranje, gradnjo, nadgradnjo, obnovo in nadzor nad stanjem spodnjega
+ustroja kot dela strukturnega podsistema infrastruktura železniškega sistema
+prog za konvencionalne hitrosti v Republiki Sloveniji.
+(2) Ta pravilnik ureja tudi projektiranje, gradnjo,
+nadgradnjo in obnovo peronov, dostopov do peronov, nakladalnih klančin, tirnih
+tehtnic in naprav za preskrbo z vodo na delu strukturnega podsistema
+infrastruktura železniškega sistema v Republiki Sloveniji.
+(3) Določbe tega pravilnika se uporabljajo za proge
+tirne širine 1435 mm in za industrijske tire.
+2. člen
+(lastnosti spodnjega ustroja)
+(1) Spodnji ustroj kot celota in vsak njegov del mora
+biti projektiran, grajen, nadgrajen, obnovljen in vzdrževan tako, da zagotavlja
+varen in nemoten potek železniškega prometa ter izpolnjuje pogoje
+interoperabilnosti.
+(2) Spodnji ustroj in njegovi deli so del vseevropskega
+železniškega sistema, opredeljeni s tehničnimi specifikacijami za
+interoperabilnost, standardi SIST, SIST EN, TSC in objavami UIC, ki
+zagotavljajo izpolnjevanje tehničnih zahtev glede interoperabilnosti spodnjega
+ustroja kot dela strukturnega podsistema infrastruktura železniškega sistema v
+Republiki Sloveniji.
+3. člen
+(pomen izrazov, znakov in kratic)
+(1) Posamezni izrazi, uporabljeni v tem pravilniku,
+pomenijo:
+1.     
+»cevni prepusti« so zasuti objekti za pretok vode ali zaščitne cevi za
+različne napeljave;
+2.     
+»galerije« so zaprti ali delno zaprti objekti za prehod železniške proge
+na obrobju nestabilne brežine ali skozi naseljena in zavarovana območja;
+3.     
+»premostitveni objekti« so gradbeni inženirski objekti (npr. mostovi,
+prepusti, viadukti, podvozi, podhodi, nadhodi);
+4.     
+»predori« so zaprti objekti za prehod železniške proge skozi hribino;
+5.     
+»prepusti« so premostitveni objekti razpetine 1,0–5,0 m;
+6.     
+»spodnji ustroj« je del strukturnega podsistema infrastruktura
+železniškega omrežja v Republiki Sloveniji, ki ga sestavljajo zemeljski in
+umetni objekti, in sicer med zgornjim ustrojem in raščenim terenom. Njegova
+naloga je, da prenaša obremenitve z zgornjega ustroja na teren;
+7.     
+»nadzor nad stanjem spodnjega ustroja« zajema preventivna in korektivna
+vzdrževalna dela, zamenjavo v okviru vzdrževanja, vodenje registrov in evidenc
+ter nadzor nad delom strukturnega podsistema infrastruktura (meritve, pregledi,
+obhodi), s katerimi se ohranja tehnično stanje dela podsistema, da zagotavlja
+varen, zanesljiv in urejen železniški promet.
+(2) Drugi izrazi, uporabljeni v tem pravilniku, pomenijo
+enako kot izrazi, uporabljeni v zakonu, ki ureja železniški promet, zakonu, ki
+ureja varnost v železniškem prometu, zakonu, ki ureja prostor, zakonu, ki ureja
+graditev objektov, in v drugih podzakonskih aktih, izdanih na njihovi podlagi.
+(3) Kratice in znaki, uporabljeni v tem pravilniku,
+pomenijo: 
+
+-       
+  AB 
+
+armiranobetonski (-e, -o),
+
+
+-       
+  GRP 
+
+gornji rob praga,
+
+
+-       
+  GRT 
+
+gornji rob tirnice,
+
+
+-       
+  PZI 
+
+projektna dokumentacija za izvedbo gradnje,
+
+
+-       
+  JŽI 
+
+javna železniška infrastruktura,
+
+
+-       
+  NOV 
+
+navodila za obratovanje in vzdrževanje,
+
+
+-       
+  PD 
+
+projektna dokumentacija,
+
+
+-       
+  DGD
+-       
+  DZO 
+
+dokumentacija za gradbeno dovoljenje,
+dokazilo o zanesljivosti objekta,
+
+
+-       
+  PID 
+
+projekt izvedenih del,
+
+
+-       
+  RS 
+
+Republika Slovenija,
+
+
+-       
+  SIST 
+
+slovenski standard, ki ga je sprejel Slovenski inštitut za
+  standardizacijo,
+
+
+-       
+  SIST EN 
+
+privzeti evropski standard,
+
+
+-       
+  SV-TK 
+
+signalnovarnostne in telekomunikacijske naprave,
+
+
+-       
+  SVU 
+
+sistem varnega upravljanja,
+
+
+-       
+  TSC 
+
+tehnične specifikacije za ceste,
+
+
+-       
+  TSI 
+
+tehnične specifikacije za interoperabilnost,
+
+
+-       
+  UIC 
+
+Mednarodna železniška zveza,
+
+
+-       
+  VO 
+
+vozno omrežje.
+
+(4) Posamezni znaki, uporabljeni v tem pravilniku,
+pomenijo: 
+
+-       
+  1:n 
+
+nagib (npr. nagib brežine nasipa, nagib brežine vkopa),
+
+
+-       
+  Ø 
+
+notranji premer cevi ali premer zrn materiala,
+
+
+-       
+  E(v2) 
+
+statični deformacijski modul.
+
+4. člen
+(sestavni deli spodnjega ustroja)
+(1) Spodnji ustroj je del železniške proge, ki sestoji
+iz:
+-       
+zemeljskega telesa, ki ga sestavljajo zemeljski objekti (npr. nasipi,
+zaseki, vkopi) in umetni objekti (npr. jarki, drenaže, drenažni izpusti,
+obloge, podporni in oporni zidovi, pobočja, na katerih ležijo zemeljski
+objekti, in pobočja na območju progovnega pasu),
+-       
+premostitvenih objektov (npr. mostovi, prepusti, viadukti, podvozi,
+podhodi, nadhodi),
+-       
+predorov, galerij in pokritih vkopov,
+-       
+sistemov za odvodnjavanje,
+-       
+objektov za zaščito proge pred površinsko vodo, podnebnimi vplivi in
+hrupom in
+-       
+objektov na postajah (npr. peroni, dostopi do peronov, nakladalne
+klančine, tirne tehtnice, naprave za preskrbo z vodo).
+(2) Sestavni deli spodnjega ustroja, njihova oblika,
+kakovost, mere, prevzemni pogoji, način izdelave in dopustna odstopanja se
+določijo z veljavnimi tehničnimi predpisi in slovenskimi standardi SIST,
+obveznimi objavami UIC, standardi SIST EN, specifikacijami TSI, TSC ter so
+odvisni od TSI-kategorizacije proge.
+5. člen
+(vodenje in arhiviranje dokumentacije)
+(1) Upravljavec mora za spodnji ustroj ali njegove
+sestavne dele voditi in arhivirati dokumentacijo o projektiranju, gradnji,
+nadgradnji, obnovi, nadzoru nad stanjem spodnjega ustroja oziroma vzdrževanju
+zgrajenih objektov.
+(2) Arhiv dokumentacije mora biti voden v fizični ali
+digitalni obliki, kar mora upravljavec določiti v SVU.
+6. člen
+(urejenost spodnjega ustroja)
+(1) Pri projektiranju, gradnji, nadgradnji, obnovi in
+nadzoru nad stanjem spodnjega ustroja se poleg tega pravilnika upoštevajo
+določbe zakona, ki ureja varnost v železniškem prometu, in zakona, ki ureja
+graditev objektov, če niso v nasprotju z določbami zakona, ki ureja varnost
+železniškega prometa, tehnična pravila stroke, ratificirani mednarodni
+sporazumi, katerih sopodpisnica je Republika Slovenija, obvezne objave UIC,
+slovenski standardi SIST, SIST EN, TSC in drugi tehnični predpisi, ki se nanašajo
+na spodnji ustroj železniških prog.
+(2) Spodnji ustroj proge je urejen, kadar vsi sestavni
+deli in tudi celota izpolnjujejo zahteve iz tega pravilnika.
+7. člen
+(raziskave in projektiranje)
+(1) Za projektiranje, gradnjo, nadgradnjo in obnovo
+sestavnih delov spodnjega ustroja se morajo opraviti geodetska dela in
+raziskave, ki obsegajo geotehnične, meteorološke, hidrogeološke, seizmološke,
+ekološke in druge vidike oziroma pogoje, ki jih je treba upoštevati pri izvedbi
+navedenih del. Obseg raziskav se opredeli v projektni nalogi na podlagi pogojev
+in mnenj pristojnih državnih organov.
+(2) Geotehnične in hidrogeološke raziskave morajo imeti
+tak obseg, da glede na zahtevnost načrtovane izvedbe del in širšo geološko
+zgradbo terena omogočajo dovolj natančne ocene obnašanja in deformacij
+temeljnih tal ter medsebojnega vplivanja z načrtovanimi sestavnimi deli
+spodnjega ustroja.
+(3) Raziskave iz prejšnjega odstavka opravljajo le
+organizacije, ki so za ta dela strokovno usposobljene.
+8. člen
+(nadzor)
+(1) Upravljavec mora organizirati nadzor nad stanjem
+spodnjega ustroja tako, da bo lahko pravočasno opazil in odpravil vse
+spremembe, ki bi ogrozile varnost železniškega prometa.
+(2) Nadzor nad stanjem spodnjega ustroja se izvaja v
+časovnih intervalih, določenih s tem pravilnikom, in sicer kot:
+-       
+redni pregled,
+-       
+glavni pregled ali
+-       
+izredni pregled.
+(3) Izvajanje nadzora iz prejšnjega odstavka upravljavec
+podrobno predpiše v svojem SVU.
+II. ZEMELJSKO TELO
+9. člen
+(sestava zemeljskega telesa)
+(1) Zemeljsko telo proge je gradbeni objekt, ki je
+umeščen v naravni teren, zgrajen iz zemljin, kamnin ali za zemljine nadomestnih
+materialov, in omogoča gradnjo zgornjega ustroja, oba skupaj pa sta osnova
+strukturnemu podsistemu infrastruktura.
+(2) Z upoštevanjem relativne lege zemeljskega telesa
+glede na temeljna tla je lahko proga v nasipu, vkopu, kakor je določeno v
+prilogi 1 in prilogi 2, ki sta sestavni del tega pravilnika, ali mešanem
+profilu.
+(3) Sestavni deli zemeljskega telesa so planum proge,
+bankine, nevezana nosilna plast, nasip, temeljna tla, brežine vkopa, podporni
+in oporni zidovi ter drugi ukrepi in materiali, ki izboljšujejo stabilnost
+planuma proge in brežin nad vkopom.
+(4) Planum proge je utrjena površina pod tirno gredo.
+(5) Bankina je utrjena površina planuma proge med tirno
+gredo in nasipom ali vkopom oziroma med tirno gredo in objektom za
+odvodnjavanje meteornih voda (odvodni jarek, drenaža). Širina bankine je ≥ 60
+cm. V bankino je dovoljeno vgrajevati signalne in progovne oznake ter progovno
+opremo pod pogojem, da morajo biti vgrajene izven svetlega profila proge.
+(6) Nevezana nosilna plast zagotavlja zahtevano
+nosilnost in vremensko obstojnost planuma proge ter je zgrajena iz drobljenih
+kamnitih materialov. Pri načrtovanju novih in nadgradnji obstoječih prog je
+vgradnja nevezane nosilne plasti obvezna.
+(7) Nasip je gradbeni objekt, zgrajen iz plasti zemljin
+ali kamnin, ki prevzemajo prenos obtežbe na temeljna tla. Vrhnja, zaključna
+plast nasipa mora zagotavljati potrebno nosilnost in vremensko obstojnost.
+(8) Temeljna tla so naravna raščena tla, ki so sposobna
+prevzeti projektirane obremenitve na trasi proge. Glede na lego v zemeljskem
+telesu lahko mejijo na nasip, na nevezano nosilno plast ali na temelj
+gradbenega objekta.
+(9) Vkop je gradbeni objekt, ki nastane z izkopom
+hribine ali zemljine. Pri tem je treba urediti stabilne brežine vkopa, pobočje
+nad njim in temeljna tla.
+(10) V sklop zemeljskega telesa spadajo tudi zgradbe, ki
+so vgrajene za odvodnjavanje meteornih voda z območja in so urejene v VI.
+poglavju tega pravilnika.
+10. člen
+(temeljne zahteve pri zasnovi zemeljskega telesa)
+(1) Zemeljsko telo, na katero se umesti zgornji ustroj
+proge, mora biti zasnovano, oblikovano in projektirano tako, da:
+-       
+omogoča gospodarno konstrukcijsko rešitev pri gradnji nove, nadgradnji
+in obnovi obstoječe proge ter pri poznejšem vzdrževanju,
+-       
+je železniški promet pri gradnji, nadgradnji ali obnovi in poznejšem
+vzdrževanju čim manj moten,
+-       
+zagotavlja varnost pri mejnih stanjih nosilnosti in uporabnosti, in to
+med gradnjo, nadgradnjo ali obnovo in po njej,
+-       
+omogoča kar najboljše odvodnjavanje in
+-       
+zagotavlja vidnost železniških signalov.
+(2) Sestavni deli zemeljskega telesa morajo biti
+projektirani skladno s standardi skupine SIST EN 1997.
+11. člen
+(planum proge)
+(1) Planum proge je zaključna plast nevezane nosilne
+plasti ali nasipa s predpisanimi zahtevami glede nivelete, prečnega nagiba,
+ravnosti in nosilnosti.
+(2) Dimenzije planuma na odprti progi in postajnih tirih
+se določijo v skladu s predpisom, ki ureja zgornji ustroj železniških prog.
+(3) Planum enotirnih prog ima enostranski nagib 1:20,
+planum dvotirnih prog pa strešni nagib 1:20.
+(4) Pod planumom proge se pri gradnji in nadgradnji
+vgradi plast materiala, ki mora biti vremensko obstojen, odporen zoper zmrzal,
+delovanje vode in kapilarni dvig, dušiti vibracije ter preprečiti prehod
+drobnih delcev v tirno gredo. Izkazovati mora ustrezno sposobnost zgoščanja.
+Debelina te plasti je odvisna od globine zmrzovanja, ki se določa na podlagi
+karte informativnih globin prodiranja mraza na področju Republike Slovenije.
+(5) Pred izvedbo tirne grede se pri gradnji in
+nadgradnji opravi višinski in kakovostni prevzem planuma proge. Kadar se pri
+obnovi tirne grede s sejanjem ne posega v planum proge ali druge nosilne sloje
+spodnjega ustroja, prevzem planuma ni potreben.
+(6) O prevzemu planuma proge se sestavi zapisnik, v
+katerega se zapiše:
+-       
+kota planuma v osi tira in na robovih v vsakem prečnem profilu,
+-       
+ravnost in višina planuma proge ter po potrebi, odvisno od vrste
+gradnje, vse planume vgrajenih plasti pod njim, torej nasipa in temeljnih tal,
+-       
+kakovost materialov, vgrajenih v nevezano nosilno plast, nasip ali
+izboljšana temeljna tla, in
+-       
+kakovost utrditve materialov, vgrajenih pod planumom proge, in
+posameznih plasti pod njim.
+(7) Kakovost materialov in kakovost utrditve materialov,
+vgrajenih v plasti pod planumom proge, je določena v 12. in 14. členu tega
+pravilnika.
+12. člen
+(nevezana nosilna plast)
+(1) Nevezana nosilna plast nosi vse obremenitve prometa
+prek tirne grede in jih prenaša na podlago tako, da se preprečijo trajne
+plastične deformacije v nevezani nosilni plasti in plasteh pod njo. Skupaj z
+ustreznim nasipnim slojem ali temeljnimi tlemi pod progovnim telesom je
+nevezana nosilna plast tudi del zmrzlinsko varnega sloja proge.
+(2) Tehnične zahteve nevezane nosilne plasti morajo biti
+v skladu s TSC 06.200 in TSC 06.713.
+(3) Za izdelavo nevezane nosilne plasti se uporablja
+kamnit material, proizveden iz zdravih, trdnih, gostih, v vodi in zmrzali
+obstojnih kamnin ali prodov. Kakovost materiala mora biti skladna s SIST EN
+13242.
+(4) Nosilnost planuma nevezane nosilne plasti mora imeti
+naslednje lastnosti:
+
+-       
+  za gradnje in nadgradnje na glavnih progah
+
+E(v2) > 100 MN/m2,
+
+
+-       
+  za gradnje in nadgradnje na regionalnih progah
+
+E(v2) > 80 MN/m2,
+
+
+-       
+  za industrijske tire 
+
+E(v2) > 60 MN/m2.
+
+(5) Planum proge na nevezani nosilni plasti mora
+zadostiti naslednjim pogojem:
+
+-       
+  ravnost sloja 
+
+≤ 20 mm/4 m,
+
+
+-       
+  srednja zgoščenost po Proctorju 
+
+≥ 98 %,
+
+
+-       
+  prečni nagib sloja 
+
+≥ 5 %,
+
+
+-       
+  odstopanje od projektiranega nagiba do
+
+± 0,4 %,
+
+
+-       
+  največje dovoljeno odstopanje kote planuma od projektirane kote
+
+± 10 mm,
+
+
+-       
+  spodnja mejna vrednost zgoščenosti ne sme biti manjša od 3 % glede na
+  srednjo zgoščenost.
+
+(6) Meritve deformacijskega modula E(v2) se opravijo v
+skladu s TSC 06.720, meritve zgoščenosti pa po TSC 06.711.
+(7) Pri izvedbi novih in nadgradnji obstoječih prog je
+vgradnja nevezane nosilne plasti obvezna. Debelino nevezane nosilne plasti
+določi projektant. Najmanjša dovoljena debelina nevezane nosilne plasti je 30
+cm. Kadar se na obstoječih progah izvaja nadgradnja podsistema ali dela
+podsistema infrastruktura in v nosilnih plasteh pod tirno gredo ni bilo
+vgrajene nevezane nosilne plasti, lahko nova nevezana nosilna plast prevzame
+vlogo zmrzlinsko odporne plasti. V tem primeru se debelina nevezane nosilne
+plasti lahko poveča največ do 80 cm, v plasteh različnih granulacij, kar je
+odvisno od nosilnosti, možnosti deformacij in zmrzlinske varnosti plasti pod
+novo nevezano nosilno plastjo.
+(8) Če se pri gradnji novih in nadgradnji obstoječih
+prog izkaže, da planum nasipa ali temeljnih tal ne bo mogel prevzeti zahtevanih
+obremenitev, se izvedejo ukrepi za izboljšanje nosilnosti.
+(9) Nevezana nosilna plast ne sme biti na vplivnem
+območju podzemne ali poplavne vode.
+(10) Boki nevezane nosilne plasti se zaščitijo s
+humiziranjem v debelini 15 cm ali drugo oblogo, ki preprečuje erozijo, in v
+naklonu, ki ga določi projektant.
+13. člen
+(planum nasipa in planum temeljnih tal)
+(1) Planum nasipa je utrjena površina zaključne plasti
+nasipa, planum temeljnih tal pa je utrjena površina naravnega terena po
+odstranitvi plodne zemljine ali izvedenem izkopu vkopa.
+(2) Planum nasipa ali temeljnih tal mora ustrezati tem
+pogojem:
+
+-       
+  ravnost sloja iz zemljin za temeljna tla 
+
+30 mm/4 m,
+
+
+-       
+  ravnost sloja iz zemljin za planum nasipa 
+
+20 mm/4 m,
+
+
+-       
+  ravnost sloja iz kamnitih materialov za temeljna tla
+
+50 mm/4 m,
+
+
+-       
+  ravnost sloja iz kamnitih materialov za planum nasipa
+
+30 mm/4 m,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj manj kot 0,5 m pod planumom proge
+
+98 %,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj med 0,5 do 2 m pod planumom proge
+
+95 %,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj več kot 2 m pod planumom proge
+
+92 %,
+
+
+-       
+  prečni nagib planuma
+
+≥ 5 %,
+
+
+-       
+  odstopanje od projektiranega nagiba
+
+± 1 %,
+
+
+-       
+  največje dovoljeno odstopanje kote planuma temeljnih tal od
+  projektirane kote:
+
+
+-    
+  pri naravnih zemljinah ali izboljšanih temeljnih tleh 
+-    
+  pri kamninah 
+
+± 2,5 cm,
+± 4,0 cm.
+
+(3) Nosilnost planuma nasipa pri debelini nevezane
+nosilne plasti 30 cm mora imeti te lastnosti:
+
+-       
+  za gradnje in nadgradnje na glavnih progah
+
+E(v2) > 80 MN/m2,
+
+
+-       
+  za gradnje in nadgradnje na regionalnih progah
+
+E(v2) > 60 MN/m2,
+
+
+-       
+  za industrijske tire
+
+E(v2) > 60 MN/m2.
+
+(4) Če se nasip ne izvede, mora planum temeljnih tal
+ustrezati lastnostim iz tega člena.
+(5) Kadar so v planumu nasipa ali temeljnih tal
+drobnozrnate vezljive zemljine, ki bi pod prometno obremenitvijo lahko
+prodirale v plast nevezane nosilne plasti, se planum nasipa zaščiti z vgradnjo
+filtrskega sloja. Ta je lahko iz filtrskega peska ali umetnih filtrnih
+materialov, na primer geotekstilij.
+(6) Pri gradnji nove proge mora biti sestava plasti med
+planumom nasipa in planumom temeljnih tal homogena. Pri nadgradnji ali obnovi
+nasipa, pri katerem sta sestava plasti pod planumom in stopnja utrjenosti
+zemljin heterogeni, zaradi česar ne bi bilo mogoče kakovostno izvesti del v
+planumu proge, je treba razmere v planumu izboljšati z ukrepi, s katerimi se
+doseže enakomernejša porazdelitev obtežbe in prepreči nevarnost lokalnih
+poškodb.
+(7) Kadar nosilnost planuma temeljnih tal ne ustreza
+predpisani nosilnosti, je treba v njih izvesti ustrezne ukrepe za izboljšanje
+nosilnosti ali pa temeljna tla zamenjati.
+(8) Nosilnost planuma temeljnih tal pod nasipom mora
+imeti te vrednosti:
+
+-       
+  0,5 do 1,0 m pod planumom nasipa 
+
+E(v2) > 45–60 MN/m2,
+
+
+-       
+  1,0 do 2,0 m pod planumom nasipa 
+
+E(v2) > 20–60 MN/m2.
+
+(9) Nosilnost planuma temeljnih tal določi projektant
+glede na predvidene obremenitve in kakovost raščenega materiala ali glede na
+vrsto izboljšave zemljin in mora ustrezati zahtevam iz tega pravilnika.
+(10) Če se pri nadgradnji ali obnovi proge pod planumom
+nasipa naleti na slabo nosilne zemljine, je treba plast do globine zmrzovanja
+zamenjati z zmrzlinsko odpornim materialom, plast pod njo pa sanirati.
+(11) Planum nasipa in planum temeljnih tal pa tudi vsi
+sloji med njima morajo imeti potreben prečni nagib, da se voda ne zadržuje na
+planumu posameznega sloja.
+(12) Na planumu temeljnih tal se morajo zagotoviti
+ustrezna nosilnost ter upoštevati možnosti deformacij in časovni razvoj
+posedkov.
+(13) Če na temeljna tla vplivajo podzemne vode, se uredi
+ustrezen sistem odvodnjavanja.
+14. člen
+(nasipi)
+(1) Pri načrtovanju novih ali pri sanaciji obstoječih
+nasipov mora projektant upoštevati:
+-       
+stabilnost oziroma potrebno varnost nasipa proti porušitvi,
+-       
+stabilnost in nosilnost temeljnih tal pod nasipom,
+-       
+predvidene posedke in njihovo časovno napredovanje,
+-       
+lastnosti zemljin ali kamnin, ki se uporabijo za gradnjo nasipa,
+-       
+način gradnje nasipa,
+-       
+način zaščite nasipnih brežin,
+-       
+vzdrževanje brežin na visokih nasipih,
+-       
+varnost nasipa pred erozijo tekočih in poplavnih voda in
+-       
+druge, za posamezen primer značilne pogoje (npr. nasipi na območju
+akumulacijskih jezer).
+(2) Pri izvedbi zgornje plasti nasipa, ki z nevezano
+nosilno plastjo sestavlja zmrzlinsko odporen sloj, so potrebni materiali z
+naslednjimi lastnostmi:
+
+-       
+  vremensko obstojni material, ki preprečuje kapilarni dvig,
+
+
+-       
+  nevezljive zemljine ali drobljen kamniti material zrnavosti
+
+0/125 mm,
+
+
+-       
+  koeficient neenakomernosti 
+
+U > 9,
+
+
+-       
+  delež drobnih zrn pod 0,063 mm 
+
+< 12 %,
+
+
+-       
+  delež drobnih zrn pod 0,02 mm
+
+< 5 %.
+
+(3) V zgornji sloj nasipa, ki z nevezano nosilno plastjo
+sestavlja zmrzlinsko odporen sloj, se ne smejo vgrajevati drobnozrnate zemljine
+ali materiali s trdnimi zrni, ki sčasoma razpadejo, kakršni so glinasti
+laporji, glinovci in nabrekljivi tufi. Prav tako se v tem sloju ne smejo
+uporabiti enozrnati materiali, ki jih ni mogoče zgostiti in utrditi.
+(4) Drugi sloji materiala, ki so vgrajeni v nasip,
+morajo zadostiti naslednjim pogojem:
+
+-       
+  ravnost sloja iz zemljin
+
+30 mm/4 m,
+
+
+-       
+  ravnost sloja iz kamnitih materialov
+
+50 mm/4 m,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj med 0,0 in 0,4 m pod planumom
+  nasipa
+
+98 %,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj med 0,4 do 2,0 m pod planumom
+  nasipa
+
+95 %,
+
+
+-       
+  zgoščenost po Proctorju, če je sloj več kot 2,0 m pod planumom nasipa 
+
+92 %,
+
+
+-       
+  prečni nagib plasti 
+
+≥ 5 %,
+
+
+-       
+  odstopanje od projektiranega nagiba
+
+± 1 %.
+
+(5) Nosilnosti plasti nasipa morajo imeti naslednje
+vrednosti:
+
+-       
+  pri globini 0,0 do 0,4 m pod planumom nasipa 
+
+Ev2 ≥ 80 MN/m2,
+
+
+-       
+  pri globini 0,4 do 1,0 m pod planumom nasipa za kamnine ali prod 
+
+Ev2 ≥ 60 MN/m2,
+
+
+-       
+  pri globini 0,4 do 1,0 m pod planumom nasipa za zemljine 
+
+Ev2 ≥ 45 MN/m2,
+
+
+-       
+  pri globini 1,0 do 2,0 m pod planumom nasipa za kamnine ali prod 
+
+Ev2 > 60 MN/m2,
+
+
+-       
+  pri globini 1,0 do 2,0 m pod planumom nasipa za zemljine
+
+Ev2 > 20 MN/m2,
+
+razmerje Ev2/Ev1 mora
+biti manjše od 2,2. Če je Ev1 > 50 MN/m2,
+razmerje Ev2/Ev1 ni odločilno.
+(6) Vrsto materiala za izvedbo nasipov določi projektant
+glede na razpoložljive materiale v trasi in njeni bližini.
+(7) Dopustni nagib brežine nasipa določi projektant na
+podlagi lastnosti materialov, ki se vgradijo v nasip.
+(8) Pri gradnji nasipov se na brežinah nasipov, ki so višji
+od 8 m in imajo naklon večji od 1:1,5, zaradi lažjega vzdrževanja izvedejo
+vmesne terase ali berme. Širina berme mora biti ≥ 2,5 m, prečni naklon proti
+vznožju brežine pa mora biti ≥ 5 %.
+(9) Pri gradnji, nadgradnji ali obnovi nasipov se
+upoštevajo:
+-       
+materiali za izvedbo nasipov so zemljine 3. kategorije ter kamnine 4. in
+5. kategorije, navedene v prilogi 3, ki je sestavni del tega pravilnika,
+-       
+debelina maksimalnega zrna nasipnega materiala je ≤ 300 mm,
+-       
+debelina maksimalnega zrna v plasti nasipa je ≤ 2/3 debeline plasti in
+-       
+za izboljšanje nosilnosti nasipnih materialov se lahko uporabi kemična
+stabilizacija ali armirane zemljine.
+(10) Če se zaradi novonastalih okoliščin spremeni namen
+nasipa (progovni nasip postane hkrati visokovodni ali zajezitveni nasip), se
+izdela PD in določijo ukrepi za ojačitev nasipa v skladu z novimi okoliščinami.
+(11) Če je treba obstoječi nasip razširiti, se širitev
+izvede s stopničastim priključevanjem novega nasipa na že obstoječega. Širina
+stopničenja mora biti med 0,6 m in 1,0 m, višina ≤ 0,6 m, naklon pa ≤ 5 %,
+kakor je določeno v prilogi 4, ki je sestavni del tega pravilnika. Priključni
+nasip se zgradi iz kamnitih materialov.
+(12) Na brežine nasipa se ne smejo odlagati presežki
+zemeljskih materialov in presevki iz tirne grede.
+15. člen
+(obloge nasipov)
+(1) Za zaščito brežin nasipa pred zunanjimi vplivi ter
+za preprečitev drsenja in izpiranja materiala se kot osnovna zaščita uporabi
+humiziranje.
+(2) Brežine nasipov iz zemljin se lahko ščitijo tudi z
+roliranjem, tlakovanjem ali oblaganjem z betonskimi ploščami ali bloki.
+(3) Za dodatno zaščito ali doseganje večjega nagiba
+brežine kamnitega nasipa se izvede obloga iz kamna ali armirane zemljine.
+(4) Obstoječi nasipi se obložijo v naslednjih primerih:
+-       
+če nasip med poplavami prevzame funkcijo obrambnega nasipa,
+-       
+če brežin nasipa ni mogoče utrditi s primernimi biološkimi ukrepi,
+-       
+če je potrebna razširitev nasipa proge zaradi obnove ali nadgradnje
+podsistema ali dela podsistema infrastruktura ali
+-       
+če je nasip izpostavljen delovanju tekoče vode.
+16. člen
+(vkopi)
+(1) Pri projektiranju, gradnji, nadgradnji in obnovi
+vkopov je treba upoštevati:
+-       
+stabilnost brežin,
+-       
+odpornost brežin proti eroziji,
+-       
+varnost pred krušenjem ali kotaljenjem kamenja,
+-       
+varnost pred snežnimi plazovi,
+-       
+varnost pred hudourniškimi in drugimi vodami,
+-       
+omejevanje neugodnih vplivov na progo, na primer delovanja vetra ali
+snežnih zametov,
+-       
+možnost vzdrževanja brežin in
+-       
+izvedbo berme v globokih vkopih.
+(2) Brežine vkopov morajo biti oblikovane tako in pod
+takim naklonom, da je zagotovljena njihova stabilnost v vseh vremenskih
+razmerah.
+(3) Nagib brežine novih vkopov določi projektant na
+podlagi podatkov geološko-geotehničnih raziskav in stabilnostnih analiz.
+Dopustni nagib brežine vkopov je odvisen od vrste materialov v hribini, od plastovitosti
+zemljin, razpokanosti in plastovitosti kamnin v pobočju ter od globine vkopa.
+(4) Pri gradnji vkopov se na brežinah vkopov, ki so
+višji od 8 m in imajo naklon večji od 1:1,5, zaradi lažjega vzdrževanja
+izdelajo berme. Širina berme mora biti ≥ 2,50 m, prečni padec proti vznožju
+brežine pa mora biti ≥ 5 %. Za zajem stalnih izvirov hribinske vode nad
+bermo se na slednji uredi odvodnjavanje.
+(5) Pri gradnjah vkopov se za zaščito brežin vkopa
+smiselno uporabljajo določbe 17. člena tega pravilnika.
+17. člen
+(zaščita vkopov)
+(1) Osnovna zaščita brežin vkopov v zemljinah je
+humiziranje.
+(2) Če obstaja nevarnost krušenja materiala s pobočja
+nad vkopom, se izvedejo zaščitni ukrepi, s katerimi se prepreči krušenje na
+progo.
+(3) Upravljavec mora v SVU predvideti ukrepe, s katerimi
+zagotovi varnost proge pred padajočim kamenjem, če obstaja stalna nevarnost
+padajočega kamenja, ki ogroža varnost železniškega prometa.
+(4) Za preprečevanje erozije brežin vkopov v kamninah se
+lahko izvedejo ukrepi, kakršni so biotorkretiranje, zaščita brežin s kovinsko
+mrežo in dodatnimi sidri ter torkretiranje brežin z brizganim betonom.
+(5) Če brežine vkopa niso več stabilne, se vzpostavi
+opazovanje pomikov in opravijo geotehnične raziskave ter izdela geotehnični
+projekt.
+(6) Nestabilna območja se evidentirajo v evidencah
+stanja nestabilnih pobočij. Vodijo se podatki o spremembah na pobočju in opisi
+vseh del, ki so bila izvedena ali se izvajajo na teh pobočjih.
+(7) Opazovanje pomikov se vzpostavi tudi na pobočjih, na
+katerih so bili izvedeni sanacijski ukrepi.
+(8) Odvajanje vode z brežin vkopov se uredi z ustreznim
+sistemom odvodnjavanja, ki ne sme ogroziti stabilnosti brežine.
+(9) Vrsta in način sanacijskih posegov na porušenih
+brežinah se prilagodi razmeram na terenu in ugotovitvam geotehničnih raziskav.
+Potrebne ukrepe določi projektant.
+18. člen
+(posebni sloji)
+(1) Za zagotovitev potrebne nosilnosti, stabilnosti in
+vremenske obstojnosti planuma proge se v plasteh pod njim poleg naravnih
+zemljin in kamnin lahko uporabijo umetno izdelani materiali. Materiali, s
+katerimi se najpogosteje izboljšujejo zemljinski sloji, so filtrni geotekstil,
+drenažni geotekstil ali kompoziti, armaturni ali ojačitveni geotekstil,
+geomreže in neprepustne membrane.
+(2) Geotekstili, ki se uporabijo kot filtrska plast ali
+kot ukrep za povečanje nosilnosti planuma temeljnih tal, morajo ustrezati
+zahtevam standarda SIST EN 13250.
+19. člen
+(deformacije zemeljskega telesa)
+(1) Za vse deformacije na planumu proge mora upravljavec
+zagotoviti sanacijo in odpravo vzrokov zanje. Sanacijski ukrepi so:
+-       
+izboljšanje nosilnosti planuma proge z vgradnjo nevezane nosilne plasti
+brez geofiltrne geotekstilije ali armaturne geotekstilje ali v kombinaciji z
+njo in hkratno izvedbo nagiba planuma plasti pod nevezano nosilno plastjo v
+nagibu > 5 %,
+-       
+izboljšanje zmrzlinske varnosti planuma proge z vgradnjo plasti
+zmrzlinsko varnega materiala do vplivne globine delovanja zmrzali ali
+-       
+izboljšanje drenažnih lastnosti deformiranega sloja.
+(2) Pri obsežnih deformacijah zemeljskega telesa se
+izvedejo geološko-geotehnične preiskave ter izdela geološko-geotehnično
+poročilo. Način in obseg popravil se opredeli na podlagi geološkega poročila s PD,
+katera mora določiti tudi ustrezen sistem opazovanja.
+20. člen
+(redni pregledi)
+(1) Redni pregledi vseh sestavnih delov zemeljskega
+telesa se opravijo enkrat letno.
+(2) Poleg načina in vsebine rednih pregledov mora
+upravljavec v SVU določiti ukrepe, s katerimi izvede dodaten nadzor nad stanjem
+že konsolidiranih nasipov:
+-       
+pri povečanju progovne hitrosti,
+-       
+pri spremenjeni konstrukciji zgornjega ustroja (npr. spremenjen tip
+tirnic in pragov),
+-       
+pri vgraditvi novih objektov ali naprav v nasip (npr. stebrov voznega
+omrežja in signalov) ali
+-       
+pri spremembi hidravličnega režima na vplivnem območju nasipa (npr. dvig
+gladine vode ob nasipu).
+21. člen
+(izredni pregledi)
+(1) Izredni pregledi vseh sestavnih delov zemeljskega
+telesa se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na nosilni del zemeljskega telesa,
+-       
+ob nenadnih večjih poškodbah posameznih delov zemeljskega telesa,
+-       
+če upravljavec upravičeno dvomi o kakovosti delov zemeljskega telesa.
+(2) Način in vsebino izrednih pregledov zemeljskega
+telesa upravljavec določi v SVU.
+III. ZIDOVI
+22. člen
+(opredelitev)
+(1) Kjer je treba v zemeljskem telesu ali na pobočju
+prevzemati zemeljske pritiske ali preprečevati deformacije hribine, se zgradijo
+podporni ali oporni zidovi.
+(2) Konstrukcijsko spadajo k zidovom tudi požarni zidovi,
+pilotne stene, sidrane pilotne stene, kamnite zložbe, težnostni zidovi in druge
+metode stabilizacije hribine.
+(3) Glede na niveleto proge se zidovi delijo na:
+-       
+podporne zidove pod niveleto proge v nogi nasipa, v pobočju nasipa pa do
+planuma proge ali do zgornjega roba praga in
+-       
+oporne zidove nad niveleto proge.
+(4) Podporni zidovi se izvedejo, če obstaja nevarnost
+spodkopavanja nasipa, če je treba skrajšati nogo nasipa ali če je v nogi ali na
+pobočju nasipa treba zgraditi ali ščititi drug objekt.
+(5) Zidovi ob progi morajo biti projektirani, zgrajeni,
+nadgrajeni in obnovljeni skladno s PD.
+23. člen
+(temeljne zahteve pri projektiranju zidov)
+(1) Zidovi kot del spodnjega ustroja morajo biti
+projektirani, grajeni, nadgrajeni in obnovljeni tako, da izpolnjujejo bistvene
+zahteve iz priloge III Direktive 2016/797/EU in zakona, ki ureja graditev
+objektov, ter da zagotavljajo:
+-       
+predpisano varnost pri mejnih stanjih nosilnosti in uporabnosti med
+gradnjo, nadgradnjo ali obnovo in po njih,
+-       
+stabilnost vkopa ali nasipa,
+-       
+odvajanje površinske in zaledne vode,
+-       
+da morebitna sprememba režima podtalnice ne ogroža varnosti in trajnosti
+objekta,
+-       
+trajnost vseh kovinskih delov pred nevarnostjo elektrokorozije zaradi
+blodečih tokov na elektrificiranih progah in
+-       
+možnost vgradnje zaščite pred elektrokorozijo pri gradnji, nadgradnji
+ali obnovi zidov na progah, na katerih je predvidena elektrifikacija.
+(2) Konstrukcijski elementi zidu morajo biti
+projektirani skladno s standardi skupin SIST EN 1992 in SIST EN 1997. Sidrani
+zidovi morajo biti projektirani skladno s TSC 07.204, pilotne stene pa s TSC
+07.205.
+24. člen
+(lega zidov)
+(1) Pri projektiranju, gradnji, nadgradnji in obnovi
+zidov se upošteva s projektno nalogo določen svetli profil. Upoštevati je treba
+razširitve svetlega profila pri manjših radijih v skladu z določbami predpisa,
+ki ureja zgornji ustroj.
+(2) Najmanjša dovoljena oddaljenost opornega zidu od
+svetlega profila se določi z upoštevanjem vseh dodatnih naprav, ki so umeščene
+med robom planuma proge in zidom, ter z upoštevanjem zagotavljanja vidnosti
+signalnovarnostnih naprav.
+(3) Kadar krona zidu sega do gornjega roba praga in je
+na njej predviden hodnik, stebri voznega omrežja ali protihrupna ograja, je
+treba pri projektiranju in izvedbi krone podpornega zidu upoštevati svetli
+profil.
+25. člen
+(hodniki za službeno rabo)
+(1) Če je na kroni podpornega zidu predviden hodnik za
+službeno rabo, se slednji pri projektiranju, gradnji ali nadgradnji zidov
+izvede tako, da je:
+-       
+širina hodnika ≥ 0,75 m,
+-       
+omogočena ustrezna širina in povoznost krone zidu za predvideno uporabo
+revizijskih vozičkov ali težje vzdrževalne opreme,
+-       
+kota pohodne površine hodnika izenačena s koto GRP in
+-       
+na zunanji strani hodnika izvedena varovalna ograja.
+(2) Zahteve iz prejšnjega odstavka morajo biti
+upoštevane pri izdelavi DGD ali PZI.
+(3) Določbe tega člena se uporabljajo tudi za premostitvene
+objekte.
+26. člen
+(hodniki za javno rabo)
+(1) Če je treba na kroni opornega zidu izvesti hodnik za
+javno rabo, mora biti od hodnika za službeno rabo ali tira ločen z ograjo. Os
+ograje mora biti od osi najbližjega tira oddaljena ≥ 3,0 m. Na zunanji strani
+hodnika za javno rabo mora biti varovalna ograja.
+(2) Določbe tega člena se uporabljajo tudi za
+premostitvene objekte.
+27. člen
+(ograje)
+(1) Na zunanji strani hodnika za službeno rabo mora biti
+nameščena ograja z naslednjimi lastnostmi:
+-       
+višina ograje, merjeno od pohodne površine oziroma zgornjega roba venca
+navzgor, je ≥ 1,0 m; pri objektih na postajnih območjih pa ≥ 1,2 m,
+-       
+razdalja med ograjo in osjo najbližjega tira je ≥ 3,0 m. S soglasjem
+upravljavca je lahko tudi manjša in znaša ≥ 2,5 m, pri čemer morajo
+biti pri daljših objektih na vsakih 25,0 m urejena izogibališča vzporedno ob
+tiru dolžine 2,5 m in široka 3,5 m, merjeno od osi tira,
+-       
+kadar so pod podpornim zidom prometne površine, mora imeti spodnji del
+ograje do višine 0,6 m nad tlemi mrežno polnilo za preprečevanje morebitnega
+padanja tolčenca tirne grede na spodnjo komunikacijo; svetle izmere mrežnih
+okenc naj ne presegajo 2,5 cm2. Če upravljavec ceste pod objektom
+zahteva dodatno zaščito, ki po višini presega normalno višino ograje, se dodatni
+mrežni elementi lahko pritrdijo na osnovno ograjo ali pa sestavljajo z njo
+celoto, oboje s soglasjem upravljavca,
+-       
+kadar se na ograjah predvideva namestitev reklamnih panojev, mora biti
+ograja dimenzionirana tako, da prenese dodatno obtežbo predvidenih reklamnih
+panojev,
+-       
+vse ograje morajo biti zanesljivo ozemljene, pri čemer je treba na
+mestih, kjer so dilatirane, zagotoviti električni stik,
+-       
+omogočen mora biti iztek kondenzne vlage iz notranjosti konstrukcije in
+-       
+pri projektiranju ograj je smiselno upoštevati določila, ki so
+predpisana v TSC 07.103.
+(2) Določbe tega člena se uporabljajo tudi za ograje na
+premostitvenih objektih.
+28. člen
+(oprema za vozno omrežje elektrovleke)
+(1) Pri projektiranju in izvedbi pritrdilnih mest naprav
+za vozno omrežje na zidovih se uporablja predpis, ki ureja graditev stabilnih
+naprav električne vleke enosmernega sistema 3 kV.
+(2) Za stojišča drogov voznega omrežja se projektirajo
+in izvedejo konstrukcijski elementi zidu, na primer podaljšane konzole vencev
+ali konzolni nastavki iz ojačitev zidu.
+(3) Stojišča za drogove se predvidijo tudi pri novih
+zidovih na progah, ki niso elektrificirane, se pa predvideva njihova
+elektrifikacija v prihodnosti.
+29. člen
+(drogovi razsvetljave na zidovih)
+Pri projektiranju in izvedbi razsvetljave na zidovih se za
+postavitev drogov razsvetljave uporablja prejšnji člen.
+30. člen
+(redni pregledi)
+Redni pregledi zidov se opravijo enkrat letno. Način in
+vsebino pregledov upravljavec predpiše v svojem SVU.
+31. člen
+(izredni pregledi)
+(1) Izredni pregledi zidov se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na stabilnost zidov,
+-       
+pri ugotavljanju sposobnosti objekta za prevzemanje dodatnih ali
+izrednih obremenitev,
+-       
+ob nenadnih večjih poškodbah posameznih delov objekta,
+-       
+če upravljavec upravičeno dvomi o trdnosti in nosilnosti zidu.
+(2) Način in vsebino izrednih pregledov zidov
+upravljavec določi v SVU.
+IV. PREMOSTITVENI OBJEKTI
+32. člen
+(opredelitev)
+(1) Premostitveni objekti so:
+-       
+mostovi,
+-       
+viadukti,
+-       
+inundacijski objekti,
+-       
+podvozi in nadvozi,
+-       
+izvennivojska križanja železnic,
+-       
+podhodi in nadhodi ter
+-       
+prepusti.
+(2) Določbe tega poglavja se uporabljajo tudi za:
+-       
+začasne in pomožne premostitvene objekte (provizorije),
+-       
+signalne mostove,
+-       
+signalne konzole in
+-       
+signalne portale.
+33. člen
+(temeljne zahteve pri projektiranju)
+(1) Premostitveni objekti morajo biti projektirani,
+grajeni, nadgrajeni ali obnovljeni tako, da izpolnjujejo bistvene zahteve iz
+priloge III Direktive 2016/797/EU in zakona, ki ureja graditev objektov, ter da
+zagotavljajo:
+-       
+gospodarno konstrukcijsko rešitev pri izvajanju gradbenih del in
+vzdrževanju,
+-       
+varnost pri mejnih stanjih nosilnosti in uporabnosti,
+-       
+konstrukcijsko zaščito pred udarci cestnih vozil v konstrukcijo,
+-       
+čim manjše motnje železniškega prometa pri izvajanju gradbenih del in
+vzdrževanju,
+-       
+čim manjšo obremenitev okolja med gradnjo in po njej,
+-       
+predpisane svetle profile,
+-       
+zaščitne ukrepe pred nevarnostjo dotika vodov pod napetostjo in druge
+potrebne ukrepe v zvezi z voznim omrežjem na elektrificiranih progah,
+-       
+odvodnjavanje in
+-       
+vidno razdaljo signalov in signalnih oznak.
+(2) Pri objektih na elektrificiranih progah je treba
+glede na lokacijo in vrsto objekta oceniti nevarnost učinkovanja blodečih tokov
+(elektrokorozije) ter izvesti potrebne zaščitne ukrepe.
+(3) Premostitveni objekti se projektirajo po svetlem
+profilu, opredeljenem v projektni nalogi.
+(4) Konstrukcijski elementi premostitvenega objekta
+morajo biti projektirani skladno s standardi iz skupine SIST EN 1991. Betonski
+elementi morajo biti projektirani skladno s standardi SIST EN 1992, jekleni s
+standardi SIST EN 1993, sovprežne konstrukcije pa s standardi iz skupine SIST
+EN 1994. Pri projektiranju je treba upoštevati potresno varnost skladno s
+skupino standardov SIST EN 1998 ter predpise s področja preiskovanja in
+preskušanja tal skladno s skupino standardov SIST EN 1997.
+(5) Konstrukcija premostitvenega objekta se projektira
+za prevzem obremenitev skladno s TSI, ki ureja strukturni podsistem
+infrastruktura.
+34. člen
+(tir na premostitvenih objektih)
+(1) Geometrija tira na premostitvenem objektu mora biti
+v skladu s TSI, ki ureja strukturni podsistem infrastruktura, in predpisom, ki
+ureja zgornji ustroj železniških prog.
+(2) Na premostitvenih objektih morajo biti debelina
+tirne grede, neprekinjeno zvarjeni tir ali stikovani tir, varnostne tirnice in
+medtirna razdalja v skladu z določbami predpisa, ki ureja zgornji ustroj
+železniških prog.
+35. člen
+(geometrija tlorisa in svetli profil premostitvenih
+objektov)
+(1) Premostitveni objekt se projektira na podlagi
+geometrijskih elementov osi in dimenzij prečnega profila proge pa tudi glede na
+kot križanja, pogoje premostitve ter geotehnične in hidrološke podatke.
+(2) Os proge se praviloma pokriva z vzdolžno osjo
+nosilne konstrukcije. Pri tirih v krivini so objekti lahko zakrivljeni, kar
+pomeni, da os konstrukcije sledi osi tira, lahko pa so ravni ali pri objektih z
+več polji poligonalno lomljeni s prelomi nad podporami. Geometrijske elemente
+osi in dimenzije prečnega profila proge na območju premostitvenega objekta
+določi projektant železniške proge v sodelovanju s projektantom objektov in
+geomehanikom.
+(3) Odprtine mostu in prepusta se določajo na podlagi
+hidravličnega računa relevantnega pretoka vodotoka.
+(4) Pri konstrukcijskih elementih železniških
+premostitvenih objektov, ki segajo nad vozišče (npr. glavni nosilci paličij ali
+lokov), znaša njihova oddaljenost od osi skrajnega tira polovico svetlega
+profila, vendar ne manj od 2,50 m, če je za vsak tir predviden hodnik za
+službeno rabo na zunanji strani nosilcev, ki je dostopen s tira, kakor je
+razvidno iz priloge 5, ki je sestavni del tega pravilnika.
+36. člen
+(svetla višina objektov pod premostitvenimi objekti)
+(1) Svetla višina pod cestnim nadvozom mora upoštevati
+višino svetlega profila, povečanega za potrebno vgradnjo naprav elektrovleke.
+(2) Svetla višina železniških premostitvenih objektov
+nad cestami mora upoštevati veljavne zahteve glede svetlega profila za
+projektiranje cest.
+(3) Svetla višina podhoda za pešce znaša ≥ 2,40 m.
+(4) Pri projektiranju novih premostitvenih objektov nad
+vodotoki mora biti spodnji rob konstrukcije na taki višini, da zagotavlja:
+-       
+pri plovnih vodotokih največjo mogočo koto plovne vode, povečano za
+plovni gabarit,
+-       
+pri neplovnih vodotokih pretok stoletne vode z upoštevanjem zajezitve in
+varnostne višine 1,00 m; pri konstrukcijah z ležišči mora biti zgornji rob
+ležiščnega bloka vsaj 0,25 m nad koto stoletne vode.
+37. člen
+(korito za tirno gredo)
+(1) Tirna greda se vgrajuje v masivno korito:
+-       
+svetla polširina, to je razdalja od osi tira do sten korita, je ≥ 2,20
+m. Če se osi tira in konstrukcije pokrivata, je pri enotirnem objektu celotna
+širina korita 4,40 m ne glede na to, ali je tir v premi ali krivini. Če se osi
+ne pokrivata, je treba širino korita ustrezno povečati, tako da je v katerem
+koli prečnem prerezu na vsej dolžini objekta zagotovljena zahtevana polširina
+2,20 m. Pri objektih z vzporednimi krili, na katerih poteka enak hodniški pas
+do konca kril, se kot dolžina objekta v smislu te alineje šteje razdalja od
+konca do konca kril. Pri večtirnih objektih se širina korita poveča za vsoto
+medosnih razmikov med tiri,
+-       
+stranski, omejitveni strani korita sta vertikalni in po višini segata do
+kote GRT; pri nadvišanem tiru v krivinah je odločilen GRT nižje ležeče tirnice
+(obe steni segata do te višine).
+(2) Dno korita za tirno gredo je praviloma zaščitni sloj
+nad hidroizolacijo prekladne konstrukcije. Zaščitni sloj je pri normalni
+izvedbi iz ustrezno armiranega betona debeline 5–7 cm. Mogoča je tudi
+vgradnja dušilnih blazin iz elastičnih umetnih materialov, ki se polagajo na
+zaščitni betonski sloj ali neposredno na hidroizolacijo, pa tudi polaganje
+posebnih hidroizolacij, ki ne potrebujejo zaščitnega sloja, vendar mora
+rešitve, ki se razlikujejo od normalne izvedbe, odobriti upravljavec.
+(3) V prečnem prerezu je dno korita (predvsem glede
+zahtev odvodnjavanja) lahko horizontalno ali pa ima enostranske oziroma
+dvostranske padce. Pri objektih, ki nosijo nadvišan tir v krivini, se zaradi
+zmanjšanja debeline tirne grede pod zunanjo tirnico lahko izvede zgornja
+površina prekladne konstrukcije z enostranskim prečnim nagibom, ki pa ne sme
+presegati 5 %.
+(4) Svetla polširina iz prve alineje prvega odstavka
+tega člena mora biti zagotovljena tudi pri podpornih ali opornih konstrukcijah
+vzdolž proge, če njihovi konstrukcijski deli po višini presegajo koto, ki je
+0,75 m nižja od kote GRT.
+38. člen
+(oprema za vozno omrežje elektrovleke)
+(1) Pri projektiranju in izvedbi opreme za vozno mrežo
+na premostitvenih objektih se uporablja predpis, ki ureja graditev stabilnih
+naprav električne vleke enosmernega sistema 3 kV.
+(2) Zateznih drogov na premostitvenih objektih ni
+dovoljeno postavljati.
+(3) Če so na premostitvenem objektu nujno potrebni
+zatezni drogovi voznega omrežja, se izvedejo s predhodnim soglasjem
+upravljavca.
+(4) Za stojišča drogov je treba predvideti v ta namen
+prirejene konstrukcijske elemente, na primer podaljšane konzole vencev,
+konzolne nastavke stebrov podpor ali opornikov in posebne pasove ob koritu
+tirne grede, ki so trdno povezani s prekladnimi ali podpornimi deli
+konstrukcije objekta.
+(5) Stojišča za drogove je treba predvideti tudi pri
+novih objektih na progah, ki niso elektrificirane, se pa predvideva njihova
+elektrifikacija v prihodnosti.
+(6) Pri objektih z odmikom hodniške ograje 3,00 m od osi
+tira se drogovi postavljajo na zunanji strani ograje, pri čemer ograja ob
+drogovih poteka neprekinjeno. Če so hodniki za službeno rabo širši od 0,75 m in
+je tako tudi odmik ograje od osi tira večji, je mogoče postaviti drogove VM na
+notranji strani hodnika.
+39. člen
+(zaščitni ukrepi pred nevarnostjo dotika vodov VO, ki so pod
+napetostjo)
+(1) Pri premostitvenih objektih nad elektrificirano
+železniško progo se izvedejo konstrukcijski ukrepi za zaščito pred nevarnostjo
+dotika vodov voznega omrežja, ki so pod napetostjo (nosilna vrv, kontaktni vod,
+napajalni vod in obhodni vod). Zaščita se izvede z vertikalno steno, ki je
+pritrjena na zunanjo stran ograje premostitvenega objekta in visoka 2 m, v
+spodnji polovici zapolnjena, v zgornji polovici pa s tkano mrežo z okenci 15/15
+mm, kakor je razvidno iz priloge 6, ki je sestavni del tega pravilnika. Vsi
+deli ograje morajo biti protikorozijsko zaščiteni.
+(2) Pri izvedbi zaščitnih ukrepov pred nevarnostjo
+dotika vodov voznega omrežja, ki so pod napetostjo, se upoštevajo:
+-       
+dolžina varnostne ograje mora biti na vsako stran voda, ki ga varuje
+> 2,00 m,
+-       
+noben vod pod napetostjo ne sme segati v notranjost krogov s središčem v
+točkah A krajnih panojev in polmerom r = 3000 mm (n ≥ 4 in je odvisen od
+višinske lege voda glede na objekt),
+-       
+pri enotirnih progah z napajalnim vodom, pri dvotirnih progah na odprti
+trasi ali pri dveh ali več tirih na postajah z obhodnim vodom se zaščitna stena
+po dolžini izvede v eni, neprekinjeni celoti za vse vode skupaj. Če so vodi pod
+napetostjo v vertikalni smeri več kot 8 m pod pohodno površino ob ograji
+premostitvenega objekta, zaščitna stena ni več potrebna,
+-       
+na območju 1,60 m na vsako stran vodov pod napetostjo ne sme biti na
+vozišču in hodnikih premostitvenega objekta nobenih odprtin, špranj, cevi ipd.,
+ki bi omogočale vtikanje daljših predmetov,
+-       
+varovalne stene in ograje morajo biti ustrezno ozemljene.
+40. člen
+(kablovodi)
+(1) Kabli, ki omogočajo obratovanje delov strukturnih
+podsistemov, se lahko polagajo tudi v kablom namenjena korita. Delovna širina
+strojev za sejanje tirne grede znaša 4200 mm. V to širino je zajeta varnostna
+razdalja, po 100 mm na vsaki strani, in sicer zaradi preprečitve poškodb
+gradbenih objektov in kabelskih korit. V ta prostor se ne smejo vgrajevati
+fiksni predmeti ali deli objektov (npr. kanali za SV in TK kable, cevovodi).
+(2) Na novih objektih se kabli iz prejšnjega odstavka
+vgradijo ali položijo v kinetah na območju med ograjo in koritom tirne grede
+(hodniškem pasu). Kinete so lahko sestavni del hodnika in so pohodne ali pa
+nanj položene ločeno. Po vsej dolžini objekta morajo biti z vrha dostopne prek
+odstranljivih pokrovov.
+(3) Pri obnovi in nadgradnji objektov se zaradi
+zagotavljanja svetlega profila kabli vgradijo ali položijo v kinete na zunanji
+strani robnega venca.
+(4) Na odprti progi znaša zaradi vzdrževanja minimalni
+odmik korit za kable 2100 mm od osi tira.
+41. člen
+(odvodnjavanje)
+(1) Odvodnjavanje korita tirne grede na premostitvenem
+objektu železniške proge mora biti projektirano in izvedeno tako, da je
+zagotovljeno sprotno odvajanje meteorne vode iz tega korita. Naprave za odvodnjavanje
+korita je treba načrtovati in izvesti tako, da se preprečijo kakršni koli
+škodljivi vplivi vode na premostitveni objekt, na vse sestavne dele železniške
+proge ter na objekte in rabo v prostoru ob premostitvenem objektu železniške
+proge in pod njim.
+(2) Planum priključnega nasipa oziroma nevezane nosilne
+plasti na objekt naj bo izoblikovan in izveden tako, da voda po njem ne odteka
+na objekt.
+(3) Število in razpored izlivnih mest sta odvisna od
+intenzivnosti padavin na posameznem območju in od vzdolžnega nagiba na
+premostitvenem objektu.
+(4) Izlivniki morajo biti nameščeni tako, da so dostopni
+z vrha, torej se ne nameščajo pod tirno rešetko, ki jo sestavljajo tirnice in
+pragovi.
+(5) Premer odtočnih cevi iz izlivnikov je ≥ 150 mm.
+(6) Izlivniki so, če je le mogoče, nameščeni ob stebrih,
+podporah in krajnih opornikih z odvodom vode po vertikalnih odvodnih ceveh do
+tal v ustrezen odvodnik (npr. kanalizacija, vodotoki, ponikovalnice,
+zadrževalniki, usedalniki). Če so pri daljših objektih potrebni izlivniki tudi
+v poljih premostitvene konstrukcije, se odtok iz njih lahko uredi s prostim
+iztokom v podmostje, če to dopuščajo lega objekta, vodnogospodarski pogoji,
+cestna infrastruktura in okoljevarstvene zahteve. Pri prostem iztoku morajo
+iztočne cevi segati iz konstrukcije objekta toliko, da iztečena voda pod
+vplivom vetra ne zamaka delov podporne ali prekladne konstrukcije. Če prosti
+iztoki niso sprejemljivi, se voda iz posameznega izlivnika prečno ali vzdolžno
+priključi na bližnji vertikalni odtok s priključno cevjo, izvedeno v padcu
+najmanj 5 ‰, ali pa v vzdolžno kanalizacijo, ki je nameščena v objekt ali pod
+njim. Premer cevi te kanalizacije mora biti določen s hidravličnim računom,
+vendar naj ne bo manjši od 200 mm. Na mestih dilatacij v konstrukciji, prek
+katerih vodijo zbirne cevi, je treba v cevovod vgraditi gibke (fleksibilne)
+kose. Ves material, iz katerega je izdelan odvodni sistem, mora biti korozijsko
+odporen. Omogočeno mora biti čiščenje.
+(7) Hodniki in kinete se odvodnjavajo v korito tirne
+grede po prečnih cevkah (Ø 30–50 mm), vgrajenih na primernih razdaljah v dele
+kinet in stranskih sten korita.
+(8) Za preprečevanje zamakanja ležišč se ustrezno uredi
+odvodnjavanje vseh površin okrog ležišč.
+(9) Za preprečevanje nastanka kondenzne vode se pri votlih
+prerezih konstrukcije (škatlah) predvidijo prezračevalne odprtine, katerih
+vzdolžni razmik ne sme biti večji od 20 m. Pri odvodnih sistemih z vzdolžnimi
+zbirnimi cevmi (kanalizacijo) v notranjosti votlega prereza je treba v
+najnižjih točkah prereza predvideti zasilne iztoke za odvod vode, če se odvodni
+sistem poškoduje.
+42. člen
+(obremenilni preizkus)
+(1) Obremenilni preizkus je obvezen po izvedbi novega
+premostitvenega objekta in pred povečanjem nosilnosti za vse premostitvene
+objekte, katerih razpon je ≥ 10 m.
+(2) Vrste poskusnih obtežb, obseg, postopke in presojo
+rezultatov preizkušnje določajo veljavni standardi in tehnični predpisi.
+Upoštevati je treba EUROCODE za konstrukcije in mostove, SIST EN ter veljavne
+nacionalne predpise za betonske in jeklene konstrukcije.
+(3) Izvajalec mora o opravljenem preizkusu izdati
+začasno ali končno poročilo. Če poročilo izkazuje, da je zgrajeni ali
+nadgrajeni premostitveni objekt sposoben prevzeti s projektom predvidene
+obtežbe, upravljavec prevzame objekt v poskusno ali trajno uporabo. Poročilo se
+priloži ob tehničnem pregledu objekta in vloži v DZO kot dokazilo o preizkusni
+in merilni dokumentaciji. Začasno poročilo velja do izdaje končnega, vendar ne
+dlje od 30 dni.
+43. člen
+(oznake na objektih)
+Železniški premostitveni objekti dolžine, večje od 5,0 m,
+morajo imeti naslednje oznake:
+-       
+stacionaža objekta na sredini objekta,
+-       
+stalne geodetske točke (reperje) po projektnem razporedu,
+-       
+leto gradnje oziroma nadgradnje,
+-       
+morebitna negabaritna mesta in
+-       
+izogibališča.
+44. člen
+(redni pregledi)
+Redni pregledi premostitvenih objektov se opravijo enkrat
+letno. Način in vsebino pregledov upravljavec predpiše v svojem SVU.
+45. člen
+(glavni pregledi)
+Glavni pregledi premostitvenih objektov se opravijo najmanj
+enkrat na šest let. Način in vsebino pregledov upravljavec predpiše v svojem
+SVU.
+46. člen
+(izredni pregledi)
+(1) Izredni pregledi premostitvenih objektov se
+opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na premostitveni objekt,
+-       
+pri ugotavljanju sposobnosti objekta za prevzemanje izrednih
+obremenitev,
+-       
+ob nastanku nenadnih večjih poškodb posameznih delov objekta,
+-       
+če upravljavec upravičeno dvomi, ali je premostitveni objekt varen za
+promet.
+(2) Način in vsebino izrednih pregledov premostitvenih
+objektov upravljavec določi v SVU.
+47. člen
+(obnova)
+(1) Upravljavec obnovi premostitvene objekte, če je
+obnova zaradi njihovega stanja nujna in z vzdrževalnimi deli ni več mogoče
+zagotoviti varnosti prometa.
+(2) Med obnovitvena dela premostitvenih objektov
+spadajo:
+-       
+obnova posameznih konstrukcijskih elementov,
+-       
+obnova zgornjega ustroja,
+-       
+obnova ali dograditev hidroizolacije,
+-       
+obnova ali dograditev odvodnjavanja objekta,
+-       
+obnova opornih ali podpornih konstrukcij,
+-       
+obnova ali zamenjava naprav in ureditev na objektu,
+-       
+obnova ali zamenjava ležišč, členkov, dilatacij,
+-       
+obnova protikorozijske zaščite jeklenih konstrukcij in
+-       
+obnova površinske zaščite betonskih konstrukcij.
+V. PREDORI, GALERIJE IN POKRITI VKOPI
+48. člen
+(opredelitev)
+(1) Železniški predor je podzemni gradbeni objekt v
+trasi železniške proge, s katerim se omogoča ohranjanje poteka proge v
+predpisanih mejah njenih geometrijskih in tehničnih elementov skozi reliefne
+pregrade. Portali se štejejo za sestavni del predora.
+(2) Galerija je gradbeni objekt, ki je zgrajen po
+sistemu odprte gradnje na plazovito ogroženih mestih (sneg, kamenje) v trasi
+proge, na katerih je varnost železniškega prometa ogrožena zaradi kamnitih ali
+snežnih plazov. Galerija je lahko zasuta, delno zasuta ali nezasuta. V zunanji
+steni so lahko izdelane odprtine.
+(3) Pokriti vkop je podzemni gradbeni objekt v trasi
+železniške proge, ki se izvede v odprti gradbeni jami in pozneje zasuje.
+(4) Določbe tega pravilnika za predore se uporabljajo
+tudi za galerije in pokrite vkope.
+49. člen
+(temeljne zahteve pri projektiranju predora)
+(1) Projektiranje in gradnja predorov temeljita na
+podatkih, ki se pridobijo s hidrogeološkimi, geološkimi, geotehničnimi in
+seizmološkimi raziskavami. Pri projektiranju podzemne zgradbe se upoštevajo
+razmere v hribini in lokalna tektonika.
+(2) Predori se projektirajo in gradijo po svetlem
+profilu, opredeljenem v projektni nalogi.
+(3) Vsi konstrukcijski elementi predorov, galerij in
+pokritih vkopov morajo biti projektirani skladno s standardi iz skupine SIST EN
+1997 v povezavi s standardoma SIST EN 1992 in SIST EN 1991. Za tehnične
+zahteve, ki niso urejene s tem pravilnikom, se uporablja podzakonski predpis,
+ki ureja tehnične normative in pogoje za projektiranje cestnih predorov v
+Republiki Sloveniji.
+(4) Skladno s standardom SIST EN 1991-2 se za vpliv
+prometa upoštevajo obremenilna shema 71 ter stalna obtežba in koristne obtežbe
+hribine glede na standarde iz skupine SIST EN 1997.
+(5) PD za predore mora vsebovati tudi načrte
+odvodnjavanja in prezračevanja.
+(6) PD za predore mora biti skladna z določbami TSI, ki
+urejajo podsistem infrastruktura.
+(7) Pri načrtovanju predorov se upoštevajo posebne
+zahteve in omejitve, ki izhajajo iz pogojev gradnje in uporabe predorov.
+(8) PD predora mora biti usklajena z načrtom gradbenih
+konstrukcij zgornjega ustroja, na katerem se gradi, nadgrajuje ali obnavlja.
+(9) Predori morajo biti načrtovani in zgrajeni tako, da
+je zagotovljen varen promet ter preprosto in gospodarno vzdrževanje med
+uporabo.
+(10) Predor mora biti načrtovan in zgrajen tako, da so
+negativni vplivi na okolje med gradnjo in po njej čim manjši.
+(11) Pri načrtovanju predora se izbere ustrezna
+tehnologija izkopa in podgradnje. V PD je treba predvideti tudi druge postopke
+za izvedbo del, kakršna so izdelava začasnih rovov, dostopi na gradbišče,
+razporeditev in organizacija delovišč ter določitev odlagališč izkopanega
+materiala.
+(12) S projektom predora mora biti predvideno in
+zagotovljeno ustrezno vzdrževanje vseh predorskih sistemov in naprav.
+(13) Kadar se enocevni predor načrtuje kot prva faza,
+mora projektna rešitev izhajati iz končne zasnove objekta (dvocevni predor) in
+vsebovati vse potrebne končne oziroma začasne gradbene in prometne ukrepe, ki
+omogočajo nadaljevanje gradnje.
+(14) Projekt predora mora upoštevati nagib nivelete
+proge v predoru, ki je ≥ 2 ‰ pri dolžini predora do 1000 m oziroma ≥ 4 ‰ pri
+dolžini predora večji od 1000 m.
+50. člen
+(prečni profil)
+(1) Prečni profil predora mora biti takšne oblike, da
+prenaša tlak hribine, in dovolj velik, da zagotavlja s projektno nalogo določen
+svetli profil ter izvedbo inštalacij voznega omrežja, prezračevanja,
+odvodnjavanja in reševalnih poti v predoru ter omogoča nemoteno vzdrževanje
+proge.
+(2) Pri prečnem profilu se upoštevajo razširitve za:
+-       
+varnostni prostor,
+-       
+predorske niše,
+-       
+prostor za montažo inštalacij,
+-       
+prostor za gradbeno-tehnične posege in
+-       
+druge razširitve v predoru.
+51. člen
+(preiskave hribine)
+(1) Hribine se preiskujejo fazno, odvisno od stopnje
+zahtevnosti objekta in geološke zgradbe ter drugih vprašanj, ki se pojavijo
+pred in med načrtovanjem in gradnjo predora. Pri preiskovanju se upoštevajo
+pravila stroke v skladu s SIST EN 1997-1 in uveljavljenimi sodobnimi postopki
+preiskav hribin. Obseg in metode preiskav v vsaki fazi morajo biti takšni, da
+je na podlagi rezultatov mogoče doseči cilj vsake od faz – dovolj majhno
+verjetnost, da v poznejših fazah ne bo sprememb.
+(2) S preiskavami se:
+-       
+ugotovijo glavne litološke, tektonske in hidrogeološke značilnosti
+širšega prostora predora,
+-       
+ugotovijo podrobna litološka in tektonska zgradba ter hidrogeološke
+značilnosti ožjega prostora predora,
+-       
+določijo geološke, geotehnične, fizikalne in kemijske lastnosti v danih
+zemljinah in kamninah,
+-       
+ugotovi obstoječe napetostno stanje v hribini,
+-       
+ugotovi možnost obstoja nevarnih plinov v hribini,
+-       
+opredeli verjetnost nastanka kavern, kraških pojavov in drugih
+posebnosti v prostoru načrtovanega predora in
+-       
+ugotovijo kemijske lastnosti in nivo podtalnice.
+(3) V času med gradnjo predora ali galerije usposobljena
+institucija oziroma organizacija izvaja kontrolne preiskave hribine. Rezultati
+kontrolnih preiskav narekujejo uporabo tehnologije gradnje predora in izvajanje
+ukrepov za zagotavljanje varnosti med gradnjo.
+52. člen
+(odvodnjavanje)
+(1) Površinska voda po tem pravilniku je lastna voda s
+površine proge in brežine nad progo ter zaledna voda, ki priteče s površine nad
+brežino vkopa. Podzemna voda pa je ali talna ali hribinska.
+(2) Sistemi odvodnjavanja v predorih so namenjeni
+odvodnjavanju površinske in hribinske vode.
+(3) Sistemi odvodnjavanja se projektirajo ločeno za
+gradnjo in za obratovanje objekta.
+(4) Morebitna hribinska in zaledna voda se mora pravilno
+zajeti in odvesti. Odvodni kanali v predoru so računsko določeni ter odvisni od
+nagiba in količine vode, ki se pričakuje v najneugodnejših okoliščinah.
+(5) Nagib odvodnega kanala mora biti ≥ 0,2 %.
+(6) V enotirnih predorih mora biti odvodni kanal
+praviloma na nasprotni strani proge, kakor je kineta za komunalne inštalacije.
+(7) Kadar pri projektiranju sistemov odvodnjavanja
+podzemnih voda zaradi okoljskih ali ekonomskih razlogov ni mogoče izpolniti
+določb tega pravilnika, je dovoljeno projektiranje predora v nedrenirani
+izvedbi.
+53. člen
+(hribinska voda v dreniranih predorih)
+(1) Hribinska voda se zbira in odvaja z drenažnimi
+cevmi, ki so vgrajene na obeh straneh predora med notranjo oblogo in predorsko
+konstrukcijo. Premer cevi mora biti ≥ 200 mm. Če je transportna
+sposobnost cevi presežena, se hribinska voda na območju čistilnih niš prečno
+odvede v osrednji sistem odvodnjavanja.
+(2) Če s hidravličnim računom v načrtu ni ugotovljeno
+drugače, se priključitev drenaže na osrednji sistem odvodnjavanja hribinske
+vode naredi v vsaki drugi čistilni niši.
+(3) Velikost premera cevi osrednjega sistema
+odvodnjavanja za hribinsko vodo se določi s hidravličnimi računi glede na
+pričakovani dotok. Premer teh cevi mora biti ≥ 300 mm.
+(4) Zbrana hribinska voda se prek usedalnikov odvaja v
+naravno okolje oziroma najbližji vodotok.
+(5) Hribinska voda se zbira in odvaja tako, da je nagib
+drenažnega sistema narejen proti enemu ali obema portaloma.
+(6) Če odvodnjavanja hribinske vode ni mogoče zagotoviti
+z gravitacijskim odvodnjavanjem, se mora izvesti sistem prečrpavanja te vode.
+54. člen
+(hidroizolacija)
+(1) Izvedba hidroizolacije je pri gradnjah predorov
+obvezna, pri nadgradnjah se izvedba opredeli v projektni nalogi na podlagi
+dejanskega stanja predora in možnosti izvedbe. Hidroizolacija je namenjena
+preprečevanju dotoka hribinske vode v predor. Projektirana in izvedena mora
+biti tako, da se trajno prepreči zamakanje in precejanje hribinske vode v
+notranjo betonske oblogo ter zagotovi, da ta obloga ni izpostavljena škodljivim
+kemičnim vplivom, ki so lahko povezani z agresivnimi spojinami v hribinski
+vodi.
+(2) V predorih z elektrovleko se mora preprečiti dotik
+vode z voznim vodom in odjemnikom toka tirnega vozila na električni pogon in
+voda tudi ne sme kapljati na to inštalacijo.
+(3) Hidroizolacija predora se izvede na hribinski strani
+notranje predorske obloge.
+(4) Pred vgradnjo hidroizolacije mora biti površina
+nosilne konstrukcije iz brizganega cementnega betona gladka in obložena s
+filtrsko plastjo geotekstilij, da se hidroizolacija ne poškoduje in se zagotovi
+stekanje vode v drenažo.
+(5) Izbira hidroizolacije je odvisna od agresivnosti
+podzemne vode, tlaka hribine in hidrostatičnega vodnega tlaka.
+(6) Hidroizolacija se lahko izvede kot:
+-       
+sistem zaščitnih geotekstilij, ki je položen na oblogo iz brizganega
+cementnega betona in preprečuje poškodbe notranje, za vodo neprepustne plasti,
+ter za vodo neprepustna hidroizolacija (geomembrana) ali
+-       
+za vodo neprepustna notranja obloga.
+(7) Pri preverjanju neprepustnosti za vodo in prevzemu
+hidroizolacije po sistemu zaščitnih geotekstilij pri gradnji ali nadgradnji
+morajo biti izpolnjene zahteve v skladu s standardom SIST EN 13256.
+55. člen
+(predori z nizkim nadkritjem)
+(1) Pri načrtovanju gradnje predorov z nizkim
+nadkritjem, kadar debelina nadkritja ne presega 1,5 Ø predorske cevi, na
+neposeljenih in poseljenih območjih ter območjih, na katerih predori prečkajo
+obstoječo infrastrukturo, se na vplivnem območju gradnje uporabijo prilagojene
+gradbene metode in upoštevajo dopustni pomiki površja tal.
+(2) Glede na spremenljivost zemljinskih zgradb in
+mogočih vplivov na gradnjo, kakršne so drenirane ali nedrenirane razmere in
+visoki ali nizki nivoji talne vode, se računsko vrednotijo različni scenariji
+in kombinacije neugodnih razmer, da se pravilno določi obseg podpornih
+sistemov.
+56. člen
+(načrtovanje postopkov izkopa)
+(1) Podroben postopek izkopa je določen s PD.
+(2) Če zagotavljanje stabilnih razmer na čelu izkopa
+zahteva faznost slednjega, se načrtujeta:
+-       
+razdelitev prereza izkopa na manjše odseke in
+-       
+podpiranje čela izkopa s hribinskimi sidri, armaturnimi mrežami in
+brizganim cementnim betonom ali puščanjem podpornega jedra, ki preprečuje
+porušitev ali povečane deformacije v izkopni prostor.
+(3)   Pri načrtovanju izkopa z uporabo metode rezanja
+celotnega profila je treba upoštevati, da je stabilnost čela zagotovljena z
+zaprtim rezalnim obročem ali drugimi tehničnimi ukrepi, odvisno od vrtalnih
+lastnosti, ki jih ima izkopni stroj.
+57. člen
+(talni obok)
+(1) V razpokanih, stisljivih, slabo nosilnih in
+nabrekajočih zemljinah in kamninah se načrtuje vgradnja talnega oboka, ki
+zagotavlja zaprt nosilni obroč celotne primarne obloge.
+(2) Oddaljenost talnega oboka od čela izkopa se načrtuje
+glede na hribinsko kategorijo in ugotovitve geotehničnega opazovanja ter mora
+biti prilagojena tehnološkim značilnostim gradnje.
+(3) Kadar so geotehnične razmere izjemno neugodne, se
+načrtuje vgradnja talnega oboka iz brizganega cementnega betona, ki se po potrebi
+dodatno stabilizira s hribinskimi sidri po celotnem obodu izkopnega profila.
+58. člen
+(notranja obloga)
+Notranja obloga mora biti projektirana in izvedena v skladu s
+podzakonskim predpisom, ki ureja tehnične normative in pogoje za projektiranje
+cestnih predorov v Republiki Sloveniji.
+59. člen
+(prezračevanje predora)
+(1) Količina svežega zraka, ki je potrebna za zračenje
+predora, se določi z izračuni s programi za 1D simulacijo zračnih tokov. Če z
+naravnim zračenjem ni mogoče zagotoviti zadostne zračnosti predora, se izvede
+mehansko prezračevanje.
+(2) Novozgrajeni predori, ki so daljši od 5 km, morajo
+biti opremljeni z mehanskim prezračevanjem, če se skozi predor prevažajo
+nevarne snovi. Črpalna zmogljivost prezračevalnega sistema v predoru mora imeti
+kapaciteto odsesavanja zraka najmanj 250 m3/s.
+(3) Naprave za prezračevanje morajo biti redundantne
+izvedbe ter imeti samodejni vklop z možnostjo ročnega vklopa.
+60. člen
+(spremljanje gradnje predora)
+Med gradnjo predorov in portalov se skladno z določili SIST
+EN 1997-1:
+-       
+opravijo geotehnične meritve v predoru,
+-       
+geološko spremlja izkop portalov,
+-       
+opravijo meritve na portalih in meritve posedkov terena na poseljenih
+območjih in
+-       
+izvedejo predorska obloga in podporni ukrepi.
+61. člen
+(redni pregledi)
+Redni pregledi predorov, galerij in pokritih vkopov se
+opravijo enkrat na šest mesecev. Način in vsebino pregledov galerij in pokritih
+vkopov upravljavec predpiše v svojem SVU.
+62. člen
+(glavni pregledi)
+Glavni pregledi predorov, galerij in pokritih vkopov se
+opravljajo enkrat na pet let. Način in vsebino pregledov galerij in pokritih
+vkopov upravljavec predpiše v svojem SVU.
+63. člen
+(izredni pregledi)
+(1) Izredni pregledi galerij in pokritih vkopov se
+opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na varnost železniškega prometa v
+galeriji ali pokritem vkopu,
+-       
+ob nastanku nenadnih večjih poškodb posameznih delov galerije ali
+pokritega vkopa,
+-       
+če upravljavec upravičeno dvomi, ali je v galeriji ali pokritem vkopu
+zagotovljen varen promet.
+(2) Način in vsebino izrednih pregledov upravljavec
+določi v svojem SVU.
+64. člen
+(začetek obratovanja predorov)
+Pred začetkom obratovanja novih, nadgrajenih ali obnovljenih
+predorov upravljavec pripravi dokumentacijo o vzdrževanju v skladu s TSI, ki
+ureja varnost v železniških predorih.
+VI. ODVODNJAVANJE
+65. člen
+(opredelitev)
+(1) Naprave za odvodnjavanje so sestavni del spodnjega
+ustroja ter namenjene nemotenemu odvodu površinskih in podzemnih voda z in iz
+zemeljskega telesa, voda z in iz brežin vkopov nad železniško progo ter že
+zbranih voda z območja predorov, galerij, pokritih vkopov, postajnih območij in
+peronov v najbližje obstoječe vodotoke, ponikovalnice, obstoječo meteorno
+kanalizacijo ali naravno okolje. Odvodnjavanje sestavljajo:
+-       
+odvodni jarki za vzdolžno odvodnjavanje zemeljskega telesa in brežin
+vkopov,
+-       
+odvodni jarki po brežinah vkopov in nasipov,
+-       
+zaščitni jarki,
+-       
+drenaže,
+-       
+prepusti, jaški, kanalizacija in ponikovalnice,
+-       
+objekti za zadrževanje in
+-       
+objekti za čiščenje.
+(2) Vsi elementi odvodnjavanja se projektirajo in
+izvedejo v ustreznih dimenzijah in vzdolžnih nagibih, odvisno od terenskih
+razmer, meteoroloških podatkov, geoloških razmer in velikosti zbirnih površin.
+Projektant mora v hidravličnem izračunu naprav za odvodnjavanje upoštevati
+stoletno povratno dobo ekstremnih padavin. Načrt odvodnjavanja je sestavni del
+načrta zemeljskega telesa ali objekta spodnjega ustroja. Vse sisteme za
+odvodnjavanje je treba projektirati tako, da ne povzročajo spremembe v odtočnem
+režimu odvodnika.
+(3) Sistem odvodnjavanja se določi skladno s SIST EN
+1997-1.
+66. člen
+(odvodni jarki)
+(1) Glede na prečni prerez zemeljskega telesa, kakor je
+določeno v prilogi 1 in prilogi 2 tega pravilnika, se odvodni jarki delijo na:
+-       
+odvodne jarke vzdolž planuma proge v vkopu in
+-       
+odvodne jarke v peti nasipa.
+(2) Širina dna in globina jarka morata biti ≥ 40 cm.
+Naklon brežine jarka je odvisen od geomehanskih lastnosti zemeljskega materiala
+in izbire vrste elementov za oblaganje jarka.
+(3) Odvodni jarki vzdolž planuma proge v vkopu morajo
+poleg vode s planuma prevzemati vodo z brežine vkopa in jo odvajati do
+najbližjega obstoječega odvodnika ali v naravno okolje. Če geološke razmere to
+dopuščajo, se meteorne vode iz odvodnih jarkov lahko odvajajo v obstoječe ali
+nove ponikovalnice na območju proge. Odvodni jarki so namenjeni tudi
+prevzemanju vode iz izcednic zidov in drenaž, postavljenih v pobočje vkopov in
+za podporne zidove, ter iz drenaž, vgrajenih v zemeljsko telo.
+(4) Odvodni jarki z zgornje strani pete nasipa so
+namenjeni prevzemu in odvodu vode s pobočja nad železniškim nasipom in vode, ki
+priteče z brežine tega nasipa.
+(5) Če vodi, ki priteče po brežini na spodnji strani
+nasipa železniške proge, ni mogoče zagotoviti sprotnega odlivanja po terenu od
+nasipa proge navzdol (fizične ovire ali omejitev razlivanja na sosednja
+zemljišča), se vzdolžni odvodni jarek izvede tudi na spodnji strani nasipa.
+(6) Voda iz vzdolžnih jarkov ne sme spodkopavati pete
+nasipa niti pronicati v nasip. Kjer se pričakujejo večji dotoki meteorne vode,
+se profil tega jarka ustrezno poveča. Pri zelo blagi niveleti vzdolžnega jarka
+(< 0,5 %) se slednji obloži s cementno-betonskimi ploščami ali kanaletami,
+pri strmih vzdolžnih nagibih nivelete (> 4 %) pa z lomljencem, vgrajenim v
+betonsko podlogo. Obloge se praviloma nameščajo na dno jarka in na brežino
+jarka do 1/3 višine. Drugačne rešitve in ureditve je treba strokovno
+utemeljiti v načrtu odvodnjavanja.
+(7) Če so na pobočju nad in pod progo ali na območju
+proge občasni izviri podzemne vode ali kotanje, v katerih se zbira meteorna
+voda, se izviri in kotanje povežejo z jarki z omrežjem odvodnih jarkov ob
+zemeljskem telesu železniške proge.
+(8) Oddaljenost jarka od osi tira se zaradi temeljev
+drogov vozne mreže ali drugih naprav, ki vplivajo na odvodnjavanje vzdolž
+proge, lahko spreminja, pri čemer se odtočna sposobnost jarkov ne sme
+zmanjšati.
+(9) Nagib brežin neobloženega jarka za odvodnjavanje,
+izvedenega v slabo vezanem materialu, sme znašati največ 1:2, v vezanem
+materialu 2:3 in v skalnem terenu do 2:1. Nagib brežin obloženih jarkov se
+giblje v mejah od 1:1 do 5:1.
+67. člen
+(odvodni jarki po brežinah vkopov ali nasipov)
+(1) Odvodni jarki po brežinah se izvedejo zato, da se
+prepreči prosto razlivanje vode po brežinah in s tem erozijo njihovih površin.
+Glede na prečni prerez zemeljskega telesa se odvodni jarki po brežinah delijo
+na:
+-       
+jarke za odvod vode iz zaščitnih jarkov nad brežinami in opornimi
+zidovi,
+-       
+jarke za odvod vode iz jarkov na bermah vkopov in nad podpornimi zidovi
+in
+-       
+jarke za odvod vode iz posameznih drenaž.
+(2) Odvodni jarki po brežinah se izvedejo s
+hudourniškimi kanaletami ali obložijo z lomljencem, vsajenim v betonsko
+podlago. Na priključnih mestih se na vzdolžne odvodne jarke vgradijo
+umirjevalni jaški.
+(3) Pri jarkih z večjim dotokom vode se erozija
+njihovega dna prepreči z namestitvijo betonskih ali kamnitih pregrad – pasov,
+ali z izvedbo kaskad iz kamna ali betona.
+(4) Če tla na pobočju nad progo zaradi izvirov ali
+akumulacije vode drsijo, mora upravljavec takoj izvesti začasen sanacijski
+ukrep in izdelati PD sanacije. Začasni sanacijski ukrep je vgradnja montažnih
+ali na kraju samem zgrajenih (betonskih ali kamnitih) odtočnih korit, ki
+omogočijo hiter odtok vode od izvirov ali akumulacij do vzdolžnih odvodnih
+jarkov ob železniški progi, da se prepreči nadaljnje zamakanje zemeljske mase v
+pobočju. Po končani sanaciji je treba elemente za začasno sanacijo, kjer niso
+vključeni v končno rešitev, odstraniti in površino pobočja urediti v prvotno
+stanje.
+68. člen
+(zaščitni jarki)
+(1) Če se s površin nad vkopom pričakuje večji dotok
+površinske (zaledne) vode, se pri gradnji, nadgradnji in obnovi podsistema
+infrastruktura nad brežinami vkopov izvedejo zaščitni jarki, kakor je določeno
+v prilogi 2 tega pravilnika.
+(2) Oddaljenost jarkov od zgornjega roba brežin v vkopu
+mora biti > 5,0 m, če zaradi drugih okoliščin s PD ni določeno drugače.
+(3) Pobočje nad zaščitnim jarkom mora biti oblikovano
+tako, da se v slednjem zbere vsa zaledna voda.
+69. člen
+(skupne določbe za vse vrste jarkov)
+(1) Za pravilno odvajanje vode mora imeti jarek do
+izlivnega mesta istosmeren vzdolžni padec.
+(2) Prečni prerez in vzdolžni nagib odvodnih jarkov ter
+tip njihove obloge določi projektant glede na velikost in obliko prispevnega
+območja, pričakovano intenzivnost padavin, odtočni količnik na površini
+prispevnega območja, vrsto terena, način zavarovanja jarka in potek nivelete
+proge. Obloga mora preprečevati erozijo dna in brežin jarka.
+70. člen
+(drenaže in meteorna kanalizacija)
+(1) Za zajem in odvajanje površinske in talne vode s
+pobočij in telesa proge se, če tega ni mogoče narediti z odprtimi jarki,
+predvidijo in vgradijo drenaže.
+(2) Za odvajanje vode s postajnih platojev, peronov,
+nakladalnih klančin, potnih prehodov in kretnic se izvedejo plitve drenaže.
+(3) Za odvajanje vode iz spodnjega ustroja se izvede
+meteorna kanalizacija v oblikah in dimenzijah, ki zagotavljajo učinkovito
+odvajanje vode.
+(4) Pri projektiranju meteorne kanalizacije na območju
+križanja s progo ali drugimi sistemi mora projektant upoštevati vse vplive
+obtežb na teme kanalizacije.
+(5) Pri priključevanju meteorne kanalizacije na
+obstoječe komunalne naprave je treba upoštevati pravne akte lokalnih skupnosti,
+ki urejajo odvodnjavanje padavinskih voda.
+(6) Na cevnih sistemih vseh vrst se vgradijo revizijski
+jaški v razdaljah, ki omogočajo čiščenje cevi. Jaški morajo biti vidno označeni
+in zaprti s pokrovi ustrezne nosilnosti. Premer jaškov mora biti ≥ 80 cm.
+Jaški, ki so globlji od 2,0 m, morajo imeti vgrajeno lestev, po kateri se
+delavec lahko spusti na dno jaška. Jašek, v katerem je vgrajena lestev, mora
+imeti vstopni del s premerom ≥ 80 cm in nadaljevanje s premerom ≥ 110 cm.
+Vstopne lestve morajo izpolnjevati zahteve SIST EN 14396.
+(7) Revizijske jaške je treba zasnovati tudi povsod tam,
+kjer se stekata dve ali več cevi in kjer se spremeni prečni prerez, smer ali
+padec cevi. Razdalja med jaški znaša ≤ 50 m.
+71. člen
+(prepusti)
+(1) Cevni prepusti zagotavljajo pretok vode skozi
+zemeljsko telo. Izvedejo se lahko tudi kot zaščitne cevi za razne napeljave
+železniških ali drugih sistemov. Na vtokih in iztokih se prepusti zaščitijo z
+vtočno oziroma iztočno glavo, prilagojeno nagibu brežine.
+(2) Minimalna debelina zasutja hn nad temenom cevi od
+GRP navzdol je odvisna od premera cevi in mora znašati:
+-       
+za cevi premera ≤ 1,50 m je hn ≥ 1,50 m, ali
+-       
+za cevi premera > 1,50 m je hn ≥ premer cevi.
+(3) Če minimalne debeline zasutja od temena prepusta do
+GRP zaradi prostorskih, okoljevarstvenih, tehničnih ali ekonomskih razlogov,
+varstva kulturne dediščine, posebno težkih terenskih razmer ali drugih posebej
+utemeljenih razlogov ni mogoče zagotoviti skladno s prejšnjim odstavkom, se na
+podlagi izdelanega projekta in soglasja upravljavca dovoli drugačna rešitev.
+(4) Ne glede na hidravlične ali druge potrebe se za
+vzdrževanje (čiščenje) prepusta uporabijo cevi, katerih svetli premer znaša ≥
+100 cm.
+(5) Vgrajevanje cevi dimenzij ≤ 100 cm je mogoče s
+soglasjem upravljavca.
+(6) Namesto cevnih prepustov se lahko vgradijo tudi
+škatlasti AB-montažni prepusti dimenzije 1,0 x 1,0 m ali večji.
+72. člen
+(ponikovalnice)
+Če je odvod vode iz odprtih jarkov ali drenaž do najbližjega
+odvodnika otežen, se lahko izvedejo ponikovalnice. Dimenzije slednjih določi
+projektant. Ponikovalnice morajo imeti ustrezen pokrov.
+73. člen
+(redni pregledi)
+Redni pregledi sistema odvodnjavanja se opravijo enkrat
+letno. Način in vsebino pregledov upravljavec predpiše v svojem SVU.
+74. člen
+(izredni pregledi)
+(1) Izredni pregledi sistema odvodnjavanja se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na pravilnost delovanja sistema
+odvodnjavanja,
+-       
+ob nastanku nenadnih večjih poškodb posameznih delov sistema,
+-       
+če upravljavec upravičeno dvomi o pravilnosti delovanja sistema
+odvodnjavanja.
+(2) Način in vsebino izrednih pregledov sistemov
+odvodnjavanja upravljavec določi v SVU.
+VII. OBJEKTI ZA ZAŠČITO PRED POVRŠINSKO VODO, PODNEBNIMI
+VPLIVI IN HRUPOM
+75. člen
+(opredelitev)
+(1) Pri gradnji, nadgradnji in obnovi objektov za
+zaščito strukturnega podsistema infrastruktura pred škodnim učinkom vode mora
+naročnik od upravljavca vodotoka pridobiti vodno soglasje skladno z zakonom, ki
+ureja vode.
+(2) Naročnik mora za vsa dela zaščitnih ukrepov zunaj
+zemljišča, s katerim razpolaga, pridobiti pisno soglasje lastnikov parcel.
+76. člen
+(vrste objektov za zaščito)
+Za celovito zaščito strukturnega podsistema infrastruktura in
+njegove okolice ter prometa se uporabijo naslednji zaščitni ukrepi:
+-       
+objekti za zaščito pred naplavinami hudournikov,
+-       
+biološko-tehnični ukrepi,
+-       
+objekti za reguliranje rečnih tokov,
+-       
+objekti za zaščito pred snežnimi zameti in plazovi,
+-       
+objekti za zaščito pred vetrom ali
+-       
+objekti za zaščito okolice proge pred hrupom.
+77. člen
+(objekti za zaščito pred naplavinami hudournikov)
+(1) Projektiranje in gradnja zaščite proge pred
+hudourniškimi naplavinami morata zagotavljati preprečitev škodnega delovanja
+hudournikov na strukturni podsistem infrastruktura.
+(2) Izvori naplavin v hudourniškem koritu se zajezijo z
+zagraditvenimi objekti v odsekih korita, kjer je na podlagi konfiguracije
+terena mogoče predvideti aktivne spremembe (rušenja, lezenja), ali v profilih
+hudournika, kjer je mogoče dosegati največje zadrževanje naplavin. V ta namen
+se uporabljajo prečne zgradbe, regulacijski kanali in prodni zadrževalniki.
+Projektant mora predvideti ustrezne dostope za vzdrževanje teh objektov.
+(3) Prečne zgradbe se projektirajo in zgradijo v hudourniškem
+koritu prečno na tok. S tem se stabilizira prečni profil korita, zavaruje
+korito pred erozijo, zadrži naplavina, ublaži nagib nivelete korita in zmanjša
+hitrost vodnega toka.
+(4) Ne glede na sistem izvedbe morajo regulacijski
+kanali izpolnjevati naslednje pogoje:
+-       
+kadar kanal prečka progo, mora biti križanje, če je to le mogoče, pod
+pravim kotom,
+-       
+normalni prečni profil kanala mora biti, če je to le mogoče, enak po
+vsej dolžini kanala in
+-       
+kanal se izpelje tako, da je kota njegovega dna ob izlivu po možnosti na
+koti srednje nizke vode v glavnem odvodniku.
+(5) Vzporedno z gradnjo hidrotehničnih objektov v koritu
+je treba urediti tudi sotočja vodotokov.
+(6) Upravljavec mora za vse objekte znotraj progovnega
+pasu iz tega člena pravilnika zagotavljati vzdrževanje, da se preprečuje škodno
+delovanje hudournikov.
+78. člen
+(biološko-tehnični ukrepi)
+(1) Po tem pravilniku so biološko-tehnični ukrepi
+pogozdovanje in zatravitev brežin, izpostavljenih eroziji, ter izvedba odvodnih
+kanalov ali zadrževalnih zidov, ki preprečujejo erozijo pobočij nad in pod
+železniško progo.
+(2) Upravljavec izvaja biološko-tehnične ukrepe po PD,
+ki jo pripravijo strokovnjaki gozdarske, agronomske in hidrološke stroke.
+(3) Pri pogozdovanju se zasadijo drevesne vrste glede na
+vremenske in pedološke razmere na brežini. Oddaljenost zasaditve mora biti
+takšna, da vrh odraslega drevesa ob morebitni prevrnitvi ne seže bližje kakor
+3,0 m od osi skrajnega tira in da je zagotovljena vidnost signalnovarnostnih
+naprav in požarna varnost.
+(4) Upravljavec mora pogozdene in zatravljene brežine
+vzdrževati tako, da jih zasaditev varuje pred erozijo in da je zagotovljena
+vidnost signalnovarnostnih naprav in požarna varnost.
+79. člen
+(objekti za reguliranje rečnih tokov)
+(1) Če visoka voda v rečnem toku ogroža stabilnost
+zemeljskega telesa proge, se rečni tok regulira lokalno. Pobočja nasipov
+oziroma terena, na katerem leži proga, se zaščitijo z različnimi obrežnimi
+utrjevalnimi objekti, kakršni so vzdolžne ali prečne zgradbe, odvisno od cilja,
+ki ga je treba doseči.
+(2) Za utrjevanje nestabilnih brežin in za oporo
+brežinam proti spodkopavanju noge (pete) nasipa se izvedejo vzdolžne zgradbe,
+kakršne so kameni namet, zloženi kamen, tlakovanje, kamnita obloga, betonska
+obloga, žične košare in montažne AB-kašte.
+(3) V širših profilih rečnih korit z nizkimi bregovi se
+učinkovita in trajna zaščita pred erozijo doseže z dodatnimi zasaditvami
+drevja.
+(4) Poškodovane obrežne zgradbe se najprej dodatno
+zavarujejo z večjim in težjim kamenjem, nato pa se sanirajo objekti in brežine
+v skladu s projektom.
+(5) Prečne zgradbe se uporabljajo, kadar je treba
+zaščititi rečno dno pred nadaljnjim poglabljanjem, pa tudi za zaščito vzdolžnih
+objektov pred spodkopavanjem. Prečne zgradbe so jezbice in pragovi. Gradijo se
+kot kameni nameti ali kot zid iz kamna oziroma betona. Izpostavljene so
+poškodbam zaradi udarcev vode in nanosov, zlasti zaradi poglabljanja, ki ga
+povzroča voda, prelivajoča se čez zgradbe.
+80. člen
+(objekti za zaščito pred snežnimi zameti)
+(1) Upravljavec mora na vseh izpostavljenih mestih
+proge, na katerih ugotovi nevarnost nastajanja snežnih zametov, izvesti
+zaščitne ukrepe, ki jih določi v svojem SVU. Snežni zameti na progi, ki jih
+povzroča veter, se preprečujejo z zaščitnimi objekti, ki so namenjeni
+zadrževanju snega pred progo ali prenašanju snega na njeno drugo stran.
+(2) Objekti in ukrepi za zaščito pred snežnimi zameti
+so:
+-       
+prenosni in stalni snegolovi,
+-       
+drevesni ščitni nasadi in
+-       
+galerije, predori in pokriti vkopi.
+(3) Prenosni snegolovi se uporabljajo na območjih, kjer
+so snežni zameti občasni in manj ogrožajo promet. Postavljajo se na krajih,
+izpostavljenih vetrovom hitrosti ≤ 14 m/s.
+(4) Linija za postavljanje prenosnih snegolovov in
+njihova višina se določita za vsak ogroženi kraj posebej, tako da so od bližjega
+tira oziroma gornjega roba pobočja nizkih vkopov oddaljeni za 8- do 15-kratno
+višino snegolova.
+(5) Vzdrževanje snegolovov določi upravljavec v svojem
+SVU.
+(6) Stalni snegolovi (nepremične pregrade in bariere) se
+postavljajo na krajih, ki so pozimi vedno zameteni, katerih dostop je otežen in
+na katerih terenske razmere ne omogočajo
+zasajanja gozdnih varovalnih pasov. Višina stalnih snegolovov
+je odvisna od stopnje zameta iz leta največjega zameta, ki je nastal kadar koli
+prej, giblje pa se od 3 do 7 m.
+(7) Kadar se snegolovi ali drugi zaščitni objekti
+postavljajo na zemljišču, ki ni v lasti upravljavca proge, je treba za njegovo
+uporabo pridobiti soglasje lastnika.
+(8) Drevesni ščitni nasadi kot popolna in trajna zaščita
+pred zameti se zasadijo povsod tam, kjer so zameti stalni, zasaditev pa
+omogočajo terenske, pedološke in podnebne razmere. Drevesni nasad meri v širino
+10 do 25 m.
+(9) Vrsto in razpored sadik v zaščitnem nasadu proti
+snegu določi strokovnjak gozdarske ali agronomske stroke.
+(10) Galerije, predori ali pokriti vkopi so lahko tudi
+zaščitni ukrep pred snežnimi zameti, kjer so ti izjemno veliki in dolgotrajni.
+81. člen
+(objekti za zaščito pred snežnimi plazovi)
+(1) Na krajih, kjer je verjetnost plazenja velika, se
+njegov nastanek oziroma proženje prepreči s postavitvijo enostavnejših objektov
+vzporedno z izohipsami. Ti objekti so lahko iz kamna, lesa ali jeklenih
+profilov, njihova višina pa se določi na podlagi nagiba terena, količine snega
+in vzdržljivosti materiala, iz katerega so izdelani. Na terenih, kjer so
+plazovi reden pojav in terenske razmere to dopuščajo, je zasaditev zaščitnega
+gozda obvezna.
+(2) Če terenske razmere dopuščajo, se že sproženi
+plazovi preusmerijo iz naravne smeri tako, da proga ni ogrožena.
+(3) Preusmerjanje se izvede s postavljanjem preprek pod
+kotom 30° do 60° nasproti gibanju plazu. Prepreke za preusmeritev plazov se
+izvedejo kot suhi zidovi ali AB-konstrukcije, na položnejših pobočjih pa kot
+zemeljski nasipi ali lesene prepreke.
+(4) Proga se pred plazovi lahko zaščiti tudi z
+zgraditvijo galerije.
+82. člen
+(objekti za zaščito pred vetrom)
+(1) Upravljavec mora na vseh izpostavljenih mestih
+proge, kjer je veter povzročil izredni dogodek, določiti v svojem SVU merila za
+določitev zaščitnih ukrepov pred vetrom ter vrsto in obseg teh ukrepov na
+posameznem mestu.
+(2) Zaščitni ukrepi so:
+-       
+kamniti zidovi,
+-       
+AB-zidovi,
+-       
+protivetrne ograje iz umetnih materialov in
+-       
+drevesni zaščitni nasadi.
+(3) Na območjih, kjer je predvidena hkratna zaščita
+okolice pred hrupom in proge pred vetrom, je lahko zaščita pred vetrom
+protihrupna ograja.
+(4) Objekti za zaščito pred vetrom se gradijo neposredno
+ob progi z upoštevanjem svetlega profila in vseh naprav ob progi. Biti morajo
+projektirani in izvedeni tako, da zagotavljajo preglednost signalnovarnostnih
+naprav in omogočajo vzdrževalna dela zgornjega ustroja s strojno mehanizacijo.
+(5) Drevesni nasadi se zasadijo na tistih krajih, kjer
+so zanje ugodne terenske in pedološke razmere. Širina nasada se giblje od 5 do
+15 m, drevesa pa so v medsebojnih razmikih od 1 do 5 m. Oddaljenost zasaditve
+mora biti takšna, da vrh drevesa ob morebitni prevrnitvi ne seže bližje kakor
+3,0 m od osi skrajnega tira. V primeru, da je niveleta okoliškega zemljišča
+višje od nivelete proge, se mora višini nasada prišteti celotna višinska
+razlika terena nad progo.
+(6) Vrsto in razpored sadik v drevesnem zaščitnem nasadu
+določi strokovnjak gozdarske ali agronomske stroke.
+83. člen
+(zaščita okolice pred hrupom s proge)
+(1) Ukrepi za zaščito okolice pred hrupom s proge
+varujejo bivalno okolje pred čezmernim hrupom, ki ga povzroča železniški
+promet. Postavljajo se čim bliže proge, kjer je učinek največji. Za zaščito se
+uporabljajo protihrupne ograje, lahko pa tudi zaščitni nasipi ob progi z
+ustrezno zasaditvijo. Izbira je odvisna od razpoložljivega zemljišča.
+(2) Pri izdelavi projektnih rešitev za protihrupne
+ograje se upoštevajo naslednje minimalne oddaljenosti najbližjega dela
+protihrupnih ograj od osi tira, kot sledi:
+-       
+Enotirna proga
+a)   
+v primeru, da je protihrupna ograja na eni strani proge, znaša minimalna
+oddaljenost protihrupnih ograj od osi tira 3000 mm in
+b)   
+v primeru, da je protihrupna ograja na obeh straneh proge, znaša
+minimalna oddaljenost protihrupnih ograj od osi tira 3500 mm oziroma izjemoma
+3300 mm, če je tir v premi, na eni strani proge oziroma minimalno 3000 mm na
+drugi strani proge.
+-       
+Dvotirna proga
+Minimalna oddaljenost protihrupnih ograj od
+osi tira je 3500 mm oziroma izjemoma 3300 mm, če je tir v premi.
+-       
+Območje kretnic
+Minimalna oddaljenost protihrupnih ograj
+(panela) od osi tira je 6000 mm zaradi vzdrževanja kretnic (menjava kretniških
+pragov dolžine od 2600 mm do 4800 mm).
+(3) Pri gradnji in nadgradnji je treba zagotoviti
+izpolnjevanje pogojev varstva naravnega in bivalnega okolja pred hrupom, ki so
+določeni v predpisu, ki ureja mejne vrednosti kazalcev hrupa v okolju, ter v
+predpisu, ki ureja ocenjevanje in urejanje hrupa v okolju.
+(4) Če se protihrupni ukrep pri gradnji in nadgradnji
+proge izvede s protihrupno ograjo, je treba izdelati projekt, ki mora vsebovati
+študijo oblikovanja protihrupnih ograj. Pri tem mora sodelovati krajinski
+arhitekt, upoštevati pa je treba zahteve krajinsko arhitekturnega urejanja.
+Projekt mora predvideti tudi ustrezno ozemljitev nosilne konstrukcije
+protihrupne ograje glede na obstoječo ali predvideno elektrifikacijo proge.
+(5) Pred izdelavo projekta za protihrupne ukrepe pri
+nadgradnji proge je treba pridobiti kataster komunalnih in drugih vodov ter
+opraviti potrebne raziskave kakovosti vgrajenega materiala na obstoječih
+objektih, če se vanje sidrajo nove protihrupne ograje. Če se posega na
+zemljišča zunaj meja JŽI, je treba izdelati katastrski elaborat. Pridobiti je
+treba tudi projektne pogoje, smernice in soglasja upravljavcev obstoječih in
+predvidenih komunalnih vodov.
+(6) Sama postavitev protihrupnih ukrepov ne sme ovirati
+vzdrževanja na podsistemu infrastruktura, ne sme poslabšati obstoječega sistema
+odvodnjavanja in ne sme posegati v vodne objekte, ki so urejeni z zakonom, ki
+ureja vode, in mora omogočati vidnost signalov.
+(7) Projekt protihrupnih ukrepov mora upoštevati
+obremenitve vetra skladno s SIST EN 1991-1-4, dinamični tlak vetra zaradi
+mimovozečih vozil, obremenitve zaradi pluženja snega in dinamične obremenitve
+zaradi udarca kamnov oziroma odpadlih delov zavornega sistema, vse v skladu s
+SIST EN 1794-1 in SIST EN 16727.
+(8) Predvideni gradniki protihrupnih ukrepov morajo
+zagotavljati naslednje lastnosti:
+-       
+korozijsko odpornost kovinskih delov,
+-       
+UV-odpornost in trajnost,
+-       
+ognjevzdržnost E60,
+-       
+zmrzlinsko odpornost betonskih delov in
+-       
+zadostitev mehanskim karakteristikam vseh elementov glede materiala in
+konstrukcije kot celote skladno s SIST EN 1794-1 in SIST EN 16727-1.
+(9) Za samo učinkovitost akustičnih panelov je treba
+pridobiti certifikat CE po standardih SIST EN 16272-1, SIST EN 16272-2 in SIST
+EN 16272-3.
+(10) Terenske meritve učinkovitosti akustičnih panelov
+se opravijo skladno s standardom SIST EN 16272-4 in SIST EN 16272- 6.
+(11) Po izvedbi protihrupnih ukrepov se okoljski
+monitoring izvaja skladno s predpisom, ki ureja prvo ocenjevanje in obratovalni
+monitoring za vire hrupa ter pogoje za njihovo izvajanje.
+84. člen
+(redni pregledi)
+Redni pregledi objektov in nasadov iz tega poglavja se
+opravljajo enkrat letno. Način in vsebino pregledov upravljavec predpiše v
+svojem SVU.
+85. člen
+(izredni pregledi)
+(1) Izredni pregledi objektov in nasadov iz tega
+poglavja se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na varnost železniškega prometa,
+-       
+ob nastanku nenadnih večjih poškodb posameznih delov objekta,
+-       
+če upravljavec upravičeno dvomi o trdnosti in nosilnosti objektov.
+(2) Način in vsebino izrednih pregledov objektov in
+nasadov iz tega poglavja upravljavec določi v SVU.
+VIII. OBJEKTI IN NAPRAVE
+1. Peron
+86. člen
+(opredelitev)
+Peron je objekt na železniški postaji ali postajališču,
+lociran med tire (otočni peron) oziroma ob njih (bočni peron) ter namenjen
+sprejemanju in odpravljanju potnikov, prtljage in pošiljk na vlak ali z njega.
+87. člen
+(projektiranje in gradnja)
+(1) Peron mora biti projektiran, grajen, nadgrajen,
+obnovljen in vzdrževan skladno s TSI, ki ureja dostopnost za invalide in
+funkcionalno ovirane osebe, TSI, ki ureja podsistem infrastruktura, predpisom,
+ki ureja zgornji ustroj železniških prog, in predpisom, ki ureja opremljenost
+železniških postaj in postajališč.
+(2) Dolžina perona se določi glede na kategorijo proge
+po TSI, ki ureja strukturni podsistem infrastruktura, in mora biti skladna z
+Nacionalnim izvedbenim načrtom za železniško infrastrukturo.
+(3) Peron se lahko izvede iz peronskih L-elementov,
+nasipni material za peronskim zidom pa je sestavljen iz stabilne, za vodo
+prepustne in zmrzlinsko odporne kamnite mešanice, na katero se položi zaključni
+sloj. Nasipni material mora biti utrjen na Ev(2) > 60 MN/m2.
+(4) Z odobritvijo upravljavca se peron lahko izvede tudi
+drugače, kakor je predpisano v prejšnjem odstavku.
+(5) Zunanji rob perona mora biti zaključen z betonskim
+robnikom.
+(6) Pohodna površina perona mora biti v vseh vremenskih
+razmerah nedrseča in odporna proti zmrzovanju ter mora omogočati preprosto
+vzdrževanje in čiščenje. Biti mora poravnana z robom peronskega elementa
+oziroma zidu.
+(7) Če se pohodna površina peronov izvede s tlakovanjem,
+mora biti pohodna površina tlakovcev ravna, stiki med slednjimi v celoti
+zapolnjeni, njihova debelina pa mora biti ≥ 6,0 cm.
+(8) Na pohodni površini perona morajo biti neravnosti
+≤ 0,5 cm. Izjeme so talne varnostne oznake in usmerjevalni trakovi.
+(9) Jaški v peronu morajo biti izven poteka talnih
+varnostnih oznak in usmerjevalnih trakov. Pokrovi jaškov morajo biti vgrajeni
+na višini pohodne površine perona.
+(10) Peron, katerega višina je ≥ 1,0 m od okoliškega
+terena, se zavaruje proti padcem v globino z varnostno ograjo višine ≥ 1,0 m,
+ki mora biti protikorozijsko zaščitena in ozemljena in omogočen mora biti iztek
+kondenzne vode iz notranjosti konstrukcije. Pri projektiranju in izvedbi ograj
+se smiselno upoštevajo določila, predpisana v TSC 07.103.
+(11) Oprema perona mora pri gradnji, nadgradnji in
+obnovi ustrezati določilom TSI, ki ureja dostopnost za invalide in funkcionalno
+ovirane osebe, Nacionalnemu izvedbenemu načrtu v zvezi z dostopnostjo
+železniškega sistema Unije za invalide in funkcionalno ovirane osebe in
+predpisom, ki urejajo opremljenost železniških postaj in postajališč.
+88. člen
+(odvodnjavanje)
+(1) Odvodnjavanje peronskih površin se izvede s prečnim
+nagibom perona, ki je lahko enostranski ali dvostranski.
+(2) Velikost prečnega nagiba perona je odvisna od vrste
+pohodne površine, podnebnih značilnosti in nadkritosti peronov. Prečni nagib
+mora biti ≥ 2 % in ≤ 4 %.
+(3) Pri bočnih peronih se izvede enostranski nagib stran
+od tira. Ob robniku na zunanji strani perona se vgradi kanaleta, ki odvaja
+meteorno vodo vzdolž perona. Kadar je omogočeno odvodnjavanje meteorne vode
+prosto po brežini, vgradnja kanalete vzdolž perona ni zahtevana.
+(4) Pri otočnih peronih se izvede dvostranski nagib
+proti sredini perona. V osi spremembe nagiba površine perona se vgradi
+kanaleta, ki odvaja meteorno vodo vzdolž perona.
+(5) Voda z nadstreškov in streh zavetišč se odvaja v
+meteorno kanalizacijo skozi votle nosilne stebre ali vertikalne odtočne cevi,
+postavljene ob teh stebrih. Če je nadstrešek ali streha zavetišča nagnjena
+proti tirom, mora biti na njenem robu vgrajen žleb.
+(6) Voda s peronov, nadstreškov in streh zavetišč se
+odvaja v meteorno kanalizacijo ali v ponikovalnico.
+89. člen
+(redni pregledi)
+Redni pregledi peronov se opravijo enkrat letno. Način in
+vsebino pregledov upravljavec predpiše v svojem SVU.
+90. člen
+(izredni pregledi)
+(1) Izredni pregledi peronov iz tega poglavja se
+opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na peron in varnost uporabnikov
+perona,
+-       
+ob nastanku nenadnih večjih poškodb konstrukcije perona.
+(2) Način in vsebino pregledov upravljavec predpiše v
+svojem SVU.
+2. Dostop do peronov
+91. člen
+(opredelitev)
+(1) Dostopi do peronov so nivojski in izvennivojski,
+izvedeni kot podhodi oziroma nadhodi.
+(2) Podhod oziroma nadhod je del potniške postaje ali
+postajališča za izvennivojski dostop potnikov do peronov.
+92. člen
+(projektiranje in gradnja)
+(1) Izvennivojski dostop do perona mora biti projektiran
+in izveden tako, da omogoča čim lažji dostop potnikom in funkcionalno oviranim
+osebam. Dostopi morajo biti projektirani skladno s standardom SIST ISO 21542.
+(2) Konstrukcijski elementi nadhoda morajo biti
+dimenzionirani skladno s standardi iz skupine SIST EN 1991. Betonski deli
+nadhoda morajo biti dimenzionirani skladno s standardi SIST EN 1992, jekleni s
+standardi SIST EN 1993 in sovprežne konstrukcije s standardi iz skupine SIST EN
+1994. Pri dimenzioniranju je treba upoštevati potresno varnost skladno s
+standardi iz skupine SIST EN 1998.
+(3) Razdalja konstrukcijskih elementov nadhoda od osi
+skrajnih tirov mora biti ≥ 3,0 m. Minimalna razdalja teh elementov nad GRT
+mora zagotavljati izvedbo zaščitnih ukrepov pred nevarnostjo dotika vodov voznega
+omrežja, ki so pod napetostjo, kakor je določeno v 39. členu tega
+pravilnika.
+(4) Konstrukcijski elementi podhoda morajo biti
+dimenzionirani skladno s standardi iz skupin SIST EN 1991, SIST EN 1992 in SIST
+EN 1997.
+(5) Konstrukcija podhoda se projektira za prevzem
+obremenitev skladno s SIST EN 1991-2. Upošteva se obremenilna shema 71, kakor
+je določeno v SIST EN 1991-2; dodatno se za kontinuirane mostove upošteva
+obremenilna shema SW/0, kakor je določeno v SIST EN 1991-2. Obremenilne sheme
+se pomnožijo s faktorjem alfa, kakor je določeno v SIST EN 1991-2.
+(6) Dimenzije podhoda in nadhoda za dostop potnikov na
+peron morajo biti na vseh progah skladne s TSI, ki ureja dostopnost za invalide
+in funkcionalno ovirane osebe.
+(7) Material, uporabljen za pohodno površino podhodov in
+nadhodov ter dostopnih poti, mora zagotavljati, da je pohodna površina v vseh
+vremenskih razmerah nedrseča in odporna proti zmrzovanju ter da jo je mogoče
+preprosto vzdrževati in čistiti. Če je pohodna površina izvedena iz nedrsečega eruptivnega
+materiala, mora biti debelina eruptivnega materiala ≥ 3,0 cm.
+93. člen
+(odvodnjavanje podhodov)
+(1) Voda iz podhodov se z linijskimi kanaletami odvaja v
+meteorno kanalizacijo ali ponikovalnico.
+(2) Voda s strehe nadhoda se skozi votle nosilne stebre
+ali vertikalne odtočne cevi, postavljene ob teh stebrih, odvaja v meteorno
+kanalizacijo ali ponikovalnico.
+94. člen
+(redni pregledi)
+Redni pregledi podhodov in nadhodov se opravijo enkrat letno.
+Način in vsebino pregledov upravljavec predpiše v svojem SVU.
+95. člen
+(glavni pregledi)
+Glavni pregledi podhodov in nadhodov se opravijo najmanj
+enkrat na pet let. Način in vsebino glavnega pregleda upravljavec predpiše v
+svojem SVU.
+96. člen
+(izredni pregledi)
+(1) Izredni pregledi podhodov in nadhodov iz tega
+poglavja se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na varnost uporabnikov izvennivojskega
+dostopa do peronov in na varnost železniškega prometa,
+-       
+ob nastanku nenadnih večjih poškodb posameznih delov dostopa do perona,
+-       
+če upravljavec upravičeno dvomi, ali je dostop do peronov varen.
+(2) Način in vsebino pregledov upravljavec predpiše v
+svojem SVU.
+3. Nakladalne klančine
+97. člen
+(opredelitev)
+(1) Nakladalna klančina omogoča varno in lažje
+natovarjanje oziroma iztovarjanje tovora na oziroma v vagone.
+(2) Dostopi na nakladalno klančino morajo biti izvedeni
+tako, da omogočajo čim lažji dostop cestnim vozilom.
+98. člen
+(projektiranje in gradnja)
+(1) Nakladalna klančina mora biti projektirana, grajena,
+nadgrajena, obnovljena in vzdrževana tako, da omogoča varno natovarjanje
+oziroma iztovarjanje tovora na vagon.
+(2) Oddaljenost nakladalne klančine od osi tira mora
+biti skladna s predpisom, ki ureja zgornji ustroj železniških prog.
+(3) Višina nakladalne klančine je razdalja, merjena od
+gornjega roba tirnice do vrha klančine, in mora izpolnjevati zahteve predpisa,
+ki ureja zgornji ustroj železniških prog.
+(4) Dolžina nakladalne klančine je odvisna od
+tehnologije dela in se določi s projektno nalogo. Dolžina bočne nakladalne
+klančine mora biti ≥ 25,0 m.
+(5) Širina nakladalne klančine mora biti zadostna za
+manevriranje največjega vozila, ki bo predvideno uporabljalo klančino, in sicer
+tudi takrat, ko ob njej stoji železniško vozilo. Njena minimalna širina je 4,0
+m.
+(6) Konstrukcijski elementi nakladalne klančine morajo
+biti dimenzionirani skladno s standardi iz skupin SIST EN 1991, SIST EN 1992 in
+SIST EN 1997.
+(7) Zgornji rob zidu nakladalne klančine mora biti s
+kovinskim kotnikom dimenzij 5 x 5 x 50 cm zavarovan proti
+mehanskim poškodbam.
+(8) Površina nakladalne klančine mora biti takšna, da jo
+je mogoče preprosto vzdrževati in čistiti. Njena zgornja površina mora biti iz
+materiala, ki je odporen proti zmrzovanju in soljenju.
+99. člen
+(odvodnjavanje nakladalne klančine)
+(1) Odvodnjavanje površin nakladalne klančine se izvede
+z njenim enostranskim prečnim nagibom. Nagnjena mora biti stran od tira.
+(2) Prečni nagib nakladalne klančine mora biti ≥ 1 % in
+≤ 4 %.
+100. člen
+(redni pregledi)
+Redni pregledi nakladalnih klančin se opravijo enkrat letno.
+Način in vsebino pregledov upravljavec predpiše v svojem SVU.
+101. člen
+(izredni pregledi)
+(1) Izredni pregledi nakladalnih klančin iz tega
+poglavja se opravijo:
+-       
+ob izrednih dogodkih, ki vplivajo na varnost železniškega prometa in
+varnost uporabnikov nakladalne klančine,
+-       
+ob nastanku nenadnih večjih poškodb konstrukcije nakladalne klančine.
+(2) Način in vsebino pregledov upravljavec predpiše v
+svojem SVU.
+4. Tirne tehtnice
+102. člen
+(opredelitev)
+(1) Tirne tehtnice so namenjene tehtanju tirnih vozil.
+Uporabljajo se lahko:
+-       
+neavtomatske tehtnice za tehtanje tirnih vozil v mirovanju in
+-       
+avtomatske tehtnice za tehtanje tirnih vozil v gibanju.
+(2) Za tehtanje tirnih vozil se lahko uporabljajo
+tehtnice, ki izpolnjujejo pogoje v skladu z zakonom, ki ureja meroslovje, in na
+njegovi podlagi izdanimi podzakonskimi predpisi.
+103. člen
+(projektiranje in gradnja)
+(1) Na območju tirne tehtnice mora biti tir v premi in
+horizontali.
+(2) Tir mora biti v premi in horizontali najmanj za
+večjo od naslednjih vrednosti:
+-       
+30 m pred in za tirno tehtnico,
+-       
+vrednost, ki je določena v certifikatu o odobritvi oziroma pregledu tipa
+tehtnice.
+(3) Pri postavljanju novih merilnih mest za tehtanje
+tirnih vozil vgradnja mehanskih tirnih tehtnic ni dovoljena.
+(4) Tirne tehtnice se vgrajujejo v skladu z navodili
+proizvajalca in certifikatom o odobritvi oziroma pregledu tipa tehtnice.
+104. člen
+(redne overitve)
+(1) Redne overitve tirnih tehtnic morajo biti izvedene v
+skladu z zakonom, ki ureja meroslovje, in na njegovi podlagi izdanimi
+podzakonskimi predpisi.
+(2) Za nadzor nad stanjem postajnega tira pred in za
+tirno tehtnico, s čimer se zagotavljata njeno pravilno delovanje ter trajnost
+njenih naprav in objektov, poskrbi njen lastnik s sodelovanjem upravljavca.
+(3) Lastnik tehtnice vsako leto sestavi letni načrt
+overitev tirnih tehtnic v naslednjem letu.
+105. člen
+(izredne overitve)
+(1) Izredne overitve tirnih tehtnic iz tega poglavja se
+opravijo v primerih, določenih z zakonom, ki ureja meroslovje, in na njegovi
+podlagi izdanimi podzakonskimi predpisi.
+(2) Dodatno se izredne overitve opravijo v naslednjih
+primerih:
+-       
+ob izrednih dogodkih, ki bi lahko vplivali na pravilno delovanje tirne
+tehtnice,
+-       
+ob nastanku nenadnih večjih poškodb tirne tehtnice,
+-       
+če lastnik tirne tehtnice upravičeno dvomi o pravilnosti njenega
+delovanja.
+5. Naprave za preskrbo z vodo
+106. člen
+(opredelitev)
+Naprave in objekte za preskrbo z vodo sestavljajo črpalne
+naprave, vodni stolpi z rezervoarji, napajalniki, postajni vodnjaki,
+rezervoarji, vodovodno omrežje, kanali za odvajanje vode, kanali za gravitacijski
+dovod vode in hidranti.
+107. člen
+(vzdrževanje)
+Upravljavec mora naprave in objekte za preskrbo z vodo
+ohranjati v funkcionalnem stanju. Način in vsebino vzdrževanja upravljavec
+predpiše v svojem SVU.
+IX. PREHODNE IN KONČNE DOLOČBE
+108. člen
+(ukrepi pred začetkom uporabe pravilnika)
+Do začetka uporabe tega pravilnika mora upravljavec seznaniti
+osebje, na katero se nanašajo določbe tega pravilnika, z vsebino teh določb.
+Usposobljenost osebja se preveri na način, kot ga določa SVU upravljavca.
+109. člen
+(sistem varnega upravljanja – SVU)
+(1) Šteje se, da je v SVU upravljavca, ki ima veljavno
+varnostno pooblastilo na dan uveljavitve tega pravilnika, kot njegov sestavni
+del vključena vsebina določb prvega do petega odstavka 22. člena,
+33. člen, 50. člen, 73. člen, 84. člen, peti in sedmi
+odstavek 89. člena, 96. člen, 102. člen, 109. člen,
+119. člen, 122. člen, 123. člen, 124. člen, točka a)
+priloge 5, točka a) priloge 6, točka a) priloge 9, točka a) priloge 11, točka
+a) priloge 12, točka a) priloge 13, točka a) priloge 14, točka a) priloge 15,
+točka a) priloge 16 in točka a) priloge 17 Pravilnika o spodnjem ustroju
+železniških prog (Uradni list RS, št. 93/13 in 30/18 – ZVZelP-1).
+(2) Upravljavci morajo za spremembo pravil v svojem SVU,
+ki so določena v prejšnjem odstavku, pridobiti predhodno potrditev varnostnega
+organa.
+110. člen
+(dopolnitev SVU)
+Upravljavec mora dopolniti svoj SVU z določitvijo načina in
+vsebino pregledov iz 20., 21., 30., 31., 44., 45., 46., 61., 62., 63., 73.,
+74., 84., 85., 89., 90., 94., 95., 96., 100., 101. in 107. člena
+tega pravilnika v enem letu od uveljavitve tega pravilnika.
+111. člen
+(prenehanje uporabe predpisov)
+Z dnem začetka uporabe tega pravilnika se preneha uporabljati
+Pravilnik o spodnjem ustroju železniških prog (Uradni list RS, št. 93/13
+in 30/18 – ZVZelP-1).
+112. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije, uporabljati pa se začne šest mesecev po njegovi
+uveljavitvi.
+Št. 007-28/2020/47
+Ljubljana, dne 15. februarja 2022
+EVA 2020-2430-0016
+Jernej Vrtovec
+minister
+za infrastrukturo
+
+Priloga
+1: Prečni prerez zemeljskega telesa v nasipu
+Priloga
+2: Prečni prerez zemeljskega telesa v vkopu
+Priloga
+3: Razvrstitev zemljin in kamnin v kategorije
+Priloga
+4: Razširitev nasipa
+Priloga
+5: Oddaljenost konstrukcijskih elementov od osi skrajnega tira
+Priloga
+6: Zaščitna stena pred dotikom vododov VO, ki so pod napetostjo

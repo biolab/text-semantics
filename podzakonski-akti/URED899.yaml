@@ -1,0 +1,17 @@
+Text file: URED899.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1353106800000000000
+- null
+- null
+- 10
+idPredpisa: URED899
+idPredpisaChng: URED899
+instock: .nan
+naslov: "UREDBA o upravljanju z voja\u0161kimi nepremi\u010Dninami (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2012/32/2012-01-3240-1995-01-3298-npb3
+sopPredpisa: 2012-01-3240
+sopPredpisaChng: 1995-01-3298

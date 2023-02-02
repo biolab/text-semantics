@@ -1,0 +1,18 @@
+Text file: PRAV10813.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1318888800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10813
+idPredpisaChng: PRAV10813
+instock: .nan
+naslov: "PRAVILNIK Slovenskega filmskega centra, javne agencije Republike Slovenije\
+  \ o upravi\u010Denih stro\u0161kih sofinanciranih projektov (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2011/35/2011-01-3500-2011-01-2855-npb1
+sopPredpisa: 2011-01-3500
+sopPredpisaChng: 2011-01-2855

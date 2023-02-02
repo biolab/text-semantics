@@ -1,0 +1,256 @@
+I. SPLOŠNA DOLOČBA
+1. člen
+(vsebina)
+Ta uredba ureja podrobnejša merila in
+pogoje za določanje stroškov za uporabo omrežnih storitev in pristojbine za
+souporabo podatkov in storitev.
+II. MERILA IN POGOJI ZA DOLOČANJE STROŠKOV ZA UPORABO
+OMREŽNIH STORITEV
+2. člen
+(stroški za uporabo omrežnih storitev)
+(1) Stroški za uporabo omrežnih
+storitev se lahko določijo za uporabo naslednjih omrežnih storitev:
+-      
+prenos podatkov ali dela podatkov,
+-      
+preoblikovanje zbirke prostorskih podatkov
+zaradi zagotavljanja medopravilnosti in
+-      
+priklic drugih storitev v zvezi s prostorskimi
+podatki.
+(2) Če se omrežna storitev iz
+prejšnjega odstavka nanaša samo na del zbirke prostorskih podatkov, mora
+upravljavec v stroškovniku določiti obseg podatkov, na katerega se omrežna
+storitev nanaša. Obseg podatkov določi upravljavec tako, da določi prostorsko
+enoto, administrativno enoto ali število podatkov, obseg koordinatnega okna ali
+na drug ustrezen način opredeli obseg podatkov, na katerega se omrežna storitev
+nanaša.
+3. člen
+(merila za določitev stroškov za uporabo
+omrežne storitve)
+(1) Stroški za uporabo omrežne
+storitve se določijo na podlagi stroškov razvoja in izdelave omrežne storitve,
+stroškov delovanja in vzdrževanja omrežne storitve ter količine uporabe omrežne
+storitve.
+(2) Stroški za uporabo omrežne
+storitve se izračunajo po naslednji enačbi:
+SU =
+((SR x 1/5) + SD)/Q,
+kjer je:
+-      
+SU: stroški za uporabo omrežne storitve,
+-      
+SR: stroški razvoja in izdelave omrežne
+storitve,
+-      
+SD: stroški delovanja in vzdrževanja omrežne
+storitve,
+-      
+Q: količina uporabe omrežne storitve.
+(3) Stroški za uporabo omrežne
+storitve se določijo za eno uporabo omrežne storitve, ne glede na količino
+podatkov, ki jih uporabnik lahko prenese, preoblikuje ali jih uporabi na druge
+načine s priklicem omrežne storitve.
+4. člen
+(stroški razvoja in izdelave omrežne
+storitve)
+(1) Stroški razvoja in izdelave
+omrežne storitve so stroški razvoja in izdelave posamezne omrežne storitve ter
+stroški priprave in prilagoditve zbirke prostorskih podatkov.
+(2) Stroški razvoja in izdelave
+posamezne omrežne storitve obsegajo stroške načrtovanja, programiranja in
+namestitve omrežne storitve, vključno s stroški nakupa opreme, ki se izključno
+in stalno uporablja pri izvajanju omrežne storitve.
+(3) Stroški priprave in prilagoditve
+zbirke prostorskih podatkov obsegajo stroške priprave in preoblikovanja
+podatkov iz zbirke prostorskih podatkov v ustrezno obliko ter stroške
+prilagoditve informacijske infrastrukture zbirke prostorskih podatkov, vključno
+z nakupom licenc in podobno. Ti stroški se lahko vključijo v stroške razvoja in
+izdelave omrežne storitve le, če je to potrebno za namestitev omrežne storitve.
+5. člen
+(stroški delovanja in vzdrževanja omrežne
+storitve)
+(1) Stroški delovanja in vzdrževanja
+omrežne storitve so stroški delovanja in rednega vzdrževanja posamezne omrežne
+storitve ter stroški prilagajanja zbirke prostorskih podatkov.
+(2) Stroški delovanja in rednega
+vzdrževanja posamezne omrežne storitve obsegajo stroške, nastale zaradi
+nemotenega delovanja in tekočega vzdrževanja omrežne storitve, in stroške,
+nastale zaradi nemotenega delovanja in tekočega vzdrževanja opreme, ki se
+uporablja pri izvajanju omrežne storitve.
+(3) Stroški prilagajanja zbirke
+prostorskih podatkov obsegajo stroške prilagajanja podatkov iz zbirke
+prostorskih podatkov v ustrezno obliko in stroške prilagajanja informacijske
+infrastrukture zbirke prostorskih podatkov. Ti stroški se lahko vključijo v
+stroške delovanja in vzdrževanja omrežne storitve le, če je to potrebno za
+delovanje omrežne storitve.
+6. člen
+(količina uporabe omrežne storitve)
+(1) Uporaba omrežne storitve je vsak
+posamezen dostop uporabnika do omrežne storitve, pri čemer se šteje vsaka
+uporaba omrežne storitve.
+(2) Količina uporabe omrežne storitve
+je letno povprečje uporab omrežne storitve v zadnjih treh letih.
+(3) Ne glede na določbo prejšnjega
+odstavka se za prvo leto delovanja omrežne storitve kot količina uporabe
+omrežne storitve upošteva količina, ki jo določi upravljavec glede na
+pričakovano število zainteresiranih uporabnikov, za drugo leto delovanja
+omrežne storitve se upošteva količina, ki je enaka številu dejanskih uporab
+omrežne storitve v prvem letu, za tretje leto pa se upošteva količina, ki je
+enaka povprečju uporabe omrežne storitve v prvih dveh letih delovanja omrežne
+storitve.
+7. člen
+(način izračuna stroškov za uporabo
+omrežne storitve)
+(1) Če razvoj in izdelavo omrežne
+storitve ter delovanje in vzdrževanje omrežne storitve izvaja upravljavec sam,
+se pri izračunu stroškov za uporabo omrežne storitve upoštevajo neposredni
+stroški dela uslužbencev upravljavca v zvezi z omrežno storitvijo, stroški
+porabljenega materiala ter stroški amortizacije prostorov in opreme, ki se v
+pretežni meri uporabljajo za zagotavljanje omrežne storitve.
+(2) Neposredni stroški dela
+uslužbencev iz prejšnjega odstavka so stroški plač in druga povračila stroškov
+v zvezi z delom uslužbencev, ki izvajajo naloge za izdelavo omrežne storitve.
+Stroški plač so vsi stroški dela (II. bruto plača), povračila stroškov v zvezi
+z delom pa so povračila stroškov prevoza na delo, povračila stroškov za
+prehrano in regres za letni dopust uslužbencev. Neposredni stroški dela
+uslužbencev se upoštevajo v sorazmerju s časom, ki je dejansko porabljen za
+izvedbo nalog za izdelavo omrežne storitve.
+(3) Stroški porabljenega materiala iz
+prvega odstavka tega člena se upoštevajo v višini dejanskih izdatkov za
+porabljeni material.
+(4) Če razvoj in izdelavo omrežne
+storitve izvaja zunanji izvajalec, se pri izračunu stroškov za uporabo omrežne
+storitve upoštevajo pogodbene vrednosti teh del iz pogodb z zunanjim
+izvajalcem.
+(5) Če delovanje in vzdrževanje
+omrežne storitve zagotavlja zunanji izvajalec, se pri izračunu stroškov za
+uporabo omrežne storitve upošteva povprečje pogodbenih vrednosti teh del iz
+pogodb z zunanjim izvajalcem (v nadaljnjem besedilu: povprečna letna pogodbena
+vrednost).
+(6) Povprečna letna pogodbena vrednost
+se določi kot povprečje pogodbenih vrednosti iz pogodb z zunanjim izvajalcem v
+zadnjih treh letih. Če zunanji izvajalec izvaja naloge manj kot tri leta, se
+povprečna pogodbena vrednost določi kot povprečje pogodbenih vrednosti v
+zadnjih dveh letih oziroma je povprečna pogodbena vrednost enaka pogodbeni
+vrednosti za prvo leto delovanja omrežne storitve.
+(7) Pri izračunu stroškov za uporabo
+omrežne storitve se stroški razvoja in izdelave omrežne storitve iz 4. člena te
+uredbe upoštevajo samo v prvih petih letih delovanja omrežne storitve, in sicer
+za posamezno leto v višini ene petine vsote vseh stroškov razvoja in izdelave
+omrežne storitve oziroma ene petine vsote vseh pogodbenih vrednosti teh del, če
+je naloge izvedel zunanji izvajalec. Po preteku tega obdobja se pri izračunu
+stroškov za uporabo omrežne storitve upoštevajo samo stroški delovanja in
+vzdrževanja omrežne storitve iz 5. člena te uredbe.
+8. člen
+(pogoji za določanje stroškov za uporabo
+omrežnih storitev)
+(1) Upravljavec lahko določi in
+zaračunava stroške za uporabo omrežnih storitev, če za vsako omrežno storitev
+zagotavlja:
+-      
+ločeno evidentiranje stroškov razvoja in
+izdelave omrežne storitve ter stroškov delovanja in vzdrževanja omrežne
+storitve,
+-      
+evidentiranje stroškov delovanja in vzdrževanja
+omrežne storitve ločeno za vsako leto delovanja omrežne storitve in
+-      
+štetje uporabe oziroma ustrezno drugačno
+merjenje obsega uporabe omrežne storitve.
+(2) Če upravljavec zaračunava stroške
+za uporabo omrežnih storitev, mora enkrat letno za vsako omrežno storitev, ki jo
+zaračunava, na podlagi evidentiranih podatkov iz prejšnjega odstavka izračunati
+stroške za uporabo omrežnih storitev. Če so izračunani stroški za uporabo
+posamezne omrežne storitve različni od stroškov, objavljenih v stroškovniku,
+mora upravljavec v stroškovniku objaviti nove višine stroškov za uporabo
+omrežnih storitev.
+III. MERILA IN POGOJI ZA DOLOČANJE PRISTOJBINE ZA SOUPORABO
+PODATKOV IN STORITEV
+9. člen
+(pristojbina za souporabo podatkov in
+storitev)
+(1) Pristojbina za souporabo podatkov
+in storitev so stroški za uporabo omrežne storitve in stroški ponovne uporabe
+prostorskih podatkov, ki jih je uporabnik prenesel, preoblikoval ali jih s
+priklicem omrežnih storitev uporabil na druge načine.
+(2) Pristojbina za souporabo podatkov
+in storitev se izračuna po naslednji enačbi:
+PR=
+(SU x St.UP) + (SP x K.Pod),
+kjer je:
+-      
+PR: pristojbina za souporabo podatkov in
+storitev,
+-      
+SU: stroški za uporabo omrežne storitve,
+-      
+St.UP: število uporab omrežne storitve,
+-      
+SP: stroški ponovne uporabe prostorskih
+podatkov,
+-      
+K.Pod: količina uporabljenih podatkov.
+(3) Stroški za uporabo omrežne
+storitve so stroški, izračunani v skladu z merili in pogoji za določanje
+stroškov za uporabo omrežnih storitev, določenimi s to uredbo.
+(4) Število uporab omrežne storitve je
+število dostopov do omrežne storitve, ki je potrebno, da uporabnik prenese,
+preoblikuje ali prikliče tako količino prostorskih podatkov, ki je enaka obsegu
+podatkov iz drugega odstavka 2. člena te uredbe.
+(5) Stroški ponovne uporabe
+prostorskih podatkov so stroški, izračunani v skladu s predpisi, ki urejajo
+informacije javnega značaja in zaračunavanje ponovne uporabe informacij javnega
+značaja. Stroški ponovne uporabe prostorskih podatkov se upoštevajo v višini,
+ki je določena v ceniku za ponovno uporabo prostorskih podatkov v pridobitne
+namene za celotno zbirko.
+(6) Količina uporabljenih podatkov je
+enaka količini vseh podatkov v posamezni zbirki prostorskih podatkov, ki se
+uporablja v konkretni omrežni storitvi.
+10. člen
+(način določanja pristojbine za souporabo
+podatkov in storitev)
+(1) Pristojbina za souporabo podatkov
+in storitev se določi kot letni pavšal (naročnina).
+(2) Upravljavec lahko v stroškovniku
+določi odstotek znižanja višine pristojbine za souporabo podatkov in storitev z
+namenom spodbujanja širše uporabe podatkov in storitev.
+(3) Upravljavec mora v stroškovniku
+opredeliti:
+-      
+ime zbirke prostorskih podatkov, za katero se
+zagotavlja souporaba podatkov in storitev,
+-      
+ime omrežne storitve, za katero so izračunani
+stroški za uporabo omrežne storitve,
+-      
+višino pristojbine za souporabo podatkov in
+storitev ter
+-      
+odstotek znižanja višine pristojbine za
+souporabo podatkov in storitev, če jo upravljavec določi.
+11. člen
+(pogoji za določanje pristojbine za
+souporabo podatkov in storitev)
+Upravljavec lahko določi in zaračunava
+pristojbino za souporabo podatkov in storitev, če:
+-      
+obdobje, za katero se določa pristojbina za
+souporabo podatkov in storitev, traja eno leto, pri čemer se to obdobje začne s
+1. aprilom tekočega leta, v katerem se določa pristojbina, in traja do
+vključno 31. marca naslednjega leta, in
+-      
+je enota (obseg podatkov oziroma območje), za
+katero se omogoča souporaba podatkov in storitev, celotna zbirka prostorskih
+podatkov.
+IV. KONČNA DOLOČBA
+12. člen
+(začetek veljavnosti)
+Ta uredba začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.
+Št. 00728-35/2012
+Ljubljana, dne 23. avgusta 2012
+EVA 2012-2430-0050
+Janez
+Janša l.r.
+Predsednik

@@ -1,0 +1,17 @@
+Text file: PRAV11535.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1386975600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11535
+idPredpisaChng: PRAV11535
+instock: .nan
+naslov: "PRAVILNIK o vozni\u0161kem izpitu (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2013/37/2013-01-3775-2013-01-1468-npb1
+sopPredpisa: 2013-01-3775
+sopPredpisaChng: 2013-01-1468

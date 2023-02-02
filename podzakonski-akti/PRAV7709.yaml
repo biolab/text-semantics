@@ -1,0 +1,16 @@
+Text file: PRAV7709.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1160172000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7709
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o uporabi prisilnih sredstev v carinski slu\u017Ebi"
+npbNum: 0
+path: /2006/41/2006-01-4192
+sopPredpisa: 2006-01-4192
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV7107.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1270850400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7107
+idPredpisaChng: PRAV7107
+instock: .nan
+naslov: "PRAVILNIK o programu usposabljanja kandidatov za voznike motornih vozil \
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2010/12/2010-01-1268-2005-01-3789-npb2
+sopPredpisa: 2010-01-1268
+sopPredpisaChng: 2005-01-3789

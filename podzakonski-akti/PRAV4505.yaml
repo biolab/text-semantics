@@ -1,0 +1,17 @@
+Text file: PRAV4505.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1115676000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4505
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini prijave namernega spro\u0161\u010Danja gensko spremenjenih\
+  \ organizmov v okolje"
+npbNum: 0
+path: /2005/16/2005-01-1657
+sopPredpisa: 2005-01-1657
+sopPredpisaChng: null

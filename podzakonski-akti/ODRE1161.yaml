@@ -1,0 +1,17 @@
+Text file: ODRE1161.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 682984800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1161
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi organizacij za opravljanje pregledov \u010Dolnov\
+  \ notranje plovbe"
+npbNum: 0
+path: /1991/04/1991-01-0419
+sopPredpisa: 1991-01-0419
+sopPredpisaChng: null

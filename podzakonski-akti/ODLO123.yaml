@@ -1,0 +1,17 @@
+Text file: ODLO123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 924300000000000000
+- null
+- null
+- 10
+idPredpisa: ODLO123
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o dolo\u010Ditvi \u0161tevila oseb, ki jim bo Republika Slovenija nudila\
+  \ za\u010Dasno zato\u010Di\u0161\u010De (OdDSOZZ)"
+npbNum: 0
+path: /1999/12/1999-01-1295
+sopPredpisa: 1999-01-1295
+sopPredpisaChng: null

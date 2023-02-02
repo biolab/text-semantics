@@ -1,0 +1,17 @@
+Text file: URED1445.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 977785200000000000
+- null
+- null
+- 10
+idPredpisa: URED1445
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o lokacijskem na\u010Drtu za avtocestni priklju\u010Dek Celje zahod,\
+  \ povezovalno cesto in oskrbni center Lopata"
+npbNum: 0
+path: /2000/47/2000-01-4771
+sopPredpisa: 2000-01-4771
+sopPredpisaChng: null

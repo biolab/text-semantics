@@ -1,0 +1,17 @@
+Text file: ODLO1901.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1508277600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO1901
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine\
+  \ Kranj"
+npbNum: 0
+path: /2017/26/2017-01-2683
+sopPredpisa: 2017-01-2683
+sopPredpisaChng: null

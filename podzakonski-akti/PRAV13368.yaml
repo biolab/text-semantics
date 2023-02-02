@@ -1,0 +1,17 @@
+Text file: PRAV13368.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513378800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13368
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o postopku javnega razpisa Radiotelevizije Slovenija za izdelavo
+  filmov neodvisnih producentov za javno kinematografsko prikazovanje
+npbNum: 0
+path: /2017/34/2017-01-3464
+sopPredpisa: 2017-01-3464
+sopPredpisaChng: null

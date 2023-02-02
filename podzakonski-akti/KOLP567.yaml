@@ -1,0 +1,12 @@
+Text file: KOLP567.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: KOLP567
+idPredpisaChng: null
+instock: .nan
+naslov: pristopajo
+npbNum: 0
+path: /2021/17/2021-01-1722
+sopPredpisa: 2021-01-1722
+sopPredpisaChng: null

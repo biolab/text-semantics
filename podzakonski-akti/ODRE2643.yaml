@@ -1,0 +1,18 @@
+Text file: ODRE2643.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1619042400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2643
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi volumnov zra\u010Dnega prostora CTR Cerklje, TMA\
+  \ Cerklje 1, TMA Cerklje 2, TMA Cerklje 3, TMA Cerklje 4, TMA Cerklje 5, TMA Cerklje\
+  \ 6, TMA Cerklje 7, TMA Ljubljana 1 in TMA Ljubljana 4"
+npbNum: 0
+path: /2021/10/2021-01-1068
+sopPredpisa: 2021-01-1068
+sopPredpisaChng: null

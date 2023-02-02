@@ -1,0 +1,17 @@
+Text file: PRAV9285.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1276898400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9285
+idPredpisaChng: PRAV9285
+instock: .nan
+naslov: "PRAVILNIK o postopkih zadol\u017Eevanja ob\u010Din (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/24/2010-01-2497-2008-01-4690-npb1
+sopPredpisa: 2010-01-2497
+sopPredpisaChng: 2008-01-4690

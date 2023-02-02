@@ -1,0 +1,17 @@
+Text file: ODRE2028.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277416800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2028
+idPredpisaChng: ODRE2028
+instock: .nan
+naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij za dvo- in trikolesna\
+  \ motorna vozila (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2010/26/2010-01-2673-2009-01-4198-npb2
+sopPredpisa: 2010-01-2673
+sopPredpisaChng: 2009-01-4198

@@ -1,0 +1,17 @@
+Text file: SKLE2734.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1013382000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2734
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o vi\u0161ini sredstev, ki pripadajo posamezni politi\u010Dni stranki\
+  \ iz sredstev dr\u017Eavnega prora\u010Duna v letu 2002 in v letu 2003"
+npbNum: 0
+path: /2002/04/2002-01-0460
+sopPredpisa: 2002-01-0460
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV8099.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577833200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8099
+idPredpisaChng: PRAV8099
+instock: .nan
+naslov: "PRAVILNIK o vsebini, obliki, na\u010Dinu in rokih za predlo\u017Eitev izpisa\
+  \ podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2019/33/2019-01-3378-2007-01-3162-npb4
+sopPredpisa: 2019-01-3378
+sopPredpisaChng: 2007-01-3162

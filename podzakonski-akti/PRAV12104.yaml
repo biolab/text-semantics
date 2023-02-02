@@ -1,0 +1,18 @@
+Text file: PRAV12104.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1411164000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12104
+idPredpisaChng: PRAV12104
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu upo\u0161tevanja dohodkov pri ugotavljanju upravi\u010D\
+  enosti do pravic iz javnih sredstev (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2014/28/2014-01-2820-2014-01-2278-npb1
+sopPredpisa: 2014-01-2820
+sopPredpisaChng: 2014-01-2278

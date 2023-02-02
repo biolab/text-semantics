@@ -1,0 +1,18 @@
+Text file: ODLO2261.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1613689200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2261
+idPredpisaChng: ODLO2261
+instock: .nan
+naslov: "ODLOK o za\u010Dasni delni omejitvi gibanja ljudi in prepovedi zbiranja ljudi\
+  \ zaradi prepre\u010Devanja oku\u017Eb s SARS-CoV-2 (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 9)"
+npbNum: 9
+path: /2021/05/2021-01-0522-2020-01-3419-npb9
+sopPredpisa: 2021-01-0522
+sopPredpisaChng: 2020-01-3419

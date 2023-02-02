@@ -1,0 +1,18 @@
+Text file: PRAV4148.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1422918000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4148
+idPredpisaChng: PRAV4148
+instock: .nan
+naslov: "PRAVILNIK o pripravni\u0161tvu in strokovnih izpitih zdravstvenih delavcev\
+  \ in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti (se delno preneha\
+  \ uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2015/01/2015-01-0101-2004-01-1446-npb5
+sopPredpisa: 2015-01-0101
+sopPredpisaChng: 2004-01-1446

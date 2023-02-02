@@ -1,0 +1,18 @@
+Text file: SKLE6900.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1175378400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE6900
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi cen za dobavo elektri\u010Dne energije za gospodinjske\
+  \ odjemalce in cene za pokritje stro\u0161kov dobavitelja pri dobavi elektri\u010D\
+  ne energije"
+npbNum: 0
+path: /2007/13/2007-01-1382
+sopPredpisa: 2007-01-1382
+sopPredpisaChng: null

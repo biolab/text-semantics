@@ -1,0 +1,17 @@
+Text file: PRAV7166.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1141426800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7166
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti hrupu
+  pri delu
+npbNum: 0
+path: /2006/06/2006-01-0643
+sopPredpisa: 2006-01-0643
+sopPredpisaChng: null

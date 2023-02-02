@@ -1,0 +1,17 @@
+Text file: AKT_566.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1234566000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_566
+idPredpisaChng: null
+instock: .nan
+naslov: "SHEMO za dolo\u010Danje od\u0161kodnine za posamezne vrste poklicnih bolezni\
+  \ zaradi izpostavljenosti azbestu"
+npbNum: 0
+path: /2009/03/2009-01-0347
+sopPredpisa: 2009-01-0347
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED1604.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 985388400000000000
+- null
+- null
+- 10
+idPredpisa: URED1604
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o zni\u017Eani vi\u0161ini povra\u010Dila prispevkov"
+npbNum: 0
+path: /2001/12/2001-01-1259
+sopPredpisa: 2001-01-1259
+sopPredpisaChng: null

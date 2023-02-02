@@ -1,0 +1,17 @@
+Text file: POSL62.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1634940000000000000
+- null
+- null
+- 10
+idPredpisa: POSL62
+idPredpisaChng: POSL62
+instock: .nan
+naslov: "POSLOVNIK ob\u010Dne seje Vrhovnega sodi\u0161\u010Da Republike Slovenije\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/31/2021-01-3105-2005-01-5048-npb3
+sopPredpisa: 2021-01-3105
+sopPredpisaChng: 2005-01-5048

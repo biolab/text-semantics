@@ -1,0 +1,17 @@
+Text file: PRAV8672.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1465596000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8672
+idPredpisaChng: PRAV8672
+instock: .nan
+naslov: "PRAVILNIK o zgornjem ustroju \u017Eelezni\u0161kih prog (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/17/2016-01-1703-2010-01-4867-npb1
+sopPredpisa: 2016-01-1703
+sopPredpisaChng: 2010-01-4867

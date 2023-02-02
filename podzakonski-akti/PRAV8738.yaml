@@ -1,0 +1,18 @@
+Text file: PRAV8738.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1273269600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8738
+idPredpisaChng: PRAV8738
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu in postopku analiznega, farmakolo\u0161ko-toksikolo\u0161\
+  kega in klini\u010Dnega presku\u0161anja zdravil za uporabo v humani medicini (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/18/2010-01-1843-2008-01-3731-npb1
+sopPredpisa: 2010-01-1843
+sopPredpisaChng: 2008-01-3731

@@ -1,0 +1,16 @@
+Text file: PRAV8360.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1193176800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8360
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu usposabljanja lovcev za prvi pregled uplenjene divjadi"
+npbNum: 0
+path: /2007/47/2007-01-4705
+sopPredpisa: 2007-01-4705
+sopPredpisaChng: null

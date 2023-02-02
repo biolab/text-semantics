@@ -1,0 +1,17 @@
+Text file: PRAV12813.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1488495600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12813
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini predhodnih informacij in obrazcih za predhodne informacije\
+  \ o potro\u0161ni\u0161kih kreditih"
+npbNum: 0
+path: /2017/03/2017-01-0349
+sopPredpisa: 2017-01-0349
+sopPredpisaChng: null

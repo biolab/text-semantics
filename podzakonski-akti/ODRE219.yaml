@@ -1,0 +1,20 @@
+Text file: ODRE219.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1433109600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1426546800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE219
+idPredpisaChng: ODRE219
+instock: .nan
+naslov: "PRAVILNIK o tla\u010Dni opremi (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 6)"
+npbNum: 6
+path: /2015/06/2015-01-0679-2002-01-0620-npb6
+sopPredpisa: 2015-01-0679
+sopPredpisaChng: 2002-01-0620

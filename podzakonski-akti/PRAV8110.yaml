@@ -1,0 +1,17 @@
+Text file: PRAV8110.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1167606000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8110
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obrazcu vloge za uveljavljanje oprostitev za izra\u010Dun akontacije\
+  \ dohodnine od katastrskega dohodka"
+npbNum: 0
+path: /2006/60/2006-01-6003
+sopPredpisa: 2006-01-6003
+sopPredpisaChng: null

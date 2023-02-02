@@ -1,0 +1,16 @@
+Text file: AKT_14.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 894664800000000000
+- null
+- null
+- 10
+idPredpisa: AKT_14
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o letnem planu razvoja in vzdr\u017Eevanja avtocest za leto 1998 (OdlPVA98)"
+npbNum: 0
+path: /1998/15/1998-01-1504
+sopPredpisa: 1998-01-1504
+sopPredpisaChng: null

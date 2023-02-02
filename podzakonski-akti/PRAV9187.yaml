@@ -1,0 +1,17 @@
+Text file: PRAV9187.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1634335200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9187
+idPredpisaChng: PRAV9187
+instock: .nan
+naslov: "PRAVILNIK o napredovanju javnih uslu\u017Ebencev v pla\u010Dne razrede v\
+  \ Dr\u017Eavnem zboru (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/31/2021-01-3168-2008-01-3027-npb3
+sopPredpisa: 2021-01-3168
+sopPredpisaChng: 2008-01-3027

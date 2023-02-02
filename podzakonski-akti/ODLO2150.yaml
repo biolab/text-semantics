@@ -1,0 +1,19 @@
+Text file: ODLO2150.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1602799200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2150
+idPredpisaChng: ODLO2150
+instock: .nan
+naslov: "ODLOK o za\u010Dasni splo\u0161ni omejitvi oziroma prepovedi zbiranja ljudi\
+  \ v Republiki Sloveniji ter prepovedi prometa posameznih vrst blaga in izdelkov\
+  \ v \u010Dasu zbiranja ljudi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2020/25/2020-01-2535-2020-01-2440-npb1
+sopPredpisa: 2020-01-2535
+sopPredpisaChng: 2020-01-2440

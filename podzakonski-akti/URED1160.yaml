@@ -1,0 +1,17 @@
+Text file: URED1160.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 866844000000000000
+- null
+- null
+- 10
+idPredpisa: URED1160
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi dogodka, ob katerem se v letu 1997 izdajo prilo\u017E\
+  nostni kovanci"
+npbNum: 0
+path: /1997/20/1997-01-2094
+sopPredpisa: 1997-01-2094
+sopPredpisaChng: null

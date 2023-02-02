@@ -1,0 +1,17 @@
+Text file: PRAV10034.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1437775200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10034
+idPredpisaChng: PRAV10034
+instock: .nan
+naslov: "PRAVILNIK o sodnih tolma\u010Dih (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 3)"
+npbNum: 3
+path: /2015/20/2015-01-2087-2010-01-4712-npb3
+sopPredpisa: 2015-01-2087
+sopPredpisaChng: 2010-01-4712

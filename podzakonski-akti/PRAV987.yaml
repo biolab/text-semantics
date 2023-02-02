@@ -1,0 +1,16 @@
+Text file: PRAV987.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 924991200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV987
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o \u0161tevilu in sestavi \u010Dlanov posadke zrakoplova"
+npbNum: 0
+path: /1999/11/1999-01-1119
+sopPredpisa: 1999-01-1119
+sopPredpisaChng: null

@@ -1,0 +1,13 @@
+Text file: RESO96.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO96
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o nacionalnem programu za kulturo 2014\u20132017 (ReNPK14\u2013\
+  17)"
+npbNum: 0
+path: /2013/35/2013-01-3551
+sopPredpisa: 2013-01-3551
+sopPredpisaChng: null

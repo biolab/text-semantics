@@ -1,0 +1,16 @@
+Text file: URED1229.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 739317600000000000
+- null
+- null
+- 10
+idPredpisa: URED1229
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o izdajanju zakladnih menic na prinosnika
+npbNum: 0
+path: /1993/12/1993-01-1286
+sopPredpisa: 1993-01-1286
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: TARI119.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1262127600000000000
+- null
+- null
+- 10
+idPredpisa: TARI119
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO o pla\u010Dilih za izvajanje po\u0161tnih storitev za leto 2010"
+npbNum: 0
+path: /2009/49/2009-01-4992
+sopPredpisa: 2009-01-4992
+sopPredpisaChng: null

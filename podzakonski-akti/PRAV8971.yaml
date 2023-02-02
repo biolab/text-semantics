@@ -1,0 +1,17 @@
+Text file: PRAV8971.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1301094000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8971
+idPredpisaChng: PRAV8971
+instock: .nan
+naslov: "PRAVILNIK o polimernih materialih in izdelkih, namenjenih za stik z \u017E\
+  ivili (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/08/2011-01-0899-2008-01-2829-npb2
+sopPredpisa: 2011-01-0899
+sopPredpisaChng: 2008-01-2829

@@ -1,0 +1,17 @@
+Text file: PRAV11605.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1369432800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11605
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o letnem gozdnogospodarskem na\u010Drtu gozdnogospodarske enote\
+  \ Poljanska dolina (2013)"
+npbNum: 0
+path: /2013/16/2013-01-1691
+sopPredpisa: 2013-01-1691
+sopPredpisaChng: null

@@ -1,0 +1,12 @@
+Text file: SKLE10325.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10325
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o imenovanju generalnega konzula Republike Slovenije v Celovcu
+npbNum: 0
+path: /2015/25/2015-01-2581
+sopPredpisa: 2015-01-2581
+sopPredpisaChng: null

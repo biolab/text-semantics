@@ -1,0 +1,17 @@
+Text file: PRAV3065.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 833580000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3065
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih in merilih ter postopku za sprejem \u0161tudentov v \u0161\
+  tudentske domove"
+npbNum: 0
+path: /1996/18/1996-01-1840
+sopPredpisa: 1996-01-1840
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: TARI111.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1240610400000000000
+- null
+- null
+- 10
+idPredpisa: TARI111
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz distribucijskega omre\u017E\
+  ja toplotne energije v ob\u010Dini Jesenice"
+npbNum: 0
+path: /2009/14/2009-01-1439
+sopPredpisa: 2009-01-1439
+sopPredpisaChng: null

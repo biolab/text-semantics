@@ -1,0 +1,16 @@
+Text file: PRAV12594.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1498860000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12594
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obravnavi nesre\u010De na smu\u010Di\u0161\u010Du"
+npbNum: 0
+path: /2017/16/2017-01-1600
+sopPredpisa: 2017-01-1600
+sopPredpisaChng: null

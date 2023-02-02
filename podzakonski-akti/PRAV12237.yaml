@@ -1,0 +1,17 @@
+Text file: PRAV12237.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1425682800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12237
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o bivanju v Centru za tujce, deponiranju lastnih sredstev ter obliki\
+  \ in vsebini izkaznice o dovolitvi zadr\u017Eevanja na obmo\u010Dju Republike Slovenije"
+npbNum: 0
+path: /2015/03/2015-01-0381
+sopPredpisa: 2015-01-0381
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV14659.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1656712800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14659
+idPredpisaChng: PRAV14659
+instock: .nan
+naslov: "PRAVILNIK o vrstah zdravstvene dejavnosti (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/21/2022-01-2179-2022-01-1259-npb1
+sopPredpisa: 2022-01-2179
+sopPredpisaChng: 2022-01-1259

@@ -1,0 +1,21 @@
+Text file: TARI232.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609282800000000000
+- null
+- null
+- 10
+idPredpisa: TARI232
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO 2021 o vrednosti to\u010Dke za pla\u010Dilo na podlagi dovoljenja\
+  \ za izvajanje televizijske dejavnosti oziroma vpisa v uradno evidenco ponudnikov\
+  \ avdiovizualnih medijskih storitev na zahtevo"
+npbNum: 0
+path: /2020/36/2020-01-3639
+sopPredpisa: 2020-01-3639
+sopPredpisaChng: null

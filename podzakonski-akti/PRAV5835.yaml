@@ -1,0 +1,17 @@
+Text file: PRAV5835.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5835
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ozna\u010Dbi geografskega porekla Ekstra devi\u0161ko olj\u010D\
+  no olje Slovenske Istre"
+npbNum: 0
+path: /2004/22/2004-01-2240
+sopPredpisa: 2004-01-2240
+sopPredpisaChng: null

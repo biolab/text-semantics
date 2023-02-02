@@ -1,0 +1,17 @@
+Text file: URED3854.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1273874400000000000
+- null
+- null
+- 10
+idPredpisa: URED3854
+idPredpisaChng: URED3854
+instock: .nan
+naslov: "UREDBA o izvajanju Uredbe (ES) o \u010Dezmejnem gibanju gensko spremenjenih\
+  \ organizmov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/18/2010-01-1850-2005-01-3221-npb1
+sopPredpisa: 2010-01-1850
+sopPredpisaChng: 2005-01-3221

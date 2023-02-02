@@ -1,0 +1,12 @@
+Text file: SKLE10188.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10188
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o zaprtju Konzulata Republike Slovenije v Santiagu de Quer\xE9taro"
+npbNum: 0
+path: /2014/41/2014-01-4157
+sopPredpisa: 2014-01-4157
+sopPredpisaChng: null

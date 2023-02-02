@@ -1,0 +1,17 @@
+Text file: PRAV10919.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1321052400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10919
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu sporo\u010Danja podatkov Uradu Republike Slovenije\
+  \ za prepre\u010Devanje pranja denarja"
+npbNum: 0
+path: /2011/38/2011-01-3831
+sopPredpisa: 2011-01-3831
+sopPredpisaChng: null

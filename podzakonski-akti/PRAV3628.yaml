@@ -1,0 +1,18 @@
+Text file: PRAV3628.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1655416800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3628
+idPredpisaChng: PRAV3628
+instock: .nan
+naslov: "PRAVILNIK o napredovanju strokovnih delavcev in strokovnih sodelavcev na\
+  \ podro\u010Dju socialnega varstva v nazive (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 3)"
+npbNum: 3
+path: /2022/17/2022-01-1783-2000-01-4443-npb3
+sopPredpisa: 2022-01-1783
+sopPredpisaChng: 2000-01-4443

@@ -1,0 +1,16 @@
+Text file: ODLO1222.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1034373600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO1222
+idPredpisaChng: null
+instock: .nan
+naslov: ODLOK o izdaji kovancev za 20 in 50 tolarjev
+npbNum: 0
+path: /2002/43/2002-01-4357
+sopPredpisa: 2002-01-4357
+sopPredpisaChng: null

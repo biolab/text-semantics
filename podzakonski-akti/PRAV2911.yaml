@@ -1,0 +1,17 @@
+Text file: PRAV2911.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1018044000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2911
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sestavi, na\u010Dinu imenovanja in pravilih za delovanje Eti\u010D\
+  ne komisije za presaditve"
+npbNum: 0
+path: /2002/12/2002-01-1270
+sopPredpisa: 2002-01-1270
+sopPredpisaChng: null

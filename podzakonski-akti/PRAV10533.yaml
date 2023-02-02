@@ -1,0 +1,17 @@
+Text file: PRAV10533.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1325372400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10533
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi olaj\u0161av in lestvice za odmero dohodnine za\
+  \ leto 2012"
+npbNum: 0
+path: /2011/46/2011-01-4606
+sopPredpisa: 2011-01-4606
+sopPredpisaChng: null

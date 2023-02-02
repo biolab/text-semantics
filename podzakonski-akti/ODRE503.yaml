@@ -1,0 +1,17 @@
+Text file: ODRE503.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 932767200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE503
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o sprejemu letnega gozdnogospodarskega na\u010Drta gozdnogospodarske\
+  \ enote Most na So\u010Di za leto 1999"
+npbNum: 0
+path: /1999/28/1999-01-2804
+sopPredpisa: 1999-01-2804
+sopPredpisaChng: null

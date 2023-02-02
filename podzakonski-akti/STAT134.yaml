@@ -1,0 +1,17 @@
+Text file: STAT134.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1427752800000000000
+- null
+- null
+- 10
+idPredpisa: STAT134
+idPredpisaChng: STAT134
+instock: .nan
+naslov: "STATUT Kmetijsko gozdarske zbornice Slovenije (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 8)"
+npbNum: 8
+path: /2015/10/2015-01-1075-2008-01-2260-npb8
+sopPredpisa: 2015-01-1075
+sopPredpisaChng: 2008-01-2260

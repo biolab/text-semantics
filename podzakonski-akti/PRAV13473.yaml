@@ -1,0 +1,20 @@
+Text file: PRAV13473.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1590962400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1588975200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13473
+idPredpisaChng: PRAV13473
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eenju razmno\u017Eevalnega materiala okrasnih rastlin\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/08/2020-01-0870-2018-01-2530-npb1
+sopPredpisa: 2020-01-0870
+sopPredpisaChng: 2018-01-2530

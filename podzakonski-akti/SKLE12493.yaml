@@ -1,0 +1,12 @@
+Text file: SKLE12493.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12493
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju zagovornika na\u010Dela enakosti"
+npbNum: 0
+path: /2021/24/2021-01-2469
+sopPredpisa: 2021-01-2469
+sopPredpisaChng: null

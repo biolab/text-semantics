@@ -1,0 +1,17 @@
+Text file: PRAV6135.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1100300400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6135
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih za zakol \u017Eivali izven klavnice za lastno doma\u010D\
+  o porabo"
+npbNum: 0
+path: /2004/48/2004-01-4805
+sopPredpisa: 2004-01-4805
+sopPredpisaChng: null

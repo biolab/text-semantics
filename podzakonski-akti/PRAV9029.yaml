@@ -1,0 +1,20 @@
+Text file: PRAV9029.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1212271200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1210975200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9029
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o omejitvah letalskega delovnega \u010Dasa in delovnega \u010D\
+  asa ter zahtevanem po\u010Ditku letalskih posadk"
+npbNum: 0
+path: /2008/20/2008-01-2060
+sopPredpisa: 2008-01-2060
+sopPredpisaChng: null

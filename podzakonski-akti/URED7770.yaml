@@ -1,0 +1,16 @@
+Text file: URED7770.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1541026800000000000
+- null
+- null
+- 10
+idPredpisa: URED7770
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o izvajanju uredbe (EU) o reji \u017Eivali"
+npbNum: 0
+path: /2018/29/2018-01-2944
+sopPredpisa: 2018-01-2944
+sopPredpisaChng: null

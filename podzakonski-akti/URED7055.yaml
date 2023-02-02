@@ -1,0 +1,16 @@
+Text file: URED7055.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1487372400000000000
+- null
+- null
+- 10
+idPredpisa: URED7055
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o izvajanju Uredbe (ES) o za\u0161\u010Diti \u017Eivali pri usmrtitvi"
+npbNum: 0
+path: /2017/02/2017-01-0226
+sopPredpisa: 2017-01-0226
+sopPredpisaChng: null

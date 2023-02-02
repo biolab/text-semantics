@@ -1,0 +1,20 @@
+Text file: URED3990.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1664575200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1653688800000000000
+- null
+- null
+- 10
+idPredpisa: URED3990
+idPredpisaChng: URED3990
+instock: .nan
+naslov: "UREDBA o po\u017Earni taksi (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 2)"
+npbNum: 2
+path: /2022/16/2022-01-1604-2006-01-1397-npb2
+sopPredpisa: 2022-01-1604
+sopPredpisaChng: 2006-01-1397

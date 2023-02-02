@@ -1,0 +1,16 @@
+Text file: PRAV5250.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1066773600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5250
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ozna\u010Dbi geografskega porekla Piranska sol"
+npbNum: 0
+path: /2003/45/2003-01-4508
+sopPredpisa: 2003-01-4508
+sopPredpisaChng: null

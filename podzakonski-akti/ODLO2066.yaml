@@ -1,0 +1,19 @@
+Text file: ODLO2066.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1619733600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2066
+idPredpisaChng: ODLO2066
+instock: .nan
+naslov: "ODLOK o dolo\u010Ditvi seznama blaga za spopadanje s posledicami epidemije\
+  \ COVID-19, ki je za\u010Dasno opro\u0161\u010Deno uvoznih dajatev in pla\u010D\
+  ila davka na dodano vrednost pri uvozu (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 4)"
+npbNum: 4
+path: /2021/13/2021-01-1398-2020-01-1032-npb4
+sopPredpisa: 2021-01-1398
+sopPredpisaChng: 2020-01-1032

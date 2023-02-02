@@ -1,0 +1,17 @@
+Text file: SKLE12823.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1657317600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12823
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
+  \ vinogradov in izpada dohodka v vinskem letu 2022/2023"
+npbNum: 0
+path: /2022/21/2022-01-2100
+sopPredpisa: 2022-01-2100
+sopPredpisaChng: null

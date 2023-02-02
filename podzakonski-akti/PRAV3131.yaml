@@ -1,0 +1,17 @@
+Text file: PRAV3131.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1044054000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3131
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o sestavi in vsebini poro\u010Dila o postopkih oploditve z biomedicinsko\
+  \ pomo\u010Djo"
+npbNum: 0
+path: /2003/01/2003-01-0113
+sopPredpisa: 2003-01-0113
+sopPredpisaChng: null

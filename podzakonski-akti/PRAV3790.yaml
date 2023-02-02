@@ -1,0 +1,17 @@
+Text file: PRAV3790.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1069714800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3790
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih za vpis v register dobaviteljev in drugih obveznostih\
+  \ dobaviteljev ter zahtevah za tr\u017Eenje gozdnega reprodukcijskega materiala*"
+npbNum: 0
+path: /2003/48/2003-01-4800
+sopPredpisa: 2003-01-4800
+sopPredpisaChng: null

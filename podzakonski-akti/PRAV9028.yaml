@@ -1,0 +1,19 @@
+Text file: PRAV9028.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1219701600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1217282400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9028
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o mediaciji v zdravstvu
+npbNum: 0
+path: /2008/34/2008-01-3457
+sopPredpisa: 2008-01-3457
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV11186.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1356390000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11186
+idPredpisaChng: PRAV11186
+instock: .nan
+naslov: "ODREDBA o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj\
+  \ \u017Eivali v letu 2013 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 1)"
+npbNum: 1
+path: /2012/39/2012-01-3966-2012-01-3714-npb1
+sopPredpisa: 2012-01-3966
+sopPredpisaChng: 2012-01-3714

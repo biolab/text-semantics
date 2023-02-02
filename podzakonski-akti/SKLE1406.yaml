@@ -1,0 +1,16 @@
+Text file: SKLE1406.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 686876400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1406
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o izro\u010Ditvi vrednostnih bonov v obtok"
+npbNum: 0
+path: /1991/06/1991-01-0622
+sopPredpisa: 1991-01-0622
+sopPredpisaChng: null

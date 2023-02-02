@@ -1,0 +1,16 @@
+Text file: PRAV5074.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1058565600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5074
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o metodologiji za dolo\u010Danje vodnih teles podzemnih voda"
+npbNum: 0
+path: /2003/31/2003-01-3148
+sopPredpisa: 2003-01-3148
+sopPredpisaChng: null

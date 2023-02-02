@@ -1,0 +1,17 @@
+Text file: PRAV6698.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1441404000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6698
+idPredpisaChng: PRAV6698
+instock: .nan
+naslov: "PRAVILNIK o strokovnem izpitu strokovnih delavcev na podro\u010Dju vzgoje\
+  \ in izobra\u017Eevanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2015/26/2015-01-2660-2006-01-0901-npb4
+sopPredpisa: 2015-01-2660
+sopPredpisaChng: 2006-01-0901

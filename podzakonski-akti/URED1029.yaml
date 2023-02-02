@@ -1,0 +1,17 @@
+Text file: URED1029.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 899848800000000000
+- null
+- null
+- 10
+idPredpisa: URED1029
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o postopku zapiranja eviden\u010Dnih ra\u010Dunov imetnikov lastni\u0161\
+  kih certifikatov in uporabi lastni\u0161kih certifikatov"
+npbNum: 0
+path: /1998/21/1998-01-2125
+sopPredpisa: 1998-01-2125
+sopPredpisaChng: null

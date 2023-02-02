@@ -1,0 +1,18 @@
+Text file: URED5272.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1293231600000000000
+- null
+- null
+- 10
+idPredpisa: URED5272
+idPredpisaChng: URED5272
+instock: .nan
+naslov: "UREDBA o skladi\u0161\u010Denju nevarnih teko\u010Din v nepremi\u010Dnih\
+  \ skladi\u0161\u010Dnih posodah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 2)"
+npbNum: 2
+path: /2010/54/2010-01-5470-2009-01-4568-npb2
+sopPredpisa: 2010-01-5470
+sopPredpisaChng: 2009-01-4568

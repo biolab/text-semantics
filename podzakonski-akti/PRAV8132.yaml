@@ -1,0 +1,17 @@
+Text file: PRAV8132.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1224280800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8132
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o kriterijih in merilih mno\u017Ei\u010Dnega vrednotenja nepremi\u010D\
+  nin"
+npbNum: 0
+path: /2008/39/2008-01-3964
+sopPredpisa: 2008-01-3964
+sopPredpisaChng: null

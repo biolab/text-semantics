@@ -1,0 +1,16 @@
+Text file: ODRE2520.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1577833200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2520
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o enotnem na\u010Drtu klasifikacijskih znakov za upravne enote"
+npbNum: 0
+path: /2019/31/2019-01-3186
+sopPredpisa: 2019-01-3186
+sopPredpisaChng: null

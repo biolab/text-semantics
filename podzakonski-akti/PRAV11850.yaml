@@ -1,0 +1,17 @@
+Text file: PRAV11850.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1483138800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11850
+idPredpisaChng: PRAV11850
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za ugotavljanje, prepre\u010Devanje \u0161irjenja in\
+  \ zatiranje stekline (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/34/2016-01-3447-2013-01-3493-npb1
+sopPredpisa: 2016-01-3447
+sopPredpisaChng: 2013-01-3493

@@ -1,0 +1,17 @@
+Text file: SKLE420.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 942447600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE420
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o 14. izdaji blagajni\u0161kega zapisa Banke Slovenije v apoenih po\
+  \ 500.000 tolarjev"
+npbNum: 0
+path: /1999/43/1999-01-4368
+sopPredpisa: 1999-01-4368
+sopPredpisaChng: null

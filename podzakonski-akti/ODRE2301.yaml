@@ -1,0 +1,17 @@
+Text file: ODRE2301.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1438380000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2301
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o seznamu standardov, ob uporabi katerih se domneva, da je proizvod\
+  \ varen v skladu z Zakonom o splo\u0161ni varnosti proizvodov"
+npbNum: 0
+path: /2015/24/2015-01-2413
+sopPredpisa: 2015-01-2413
+sopPredpisaChng: null

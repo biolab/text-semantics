@@ -1,0 +1,18 @@
+Text file: ODRE2027.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1301094000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2027
+idPredpisaChng: ODRE2027
+instock: .nan
+naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij za motorna in\
+  \ priklopna vozila (z najmanj \u0161tirimi kolesi) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/09/2011-01-0902-2009-01-4197-npb2
+sopPredpisa: 2011-01-0902
+sopPredpisaChng: 2009-01-4197

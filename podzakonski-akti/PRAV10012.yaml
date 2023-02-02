@@ -1,0 +1,18 @@
+Text file: PRAV10012.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1342562400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10012
+idPredpisaChng: PRAV10012
+instock: .nan
+naslov: "UREDBA o izvajanju uredbe (ES) o pomo\u010Di Skupnosti za oskrbo otrok in\
+  \ mladostnikov v vrtcih in \u0161olah z mlekom in nekaterimi mle\u010Dnimi proizvodi\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/23/2012-01-2326-2010-01-5586-npb1
+sopPredpisa: 2012-01-2326
+sopPredpisaChng: 2010-01-5586

@@ -1,0 +1,20 @@
+Text file: KOLP302.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1585692000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1585605600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP302
+idPredpisaChng: KOLP302
+instock: .nan
+naslov: "KOLEKTIVNA POGODBA dejavnosti ban\u010Dni\u0161tva Slovenije (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2020/07/2020-01-0756-2011-01-0153-npb6
+sopPredpisa: 2020-01-0756
+sopPredpisaChng: 2011-01-0153

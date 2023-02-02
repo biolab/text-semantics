@@ -1,0 +1,16 @@
+Text file: URED3026.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1063663200000000000
+- null
+- null
+- 10
+idPredpisa: URED3026
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Rakovec"
+npbNum: 0
+path: /2003/41/2003-01-4110
+sopPredpisa: 2003-01-4110
+sopPredpisaChng: null

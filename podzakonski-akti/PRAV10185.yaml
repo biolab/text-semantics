@@ -1,0 +1,17 @@
+Text file: PRAV10185.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1325372400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10185
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161ih pogojih za pridobitev dovoljenja za gojitev\
+  \ rib za poribljavanje"
+npbNum: 0
+path: /2010/33/2010-01-3353
+sopPredpisa: 2010-01-3353
+sopPredpisaChng: null

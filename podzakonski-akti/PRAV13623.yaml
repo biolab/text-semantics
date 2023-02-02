@@ -1,0 +1,16 @@
+Text file: PRAV13623.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1579906800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13623
+idPredpisaChng: null
+instock: .nan
+naslov: "o registraciji oseb na potni\u0161kih ladjah"
+npbNum: 0
+path: /2020/00/2020-01-0013
+sopPredpisa: 2020-01-0013
+sopPredpisaChng: null

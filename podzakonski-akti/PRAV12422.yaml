@@ -1,0 +1,16 @@
+Text file: PRAV12422.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1451689200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12422
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vzdr\u017Eevanju elektroenergetskih postrojev"
+npbNum: 0
+path: /2015/38/2015-01-3855
+sopPredpisa: 2015-01-3855
+sopPredpisaChng: null

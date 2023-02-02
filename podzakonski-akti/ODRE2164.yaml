@@ -1,0 +1,17 @@
+Text file: ODRE2164.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1333144800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2164
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi programa strokovnega usposabljanja in izpopolnjevanja\
+  \ za operaterja varnostno-nadzornega centra"
+npbNum: 0
+path: /2012/09/2012-01-0930
+sopPredpisa: 2012-01-0930
+sopPredpisaChng: null

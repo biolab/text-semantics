@@ -1,0 +1,13 @@
+Text file: RESO141.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO141
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o nacionalnem programu za kulturo 2022\u20132029 (ReNPK22\u2013\
+  29)"
+npbNum: 0
+path: /2022/05/2022-01-0559
+sopPredpisa: 2022-01-0559
+sopPredpisaChng: null

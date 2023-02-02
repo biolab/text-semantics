@@ -1,0 +1,17 @@
+Text file: PRAV6367.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1116453600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6367
+idPredpisaChng: PRAV6367
+instock: .nan
+naslov: "PRAVILNIK o usposabljanju in financiranju mladih raziskovalcev v gospodarstvu\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2005/19/2005-01-1981-2005-01-0362-npb1
+sopPredpisa: 2005-01-1981
+sopPredpisaChng: 2005-01-0362

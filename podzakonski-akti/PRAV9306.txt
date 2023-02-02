@@ -1,0 +1,636 @@
+I. SPLOŠNA DOLOČBA
+1. člen
+Ta pravilnik določa načine in pogoje dodeljevanja čezmejnih prenosnih
+zmogljivosti (v nadaljnjem besedilu: prenosne zmogljivosti) ter njihovo
+uporabo.
+2. člen
+Na posamezni meji je dodeljevanje prenosnih zmogljivosti lahko
+drugače urejeno kot določa ta pravilnik, s pravili, ki jih sistemski operater
+prenosnega omrežja (v nadaljnjem besedilu: sistemski operater) pripravi in
+uskladi v koordinaciji z drugimi sistemskimi operaterji.
+Po pridobitvi soglasja Javne agencije Republike Slovenije za
+energijo (v nadaljnjem besedilu: agencija) se ta pravila objavijo v Uradnem
+listu Republike Slovenije.
+II. POMEN IZRAZOV IN OKRAJŠAV
+3. člen
+Uporabljeni izrazi in okrajšave v tem pravilniku imajo naslednji
+pomen:
+-       
+Avkcija: je tržna metoda dodeljevanja prenosnih zmogljivosti, s katero
+izvajalec avkcij le-te dodeljuje v primeru prezasedenosti v omrežju.
+-       
+Avkcijski sistem: je informacijski sistem izvajalca avkcij za operativno
+izvajanje avkcij.
+-       
+Depozitni podračun: je podračun udeleženca avkcije za namen kritja in
+finančne poravnave avkcijskih obveznosti, ki ga na posebnem transakcijskem
+računu odpre sistemski operater.
+-       
+Dodeljena prenosna zmogljivost: je prenosna zmogljivost, ki jo
+udeleženec avkcije pridobi na avkciji za določeno mejo. Dodeljena prenosna
+zmogljivost udeležencu avkcije daje pravico uporabe prenosne zmogljivosti za
+prenos električne energije v določeni količini, smeri na meji in časovnem
+obdobju.
+-       
+Dodeljevanje znotraj dneva: je dodeljevanje prostih prenosnih zmogljivosti
+za dan D, ki ostanejo nerazdeljene po avkcijah.
+-       
+EIC-koda: je ETSO identifikacijska oznaka, ki nedvoumno označuje
+udeleženca avkcije (http://www.edi.etso-net.
+org/eic/cds/allocated-eiccodes.xml).
+-       
+Izvajalec avkcij: je sistemski operater ali po njegovem pooblastilu
+druga pravna oseba, ki izvaja avkcije.
+-       
+Koordinirana avkcija: je skupna avkcija dveh ali več sistemskih
+operaterjev.
+-       
+Neizkoriščena prenosna zmogljivost: je prenosna zmogljivost, ki jo je
+udeleženec pridobil v obdobju znotraj dneva in je ni uporabil.
+-       
+Obdobje znotraj dneva (intra-day): je čas od trenutka uskladitve voznega
+reda za dan D do 24.00 ure dneva D.
+-       
+Razpoložljiva prenosna zmogljivost: je del neto prenosne zmogljivosti,
+ki po vsaki fazi postopka dodeljevanja ostane na voljo za komercialno rabo.
+-       
+UIOLI: je t. i. princip uporabi ali izgubi (»use it or lose it«), ki
+pomeni, da nosilec prenosnih zmogljivosti izgubi tiste zmogljivosti, ki jih ne
+najavi do roka za najavo voznega reda. Le-te sistemski operater podeli v
+nadaljnjih postopkih dodeljevanja.
+III. ČEZMEJNE PRENOSNE ZMOGLJIVOSTI
+4. člen
+Prenosna zmogljivost je razpoložljiva zmogljivost
+interkonekcijske povezave med dvema sosednjima elektroenergetskima sistemoma,
+ki je namenjena komercialni uporabi. Količino čezmejnih prenosnih zmogljivosti
+določi sistemski operater v sodelovanju s sistemskim operaterjem sosednje
+države in ob upoštevanju meril zagotavljanja zanesljivosti obratovanja
+prenosnega omrežja.
+Sistemski operater objavlja metodologijo izračuna prenosnih zmogljivosti
+potem, ko je pridobil soglasje agencije, in količine skupnih in razpoložljivih
+prenosnih zmogljivosti na svoji spletni strani.
+IV. NAČIN DODELJEVANJA PRENOSNIH ZMOGLJIVOSTI
+5. člen
+Prenosne zmogljivosti dodeljuje izvajalec avkcij na avkcijah za
+dodeljevanje prenosnih zmogljivosti. Avkcije organizira in operativno izvaja
+sistemski operater oziroma po njegovem pooblastilu in pravilih druga pravna
+oseba.
+6. člen
+Prenosne zmogljivosti lahko izvajalec avkcij v obliki
+produktov dodeljuje na letni, večmesečni, mesečni in dnevni osnovi.
+7. člen
+Sistemski operater enkrat letno pripravi okvirni predlog deležev
+prenosnih zmogljivosti za dodelitev v posameznih časovnih obdobjih in ga
+posreduje v vednost agenciji.
+V. SODELOVANJE NA AVKCIJAH ZA DODELJEVANJE PRENOSNIH
+ZMOGLJIVOSTI
+8. člen
+Na avkcijah za dodeljevanje prenosnih zmogljivosti lahko sodeluje
+vsaka pravna ali fizična oseba, ki ima v skladu z uredbo, ki ureja način
+izvajanja gospodarske javne službe organiziranja trga z električno energijo,
+sklenjeno bilančno pogodbo oziroma z odgovornim bilančne skupine sklenjeno pogodbo
+o izravnavi.
+9. člen
+Pravne ali fizične osebe, ki želijo sodelovati na avkcijah za
+dodeljevanje prenosnih zmogljivosti, morajo sistemskemu operaterju predložiti
+prijavo za sodelovanje na avkcijah. Obrazec za prijavo sistemski operater
+objavi na svoji spletni strani.
+Prijava za sodelovanje na avkcijah mora vsebovati:
+1.     
+firmo oziroma ime, sedež oziroma naslov, matično številko, davčno
+številko, EIC kodo, številko telefona in telefaksa, e-poštni naslov in
+kontaktno osebo, naslov za pošiljanje pošte in računov v kolikor le-ta ni enak
+naslovu sedeža firme, naslov banke ter številka transakcijskega računa,
+2.     
+seznam pooblaščencev za podajanje ponudb (v primeru naknadne vključitve
+dodatne osebe za podajanje ponudb je potrebno pooblastilo za to osebo,
+podpisano s strani zakonitega zastopnika),
+3.     
+overjeno kopijo bilančne pogodbe, v kolikor sistemski operater ni
+sopodpisnik te pogodbe ali overjeno kopijo pogodbe o izravnavi z odgovornim
+bilančne skupine,
+4.     
+izpisek iz sodnega registra podjetij, katerega datum ni starejši od 60
+dni. V primeru, da v državi, kjer ima vlagatelj prijave na avkcijo sedež, sodni
+organi ne izdajajo takega potrdila, ga mora vlagatelj nadomestiti s potrdilom
+drugega pristojnega organa,
+5.     
+telefonsko številko in dežurno kontaktno osebo za medsebojno obveščanje
+v primeru izrednih obratovalnih razmer,
+6.     
+navedbo vrst avkcij na katerih želi sodelovati (letne, mesečne, dnevne).
+Prijava mora biti podpisana s strani osebe, ki je kot
+zakoniti zastopnik navedena v dokazilu iz 4. točke prejšnjega odstavka. V
+primeru, da je prijava podpisana s strani druge osebe, je potrebno priložiti
+dokument, ki dokazuje, da je podpisnika vloge zakoniti zastopnik pooblastil.
+Sistemski operater lahko ob prijavi zahteva dodatna dokazila oziroma garancije.
+10. člen
+Prijava in vsa ostala dokumentacija v zvezi s prijavo na avkcije
+mora biti v slovenskem ali angleškem jeziku. Dokumenti, ki niso uradno izdani v
+slovenskem ali angleškem jeziku, morajo biti prevedeni v enega od navedenih
+jezikov, prevod pa potrjen s strani uradnega prevajalca ali sodnega tolmača.
+11. člen
+V primeru, da je prijava nepopolna, sistemski operater v roku
+petih (5) delovnih dni pozove vlagatelja prijave k njeni dopolnitvi.
+Na podlagi popolne prijave sistemski operater vlagatelju najkasneje
+po preteku petih (5) delovnih dni od prejetja popolne prijave izda Odločbo o
+vključitvi v avkcije in mu omogoči fizični dostop do avkcijskega sistema.
+12. člen
+Udeleženec avkcij mora sistemskemu operaterju vsako spremembo
+podatkov iz prijave javiti najkasneje v desetih (10) delovnih dneh po nastanku
+spremembe.
+13. člen
+Udeleženec, ki na avkcijah ne želi več sodelovati, mora podati
+pisni odstop.
+VI. OBJAVA VREDNOSTI RAZPOLOŽLJIVIH PRENOSNIH ZMOGLJIVOSTI IN
+PRODUKTI DODELJEVANJA
+14. člen
+Sistemski operater prenosnega omrežja objavi za vsako posamezno
+avkcijo vrednosti razpoložljivih prenosnih zmogljivosti, ki so predmet avkcije,
+na svoji spletni strani.
+Sistemski operater objavi razpoložljive prenosne
+zmogljivosti:
+-       
+ločeno po posameznih mejah,
+-       
+ločeno po smeri prenosa (uvoz, izvoz).
+Predvideni roki objave indikativnih razpoložljivih prenosnih zmogljivosti
+so:
+-       
+7 dni pred letno avkcijo,
+-       
+5 dni pred mesečno avkcijo in
+-       
+2 dneva pred dnevno avkcijo.
+Sistemski operater lahko zgoraj navedene roke tudi spremeni. O
+spremembi je dolžan vse udeležence avkcij obvestiti najmanj 30 dni pred prvo
+avkcijo na katero se sprememba nanaša.
+15. člen
+Prenosne zmogljivosti izvajalec avkcije dodeljuje v obliki produktov,
+ki so definirani glede na:
+-       
+obdobje trajanja,
+-       
+posamezno mejo,
+-       
+določeno smer prenosa: uvoz, izvoz.
+Vsakemu produktu na avkciji pripada enolično določena koda
+produkta.
+16. člen
+Na spletni strani izvajalec avkcije objavi seznam in
+definicije produktov: oznako meje in smeri, čas trajanja in velikost produkta
+ter njegovo kodo.
+17. člen
+Izvajalec avkcije objavi informacije o novih produktih v rokih,
+ki so enaki rokom za objavo razpoložljivih prenosnih zmogljivosti v 16. členu
+teh pravil.
+VII. IZVEDBA AVKCIJ ZA DODELJEVANJE PRENOSNIH ZMOGLJIVOSTI
+18. člen
+Izvajalec avkcije lahko izvaja letne, večmesečne, mesečne in
+dnevne avkcije ter dodeljuje razpoložljive prenosne zmogljivosti v obdobju
+znotraj dneva, in sicer:
+-       
+Letne, večmesečne, mesečne avkcije: avkcije na letni osnovi se izvajajo
+enkrat letno, avkcije na mesečni ali večmesečni osnovi se izvajajo enkrat
+mesečno ali enkrat večmesečno.
+-       
+Dnevne avkcije: dnevne avkcije za dodeljevanje prenosnih zmogljivosti
+potekajo dnevno razen ob sobotah, nedeljah in praznikih.
+-       
+Dodeljevanje znotraj dneva: po uskladitvi in potrditvi voznega reda ter
+objavi razpoložljivih prenosnih zmogljivosti sistemski operater proste prenosne
+zmogljivosti dodeljuje znotraj dneva po vrstnem redu prispelih ponudb.
+Izvajalec avkcije v okviru predavkcijskega postopka vnese v
+avkcijski sistem razpoložljivo količino prenosnih zmogljivosti po posameznih
+produktih. V času avkcije lahko udeleženci avkcije upravljajo s svojimi
+ponudbami (vnos, sprememba ali odstranitev). Po zaključku avkcije izvajalec
+avkcije objavi končne marginalne cene za vse produkte dodeljevanja.
+19. člen
+Točen termin in trajanje posameznih avkcij izvajalec avkcij določi
+in objavi na svoji spletni strani, in sicer vsaj dva (2) dni pred pričetkom
+dnevnih avkcij, vsaj pet (5) dni pred vsako mesečno avkcijo ter najkasneje
+sedem (7) dni pred vsako letno in večmesečno avkcijo.
+20. člen
+Avkcije potekajo elektronsko preko avkcijskega sistema preko
+katerega udeleženci avkcije podajajo svoje ponudbe.
+1. Vrste ponudb
+21. člen
+Na avkcijah lahko udeleženci avkcije podajajo omejene ponudbe
+in vse ali nič omejene ponudbe.
+Omejene ponudbe so tiste ponudbe, pri katerih udeleženec avkcije
+postavi še sprejemljivo ceno, ki jo je pripravljen plačati za pridobitev
+prenosnih zmogljivosti. Omejena ponudba se lahko izvrši delno ali v celoti.
+Vse ali nič omejene ponudbe so tiste ponudbe, ki se izvršijo le
+v primeru, ko je možno dodeliti celotno količino v ponudbi po ceni, ki je
+navedena v ponudbi ali po za udeleženca avkcije ugodnejši ceni.
+22. člen
+Izvajalec avkcij med avkcijo nima vpogleda v cene ponudb, ki
+so jih podali udeleženci avkcije.
+23. člen
+Vse ponudbe morajo vsebovati naslednje informacije:
+-       
+identifikacijsko številko udeleženca avkcije (EIC koda),
+-       
+oznako avkcije, za katero velja ponudba,
+-       
+produkt trgovanja,
+-       
+količino v MW,
+-       
+neto ceno brez DDV, podano v EUR/MWh. Cena mora biti zaokrožena na 0,01
+EUR in ne sme biti nižja ali enaka nič.
+2. Čas sprejema in vrstni red ponudb
+24. člen
+Avkcijski sistem vsaki prispeli ponudbi dodeli časovno oznako
+glede na čas prispetja ponudbe. Avkcijski sistem obvesti ponudnika o prispeli
+ponudbi.
+25. člen
+Vse prispele ponudbe se razvrstijo v knjigo ponudb, pri čemer
+se ponudbe razvrstijo ločeno za vsak produkt prenosnih zmogljivosti posebej.
+Udeleženci avkcije med avkcijo nimajo vpogleda v knjigo ponudb, vidijo lahko le
+svoje ponudbe.
+Vrstni red v knjigi ponudb je vedno določen po kriteriju »cena/časovna
+oznaka«, torej tako, da imajo pri dodeljevanju prednost ponudbe z višjo ceno.
+Če je v okviru iste cene več ponudb, imajo prednost ponudbe s starejšo časovno
+oznako.
+26. člen
+Ponudbe udeležencev avkcij zapadejo ob zaključku avkcije.
+3. Količina dodeljenih prenosnih zmogljivosti
+27. člen
+V primeru, ko so razpoložljive količine prenosnih
+zmogljivosti za posamezen produkt večje ali enake kot so potrebe udeležencev
+avkcije, se prenosne zmogljivosti dodelijo vsem udeležencem avkcije v skladu s
+količinami, navedenimi v ponudbah.
+28. člen
+V primeru, ko so razpoložljive prenosne zmogljivosti za posamezen
+produkt manjše od potreb udeležencev avkcije, se dodelijo po naslednjih
+kriterijih:
+-       
+ponudbe za dodelitev prenosnih zmogljivosti z višjo ceno imajo prednost
+pred ponudbami z nižjo ceno,
+-       
+v primeru cenovno enakovrednih ponudb ima ponudba s starejšo časovno
+oznako prednost pred ponudbo z mlajšo časovno oznako.
+4. Cena za dodeljene prenosne zmogljivosti
+29. člen
+V primeru, ko so razpoložljive prenosne zmogljivosti za posamezni
+produkt večje ali enake ponudbam udeležencev avkcije za ta produkt, tako da so
+vsem udeležencem avkcije dodeljene prenosne zmogljivosti v skladu z njihovimi
+ponudbami, je cena za tako dodeljene prenosne zmogljivosti 0 EUR/MWh.
+30. člen
+V primeru, ko so ponudbe udeležencev avkcije za posamezni produkt
+večje od razpoložljivih prenosnih zmogljivosti za ta produkt, tako da so
+uspešne samo nekatere ponudbe udeležencev avkcij, plačajo udeleženci avkcije
+marginalno ceno za posamezen produkt. Marginalna cena je enaka najnižji
+ponujeni ceni med ponudbami, katerim je bil posamezen produkt prenosnih
+zmogljivosti dodeljen.
+VIII. OBJAVA REZULTATOV AVKCIJ
+31. člen
+Udeleženci avkcije so o rezultatih avkcije obveščeni preko avkcijskega
+sistema najkasneje v tridesetih (30) minutah po koncu avkcije.
+Obvestilo o dodeljenih prenosnih zmogljivostih vsebuje:
+-       
+oznake dodeljenih produktov z dodeljenimi količinami posameznega
+produkta,
+-       
+neto ceno v EUR/MWh za vsak produkt dodeljenih prenosnih zmogljivosti.
+32. člen
+Po vsaki zaključeni avkciji izvajalec avkcije podatke o rezultatih
+avkcije objavi na svoji spletni strani.
+IX. SEKUNDARNI TRG S PRENOSNIMI ZMOGLJIVOSTMI
+1. Prenos dodeljenih prenosnih zmogljivosti med udeleženci avkcij
+33. člen
+Nosilec prenosnih zmogljivosti lahko le-te v celoti ali delu prenese
+na drugega nosilca.
+Novi nosilec prenosnih zmogljivosti mora za njihovo
+pridobitev izpolnjevati pogoje, ki so enaki pogojem za sodelovanje na avkcijah
+za dodeljevanje prenosnih zmogljivosti in so navedeni v poglavju V tega
+pravilnika.
+Pogoj za prenos so poravnane vse obveznosti do sistemskega operaterja,
+ki izhajajo iz dodeljenih prenosnih zmogljivosti na določeni avkciji, katerih
+del ali celoto želi njihov nosilec prenesti. V primerih letnih ali večmesečnih
+avkcij morajo biti poravnane obveznosti za mesec, za katerega želi nosilec
+prenesti prenosne zmogljivosti.
+V primeru, ko nosilec prenosnih zmogljivosti želi prenesti zmogljivosti,
+za katere še ni poravnal obveznosti, ko avansni račun za te prenosne
+zmogljivosti še ni bil izdan, lahko le-ta pozove sistemskega operaterja k
+izdaji računa.
+34. člen
+Prenos je možen le preko elektronskega sistema za najavo voznih
+redov ESS (ETSO Scheduling System). Prijavo prenosa morata v elektronskem
+sistemu potrditi tako stari kot novi nosilec prenosnih zmogljivosti.
+35. člen
+Rok za prenos prenosnih zmogljivosti med udeleženci je načeloma
+enak roku za najavo voznih redov, in sicer je rok za prenos prenosnih
+zmogljivosti dodeljenih na letni, večmesečnih in mesečnih avkcijah enak roku za
+jutranjo najavo voznega reda t.j. do 08:00 ure, rok za prenos prenosnih
+zmogljivosti, dodeljenih na dnevnih avkcijah pa je enak roku za popoldansko najavo
+voznega reda t.j. do 14:00 ure.
+2. Vračilo dodeljenih prenosnih zmogljivosti sistemskemu
+operaterju
+36. člen
+Nosilec prenosnih zmogljivosti lahko le-te prek elektronskega
+sistema za najavo voznih redov vrne sistemskemu operaterju.
+37. člen
+Prenosne zmogljivosti je sistemskemu operaterju možno vrniti
+le v obliki produktov, v katerih so mu bile dodeljene, vendar za različna,
+krajša obdobja.
+Izvajalec avkcije vrnjene prenosne zmogljivosti dodeli na prvi
+naslednji avkciji, na kateri jih je možno dodeliti. Na letni avkciji dodeljene
+in vrnjene prenosne zmogljivosti je možno dodeliti na večmesečni, mesečni ali
+dnevni avkciji, v kolikor se vrnjene prenosne zmogljivosti nanašajo na celotno
+obdobje, za katerega avkcija poteka. Na mesečni avkciji dodeljene in vrnjene prenosne
+zmogljivosti je možno dodeliti na dnevni avkciji.
+38. člen
+Rok za vračilo dodeljenih prenosnih zmogljivosti je en (1)
+delovni dan pred rokom, v katerem mora sistemski operater objaviti
+razpoložljive prenosne zmogljivosti za posamezno avkcijo.
+39. člen
+Nosilec prenosne zmogljivosti za vrnjeno prenosno zmogljivost
+prejme nadomestilo po ceni, doseženi na novi avkciji.
+Za vrnjene prenosne zmogljivosti je udeleženec avkcije dolžan
+sistemskemu operaterju izstaviti račun v prvem tednu tekočega meseca za
+pretekli mesec za letne, večmesečne mesečne avkcije skupaj.
+40. člen
+Sistemski operater za storitve, povezane z vračilom
+dodeljenih prenosnih zmogljivosti, ne zaračunava stroškov.
+X. UPORABA DODELJENIH PRENOSNIH ZMOGLJIVOSTI
+1. Najava voznih redov
+41. člen
+Najava voznih redov na podlagi predhodno pridobljenih prenosnih
+zmogljivosti poteka dvostopenjsko v elektronskem sistemu voznih redov.
+42. člen
+V prvi stopnji morajo nosilci prenosnih zmogljivosti,
+pridobljenih na letni ali večmesečni/mesečni avkciji sistemskemu operaterju
+uporabo teh prenosnih zmogljivosti najaviti do 08:00 ure. Najavljene prenosne
+zmogljivosti so zavezujoče in jih po roku za najavo ni možno spreminjati.
+Nenajavljene prenosne zmogljivosti so podvržene principu UIOLI.
+Nosilci prenosnih zmogljivosti, pridobljenih na dnevni avkciji
+morajo uporabo teh prenosnih zmogljivosti najaviti do roka za popoldansko
+najavo t.j. do 14.00 ure v dnevu D-1.  Najavljene prenosne zmogljivosti so
+zavezujoče in jih po roku za najavo ni možno spreminjati. Nenajavljene prenosne
+zmogljivosti so podvržene principu UIOLI. Najavo opravi odgovorni bilančne
+skupine.
+Nenajavljene prenosne zmogljivosti dobijo status
+razpoložljivih prenosnih zmogljivosti, ki jih sistemski operater dodeljuje v
+nadaljnjih postopkih.
+Sistemski operater lahko rok za najavo voznih redov tudi spremni.
+O spremembi mora udeležence avkcij obvestiti najmanj 30 dni pred pričetkom
+veljave spremembe.
+43. člen
+V primeru nekoriščenja prenosnih zmogljivosti, dodeljenih znotraj
+dneva, sistemski operater nosilcu le-teh zaračuna ceno za neizkoriščeno
+dodeljeno prenosno zmogljivost, ki jo določi agencija.
+XI. IZVAJANJE AVKCIJ V PRIMERU TEHNIČNIH TEŽAV
+44. člen
+Tehnične težave se lahko pojavijo na strani udeleženca avkcije
+ali na strani izvajalca avkcij.
+1. Težave na strani udeleženca avkcije
+45. člen
+Udeleženci avkcije lahko v primeru tehničnih težav, ki se
+pojavijo na njihovi strani, svoje ponudbe pošljejo na faks izvajalca avkcij na
+predpisanem obrazcu. Veljavne so le ponudbe, ki jih izvajalec avkcij prejme
+najkasneje 15 minut pred zaključkom avkcije. Za čas prispetja se šteje časovna
+značka, ki jo ponudbi dodeli faks izvajalca avkcij.
+Predpisan obrazec in številka faksa sta objavljena na spletni
+strani izvajalca avkcij. Izvajalec avkcij prispelo ponudbo vnese v avkcijski
+sistem, s čimer ponudba dobi časovno znamko in postane veljavna. Udeleženec
+avkcije lahko za posamezno avkcijo za določeno mejo pošlje le en obrazec z največ
+eno (1) ponudbo za posamezen produkt.
+2. Težave na strani izvajalca avkcij
+46. člen
+V primeru tehničnih težav na strani izvajalca avkcije lahko sistemski
+operater spremeni urnik avkcije oziroma prekliče/ponovi avkcijo, ki že poteka.
+O tem obvesti udeležence avkcij preko teleinformacijskih povezav.
+V kolikor ni mogoče zagotoviti normalnega poteka avkcije preko
+avkcijskega sistema, se za ta dan avkcija izvede preko faksa v kolikor je to
+mogoče oziroma se prekliče.
+47. člen
+V primeru izvedbe avkcije s pomočjo faksa udeleženci pošljejo
+svoje ponudbe po faksu na predpisanem obrazcu v roku, navedenem v obvestilu, ki
+ga je poslal izvajalec avkcije. Predpisan obrazec in številka faksa sta
+objavljena na spletni strani izvajalca avkcij. Udeleženec avkcije lahko za
+posamezno avkcijo za določeno mejo pošlje le en obrazec z največ eno (1) ponudbo
+za posamezen produkt.
+Izvajalec avkcij po faksu prispele ponudbe po poteku roka za
+oddajo ponudb vnese v pomožni avkcijski sistem in obvesti udeležence avkcije o
+rezultatih preko teleinformacijskih povezav.
+XII. IZKLJUČITEV ODGOVORNOSTI IZVAJALCA AVKCIJ
+48. člen
+Izvajalec avkcij ni odgovoren za kakršnokoli škodo, posredno ali
+neposredno nastalo zaradi:
+1.     
+ponudnikove nezmožnosti sodelovanja na avkciji oziroma zaradi izostanka
+izvedbe avkcije same,
+2.     
+nepravočasnega prispetja ponudbe v avkcijski sistem,
+3.     
+vpogleda tretje osebe v ponudnikovo ponudbo kljub najboljšim
+prizadevanjem za ohranitev tajnosti informacij,
+4.     
+zaradi napake udeleženca avkcije pri vnosu ponudbe v avkcijski sistem.
+XIII. OMEJITEV UPORABE DODELJENIH PRENOSNIH ZMOGLJIVOSTI
+49. člen
+Sistemski operater ima pravico deloma ali v celoti omejiti uporabo
+dodeljenih prenosnih zmogljivosti v primerih, ki jih določa navodilo, ki ureja
+obratovanje prenosnega omrežja električne energije.
+50. člen
+Za čas in višino omejitve uporabe dodeljenih prenosnih zmogljivosti
+zaradi zgoraj navedenih razlogov je nosilec prenosnih zmogljivosti upravičen do
+100% povračila avkcijske cene. Povračilo se ne nanaša na omejitve zaradi višje
+sile.
+Za znesek povračila je udeleženec avkcije dolžan sistemskemu operaterju
+izstaviti račun v prvem tednu tekočega meseca za pretekli mesec za letne,
+večmesečne, mesečne in dnevne avkcije skupaj.
+XIV. FINANČNO KRITJE, OBRAČUN IN PORAVNAVA
+51. člen
+To poglavje ureja kritje, obračun in finančno poravnavo za dodeljene
+prenosne zmogljivosti.
+52. člen
+Udeleženci avkcij se morajo vzdržati ravnanja, ki bi lahko ogrožalo
+konkurenčni proces avkcij, in ravnanja, katerega namen je izigravanje ali
+motnja avkcijskega procesa, transparentnosti, stroškovne učinkovitosti ali
+vsesplošne poštenosti. V primeru kršitev teh pravil ima sistemski operater
+pravico iz nadaljnjih avkcij izključiti udeleženca avkcij, ki bi ravnal v nasprotju
+s pravili.
+53. člen
+Udeleženca avkcij, ki pravočasno ne poravna svojih obveznosti
+iz naslova na avkciji dodeljenih prenosnih zmogljivosti, sistemski operater
+izključi iz vseh nadaljnjih avkcij. Pred ponovno vključitvijo udeleženca na
+avkcije prenosnih zmogljivosti mora le ta:
+a)    
+v primeru, da je cena dosežena na prvi avkciji, na kateri je bila
+prenosna zmogljivost dodeljena višja od cene, ki je bila dosežena na avkciji na
+kateri je bila odvzeta prenosna zmogljivost ponovno dodeljena, poravnati
+sistemskemu operaterju razliko v ceni. Hkrati mora udeleženec avkcije
+sistemskemu operaterju ponovno predložiti prijavo za sodelovanje na avkcijah, ki
+jo sistemski operater obravnava v skladu s V. poglavjem tega pravilnika.
+b)    
+v primeru, da je cena dosežena na prvi avkciji na kateri je bila
+prenosna zmogljivost dodeljena nižja od cene, ki je bila dosežena na avkciji na
+kateri je bila odvzeta prenosna zmogljivost ponovno dodeljena, mora udeleženec
+avkcije sistemskemu operaterju ponovno predložiti prijavo za sodelovanje na
+avkcijah, ki jo sistemski operater obravnava v skladu s V. poglavjem tega
+pravilnika.
+1. Depozitni podračun/Bančna garancija
+54. člen
+Kritje in finančna poravnava na tedenskih in dnevnih avkcijah
+poteka preko depozitnega podračuna ali s predložitvijo bančne garancije v
+minimalni višini 50.000 EUR.
+Depozitni podračun je podračun na posebnem transakcijskem računu,
+ki ga ob vključitvi na avkcije za vsakega udeleženca avkcij, ki želi sodelovati
+na tedenskih ali dnevnih avkcijah, odpre sistemski operater. Depozitni
+podračuni se vodijo v denarni valuti EUR.
+S sredstvi na depozitnih podračunih lahko na podlagi nepreklicnega
+pooblastila udeleženca avkcije, da se ta sredstva uporabljajo za namen kritja
+in finančne poravnave avkcij, kot upravljalec depozitnega podračuna razpolaga
+le sistemski operater. Nosilci depozitnih podračunov na svoje podračune denarna
+sredstva lahko le polagajo.
+55. člen
+Obresti za sredstva na depozitnih podračunih pripadajo nosilcem
+teh podračunov po obrestni meri, določeni z vsakokrat veljavnim Sklepom banke o
+obrestnih merah. Obresti banka nakaže vsak mesec na depozitne podračune
+udeležencev avkcij.
+56. člen
+V primeru, ko nosilec depozitnega podračuna želi dvigniti denarna
+sredstva ali njihov del s svojega podračuna, oziroma zahteva vrnitev bančne
+garancije mu sistemski operater le-to omogoči po predložitvi pisnega zahtevka
+pod pogojem, da so vse dospele obveznosti nosilca že poravnane. Rok za vračilo sredstev
+je pet (5) delovnih dni od prejema pisnega zahtevka.
+57. člen
+Stroški vodenja depozitnih podračunov bremenijo sistemskega operaterja.
+2. Kritje za tedenske in dnevne avkcije
+58. člen
+Udeleženci tedenskih in dnevnih avkcij na svojih depozitnih podračunih/bančni
+garanciji vzdržujejo denarna sredstva kot zavarovanje za izpolnjevanje
+obveznosti iz dodeljenih prenosnih zmogljivosti. 
+Izvajalec avkcije pred vsako avkcijo v avkcijsko aplikacijo prenese
+podatek o neto stanju denarnih sredstev na depozitnih podračunih/bančni
+garanciji udeležencev avkcij. Pri tem upošteva neto stanje na depozitnih
+podračunih oziroma vrednost bančne garancije, kot je izkazano točno ob 6:00 na
+dan avkcije in ne spremlja posameznih nakazil ali morebitnih sprememb stanja na
+podračunih, ki bi nastale po tej uri. Na avkciji lahko udeleženci avkcije
+podajajo nakupne ponudbe, katerih vsota (skupaj z DDV, ki ga doda avkcijska aplikacija)
+ne sme preseči stanja denarnih sredstev na depozitnem podračunu/bančni
+garanciji. Razpoložljivo kritje udeleženca avkcije se z vnosom vsake nakupne
+ponudbe znižuje. Ponudba, katere vrednost preseže še razpoložljivo kritje, je
+zavrnjena, udeleženec avkcije pa je o tem obveščen. Udeleženci avkcije imajo
+prek avkcijskega sistema vpogled v trenutno stanje sredstev na depozitnem
+podračunu/ bančni garanciji.
+59. člen
+V primeru sodelovanja na več avkcijah, ki potekajo hkrati, se
+od enotnega razpoložljivega stanja sredstev na depozitnem podračunu/bančni
+garanciji oziroma kritja posameznega udeleženca avkcije odštevajo podane
+nakupne ponudbe na vseh avkcijah, na katerih udeleženec sodeluje.
+3. Denarna poravnava za tedenske in dnevne avkcije
+60. člen
+Denarna poravnava za tedenske in dnevne avkcije se izvede po
+zaključeni avkciji. Sistemski operater se poplača z depozitnega podračuna
+udeleženca avkcije v celotni višini obveznosti, ki izhajajo iz avkcije.
+V primeru, da udeleženec avkcije za poravnavo obveznosti do
+Sistemskega operaterja uporablja bančno garancijo se udeležencu avkcije po
+zaključku dnevne avkcije zniža razpoložljivo kritje za vrednost sklenjenih poslov.
+Sklenjeni posli se poravnavajo na tedenski ravni z izdajo računa, ki mora biti poravnan
+v roku osmih (8) dni od izdaje računa. Po poravnavi obveznosti kritje iz
+naslova bančne garancije ponovno vrne na osnovno raven.
+4. Denarna poravnava za večmesečne in mesečne avkcije
+61. člen
+Po objavi rezultatov mesečne avkcije sistemski operater udeležencem
+avkcij, ki so jim bile prenosne zmogljivosti dodeljene, izda predračun za
+dodeljene prenosne zmogljivosti za celotno dodeljeno obdobje. V primeru
+večmesečne avkcije sistemski operater celotne obveznosti iz naslova dodeljenih prenosnih
+zmogljivosti posameznemu udeležencu zaračunava mesečno, tako da jih porazdeli
+po mesecih glede na število dni v posameznem mesecu. Obveznosti iz naslova
+dodeljenih prenosnih zmogljivosti morajo udeleženci avkcij poravnati do roka plačila
+in v znesku, navedenem na predračunu, z nakazilom na transakcijski račun
+sistemskega operaterja.
+Sistemski operater sme, poleg izdaje predračuna, za
+zavarovanje plačila obveznosti iz naslova dodeljenih prenosnih zmogljivosti na
+mesečni ali večmesečni avkciji zahtevati tud druge oblike zavarovanja.
+62. člen
+Rok plačila je določen najkasneje dva (2) delovna dneva pred
+dnem, ko sistemski operater objavi razpoložljive prenosne zmogljivosti za prvo
+naslednjo avkcijo, na kateri je že mogoče dodeljevanje prenosnih zmogljivosti z
+enakimi tehničnimi parametri, vendar za krajše časovno obdobje.
+V primeru, ko je rok plačila določen na praznični ali
+nedelovni dan, se premakne na naslednji delovni dan.
+63. člen
+V primeru, da udeleženec avkcije do roka za plačilo ne poravna
+svojih obveznosti ima sistemski operater pravico celotno prenosno zmogljivost
+dodeljeno na avkciji, na katero se nanaša predračun, upoštevati kot nedodeljeno
+in jo izvajalec avkcije dodeli na naslednji avkciji.
+5. Denarna poravnava za letne avkcije
+64. člen
+Obveznosti iz naslova dodeljenih prenosnih zmogljivosti na
+letni avkciji sistemski operater zaračunava mesečno, tako da celotne obveznosti
+porazdeli na mesece glede na število dni v posameznem mesecu. Prvi predračun se
+izda za obdobje prvih dveh mesecev (januar, februar), nato se predračuni
+izdajajo enkrat mesečno. Obveznosti iz naslova dodeljenih prenosnih zmogljivosti
+morajo udeleženci avkcij poravnati do roka plačila in v znesku, navedenem na
+avansnem računu, z nakazilom na transakcijski račun sistemskega operaterja.
+Sistemski operater sme, poleg izdaje avansnega računa, za
+zavarovanje plačila obveznosti iz naslova dodeljenih prenosnih zmogljivosti na
+letni avkciji zahtevati tudi druge oblike zavarovanja.
+65. člen
+Rok plačila je določen najkasneje dva delovna dni pred dnem,
+ko sistemski operater objavi indikativne razpoložljive prenosne zmogljivosti za
+prvo naslednjo avkcijo, na kateri je že mogoče dodeljevanje prenosnih
+zmogljivosti z enakimi tehničnimi parametri, vendar za krajše časovno obdobje.
+66. člen
+V primeru, da udeleženec avkcije do roka za plačilo ne
+poravna svojih obveznosti ima sistemski operater pravico celotno prenosno
+zmogljivost dodeljeno na avkciji, na katero se nanaša avansni račun, upoštevati
+kot nedodeljeno in jo izvajalec avkcije dodeli na naslednji avkciji.
+6. Denarna poravnava za vračilo in znižanje prenosnih
+zmogljivosti
+67. člen
+V primeru vračila prenosnih zmogljivosti je udeleženec avkcije
+dolžan sistemskemu operaterju izstaviti račun v prvem tednu tekočega meseca za
+pretekli mesec za letne, večmesečne in mesečne avkcije skupaj. Sistemski
+operater bo račun poravnal v petnajstih (15) dneh od datuma prejema računa.
+68. člen
+V primeru povračila za znižanje prenosnih zmogljivosti je
+udeleženec avkcije dolžan sistemskemu operaterju izstaviti račun v prvem tednu
+tekočega meseca za pretekli mesec za letne, večmesečne in mesečne avkcije
+skupaj. Sistemski operater bo račun poravnal v petnajstih (15) dneh od datuma prejema
+računa.
+7. Izdaja računov
+69. člen
+Račune za dodeljene prenosne zmogljivosti sistemski operater
+izda po uporabi prenosne zmogljivosti, in sicer:
+-       
+v tekočem tednu za pretekli teden za dnevne avkcije;
+-       
+v prvem tednu tekočega meseca za pretekli mesec za letne, večmesečne in
+mesečne avkcije.
+Račune za neizkoriščene prenosne zmogljivosti dodeljene znotraj
+dneva sistemski operater izda v prvem tednu tekočega meseca za pretekli mesec.
+8. Napake v obračunu ali finančni poravnavi
+70. člen
+Za morebitne napake in nepravilnosti v obračunu ali denarni poravnavi
+mora udeleženec avkcij sistemskemu operaterju podati pisno pritožbo v roku pet
+(5) delovnih dni od nastanka napake. Pisna pritožba mora vsebovati postavke, ki
+so predmet napake. Sistemski operater poda pisni odgovor v roku pet (5) delovnih
+dni od prejema pisne pritožbe. Odgovor na pritožbo je dokončen za namene
+denarne poravnave.
+V primeru, da udeleženec avkcij ne posreduje pritožbe v zvezi
+z obračunom in finančno poravnavo, sistemski operater upošteva, da je obračun
+in finančna poravnava potekala pravilno.
+71. člen
+Sistemski operater ima pravico do prilagoditve načina finančne
+poravnave zaradi sprememb v davčni zakonodaji in drugih tovrstnih sprememb.
+XV. PREHODNA IN KONČNA DOLOČBA
+72. člen
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik o
+načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti (Uradni list
+RS, št. 50/07, 72/07 in 103/07), vendar se določbe tega pravilnika še naprej
+uporabljajo za dodeljevanje prenosnih zmogljivosti, ki bodo uporabljene do 31.
+decembra 2008.
+73. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 2008-310-0584/ado
+Ljubljana, dne 5. novembra 2008
+EVA 2008-2111-0134
+Elektro-Slovenija, d.o.o.
+mag. Vitoslav Türk l.r.

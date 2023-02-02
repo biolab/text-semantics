@@ -1,0 +1,16 @@
+Text file: PRAV8003.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1204930800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8003
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Drtovanju in poro\u010Danju v ribi\u0161tvu"
+npbNum: 0
+path: /2008/05/2008-01-0577
+sopPredpisa: 2008-01-0577
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: KOLP562.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1608850800000000000
+- null
+- null
+- 10
+idPredpisa: KOLP562
+idPredpisaChng: null
+instock: .nan
+naslov: "KOLEKTIVNO POGODBO za cestni potni\u0161ki promet Slovenije"
+npbNum: 0
+path: /2020/35/2020-01-3566
+sopPredpisa: 2020-01-3566
+sopPredpisaChng: null

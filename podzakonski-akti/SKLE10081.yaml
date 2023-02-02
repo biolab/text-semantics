@@ -1,0 +1,13 @@
+Text file: SKLE10081.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10081
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Minsku, v\
+  \ Republiki Belorusiji"
+npbNum: 0
+path: /2014/33/2014-01-3348
+sopPredpisa: 2014-01-3348
+sopPredpisaChng: null

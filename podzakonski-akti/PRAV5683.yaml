@@ -1,0 +1,16 @@
+Text file: PRAV5683.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1077922800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5683
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o valorizaciji zneskov za odmero dohodnine za leto 2003
+npbNum: 0
+path: /2004/07/2004-01-0790
+sopPredpisa: 2004-01-0790
+sopPredpisaChng: null

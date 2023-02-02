@@ -1,0 +1,16 @@
+Text file: SKLE2059.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 991346400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2059
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o izro\u010Ditvi bankovca za 200 tolarjev v obtok"
+npbNum: 0
+path: /2001/24/2001-01-2497
+sopPredpisa: 2001-01-2497
+sopPredpisaChng: null

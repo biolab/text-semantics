@@ -1,0 +1,17 @@
+Text file: URED628.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 941234400000000000
+- null
+- null
+- 10
+idPredpisa: URED628
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o emisiji nevarnih halogeniranih ogljikovodikov pri odvajanju odpadnih
+  vod
+npbNum: 0
+path: /1999/39/1999-01-3993
+sopPredpisa: 1999-01-3993
+sopPredpisaChng: null

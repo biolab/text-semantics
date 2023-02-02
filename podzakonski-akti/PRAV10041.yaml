@@ -1,0 +1,17 @@
+Text file: PRAV10041.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1268780400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10041
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini vpra\u0161alnika za generalno vrednotenje nepremi\u010D\
+  nin"
+npbNum: 0
+path: /2010/06/2010-01-0649
+sopPredpisa: 2010-01-0649
+sopPredpisaChng: null

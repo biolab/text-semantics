@@ -1,0 +1,17 @@
+Text file: PRAV14248.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616194800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14248
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zagotavljanju izvajanja podalj\u0161ane obravnave osebam, ki\
+  \ so prebolele oku\u017Ebo z virusom SARS-CoV-2"
+npbNum: 0
+path: /2021/08/2021-01-0835
+sopPredpisa: 2021-01-0835
+sopPredpisaChng: null

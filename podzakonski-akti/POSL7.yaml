@@ -1,0 +1,17 @@
+Text file: POSL7.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1120255200000000000
+- null
+- null
+- 10
+idPredpisa: POSL7
+idPredpisaChng: POSL7
+instock: .nan
+naslov: "POSLOVNIK varuha \u010Dlovekovih pravic (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2005/25/2005-01-2572-1995-01-2930-npb3
+sopPredpisa: 2005-01-2572
+sopPredpisaChng: 1995-01-2930

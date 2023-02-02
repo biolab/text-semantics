@@ -1,0 +1,16 @@
+Text file: SKLE221.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 930952800000000000
+- null
+- null
+- 10
+idPredpisa: SKLE221
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o kategorizaciji nadome\u0161\u010Denih delov dr\u017Eavnih cest"
+npbNum: 0
+path: /1999/22/1999-01-2257
+sopPredpisa: 1999-01-2257
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV12070.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1404770400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12070
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o iskanju arheolo\u0161kih ostalin in uporabi tehni\u010Dnih sredstev\
+  \ za te namene"
+npbNum: 0
+path: /2014/20/2014-01-2028
+sopPredpisa: 2014-01-2028
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV2089.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 911430000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2089
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pogojih za izdajo dovoljenj za opravljanje tr\u017Enih telekomunikacijskih\
+  \ storitev"
+npbNum: 0
+path: /1998/37/1998-01-3744
+sopPredpisa: 1998-01-3744
+sopPredpisaChng: null

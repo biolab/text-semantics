@@ -1,0 +1,12 @@
+Text file: SKLE11325.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11325
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o odprtju Konzulata Republike Slovenije v Lublinu, v Republiki Poljski
+npbNum: 0
+path: /2018/12/2018-01-1273
+sopPredpisa: 2018-01-1273
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED437.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 900453600000000000
+- null
+- null
+- 10
+idPredpisa: URED437
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o lokacijskem na\u010Drtu za avtocesto na odseku Kozina-Klanec"
+npbNum: 0
+path: /1998/21/1998-01-2119
+sopPredpisa: 1998-01-2119
+sopPredpisaChng: null

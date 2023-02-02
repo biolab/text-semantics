@@ -1,0 +1,324 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina splošnega akta)
+Ta splošni akt določa način izračuna višine
+plačil za uporabo elementov oštevilčenja.
+2. člen
+(pomen izrazov)
+(1) V tem splošnem aktu uporabljeni
+izrazi imajo naslednji pomen:
+1.     
+Agencija je neodvisen regulativni organ, katere pristojnosti,
+organizacijo in delovanje določa Zakon o elektronskih komunikacijah (Uradni
+list RS, št. 109/12; v nadaljnjem besedilu: ZEKom-1).
+2.     
+Identifikacijska koda podatkovnega omrežja (v nadaljnjem besedilu: DNIC)
+je koda, ki v skladu s priporočilom ITU-T X.121 določa določeno javno
+podatkovno omrežje.
+3.     
+Koda mednarodne signalizacijske točke (v nadaljnjem besedilu: ISPC) je
+koda signalizacijske točke, določena v skladu s priporočilom ITU-T Q.708.
+4.     
+Koda mobilnega omrežja (v nadaljnjem besedilu: MNC) je koda, ki določa
+mobilno omrežje v skladu s priporočilom ITU-T E.212.
+5.     
+Koda nacionalne signalizacijske točke (v nadaljnjem besedilu: DPC) je
+koda, določena v skladu s priporočilom ITU-T Q.704.
+6.     
+Koda nestandardne opreme je binarna koda, ki v skladu s priporočilom ITU-T
+T.35 določa nestandardno opremo za potrebe identifikacije proizvodov s področja
+prenosa govora preko paketnih omrežij v skladu s priporočilom ITU-T H.323.
+7.     
+Številka izdajateljeve oznake (v nadaljnjem besedilu: IIN) je oznaka,
+določena v priporočilu ITU-T E.118, ki je potrebna pri obračunavanju.
+8.     
+Usmerjalne kode 98MN so kode, namenjene za potrebe usmerjanja pri
+izvedbi prenosljivosti številk.
+(2) Preostali izrazi, uporabljeni v
+tem splošnem aktu, imajo enak pomen, kot je določen v ZEKom-1, če iz besedila tega
+splošnega akta ne izhaja drugače.
+3. člen
+(način izračuna plačil)
+(1) Plačila, določena s tem splošnim
+aktom, se izražajo s številom točk.
+(2) Višina določenega plačila se
+izračuna kot zmnožek števila točk in vrednosti točke za to vrsto plačila, kot
+veljata tisto leto, za katero se višina plačila odmerja.
+4. člen
+(vrednost točke in tarifa)
+Vrednost točke je določena s tarifo,
+skladno s 6. in 74. členom ZEKom-1.
+5. člen
+(1) Plačilo za posameznega zavezanca
+odmeri agencija z odločbo o odmeri plačila.
+(2) Agencija praviloma izda odločbe iz
+prejšnjega odstavka do konca marca tekočega leta.
+(3) Zavezanec lahko odmerjeno plačilo
+poravna v dveh enakih obrokih, in sicer prvega v 30 dneh od vročitve odločbe,
+drugega pa najkasneje do 15. oktobra v tekočem letu. Če se zavezanec
+odloči poravnati obveznost v enkratnem znesku, je odmerjeno plačilo dolžan
+poravnati v 30 dneh od vročitve.
+(4) V primeru prenosa pravice do
+uporabe elementov oštevilčenja v skladu s 70. členom Zakona o elektronskih
+komunikacijah morajo biti pred prenosom poravnane obveznosti v celoti.
+(5) Vsem zavezancem, ki se jim odločba
+o dodelitvi elementov oštevilčenja izda po izdaji odločb iz drugega odstavka
+tega člena, se odločba iz prvega odstavka tega člena izda do konca decembra
+tekočega leta. Zavezanci so odmerjeno plačilo dolžni poravnati v 30 dneh od
+vročitve odločbe o odmeri plačila.
+II. PLAČILA ZA UPORABO ELEMENTOV OŠTEVILČENJA
+6. člen
+(zavezanci)
+Imetniki odločb o dodelitvi elementov
+oštevilčenja so zavezanci za letno plačilo agenciji za uporabo dodeljenih
+elementov oštevilčenja v skladu s 74. členom ZEKom-1.
+7. člen
+(število točk)
+Število točk
+je določeno glede na količino, dolžino in vrsto elementov oštevilčenja, in
+sicer je število točk na element oštevilčenja za posamezno vrsto elementov
+oštevilčenja sledeče:
+
+
+Vrsta elementov
+   oštevilčenja
+
+Število točk 
+   na element oštevilčenja
+
+
+Geografske številke:
+
+0,03
+
+
+Negeografske številke:
+
+ 
+
+
+-       
+  številke, ki se uporabljajo v javnih mobilnih omrežjih ali za potrebe
+  dostopa do javnih komunikacijskih storitev na fiksni lokaciji
+
+0,03
+
+
+-       
+  negeografske številke, ki se uporabljajo v fiksnih in mobilnih javnih
+  omrežjih za potrebe storitev komunikacije med napravami (M2M/IoT)
+
+0,01
+
+
+številke brezplačnih storitev 80CDEF(GH):
+
+ 
+
+
+-       
+  šestmestne 80CDEF
+
+40
+
+
+-       
+  osemmestne 80CDEFGH
+
+3
+
+
+številke premijskih storitev 90CDEF(GH):
+
+ 
+
+
+-       
+  šestmestne 90CDEF
+
+40
+
+
+-       
+  osemmestne 90CDEFGH
+
+3
+
+
+Številke za storitve,
+  kot so daljinsko glasovanje, masovno klicanje ... 89CDEF(G(H)):
+
+ 
+
+
+-       
+  šestmestne 89CDEF
+
+40
+
+
+-       
+  sedemmestne 89CDEFG
+
+10
+
+
+-       
+  osemmestne 89CDEFGH
+
+3
+
+
+Številke za vstop v
+  posebna omrežja (podatkovna omrežja, internet) 88CDEFGH
+
+3
+
+
+Številke skrajšanega
+  izbiranja razen za številke za klice v sili in številke za dostop do družbeno
+  koristnih vseevropskih telefonskih storitev (116QRT)
+
+ 
+
+
+-       
+  trimestne številke
+
+5.000
+
+
+-       
+  štirimestne številke
+
+500
+
+
+-       
+  petmestne številke
+
+50
+
+
+Predpone za izbiro operaterja mednarodnih prenosnih
+  omrežij 10 PQ
+
+650
+
+
+Nacionalna smerna koda (NDC – AB(C(D)):
+
+ 
+
+
+-       
+  dvomestne kode
+
+1.600
+
+
+-       
+  trimestne kode
+
+400
+
+
+-       
+  štirimestne kode
+
+200
+
+
+Signalne kode in druge kode
+
+ 
+
+
+-       
+  identifikacijska koda podatkovnega omrežja – DNIC
+
+10
+
+
+-       
+  koda mednarodne signalizacijske točke – ISPC
+
+200
+
+
+-       
+  koda nacionalne signalizacijske točke – DPC
+
+10
+
+
+-       
+  koda mobilnega omrežja – MNC
+
+200
+
+
+-       
+  številka izdajateljeve oznake – IIN
+
+10
+
+
+-       
+  usmerjalne kode 98MN
+
+10
+
+
+-       
+  koda nestandardne opreme – (koda proizvajalca opreme)
+
+10
+
+
+-       
+  druge kode
+
+10
+
+
+
+Splošni akt o načinu izračuna višine plačil za
+uporabo elementov oštevilčenja (Uradni list RS, št. 31/13) vsebuje naslednjo končno določbo:
+»III. KONČNA DOLOČBA
+8. člen
+(končna
+določba)
+(1) Ta splošni akt začne veljati
+petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+(2) Z dnem uveljavitve tega splošnega
+akta se prenehajo uporabljati določbe Pravilnika o načinu izračuna plačil na
+podlagi obvestila, za uporabo radijskih frekvenc in za uporabo elementov
+oštevilčenja (Uradni list RS, št. 118/04, 90/05, 22/07, 46/10, 35/11 in 78/11).«.
+
+Splošni akt o spremembah in dopolnitvah
+Splošnega akta o načinu izračuna plačil za uporabo elementov oštevilčenja
+(Uradni list RS, št. 21/16) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+(začetek
+veljavnosti)
+Ta splošni akt začne veljati naslednji dan
+po objavi v Uradnem listu Republike Slovenije.«.
+
+Splošni akt o spremembah in dopolnitvah
+Splošnega akta o načinu izračuna plačil za uporabo elementov oštevilčenja
+(Uradni list RS, št. 15/17) vsebuje naslednjo določbo:
+»KONČNA DOLOČBA
+2. člen
+(začetek
+veljavnosti)
+Ta splošni akt začne veljati naslednji dan
+po objavi v Uradnem listu Republike Slovenije.«.
+
+Splošni akt o spremembah in dopolnitvah
+Splošnega akta o načinu izračuna plačil za uporabo elementov oštevilčenja
+(Uradni list RS, št. 72/18) vsebuje naslednjo končno določbo:
+»2. člen
+Ta splošni akt prične veljati petnajsti dan
+po objavi v Uradnem listu Republike Slovenije.«.

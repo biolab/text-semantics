@@ -1,0 +1,17 @@
+Text file: PRAV14141.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1618437600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14141
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o volitvah \u010Dlanov organov Zavoda za zdravstveno zavarovanje\
+  \ Slovenije"
+npbNum: 0
+path: /2021/10/2021-01-1036
+sopPredpisa: 2021-01-1036
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: ODLO677.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 688172400000000000
+- null
+- null
+- 10
+idPredpisa: ODLO677
+idPredpisaChng: null
+instock: .nan
+naslov: 'ODLOK '
+npbNum: 0
+path: /1991/06/1991-01-0601
+sopPredpisa: 1991-01-0601
+sopPredpisaChng: null

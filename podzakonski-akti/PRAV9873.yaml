@@ -1,0 +1,17 @@
+Text file: PRAV9873.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1463781600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9873
+idPredpisaChng: PRAV9873
+instock: .nan
+naslov: "PRAVILNIK o izdajanju po\u0161tnih vrednotnic (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/13/2016-01-1370-2010-01-0908-npb1
+sopPredpisa: 2016-01-1370
+sopPredpisaChng: 2010-01-0908

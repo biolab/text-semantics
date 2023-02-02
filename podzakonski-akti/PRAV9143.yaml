@@ -1,0 +1,18 @@
+Text file: PRAV9143.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1648850400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9143
+idPredpisaChng: PRAV9143
+instock: .nan
+naslov: "PRAVILNIK o programu in na\u010Dinu opravljanja strokovnega izpita za opravljanje\
+  \ funkcije upravitelja v postopkih zaradi insolventnosti in prisilne likvidacije\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2022/07/2022-01-0766-2008-01-3362-npb2
+sopPredpisa: 2022-01-0766
+sopPredpisaChng: 2008-01-3362

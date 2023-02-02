@@ -1,0 +1,16 @@
+Text file: PRAV10287.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1287180000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10287
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o konservatorskem na\u010Drtu za prenovo"
+npbNum: 0
+path: /2010/42/2010-01-4207
+sopPredpisa: 2010-01-4207
+sopPredpisaChng: null

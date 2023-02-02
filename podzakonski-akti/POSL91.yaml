@@ -1,0 +1,17 @@
+Text file: POSL91.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1306879200000000000
+- null
+- null
+- 10
+idPredpisa: POSL91
+idPredpisaChng: null
+instock: .nan
+naslov: "POSLOVNIK Komisije za opravljanje strokovnega izpita za zaposlene, ki opravljajo\
+  \ storitve vse\u017Eivljenjske karierne orientacije in posredovanja zaposlitve"
+npbNum: 0
+path: /2011/20/2011-01-2009
+sopPredpisa: 2011-01-2009
+sopPredpisaChng: null

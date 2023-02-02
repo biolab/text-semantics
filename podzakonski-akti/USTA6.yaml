@@ -1,0 +1,17 @@
+Text file: USTA6.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 905551200000000000
+- null
+- null
+- 10
+idPredpisa: USTA6
+idPredpisaChng: null
+instock: .nan
+naslov: "NAVODILO o na\u010Dinu zbiranja ponudb za odkup novih terjatev z obveznicami\
+  \ Republike Slovenije za izvajanje programa prestrukturiranja podjetij"
+npbNum: 0
+path: /1998/28/1998-01-2849
+sopPredpisa: 1998-01-2849
+sopPredpisaChng: null

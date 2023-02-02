@@ -1,0 +1,17 @@
+Text file: URED8390.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1642806000000000000
+- null
+- null
+- 10
+idPredpisa: URED8390
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku\
+  \ Vitovnik v Mestni ob\u010Dini Nova Gorica"
+npbNum: 0
+path: /2022/01/2022-01-0110
+sopPredpisa: 2022-01-0110
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: URED5000.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1227654000000000000
+- null
+- null
+- 10
+idPredpisa: URED5000
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob reki\
+  \ Kokri v Mestni ob\u010Dini Kranj od soto\u010Dja Rupov\u0161\u010Dice in Kokre\
+  \ do mostu na cesti Staneta \u017Dagarja"
+npbNum: 0
+path: /2008/47/2008-01-4775
+sopPredpisa: 2008-01-4775
+sopPredpisaChng: null

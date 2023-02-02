@@ -1,0 +1,16 @@
+Text file: PRAV3115.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 694220400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3115
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o knji\u017Eenju davkov"
+npbNum: 0
+path: /1991/12/1991-01-1207
+sopPredpisa: 1991-01-1207
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV2375.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1152655200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2375
+idPredpisaChng: PRAV2375
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih normativih za zakloni\u0161\u010Da in zaklonilnike\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2006/28/2006-01-2849-1998-01-0733-npb3
+sopPredpisa: 2006-01-2849
+sopPredpisaChng: 1998-01-0733

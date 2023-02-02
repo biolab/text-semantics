@@ -1,0 +1,18 @@
+Text file: PRAV8320.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1224021600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8320
+idPredpisaChng: PRAV8320
+instock: .nan
+naslov: "PRAVILNIK o pogojih za dolo\u010Ditev bolezni zaradi izpostavljenosti azbestu\
+  \ in merilih za dolo\u010Ditev vi\u0161ine od\u0161kodnine (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2008/39/2008-01-3928-2007-01-3303-npb1
+sopPredpisa: 2008-01-3928
+sopPredpisaChng: 2007-01-3303

@@ -1,0 +1,16 @@
+Text file: PRAV12932.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1472248800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12932
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izdaji diplom in potrdil o izobra\u017Eevanju"
+npbNum: 0
+path: /2016/24/2016-01-2444
+sopPredpisa: 2016-01-2444
+sopPredpisaChng: null

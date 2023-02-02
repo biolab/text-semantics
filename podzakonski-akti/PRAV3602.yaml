@@ -1,0 +1,17 @@
+Text file: PRAV3602.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1615590000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3602
+idPredpisaChng: PRAV3602
+instock: .nan
+naslov: "PRAVILNIK o delu izvedencev (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2021/07/2021-01-0729-1996-01-1947-npb1
+sopPredpisa: 2021-01-0729
+sopPredpisaChng: 1996-01-1947

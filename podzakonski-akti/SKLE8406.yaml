@@ -1,0 +1,12 @@
+Text file: SKLE8406.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE8406
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Z\xFCrichu"
+npbNum: 0
+path: /2010/26/2010-01-2665
+sopPredpisa: 2010-01-2665
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ODLO2314.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1616713200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2314
+idPredpisaChng: ODLO2314
+instock: .nan
+naslov: "ODLOK o za\u010Dasnih omejitvah pri izvajanju \u0161portnih programov (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2021/08/2021-01-0864-2021-01-0423-npb6
+sopPredpisa: 2021-01-0864
+sopPredpisaChng: 2021-01-0423

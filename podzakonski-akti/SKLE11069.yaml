@@ -1,0 +1,12 @@
+Text file: SKLE11069.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11069
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju generalnega dr\u017Eavnega to\u017Eilca"
+npbNum: 0
+path: /2017/06/2017-01-0664
+sopPredpisa: 2017-01-0664
+sopPredpisaChng: null

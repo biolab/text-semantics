@@ -1,0 +1,16 @@
+Text file: AKT_930.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1431122400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_930
+idPredpisaChng: null
+instock: .nan
+naslov: AKT o pravilih monitoringa kakovosti oskrbe z zemeljskim plinom
+npbNum: 0
+path: /2015/11/2015-01-1168
+sopPredpisa: 2015-01-1168
+sopPredpisaChng: null

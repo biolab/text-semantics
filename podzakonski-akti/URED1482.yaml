@@ -1,0 +1,20 @@
+Text file: URED1482.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1112306400000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1108162800000000000
+- null
+- null
+- 10
+idPredpisa: URED1482
+idPredpisaChng: URED1482
+instock: .nan
+naslov: "UREDBA o ureditvi trga z mlekom in mle\u010Dnimi izdelki (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2005/02/2005-01-0286-2000-01-4631-npb5
+sopPredpisa: 2005-01-0286
+sopPredpisaChng: 2000-01-4631

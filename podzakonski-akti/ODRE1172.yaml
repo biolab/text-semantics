@@ -1,0 +1,17 @@
+Text file: ODRE1172.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 687740400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1172
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi cene obrazca vloge za izdajo potnega lista in cene\
+  \ obrazca potnega lista"
+npbNum: 0
+path: /1991/07/1991-01-0718
+sopPredpisa: 1991-01-0718
+sopPredpisaChng: null

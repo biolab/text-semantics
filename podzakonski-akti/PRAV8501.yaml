@@ -1,0 +1,18 @@
+Text file: PRAV8501.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1523656800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8501
+idPredpisaChng: PRAV8501
+instock: .nan
+naslov: "PRAVILNIK o vinu z oznako priznanega tradicionalnega poimenovanja \u2013\
+  \ Metli\u0161ka \u010Drnina in Belokranjec (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2018/08/2018-01-0899-2008-01-0185-npb1
+sopPredpisa: 2018-01-0899
+sopPredpisaChng: 2008-01-0185

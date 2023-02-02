@@ -1,0 +1,17 @@
+Text file: PRAV6061.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1089756000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6061
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega poklicnega izobra\u017E\
+  evanja Zidar"
+npbNum: 0
+path: /2004/33/2004-01-3355
+sopPredpisa: 2004-01-3355
+sopPredpisaChng: null

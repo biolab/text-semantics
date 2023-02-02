@@ -1,0 +1,17 @@
+Text file: POSL72.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1585350000000000000
+- null
+- null
+- 10
+idPredpisa: POSL72
+idPredpisaChng: POSL72
+instock: .nan
+naslov: "POSLOVNIK Ustavnega sodi\u0161\u010Da (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 4)"
+npbNum: 4
+path: /2020/06/2020-01-0659-2007-01-4309-npb4
+sopPredpisa: 2020-01-0659
+sopPredpisaChng: 2007-01-4309

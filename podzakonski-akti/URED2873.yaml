@@ -1,0 +1,16 @@
+Text file: URED2873.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1048892400000000000
+- null
+- null
+- 10
+idPredpisa: URED2873
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Stara vas na Bizeljskem"
+npbNum: 0
+path: /2003/13/2003-01-1333
+sopPredpisa: 2003-01-1333
+sopPredpisaChng: null

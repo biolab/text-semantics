@@ -1,0 +1,17 @@
+Text file: URED2930.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1608850800000000000
+- null
+- null
+- 10
+idPredpisa: URED2930
+idPredpisaChng: URED2930
+instock: .nan
+naslov: "UREDBA o koncesiji za odvzem naplavin iz lovilnih jam na reki So\u010Di,\
+  \ Tolminki in Ba\u010Di (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2020/35/2020-01-3553-2003-01-3229-npb2
+sopPredpisa: 2020-01-3553
+sopPredpisaChng: 2003-01-3229

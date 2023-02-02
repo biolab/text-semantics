@@ -1,0 +1,17 @@
+Text file: STAT139.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1456786800000000000
+- null
+- null
+- 10
+idPredpisa: STAT139
+idPredpisaChng: STAT139
+instock: .nan
+naslov: "STATUT Fakultete za informacijske \u0161tudije v Novem mestu (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 5)"
+npbNum: 5
+path: /2016/05/2016-01-0558-2008-01-5093-npb5
+sopPredpisa: 2016-01-0558
+sopPredpisaChng: 2008-01-5093

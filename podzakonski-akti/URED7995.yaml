@@ -1,0 +1,16 @@
+Text file: URED7995.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1622844000000000000
+- null
+- null
+- 10
+idPredpisa: URED7995
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D iz vrtine CM-1"
+npbNum: 0
+path: /2021/19/2021-01-1951
+sopPredpisa: 2021-01-1951
+sopPredpisaChng: null

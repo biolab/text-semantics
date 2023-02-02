@@ -1,0 +1,12 @@
+Text file: SKLE11497.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11497
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o odprtju Konzulata Republike Slovenije v Solunu, v Helenski republiki
+npbNum: 0
+path: /2018/30/2018-01-3046
+sopPredpisa: 2018-01-3046
+sopPredpisaChng: null

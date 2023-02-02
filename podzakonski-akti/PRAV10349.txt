@@ -1,0 +1,512 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(1) Ta pravilnik določa meroslovne in
+z njimi povezane tehnične zahteve, ki jih morajo, izpolnjevati nepremični rezervoarji
+(v nadaljnjem besedilu: rezervoarji), način označevanja, postopek ugotavljanja
+skladnosti in overitve ter rok redne overitve.
+(2) Ta pravilnik se izda ob
+upoštevanju postopka informiranja v skladu z Direktivo 98/34/ES Evropskega
+parlamenta in Sveta z dne 22. junija 1998 o določitvi postopka za zbiranje
+informacij na področju tehničnih standardov in tehničnih predpisov (UL L št.
+204 z dne 21. 6. 1998, str. 37), zadnjič spremenjeno z Direktivo 98/48/ES
+Evropskega parlamenta in Sveta z dne 20. julija 1998 o spremembi Direktive
+98/34/ES o določitvi postopka za zbiranje informacij na področju tehničnih
+standardov in tehničnih predpisov (UL L št. 217 z dne 5. 8. 1998, str.
+18).
+(3) V postopkih iz tega pravilnika se
+lahko delno ali v celoti sprejmejo in priznajo tudi certifikati in preskusna
+poročila, ki jih je izdal organ za ugotavljanje skladnosti, akreditiran za
+ustrezno področje ugotavljanja skladnosti v zvezi z Uredbo (ES) št. 765/2008
+Evropskega parlamenta in Sveta z dne 9. julija 2008 o določitvi zahtev za
+akreditacijo in nadzor trga v zvezi s trženjem proizvodov ter razveljavitvi
+Uredbe (EGS) št. 339/93 (UL L št. 218 z dne 13. 8. 2008, str. 30).
+2. člen
+V tem pravilniku uporabljeni izrazi imajo
+naslednji pomen:
+-      
+»rezervoar« je rezervoar, namenjen hranjenju tekočin pod atmosferskim
+ali povečanim tlakom, ki se uporablja za merjenje prostornine vsebovane
+tekočine na področjih iz 3. člena Zakona o meroslovju (Uradni list RS, št.
+26/05 – uradno prečiščeno besedilo);
+-      
+»merjenje prostornine vsebovane tekočine« je niz operacij, pri katerih
+se uporabljajo tudi merila, za katere ni potrebno, da so pritrjena neposredno
+na rezervoar;
+-      
+»umerjanje (kalibracija) rezervoarja« (v nadaljnjem besedilu:
+kalibracija) je niz operacij s pomočjo katerih se pri določenih pogojih
+ugotavlja odnos med nivojem tekočine in prostornino tekočine v rezervoarju;
+-      
+»nazivna prostornina« je zaokrožena vrednost največje prostornine
+tekočine, ki jo rezervoar lahko shrani pri normalnih pogojih uporabe;
+-      
+»merilna odprtina« je odprtina na zgornjem delu rezervoarja, ki omogoča
+meritev nivoja tekočine;
+-      
+»merilna os« je os, ki poteka skozi središče merilne odprtine in je
+namenjena za izvajanje ročnih ali avtomatičnih meritev nivoja tekočine. Merilna
+os je praviloma navpična. Če merilna os ni navpična, je treba upoštevati
+nagnjenost rezervoarja;
+-      
+»spodnja referenčna točka« je presečišče merilne osi z zgornjo površino
+spodnje referenčne plošče ali z dnom rezervoarja, če spodnja referenčna plošča
+ne obstaja. Spodnja referenčna točka je izhodiščna točka za merjenje nivoja
+tekočine (višina 0);
+-      
+»spodnja referenčna plošča« je vodoravna plošča pod merilno osjo na
+kateri se nahaja spodnja referenčna točka;
+-      
+»zgornja referenčna točka« je referenčna točka, ki se nahaja na merilni
+osi in je namenjena izračunavanju višine praznega prostora;
+-      
+»prazni prostor« je razdalja med gladino tekočine in zgornjo referenčno
+točko, izmerjena na merilni osi;
+-      
+»referenčna višina« je razdalja med spodnjo in zgornjo referenčno točko,
+izmerjena na navpični osi;
+-      
+»najvišja višina polnjenja« je najvišja višina, do katere se rezervoar
+lahko napolni;
+-      
+»mrtvi prostori« so kakršnikoli priključki ali predmeti, ki s svojo
+obliko in lego vplivajo na prostornino rezervoarja. Pozitivni mrtvi prostor
+(npr. dotočne cevi) poveča prostornino rezervoarja, negativni mrtvi prostor
+(npr. grelni elementi) zmanjša prostornino rezervoarja;
+-      
+»kalibracijska tabela, prostorninska tabela (v nadaljnjem besedilu:
+prostorninska tabela)« je izraz v obliki tabele ali matematične funkcije V(h),
+ki predstavlja zvezo med višino nivoja tekočine h (neodvisna spremenljivka) in
+prostornino V (odvisna spremenljivka) na merilnem območju;
+-      
+»referenčna gostota« je gostota tekočine v rezervoarju za katero je
+izračunana prostorninska tabela;
+-      
+»referenčna temperatura« je temperatura, ki je upoštevana pri izračunu
+prostorninske tabele;
+-      
+»merilno območje« pri rezervoarjih s prostorninsko tabelo se nahaja od
+prostornine pri višini 0 (višina 0) do njegove nazivne prostornine (najvišja
+višina polnjenja);
+-      
+»spodnja meja točnosti prostornine« je prostornina pod katero je
+presežena največja dopustna merilna negotovost, ob upoštevanju oblike
+rezervoarja in kalibracijske metode;
+-      
+»prostornina pri višini 0« je prostornina tekočine, shranjene med dnom
+rezervoarja in spodnjo referenčno točko;
+-      
+» imetnik« je lastnik ali najemnik rezervoarja.
+3. člen
+(1) Šteje se, da rezervoar, ki
+izpolnjuje vse zahteve mednarodnega priporočila OIML R 71:2008 Mednarodne
+organizacije za zakonsko meroslovje (Organisation Internationale de Métrologie
+Légale) (v nadaljnjem besedilu: OIML R 71), izpolnjuje tudi zahteve tega
+pravilnika.
+(2) OIML R 71 v angleškem jeziku je
+dosegljiv na spletni strani Mednarodne organizacije za zakonsko meroslovje
+http://www.oiml.org/publications/.
+4. člen
+Rezervoarji se delijo glede na:
+-      
+obliko:
+1.      
+navpični valjasti rezervoarji (imenovani tudi pokončni valjasti
+rezervoarji),
+2.      
+vodoravni valjasti rezervoarji (imenovani tudi ležeči valjasti
+rezervoarji),
+3.      
+sferni rezervoarji (imenovani tudi kroglasti rezervoarji) in
+4.      
+rezervoarji z vzporednimi stenami.
+-      
+lego:
+1.      
+podzemni rezervoarji,
+2.      
+delno vkopani rezervoarji in
+3.      
+nadzemni rezervoarji.
+-      
+funkcionalnost:
+1.      
+odprti (atmosferski) rezervoarji,
+2.      
+zaprti rezervoarji,
+3.      
+rezervoarji z vgrajeno kontaktno membrano,
+4.      
+nadtlačni rezervoarji in
+5.      
+rezervoarji s plavajočim pokrovom (samo pri navpičnih valjastih
+rezervoarjih).
+-      
+zagotavljanje temperaturne stabilnosti tekočine:
+1.      
+rezervoarji brez ogrevanja,
+2.      
+rezervoarji z ogrevanjem brez toplotne izolacije ali z njo in
+3.      
+rezervoarji s hlajenjem brez toplotne izolacije ali z njo.
+-      
+izvedbo meril prostornine:
+1.      
+rezervoarji z eno oznako nazivne prostornine,
+2.      
+rezervoarji z merilno letvico ali s kombinacijo merilne letvice in
+merilne cevi,
+3.      
+rezervoarji z ročnim odčitavanjem (merilna palica ali potopni tračni
+meter) in
+4.      
+rezervoarji z avtomatskim merjenjem nivoja tekočine.
+II. MEROSLOVNE ZAHTEVE
+5. člen
+Največja dopustna razširjena merilna
+negotovost za prostorninsko tabelo rezervoarja je:
+-      
+±0,2 % prostornine za navpične valjaste rezervoarje, kalibrirane z
+geometrijsko metodo,
+-      
+±0,3 % prostornine za vodoravne ali nagnjene valjaste rezervoarje,
+kalibrirane z geometrijsko metodo,
+-      
+±0,3 % prostornine za rezervoarje, kalibrirane z volumetrijsko metodo in
+-      
+±0,5 % prostornine za sferne rezervoarje, kalibrirane z geometrijsko
+metodo.
+6. člen
+(1) Največja dopustna razširjena
+merilna negotovost se nanaša na prostornine prikazane v prostorninski tabeli v
+območju med spodnjo mejo točnosti prostornine in nazivno prostornino.
+(2) Največja dopustna razširjena
+merilna negotovost ne vključuje negotovosti prostornine pri višini 0.
+7. člen
+Merilna negotovost mora biti izračunana
+skladno z Vodilom za izražanje merilne negotovosti (JCGM 100:2008, Evaluation
+of measurement data – Guide to the expression of uncertainty in measurement) s
+faktorjem pokritja k=2, ki je dosegljivo v angleškem jeziku na spletni
+strani Mednarodnega urada za uteži in mere (Bureau International des Poids et
+Mesures) http://www.bipm.org/en/publications/guides/gum.html.
+III. TEHNIČNE ZAHTEVE
+8. člen
+(1) Rezervoar mora biti zgrajen tako,
+da oblika in konstrukcija rezervoarja in vseh njegovih delov ter material, iz
+katerega je zgrajen, zagotavljajo ustrezno odpornost proti vplivom okolja in
+shranjene tekočine ter da pri njegovi uporabi ne pride do trajnih deformacij,
+ki bi spremenile njegovo prostornino.
+(2) Spodnja in zgornja referenčna
+točka morata biti skonstruirani tako, da se njuni legi ne spremenita glede na
+prostornino shranjene tekočine ali pri različnih vplivih okolja.
+(3) Rezervoar mora imeti vsaj eno
+merilno odprtino.
+(4) Rezervoar mora biti opremljen z
+napravami ali imeti konstrukcijsko rešitev, ki preprečujejo izgubo shranjene
+tekočine.
+(5) Rezervoar mora biti stabilno
+postavljen na podlago.
+(6) Oblika rezervoarja ne sme
+dopuščati ustvarjanja zračnih žepov pri polnjenju ali zaostajanja tekočine pri
+praznjenju rezervoarja.
+(7) Dostopi do spodnje referenčne
+plošče in morebitnih mrtvih prostorov v ali ob rezervoarju morajo biti
+zaščiteni.
+9. člen
+Nadtlačni rezervoar mora biti preskušen pri
+nadtlaku. Drugi rezervoarji morajo biti preskušeni proti iztekanju tekočine.
+IV. NAPISI IN OZNAKE
+10. člen
+Napisi in oznake na rezervoarju morajo biti
+podani tako, da je zagotovljena ustrezna informiranost vseh uporabnikov
+nepremičnega rezervoarja.
+11. člen
+(1) Rezervoar mora imeti napisno
+ploščico, ki je dobro vidna, čitljiva in pritrjena na rezervoar na primernem
+mestu.
+(2) Napisna ploščica mora biti iz
+materiala, odpornega proti pogojem, v katerih se uporablja rezervoar.
+(3) Napisna ploščica mora vsebovati
+naslednje podatke:
+-      
+proizvajalca,
+-      
+letnico izdelave ali rekonstrukcije rezervoarja,
+-      
+najvišjo višino polnjenja,
+-      
+referenčno višino,
+-      
+identifikacijsko oznako rezervoarja in
+-      
+nazivno prostornino rezervoarja.
+12. člen
+Namestitev napisne ploščice na rezervoar je
+potrebno zaščititi z zaščitno oznako, razen, če napisne ploščice ni mogoče
+odstraniti, ne da bi se poškodovala.
+13. člen
+Uporabljene merske enote na napisih in
+oznakah na rezervoarju morajo biti v skladu s predpisom o merskih enotah. Te so
+za:
+-      
+prostornino: m3, dm3, l ali L in
+-      
+dolžino: m, mm.
+V. UGOTAVLJANJE SKLADNOSTI
+14. člen
+Za rezervoarje je obvezna neposredna
+overitev posamičnega merila.
+15. člen
+Vlogi za neposredno overitev posamičnega
+rezervoarja je treba priložiti:
+-      
+načrt, ki obsega tehnično risbo celotnega rezervoarja z opisom vseh
+sestavnih delov in njihovimi merami,
+-      
+opis in položaj merilnih odprtin ter spodnjih in zgornjih referenčnih
+točk, če obstajajo,
+-      
+opis in položaj mrtvih prostorov,
+-      
+opis in položaj izboklin ali vboklin na stenah rezervoarja, če
+obstajajo,
+-      
+podrobnosti o plavajočih pokrovih, če obstajajo, vključno z njihovo
+maso,
+-      
+podrobnosti o namestitvi opreme za merjenje nivoja tekočine na
+rezervoar,
+-      
+predlog mest za namestitev zaščitnih oznak,
+-      
+predlog izvedbe in vsebine napisne ploščice,
+-      
+navedba mesta namestitve napisne ploščice na rezervoarju,
+-      
+rezultate preskusov nadtlačnih rezervoarjev pri nadtlaku in preskusov
+drugih rezervoarjev proti iztekanju tekočine.
+16. člen
+Postopek neposredne overitve posamičnega
+rezervoarja obsega:
+-      
+pregled izpolnjevanja meroslovnih zahtev iz II. poglavja tega
+pravilnika,
+-      
+pregled popolnosti tehnične dokumentacije o rezervoarju,
+-      
+pregled izpolnjevanja tehničnih zahtev iz III. poglavja tega pravilnika,
+-      
+pregled zahtev glede napisov in oznak iz IV. poglavja tega pravilnika,
+-      
+kalibracijo rezervoarja,
+-      
+namestitev zaščitnih oznak,
+-      
+pripravo zapisnika o preskusu rezervoarja in
+-      
+izdajo potrdila o skladnosti.
+17. člen
+(1) Kalibracija rezervoarja se izvede
+z eno od naslednjih metod:
+-      
+geometrijsko metodo,
+-      
+volumetrijsko metodo in
+-      
+kombinacijo geometrijske in volumetrijske metode.
+(2) Standardne metode za izvedbo
+kalibracije rezervoarjev so navedene v prilogi 1, ki je sestavni del tega
+pravilnika.
+(3) Če so na stenah rezervoarja
+deformacije in izbokline, ki ne omogočajo uporabo geometrijskih metod za kalibracijo
+celotnega rezervoarja, je za kalibracijo treba uporabiti kombinacijo
+volumetrijske in geometrijske metode ali samo volumetrijsko metodo.
+(4) Prostorninska tabela velja za
+tekočino z referenčno gostoto.
+(5) Za tekočino z drugačno gostoto se
+prostorninska tabela uporablja na način opisan v prilogi 2, ki je sestavni del
+tega pravilnika.
+18. člen
+V zapisniku o preskusu rezervoarja morajo
+biti poleg podatkov iz predpisa o načinih ugotavljanja skladnosti za posamezne
+vrste merilnih instrumentov ter o vrstah in načinih njihove označitve z
+oznakami skladnosti navedeni najmanj naslednji podatki o preskušanju z
+rezultati preskusa:
+-      
+masa plavajočega pokrova ali kontaktne membrane, če obstajata,
+-      
+višina območja negotovih meritev pri dvigu plavajočega pokrova ali
+kontaktne membrane,
+-      
+referenčna višina pri pokončnih rezervoarjih,
+-      
+podatek o položaju merilne osi,
+-      
+oddaljenost spodnje referenčne točke od dna,
+-      
+nazivna prostornina,
+-      
+prostornina pri višini 0,
+-      
+kot nagnjenosti rezervoarja,
+-      
+prostorninska tabela za znane korake Δh ali funkcija V(h) z informacijo
+ali je upoštevan vpliv plavajočega pokrova,
+-      
+referenčna temperatura,
+-      
+referenčna gostota tekočine,
+-      
+merilna negotovost prostorninske tabele,
+-      
+navedba uporabljene kalibracijske metode in- grafične sheme rezervoarja
+z označenim položajem merilnih odprtin ter spodnjih in zgornjih referenčnih
+točk, če obstajajo,
+-      
+grafične sheme rezervoarja z označenim položajem merilnih odprtin ter
+spodnjih in zgornjih referenčnih točk, za navpične valjaste rezervoarje.
+VI. REDNE IN IZREDNE OVERITVE
+19. člen
+(1) Za rezervoarje je obvezna redna in
+izredna overitev.
+(2) Vlogi za redno in izredno overitev
+je potrebno priložiti grafične sheme rezervoarja z označenim položajem merilnih
+odprtin ter spodnjih in zgornjih referenčnih točk, za navpične rezervoarje, ter
+ostalo dokumentacijo iz 15. člena tega pravilnika, ki zadeva spremembe glede na
+zadnjo overitev rezervoarja. Ob izvedbi kalibracije rezervoarja mora imeti
+vložnik zahteve za overitev na razpolago tudi ostalo dokumentacijo iz 15. člena
+tega pravilnika.
+(3) Postopek redne in izredne overitve
+je enak postopku iz 16. člena tega pravilnika, s tem da se pregled popolnosti
+tehnične dokumentacije o rezervoarju in pregled izpolnjevanja tehničnih zahtev
+iz III. poglavja tega pravilnika, nanaša le na spremembe glede na zadnjo
+overitev rezervoarja.
+20. člen
+Rezervoar mora biti pred začetkom
+kalibracije očiščen in razplinjen, kar zagotovi vložnik zahteve za overitev.
+21. člen
+(1) Rok redne overitve rezervoarjev z
+nazivno prostornino večjo od 10.000 m3 je 10 let.
+(2) Rok redne overitve rezervoarjev z
+nazivno prostornino manjšo ali enako 10.000 m3 je 10 let, z
+možnostjo podaljšanja za 5 let pod pogoji iz VII. poglavja tega pravilnika.
+VII. PREGLED IN PRESKUS REZERVOARJA Z NAMENOM PODALJŠANJA
+VELJAVNOSTI OVERITVE
+22. člen
+Imetnik rezervoarja z nazivno prostornino
+manjšo ali enako 10.000 m3 lahko zahteva še v času, ko ima rezervoar
+veljavno overitev vendar ne prej kot eno leto pred njenim iztekom, pregled in
+preskus rezervoarja z namenom podaljšanja veljavnosti overitve (v nadaljnjem
+besedilu: pregled in preskus rezervoarja).
+23. člen
+Vlogo za pregled in preskus rezervoarja se
+lahko vloži na Urad Republike Slovenije za meroslovje (v nadaljnjem besedilu:
+Urad).
+24. člen
+(1) Pregled in preskus rezervoarja
+izvede Urad v skladu s predpisom, ki določa postopek overitve meril.
+(2) K vlogi za pregled in preskus
+rezervoarja mora vložnik priložiti veljavni zapisnik o preskusu rezervoarja.
+(3) Vložnik zahteve za pregled in
+preskus rezervoarja je dolžan izvajalcu po potrebi zagotoviti tudi:
+-      
+pomožno opremo, dodatne merilnike z ustreznim kalibracijskim poročilom,
+-      
+osebje za dostop do vseh meroslovno relevantnih merilnih mest na
+rezervoarju,
+-      
+ustrezen električni priključek,
+-      
+zadostno količino medija za izvedbo preskusa, ustrezno črpalko s
+pripadajočimi povezovalnimi cevmi.
+25. člen
+Pregled in preskus rezervoarja je uspešen,
+če je veljavnost neenačbe
+potrjena pri najmanj petih različnih višinah
+rezervoarja,
+pri čemer velja, da
+je:
+ΔVk = Vk(h+Δh)-
+Vk(h)
+ΔV0 = V0(h+Δh)-
+V0(h)
+in je:
+
+Vk(h)
+
+prostornina pri višini tekočine h določena pri pregledu in
+  preskusu rezervoarja,
+
+
+V0(h)
+
+prostornina pri višini tekočine h določena po veljavni
+  prostorninski tabeli,
+
+
+uk
+
+polovica vrednosti največje dopustne razširjene merilne
+  negotovosti iz 5. člena tega pravilnika glede na metodo, s katero se izvaja
+  pregled in preskus rezervoarja, izražena v odstotkih,
+
+
+u0
+
+standardna merilna negotovost (k=1) veljavne prostorninske
+  tabele, izražena v odstotkih,
+
+
+Δh
+
+je višina, ki predstavlja najmanj 5 % nazivne prostornine
+  rezervoarja.
+
+26. člen
+(1) Na osnovi uspešnega pregleda in
+preskusa rezervoarja izda Urad potrdilo o skladnosti, s katerim podaljša veljavnost
+overitve za nadaljnjih 5 let šteto od dneva izdaje potrdila o skladnosti.
+(2) Če rezervoar ne prestane pregleda
+in preskusa rezervoarja, Urad razveljavi veljavno overitev in odstrani zaščitne
+oznake ter prepove njegovo nadaljnjo uporabo.
+(3) Če Urad ugotovi, da se pregled in
+preskus rezervoarja iz objektivnih razlogov ne da izvesti ali če izvedba
+pregleda in preskusa ni racionalna, je potrebno izvesti overitev rezervoarja v
+skladu s tem pravilnikom.
+27. člen
+(1) Stroški pregleda in preskusa
+rezervoarja se obračunajo v skladu s predpisom, ki določa stroške na področju
+meroslovja kot stroški redne overitve nepremičnih rezervoarjev.
+(2) Stroške pregleda in preskusa
+rezervoarja nosi vložnik.
+VIII. PREHODNI IN KONČNA DOLOČBA
+28. člen
+Rezervoarji, ki imajo na dan uveljavitve
+tega pravilnika veljavno neposredno overitev posamičnega merila ali redno
+oziroma izredno overitev na podlagi Pravilnika o meroslovnih zahtevah za
+nepremične rezervoarje (Uradni list RS, št. 26/02) ali Pravilnika o meroslovnih
+zahtevah za nepremične rezervoarje (Uradni list RS, št. 119/05 in 68/07) ali
+prvo, redno ali izredno overitev na podlagi Pravilnika o metroloških pogojih za
+vodoravne cilindrične rezervoarje (Uradni list SFRJ, št. 26/81) ali Pravilnika
+o metroloških pogojih za pokončne valjaste rezervoarje (Uradni list SFRJ, št.
+3/85), so lahko tudi po uveljavitvi tega pravilnika dani v redno oziroma
+izredno overitev ali pregled in preskus rezervoarja po tem pravilniku pod
+pogojem, da izpolnjujejo njegove zahteve.
+29. člen
+Z dnem uveljavitve tega pravilnika, preneha
+veljati Pravilnik o meroslovnih zahtevah za nepremične rezervoarje (Uradni list
+RS, št. 119/05 in 68/07).
+30. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.
+Št. 007-36/2010
+Ljubljana, dne 3. januarja 2012
+EVA 2010-3211-0050
+v funkciji ministra za visoko šolstvo, znanost
+in tehnologijo
+dr. Igor Lukšič l.r.
+Minister
+
+Priloga 1: Standardne
+metode za kalibracijo rezervoarja
+Priloga 2: Postopki za
+merjenje prostornine tekočine shranjene v rezervoarju

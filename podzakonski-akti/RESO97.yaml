@@ -1,0 +1,13 @@
+Text file: RESO97.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: RESO97
+idPredpisaChng: null
+instock: .nan
+naslov: "RESOLUCIJO o Nacionalnem programu izobra\u017Eevanja odraslih v Republiki\
+  \ Sloveniji za obdobje 2013\u20132020 (ReNPIO13\u201320)"
+npbNum: 0
+path: /2013/32/2013-01-3262
+sopPredpisa: 2013-01-3262
+sopPredpisaChng: null

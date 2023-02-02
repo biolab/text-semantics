@@ -1,0 +1,16 @@
+Text file: PRAV4659.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1045522800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4659
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o kakovosti gor\u010Dice"
+npbNum: 0
+path: /2003/04/2003-01-0499
+sopPredpisa: 2003-01-0499
+sopPredpisaChng: null

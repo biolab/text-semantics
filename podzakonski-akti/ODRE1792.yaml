@@ -1,0 +1,18 @@
+Text file: ODRE1792.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1010790000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1792
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o merilih za izbiro kandidatov v primeru omejitve vpisa v programih\
+  \ ni\u017Ejega in srednjega poklicnega izobra\u017Eevanja, srednjega tehni\u0161\
+  kega in drugega strokovnega izobra\u017Eevanja ter v programih gimnazije"
+npbNum: 0
+path: /2002/00/2002-01-0042
+sopPredpisa: 2002-01-0042
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: PRAV10555.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1424473200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10555
+idPredpisaChng: PRAV10555
+instock: .nan
+naslov: "PRAVILNIK o vlogah in dokazilih v zvezi z zaposlovanjem in delom tujcev ter\
+  \ o zaposlitvah tujcev, ki niso vezane na trg dela (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2015/03/2015-01-0387-2011-01-2116-npb1
+sopPredpisa: 2015-01-0387
+sopPredpisaChng: 2011-01-2116

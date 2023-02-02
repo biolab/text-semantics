@@ -1,0 +1,12 @@
+Text file: DEKL29.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: DEKL29
+idPredpisaChng: null
+instock: .nan
+naslov: DEKLARACIJO o Zahodnem Balkanu (DeZB)
+npbNum: 0
+path: /2010/32/2010-01-3234
+sopPredpisa: 2010-01-3234
+sopPredpisaChng: null

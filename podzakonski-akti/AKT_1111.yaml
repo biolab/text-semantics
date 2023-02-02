@@ -1,0 +1,17 @@
+Text file: AKT_1111.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1640991600000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1111
+idPredpisaChng: AKT_1111
+instock: .nan
+naslov: "AKT o metodologiji za obra\u010Dunavanje omre\u017Enine za prenosni sistem\
+  \ zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/09/2021-01-0960-2019-01-0900-npb3
+sopPredpisa: 2021-01-0960
+sopPredpisaChng: 2019-01-0900

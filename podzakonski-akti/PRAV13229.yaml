@@ -1,0 +1,17 @@
+Text file: PRAV13229.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1530914400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13229
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o pridobivanju nazivov v dejavnostih varstva kulturne dedi\u0161\
+  \u010Dine"
+npbNum: 0
+path: /2018/24/2018-01-2427
+sopPredpisa: 2018-01-2427
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: KOLP305.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1298934000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1298934000000000000
+- null
+- null
+- 10
+idPredpisa: KOLP305
+idPredpisaChng: null
+instock: .nan
+naslov: "KOLEKTIVNO\_POGODBO celulozne, papirne in papirno predelovalne dejavnosti"
+npbNum: 0
+path: /2011/10/2011-01-1098
+sopPredpisa: 2011-01-1098
+sopPredpisaChng: null

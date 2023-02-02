@@ -1,0 +1,12 @@
+Text file: SKLE8156.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE8156
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o zaprtju Konzulata Republike Slovenije v Nangomi
+npbNum: 0
+path: /2009/37/2009-01-3711
+sopPredpisa: 2009-01-3711
+sopPredpisaChng: null

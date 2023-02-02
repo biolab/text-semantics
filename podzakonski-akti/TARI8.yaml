@@ -1,0 +1,18 @@
+Text file: TARI8.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 940543200000000000
+- null
+- null
+- 10
+idPredpisa: TARI8
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO o nadomestilu za uporabo centralne informatizirane baze sodnega registra\
+  \ in drugih stro\u0161kih predlagatelja oziroma uporabnika centralne informatizirane\
+  \ baze sodnega registra"
+npbNum: 0
+path: /1999/40/1999-01-4067
+sopPredpisa: 1999-01-4067
+sopPredpisaChng: null

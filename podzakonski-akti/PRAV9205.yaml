@@ -1,0 +1,17 @@
+Text file: PRAV9205.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1484175600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9205
+idPredpisaChng: PRAV9205
+instock: .nan
+naslov: "PRAVILNIK v zvezi z zahtevo za posredovanje podatkov Agenciji za trg vrednostnih\
+  \ papirjev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/37/2016-01-3708-2008-01-3540-npb1
+sopPredpisa: 2016-01-3708
+sopPredpisaChng: 2008-01-3540

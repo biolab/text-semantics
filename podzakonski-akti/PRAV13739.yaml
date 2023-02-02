@@ -1,0 +1,16 @@
+Text file: PRAV13739.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1584054000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13739
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o posebnih enotah vrednotenja
+npbNum: 0
+path: /2020/05/2020-01-0527
+sopPredpisa: 2020-01-0527
+sopPredpisaChng: null

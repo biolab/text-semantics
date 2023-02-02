@@ -1,0 +1,17 @@
+Text file: AKT_250.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 994716000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_250
+idPredpisaChng: null
+instock: .nan
+naslov: SOGLASJE k aktu o ustanovitvi ustanove USTANOVA FUNDACIJA DA BI SE OTROK RODIL
+  ZDRAV
+npbNum: 0
+path: /2001/30/2001-01-3021
+sopPredpisa: 2001-01-3021
+sopPredpisaChng: null

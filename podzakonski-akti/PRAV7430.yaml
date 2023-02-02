@@ -1,0 +1,17 @@
+Text file: PRAV7430.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1235170800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7430
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ukrepih za ugotavljanje, prepre\u010Devanje in zatiranje tuberkuloze\
+  \ pri govedu"
+npbNum: 0
+path: /2009/02/2009-01-0253
+sopPredpisa: 2009-01-0253
+sopPredpisaChng: null

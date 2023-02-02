@@ -1,0 +1,16 @@
+Text file: PRAV13444.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1533333600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13444
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dovoljenjih za prodajo tobaka, toba\u010Dnih in povezanih izdelkov"
+npbNum: 0
+path: /2018/27/2018-01-2712
+sopPredpisa: 2018-01-2712
+sopPredpisaChng: null

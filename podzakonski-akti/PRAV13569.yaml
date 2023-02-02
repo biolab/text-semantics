@@ -1,0 +1,20 @@
+Text file: PRAV13569.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1551394800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1550876400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13569
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini ter na\u010Dinu predlo\u017Eitve obra\u010D\
+  una takse na pretovor in vodenja evidence podatkov o taksi na pretovor"
+npbNum: 0
+path: /2019/04/2019-01-0423
+sopPredpisa: 2019-01-0423
+sopPredpisaChng: null

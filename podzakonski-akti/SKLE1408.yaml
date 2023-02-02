@@ -1,0 +1,17 @@
+Text file: SKLE1408.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 686876400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE1408
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP  da se vzamejo iz obtoka kovanci za 1, 2 in 5 dinarjev ter 10, 20 in
+  50 par
+npbNum: 0
+path: /1991/06/1991-01-0624
+sopPredpisa: 1991-01-0624
+sopPredpisaChng: null

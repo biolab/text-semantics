@@ -1,0 +1,13 @@
+Text file: SKLE9841.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9841
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Adelaidu,\
+  \ v Avstraliji"
+npbNum: 0
+path: /2014/28/2014-01-2815
+sopPredpisa: 2014-01-2815
+sopPredpisaChng: null

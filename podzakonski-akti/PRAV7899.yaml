@@ -1,0 +1,16 @@
+Text file: PRAV7899.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1163199600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7899
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o obrazcu spri\u010Devala o mojstrskem izpitu"
+npbNum: 0
+path: /2006/49/2006-01-4995
+sopPredpisa: 2006-01-4995
+sopPredpisaChng: null

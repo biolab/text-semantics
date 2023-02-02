@@ -1,0 +1,17 @@
+Text file: ODLO831.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 974502000000000000
+- null
+- null
+- 10
+idPredpisa: ODLO831
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o dopolnilnem premo\u017Eenju, ki se preda Prvemu pokojninskemu skladu\
+  \ Republike Slovenije"
+npbNum: 0
+path: /2000/43/2000-01-4333
+sopPredpisa: 2000-01-4333
+sopPredpisaChng: null

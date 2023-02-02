@@ -1,0 +1,21 @@
+Text file: ODRE305.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041375600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1035583200000000000
+- null
+- null
+- 10
+idPredpisa: ODRE305
+idPredpisaChng: ODRE305
+instock: .nan
+naslov: "ODREDBA o dajanju podatkov za vodenje dav\u010Dne evidence o odmeri, obra\u010D\
+  unu, izterjavi in knji\u017Eenju davkov za pravne osebe (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2002/45/2002-01-4539-1996-01-1645-npb2
+sopPredpisa: 2002-01-4539
+sopPredpisaChng: 1996-01-1645

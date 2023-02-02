@@ -1,0 +1,16 @@
+Text file: PRAV12739.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1505512800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12739
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o histovigilanci
+npbNum: 0
+path: /2017/22/2017-01-2264
+sopPredpisa: 2017-01-2264
+sopPredpisaChng: null

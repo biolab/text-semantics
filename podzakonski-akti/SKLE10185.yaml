@@ -1,0 +1,12 @@
+Text file: SKLE10185.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10185
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o razre\u0161itvi generalne konzulke Republike Slovenije v Celovcu"
+npbNum: 0
+path: /2015/24/2015-01-2442
+sopPredpisa: 2015-01-2442
+sopPredpisaChng: null

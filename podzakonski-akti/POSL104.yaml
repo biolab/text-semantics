@@ -1,0 +1,16 @@
+Text file: POSL104.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1360796400000000000
+- null
+- null
+- 10
+idPredpisa: POSL104
+idPredpisaChng: null
+instock: .nan
+naslov: "POSLOVNIK Dr\u017Eavne volilne komisije (PoDVK)"
+npbNum: 0
+path: /2013/06/2013-01-0620
+sopPredpisa: 2013-01-0620
+sopPredpisaChng: null

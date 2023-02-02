@@ -1,0 +1,17 @@
+Text file: PRAV2348.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 832370400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2348
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o nalogah pripadnika civilne za\u0161\u010Dite, ki predstavljajo\
+  \ pove\u010Dano nevarnost za nastanek okvare zdravja"
+npbNum: 0
+path: /1996/15/1996-01-1574
+sopPredpisa: 1996-01-1574
+sopPredpisaChng: null

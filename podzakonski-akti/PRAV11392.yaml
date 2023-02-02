@@ -1,0 +1,17 @@
+Text file: PRAV11392.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1383001200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11392
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o sadnih sokovih in nekaterih podobnih izdelkih, namenjenih za prehrano
+  ljudi
+npbNum: 0
+path: /2013/32/2013-01-3219
+sopPredpisa: 2013-01-3219
+sopPredpisaChng: null

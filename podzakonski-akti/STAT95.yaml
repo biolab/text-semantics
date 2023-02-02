@@ -1,0 +1,16 @@
+Text file: STAT95.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 985989600000000000
+- null
+- null
+- 10
+idPredpisa: STAT95
+idPredpisaChng: STAT95
+instock: .nan
+naslov: "STATUT UNIVERZE V MARIBORU\_ (uradno pre\u010Di\u0161\u010Deno besedilo)"
+npbNum: 1
+path: /2001/10/2001-01-1077-2004-01-4759-npb1
+sopPredpisa: 2001-01-1077
+sopPredpisaChng: 2004-01-4759

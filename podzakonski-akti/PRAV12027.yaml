@@ -1,0 +1,17 @@
+Text file: PRAV12027.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1564178400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12027
+idPredpisaChng: PRAV12027
+instock: .nan
+naslov: "PRAVILNIK o posodabljanju vzgojno-izobra\u017Eevalnega dela (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2019/23/2019-01-2339-2014-01-0170-npb2
+sopPredpisa: 2019-01-2339
+sopPredpisaChng: 2014-01-0170

@@ -1,0 +1,16 @@
+Text file: SKLE67.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 921193200000000000
+- null
+- null
+- 10
+idPredpisa: SKLE67
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o javni razgrnitvi
+npbNum: 0
+path: /1999/07/1999-01-0716
+sopPredpisa: 1999-01-0716
+sopPredpisaChng: null

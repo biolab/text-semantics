@@ -1,0 +1,12 @@
+Text file: SKLE12569.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12569
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEPOM o prenehanju mandata poslanca
+npbNum: 0
+path: /2021/35/2021-01-3531
+sopPredpisa: 2021-01-3531
+sopPredpisaChng: null

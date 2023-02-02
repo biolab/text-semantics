@@ -1,0 +1,17 @@
+Text file: URED5980.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1339192800000000000
+- null
+- null
+- 10
+idPredpisa: URED5980
+idPredpisaChng: URED5980
+instock: .nan
+naslov: "UREDBA o evidencah na podro\u010Dju odvzema premo\u017Eenja nezakonitega\
+  \ izvora (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/18/2012-01-1833-2012-01-0920-npb1
+sopPredpisa: 2012-01-1833
+sopPredpisaChng: 2012-01-0920

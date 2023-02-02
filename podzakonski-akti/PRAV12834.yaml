@@ -1,0 +1,17 @@
+Text file: PRAV12834.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1485558000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12834
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dovoljenjih za opravljanje strokovnih nalog na podro\u010Dju\
+  \ varnosti pri delu"
+npbNum: 0
+path: /2017/00/2017-01-0046
+sopPredpisa: 2017-01-0046
+sopPredpisaChng: null

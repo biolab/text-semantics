@@ -1,0 +1,17 @@
+Text file: PRAV4050.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595023200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4050
+idPredpisaChng: PRAV4050
+instock: .nan
+naslov: "PRAVILNIK o registrih prijav in pravic industrijske lastnine ter potrdilu\
+  \ o prednostni pravici (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/16/2020-01-1647-2001-01-5000-npb1
+sopPredpisa: 2020-01-1647
+sopPredpisaChng: 2001-01-5000

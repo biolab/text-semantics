@@ -1,0 +1,17 @@
+Text file: PRAV10675.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1546297200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10675
+idPredpisaChng: PRAV10675
+instock: .nan
+naslov: "PRAVILNIK o delu Odbora za priznanja Republike Slovenije za poslovno odli\u010D\
+  nost (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2018/41/2018-01-4193-2011-01-0274-npb1
+sopPredpisa: 2018-01-4193
+sopPredpisaChng: 2011-01-0274

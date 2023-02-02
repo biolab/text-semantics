@@ -1,0 +1,17 @@
+Text file: URED3488.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1098482400000000000
+- null
+- null
+- 10
+idPredpisa: URED3488
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za avtocesto na odseku Lenart\
+  \ \u2013 Spodnja Senarska"
+npbNum: 0
+path: /2004/45/2004-01-4545
+sopPredpisa: 2004-01-4545
+sopPredpisaChng: null

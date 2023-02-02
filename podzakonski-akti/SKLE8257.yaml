@@ -1,0 +1,17 @@
+Text file: SKLE8257.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1263596400000000000
+- null
+- null
+- 10
+idPredpisa: SKLE8257
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne cene toplote, ki nastane z zgorevanjem\
+  \ ekstra lahkega kurilnega olja, za leto 2010"
+npbNum: 0
+path: /2010/01/2010-01-0122
+sopPredpisa: 2010-01-0122
+sopPredpisaChng: null

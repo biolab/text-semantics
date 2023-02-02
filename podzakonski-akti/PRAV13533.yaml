@@ -1,0 +1,16 @@
+Text file: PRAV13533.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1528495200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13533
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dr\u017Eavnoto\u017Eilskem pripravni\u0161tvu"
+npbNum: 0
+path: /2018/19/2018-01-1936
+sopPredpisa: 2018-01-1936
+sopPredpisaChng: null

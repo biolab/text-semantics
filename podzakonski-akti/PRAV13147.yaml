@@ -1,0 +1,16 @@
+Text file: PRAV13147.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1525471200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13147
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o opravljanju overitev listin v mednarodnem prometu
+npbNum: 0
+path: /2018/14/2018-01-1416
+sopPredpisa: 2018-01-1416
+sopPredpisaChng: null

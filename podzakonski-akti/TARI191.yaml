@@ -1,0 +1,21 @@
+Text file: TARI191.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1451602800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1451343600000000000
+- null
+- null
+- 10
+idPredpisa: TARI191
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO o vrednosti to\u010Dke in o vi\u0161ini dele\u017Ea glede na zara\u010D\
+  unano uporabnino za uporabo javne \u017Eelezni\u0161ke infrastrukture za delovanje\
+  \ regulatornega organa na podro\u010Dju \u017Eelezni\u0161kega prometa"
+npbNum: 0
+path: /2015/41/2015-01-4139
+sopPredpisa: 2015-01-4139
+sopPredpisaChng: null

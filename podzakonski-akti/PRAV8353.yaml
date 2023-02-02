@@ -1,0 +1,17 @@
+Text file: PRAV8353.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1183413600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8353
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posebnih pogojih za uporabo dovoljene tehnologije pri opravljanju\
+  \ strate\u0161kih dejavnosti"
+npbNum: 0
+path: /2007/28/2007-01-2898
+sopPredpisa: 2007-01-2898
+sopPredpisaChng: null

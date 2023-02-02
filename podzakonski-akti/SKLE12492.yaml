@@ -1,0 +1,12 @@
+Text file: SKLE12492.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12492
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dlanice Sveta Banke Slovenije \u2013 viceguvernerke"
+npbNum: 0
+path: /2021/24/2021-01-2468
+sopPredpisa: 2021-01-2468
+sopPredpisaChng: null

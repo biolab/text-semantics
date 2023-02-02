@@ -1,0 +1,17 @@
+Text file: AKT_1010.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1638572400000000000
+- null
+- null
+- 10
+idPredpisa: AKT_1010
+idPredpisaChng: AKT_1010
+instock: .nan
+naslov: "SPLO\u0160NI AKT o na\u010Drtu uporabe radijskih frekvenc (NURF-4) (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/37/2021-01-3743-2018-01-0421-npb3
+sopPredpisa: 2021-01-3743
+sopPredpisaChng: 2018-01-0421

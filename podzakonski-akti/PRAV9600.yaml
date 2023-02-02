@@ -1,0 +1,17 @@
+Text file: PRAV9600.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1241215200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9600
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trg pra\u0161i\u010Djega\
+  \ mesa"
+npbNum: 0
+path: /2009/13/2009-01-1318
+sopPredpisa: 2009-01-1318
+sopPredpisaChng: null

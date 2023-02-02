@@ -1,0 +1,17 @@
+Text file: PRAV8735.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1240264800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8735
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o strokovnem usposabljanju za tehnike delavnic za tahografe in\
+  \ osebe, ki so poobla\u0161\u010Dene za izvajanje nadzora"
+npbNum: 0
+path: /2009/11/2009-01-1145
+sopPredpisa: 2009-01-1145
+sopPredpisaChng: null

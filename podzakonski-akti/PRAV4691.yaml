@@ -1,0 +1,17 @@
+Text file: PRAV4691.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1559944800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4691
+idPredpisaChng: PRAV4691
+instock: .nan
+naslov: "PRAVILNIK o opravljanju slu\u017Ebe izvr\u0161itelja (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2019/15/2019-01-1513-2003-01-0723-npb4
+sopPredpisa: 2019-01-1513
+sopPredpisaChng: 2003-01-0723

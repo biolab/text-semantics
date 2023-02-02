@@ -1,0 +1,13 @@
+Text file: PRAV12131.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: PRAV12131
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK DSKP o podeljevanju \u0161tipendij iz naslova knji\u017Eni\u010D\
+  nega nadomestila (2014)"
+npbNum: 0
+path: /2014/09/2014-01-0991
+sopPredpisa: 2014-01-0991
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: ODRE1883.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1275084000000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1883
+idPredpisaChng: ODRE1883
+instock: .nan
+naslov: "PRAVILNIK o uvrstitvi ogro\u017Eenih rastlinskih in \u017Eivalskih vrst v\
+  \ rde\u010Di seznam (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/21/2010-01-2122-2002-01-4055-npb1
+sopPredpisa: 2010-01-2122
+sopPredpisaChng: 2002-01-4055

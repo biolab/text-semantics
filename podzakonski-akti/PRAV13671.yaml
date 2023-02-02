@@ -1,0 +1,16 @@
+Text file: PRAV13671.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1582930800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13671
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih za zagotavljanje varnosti krme
+npbNum: 0
+path: /2020/02/2020-01-0243
+sopPredpisa: 2020-01-0243
+sopPredpisaChng: null

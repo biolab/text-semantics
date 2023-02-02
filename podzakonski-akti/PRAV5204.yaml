@@ -1,0 +1,17 @@
+Text file: PRAV5204.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1500069600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5204
+idPredpisaChng: PRAV5204
+instock: .nan
+naslov: "PRAVILNIK o rudarskem merjenju, merski dokumentaciji in rudarskih kartah\
+  \ (prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2017/17/2017-01-1759-2003-01-3973-npb2
+sopPredpisa: 2017-01-1759
+sopPredpisaChng: 2003-01-3973

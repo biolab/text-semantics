@@ -1,0 +1,17 @@
+Text file: PRAV4908.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1053727200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4908
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kokra\
+  \ (2001\u20132010)"
+npbNum: 0
+path: /2003/22/2003-01-2295
+sopPredpisa: 2003-01-2295
+sopPredpisaChng: null

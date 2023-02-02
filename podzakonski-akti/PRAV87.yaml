@@ -1,0 +1,17 @@
+Text file: PRAV87.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1180130400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV87
+idPredpisaChng: PRAV87
+instock: .nan
+naslov: "PRAVILNIK o vodenju registra dobaviteljev semenskega materiala kmetijskih\
+  \ rastlin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2007/24/2007-01-2470-2003-01-1132-npb4
+sopPredpisa: 2007-01-2470
+sopPredpisaChng: 2003-01-1132

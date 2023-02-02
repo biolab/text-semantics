@@ -1,0 +1,17 @@
+Text file: AKT_991.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1466460000000000000
+- null
+- null
+- 10
+idPredpisa: AKT_991
+idPredpisaChng: null
+instock: .nan
+naslov: "KONCESIJSKI AKT za izvajanje energetskega pogodbeni\u0161tva v objektu C\u0160\
+  OD \xBBDom Bohinj\xAB"
+npbNum: 0
+path: /2016/18/2016-01-1890
+sopPredpisa: 2016-01-1890
+sopPredpisaChng: null

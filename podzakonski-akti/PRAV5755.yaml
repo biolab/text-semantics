@@ -1,0 +1,17 @@
+Text file: PRAV5755.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1088546400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV5755
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vsebini prijave zaprtega sistema in prijave dela z gensko spremenjenimi
+  organizmi v zaprtem sistemu
+npbNum: 0
+path: /2004/29/2004-01-2945
+sopPredpisa: 2004-01-2945
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: PRAV12243.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1419634800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12243
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopkih za uveljavljanje pravic do dru\u017Einskih prejemkov"
+npbNum: 0
+path: /2014/35/2014-01-3592
+sopPredpisa: 2014-01-3592
+sopPredpisaChng: null

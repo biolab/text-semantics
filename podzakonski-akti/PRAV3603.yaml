@@ -1,0 +1,16 @@
+Text file: PRAV3603.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 832370400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3603
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o zdravili\u0161kem in klimatskem zdravljenju vojnih invalidov"
+npbNum: 0
+path: /1996/15/1996-01-1577
+sopPredpisa: 1996-01-1577
+sopPredpisaChng: null

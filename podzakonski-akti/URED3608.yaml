@@ -1,0 +1,17 @@
+Text file: URED3608.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1111791600000000000
+- null
+- null
+- 10
+idPredpisa: URED3608
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za prelo\u017Eitev regionalne\
+  \ ceste RII \u2013 420 na obmo\u010Dju naselja Dobova"
+npbNum: 0
+path: /2005/08/2005-01-0830
+sopPredpisa: 2005-01-0830
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: AKT_933.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1464991200000000000
+- null
+- null
+- 10
+idPredpisa: AKT_933
+idPredpisaChng: AKT_933
+instock: .nan
+naslov: "AKT o identifikaciji entitet v elektronski izmenjavi podatkov med udele\u017E\
+  enci na trgu z elektri\u010Dno energijo in zemeljskim plinom (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/15/2016-01-1551-2015-01-1620-npb1
+sopPredpisa: 2016-01-1551
+sopPredpisaChng: 2015-01-1620

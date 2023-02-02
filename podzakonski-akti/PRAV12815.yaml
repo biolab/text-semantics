@@ -1,0 +1,16 @@
+Text file: PRAV12815.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1488495600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12815
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o poro\u010Danju dajalcev kreditov"
+npbNum: 0
+path: /2017/03/2017-01-0351
+sopPredpisa: 2017-01-0351
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: SKLE12265.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12265
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o podalj\u0161anju ukrepa premestitve obsojenca v drug oddelek znotraj\
+  \ zavoda"
+npbNum: 0
+path: /2020/35/2020-01-3539
+sopPredpisa: 2020-01-3539
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: KOLP89.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 930780000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 935013600000000000
+- null
+- null
+- 10
+idPredpisa: KOLP89
+idPredpisaChng: null
+instock: .nan
+naslov: KOLEKTIVNO POGODBO za dejavnost prevoza blaga v cestnem prometu Slovenije
+npbNum: 0
+path: /1999/32/1999-01-3218
+sopPredpisa: 1999-01-3218
+sopPredpisaChng: null

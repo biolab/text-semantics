@@ -1,0 +1,19 @@
+Text file: PRAV12781.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1472680800000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1453503600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12781
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o obrazcih za prijavo in odjavo iz registra zavarovancev
+npbNum: 0
+path: /2016/00/2016-01-0001
+sopPredpisa: 2016-01-0001
+sopPredpisaChng: null

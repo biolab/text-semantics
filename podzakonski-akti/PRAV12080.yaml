@@ -1,0 +1,17 @@
+Text file: PRAV12080.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1393023600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12080
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki javnih listin o zaklju\u010Denem izobra\u017E\
+  evanju na Visoki poslovni \u0161oli ERUDIO"
+npbNum: 0
+path: /2014/03/2014-01-0398
+sopPredpisa: 2014-01-0398
+sopPredpisaChng: null

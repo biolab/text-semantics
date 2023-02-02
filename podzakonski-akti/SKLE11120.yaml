@@ -1,0 +1,13 @@
+Text file: SKLE11120.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE11120
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju \u010Dlana in namestnice \u010Dlana Sveta za sistem pla\u010D\
+  \ v javnem sektorju"
+npbNum: 0
+path: /2017/11/2017-01-1122
+sopPredpisa: 2017-01-1122
+sopPredpisaChng: null

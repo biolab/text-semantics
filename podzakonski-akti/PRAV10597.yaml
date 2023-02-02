@@ -1,0 +1,17 @@
+Text file: PRAV10597.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1309471200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10597
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o programih dodatnega usposabljanja voznikov in programu usposabljanja
+  izvajalcev programa
+npbNum: 0
+path: /2011/22/2011-01-2294
+sopPredpisa: 2011-01-2294
+sopPredpisaChng: null

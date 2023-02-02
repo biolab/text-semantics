@@ -1,0 +1,17 @@
+Text file: ODLO2020.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1584572400000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2020
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o dolo\u010Ditvi pogojev vstopa v Republiko Slovenijo iz Italijanske\
+  \ republike zaradi zajezitve in obvladovanja nalezljive bolezni"
+npbNum: 0
+path: /2020/06/2020-01-0601
+sopPredpisa: 2020-01-0601
+sopPredpisaChng: null

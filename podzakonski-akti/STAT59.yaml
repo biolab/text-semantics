@@ -1,0 +1,16 @@
+Text file: STAT59.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1004396400000000000
+- null
+- null
+- 10
+idPredpisa: STAT59
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT \u0160tudentske organizacije Univerze v Mariboru,"
+npbNum: 0
+path: /2001/42/2001-01-4204
+sopPredpisa: 2001-01-4204
+sopPredpisaChng: null

@@ -1,0 +1,19 @@
+Text file: PRAV4105.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1383346800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4105
+idPredpisaChng: PRAV4105
+instock: .nan
+naslov: "PRAVILNIK o obve\u0161\u010Danju glede zadr\u017Eanja po\u0161iljk rastlin,\
+  \ rastlinskih proizvodov in nadzorovanih predmetov ali izoliranih \u0161kodljivih\
+  \ organizmov iz uvoza, ki predstavljajo nevarnost za vnos in \u0161irjenje \u0161\
+  kodljivih organizmov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/31/2013-01-3126-2002-01-0550-npb2
+sopPredpisa: 2013-01-3126
+sopPredpisaChng: 2002-01-0550

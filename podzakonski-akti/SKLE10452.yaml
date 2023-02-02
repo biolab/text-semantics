@@ -1,0 +1,16 @@
+Text file: SKLE10452.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1459461600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE10452
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o podrobnej\u0161i vsebini dolo\u010Db nekaterih zavarovalnih pogodb"
+npbNum: 0
+path: /2016/01/2016-01-0171
+sopPredpisa: 2016-01-0171
+sopPredpisaChng: null

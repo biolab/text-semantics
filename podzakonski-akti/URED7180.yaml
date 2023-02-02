@@ -1,0 +1,16 @@
+Text file: URED7180.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1462053600000000000
+- null
+- null
+- 10
+idPredpisa: URED7180
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o oblikovanju cen u\u010Dbenikov"
+npbNum: 0
+path: /2016/11/2016-01-1181
+sopPredpisa: 2016-01-1181
+sopPredpisaChng: null

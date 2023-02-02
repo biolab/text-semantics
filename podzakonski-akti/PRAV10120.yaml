@@ -1,0 +1,18 @@
+Text file: PRAV10120.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1264201200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10120
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dostavi podatkov za odmero dodatnega davka od dohodkov \u010D\
+  lanov poslovodstev in nadzornih organov v \u010Dasu finan\u010Dne in gospodarske\
+  \ krize za leto 2009"
+npbNum: 0
+path: /2010/01/2010-01-0131
+sopPredpisa: 2010-01-0131
+sopPredpisaChng: null

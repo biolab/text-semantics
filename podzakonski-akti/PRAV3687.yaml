@@ -1,0 +1,19 @@
+Text file: PRAV3687.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649800800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3687
+idPredpisaChng: PRAV3687
+instock: .nan
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini tehni\u010Dne dokumentacije, ki jo izdelajo\
+  \ in vzdr\u017Eujejo dobavitelji izdelkov iz plemenitih kovin pri samostojnem zagotavljanju\
+  \ skladnosti izdelkov s predpisi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
+  t. 1)"
+npbNum: 1
+path: /2022/08/2022-01-0883-2000-01-4702-npb1
+sopPredpisa: 2022-01-0883
+sopPredpisaChng: 2000-01-4702

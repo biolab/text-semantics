@@ -1,0 +1,16 @@
+Text file: URED2668.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1041030000000000000
+- null
+- null
+- 10
+idPredpisa: URED2668
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP  o subjektih, za katere velja zakon o sistemu pla\u010D v javnem sektorju"
+npbNum: 0
+path: /2002/56/2002-01-5611
+sopPredpisa: 2002-01-5611
+sopPredpisaChng: null

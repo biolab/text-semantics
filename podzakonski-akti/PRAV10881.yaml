@@ -1,0 +1,17 @@
+Text file: PRAV10881.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1345240800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10881
+idPredpisaChng: null
+instock: .nan
+naslov: "NAVODILO o zavrnitvi vstopa v Republiko Slovenijo dr\u017Eavljanu Evropske\
+  \ unije in dru\u017Einskemu \u010Dlanu dr\u017Eavljana Evropske unije"
+npbNum: 0
+path: /2012/24/2012-01-2490
+sopPredpisa: 2012-01-2490
+sopPredpisaChng: null

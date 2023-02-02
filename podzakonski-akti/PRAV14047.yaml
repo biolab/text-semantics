@@ -1,0 +1,16 @@
+Text file: PRAV14047.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1595023200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14047
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o znamki
+npbNum: 0
+path: /2020/16/2020-01-1646
+sopPredpisa: 2020-01-1646
+sopPredpisaChng: null

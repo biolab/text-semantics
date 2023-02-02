@@ -1,0 +1,17 @@
+Text file: PRAV13741.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1565388000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13741
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o neposredni uporabi sprejemljivih na\u010Dinov usklajevanja, navodil,\
+  \ certifikacijskih specifikacij in specifikacij"
+npbNum: 0
+path: /2019/23/2019-01-2307
+sopPredpisa: 2019-01-2307
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV13164.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1525471200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13164
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvajanju storitev lekarni\u0161ke dejavnosti v bolni\u0161ni\u010D\
+  ni lekarni"
+npbNum: 0
+path: /2018/12/2018-01-1243
+sopPredpisa: 2018-01-1243
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV10728.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1298674800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10728
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in obliki diplom o zaklju\u010Denem izobra\u017Eevanju\
+  \ na Visoki gospodarski \u0161oli"
+npbNum: 0
+path: /2011/05/2011-01-0509
+sopPredpisa: 2011-01-0509
+sopPredpisaChng: null

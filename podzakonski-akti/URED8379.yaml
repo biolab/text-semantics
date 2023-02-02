@@ -1,0 +1,19 @@
+Text file: URED8379.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1649023200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1637362800000000000
+- null
+- null
+- 10
+idPredpisa: URED8379
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dejanskih rabah zemlji\u0161\u010D"
+npbNum: 0
+path: /2021/34/2021-01-3424
+sopPredpisa: 2021-01-3424
+sopPredpisaChng: null

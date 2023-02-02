@@ -1,0 +1,17 @@
+Text file: TARI123.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1277935200000000000
+- null
+- null
+- 10
+idPredpisa: TARI123
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO nadomestil stro\u0161kov za posredovanje podatkov o transakcijskih\
+  \ ra\u010Dunih fizi\u010Dnih oseb iz registra transakcijskih ra\u010Dunov"
+npbNum: 0
+path: /2010/26/2010-01-2643
+sopPredpisa: 2010-01-2643
+sopPredpisaChng: null

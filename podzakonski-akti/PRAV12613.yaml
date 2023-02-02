@@ -1,0 +1,17 @@
+Text file: PRAV12613.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1450911600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12613
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po\_zakonu o davkih ob\u010D\
+  anov za leto 2016"
+npbNum: 0
+path: /2015/39/2015-01-3991
+sopPredpisa: 2015-01-3991
+sopPredpisaChng: null

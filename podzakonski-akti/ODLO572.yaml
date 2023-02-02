@@ -1,0 +1,12 @@
+Text file: ODLO572.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: ODLO572
+idPredpisaChng: ODLO572
+instock: .nan
+naslov: "ODLOK (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2020/30/2020-01-3018-1992-01-0322-npb2
+sopPredpisa: 2020-01-3018
+sopPredpisaChng: 1992-01-0322

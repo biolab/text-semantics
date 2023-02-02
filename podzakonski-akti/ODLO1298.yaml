@@ -1,0 +1,16 @@
+Text file: ODLO1298.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1057269600000000000
+- null
+- null
+- 10
+idPredpisa: ODLO1298
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o pred\u010Dasnem odpustu vojakov s slu\u017Eenja voja\u0161kega roka"
+npbNum: 0
+path: /2003/31/2003-01-3145
+sopPredpisa: 2003-01-3145
+sopPredpisaChng: null

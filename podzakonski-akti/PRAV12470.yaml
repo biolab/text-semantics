@@ -1,0 +1,17 @@
+Text file: PRAV12470.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1478905200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12470
+idPredpisaChng: PRAV12470
+instock: .nan
+naslov: "PRAVILNIK o sistemu za sprejem, shranjevanje in\_sledljivost\_zdravil (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2016/29/2016-01-2988-2015-01-3266-npb1
+sopPredpisa: 2016-01-2988
+sopPredpisaChng: 2015-01-3266

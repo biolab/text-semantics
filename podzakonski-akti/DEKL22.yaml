@@ -1,0 +1,17 @@
+Text file: DEKL22.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1175810400000000000
+- null
+- null
+- 10
+idPredpisa: DEKL22
+idPredpisaChng: null
+instock: .nan
+naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah\
+  \ Evropske unije v obdobju januar 2007\u2013junij 2008 (DeUDIEU0708)"
+npbNum: 0
+path: /2007/15/2007-01-1564
+sopPredpisa: 2007-01-1564
+sopPredpisaChng: null

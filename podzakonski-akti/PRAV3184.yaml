@@ -1,0 +1,17 @@
+Text file: PRAV3184.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 851122800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3184
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prvih meritvah in obratovalnem monitoringu za vire elektromagnetnega
+  sevanja ter o pogojih za njegovo izvajanje
+npbNum: 0
+path: /1996/38/1996-01-3823
+sopPredpisa: 1996-01-3823
+sopPredpisaChng: null

@@ -1,0 +1,18 @@
+Text file: URED3750.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1271196000000000000
+- null
+- null
+- 10
+idPredpisa: URED3750
+idPredpisaChng: URED3750
+instock: .nan
+naslov: "UREDBA o dr\u017Eavnem lokacijskem na\u010Drtu za oskrbni center ob avtocestnem\
+  \ odseku Slivnica-Pesnica (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
+  \ 1)"
+npbNum: 1
+path: /2010/13/2010-01-1337-2007-01-0388-npb1
+sopPredpisa: 2010-01-1337
+sopPredpisaChng: 2007-01-0388

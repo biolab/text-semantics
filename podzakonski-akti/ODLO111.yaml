@@ -1,0 +1,16 @@
+Text file: ODLO111.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 922489200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO111
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o kadrovskem \u0161tipendiranju"
+npbNum: 0
+path: /1999/08/1999-01-0818
+sopPredpisa: 1999-01-0818
+sopPredpisaChng: null

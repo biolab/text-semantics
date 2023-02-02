@@ -1,0 +1,16 @@
+Text file: PRAV12716.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1575068400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12716
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o monitoringu kakovosti tal
+npbNum: 0
+path: /2019/29/2019-01-2991
+sopPredpisa: 2019-01-2991
+sopPredpisaChng: null

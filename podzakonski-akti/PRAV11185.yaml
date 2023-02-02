@@ -1,0 +1,17 @@
+Text file: PRAV11185.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1392678000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11185
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o ekolo\u0161ki pridelavi in predelavi kmetijskih pridelkov oziroma\
+  \ \u017Eivil"
+npbNum: 0
+path: /2014/02/2014-01-0205
+sopPredpisa: 2014-01-0205
+sopPredpisaChng: null

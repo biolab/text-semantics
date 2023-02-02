@@ -1,0 +1,16 @@
+Text file: PRAV8225.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1172012400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8225
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih za opravljanje del zunaj Carinske uprave Republike Slovenije
+npbNum: 0
+path: /2007/04/2007-01-0455
+sopPredpisa: 2007-01-0455
+sopPredpisaChng: null

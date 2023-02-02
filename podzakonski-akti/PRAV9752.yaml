@@ -1,0 +1,17 @@
+Text file: PRAV9752.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1258758000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9752
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trg perutninskega mesa in\
+  \ jajc"
+npbNum: 0
+path: /2009/38/2009-01-3883
+sopPredpisa: 2009-01-3883
+sopPredpisaChng: null

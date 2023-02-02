@@ -1,0 +1,18 @@
+Text file: ODLO2345.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1613689200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2345
+idPredpisaChng: ODLO2345
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi ponujanja in prodajanja blaga in storitev\
+  \ potro\u0161nikom v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 1)"
+npbNum: 1
+path: /2021/05/2021-01-0521-2021-01-0424-npb1
+sopPredpisa: 2021-01-0521
+sopPredpisaChng: 2021-01-0424

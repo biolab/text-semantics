@@ -1,0 +1,16 @@
+Text file: PRAV8103.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1181340000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8103
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o registru finan\u010Dnih konglomeratov"
+npbNum: 0
+path: /2007/24/2007-01-2466
+sopPredpisa: 2007-01-2466
+sopPredpisaChng: null

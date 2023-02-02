@@ -1,0 +1,17 @@
+Text file: SKLE130.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 854751600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE130
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine temeljnega zneska za pove\u010Danje priklju\u010D\
+  ne mo\u010Di uporabnikov elektri\u010Dne energije na 110 kV napetosti"
+npbNum: 0
+path: /1997/02/1997-01-0291
+sopPredpisa: 1997-01-0291
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: URED5547.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1288130400000000000
+- null
+- null
+- 10
+idPredpisa: URED5547
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o postopku notificiranja zahtev za storitve
+npbNum: 0
+path: /2010/43/2010-01-4307
+sopPredpisa: 2010-01-4307
+sopPredpisaChng: null

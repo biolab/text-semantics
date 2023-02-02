@@ -1,0 +1,16 @@
+Text file: SKLE7848.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1227654000000000000
+- null
+- null
+- 10
+idPredpisa: SKLE7848
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o znesku dr\u017Eavne pokojnine"
+npbNum: 0
+path: /2008/47/2008-01-4788
+sopPredpisa: 2008-01-4788
+sopPredpisaChng: null

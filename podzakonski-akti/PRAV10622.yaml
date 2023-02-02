@@ -1,0 +1,16 @@
+Text file: PRAV10622.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1330124400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10622
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o za\u0161\u010Diti pred hrupom v stavbah"
+npbNum: 0
+path: /2012/03/2012-01-0380
+sopPredpisa: 2012-01-0380
+sopPredpisaChng: null

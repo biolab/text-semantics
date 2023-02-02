@@ -1,0 +1,16 @@
+Text file: ODRE2102.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1307138400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2102
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o seznamu oro\u017Eja kategorije A, ki ga je dovoljeno zbirati"
+npbNum: 0
+path: /2011/20/2011-01-2055
+sopPredpisa: 2011-01-2055
+sopPredpisaChng: null

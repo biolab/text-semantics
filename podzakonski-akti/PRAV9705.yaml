@@ -1,0 +1,17 @@
+Text file: PRAV9705.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1248472800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9705
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi podprogramov, ki se upo\u0161tevajo za ugotovitev\
+  \ povpre\u010Dnine"
+npbNum: 0
+path: /2009/25/2009-01-2597
+sopPredpisa: 2009-01-2597
+sopPredpisaChng: null

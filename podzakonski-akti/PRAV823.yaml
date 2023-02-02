@@ -1,0 +1,17 @@
+Text file: PRAV823.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 768261600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV823
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o postopku za vpis in izbris iz razvida zasebnih visoko\u0161olskih\
+  \ u\u010Diteljev"
+npbNum: 0
+path: /1994/09/1994-01-0901
+sopPredpisa: 1994-01-0901
+sopPredpisaChng: null

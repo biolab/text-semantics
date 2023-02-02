@@ -1,0 +1,17 @@
+Text file: ODLO2223.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1607209200000000000
+- null
+- null
+- 10
+idPredpisa: ODLO2223
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o za\u010Dasni prepovedi ponujanja in prodajanja blaga in storitev\
+  \ neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki Sloveniji"
+npbNum: 0
+path: /2020/31/2020-01-3194
+sopPredpisa: 2020-01-3194
+sopPredpisaChng: null

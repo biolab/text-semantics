@@ -1,0 +1,18 @@
+Text file: PRAV14061.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1603926000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14061
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi predpostavk o projekcijah pokojninskih prejemkov\
+  \ na podlagi zakonsko dolo\u010Dene upokojitvene starosti ali upokojitvene starosti,\
+  \ ki jo dolo\u010Di \u010Dlan"
+npbNum: 0
+path: /2020/25/2020-01-2525
+sopPredpisa: 2020-01-2525
+sopPredpisaChng: null

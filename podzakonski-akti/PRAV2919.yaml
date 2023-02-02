@@ -1,0 +1,16 @@
+Text file: PRAV2919.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 962143200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2919
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o meroslovnih zahtevah za merilne steklenice
+npbNum: 0
+path: /2000/24/2000-01-2454
+sopPredpisa: 2000-01-2454
+sopPredpisaChng: null

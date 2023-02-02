@@ -1,0 +1,16 @@
+Text file: PRAV11597.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1467669600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11597
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o zaporah na cestah
+npbNum: 0
+path: /2016/01/2016-01-0159
+sopPredpisa: 2016-01-0159
+sopPredpisaChng: null

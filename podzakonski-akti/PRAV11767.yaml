@@ -1,0 +1,17 @@
+Text file: PRAV11767.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1431122400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11767
+idPredpisaChng: PRAV11767
+instock: .nan
+naslov: "PRAVILNIK o sklepanju zakonske zveze (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 1)"
+npbNum: 1
+path: /2015/13/2015-01-1332-2013-01-2620-npb1
+sopPredpisa: 2015-01-1332
+sopPredpisaChng: 2013-01-2620

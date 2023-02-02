@@ -1,0 +1,17 @@
+Text file: RESO48.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1265670000000000000
+- null
+- null
+- 10
+idPredpisa: RESO48
+idPredpisaChng: null
+instock: .nan
+naslov: RESOLUCIJO O NACIONALNEM PROGRAMU RAZVOJA CIVILNEGA LETALSTVA REPUBLIKE SLOVENIJE
+  DO LETA 2020 (ReNPRCL)
+npbNum: 0
+path: /2010/03/2010-01-0315
+sopPredpisa: 2010-01-0315
+sopPredpisaChng: null

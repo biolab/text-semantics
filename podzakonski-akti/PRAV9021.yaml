@@ -1,0 +1,17 @@
+Text file: PRAV9021.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1212184800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9021
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o postopku in merilih dolo\u010D\
+  anja ter oblikah ozna\u010Devanja tajnosti podatkov policije"
+npbNum: 0
+path: /2008/22/2008-01-2210
+sopPredpisa: 2008-01-2210
+sopPredpisaChng: null

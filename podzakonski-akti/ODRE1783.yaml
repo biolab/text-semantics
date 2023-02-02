@@ -1,0 +1,17 @@
+Text file: ODRE1783.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1008975600000000000
+- null
+- null
+- 10
+idPredpisa: ODRE1783
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o valorizaciji zneskov za odmero davkov \_po zakonu o davkih ob\u010D\
+  anov za leto 2002"
+npbNum: 0
+path: /2001/51/2001-01-5142
+sopPredpisa: 2001-01-5142
+sopPredpisaChng: null

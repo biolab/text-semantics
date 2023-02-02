@@ -1,0 +1,20 @@
+Text file: PRAV10005.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609455600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1609282800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10005
+idPredpisaChng: PRAV10005
+instock: .nan
+naslov: "PRAVILNIK o na\u010Drtih za gospodarjenje z gozdovi in upravljanje z divjadjo\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2020/36/2020-01-3635-2010-01-4838-npb1
+sopPredpisa: 2020-01-3635
+sopPredpisaChng: 2010-01-4838

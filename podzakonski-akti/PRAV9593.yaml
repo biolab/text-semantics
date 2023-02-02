@@ -1,0 +1,17 @@
+Text file: PRAV9593.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1232406000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9593
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o prepovedi uporabe dolo\u010Denih snovi s hormonskim ali tireostatskim\
+  \ delovanjem in beta-agonistov v \u017Eivinoreji"
+npbNum: 0
+path: /2009/01/2009-01-0137
+sopPredpisa: 2009-01-0137
+sopPredpisaChng: null

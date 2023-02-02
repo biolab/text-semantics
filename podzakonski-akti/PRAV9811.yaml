@@ -1,0 +1,16 @@
+Text file: PRAV9811.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1296860400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9811
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o identifikaciji in registraciji pra\u0161i\u010Dev"
+npbNum: 0
+path: /2011/01/2011-01-0105
+sopPredpisa: 2011-01-0105
+sopPredpisaChng: null

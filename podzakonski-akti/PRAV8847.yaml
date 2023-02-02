@@ -1,0 +1,17 @@
+Text file: PRAV8847.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1202252400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8847
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o postopku izdaje in preklica dovoljenja za opravljanje dejavnosti
+  preskrbe s krvjo
+npbNum: 0
+path: /2008/02/2008-01-0219
+sopPredpisa: 2008-01-0219
+sopPredpisaChng: null

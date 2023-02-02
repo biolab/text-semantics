@@ -1,0 +1,17 @@
+Text file: PRAV12552.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1445032800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12552
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o medsebojnem sodelovanju nadzornih organov na podro\u010Dju mikrobonitetnega\
+  \ nadzora"
+npbNum: 0
+path: /2015/30/2015-01-3046
+sopPredpisa: 2015-01-3046
+sopPredpisaChng: null

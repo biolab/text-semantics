@@ -1,0 +1,21 @@
+Text file: PRAV11902.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1419807600000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1417215600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11902
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o veterinarskih pogojih, ki morajo biti izpolnjeni za netrgovske\
+  \ premike hi\u0161nih \u017Eivali, in o modelu potnega lista, ki mora spremljati\
+  \ te \u017Eivali"
+npbNum: 0
+path: /2014/34/2014-01-3454
+sopPredpisa: 2014-01-3454
+sopPredpisaChng: null

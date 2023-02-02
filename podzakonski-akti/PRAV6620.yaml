@@ -1,0 +1,17 @@
+Text file: PRAV6620.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1149285600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV6620
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o posebnem delu strokovnega izpita za dr\u017Eavnega nadzornika\
+  \ za varstvo osebnih podatkov"
+npbNum: 0
+path: /2006/24/2006-01-2424
+sopPredpisa: 2006-01-2424
+sopPredpisaChng: null

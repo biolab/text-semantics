@@ -1,0 +1,17 @@
+Text file: PRAV4876.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1053727200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4876
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o letnih gozdnogospodarskih na\u010Drtih gozdnogospodarske enote\
+  \ Golobi\u010Devec (2003, 2004, 2005)"
+npbNum: 0
+path: /2003/22/2003-01-2299
+sopPredpisa: 2003-01-2299
+sopPredpisaChng: null

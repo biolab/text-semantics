@@ -1,0 +1,17 @@
+Text file: PRAV14523.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1647039600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14523
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dodeljevanju \u0161tipendij za podro\u010Dje vzgoje in izobra\u017E\
+  evanja"
+npbNum: 0
+path: /2022/06/2022-01-0654
+sopPredpisa: 2022-01-0654
+sopPredpisaChng: null

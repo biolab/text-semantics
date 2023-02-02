@@ -1,0 +1,16 @@
+Text file: URED6480.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1396648800000000000
+- null
+- null
+- 10
+idPredpisa: URED6480
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o varstvu pred po\u017Earom v naravnem okolju"
+npbNum: 0
+path: /2014/07/2014-01-0701
+sopPredpisa: 2014-01-0701
+sopPredpisaChng: null

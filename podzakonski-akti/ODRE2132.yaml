@@ -1,0 +1,17 @@
+Text file: ODRE2132.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1334354400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2132
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi standardov, ki so obvezni na podro\u010Dju zasebnega\
+  \ varovanja"
+npbNum: 0
+path: /2012/09/2012-01-0929
+sopPredpisa: 2012-01-0929
+sopPredpisaChng: null

@@ -1,0 +1,16 @@
+Text file: SKLE527.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 708213600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE527
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o dolo\u010Ditvi dneva slovenske policije"
+npbNum: 0
+path: /1992/14/1992-01-1437
+sopPredpisa: 1992-01-1437
+sopPredpisaChng: null

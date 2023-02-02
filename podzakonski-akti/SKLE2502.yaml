@@ -1,0 +1,17 @@
+Text file: SKLE2502.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1001109600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE2502
+idPredpisaChng: null
+instock: .nan
+naslov: "SEZNAM pravnih oseb, ki bodo prenesle ra\u010Dun v ban\u010Dno okolje v obdobju\
+  \ od 24. 9. do 30. 9. 2001"
+npbNum: 0
+path: /2001/39/2001-01-3937
+sopPredpisa: 2001-01-3937
+sopPredpisaChng: null

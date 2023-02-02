@@ -1,0 +1,17 @@
+Text file: PRAV7052.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1127512800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7052
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o prenehanju veljavnosti pravilnika o seznamu in prometu predhodnih
+  sestavin za prepovedane droge
+npbNum: 0
+path: /2005/36/2005-01-3687
+sopPredpisa: 2005-01-3687
+sopPredpisaChng: null

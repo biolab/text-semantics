@@ -1,0 +1,18 @@
+Text file: PRAV10943.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1445551200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10943
+idPredpisaChng: PRAV10943
+instock: .nan
+naslov: "PRAVILNIK o izobrazbi u\u010Diteljev in drugih strokovnih delavcev v izobra\u017E\
+  evalnem programu osnovne \u0161ole (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 4)"
+npbNum: 4
+path: /2015/29/2015-01-2935-2011-01-4943-npb4
+sopPredpisa: 2015-01-2935
+sopPredpisaChng: 2011-01-4943

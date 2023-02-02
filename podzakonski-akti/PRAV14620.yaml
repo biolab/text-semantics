@@ -1,0 +1,18 @@
+Text file: PRAV14620.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1653084000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV14620
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu spremljanja meril za dolo\u010Ditev javne mre\u017E\
+  e in vodenju seznama prostih zmogljivosti pri izvajalcih dolgotrajne oskrbe v institucijah\
+  \ ter na\u010Dinu njihovega poro\u010Danja"
+npbNum: 0
+path: /2022/16/2022-01-1634
+sopPredpisa: 2022-01-1634
+sopPredpisaChng: null

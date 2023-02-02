@@ -1,0 +1,17 @@
+Text file: PRAV12024.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1648249200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12024
+idPredpisaChng: PRAV12024
+instock: .nan
+naslov: "PRAVILNIK o za\u0161\u010Diti podatkov policije (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2022/06/2022-01-0656-2014-01-2816-npb1
+sopPredpisa: 2022-01-0656
+sopPredpisaChng: 2014-01-2816

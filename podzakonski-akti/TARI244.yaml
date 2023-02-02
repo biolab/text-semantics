@@ -1,0 +1,16 @@
+Text file: TARI244.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1651874400000000000
+- null
+- null
+- 10
+idPredpisa: TARI244
+idPredpisaChng: null
+instock: .nan
+naslov: TARIFO o pravnih storitvah
+npbNum: 0
+path: /2022/12/2022-01-1207
+sopPredpisa: 2022-01-1207
+sopPredpisaChng: null

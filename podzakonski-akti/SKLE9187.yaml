@@ -1,0 +1,12 @@
+Text file: SKLE9187.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE9187
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o odprtju Konzulata Republike Slovenije v Casablanci, v Kraljevini Maroko
+npbNum: 0
+path: /2012/22/2012-01-2219
+sopPredpisa: 2012-01-2219
+sopPredpisaChng: null

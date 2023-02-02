@@ -1,0 +1,17 @@
+Text file: ODLO1950.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1543014000000000000
+- null
+- null
+- 10
+idPredpisa: ODLO1950
+idPredpisaChng: null
+instock: .nan
+naslov: "ODLOK o ukrepu odvzema osebkov vrste rjavega medveda (Ursus arctos) iz narave\
+  \ za obdobje do 30.\_septembra 2019"
+npbNum: 0
+path: /2018/35/2018-01-3589
+sopPredpisa: 2018-01-3589
+sopPredpisaChng: null

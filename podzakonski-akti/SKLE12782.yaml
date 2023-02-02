@@ -1,0 +1,16 @@
+Text file: SKLE12782.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1647903600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12782
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o spremembi prodajne cene zlatnikov
+npbNum: 0
+path: /2022/07/2022-01-0781
+sopPredpisa: 2022-01-0781
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV4839.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1099954800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4839
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kanomlja\
+  \ (2003\u20132012)"
+npbNum: 0
+path: /2004/50/2004-01-5009
+sopPredpisa: 2004-01-5009
+sopPredpisaChng: null

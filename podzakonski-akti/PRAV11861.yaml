@@ -1,0 +1,17 @@
+Text file: PRAV11861.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1653084000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11861
+idPredpisaChng: PRAV11861
+instock: .nan
+naslov: "PRAVILNIK o dostavi podatkov za odmero dohodnine (neuradno pre\u010Di\u0161\
+  \u010Deno besedilo \u0161t. 6)"
+npbNum: 6
+path: /2022/13/2022-01-1369-2013-01-3607-npb6
+sopPredpisa: 2022-01-1369
+sopPredpisaChng: 2013-01-3607

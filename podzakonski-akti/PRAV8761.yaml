@@ -1,0 +1,17 @@
+Text file: PRAV8761.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1294441200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8761
+idPredpisaChng: PRAV8761
+instock: .nan
+naslov: "PRAVILNIK o ogla\u0161evanju zdravil (neuradno pre\u010Di\u0161\u010Deno\
+  \ besedilo \u0161t. 1)"
+npbNum: 1
+path: /2010/54/2010-01-5474-2008-01-4487-npb1
+sopPredpisa: 2010-01-5474
+sopPredpisaChng: 2008-01-4487

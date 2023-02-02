@@ -1,0 +1,16 @@
+Text file: ODRE818.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 875224800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE818
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o obrazcih za vpis v zemlji\u0161ko knjigo"
+npbNum: 0
+path: /1997/29/1997-01-2939
+sopPredpisa: 1997-01-2939
+sopPredpisaChng: null

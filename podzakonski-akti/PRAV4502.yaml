@@ -1,0 +1,17 @@
+Text file: PRAV4502.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083276000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4502
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o oceni tveganja za delo z gensko spremenjenimi organizmi v zaprtem
+  sistemu
+npbNum: 0
+path: /2004/21/2004-01-2168
+sopPredpisa: 2004-01-2168
+sopPredpisaChng: null

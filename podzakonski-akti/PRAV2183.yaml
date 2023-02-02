@@ -1,0 +1,20 @@
+Text file: PRAV2183.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 930780000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 944262000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2183
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o stopnjah normalnega odpisa materiala in izdelkov v gozdarstvu
+  (kalo, razsip, okvara)
+npbNum: 0
+path: /1999/45/1999-01-4586
+sopPredpisa: 1999-01-4586
+sopPredpisaChng: null

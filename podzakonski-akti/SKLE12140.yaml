@@ -1,0 +1,12 @@
+Text file: SKLE12140.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12140
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o imenovanju dveh \u010Dlanov Dr\u017Eavne revizijske komisije"
+npbNum: 0
+path: /2020/14/2020-01-1446
+sopPredpisa: 2020-01-1446
+sopPredpisaChng: null

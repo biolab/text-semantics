@@ -1,0 +1,17 @@
+Text file: PRAV7255.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1634940000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7255
+idPredpisaChng: PRAV7255
+instock: .nan
+naslov: "PRAVILNIK o organizaciji in na\u010Dinu verske duhovne oskrbe v policiji\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2021/30/2021-01-3099-2007-01-3930-npb1
+sopPredpisa: 2021-01-3099
+sopPredpisaChng: 2007-01-3930

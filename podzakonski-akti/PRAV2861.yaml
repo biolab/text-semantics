@@ -1,0 +1,17 @@
+Text file: PRAV2861.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1090015200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2861
+idPredpisaChng: PRAV2861
+instock: .nan
+naslov: "PRAVILNIK o pogojih za zaveti\u0161\u010Da za zapu\u0161\u010Dene \u017E\
+  ivali (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2004/34/2004-01-3459-2000-01-2089-npb1
+sopPredpisa: 2004-01-3459
+sopPredpisaChng: 2000-01-2089

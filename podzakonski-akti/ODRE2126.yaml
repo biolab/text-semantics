@@ -1,0 +1,17 @@
+Text file: ODRE2126.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1321052400000000000
+- null
+- null
+- 10
+idPredpisa: ODRE2126
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO o dolo\u010Ditvi prodajne vrednosti za eno tono \u0161koljk za leto\
+  \ 2012"
+npbNum: 0
+path: /2011/36/2011-01-3652
+sopPredpisa: 2011-01-3652
+sopPredpisaChng: null

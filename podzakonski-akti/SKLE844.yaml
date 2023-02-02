@@ -1,0 +1,16 @@
+Text file: SKLE844.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 732495600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE844
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o izro\u010Ditvi bankovca za 50 tolarjev v obtok"
+npbNum: 0
+path: /1993/06/1993-01-0642
+sopPredpisa: 1993-01-0642
+sopPredpisaChng: null

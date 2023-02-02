@@ -1,0 +1,17 @@
+Text file: PRAV13236.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1522792800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13236
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o pogojih, ki jih mora izpolnjevati nosilec javnega pooblastila
+  za opravljanje nalog spremljanja emisij in odvzemov toplogrednih plinov v kmetijstvu
+npbNum: 0
+path: /2018/08/2018-01-0802
+sopPredpisa: 2018-01-0802
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV8820.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1631916000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8820
+idPredpisaChng: PRAV8820
+instock: .nan
+naslov: "PRAVILNIK o napredovanju zaposlenih v javnih zavodih s podro\u010Dja raziskovalne\
+  \ in razvojne dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+npbNum: 4
+path: /2021/28/2021-01-2888-2008-01-3726-npb4
+sopPredpisa: 2021-01-2888
+sopPredpisaChng: 2008-01-3726

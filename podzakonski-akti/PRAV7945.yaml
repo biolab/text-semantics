@@ -1,0 +1,17 @@
+Text file: PRAV7945.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1189807200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV7945
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o vsebini vloge za pridobitev vodnega dovoljenja in o vsebini vloge
+  za pridobitev dovoljenja za raziskavo podzemnih voda
+npbNum: 0
+path: /2007/41/2007-01-4100
+sopPredpisa: 2007-01-4100
+sopPredpisaChng: null

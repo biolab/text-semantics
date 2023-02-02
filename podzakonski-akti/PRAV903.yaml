@@ -1,0 +1,17 @@
+Text file: PRAV903.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 818463600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV903
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja registra naprav certificiranih\
+  \ tipov, ki so uspe\u0161no oziroma neuspe\u0161no prestale redni pregled"
+npbNum: 0
+path: /1995/31/1995-01-3129
+sopPredpisa: 1995-01-3129
+sopPredpisaChng: null

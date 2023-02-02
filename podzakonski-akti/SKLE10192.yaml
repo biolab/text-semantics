@@ -1,0 +1,12 @@
+Text file: SKLE10192.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE10192
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v\_Diestu, v Kraljevini Belgiji"
+npbNum: 0
+path: /2015/33/2015-01-3308
+sopPredpisa: 2015-01-3308
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV12461.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1433800800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12461
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o dolo\u010Ditvi Programa cepljenja in za\u0161\u010Dite z zdravili\
+  \ za leto 2015"
+npbNum: 0
+path: /2015/16/2015-01-1680
+sopPredpisa: 2015-01-1680
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: URED5326.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1621461600000000000
+- null
+- null
+- 10
+idPredpisa: URED5326
+idPredpisaChng: URED5326
+instock: .nan
+naslov: "UREDBA o varnosti igra\u010D (neuradno pre\u010Di\u0161\u010Deno besedilo\
+  \ \u0161t. 6)"
+npbNum: 6
+path: /2021/16/2021-01-1672-2011-01-1738-npb6
+sopPredpisa: 2021-01-1672
+sopPredpisaChng: 2011-01-1738

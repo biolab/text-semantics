@@ -1,0 +1,20 @@
+Text file: PRAV12745.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1527804000000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1526076000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12745
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o strokovnih izpitih na podro\u010Dju varstva kulturne dedi\u0161\
+  \u010Dine"
+npbNum: 0
+path: /2018/14/2018-01-1462
+sopPredpisa: 2018-01-1462
+sopPredpisaChng: null

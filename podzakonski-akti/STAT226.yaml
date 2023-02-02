@@ -1,0 +1,16 @@
+Text file: STAT226.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1461189600000000000
+- null
+- null
+- 10
+idPredpisa: STAT226
+idPredpisaChng: null
+instock: .nan
+naslov: "STATUT Osnovnega zdravstva Gorenjske (pre\u010Di\u0161\u010Deno besedilo)"
+npbNum: 0
+path: /2016/26/2016-01-2696
+sopPredpisa: 2016-01-2696
+sopPredpisaChng: null

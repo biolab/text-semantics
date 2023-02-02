@@ -1,0 +1,17 @@
+Text file: SKLE12095.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1594245600000000000
+- null
+- null
+- 10
+idPredpisa: SKLE12095
+idPredpisaChng: null
+instock: .nan
+naslov: "SKLEP o potrdilu o stanju na osebnem ra\u010Dunu zavarovanca-\u010Dlana SODPZ\
+  \ in potrdilu o vpla\u010Dilih, ki jih je financiral zavezanec"
+npbNum: 0
+path: /2020/15/2020-01-1501
+sopPredpisa: 2020-01-1501
+sopPredpisaChng: null

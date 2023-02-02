@@ -1,0 +1,17 @@
+Text file: PRAV12842.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1459548000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12842
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o delnem prenehanju uporabe Pravilnika o\_omejitvah uporabe dr\u017E\
+  avnih cest, katerih trajanje je dalj\u0161e od enega leta"
+npbNum: 0
+path: /2016/09/2016-01-0921
+sopPredpisa: 2016-01-0921
+sopPredpisaChng: null

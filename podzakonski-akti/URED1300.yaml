@@ -1,0 +1,17 @@
+Text file: URED1300.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 961538400000000000
+- null
+- null
+- 10
+idPredpisa: URED1300
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o prenehanju veljavnosti uredbe o prenehanju veljavnosti uredb o preoblikovanju\
+  \ javnih podjetij za proizvodnjo elektri\u010Dne energije"
+npbNum: 0
+path: /2000/25/2000-01-2555
+sopPredpisa: 2000-01-2555
+sopPredpisaChng: null

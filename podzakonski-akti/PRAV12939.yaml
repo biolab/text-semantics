@@ -1,0 +1,16 @@
+Text file: PRAV12939.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1479510000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV12939
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o izdajanju certifikatov z evropsko ravnjo znanja tujega jezika
+npbNum: 0
+path: /2016/31/2016-01-3122
+sopPredpisa: 2016-01-3122
+sopPredpisaChng: null

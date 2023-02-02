@@ -1,0 +1,756 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) Ta pravilnik ureja: 
+-       
+vrste izvršb, v katerih se predlogi za izvršbo in druge vloge pošiljajo
+na predpisanih obrazcih, ter vsebino teh obrazcev, 
+-       
+vrste izvršb, v katerih se predlogi za izvršbo in druge vloge vlagajo po
+elektronski poti, 
+-       
+vrste izvršb, v katerih se predlogi za izvršbo in druge vloge obdelujejo
+v informacijskem sistemu avtomatizirano in potek tega postopka, 
+-       
+podrobnejša pravila o pošiljanju obvestil organizacij za plačilni promet
+sodiščem v elektronski obliki iz 141. člena Zakona o izvršbi in zavarovanju (Uradni
+list RS, št. 3/07 – uradno prečiščeno besedilo, 93/07, 37/08 – ZST-1, 45/08 –
+ZArbit, 28/09, 51/10, 26/11, 17/13 – odl. US, 45/14 – odl. US, 53/14, 58/14 –
+odl. US, 54/15, 76/15 – odl. US, 11/18, 53/19 – odl. US, 66/19 – ZDavP-2M in
+23/20 – SPZ-B; v nadaljnjem besedilu: zakon). 
+(2) Ta pravilnik vsebuje tudi seznam vlog in drugih pisanj,
+ki se lahko pošiljajo po elektronski poti, ali seznam strank, ki lahko
+pošiljajo vloge in druga pisanja po elektronski poti, podpisane na načine, ki
+jih določa četrti odstavek 29. člena zakona in način identifikacije strank v
+teh primerih.
+2. člen
+(uporaba pravil elektronskega poslovanja v civilnih sodnih
+postopkih)
+Za elektronsko poslovanje v postopku izvršbe in zavarovanja
+se za vprašanja, ki niso posebej urejena s tem pravilnikom, uporabljajo določbe
+pravilnika, ki ureja elektronsko poslovanje v civilnih sodnih postopkih.
+3. člen
+(pomen izrazov)
+(1) Informacijski sistem za podporo poslovanja v postopkih
+izvršbe in zavarovanja (v nadaljnjem besedilu: informacijski sistem e-Izvršba)
+je programska oprema, ki jo upravlja Center za informatiko na Vrhovnem sodišču
+Republike Slovenije (v nadaljnjem besedilu: CIF), in ki vključuje naslednje
+module za informacijsko podporo: 
+-       
+vlaganje elektronskih predlogov, vlog in drugih pisanj, 
+-       
+vodenje elektronskih vpisnikov v postopkih izvršbe in zavarovanja (v
+nadaljnjem besedilu: e-Izvršba-vpisnik), 
+-       
+poizvedbe o postopkih izvršbe in zavarovanja. 
+(2) Informacijski sistem e-Izvršba je del informacijskega
+sistema e-sodstvo. 
+(3) Podportal e-Izvršba je del portala e-sodstvo, prek
+katerega uporabniki dostopajo do izvajanja e-opravil v e-Izvršba-postopkih (v
+nadaljnjem besedilu: e-Izvršba-opravila). 
+(4) Elektronski postopek izvršbe in zavarovanja (v nadaljnjem
+besedilu: e-Izvršba-postopek) je vrsta e-postopka za področje, ki ga ureja
+zakon. 
+(5) Elektronski predlog je predlog za izvršbo in zavarovanje
+vložen elektronsko v skladu s četrtim odstavkom 29. člena zakona. 
+(6) Elektronska vloga in drugo pisanje je vloga, ki je
+vložena elektronsko v postopku izvršbe in zavarovanja v skladu s četrtim
+odstavkom 29. člena zakona. 
+(7) Elektronsko obvestilo je obvestilo, ki ga organizacija za
+plačilni promet pošlje sodišču skladno s prvim stavkom desetega odstavka 141.
+člena zakona. 
+(8) Elektronska vloga je skupni pojem za elektronski predlog,
+elektronsko vlogo, drugo elektronsko pisanje in elektronsko obvestilo
+organizacije za plačilni promet. 
+(9) Elektronska priloga je v elektronsko obliko pretvorjena
+pisna listina, ki se priloži k elektronski vlogi skladno z desetim odstavkom
+29. člena zakona.
+4. člen
+(vrste izvršb, v katerih se predlogi za izvršbo in druge
+vloge pošiljajo na predpisanih obrazcih)
+Na obrazcih, predpisanih s tem pravilnikom, se pošiljajo
+predlogi za izvršbo za izterjavo denarne terjatve na podlagi verodostojne
+listine, razen predlogov za izvršbo na podlagi priložene menice (41.a člen
+zakona), predlogi za nasprotno izvršbo pa v primeru nasprotne izvršbe zaradi vrnitve
+denarne terjatve.
+4.a člen
+(vrste izvršb, v katerih se predlogi za izvršbo in druge
+vloge lahko vlagajo po elektronski poti)
+Predlogi za izvršbo in druge vloge se lahko vlagajo po
+elektronski poti v vseh postopkih izvršbe in zavarovanja, za katere je
+pristojno okrajno sodišče, če o zavarovanju ne odloča v okviru pravdnega ali
+drugega sodnega postopka.
+5. člen
+(vrste izvršb, v katerih se predlogi za izvršbo obdelujejo v
+informacijskem sistemu avtomatizirano)
+Po postopku, določenem s tem pravilnikom, se v informacijskem
+sistemu avtomatizirano obdelujejo predlogi za izvršbo za izterjavo denarne
+terjatve na podlagi verodostojne listine, razen predlogov za izvršbo na podlagi
+priložene menice (41.a člen zakona).
+II. ELEKTRONSKA OPRAVILA V E-IZVRŠBA-POSTOPKU
+6. člen
+(izvajanje e-Izvršba-opravil)
+(1) Uporabniki informacijskega sistema e-sodstvo, kot jih
+določa predpis iz 2. člena tega pravilnika, lahko v e-Izvršba-postopku
+opravljajo e-opravila v skladu s tem členom. 
+(2) Navadni uporabniki lahko: 
+-       
+natisnejo obrazce predlogov za izvršbo na podlagi verodostojne listine:
+Predlog za dovolitev izvršbe na podlagi verodostojne listine (v nadaljnjem
+besedilu: COVL-1), Prilogo k predlogu za dovolitev izvršbe na podlagi
+verodostojne listine – več upnikov (v nadaljnjem besedilu: COVL-2), Prilogo k
+predlogu za dovolitev izvršbe na podlagi verodostojne listine – več dolžnikov
+(v nadaljnjem besedilu: COVL-3), Prilogo k predlogu za dovolitev izvršbe na
+podlagi verodostojne listine – več verodostojnih listin (v nadaljnjem besedilu:
+COVL-4) in Predlog za nasprotno izvršbo (v nadaljnjem besedilu: NCOVL-1). 
+(3) Registrirani uporabniki lahko: 
+-       
+iz skupine e-Izvršba-opravil »Predlogi« vložijo predlog za izvršbo na
+podlagi verodostojne listine in dopolnitev predloga za izvršbo na podlagi
+verodostojne listine,
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem so vložili predlog za izvršbo,
+-       
+od vložitve elektronskega predloga za izvršbo na podlagi verodostojne
+listine opravijo pregled seznama izvedenih procesnih dejanj v postopku, 
+-       
+natisnejo obrazce predlogov za izvršbo na podlagi verodostojne listine
+COVL-1, COVL-2, COVL-3, COVL-4 in NCOVL-1. 
+(4) Notranji kvalificirani uporabniki lahko v
+e-Izvršba-postopku opravljajo posamezna e-Izvršba opravila, in sicer: 
+-       
+iz skupine e-Izvršba-opravil »Predlogi« vložijo predlog za izvršbo po
+uradni dolžnosti in predlog za zavarovanje po uradni dolžnosti, 
+-       
+iz skupine e-Izvršba-opravil »Vloge in druga pisanja« vložijo predlog za
+odlog izvršbe, umik, delni umik predloga izvršbo ali zavarovanje in vlogo, 
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem so vložili predlog za izvršbo, 
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so
+vložili elektronsko vlogo. 
+(5) Samostojni zunanji kvalificirani uporabniki,
+profesionalni uporabniki iz skupin notarji, odvetniki, upravitelji, Državno
+odvetništvo Republike Slovenije, občinska odvetništva lahko v
+e-Izvršba-postopku opravljajo posamezna e-Izvršba-opravila, in sicer: 
+-       
+iz skupine e-Izvršba-opravil »Predlogi« lahko vložijo: predlog za
+izvršbo na podlagi verodostojne listine, predlog za izvršbo na podlagi
+izvršilnega naslova, predlog za zavarovanje, predlog za nasprotno izvršbo,
+predlog za nasprotno izvršbo na podlagi ugodilnega sklepa o nasprotni izvršbi,
+predlog za dodatno sredstvo izvršbe ter dopolnitev predloga za izvršbo na
+podlagi verodostojne listine, dopolnitev predloga za izvršbo na podlagi
+izvršilnega naslova in dopolnitev predloga za zavarovanje, 
+-       
+iz skupine e-Izvršba-opravila »Vloge in druga pisanja« lahko vložijo:
+ugovor zoper sklep o izvršbi, ugovor zoper sklep o zavarovanju, pritožbo,
+predlog za vrnitev v prejšnje stanje, predlog za obnovo postopka, odgovor na
+pravno sredstvo, predlog za revizijo, predlog za odlog izvršbe, umik, delni
+umik, vlogo, poročilo ter zahtevo za odpravo nepravilnosti pri opravljanju
+izvršbe, 
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem zastopajo stranko, 
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so kot
+zastopniki strank vložili elektronsko vlogo. 
+(6) Samostojni zunanji kvalificirani uporabniki,
+profesionalni uporabniki iz skupine izvršiteljev lahko v e-Izvršba-postopku
+opravljajo posamezna e-Izvršba-opravila, in sicer: 
+-       
+iz skupine e-Izvršba-opravil »Vloge in druga pisanja« lahko vložijo vse
+vloge iz podskupine e-Izvršba-opravil Izvršitelj, kot tudi vlogo in poročilo,
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem so vložili elektronsko vlogo,
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so
+vložili elektronsko vlogo.
+(7) Samostojni zunanji kvalificirani uporabniki,
+profesionalni uporabniki iz skupine državnih tožilstev, lahko v
+e-Izvršba-postopku opravljajo posamezna e-Izvršba-opravila, in sicer: 
+-       
+iz skupine e-Izvršba-opravil »Vloge in druga pisanja« vložijo zahtevo za
+varstvo zakonitosti in vlogo, 
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem so vložili zahtevo za varstvo zakonitosti, 
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so
+vložili elektronsko vlogo. 
+(8) Samostojni zunanji kvalificirani uporabniki, uporabniki –
+stranke ali udeleženci postopka in samostojni zunanji kvalificirani uporabniki,
+profesionalni uporabniki iz skupine nepremičninske družbe lahko v
+e-Izvršba-postopku opravljajo vsa e-opravila iz prve in druge alineje petega
+odstavka tega člena, kot tudi naslednja e-opravila: 
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem imajo položaj stranke, 
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so
+vložili elektronsko vlogo, 
+-       
+natisnejo obrazce predlogov za izvršbo na podlagi verodostojne listine
+COVL -1, COVL-2, COVL-3, COVL-4, in NCOVL-1. 
+(9) Samostojni zunanji kvalificirani uporabniki,
+profesionalni uporabniki iz skupine sodni izvedenci, sodni tolmači in sodni
+cenilci lahko v e-Izvršba-postopku opravljajo posamezna e-Izvršba-opravila, in
+sicer:
+-       
+lahko iz skupine e-Izvršba-opravila »Vloge in druga pisanja«, podskupina
+Druga vloga vložijo vlogo,
+-       
+pregledajo svoja elektronska pisanja v posameznem e-Izvršba-postopku, v
+katerem so vložili elektronsko vlogo,
+-       
+opravijo pregled izvedenih procesnih dejanj v postopku, v katerem so
+vložili elektronsko vlogo.
+(10) Pooblaščenec samostojnega uporabnika lahko v
+e-Izvršba-postopku opravlja samo tista e-opravila, ki jih lahko po prejšnjih
+odstavkih tega člena glede na posamezno skupino opravlja samostojni zunanji
+kvalificirani uporabnik.
+(11) V zadevah, v katerih organizacije za plačilni promet nastopajo
+kot izvrševalci sklepov o izvršbi, lahko kot samostojni zunanji kvalificirani
+uporabniki, uporabniki – stranke ali udeleženci postopka v e-Izvršba-postopku
+opravijo le naslednji e-opravili iz skupine »Vloge in druga pisanja«, in sicer
+posredujejo sodišču obvestilo organizacije za plačilni promet o nerealiziranem
+sklepu o izvršbi po 141. členu zakona ter vložijo vlogo. Enako velja v teh
+zadevah za pooblaščence samostojnih uporabnikov organizacij za plačilni promet.
+(12) Informacijski sistem e-sodstvo mora omogočiti izvajanje
+e-Izvršba-opravil vsak delavnik od 8.00 do 20.00 ure.
+7. člen
+(uporaba pravil o e-opravilih za e-Izvršba-opravila)
+Za e-Izvršba-opravila se smiselno uporabljajo pravila
+predpisa iz 2. člena tega pravilnika, če ni v tem pravilniku drugače določeno.
+8. člen
+(vrste elektronskih predlogov, vlog in drugih pisanj)
+Za vložitev elektronskega predloga, elektronske vloge in
+drugih pisanj se glede na vrsto postopka, ki je predmet predloga ali druge
+elektronske vloge in drugega pisanja, uporabijo e-Izvršba-opravila na
+podportalu e-Izvršba z oznakami, navedenimi v Preglednici e-Izvršba-opravila –
+elektronski predlogi, vloge in druga pisanja, ki je kot Priloga 5 sestavni del
+tega pravilnika in je objavljena skupaj z njim.
+9. člen
+(način sestave elektronskega predloga, elektronske vloge in
+drugega pisanja – elektronske vloge)
+(1) Uporabnik sestavi elektronski predlog, vlogo, drugo
+pisanje (v nadaljnjem besedilu: elektronska vloga) tako, da na podportalu
+e-Izvršba izbere ustrezen postopek za vložitev elektronske vloge in z uporabo
+ustreznih funkcionalnosti modula e-Izvršba-opravila v zaslonski obrazec vnese
+podatke, ki jih mora vsebovati elektronska vloga (standardizirani del besedila
+elektronske vloge). 
+(2) Če elektronska vloga po zakonu ali po presoji
+predlagatelja vsebuje tudi obrazložitev, uporabnik besedilo obrazložitve
+oblikuje kot poseben elektronski dokument (nestandardiziran del besedila
+elektronske vloge), ki ustreza zahtevam iz 24. člena predpisa iz 2. člena tega
+pravilnika, in elektronski dokument priloži e-Izvršba-opravilu z uporabo
+ustrezne funkcionalnosti modula e-Izvršba-opravila in ga podpiše s svojim
+varnim elektronskim podpisom. 
+(3) Prejšnji odstavek se smiselno uporablja tudi za
+elektronske priloge, ki se priložijo k elektronski vlogi.
+(4) Ne glede na 2. člen tega pravilnika, v e-Izvršba-postopku
+uporabnikom ni zagotovljena elektronska vložitev elektronske vloge prek
+odložišča e-sodstvo.
+10. člen
+(vložitev elektronske vloge)
+(1) Uporabnik lahko vloži elektronsko vlogo tako, da izbere
+ustrezno funkcionalnost modula e-Izvršba-opravila za oddajo elektronske vloge v
+informacijski sistem e-Izvršba. 
+(2) Informacijski sistem e-Izvršba mora v trenutku, ko oddani
+elektronski predlog ali vlogo ali drugo pisanje sprejme strežnik, na katerem teče
+modul e-Izvršba-vpisnik, zagotoviti: 
+-       
+da se elektronska vloga opremi s časovnim žigom časa prejema elektronske
+vloge, 
+-       
+da se uporabniku na podportalu e-Izvršba prikaže obvestilo o času prejema
+elektronske vloge, 
+-       
+da se vpiše nova izvršilna zadeva v e-Izvršba-vpisnik na podlagi
+elektronskega predloga ali se elektronska vloga doda na zadevo.
+10.a člen
+(oprostitev plačila sodne takse po zakonu)
+Upnik, ki je po zakonu oproščen plačila sodne takse, se mora
+vpisati na seznam oseb, ki so po zakonu oproščene plačila sodne takse, ki ga na
+podlagi matičnih številk vodi Centralni oddelek za verodostojno listino pri
+Okrajnem sodišču v Ljubljani (v nadaljnjem besedilu: CoVL). Razen v primerih iz
+21. in 23. člena tega pravilnika informacijski sistem na podlagi matične
+številke upnika, navedene v predlogu za izvršbo, avtomatično zaznamuje
+oprostitev v elektronskem spisu.
+III. ELEKTRONSKO POSLOVANJE SODIŠČ V E-IZVRŠBA-POSTOPKIH
+11. člen
+(vodenje e-spisa)
+V e-Izvršba-postopkih se spis vodi v elektronski obliki.
+IV. VSEBINA IN OBLIKA OBRAZCEV PREDLOGA ZA IZVRŠBO
+12. člen
+(vsebina in oblika obrazca predloga za dovolitev izvršbe na
+podlagi verodostojne listine)
+(1) Upnik vloži predlog za dovolitev izvršbe na podlagi
+verodostojne listine (v nadaljnjem besedilu: predlog za izvršbo) v papirni
+obliki na obrazcu, ki je kot Priloga 1 sestavni del tega pravilnika in je
+objavljena skupaj z njim ali v elektronski obliki. 
+(2) Obrazec iz Priloge 1 tega pravilnika se izpolni v skladu
+z Navodilom za izpolnjevanje obrazca za predlog za izvršbo, predlog za izvršbo
+v elektronski obliki pa ser izpolni skladno z uporabniškimi navodili za
+vlaganje elektronskih vlog, objavljenimi na portalu e-sodstvo. Navodilo za
+izpolnjevanje obrazca za predlog za izvršbo je kot Priloga 7 sestavni del tega
+pravilnika in je objavljena skupaj z njim. 
+(3) Natančnejšo obliko obrazca za vložitev predloga za
+izvršbo v papirni obliki in predloga za izvršbo v elektronski obliki določi
+Vrhovno sodišče Republike Slovenije.
+13. člen
+(vsebina in oblika obrazca prilog k predlogu za izvršbo)
+(1) Več upnikov, ki uveljavlja isto denarno terjatev proti
+istemu dolžniku, priloži predlogu za izvršbo tudi prilogo k predlogu za izvršbo
+na obrazcu, ki je kot Priloga 2 sestavni del tega pravilnika in je objavljena
+skupaj z njim. 
+(2) Upnik, ki uveljavlja isto denarno terjatev proti več
+dolžnikom, priloži predlogu za izvršbo tudi prilogo k predlogu za izvršbo na
+obrazcu, ki je kot Priloga 3 sestavni del tega pravilnika in je objavljena
+skupaj z njim. 
+(3) Upnik, ki vloži predlog za izvršbo na podlagi več
+verodostojnih listin, priloži predlogu za izvršbo tudi prilogo k predlogu za
+izvršbo na obrazcu, ki je kot Priloga 4 sestavni del tega pravilnika in je
+objavljena skupaj z njim. 
+(4) Obrazci iz prvega do tretjega odstavka tega člena se uporabljajo
+le pri vložitvi predloga za izvršbo v papirni obliki. Pri vložitvi predloga za
+izvršbo v elektronski obliki je vsebina prilog iz tega člena smiselno zajeta v
+obrazcu. Obrazci iz prvega do tretjega odstavka tega člena se izpolnijo skladno
+z navodilom za izpolnjevanje in uporabniškimi navodili za vlaganje elektronskih
+vlog iz drugega odstavka prejšnjega člena. 
+(5) Izpolnjeni obrazci iz prvega do tretjega odstavka tega
+člena so sestavni del predloga za izvršbo. 
+(6) Natančnejšo obliko obrazcev iz prvega do tretjega
+odstavka tega člena določi Vrhovno sodišče Republike Slovenije.
+14. člen
+(vsebina in oblika drugih prilog k predlogu za izvršbo)
+(1) Upnik, ki v predlogu za izvršbo v papirni obliki
+predlaga: 
+-       
+več dolžnikovih dolžnikov, 
+-       
+več kot šest računov, 
+-       
+dolžnikovo terjatev, ki je zavarovana z zastavno pravico v zemljiški
+knjigi, 
+-       
+nepremičnino, 
+-       
+stavbno pravico, 
+-       
+več nepremičnin, 
+-       
+več nepremičnin, ki niso vpisane v zemljiški knjigi, 
+-       
+več stavbnih pravic, 
+-       
+več družb, 
+-       
+več kot dve vrsti nematerializiranih vrednostnih papirjev, priloži
+predlogu za izvršbo za vsako posamezno alinejo tudi prilogo k predlogu za
+izvršbo na posebnem belem listu, formata A4. Pri vložitvi predloga za izvršbo v
+elektronski obliki je vsebina prilog iz tega člena smiselno zajeta v obrazcu. 
+(2) Upnik v prilogi iz prejšnjega odstavka navede naslednje
+podatke: 
+-       
+oznako priloge, kot je določena v predlogu za izvršbo, 
+-       
+ime in priimek oziroma naziv dolžnika, na katerega se priloga nanaša, 
+-       
+podatke, ki so za posamezno alinejo iz prejšnjega odstavka določeni v
+predlogu za izvršbo, v prilogi iz prve alineje prejšnjega odstavka pa še
+sredstvo izvršbe, na katero se priloga nanaša. 
+(3) Če želi upnik v predlogu za izvršbo kot identifikacijski
+podatek o upniku ali dolžniku namesto davčne številke, EMŠO ali datuma rojstva
+navesti drug isti povezovalni znak ali drug ustrezen identifikacijski podatek,
+lahko vloži predlog za izvršbo le v papirni obliki tako, da predlogu za izvršbo
+priloži prilogo na posebnem belem listu, formata A4, na katerem navede ta
+podatek ter ime in priimek oziroma naziv dolžnika, na katerega se priloga
+nanaša.
+(4) Če želi upnik v predlogu za izvršbo pri upniku kot tip
+upnika namesto pravne osebe, s.p. ali fizične osebe navesti tip upnika drugo,
+predlogu za izvršbo priloži prilogo na posebnem belem listu, formata A4, na
+katerem navede ta podatek ter naziv, davčno ali matično številko ter naslov
+upnika.
+(5) Če želi upnik v predlogu za izvršbo pri zakonitem zastopniku
+kot položaj zakonitega zastopnika namesto poslovodja, oče, mati, skrbnik ali
+drugo, navesti Državno odvetništvo Republike Slovenije, občinsko odvetništvo,
+državno tožilstvo, upravnik večstanovanjske stavbe, ali stečajni upravitelj,
+pri čemer je pri stečajnem upravitelju tip zastopnika pravna oseba, s.p. ali
+drugo, predlogu za izvršbo priloži prilogo na posebnem belem listu, formata A4,
+na katerem navede ta podatek ter naziv, davčno ali matično številko in naslov
+zakonitega zastopnika, pri stečajnem upravitelju pa tudi tip zastopnika. Če
+želi upnik v predlogu za izvršbo pri zakonitem zastopniku kot položaj
+zakonitega zastopnika navesti stečajni upravitelj – tip zastopnika fizična
+oseba, predlogu za izvršbo priloži prilogo na posebnem belem listu, formata A4,
+na katerem navede ta podatek, tip zastopnika fizična oseba, osebno ime, naslov
+prebivališča, datum rojstva ali EMŠO ali davčno številko ali drug isti
+povezovalni znak ali drug ustrezen identifikacijski podatek zakonitega
+zastopnika.
+(6) Če želi upnik v
+predlogu za izvršbo pri pooblaščencu kot tip pooblaščenca namesto odvetnik,
+fizična oseba, pravna oseba ali s.p. navesti tip pooblaščenca drugo, predlogu
+za izvršbo priloži prilogo na posebnem belem listu, formata A4, na katerem
+navede ta podatek ter naziv, davčno ali matično številko ter naslov
+pooblaščenca.
+(7) Če želi upnik v
+predlogu za izvršbo pri dolžniku kot tip dolžnika namesto fizične osebe, pravne
+osebe ali s.p. navesti tip dolžnika drugo, predlogu za izvršbo priloži prilogo
+na posebnem belem listu, formata A4, na katerem navede ta podatek ter naziv,
+davčno ali matično številko ter naslov dolžnika.
+(8) Če želi upnik v
+predlogu za izvršbo pri sredstvu izvršbe plača in drugi stalni prejemki ter pri
+sredstvu izvršbe druge denarne terjatve kot tip dolžnikovega dolžnika namesto
+fizične osebe, pravne osebe ali s.p. navesti tip dolžnikovega dolžnika drugo,
+predlogu za izvršbo priloži prilogo na posebnem belem listu, formata A4, na
+katerem navede ta podatek ter naziv, davčno ali matično številko ter naslov
+dolžnikovega dolžnika.
+(9) Če sta stranki glede terjatve, zaradi katere zahteva
+upnik izvršbo na podlagi verodostojne listine, sklenili arbitražni sporazum in
+želi upnik predlagati, da se v primeru dolžnikovega ugovora sodni postopek
+ustavi, sodišče izreče za nepristojno, razveljavi v postopku opravljena dejanja
+in zavrže predlog za izvršbo (osmi odstavek 41. člena zakona), predlogu za
+izvršbo priloži prilogo na posebnem belem listu, formata A4, na katerem navede
+ta podatek in podatke o listini, ki vsebuje sporazum.
+(10) Če upnik predlaga izvršbo na nematerializirane
+vrednostne papirje, priloži predlogu za izvršbo na posebnem belem listu formata
+A4 z navedbo udeleženca trga vrednostnih papirjev, pooblaščenega za prodajo in
+unovčenje pravic iz nematerializiranih vrednostnih papirjev, ki so predmet
+izvršbe (drugi odstavek 44.b člena zakona).
+15. člen
+(dostopnost obrazcev)
+Na spletni strani Vrhovnega sodišča Republike Slovenije
+(www.sodisce.si) in na portalu e-sodstvo so dostopni obrazci, ki jih določata
+12. in 13. člen tega pravilnika, in Priloga 5.
+V. VSEBINA IN OBLIKA OBRAZCA PREDLOGA ZA NASPROTNO IZVRŠBO
+16. člen
+(vsebina in oblika obrazca predloga za nasprotno izvršbo v
+postopku izvršbe na podlagi verodostojne listine)
+(1) Dolžnik lahko vloži predlog za nasprotno izvršbo na
+obrazcu, ki je kot Priloga 6 sestavni del tega pravilnika in je objavljena
+skupaj z njim. 
+(2) Obrazec se izpolni v skladu z navodilom za izpolnjevanje,
+ki je kot Priloga 8 sestavni del tega pravilnika in je objavljen skupaj z njim.
+(3) Natančnejšo obliko obrazca za vložitev predloga za
+nasprotno izvršbo določi Vrhovno sodišče Republike Slovenije.
+VI. POTEK AVTOMATIZIRANEGA IZVRŠILNEGA POSTOPKA
+17. člen
+(splošno o poteku postopka)
+V informacijskem sistemu se avtomatizirano obdelujejo
+predlogi za izvršbo iz 5. člena tega pravilnika, ki so vloženi: 
+-       
+v papirni obliki, 
+-       
+po elektronski poti prek portala e-sodstvo, 
+-       
+po elektronski poti prek spletnega servisa na portalu e-sodstvo.
+18. člen
+(potek postopka pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem v papirni obliki)
+(1) Predlog za izvršbo se v papirni obliki lahko vloži na
+obrazcu iz prvega odstavka 12. člena tega pravilnika. 
+(2) Ker je na vsakem obrazcu iz prvega odstavka 12. člena
+tega pravilnika vnaprej natisnjena enolična sklicna številka (referenca), ki jo
+mora upnik navesti pri plačilu sodne takse zaradi njenega preverjanja, se kot
+obrazec predloga za izvršbo ne sme uporabiti kopija obrazca, ki je kot Priloga
+1 sestavni del tega pravilnika, ker ne vsebuje vnaprej natisnjene sklicne
+številke (reference). 
+(3) Osebe, ki želijo izdati obrazce iz prvega odstavka 12.
+člena, prvega do tretjega odstavka 13. člena in prvega odstavka 16. člena tega
+pravilnika, morajo pred začetkom izdajanja pri CIF pridobiti potrebno število
+sklicnih številk (referenc), ki jih natisnejo na izdane obrazce. 
+(4) Na obrazcu iz prvega odstavka 12. člena tega pravilnika,
+ki je dostopen na spletni strani iz 15. člena tega pravilnika, se sklicna
+številka (referenca) dodeli samodejno. 
+(5) Prejeti predlog za izvršbo se na CoVL skenira skupaj z
+vsemi prilogami. S tem se ustvari elektronski spis.
+19. člen
+(plačilo sodne takse pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem v papirni obliki)
+(1) Sodna taksa se lahko plača z elektronskim denarjem ali
+drugimi veljavnimi plačilnimi sredstvi. 
+(2) Če je predlogu za izvršbo priložen predlog za oprostitev
+plačila sodne takse, se o predlogu za oprostitev plačila sodne takse odloča
+istočasno z avtomatizirano obdelavo predloga za izvršbo.
+20. člen
+(potek postopka pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem po elektronski poti prek portala e-sodstvo)
+(1) Pred vložitvijo predloga za izvršbo na podlagi
+verodostojne listine po elektronski poti prek portala e-sodstvo, podportala
+e-Izvršba, mora upnik na portalu e-sodstvo predhodno pridobiti uporabniško
+geslo za vstop in vlaganje predlogov za izvršbo v elektronski obliki in se
+prijaviti kot registrirani uporabnik oziroma se mora uspešno vključiti v
+varnostno shemo modula informacijskega sistema e-sodstva (v nadaljnjem
+besedilu: varnostna shema) kot zunanji kvalificirani uporabnik. Pogoj za
+pridobitev uporabniškega gesla kot registrirani uporabnik je, da ima upnik
+elektronski naslov, na katerega mu informacijski sistem pošlje uporabniško
+geslo.
+(2) Upnik lahko vloži predlog za izvršbo z izpolnitvijo
+obrazca ali uvozom podatkov iz datoteke po strukturi, ki jo določi in na svoji
+spletni strani ali na portalu e-sodstvo vsakokrat objavi Vrhovno sodišče
+Republike Slovenije. 
+(3) Upnik dejanja iz prejšnjega odstavka opravlja v svojem
+elektronskem odložišču, v katero vstopa z uporabniškim geslom iz prvega
+odstavka tega člena. 
+(4) Pri izpolnjevanju predloga za izvršbo v elektronski
+obliki se izvajajo naslednje avtomatične kontrole: 
+-       
+pravilnosti številčnih podatkov (npr. EMŠO, davčna številka, številka
+transakcijskega računa, sklic itd.); 
+-       
+obstoja ulice in hišne številke v registru prostorskih enot; 
+-       
+obstoja imena; 
+-       
+obstoja priimka; 
+-       
+obstoja valut in držav; 
+-       
+obstoja naziva in matične številke; 
+-       
+obstoja vrednostnega papirja v Klirinško depotni družbi; 
+-       
+obstoja datumov; 
+-       
+izpolnitve obveznih polj. 
+(5) Kontrole iz prve do šeste alineje prejšnjega odstavka se
+ne nanašajo na določenega posameznika in ne razkrivajo njegovih osebnih
+podatkov, ampak se uporabljajo le kot pripomoček za popolnejšo izpolnitev
+predloga za izvršbo. Upnik, ki ga informacijski sistem opozori na napako, lahko
+kljub temu vpiše želeni podatek in nadaljuje izpolnjevanje obrazca. 
+(6) Upnik, ki ga informacijski sistem opozori na napako pri
+kontroli iz šeste do devete alineje četrtega odstavka tega člena, mora napako
+popraviti, sicer ne more nadaljevati izpolnjevanja obrazca. 
+(7) Upnik lahko na načina iz drugega odstavka tega člena
+zaradi preprečitve zlorab informacijskega sistema vloži le deset predlogov za
+izvršbo na uro.
+21. člen
+(plačilo sodne takse pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem po elektronski poti prek portala e-sodstvo)
+(1) Sodna taksa se lahko plača na način, določen v prvem
+odstavku 19. člena tega pravilnika. 
+(2) Če upnik plača avtomatično izračunano višino sodne takse
+z elektronskim denarjem ali drugimi veljavnimi plačilnimi sredstvi sočasno z
+vložitvijo predloga za izvršbo, se šteje, da je predlog za izvršbo vložen v
+trenutku, ko ga informacijski sistem prevzame. Upnik je o času prevzema
+predloga za izvršbo in o opravilni številki, pod katero se vodi izvršilna
+zadeva, obveščen v svojem elektronskem odložišču. 
+(3) Če upnik ne plača sodne takse sočasno z vložitvijo
+predloga za izvršbo, informacijski sistem upnika v njegovem elektronskem
+odložišču obvesti o višini sodne takse in sklicni številki (referenci), ki jo
+mora upnik navesti pri plačilu sodne takse. Predlog za izvršbo, ki ga upnik
+pošlje brez sočasnega plačila sodne takse, se hrani v elektronskem odložišču
+sodišča in se šteje za vloženega v trenutku, ko informacijski sistem ugotovi,
+da je sodna taksa plačana v predpisani višini. Upnik je o času vložitve
+predloga za izvršbo in o opravilni številki, pod katero se vodi izvršilna
+zadeva, obveščen v svojem elektronskem odložišču. 
+(4) Če informacijski sistem v osmih dneh od dne, ko je bil
+predlog za izvršbo hranjen v elektronskem odložišču sodišča, na podlagi sklicne
+številke (reference) iz prejšnjega odstavka ne ugotovi plačila sodne takse, ali
+če ugotovi, da sodna taksa ni plačana v predpisani višini, predlog za izvršbo
+vrne upniku v njegovo elektronsko odložišče. 
+(5) Na podlagi matične številke upnika, navedene v predlogu
+za izvršbo, se v primeru, če je upnik vpisan na seznam iz 10.a člena tega
+pravilnika, ne glede na tretji odstavek tega člena šteje, da je tak predlog za
+izvršbo vložen v trenutku, ko ga informacijski sistem prevzame. Upnik je o času
+prevzema predloga za izvršbo in o opravilni številki, pod katero se vodi
+izvršilna zadeva, obveščen v svojem elektronskem odložišču.
+22. člen
+(potek postopka pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem po elektronski poti prek spletnega servisa na
+portalu e-sodstvo)
+(1) Pred vložitvijo predloga za izvršbo ali večjega števila
+predlogov za izvršbo (v nadaljnjem besedilu: paket predlogov za izvršbo) po
+elektronski poti prek spletnega servisa mora biti upnik vključen v varnostno
+shemo kot samostojni zunanji kvalificirani uporabnik in pridobiti potrditev
+CIF, da izpolnjuje tehnične pogoje iz tretjega odstavka tega člena. 
+(2) Upnik lahko vloži predlog za izvršbo po postopku iz 20.
+člena tega pravilnika, pri čemer v svoje elektronsko odložišče lahko vstopa
+tudi s kvalificiranim digitalnim potrdilom. 
+(3) Upnik lahko vloži paket predlogov za izvršbo z uvozom
+podatkov iz datoteke po strukturi in na način, ki ju določi in na svoji spletni
+strani vsakokrat objavi Vrhovno sodišče Republike Slovenije. 
+(4) Upnik vloži paket predlogov za izvršbo v svojem
+elektronskem odložišču, v katerega vstopa s kvalificiranim digitalnim potrdilom
+na podlagi servisa za ustvarjanje paketa, ali iz svojega zalednega programa. 
+(5) Ob vložitvi paketa predlogov za izvršbo se izvede
+avtomatična kontrola podatkov iz paketa predlogov za izvršbo po četrtem
+odstavku 20. člena tega pravilnika. Če paket predlogov za izvršbo nima napak
+ali če je odstotek ugotovljenih napak manjši od odstotka, ki ga določi CIF,
+informacijski sistem upniku v njegovem elektronskem odložišču pusti obvestilo,
+da je paket predlogov za izvršbo uspešno vložen v elektronsko odložišče
+sodišča, kjer čaka na plačilo sodne takse. Če je odstotek ugotovljenih napak
+večji od odstotka, ki ga določi CIF, informacijski sistem upniku v njegovem
+elektronskem odložišču pusti obvestilo o napakah, zaradi katerih paket
+predlogov za izvršbo ni vložen.
+23. člen
+(plačilo sodne takse pri predlogu za izvršbo na podlagi
+verodostojne listine, vloženem po elektronski poti prek spletnega servisa na
+portalu e-sodstvo)
+(1) Sodna taksa se lahko plača na način, določen v prvem
+odstavku 19. člena tega pravilnika. 
+(2) Plačilo sodne takse pri vložitvi predloga za izvršbo
+poteka po postopku iz 21. člena tega pravilnika. 
+(3) Pri vložitvi paketa predlogov za izvršbo informacijski
+sistem upnika v njegovem elektronskem odložišču obvesti o višini sodne takse in
+sklicni številki (referenci), ki jo mora upnik navesti pri plačilu sodne takse.
+Dodeljena sklicna številka (referenca) velja za paket predlogov za izvršbo,
+posamezni predlogi za izvršbo v paketu pa so označeni s svojo referenčno
+številko. Paket predlogov za izvršbo se hrani v elektronskem odložišču sodišča
+in se šteje za vloženega v trenutku, ko informacijski sistem ugotovi, da je
+sodna taksa plačana v predpisani višini. Upnik je o času vložitve paketa
+predlogov za izvršbo in o opravilnih številkah, pod katerimi se vodijo
+posamezne izvršilne zadeve iz paketa, obveščen v svojem elektronskem odložišču.
+(4) Če informacijski sistem v osmih dneh od dne, ko je bil
+paket predlog za izvršbo hranjen v elektronskem odložišču sodišča, na podlagi
+sklicne številke (reference) iz prejšnjega odstavka ne ugotovi plačila sodne
+takse, paket predlogov za izvršbo vrne upniku v njegovo elektronsko odložišče.
+Če informacijski sistem ugotovi, da sodna taksa ni plačana v predpisani višini,
+sprejme le toliko predlogov za izvršbo iz paketa, za kolikor zadostuje plačana
+sodna taksa, druge predloge za izvršbo od zadnjega navedenega navzgor pa upniku
+vrne v njegovo elektronsko odložišče. 
+(5) Za upnika, ki je po zakonu oproščen plačila sodne takse,
+in vlaga paket predlog za izvršbo, se uporablja peti odstavek 21. člena tega
+pravilnika.
+24. člen
+(črtan)
+25. člen
+(potek postopka pri nepopolnem predlogu za izvršbo na
+podlagi verodostojne listine)
+(1) CoVL upnika, ki ni vložil predloga za izvršbo na obrazcu,
+predpisanem s tem pravilnikom, v sklepu o popravi ali dopolnitvi zgolj pouči,
+kje lahko dobi obrazec iz 12. člena tega pravilnika. 
+(2) Če upnik v zakonsko določenem roku predloga za izvršbo ne
+popravi ali dopolni, je sklep, s katerim se predlog za izvršbo delno ali v
+celoti zavrže, brez podpisa, opremljen zgolj s strojnim odtisom sodnega pečata.
+(3) Če v primeru iz petega odstavka 22. člena tega
+pravilnika, informacijski sistem sprejme paket predlogov za izvršbo, ki ima
+napake, se za posamezne predloge za izvršbo v paketu predlogov za izvršbo, pri
+katerih so bile ugotovljene napake, uporablja prejšnji odstavek.
+26. člen
+(potek postopka izdaje sklepa o izvršbi na podlagi
+verodostojne listine)
+(1) Po prejetju popolnega predloga za izvršbo se na podlagi
+podatkov, ki jih pošlje upnik v predlogu za izvršbo, in katerih resničnosti
+vsebine CoVL ne preverja, v 48 urah izdela sklep o izvršbi, ki je brez podpisa,
+opremljen zgolj s strojnim odtisom sodnega pečata. 
+(2) V sklepu iz prejšnjega odstavka se navede krajevno
+pristojno sodišče, ki bo izvršilni postopek vodilo in v njem odločalo po
+pravnomočnosti sklepa o izvršbi, CoVL pa dolžnika pouči o pravici do vložitve
+ugovora zoper ta sklep na CoVL, o obveznosti obrazložitve ugovora in pravnih
+posledicah neobrazloženega ugovora.
+27. člen
+(potek postopka po izdaji sklepa o izvršbi na podlagi
+verodostojne listine)
+(1) Če dolžnik sklepu o izvršbi ugovarja, o ugovoru odloča
+CoVL. 
+(2) Če dolžnik sklepu o izvršbi ne ugovarja, CoVL po
+pravnomočnosti sklepa o izvršbi in opravljenih poizvedbah pošlje ta sklep glede
+na predlagana sredstva izvršbe dolžnikovemu dolžniku, izvršitelju, zemljiški
+knjigi, sodnemu registru in Klirinško depotni službi. Vročanje lahko poteka v
+papirni ali elektronski obliki. 
+(3) CoVL obvesti upnika o pravnomočnosti sklepa o izvršbi in
+sodišču ali sodiščih, ki vodijo izvršilni postopek in v njem odločajo po
+pravnomočnosti sklepa o izvršbi.
+VII. PODPISOVANJE VLOG IN DRUGIH PISANJ V ELEKTRONSKI OBLIKI
+28. člen
+(podpisovanje vlog in drugih pisanj v elektronski obliki)
+Za vloge in druga pisanja v elektronski obliki se šteje, da jih
+je podpisala oseba, ki je: 
+-       
+na vlogi in drugem pisanju podpisana z varnim elektronskim podpisom s
+kvalificiranim potrdilom; 
+-       
+na vlogi in drugem pisanju navedena kot podpisnik in izpolnjuje tehnične
+pogoje iz prvega in tretjega odstavka 22. člena tega pravilnika; 
+-       
+ki je na vlogi in drugem pisanju navedena kot podpisnik.
+29. člen
+(seznam vlog in drugih pisanj, ki se lahko pošiljajo po
+elektronski poti podpisane na načine, ki jih določa 28. člen tega pravilnika)
+(1) Elektronske vloge, navedene v Prilogi 5, se po
+elektronski poti lahko pošljejo podpisane na način iz prve alineje prejšnjega
+člena, razen predloga za izvršbo za izterjavo denarne terjatve na podlagi
+verodostojne listine, ki se po elektronski poti lahko pošlje podpisan tudi na
+način iz druge ali tretje alineje prejšnjega člena. 
+(2) Paket predlogov za izvršbo za izterjavo denarne terjatve
+na podlagi verodostojne listine se po elektronski poti lahko pošlje podpisan le
+na način iz druge alineje prejšnjega člena.
+30. člen
+(črtan)
+
+Priloga
+1: Predlog za dovolitev izvršbe na podlagi verodostojne listine
+Priloga
+2: Priloga k predlogu za dovolitev izvršbe na podlagi verodostojnosti listine
+(več upnikov)
+Priloga
+3: Priloga k predlogu za dovolitev izvršbe na podlagi verodostojnosti listine
+(več dolžnikov)
+Priloga
+4: Priloga k predlogu za dovolitev izvršbe na podlagi verodostojnosti listine
+(več verodostojnih listin)
+Priloga
+5: Preglednica e-izvršba-opravila-elektronski predlogi, vloge in druga pisanja
+Priloga
+6: Predlog za nasprotno izvršbo
+Priloga
+7: Navodilo za izpolnjevanje obrazca za predlog za izvršbo
+Priloga
+8: Navodilo za izpolnjevanje obrazca za predlog za nasprotno izvršbo
+
+Pravilnik o obrazcih, vrstah izvršb in poteku
+avtomatiziranega izvršilnega postopka (Uradni list RS, št. 104/11) vsebuje naslednje prehodne in
+končne določbe:
+»VIII. PREHODNE IN KONČNE DOLOČBE
+31. člen
+(prenehanje veljavnosti)
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik
+o obrazcih, vrstah izvršb in poteku avtomatiziranega izvršilnega postopka
+(Uradni list RS, št. 121/07, 71/10 in 35/11.
+32. člen
+(dovoljenja in seznami)
+Dovoljenja za pošiljanje vlog in drugih pisanj sodišču po
+elektronski poti, ki so bila pridobljena pri ministrstvu, pristojnem za
+pravosodje v skladu s 14. členom Pravilnika o obrazcih, vrstah izvršb in poteku
+avtomatiziranega izvršilnega postopka (Uradni list RS, št. 121/07, 71/10 in
+35/11, ostanejo v veljavi. 
+Vpisi upnikov na seznam oseb, ki so po zakonu oproščene
+plačila sodne takse, iz drugega odstavka 11. člena in petega odstavka 13. člena
+Pravilnika o obrazcih, vrstah izvršb in poteku avtomatiziranega izvršilnega
+postopka (Uradni list RS, št. 121/07, 71/10 in 35/11) ostanejo v veljavi.
+33. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati 1. marca 2012.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o obrazcih, vrstah izvršb in poteku avtomatiziranega izvršilnega
+postopka (Uradni list RS, št. 88/14) vsebuje naslednjo končno določbo:
+»13. člen
+Ta pravilnik začne veljati naslednji dan po objavi Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o obrazcih, vrstah izvršb in poteku avtomatiziranega izvršilnega
+postopka (Uradni list RS, št. 44/16) vsebuje naslednjo končno določbo:
+»7. člen
+Ta pravilnik začne veljati naslednji dan po objavi Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik
+o spremembah in dopolnitvah Pravilnika o obrazcih, vrstah izvršb in poteku avtomatiziranega
+izvršilnega postopka (Uradni list RS, št. 13/21)
+vsebuje naslednjo prehodno in končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+15. člen
+(začetek uporabe posameznih
+pravil)
+Določbe spremenjenega 6. člena in spremenjene Priloge 5
+pravilnika, ki se nanašajo na e-Izvršba-opravilo predlog za revizijo se začnejo
+uporabljati 1. januarja 2022.
+16. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

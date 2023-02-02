@@ -1,0 +1,17 @@
+Text file: PRAV10293.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1474149600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10293
+idPredpisaChng: PRAV10293
+instock: .nan
+naslov: "AKT o vzpostavitvi in vodenju registra transakcijskih ra\u010Dunov (neuradno\
+  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2016/24/2016-01-2499-2010-01-2640-npb2
+sopPredpisa: 2016-01-2499
+sopPredpisaChng: 2010-01-2640

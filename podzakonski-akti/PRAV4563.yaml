@@ -1,0 +1,18 @@
+Text file: PRAV4563.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1529704800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4563
+idPredpisaChng: PRAV4563
+instock: .nan
+naslov: "PRAVILNIK o poobla\u0161\u010Danju izvajalcev strokovnih nalog s podro\u010D\
+  ja ionizirajo\u010Dih sevanj (prenehal veljati) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2018/19/2018-01-1922-2004-01-0799-npb2
+sopPredpisa: 2018-01-1922
+sopPredpisaChng: 2004-01-0799

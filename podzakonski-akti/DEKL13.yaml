@@ -1,0 +1,16 @@
+Text file: DEKL13.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 785113200000000000
+- null
+- null
+- 10
+idPredpisa: DEKL13
+idPredpisaChng: null
+instock: .nan
+naslov: 'DEKLARACIJO  o odnosih Slovenije z Italijo in Evropsko unijo '
+npbNum: 0
+path: /1994/25/1994-01-2586
+sopPredpisa: 1994-01-2586
+sopPredpisaChng: null

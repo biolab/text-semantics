@@ -1,0 +1,20 @@
+Text file: PRAV11613.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1701385200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1611356400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV11613
+idPredpisaChng: PRAV11613
+instock: .nan
+naslov: "PRAVILNIK o obmo\u010Djih in sede\u017Eih obmo\u010Dnih policijskih postaj\
+  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+npbNum: 3
+path: /2021/00/2021-01-0030-2013-01-1467-npb3
+sopPredpisa: 2021-01-0030
+sopPredpisaChng: 2013-01-1467

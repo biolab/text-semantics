@@ -1,0 +1,18 @@
+Text file: PRAV365.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1083362400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV365
+idPredpisaChng: PRAV365
+instock: .nan
+naslov: "PRAVILNIK o pogojih za dolo\u010Ditev \u017Eivali - darovalk jaj\u010Dnih\
+  \ celic in zarodkov (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010D\
+  eno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2004/15/2004-01-1592-1999-01-2604-npb1
+sopPredpisa: 2004-01-1592
+sopPredpisaChng: 1999-01-2604

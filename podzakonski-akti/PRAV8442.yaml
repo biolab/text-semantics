@@ -1,0 +1,17 @@
+Text file: PRAV8442.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1305324000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8442
+idPredpisaChng: PRAV8442
+instock: .nan
+naslov: "PRAVILNIK o obrazcih, vrstah izvr\u0161b in poteku avtomatiziranega izvr\u0161\
+  ilnega postopka (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2011/17/2011-01-1762-2007-01-6161-npb2
+sopPredpisa: 2011-01-1762
+sopPredpisaChng: 2007-01-6161

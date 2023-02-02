@@ -1,0 +1,16 @@
+Text file: PRAV8634.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1204326000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8634
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o strokovnem izpitu za in\u0161pektorja"
+npbNum: 0
+path: /2007/55/2007-01-5512
+sopPredpisa: 2007-01-5512
+sopPredpisaChng: null

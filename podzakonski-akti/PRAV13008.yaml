@@ -1,0 +1,18 @@
+Text file: PRAV13008.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1498860000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV13008
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o na\u010Dinu izvajanja nalog podpore za spletno pla\u010Devanje\
+  \ storitev prora\u010Dunskih uporabnikov in zunanjih ponudnikov prek sistema spletnih\
+  \ pla\u010Dil, ki ga upravlja Uprava Republike Slovenije za javna pla\u010Dila"
+npbNum: 0
+path: /2017/15/2017-01-1532
+sopPredpisa: 2017-01-1532
+sopPredpisaChng: null

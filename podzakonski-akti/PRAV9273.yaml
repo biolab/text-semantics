@@ -1,0 +1,17 @@
+Text file: PRAV9273.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1224885600000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9273
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o organizaciji in izvajanju verske duhovne oskrbe v zavodih za prestajanja
+  kazni zapora, vzgojnih zavodih, prevzgojnih domovih in v zavodih za usposabljanje
+npbNum: 0
+path: /2008/42/2008-01-4279
+sopPredpisa: 2008-01-4279
+sopPredpisaChng: null

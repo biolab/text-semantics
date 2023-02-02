@@ -1,0 +1,16 @@
+Text file: PRAV9968.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1294441200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV9968
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o kakovosti sadnih sokov in nekaterih podobnih izdelkov
+npbNum: 0
+path: /2010/54/2010-01-5422
+sopPredpisa: 2010-01-5422
+sopPredpisaChng: null

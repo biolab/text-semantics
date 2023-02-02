@@ -1,0 +1,17 @@
+Text file: PRAV4983.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1363388400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV4983
+idPredpisaChng: PRAV4983
+instock: .nan
+naslov: "PRAVILNIK o pogojih in postopkih za izvajanje zakona o izvajanju rejni\u0161\
+  ke dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+npbNum: 2
+path: /2013/06/2013-01-0615-2003-01-2702-npb2
+sopPredpisa: 2013-01-0615
+sopPredpisaChng: 2003-01-2702

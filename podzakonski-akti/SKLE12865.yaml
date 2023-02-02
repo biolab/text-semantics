@@ -1,0 +1,13 @@
+Text file: SKLE12865.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE12865
+idPredpisaChng: null
+instock: .nan
+naslov: SKLEP o opravljanju funkcije poslanca namesto poslanca, ki opravlja funkcijo
+  predsednika Vlade
+npbNum: 0
+path: /2022/17/2022-01-1775
+sopPredpisa: 2022-01-1775
+sopPredpisaChng: null

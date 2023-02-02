@@ -1,0 +1,17 @@
+Text file: PRAV2561.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 959810400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV2561
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o izvajanju nadzora nad delom centrov za prepre\u010Devanje in\
+  \ zdravljenje odvisnosti od prepovedanih drog"
+npbNum: 0
+path: /2000/19/2000-01-1996
+sopPredpisa: 2000-01-1996
+sopPredpisaChng: null

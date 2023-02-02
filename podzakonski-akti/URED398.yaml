@@ -1,0 +1,16 @@
+Text file: URED398.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 921884400000000000
+- null
+- null
+- 10
+idPredpisa: URED398
+idPredpisaChng: null
+instock: .nan
+naslov: UREDBO o jadralnem zmajarstvu in jadralnem padalstvu
+npbNum: 0
+path: /1999/06/1999-01-0616
+sopPredpisa: 1999-01-0616
+sopPredpisaChng: null

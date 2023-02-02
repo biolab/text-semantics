@@ -1,0 +1,17 @@
+Text file: URED1456.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 914454000000000000
+- null
+- null
+- 10
+idPredpisa: URED1456
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o lokacijskem na\u010Drtu za rekonstrukcijo glavne ceste G 10 (M10)\
+  \ na odseku Depala vas. \u010Crnu\u010De, pododsek v Mestni ob\u010Dini Ljubljana"
+npbNum: 0
+path: /1998/45/1998-01-4581
+sopPredpisa: 1998-01-4581
+sopPredpisaChng: null

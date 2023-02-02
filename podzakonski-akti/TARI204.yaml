@@ -1,0 +1,19 @@
+Text file: TARI204.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1514761200000000000
+- null
+- null
+- 10
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1513983600000000000
+- null
+- null
+- 10
+idPredpisa: TARI204
+idPredpisaChng: null
+instock: .nan
+naslov: "TARIFO 2018 o pla\u010Dilih za izvajanje po\u0161tnih storitev"
+npbNum: 0
+path: /2017/37/2017-01-3728
+sopPredpisa: 2017-01-3728
+sopPredpisaChng: null

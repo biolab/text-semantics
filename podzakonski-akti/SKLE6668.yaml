@@ -1,0 +1,13 @@
+Text file: SKLE6668.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: SKLE6668
+idPredpisaChng: SKLE6668
+instock: .nan
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Seulu (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2017/13/2017-01-1374-2006-01-5587-npb1
+sopPredpisa: 2017-01-1374
+sopPredpisaChng: 2006-01-5587

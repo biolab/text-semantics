@@ -1,0 +1,17 @@
+Text file: URED103.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 882572400000000000
+- null
+- null
+- 10
+idPredpisa: URED103
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o dolo\u010Ditvi prehoda iz srednjeevropskega pasovnega \u010Dasa\
+  \ na poletno ra\u010Dunanje \u010Dasa in prehod nazaj v letih od 1998 do 2001"
+npbNum: 0
+path: /1997/35/1997-01-3591
+sopPredpisa: 1997-01-3591
+sopPredpisaChng: null

@@ -1,0 +1,17 @@
+Text file: PRAV8782.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1326150000000000000
+- null
+- null
+- 10
+idPredpisa: PRAV8782
+idPredpisaChng: PRAV8782
+instock: .nan
+naslov: "PRAVILNIK o za\u0161\u010Diti stavb pred delovanjem strele (neuradno pre\u010D\
+  i\u0161\u010Deno besedilo \u0161t. 1)"
+npbNum: 1
+path: /2012/00/2012-01-0057-2009-01-1192-npb1
+sopPredpisa: 2012-01-0057
+sopPredpisaChng: 2009-01-1192

@@ -1,0 +1,16 @@
+Text file: PRAV10734.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1319234400000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10734
+idPredpisaChng: null
+instock: .nan
+naslov: PRAVILNIK o spremljevalcih pri prevozu skupin otrok
+npbNum: 0
+path: /2011/35/2011-01-3520
+sopPredpisa: 2011-01-3520
+sopPredpisaChng: null

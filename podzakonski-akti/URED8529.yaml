@@ -1,0 +1,16 @@
+Text file: URED8529.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1646434800000000000
+- null
+- null
+- 10
+idPredpisa: URED8529
+idPredpisaChng: null
+instock: .nan
+naslov: "UREDBO o koncesiji za graditev \u017Ei\u010Dni\u0161ke naprave Pahernik"
+npbNum: 0
+path: /2022/06/2022-01-0638
+sopPredpisa: 2022-01-0638
+sopPredpisaChng: null

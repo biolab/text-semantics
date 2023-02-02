@@ -1,0 +1,16 @@
+Text file: PRAV3598.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 896479200000000000
+- null
+- null
+- 10
+idPredpisa: PRAV3598
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o tehni\u010Dnih pripomo\u010Dkih"
+npbNum: 0
+path: /1998/18/1998-01-1821
+sopPredpisa: 1998-01-1821
+sopPredpisaChng: null

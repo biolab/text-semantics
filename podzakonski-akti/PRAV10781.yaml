@@ -1,0 +1,17 @@
+Text file: PRAV10781.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1311976800000000000
+- null
+- null
+- 10
+idPredpisa: PRAV10781
+idPredpisaChng: null
+instock: .nan
+naslov: "PRAVILNIK o podatkih o dejavnostih in emisijah toplogrednih plinov za naprave,\
+  \ ki so vklju\u010Dene v trgovanje s pravicami do emisije toplogrednih plinov"
+npbNum: 0
+path: /2011/28/2011-01-2831
+sopPredpisa: 2011-01-2831
+sopPredpisaChng: null

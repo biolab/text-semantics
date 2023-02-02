@@ -1,0 +1,17 @@
+Text file: ODRE760.txt
+datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 946594800000000000
+- null
+- null
+- 10
+idPredpisa: ODRE760
+idPredpisaChng: null
+instock: .nan
+naslov: "ODREDBO  o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
+  anov za leto 2000"
+npbNum: 0
+path: /1999/51/1999-01-5171
+sopPredpisa: 1999-01-5171
+sopPredpisaChng: null

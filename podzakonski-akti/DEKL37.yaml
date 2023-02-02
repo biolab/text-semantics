@@ -1,0 +1,12 @@
+Text file: DEKL37.txt
+datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
+- null
+datumZacetkaVelj: *id001
+idPredpisa: DEKL37
+idPredpisaChng: null
+instock: .nan
+naslov: DEKLARACIJO o zunanji politiki Republike Slovenije (DeZPRS-1)
+npbNum: 0
+path: /2015/21/2015-01-2197
+sopPredpisa: 2015-01-2197
+sopPredpisaChng: null
