@@ -19,10 +19,12 @@ CATEGORIES = (
 )
 PROPOSAL_DONT_EXIST = "Pobuda uporabnika ne obstaja."
 
+ROOT_DIRECTORY = "data"
 CSV_FILE = "stop-birokraciji.csv"
 DESTINATION_DIRECTORY = "stop-birokraciji"
 
 
+logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
@@ -31,19 +33,19 @@ def cleanup():
     """Remove directories and folders from previous scrapping"""
     logger.info("Removing files and directories form previous scraping")
     try:
-        os.remove(CSV_FILE)
+        shutil.rmtree(ROOT_DIRECTORY)
     except FileNotFoundError:
-        logger.debug(f"{CSV_FILE} not found, removing skipped")
-    try:
-        shutil.rmtree(DESTINATION_DIRECTORY)
-    except FileNotFoundError:
-        logger.debug(f"{DESTINATION_DIRECTORY} not found, removing skipped")
+        logger.debug(f"{ROOT_DIRECTORY} not found, removing skipped")
 
 
 def init():
     """Prepare folders for saving proposals"""
-    logger.info(f"Creating {DESTINATION_DIRECTORY}")
-    os.mkdir(DESTINATION_DIRECTORY)
+    logger.info(f"Creating {ROOT_DIRECTORY}")
+    os.mkdir(ROOT_DIRECTORY)
+
+    dest_dir = os.path.join(ROOT_DIRECTORY, DESTINATION_DIRECTORY)
+    logger.info(f"Creating {dest_dir}")
+    os.mkdir(dest_dir)
 
 
 def get_max_id_page(category: str) -> int:
@@ -138,9 +140,10 @@ def save_document(document: Dict[str, Any]):
     logger.info(f"Saving proposal with ID {document['ID pobude']}")
     file_name = normalize("NFKD", str(document["ID pobude"]))
     file_name = file_name.encode("ascii", "ignore").decode("utf-8")
+    dest_dir = os.path.join(ROOT_DIRECTORY, DESTINATION_DIRECTORY)
 
     text_file = f"{file_name}.txt"
-    with open(os.path.join(DESTINATION_DIRECTORY, text_file), "w") as f:
+    with open(os.path.join(dest_dir, text_file), "w") as f:
         f.write(document["Pobuda"])
 
     # add name file name and remove the text from dictionary, sav as yaml
@@ -148,7 +151,7 @@ def save_document(document: Dict[str, Any]):
     document["Text file"] = text_file
     document.pop("Pobuda")
 
-    with open(os.path.join(DESTINATION_DIRECTORY, f"{file_name}.yaml"), "w") as f:
+    with open(os.path.join(dest_dir, f"{file_name}.yaml"), "w") as f:
         yaml.dump(document, f, default_flow_style=False)
 
 
@@ -173,7 +176,7 @@ def main():
     init()
     max_id = get_max_id()
     df = scrape_pages(max_id)
-    df.to_csv(CSV_FILE, index=False)
+    df.to_csv(os.path.join(ROOT_DIRECTORY, CSV_FILE), index=False)
 
 
 if __name__ == "__main__":
