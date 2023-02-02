@@ -21,15 +21,11 @@ jobs:
       - name: Download data
         run: python scripts/stop_birokraciji_scraper.py
 
-#      - name: Upload to server
-#        # deploy only when on master (skip on pull request)
-#        if: ${{ github.ref == 'refs/heads/main' }}
-#        uses: appleboy/scp-action@master
-#        with:
-#          host: ${{ secrets.SCP_SERVER }}
-#          username: ${{ secrets.SCP_USERNAME }}
-#          key: ${{ secrets.SCP_KEY }}
-#          source: "data/stop-birokraciji/"
-#          target: "/var/www/html/text-semantics/data/stop-birokraciji/"
-#          strip_components: 1
-#          rm: true  # remove target dir before copying
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        # if: ${{ github.ref == 'refs/heads/main' }}  todo: enable
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # created by workflow
+          publish_dir: ./data/stop-birokraciji
+          publish_branch: gh-pages
+          destination_dir: stop-birokraciji
