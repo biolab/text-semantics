@@ -6,7 +6,7 @@ import tarfile
 import time
 import urllib.request
 from collections import Counter
-from typing import List
+from typing import List, Optional
 from unicodedata import normalize
 
 import bson
@@ -49,6 +49,10 @@ def cleanup():
         os.remove(os.path.join(ROOT_DIRECTORY, CSV_FILE))
     except FileNotFoundError:
         logger.debug(f"{CSV_FILE} not found, removing skipped")
+    try:
+        shutil.rmtree(os.path.join(ROOT_DIRECTORY, "htmls"))
+    except FileNotFoundError:
+        logger.debug(f"htmls not found, removing skipped")
 
 
 def init():
@@ -61,9 +65,13 @@ def init():
     logger.info(f"Creating {dest_dir}")
     os.mkdir(dest_dir)
 
+    dest_dir = os.path.join(ROOT_DIRECTORY, "htmls")
+    logger.info(f"Creating {dest_dir}")
+    os.mkdir(dest_dir)
+
 
 def download_laws():
-    """ Download a tar.gz with file """
+    """Download a tar.gz with file"""
     logger.info(f"Downloading data from {SOURCE_URL}")
     tic = time.time()
     urllib.request.urlretrieve(SOURCE_URL, ARCHIVE_FILE)
@@ -83,7 +91,9 @@ def extract_laws(types_: List[str]) -> pd.DataFrame:
     Extract data from bson, parse as dataframe and keep only specified types
     """
     logger.info(f"Extracting {','.join(types_)} form {UNPACKED_FILE_NAME}")
-    with open(os.path.join(ROOT_DIRECTORY, UNPACKED_DIR, UNPACKED_FILE_NAME), "rb") as f:
+    with open(
+        os.path.join(ROOT_DIRECTORY, UNPACKED_DIR, UNPACKED_FILE_NAME), "rb"
+    ) as f:
         data = bson.decode_all(f.read())
 
     df = pd.DataFrame(data)
@@ -126,13 +136,16 @@ def remove_duplicates(df: pd.DataFrame) -> pd.DataFrame:
 title_classes = ["Vrstapredpisa", "Naslovpredpisa", "NPB"]
 
 
-def last_title_tag(div: Tag) -> Tag:
-    """ Find the last html element that is a part of the regulation title """
+def last_title_tag(div: Tag) -> Optional[Tag]:
+    """Find the last html element that is a part of the regulation title"""
     start = None
     for c in title_classes:
         start = div.find("p", {"class": c})
         if start is not None:
             break
+    if start is None:
+        logger.warning("Cannot find title")
+        return
 
     while True:
         next = start.find_next_sibling()
@@ -142,24 +155,39 @@ def last_title_tag(div: Tag) -> Tag:
             return start
 
 
-def extract_text(div: Tag) -> str:
-    """ Extract regulation text """
-    start = last_title_tag(div)
+def extract_text(divs: List[Tag]) -> Optional[str]:
+    """Extract regulation text"""
+    # title always in first div - extract text after title div
+    start = last_title_tag(divs[0])
+    if start is None:
+        return
     text = []
     for s in start.find_next_siblings():
+        text.append(s.get_text())
+    # extract complete other divs
+    for s in divs[1:]:
         text.append(s.get_text())
     return "\n".join(text).replace("\n\n", "\n")
 
 
 def extract_title(div: Tag) -> str:
-    """ Extract regulation title """
+    """Extract regulation title"""
     title = []
     for c in title_classes:  # title can be in one of the following fields
         # find all since sometimes more instances of same class
         title_part = div.find_all("p", {"class": c})
         for p in title_part:
             title.append(p.get_text())
-    return " ".join(title).replace('\n', ' ').replace('\r', '')
+    return " ".join(title).replace("\n", " ").replace("\r", "")
+
+
+def to_html_file(row: pd.Series):
+    """Write regulation to file for inspection"""
+    file_ = os.path.join(
+        ROOT_DIRECTORY, "htmls", f"{row['idPredpisa']}_{row['npbNum']}.html"
+    )
+    with open(file_, "w") as f:
+        f.write(row["vsebina"])
 
 
 skip = [
@@ -185,23 +213,27 @@ def extract_content_columns(df: pd.DataFrame) -> pd.DataFrame:
         if (row["idPredpisa"], row["npbNum"]) in skip or row["vsebina"] is None:
             logger.info(f"Skipping {row['idPredpisa']}-{row['npbNum']}")
             continue
+        # to_html_file(row)
 
         soup = BeautifulSoup(row["vsebina"], "html.parser")
         body = soup.body
         divs = body.findAll("div", recursive=False)
         if len(divs) > 1:
-            logger.warning(
-                f"{row['idPredpisa']}-{row['npbNum']} has more main divs"
-                ", considering only first one."
-            )
+            logger.warning(f"{row['idPredpisa']}-{row['npbNum']} has more main divs.")
 
-        text = extract_text(divs[0])
+        text = extract_text(divs)
+        if text is None:
+            logger.warning(f"{row['idPredpisa']} not parsed")
+            continue
         title = extract_title(divs[0])
         assert len(text) > 10
-        assert len(title) > 10
+        if len(title) <= 10:
+            # some of ODLO and ODRE documents are without real title
+            logger.warning(f"{row['idPredpisa']} have short title: {title}")
 
         res.append({"naslov": title, "vsebina": text})
         idxs.append(idx)
+    logger.info(f"Successfully fetched {len(res)}/{len(df)} items")
     return pd.DataFrame(res, index=idxs)
 
 
