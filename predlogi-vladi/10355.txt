@@ -1,0 +1,13 @@
+Predlagam, da se na državnozborskih volitvah poleg volilnih okrajev ukinejo tudi strankarske liste. Namesto tega naj volilci glasujejo tako, da pri vsakem kandidatu obkrožijo ZA ali PROTI.
+
+Iz teh glasovnic dobimo proporcionalno razdelitev poslanskih mandatov na naslednji način:
+
+- Za še neizvoljenega kandidata in že izvoljenega kandidata dobimo verjetnost, da sta v isti stranki tako, da število volilcev, ki so pri obeh kandidatih obkrožili ZA, delimo s skupnim številom volilcev, ki so pri že izvoljenem kandidatu obkrožili ZA.
+
+- Za še neizvoljenega kandidata dobimo število že izvoljenih strankarskih kolegov tako, da za vse že izvoljene kandidate seštejemo verjetnosti, da sta neizvoljeni kandidat in izvoljeni kandidat v isti stranki.
+
+- Za še neizvoljenega kandidata izračunamo D'Hondtov količnik po formuli: št. glasov ZA/(1+št. že izvoljenih strankarskih kolegov).
+
+- Poslanci so izvoljeni zaporedno. V vsakem koraku je izvoljen kandidat z najvišjim D'Hondtovim količnikom.
+
+Predlagam tudi, da se razpolovi število volilnih enot, saj bi dvakrat večje volilne enote pomenile, da ne bi več potrebovali razdeljevanja mandatov na državni ravni.

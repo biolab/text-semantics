@@ -1,0 +1,7 @@
+S predlagano lestvico:
+1. razred: dohodki do minimalne plače (729 evrov) 20 evrov 2. razred: dohodki do  75% povprečne plače 25 evrov 3. razred: dohodki do povprečne plače (1552 bruto): 27 evrov 4. razred: od 100 do 200% povprečne plače: 29 evrov 5. razred: dva- do trikratnik povprečne plače 45 evrov 6. razred: 300 - 500% povprečne plače: 55 evrov 7. razred: nad 500% povprečne plače: 75 evrov
+pride do anomali. Npr. oseba z višjim bruto dohodkom 200,01% ima na koncu koncu leta 190€ nižji neto dohodek kot oseba z nižjim dohodkom 199,99%!
+Lestvico bi iz tega razloga morali nadomestiti z zvezno funkcijo, npr z. enostavno enačbo:
+prispevek = 15 € + 0,6% bruto plača (ali nakaj podobnega glede številk)
+in bi dobili podoben izplen €, ne bi pa bilo anomalij.
+Tako enostavno.

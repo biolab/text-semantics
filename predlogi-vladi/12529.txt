@@ -1,0 +1,11 @@
+Predlagam, da se da v razpravo uzakonitev simetrične hitrosti dostopa do interneta.
+Kjer izjema za hitrost pri naročilu ne sme biti tehnična omejitev omrežja.
+Tehnična omejitev je lahko le razlog za počasno delovanje storitve ob (pre)zasedenosti omrežja in ne razlog za omejevanje pri samem sklepanju naročene storitve.
+Primer: LTE 150/50; Paket 100/100, jasno da bo upload hitrost omejena na 50Mbps; Paket 20/5: Omejitev izhaja povsem iz prodajnih razlogov in tako le upočasnuje uporabnika ob nalaganju slik, videov, ...
+Naprimer LTE, ADSL in kabelski internet, ni možno zagotovit istih hitrosti dol/gor, čeprav je download hitrost praktično precej bolj obremenjena kakor upload hitrost.
+Medtem kot GPON in PtP optika, to storitev vsekakor omogoča.
+PtP optika, je že v osnovi grajena simetrično, uporabniki so običajno priključeni na 1Gbps povezavo.
+GPON v osnovi nima simetrične povezave (2,5Gbps dol/ 1,25Gbps gor), vendar glede na veliko večjo potrebo po downloadu, kakor uploadu vsekakor možno zagotavljat simetrično hitrost.
+Razlog za moj predlog je predvsem to, da mrežne povezave vseh internetnih ponudnikov v celotnem delu omrežja ponudnika omogočajo simetrično hitrost.
+In vse optične povezave so v samem jedru omrežja simetrične.
+Zato je samo omejevanje hitrosti od uporabnika skrajno neprimerno, stroški na strani operaterja pa so povsem enaki.

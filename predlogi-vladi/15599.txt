@@ -1,0 +1,11 @@
+PROBLEM:
+Trenutno mora posameznik, ki želi priti nekam z javnim potniškim prometom pogledati na več ločenih spletnih strani (arriva.si, ap-ljubljana.si, potniski.sz.si ...). Pri tem mora upoštevati vse možne prestope, da najde optimalno pot.
+Primer:
+želim priti iz Kranja do Domžal
+1. na vseh zgoraj omenjenih straneh pogledam za povezavo Kranj - Domžale -> edino potniski.sz.si mi vrne možen prevoz, ki pa traja dve uri
+2. ugibam, da avtobusi peljejo do iz Kranja do Ljubljane in iz Ljubljane do Domžal
+3. ponovim točko ena za povezavi Kranj - Ljubljana in Ljubljana - Domžale
+4. končno mogoče ugotovim, kako najhitreje priti iz kranja do Domžal
+Kot je razvidno iz primera, to kmalu postane zelo zamudno in ne pripomore k večji uporabi javnega prevoza. Problem pa je še večji pri kom, ki se ne spozna na javni prevoz.
+REŠITEV:
+Prvi korak je na enem mestu dostopen in redno posodobljen vozni red avtobusov in vlakov (celotnega javnega potniškega prometa) v obliki gtfs, ki je standard za take podatke. To bi omogočilo razvoj aplikacij, ki bi avtomatsko povezovale različne linije med seboj in ponudilo najboljšo povezavo med dvema krajema. Tako kod trenutno omogoča google maps vendar zaradi zastarelosti podatkov, rezultati niso zanesljivi. Za napake v podatkih bi odgovarjalo ministrstvo za infrastrukturo, ki bi podatke tudi zbiralo in objavljalo.

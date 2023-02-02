@@ -1,0 +1,36 @@
+Spoštovani,
+ 
+Predlagam veliko boljšo mobilno aplikacijo.
+Namreč:
+Najprej naj povem da nisem programer, prepričan sem, da ideja ni zahtevna.
+ 
+Nova mobilna aplikacija bi delovala na protokolu Bluetooth.
+Popolnoma brez sledeja, brez interneta, breu GPS-ja.
+ 
+Aplikacija okužene osebe bi bila obvezna.
+Namreč aplikacija bi po bluetooth protokolu pri okuženem uporabniku oddajala signal, da je okužen. bluetooth, se lahko poveže z več kot 1 napravo hkrati. kar pomeni, če tudi uporablja uporabnik brezžične slušalke, bi aplikacija vseeno delovala.
+ 
+Več podrobnosti in obrazložitev.
+Aplikacija bi preko bluetooth povezave, samo oddajala signal da je uporabnik okužen, aplikacija se nebi nikamor povezala nebi pošiljala nobeenih osebnih podatkov, nobenih podatkov naprave, ničesar. oddajala bi samo signal da je uporabnik okužen. (nobene mac adrese, nobenega bluetooth ID-ja, ničesar)
+ 
+uporabnik ki ni okužen in ima nameščeno aplikacijo, pa bi sprejemal signale. in ob prejemu signala "okužen" bi uporabnika obvestil da je nekdo v radijusu 10m (kolikor bluetoot na telefonu ima doseg) okužen. popolnoma anonimno.
+ 
+Sedaj, če je ena oseba v radiusu 10m, je pač on okužen in je anonimnost malenkost manjša ker osebo pač vidimo.
+Ampak, če je tak primer v trgovini, na pbagajni kjer je 15 ljudi okoli vas v radiusu 10m, pa to pomeni da;
+1. hvala da uporabljate aplikacijo in sporočate da ste okuženi, anonimno obvestite okolico.
+2. držali se bomo še večje razdalje, in popravili masko, da prekrije čim večji del obraza.
+ 
+Kako bi pa aktivirali aplikacijo tisti ki so okuženi?
+1. aplikacijo si zastonj in brez reklam v aplikaciji, namesti kot običajno.
+2. kodo dobi po telefonu ki mu jo sporoči "telefonist" ki mu sporoči da je okužen.
+3. uporabnik po vneseni kodi v aplikacijo, sporoči "telefonistu" drugo kodo, v dokaz aktivacije programa kot "okužen".
+4. aplikacija se avtomatično izklopi iz načina "okužen" po 14 dneh od vnosa kode. (programerji bodo naredili zaščito na spremembo datuma v telefonu).
+ 
+Praktičen primer
+Uporabnik A (zdrav)
+Uporabnik B (covid)
+ 
+Uporabin A in uporabnik B sta v trgovini, na avtobusi, na sprehodu v naravi, kjer koli... oba imata nameščeno aplikacijo.
+Uporabnik B njegov telefon (aplikacija) pošilja signal "okužen" (in popolnoma nič drugega, popolnoma nobenih podatkov naprave, kot antena, ki pošilja signal na par sekund.) Uporabnik A, se približa uporabniku B na razdaljo 10m ali manj. Uporabnik A dobi obvestilo, da je nekdo okužen z covid-19 v radiusu 10m.
+ 
+Uporabnik A, neve kdo je okužen, (če je samo ena oseba v njegovi blizini je to izjema). Vseeno Uporabnik A, bo še toliko bolj pazliv, držal razdaljo, namestil masko če je nima, itd.

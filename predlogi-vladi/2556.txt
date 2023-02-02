@@ -1,0 +1,3 @@
+Predlagam, da bi na spletnem strežniku predlagam.vladi.si uporabljali SSL/TLS.
+Portal npr. zahteva za vsako participacijo uporabnika (komentar, oddaja glasu, oddaja predloga), da je uporabnik predhodno registriran in da se prijavi v storitev. Po drugi strani pa promet privzeto poteka brez šifriranja SSL/TLS in avtentikacije strežnika, kar npr. omogoča prestrezanje gesel (ob prijavi) in sejnih piškotkov (ob vsakem zahtevku) v nezaščitenih brezžičnih omrežjih, z malo več napadalčevega truda in sreče pa potencialno tudi v ostalih omrežjih. Na poslovnem nivoju to omogoča impersonacijo oz. krajo identitete žrtve s strani napadalca.
+Lep pozdrav
