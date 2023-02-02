@@ -25,7 +25,7 @@ jobs:
       - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: "*/index.html"
+          add: "*index.html"
           message: Update indexes
           committer_name: GitHub Actions
           committer_email: actions@github.com
