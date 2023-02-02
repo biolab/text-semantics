@@ -12,6 +12,8 @@ jobs:
         include:
           - scraper: stop-birokraciji
             script: stop_birokraciji_scraper.py
+          - scraper: predlogi-vladi
+            script: proposals_scraper.py
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
