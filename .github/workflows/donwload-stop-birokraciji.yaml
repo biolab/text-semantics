@@ -25,7 +25,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # created by workflow
+          # GITHUB_TOKEN prevent running generate-index action at gh-pages
+          # this is why BIOLAB_HELPER_PAT must be used here
+          github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
           publish_dir: ./data/stop-birokraciji
           publish_branch: gh-pages
           destination_dir: stop-birokraciji
