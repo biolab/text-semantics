@@ -1,0 +1,11 @@
+Predlagam, da so vsi podatki iz poslovnih registrov in objav dostopni brezplačno tudi za nadaljno uporabo.
+1. Poslovni register Slovenije
+2. Objave sklepov in pisanj izdanih v postopkih zaradi insolventnosti
+3. Transakcijski računi poslovnih subjektov
+4. Javna objava letnih poročil
+5. DDV zavezanci
+Obrazložitev:
+1. vsi podatki so že danes javno dostopni s kompliciranimi metodami ročnega iskanja.
+2. Podjetja plačujemo za objavo letnih poročil na AJPES-u.
+3. Pri objavah v postopkih zaradi insolventnosti je zelo komplicirano ročno  preverjati vse kupce vsak dan.
+Predlog tehnike: Da bi se izognili investicijam v programsko in strojno opremo naj se podatki pretvorijo v XML datoteke, ki se jih podpiše s certifikatom, ki zagotavlja avtentičnost in datum, uro priprave ter odložijo na javno dostopno mesto. Alternativno  se jih lahko odlaga na enega od javnih strežnikov (dropbox, onedrive, google drive ....)
