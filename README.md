@@ -36,3 +36,14 @@ Skupnost je vzpostavljena na tem repozitoriju v [zavihku Issues](https://github.
 
 Za komentiranje in odpiranje razprave mora uporabnik ustvariti račun na platformi GitHub.
 
+## Document repository
+
+The document repository with automatically downloaded documents is available 
+[here](https://biolab.github.io/text-semantics/). It is served from the `gh-pages` 
+branch on this repository. 
+
+About architecture:
+- The `download-data` workflow for the main branch retrieves new data every Monday 
+  morning and pushes them to the `gh-pages` branch.
+- After each push to the `gh-pages` brach, another workflow is run that indexes 
+  the data and creates index pages for each directory (that user can browse data through the browser)

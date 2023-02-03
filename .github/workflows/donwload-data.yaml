@@ -1,9 +1,8 @@
 name: Download data
 
 on:
-  push:
-    branches:
-    - main  # todo: change to periodical
+  schedule:
+    - cron: '0 6 * * 1'  # run every monday at 6:00
 
 jobs:
   download-and-upload:
