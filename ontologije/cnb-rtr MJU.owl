@@ -1,0 +1,2049 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://onto.mju.gov.si/centralni-besednjak-rtr"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://onto.mju.gov.si/centralni-besednjak-rtr"
+     versionIRI="http://onto.mju.gov.si/centralni-besednjak-rtr/1.0.0">
+    <Prefix name="" IRI="http://onto.mju.gov.si/centralni-besednjak-rtr#"/>
+    <Prefix name="cnb" IRI="http://onto.mju.gov.si/centralni-besednjak-core#"/>
+    <Prefix name="crp" IRI="http://onto.mju.gov.si/centralni-besednjak-crp#"/>
+    <Prefix name="m8g" IRI="http://data.europa.eu/m8g/"/>
+    <Prefix name="nio" IRI="http://onto.mju.gov.si/centralni-besednjak-nio#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="pav" IRI="http://purl.org/pav/2.3#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rpe" IRI="http://onto.mju.gov.si/centralni-besednjak-rpe#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="adms" IRI="http://purl.org/adms/status/"/>
+    <Prefix name="locn" IRI="http://www.w3.org/ns/locn#"/>
+    <Prefix name="prov" IRI="http://www.w3.org/ns/prov#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="wacl" IRI="http://www.w3.org/ns/auth/acl#"/>
+    <Prefix name="legal" IRI="http://www.w3.org/ns/legal#"/>
+    <Prefix name="schema" IRI="https://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://dublincore.org/2012/06/14/dcterms#"/>
+    <Prefix name="sifranti" IRI="http://onto.mju.gov.si/centralni-besednjak-sifranti#"/>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-crp</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-rpe</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-sifranti</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-core/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-prs/1.0.0</Import>
+    <Import>http://www.w3.org/2004/02/skos/core</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+        <Literal>20.9.2020</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal>Igor Tričkovič Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>adms:UnderDevelopment</AbbreviatedIRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+        <Literal>rtr</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+        <Literal>http://onto.mju.gov.si/centralni-besednjak-rtr</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal>Ontologija vsebuje shemo Registra transakcijskih računov (rtr) in razširja shemo osnovnega centralnega besednjaka.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:backwardCompatibleWith"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#BancniRacun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ImetnikRacuna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IzvozPodatkovIzRTR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PonudnikPlacilnihStoritev"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PorocevalecZaPodatkeOTR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RegisterTransakcijskihRacunov"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifrantAktivnostiUporabnikov"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifrantIzvoraSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifrantTipovNaslovov"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifrantVrstImetnikovRacuna"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifrantVrstSpremembRacuna"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaImetnikaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaNaslov"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaPonudnikaPlacilnihStoritev"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaRacun"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ime"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#jeNaslov"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#nudiRacun"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#priimek"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#IBAN"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#IBANBanke"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumOdprtjaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumPripraveIzvozaPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumVeljavnostiSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumVpisaporabnika"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumZaprtjaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#identifikacijskaOznakaImetnikaTujca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#kratkoImeRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nazivRacunaZaPlacilniPromet"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nazivSifreTipaNalova1"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#oznakaEvidenceNeporavnanihObveznosti"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#popolnoImeRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraAktivnostiUporabnika"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraDelaRegistraRTR"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraIzvoraSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraTipaNaslova"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraVrsteImetnikaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraVrsteSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stevilkaRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloImetnikovRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloRacunov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:IzvozPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="sifranti:sifraDrzaveRpeZaNaseljeVtujini"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:BancniRacun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error3"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="sifranti:nazivDrzaveSifrantRPE"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Porocevalec"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Ponudnik"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#BancniRacun"/>
+        <Class abbreviatedIRI="cnb:BancniRacun"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ImetnikRacuna"/>
+        <Class abbreviatedIRI="cnb:Oseba"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IzvozPodatkovIzRTR"/>
+        <Class abbreviatedIRI="cnb:IzvozPodatkov"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+        <Class abbreviatedIRI="cnb:Naslov"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PonudnikPlacilnihStoritev"/>
+        <Class abbreviatedIRI="cnb:Ponudnik"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PorocevalecZaPodatkeOTR"/>
+        <Class abbreviatedIRI="cnb:Porocevalec"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RegisterTransakcijskihRacunov"/>
+        <Class abbreviatedIRI="cnb:Register"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifrantAktivnostiUporabnikov"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifrantIzvoraSpremembe"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifrantTipovNaslovov"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifrantVrstImetnikovRacuna"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifrantVrstSpremembRacuna"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#nudiRacun"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaImetnikaRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaNaslov"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaPonudnikaPlacilnihStoritev"/>
+        <Class IRI="#BancniRacun"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaRacun"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ime"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#jeNaslov"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#nudiRacun"/>
+        <Class IRI="#PonudnikPlacilnihStoritev"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#priimek"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaImetnikaRacuna"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#imaImetnikaRacuna"/>
+            <Class IRI="#ImetnikRacuna"/>
+        </ObjectMinCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaNaslov"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#imaNaslov"/>
+            <Class IRI="#NaslovImetnikaRacuna"/>
+        </ObjectMinCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaPonudnikaPlacilnihStoritev"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#imaPonudnikaPlacilnihStoritev"/>
+            <Class IRI="#PonudnikPlacilnihStoritev"/>
+        </ObjectExactCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaRacun"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#imaRacun"/>
+            <Class IRI="#BancniRacun"/>
+        </ObjectExactCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ime"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error4"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ime"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error5"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ime"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error6"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#jeNaslov"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#jeNaslov"/>
+            <Class IRI="#ImetnikRacuna"/>
+        </ObjectExactCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#nudiRacun"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#nudiRacun"/>
+            <Class IRI="#BancniRacun"/>
+        </ObjectMinCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#priimek"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error1"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#priimek"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error2"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#priimek"/>
+        <Class IRI="http://org.semanticweb.owlapi/error#Error3"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#IBAN"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#IBANBanke"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumOdprtjaRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumPripraveIzvozaPodatkov"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumVeljavnostiSpremembe"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumVpisaporabnika"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumZaprtjaRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#identifikacijskaOznakaImetnikaTujca"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#kratkoImeRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:kratkoIme"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#nazivRacunaZaPlacilniPromet"/>
+        <DataProperty abbreviatedIRI="cnb:ime"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#oznakaEvidenceNeporavnanihObveznosti"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#popolnoImeRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:polnoIme"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraAktivnostiUporabnika"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraDelaRegistraRTR"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraIzvoraSpremembe"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraTipaNaslova"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraVrsteImetnikaRacuna"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraVrsteSpremembe"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#stevilkaRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#stevilkaRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:stevilka"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS"/>
+        <DataProperty abbreviatedIRI="cnb:stevilka"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloImetnikovRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloRacunov"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://onto.gov.si/centralni-besednjak-furs#davcnaStevilka"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#kratkoImeEnotePoslovnegaRegistra"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>maticnaPps</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Identifikator ponudnika plačilnih storitev - matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev je matična številka kreditne institucije v času odprtja transakcijskega računa.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">identifikator ponudnika plačilnih storitev</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveriti ali je to dejansko matična številka iz PRS.</Literal>
+        </Annotation>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>matSub</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Matična številka imetnika transakcijskega računa, ki je vpisan v PRS.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">matična številka imetnika transakcijskega računa</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveriti ali je to dejansko matična številka iz PRS.</Literal>
+        </Annotation>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Identifikator ponudnika plačilnih storitev, 
+
+Identifikator ponudnika je matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev, za katerega poroča poročevalec (osnovna 7 mestna matična številka + 000).
+
+cnb:interniNaziv: maticnaPps</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">identifikator poročevalca
+
+Identifikator poročevalca je matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev (lahko poroča zase ali za drugega ponudnika).
+
+cnb:interniNaziv: maticnaPorocevalec</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveriti ali je to dejansko matična številka iz PRS.</Literal>
+        </Annotation>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Class IRI="#IzvozPodatkovIzRTR"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>maticnaPps</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Identifikator ponudnika je matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev, za katerega poroča poročevalec (osnovna 7 mestna matična številka + 000)</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">identifikator ponudnika plačilnih storitev</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveriti ali je to dejansko matična številka iz PRS.</Literal>
+        </Annotation>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Class IRI="#PonudnikPlacilnihStoritev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>maticnaPorocevalec</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Identifikator poročevalca je matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev (lahko poroča zase ali za drugega ponudnika).</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">identifikator poročevalca</Literal>
+        </Annotation>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Class IRI="#PorocevalecZaPodatkeOTR"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#popolnoImeEnotePoslovnegaRegistra"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:MIDHisneStevilke"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:dodatekHisneStevilke"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:hisnaStevilka"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:imePoste"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:imeUlice"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:sifraNaselja"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:sifraObcine"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:sifraPoste"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:sifraUlice"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#IBAN"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#IBANBanke"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumOdprtjaRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumPripraveIzvozaPodatkov"/>
+        <Class IRI="#IzvozPodatkovIzRTR"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumVeljavnostiSpremembe"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumVpisaporabnika"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumZaprtjaRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#identifikacijskaOznakaImetnikaTujca"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#kratkoImeRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivRacunaZaPlacilniPromet"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivSifreTipaNalova1"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivSifreTipaNalova1"/>
+        <Class IRI="#SifrantTipovNaslovov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#oznakaEvidenceNeporavnanihObveznosti"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#popolnoImeRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraAktivnostiUporabnika"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraAktivnostiUporabnika"/>
+        <Class IRI="#SifrantAktivnostiUporabnikov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraDelaRegistraRTR"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraIzvoraSpremembe"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraIzvoraSpremembe"/>
+        <Class IRI="#SifrantIzvoraSpremembe"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraTipaNaslova"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraTipaNaslova"/>
+        <Class IRI="#SifrantTipovNaslovov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrsteImetnikaRacuna"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrsteImetnikaRacuna"/>
+        <Class IRI="#SifrantVrstImetnikovRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrsteSpremembe"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrsteSpremembe"/>
+        <Class IRI="#SifrantVrstSpremembRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#stevilkaRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloImetnikovRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloRacunov"/>
+        <Class IRI="#IzvozPodatkovIzRTR"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:imeNaselja"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:imeObcine"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:maticnaStevilkaProracunskegaUporabnika"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:nazivDrzaveSifrantRPE"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>drz</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Šifra države določa državo sedeža oziroma prebivališča imetnika računa</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">šifra države imetnika</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="sifranti:sifraDrzaveRpeZaNaseljeVtujini"/>
+        <Class IRI="#ImetnikRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>sifDrzava</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Šifra države naslova  iz RPE ali podatek iz šifranta držav pri tujih naslovih.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">Šifra države</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+            <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveriti katera šifra države izmed mnogih je to.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="sifranti:sifraDrzaveRpeZaNaseljeVtujini"/>
+        <Class IRI="#NaslovImetnikaRacuna"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:sifraVrsteRacuna"/>
+        <Class IRI="#BancniRacun"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://onto.gov.si/centralni-besednjak-furs#davcnaStevilka"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#kratkoImeEnotePoslovnegaRegistra"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-prs#popolnoImeEnotePoslovnegaRegistra"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:hisnaStevilka"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:imeUlice"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:sifraNaselja"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:sifraObcine"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:sifraPoste"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rpe:sifraUlice"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#IBAN"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#IBANBanke"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumOdprtjaRacuna"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumPripraveIzvozaPodatkov"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumVeljavnostiSpremembe"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumVpisaporabnika"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumZaprtjaRacuna"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#identifikacijskaOznakaImetnikaTujca"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#kratkoImeRacuna"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#nazivRacunaZaPlacilniPromet"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#oznakaEvidenceNeporavnanihObveznosti"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#popolnoImeRacuna"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraAktivnostiUporabnika"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraDelaRegistraRTR"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraIzvoraSpremembe"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraTipaNaslova"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraVrsteImetnikaRacuna"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#sifraVrsteSpremembe"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#stevilkaRacuna"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#steviloImetnikovRacuna"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#steviloRacunov"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="sifranti:imeNaselja"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="sifranti:maticnaStevilkaProracunskegaUporabnika"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="sifranti:nazivDrzaveSifrantRPE"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="sifranti:sifraDrzaveRpeZaNaseljeVtujini"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-furs#davcnaStevilka</IRI>
+        <Literal>davcna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-furs#davcnaStevilka</IRI>
+        <Literal xml:lang="sl">8-mestna davčna številka imetnika računa, ki je vpisan v Register davčnih zavezancev (RDZ) – poslovni subjekti oziroma v Centralni register prebivalstva (CRP)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-furs#davcnaStevilka</IRI>
+        <Literal xml:lang="sl">PRS: Davčna številka je številka, ki jo enoti poslovnega registra, ustanovitelju, zastopniku in članu organa nadzora  dodeli Finančna uprava Republike Slovenije (FURS). Davčna številka se dodeli davčnemu zavezancu na način in pod pogoji, določenimi z Zakonom o davčnem postopku in zakonom, ki ureja FURS. 
+Davčna številka samostojnih podjetnikov posameznikov in drugih fizičnih oseb, ki opravljajo dejavnost in se vpišejo v PRS, je enaka davčni številki fizične osebe kot nosilca dejavnosti. Deli poslovnih subjektov imajo enako davčno številko kot poslovni subjekti.
+
+Podatek iz davčnega registra, ki je enotna, z drugim evidencami povezana, informatizirana zbirka podatkov o zavezancih. Na podlagi  Zakona o finančni upravi (Uradni list RS, št. 25/14) (ZFU) ga vodi in upravlja Finančna uprava Republike Slovenije (FURS). Vzpostavljen je bil konec leta 1996 na podlagi davčne številke in drugih podatkov, ki so določeni z ZFU.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#kratkoImeEnotePoslovnegaRegistra</IRI>
+        <Literal>KratkoIme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#kratkoImeEnotePoslovnegaRegistra</IRI>
+        <Literal xml:lang="sl">Kratek naziv poslovnega subjekta iz PRS ali vnos pri PPS za tuje poslovne subjekte. Podatek ni obvezen.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#kratkoImeEnotePoslovnegaRegistra</IRI>
+        <Literal xml:lang="sl">kratek naziv poslovnega subjekta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS</IRI>
+        <Literal xml:lang="sl">Enolična identifikacija vsake enote poslovnega registra, ki jo ob vpisu v poslovni register dodeli upravljavec registra in se ne spreminja. Ob prenehanju enote poslovnega registra se ne sme dodeliti drugi enoti poslovnega registra.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#maticnaStevilkaEnotePRS</IRI>
+        <Literal xml:lang="sl">Podrobnosti so v metapodakih za posamezni &quot;Domain&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#popolnoImeEnotePoslovnegaRegistra</IRI>
+        <Literal xml:lang="sl">PopolnoIme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#popolnoImeEnotePoslovnegaRegistra</IRI>
+        <Literal xml:lang="sl">Naziv poslovnega subjekta iz PRS ali vnos pri PPS za tuje poslovne subjekte.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://onto.mju.gov.si/centralni-besednjak-prs#popolnoImeEnotePoslovnegaRegistra</IRI>
+        <Literal xml:lang="sl">naziv poslovnega subjekta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:MIDHisneStevilke</AbbreviatedIRI>
+        <Literal>sifHsmid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:MIDHisneStevilke</AbbreviatedIRI>
+        <Literal xml:lang="sl">Enolična oznaka hišne številke. Podatek iz RPE oziroma prazno pri tujih naslovih</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:dodatekHisneStevilke</AbbreviatedIRI>
+        <Literal>dodatek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:dodatekHisneStevilke</AbbreviatedIRI>
+        <Literal xml:lang="sl">Podatek iz RPE ali prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:hisnaStevilka</AbbreviatedIRI>
+        <Literal>stHisna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:hisnaStevilka</AbbreviatedIRI>
+        <Literal>Podatek iz RPE ali vnesen podatek pri tujih naslovih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal>Posta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv pošte (običajno enako naselju/kraju, kjer se pošta nahaja. Podatek iz RPE ali vnesen podatek pri tujih naslovih vključno s poštno številko.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">naziv pošte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:imeUlice</AbbreviatedIRI>
+        <Literal>Ulica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:imeUlice</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv iz RPE ali vnesen podatek  (tuji naslovi, vključno s hišno številko in dodatkom).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>rpe:imeUlice</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv ulice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:sifraNaselja</AbbreviatedIRI>
+        <Literal>sifNaselje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:sifraNaselja</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra iz RPE ali prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <AbbreviatedIRI>rpe:sifraNaselja</AbbreviatedIRI>
+        <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:sifraObcine</AbbreviatedIRI>
+        <Literal>sifObcina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:sifraObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra iz RPE ali prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <AbbreviatedIRI>rpe:sifraObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal>sifPosta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">Podatek iz RPE ali prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">Poštna številka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:sifraUlice</AbbreviatedIRI>
+        <Literal>sifUlica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>rpe:sifraUlice</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra iz RPE ali prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <AbbreviatedIRI>rpe:sifraUlice</AbbreviatedIRI>
+        <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal xml:lang="sl">CAM: BancniRacunPovezava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal>Račun (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal xml:lang="sl">Po zakonski definiciji je transakcijski račun plačilni račun, ki ga odpre banka s sedežem v Republiki Sloveniji ali podružnica banke države članice v Republiki Sloveniji v imenu enega uporabnika ali več uporabnikov za namene izvrševanja plačilnih transakcij in druge namene, povezane z opravljanjem bančnih storitev za uporabnika. Denarna sredstva na transakcijskem računu se štejejo kot vpogledni denarni depozit.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal xml:lang="sl">Povezava do enega ali več bančnih računov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal xml:lang="sl">13. člen Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BancniRacun</IRI>
+        <Literal xml:lang="sl">Transakcijski račun v Registru transakcijskih računih</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#IBAN</IRI>
+        <Literal>iban</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IBAN</IRI>
+        <Literal xml:lang="sl">Številka plačilnega računa je oblikovana v strukturi IBAN, ki je določena s standardom ISO 13616.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#IBAN</IRI>
+        <Literal xml:lang="sl">4. člen Sklepa o vsebini in uporabi slovenske strukture mednarodne številke bančnega računa (Uradni list RS, št. 85/16).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IBAN</IRI>
+        <Literal xml:lang="sl">IBAN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#IBAN</IRI>
+        <Literal xml:lang="sl">IBAN številko transakcijskega računa (»SI56«):
+• dva črkovna znaka - oznaki za državo po ISO standardu,
+• dva numerična kontrolna znaka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#IBANBanke</IRI>
+        <Literal xml:lang="sl">IBAN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IBANBanke</IRI>
+        <Literal xml:lang="sl">IBAN koda banke</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IBANBanke</IRI>
+        <Literal xml:lang="sl">IBAN banke</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#IBANBanke</IRI>
+        <Literal xml:lang="sl">Samo v CAM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ImetnikRacuna</IRI>
+        <Literal>Imetnik računa (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ImetnikRacuna</IRI>
+        <Literal xml:lang="sl">Vrsta imetnika računa (atribut vrsta) je lahko: I – imetnik, U – uporabnik. V primeru, da imetnik fizična oseba uporablja isti račun tudi za namen opravljanja dejavnosti se uporabnik prikazuje v javnem delu registra. Imetnik fizična oseba se prikazuje v zasebnem delu RTR, imetnik poslovni subjekt pa v javnem delu registra.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ImetnikRacuna</IRI>
+        <Literal xml:lang="sl">Imetnik transakcijskega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#ImetnikRacuna</IRI>
+        <Literal xml:lang="sl">Imetnik računa vsebuje naslednje atribute: davcna
+matSub; prorup; idTuj; drz; PopolnoIme; KratkoIme; Priimekkr; Ime; ak; dVpisUp; vrsta.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="vann:usageNote"/>
+        <IRI>#IzvozPodatkovIzRTR</IRI>
+        <Literal xml:lang="sl">Za zaračunavanje cene za ponovno uporabo informacij javnega značaja je MJU izdal odločbo, št. 090-32/2020/3 z dne 20.3.2020.
+
+Za pridobitev podatkov morajo uporabniki izpolniti naročilnico. AJPES uporabniku izda odločbo za nedoločen čas in mu posreduje uporabniško ime in geslo za dostop do xml datotek.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IzvozPodatkovIzRTR</IRI>
+        <Literal xml:lang="sl">AJPES za uporabnike podatkov Registra transakcijskih računov (RTR), ki ga vodi, podatke pripravlja tudi v XML datotekah, ki se dnevno odlagajo na datotečna področja na poseben strežnik prenos.ajpes.si, kjer so na voljo uporabnikom za prevzem prek FTP protokola. Podatki so namenjeni uporabnikom, ki jim posamični vpogled v podatke RTR prek spletnega portala AJPES ne zadostuje in bi radi podatke o transakcijskih računih (TR) in njihovih imetnikih masovno vključili v lastne informacijske sisteme. 
+
+Podatki iz RTR v obliki XML datotek sodijo med podatke, ki jih AJPES zagotavlja v okviru ponovne uporabe podatkov javnega značaja.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IzvozPodatkovIzRTR</IRI>
+        <Literal xml:lang="sl">Izvoz podatkov iz Registra transakcijskih računov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#IzvozPodatkovIzRTR</IRI>
+        <Literal>http://www.ajpes.si/Registri/Transakcijski_racuni/Splosno?id=69</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal>Naslov imetnika (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Podatki obsegajoči v Zakonu o prijavi prebivališča (Uradni list RS, št. 52/16)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Naslov imetnika transakcijskega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Naslov imetnika računa vsebuje atribute sifTipNaslova; TipNaslova; sifDrzava
+Drzava; sifObcina;Obcina; sifUlica; Ulica; stHisna; dodatek; sifHsmid; sifNaselje; Naselje; sifPosta; Posta.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Naslov imetnikov poslovnih subjektov se usklajuje s Poslovnim registrom Slovenije. Naslov imetnikov fizičnih oseb se usklajuje s Centralnim registrom Slovenije.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#NaslovImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Če je naslov v republiki Sloveniji, so vpisane šifre iz RPE, sicer je polje šifre prazno (npr. tuji naslovi), dejanski podatki pa so vpisani v tekstualnih poljih naslova.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#PonudnikPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">Ponudnik plačilnih storitev je banka ali hranilnica, ki lahko v skladu z zakonom, ki ureja bančništvo, opravlja plačilne storitve (8. člen Zakona o preprečevanju zamud pri plačilih (Uradni list RS, št. 57/12 in 61/20 – ZDLGPE).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PonudnikPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">Ponudnik plačilnih storitev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#PonudnikPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">Ustvarjena tabela, ki je ni v XML izvozu podatkov.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#PonudnikPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">Banke, ki vodijo transakcijske račune in oddajajo sefe, Banka Slovenije glede računov bank in hranilnic, ki jih vodi v skladu z zakonom, ter UJP glede podračunov, ki jih vodi v skladu z zakonom, agenciji tekoče zagotavljajo podatke za vzpostavitev in vodenje registra transakcijskih računov, razen podatkov o dejanskih lastnikih imetnikov transakcijskih računov, ki se prevzemajo iz registra dejanskih lastnikov. (192. člen Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)). Točnost in ažurnost podatko se zagotavljata s povezavo registra transakcijskih računov s Poslovnim registrom Slovenije, registrom dejanskih lastnikov, centralnim registrom prebivalstva ali davčnim registrom, prek katerih se podatki avtomatično prevzemajo v register transakcijskih računov. Prevzemanje in povezovanje podatkov potekata z uporabo davčne številke. (4. odstavek 192. člena Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#PonudnikPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">Identifikator ponudnika je matična številka aktivnega ali zbrisanega ponudnika plačilnih storitev, za katerega poroča poročevalec (osnovna 7 mestna matična številka + 000).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#PorocevalecZaPodatkeOTR</IRI>
+        <Literal xml:lang="sl">Posamezna banka (ponudnik plačilnih storitev) bo posredovala podatke za račune, ki bodo odprti pri njeni banki ali pa bo za to pooblastila drugo banko (poročevalca).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PorocevalecZaPodatkeOTR</IRI>
+        <Literal xml:lang="sl">Poročevalec za podatke o transakcijskih računih</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#PorocevalecZaPodatkeOTR</IRI>
+        <Literal xml:lang="sl">Ustvarjena tabela, ki je ni v XML izvozu podatkov.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">Agencija Republike Slovenije za javnopravne evidence in storitve (AJPES)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">(1) Register transakcijskih računov je enotna informatizirana baza podatkov o transakcijskih računih in o imetnikih transakcijskih računov.
+(2) Register transakcijskih računov vzpostavi in upravlja Agencija Republike Slovenije za javnopravne evidence in storitve</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">191. člen Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20):
+(1) Register transakcijskih računov je enotna informatizirana baza podatkov o transakcijskih računih in sefih ter imetnikih transakcijskih računov, pooblaščencih imetnikov transakcijskih računov, dejanskih lastnikih transakcijskih računov ter najemnikih sefov.
+(2) Register transakcijskih računov vzpostavi in upravlja Agencija Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu: agencija).
+
+V Registru transakcijkih računih se skladno z Aktom o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.)
+(1) V RTR  obdelujejo:
+-        podatki o imetniku transakcijskega računa,
+-        podatki o transakcijskem računu in
+-        podatki o ponudniku plačilnih storitev.
+
+Relevanta zakonodaja s področja Registra transakcijkih računov je sledeča:
+
+AJPES-u in posledično v RTR podatke zagotavljajo Banke, ki vodijo transakcijske račune in oddajajo sefe, Banka Slovenije glede računov bank in hranilnic, ki jih vodi v skladu z zakonom, ter UJP glede podračunov, ki jih vodi v skladu z zakonom, agenciji tekoče zagotavljajo podatke za vzpostavitev in vodenje registra transakcijskih računov, razen podatkov o dejanskih lastnikih imetnikov transakcijskih računov, ki se prevzemajo iz registra dejanskih lastnikov.
+(Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">- Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20) http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO7574
+- Akt o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.) http://www.pisrs.si/Pis.web/pregledPredpisa?id=AKT_1045.
+- Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (ZPlaSSIED).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">Register transakcijskih računov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal>https://www.ajpes.si/Registri/Transakcijski_racuni/Splosno?id=69</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">RTR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">Pojem definiran samo v zakonodaji.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">Podatki o transakcijskih računih in sefih ter njihovih imetnikih, pooblaščencih in dejanskih lastnikih imetnikov oziroma najemnikih se obdelujejo v registru transakcijskih računov (RTR) z namenom, da se zagotovi centralizirani dostop do teh podatkov (193. člen Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)).
+
+Podatki v registru transakcijskih računov so javni in brezplačno dostopni na spletni strani agencije. Določba ne velja za podatke o pooblaščencih in dejanskih lastnikih imetnikov transakcijskih računov ter sefih in osebne podatke fizičnih oseb, razen za podatke o transakcijskih računih podjetnikov in zasebnikov, ki se uporabljajo za opravljanje dejavnosti. Namen javne objave podatkov o transakcijskih računih podjetnikov in zasebnikov, ki se uporabljajo za opravljanje dejavnosti, je zagotavljanje varnosti pravnega prometa v zvezi z opravljanjem dejavnosti (1. odstavek 194. člena Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)).
+
+Za postopke odločanja o zahtevah za pridobitev podatkov iz registra transakcijskih računov se uporablja zakon, ki ureja splošni upravni postopek, če v ZPlaSSIED ni določeno drugače. Če agencija zahtevi ugodi, posreduje prosilcu potrdilo o podatkih iz registra transakcijskih računov v skladu s predpisom iz 192. člena tega zakona (196. člen Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#RegisterTransakcijskihRacunov</IRI>
+        <Literal xml:lang="sl">Register transakcijskih računov je mnogokrat zabeležen s kratico RTR. Glej primere v zakonodaji:
+Navodilo za vlaganje zahtev za pridobitev osebnih podatkov fizičnih oseb iz registra transakcijskih računov v elektronski obliki
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=NAVO1148
+Tarifa nadomestil stroškov za posredovanje podatkov o transakcijskih računih fizičnih oseb iz registra transakcijskih računov
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=TARI211
+
+Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20)
+Akt o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.)
+Navodilo za vlaganje zahtev za pridobitev osebnih podatkov fizičnih oseb iz registra transakcijskih računov v elektronski obliki (Uradni list RS, št. 33/18)
+Tarifa nadomestil stroškov za posredovanje podatkov o transakcijskih računih fizičnih oseb iz registra transakcijskih računov (Uradni list RS, št. 33/18)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifrantAktivnostiUporabnikov</IRI>
+        <Literal xml:lang="sl">Šifrant aktivnosti uporabnikov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#SifrantAktivnostiUporabnikov</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti: A – aktiven poslovni subjekt,
+N – neaktiven poslovni subjekt
+
+Pri računu za javni del registra preveri v registru PRS, če v njem obstaja imetnik s podano davčno številko in matično številko (aktiven ali neaktiven poslovni subjekt).
+
+V javnem delu RTR se vodijo podatki o transakcijskih računih, katerih imetnik je poslovni subjekt. V delu RTR za fizične osebe pa se vodijo podatki o transakcijskih računih, katerih imetniki so fizične osebe (3. člen Akta o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.)).
+
+AJPES zagotavlja točnost in ažurnost podatkov v RTR s povezovanjem z drugimi registri, in sicer: s Poslovnim registrom (PRS), Centralnim registrom prebivalstva (CRP) in z davčnim registrom. Za povezovanje z registri se uporablja davčna številka kot enolična identifikacijska oznaka (4. člen Akta o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifrantIzvoraSpremembe</IRI>
+        <Literal xml:lang="sl">Šifrant izvora spremembe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#SifrantIzvoraSpremembe</IRI>
+        <Literal xml:lang="sl">Oznaka izvora spremembe podatkov (Dovoljene vrednosti):  na osnovi zahteve ponudnika plačilnih storitev (B) ali na osnovi spremembe podatkov v primarnih registrih (R)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifrantTipovNaslovov</IRI>
+        <Literal xml:lang="sl">Šifrant tipov naslovov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#SifrantTipovNaslovov</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti: 01 – Stalno bivališče; 02 – Začasno bivališče; 03 – Tujina; 99 - Neznano
+
+Stalno prebivališče je naslov v Republiki Sloveniji, na katerem posameznik stalno prebiva, in je ta naslov središče njegovih življenjskih interesov, kar se presoja na podlagi njegovih družinskih, partnerskih, delovnih, ekonomskih, socialnih in drugih vezi, ki kažejo, da med posameznikom in naslovom, kjer živi, obstajajo tesne in trajne povezave (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).
+Začasno prebivališče je naslov v Republiki Sloveniji, na katerem posameznik začasno prebiva zaradi dela, šolanja, prestajanja kazni ali drugih razlogov (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).
+(Tujina) »Stalni naslov v tujini« in »začasni naslov v tujini« je naslov, ki ga posameznik navede, ko se stalno oziroma začasno naseli v tujini ali spremeni naslov v tujini. Naslov v tujini sestavljajo ime in koda države, ime ožjega območja, če v državi obstaja, kraj, ulica in hišna številka ter dodatek k hišni številki in številka stanovanja, če obstajata, poštna številka in ime pošte oziroma drugi podatki, ki se v tujini štejejo kot sestavni del naslova (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifrantVrstImetnikovRacuna</IRI>
+        <Literal xml:lang="sl">Šifrant vrst imetnikov transakcijkih računov.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#SifrantVrstImetnikovRacuna</IRI>
+        <Literal xml:lang="sl">Dodatno glej Prilogo Akt o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.):
+Priloga: Črkovne oznake računa http://www.pisrs.si/Pis.web/npb/2018-01-1760-p1.pdf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#SifrantVrstImetnikovRacuna</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti: I – imetnik, U – uporabnik</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifrantVrstSpremembRacuna</IRI>
+        <Literal xml:lang="sl">Šifrant vrst sprememb računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#SifrantVrstSpremembRacuna</IRI>
+        <Literal xml:lang="sl">Odpiranje in zapiranje transakcijskih računov natančneje predpisuje Navodilo o načinu in postopku vodenja računov bank, hranilnic in hranilno kreditnih služb pri Banki Slovenije (Uradni list RS, št. 22/98, 41/01, 45/02 in 58/02 – ZBS-1).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#SifrantVrstSpremembRacuna</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti: odprtje računa (O), zaprtje računa (Z), spremembo atributov obstoječega računa (S), ponovno aktiviranje že zaprtega računa (R).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumOdprtjaRacuna</IRI>
+        <Literal>dOdprt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumOdprtjaRacuna</IRI>
+        <Literal xml:lang="sl">Datum odprtja računa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumOdprtjaRacuna</IRI>
+        <Literal xml:lang="sl">datum odprtja računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumPripraveIzvozaPodatkov</IRI>
+        <Literal>datumPriprave</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumPripraveIzvozaPodatkov</IRI>
+        <Literal xml:lang="sl">Datum priprave podatkov, ki jih vsebuje datoteka.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumPripraveIzvozaPodatkov</IRI>
+        <Literal xml:lang="sl">datum priprave izvoza podatkov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumVeljavnostiSpremembe</IRI>
+        <Literal>dSpre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumVeljavnostiSpremembe</IRI>
+        <Literal xml:lang="sl">Datum veljavnosti spremembe predstavlja datum, ko posredovana sprememba začne veljati (uporabniki prejmejo samo že veljavne podatke, torej z datumom, ki je manjši ali enak datumu priprave podatkov)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumVeljavnostiSpremembe</IRI>
+        <Literal xml:lang="sl">datum veljavnosti spremembe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumVpisaporabnika</IRI>
+        <Literal>dVpisUp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumVpisaporabnika</IRI>
+        <Literal xml:lang="sl">Datum vpisa uporabnika.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumVpisaporabnika</IRI>
+        <Literal xml:lang="sl">datum vpisa uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumZaprtjaRacuna</IRI>
+        <Literal>dZaprt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumZaprtjaRacuna</IRI>
+        <Literal xml:lang="sl">Datum zaprtja računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumZaprtjaRacuna</IRI>
+        <Literal xml:lang="sl">datum zaprtja računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#identifikacijskaOznakaImetnikaTujca</IRI>
+        <Literal>idTuj</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#identifikacijskaOznakaImetnikaTujca</IRI>
+        <Literal xml:lang="sl">Enolična identifikacijska oznaka imetnika transakcijskega računa – tujcev, ki niso vpisani v CRP ali RDZ.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#identifikacijskaOznakaImetnikaTujca</IRI>
+        <Literal xml:lang="sl">identifikacijska oznaka tujega imetnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#identifikacijskaOznakaImetnikaTujca</IRI>
+        <Literal xml:lang="sl">Imetniki, ki niso vpisani v obstoječe informatizirane baze (CRP, PRS, RDZ) jih vnašajo ponudniki plačilnih storitev. (Banke poročevalke).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#imaImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Posamezen transakcijski račun ima lahko več imetnikov (v večini primerov ima sicer enega), vsak imetnik pa več naslovov (stalni in začasni).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">ima imetnika računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#imaNaslov</IRI>
+        <Literal xml:lang="sl">Vsak imetnik ima lahko več naslovov (stalni in začasni). Stalno prebivališče je naslov v Republiki Sloveniji, na katerem posameznik stalno prebiva, in je ta naslov središče njegovih življenjskih interesov, kar se presoja na podlagi njegovih družinskih, partnerskih, delovnih, ekonomskih, socialnih in drugih vezi, ki kažejo, da med posameznikom in naslovom, kjer živi, obstajajo tesne in trajne povezave (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).
+Začasno prebivališče je naslov v Republiki Sloveniji, na katerem posameznik začasno prebiva zaradi dela, šolanja, prestajanja kazni ali drugih razlogov (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).
+(Tujina) »Stalni naslov v tujini« in »začasni naslov v tujini« je naslov, ki ga posameznik navede, ko se stalno oziroma začasno naseli v tujini ali spremeni naslov v tujini. Naslov v tujini sestavljajo ime in koda države, ime ožjega območja, če v državi obstaja, kraj, ulica in hišna številka ter dodatek k hišni številki in številka stanovanja, če obstajata, poštna številka in ime pošte oziroma drugi podatki, ki se v tujini štejejo kot sestavni del naslova (2. člen Zakona o prijavi prebivališča (Uradni list RS, št. 52/16)).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaNaslov</IRI>
+        <Literal xml:lang="sl">ima naslov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaPonudnikaPlacilnihStoritev</IRI>
+        <Literal xml:lang="sl">ima ponudnika plačilnih storitev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaRacun</IRI>
+        <Literal xml:lang="sl">ima račun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#imaRacun</IRI>
+        <Literal xml:lang="sl">Obstoj transakcijskega računa je pogoj za obstoj imetnika in/ali uporabnika transakcijskega računa in imperativ za vpis v Register transkcijskih računov.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ime</IRI>
+        <Literal>Ime</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ime</IRI>
+        <Literal xml:lang="sl">Ime ali imeni z ustreznim vezajem, kadar se podatki prevzemajo iz CRP, sicer vnesen  podatek ponudnikov plačilnih storitev.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ime</IRI>
+        <Literal xml:lang="sl">Ime fizične osebe je del atributa pripisanega imetniku in/ali uporabniku transakcijskega računa. V 192. členu Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20) je določeno, kateri podatki (poleg imena) se vodijo v RTR.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#ime</IRI>
+        <Literal xml:lang="sl">Definicijo in obseg pomena imena fizične osebe določa Zakon o osebnem imenu (Uradni list RS, št. 20/06 in 43/19).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ime</IRI>
+        <Literal xml:lang="sl">ime fizične osebe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#jeNaslov</IRI>
+        <Literal xml:lang="sl">je naslov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#kratkoImeRacuna</IRI>
+        <Literal>KratkoImeRacuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#kratkoImeRacuna</IRI>
+        <Literal xml:lang="sl">Kratek naziv računa, če je različen od kratkega naziva imetnika v primarnih registrih sicer prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#kratkoImeRacuna</IRI>
+        <Literal xml:lang="sl">kratek naziv transakcijskega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#nazivRacunaZaPlacilniPromet</IRI>
+        <Literal>NazivPp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#nazivRacunaZaPlacilniPromet</IRI>
+        <Literal xml:lang="sl">Naziv imetnika računa, ki se uporablja za plačilni promet (skrajšan za potrebe uporabe v okviru plačilnih instrumentov, zagotavljajo ga ponudniki plačilnih storitev).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#nazivRacunaZaPlacilniPromet</IRI>
+        <Literal xml:lang="sl">naziv računa za plačilni promet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#nazivSifreTipaNalova1</IRI>
+        <Literal>TipNaslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#nazivSifreTipaNalova1</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti: 01 – Stalno bivališče; 02 – Začasno bivališče; 03 – Tujina; 99 - Neznano</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#nazivSifreTipaNalova1</IRI>
+        <Literal xml:lang="sl">Opis tipa naslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#nazivSifreTipaNalova1</IRI>
+        <Literal xml:lang="sl">naziv šifre tipa naslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#nudiRacun</IRI>
+        <Literal xml:lang="sl">nudi račun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#oznakaEvidenceNeporavnanihObveznosti</IRI>
+        <Literal>eno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#oznakaEvidenceNeporavnanihObveznosti</IRI>
+        <Literal xml:lang="sl">Gre za podatek,  da sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju. Podatek se skladno s 192. členom Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (Uradni list RS, št. 7/18, 9/18 – popr. in 102/20) obdeluje v registru transakcijskih računov.
+Kadar sredstva na transakcijskem računu ne zadoščajo za izvršitev sklepa o izvršbi ali zavarovanju imetnika računa, ponudnik plačilnih storitev takemu računu dodeli posebno oznako R. Ponudnik plačilnih storitev oznako R posreduje AJPES kot spremembo na transakcijskem računu. (1. in 2. odstavek 9. člena Akta o vodenju registra transakcijskih računov (Uradni list RS, št. 35/18 in 41/18 – popr.).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#oznakaEvidenceNeporavnanihObveznosti</IRI>
+        <Literal xml:lang="sl">Oznaka vzpostavljene evidence neporavnanih obveznosti na transakcijskem računu (R)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oznakaEvidenceNeporavnanihObveznosti</IRI>
+        <Literal xml:lang="sl">oznaka evidence neporavnanih obveznosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#popolnoImeRacuna</IRI>
+        <Literal>PopolnoImeRacuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#popolnoImeRacuna</IRI>
+        <Literal xml:lang="sl">Naziv računa, če je različen od naziva imetnika v primarnih registrih sicer prazno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#popolnoImeRacuna</IRI>
+        <Literal xml:lang="sl">popoln naziv transakcijskega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#priimek</IRI>
+        <Literal>Priimek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#priimek</IRI>
+        <Literal xml:lang="sl">Priimek ali priimka z ustreznim vezajem, kadar se podatki prevzemajo iz CRP, sicer vnesen  podatek ponudnikov plačilnih storitev.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#priimek</IRI>
+        <Literal xml:lang="sl">Definicijo in obseg pomena priimka določa Zakon o osebnem imenu (Uradni list RS, št. 20/06 in 43/19).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#priimek</IRI>
+        <Literal xml:lang="sl">priimek fizične osebe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraAktivnostiUporabnika</IRI>
+        <Literal xml:lang="sl">ak</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraAktivnostiUporabnika</IRI>
+        <Literal xml:lang="sl">Aktivnost uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraAktivnostiUporabnika</IRI>
+        <Literal xml:lang="sl">Dovoljene vrednosti:
+A – aktiven poslovni subjekt,
+N – neaktiven poslovni subjekt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraAktivnostiUporabnika</IRI>
+        <Literal xml:lang="sl">šifra aktivnosti uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraDelaRegistraRTR</IRI>
+        <Literal>reg</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraDelaRegistraRTR</IRI>
+        <Literal xml:lang="sl">Oznaka dela registra (P ali F)
+(P) – imetnik je pravna oseba
+(F) – imetnik je fizična oseba
+V javnem delu registra so samo računi  pravnih subjektov (vrsta P), pri čemer to pri skupnih računih pomeni, da morajo biti vsi imetniki pravne osebe. Če je eden od imetnikov fizična oseba se računu dodeli oznaka F, posledično  tak račun ni v javnem delu registra.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraDelaRegistraRTR</IRI>
+        <Literal xml:lang="sl">šifra dela registra RTR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraIzvoraSpremembe</IRI>
+        <Literal xml:lang="sl">vir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraIzvoraSpremembe</IRI>
+        <Literal xml:lang="sl">šifra izvora spremembe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraTipaNaslova</IRI>
+        <Literal xml:lang="sl">sifTipNaslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraTipaNaslova</IRI>
+        <Literal xml:lang="sl">šifra tipa naslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraTipaNaslova</IRI>
+        <Literal xml:lang="sl">šifra tipa naslova</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraVrsteImetnikaRacuna</IRI>
+        <Literal>vrsta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraVrsteImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">Vrsta imetnika.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraVrsteImetnikaRacuna</IRI>
+        <Literal xml:lang="sl">šifra vrste imetnika računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraVrsteSpremembe</IRI>
+        <Literal>sSpre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraVrsteSpremembe</IRI>
+        <Literal xml:lang="sl">šifra vrste spremembe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#stevilkaRacuna</IRI>
+        <Literal>m</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#stevilkaRacuna</IRI>
+        <Literal xml:lang="sl">15-mestna številka transakcijskega računa (BBAN)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#stevilkaRacuna</IRI>
+        <Literal xml:lang="sl">4. člen Sklep o vsebini in uporabi slovenske strukture mednarodne številke bančnega računa (Uradni list RS, št. 85/16):
+Številka plačilnega računa je oblikovana v strukturi IBAN, ki je določena s standardom ISO 13616.
+Številka plačilnega računa je sestavljena iz 19 črkovnih in numeričnih znakov, ki so razdeljeni v naslednje sklope, v zapisanem zaporedju:
+1.      oznaka države – Slovenije (d),
+2.      kontrolna številka plačilnega računa (e) in
+3.      del številke plačilnega računa, ki šteje kot osnovna številka bančnega računa (Basic Bank Account Number; v nadaljevanju BBAN) znotraj strukture IBAN in je razdeljen v naslednje sklope, v zapisanem zaporedju:
+-  nacionalna identifikacijska oznaka ponudnika plačilnih storitev (b),
+-  identifikacijska oznaka imetnika plačilnega računa pri ponudniku plačilnih storitev (a) in
+-  kontrolna številka BBAN (c).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#stevilkaRacuna</IRI>
+        <Literal xml:lang="sl">številka transakcijskega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#stevilkaRacuna</IRI>
+        <Literal xml:lang="sl">CAM: Številčna oznaka računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS</IRI>
+        <Literal>rnNasl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS</IRI>
+        <Literal xml:lang="sl">Številka transakcijskega računa pri pravnem nasledniku PPS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#stevilkaTransakcijskegaRavunaPriPravnemNaslednikuPPS</IRI>
+        <Literal xml:lang="sl">številka transakcijskega računa pri pravnem nasledniku PPS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloImetnikovRacuna</IRI>
+        <Literal>imet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloImetnikovRacuna</IRI>
+        <Literal xml:lang="sl">Število imetnikov računa, če je imetnikov več kot ena- Štejejo se samo imetniki brez uporabnikov računa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloImetnikovRacuna</IRI>
+        <Literal xml:lang="sl">število imetnikov računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloRacunov</IRI>
+        <Literal>steviloRacunov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloRacunov</IRI>
+        <Literal xml:lang="sl">Število transakcijskih računov, ki jih vsebuje datoteka (kontrolni podatek).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloRacunov</IRI>
+        <Literal xml:lang="sl">število transakcijskih računov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzaveISO2</AbbreviatedIRI>
+        <Literal>DrzavaISO2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzaveISO2</AbbreviatedIRI>
+        <Literal>Državljanstvo osebe: dvomestni identifikator države po ISO standardu.
+Po RPE in CRP (ITR)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzaveISO3</AbbreviatedIRI>
+        <Literal>DrzavaISO3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzaveISO3</AbbreviatedIRI>
+        <Literal>Državljanstvo osebe: tromestni identifikator države po ISO standardu.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imeNaselja</AbbreviatedIRI>
+        <Literal>Naselje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imeNaselja</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv naselja (kraja) naslova, ki je lahko različen od naselja/kraja pošte. Podatek iz RPE ali vneseni podatek pri tujih naslovih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv iz RPE sicer prazno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv občine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal>Obcina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal>prorup</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra proračunskega uporabnika (PU) iz PRS, če je imetnik vpisan v PRS (samo za PU – dodatna identifikacija)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">šifra proračunskega uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:nazivDrzaveSifrantRPE</AbbreviatedIRI>
+        <Literal>Drzava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:nazivDrzaveSifrantRPE</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv iz RPE ali podatek iz šifranta držav pri tujih naslovih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:nazivDrzaveSifrantRPE</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv države</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <AbbreviatedIRI>sifranti:nazivDrzaveSifrantRPE</AbbreviatedIRI>
+        <Literal xml:lang="sl">Preveriti katera šifra (naziv) države izmed mnogih je to.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraVrsteRacuna</AbbreviatedIRI>
+        <Literal>vr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraVrsteRacuna</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra vrste računa iz nabora možnih vrst računov (glej Šifrant vrst transakcijskih računov)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483651"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483652"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483653"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483654"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483655"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483656"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

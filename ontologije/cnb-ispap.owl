@@ -1,0 +1,3949 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://onto.mju.gov.si/centralni-besednjak-ispap"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://onto.mju.gov.si/centralni-besednjak-ispap"
+     versionIRI="http://onto.mju.gov.si/centralni-besednjak-ispap/1.0.0">
+    <Prefix name="" IRI="http://onto.mju.gov.si/centralni-besednjak-ispap#"/>
+    <Prefix name="cnb" IRI="http://onto.mju.gov.si/centralni-besednjak-core#"/>
+    <Prefix name="m8g" IRI="http://data.europa.eu/m8g/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="pav" IRI="http://purl.org/pav/2.3#"/>
+    <Prefix name="prs" IRI="http://onto.mju.gov.si/centralni-besednjak-prs#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="adms" IRI="http://purl.org/adms/status/"/>
+    <Prefix name="furs" IRI="http://onto.gov.si/centralni-besednjak-furs#"/>
+    <Prefix name="locn" IRI="http://www.w3.org/ns/locn#"/>
+    <Prefix name="prov" IRI="http://www.w3.org/ns/prov#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="wacl" IRI="http://www.w3.org/ns/auth/acl#"/>
+    <Prefix name="legal" IRI="http://www.w3.org/ns/legal#"/>
+    <Prefix name="schema" IRI="https://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://dublincore.org/2012/06/14/dcterms#"/>
+    <Prefix name="sifranti" IRI="http://onto.mju.gov.si/centralni-besednjak-sifranti#"/>
+    <Import>http://onto.gov.si/centralni-besednjak-furs/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-core/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-sifranti/1.0.0</Import>
+    <Import>http://www.w3.org/2004/02/skos/core</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+        <Literal>25.1.2019</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal>Igor Tričkovič Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>adms:UnderDevelopment</AbbreviatedIRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+        <Literal>ispap</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+        <Literal>http://onto.mju.gov.si/centralni-besednjak-ispap</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal>Shema vsebuje informacijski sistem za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju - ISPAP in razširja shemo vrhnje ontologije CNB.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:backwardCompatibleWith"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:JavniSektor"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Katalog"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:PravnaOseba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DelovnoMesto"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#JavniSektorZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KatalogFunkcijDelovnihMestInNazivov"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KontrolniPodatki"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Napotitev"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Obracun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OznakaIzplacilaPlacPU"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OznakaNapotitev"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkupnaIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="sifranti:SifraDrzave"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaIzplaciloBrutoPlaceInNadomestil"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaNapotitev"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaSklopObracunskihPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaSklopPodatkovODelovnemMestu"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaSklopPodatkovSkupnihIzplacil"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaZavezancaZaKadrovskiNacrt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:dan"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:ePosta"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:faktor"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:indeks"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:letnica"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:mesec"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:tekocaStevilka"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:vrednostNaEnoto"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoBrutoPlaca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoPlacaInNadomestila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDonacije"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDrzavniProracun"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavnaDela"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavneSluzbe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProdajaNaTrgu"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProracunEU"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProrauniObcin"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilRaziskovalci"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZZZSZPIZ"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZled"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#danIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#delezOsnovnePlace"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#delezRazlikeZaOdpravoNesorazmerja"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#delezZaposlitveNaDelovnemMestu"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#delovnaObveznost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#faktorZaIzracunPovečanePedagoškeObveznosti"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#indeksZivljenjskihStroskovOZN"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#kontrolniSklopPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#korekcijskaOsnovnaPlaca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#letoIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#letoObracuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#letoObracunaZaZavezanca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#letoZaKadrovskiNacrt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecIzpacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecObracuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecObracunaZaZavezancaZaPorocanje"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecZaKadrovskiNacrt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecnaDelovnaObveznostIzrazena"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecnaVrednostDodatnePedagoskeObveznosti"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#mesecnoSteviloUrZmanjsanegaObsegaDela"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#netoIzplaciloZaDeloVTujini"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#netoPlaca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#netoZnesekIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#normiranoSteviloUr"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#odbitekBrutoPlaceDisciplinskaSankcija"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#odbitekPlaceFunkcionarja"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#odbitekPlacePoZIntPK"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovaZaIzracunDavkovOdOsebnihPrejemkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaDeloVTujini"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaSVoperacijeOKO"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovaZaIzracunPrispevkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaFJU"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaZaKrajsiDelovniCas"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaZaObracun"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaZaObracunV"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnika"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnikaMORS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#placniRazredJavnegaUsluzbenca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#pretvornik"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#prevedenaOsnovnaPlaca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#primerljiviZnesekPlace"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#primerljiviZnesekPlacePoZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#razlikaDoPlace49.ClenZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#razlikaZaOdpravoNesorazmerja"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#referencnaSifraNaziva"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraNapotitve"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraObracunaZaCelotenSklopPodatkovZavezanca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#srednjiTecajBankeSlovenijeZaValutoIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stevilZaposlenihIzNejavnSredstev"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloDniNapotitevVTujino"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloKoledarskihDniVMesecuNapotitve"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloUr"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzDP"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzEU"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihDel"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihSredstev"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzNamenSredstev"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzPO"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzSrTrg"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzZZZS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#steviloZaposlenihIzZled"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#vrednostPlacnegaRazredaFDMN"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#vrednostZnizanePedagoskeObveznosti"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#vrednostZvisaneAliZnizanePedagoskeUre"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#zaporednStevilkaSklopaObracunskihPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekDelaPlaceInstitucijDrugihDrzav"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace14.Clen"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace15ClenZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace19ClenuZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace59Clen"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#znizanaOsnovnaPlacaFJU14Clen"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca15Clen"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca19ClenZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca59.Clen"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#_ON"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="furs:davcnaStevilka"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaEnoteVSestaviProracunskegaUporabnika"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaProracunskegaUporabnika"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:nazivVrsteIzplacila"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraDrzave"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraFunkcijeAliDelovnegaMesta"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraNazivaDelovnegaMesta"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraPlacnegaRazredaFDMN"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraValute"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/creator"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rdf:List"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/title"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/contributor"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#DelovnoMesto"/>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#JavniSektorZSPJS"/>
+        <Class abbreviatedIRI="cnb:JavniSektor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KatalogFunkcijDelovnihMestInNazivov"/>
+        <Class abbreviatedIRI="cnb:Katalog"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KatalogFunkcijDelovnihMestInNazivov"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KontrolniPodatki"/>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Obracun"/>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OznakaIzplacilaPlacPU"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OznakaNapotitev"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ProracunskiUporabnik"/>
+        <Class abbreviatedIRI="cnb:PravnaOseba"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SkupnaIzplacila"/>
+        <Class abbreviatedIRI="cnb:PodatkovnaTabela"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+        <Class abbreviatedIRI="cnb:PravnaOseba"/>
+    </SubClassOf>
+    <ObjectPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">sklop podatkov o vrstah izplačil v okviru delovnega mesta. Sklop označuje šifra izplačila (SifraVI=&quot;A&quot;) in koda izplačila (KodaVI=&quot;010&quot;). Teh sklopov je lahko več. Delovno mesto lahko vsebuje dve ali več enakih izplačil. Dovoljeni so vsi tipi izplačil iz 3. člena Uredbe o enotni metodologiji in obrazcih za obračun in izplačilo plač v javnem sektorju, ki imajo vrednost polja B1=1.</Literal>
+        </Annotation>
+        <ObjectProperty IRI="#imaIzplaciloBrutoPlaceInNadomestil"/>
+        <Class IRI="#DelovnoMesto"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaIzplaciloBrutoPlaceInNadomestil"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaNapotitev"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaSklopObracunskihPodatkov"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaSklopPodatkovODelovnemMestu"/>
+        <Class IRI="#Obracun"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaSklopPodatkovSkupnihIzplacil"/>
+        <Class IRI="#Obracun"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaZavezancaZaKadrovskiNacrt"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaIzplaciloBrutoPlaceInNadomestil"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#imaIzplaciloBrutoPlaceInNadomestil"/>
+            <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaNapotitev"/>
+        <Class IRI="#Napotitev"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaSklopObracunskihPodatkov"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#imaSklopObracunskihPodatkov"/>
+            <Class IRI="#Obracun"/>
+        </ObjectMinCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaSklopPodatkovODelovnemMestu"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#imaSklopPodatkovODelovnemMestu"/>
+            <Class IRI="#DelovnoMesto"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaSklopPodatkovSkupnihIzplacil"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#imaSklopPodatkovSkupnihIzplacil"/>
+            <Class IRI="#SkupnaIzplacila"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaZavezancaZaKadrovskiNacrt"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoBrutoPlaca"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoPlacaInNadomestila"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekIzplacila"/>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDonacije"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDrzavniProracun"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavnaDela"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavneSluzbe"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProdajaNaTrgu"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProracunEU"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProrauniObcin"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilRaziskovalci"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZZZSZPIZ"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZled"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#danIzplacila"/>
+        <DataProperty abbreviatedIRI="cnb:dan"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#delezOsnovnePlace"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#delezRazlikeZaOdpravoNesorazmerja"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev"/>
+        <DataProperty abbreviatedIRI="cnb:faktor"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#faktorZaIzracunPovečanePedagoškeObveznosti"/>
+        <DataProperty abbreviatedIRI="cnb:faktor"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#indeksZivljenjskihStroskovOZN"/>
+        <DataProperty abbreviatedIRI="cnb:indeks"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#korekcijskaOsnovnaPlaca"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#letoIzplacila"/>
+        <DataProperty abbreviatedIRI="cnb:letnica"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#letoObracuna"/>
+        <DataProperty abbreviatedIRI="cnb:letnica"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#letoObracunaZaZavezanca"/>
+        <DataProperty abbreviatedIRI="cnb:letnica"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#letoZaKadrovskiNacrt"/>
+        <DataProperty abbreviatedIRI="cnb:letnica"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecIzpacila"/>
+        <DataProperty abbreviatedIRI="cnb:mesec"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecObracuna"/>
+        <DataProperty abbreviatedIRI="cnb:mesec"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecObracunaZaZavezancaZaPorocanje"/>
+        <DataProperty abbreviatedIRI="cnb:mesec"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecZaKadrovskiNacrt"/>
+        <DataProperty abbreviatedIRI="cnb:mesec"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecnaDelovnaObveznostIzrazena"/>
+        <DataProperty IRI="#delovnaObveznost"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+        <DataProperty IRI="#delovnaObveznost"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecnaVrednostDodatnePedagoskeObveznosti"/>
+        <DataProperty abbreviatedIRI="cnb:vrednostNaEnoto"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#mesecnoSteviloUrZmanjsanegaObsegaDela"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika"/>
+        <DataProperty abbreviatedIRI="cnb:ePosta"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#netoIzplaciloZaDeloVTujini"/>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#netoPlaca"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#netoZnesekIzplacila"/>
+        <DataProperty abbreviatedIRI="cnb:izplacilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#normiranoSteviloUr"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#odbitekBrutoPlaceDisciplinskaSankcija"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#odbitekPlaceFunkcionarja"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#odbitekPlacePoZIntPK"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaDeloVTujini"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaSVoperacijeOKO"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlaca"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaFJU"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaZaKrajsiDelovniCas"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaZaObracun"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaZaObracunV"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnika"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnikaMORS"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznost"/>
+        <DataProperty IRI="#delovnaObveznost"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+        <DataProperty IRI="#delovnaObveznost"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#pretvornik"/>
+        <DataProperty abbreviatedIRI="cnb:indeks"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#prevedenaOsnovnaPlaca"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#primerljiviZnesekPlace"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#primerljiviZnesekPlacePoZSPJS"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#razlikaDoPlace49.ClenZSPJS"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#razlikaZaOdpravoNesorazmerja"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#referencnaSifraNaziva"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraNapotitve"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraObracunaZaCelotenSklopPodatkovZavezanca"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#stevilZaposlenihIzNejavnSredstev"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloDniNapotitevVTujino"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloKoledarskihDniVMesecuNapotitve"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloUr"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenih"/>
+        <DataProperty abbreviatedIRI="cnb:stevilo"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzDP"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzEU"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihDel"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihSredstev"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzNamenSredstev"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzPO"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzSrTrg"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzZZZS"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#steviloZaposlenihIzZled"/>
+        <DataProperty IRI="#steviloZaposlenih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#vrednostPlacnegaRazredaFDMN"/>
+        <DataProperty abbreviatedIRI="cnb:vrednostNaEnoto"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#vrednostZnizanePedagoskeObveznosti"/>
+        <DataProperty abbreviatedIRI="cnb:vrednostNaEnoto"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#vrednostZvisaneAliZnizanePedagoskeUre"/>
+        <DataProperty abbreviatedIRI="cnb:vrednostNaEnoto"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#zaporednStevilkaSklopaObracunskihPodatkov"/>
+        <DataProperty abbreviatedIRI="cnb:tekocaStevilka"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekDelaPlaceInstitucijDrugihDrzav"/>
+        <DataProperty abbreviatedIRI="cnb:placa"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace14.Clen"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace15ClenZSPJS"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace19ClenuZSPJS"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace59Clen"/>
+        <DataProperty IRI="#korekcijskiZnesek"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#znizanaOsnovnaPlacaFJU14Clen"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca15Clen"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca19ClenZSPJS"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca59.Clen"/>
+        <DataProperty IRI="#osnovnaPlaca"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva"/>
+        <Class IRI="#KatalogFunkcijDelovnihMestInNazivov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoBrutoPlaca"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoBrutoPlaca"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoPlacaInNadomestila"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoPlacaInNadomestila"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekIzplacila"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDonacije"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDonacije"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDrzavniProracun"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilDrzavniProracun"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavnaDela"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavnaDela"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavneSluzbe"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilJavneSluzbe"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProdajaNaTrgu"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProdajaNaTrgu"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProracunEU"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProracunEU"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProrauniObcin"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilProrauniObcin"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilRaziskovalci"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilRaziskovalci"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZZZSZPIZ"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZZZSZPIZ"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZled"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#brutoZnesekPlaceInNadomestilZled"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#danIzplacila"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezOsnovnePlace"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezOsnovnePlace"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezRazlikeZaOdpravoNesorazmerja"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezRazlikeZaOdpravoNesorazmerja"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezZaposlitveNaDelovnemMestu"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#delezZaposlitveNaDelovnemMestu"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#faktorZaIzracunPovečanePedagoškeObveznosti"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#faktorZaIzracunPovečanePedagoškeObveznosti"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#indeksZivljenjskihStroskovOZN"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#indeksZivljenjskihStroskovOZN"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#kontrolniSklopPodatkov"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#korekcijskaOsnovnaPlaca"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#korekcijskaOsnovnaPlaca"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#letoIzplacila"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#letoObracuna"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#letoObracunaZaZavezanca"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#letoZaKadrovskiNacrt"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecIzpacila"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecObracuna"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecObracunaZaZavezancaZaPorocanje"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecZaKadrovskiNacrt"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnaDelovnaObveznostIzrazena"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnaVrednostDodatnePedagoskeObveznosti"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnaVrednostDodatnePedagoskeObveznosti"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnoSteviloUrZmanjsanegaObsegaDela"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#mesecnoSteviloUrZmanjsanegaObsegaDela"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#netoIzplaciloZaDeloVTujini"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#netoPlaca"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#netoZnesekIzplacila"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#normiranoSteviloUr"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekBrutoPlaceDisciplinskaSankcija"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekBrutoPlaceDisciplinskaSankcija"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekPlaceFunkcionarja"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekPlaceFunkcionarja"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekPlacePoZIntPK"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#odbitekPlacePoZIntPK"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunDavkovOdOsebnihPrejemkov"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaDeloVTujini"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaDeloVTujini"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaSVoperacijeOKO"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunPlaceZaSVoperacijeOKO"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovaZaIzracunPrispevkov"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaFJU"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaFJU"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaKrajsiDelovniCas"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaKrajsiDelovniCas"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaObracun"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaObracun"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaObracunV"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaObracunV"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnika"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnika"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnikaMORS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#osnovnaPlacaZaPripravnikaMORS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#placniRazredJavnegaUsluzbenca"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#placniRazredJavnegaUsluzbenca"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznost"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#pretvornik"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#prevedenaOsnovnaPlaca"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#prevedenaOsnovnaPlaca"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#primerljiviZnesekPlace"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#primerljiviZnesekPlace"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#primerljiviZnesekPlacePoZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#primerljiviZnesekPlacePoZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#razlikaDoPlace49.ClenZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#razlikaDoPlace49.ClenZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#razlikaZaOdpravoNesorazmerja"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#razlikaZaOdpravoNesorazmerja"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#referencnaSifraNaziva"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#referencnaSifraNaziva"/>
+        <Class IRI="#KatalogFunkcijDelovnihMestInNazivov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#referencnaSifraNaziva"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraNapotitve"/>
+        <Class IRI="#OznakaNapotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraNapotitve"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraObracunaZaCelotenSklopPodatkovZavezanca"/>
+        <Class IRI="#OznakaIzplacilaPlacPU"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraObracunaZaCelotenSklopPodatkovZavezanca"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraObracunaZaCelotenSklopPodatkovZavezanca"/>
+        <Class IRI="#ZavezanecZaKadrovskiNacrt"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#srednjiTecajBankeSlovenijeZaValutoIzplacila"/>
+        <Class IRI="#Obracun"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#stevilZaposlenihIzNejavnSredstev"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloDniNapotitevVTujino"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloKoledarskihDniVMesecuNapotitve"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloUr"/>
+        <Class IRI="#IzplaciloBrutoPlaceInNadomestil"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzDP"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzEU"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihDel"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzJavnihSredstev"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzNamenSredstev"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzPO"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzSrTrg"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzZZZS"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#steviloZaposlenihIzZled"/>
+        <Class IRI="#Napotitev"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostPlacnegaRazredaFDMN"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostPlacnegaRazredaFDMN"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostZnizanePedagoskeObveznosti"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostZnizanePedagoskeObveznosti"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostZvisaneAliZnizanePedagoskeUre"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#vrednostZvisaneAliZnizanePedagoskeUre"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zaporednStevilkaSklopaObracunskihPodatkov"/>
+        <Class IRI="#ProracunskiUporabnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekDelaPlaceInstitucijDrugihDrzav"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekDelaPlaceInstitucijDrugihDrzav"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace14.Clen"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZnizanjaOsnovnePlace14.Clen"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace15ClenZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace15ClenZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace19ClenuZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace19ClenuZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace59Clen"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znesekZvisanjaOsnovnePlace59Clen"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znizanaOsnovnaPlacaFJU14Clen"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#znizanaOsnovnaPlacaFJU14Clen"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca15Clen"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca15Clen"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca19ClenZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca19ClenZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca59.Clen"/>
+        <Class IRI="#DelovnoMesto"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#zvisanaOsnovnaPlaca59.Clen"/>
+        <Class IRI="#SkupnaIzplacila"/>
+    </DataPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal>DSZapos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">Davčna številka zaposlenega.
+Z360: šifra zaposlenega - davčna številka zaposlenega v javnem sektorju.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">davčna številka zaposlenega</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">furs:davcnaStevilka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>cnb:ePosta</AbbreviatedIRI>
+        <Literal xml:lang="sl">cnb:ePosta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>cnb:placa</AbbreviatedIRI>
+        <Literal xml:lang="sl">cnb:placa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>cnb:srednjiTecajBankeSlovenijeZaValuto</AbbreviatedIRI>
+        <Literal xml:lang="sl">cnb:srednjiTecajBankeSlovenijeZaValuto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">Izplačilo tretje četrtine nesorazmerij V XML datoteki je dovoljeno pripraviti podatke le z eno oznako (ni dovoljena kombinacija oznak 0, 2 in 3).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">Redna transakcija za poročanje zavezanca v AJPES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">Testna transakcija za namen testiranja poslanih podatkov. Testni podatki niso predmet nadaljnjih obdelav in v sistemu ne zasedejo številke paketa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">storno transakcija za izločanje rednih transakcij Od 1. 11. 2012 se oznaka »1« za storno transakcijo ne uporablja več. Stornacija je možna samo direktno prek aplikacije ISPAP: Poročevalec v spletni aplikaciji ISPAP (med poslanimi XML datotekami) poišče datoteko s podatki, ki jih želi stornirati/popraviti. V vrstici z izbrano datoteko izbere aktivno povezavo »storniraj«. S podpisom paketa je datoteka stornirana.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#</IRI>
+        <Literal xml:lang="sl">3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">DelMesto (povezovalno polje)
+Podatki o delovnem mestu (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">Sklop podatkov o delovnem mestu v sistemu ISPAP. Teh sklopov je za enega zaposlenega lahko več.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">V sklopu podatkov o Delovnem mestu so obvezni elementi: SifraDM, SifraNaziv, PlacRaz, PlacRazFJU, VredPlacRaz, DelZap, DelPlaca. Pri poročanju podatkov za delovna mesta šifre JD elementa PlacRaz in PlacRazFJU nista obvezna. Poroča se lahko samo ena od vrednosti, navedenih v naslednjih alinejah (ali C ali D ali E ali F ali G ali H): C. Osnovna plača javnega uslužbenca oziroma funkcionarja - FJU (Z070) D. Znižana osnovna plača FJU (Z116) E. Zvišana osnovna plača FJU (Z118) F. Osnovna plača za pripravnika (Z580) G. H. Zvišana osnovna plača FJU (Z591) Zvišana osnovna plača FJU (Z592) Obvezni elementi veljajo od 1. 6. 2012 dalje. Ostale elemente se izpolnjuje glede na plačno skupino proračunskega uporabnika in ostale posebnosti obračunov.
+Podatke ReferencnaSifraDM, ReferencnaSifraNaziv, StUrZmanjsanegaObsega in ZnesDrugihDrzav se poročajo le za delovna mesta šifre T.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">Vključeni so podatki, ki so vezani na delovno mesto. Če uslužbenec opravlja delo pri istem proračunskem uporabniku na dveh ali več različnih delovnih mestih, je potrebno vsako delovno mesto vpisati posebej in ga oštevilčiti z zaporedno številko od 1 do n. V primeru, da delavec opravlja delo na enem delovnem mestu, to delovno mesto označimo z zaporedno številko 1.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DelovnoMesto</IRI>
+        <Literal xml:lang="sl">Podatki o delovnem mestu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">Podatki o izplačilu bruto plače in nadomestil za obdobje obračuna (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">Izplačilo bruto plače in nadomestil za obdobje obračuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">V ta sklop podatkov so vključeni podatki posameznega izplačila, vrst izplačil pa je v okviru delovnega mesta praviloma več. Ključni podatek izplačila je enomestna šifra (alfa znak) in trimestna koda (numerična oznaka) izplačila. Šifrant vrst izplačil je objavljen na spletni strani AJPES. Sklop je lahko vključen pod podatki delovnega mesta ali pod sklopom skupnih izplačil. Ime sklopa se v primeru, da izplačila pišemo pod sklopom skupnih izplačil, spremeni iz VrsteIzpl v VrsteSkupIzpl.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">Vrednosti StUr, StNormUr, BtoZnIzpl, NtoZnIzpl je potrebno vpisati na dve decimalni mesti natančno. Podatka StUr in StNormUr morata biti različna od nič, če se poročajo vrste izplačila A, B, E, G in O.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">sklop podatkov o vrstah izplačil v okviru delovnega mesta. Sklop označuje šifra izplačila (SifraVI=&quot;A&quot;) in koda izplačila (KodaVI=&quot;010&quot;). Teh sklopov je lahko več. Delovno mesto lahko vsebuje dve ali več enakih izplačil. Dovoljeni so vsi tipi izplačil iz 3. člena Uredbe o enotni metodologiji in obrazcih za obračun in izplačilo plač v javnem sektorju, ki imajo vrednost polja B1=1.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">Podatki o izplačilu bruto plače in nadomestil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#JavniSektorZSPJS</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#JavniSektorZSPJS</IRI>
+        <Literal xml:lang="sl">Javni sektor sestavljajo: 
+– državni organi in samoupravne lokalne skupnosti (v nadaljnjem besedilu: lokalne skupnosti), 
+– javne agencije, javni skladi, javni zavodi in javni gospodarski zavodi ter 
+– druge osebe javnega prava, ki so posredni uporabniki državnega proračuna ali proračuna lokalne skupnosti. 
+Javna podjetja in gospodarske družbe, v katerih ima večinski delež oziroma prevladujoč vpliv država ali lokalna skupnost, niso del javnega sektorja po tem zakonu.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#JavniSektorZSPJS</IRI>
+        <Literal xml:lang="sl">Zakon o sistemu plač v javnem sektorju (uradno prečiščeno besedilo) (ZSPJS-UPB7)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#JavniSektorZSPJS</IRI>
+        <Literal xml:lang="sl">Javni sektor ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#KatalogFunkcijDelovnihMestInNazivov</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#KatalogFunkcijDelovnihMestInNazivov</IRI>
+        <Literal xml:lang="sl">Z372: Katalog funkcij, delovnih mest in nazivov (katalog FDMN),(15. in 16. alineja drugega odstavka 44. člena ZSPJS) ali priloga 4 PJUDT ali priloga 1 MOM; pri obračunu plače za opravljeno delo v Sloveniji se v izraz ne navede šifre delovnega mesta.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#KatalogFunkcijDelovnihMestInNazivov</IRI>
+        <Literal xml:lang="sl">Katalog funkcij, delovnih mest in nazivov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#KontrolniPodatki</IRI>
+        <Literal xml:lang="sl">Sklop kontrolni (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#KontrolniPodatki</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#KontrolniPodatki</IRI>
+        <Literal xml:lang="sl">V tem sklopu so zapisani kontrolni podatki na nivoju proračunskega uporabnika po vrstah izplačil. Prikazano je število obračunskih stavkov in število stavkov vrste izplačila. V kontrolnem zapisu so zajeti podatki bruto in neto zneskov po vrstah izplačil A, B, C, D, E, G in O ter bruto zneskov po posameznih virih financiranja (Z621 do Z629).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#KontrolniPodatki</IRI>
+        <Literal xml:lang="sl">Kontrolni podatki</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#Napotitev</IRI>
+        <Literal xml:lang="sl">Sklop napotitev (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#Napotitev</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Napotitev</IRI>
+        <Literal xml:lang="sl">podatek o oznaki napotitve je lahko: 0 – za število zaposlenih, ki opravljajo delo v Republiki Sloveniji 1 – za število zaposlenih, napotenih v mednarodne civilne misije, mednarodne organizacije, organe EU in druge organizacije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Napotitev</IRI>
+        <Literal xml:lang="sl">Napotitev
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#Obracun</IRI>
+        <Literal xml:lang="sl">Osnovni podatki o obračunu (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#Obracun</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Obracun</IRI>
+        <Literal xml:lang="sl">V sklopu obračunskih podatkov se morata poročati obe vrednosti pod A ali obe vrednosti pod B:
+A. Povprečna mesečna delovna obveznost (Z050) in mesečna delovna obveznost (Z051) ali
+B. Povprečna mesečna delovna obveznost za krajši delovni čas (Z052) in mesečna delovna obveznost za krajši delovni čas (Z053).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Obracun</IRI>
+        <Literal xml:lang="sl">Osnovni podatki o obračunu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#Obracun</IRI>
+        <Literal xml:lang="sl">Vsak zavezanec lahko v okviru izplačila plač proračunskega uporabnika izkazuje enega ali več obračunov, ki so oštevilčeni z zaporedno številko od 1 do n.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#OznakaIzplacilaPlacPU</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#OznakaIzplacilaPlacPU</IRI>
+        <Literal xml:lang="sl">Oznaka obračuna za celoten sklop podatkov zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#OznakaIzplacilaPlacPU</IRI>
+        <Literal xml:lang="sl">Oznaka obračuna za celoten sklop podatkov zavezanca: 
+0 – redna transakcija za poročanje zavezanca v AJPES 
+1 – storno transakcija za izločanje rednih transakcij Od 1. 11. 2012 se oznaka »1« za storno transakcijo ne uporablja več. Stornacija je možna samo direktno prek aplikacije ISPAP: Poročevalec v spletni aplikaciji ISPAP (med poslanimi XML datotekami) poišče datoteko s podatki, ki jih želi stornirati/popraviti. V vrstici z izbrano datoteko izbere aktivno povezavo »storniraj«. S podpisom paketa je datoteka stornirana. 
+2 – testna transakcija za namen testiranja poslanih podatkov. Testni podatki niso predmet nadaljnjih obdelav in v sistemu ne zasedejo številke paketa. 
+3 – izplačilo tretje četrtine nesorazmerij 
+
+V XML datoteki je dovoljeno pripraviti podatke le z eno oznako (ni dovoljena kombinacija oznak 0, 2 in 3).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OznakaIzplacilaPlacPU</IRI>
+        <Literal xml:lang="sl">Šifrant obračunov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#OznakaNapotitev</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#OznakaNapotitev</IRI>
+        <Literal xml:lang="sl">podatek o oznaki napotitve je lahko: 
+0 – za število zaposlenih, ki opravljajo delo v Republiki Sloveniji 
+1 – za število zaposlenih, napotenih v mednarodne civilne misije, mednarodne organizacije, organe EU in druge organizacije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OznakaNapotitev</IRI>
+        <Literal xml:lang="sl">Šifrant napotitev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">Zavezanec (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">K vsakemu zavezancu je potrebno obvezno vpisati pravilno šifro proračunskega uporabnika (SifraPU). Poleg osnovnih podatkov o zavezancu vsebuje ta sklop tudi kontrolne podatke za namen kontrole pravilnosti podanih obračunov. Izpolnjena morajo biti vsa polja.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">Podatki o izplačanih plača proračunskega uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">Proračunski uporabnik, ki je zavezanec za poročanje o izplačanih plačah. Gre za tabelo &quot;Zavezanec&quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+        <Literal xml:lang="sl">Zavezanec za poročanje (proračunski uporabnik)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva</IRI>
+        <Literal xml:lang="sl">ReferencnaSifraDM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva</IRI>
+        <Literal xml:lang="sl">referenčna šifra funkcije, delovnega mesta (podatek se poroča le za delo v tujini – delovno mesto šifre T).
+
+Z372: Referenčna šifra funkcije, delovnega mesta/naziva iz kataloga funkcij, delovnih mest in nazivov (katalog FDMN),(15. in 16. alineja drugega odstavka 44. člena ZSPJS) ali priloga 4 PJUDT ali priloga 1 MOM; pri obračunu plače za opravljeno delo v Sloveniji se v izraz ne navede šifre delovnega mesta.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva</IRI>
+        <Literal xml:lang="sl">referenčna šifra funkcije, delovnega mesta ali naziva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#ReferencnaSifraFunkcijeDelovnegaMestaAliNaziva</IRI>
+        <Literal xml:lang="sl">Podatke ReferencnaSifraDM, ReferencnaSifraNaziv, StUrZmanjsanegaObsega in ZnesDrugihDrzav se poročajo le za delovna mesta šifre T.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#SkupnaIzplacila</IRI>
+        <Literal xml:lang="sl">VrsteSkupIzpl (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#SkupnaIzplacila</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#SkupnaIzplacila</IRI>
+        <Literal xml:lang="sl">Sklop podatkov skupnih izplačil, ki se v datoteko vključi le v primeru, če zaposleni dela na dveh ali več delovnih mestih v okviru proračunskega uporabnika in se v tem primeru v ta sklop zapišejo vsa izplačila, ki ne izvirajo iz nobenega od vpisanih delovnih mest. Če ima zaposleni le eno delovno mesto, je sklop skupnih izplačil nepotreben. Podrobna struktura sklopa skupnih izplačil je enaka kot pri delovnem mestu (glej opis Sklop vrst izplačil), le ime podsklopa je v tem primeru VrsteSkupIzpl.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SkupnaIzplacila</IRI>
+        <Literal xml:lang="sl">Sklop podatkov skupnih izplačil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ZavezanecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Podatki o zavezancu za kadrovski načrt (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#ZavezanecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Ministrstvo za javno upravo Republike Slovenije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ZavezanecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Dodan je nov sklop za poročanje podatkov o številu zaposlenih v skladu z Navodilom za objavo podatkov števila zaposlenih v javnem sektorju po kadrovskih načrtih oz. v skladu s Pravilnikom o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju v javnem sektorju. Podatki se posredujejo za mesec januar, april, julij in oktober tekočega leta. Posredovani so lahko skupaj z datoteko s podatki o izplačanih plačah ( P+K) ali kot samostojna datoteka (K).
+Sklop KadrovskiNacrt je obvezen za mesec januar, april, julij in oktober tekočega leta in vsebuje podatke o kadrovskem načrtu združene v več podsklopov. Vsebuje podatke o proračunskem uporabniku, ki je vključen v XML datoteko.
+K vsakemu zavezancu je potrebno obvezno vpisati pravilno šifro proračunskega uporabnika (SifraPU)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ZavezanecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Zavezanec za kadrovski načrt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#_ON</IRI>
+        <Literal xml:lang="sl">Za število zaposlenih, ki opravljajo delo v Republiki Sloveniji</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#_ON</IRI>
+        <Literal xml:lang="sl">Za število zaposlenih, napotenih v mednarodne civilne misije, mednarodne organizacije, organe EU in druge organizacije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#_ON</IRI>
+        <Literal xml:lang="sl">oznaka napotitve 0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#_ON</IRI>
+        <Literal xml:lang="sl">oznaka napotitve 1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoBrutoPlaca</IRI>
+        <Literal xml:lang="sl">BtoBtoPlaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoBrutoPlaca</IRI>
+        <Literal xml:lang="sl">Z280: bruto bruto plača - bruto plača in nadomestila (Z080) + prispevki od plače (Z230).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoBrutoPlaca</IRI>
+        <Literal xml:lang="sl">bruto bruto plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoPlacaInNadomestila</IRI>
+        <Literal>BtoPlaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoPlacaInNadomestila</IRI>
+        <Literal xml:lang="sl">Z080: bruto plača in nadomestila - A010 + A020 + C (dodatki) + D (delovna uspešnost) + E (delo prek polnega delovnega časa) + O (dežurstvo prek polnega delovnega časa) + B (nadomestila) + G (nadomestila) + H (nadomestila) – Z604 – Z609 – Z611 – Z620.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoPlacaInNadomestila</IRI>
+        <Literal xml:lang="sl">bruto plača in nadomestila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">BtoZnIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">Bruto znesek izplačila za vrsto izplačila; v valuti izplačila, ki je navedena v obračunskem sklopu (ValIzpl) 
+
+Z040: vrsta izplačila - vrednost, ki pripada funkcionarju in javnemu uslužbencu ob izplačilu plače.
+
+Potrebno vpisati na dve decimalni mesti natančno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">bruto znesek izplačila za vrsto izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDonacije</IRI>
+        <Literal xml:lang="sl">BtoZnNejavnaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDonacije</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so nejavna sredstva za opravljanje javne službe in sredstva prejetih donacij - izračun na dve decimalni mesti.
+
+Z627: nejavna sredstva za opravljanje javne službe in sredstva prejetih donacij - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so nejavna sredstva za opravljanje javne službe.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDonacije</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil iz vira donacije</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDrzavniProracun</IRI>
+        <Literal xml:lang="sl">BtoZnProracunDrzava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDrzavniProracun</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja je državni proračun - izračun na dve decimalni mesti.
+Z621: državni proračun - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja je državni proračun.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilDrzavniProracun</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil iz vira državni proračun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavnaDela</IRI>
+        <Literal xml:lang="sl">BtoZnSredstvaFinanciranjeJavnihDel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavnaDela</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so sredstva namenjena opravljanju javnih del - izračun na dve decimalni mesti.
+
+Z628: sredstva za financiranje javnih del - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so sredstva namenjena opravljanju javnih del.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavnaDela</IRI>
+        <Literal xml:lang="sl">&apos;bruto znesek plače in nadomestil financiranih iz vira javna dela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavneSluzbe</IRI>
+        <Literal xml:lang="sl">BtoZnDrugaJavnaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavneSluzbe</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so javna sredstva za opravljanje javne službe (npr. koncesnine, pristojbine, takse, RTV prispevek) - izračun na dve decimalni mesti.
+
+Z625: druga javna sredstva za opravljanje javne službe - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so javna sredstva za opravljanje javne službe (npr. koncesnine, pristojbine, takse, RTV prispevek).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilJavneSluzbe</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil financiranih iz vira javne službe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProdajaNaTrgu</IRI>
+        <Literal xml:lang="sl">BtoZnSredstvaNaTrgu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProdajaNaTrgu</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so sredstva, pridobljena iz prodaje blaga in storitev na trgu - izračun na dve decimalni mesti.
+
+Z626: sredstva od prodaje blaga in storitev na trgu - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so sredstva, pridobljena iz prodaje blaga in storitev na trgu.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProdajaNaTrgu</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil financiranih iz vira prodaja na trgu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProracunEU</IRI>
+        <Literal xml:lang="sl">BtoZnSredstvaEU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProracunEU</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so sredstva, pridobljena iz proračuna EU ali drugih mednarodnih virov vključno s sredstvi sofinanciranja državnega proračuna - izračun na dve decimalni mesti.
+
+Z624: sredstva EU ali drugih mednarodnih virov, vključno s sredstvi sofinanciranja iz državnega proračuna - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so sredstva, pridobljena iz proračuna Evropske unije ali drugih mednarodnih virov, vključno s sredstvi sofinanciranja iz državnega proračuna.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProracunEU</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil financiranih iz vira EU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProrauniObcin</IRI>
+        <Literal xml:lang="sl">BtoZnProracunObcina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProrauniObcin</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so proračuni občin - izračun na dve decimalni mesti.
+Z622: proračun občin - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so proračuni občin.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilProrauniObcin</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil iz vira proračun občin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilRaziskovalci</IRI>
+        <Literal xml:lang="sl">BtoZnNamenskaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilRaziskovalci</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja so namenska sredstva iz katerih se v celoti zagotavlja financiranje stroškov dela zaposlenih, in sicer mladih raziskovalcev, zdravnikov pripravnikov in specializantov, zdravstvenih delavcev pripravnikov in zdravstvenih sodelavcev pripravnikov ter zaposlenih na raziskovalnih projektih - izračun na dve decimalni mesti.
+
+Z629: namenska sredstva iz katerih se v celoti zagotavlja financiranje stroškov dela zaposlenih, in sicer mladih raziskovalcev, zdravnikov pripravnikov in specializantov, zdravstvenih delavcev pripravnikov in zdravstvenih sodelavcev pripravnikov ter zaposlenih na raziskovalnih projektih - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so namenska sredstva, iz katerih se v celoti zagotavlja financiranje stroškov dela zaposlenih, in sicer mladih raziskovalcev, zdravnikov pripravnikov in specializantov, zdravstvenih delavcev pripravnikov in zdravstvenih sodelavcev pripravnikov ter zaposlenih na raziskovalnih projektih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilRaziskovalci</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil iz vira za mlade raziskovalce</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZZZSZPIZ</IRI>
+        <Literal xml:lang="sl">BtoZnSredstvaZzzsZpiz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZZZSZPIZ</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil H), katerih vir financiranja je ZZZS, ZPIZ - izračun na dve decimalni mesti.
+
+Z623: Zavod za zdravstveno zavarovanje Slovenije in Zavod za pokojninsko in invalidsko zavarovanje - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja je Zavod za zdravstveno zavarovanje Slovenije, Zavod za pokojninsko in invalidsko zavarovanje.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZZZSZPIZ</IRI>
+        <Literal xml:lang="sl">&apos;bruto znesek plače in nadomestil iz vira ZZZS in ZPIZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZled</IRI>
+        <Literal xml:lang="sl">BtoZnSredstvaZled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZled</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H), katerega vir financiranja so sredstva za zaposlene na podlagi Zakona o ukrepih za odpravo posledic žleda med 30. Januarjem in 10. Februarjem 2014 (uradni list RS, št. 17/14).
+
+Z631: sredstva za zaposlene na podlagi Zakona o ukrepih za odpravo posledic žleda med 30. januarjem in 10. februarjem 2014 - bruto znesek plače in nadomestil (Z080 brez nadomestil tipa H oziroma Z471), katerega vir financiranja so sredstva za zaposlene na podlagi Zakona o ukrepih za odpravo posledic žleda med 30. januarjem in 10. februarjem 2014.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brutoZnesekPlaceInNadomestilZled</IRI>
+        <Literal xml:lang="sl">bruto znesek plače in nadomestil financiranih iz vira za žled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#danIzplacila</IRI>
+        <Literal xml:lang="sl">DanIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#danIzplacila</IRI>
+        <Literal xml:lang="sl">Dan izplačila.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#danIzplacila</IRI>
+        <Literal xml:lang="sl">dan izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#delezOsnovnePlace</IRI>
+        <Literal xml:lang="sl">DelPlaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#delezOsnovnePlace</IRI>
+        <Literal xml:lang="sl">delež osnovne plače FJU, izražen v znesku.
+
+Z551: delež osnovne plače - izračunan delež osnovne plače (od Z070 ali Z071 ali Z116 ali od Z118 ali od Z580 ali od Z591 ali od Z592) glede na odstotek deleža zaposlitve na delovnem mestu (Z550).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#delezOsnovnePlace</IRI>
+        <Literal xml:lang="sl">delež osnovne plače</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#delezRazlikeZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">PlacaNeso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#delezRazlikeZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">Z113: delež razlike za odpravo nesorazmerja - delež razlike za odpravo nesorazmerja v osnovnih plačah, izražen v nominalnem znesku, ki še ni zapadel v izplačilo
+(1) odprava nesorazmerja za funkcionarje plačne podskupine A5 na podlagi 26. člena ZSPJS-G, 4. člena Zakona o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009 (ZIPRO-D), drugega odstavka 3. člena ZSPJS-M in prvega odstavka 9. člena Zakona o interventnih ukrepih - ZIU.
+
+(2) odprava nesorazmerja za funkcionarje plačnih podskupin A1, A2 in dela A4 na podlagi 20. člena ZSPJS-G, 1. člena ZSPJS-K , 5. člena Zakona o interventnih ukrepih zaradi gospodarske krize - ZIUZGK, 1. člena ZSPJS-M in prvega odstavka 9. člena ZIU.
+
+(3) odprava nesorazmerja za javne uslužbence plačnih podskupin od C1 do J3, na podlagi 49.č člena ZSPJS in 50. člena KPJS 
+155., 156. člen ZUJF se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#delezRazlikeZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">delež razlike za odpravo nesorazmerja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#delezZaposlitveNaDelovnemMestu</IRI>
+        <Literal xml:lang="sl">DelZap</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#delezZaposlitveNaDelovnemMestu</IRI>
+        <Literal xml:lang="sl">delež zaposlitve FJU na funkciji ali delovnem mestu; odstotek z vrednostmi do 100.00; negativne vrednosti in vrednost 0 niso dovoljene; vrednost izražena na dve decimalki
+Z550: delež zaposlitve na delovnem mestu - pri zaposlitvi na več delovnih mestih se v pogodbi o delu določi delež zaposlitve za vsako delovno mesto, izražen v odstotku.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#delezZaposlitveNaDelovnemMestu</IRI>
+        <Literal xml:lang="sl">delež zaposlitve na delovnem mestu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#delovnaObveznost</IRI>
+        <Literal xml:lang="sl">delovna obveznost</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev</IRI>
+        <Literal xml:lang="sl">IndDodTedObv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev</IRI>
+        <Literal xml:lang="sl">Z602: faktor za izračun dodatne tedenske pedagoške obveznosti visokošolskih učiteljev in sodelavcev - faktor za izračun dodatne tedenske pedagoške obveznosti visokošolskih učiteljev in sodelavcev je 2,65 ali 3,00</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#faktorZaIzracunDodatneObveznostiVisokosolskihUciteljev</IRI>
+        <Literal xml:lang="sl">faktor za izračun dodatne tedenske pedagoške obveznosti visokošolskih učiteljev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#faktorZaIzracunPovečanePedagoškeObveznosti</IRI>
+        <Literal xml:lang="sl">IndPovecPedag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#faktorZaIzracunPovečanePedagoškeObveznosti</IRI>
+        <Literal xml:lang="sl">Z600: faktor za izračun povečane/zmanjšane pedagoške oziroma učne obveznosti - 	faktor za izračun povečane/zmanjšane pedagoške oziroma učne obveznosti (od 1,00 do 1,30).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#faktorZaIzracunPovečanePedagoškeObveznosti</IRI>
+        <Literal xml:lang="sl">faktor za izračun povečane pedagoške oziroma učne obveznosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaIzplaciloBrutoPlaceInNadomestil</IRI>
+        <Literal xml:lang="sl">ima podatke o izplačilu bruto plače in nadomestil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaNapotitev</IRI>
+        <Literal xml:lang="sl">ima napotitev
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaSklopObracunskihPodatkov</IRI>
+        <Literal xml:lang="sl">ima osnovne podatke o obračunu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#imaSklopPodatkovODelovnemMestu</IRI>
+        <Literal xml:lang="sl">DelMesto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaSklopPodatkovODelovnemMestu</IRI>
+        <Literal xml:lang="sl">ima podatke o delovnem mestu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#imaSklopPodatkovSkupnihIzplacil</IRI>
+        <Literal>SkupnaIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#imaSklopPodatkovSkupnihIzplacil</IRI>
+        <Literal xml:lang="sl">Sklop podatkov skupnih izplačil, ki se v datoteko vključi le v primeru, če zaposleni dela na dveh ali več delovnih mestih v okviru proračunskega uporabnika in se v tem primeru v ta sklop zapišejo vsa izplačila, ki ne izvirajo iz nobenega od vpisanih delovnih mest. Če ima zaposleni le eno delovno mesto, je sklop skupnih izplačil nepotreben. Podrobna struktura sklopa skupnih izplačil je enaka kot pri delovnem mestu (glej opis Sklop vrst izplačil), le ime podsklopa je v tem primeru VrsteSkupIzpl.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaSklopPodatkovSkupnihIzplacil</IRI>
+        <Literal xml:lang="sl">ima sklop podatkov skupnih izplacil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaZavezancaZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">ima zavezanca za kadrovski načrt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#indeksZivljenjskihStroskovOZN</IRI>
+        <Literal xml:lang="sl">IndZivStr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#indeksZivljenjskihStroskovOZN</IRI>
+        <Literal xml:lang="sl">Z450: indeks življenjskih stroškov Organizacije združenih narodov - preglednica indeksov življenjskih stroškov Organizacije združenih narodov – Uredba o plačah in drugih prejemkih javnih uslužbencev za delo v tujini – priloga 2 (PJUDT).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#indeksZivljenjskihStroskovOZN</IRI>
+        <Literal xml:lang="sl">indeks življenjskih stroškov OZN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#kontrolniSklopPodatkov</IRI>
+        <Literal xml:lang="sl">Kontrolni</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#kontrolniSklopPodatkov</IRI>
+        <Literal xml:lang="sl">Kontrolni sklop podatkov v katerem so zahtevani naslednji kontrolni podatki:
+• StObrac - število vseh obračunskih segmentov v okviru zavezanca 
+• StVI - število vrst izplačil v vseh obračunskih segmentih v okviru zavezanca 
+• Vsota - segment s kontrolnimi vsotami, ki vsebuje vsote bruto in neto izplačil iz vseh obračunskih segmentov za posamezne vrste izplačil A, B, C, D, E, G in O (Vsota Vrsta=&quot;A&quot;) v okviru zavezanca (Podatki o izplačilih so opisani v obračunskem segmentu). V segmentu s kontrolnimi vsotami je treba upoštevati le vrste izplačil iz sklopa DelMesto. 
+• Bto - vsota bruto zneskov izplačil za posamezen tip izplačil 
+• Nto - vsota neto zneskov izplačil za posamezen tip izplačil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#kontrolniSklopPodatkov</IRI>
+        <Literal xml:lang="sl">kontrolni sklop podatkov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#korekcijskaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">PlacaKore</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#korekcijskaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">Z106: korekcijska osnovna plača - Z106 = Z105 + (višina nesorazmerja nad štirimi plačnimi razredi) prevedena osnovna plača, povečana za vrednost v višini nesorazmerja nad štirimi plačnimi razredi (šesti odstavek 49.č člena ZSPJS, drugi odstavek 50. člena Kolektivne pogodbe za javni sektor – KPJS
+116. in 235. člen ZUJF se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#korekcijskaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">korekcijska osnovna plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#korekcijskiZnesek</IRI>
+        <Literal xml:lang="sl">korekcijski znesek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#letoIzplacila</IRI>
+        <Literal xml:lang="sl">LetoIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#letoIzplacila</IRI>
+        <Literal xml:lang="sl">Leto izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#letoIzplacila</IRI>
+        <Literal xml:lang="sl">leto izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#letoObracuna</IRI>
+        <Literal>LetoObr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#letoObracuna</IRI>
+        <Literal>leto obračuna izplačila, ki je lahko različno od leta obračuna iz segmenta Zavezanec, če se izplačilo izplačuje za različno obdobje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#letoObracuna</IRI>
+        <Literal xml:lang="sl">leto obračuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#letoObracunaZaZavezanca</IRI>
+        <Literal xml:lang="sl">Zavezanec za poročanje / LetoObr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#letoObracunaZaZavezanca</IRI>
+        <Literal xml:lang="sl">Z010: leto in mesec obračuna - leto in mesec, za katerega se obračuna plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#letoObracunaZaZavezanca</IRI>
+        <Literal xml:lang="sl">leto obračuna za zavezanca za poročanje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#letoZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">LetoKadr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#letoZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Leto, za katerega se podatki posredujejo.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#letoZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">leto za kadrovski načrt
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecIzpacila</IRI>
+        <Literal xml:lang="sl">MesIzp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecIzpacila</IRI>
+        <Literal xml:lang="sl">Mesec izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecIzpacila</IRI>
+        <Literal xml:lang="sl">mesec izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecObracuna</IRI>
+        <Literal xml:lang="sl">Podatki o izplačilu bruto plače in nadomestil za obdobje obračuna / MesObr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecObracuna</IRI>
+        <Literal xml:lang="sl">Definicija za &quot;Podatki o izplačilu bruto plače in nadomestil za obdobje obračuna&quot; in
+&quot;Sklop podatkov skupnih izplači&quot;:
+Mesec obračuna izplačila, ki je lahko različen od meseca obračuna iz segmenta Zavezanec, če se izplačilo izplačuje za različno obdobje.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecObracuna</IRI>
+        <Literal xml:lang="sl">mesec obračuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecObracunaZaZavezancaZaPorocanje</IRI>
+        <Literal xml:lang="sl">Zavezanec za poročanje / MesObr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecObracunaZaZavezancaZaPorocanje</IRI>
+        <Literal xml:lang="sl">Mesec obračuna (od 01 do 12).
+Z010: leto in mesec obračuna -  leto in mesec, za katerega se obračuna plača.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecObracunaZaZavezancaZaPorocanje</IRI>
+        <Literal xml:lang="sl">mesec obračuna za zavezanca za poročanje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">MesKadr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">Mesec, za katerega se podatki posredujejo. Podatki se poročajo le za mesec januar, april, julij in oktober tekočega leta.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecZaKadrovskiNacrt</IRI>
+        <Literal xml:lang="sl">mesec za kadrovski načrt
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecnaDelovnaObveznostIzrazena</IRI>
+        <Literal xml:lang="sl">MesObvez</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecnaDelovnaObveznostIzrazena</IRI>
+        <Literal xml:lang="sl">Mesečna delovna obveznost izražena v številu ur 
+Z051: mesečna delovna obveznost - mesečna delovna obveznost po koledarju.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecnaDelovnaObveznostIzrazena</IRI>
+        <Literal xml:lang="sl">mesečna delovna obveznost</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#mesecnaDelovnaObveznostIzrazena</IRI>
+        <Literal xml:lang="sl">V sklopu obračunskih podatkov se morata poročati obe vrednosti:  Povprečna mesečna delovna obveznost (Z050) in mesečna delovna obveznost (Z051).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">MesObvezSkr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">Mesečna delovna obveznost za krajši delovni čas izražena v številu ur. 
+Z053: mesečna delovna obveznost za krajši delovni čas - mesečna delovna obveznost po koledarju za krajši delovni čas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">mesečna delovna obveznost za krajši delovni čas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#mesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">V sklopu obračunskih podatkov se morata poročati obe vrednosti: Povprečna mesečna delovna obveznost za krajši delovni čas (Z052) in mesečna delovna obveznost za krajši delovni čas (Z053).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecnaVrednostDodatnePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">VredDodTedObv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecnaVrednostDodatnePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">Z603: mesečna vrednost dodatne tedenske pedagoške obveznosti - osnovna plača FJU/40 x število ur dodatne tedenske pedagoške obveznosti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecnaVrednostDodatnePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">mesečna vrednost dodatne tedenske pedagoške obveznosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#mesecnoSteviloUrZmanjsanegaObsegaDela</IRI>
+        <Literal xml:lang="sl">StUrZmanjsanegaObsega</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mesecnoSteviloUrZmanjsanegaObsegaDela</IRI>
+        <Literal xml:lang="sl">Mesečno število ur zmanjšanega obsega dela (podatek se poroča le za delo v tujini).
+
+Z605: mesečno število ur zmanjšanega obsega dela - število ur zmanjšanega obsega dela pedagoške oziroma učne obveznosti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mesecnoSteviloUrZmanjsanegaObsegaDela</IRI>
+        <Literal xml:lang="sl">mesečno število ur zmanjšanega obsega dela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#mesecnoSteviloUrZmanjsanegaObsegaDela</IRI>
+        <Literal xml:lang="sl">Podatke ReferencnaSifraDM, ReferencnaSifraNaziv, StUrZmanjsanegaObsega in ZnesDrugihDrzav se poročajo le za delovna mesta šifre T.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika</IRI>
+        <Literal xml:lang="sl">Eposta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika</IRI>
+        <Literal xml:lang="sl">Naslov elektronske pošte odgovorne osebe proračunskega uporabnika.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#naslovElektronskePosteOdgovorneOsebeProracunskegaUporabnika</IRI>
+        <Literal xml:lang="sl">naslov elektronske pošte odgovorne osebe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#netoIzplaciloZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">NtoIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#netoIzplaciloZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">neto izplačilo (Z300) oziroma (Z490) pri plači za delo v tujini, za delovna mesta označena s črko T Z300 oz. Z490
+Z300 oz. Z490
+
+Z300: neto izplačilo - neto plača II, zmanjšana za prispevke in davčni odtegljaj tipa izplačil F, I080, I090, I021, I110, I011, I072, I901 + neto drugi dohodki iz delovnega razmerja + povračila stroškov.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#netoIzplaciloZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">neto izplačilo za delo v tujini</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#netoPlaca</IRI>
+        <Literal xml:lang="sl">NtoPlaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#netoPlaca</IRI>
+        <Literal xml:lang="sl">Z290: neto plača I - bruto plača in nadomestila (Z080) – prispevki iz bruto plače (Z220) – davčni odtegljaj.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#netoPlaca</IRI>
+        <Literal xml:lang="sl">neto plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#netoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">NtoZnIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#netoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">neto znesek izplačila za vrsto izplačila; v valuti izplačila, ki je navedena v obračunskem sklopu (ValIzpl)
+
+Potrebno vpisati na dve decimalni mesti natančno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#netoZnesekIzplacila</IRI>
+        <Literal xml:lang="sl">neto znesek izplačila za vrsto izplačila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#normiranoSteviloUr</IRI>
+        <Literal xml:lang="sl">StNormUr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#normiranoSteviloUr</IRI>
+        <Literal xml:lang="sl">Obvezno za vse vrste izplačil, ki pri načinu izračuna Z061 upoštevajo število normiranih ur.
+
+Z061: normirano število ur - število ur za posamezno vrsto izplačila, normirano na povprečno mesečno delovno obveznost (Z060/Z051 x Z050) oziroma (Z060/Z053 x Z052).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#normiranoSteviloUr</IRI>
+        <Literal xml:lang="sl">normirano število ur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#odbitekBrutoPlaceDisciplinskaSankcija</IRI>
+        <Literal xml:lang="sl">OdbitDiscpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#odbitekBrutoPlaceDisciplinskaSankcija</IRI>
+        <Literal xml:lang="sl">Z611: disciplinska sankcija za pravosodne funkcionarje – odbitek bruto plače - osnova za obračun odbitka je bruto plača 3. stopnje iz 9. člena uredbe. Od te osnove se odmeri odbitek v višini do največ 20 %. Izračunani odbitek se odšteje od bruto plače 3. stopnje.
+ 
+Z611 = BRUTO PLAČA 3. STOPNJE X (do 20 %)
+ 
+83. člen Zakona o sodniški službi - ZSS,
+81. in 82. člen Zakona o državnem tožilstvu (ZDT-1)
+in 64. člen Zakona o državnem pravobranilstvu (v nadaljnjem besedilu: ZDPra).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#odbitekBrutoPlaceDisciplinskaSankcija</IRI>
+        <Literal xml:lang="sl">disciplinska sankcija za pravosodne funkcionarje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#odbitekPlaceFunkcionarja</IRI>
+        <Literal xml:lang="sl">OdbPlacFunkc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#odbitekPlaceFunkcionarja</IRI>
+        <Literal xml:lang="sl">Z610: odbitek plače funkcionarja - 4 % osnovne plače funkcionarja (Z070 oziroma Z108) po Zakonu o začasnem znižanju plač funkcionarjev (ZZZPF) oz. od 1. 1. 2011 do 31. 12. 2011 po ZIU, ki se odšteje od bruto plače 3. stopnja. ZUJF ukinja Z610
+
+159. člen ZUJF
+
+se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#odbitekPlaceFunkcionarja</IRI>
+        <Literal xml:lang="sl">odbitek plače funkcionarja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#odbitekPlacePoZIntPK</IRI>
+        <Literal xml:lang="sl">OdbitZintPK</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#odbitekPlacePoZIntPK</IRI>
+        <Literal xml:lang="sl">Z620: odbitek plače po ZIntPK - osnova za obračun odbitka je osnovna plača FJU. Izračunani odbitek se odšteje od bruto plače 3. stopnja
+(1)
+Z620 = osnovna plača FJU x 10 % 
+(2)
+(bruto plača 3. stopnja – Z620) &gt; Z100, se izračunani odbitek Z620 odšteje od bruto plače 3. stopnja vsak nadaljnji mesec 
+sicer
+Z620 = (Bruto plača 3. stopnja – Z100) ob pogoju, da je Z080 ≥ Z100
+44. člen Zakona o integriteti in preprečevanju korupcije (v nadaljnjem besedilu: ZIntPK).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#odbitekPlacePoZIntPK</IRI>
+        <Literal xml:lang="sl">odbitek plače po ZIntPK</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovaZaIzracunDavkovOdOsebnihPrejemkov</IRI>
+        <Literal xml:lang="sl">OsnDav</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovaZaIzracunDavkovOdOsebnihPrejemkov</IRI>
+        <Literal xml:lang="sl">osnova za izračun davkov od osebnih prejemkov 
+Z271: osnova za izračun davčnega odtegljaja od dohodkov iz delovnega razmerja - Z271 = Z270 – Z220 – neplačana odsotnost – A030 – H120 ter upoštevanje olajšav in načina izračuna davčnega odtegljaja v skladu z ZDoh-2.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovaZaIzracunDavkovOdOsebnihPrejemkov</IRI>
+        <Literal xml:lang="sl">osnova za izračun davkov od osebnih prejemkov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovaZaIzracunPlaceZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">OsnTujina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovaZaIzracunPlaceZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">Z470: osnova za izračun plače za delo v tujini - vrednost nominalne osnove za delo v tujini (priloga 1 PJUDT, priloga 1 MOM).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovaZaIzracunPlaceZaDeloVTujini</IRI>
+        <Literal xml:lang="sl">osnova za izračun plače za delo v tujini</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovaZaIzracunPlaceZaSVoperacijeOKO</IRI>
+        <Literal xml:lang="sl">OsnTujinaOKO</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovaZaIzracunPlaceZaSVoperacijeOKO</IRI>
+        <Literal xml:lang="sl">Z471:plača za delo v tujini - A + B + C + D + G - Z606;
+vrste izplačil z indikatorjem C1=2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovaZaIzracunPlaceZaSVoperacijeOKO</IRI>
+        <Literal xml:lang="sl">plača za delo v tujini</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovaZaIzracunPrispevkov</IRI>
+        <Literal xml:lang="sl">OsnPrisp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovaZaIzracunPrispevkov</IRI>
+        <Literal xml:lang="sl">Z270: osnova za izračun prispevkov  - bruto plača in nadomestila (Z080) + A030 + neplačana odsotnost + bonitete + povračila stroškov, ki so višja od zneska, določenega z uredbo vlade + drugi dohodki iz delovnega razmerja + H120
+144. člen ZPIZ-2 
+10. člen ZSDP-1
+135. člen Zakon o urejanju trga dela – ZUTD
+50. člen ZZVZZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovaZaIzracunPrispevkov</IRI>
+        <Literal xml:lang="sl">osnova za izračun prispevkov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlaca</IRI>
+        <Literal xml:lang="sl">osnovna plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaFJU</IRI>
+        <Literal xml:lang="sl">OsnPlaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaFJU</IRI>
+        <Literal xml:lang="sl">Z070: osnovna plača javnega uslužbenca oziroma funkcionarja - FJU - osnovna plača javnega uslužbenca ali funkcionarja, določena z nominalno osnovo za delo v tujini
+Z070= Z470 x Z450,
+7. člen PJUDT,
+6. člen MOM,
+vrednost Z450 za izračun osnovne plače po MOM je 1.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaFJU</IRI>
+        <Literal xml:lang="sl">osnovna plača FJU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">PlacaKraj</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">Z071: osnovna plača za krajši delovni čas - osnovna plača za krajši delovni čas; Z070 / Z050 X Z052 oziroma Z070 / Z051 X Z053.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">osnovna plača za krajši delovni čas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaZaObracun</IRI>
+        <Literal xml:lang="sl">PlacaObr2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaZaObracun</IRI>
+        <Literal xml:lang="sl">Z114: osnovna plača – za obračun - 
+(1) Z070 – Z115
+ali
+(2) Z116 – Z115
+ali
+(3) Z118 – Z115
+ali
+(4) Z571 – Z115
+Uredba o plačah direktorjev v javnem sektorju se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaZaObracun</IRI>
+        <Literal xml:lang="sl">osnovna plača za obračun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaZaObracunV</IRI>
+        <Literal xml:lang="sl">PlacaObr5</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaZaObracunV</IRI>
+        <Literal xml:lang="sl">Z108: osnovna plača za obračun V - 
+(1) Z070 – Z113
+ali
+(2) Z116 – Z113
+ali
+(3) Z118 – Z113
+ali
+(4) Z571 – Z113
+ali
+(5) Z580 – Z113
+ali
+(6) Z581 – Z113
+ali
+(7) Z591 – Z113
+se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaZaObracunV</IRI>
+        <Literal xml:lang="sl">osnovna plača za obračun V</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaZaPripravnika</IRI>
+        <Literal xml:lang="sl">PlacaPrip</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaZaPripravnika</IRI>
+        <Literal xml:lang="sl">osnovna plača za pripravnika po 9. a členu ZSPJS
+Z580: osnovna plača za pripravnika - osnovna plača delovnega mesta oziroma naziva, znižana za 6 plačnih razredov (Z070 – 6 plačnih razredov).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaZaPripravnika</IRI>
+        <Literal xml:lang="sl">osnovna plača za pripravnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#osnovnaPlacaZaPripravnikaMORS</IRI>
+        <Literal xml:lang="sl">PlacaPripMORS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#osnovnaPlacaZaPripravnikaMORS</IRI>
+        <Literal xml:lang="sl">Z581: osnovna plača za pripravnika MORS - 90 % osnovne plače Z070.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#osnovnaPlacaZaPripravnikaMORS</IRI>
+        <Literal xml:lang="sl">osnovna plača za pripravnika MORS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#placniRazredJavnegaUsluzbenca</IRI>
+        <Literal xml:lang="sl">PlacRazFJU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#placniRazredJavnegaUsluzbenca</IRI>
+        <Literal xml:lang="sl">Plačni razred FJU z napredovanji. Za delovna mesta šifre JD se podatek ne poroča, ali pa je vrednost 0. Za delovna mesta šifre T se vpiše podatek o stopnji nominalne osnove. Stopnje nominalne osnove so objavljene v Šifrantu ISPAP.
+
+Z380: plačni razred javnega uslužbenca/funkcionarja - FJU - plačni razred FJU z napredovanji, katerega nominalna vrednost je izražena v izrazih:
+Z070- osnovna plača FJU ali
+Z116- znižana osnovna plača FJU – 14. člen ZSPJS ali
+Z118- zvišana osnovna plača FJU – 15. člen ZSPJS ali
+Z580- osnovna plača za pripravnika – 9.a člen ZSPJS ali
+Z591- zvišana osnovna plača FJU – prvi odstavek 19. člena ZSPJS ali
+Z592- zvišana osnovna plača FJU – drugi odstavek 19. člena ZSPJS ali
+nič, če je šifra Z370 &quot;javno delo&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#placniRazredJavnegaUsluzbenca</IRI>
+        <Literal xml:lang="sl">plačni razred javnega uslužbenca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznost</IRI>
+        <Literal xml:lang="sl">PovpMesObvez</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznost</IRI>
+        <Literal xml:lang="sl">Povprečna mesečna delovna obveznost izražena v številu ur 
+Z050: povprečna mesečna delovna obveznost - povprečna mesečna delovna obveznost (174 ur),
+40.člen ZSPJS, 
+6.člen Uredbe o plačah in drugih prejemkih javnih uslužbencev za delo v tujini (v nadaljnjem besedilu: PJUDT),
+drugi odstavek 6. člena Uredbe o plačah in drugih prejemkih pripadnikov Slovenske vojske pri izvajanju obveznosti, prevzetih v mednarodnih organizacijah oziroma z mednarodnimi pogodbami (v nadaljnjem besedilu: MOM)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznost</IRI>
+        <Literal xml:lang="sl">40. člen ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznost</IRI>
+        <Literal xml:lang="sl">povprečna mesečna delovna obveznost</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznost</IRI>
+        <Literal xml:lang="sl">V sklopu obračunskih podatkov se morata poročati obe vrednosti:  Povprečna mesečna delovna obveznost (Z050) in mesečna delovna obveznost (Z051).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">PovpMesObvezSkr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">Povprečna mesečna delovna obveznost za krajši delovni čas izražena v številu ur 
+Z052: povprečna mesečna delovna obveznost za krajši delovni čas - povprečna mesečna delovna obveznost za krajši delovni čas.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">povprečna mesečna delovna obveznost za krajši delovni čas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#povprecnaMesecnaDelovnaObveznostZaKrajsiDelovniCas</IRI>
+        <Literal xml:lang="sl">V sklopu obračunskih podatkov se morata poročati obe vrednosti: Povprečna mesečna delovna obveznost za krajši delovni čas (Z052) in mesečna delovna obveznost za krajši delovni čas (Z053).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#pretvornik</IRI>
+        <Literal xml:lang="sl">Pretvornik</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#pretvornik</IRI>
+        <Literal xml:lang="sl">Indeks življenjskih stroškov Organizacije združenih narodov - pretvornik za delo v tujini. Če je država zaposlenega 705, je pretvornik 0, v nasprotnem primeru je pretvornik v razponu kot določa Uredba o plačah in drugih prejemkih javnih uslužbencev za delo v tujini.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#pretvornik</IRI>
+        <Literal>Z450: indeks življenjskih stroškov Organizacije združenih narodov - preglednica indeksov življenjskih stroškov Organizacije združenih narodov – Uredba o plačah in drugih prejemkih javnih uslužbencev za delo v tujini – priloga 2 (PJUDT)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pretvornik</IRI>
+        <Literal xml:lang="sl">indeks življenjskih stroškov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#prevedenaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">PlacaPrev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#prevedenaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">Z105: prevedena osnovna plača  javnega uslužbenca oziroma funkcionarja - 49.a in 49.c člen ZSPJS, 116. in 235. člen ZUJF, se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1.6.2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#prevedenaOsnovnaPlaca</IRI>
+        <Literal xml:lang="sl">prevedena osnovna plača</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#primerljiviZnesekPlace</IRI>
+        <Literal xml:lang="sl">PlacaZad</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#primerljiviZnesekPlace</IRI>
+        <Literal xml:lang="sl">Z111: primerljivi znesek plače, določen po predpisih in kolektivnih pogodbah, ki se uporabljajo do začetka izplačila plač po ZSPJS - drugi in peti odstavek 49.f člen ZSPJS, 116. in 235. člen ZUJF, se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#primerljiviZnesekPlace</IRI>
+        <Literal xml:lang="sl">primerljivi znesek plače</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#primerljiviZnesekPlacePoZSPJS</IRI>
+        <Literal xml:lang="sl">PrimZnes2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#primerljiviZnesekPlacePoZSPJS</IRI>
+        <Literal xml:lang="sl">Z104: primerljivi znesek plače, določen po ZSPJS - osnovna plača ali osnovna plača za obračun + C010 + C020 + C040 + (C050 ali C051 ali C052) + C150 za tekoči mesec, če bi delal polni delovni čas116. in 235. člen Zakon za uravnoveteženje javnih financ – ZUJF se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#primerljiviZnesekPlacePoZSPJS</IRI>
+        <Literal xml:lang="sl">primerljivi znesek plače, določen po ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#razlikaDoPlace49.ClenZSPJS</IRI>
+        <Literal xml:lang="sl">PlacaNeso4</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#razlikaDoPlace49.ClenZSPJS</IRI>
+        <Literal xml:lang="sl">A040: razlika med minimalno in obračunano plačo; razlika do plače glede na 49. člen ZSPJS -  bruto plača – redno delo - se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1.6.2012</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#razlikaDoPlace49.ClenZSPJS</IRI>
+        <Literal xml:lang="sl">razlika do plače glede na 49. člen ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#razlikaZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">SkupRaz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#razlikaZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">Z107: razlika za odpravo nesorazmerja - 
+(1) Z070 – Z105; pri določitvi Z106 je Z107 = Z070 – Z106
+ali
+(2) Z116 – Z105; pri določitvi Z106 je Z107 = Z116 – Z106
+ali
+(3) Z118 – Z105; pri določitvi Z106 je Z107 = Z118 – Z106
+ali
+(4) Z571 – Z105; pri določitvi Z106 je Z107 = Z571 – Z106
+ali
+(5) Z580 – Z105; pri določitvi Z106 je Z107 = Z580 – Z106
+ali
+(6) Z581 – Z105; pri določitvi Z106 je Z107 = Z580 – Z106
+ali
+(7) Z591 – Z105; pri določitvi Z106 je Z107 = Z591 – Z106 
+
+155., 156. člen ZUJF
+se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#razlikaZaOdpravoNesorazmerja</IRI>
+        <Literal xml:lang="sl">razlika za odpravo nesorazmerja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#referencnaSifraNaziva</IRI>
+        <Literal xml:lang="sl">ReferencnaSifraNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#referencnaSifraNaziva</IRI>
+        <Literal xml:lang="sl">Referenčna šifra naziva (podatek se poroča le za delo v tujini – delovno mesto šifre T).
+
+Z373: referenčna šifra naziva iz kataloga funkcij, delovnih mest in nazivov (katalog FDMN), (15. in 16. alineja drugega odstavka 44. člena ZSPJS) ali priloga 4 PJUDT ali priloga 1 MOM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#referencnaSifraNaziva</IRI>
+        <Literal xml:lang="sl">referenčna šifra naziva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#referencnaSifraNaziva</IRI>
+        <Literal xml:lang="sl">Podatke ReferencnaSifraDM, ReferencnaSifraNaziv, StUrZmanjsanegaObsega in ZnesDrugihDrzav se poročajo le za delovna mesta šifre T.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraNapotitve</IRI>
+        <Literal>NapotitevOznakaNapotitev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraNapotitve</IRI>
+        <Literal xml:lang="sl">šifra napotitve</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraObracunaZaCelotenSklopPodatkovZavezanca</IRI>
+        <Literal>Oznaka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraObracunaZaCelotenSklopPodatkovZavezanca</IRI>
+        <Literal xml:lang="sl">Oznaka obračuna za celoten sklop podatkov zavezanca.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraObracunaZaCelotenSklopPodatkovZavezanca</IRI>
+        <Literal xml:lang="sl">šifra obračuna za celoten sklop podatkov zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#srednjiTecajBankeSlovenijeZaValutoIzplacila</IRI>
+        <Literal xml:lang="sl">Tecaj</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#srednjiTecajBankeSlovenijeZaValutoIzplacila</IRI>
+        <Literal>srednji tečaj Banke Slovenije za valuto izplačila. Pri valuti izplačila EUR vpišemo vrednost 1.00. Tečaja ne zaokrožamo. Decimalno ločilo je pika.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#srednjiTecajBankeSlovenijeZaValutoIzplacila</IRI>
+        <Literal xml:lang="sl">srednji tečaj Banke Slovenije za valuto izplačila.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#stevilZaposlenihIzNejavnSredstev</IRI>
+        <Literal xml:lang="sl">StZapNejavnaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#stevilZaposlenihIzNejavnSredstev</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz nejavnih sredstev za opravljanje javne službe in sredstva prejetih donacij - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#stevilZaposlenihIzNejavnSredstev</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz nejavnih sredstev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#stevilZaposlenihIzNejavnSredstev</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloDniNapotitevVTujino</IRI>
+        <Literal xml:lang="sl">StDniTujina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloDniNapotitevVTujino</IRI>
+        <Literal xml:lang="sl">Število dni napotitev v tujino (podatek se poroča le za delo v tujini).
+Podatek StDniTujina se poroča le za delovna mesta šifre T.
+
+Z063: število dni napotitev v tujino - napotitev je krajša od meseca dni; četrti odstavek 6. člena MOM.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloDniNapotitevVTujino</IRI>
+        <Literal xml:lang="sl">število dni napotitev v tujino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloKoledarskihDniVMesecuNapotitve</IRI>
+        <Literal xml:lang="sl">StKoledarskiDniObr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloKoledarskihDniVMesecuNapotitve</IRI>
+        <Literal xml:lang="sl">Število koledarskih dni v mesecu napotitve (podatek se poroča le za delo v tujini – delovno mesto šifre T).
+Z062: število dni - število vseh koledarski dni v mesecu; peti odstavek 6. člena MOM.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloKoledarskihDniVMesecuNapotitve</IRI>
+        <Literal xml:lang="sl">število koledarskih dni v mesecu napotitve</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloUr</IRI>
+        <Literal xml:lang="sl">StUr</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloUr</IRI>
+        <Literal xml:lang="sl">Obvezno za vse vrste izplačil, ki pri načinu izračuna upoštevajo število ur.
+
+Z060: število ur - število ur za posamezno vrsto izplačila.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloUr</IRI>
+        <Literal xml:lang="sl">število ur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenih</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenih</IRI>
+        <Literal xml:lang="sl">število zaposlenih</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzDP</IRI>
+        <Literal xml:lang="sl">StZapProracunDrzava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzDP</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz državnega proračuna - izračun na dve decimalni mesti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzDP</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz državnega proračuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzDP</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzEU</IRI>
+        <Literal xml:lang="sl">StZapSredstvaEU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzEU</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz sredstev EU, ali drugih mednarodnih virov, vključno s sredstvi sofinanciranja iz državnega proračuna - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzEU</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz sredstev EU</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzEU</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzJavnihDel</IRI>
+        <Literal xml:lang="sl">StZapSredstvaFinanciranjeJavnihDel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzJavnihDel</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz sredstev za financiranje javnih del - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzJavnihDel</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz javnih del</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzJavnihDel</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzJavnihSredstev</IRI>
+        <Literal xml:lang="sl">StZapDrugaJavnaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzJavnihSredstev</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz drugih javnih sredstev za opravljanje javne službe - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzJavnihSredstev</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz drugih javnih sredstev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzJavnihSredstev</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzNamenSredstev</IRI>
+        <Literal xml:lang="sl">StZapNamenskaSredstva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzNamenSredstev</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz namenskih sredstev, iz katerih se v celoti zagotavlja financiranje stroškov dela zaposlenih, in sicer mladih raziskovalcev, zdravnikov pripravnikov in specializantov, zdravstvenih delavcev pripravnikov in zdravstvenih sodelavcev pripravnikov ter zaposlenih na raziskovalnih projektih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzNamenSredstev</IRI>
+        <Literal xml:lang="sl">Število zaposlenih financiranih iz sredstev za mlade raziskovalce.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzNamenSredstev</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzPO</IRI>
+        <Literal xml:lang="sl">StZapProracunObcina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzPO</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz proračuna občin - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzPO</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz proračuna občin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzPO</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzSrTrg</IRI>
+        <Literal xml:lang="sl">StSredstvaNaTrgu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzSrTrg</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz sredstev od prodaje blaga in storitev na trgu - izračun na dve decimalni mesti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzSrTrg</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz sredstev od prodaje na trgu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzSrTrg</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzZZZS</IRI>
+        <Literal xml:lang="sl">StZapSredstvaZzzsZpiz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzZZZS</IRI>
+        <Literal xml:lang="sl">število zaposlenih, ki se financirajo iz sredstev Zavoda za zdravstveno zavarovanje Slovenije in Zavoda za pokojninsko in invalidsko zavarovanje Slovenije - izračun na dve decimalni mesti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzZZZS</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz sredstev ZZZS in ZPIZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzZZZS</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#steviloZaposlenihIzZled</IRI>
+        <Literal xml:lang="sl">StZapSredstvaZled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#steviloZaposlenihIzZled</IRI>
+        <Literal xml:lang="sl">Število zaposlenih, ki se financirajo iz sredstev za zaposlene na podlagi Zakona o ukrepih za odpravo posledic žleda med 30. januarjem in 10. februarjem 2014 (Uradni list RS,št. 17/14).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#steviloZaposlenihIzZled</IRI>
+        <Literal xml:lang="sl">število zaposlenih financiranih iz sredstev žled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#steviloZaposlenihIzZled</IRI>
+        <Literal xml:lang="sl">Podatek o številu zaposlenih se izračuna po metodologiji, ki je opredeljena v Pravilniku o metodologiji za posredovanje in analizo podatkov o plačah, drugih izplačilih in številu zaposlenih v javnem sektorju (Uradni list RS, št. 28/2014 in 52/2014).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#vrednostPlacnegaRazredaFDMN</IRI>
+        <Literal xml:lang="sl">VredPlacRaz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#vrednostPlacnegaRazredaFDMN</IRI>
+        <Literal xml:lang="sl">Z073: vrednost plačnega razreda delovnega mesta, naziva, funkcije — FDMN - nominalna vrednost plačnega razreda delovnega mesta ali naziva ali funkcije, na katerega oziroma na katero je javni uslužbenec ali funkcionar uvrščen. Pripadajoči znesek je naveden v izrazu Z381.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#vrednostPlacnegaRazredaFDMN</IRI>
+        <Literal xml:lang="sl">vrednost plačnega razreda FDMN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#vrednostZnizanePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">VredZmanjPedag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#vrednostZnizanePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">Z604: vrednost znižane pedagoške oziroma učne obveznosti - mesečno število ur zmanjšanega obsega dela pedagoške oziroma učne obveznosti x Z601 (odšteje se od bruto plače 3. stopnja).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#vrednostZnizanePedagoskeObveznosti</IRI>
+        <Literal xml:lang="sl">vrednost znižane pedagoške obveznosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#vrednostZvisaneAliZnizanePedagoskeUre</IRI>
+        <Literal xml:lang="sl">VredPovecPedag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#vrednostZvisaneAliZnizanePedagoskeUre</IRI>
+        <Literal xml:lang="sl">Z601: vrednost povečane/ zmanjšane pedagoške oziroma učne ure - bruto urna postavka za osnovno plačo x faktor za izračun povečane/zmanjšane pedagoške oziroma učne obveznosti (Z150 x Z600).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#vrednostZvisaneAliZnizanePedagoskeUre</IRI>
+        <Literal xml:lang="sl">vrednost zvišane ali znižane pedagoške ure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#zaporednStevilkaSklopaObracunskihPodatkov</IRI>
+        <Literal xml:lang="sl">Obracunski</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#zaporednStevilkaSklopaObracunskihPodatkov</IRI>
+        <Literal xml:lang="sl">Sklop obračunskih podatkov. Vsak sklop je označen z zaporedno številko od 1 do n &quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#zaporednStevilkaSklopaObracunskihPodatkov</IRI>
+        <Literal xml:lang="sl">zaporedna številka sklopa obračunskih podatkov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekDelaPlaceInstitucijDrugihDrzav</IRI>
+        <Literal xml:lang="sl">ZnesDrugihDrzav</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekDelaPlaceInstitucijDrugihDrzav</IRI>
+        <Literal xml:lang="sl">Znesek dela plače in drugih prejemkov institucij drugih držav/mednarodnih organizacij (podatek se poroča le za delo v tujini).
+
+Z606: znesek dela plače in drugih prejemkov institucij drugih držav/mednarodnih organizacij - znesek se odšteje od plače za delo v tujini (Z471).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekDelaPlaceInstitucijDrugihDrzav</IRI>
+        <Literal xml:lang="sl">znesek dela plače in drugih prejemkov institucij drugih držav</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#znesekDelaPlaceInstitucijDrugihDrzav</IRI>
+        <Literal xml:lang="sl">Podatke ReferencnaSifraDM, ReferencnaSifraNaziv, StUrZmanjsanegaObsega in ZnesDrugihDrzav se poročajo le za delovna mesta šifre T.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZnizanjaOsnovnePlace</IRI>
+        <Literal xml:lang="sl">PlacaNeso2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZnizanjaOsnovnePlace</IRI>
+        <Literal xml:lang="sl">Z115: znesek znižanja osnovne plače (Z070, Z116, Z118 ali Z571) v skladu z drugim odstavkom 12. člena Uredbe o plačah direktorjev v javnem sektorju
+ 
+Uredba o plačah direktorjev v javnem sektorju
+ 
+se uporablja za namen obračuna, pri katerem je razlog za izplačilo nastal pred 1. 6. 2012.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZnizanjaOsnovnePlace</IRI>
+        <Literal xml:lang="sl">znesek znižanja osnovne plače</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZnizanjaOsnovnePlace14.Clen</IRI>
+        <Literal xml:lang="sl">PlacaNeso3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZnizanjaOsnovnePlace14.Clen</IRI>
+        <Literal xml:lang="sl">Z117: znesek znižanja osnovne plače FJU – 14. člen ZSPJS - razlika v skladu s 14. členom ZSPJS .</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZnizanjaOsnovnePlace14.Clen</IRI>
+        <Literal xml:lang="sl">znesek znižanja osnovne plače po 14. členu ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZvisanjaOsnovnePlace15ClenZSPJS</IRI>
+        <Literal xml:lang="sl">PlacaNeso5</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZvisanjaOsnovnePlace15ClenZSPJS</IRI>
+        <Literal xml:lang="sl">Z119: znesek zvišanja osnovne plače FJU – 15. člen ZSPJS - zvišanje v skladu s 15. členom ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZvisanjaOsnovnePlace15ClenZSPJS</IRI>
+        <Literal xml:lang="sl">znesek zvišanja osnovne plače po 15. členu ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZvisanjaOsnovnePlace19ClenuZSPJS</IRI>
+        <Literal xml:lang="sl">PlacaNeso6</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZvisanjaOsnovnePlace19ClenuZSPJS</IRI>
+        <Literal xml:lang="sl">Z590: znesek zvišanja osnovne plače FJU - 1. odstavek 19. člen ZSPJS - nominalna vrednost plačnih razredov, ki povečujejo osnovno plačo ob zaposlitvi, premestitvi na drugo delovno mesto oziroma imenovanju v naziv ali višji naziv.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZvisanjaOsnovnePlace19ClenuZSPJS</IRI>
+        <Literal xml:lang="sl">znesek zvišanja osnovne plače po 19. členu ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">ZvisanjeOsnPlac</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">Z593: znesek zvišanja osnovne plače – drugi odstavek 19. člena ZSPJS	 - nominalna vrednost plačnih razredov, ki povečujejo osnovno plačo ob zaposlitvi, premestitvi na drugo delovno mesto oziroma imenovanju v naziv ali višji naziv – utemeljeni razlog in soglasje.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZvisanjaOsnovnePlace2odst19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">Znesek zvišanja osnovne plače po 2. odstavku 19. člena ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znesekZvisanjaOsnovnePlace59Clen</IRI>
+        <Literal xml:lang="sl">ZSSloV1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znesekZvisanjaOsnovnePlace59Clen</IRI>
+        <Literal xml:lang="sl">zvišanje osnovne plače po drugem stavku drugega odstavka 59. člena ZSSloV; vrednost izražena v znesku.
+Z560: znesek zvišanja osnovne plače v % po 59. členu (ZSSloV) - osnovna plača se lahko poveča do 30 %; faktor določi Vlada RS; drugi stavek drugega odstavka 59. člena Zakona o službi v Slovenski vojski - ZSSloV.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znesekZvisanjaOsnovnePlace59Clen</IRI>
+        <Literal xml:lang="sl">znesek zvišanja osnovne plače po 59. členu ZSSloV</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#znizanaOsnovnaPlacaFJU14Clen</IRI>
+        <Literal xml:lang="sl">PlacaObr3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#znizanaOsnovnaPlacaFJU14Clen</IRI>
+        <Literal xml:lang="sl">Z116: Znižana osnovna plača FJU – 14. člen ZSPJS - osnovna plača, znižana v skladu s 14. členom ZSPJS zaradi nižje strokovne izobrazbe, kakor je zahtevana
+Z116 = Z070 – Z117.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#znizanaOsnovnaPlacaFJU14Clen</IRI>
+        <Literal xml:lang="sl">znižana osnovna plača FJU – 14. člen ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#zvisanaOsnovnaPlaca15Clen</IRI>
+        <Literal xml:lang="sl">PlacaObr4</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#zvisanaOsnovnaPlaca15Clen</IRI>
+        <Literal xml:lang="sl">Z118: zvišana osnovna plača FJU – 15. člen ZSPJS - osnovna plača, zvišana v skladu s 15. členom ZSPJS zaradi sklenitve delovnega razmerja za določen čas, Z118 = Z070 + Z119.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#zvisanaOsnovnaPlaca15Clen</IRI>
+        <Literal xml:lang="sl">zvišana osnovna plača FJU – 15. člen ZSŠJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#zvisanaOsnovnaPlaca19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">PlacaObr7</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#zvisanaOsnovnaPlaca19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">Z591: zvišana osnovna plača FJU – 1. odstavek 19. člen ZSPJS - osnovna plača, zvišana na podlagi prvega odstavka 19. člena ZSPJS Z591 = Z070 + Z590.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#zvisanaOsnovnaPlaca19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">zvišana osnovna plača FJU – 19. člen ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">ZvisanaOsnPlac</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">Z592: zvišana osnovna plača FJU – drugi odstavek 19. člena ZSPJS - osnovna plača, zvišana na podlagi drugega odstavka 19. člena ZSPJS Z592 = Z070 + Z593.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#zvisanaOsnovnaPlaca2Odstavek19ClenZSPJS</IRI>
+        <Literal xml:lang="sl">zvišana osnovna plača FJU po 2. odstavku 19. člena ZSPJS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#zvisanaOsnovnaPlaca59.Clen</IRI>
+        <Literal xml:lang="sl">PlacaObr6</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#zvisanaOsnovnaPlaca59.Clen</IRI>
+        <Literal xml:lang="sl">Z571: zvišana osnovna plača FJU – 59. člen ZSSloV - osnovna plača, zvišana po drugem odstavku 59. člena ZSSloV; Z571 = Z070 + Z560.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#zvisanaOsnovnaPlaca59.Clen</IRI>
+        <Literal xml:lang="sl">zvišana osnovna plača FJU – 59. člen ZSSloV</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>sifranti:SifraDrzave</AbbreviatedIRI>
+        <Literal xml:lang="sl">sifranti:SifraDrzave</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaEnoteVSestaviProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal>Maticna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaEnoteVSestaviProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">podatek je 10 mestna matična številka dela poslovnega subjekta oziroma enote v sestavi proračunskega uporabnika, kjer zaposleni dejansko opravlja delo. Če zaposlena oseba dela na sedežu proračunskega uporabnika ali pa proračunski uporabnik nima enot v sestavi, izraz vsebuje 10-mestno matično številko proračunskega uporabnika.
+Z630: del poslovnega subjekta - enote v sestavi proračunskega uporabnika - podružnice, poslovne enote, predstavništva, ki se registrirajo pri registrskem organu.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">5-mestna šifra proračunskega uporabnika. 
+Z350: šifra proračunskega porabnika - sklep o subjektih, za katere velja Zakon o sistemu plač v javnem sektorju.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:maticnaStevilkaProracunskegaUporabnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">5-mestna šifra proračunskega uporabnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>sifranti:nazivVrsteIzplacila</AbbreviatedIRI>
+        <Literal xml:lang="sl">sifranti:nazivVrsteIzplacila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraDrzave</AbbreviatedIRI>
+        <Literal>DrzavaZapos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraDrzave</AbbreviatedIRI>
+        <Literal xml:lang="sl">numerična šifra države zaposlitve javnega uslužbenca (npr. 705 - Slovenija - šifrant je objavljen na spletni strani AJPES)
+Z520: država - država napotitve javnega uslužbenca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>sifranti:sifraDrzave</AbbreviatedIRI>
+        <Literal xml:lang="sl">sifranti:sifraDrzave</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraFunkcijeAliDelovnegaMesta</AbbreviatedIRI>
+        <Literal>SifraDM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraFunkcijeAliDelovnegaMesta</AbbreviatedIRI>
+        <Literal xml:lang="sl">šifra funkcije ali delovnega mesta – FDMN, iz kataloga funkcij, delovnih mest in nazivov (šifrant je objavljen na spletni strani AJPES). Od 1. 7. 2014 so dodana nova delovna mesta za zaposlene na javnih delih (delovna mesta šifre JD). Delovna mesta šifre JD nimajo plačnih razredov, poroča se znesek plače glede na raven izobrazbe/usposobljenosti, obvezni so vsi podatki kot za ostala delovna mesta (vrste izplačil, število ur, …) 
+Z360: šifra zaposlenega - davčna številka zaposlenega v javnem sektorju</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraNazivaDelovnegaMesta</AbbreviatedIRI>
+        <Literal>SifraNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraNazivaDelovnegaMesta</AbbreviatedIRI>
+        <Literal xml:lang="sl">šifra naziva, v katerem uslužbenec opravlja delo na delovnem mestu (praviloma je lahko 0, 1, 2, 3 ali 4) 
+Z371: šifra naziva - katalog funkcij, delovnih mest in nazivov (katalog FDMN)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraPlacnegaRazredaFDMN</AbbreviatedIRI>
+        <Literal>PlacRaz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraValute</AbbreviatedIRI>
+        <Literal>ValIzpl</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraValute</AbbreviatedIRI>
+        <Literal xml:lang="sl">oznaka valute izplačila plače po standardu ISO 4217 (šifrant je objavljen na spletni strani AJPES)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:sifraValute</AbbreviatedIRI>
+        <Literal xml:lang="sl">šifra valute izplačila plače</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>sifranti:sifraValute</AbbreviatedIRI>
+        <Literal xml:lang="sl">sifranti:sifraValute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <AbbreviatedIRI>owl:qualifiedCardinality</AbbreviatedIRI>
+        <Literal xml:lang="sl">owl:qualifiedCardinality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:qualifiedCardinality"/>
+        <AnonymousIndividual nodeID="_:genid2147483651"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</Literal>
+    </AnnotationAssertion>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="furs:davcnaStevilka"/>
+        <IRI>#Obracun</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaEnoteVSestaviProracunskegaUporabnika"/>
+        <IRI>#DelovnoMesto</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaEnoteVSestaviProracunskegaUporabnika"/>
+        <IRI>#SkupnaIzplacila</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaProracunskegaUporabnika"/>
+        <IRI>#ProracunskiUporabnik</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:maticnaStevilkaProracunskegaUporabnika"/>
+        <IRI>#ZavezanecZaKadrovskiNacrt</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:nazivVrsteIzplacila"/>
+        <IRI>#IzplaciloBrutoPlaceInNadomestil</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraDrzave"/>
+        <IRI>#Obracun</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraFunkcijeAliDelovnegaMesta"/>
+        <IRI>#DelovnoMesto</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraFunkcijeAliDelovnegaMesta"/>
+        <IRI>#SkupnaIzplacila</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraNazivaDelovnegaMesta"/>
+        <IRI>#DelovnoMesto</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraNazivaDelovnegaMesta"/>
+        <IRI>#SkupnaIzplacila</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraPlacnegaRazredaFDMN"/>
+        <IRI>#DelovnoMesto</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraPlacnegaRazredaFDMN"/>
+        <IRI>#SkupnaIzplacila</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="sifranti:sifraValute"/>
+        <IRI>#Obracun</IRI>
+    </AnnotationPropertyDomain>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

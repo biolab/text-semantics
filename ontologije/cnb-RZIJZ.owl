@@ -1,0 +1,2060 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://onto.gov.si/centralni-besednjak-rzijz"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://onto.gov.si/centralni-besednjak-rzijz"
+     versionIRI="http://onto.gov.si/centralni-besednjak-rzijz/1.0.0">
+    <Prefix name="" IRI="http://onto.gov.si/centralni-besednjak-rzijz#"/>
+    <Prefix name="cnb" IRI="http://onto.mju.gov.si/centralni-besednjak-core#"/>
+    <Prefix name="crp" IRI="http://onto.mju.gov.si/centralni-besednjak-crp#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="pav" IRI="http://purl.org/pav/2.3#"/>
+    <Prefix name="prs" IRI="http://onto.mju.gov.si/centralni-besednjak-prs#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rpe" IRI="http://onto.mju.gov.si/centralni-besednjak-rpe#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="adms" IRI="http://purl.org/adms/status/"/>
+    <Prefix name="furs" IRI="http://onto.gov.si/centralni-besednjak-furs#"/>
+    <Prefix name="locn" IRI="http://www.w3.org/ns/locn#"/>
+    <Prefix name="prov" IRI="http://www.w3.org/ns/prov#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="wacl" IRI="http://www.w3.org/ns/auth/acl#"/>
+    <Prefix name="schema" IRI="https://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://dublincore.org/2012/06/14/dcterms#"/>
+    <Prefix name="sifranti" IRI="http://onto.mju.gov.si/centralni-besednjak-sifranti#"/>
+    <Import>http://onto.gov.si/centralni-besednjak-furs/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-core/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-prs/1.0.0</Import>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-rpe/1.0.0</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+        <Literal>25.7.2018</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal>Igor Tričkovič Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>adms:UnderDevelopment</AbbreviatedIRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+        <Literal>rzijz</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+        <Literal>http://onto.gov.si/centralni-besednjak-rzijz</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal>Shema vsebuje domeno Register zavezancev za informacije javnega značaja (RZIJZ) in razširja shemo osnovnega centralnega besednjaka.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:backwardCompatibleWith"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#ClanNadzornegaOrgana"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DelezPOJP"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#InformacijaJavnegaZnacaja"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IzvozPodatkovIzRZIJZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Naslov"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PomoznaEntiteta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PonovnaUporabaInformacijJavnegaZnacaja"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SifratVrstPravnihPodlag"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaClanaNadzornegaOrgana"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaDelezPOJP"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaNaslov"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaPravnoPodlago"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaUstanoviteljaZavezancaZaIJZ"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaZastopnikaZavezancaZaIJZ"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#imaZavezanca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#DatumIzbrisaZavezancaIzRZIJZ"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#OpisPravnePodlageRZIJZ"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#aktivnostZavezanca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#avtomatskiVpis"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumImenovannjaZastopnikaZavezancaZaIJZ"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumIzbrisaPravnePodlage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumPrenehanjaVeljavnostiPravnePodlage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumVpisaPravnePodlage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumVpisaZavezancaVRZIJZ"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#datumZacetkaVeljavnostiPravnePodlage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nazivVrsteClanaNadzornegOrgana2"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nazivVrstePravnePodlage1"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#razlogIzbrisa"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sifraVrstePravnePodlage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#uradniE-naslovZavezanca"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#visinaDelezaPOJP"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#visinaSkupnegaDelezaPOJP"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="crp:priimek"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="crp:uradnoIme"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:imePoste"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:sifraPoste"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="sifranti:nazivIzSifranta"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="prs:dodatekHisniStevilki"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="prs:hisnaStevilka"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="prs:popolnoIme"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://schema.org/affiliation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDTopografskegaNacrta"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OWLClass_c77a6e2b_3715_437c_8839_8d021a8862d6"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:StatisticnaRegija"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:satumZacetkaVeljavnostiZapisa"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Mesto"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Obcina"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="rpe:jeVnesla"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:linijskiObjekti"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorObcine"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:MestnaCetrt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:OWLDataProperty_369a19be_9c02_48ae_bcd2_46af8167866d"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:HisnaStevilka"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:PostniOkolis"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/identifier"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="rpe:spadaPod"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:datumPrenehanjaVeljavnostiZapisa"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OWLClass_c3f202e8_de82_4456_a1d1_90bfe74119eb"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:ProstorskiOkolis"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorPostopkaNastankaZapisa"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:NeuporabljenaD38"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:imeObcine"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:tipObcine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://schema.org/City"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:staraSifraNaselja"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:IzvozPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:sifraUpravneEnote"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Geokoda"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://schema.org/Place"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:uradnoIme"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rpe:IntSifra"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:LokalnaBazaRPE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:stStanovanjaAliPoslProstora"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#alternativnoIme"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:uradnoImeObcine"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDUlice"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:OWLDataProperty_b2a51136_d546_496f_9f0e_08c7cb75b6fb"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorProstorkeEnote"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Baza"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#imeBanke"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:DodatneProstorskeEnote"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDNaselja"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Zapis"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:UpravnaEnota"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OWLClass_e8a01676_f3bb_4c1a_914b_fcde8921bdf6"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#imetnikRacuna"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:smerniKot"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:letoPostopkaNastankaZapisa"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OzjiDelObcine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://schema.org/AdministrativeArea"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="locn:postCode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:naslovElektronskePoste"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:OWLDataProperty_92656594_dd07_4515_a45b_ae3c98b3ae50"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:tipNaselja"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikator"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:PO"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:osUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:TopografskaKartaTK25"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MID"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="rpe:vkljucuje"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:ime"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:VaskaCetrt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:nazivDrzave"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:VolisceZaLokalneVolitve"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rpe:PeMID"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:LokalnaVolilnaEnota"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Informacija"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:TemeljniTopgrafskiNacrtiTTN5"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="locn:postName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorNaselja"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:ObmocnaGeodestskaUprava"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:ProstorskeEnote"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Clan"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:nazivUpravneEnote"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:YKoordinataCentroida"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Naslov"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:uradnoImeUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Ulica"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="sifranti:imaSifroDrzaveISO3"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:klasifikacijskiZnakZadeveNastankaZapisa"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:ObmocjeUlice"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorUpravneUnoteRPE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:OWLDataProperty_929491c0_b2b5_47da_921a_371ad284d7fd"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:ZbirkaPodatkov"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:JavnaUprava"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rpe:PeId"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:Oseba"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Naselje"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:visinaDelezaVOdstotkih"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:PonovnaUporaba"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDHisneStevilke"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:veljavnost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:uradnoImeProstorskeEnote"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:uporabljaPodatkovnoLastnost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:opis"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:NapisUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:KrajevnaSkupnost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:stStanovanja"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:datumOtvoritveHisneStevilke"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDObmocjaUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://schema.org/Country"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:SolskiOkolis"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#geokoordinataY"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#geokoordinataX"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:KatastrskiOkraj"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rdf:List"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Uporabnik"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OWLClass_138c899d_e974_4f59_b7f5_7563f417ac0c"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorHisneStevilkeRPE"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:EnotaZaDrzavnozborskeVolitve"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:sifraObcine"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorDodatkaHisniStRPE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:sifraUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Drzava"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:Posta"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDObcine"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:GeodetskaUprava"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:OWLClass_6ca5d8d5_03a6_4be4_9386_2bdde2cf1265"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:dvojezicnoImeProstorskeEnote"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:IDProstorskegaOkilisaZaUresnicevanjeVolilnePravice"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/title"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="rpe:PeSifra"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:JavniSektor"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:UpravniOrgan"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/contributor"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Uprava"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:VaskaSkupnost"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:klasifikacijskiZnak"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:PostaAliKraj"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.org/dc/terms/Location"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:DrzavniOrgan"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDProstorskegaOkolisa"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:ImeProstorskeEnote"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:statusZapisa"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:OWLDataProperty_24b88d2a_1f49_478e_97b0_a798e51916d6"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:KatastrskaObcina"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:leto"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:VolisceZaDrzavniZbor"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:staraSifraObcine"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="cnb:Zavezanec"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:TrigonometricnaSekcija"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:dodatek"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:identifikatorUliceRPE"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:VolilniOkraj"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#BICBanke"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:imeUlice"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:UporabnikRPE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:XKoordinataCentroida"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:letnicaZadeveNastankaZapisa"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rpe:MIDPoste"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:KatastrskaUprava"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:StatisticniOkolis"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#geokoordinataX"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rpe:CentralnaBazaRPE"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://onto.mju.gov.si/centralni-besednjak-nio#geokoordinataY"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#ClanNadzornegaOrgana"/>
+        <Class abbreviatedIRI="cnb:Clan"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DelezPOJP"/>
+        <Class abbreviatedIRI="cnb:DelezVDruzbi"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DelezPOJP"/>
+        <Class abbreviatedIRI="cnb:LastniskiDelez"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#InformacijaJavnegaZnacaja"/>
+        <Class abbreviatedIRI="cnb:Informacija"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IzvozPodatkovIzRZIJZ"/>
+        <Class abbreviatedIRI="cnb:IzvozPodatkov"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Naslov"/>
+        <Class abbreviatedIRI="cnb:Naslov"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PonovnaUporabaInformacijJavnegaZnacaja"/>
+        <Class abbreviatedIRI="cnb:PonovnaUporaba"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+        <Class abbreviatedIRI="cnb:PravnaPodlaga"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SifratVrstPravnihPodlag"/>
+        <Class abbreviatedIRI="sifranti:Sifrant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+        <Class abbreviatedIRI="cnb:Zavezanec"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="skos:narrowMatch"/>
+            <Class abbreviatedIRI="cnb:DrzavniOrgan"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="skos:relatedMatch"/>
+            <Class abbreviatedIRI="cnb:JavnaUprava"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="skos:relatedMatch"/>
+            <Class abbreviatedIRI="cnb:JavniSektor"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaClanaNadzornegaOrgana"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaDelezPOJP"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaNaslov"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaPravnoPodlago"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaUstanoviteljaZavezancaZaIJZ"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaZastopnikaZavezancaZaIJZ"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#imaZavezanca"/>
+        <Class IRI="#IzvozPodatkovIzRZIJZ"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaClanaNadzornegaOrgana"/>
+        <Class abbreviatedIRI="prs:Nadzornik"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaDelezPOJP"/>
+        <Class IRI="#DelezPOJP"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaNaslov"/>
+        <Class IRI="#Naslov"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaPravnoPodlago"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaUstanoviteljaZavezancaZaIJZ"/>
+        <Class abbreviatedIRI="prs:Ustanovitelj"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaZastopnikaZavezancaZaIJZ"/>
+        <Class abbreviatedIRI="prs:Zastopnik"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#imaZavezanca"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#DatumIzbrisaZavezancaIzRZIJZ"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#OpisPravnePodlageRZIJZ"/>
+        <DataProperty abbreviatedIRI="cnb:opis"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#aktivnostZavezanca"/>
+        <DataProperty abbreviatedIRI="cnb:status"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumImenovannjaZastopnikaZavezancaZaIJZ"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumIzbrisaPravnePodlage"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumPrenehanjaVeljavnostiPravnePodlage"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumVpisaPravnePodlage"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumVpisaZavezancaVRZIJZ"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#datumZacetkaVeljavnostiPravnePodlage"/>
+        <DataProperty abbreviatedIRI="cnb:datum"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#nazivVrsteClanaNadzornegOrgana2"/>
+        <DataProperty abbreviatedIRI="sifranti:nazivIzSifranta"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#nazivVrstePravnePodlage1"/>
+        <DataProperty abbreviatedIRI="sifranti:nazivIzSifranta"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#sifraVrstePravnePodlage"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#uradniE-naslovZavezanca"/>
+        <DataProperty abbreviatedIRI="cnb:naslovElektronskePoste"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#visinaDelezaPOJP"/>
+        <DataProperty abbreviatedIRI="cnb:visinaDelezaVOdstotkih"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#visinaSkupnegaDelezaPOJP"/>
+        <DataProperty abbreviatedIRI="cnb:visinaDelezaVOdstotkih"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="furs:davcnaStevilka"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#DatumIzbrisaZavezancaIzRZIJZ"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#OpisPravnePodlageRZIJZ"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#aktivnostZavezanca"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#avtomatskiVpis"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumImenovannjaZastopnikaZavezancaZaIJZ"/>
+        <Class abbreviatedIRI="prs:Zastopnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumIzbrisaPravnePodlage"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumPrenehanjaVeljavnostiPravnePodlage"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumVpisaPravnePodlage"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumVpisaZavezancaVRZIJZ"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#datumZacetkaVeljavnostiPravnePodlage"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivVrsteClanaNadzornegOrgana2"/>
+        <Class IRI="#ClanNadzornegaOrgana"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivVrstePravnePodlage1"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nazivVrstePravnePodlage1"/>
+        <Class IRI="#SifratVrstPravnihPodlag"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#razlogIzbrisa"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrstePravnePodlage"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#sifraVrstePravnePodlage"/>
+        <Class IRI="#SifratVrstPravnihPodlag"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#uradniE-naslovZavezanca"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#visinaDelezaPOJP"/>
+        <Class IRI="#DelezPOJP"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#visinaSkupnegaDelezaPOJP"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="prs:ime"/>
+        <Class IRI="#PomoznaEntiteta"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>Maticna</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Matična številka imetnika deleža.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">matična številka imetnika deleža</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Pri lastiku vira preveri ali je to matična številka iz PRS.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:maticnaStevilkaEnotePRS"/>
+        <Class IRI="#DelezPOJP"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>PrijaviteljMaticna</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Matična številka prijavitelja.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">matična številka prijavitelja</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveri prijavitelj česa je to.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveri če se matična jemlje direktno iz PRS in ali gre za isto številko.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:maticnaStevilkaEnotePRS"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>Maticna</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Matična številka zavezanca.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">matična številka zavezanca</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:maticnaStevilkaEnotePRS"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>Naziv</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Naziv imetnika deleža.
+Naziv imetnika deleža je enak zadnjemu razpoložljivemu podatku o nazivu v PRS/SRG.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">naziv imetnika deleža</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Verjetno se nanaša na matično številko imetnika deleža POJP iz PRS. Preveri.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:popolnoImeEnotePoslovnegaRegistra"/>
+        <Class IRI="#DelezPOJP"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>PrijaviteljNaziv</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Naziv prijavitelja.
+Naziv prijavitelja je enak zadnjemu razpoložljivemu podatku o nazivu tega poslovnega subjekta v PRS/SRG.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">naziv prijavitelja</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Nanaša se na matično številko prijevitelja pravne podlage. Verjetno matične iz PRS.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:popolnoImeEnotePoslovnegaRegistra"/>
+        <Class IRI="#PravnaPodlagaRZIJZ"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>Naziv</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Naziv/firma zavezanca</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal xml:lang="sl">naziv ali firma zavezanca za IJZ</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+            <Literal xml:lang="sl">Preveri ali s podatek zajema iz PRS</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:popolnoImeEnotePoslovnegaRegistra"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+            <Literal>Naziv</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Naziv ustanovitelja zavezanca za IJZ.</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal xml:lang="sl">Naziv ustanovitelja zavezanca za IJZ. 
+Naziv ustanovitelja je enak zadnjemu razpoložljivemu podatku o nazivu v PRS/SRG. Pri izbrisanih zavezancih gre za podatke o ustanoviteljih v PRS/SRG na dan pred izbrisom zavezanca.</Literal>
+        </Annotation>
+        <DataProperty abbreviatedIRI="prs:popolnoImeEnotePoslovnegaRegistra"/>
+        <Class abbreviatedIRI="prs:Ustanovitelj"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="prs:priimek"/>
+        <Class IRI="#PomoznaEntiteta"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="prs:sedezPodjetja"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:Ulica"/>
+        <Class IRI="#Naslov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:imePoste"/>
+        <Class IRI="#Naslov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rpe:sifraPoste"/>
+        <Class IRI="#Naslov"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:imeObcine"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:nazivPravnoorganizacijskeOblike"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:nazivSifreVrsteZastopnika"/>
+        <Class abbreviatedIRI="prs:Zastopnik"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="sifranti:sifraPravnoorganizacijskeOblike"/>
+        <Class IRI="#ZavezanecZaInformacijeJavnegaZnacaja"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#DatumIzbrisaZavezancaIzRZIJZ"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#OpisPravnePodlageRZIJZ"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumImenovannjaZastopnikaZavezancaZaIJZ"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumIzbrisaPravnePodlage"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumPrenehanjaVeljavnostiPravnePodlage"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumVpisaZavezancaVRZIJZ"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#datumZacetkaVeljavnostiPravnePodlage"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal>RZIJZ: Davcna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">Davčna številka zavezanca.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>furs:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">davčna številka zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">ClanNadzornegaOrgana (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">Član nadzornega organa.
+Samo, če je pri zavezancu aktivna pravna podlaga 2 – »Druga alineja prvega odstavka 3.b čl. ZDIJZ«. Gre za trenutno stanje o članih nadzornega organa zavezanca v PRS/SRG, v primeru izbrisanega zavezanca pa gre za zadnje podatke pred izbrisom zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">Član nadzornega organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">Odstrani ko bo urejeno z PRS z &quot;Član nadzornega sveta&quot; iz pripomb AJPES-a.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#ClanNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">Preveri na kaj se lahko nanaša ta član nadzorenga organa. Ali lahko na vse subjekte iz PRS. 
+Verjetno bi lahko to entiteto dodal v PRS in jo potem izpeljal direktno iz PRS. Tam je sicer zdaj ni.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#DatumIzbrisaZavezancaIzRZIJZ</IRI>
+        <Literal xml:lang="sl">DatumIzbrisa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#DatumIzbrisaZavezancaIzRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DatumIzbrisaZavezancaIzRZIJZ</IRI>
+        <Literal xml:lang="sl">Datum izbrisa zavezanca iz RZIJZ.
+Samo pri zavezancih, ki imajo status »izbrisan« - datum izbrisa zadnje pravne podlage pri zavezancu.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DatumIzbrisaZavezancaIzRZIJZ</IRI>
+        <Literal xml:lang="sl">datum izbrisa zavezanca iz RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl">DelezPojp (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl">Deleži se izračunavajo na podlagi podatkov iz uradnih evidenc, ki jih AJPES dnevno prevzema iz sodnega registra in Poslovnega registra Slovenije ter Registra nematerializiranih vrednostnih papirjev pri KDD d.d.).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl">Samo, če je pri zavezancu aktivna pravna podlaga 2 – »Druga alineja prvega odstavka 3.b čl. ZDIJZ«.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#DelezPOJP</IRI>
+        <Literal xml:lang="sl">Delež POJP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#InformacijaJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#InformacijaJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Informacija javnega značaja je informacija, ki izvira iz delovnega področja organa, nahaja pa se v obliki dokumenta, zadeve, dosjeja, registra, evidence ali drugega dokumentarnega gradiva, ki ga je organ izdelal sam, v sodelovanju z drugim organom, ali pridobil od drugih oseb.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#InformacijaJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zakon o dostopu do informacij javnega značaja (ZDIJZ)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#InformacijaJavnegaZnacaja</IRI>
+        <Literal>Informacija javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#IzvozPodatkovIzRZIJZ</IRI>
+        <Literal xml:lang="sl">RzijzZavezanci (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IzvozPodatkovIzRZIJZ</IRI>
+        <Literal xml:lang="sl">Izvoz podatkov iz RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#Naslov</IRI>
+        <Literal xml:lang="sl">Naslov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#Naslov</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Naslov</IRI>
+        <Literal xml:lang="sl">Naslov v RZIJZ.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#Naslov</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Naslov</IRI>
+        <Literal xml:lang="sl">Naslov v RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#OpisPravnePodlageRZIJZ</IRI>
+        <Literal xml:lang="sl">Opis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#OpisPravnePodlageRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#OpisPravnePodlageRZIJZ</IRI>
+        <Literal xml:lang="sl">Pri šifrah vrste pravne podlage 20 in 30 (samodejni vpis zavezanca na podlagi podatkov iz uradnih evidenc) opisa pravne podlage ni, pri šifrah vrste pravne podlage 11, 12, 13 in 14 opis pravne podlage ni obvezen podatek, zato podatka ni pri vseh zavezancih.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#OpisPravnePodlageRZIJZ</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OpisPravnePodlageRZIJZ</IRI>
+        <Literal xml:lang="sl">opis pravne podlage RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#PonovnaUporabaInformacijJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#PonovnaUporabaInformacijJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Ponovna uporaba informacij javnega značaja pomeni uporabo s strani fizičnih oseb ali pravnih oseb za pridobitne ali nepridobitne namene razen za prvotni namen v okviru javne naloge, zaradi katerega so bili dokumenti izdelani. Uporaba informacij za izvajanje javnih nalog v organu ali izmenjava informacij med organi za izvajanje javnih nalog se ne šteje za ponovno uporabo informacij.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#PonovnaUporabaInformacijJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zakon o dostopu do informacij javnega značaja (ZDIJZ)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PonovnaUporabaInformacijJavnegaZnacaja</IRI>
+        <Literal>Ponovna uporaba informacij javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal>PravnaPodlaga (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl">Pravna podlaga RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl">Pravna podlaga RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl">RIJS: &quot;organ ima eno pravno podlago
+za ustanovitev in delovanje&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl">Zavezanec, ki se vpiše v RZIJZ ima neko pravno podlago po kateri se lahko vpiše v ta register.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#SifratVrstPravnihPodlag</IRI>
+        <Literal xml:lang="sl">Šifrant vrst pravnih podlag</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#ZavezanecZaInformacijeJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zavezanec</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#ZavezanecZaInformacijeJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ZavezanecZaInformacijeJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zavezanci za informacije javnega značajo so državni organi, organi lokalnih skupnosti, javne agencije, javni skladi in druge osebe javnega prava, nosilci javnih pooblastil, izvajalci javnih služb in poslovni subjekti pod prevladujočim vplivom oseb javnega prava. 
+Več in podrobneje v Zakonu o dostopu do informacij javnega značaja (ZDIJZ)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#ZavezanecZaInformacijeJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zakon o dostopu do informacij javnega značaja (ZDIJZ)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ZavezanecZaInformacijeJavnegaZnacaja</IRI>
+        <Literal xml:lang="sl">Zavezanec za informacije javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#aktivnostZavezanca</IRI>
+        <Literal xml:lang="sl">V RZIJZ &quot;Aktiven&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#aktivnostZavezanca</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#aktivnostZavezanca</IRI>
+        <Literal xml:lang="sl">Aktivnost zavezanca.
+Status zavezanca (aktiven/izbrisan) po »Stanju na dan«</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#aktivnostZavezanca</IRI>
+        <Literal xml:lang="sl">aktivnost zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#avtomatskiVpis</IRI>
+        <Literal xml:lang="sl">AvtomatskiVpis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#avtomatskiVpis</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#avtomatskiVpis</IRI>
+        <Literal xml:lang="sl">Oznaka pri vrstah pravnih podlagah 20 in 30 – samodejni vpis v RZIJZ na podlagi podatkov iz uradnih evidenc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#avtomatskiVpis</IRI>
+        <Literal xml:lang="sl">Oznaka za avtomatski (samodejni) vpis v RZIJZ iz uradnih evidenc.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#avtomatskiVpis</IRI>
+        <Literal xml:lang="sl">avtomatski vpis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumImenovannjaZastopnikaZavezancaZaIJZ</IRI>
+        <Literal xml:lang="sl">DatumImenovanja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#datumImenovannjaZastopnikaZavezancaZaIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumImenovannjaZastopnikaZavezancaZaIJZ</IRI>
+        <Literal xml:lang="sl">datum imenovanja zastopnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#datumImenovannjaZastopnikaZavezancaZaIJZ</IRI>
+        <Literal>Preveriti ali je to isto kot datum vpis zastopnika.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumIzbrisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">DatumIzbrisa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#datumIzbrisaPravnePodlage</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumIzbrisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">Samo pri izbrisanih pravnih podlagah.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumIzbrisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">datum izbrisa pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumPrenehanjaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">PrenehanjeVeljavnosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#datumPrenehanjaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumPrenehanjaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">Samo za vrste pravnih podlag 152, 162 in 181 - podatek ni obvezen.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumPrenehanjaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">datum prenehanja veljavnosti pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumVpisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">DatumVpisa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumVpisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">Datum vpisa pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumVpisaPravnePodlage</IRI>
+        <Literal xml:lang="sl">datum vpisa pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumVpisaZavezancaVRZIJZ</IRI>
+        <Literal>DatumVpisa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#datumVpisaZavezancaVRZIJZ</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumVpisaZavezancaVRZIJZ</IRI>
+        <Literal xml:lang="sl">Datum vpisa zavezanca v RZIJZ
+Če zavezanec še ni bil izbrisan iz RZIJZ, je to datum njegovega prvega vpisa v RZIJZ. V primeru izbrisa in ponovnega vpisa zavezanca, se kot datum vpisa zavezanca izpiše datum vpisa njegove ponovne zavezanosti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumVpisaZavezancaVRZIJZ</IRI>
+        <Literal xml:lang="sl">datum vpisa zavezanca v RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#datumZacetkaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">ZacetekVeljavnosti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#datumZacetkaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#datumZacetkaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">Samo za vrste pravnih podlag 152, 162 in 181.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#datumZacetkaVeljavnostiPravnePodlage</IRI>
+        <Literal xml:lang="sl">datum začetka veljavnosti pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaClanaNadzornegaOrgana</IRI>
+        <Literal xml:lang="sl">ima člana nadzornega organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaDelezPOJP</IRI>
+        <Literal xml:lang="sl">ima delež POJP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaNaslov</IRI>
+        <Literal xml:lang="sl">ima naslov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaPravnoPodlago</IRI>
+        <Literal xml:lang="sl">ima pravno podlago</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaUstanoviteljaZavezancaZaIJZ</IRI>
+        <Literal xml:lang="sl">ima ustanovitelja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaZastopnikaZavezancaZaIJZ</IRI>
+        <Literal xml:lang="sl">ima zastopnika</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imaZavezanca</IRI>
+        <Literal xml:lang="sl">ima zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal>VrstaNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal>Vrsta člana nadzornega organa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal xml:lang="sl">naziv vrste člana nadzornega organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal xml:lang="sl">Iz dokumentacije ni razvidno, da bi se ta DP nenašala na kako šifro, zato preveri ali je šifra ali prosti tekst. Prestavi v nadrazred šifer, če bo potrebno.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal xml:lang="sl">Odstrani ko bo urejeno z PRS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal xml:lang="sl">Preveri če je kak šifrant ker je isti interni naziv kot &quot;vrstaZastopnika&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <IRI>#nazivVrsteClanaNadzornegOrgana2</IRI>
+        <Literal xml:lang="sl">Člani nadzornega organa se črpajo iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#nazivVrstePravnePodlage1</IRI>
+        <Literal>VrstaPravnePodlageNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#nazivVrstePravnePodlage1</IRI>
+        <Literal xml:lang="sl">Naziv vrste pravne podlage.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#nazivVrstePravnePodlage1</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#nazivVrstePravnePodlage1</IRI>
+        <Literal xml:lang="sl">naziv vrste pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#razlogIzbrisa</IRI>
+        <Literal xml:lang="sl">RazlogIzbrisaNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#razlogIzbrisa</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#razlogIzbrisa</IRI>
+        <Literal xml:lang="sl">Razlog izbrisa pravne podlage zavezanca iz RZIJZ.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#razlogIzbrisa</IRI>
+        <Literal xml:lang="sl">razlog izbrisa pravne podlage zavezanca iz RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>#razlogIzbrisa</IRI>
+        <Literal xml:lang="sl">Samo pri izbrisanih pravnih podlagah.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#sifraVrstePravnePodlage</IRI>
+        <Literal xml:lang="sl">VrstaPravnePodlageOznaka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#sifraVrstePravnePodlage</IRI>
+        <Literal xml:lang="sl">Šifra vrste pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#sifraVrstePravnePodlage</IRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sifraVrstePravnePodlage</IRI>
+        <Literal xml:lang="sl">šifra vrste pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl">ENaslov</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl">Uradni e-naslov zavezanca. 
+Le pri tistih zavezancih, ki so osebe javnega prava in ki so bili vpisani na podlagi e-prijave - prikaže se zadnji vpisan uradni e-naslov zavezanca.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl">uradni e-naslov zavezanca za IJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#visinaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">VisinaDeleza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#visinaDelezaPOJP</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#visinaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">Višina deleža imetnika deleža v kapitalu zavezanca (v %)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#visinaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">visina deleža POJP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#visinaSkupnegaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">SkupniDelezPojp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#visinaSkupnegaDelezaPOJP</IRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#visinaSkupnegaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">Skupni delež vseh POJP, ki so imetniki deležev, v kapitalu zavezanca (v %)
+
+Samo, če je pri zavezancu aktivna pravna podlaga 2 – »Druga alineja prvega odstavka 3.b čl. ZDIJZ«. Pri izbrisanih zavezancih gre za zadnje izračunano stanje deležev pred dnevom izbrisa zavezanca. Podatki so odvisni vpisa deležev v sodni register, zato je seštevek lahko večji ali manjši od 100%.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#visinaSkupnegaDelezaPOJP</IRI>
+        <Literal xml:lang="sl">skupni delež POJP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <AbbreviatedIRI>cnb:davcnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">V CNB core ne obstaja. Preveri če ni bila vpisana ročno. Prenešena v ontologijo &quot;FURS&quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:Nadzornik</AbbreviatedIRI>
+        <Literal>ClanNadzornegaOrgana (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:Nadzornik</AbbreviatedIRI>
+        <Literal xml:lang="sl">Član nadzornega organa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>prs:Nadzornik</AbbreviatedIRI>
+        <Literal xml:lang="sl">Samo, če je pri zavezancu aktivna pravna podlaga 2 – »Druga alineja prvega odstavka 3.b čl. ZDIJZ«. Gre za trenutno stanje o članih nadzornega organa zavezanca v PRS/SRG, v primeru izbrisanega zavezanca pa gre za zadnje podatke pred izbrisom zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:Ustanovitelj</AbbreviatedIRI>
+        <Literal xml:lang="sl">ustanovitelj</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:Ustanovitelj</AbbreviatedIRI>
+        <Literal xml:lang="sl">Ustanovitelj
+Samo za tiste zavezance, ki imajo aktivno vrsto pravne podlage 30 ali 31 (torej 3 – »Tretja alineja prvega odstavka 3.b čl. ZDIJZ«).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>prs:Ustanovitelj</AbbreviatedIRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:Zastopnik</AbbreviatedIRI>
+        <Literal>Zastopnik (tabela)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:Zastopnik</AbbreviatedIRI>
+        <Literal xml:lang="sl">Samo, če je pri zavezancu aktivna pravna podlaga 2 – »Druga alineja prvega odstavka 3.b čl. ZDIJZ«. Izpiše se trenutno stanje o zastopnikih zavezanca v PRS/SRG, v primeru izbrisanega zavezanca se izpišejo zadnji podatki pred izbrisom zavezanca.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:Zastopnik</AbbreviatedIRI>
+        <Literal xml:lang="sl">Zastopnik zavezanca za informacije javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>prs:Zastopnik</AbbreviatedIRI>
+        <Literal xml:lang="sl">Struktura podatkov iz registra zavezancev za informacije javnega značaja (RZIJZ) za posredovanje uporabnikom.
+Verzija: 1.02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:datumImenovanjaClanaNadzornegaSveta.</AbbreviatedIRI>
+        <Literal>DatumImenovanja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:datumImenovanjaClanaNadzornegaSveta.</AbbreviatedIRI>
+        <Literal xml:lang="sl">datum imenovanja člana nadzornega organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:dodatekHisniStevilki</AbbreviatedIRI>
+        <Literal>RZIJZ: HisnaStevilkaDodatek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>prs:dodatekHisniStevilki</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:hisnaStevilka</AbbreviatedIRI>
+        <Literal>HisnaStevilka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>prs:hisnaStevilka</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>prs:maticnaStevilkaEnotePRS</AbbreviatedIRI>
+        <Literal xml:lang="sl">Podrobnosti so v opisu za posamezno domeno te podatkovne lastnosti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>prs:popolnoImeEnotePoslovnegaRegistra</AbbreviatedIRI>
+        <Literal xml:lang="sl">Podrobnosti so v opisu za posamezno domeno te podatkovne lastnosti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:sedezPodjetja</AbbreviatedIRI>
+        <Literal xml:lang="sl">Sedez</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>prs:sedezPodjetja</AbbreviatedIRI>
+        <Literal xml:lang="sl">RZIJZ: Sedež (naselje) zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>prs:sedezPodjetja</AbbreviatedIRI>
+        <Literal xml:lang="sl">naselje zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:Ulica</AbbreviatedIRI>
+        <Literal>Ulica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>rpe:Ulica</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">Posta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">naziv pošte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>rpe:imePoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">PostnaSt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">poštna številka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>rpe:sifraPoste</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <AbbreviatedIRI>sifranti:SifrantDejavnostiSKD</AbbreviatedIRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>sifranti:SifrantDejavnostiSKD</AbbreviatedIRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaPostnoStevilko</AbbreviatedIRI>
+        <Literal>POSTNA_STEVILKA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imaPostnoStevilko</AbbreviatedIRI>
+        <Literal>Poštna številka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzave</AbbreviatedIRI>
+        <Literal>DRZAVA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzave</AbbreviatedIRI>
+        <Literal>sifDrzava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzave</AbbreviatedIRI>
+        <Literal xml:lang="sl"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroNacinaZastopanja</AbbreviatedIRI>
+        <Literal>NACIN_ZASTOPANJA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imaSifroNacinaZastopanja</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra načina zastopanja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">RZIJZ: ObcinaNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">RZIJZ: Občina zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">naziv občine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>sifranti:imeObcine</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:nazivPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">OblikaNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:nazivPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">Naziv pravnoorganizacijske oblike zavezanca za informacije javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:nazivPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">naziv pravnoorganizacijske oblike zavezanca za IJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>sifranti:nazivPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">v RZIJZ se podatek črpa iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:nazivSifreVrsteZastopnika</AbbreviatedIRI>
+        <Literal>VrstaNaziv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:nazivSifreVrsteZastopnika</AbbreviatedIRI>
+        <Literal xml:lang="sl">Vrsta zastopnik.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:sifraPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal>OblikaOznaka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>sifranti:sifraPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifra pravnoorganizacijske oblike zavezanca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AbbreviatedIRI>sifranti:sifraPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">šifra pravnoorganizacijske oblike zavezanca za informacije javnega značaja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:note"/>
+        <AbbreviatedIRI>sifranti:sifraPravnoorganizacijskeOblike</AbbreviatedIRI>
+        <Literal xml:lang="sl">Šifrant je povzet iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="prs:dodatekHisniStevilki"/>
+        <IRI>#Naslov</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty abbreviatedIRI="prs:hisnaStevilka"/>
+        <IRI>#Naslov</IRI>
+    </AnnotationPropertyDomain>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://onto.mju.gov.si/centralni-besednjak-nio"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://onto.mju.gov.si/centralni-besednjak-nio"
+     versionIRI="http://onto.mju.gov.si/centralni-besednjak-nio/1.0.0">
+    <Prefix name="" IRI="http://onto.mju.gov.si/centralni-besednjak-nio#"/>
+    <Prefix name="cnb" IRI="http://onto.mju.gov.si/centralni-besednjak-core#"/>
+    <Prefix name="crp" IRI="http://onto.mju.gov.si/centralni-besednjak-crp#"/>
+    <Prefix name="m8g" IRI="http://data.europa.eu/m8g/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="pav" IRI="http://purl.org/pav/2.3#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="adms" IRI="http://purl.org/adms/status/"/>
+    <Prefix name="locn" IRI="http://www.w3.org/ns/locn#"/>
+    <Prefix name="prov" IRI="http://www.w3.org/ns/prov#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="wacl" IRI="http://www.w3.org/ns/auth/acl#"/>
+    <Prefix name="legal" IRI="http://www.w3.org/ns/legal#"/>
+    <Prefix name="schema" IRI="https://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://dublincore.org/2012/06/14/dcterms#"/>
+    <Prefix name="sifranti" IRI="http://onto.mju.gov.si/centralni-besednjak-sifranti#"/>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-sifranti</Import>
+    <Import>http://www.w3.org/2004/02/skos/core</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#date">25.1.2018</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal>Igor Tričkovič - Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal>Igor Tričkovič Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>adms:UnderDevelopment</AbbreviatedIRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+        <Literal>nio</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+        <Literal>http://onto.mju.gov.si/centralni-besednjak-nio</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal>Shema vsebuje ontologijo NIO</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:backwardCompatibleWith"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal>1.0.0</Literal>
+    </Annotation>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:Oseba"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:ime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:naziv"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#BICBanke"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#alternativnoIme"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#geokoordinataX"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#geokoordinataY"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#imeBanke"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#imetnikRacuna"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:avtor"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:branje"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:datumKreiranja"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:pisanje"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/creator"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="rdf:List"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/title"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/contributor"/>
+    </Declaration>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#BICBanke"/>
+        <DataProperty abbreviatedIRI="sifranti:sifra"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#alternativnoIme"/>
+        <DataProperty abbreviatedIRI="cnb:ime"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#imeBanke"/>
+        <DataProperty abbreviatedIRI="cnb:ime"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#imetnikRacuna"/>
+        <DataProperty abbreviatedIRI="cnb:Oseba"/>
+    </SubDataPropertyOf>
+    <DataPropertyRange>
+        <DataProperty IRI="#BICBanke"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#geokoordinataX"/>
+        <Datatype abbreviatedIRI="xsd:decimal"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#geokoordinataY"/>
+        <Datatype abbreviatedIRI="xsd:decimal"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#BICBanke</IRI>
+        <Literal xml:lang="sl">BIC</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#BICBanke</IRI>
+        <Literal xml:lang="sl">BIC koda banke</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#BICBanke</IRI>
+        <Literal xml:lang="sl">BIC banke</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#alternativnoIme</IRI>
+        <Literal xml:lang="sl">AlternativnoIme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#alternativnoIme</IRI>
+        <Literal xml:lang="sl">Alternativno ime, pod katerim se izdaja oseba. Tip imena je določen preko lastnosti &quot;TipAlternativnegaImena&quot; z zalogo vrednosti: UmetniskoIme, Vzdevek, PredhodnoIme, Alias, DekliskiPriimek.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#alternativnoIme</IRI>
+        <Literal xml:lang="sl">alternativno ime
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#alternativnoIme</IRI>
+        <Literal xml:lang="sl">MNZ: Podatka se v CRP ne vodi, niti definicija zakonsko ni podana.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#geokoordinataX</IRI>
+        <Literal>X</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+        <IRI>#geokoordinataX</IRI>
+        <Literal xml:lang="sl">CRP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+        <IRI>#geokoordinataX</IRI>
+        <Literal xml:lang="sl">RPE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#geokoordinataX</IRI>
+        <Literal xml:lang="sl">Geokoordinata x - geokoordinata, ki v geoprostoru določa zemljepisno širino nepremičnine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geokoordinataX</IRI>
+        <Literal xml:lang="sl">geokoordinata x</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#geokoordinataY</IRI>
+        <Literal>Y</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+        <IRI>#geokoordinataY</IRI>
+        <Literal xml:lang="sl">CRP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:uporablja"/>
+        <IRI>#geokoordinataY</IRI>
+        <Literal xml:lang="sl">RPE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#geokoordinataY</IRI>
+        <Literal xml:lang="sl">Geokoordinata y - geokoordinata, ki v geoprostoru določa zemljepisno dolžino nepremičnine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geokoordinataY</IRI>
+        <Literal xml:lang="sl">geokoordinata y</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#imeBanke</IRI>
+        <Literal xml:lang="sl">Ime banke, kjer je račun odprt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imeBanke</IRI>
+        <Literal xml:lang="sl">ime banke
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>#imetnikRacuna</IRI>
+        <Literal xml:lang="sl">ImetnikRacuna</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#imetnikRacuna</IRI>
+        <Literal xml:lang="sl">Naziv lastnika bančnega računa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#imetnikRacuna</IRI>
+        <Literal xml:lang="sl">imetnik bančnega računa</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

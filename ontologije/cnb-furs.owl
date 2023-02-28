@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://onto.gov.si/centralni-besednjak-furs"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://onto.gov.si/centralni-besednjak-furs"
+     versionIRI="http://onto.gov.si/centralni-besednjak-furs/1.0.0">
+    <Prefix name="" IRI="http://onto.gov.si/centralni-besednjak-furs#"/>
+    <Prefix name="cnb" IRI="http://onto.mju.gov.si/centralni-besednjak-core#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="pav" IRI="http://purl.org/pav/2.3#"/>
+    <Prefix name="prs" IRI="http://onto.mju.gov.si/centralni-besednjak-prs#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rpe" IRI="http://onto.mju.gov.si/centralni-besednjak-rpe#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="adms" IRI="http://purl.org/adms/status/"/>
+    <Prefix name="prov" IRI="http://www.w3.org/ns/prov#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
+    <Prefix name="vann" IRI="http://purl.org/vocab/vann/"/>
+    <Prefix name="wacl" IRI="http://www.w3.org/ns/auth/acl#"/>
+    <Prefix name="schema" IRI="https://schema.org/"/>
+    <Prefix name="dcterms" IRI="http://dublincore.org/2012/06/14/dcterms#"/>
+    <Prefix name="sifranti" IRI="http://onto.mju.gov.si/centralni-besednjak-sifranti#"/>
+    <Import>http://onto.mju.gov.si/centralni-besednjak-core/1.0.0</Import>
+    <Import>http://www.w3.org/2004/02/skos/core</Import>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">furs</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.0.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">http://onto.gov.si/centralni-besednjak-furs</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Igor Tričkovič - Rifelj</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">10.9.2018</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Shema vsebuje domeno Finančna uprava RepublikeSlovenije (FURS) in razširja shemo osnovnega centralnega besednjaka.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <AbbreviatedIRI>adms:UnderDevelopment</AbbreviatedIRI>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:backwardCompatibleWith"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.0.0</Literal>
+    </Annotation>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:kontaktnaOseba"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#davcnaStevilka"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#IDZaDDV"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:identifikator"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespaceUri"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dcterms:created"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="vann:preferredNamespacePrefix"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="dcterms:creator"/>
+    </Declaration>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#IDZaDDV"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#davcnaStevilka"/>
+        <DataProperty abbreviatedIRI="cnb:enolicniIdentifikator"/>
+    </SubDataPropertyOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Finančna uprava Republike Slovenije (FURS)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Identifikacijska številka za davek na dodano vrednost, ki jo določi FURS.
+Identifikacijska številka za DDV je davčna številka s predpono SI.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Zakon o davku na dodano vrednost</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ID za DDV</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#IDZaDDV</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Vir podatkov AJPES. Pridobi od FURS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:datumZadnjeSpremembe"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:kontaktnaOseba"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:lastnik"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Finančna uprava Republike Slovenije (FURS)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:status"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Davčna številka se dodeli davčnemu zavezancu na način in pod pogoji, določenimi z Zakonom o davčnem postopku in zakonom, ki ureja FURS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Zakon o davčnem postopku
+Zakon o finančni upravi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">davčna številka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>#davcnaStevilka</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Vir definicije je AJPES. Pridobi od FURS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rpu#UstanoviteljOrgana</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: USTANOVITELJ_ORGANA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: &quot;organ ima eno pravno podlago
+za ustanovitev in delovanje&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#PravnaPodlagaRZIJZ</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: Preveri ali je to enaka pravna podlaga kot v RZIJZ. Verjetno je ker se črpa iz istega vira.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#PrijaviteljPravnePodlage</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: PRIJAVITELJ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#PrijaviteljPravnePodlage</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: prijavitelj pravne podlage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#imaPravnoPodlago</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: &quot;organ ima eno pravno podlago
+za ustanovitev in delovanje&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: E_NASLOV</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: naslov elektronske pošte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <IRI>http://onto.gov.si/centralni-besednjak-rzijz#uradniE-naslovZavezanca</IRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Preveri ali je v RIJS to djansko ta podatek iz RZIJZ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>cnb:TerminOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: ODPIRALNI_CAS_TERMIN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>cnb:TerminOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: organ ima en termin odpiralnega časa, lahko dopolni sam ali pa se podatek prevzame iz PIRS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>cnb:TipOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: TIP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>cnb:TipOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: tip, ki pove ali gre za odpiralni čas ali uradne ure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>cnb:TipOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: PIRS; avtomatski prevzem ter potrditev organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>cnb:casDo</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: Čas zapiranja organa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>cnb:casDo</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: PIRS avtomatski prevzem ter potrditev organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>cnb:casOd</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: Čas odpiranja organa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>cnb:casOd</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: PIRS avtomatski prevzem ter potrditev organa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>cnb:danVTednu</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: DAN</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>cnb:danVTednu</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: &quot;dan v tednu (od 1 do 7 so dnevi tedna,
+8 je delovni dan, 9 praznik, 0 so vsi dnevi)&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>cnb:danVTednu</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS: PIRS avtomatski prevzem ter potrditev organa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <AbbreviatedIRI>cnb:imaTerminOdpiralnegaCasa</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PIRS avtomatski prevzem ter potrditev organ.a</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:Zastopnik</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RIJS &quot;ZASTOPNIK
+&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>prs:popolnoIme</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">V RZIJZ &quot;Naziv&quot;</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:editorialNote"/>
+        <AbbreviatedIRI>prs:popolnoIme</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Preveri če je podatek v RZIJZ enak in črpan direktno iz PRS.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="cnb:interniNaziv"/>
+        <AbbreviatedIRI>sifranti:imaSifroDrzave</AbbreviatedIRI>
+        <Literal xml:lang="sl" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
