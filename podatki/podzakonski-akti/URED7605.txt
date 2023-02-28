@@ -1,0 +1,868 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina uredbe)
+(1) Ta uredba določa:
+-       
+mejne doze in z mejnimi dozami povezane obvezne ukrepe ter način
+izračuna doznih ograd in njihovo uporabo pri načrtovanju in optimiziranju sevalne
+dejavnosti in za primere izpostavljenosti ionizirajočim sevanjem negovalcev in
+prostovoljcev, ki sodelujejo pri medicinskih in biomedicinskih raziskavah in so
+seznanjeni s tveganjem;
+-       
+merila za razvrstitev izpostavljenih delavcev v dve kategoriji;
+-       
+mejne vrednosti radioaktivne kontaminacije zraka, površinskih in
+podzemnih voda, namenjenih za pripravo pitne vode, živil, človekovega telesa,
+površin delovnega in življenjskega okolja, tal, krme, izdelkov za osebno
+higieno in nego, tobaka in tobačnih izdelkov ter drugih izdelkov;
+-       
+referenčne ravni in njihovo uporabo ter
+-       
+metodologijo za odločanje o primernosti gradbenih materialov.
+(2) Ta uredba prenaša določbe Direktive Sveta
+2013/59/Euratom z dne 5. decembra 2013 o določitvi temeljnih varnostnih standardov
+za varstvo pred nevarnostmi zaradi ionizirajočega sevanja in o razveljavitvi
+direktiv 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom in
+2003/122/Euratom (UL L št. 13 z dne 17. 1. 2014, str. 1), zadnjič
+popravljene s popravkom (UL L št. 72 z dne 17. 3. 2016, str. 69).
+2. člen
+(uporaba mejnih vrednosti)
+(1) Mejne doze in mejne vrednosti radioaktivne
+kontaminacije se uporabljajo pri izpostavljenosti ljudi v delovnem in bivalnem
+okolju ter pri izpostavljenosti z umetnimi in tehnološko spremenjenimi naravnimi
+viri sevanj, ne uporabljajo pa se pri izpostavljenosti pacientov med njihovimi
+zdravniškimi pregledi ali v času zdravljenja.
+(2) Mejne doze so podlaga za načrtovanje in izvajanje
+vseh organizacijskih, tehničnih, zdravstvenih in drugih ukrepov, potrebnih za
+varstvo pred ionizirajočimi sevanji oseb, ki delajo z viri sevanj, posameznika
+iz prebivalstva in celotnega prebivalstva.
+3. člen
+(izrazi)
+Izrazi, uporabljeni v tej uredbi, pomenijo:
+1.     
+Absorbirana doza D je energija, absorbirana na enoto mase:
+D = dĒ / dm,
+kjer je dĒ povprečna energija, ki jo ionizirajoče sevanje
+odda snovi v danem prostorninskem elementu, dm pa je masa snovi v tem
+prostorninskem elementu. Absorbirana doza pomeni dozo, povprečeno na tkivo ali
+organ. Enota za absorbirano dozo je gray, pri čemer je en gray enak enemu joulu
+na kilogram: Gy = 1 J/kg.
+2.     
+Aktivacija je pojav pretvorbe stabilnega nuklida v radioaktivni
+nuklid kot posledice obsevanja snovi, v kateri je prisoten, z delci ali z
+visokoenergijskim sevanjem gama.
+3.     
+Becquerel (Bq) je enota za aktivnost. En becquerel pomeni en
+jedrski prehod na sekundo.
+4.     
+Deterministični učinki so klinično ugotovljive okvare obsevanega
+organa, tkiva ali organizma zaradi poškodovanja celic. Za nastanek posameznega
+determinističnega učinka so določljive vrednosti doz, pri katerih se
+deterministični učinek pojavi, za te vrednosti doz pa velja, da je za doze, ki
+jih presegajo, deterministični učinek večji, če je vrednost doze večja.
+5.     
+Efektivna doza E je vsota uteženih ekvivalentnih doz od
+notranjega in zunanjega obsevanja po vseh tkivih in organih telesa. Izražena je
+z:
+kjer so DT, R absorbirana doza zaradi sevanja R,
+povprečena na tkivo ali organ T, wR utežni faktor sevanja in wT
+tkivni utežni faktor za tkivo ali organ T. Vrednosti utežnih faktorjev sevanja
+wR in tkivnih utežnih faktorjev wT so navedene v preglednicah 1 in 2
+priloge 1, ki je sestavni del te uredbe. Enota za efektivno dozo je sievert
+(Sv).
+6.     
+Ekvivalentna doza HT je absorbirana doza v tkivu ali organu T,
+utežena glede na vrsto in kakovost sevanja R. Izražena je kot:
+kjer sta DT, R absorbirana doza zaradi sevanja R, povprečena
+na tkivo ali organ T. Kadar je polje sevanja sestavljeno iz več vrst in energij
+sevanja z različnimi vrednostmi wR, je skupna ekvivalentna doza HT
+izražena kot:
+Vrednosti utežnega faktorja sevanja wR so navedene v
+preglednici 1 priloge 1 te uredbe. Enota za ekvivalentno dozo je sievert (Sv).
+7.     
+Evakuacija je začasen in organiziran umik ljudi ob izrednem
+dogodku z določenega območja, da se zmanjša izpostavljenost zaradi zunanje obsevanosti
+in vnosa.
+8.     
+Indeks ekvivalentne doze je največja vrednost ekvivalentne doze
+zaradi zunanjega obsevanja v krogli premera 30 cm iz predpisane snovi, ki je
+enakovredna mehkemu tkivu z gostoto 1 g/cm3. Če je središče
+opazovane točke globlje od 1 cm, je indeks globinski, če pa središče opazovane
+točke sega od globine 0,07 mm do 1 cm, je indeks površinski.
+9.     
+Izpeljane mejne doze so mejne doze, ki se izražajo kot izpeljane
+mejne vrednosti sevalnih veličin in so izračunane iz mejnih doz po modelu, ki
+zagotavlja, da je njihovo preseganje malo verjetno, če te izpeljane mejne
+vrednosti niso presežene.
+10.  
+Jodna profilaksa je zaužitje neradioaktivnega joda pred ali takoj
+ob nastanku izrednega dogodka, da se ščitnica zaščiti pred obsevanjem zaradi
+kopičenja radioaktivnih izotopov joda v njej.
+11.  
+Kontaminacija je nenamerna ali nezaželena prisotnost
+radioaktivnih snovi na površinah, v trdnih, tekočih ali plinastih materialih
+ali na človeškem telesu.
+12.  
+Notranja obsevanost je učinek obsevanja, ki ga imajo ionizirajoča
+sevanja na organizem, kadar je vir sevanja znotraj telesa zaradi vnosa ali
+aktivacije.
+13.  
+Operativne mejne ravni so enostavno merljive vrednosti za
+odločanje o zaščitnih ukrepih, s pomočjo katerih zagotavljamo upoštevanje
+referenčnih ravni.
+14.  
+Okončina pomeni dlan, podlaket, stopalo ali gleženj.
+15.  
+Predvidena efektivna doza E(t)
+je vsota predvidenih ekvivalentnih doz HT(t) po organih ali tkivih zaradi vnosa, pomnoženih z ustreznim
+tkivnim utežnim faktorjem wT. Določena je z:
+kjer je t obdobje, izraženo v številu let, za katera se ta
+doza integrira. Če obdobje t ni znano,
+se predpostavi obdobje 50 let za odrasle, starejše od 17 let, in obdobje do
+starosti 70 let za otroke, mlajše od 17 let. Enota za predvideno efektivno dozo
+je sievert (Sv).
+16.  
+Predvidena ekvivalentna doza HT (tt) je integral hitrosti ekvivalentne doze v
+tkivu ali organu T po času t, ki jo bo posameznik prejel zaradi vnosa v
+trenutku t0. Izražena je z:
+kjer sta HT ustrezna hitrost ekvivalentne
+doze v organu ali tkivu T v trenutku t in t obdobje integriranja, izraženo v
+letih. Če obdobje t ni znano, se
+predpostavi obdobje 50 let za odrasle, starejše od 17 let, in obdobje do
+starosti 70 let za otroke, mlajše od 17 let. Enota za predvideno ekvivalentno
+dozo je sievert (Sv).
+17.  
+Prenosna pot je pot, po kateri radioaktivna snov doseže in obseva
+človeka.
+18.  
+Projicirana doza je ocenjena vrednost doze, ki jo prejmejo
+ogroženi ljudje od začetka izrednega dogodka do določenega časa po njem in ob
+upoštevanju vseh prenosnih poti ter dejstva, da se zaščitni ukrepi ne izvedejo.
+19.  
+Skupinska efektivna doza ES je vsota efektivnih doz
+Ei, ki so jih ali bi jih prejeli posamezniki določene populacije zaradi
+izpostavljenosti ionizirajočim sevanjem:
+Enota za skupinsko dozo je človek sievert
+(čl · Sv).
+20.  
+Standardne vrednosti in razmerja pomenijo vrednosti in razmerja,
+priporočena v poglavjih 4 in 5 Publikacije Mednarodne komisije za varstvo pred
+sevanji št. 116 (International Commission on Radiological Protection,
+Publication 116, Conversion Coefficients for Radiological Protection Quantities
+for External Radiation Exposures, Published by Elsevier Ltd, 2010, ISBN
+978-1-4557-2858-9; v nadaljnjem besedilu: ICRP 116) za oceno doz iz zunanje
+izpostavljenosti in v poglavju 1 Publikacije Mednarodne komisije za varstvo
+pred sevanji št. 119 (International Commission on Radiological Protection,
+Publication 119, Compendium of Dose Coefficients based on ICRP Publication 60,
+Published by Elsevier Ltd, 2012, ISBN 978-1-4557-5430-4; v nadaljnjem besedilu:
+ICRP 119) za oceno doz iz notranje obsevanosti.
+21.  
+Stohastični učinki so statistično ugotovljive okvare zaradi
+spremenjenih lastnosti obsevanih celic, ki se lahko razmnožujejo. Stohastični
+učinki, kot so nastanek malignih rakov ali dednih posledic v genih, niso
+odvisni od doze in zanje prag nastanka ne obstaja, vendar je njihov nastanek
+verjetnejši pri višji dozi.
+22.  
+Tkivni utežni faktor wT je delež ekvivalentne doze za
+posamezno tkivo ali organ T, ki se uporabi pri določanju efektivne doze in je
+brez enote.
+23.  
+Trajna preselitev je preselitev ljudi in živali z radioaktivno
+kontaminiranega območja, ki ne predvideva vrnitve v nekaj letih.
+24.  
+Used je usedanje radioaktivnih delcev iz radioaktivnega oblaka
+zaradi teže ali spiranja s padavinami na tla in na preostale prizemne površine.
+25.  
+Utežni faktor sevanja wR je množitelj absorbirane doze
+D T,R za tkivo ali organ T, ki se uporabi pri določanju ekvivalentne
+doze in je brez enote. Vrednosti utežnega faktorja sevanja wR so
+odvisne od vrste in kakovosti polja zunanjega sevanja ali od vrste in kakovosti
+sevanja, ki ga oddajajo radionuklidi po vnosu.
+26.  
+Vnos je celotna aktivnost radionuklidov, ki pridejo v telo iz
+zunanjega okolja. Enota je becquerel.
+27.  
+Zaklanjanje je zadrževanje ljudi v zaprtih prostorih ob izrednem
+dogodku za obdobje do nekaj dni, da se zmanjša izpostavljenost zaradi zunanje
+obsevanosti in vnosa.
+28.  
+Zunanja obsevanost je učinek obsevanja, ki ga povzročajo
+ionizirajoča sevanja na organizem, kadar je vir sevanja zunaj telesa.
+II. MEJNE DOZE
+4. člen
+(efektivna doza)
+(1) Izpostavljenost posameznika ne sme presegati mejnih
+efektivnih doz.
+(2) Za oceno efektivnih doz je treba uporabljati
+standardne vrednosti in razmerja.
+(3) Efektivna doza E, ki jo prejme posameznik v
+starostni skupini prebivalstva ali skupini izpostavljenih delavcev g, se
+ugotavlja kot vsota vseh prispevkov zaradi zunanje in notranje obsevanosti:
+kjer je:
+-       
+Ez efektivna doza zaradi zunanje obsevanosti,
+-       
+e(g)j, ing predvidena efektivna doza na enoto vnosa j-tega
+radionuklida zaradi zaužitja, izražena v Sv/Bq,
+-       
+e(g)j, inh predvidena efektivna doza na enoto vnosa j-tega
+radionuklida zaradi vdihavanja, izražena v Sv/Bq,
+-       
+Aj, ing posamezni vnos j-tega radionuklida z zaužitjem,
+izražen v Bq, in
+-       
+Aj, inh posamezni vnos j-tega radionuklida z vdihavanjem, izražen
+v Bq.
+(4) Pri obsevanju posameznika z zunanjim in notranjim
+obsevanjem iz več virov sevanja efektivna doza ne sme presegati vrednosti mejne
+efektivne doze.
+(5) Za vrednosti predvidene efektivne doze po zaužitju
+e(g)j,ing in predvidene efektivne doze po vdihavanju e(g)j,inh
+se za prebivalstvo uporabljajo vrednosti iz preglednice priloge F in priloge G
+ICRP 119, za delavce pa vrednosti iz preglednice priloge A ICRP 119.
+(6) Za zunanje sevanje je treba uporabiti operativne
+količine, opredeljene v razdelku 2.3 ICRP 116.
+(7) Vrednosti predvidene efektivne doze na enoto vnosa
+zaradi zaužitja ali vdihavanja za posameznika iz prebivalstva in za praktikante
+ter študente v starosti od 16 do 18 let (razen za radonove in toronove potomce)
+so določene v preglednici priloge F in priloge G ICRP 119. V zvezi z
+izpostavljenostjo ionizirajočim sevanjem posameznika iz prebivalstva so v
+preglednici priloge F določene vrednosti, ki ustrezajo različnim faktorjem
+presnove f1 za dojenčke in za starejše osebe. V preglednici priloge G ICRP 119
+so določene vrednosti predvidene efektivne doze za različne modele zadrževanja
+radionuklidov v pljučih z ustreznimi vrednostmi faktorjev presnove f1 za tisti
+del vnosa, ki se izprazni v prebavni trakt. Če obstajajo podatki o načinu in
+trajanju zadrževanja radionuklidov v pljučih ter faktorjih presnove, se
+uporabijo ustrezne vrednosti e(g)j,inh iz preglednice priloge G ICRP
+119, sicer pa se uporabljajo tisti načini in trajanja zadrževanja radionuklidov
+v pljučih in faktorji presnove, ki imajo višjo vrednost e(g)j,inh,
+iz preglednice priloge G ICRP 119.
+(8) Vrednosti predvidene efektivne doze na enoto vnosa
+zaradi zaužitja ali vdihavanja za izpostavljene delavce in za praktikante ter
+študente, stare 18 ali več let (razen za radonove in toronove potomce), so
+določene v preglednicah priloge A in priloge B ICRP 119.
+(9) V preglednici priloge A ICRP 119 so upoštevani
+različni faktorji presnove f1, v preglednici priloge B pa so
+upoštevane kemične posebnosti zaradi vdihavanja topnih ali reaktivnih plinov in
+hlapov.
+5. člen
+(mejna efektivna doza in mejne ekvivalentne doze za
+izpostavljene delavce)
+(1) Če pri zunanji obsevanosti s prodornim sevanjem ni
+podatkov o razdelitvi ekvivalentne doze v tkivu ali organu, se namesto mejnih
+vrednosti ekvivalentne doze uporabljajo mejne vrednosti indeksa ekvivalentne
+doze.
+(2) Mejna vrednost letnega vnosa za izpostavljene
+delavce se izračuna na podlagi mejne predvidene efektivne doze, ki jo
+izpostavljeni delavec prejme v 50 letih po takem vnosu.
+6. člen
+(razvrstitev izpostavljenih delavcev)
+(1) Izvajalec sevalne dejavnosti mora razvrstiti
+izpostavljene delavce v kategorijo A, če letna prejeta efektivna doza
+posameznika lahko preseže 6 mSv ali letna ekvivalentna doza za očesne leče
+preseže 15 mSv ali letna ekvivalentna doza za kožo preseže 150 mSv ali letna
+ekvivalentna doza za okončine preseže 150 mSv.
+(2) Izvajalec sevalne dejavnosti mora vse izpostavljene
+delavce, ki ne izpolnjujejo pogojev za razvrstitev v kategorijo A,
+razvrstiti v kategorijo B.
+7. člen
+(mejne doze za praktikante, študente in dijake)
+(1) Poleg mejnih efektivnih doz za praktikante, študente
+in dijake, predpisanih v zakonu, ki ureja varstvo pred ionizirajočimi sevanji
+in jedrsko varnost, za njih veljajo tudi mejne ekvivalentne doze:
+-       
+za očesne leče 15 mSv na leto,
+-       
+za kožo 150 mSv na leto, pri čemer se ta mejna ekvivalentna doza
+uporablja za povprečno dozo na kateremkoli delu kože velikosti 1 cm2, ne glede
+na celotno površino kože, ki je izpostavljena ionizirajočim sevanjem,
+-       
+za okončine 150 mSv na leto.
+(2) Mejne doze za praktikante, študente in dijake, ki
+med svojim učenjem ne uporabljajo virov ionizirajočih sevanj, so enake kot za
+posameznika iz prebivalstva.
+8. člen
+(dozne ograde)
+(1) Avtorizirane dozne ograde ali avtorizirane mejne
+vrednosti sevalnih veličin določi pristojni upravni organ v postopku izdajanja
+dovoljenja za izvajanje sevalne dejavnosti.
+(2) Operativne dozne ograde ali vrednosti sevalnih
+veličin določi izvajalec sevalne dejavnosti v oceni varstva pred sevanji.
+(3) Avtorizirane dozne ograde ali avtorizirane mejne
+vrednosti iz prvega odstavka tega člena za posamezna dela pri izvajanju sevalne
+dejavnosti je treba določiti na podlagi podatkov o meritvah dejansko prejetih
+posameznih in skupinskih efektivnih in ekvivalentnih doz delavcev in
+prebivalstva pri že izvajanih sevalnih dejavnostih ob virih sevanja z
+enakovrednimi delovnimi razmerami ter na podlagi primerjave ocen za posamezne
+in skupinske efektivne in ekvivalentne doze, ki bi jih prejeli delavci in
+prebivalstvo po uvedbi dodatnih zaščitnih ukrepov.
+(4) Pri določanju avtoriziranih doznih ograd ali
+avtoriziranih mejnih vrednosti mora pristojni upravni organ upoštevati tudi
+gospodarske in družbene dejavnike sprejemljivosti izvajanja posamezne sevalne
+dejavnosti.
+9. člen
+(ugotavljanje doz za posameznika)
+(1) Efektivna doza E za posameznika in ekvivalentne doze
+HT tkiva ali organa posameznika za izpostavljenost ionizirajočim
+sevanjem pri normalnih delovnih razmerah in za potencialno izpostavljenost
+ionizirajočim sevanjem pri najbolj tveganih izrednih dogodkih se izračunajo ob
+upoštevanju enačbe iz tretjega odstavka 4. člena te uredbe.
+(2) Efektivna doza Ez zaradi zunanje
+obsevanosti se izračuna na podlagi podatkov o hitrosti efektivne doze Ėi,z
+ali ustreznih ekvivalentnih doz v polju zunanjega sevanja okrog posameznega
+vira sevanja ter časov izpostavljanja ti temu polju na naslednji način:
+(3) Če so zaradi kontaminacije in izpustov radioaktivnih
+snovi v okolje možni tudi vnosi posameznih radionuklidov zaradi zaužitja ali
+vdihavanja, je treba k efektivni dozi iz prejšnjega odstavka prišteti še
+predvidene efektivne doze.
+(4) Podatki o hitrosti efektivne doze Ėi, z, času
+izpostavljenosti ti, vnosu radionuklidov zaradi zaužitja in vnosu
+radionuklidov zaradi vdihavanja se pridobijo na podlagi projektov, tehničnih
+načrtov, meritev ali na drug način, in sicer za območja neposredno ob
+določenemu viru sevanja, na delovnih mestih, v sosednjih prostorih, na območju
+jedrskega, sevalnega ali manj pomembnega sevalnega objekta in na območju zunaj
+takega objekta v vse smeri.
+10. člen
+(ugotavljanje skupinske efektivne doze)
+(1) Skupinsko efektivno dozo ES se za
+posamezni vir sevanja izračuna iz porazdelitve prebivalstva po efektivni dozi
+dN/dE na naslednji način:
+kjer je (dN/dE)dE število posameznikov, ki prejmejo efektivno
+dozo z vrednostjo med E in E + dE.
+(2) Če je znano število posameznikov Ni v
+i-ti podskupini prebivalstva, ki prejmejo povprečne efektivne doze Ēi,
+se ES izračuna kot vsota teh doz na naslednji način:
+11. člen
+(ugotavljanje in omejitev doz za negovalce in prostovoljce)
+(1) Če je zaradi nege in skrbi za bolnika neizogibno ali
+če gre za sodelovanje pri medicinskih ali biomedicinskih raziskavah, pri
+katerih posameznik iz prebivalstva zavestno in prostovoljno sodeluje zunaj
+svoje poklicne dejavnosti, efektivna doza lahko presega mejno efektivno dozo za
+posameznika iz prebivalstva, vendar ne sme biti večja od 5 mSv v obdobju
+zdravljenja ali zdravstvenih preiskav bolnikov.
+(2) Ne glede na določbe prejšnjega odstavka pa efektivna
+doza:
+-       
+za otroke, mlajše od 16 let, ki obiskujejo bolnike, v katerih telo je
+bila vnesena radioaktivna snov, ali pridejo v njihovo območje, ne sme presegati
+1 mSv v obdobju zdravljenja,
+-       
+za odrasle, starejše od 60 let, ki obiskujejo bolnike, v katerih telo je
+bila vnesena radioaktivna snov, ali pridejo v njihovo območje, ne sme presegati
+15 mSv v obdobju zdravljenja in
+-       
+za druge osebe, ki nevede pridejo v območje radioaktivnih bolnikov, ne
+sme presegati 0,3 mSv na leto.
+(3) Ne glede na določbe prejšnjega odstavka pa lahko
+organ, pristojen za varstvo pred sevanji, odobri za posamezne primere večje
+vrednosti efektivne doze, če gre za zdravstveno upravičene primere.
+(4) Način izračuna doz za negovalce ali prostovoljce, ki
+sodelujejo pri medicinskih in biomedicinskih raziskavah, je enak kot način
+izračuna doz iz 9. člena te uredbe.
+(5) Negovalci in prostovoljci morajo biti seznanjeni s
+tveganjem zaradi izpostavljenosti ionizirajočim sevanjem in prejeti pisno
+navodilo o ukrepih, ki jih morajo upoštevati, da se tveganje zaradi obsevanosti
+zmanjša.
+12. člen
+(ukrepi za člane posadk zračnih plovil)
+(1) Izvajalec poletov mora izdelati oceno varstva pred
+sevanji, razen:
+-       
+če nihče od članov njegove posadke ne opravi več kot 100 ur poletov
+letno ali
+-       
+če višina poletov ne presega 6000 m.
+(2) Če iz ocene varstva pred sevanji sledi, da člani
+letalske posadke lahko prejmejo letne efektivne doze zaradi kozmičnega sevanja,
+ki so večje kot 1 mSv, mora izvajalec poletov:
+-       
+člane letalske posadke seznaniti s tveganjem za zdravje zaradi
+izpostavljenosti ionizirajočim sevanjem, vključno s tveganjem za nerojenega
+otroka in v zvezi s tem z nujnostjo, da noseča članica posadke o nosečnosti
+takoj obvesti izvajalca poletov,
+-       
+zagotoviti individualno oceno efektivnih doz in z njo seznaniti člane
+letalske posadke,
+-       
+sprejeti organizacijske in administrativne ukrepe, s katerimi se
+optimizira izpostavljenost letalske posadke na način, da se kolektivna doza,
+kolikor je le mogoče, čim bolj enakomerno razporedi med posamezne člane
+posadke,
+-       
+v primeru nosečih članic letalske posadke z organizacijskimi in
+administrativnimi ukrepi zagotoviti, da bo efektivna doza za nerojenega otroka
+tako nizka, kot je to razumno mogoče doseči, in da ta doza v preostalem obdobju
+nosečnosti ne bo presegla mejne doze za posameznika iz prebivalstva, določene v
+zakonu, ki ureja varstvo pred ionizirajočimi sevanji in jedrsko varnost. Če
+noseča ženska ne želi biti izpostavljena ionizirajočim sevanjem, jo je treba
+premestiti na delovno mesto na tleh.
+(3) Če iz ocene varstva pred sevanji iz prvega odstavka
+tega člena ali iz individualnih ocen doz iz druge alineje prejšnjega odstavka
+sledi, da člani letalske posadke lahko prejmejo letne efektivne doze zaradi
+kozmičnega sevanja, ki so večje kot 6 mSv, mora izvajalec poletov poleg ukrepov
+iz prejšnjega odstavka zagotoviti:
+-       
+zdravstveni nadzor članov letalske posadke pri pooblaščenem izvajalcu
+zdravstvenega nadzora,
+-       
+usposabljanje v zvezi z varstvom pred sevanjem, vključno s preverjanjem
+in obnavljanjem znanja, kot je določeno za izpostavljene delavce.
+III. MEJNE VREDNOSTI RADIOAKTIVNE KONTAMINACIJE
+13. člen
+(radioaktivna kontaminacija)
+Mejne vrednosti radioaktivne kontaminacije zraka, površinskih
+in podzemnih voda, namenjenih za pripravo pitne vode, živil, radioaktivne
+kontaminacije človekovega telesa, površin delovnega okolja, tal, krme, izdelkov
+za osebno higieno in nego, tobaka in tobačnih izdelkov, gradbenega materiala
+ter drugih izdelkov se določijo na podlagi mejnih vrednosti letnega vnosa
+radionuklidov v človeški organizem zaradi zaužitja in vdihavanja, hitrosti
+efektivne doze Ėz zaradi zunanje obsevanosti ter izpeljanih vrednosti
+koncentracij, določenih na podlagi mejnih doz.
+14. člen
+(mejna vrednost letnega vnosa)
+(1) Kontaminacija notranjosti človekovega telesa ne sme
+presegati mejne vrednosti letnega vnosa posameznega radionuklida v človekov
+organizem, ki se izračuna na naslednji način:
+in
+kjer je
+-       
+MLV mejna vrednost letnega vnosa radionuklidov,
+-       
+Em mejna efektivna doza ter
+-       
+e(g)j, inh in e(g)j, ing predvideni efektivni dozi
+na enoto vnosa zaradi zaužitja oziroma vdihavanja.
+(2) Mejne vrednosti letnega vnosa zaradi zaužitja MLVj,
+ing se lahko uporabljajo kot podlaga za izračun notranje obsevanosti, do
+katere je prišlo zaradi vnosa radionuklidov v organizem z zaužitjem, ne smejo
+pa se uporabiti za določitev koncentracije radionuklidov v pitni vodi in
+živilih v delovnem okolju.
+(3) Za vnos več radionuklidov v organizem, ki je
+izpostavljen tudi zunanjim ionizirajočim sevanjem, je treba določiti nižje
+mejne vrednosti letnega vnosa tako, da je izpolnjen pogoj, izražen na naslednji
+način:
+kjer je
+-       
+MLVi ⋅
+e(g)i mejna efektivna doza za vnos i-tega radionuklida z zauživanjem ali
+vdihavanjem,
+-       
+Ez, m mejna efektivna doza zaradi zunanje obsevanosti,
+-       
+Σj ≠ i, pa je vsota po vseh mejnih vnosih j-tih radionuklidov
+zaradi zauživanja in vdihavanja, razen i-tega.
+15. člen
+(izpeljane vrednosti koncentracije)
+(1) Izpeljana vrednost koncentracije posameznega
+radionuklida v zraku, vodi ali hrani se izračuna iz mejne vrednosti letnega
+vnosa MLVj, inh ali MLVj, ing, prostornine vdihanega
+zraka Vz (m3), prostornine zaužite vode Vv (m3) ali mase
+zaužite hrane mh (kg) na naslednji način:
+ali
+ali
+kjer je IK izpeljana vrednost
+koncentracije.
+(2) Mejne vrednosti kontaminacije so lahko enake
+izpeljanim vrednostim koncentracij le, če je samo ena prenosna pot enega
+radionuklida vzrok za kontaminacijo. Če je območje istočasno kontaminirano z
+različnimi radionuklidi, je treba določiti nižje izpeljane mejne vrednosti
+koncentracij ob upoštevanju naslednje neenačbe:
+kjer je Ki koncentracija i-tega
+radionuklida v zraku ali pitni vodi.
+16. člen
+(avtorizirane in operativne dozne ograde)
+(1) Če s tehnično izvedljivimi in ekonomsko upravičenimi
+ukrepi ob upoštevanju družbenih dejavnikov ni mogoče zagotoviti takšnih razmer,
+da bi bile radioaktivne kontaminacije nižje od izpeljanih mejnih vrednosti
+koncentracij iz prejšnjega člena, je treba skrajšati čase izpostavljenosti
+ionizirajočim sevanjem za ljudi z določitvijo avtoriziranih ali operativnih
+doznih ograd ali vrednosti sevalnih veličin.
+(2) Avtorizirane in operativne mejne vrednosti za
+hitrost efektivne doze Ėi, z in za izpeljane vrednosti koncentracij
+IK se izračunajo tako, da se v enačbah iz 9., 14. in 15. člena te uredbe
+upošteva nižje vrednosti za posamezne mejne vrednosti (Em, MLV ali Ez,
+m) ter krajše čase izpostavljenosti ionizirajočim sevanjem oziroma z
+njimi sorazmerne prostornine vdihanega kontaminiranega zraka Vz,
+zaužite kontaminirane vode Vv ali mase zaužite kontaminirane hrane mh.
+17. člen
+(mejne vrednosti kontaminacije zraka)
+(1) Izpeljana vrednost koncentracije posameznega
+radionuklida v zraku delovnega okolja se izračuna iz mejne efektivne doze Em,
+predvidene efektivne doze na enoto vnosa e(g)j,inh in prostornine
+vdihanega zraka Vz v delovnih urah enega leta na naslednji način:
+kjer g označuje skupino posameznika in j posamezni
+radionuklid. Za delavce, razvrščene v kategorijo A izpostavljenih delavcev, je
+treba uporabiti mejno dozo 20 mSv/leto, za delavce, razvrščene v kategorijo B
+izpostavljenih delavcev, pa 6 mSv/leto ter prostornino vdihanega zraka 2400 m3/leto
+ali 1,2 m3/h v 2000 urah na leto.
+(2) Izpeljana vrednost koncentracije v zraku bivalnega
+okolja se izračuna na način iz prejšnjega odstavka, le da g označuje starostno
+skupino posameznika, vrednost Em je 1 mSv/leto in prostornina
+vdihanega zraka je 7000 m3/leto ali 0,8 m3/h v 8766 urah
+na leto.
+(3) V preglednici priloge H ICRP 119 so določene
+predvidene efektivne doze na enoto vnosa za hlapne in reaktivne pline za
+različne starostne skupine.
+(4) V preglednici priloge C ICRP 119 so določene
+hitrosti efektivne doze na enoto koncentracije v zraku za izpostavljenost
+ionizirajočim sevanjem zaradi žlahtnih plinov.
+18. člen
+(mejne vrednosti kontaminacije površinskih in podzemnih
+voda)
+(1) Izpeljana vrednost koncentracije za posamezni
+radionuklid v površinskih in podzemnih vodah, razen za pitno vodo, se izračuna
+kot količnik med mejno efektivno dozo za posameznika iz prebivalstva in
+predvideno efektivno dozo na enoto vnosa e(g)j, ing za posamezni
+radionuklid ter prostornino zaužite vode v enem letu, na naslednji način:
+kjer je:
+-       
+Vv prostornina zaužite vode v enem letu, ki je enaka 0,75 m3
+za odrasle,
+-       
+g oznaka za skupino odraslih posameznikov in
+-       
+j oznaka za posamezni radionuklid.
+(2) Mejna vrednost radioaktivne kontaminacije vode,
+namenjene za oskrbo s pitno vodo, se določi kot izpeljano vrednost
+koncentracije radionuklidov v vodi, izračunano iz enačbe iz prejšnjega
+odstavka, ob upoštevanju, da je vrednost mejne efektivne doze Em =
+0,1 mSv/leto.
+(3) Mejne vrednosti letnega vnosa radionuklidov MLV v
+človeški organizem z zaužitjem pitne vode se izračunajo na podlagi enačbe iz
+14. člena te uredbe, ob upoštevanju, da je vrednost mejne efektivne doze Em
+= 0,1 mSv/leto.
+(4) V mejni efektivni dozi 0,1 mSv/leto iz prejšnjega
+odstavka niso upoštevani prispevki k efektivni dozi zaradi prisotnosti tritija
+3H, kalija 40K, radona 222Rn, 220Rn in njunih razpadnih produktov.
+19. člen
+(mejne vrednosti kontaminacije človekovega telesa)
+(1) Mejna vrednost radioaktivne kontaminacije zunanjih
+površin kože in vidnih sluznic posameznika iz prebivalstva je 4 Bq na 100 cm2
+za sevalce alfa in 40 Bq na 100 cm2 za sevalce beta in gama.
+(2) Na koži ljudi v bivalnem okolju ne sme biti odstranljive
+kontaminacije.
+(3) Mejna vrednost radioaktivne kontaminacije zunanjih
+površin kože in vidnih sluznic izpostavljenih delavcev ne sme presegati 8 Bq na
+100 cm2 za sevalce alfa in 80 Bq na 100 cm2 za
+sevalce beta in gama.
+(4) Mejne vrednosti notranje kontaminacije posameznika
+iz prebivalstva so enake mejnim vrednostim letnega vnosa posameznih
+radionuklidov v človekov organizem iz 14. člena te uredbe, pri čemer je
+mejna efektivna doza Em, vrednosti za e(g)j, inh ali e(g)j, ing
+pa so določene v preglednicah prilog F in G ICRP 119.
+(5) Mejne vrednosti notranje kontaminacije
+izpostavljenih delavcev so enake mejnim vrednostim letnega vnosa posameznih
+radionuklidov v človekov organizem iz 14. člena te uredbe, pri čemer je
+mejna efektivna doza Em določena glede na razporeditev izpostavljenih delavcev
+v kategorijo A ali B, e(g)j, inh in e(g)j, ing pa so določene
+v preglednici priloge A ICRP 119.
+20. člen
+(mejne vrednosti kontaminacije delovnega okolja)
+(1) Mejna vrednost odstranljive radioaktivne
+kontaminacije površin v nadzorovanem območju in na zunanji strani zaščitnih
+oblek je 400 Bq na 100 cm2 za sevalce alfa in 4000 Bq na 100 cm2
+za sevalce beta in gama.
+(2) Mejne vrednosti iz prejšnjega odstavka ne
+vključujejo trdno vezane kontaminacije, če je z gotovostjo ugotovljeno, da ni
+nevarnosti pred širjenjem kontaminacije ali vpoja v kožo.
+(3) Če je na površinah v nadzorovanem območju, na
+opremi, v oblekah in v perilu vezana radioaktivna kontaminacija, sta mejni
+vrednosti odstranljive radioaktivne kontaminacije površin v nadzorovanem
+območju in na zunanji strani zaščitnih oblek 40 Bq na 100 cm2 za
+sevalce alfa in 400 Bq na 100 cm2 za sevalce beta in gama.
+(4) Mejna vrednost odstranljive in vezane radioaktivne
+kontaminacije na nedostopni površini je enaka 0,4 MBq na 100 cm2 za
+delce alfa in 4 MBq na 100 cm2 za delce beta in žarke gama.
+(5) Če je v tehnološkem procesu zagotovljeno, da ni
+nevarnosti pred širjenjem odstranljive kontaminacije z nedostopne površine, sme
+kontaminacija presegati mejno vrednost iz prejšnjega odstavka.
+21. člen
+(mejne vrednosti kontaminacije površin)
+(1) Mejna vrednost radioaktivne kontaminacije površin
+človekovega bivalnega in delovnega okolja, ki ni del nadzorovanega območja, je
+enaka 4 Bq na 100 cm2 za delce alfa in 40 Bq na 100 cm2
+za sevalce beta in gama.
+(2) Za površino iz prejšnjega odstavka se štejejo
+površine tal, prostorov in opreme, predmetov za splošno rabo, perila in osebne
+obleke, pri čemer pa na njih ne sme biti odstranljive radioaktivne
+kontaminacije.
+(3) Mejna vrednost hitrosti efektivne doze zunanjega
+sevanja Ėz ali indeksa hitrosti ekvivalentne doze zaradi radioaktivno
+kontaminiranih površin človekovega bivalnega in delovnega okolja, ki ni del
+nadzorovanega območja, je enaka 1 μSv/h pri razdalji 10 cm od površine.
+(4) Mejna vrednost hitrosti efektivne doze zunanjega
+sevanja Ėz ali hitrosti indeksa ekvivalentne doze zaradi
+kontaminiranih površin človekovega bivalnega in delovnega okolja, ki ni del
+nadzorovanega območja, je enaka 0,1 μSv/h nad ozadjem naravnega sevanja pri
+razdalji 1 m od površine.
+(5) Posamezne specifične aktivnosti lahko na površinah
+zemljišča, manjših od 1 m2, do desetkrat presežejo mejne vrednosti
+iz prvega odstavka tega člena, vendar povprečna radioaktivna kontaminacija na
+površinah do 10 m2 ne sme presegati mejnih vrednosti.
+(6) Posamezne specifične aktivnosti lahko na površinah,
+ki niso površine zemljišč in so manjše od 100 cm2, do desetkrat presežejo
+mejne vrednosti iz prvega odstavka tega člena, vendar povprečna radioaktivna
+kontaminacija na površinah do 1000 cm2 ne sme presegati mejnih
+vrednosti.
+22. člen
+(mejne vrednosti kontaminacije delovne obleke)
+Mejna vrednost kontaminacije delovne in zaščitne obleke,
+posteljnine in perila iz medicinskih ustanov in laboratorijev, ki se perejo v
+javnih pralnicah, ter zunanja stran pošiljk, ki vsebujejo radioaktivno snov in
+se pošiljajo z javnim transportom, je enaka 40 Bq na 100 cm2 za
+sevalce alfa in 400 Bq na 100 cm2 za sevalce beta in gama.
+23. člen
+(mejne vrednosti kontaminacije hrane in krme)
+(1) Mejne vrednosti kontaminacije hrane so enake
+izpeljanim vrednostim koncentracij, ki se izračunajo na naslednji način:
+kjer je:
+-       
+Em mejna efektivna doza za posameznika iz prebivalstva,
+-       
+mh masa hrane, zaužite v enem letu,
+-       
+g oznaka za referenčno skupino prebivalstva in
+-       
+j oznaka za posamezni radionuklid.
+(2) Če masa in sestava zaužite hrane za referenčno
+skupino prebivalstva ni znana, je treba v izračunu iz prejšnjega odstavka
+prevzeti za maso zaužite hrane vrednost 250 kg za odrasle osebe.
+(3) Če je hrana kontaminirana z več radionuklidi, je
+treba določiti mejne vrednosti kontaminacije hrane ob upoštevanju neenačbe:
+kjer je Kj koncentracija j-tega
+radionuklida v hrani.
+(4) Če s tehnično izvedljivimi in ekonomsko upravičenimi
+ukrepi ob upoštevanju družbenih dejavnikov ni mogoče zagotoviti takšnih razmer,
+da bi bile radioaktivne kontaminacije hrane nižje od izpeljanih mejnih doz,
+morajo pristojni organi v skladu s predpisom, ki ureja koordinacijo delovanja
+ministrstev in njihovih organov v sestavi s pristojnostmi na področju varnosti
+živil in krme, zdravstvenega varstva živali in zaščite živali ter zdravstvenega
+varstva rastlin, zagotoviti, da se zmanjša količina zaužite kontaminirane hrane
+tako, da ni presežena mejna letna efektivna doza.
+24. člen
+(mejne vrednosti kontaminacije zdravil in izdelkov za osebno
+higieno in nego)
+(1) Mejna vrednost letnega vnosa radionuklidov v
+človeški organizem z zdravili, ki niso radiofarmaki, je enaka mejni vrednosti
+letnega vnosa radionuklidov v človeški organizem z zaužitjem pitne vode.
+(2) Mejne vrednosti kontaminacije sredstev za osebno
+higieno in nego, lepotilnih in negovalnih sredstev za obraz in telo ter
+otroških igrač so enake mejnim vrednostim radioaktivne kontaminacije vode,
+namenjene za oskrbo s pitno vodo.
+25. člen
+(mejne vrednosti kontaminacije tobaka in tobačnih izdelkov)
+Mejna vrednost radioaktivne kontaminacije tobaka in tobačnih
+izdelkov je 37 Bq sevalcev alfa na kilogram tobaka in tobačnih izdelkov.
+26. člen
+(mejne vrednosti kontaminacije drugih izdelkov)
+(1) Mejna vrednost radioaktivne kontaminacije zaradi
+radionuklida, katerega razpolovni čas je daljši od 60 dni, je za tekoče ali
+prašnate snovi splošne rabe enaka mejni vrednosti radioaktivne kontaminacije za
+površinsko in podzemno vodo, ki ni namenjena za pitje, pri čemer je treba
+prostornino 1 m3 nadomestiti z maso snovi 1000 kg.
+(2) Če je razpolovni čas radionuklida krajši od 60 dni,
+so mejne vrednosti radioaktivne kontaminacije zaradi tega radionuklida desetkrat
+večje od mejne vrednosti radioaktivne kontaminacije za tekoče ali prašnate
+snovi iz prejšnjega odstavka.
+(3) Mejna vrednost radioaktivne kontaminacije je za
+trdne kompaktne predmete splošne rabe enaka stokratni vrednosti mejne vrednosti
+radioaktivne kontaminacije za površinsko in podzemno vodo, pri čemer pa je
+mejna vrednost hitrosti efektivne doze zunanjega sevanja Ėz enaka 1
+μSv/h pri razdalji 10 cm od površine predmetov in 0,1 μSv/h nad ozadjem
+naravnega sevanja pri razdalji 1 m od površine predmetov.
+(4) Ne glede na določbe prvega in drugega odstavka tega
+člena veljajo za naravne radionuklide mejne vrednosti iz prejšnjega odstavka.
+IV. REFERENČNE RAVNI
+27. člen
+(referenčne ravni za obstoječe izpostavljenosti in ob
+izrednih dogodkih)
+(1) Ne glede na določila o referenčnih ravneh za
+ekvivalentne doze je referenčna raven za efektivne doze 20 mSv na leto za
+obstoječe izpostavljenosti in 100 mSv (akutno ali letno) za izpostavljenost ob
+izrednem dogodku.
+(2) V določenih primerih se lahko uporabljajo referenčne
+ravni, nižje od ravni, določenih v prejšnjem odstavku:
+-       
+za izpostavljenost ob izrednem dogodku lahko upravni organ, pristojen za
+jedrsko varnost, priporoči referenčno raven, manjšo od 100 mSv, tudi manjšo od
+20 mSv, če je mogoče zagotoviti ustrezno zaščito ali niso povzročeni previsoki
+stroški;
+-       
+za posebne primere obstoječe izpostavljenosti, povezane z viri
+ionizirajočega sevanja ali prenosnimi potmi, lahko pristojni upravni organ
+določi referenčno raven, manjšo od 20 mSv na leto, tudi manjšo od 1 mSv na
+leto, če je to ekonomsko in socialno upravičeno.
+(3) Ustrezne referenčne ravni upravni organ, pristojen
+za jedrsko varnost, določi tudi za prehod iz izpostavljenosti ob izrednem
+dogodku na obstoječo izpostavljenost zlasti ob koncu dolgoročnih protiukrepov,
+kot je preselitev. Pri tem je treba upoštevati prevladujoče razmere in družbena
+merila, ki lahko vključujejo:
+-       
+za izpostavljenosti do vključno 1 mSv na leto: splošne informacije o
+ravni izpostavljenosti brez posebnega obravnavanja izpostavljenosti
+posameznikov,
+-       
+za izpostavljenost do vključno 20 mSv na leto: posebne informacije, na
+podlagi katerih lahko posamezniki po možnosti obvladujejo lastno
+izpostavljenost,
+-       
+za izpostavljenost do vključno 100 mSv na leto: oceno doz posameznikov
+in posebne informacije o nevarnostih sevanj ter razpoložljivih ukrepih za
+zmanjšanje izpostavljenosti.
+28. člen
+(gradbeni materiali)
+(1) Referenčna raven za zunanjo izpostavljenost zaradi
+sevanja gama iz gradbenih materialov v zaprtih prostorih znaša 1 mSv na leto.
+Ta vrednost pomeni dodatno obremenitev k siceršnji izpostavljenosti zaradi
+naravnega ozadja na prostem.
+(2) Gradbeni materiali, zaradi katerih je lahko
+presežena referenčna raven za zunanjo izpostavljenost iz prejšnjega odstavka,
+so navedeni v prilogi 2, ki je sestavni del te uredbe.
+(3) Pred prosto prodajo gradbenega materiala, določenega
+v prejšnjem odstavku, morajo biti za ta gradbeni material izmerjene specifične
+aktivnosti radionuklidov Ra-226, Th-232 ali njegovega razpadnega produkta
+Ra-228 in K-40 ter na podlagi izmerjenih vrednosti izračunan indeks specifične
+aktivnosti v skladu z 29. členom te uredbe.
+(4) Gradbeni material iz drugega odstavka tega člena je
+mogoče prosto uporabljati, če je vrednost indeksa specifične aktivnosti za gama
+sevanje, izračunana na podlagi določb 29. člena te uredbe za večje
+materiale (zidake, beton, opeko in podobno), manjša od 1 in za materiale, ki se
+uporabljajo za oblaganje (ploščice in podobno), manjša od 6.
+(5) Če so vrednosti za indeks specifične aktivnosti
+večje od vrednosti v prejšnjem odstavku, je treba pred uporabo materiala z
+dodatno ocenitvijo zunanje izpostavljenosti posameznikov preveriti, ali ne bodo
+presežene mejne vrednosti iz prvega odstavka tega člena.
+(6) Pri izračunu doze, ki bi jo prejel posameznik, je
+treba upoštevati tudi druge faktorje, kot sta gostota in debelina materiala,
+ter faktorje v zvezi z vrsto zgradbe in predvideno uporabo materiala (polnilo
+ali površinski material).
+29. člen
+(indeks specifične aktivnosti gradbenih materialov)
+(1) Indeks specifične aktivnosti sevanja gama gradbenih
+materialov se izračuna z enačbo:
+I = CRa226/300
+Bq/kg + CTh232/200 Bq/kg + CK40/3000 Bq/kg,
+kjer so CRa226, CTh232 in CK40
+specifične aktivnosti ustreznih radionuklidov (v Bq/kg) v gradbenem materialu.
+(2) Indeks iz prejšnjega odstavka se nanaša na dozo
+sevanja gama brez upoštevanja naravnega ozadja v stavbi, zgrajeni iz
+obravnavanega gradbenega materiala.
+30. člen
+(splošna merila za odrejanje zaščitnih ukrepov)
+(1) Kadar obstaja možnost, da posamezniki zaradi jedrske
+ali radiološke nesreče v kratkem času prejmejo znatne doze, je treba ne glede
+na vse okoliščine ukrepati, da preprečimo deterministične učinke. Vrednosti
+posameznih meril in načini ukrepanja so podani v preglednici 1 priloge 3, ki je
+sestavni del te uredbe.
+(2) V primeru jedrske ali radiološke nesreče je treba
+izvajati zaščitne ukrepe, s katerimi bi zmanjšali tveganje zaradi stohastičnih
+učinkov izpostavljenosti ionizirajočim sevanjem. Vrednosti posameznih meril in
+načini ukrepanja so podani v preglednici 2 priloge 3 te uredbe.
+(3) Zmanjšati je treba tveganje prebivalcev zaradi
+ingestije hrane in pitne vode ter uporabe kontaminiranih izdelkov. Zagotoviti
+je treba, da prejeta efektivna doza, ob upoštevanju vseh prenosnih poti, ne
+presega ene desetine vrednosti, navedenih v preglednici 2 priloge 3 te uredbe.
+(4) Če ni mogoče zagotoviti nadomestne hrane in vode, je
+dovoljeno uživanje hrane in vode, dokler ni zagotovljena nadomestna hrana ali
+voda, pod pogojem, da projicirane doze ne presegajo vrednosti, navedenih v
+preglednici 2 priloge 3 te uredbe.
+(5) Zmanjšati je treba tveganje zaradi uporabe
+kontaminiranih vozil, opreme in drugih predmetov. Zagotoviti je treba, da
+prejeta efektivna doza, ob upoštevanju vseh prenosnih poti, ne presega ene
+desetine vrednosti, navedenih v preglednici 2 priloge 3 te uredbe.
+31. člen
+(operativne intervencijske ravni)
+(1) Za operativno odločanje o zaščitnih ukrepih in s tem
+zagotavljanje izpolnjevanja splošnih meril iz prejšnjega člena je treba
+uporabljati operativne intervencijske ravni (v nadaljevanju OIR), navedene v
+prilogi 4, ki je sestavni del te uredbe.
+(2) OIR 1, OIR 2 in OIR 3 za hitrost doze zaradi useda
+se uporabljajo, da bi se ugotovilo, kje je zaradi useda potrebna evakuacija,
+premestitev ali omejitev porabe ali distribucije lokalnih izdelkov, gozdnih
+plodov (gobe ipd.), mleka od krav na prostem, deževnice in hrane za živali, ki
+bi lahko bili kontaminirani.
+(3) Vrednost OIR 4 se uporabi za oceno, ali ravni
+radioaktivne kontaminacije kože zahtevajo zdravniški pregled ali dodatne
+medicinske ukrepe.
+(4) Vrednosti OIR 7, izražene kot koncentracije (Bq/kg)
+dveh značilnih radionuklidov (131I in 137Cs), se
+uporabljajo kot kazalniki za ugotavljanje, ali so hrana, mleko in voda varni za
+ljudi, ne da bi opravili celovito radionuklidno analizo.
+(5) OIR 8 se uporablja za oceno, ali koncentracija
+radioaktivnega joda v ščitnici osebe zahteva dodaten zdravniški pregled in
+spremljanje.
+32. člen
+(dozne omejitve za izvajalce zaščitnih ukrepov)
+(1) Med izvajanjem zaščitnih ukrepov pri sanaciji
+posledic izrednega dogodka je treba zagotoviti, da se poklicne izpostavljenosti
+ohranijo, kadar je to mogoče, pod vrednostmi mejnih doz, določenih v zakonu, ki
+ureja varstvo pred ionizirajočimi sevanji in jedrsko varnost.
+(2) Kadar pogoja iz prejšnjega odstavka ni mogoče
+izpolniti, se uporabljajo naslednji pogoji:
+-       
+določijo se referenčne ravni za poklicno izpostavljenost ob izrednem
+dogodku, načeloma pod efektivno dozo 100 mSv;
+-       
+v izjemnih primerih, ko gre za reševanje življenj, preprečevanje resnih
+učinkov sevanj na zdravje ali preprečevanje katastrofalnega poslabšanja razmer,
+se za zunanjo izpostavljenost reševalnega osebja lahko določi referenčna raven
+za efektivno dozo iz zunanjega sevanja nad 100 mSv, vendar ne višje od 500 mSv;
+-       
+referenčne ravni za posamezna opravila pri izvajanju zaščitnih ukrepov
+so navedene v prilogi 5, ki je sestavni del te uredbe. Pri ukrepih, ki niso
+navedeni v prvi ali drugi alineji tega odstavka, efektivne doze posameznikov,
+ki sodelujejo pri izvajanju zaščitnih ukrepov, vključno z enotami policije in
+civilne zaščite, reševalci, vozniki in drugimi, ne smejo presegati mejnih doz
+za izpostavljene delavce, določenih v zakonu, ki ureja varstvo pred
+ionizirajočimi sevanji in jedrsko varnost.
+(3) Referenčne ravni se nanašajo na efektivno dozo
+zaradi zunanjega obsevanja v času izrednega dogodka in predvideno dozo zaradi
+vnosa radioaktivnih snovi v istem času ter ne vključujejo doze, ki jo
+posameznik prejme po izrednem dogodku zaradi prebivanja na območju, kjer ne
+veljajo posebne omejitve.
+(4) Izvajalci zaščitnih ukrepov, za katere je verjetno,
+da bodo izvajali ukrepe, pri katerih je lahko presežena efektivna doza 100 mSv,
+morajo biti vnaprej jasno in podrobno obveščeni o s tem povezanih tveganjih za
+zdravje in razpoložljivih zaščitnih ukrepih. Vedeti morajo tudi, da te ukrepe
+izvajajo prostovoljno.
+(5) Pri izvajanju sanacijskih ukrepov, kot so popravilo
+objektov in zgradb, zbiranje in odlaganje odpadkov, dekontaminacija območja in
+opreme, veljajo za delavce mejne doze za izpostavljene delavce, določene v
+zakonu, ki ureja varstvo pred ionizirajočimi sevanji in jedrsko varnost.
+(6) Ženske v reproduktivni dobi ne smejo biti načrtovano
+izpostavljene sevanju, ki povzroči dozo, večjo od 20 mSv, noseče ali doječe
+ženske pa ne smejo sodelovati pri izvajanju zaščitnih ukrepov na terenu.
+(7) Za vse izvajalce zaščitnih ukrepov je treba
+zagotoviti radiološki nadzor. Po potrebi je treba zagotoviti osebno dozimetrijo
+ali oceno doz posameznikov.
+(8) Za vse izvajalce zaščitnih ukrepov je treba
+zagotoviti posebno zdravstveno oskrbo, kot jo določa predpis, ki ureja
+izvajanje zdravstvenega nadzora izpostavljenih delavcev.
+V. PREHODNA IN KONČNA DOLOČBA
+33. člen
+(prenehanje uporabe)
+Z dnem uveljavitve te uredbe se preneha uporabljati Uredba o
+mejnih dozah, radioaktivni kontaminaciji in intervencijskih nivojih (Uradni
+list RS, št. 49/04 in 76/17 – ZVISJV-1).
+34. člen
+(začetek veljavnosti)
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 00725-3/2018
+Ljubljana, dne 14. marca 2018
+EVA 2017-2711-0059
+Vlada Republike Slovenije
+dr. Miroslav Cerar l.r.
+Predsednik
+
+Priloga 1: Utežni
+faktorji sevanja in tkivni utežni faktorji
+Priloga 2: Okvirni
+seznam vrst gradbenih materialov, ki lahko povzročijo čezmerno izpostavljenost
+sevanju gama
+Priloga 3: Splošna
+merila in primer ukrepanja
+Priloga 4: Vrednosti
+operativnih intervencijskih ravni (OIR)
+Priloga 5:
+Referenčne ravni za efektivno dozo za delavce, ki izvajajo zaščitne ukrepe

@@ -1,0 +1,791 @@
+1. člen
+(vsebina)
+(1) Ta uredba določa splošne tehnične in operativne
+pogoje za varno uporabo brezpilotnih zrakoplovov, sistema brezpilotnih
+zrakoplovov in letalskih modelov ter pogoje, ki veljajo za osebe, ki sodelujejo
+pri upravljanju teh zrakoplovov in sistemov.
+(2) Določbe te uredbe se uporabljajo za sisteme
+brezpilotnih zrakoplovov z vzletno operativno maso do 150 kilogramov, ki
+se uporabljajo v Republiki Sloveniji.
+(3) Ne glede na prejšnji odstavek se določbe te uredbe
+ne uporabljajo za sisteme brezpilotnih zrakoplovov, namenjenih opravljanju
+vojaške, carinske, policijske, iskalne, reševalne in gasilske dejavnosti,
+dejavnosti obalnih služb ali podobnih dejavnosti (v nadaljnjem besedilu:
+državne aktivnosti).
+(4) Ne glede na prejšnji odstavek se leti s sistemi
+brezpilotnih zrakoplovov za izvajanje državnih aktivnosti izvajajo skladno s
+postopki in predpisi, ki veljajo za splošni zračni promet (v nadaljnjem
+besedilu: GAT) znotraj zračnega prostora Republike Slovenije, predpisanimi v
+10. do 12. členu te uredbe, razen če z drugimi predpisi ni določeno
+drugače.
+(5) Ne glede na tretji odstavek tega člena morajo
+upravljavci sistema brezpilotnega zrakoplova, ki izvajajo gasilske dejavnosti,
+imeti dokaz o usposobljenosti za upravljanje sistema iz druge alineje tretjega
+odstavka 20. člena te uredbe.
+(6) Ne glede na drugi odstavek tega člena se omogoči
+prosta uporaba brezpilotnih zrakoplovov z vzletno operativno maso
+500 gramov ali manj, če se z njimi ne izvajajo letalske dejavnosti.
+(7) Določbe te uredbe se ne uporabljajo za sisteme
+brezpilotnih zrakoplovov, ki se uporabljajo v zaprtem nejavnem prostoru.
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tej uredbi, imajo naslednji pomen:
+1.     
+Agencija je Javna agencija za civilno letalstvo Republike Slovenije.
+2.     
+Brezpilotni zrakoplov je zrakoplov, namenjen izvajanju letov brez pilota
+ali drugih oseb na krovu, ki je daljinsko krmiljen ali programiran ali
+avtonomen.
+3.     
+Globalni navigacijski satelitski sistem (v nadaljnjem besedilu: GNSS) je
+globalni navigacijski sistem, s katerim sprejemnik določa svoj geografski
+položaj z uporabo podatkov iz satelitov.
+4.     
+Izvajanje letalskih dejavnosti je uporaba sistema brezpilotnega
+zrakoplova, za plačilo ali brez njega, kadar gre za potrebe opravljanja nalog
+iz zraka (npr. snemanje iz zraka, oglaševanje iz zraka, nadzor iz zraka,
+protipožarna zaščita, proženje plazov, letenje v znanstveno-raziskovalne
+namene, letenje za televizijske in filmske potrebe in potrebe poročanja,
+letenje za potrebe posebnih dogodkov).
+5.     
+Letalski model je brezpilotni zrakoplov, namenjen izključno rekreaciji
+in športu.
+6.     
+Letenje v vidnem polju (VLOS) je izvajanje letov s sistemom
+brezpilotnega zrakoplova, pri čemer ima upravljavec sistema brezpilotnega
+zrakoplova neprekinjen vizualni stik z brezpilotnim zrakoplovom brez uporabe
+optičnih ali elektronskih pripomočkov. Kontaktne leče ali korekcijska očala se
+po tej uredbi ne štejejo kot optični pripomočki.
+7.     
+Operater sistema brezpilotnega zrakoplova (v nadaljnjem besedilu:
+operater) je fizična ali pravna oseba, ki izvaja letalske dejavnosti s sistemom
+brezpilotnega zrakoplova.
+8.     
+Področje letenja je zračni prostor, v katerem se izvaja let
+brezpilotnega zrakoplova.
+9.     
+Pomožni objekti so objekti, ki niso namenjeni stanovanjski rabi
+(npr. staje, deponije, hangarji, skladišča).
+10.  
+Pridruženi opazovalec je oseba, ki pomaga upravljavcu pri izvajanju
+letov s sistemom brezpilotnega zrakoplova, kadar upravljavec upravlja
+brezpilotni zrakoplov z uporabo sistema za prikaz pogleda iz zrakoplova (FPV).
+11.  
+Skupina ljudi je najmanj 12 oseb, ki se zberejo zaradi izvajanja
+kulturne, športne, zabavne, izobraževalne, verske ali druge aktivnosti,
+izražanja mnenj ali zaradi uporabe javnih prostorov, kot so plaže, zabaviščni
+parki ipd.
+12.  
+Sistem brezpilotnega zrakoplova (UAS) je sistem za izvajanje letov z
+zrakoplovom brez pilota, ki je daljinsko krmiljen ali programiran in avtonomen.
+Sestavljen je iz brezpilotnega zrakoplova in drugih komponent za upravljanje
+ali programiranje, nujnih za upravljanje brezpilotnega zrakoplova s strani ene
+ali več oseb.
+13.  
+Sistem za prikaz pogleda iz zrakoplova (FPV) je sistem, ki z vgrajeno
+kamero in prikazovalnikom na tleh upravljavcu omogoča prikaz pogleda iz
+zrakoplova.
+14.  
+Upravljavec sistema brezpilotnega zrakoplova (v nadaljnjem besedilu:
+upravljavec) je oseba, ki upravlja sistem brezpilotnega zrakoplova in se v
+skladu z zakonom, ki ureja letalstvo, šteje kot vodja zrakoplova.
+15.  
+Vzletna operativna masa brezpilotnega zrakoplova je masa brezpilotnega
+zrakoplova v trenutku vzleta (TOM). Pri zrakoplovu, ki je lažji od zraka, se
+namesto operativne mase uporabi masa volumna zrakoplova oziroma vsota mase
+izpodrinjenega zraka in mase zrakoplova v pogojih mednarodne standardne
+atmosfere.
+16.  
+Zaprt nejavni prostor je prostor, ki je fizično ločen od drugih zaprtih
+prostorov in ni namenjen dejavnostim na področju zdravstva, otroškega varstva,
+vzgoje in izobraževanja, socialnega varstva, prometa, javnega prevoza,
+trgovine, gostinstva in turizma, športa in rekreacije ter kulture
+(npr. čakalnice, sejne sobe, kinodvorane, gledališča, zdravstveni, vzgojno
+varstveni, izobraževalni, socialni zavodi, gostinski prostori in trgovine,
+športne dvorane, javna prometna sredstva, dvigala, kabinske žičnice, javna
+stranišča in drugi prostori, kjer so lahko ljudje proti svoji volji
+izpostavljeni brezpilotnemu zrakoplovu).
+3. člen
+(klasifikacija brezpilotnih zrakoplovov, s katerimi se
+izvajajo letalske dejavnosti)
+Brezpilotni zrakoplovi, s katerimi se izvajajo letalske
+dejavnosti, se glede na operativno maso delijo na:
+-       
+razred 5: do vključno 5 kilogramov;
+-       
+razred 25: nad 5 do vključno 25 kilogramov;
+-       
+razred 150: nad 25 do 150 kilogramov.
+4. člen
+(klasifikacija področja letenja)
+Glede na izgradnjo, naseljenost in prisotnost ljudi so
+področja letenja razdeljena v naslednje razrede:
+-       
+razred I je področje, kjer ni objektov in ljudi, razen upravljavcev
+in osebja, ki je potrebno za letenje;
+-       
+razred II je področje, kjer so pomožni objekti ali objekti, ki niso
+namenjeni bivanju ljudi in kjer ni ljudi, razen upravljavcev in osebja, ki je
+potrebno za letenje, in kjer je dovoljen le občasni prehod brez zadrževanja
+ljudi na tem področju (npr. kolesarji, sprehajalci);
+-       
+razred III je področje, na katerem so objekti, namenjeni za
+stanovanje, za poslovanje ali rekreacijo (npr. stanovanjske zgradbe,
+stanovanjske hiše, šole, pisarne, športni objekti, parki), ali na katerem so
+objekti nizke gradnje, kjer so ljudje (npr. avtoceste);
+-       
+razred IV je področje ožjih urbanih con (npr. središča mest,
+naselja, kraji).
+5. člen
+(kategorizacija izvajanja letalskih dejavnosti)
+(1) Kategorija izvajanja letalskih dejavnosti je
+določena s stopnjo tveganja, ki jo letalska dejavnost predstavlja za okolico v
+skladu s Prilogo 1, ki je sestavni del te uredbe.
+(2) Ne glede na prejšnji odstavek se letenje nad skupino
+ljudi ali industrijskim področjem, kjer v primeru padca brezpilotnega
+zrakoplova obstaja možnost vžiga ali eksplozije, ter izvajanje letalskih
+dejavnosti v sistemu za prikaz pogleda iz zrakoplova (FPV) štejeta za izvajanje
+letalskih dejavnosti kategorije D.
+6. člen
+(letenje z letalskim modelom)
+Letenje z letalskim modelom je dovoljeno na področjih letenja
+razreda I in II.
+7. člen
+(obvezno zavarovanje)
+Operater, lastnik sistema brezpilotnega zrakoplova ali
+lastnik letalskega modela morajo skleniti zavarovanje za sistem brezpilotnega
+zrakoplova v skladu s predpisom, ki ureja obvezna zavarovanja v prometu.
+8. člen
+(uporaba radiofrekvenčnega spektra)
+(1) Operater in lastnik letalskega modela morata
+pridobiti dovoljenje za uporabo radiofrekvenčnega spektra na podlagi zakona, ki
+ureja elektronske komunikacije, in v skladu s tehničnimi omejitvami, navedenimi
+v načrtu uporabe radijskih frekvenc.
+(2) Upravljavci si izmenjujejo informacije o rabi
+frekvenčnega spektra.
+9. člen
+(identifikacija brezpilotnega zrakoplova)
+(1) Brezpilotni zrakoplov z operativno maso, ki presega
+5 kilogramov, mora imeti pritrjeno negorljivo identifikacijsko ploščico.
+(2) Brezpilotni zrakoplov z operativno maso
+5 kilogramov ali manj mora imeti pritrjeno identifikacijsko nalepko.
+(3) Brezpilotni zrakoplov, ki se uporablja za izvajanje
+letalskih dejavnosti, označi operater, letalski model pa njegov lastnik.
+(4) Negorljiva identifikacijska ploščica in nalepka
+vsebujeta naslednje podatke:
+-       
+identifikacijsko oznako;
+-       
+navedbo operaterja oziroma lastnika letalskega modela;
+-       
+naslov in kontaktne podatke operaterja oziroma lastnika letalskega
+modela;
+-       
+operativno maso brezpilotnega zrakoplova oziroma letalskega modela.
+(5) Identifikacijsko oznako iz prve alineje prejšnjega
+odstavka določita operater brezpilotnega zrakoplova, ki se uporablja za
+izvajanje letalskih dejavnosti kategorij A, B in C, ter lastnik letalskega
+modela tako, da se identifikacijska oznaka ne sme začeti z veliko črko »D«.
+Identifikacijsko oznako za brezpilotni zrakoplov, namenjeno izvajanju letalskih
+dejavnosti kategorije D, dodeli agencija.
+(6) Negorljiva identifikacijska ploščica in nalepka sta
+ustrezne velikosti, ki omogoča jasno identifikacijo in je trajno pritrjena.
+(7) Operater ali lastnik letalskega modela zamenjata
+negorljivo identifikacijsko ploščico ali nalepko ob spremembi podatkov iz
+četrtega odstavka tega člena ali v primeru poškodbe, zaradi katere je
+neprepoznavna, ali v primeru izgube.
+10. člen
+(veljavnost predpisov)
+Letenje brezpilotnega zrakoplova se izvaja v skladu z
+veljavnimi predpisi, ki urejajo pravila letenja, in z določbami te uredbe.
+11. člen
+(naloge upravljavca v zvezi s pravili letenja)
+(1) Upravljavec zagotovi, da se let brezpilotnega
+zrakoplova izvaja na način, ki ne pomeni nevarnosti za življenje, zdravje ali
+premoženje ljudi zaradi udarca ali izgube nadzora nad sistemom brezpilotnega
+zrakoplova ter ki ne ogroža ali moti varnosti v zračnem prometu, javnega reda
+in miru.
+(2) Upravljavec:
+a)    
+zagotovi, da se let brezpilotnega zrakoplova odvija podnevi, ponoči pa s
+predhodnim dovoljenjem agencije, če za to obstaja utemeljena operativna
+potreba;
+b)    
+pred letom preveri pravilno delovanje sistema brezpilotnega zrakoplova;
+c)    
+pridobi vse potrebne informacije za načrtovani let ter preveri, ali
+meteorološke in druge razmere v območju letenja zagotavljajo njegovo varno
+izvedbo;
+č)    zagotovi, da je vsa oprema ali tovor na brezpilotnem zrakoplovu
+pritrjen tako, da ne more odpasti;
+d)    
+zagotovi, da se brezpilotni zrakoplov med vzletanjem ali pristajanjem
+varno izogne vsem oviram v zraku in na tleh;
+e)    
+med letom zagotovi varno razdaljo brezpilotnega zrakoplova od ljudi,
+živali, objektov, vozil, plovil, drugih zrakoplovov, cest, železniških prog,
+vodnih poti ali daljnovodov, ki ne sme biti manjša od 30 metrov;
+f)     
+zagotovi, da je minimalna oddaljenost brezpilotnega zrakoplova od
+skupine ljudi najmanj 150 metrov;
+g)    
+zagotovi, da se let brezpilotnega zrakoplova odvija v vidnem polju
+upravljavca in na oddaljenosti največ 500 metrov od upravljavca;
+h)    
+zagotovi, da se let brezpilotnega zrakoplova odvija zunaj kontroliranega
+zračnega prostora do višine 150 metrov, višje pa po predhodnem dovoljenju
+agencije za določeno in objavljeno področje letenja;
+i)      
+zagotovi, da se let brezpilotnega zrakoplova ne odvija v coni letališča
+(CTR) znotraj radija 5 kilometrov od referenčne točke letališča (ARP) in
+da se zunaj radija 5 kilometrov odvija največ do višine 50 metrov nad
+terenom, višje pa izključno s predhodnim dovoljenjem agencije za letalske
+prireditve in tekmovanja;
+j)      
+zagotovi, da se na letališčih, kjer ni zagotovljena služba zračnega
+prometa, let brezpilotnega zrakoplova odvija največ do višine horizontalne,
+bočne in priletno-vzletne omejitvene ravnine letališča, razen v primerih, ko so
+posebej predvideni postopki za letenje brezpilotnih zrakoplovov opredeljeni v
+navodilih obratovalca letališča za uporabo letališča. Letenje po tej točki je
+dovoljeno po predhodnem soglasju obratovalca letališča. Na vzletišču se let
+brezpilotnega zrakoplova lahko odvija ob soglasju obratovalca vzletišča znotraj
+radija 500 metrov od referenčne točke vzletišča;
+k)    
+zagotovi, da med letom iz brezpilotnega zrakoplova ne padajo predmeti,
+razen letalskega modela, ki lahko v zraku izpusti drug letalski model;
+l)      
+zagotovi, da se letenje ne izvaja na območju izvajanja državnih
+aktivnosti;
+m)   
+zagotovi, da imajo zrakoplovi s posadko vedno prednost pred
+brezpilotnimi zrakoplovi. Upravljavec sistema brezpilotnega zrakoplova ali pridruženi
+opazovalec, ko se izvaja letenje v sistemu za prikaz pogleda iz letala (FPV),
+opazujeta drug zračni promet. V primeru konflikta mora upravljavec sistema
+brezpilotnega zrakoplova nemudoma začeti manevre za zagotovitev ustreznega
+horizontalnega ali vertikalnega razdvajanja.
+(3) En upravljavec lahko hkrati upravlja en brezpilotni
+zrakoplov.
+(4) Upravljavec mora biti sposoben v vsakem trenutku
+prekiniti programiran in avtonomen let ter v celoti prevzeti kontrolo
+upravljanja nad brezpilotnim zrakoplovom. Upravljavec je dolžan skrbeti za
+svojo izurjenost tako, da lahko ustrezno ravna v izrednih razmerah.
+(5) Ne glede na točki e) in f) drugega
+odstavka tega člena se lahko izvajanje letalskih dejavnosti sistema
+brezpilotnih zrakoplovov oziroma letenje z letalskimi modeli izvaja tudi na
+manjših razdaljah od predpisanih, če operater oziroma lastnik letalskega modela
+predhodno pridobi dovoljenje agencije.
+(6) Ne glede na točko g) drugega odstavka tega
+člena se lahko izvajanje letalskih dejavnosti sistema brezpilotnih zrakoplovov
+oziroma letenje z letalskim modelom izvaja tudi na večjih razdaljah od
+predpisanih in zunaj vidnega polja upravljavca, če operater oziroma lastnik
+letalskega modela predhodno pridobi dovoljenje agencije.
+(7) Ne glede na točko k) drugega odstavka tega
+člena se lahko izvajanje letalskih dejavnosti sistema brezpilotnih zrakoplovov
+oziroma letenje z letalskim modelom z namenom odmetavanja predmetov v letu
+izvaja, če operater oziroma lastnik letalskega modela predhodno pridobi
+dovoljenje agencije.
+12. člen
+(letenje z uporabo sistema za prikaz pogleda iz zrakoplova
+(FPV))
+(1) Letenje v sistemu za prikaz pogleda iz zrakoplova
+(FPV) se lahko izvaja z letalskim modelom ali pri izvajanju letalskih
+dejavnosti v skladu z operativnim priročnikom iz 16. člena te uredbe, kjer
+se opredelijo dodatni pogoji glede oddaljenosti in vizualnega kontakta
+pridruženega opazovalca z brezpilotnim zrakoplovom.
+(2) Upravljavec izvaja lete samo v spremstvu
+pridruženega opazovalca.
+(3) Upravljavec pridruženega opazovalca seznani s
+podrobnostmi načrtovanega leta, zlasti z višino in načrtovano zračno potjo.
+(4) Pridruženi opazovalec ves čas leta vzdržuje
+neprekinjen vizualni stik z brezpilotnim zrakoplovom in opozarja upravljavca na
+vsa odstopanja od načrtovanega leta in možne kršitve minimalne razdalje ter ga
+obvešča o drugih zadevah, pomembnih za varno izvajanje leta.
+(5) Pridruženi opazovalec in upravljavec morata biti med
+letom na razdalji, ki omogoča nemoteno glasovno sporazumevanje brez tehničnih
+pripomočkov.
+(6) Ne glede na drugi odstavek tega člena pri letenju v
+sistemu za prikaz pogleda iz zrakoplova (FPV) znotraj radija 200 metrov do
+višine 50 metrov in maso brezpilotnega zrakoplova do 5 kilogramov v
+območju razreda I:
+-       
+je v primeru športnih aktivnosti (npr. tekmovanja, treningi), kadar
+je na območju več upravljavcev s sistemom za prikaz pogleda iz zrakoplova (FPV)
+hkrati, lahko pridruženi opazovalec le eden;
+-       
+lahko upravljavec s sistemom za prikaz pogleda iz zrakoplova (FPV) leti
+tudi sam, če ima že vsaj 5 ur izkušenj z letenjem v sistemu za prikaz
+pogleda iz zrakoplova (FPV) s pridruženim opazovalcem na poznanem terenu.
+13. člen
+(izvajanje letalskih dejavnosti)
+(1) Operater pri izvajanju letalske dejavnosti
+kategorije A in B pred začetkom izvajanja letalske dejavnosti agenciji predloži
+izjavo iz 18. člena te uredbe. Agencija na podlagi prejete izjave izda
+potrdilo, na podlagi katerega operater začne izvajati letalske dejavnosti.
+(2) Operater pri izvajanju letalske dejavnosti
+kategorije C pred začetkom izvajanja dejavnosti izdela operativni
+priročnik in agenciji predloži izjavo iz 18. člena te uredbe. Agencija na
+podlagi prejete izjave izda potrdilo, na podlagi katerega operater začne
+izvajati letalske dejavnosti.
+(3) Operater mora pred začetkom izvajanja letalske dejavnosti
+kategorije D pridobiti dovoljenje agencije iz 19. člena te uredbe.
+(4) Za izvajanje letalske dejavnosti se ne šteje, če se
+dejavnost opravlja za lastne nekomercialne namene z letalskim modelom
+operativne mase do 25 kilogramov po omejitvah, ki veljajo za letalske
+modele.
+14. člen
+(način izvajanja letalskih dejavnosti)
+(1) Upravljavec izvaja letalske dejavnosti v skladu z
+veljavno zakonodajo in določbami letalskega priročnika ali navodili
+proizvajalca za uporabo.
+(2) Operater mora pri izvajanju letalskih dejavnosti za
+nameravano kategorijo izvajanja letalskih dejavnosti izpolnjevati operativne in
+tehnične zahteve iz Priloge 4, ki je sestavni del te uredbe.
+(3) Operater sistema brezpilotnega zrakoplova, ki se
+uporablja za izvajanje letalskih dejavnosti v kategoriji D in katerega
+operativna masa je nad 25 kilogramov, ali operater sistema brezpilotnega
+zrakoplova, ki se uporablja za izvajanje letalskih dejavnosti in katerega
+operativna masa je nad 40 kilogramov, ne glede na kategorijo, mora poleg
+zahtev iz prejšnjega odstavka imeti atest v skladu s 15. členom Pravilnika
+o ultralahkih letalnih napravah (Uradni list RS, št. 49/16).
+15. člen
+(naloge operaterja)
+(1) Operater imenuje osebo, ki je odgovorna za
+aktivnosti operaterja.
+(2) Operater pred izvajanjem letalskih dejavnosti o
+nameravani letalski dejavnosti obvesti agencijo.
+(3) Operater vzpostavi sistem poročanja o dogodkih,
+povezanih z varnostjo v zračnem prometu, v skladu z veljavno zakonodajo.
+(4) Operater vzpostavi sistem vodenja in hrambe zapisov
+o letu, ki vsebujejo vsaj naslednje podatke:
+a)    
+datum leta;
+b)    
+čas začetka in konca izvajanja letalskih dejavnosti ter trajanje leta;
+c)    
+ime in priimek upravljavca, ki je opravil let;
+č)    lokacijo izvajanja letalskih dejavnosti;
+d)    
+klasifikacijo področja letenja;
+e)    
+operativno maso brezpilotnega zrakoplova;
+f)     
+opombe o dogodkih, za katere operater oceni, da so pomembni za izvajanje
+letalskih dejavnosti.
+(5) Operater hrani zapise o letu najmanj dve leti od
+datuma izvedbe leta.
+(6) Operater pred izvajanjem letalskih dejavnosti kategorije C
+ali D oceni potrebo in v nujnih primerih opravi aktivnosti, povezane z
+upravljanjem tveganj.
+(7) Upravljanje tveganj mora vključevati identifikacijo
+nevarnosti, oceno tveganja, po potrebi pa tudi ukrepe za zmanjšanje tveganj na
+sprejemljivo raven.
+(8) Opravljeni postopek upravljanja tveganj operater
+dokumentira na obrazcu iz Priloge 3, ki je sestavni del te uredbe.
+(9) Operater hrani zapise o upravljanju tveganj najmanj
+dve leti od datuma prenehanja izvajanja letalskih dejavnosti, na katere se
+nanašajo.
+(10) Zaradi zagotavljanja varnosti upravljavcev in
+pridruženih opazovalcev morata biti na dosegu gasilni aparat in avtomobilska
+prva pomoč, upravljavci in pridruženi opazovalci pa morajo nositi varnostni
+telovnik žive barve ves čas delovanja ter zavarovati področje izvajanja
+dejavnosti z ustreznimi napisi.
+(11) Operater mora biti sposoben v vsakem trenutku
+prekiniti programiran in avtonomen let ter v celoti prevzeti kontrolo
+upravljanja nad brezpilotnim zrakoplovom.
+16. člen
+(operativni priročnik)
+(1) Za izvajanje letalske dejavnosti kategorije C
+in D mora operater izdelati operativni priročnik, ki vsebuje:
+a)    
+vsebino;
+b)    
+številko spremembe operativnega priročnika in seznam veljavnih strani;
+c)    
+naloge osebja, vključenega v aktivnosti operaterja;
+č)    standardne operativne postopke;
+d)    
+vzdrževanje sistema brezpilotnega zrakoplova;
+e)    
+postopke v sili;
+f)     
+postopke v primeru nesreč ali resnih incidentov;
+g)    
+kontrolne liste za kritične faze leta;
+h)    
+omejitve izvajanja letalskih dejavnosti;
+i)      
+obveščanje;
+j)      
+upravljanje tveganj;
+k)    
+usposobljenost izvajalca;
+l)      
+vrste in roke za hranjenje zapisov.
+(2) Operater je dolžan ravnati v skladu z operativnim
+priročnikom ter zagotoviti, da je operativni priročnik stalno usklajen z
+veljavnimi predpisi in sprejemljivimi načini skladnosti, ki jih predpiše
+agencija, ter z določbami letalskega priročnika ali navodil proizvajalca za
+uporabo.
+(3) Operater zagotovi, da ima osebje dostop do operativnega
+priročnika.
+(4) Osebje operaterja pozna tiste dele priročnika, ki se
+nanašajo na njihove naloge.
+17. člen
+(analiza okvar in njihov vpliv)
+(1) Operater opravi analizo okvar pomembnejših komponent
+oziroma funkcij sistema brezpilotnega zrakoplova v skladu z zahtevami iz
+Priloge 5 te uredbe.
+(2) Operater opravi analizo okvar pomembnih komponent
+oziroma funkcij sistema brezpilotnega zrakoplova, ki pokaže, ali bo posamezna
+njihova okvara povzročila prenehanje delovanja.
+(3) Operater s preizkušanjem preveri delovanje sistema
+brezpilotnega zrakoplova v primeru posamezne okvare ter preveri, ali so
+pomembni sistemi podvojeni in ali bo v primeru okvare samodejno ali po ukazu
+upravljavca začel delovati nadomestni sistem ter ali obstaja način delovanja v
+sili, s katerim se lahko nadomesti delovanje sistema ob okvari (npr. z
+ročnim upravljanjem).
+(4) Opravljena analiza okvar in njihovega vpliva ter
+konfiguracija sistema brezpilotnega zrakoplova, za katero je opravljena
+analiza, se dokumentira na obrazcu iz Priloge 5, ki je sestavni del te
+uredbe.
+(5) Ne glede na drugi odstavek tega člena operaterju ni
+treba s preverjanjem dokazovati delovanja sistema brezpilotnega zrakoplova v
+primeru posamezne okvare pomembne komponente oziroma funkcije sistema, če ima
+dokumentacijo proizvajalca, v kateri sta opredeljena okvara in njen vpliv.
+(6) Operater mora ob vsaki spremembi brezpilotnega
+zrakoplova, ki vpliva na delovanje pomembnih komponent oziroma funkcij sistema
+brezpilotnega zrakoplova, opraviti analizo okvar in njihovega vpliva na
+delovanje.
+(7) Operater hrani veljavno analizo okvar sistema
+brezpilotnega zrakoplova najmanj 6 mesecev po prenehanju izvajanja
+letalskih dejavnosti s tem sistemom brezpilotnega zrakoplova.
+18. člen
+(izjava operaterja)
+(1) Operater pred izvajanjem letalske dejavnosti izjavi,
+da je usposobljen ter da prevzema odgovornost glede izvajanja letalskih
+dejavnosti s sistemom brezpilotnih zrakoplovov, da sistem brezpilotnega
+zrakoplova, s katerimi namerava izvajati letalske dejavnosti, izpolnjuje veljavne
+tehnične zahteve, in da bo izvajal letalske dejavnosti v skladu z določbami te
+uredbe.
+(2) Izjava se predloži agenciji na obrazcu iz
+Priloge 2, ki je sestavni del te uredbe. Agencija na podlagi prejete
+izjave izda za izvajanje letalske dejavnosti kategorije A, B in C potrdilo
+oziroma za izvajanje letalske dejavnosti kategorije D dovoljenje, na
+podlagi katerega operater lahko začne izvajati letalske dejavnosti.
+(3) Operater skrbi za skladnost z veljavnimi zahtevami
+in podatki, vsebovanimi v izjavi, ter agencijo obvesti o spremembah, ki se
+nanašajo na dovoljenje za izvajanje letalskih dejavnosti, ter o trajnem
+prenehanju izvajanja letalske dejavnosti.
+19. člen
+(dovoljenje)
+(1) K vlogi za dovoljenje za izvajanje letalskih
+dejavnosti s sistemom brezpilotnega zrakoplova mora operater agenciji
+predložiti naslednje podatke:
+a)    
+ime in naslov vlagatelja zahteve;
+b)    
+opis nameravanih izvajanj letalskih dejavnosti;
+c)    
+število in vrste sistema brezpilotnih zrakoplovov, ki jih bo uporabil
+pri izvajanju letalskih dejavnosti v okviru zahtevanega dovoljenja;
+č)    dokazila o izpolnjevanju operativnih in tehničnih zahtev za
+izvajanje letalskih dejavnosti;
+d)    
+fotografije sistema brezpilotnih zrakoplovov, ki jih bo uporabil;
+e)    
+dokumentacijo o oceni tveganja nameravanih izvajanj letalskih dejavnosti;
+f)     
+operativni priročnik;
+g)    
+za pridobitev dovoljenja za izvajanje letalskih dejavnosti
+kategorije D izjavo iz 18. člena te uredbe.
+(2) Agencija določi način predložitve vloge za
+pridobitev dovoljenja za izvajanje letalskih dejavnosti s sistemi brezpilotnih
+zrakoplovov.
+(3) Za potrebe izdaje dovoljenja lahko agencija opravi
+nadzor operaterja in zahteva izvajanje demonstracijskih letov.
+(4) Dovoljenja iz točke a) drugega odstavka ter
+petega, šestega in sedmega odstavka 11. člena te uredbe se izdajo v
+primeru utemeljene operativne potrebe in za obdobje, ki ga agencija šteje kot
+ustreznega, ob upoštevanju ravni ocenjenega tveganja, ki ga postopki
+predstavljajo za območje, na katerem se izvajajo.
+(5) Operater mora pred izvajanjem letalskih dejavnosti
+izvesti oceno učinkov v zvezi z varstvom osebnih podatkov, in sicer na obrazcu
+iz Priloge 6, ki je sestavni del te uredbe. Izpolnjeni obrazec iz
+Priloge 6 in kopijo izpolnjenega obrazca iz Priloge 2 k tej uredbi
+operater posreduje Informacijskemu pooblaščencu.
+20. člen
+(obvezna dokumentacija pri izvajanju letalskih dejavnosti)
+(1) Upravljavec mora pri izvajanju letalskih dejavnosti
+imeti pri sebi:
+a)    
+letalski priročnik ali navodila proizvajalca za uporabo sistema
+brezpilotnega zrakoplova;
+b)    
+izvirnik ali overjeno kopijo dovoljenja za izvajanje letalskih
+dejavnosti, kadar je zahtevano;
+c)    
+zavarovalno polico, kadar je predpisano.
+(2) Za kategorije izvajanja letalskih dejavnosti A
+in B mora upravljavec poleg dokumentov iz prejšnjega odstavka imeti še dokazilo
+o poznavanju veljavnih predpisov na področju letalstva, o psihofizični
+sposobnosti in usposobljenosti za upravljanje tega tipa oziroma modela sistema
+brezpilotnega zrakoplova v skladu s Prilogo 4 k tej uredbi.
+(3) Za kategorije izvajanja letalskih dejavnosti C
+in D mora upravljavec poleg dokumentov iz prvega odstavka tega člena imeti še:
+-       
+operativni priročnik;
+-       
+dokaz o usposobljenosti upravljavca oziroma pridruženega opazovalca za
+upravljanje sistema v skladu s Prilogo 4 k tej uredbi;
+-       
+potrdilo o opravljenem izpitu iz poznavanja pravil letenja, ki ga izda
+agencija, pri čemer agencija imetnikom pilotskih licenc lahko prizna posamezne
+vsebine;
+-       
+dokaz o psihofizični sposobnosti za upravljanje sistema brezpilotnega
+zrakoplova v skladu s Prilogo 4 k tej uredbi.
+21. člen
+(nadzor)
+(1) Nadzor nad izvajanjem te uredbe opravlja agencija.
+(2) Ne glede na prejšnji odstavek nadzor nad izvajanjem
+petega odstavka 19. člena izvaja Informacijski pooblaščenec.
+22. člen
+(prekrški v zvezi z letenjem letalskih modelov)
+(1) Z globo od 200 do 800 eurov se kaznuje
+posameznik, ki je lastnik letalskega modela, če izvaja lete v nasprotju s
+6. členom te uredbe.
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+lastnik letalskega modela, ki je pravna oseba, če izvaja lete v nasprotju s
+6. členom te uredbe.
+23. člen
+(prekrški v zvezi z zavarovanjem)
+(1) Z globo od 100 do 600 eurov se kaznuje
+posameznik, ki je operater, lastnik sistema brezpilotnega zrakoplova ali
+lastnik letalskega modela, če nima sklenjenega zavarovanja v skladu s
+7. členom te uredbe.
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+operater, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje
+samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka tega
+člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje tudi
+odgovorna oseba pravne osebe in samostojnega podjetnika posameznika, če stori
+prekršek iz prvega odstavka tega člena.
+24. člen
+(prekrški v zvezi z identifikacijo)
+(1) Z globo od 100 do 600 eurov se kaznuje
+posameznik, ki je operater ali lastnik letalskega modela, če ne označi
+brezpilotnega zrakoplova v skladu z 9. členom te uredbe.
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+operater, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje
+samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka tega
+člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje tudi
+odgovorna oseba pravne osebe in samostojnega podjetnika posameznika, če stori
+prekršek iz prvega odstavka tega člena.
+25. člen
+(prekrški v zvezi s pravili letenja)
+(1) Z globo od 200 do 800 eurov se kaznuje
+posameznik, ki je upravljavec, če v nasprotju z 11. členom te uredbe:
+a)    
+ne zagotovi, da se let brezpilotnega zrakoplova izvaja na način, ki ne
+pomeni nevarnosti za življenje, zdravje ali premoženje ljudi zaradi udarca ali
+izgube nadzora nad sistemom brezpilotnega zrakoplova, ter ne ogroža ali moti
+varnosti v zračnem prometu, javnega reda in miru (prvi odstavek
+11. člena);
+b)    
+ne zagotovi, da se let brezpilotnega zrakoplova odvija podnevi, ponoči
+pa s predhodnim dovoljenjem agencije, če zato obstaja utemeljena operativna
+potreba (točka a) drugega odstavka 11. člena);
+c)    
+pred letom ne preveri pravilnega delovanja sistema brezpilotnega
+zrakoplova (točka b) drugega odstavka 11. člena);
+č)    ne pridobi vseh potrebnih informacij za načrtovani let in ne
+preveri, ali meteorološke in druge razmere v območju letenja zagotavljajo
+njegovo varno izvedbo (točka c) drugega odstavka 11. člena);
+d)    
+ne zagotovi, da je vsa oprema ali tovor na brezpilotnem zrakoplovu
+pritrjen tako, da ne more odpasti (točka č) drugega odstavka
+11. člena);
+e)    
+ne zagotovi, da se brezpilotni zrakoplov med vzletanjem ali pristajanjem
+varno izogne vsem oviram v zraku in na tleh (točka d) drugega odstavka
+11. člena);
+f)     
+med letom ne zagotovi varne razdalje brezpilotnega zrakoplova od ljudi,
+živali, objektov, vozil, plovil, drugih zrakoplovov, cest, železniških prog,
+vodnih poti ali daljnovodov, ki ne sme biti manjša od 30 metrov
+(točka e) drugega odstavka 11. člena);
+g)    
+ne zagotovi, da je minimalna oddaljenost brezpilotnega zrakoplova od
+skupine ljudi najmanj 150 metrov (točka f) drugega odstavka
+11. člena);
+h)    
+ne zagotovi, da se let brezpilotnega zrakoplova odvija v vidnem polju
+upravljavca in na oddaljenosti največ 500 metrov od upravljavca (točka g)
+drugega odstavka 11. člena);
+i)      
+ne zagotovi, da se let brezpilotnega zrakoplova odvija zunaj
+kontroliranega zračnega prostora do višine 150 metrov, višje pa po
+predhodnem dovoljenju agencije za določeno in objavljeno področje letenja
+(točka h) drugega odstavka 11. člena);
+j)      
+ne zagotovi, da se let brezpilotnega zrakoplova ne odvija v coni
+letališča (CTR) znotraj radija 5 kilometrov od referenčne točke letališča
+(ARP) in da se zunaj radija 5 kilometrov odvija največ do višine
+50 metrov nad terenom, višje pa izključno s predhodnim dovoljenjem
+agencije za letalske prireditve in tekmovanja (točka i) drugega odstavka
+11. člena);
+k)    
+ne zagotovi, da se na letališčih, kjer ni zagotovljena služba zračnega
+prometa, let brezpilotnega zrakoplova odvija največ do višine horizontalne,
+bočne in priletno-vzletne omejitvene ravnine letališča, razen v primerih, ko so
+posebej predvideni postopki za letenje brezpilotnih zrakoplovov opredeljeni v
+navodilih obratovalca letališča za uporabo letališča, ter po predhodnem
+soglasju obratovalca letališča, ali če ne zagotovi, da se na vzletišču let
+brezpilotnega zrakoplova odvija ob soglasju obratovalca vzletišča znotraj
+radija 500 metrov od referenčne točke vzletišča (točka j) drugega
+odstavka 11. člena);
+l)      
+ne zagotovi, da med letom iz brezpilotnega zrakoplova ne padajo
+predmeti, razen letalskega modela, ki lahko v zraku izpusti drug letalski model
+(točka k) drugega odstavka 11. člena);
+m)   
+ne zagotovi, da se letenje ne izvaja na območju izvajanja državnih
+aktivnosti (točka l) drugega odstavka 11. člena);
+n)    
+ne zagotovi, da imajo zrakoplovi s posadko vedno prednost pred
+brezpilotnimi zrakoplovi, ter v primeru konflikta ne začne nemudoma z manevri
+za zagotovitev ustreznega horizontalnega ali vertikalnega razdvajanja
+(točka m) drugega odstavka 11. člena);
+o)    
+hkrati upravlja več brezpilotnih zrakoplovov (tretji odstavek
+11. člena).
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+operater, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje za
+prekršek samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka
+tega člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje za
+prekršek tudi odgovorna oseba pravne osebe in samostojnega podjetnika
+posameznika, če stori prekršek iz prvega odstavka tega člena.
+26. člen
+(prekrški v zvezi s sistemom za prikaz pogleda iz zrakoplova
+(FPV))
+(1) Z globo od 200 do 800 eurov se kaznuje
+posameznik, ki je upravljavec ali pridruženi opazovalec, če sistem za prikaz
+pogleda iz zrakoplova (FPV) uporablja v nasprotju z 12. členom te uredbe.
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+operater, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje
+samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka tega
+člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje tudi
+odgovorna oseba pravne osebe in samostojnega podjetnika posameznika, če stori
+prekršek iz prvega odstavka tega člena.
+27. člen
+(prekrški v zvezi z opravljanjem letalske dejavnosti)
+(1) Z globo od 200 do 800 eurov se kaznuje
+posameznik, ki je operater, če izvaja letalsko dejavnost v nasprotju s 13. ali
+14. členom te uredbe.
+(2) Z globo od 800 do 2.000 eurov se kaznuje
+upravljavec, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje
+samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka tega
+člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje tudi
+odgovorna oseba pravne osebe in samostojnega podjetnika posameznika, če stori
+prekršek iz prvega odstavka tega člena.
+28. člen
+(prekrški v zvezi z nalogami operaterja)
+(1) Z globo od 150 do 600 eurov se kaznuje za
+prekršek posameznik, ki je operater, če v nasprotju s 15. členom te
+uredbe:
+-       
+ne imenuje osebe, ki je odgovorna za aktivnosti operaterja;
+-       
+o nameravani letalski dejavnosti ne obvesti agencije;
+-       
+ne vzpostavi sistema poročanja o dogodkih, povezanih z varnostjo;
+-       
+ne vzpostavi sistema vodenja in hrambe zapisov ali
+-       
+ne zagotavlja varnosti upravljavcev in pridruženih opazovalcev.
+(2) Z globo od 800 do 2.000 eurov se kaznuje za
+prekršek operater, ki je pravna oseba, če stori prekršek iz prejšnjega
+odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje za
+prekršek samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka
+tega člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje za
+prekršek tudi odgovorna oseba pravne osebe in samostojnega podjetnika
+posameznika, če stori prekršek iz prvega odstavka tega člena.
+29. člen
+(prekrški v zvezi s posredovanjem dokumentacije
+Informacijskemu pooblaščencu)
+(1) Z globo od 200 do 800 eurov se kaznuje za
+prekršek posameznik, ki je operater, če v nasprotju z 19. členom te uredbe
+Informacijskemu pooblaščencu ne posreduje izpolnjenih obrazcev iz petega
+odstavka 19. člena.
+(2) Z globo od 800 do 2.000 eurov se kaznuje za
+prekršek operater, ki je pravna oseba, če stori prekršek iz prejšnjega
+odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje za
+prekršek samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka
+tega člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje za
+prekršek tudi odgovorna oseba pravne osebe in samostojnega podjetnika
+posameznika, če stori prekršek iz prvega odstavka tega člena.
+30. člen
+(prekrški v zvezi s posedovanjem dokumentov)
+(1) Z globo od 150 do 600 eurov se kaznuje posameznik,
+ki je upravljavec, če pri izvajanju letalskih dejavnosti nima pri sebi
+dokumentov v skladu z 20. členom te uredbe.
+(2) Z globo od 500 do 1.500 eurov se kaznuje
+operater, ki je pravna oseba, če stori prekršek iz prejšnjega odstavka.
+(3) Z globo od 400 do 1.200 eurov se kaznuje
+samostojni podjetnik posameznik, če stori prekršek iz prvega odstavka tega
+člena.
+(4) Z globo od 300 do 1.200 eurov se kaznuje tudi
+odgovorna oseba pravne osebe in samostojnega podjetnika posameznika, če stori
+prekršek iz prvega odstavka tega člena.
+31. člen
+(prenehanje veljavnosti in uporabe)
+(1) Z dnem uveljavitve te uredbe se preneha uporabljati
+174. člen Pravilnika o letenju letal (Uradni list SFRJ, št. 10/79 in
+4/83, Uradni list RS, št. 18/01 – ZLet, 72/03, 51/07 in 17/15).
+(2) Z dnem uveljavitve te uredbe prenehajo veljati
+2. točka 2. člena, tretji odstavek 3. člena in 2. točka
+drugega odstavka 14. člena Pravilnika o oznaki državne pripadnosti,
+registrskih in drugih oznakah na civilnih zrakoplovih (Uradni list RS,
+št. 88/14, 12/15 in 90/15).
+(3) Z dnem uveljavitve te uredbe prenehata veljati
+7. točka drugega odstavka in 4. točka tretjega odstavka 3. člena
+Pravilnika o ultralahkih letalnih napravah (Uradni list RS, št. 49/16).
+32. člen
+(začetek veljavnosti)
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 00710-20/2016
+Ljubljana, dne 28. julija 2016
+EVA 2016-2430-0045
+Vlada Republike Slovenije
+dr. Miroslav Cerar l.r.
+Predsednik
+
+Priloga 1:
+Kategorije izvajanja letalskih dejavnosti
+Priloga 2: Obrazec
+izjave za opravljanje letalskih dejavnosti s sistemi brezpilotnih zrakoplovov
+Priloga 3: Dnevnik
+tveganj za izvajanje letalskih dejavnosti
+Priloga 4:
+Operativne zahteve za izvajanje letalskih dejavnosti
+Priloga 5: Obrazec
+analize okvar in njihovega vpliva (Failure Mode and Effects Analysis – FMEA)
+sistema brezpilotnega zrakoplova za izvajanje letalskih dejavnosti kategorije
+tveganja C in D
+Priloga 6: Obrazec
+ocene učinkov v zvezi z varstvom osebnih podatkov

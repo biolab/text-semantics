@@ -1,0 +1,557 @@
+I. SPLOŠNI DOLOČBI
+1. člen
+(vsebina)
+(1) Ta pravilnik določa meroslovne in
+tehnične zahteve, ki jih mora izpolnjevati merilni sistem za stisnjena plinasta
+goriva za vozila (v nadaljnjem besedilu: merilni sistem), način njihovega
+označevanja ter postopke ugotavljanja skladnosti in overitev.
+(2) Ta pravilnik se izda ob
+upoštevanju postopka informiranja v skladu z Direktivo 98/34/ES Evropskega
+parlamenta in Sveta z dne 22. junija 1998 o določitvi postopka za zbiranje
+informacij na področju tehničnih standardov in tehničnih predpisov (UL L št.
+204 z dne 21. 7. 1998, str. 37), zadnjič spremenjeno z Uredbo (EU) št.
+1025/2012 Evropskega parlamenta in Sveta z dne 25. oktobra 2012 o evropski
+standardizaciji, spremembi direktiv Sveta 89/686/EGS in 93/15/EGS ter direktiv
+94/9/ES, 94/25/ES, 95/16/ES, 97/23/ES, 98/34/ES, 2004/22/ES, 2007/23/ES,
+2009/23/ES in 2009/105/ES Evropskega parlamenta in Sveta ter razveljavitvi
+Sklepa Sveta 87/95/EGS in Sklepa št. 1673/2006/ES Evropskega parlamenta in
+Sveta (UL L št. 316 z dne 14. 11. 2012, str. 12).
+2. člen
+(uporabljeni izrazi in simboli)
+V tem pravilniku uporabljeni izrazi in
+simboli imajo naslednji pomen:
+-       
+»merilni sistem« je sistem, ki vključuje merilnik in vse naprave,
+potrebne za zagotovitev pravilnega merjenja ali omogočanja lažjih merilnih
+postopkov;
+-       
+»merilnik« je instrument za stalno merjenje in prikaz skupne količine
+plina, ki se pretaka skozi merilni pretvornik v danih pogojih merjenja;
+-       
+»točka prenosa« je določena točka v merilnem sistemu, pri kateri se plin
+dobavlja;
+-       
+»NDP« je največji dopustni pogrešek;
+-       
+»NKM« je najmanjša količina merjenja, to je najmanjša sešteta masa pri
+enem polnjenju, pri kateri so še izpolnjene meroslovne zahteve za določen
+merilni sistem;
+-       
+»Emin« je absolutna vrednost NDP pri NKM merilnega sistema;
+-       
+»Qmin« je najmanjši pretok plina;
+-       
+»Qmax« je največji pretok plina.
+II. MEROSLOVNE IN TEHNIČNE ZAHTEVE
+3. člen
+(splošna načela)
+(1) Merilni sistem mora zagotavljati
+visoko raven meroslovne zaščite, da bi lahko vsakdo, ki ga merjenje zadeva,
+zaupal rezultatom meritev, ter mora biti zasnovan in proizveden na visoki
+kakovostni ravni merilne tehnologije in varovanja merilnih podatkov.
+(2) Rešitve, ki se sprejmejo zaradi
+izpolnjevanja zahtev tega pravilnika, morajo upoštevati predvideno uporabo merilnega
+sistema in vse predvidljive zlorabe merilnega sistema.
+(3) Merilni sistem mora biti zasnovan
+tako, da je mogoče izvesti vsak pregled in preskus, ki je predpisan s tem
+pravilnikom.
+4. člen
+(NDP)
+(1) V okviru naznačenih obratovalnih
+pogojev in v odsotnosti motenj merilni pogrešek pri postopkih ugotavljanja
+skladnosti in overitvah ne sme presegati NDP. Če ni drugače določeno, se NDP
+izrazi kot dvostranska vrednost odmika od referenčne vrednosti izmerjene
+količine.
+(2) Velikost NDP je ne glede na
+izmerjeno količino dana z večjo od naslednjih dveh vrednosti:
+-       
+za merilnik: 1 % izmerjene količine ali Emin,
+-       
+za merilni sistem: 1,5 % izmerjene količine ali Emin.
+Emin je enak 2 x NKM x 1 % za
+merilnik in 2 x NKM x 1,5 % za merilni sistem.
+(3) Merilni sistem ne sme izkoriščati
+NDP ali sistematično dajati prednosti kateri koli stranki.
+5. člen
+(pomembnejša napaka)
+(1) Pomembnejša napaka za merjeno maso
+je napaka, katere vrednost presega večjo od spodnjih vrednosti:
+-       
+eno desetino NDP pri ugotavljanju skladnosti za merilni sistem za
+merjeno maso ali
+-       
+Emin.
+(2) Pomembnejša napaka za znesek za
+plačilo je napaka pri prikazanem ali natisnjenem znesku in je po vrednosti
+enaka pomembnejši napaki za merjeno maso iz prejšnjega odstavka.
+(3) Pri prikazu cene na enoto napake
+niso dovoljene.
+6. člen
+(dopusten učinek motenj)
+V okviru naznačenih obratovalnih pogojev in
+v prisotnosti motenj iz 7. člena tega pravilnika sme biti učinek motenj na
+merilni sistem tak, da:
+-       
+do pomembnejše napake ne pride ali
+-       
+merilni sistem pomembnejše napake odkrije in ustrezno obravnava preko
+kontrolnih pripomočkov.
+7. člen
+(naznačeni obratovalni pogoji)
+(1) Proizvajalec mora določiti
+klimatska, mehanska in elektromagnetna okolja, v katerih naj bi se merilni
+sistem uporabljal, oskrbo z električno energijo in druge vplivne veličine, ki
+lahko vplivajo na njegovo točnost, upoštevajoč zahteve iz tega pravilnika.
+(2) Proizvajalec mora določiti
+naslednje naznačene vrednosti za obratovalne pogoje:
+-       
+merilno območje pretoka, ki je omejeno z Qmin in Qmax.
+Razmerje med Qmax in Qmin mora biti najmanj 10:1;
+-       
+NKM v obliki 1 x 10n, 2 x 10n ali 5 x 10n kg, kjer je »n« pozitivno ali
+negativno celo število ali nič. Največja vrednost NKM je odvisna od Qmax v
+skladu z naslednjo tabelo:
+
+
+ 
+
+Qmax ≤ 4
+
+4 <Qmax ≤
+  12
+
+12 <Qmax ≤
+  30
+
+30 <Qmax ≤
+  70
+
+Qmax>
+  70
+
+kg/min
+
+
+NKM ≤
+
+0,5
+
+1
+
+2
+
+5
+
+10
+
+kg
+
+
+-       
+temperaturno območje okolice, ki mora biti najmanj v obsegu od –10 °C do
+40 °C,
+-       
+temperaturo plina,
+-       
+tlak plina,
+-       
+relativno vlažnost okolice, kjer se opredeli, ali je merilni sistem ali
+njegovi deli namenjen za uporabo v zaprtih, vremensko zaščiten lokacijah ali na
+odprtih lokacijah,
+-       
+vrednost (območja) napajalne napetosti,
+-       
+nivo naključnih tresljajev, kjer se opredeli ali gre za mobilni merilni
+sistem ali njegove dele.
+(3) V zvezi z elektromagnetnimi okolji
+je treba upoštevati naslednje vplivne veličine:
+-       
+prekinitve napetosti,
+-       
+kratkotrajne upade napetosti,
+-       
+napetostne prehodne pojave na napajalnih oziroma signalnih vodih,
+-       
+elektrostatične razelektritve,
+-       
+radiofrekvenčna elektromagnetna polja,
+-       
+inducirana radiofrekvenčna elektromagnetna polja na napajalnih oziroma
+signalnih vodih in
+-       
+napetostne udare na napajalnih vodih oziroma signalnih vodih.
+(4) V zvezi z elektromagnetnimi okolji
+je treba upoštevati, ali se merilni sistemi:
+-       
+uporabljajo na lokacijah z elektromagnetnimi motnjami, podobnimi tistim
+v stanovanjskih in poslovnih stavbah ter v objektih lahke industrije,
+-       
+uporabljajo na lokacijah z elektromagnetnimi motnjami, podobnimi tistim
+v drugih industrijskih objektih,
+-       
+napajajo iz akumulatorja vozila.
+(5) Pri merilnih sistemih, ki se
+napajajo iz akumulatorja vozila, je treba poleg zahtev za merilne sisteme, ki
+se uporabljajo na lokacijah z elektromagnetnimi motnjami, podobnimi tistim v
+drugih industrijskih objektih, upoštevati tudi:
+-       
+padce napetosti, ki jih povzroča napajanje zaganjalnikov motorjev z
+notranjim zgorevanjem,
+-       
+prehodne pojave ob izpadu bremena, ki se pojavijo, kadar se izpraznjeni
+akumulator odklopi pri delujočem motorju.
+8. člen
+(temeljna pravila za preskušanje in
+določanje pogreškov)
+(1) Skladnost z zahtevami iz 4. in 6.
+člena tega pravilnika je treba preveriti za vsako primerno vplivno veličino. Zahteve
+veljajo, kadar se uporabi vsaka posamezna vplivna veličina in se njen učinek
+ocenjuje ločeno ter se druge vplivne veličine ohranjajo relativno konstantne
+pri referenčnih vrednostih.
+(2) Meroslovni preskusi se izvajajo ob
+prisotnosti vplivne veličine ali po njej, pri čemer je treba upoštevati tiste
+razmere, ki ustrezajo običajnemu stanju delovanja merilnega sistema, ko se bo
+ta vplivna veličina verjetno pojavila.
+9. člen
+(obnovljivost)
+Uporaba iste merjene veličine na drugi
+lokaciji ali pri drugem uporabniku, pri čemer so vse druge razmere enake, mora
+v zaporednih meritvah dati zelo podobne rezultate. Razlika med merilnimi
+rezultati mora biti majhna v primerjavi z NDP.
+10. člen
+(ponovljivost)
+Za količine merjene veličine, ki so enake
+ali večje od 1000 razdelkov merilnika:
+-       
+pogrešek ponovljivosti merilnika ne sme presegati 0,6 %,
+-       
+pogrešek ponovljivosti merilnega sistema ne sme presegati 1 %.
+11. člen
+(odzivnost in občutljivost)
+Merilni sistem mora biti dovolj občutljiv
+in njegov prag odzivnosti mora biti dovolj nizek za predvideno merilno nalogo.
+12. člen
+(vzdržljivost)
+(1) Merilni sistem mora biti zasnovan
+tako, da v okoljskih pogojih, za katere je zasnovan, vzdržuje primerno
+stabilnost svojih meroslovnih lastnosti med obdobjem, ki ga določi
+proizvajalec, če je pravilno nameščen ter se vzdržuje in uporablja v skladu z
+navodili proizvajalca.
+(2) Po najmanj 100 urah delovanja
+merilnika pri pretoku 0,8 Qmax ne sme priti do pomembnejšega
+pogreška vzdržljivosti.
+(3) Pomembnejši pogrešek vzdržljivosti
+je enak ali večji od ± 1 % pogreška vzdržljivosti merjene količine.
+13. člen
+(zanesljivost)
+Merilni sistem mora biti zasnovan tako, da
+kolikor je mogoče zmanjša vpliv napake, ki bi povzročila netočen merilni
+rezultat.
+14. člen
+(primernost)
+(1) Merilni sistem mora biti primeren
+za predvideno uporabo, upoštevajoč praktične delovne pogoje in uporabniku ne
+sme postavljati nerazumnih zahtev zato, da bi se pridobilo pravilne merilne
+rezultate.
+(2) Merilni sistem mora biti dovolj
+vzdržljiv in njegovi konstrukcijski materiali morajo biti primerni za razmere,
+v katerih je predvidena njegova uporaba.
+(3) Merilni sistem mora biti zasnovan
+tako, da omogoča meroslovni pregled merila tudi po dajanju v promet in začetku
+uporabe. Posebna oprema ali programska oprema za ta nadzor mora biti po potrebi
+del merilnega sistema.
+(4) Če merilni sistem vsebuje
+programsko opremo, ki poleg merilnih zagotavlja tudi druge funkcije, mora biti
+programska oprema, ki je bistvena za meroslovne lastnosti, prepoznavna in nanjo
+ostala programska oprema ne sme nedopustno vplivati.
+15. člen
+(zaščita pred zlorabo in nehoteno napačno
+uporabo)
+(1) Merilni sistem ne sme omogočati
+zlorabe in nehotene napačne uporabe.
+(2) Na meroslovne lastnosti merilnega
+sistema se ne sme nedopustno vplivati s priključevanjem druge naprave, z nobeno
+lastnostjo priključene naprave ali s katero koli drugo oddaljeno napravo, ki
+komunicira z merilnim sistemom.
+(3) Del strojne opreme, ki je
+bistvenega pomena za meroslovne lastnosti, mora biti zasnovan tako, da ga je
+mogoče zaščititi pred zlorabo oziroma napačno uporabo. Predvideni zaščitni
+ukrepi morajo omogočiti dokazljivost možnega posega.
+(4) Programska oprema, ki je
+bistvenega pomena za meroslovne lastnosti, mora biti kot taka prepoznavna in
+zaščitena.
+(5) Merilni sistem mora zagotoviti, da
+je programska oprema zlahka prepoznavna.
+(6) Dokaz o posegu v merilni sistem
+mora biti na voljo najmanj 3 leta po posegu.
+(7) Merilni podatki in meroslovno
+pomembni parametri, ki so shranjeni ali se prenašajo, morajo biti primerno
+zaščiteni proti zlorabi in nehoteni napačni uporabi.
+16. člen
+(kazanje rezultata)
+(1) Kazanje rezultata mora biti
+izvedeno s pomočjo prikazovalnika ali v tiskani obliki.
+(2) Če je merilni sistem opremljen s
+prikazovalnikom cene, se mora navedena cena na enoto in znesek plačila nanašati
+samo na izmerjeno maso.
+(3) Kazanje rezultata mora biti jasno
+in nedvoumno. Dodani mu morajo biti taki napisi in oznake, ki jih uporabnik
+potrebuje za razumevanje pomembnosti rezultata. Razbiranje prikazanega
+rezultata mora biti enostavno pri običajnih pogojih uporabe. Dodatna kazanja se
+lahko prikažejo, če jih ni mogoče zamenjati z meroslovno nadzorovanimi kazanji.
+(4) Vrednost razdelka za merjeno
+vrednost mora imeti obliko 1 × 10n, 2 × 10n ali 5 × 10n,
+kjer je »n« katero koli celo število ali nič. Merska enota ali njen simbol
+morata biti prikazana v bližini številčne vrednosti.
+(5) Vrednost razdelka mora biti enaka
+ali manjša od 0,5 x Emin.
+(6) Merilni sistem, ki je namenjen
+trgovskim poslom v neposredni prodaji, mora biti zasnovan tako, da ob vgradnji
+na predvideni način prikaže merilni rezultat obema strankama v poslu.
+(7) Rezultat meritve mora biti
+prikazan ali natisnjen v kg.
+(8) Če ima merilni sistem več
+prikazovalnih naprav, morajo le-te kazati ali natisniti enak merilni rezultat.
+Vrednost razdelka različnih prikazovalnih naprav mora biti enaka. Med kazanji
+različnih prikazovalnih naprav pri merjenju poljubne merjene veličine ne sme
+biti razlike.
+17. člen
+(nadaljnja obdelava podatkov za sklenitev
+trgovinskega posla)
+Merilni sistem, ki je predviden za uporabo
+v odsotnosti ene izmed strank v poslu, mora na trajen način zapisati merilni
+rezultat skupaj z informacijami za prepoznavanje posameznega posla. Poleg tega
+mora biti v trenutku, ko je meritev dokončana, na zahtevo na voljo trajen dokaz
+o merilnem rezultatu in informacije za prepoznavanje posla.
+18. člen
+(naprava za ničliranje)
+(1) Merilni sistem mora biti opremljen
+z napravo za ničliranje.
+(2) Začetek nove meritve ne sme biti
+mogoč, če prikazovalnik ni vrnjen na ničlo.
+(3) Ničliranje ne sme biti možno med
+meritvijo.
+(4) Če sistem vključuje tudi napravo
+za prikaz cene, mora biti vgrajena skupaj z napravo za ničliranje.
+(5) Naprava za ničliranje na napravi
+za prikaz cene in kazalni napravi za maso mora biti zasnovana tako, da se
+ničliranje izvede na obeh napravah.
+19. člen
+(računska enota)
+(1) NDP računske enote za prikazano
+količino plina, če se le-ta preverja posebej, je 0,05 % prave vrednosti.
+(2) Vsi parametri, potrebni za
+pripravo kazanj, ki so predmet tega pravilnika, se morajo ob začetku merjenja
+nahajati v računski enoti.
+20. člen
+(rezervno napajanje)
+Merilni sistem mora imeti napravo za
+rezervno napajanje, ki med izpadom glavnega vira napajanja zavaruje vse merilne
+funkcije, ali biti opremljen s sredstvi, ki shranijo in prikažejo obstoječe
+podatke, da se omogoči zaključek transakcije, ki je v teku.
+21. člen
+(namestitev merilnega sistema)
+(1) Z zasnovo merilnega sistema mora
+biti zagotovljeno, da se dobavi izmerjena količina. Za merilnikom se med polnjenjem
+ne sme odvajati plina.
+(2) Če obstaja tveganje, da je pretok
+večji od Qmax, mora biti nameščena naprava, ki pretok omejuje.
+(3) Omogočena mora biti namestitev ali
+odstranitev merilnika tlaka z merilnega sistema, da se lahko preveri Pmax in,
+če je potrebno, Pmin.
+22. člen
+(točka prenosa)
+(1) Merilni sistemi morajo vključevati
+točko prenosa. Točka prenosa se nahaja v smeri toka od merilnika.
+(2) Nameščenih je lahko več stalnih
+točk prenosa, ki delujejo sočasno ali izmenično, tako da do nepredvidenega
+odvoda plina ne more priti ali pa je ta očiten.
+(3) V primeru uporabe ene točke
+prenosa mora biti nova dobava, ko se točilna pipa točke prenosa vrne na svoje
+mesto, onemogočena, dokler se prikazovalna naprava ne postavi na nič.
+(4) Če se lahko sočasno ali izmenično
+uporablja dve ali več točk prenosa in potem ko se uporabljene točilne pipe točk
+prenosa vrnejo na svoje mesto, mora biti naslednja dobava onemogočena, dokler
+se kazalna naprava ne postavi na nič.
+III. NAPISI IN OZNAKE
+23. člen
+(napisna ploščica)
+(1) Merilni sistem, za katerega je
+bila izdana odobritev tipa, in merilnik ali drugi moduli v sklopu odobritve
+tipa, morajo imeti stalno, neprenosljivo in lahko berljivo napisno ploščico, ki
+vsebuje naslednje podatke:
+-       
+naziv proizvajalca,
+-       
+leto izdelave,
+-       
+tip,
+-       
+številko odobritve tipa za merilni sistem,
+-       
+serijsko številka merilnega sistema in, če je mogoče, tudi serijsko
+številko vsakega modula.
+(2) Na čelni strani prikazovalnika
+mora biti trajno vidna vrednost NKM.
+(3) Na prikazovalniku, bodisi stalno,
+bodisi na zahtevo, ali na napisni ploščici morajo biti navedeni naslednji
+podatki:
+-       
+Qmin in Qmax,
+-       
+največji tlak plina v posodi za skladiščenje plina Pst,
+-       
+največji tlak plina pri hitrem polnjenju vozila Pv,
+-       
+če je kritičen, najmanjši tlak plina Pmin,
+-       
+največji tlak plina Pmax,
+-       
+vrsta plina ali plinske mešanice (npr. zemeljski plin, vodik),
+-       
+če je mogoče, informacija o gostoti, sestavi, kvaliteti, itd.,
+-       
+najvišja temperatura plina Tmax,
+-       
+najnižja temperatura plina Tmin,
+-       
+temperaturno območje delovanja,
+-       
+nazivna omrežna napetost, frekvenca in moč, v primeru napajanja iz
+električnega omrežja,
+-       
+tip (vključno s podatki o minimalni moči) in nazivno napetost
+akumulatorja ali baterije, v primeru instrumentov, ki uporabljajo baterije
+oziroma notranjo izmenljivo rezervno baterijo,
+-       
+identifikacija programske opreme,
+-       
+prisotnost in način delovanja sekvenčne kontrolne naprave,
+-       
+če je mogoče, najvišja dovoljena hitrost prehoda med bankami za
+sekvenčno kontrolno napravo,
+-       
+dodatne informacije, če je tako zahtevano v certifikatu o odobritvi tipa
+merila.
+24. člen
+(navodila za uporabo)
+(1) Uporabniku morajo biti na voljo
+navodila za delovanje vsakega posameznega merilnega sistema.
+(2) Merilnemu sistemu morajo biti
+priložene informacije o njegovem delovanju. Informacije morajo biti v
+slovenskem jeziku, zlahka razumljive, in kjer je to ustrezno, vključevati:
+-       
+naznačene pogoje delovanja,
+-       
+mehanske in elektromagnetne okoljske razrede,
+-       
+zgornje in spodnje temperaturne meje, ali je kondenzacija mogoča ali ne,
+ali je merilo namenjeno za odprto ali zaprto lokacijo,
+-       
+navodila za vgradnjo, vzdrževanje, popravila in dopustna naravnavanja,
+-       
+navodila za pravilno delovanje in vse posebne pogoje uporabe in
+-       
+pogoje skladnosti z vmesniki, podsestavi ali merili.
+IV. UGOTAVLJANJE SKLADNOSTI
+25. člen
+(postopki)
+Skladnost merilnega sistema z zahtevami iz
+tega pravilnika je mogoče potrditi po enem od naslednjih postopkov, ki ga
+izbere vložnik zahteve:
+-       
+z odobritvijo tipa, ki ji sledi prva overitev ali izjava o skladnosti s
+tipom;
+-       
+z neposredno overitvijo posamičnega merilnega sistema.
+26. člen
+(odobritev tipa)
+(1) Pregledi in preskusi za pregled
+izpolnjevanja zahtev tega pravilnika v okviru postopka odobritve tipa se
+opravijo na način in pod pogoji, ki jih določa Mednarodno priporočilo OIML R139
+Mednarodne organizacije za zakonsko meroslovje (Organisation Internationale de
+Métrologie Légale) (v nadaljnjem besedilu: OIML R139) oziroma na drug enakovreden
+način.
+(2) Pregledi in preskusi za pregled
+izpolnjevanja zahtev tega pravilnika v okviru postopka odobritve tipa glede
+programske opreme merilnega sistema se opravijo na način in pod pogoj, ki jih
+določa Vodilo WELMEC 7.2 Evropskega združenja za zakonsko meroslovje (European
+Cooperation in Legal Metrology) (v nadaljnjem besedilu: WELMEC 7.2) za merila s
+stopnjo tveganja B za P tip instrumentov in stopnjo tveganja C za U tip števcev
+oziroma na drug enakovreden način.
+27. člen
+(tuja preskusna poročila)
+V postopkih iz tega pravilnika se lahko
+delno ali v celoti sprejmejo in priznajo tudi preskusna poročila, kot jih
+določa OIML R139, ki jih je izdal organ za ugotavljanje skladnosti, akreditiran
+za ustrezno področje ugotavljanja skladnosti v skladu z Uredbo (ES) št.
+765/2008 Evropskega parlamenta in Sveta z dne 9. julija 2008 o določitvi
+zahtev za akreditacijo in nadzor trga v zvezi s trženjem proizvodov ter
+razveljavitvi Uredbe (EGS) št. 339/93 (UL L št. 218 z dne 13. 8. 2008,
+str. 30) ali pristojni organ za odobritve tipa merilnih sistemov v državi
+članici Evropske unije.
+28. člen
+(neposredna overitev posamičnega merilnega
+sistema)
+Pregledi in preskusi za pregled
+izpolnjevanja zahtev iz tega pravilnika v okviru postopka neposredne overitve
+posamičnega merilnega sistema se smiselno izvedejo v skladu s 26. in 27. členom
+tega pravilnika.
+29. člen
+(prva overitev)
+(1) Postopki meroslovnega pregleda pri
+prvi overitvi merilnih sistemov so enaki postopkom, kot so za prvo overitev
+navedeni v OIML R 139.
+(2) Razširjena merilna negotovost
+preskusnega sistema pri dani izmerjeni količini ne sme preseči 1/3 NDP za
+merilne sisteme, ki veljajo pri prvi overitvi.
+30. člen
+(izjava o skladnosti s tipom)
+Pregledi in preskusi za pregled izpolnjevanja
+zahtev iz tega pravilnika, ki jih proizvajalec izvede v okviru postopka izjava
+o skladnosti s tipom merila, se smiselno izvedejo v skladu z 29. členom tega
+pravilnika.
+V. REDNE IN IZREDNE OVERITVE
+31. člen
+(redna in izredna overitev)
+(1) Postopki meroslovnega pregleda pri
+redni in izredni overitvi merilnih sistemov so enaki postopkom, kot so za redno
+overitev navedeni v OIML R 139.
+(2) Razširjena merilna negotovost
+preskusnega sistema pri dani izmerjeni količini ne sme preseči 1/3 NDP za
+merilne sisteme, ki veljajo pri redni overitvi.
+32. člen
+(rok redne overitve)
+Rok redne overitve za merilne sisteme je
+dve leti.
+VI. NDP MERILNIH SISTEMOV V UPORABI
+33. člen
+(velikost NDP merilnega sistema v uporabi)
+NDP merilnega sistema v uporabi pri
+naznačenih obratovalnih pogojih je ne glede na izmerjeno količino dan z večjo
+od naslednjih dveh vrednosti:
+-       
+2 % izmerjene količine,
+-       
+Emin, kjer je Emin je za merilni sistem v uporabi
+enak 2 x NKM x 2 %.
+VII. PREHODNA IN KONČNA DOLOČBA
+34. člen
+(merilni sistemi v uporabi)
+Merilni sistemi, ki so v obratovanju na dan
+uveljavitve tega pravilnika in se uporabljajo v namene iz 3. člena Zakona o
+meroslovju, ne potrebujejo odobritve tipa oziroma neposredne overitve
+posamičnega merila iz 25. člena tega pravilnika ter se lahko uporabljajo še
+naprej, če lastnik ali imetnik merilnega sistema zanj najkasneje v roku šestih
+mesecev od uveljavitve tega pravilnika pridobi prvo overitev.
+35. člen
+(uveljavitev)
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.
+Št. 007-135/2014
+Ljubljana, dne 16. decembra 2014
+EVA 2014-2130-0025
+Zdravko Počivalšek l.r.
+Minister
+za gospodarski
+razvoj in tehnologijo

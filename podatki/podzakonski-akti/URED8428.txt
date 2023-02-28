@@ -1,0 +1,875 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina uredbe)
+(1) Ta uredba določa sredstva elektronske identifikacije
+in uporabo centralne storitve za spletno prijavo in elektronski podpis.
+(2) Ta uredba ureja tudi obliko preračunavanja
+enoličnega identifikatorja iz enotne številke elektronske identifikacije (v
+nadaljnjem besedilu: EŠEI).
+2. člen
+(sredstva elektronske identifikacije)
+(1) Sredstva elektronske identifikacije so:
+-       
+sredstvo visoke ravni na osebni izkaznici,
+-       
+sredstvo nizke ravni na osebni izkaznici,
+-       
+virtualno sredstvo srednje ravni,
+-       
+virtualno sredstvo nizke ravni.
+(2) Posameznik lahko razpolaga z več sredstvi
+elektronske identifikacije naenkrat.
+3. člen
+(digitalno potrdilo)
+(1) Digitalno potrdilo po tej uredbi je potrdilo v
+elektronski obliki za elektronsko identifikacijo fizične osebe, ki povezuje
+podatke za potrjevanje identitete fizične osebe s fizično osebo.
+(2) Digitalno potrdilo vsebuje naslednje podatke:
+1.     
+navedbo, vsaj v formatu, primernem za avtomatizirano obdelavo, za kakšen
+namen je bilo digitalno potrdilo izdano;
+2.     
+nabor podatkov, ki nedvoumno predstavlja izdajatelja digitalnega
+potrdila, ter vključuje:
+- 
+navedbo, da ima izdajatelj sedež v Republiki Sloveniji,
+- 
+ime izdajatelja in
+- 
+EŠEI izdajatelja;
+3.     
+nabor podatkov, ki nedvoumno predstavlja imetnika digitalnega potrdila,
+kot je določen v zakonu, ki ureja elektronsko identifikacijo, ali tej uredbi;
+4.     
+podatke za potrjevanje identitete fizične osebe (javni ključ), ki ustrezajo
+podatkom za izkazovanje identitete fizične osebe (zasebni ključ);
+5.     
+čas začetka in konca veljavnosti digitalnega potrdila;
+6.     
+enolično identifikacijsko oznako digitalnega potrdila, ki predstavlja
+identifikacijsko oznako sredstva elektronske identifikacije;
+7.     
+napredni elektronski žig izdajatelja digitalnega potrdila;
+8.     
+lokacijo, kjer je digitalno potrdilo za elektronski žig, ki podpira
+napredni elektronski žig iz prejšnje točke, na voljo brezplačno;
+9.     
+lokacijo storitev, s katerimi je mogoče preveriti veljavnost digitalnega
+potrdila;
+10.  
+podatke za dostop do storitve za pridobivanje EŠEI imetnika na podlagi
+identifikacijskih podatkov digitalnega potrdila, in sicer na način in v obliki,
+ki sta smiselno enaka specifikaciji iz 53. člena te uredbe in
+11.  
+podatke za dostop do storitve za preverjanje EŠEI imetnika na podlagi
+identifikacijskih podatkov digitalnega potrdila, in sicer na način in v obliki,
+ki sta smiselno enaka specifikaciji iz 54. člena te uredbe.
+(3) Digitalno potrdilo se izdaja v formatu, ki je
+določen s standardi s področja infrastrukture javnih ključev X.509.
+II. SREDSTVO VISOKE RAVNI NA OSEBNI IZKAZNICI
+4. člen
+(splošno)
+Izdajatelj sredstva elektronske identifikacije (v nadaljnjem
+besedilu: izdajatelj) zagotovi izdajo sredstva elektronske identifikacije
+visoke ravni zanesljivosti na osebni izkaznici (v nadaljnjem besedilu: sredstvo
+visoke ravni na osebni izkaznici), ki se izda v skladu z zakonom, ki ureja
+osebno izkaznico.
+5. člen
+(evidenca imetnikov sredstva visoke ravni na osebni
+izkaznici)
+Evidenca imetnikov sredstva visoke ravni na osebni izkaznici
+vsebuje naslednje podatke:
+1.     
+identifikacijsko oznako sredstva elektronske identifikacije;
+2.     
+identifikacijsko oznako nosilca sredstva elektronske identifikacije;
+3.     
+osebno ime imetnika;
+4.     
+vrsto in številko veljavne javne listine imetnika, opremljene s
+fotografijo, ki jo je izdal državni organ, oziroma navedbo postopka, s katerim
+je bila opravljena identifikacija imetnika;
+5.     
+EŠEI imetnika;
+6.     
+davčno številko imetnika;
+7.     
+EMŠO imetnika;
+8.     
+stalno prebivališče ali stalni naslov v tujini, začasno prebivališče ali
+začasni naslov v tujini in naslov za vročanje, če je to potrebno za pridobitev
+sredstva elektronske identifikacije;
+9.     
+status sredstva elektronske identifikacije;
+10.  
+obdobje veljavnosti sredstva elektronske identifikacije;
+11.  
+obdobje začasne razveljavitve sredstva elektronske identifikacije;
+12.  
+datum preklica sredstva elektronske identifikacije.
+6. člen
+(oblika in tehnične specifikacije)
+(1) Sredstvo visoke ravni na osebni izkaznici se izda v
+obliki digitalnega potrdila, shranjenega na čipu osebne izkaznice.
+(2) Dostop do pripadajočega zasebnega ključa se zaščiti
+z dvema dejavnikoma avtentikacije iz različnih kategorij, tako da se za uporabo
+sredstva visoke ravni na osebni izkaznici poleg posesti sredstva visoke ravni
+na osebni izkaznici zahteva tudi uporaba varnostnih mehanizmov:
+-       
+začetno geslo,
+-       
+uporabniško geslo,
+-       
+koda za ponastavitev uporabniškega gesla.
+(3) Tehnične podrobnosti izvedbe sredstva visoke ravni
+na osebni izkaznici se določijo v pravilih upravljanja sredstva visoke ravni na
+osebni izkaznici, ki se objavijo na spletnih straneh izdajatelja.
+7. člen
+(raven zanesljivosti)
+Sredstvo visoke ravni na osebni izkaznici izpolnjuje zahteve,
+ki jih za sredstva elektronske identifikacije visoke ravni zanesljivosti
+opredeljuje zakon, ki ureja elektronsko identifikacijo.
+8. člen
+(obdobje veljavnosti)
+Sredstvo visoke ravni na osebni izkaznici se izda za čas
+veljavnosti osebne izkaznice vendar največ za obdobje, ki je določeno v
+8. členu Zakona o elektronski identifikaciji in storitvah zaupanja (Uradni
+list RS, št. 121/21 in 189/21 – ZDU-1M; v nadaljnjem besedilu: Zakon o
+elektronski identifikaciji in storitvah zaupanja).
+9. člen
+(starost ob izdaji)
+Sredstvo visoke ravni na osebni izkaznici se izda državljanu
+Republike Slovenije (v nadaljnjem besedilu: državljan), ki je v času vložitve
+vloge dopolnil dvanajst let.
+10. člen
+(organ, pristojen za sprejem vlog)
+(1) Vloge za izdajo sredstva visoke ravni na osebni
+izkaznici so del vlog za izdajo osebne izkaznice, ki jih obravnavajo organi,
+pristojni za izdajo osebne izkaznice v skladu z zakonom, ki ureja osebno
+izkaznico.
+(2) Identifikacijo fizične osebe s fizično prisotnostjo
+opravi uradna oseba, ki je pooblaščena oseba organa, pristojnega za izdajo
+osebne izkaznice.
+(3) Uradna oseba, ki sprejme vlogo, preveri veljavnost
+vnesenih podatkov in identificira fizično osebo tako, kot je za sredstva
+elektronske identifikacije visoke ravni zanesljivosti opredeljeno v zakonu, ki
+ureja elektronsko identifikacijo.
+11. člen
+(postopek izdaje)
+(1) Če uradna oseba odloči, da se na podlagi vloge izda
+oseba izkaznica, po izvedeni identifikaciji vlogo preda izdajatelju.
+(2) Izdajatelj izda sredstvo visoke ravni na osebni
+izkaznici po naslednjem postopku:
+1.     
+izdajatelj pripravi podatke za izdelavo digitalnega potrdila;
+2.     
+izvajalec, ki opravlja naloge izdelave, skladiščenja in personalizacije
+osebnih izkaznic (v nadaljnjem besedilu: izdelovalec), v postopku izdelave
+sredstva visoke ravni na osebni izkaznici pridobi podatke o imetniku, za
+katerega mora izdelati osebno izkaznico, ter jih preda izdajatelju;
+3.     
+izdajatelj izdela digitalno potrdilo in ga preda izdelovalcu;
+4.     
+izdelovalec digitalno potrdilo zapiše na čip osebne izkaznice in v
+skladu z navodili izdajatelja določi merila za uporabo sredstva visoke ravni na
+osebni izkaznici, predvsem obliko in vrednost začetnega gesla, obliko
+uporabniškega gesla, obliko in vrednost kode za ponastavitev uporabniškega
+gesla, dovoljeno število napačnih vnosov uporabniškega gesla;
+5.     
+izdelovalec vroči izdelano osebno izkaznico imetniku v skladu z določili
+zakona, ki ureja osebno izkaznico;
+6.     
+izdelovalec vroči ovojnico z začetnim geslom imetniku tako, da jo:
+- 
+pošlje na njegov naslov kot navadno poštno pošiljko, in sicer naslednji
+delovni dan po oddaji osebne izkaznice na pošto, če je imetnik izbral vročitev
+osebne izkaznice po pošti;
+- 
+pošlje na naslov upravne enote v ovojnici z osebno izkaznico, če je
+imetnik izbral vročitev osebne izkaznice na upravni enoti ali
+- 
+v nujnih primerih osebno vroči ob vročitvi osebne izkaznice neposredno
+pri izdelovalcu.
+(3) Sredstvo visoke ravni na osebni izkaznici postane
+aktivno, ko imetnik po vnosu začetnega gesla določi uporabniško geslo.
+12. člen
+(preklic)
+(1) Sredstvo visoke ravni na osebni izkaznici izdajatelj
+prekliče, če:
+-       
+imetniku preneha veljavnost osebne izkaznice v skladu z zakonom, ki
+ureja osebno izkaznico, razen v primeru odvzema osebne izkaznice;
+-       
+imetnik vloži zahtevek za preklic sredstva visoke ravni na osebni
+izkaznici pri upravni enoti ali diplomatsko-konzularnem predstavništvu
+Republike Slovenije;
+-       
+imetnik v 48 urah po vložitvi zahtevka za začasno razveljavitev sredstva
+visoke ravni na osebni izkaznici vloge ne umakne;
+-       
+izdajatelj pridobi informacijo, na podlagi katere mora v skladu z
+zakonom, ki ureja elektronsko identifikacijo, preklicati sredstvo elektronske
+identifikacije.
+(2) Če je mogoče osebno izkaznico, katere veljavnost
+preneha zaradi naznanitve pogrešitve, izgube ali kraje, ponovno aktivirati v
+skladu s predpisi, ki urejajo veljavnost osebne izkaznice, izdajatelj obravnava
+obvestilo o prenehanju veljavnosti osebne izkaznice kot zahtevo za začasno
+razveljavitev sredstva visoke ravni na osebni izkaznici in jo po preteku roka
+za ponovno aktiviranje osebne izkaznice prekliče. Če pred potekom roka
+prenehajo razlogi za prenehanje veljavnosti, izdajatelj obravnava sredstvo
+visoke ravni na osebni izkaznici kot veljavno.
+(3) Če izdajatelj pridobi informacijo, da osebno
+izkaznico v skladu s predpisi, ki urejajo osebno izkaznico, hrani pristojni
+organ in ne imetnik, izdajatelj informacijo obravnava kot zahtevo za začasno
+razveljavitev sredstva visoke ravni na osebni izkaznici zaradi neposesti in jo
+po vrnitvi v posest imetnika obravnava kot veljavno.
+13. člen
+(začasna razveljavitev)
+(1) Imetnik lahko zahteva začasno razveljavitev tako, da
+se pred oddajo zahtevka za začasno razveljavitev sredstva visoke ravni na
+osebni izkaznici identificira s sredstvom elektronske identifikacije najmanj
+srednje ravni zanesljivosti ali zahtevek odda pri upravni enoti ali
+diplomatsko-konzularnem predstavništvu Republike Slovenije. V zahtevku mora
+imetnik navesti naslednje podatke:
+-       
+osebno ime imetnika,
+-       
+EŠEI imetnika.
+(2) Če imetnik umakne zahtevek za začasno razveljavitev
+tako, da se pred tem identificira v skladu z zahtevo zakona, ki ureja
+elektronsko identifikacijo, za izdajo sredstva elektronske identifikacije
+visoke ravni zanesljivosti, izdajatelj sredstvo visoke ravni na osebni
+izkaznici ponovno obravnava kot veljavno.
+14. člen
+(čezmejna uporaba)
+Sredstvo visoke ravni na osebni izkaznici je namenjeno za
+čezmejno uporabo.
+15. člen
+(ponastavitev uporabniškega gesla)
+(1) Če imetnik izgubi uporabniško geslo, lahko na upravni
+enoti ali diplomatsko-konzularnem predstavništvu Republike Slovenije zahteva
+pridobitev gesla za ponastavitev uporabniškega gesla.
+(2) Uradna oseba, ki sprejme zahtevo, identificira
+imetnika v skladu s tretjim odstavkom 10. člena te uredbe.
+III. SREDSTVO NIZKE RAVNI NA OSEBNI IZKAZNICI
+16. člen
+(splošno)
+Izdajatelj zagotovi izdajo sredstva elektronske
+identifikacije nizke ravni zanesljivosti na osebni izkaznici (v nadaljnjem
+besedilu: sredstvo nizke ravni na osebni izkaznici), ki se izda v skladu z zakonom,
+ki ureja osebno izkaznico.
+17. člen
+(evidenca imetnikov sredstva nizke ravni na osebni
+izkaznici)
+Evidenca imetnikov sredstva nizke ravni na osebni izkaznici
+vsebuje naslednje podatke:
+1.     
+identifikacijsko oznako sredstva elektronske identifikacije;
+2.     
+identifikacijsko oznako nosilca sredstva elektronske identifikacije;
+3.     
+osebno ime imetnika;
+4.     
+vrsto in številko veljavne javne listine imetnika, opremljene s
+fotografijo, ki jo je izdal državni organ, oziroma navedbo postopka, s katerim
+je bila opravljena identifikacija imetnika;
+5.     
+EŠEI imetnika;
+6.     
+davčno številko imetnika;
+7.     
+EMŠO imetnika;
+8.     
+stalno prebivališče ali stalni naslov v tujini, začasno prebivališče ali
+začasni naslov v tujini in naslov za vročanje, če je to potrebno za pridobitev
+sredstva elektronske identifikacije;
+9.     
+status sredstva elektronske identifikacije;
+10.  
+obdobje veljavnosti sredstva elektronske identifikacije;
+11.  
+obdobje začasne razveljavitve sredstva elektronske identifikacije;
+12.  
+datum preklica sredstva elektronske identifikacije.
+18. člen
+(oblika in tehnične specifikacije)
+(1) Sredstvo nizke ravni na osebni izkaznici je izdano v
+obliki digitalnega potrdila, shranjenega na čipu osebne izkaznice.
+(2) Dostop do pripadajočega zasebnega ključa je mogoč z
+enim dejavnikom avtentikacije, tako da se za uporabo sredstva nizke ravni na
+osebni izkaznici zahteva posest sredstva nizke ravni na osebni izkaznici.
+(3) Tehnične podrobnosti izvedbe sredstva nizke ravni na
+osebni izkaznici so določene v pravilih upravljanja sredstva nizke ravni na
+osebni izkaznici, ki so objavljena na spletnih straneh izdajatelja.
+19. člen
+(raven zanesljivosti)
+Sredstvo nizke ravni na osebni izkaznici izpolnjuje zahteve,
+ki jih za sredstva elektronske identifikacije nizke ravni zanesljivosti
+opredeljuje zakon, ki ureja elektronsko identifikacijo.
+20. člen
+(obdobje veljavnosti)
+Sredstvo nizke ravni na osebni izkaznici se izdaja za čas
+veljavnosti osebne izkaznice, vendar največ za obdobje, ki je določeno v
+8. členu Zakona o elektronski identifikaciji in storitvah zaupanja.
+21. člen
+(starost ob izdaji)
+Sredstvo nizke ravni na osebni izkaznici se izda državljanu,
+ki je v času vložitve vloge dopolnil dvanajst let.
+22. člen
+(organ, pristojen za sprejem vlog)
+(1) Vloge za izdajo sredstva nizke ravni na osebni
+izkaznici so del vlog za izdajo osebne izkaznice, ki jih obravnavajo organi,
+pristojni za izdajo osebne izkaznice v skladu z zakonom, ki ureja osebno
+izkaznico.
+(2) Identifikacijo fizične osebe s fizično prisotnostjo
+opravi uradna oseba, ki je pooblaščena oseba organa, pristojnega za izdajo
+osebne izkaznice.
+(3) Uradna oseba, ki sprejme vlogo, preveri veljavnost
+vnesenih podatkov in identificira fizično osebo tako, kot je za sredstva
+elektronske identifikacije nizke ravni zanesljivosti opredeljeno v zakonu, ki
+ureja elektronsko identifikacijo.
+23. člen
+(postopek izdaje)
+(1) Če uradna oseba odloči, da se na podlagi vloge izda
+oseba izkaznica, po izvedeni identifikaciji vlogo preda izdajatelju.
+(2) Izdajatelj izda sredstvo nizke ravni na osebni
+izkaznici po naslednjem postopku:
+1.     
+izdajatelj pripravi podatke za izdelavo digitalnega potrdila;
+2.     
+izdelovalec, ki opravlja naloge izdelave, skladiščenja in
+personalizacije osebnih izkaznic (v nadaljnjem besedilu: izdelovalec), v
+postopku izdelave osebne izkaznice iz evidence osebnih izkaznic pridobi podatke
+o imetniku, za katerega mora izdelati osebno izkaznico, ter jih preda
+izdajatelju;
+3.     
+izdajatelj izdela digitalno potrdilo in ga preda izdelovalcu;
+4.     
+izdelovalec digitalno potrdilo zapiše na čip osebne izkaznice in v
+skladu z navodili izdajatelja določi merila za uporabo sredstva nizke ravni na
+osebni izkaznici;
+5.     
+izdelovalec izdelano osebno izkaznico imetniku vroči v skladu z določili
+zakona, ki ureja osebno izkaznico.
+(3) Sredstvo nizke ravni na osebni izkaznici postane
+aktivno takoj po izdaji.
+24. člen
+(preklic)
+(1) Sredstvo nizke ravni na osebni izkaznici izdajatelj
+prekliče, če:
+-       
+imetniku preneha veljavnost osebne izkaznice v skladu z zakonom, ki
+ureja osebno izkaznico, razen v primeru odvzema osebne izkaznice;
+-       
+imetnik vloži zahtevek za preklic sredstva nizke ravni na osebni
+izkaznici pri upravni enoti ali diplomatsko-konzularnem predstavništvu
+Republike Slovenije;
+-       
+imetnik v 48 urah po vložitvi zahtevka za začasno razveljavitev sredstva
+nizke ravni na osebni izkaznici vloge ne umakne;
+-       
+izdajatelj pridobi informacijo, na podlagi katere mora v skladu z
+zakonom, ki ureja elektronsko identifikacijo, preklicati sredstvo elektronske
+identifikacije.
+(2) Če je mogoče osebno izkaznico, katere veljavnost
+preneha zaradi naznanitve pogrešitve, izgube ali kraje, ponovno aktivirati v
+skladu s predpisi, ki urejajo veljavnost osebne izkaznice, izdajatelj obravnava
+obvestilo o prenehanju veljavnosti osebne izkaznice kot zahtevo za začasno
+razveljavitev sredstva nizke ravni na osebni izkaznici in jo po preteku roka za
+ponovno aktiviranje osebne izkaznice prekliče. Če pred potekom roka prenehajo
+razlogi za prenehanje veljavnosti, izdajatelj obravnava sredstvo nizke ravni na
+osebni izkaznici kot veljavno.
+(3) Če izdajatelj pridobi informacijo, da osebno
+izkaznico v skladu s predpisi, ki urejajo osebno izkaznico, hrani pristojni
+organ in ne imetnik, izdajatelj informacijo obravnava kot zahtevo za začasno
+razveljavitev sredstva nizke ravni na osebni izkaznici zaradi neposesti in jo
+po vrnitvi v posest imetnika obravnava kot veljavno.
+25. člen
+(začasna razveljavitev)
+(1) Imetnik lahko zahteva začasno razveljavitev tako, da
+se pred oddajo zahtevka za začasno razveljavitev sredstva nizke ravni na osebni
+izkaznici identificira s sredstvom elektronske identifikacije najmanj srednje
+ravni zanesljivosti ali zahtevek odda pri upravni enoti ali
+diplomatsko-konzularnem predstavništvu Republike Slovenije. V zahtevku mora
+imetnik navesti naslednje podatke:
+-       
+osebno ime imetnika,
+-       
+EŠEI imetnika.
+(2) Če imetnik zahtevek za začasno razveljavitev umakne
+tako, da se pri tem identificira v skladu z zahtevo zakona, ki ureja
+elektronsko identifikacijo, za izdajo sredstva elektronske identifikacije
+visoke ravni zanesljivosti, izdajatelj sredstvo nizke ravni na osebni izkaznici
+ponovno obravnava kot veljavno.
+26. člen
+(čezmejna uporaba)
+Sredstvo nizke ravni na osebni izkaznici ni namenjeno za
+čezmejno uporabo.
+IV. VIRTUALNO SREDSTVO SREDNJE RAVNI
+27. člen
+(splošno)
+Izdajatelj zagotovi izdajo sredstva elektronske
+identifikacije srednje ravni zanesljivosti, ki ga je mogoče uporabljati s
+pošiljanjem kratkih sporočil (sporočilo SMS) na mobilni telefon (v nadaljnjem
+besedilu: virtualno sredstvo srednje ravni).
+28. člen
+(evidenca imetnikov virtualnega sredstva srednje ravni)
+Evidenca imetnikov virtualnega sredstva srednje ravni vsebuje
+naslednje podatke:
+1.     
+identifikacijsko oznako sredstva elektronske identifikacije;
+2.     
+osebno ime imetnika;
+3.     
+vrsto in številko veljavne javne listine imetnika, opremljene s
+fotografijo, ki jo je izdal državni organ, oziroma navedbo postopka, s katerim
+je bila opravljena identifikacija imetnika;
+4.     
+EŠEI imetnika;
+5.     
+davčno številko imetnika;
+6.     
+EMŠO imetnika;
+7.     
+stalno prebivališče ali stalni naslov v tujini, začasno prebivališče ali
+začasni naslov v tujini in naslov za vročanje, če je to potrebno za pridobitev
+sredstva elektronske identifikacije;
+8.     
+telefonsko številko imetnika;
+9.     
+naslov elektronske pošte imetnika;
+10.  
+status sredstva elektronske identifikacije;
+11.  
+obdobje veljavnosti sredstva elektronske identifikacije;
+12.  
+datum preklica sredstva elektronske identifikacije.
+29. člen
+(oblika in tehnične specifikacije)
+(1) Virtualno sredstvo srednje ravni je izdano v obliki
+identifikacijskih podatkov osebe, shranjenih na informacijskem sistemu
+izdajatelja, ki enolično določajo fizično osebo. Virtualno sredstvo srednje
+ravni ne vsebuje osebnega imena imetnika.
+(2) Dostop do podatkov iz prvega odstavka tega člena je
+zaščiten z dvema dejavnikoma avtentikacije iz različnih kategorij, tako da se
+za uporabo virtualnega sredstva srednje ravni zahteva uporaba naslednjih
+varnostnih mehanizmov:
+-       
+uporabniško ime in geslo,
+-       
+enkratno geslo, poslano kot sporočilo SMS na mobilni telefon imetnika.
+(3) Tehnične podrobnosti izvedbe virtualnega sredstva
+srednje ravni so določene v pravilih upravljanja virtualnega sredstva srednje
+ravni, ki so objavljena na spletnih straneh izdajatelja.
+30. člen
+(raven zanesljivosti)
+Virtualno sredstvo srednje ravni izpolnjuje zahteve, ki jih
+za sredstva elektronske identifikacije srednje ravni zanesljivosti opredeljuje
+zakon, ki ureja elektronsko identifikacijo.
+31. člen
+(obdobje veljavnosti)
+Virtualno sredstvo srednje ravni se izdaja za obdobje petih
+let.
+32. člen
+(starost ob izdaji)
+Virtualno sredstvo srednje ravni se lahko izda državljanu ali
+tujcu, ki ima v Republiki Sloveniji prijavljeno stalno ali začasno
+prebivališče, ki je v času vložitve vloge dopolnil 15 let.
+33. člen
+(organ, pristojen za sprejem vlog)
+(1) Vlogo za izdajo virtualnega sredstva srednje ravni
+sprejme izdajatelj v elektronski obliki prek svoje spletne strani neposredno v
+svoj informacijski sistem.
+(2) Če je za identifikacijo fizične osebe v skladu s
+34. členom te uredbe potrebna identifikacija s fizično prisotnostjo, jo
+opravi uradna oseba na upravni enoti ali diplomatsko-konzularnem predstavništvu
+Republike Slovenije.
+(3) Vlada Republike Slovenije lahko s sklepom določi
+dodatne organe, pristojne za identifikacijo fizične osebe.
+(4) Uradna oseba ob identifikaciji fizične osebe preveri
+veljavnost vnesenih podatkov in izvede identifikacijo fizične osebe s fizično
+prisotnostjo tako, kot je za sredstva elektronske identifikacije srednje ravni
+zanesljivosti opredeljeno v zakonu, ki ureja elektronsko identifikacijo.
+34. člen
+(postopek izdaje)
+(1) Organ, pristojen za sprejem vloge, zagotovi
+identifikacijo fizične osebe, tako da:
+-       
+fizično osebo napoti na organ, pristojen za identifikacijo fizične
+osebe, kjer uradna oseba izvede identifikacijo fizične osebe s fizično
+prisotnostjo;
+-       
+fizična oseba izkaže svojo identiteto z uporabo sredstva visoke ravni na
+osebni izkaznici ali
+-       
+fizična oseba izkaže svojo identiteto z uporabo kvalificiranega potrdila
+za elektronski podpis.
+(2) Izdajatelj izda virtualno sredstvo srednje ravni po
+naslednjem postopku:
+-       
+fizična oseba se s svojim uporabniškim imenom in geslom prijavi v
+centralno storitev za spletno prijavo in elektronski podpis;
+-       
+fizična oseba vpiše telefonsko številko mobilnega telefona;
+-       
+izdajatelj pošlje fizični osebi enkratno geslo v sporočilu SMS na
+telefonsko številko mobilnega telefona;
+-       
+fizična oseba v informacijski sistem izdajatelja vpiše enkratno geslo;
+-       
+če se fizična oseba identificira s fizično prisotnostjo, izdajatelj
+fizično osebo napoti na identifikacijo v skladu s prvo alinejo prvega odstavka
+tega člena;
+-       
+če se fizična oseba identificira z uporabo kvalificiranega potrdila za
+elektronski podpis, izdajatelj pošlje fizični osebi podatke za aktivacijo na
+naslov za vročanje.
+(3) Če izdajatelj ne izda virtualnega sredstva srednje
+ravni in razpolaga z elektronskim naslovom fizične osebe, pošlje na ta
+elektronski naslov sporočilo o tem, da je bil v njenem imenu izveden neuspešen
+poskus pridobitve virtualnega sredstva srednje ravni ter splošen razlog za
+zavrnitev izdaje, ki ne vsebuje osebnih podatkov.
+(4) Virtualno sredstvo srednje ravni postane aktivno:
+-       
+po uspešni identifikaciji fizične osebe, če se identiteta fizične osebe
+ugotavlja s fizično prisotnostjo ali z uporabo sredstva visoke ravni na osebni
+izkaznici;
+-       
+ko imetnik v informacijski sistem izdajatelja vpiše podatke za
+aktivacijo, če se identiteta fizične osebe ugotavlja z uporabo kvalificiranega
+potrdila za elektronski podpis.
+35. člen
+(preklic)
+Virtualno sredstvo srednje ravni izdajatelj prekliče, če:
+-       
+imetnik zahteva preklic virtualnega sredstva srednje ravni prek
+informacijskega sistema izdajatelja tako, da se pred oddajo zahtevka za preklic
+identificira s sredstvom elektronske identifikacije najmanj nizke ravni
+zanesljivosti;
+-       
+izdajatelj pridobi informacijo, na podlagi katere mora v skladu z
+zakonom, ki ureja elektronsko identifikacijo, preklicati sredstvo elektronske
+identifikacije.
+36. člen
+(začasna razveljavitev)
+Začasna razveljavitev virtualnega sredstva srednje ravni ni
+mogoča.
+37. člen
+(čezmejna uporaba)
+Virtualno sredstvo srednje ravni je namenjeno za čezmejno
+uporabo.
+V. VIRTUALNO SREDSTVO NIZKE RAVNI
+38. člen
+(splošno)
+Izdajatelj zagotovi izdajo sredstva elektronske identifikacije
+nizke ravni zanesljivosti v skladu s 47. členom Zakona o elektronski
+identifikaciji in storitvah zaupanja in ga je mogoče uporabljati s pomočjo
+prijave z uporabniškim imenom in geslom (v nadaljnjem besedilu: virtualno
+sredstvo nizke ravni) prek centralne storitve za spletno prijavo in elektronski
+podpis.
+39. člen
+(evidenca imetnikov virtualnega sredstva nizke ravni)
+Evidenca imetnikov virtualnega sredstva nizke ravni vsebuje
+podatke:
+1.     
+identifikacijsko oznako sredstva elektronske identifikacije;
+2.     
+EŠEI imetnika;
+3.     
+davčno številko imetnika;
+4.     
+naslov elektronske pošte imetnika, če ga imetnik posreduje ali če je to
+potrebno za pridobitev ali uporabo sredstva elektronske identifikacije;
+5.     
+status sredstva elektronske identifikacije.
+40. člen
+(oblika in tehnične specifikacije)
+(1) Virtualno sredstvo nizke ravni je izdano v obliki
+identifikacijskih podatkov osebe, shranjenih na informacijskem sistemu
+izdajatelja, ki enolično določajo fizično osebo. Na podlagi tretjega odstavka
+12. člena Zakona o elektronski identifikaciji in storitvah zaupanja
+virtualno sredstvo nizke ravni ne vsebuje osebnega imena imetnika.
+(2) Dostop do podatkov iz prvega odstavka tega člena je
+zaščiten z dvema dejavnikoma avtentikacije iz iste kategorije, tako da se za
+uporabo virtualnega sredstva nizke ravni zahteva uporaba naslednjih varnostnih
+mehanizmov:
+-       
+uporabniško ime in geslo;
+-       
+podatki, ki so navedeni v prvem odstavku 48. člena Zakona o
+elektronski identifikaciji in storitvah zaupanja.
+(3) Tehnične podrobnosti izvedbe virtualnega sredstva
+nizke ravni so določene v pravilih upravljanja virtualnega sredstva nizke
+ravni, ki so objavljene na spletnih straneh izdajatelja.
+41. člen
+(raven zanesljivosti)
+Virtualno sredstvo nizke ravni izpolnjuje zahteve, ki jih za
+sredstva elektronske identifikacije nizke ravni zanesljivosti opredeljuje
+zakon, ki ureja elektronsko identifikacijo.
+42. člen
+(obdobje veljavnosti)
+Virtualno sredstvo nizke ravni se izdaja za enkratno
+elektronsko identifikacijo fizične osebe v okviru centralne storitve za spletno
+prijavo in elektronski podpis.
+43. člen
+(starost ob izdaji)
+Virtualno sredstvo nizke ravni se lahko izda državljanu ali
+tujcu, ki ima v Republiki Sloveniji prijavljeno stalno ali začasno
+prebivališče, ki je v času vložitve vloge dopolnil šest let.
+44. člen
+(organ, pristojen za sprejem vlog)
+Vlogo za izdajo virtualnega sredstva nizke ravni sprejme
+izdajatelj v elektronski obliki prek svoje spletne strani neposredno v svoj
+informacijski sistem.
+45. člen
+(vloga)
+Vloga vsebuje podatke, ki so navedeni v prvem odstavku
+48. člena Zakona o elektronski identifikaciji in storitvah zaupanja.
+46. člen
+(postopek izdaje)
+(1) Organ, pristojen za sprejem vloge, zagotovi
+identifikacijo fizične osebe, tako da v uradnih evidencah preveri osebne
+podatke, ki jih je v vlogi navedla fizična oseba.
+(2) Izdajatelj izda virtualno sredstvo nizke ravni po
+naslednjem postopku:
+-       
+fizična oseba se s svojim uporabniškim imenom in geslom prijavi v
+centralno storitev za spletno prijavo in elektronski podpis;
+-       
+fizična oseba vpiše zahtevane podatke v vlogo;
+-       
+izdajatelj v uradnih evidencah preveri osebne podatke fizične osebe;
+-       
+če se vneseni podatki ujemajo s podatki v uradnih evidencah, izdajatelj
+s tem identificira fizično osebo.
+(3) Če izdajatelj ne izda virtualnega sredstva nizke
+ravni in razpolaga z elektronskim naslovom fizične osebe, pošlje na ta
+elektronski naslov sporočilo o tem, da je bil v njenem imenu izveden neuspešen
+poskus pridobitve virtualnega sredstva nizke ravni ter splošen razlog za
+zavrnitev izdaje, ki ne vsebuje osebnih podatkov.
+(4) Virtualno sredstvo nizke ravni postane aktivno po
+uspešni identifikaciji fizične osebe.
+47. člen
+(preklic)
+Preklic virtualnega sredstva nizke ravni ni mogoč.
+48. člen
+(začasna razveljavitev)
+Začasna razveljavitev virtualnega sredstva nizke ravni ni
+mogoča.
+49. člen
+(čezmejna uporaba)
+Virtualno sredstvo nizke ravni ni namenjeno za čezmejno
+uporabo.
+VI. DOLOČITEV RAVNI ZANESLJIVOSTI
+50. člen
+(organ javnega sektorja določi raven zanesljivosti)
+Organ javnega sektorja za dostop in uporabo posamezne
+elektronske storitve določi raven zanesljivosti v skladu z merili, ki so
+določena v zakonu, ki ureja elektronsko identifikacijo, pri čemer upošteva
+smernice za izbiro ravni zanesljivosti, ki so objavljene na portalu
+nacionalnega interoperabilnostnega okvira (v nadaljnjem besedilu: portal NIO).
+VII. EŠEI
+51. člen
+(preračunavanje EŠEI za čezmejno elektronsko poslovanje)
+Za zagotavljanje čezmejnega elektronskega poslovanja v skladu
+z Uredbo št. 910/2014 Evropskega parlamenta in Sveta z dne 23. julija
+2014 o elektronski identifikaciji in storitvah zaupanja za elektronske
+transakcije na notranjem trgu in o razveljavitvi Direktive 1999/93/ES (UL L
+št. 257 z dne 28. 8. 2014 str. 73; v nadaljnjem besedilu: Uredba
+910/2014/EU) se uporablja enolični identifikator, ki se določi tako, da se:
+-       
+pred številko EŠEI doda šifra države, v katero se enolični identifikator
+pošlje kot identifikator uporabnika elektronske storitve, pri čemer velja šifra
+države, kot jo določa Statistični urad Republike Slovenije;
+-       
+dobljeni niz podatkov šifrira po algoritmu AES s ključem, shranjenim na
+strojnem varnostnem modulu.
+52. člen
+(specifikacije za zapis EŠEI v kvalificirano potrdilo)
+(1) EŠEI fizične osebe se v kvalificirano potrdilo
+zapiše kot zasebna razširitev kvalificiranega potrdila z oznako OID, ki jo pri
+pristojni mednarodni organizaciji pridobi organ, pristojen za informacijsko
+družbo, in jo skupaj z definicijo strukture zapisa ASN.1 objavi na svoji
+spletni strani.
+(2) EŠEI poslovnega subjekta se v kvalificirano potrdilo
+zapiše kot zasebna razširitev kvalificiranega potrdila z oznako OID, ki jo pri
+pristojni mednarodni organizaciji pridobi organ, pristojen za informacijsko
+družbo, in jo skupaj z definicijo strukture zapisa ASN.1 objavi na svoji
+spletni strani.
+53. člen
+(dostop do storitve za pridobivanje EŠEI)
+(1) Ponudniki elektronskih storitev za zagotavljanje
+svojih storitev pridobijo podatke o EŠEI imetnika kvalificiranega potrdila na
+podlagi identifikacijskih podatkov kvalificiranega potrdila prek spletne
+storitve za pridobivanje EŠEI posameznega ponudnika storitve zaupanja.
+Specifikacijo spletne storitve na svoji spletni strani objavi organ, pristojen
+za informacijsko družbo.
+(2) Spletni naslov spletne storitve se v kvalificirano
+potrdilo zapiše kot zasebna razširitev kvalificiranega potrdila z oznako OID,
+ki jo pri pristojni mednarodni organizaciji pridobi organ, pristojen za
+informacijsko družbo, in jo skupaj z definicijo strukture zapisa ASN.1 objavi
+na svoji spletni strani.
+54. člen
+(dostop do storitve za preverjanje EŠEI)
+(1) Ponudniki elektronskih storitev za zagotavljanje
+svojih storitev preverijo podatke o EŠEI imetnika kvalificiranega potrdila na
+podlagi identifikacijskih podatkov kvalificiranega potrdila prek spletne
+storitve za preverjanje EŠEI posameznega ponudnika storitve zaupanja. Specifikacijo
+spletne storitve na svoji spletni strani objavi organ, pristojen za
+informacijsko družbo.
+(2) Spletni naslov spletne storitve se v kvalificirano
+potrdilo zapiše kot zasebna razširitev kvalificiranega potrdila z oznako OID,
+ki jo pri pristojni mednarodni organizaciji pridobi organ, pristojen za
+informacijsko družbo, in jo skupaj z definicijo strukture zapisa ASN.1 objavi
+na svoji spletni strani.
+VIII. CENTRALNA STORITEV ZA SPLETNO PRIJAVO IN ELEKTRONSKI
+PODPIS
+55. člen
+(uporaba za namen identifikacije in avtentikacije ter
+tehnične specifikacije)
+(1) Ponudniki elektronskih storitev uporabljajo
+centralno storitev za spletno prijavo in elektronski podpis za identifikacijo
+fizične osebe in njegovo avtentikacijo z uporabo sredstev elektronske
+identifikacije, če jim to omogoča zakon, ki ureja centralno storitev za spletno
+prijavo in elektronski podpis, in izpolnjujejo naslednje pogoje:
+-       
+ministrstvu, ki zagotavlja delovanje centralne storitve za spletno
+prijavo in elektronski podpis (v nadaljnjem besedilu: upravljavec centralne
+storitve), predajo vlogo za uporabo centralne storitve za spletno prijavo in
+elektronski podpis za identifikacijo in avtentikacijo;
+-       
+integracijo s centralno storitvijo za spletno prijavo in elektronski
+podpis izvedejo v skladu s tehničnimi specifikacijami, kar dokažejo z uspešno
+integracijo v testnem okolju upravljavca centralne storitve;
+-       
+z upravljavcem centralne storitve podpišejo dogovor o uporabi centralne
+storitve za spletno prijavo in elektronski podpis.
+(2) Storitev se uporablja tako, kot je določeno v
+tehničnih specifikacijah centralne storitve za spletno prijavo in elektronski
+podpis za identifikacijo in avtentikacijo, ki so objavljene na portalu NIO.
+(3) Če niso izpolnjeni pogoji iz prvega odstavka tega
+člena o uporabi centralne storitve za spletno prijavo in elektronski podpis, se
+zahtevek za uporabo zavrne.
+56. člen
+(uporaba za namen elektronskega podpisovanja in tehnične
+specifikacije)
+(1) Ponudniki elektronskih storitev uporabljajo
+centralno storitev za spletno prijavo in elektronski podpis za namen
+elektronskega podpisovanja dokumentov z uporabo potrdila za elektronski podpis,
+če jim to omogoča zakon, ki ureja centralno storitev za spletno prijavo in
+elektronski podpis, in izpolnjujejo naslednje pogoje:
+-       
+upravljavcu centralne storitve pošljejo vlogo za uporabo centralne
+storitve za spletno prijavo in elektronski podpis za elektronsko podpisovanje
+dokumentov;
+-       
+integracijo s centralno storitvijo za spletno prijavo in elektronski
+podpis izvedejo v skladu s tehničnimi specifikacijami, kar dokažejo z uspešno
+integracijo v testnem okolju upravljavca centralne storitve;
+-       
+z upravljavcem centralne storitve podpišejo dogovor o uporabi centralne
+storitve za spletno prijavo in elektronski podpis.
+(2) Storitev se uporablja tako, kot je določeno v tehničnih
+specifikacijah centralne storitve za spletno prijavo in elektronski podpis za
+elektronsko podpisovanje dokumentov, ki so objavljene na portalu NIO.
+(3) Če niso izpolnjeni pogoji iz prvega odstavka tega
+člena o uporabi centralne storitve za spletno prijavo in elektronski podpis, se
+zahtevek za uporabo zavrne.
+57. člen
+(uporaba za namen čezmejne avtentikacije in tehnične
+specifikacije)
+(1) Ponudniki elektronskih storitev, registrirani v
+Republiki Sloveniji, uporabljajo centralno storitev za spletno prijavo in
+elektronski podpis za čezmejno avtentikacijo v skladu s 6. členom Uredbe
+910/2014/EU, če izpolnjujejo naslednje pogoje:
+-       
+upravljavcu centralne storitve pošljejo vlogo za uporabo centralne
+storitve za spletno prijavo in elektronski podpis za čezmejno avtentikacijo;
+-       
+integracijo s centralno storitvijo za spletno prijavo in elektronski
+podpis izvedejo v skladu s tehničnimi specifikacijami, kar dokažejo z uspešno
+integracijo v testnem okolju upravljavca centralne storitve;
+-       
+z upravljavcem centralne storitve podpišejo dogovor o uporabi centralne
+storitve za spletno prijavo in elektronski podpis.
+(2) Storitev se za ponudnike elektronskih storitev iz
+prejšnjega odstavka uporablja tako, kot je določeno v drugem odstavku
+56. člena te uredbe.
+(3) Ponudniki elektronskih storitev, ki niso
+registrirani v Republiki Sloveniji, uporabljajo centralno storitev za spletno
+prijavo in elektronski podpis za čezmejno avtentikacijo v skladu s
+6. členom Uredbe 910/2014/EU, če izpolnjujejo naslednje pogoje:
+-       
+elektronsko storitev vključijo v interoperabilnostni okvir iz
+12. člena Uredbe 910/2014/EU v državi, v kateri so registrirani;
+-       
+integracijo z interoperabilnostnim okvirjem iz prejšnjega odstavka
+izvedejo v skladu s tehničnimi specifikacijami.
+(4) Storitev se za ponudnike elektronskih storitev iz
+prejšnjega odstavka uporablja tako, kot je določeno v izvedbenih aktih Uredbe
+910/2014/EU, ki se nanašajo na interoperabilnostni okvir iz 12. člena
+Uredbe 910/2014/EU.
+(5) Če niso izpolnjeni pogoji iz prvega odstavka tega
+člena o uporabi centralne storitve za spletno prijavo in elektronski podpis, se
+zahtevek za uporabo zavrne.
+58. člen
+(uporaba za namen ustvarjanja pooblastil in tehnične
+specifikacije)
+(1) Ponudniki elektronskih storitev uporabljajo
+centralno storitev za spletno prijavo in elektronski podpis za ustvarjanje
+pooblastil v elektronski obliki za identifikacijo in avtentikacijo pooblaščenca
+in njihovo uporabo v pravnem prometu, če jim to omogoča zakon, ki ureja
+centralno storitev za spletno prijavo in elektronski podpis, in izpolnjujejo
+naslednje pogoje:
+-       
+upravljavcu centralne storitve pošljejo vlogo za uporabo centralne
+storitve za spletno prijavo in elektronski podpis za ustvarjanje pooblastil v
+elektronski obliki;
+-       
+integracijo s centralno storitvijo za spletno prijavo in elektronski
+podpis izvedejo v skladu s tehničnimi specifikacijami, kar dokažejo z uspešno
+integracijo v testnem okolju upravljavca centralne storitve;
+-       
+z upravljavcem centralne storitve podpišejo dogovor o uporabi centralne
+storitve za spletno prijavo in elektronski podpis.
+(2) Storitev se uporablja tako, kot je določeno v
+tehničnih specifikacijah centralne storitve za spletno prijavo in elektronski
+podpis za ustvarjanje pooblastil v elektronski obliki, ki so objavljene na
+portalu NIO.
+(3) Če niso izpolnjeni pogoji iz prvega odstavka tega
+člena o uporabi centralne storitve za spletno prijavo in elektronski podpis, se
+zahtevek za uporabo zavrne.
+59. člen
+(neizpolnjevanje pogojev)
+Če upravljavec centralne storitve na kakršenkoli način
+ugotovi, da ponudnik elektronskih storitev ne izpolnjuje pogojev iz tega
+poglavja, z odločbo ugotovi neizpolnjevanje pogojev in za konkretnega ponudnika
+preneha zagotavljati centralno storitev.
+60. člen
+(cenik)
+Za uporabo storitev iz tega poglavja se določi cenik, ki ga
+določi minister, pristojen za zagotavljanje centralne storitve za spletno
+prijavo in elektronski podpis, in ga objavi na spletnih straneh ministrstva,
+pristojnega za zagotavljanje centralne storitve za spletno prijavo in
+elektronski podpis.
+IX. NADZOR NAD IZVAJANJEM TE UREDBE
+61. člen
+(izvajanje nadzora)
+(1) Nadzor nad izvajanjem te uredbe opravlja Inšpekcija
+za informacijsko družbo v skladu z Zakonom o elektronski identifikaciji in
+storitvah zaupanja.
+(2) V primeru kršitev te uredbe inšpektor predlaga
+ukrepe za izboljšanje poslovanja organa ali odredi odpravo nezakonitosti.
+X. KONČNA DOLOČBA
+62. člen
+(začetek veljavnosti)
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije, poglavji »II. Sredstvo visoke ravni na osebni
+izkaznici« in »III. Sredstvo nizke ravni na osebni izkaznici« pa se začneta
+uporabljati 28. marca 2022.
+Št. 00704-65/2022
+Ljubljana, dne 3. marca 2022
+EVA 2021-3130-0052
+Vlada Republike Slovenije
+Janez Janša
+predsednik

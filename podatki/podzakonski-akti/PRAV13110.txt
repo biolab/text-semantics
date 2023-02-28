@@ -1,0 +1,984 @@
+1. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) Ta pravilnik ureja vlaganje elektronskih vlog in
+elektronsko vročanje v pravdnem postopku in drugih civilnih sodnih postopkih (v
+nadaljnjem besedilu: civilni sodni postopki), v katerih se za vlaganje
+elektronskih vlog in elektronsko vročanje uporabljajo pravila Zakona o pravdnem
+postopku (Uradni list RS, št. 73/07 – uradno prečiščeno besedilo, 45/08 –
+ZArbit, 45/08, 111/08 – odl. US, 57/09 – odl. US in 12/10 – odl. US, 50/10
+– odl. US, 107/10 – odl. US, 75/12 – odl. US, 40/13 – odl. US, 92/13 – odl. US,
+10/14 – odl. US, 48/15 – odl. US, 6/17 – odl. US in 10/17; v nadaljnjem
+besedilu: ZPP).
+(2) Ta pravilnik glede vlaganja elektronskih vlog v
+civilnih sodnih postopkih predpisuje:
+1.     
+organizacijo in delovanje informacijskega sistema sodstva (v nadaljnjem
+besedilu: e-sodstvo),
+2.     
+pogoje in način vložitve vlog v elektronski obliki oziroma po
+elektronski poti,
+3.     
+obliko zapisa vloge v elektronski obliki.
+(3) Ta pravilnik glede elektronskega vročanja v civilnih
+sodnih postopkih:
+1.     
+predpisuje, kaj je varna elektronska pot,
+2.     
+določa pogoje za pridobitev dovoljenja za varno elektronsko vročanje in
+3.     
+določa višino nadomestila za posredovanje pri vročanju pisanj v varni
+elektronski predal.
+2. člen
+(informacijski sistem e-sodstvo, portal e-sodstvo)
+(1) Informacijski sistem e-sodstvo je programska oprema,
+ki jo upravlja Center za informatiko na Vrhovnem sodišču Republike Slovenije (v
+nadaljnjem besedilu: Center za informatiko) in ki vključuje naslednje module:
+1.     
+modul z varnostno shemo,
+2.     
+module za podporo izvajanja elektronskih opravil v civilnih sodnih postopkih
+(v nadaljnjem besedilu: modul e-opravila),
+3.     
+module za podporo vodenja elektronskega vpisnika (v nadaljnjem
+besedilu: modul e-vpisnik) in elektronskega spisa v civilnih sodnih postopkih
+(v nadaljnjem besedilu: modul e-spis) in
+4.     
+modul za podporo poslovanja sodišč pri vročanju (v nadaljnjem besedilu:
+modul e-poštna knjiga).
+(2) Portal e-sodstvo je javno spletišče, ki je sestavni
+del informacijskega sistema e-sodstvo.
+3. člen
+(pojmi, uporabljeni v enakem pomenu kot v drugih predpisih)
+Pojmi, uporabljeni v tem pravilniku imajo pomen, opredeljen v
+določbah Zakona o elektronskem poslovanju in elektronskem podpisu (Uradni list
+RS, št. 98/04 − uradno prečiščeno besedilo in 61/06 – ZEPT):
+1.     
+»varen elektronski podpis« v 4. točki 2. člena,
+2.     
+»časovni žig« v 5. točki 2. člena,
+3.     
+»kvalificirano potrdilo« v 19. točki 2. člena.
+4. člen
+(varnostna shema)
+Varnostna shema je modul informacijskega sistema e-sodstvo,
+ki omogoča:
+1.     
+podeljevanje in odvzemanje pooblastil glede vrste e-opravil, ki so jih
+upravičene izvajati posamezne podskupine uporabnikov (v nadaljnjem besedilu:
+upravljanje pooblastil uporabnikov), in
+2.     
+podeljevanje in odvzemanje pooblastil administratorjem posamezne skupine
+ali podskupine uporabnikov (v nadaljnjem besedilu: upravljanje pooblastil
+administratorjem).
+5. člen
+(elektronska pisanja strank, elektronska opravila in
+uporabniki informacijskega sistema e-sodstvo)
+(1) Pojmi, uporabljeni v tem pravilniku v zvezi z
+elektronskimi pisanji strank, pomenijo:
+1.     
+elektronska vloga je elektronski dokument z vsebino vloge stranke v
+civilnem sodnem postopku,
+2.     
+elektronska priloga je v elektronsko obliko pretvorjena pisna listina
+ali dokument, ki je izvorno nastal v elektronski obliki, ki se priloži
+elektronski vlogi,
+3.     
+prepis elektronske vloge ali elektronskih prilog je elektronska vloga
+ali priloga, ki je pretvorjena v obliko z vsebino, primerno za branje in izpis
+na papir.
+(2) Elektronsko opravilo (v nadaljnjem besedilu
+e-opravilo) je:
+1.     
+elektronska vložitev elektronske vloge z elektronskimi prilogami,
+2.     
+poizvedba o stanju civilnega sodnega postopka ali o vsebini procesnih
+dejanj v tem postopku,
+3.     
+splošna poizvedba o civilnih sodnih postopkih ali javnih evidencah, ki
+jih vodi sodišče.
+(3) Uporabniki informacijskega sistema e-sodstvo
+(v nadaljnjem besedilu: uporabniki) so osebe, ki so po zakonu ali drugem
+predpisu upravičene opravljati e-opravila.
+6. člen
+(elektronska pisanja sodišča, elektronski sodni spis in
+elektronski postopek)
+(1) Pojmi, uporabljeni v tem pravilniku v zvezi z
+elektronskimi pisanji sodišča, pomenijo:
+1.     
+elektronska sodna odločba je elektronski dokument z vsebino sodne
+odločbe, ki:
+- 
+je podpisan varnim elektronskim podpisom pristojne osebe sodišča, ki jo
+je izdalo, ali
+- 
+se samodejno obdela v informacijskem sistemu sodstva in se podpiše z
+elektronskim žigom informacijskega sistema sodstva,
+2.     
+drugo elektronsko sodno pisanje je elektronski dokument z vsebino
+drugega pisanja sodišča v civilnem sodnem postopku, razen sodne odločbe:
+- 
+ki je podpisan z varnim elektronskim podpisom pristojne osebe sodišča
+ali
+- 
+pri katerem se podatki o datumu njegove izdelave ter podatki o osebi, ki
+je tako pisanje izdelala, s pomočjo ustreznih tehničnih sredstev samodejno
+evidentirajo v informacijskem sistemu (npr. zapisnik, odredba, uradni
+zaznamek),
+3.     
+elektronsko sodno pisanje je skupni pojem za elektronsko sodno odločbo
+in drugo elektronsko sodno pisanje,
+4.     
+odpravek elektronskega sodnega pisanja je elektronski dokument z vsebino
+elektronskega sodnega pisanja, ki je pretvorjeno v obliko, primerno za branje
+in izpis na papir.
+(2) Elektronski spis (v nadaljnjem besedilu: e-spis) je
+spis v zadevi posameznega civilnega sodnega postopka, ki se vodi elektronsko.
+(3) Elektronski vpisnik (v nadaljnjem besedilu:
+e-vpisnik) je vpisnik posamezne vrste civilnega sodnega postopka, ki se vodi
+elektronsko.
+(4) Elektronski postopek (v nadaljnjem besedilu:
+e-postopek) je vrsta civilnega sodnega postopka ali skupina civilnih sodnih postopkov,
+v katerih lahko uporabniki opravljajo e-opravila.
+7. člen
+(elektronska vročitev in modul e-poštna knjiga)
+(1) Pojem elektronska vročitev, uporabljen v tem
+pravilniku, pomeni vročitev po varni elektronski poti po ZPP.
+(2) Informacijski sistem za varno elektronsko vročanje
+je informacijski sistem, ki:
+1.     
+omogoča, da:
+- 
+se izvedejo postopki elektronske vročitve v skladu s četrtim do osmim
+odstavkom 141.a člena ZPP in tem pravilnikom,
+- 
+se izvedejo postopki elektronske vročitve v skladu s 141.b členom ZPP in
+tem pravilnikom,
+- 
+se vsa elektronska sporočila, ki jih pošlje ta informacijski sistem
+podpišejo s kvalificiranim potrdilom strežnika, na katerem teče ta
+informacijski sistem, in
+- 
+se izmenjava elektronskih sporočil in elektronskih dokumentov v
+postopkih iz prve in druge alineje te točke z modulom e-poštna knjiga izvaja po
+tehničnih zahtevah, ki so objavljene na spletni strani Ministrstva za
+pravosodje in na portalu e-sodstvo, ter
+2.     
+ga upravlja oseba, ki ima dovoljenje ministra za pravosodje za varno
+elektronsko vročanje (v nadaljnjem besedilu: izvajalec storitev varnega
+elektronskega vročanja).
+(3) Tehnične zahteve iz četrte alineje 1. točke
+prejšnjega odstavka pripravi Center za informatiko.
+(4) Varen elektronski predal je elektronski naslov
+uporabnika v informacijskem sistemu za varno elektronsko vročanje, ki ga upravlja
+izvajalec storitev varnega elektronskega vročanja.
+(5) Modul e-poštna knjiga je modul informacijskega
+sistema e-sodstvo, ki omogoča:
+1.     
+elektronsko vročanje elektronskih pisanj in vlaganje elektronskih
+vročilnic v e-spis,
+2.     
+samodejno izdelavo pisnih odpravkov elektronskih sodnih pisanj in
+prepisov elektronskih vlog ali elektronskih prilog in njihovo odpravo po pošti,
+3.     
+podporo pretvarjanju pisnih vročilnic v elektronsko obliko in njihovemu
+vlaganju v e-spis.
+8. člen
+(dovoljenje za varno elektronsko vročanje)
+(1) Minister za pravosodje izda dovoljenje za varno
+elektronsko vročanje:
+1.     
+pravni ali fizični osebi, ki opravlja vročanje pisanj po varni
+elektronski poti kot registrirano dejavnost in
+2.     
+če informacijski sistem, ki ga upravlja ta oseba, ustreza zahtevam iz 1.
+točke drugega odstavka prejšnjega člena.
+(2) Vlogo za izdajo dovoljenja za varno elektronsko
+vročanje vloži vlagatelj pri Ministrstvu za pravosodje.
+(3) Vlagatelj mora vlogi iz prejšnjega odstavka
+priložiti tehnično dokumentacijo informacijskega sistema za varno elektronsko vročanje
+in druge dokaze o tem, da ta sistem ustreza zahtevam iz 1. točke drugega
+odstavka prejšnjega člena.
+(4) Ministrstvo za pravosodje posreduje podatke o
+vložniku in priloženo dokumentacijo Centru za informatiko.
+(5) Center za informatiko preveri, ali informacijski
+sistem, ki ga upravlja vlagatelj, ustreza zahtevam iz 1. točke drugega odstavka
+prejšnjega člena in pošlje svoje mnenje Ministrstvu za pravosodje. Center za
+informatiko mora, preden pošlje svojo mnenje Ministrstvu za pravosodje,
+opraviti testiranje, s katerim preveri, ali informacijski sistem ponudnika
+ustreza zahtevam iz 1. točke drugega odstavka prejšnjega člena.
+(6) Minister za pravosodje vlagatelju, ki izpolnjuje
+pogoje iz prvega odstavka tega člena, izda dovoljenje za varno elektronsko vročanje.
+Na podlagi tega dovoljenja mora izvajalec storitev varnega elektronskega
+vročanja pred začetkom opravljanja storitev s Centrom za informatiko skleniti
+pogodbo, v kateri so podrobneje urejene medsebojne pravice in obveznosti glede
+elektronske izmenjave elektronskih sporočil in dokumentov pri postopkih varnega
+elektronskega vročanja.
+(7) Ne glede na 1. točko prvega odstavka tega člena
+lahko informacijski sistem za varno elektronsko vročanje državnim organom ali
+organom lokalne skupnosti upravlja državni organ, če njegov informacijski
+sistem ustreza zahtevam iz 1. točke drugega odstavka prejšnjega člena, kar
+preveri Center za informatiko na način iz petega odstavka tega člena, in s
+Centrom
+za informatiko sklene dogovor, v katerem so podrobneje
+urejene medsebojne pravice in obveznosti glede elektronske izmenjave
+elektronskih sporočil in dokumentov pri postopkih varnega elektronskega
+vročanja.
+(8) Ne glede na 1. točko prvega odstavka tega člena
+lahko naslovnik za lastne potrebe vzpostavi naslov za vročanje in ga registrira
+v informacijskem sistemu sodstva, če ustreza zahtevam iz 1. točke drugega
+odstavka prejšnjega člena, kar preveri Center za informatiko na način iz petega
+odstavka tega člena, in s Centrom za informatiko sklene pogodbo, v kateri so
+podrobneje urejene medsebojne pravice in obveznosti glede elektronske izmenjave
+elektronskih sporočil in dokumentov pri postopkih varnega elektronskega
+vročanja. Naslovnik lahko ta naslov za vročanje uporablja le za lastne potrebe
+in ni upravičen do nadomestila za posredovanje pri vročanju.
+(9) Minister za pravosodje na predlog ali po uradni
+dolžnosti odvzame dovoljenje za varno elektronsko vročanje, če izvajalec
+storitev varnega elektronskega vročanja ne izpolnjuje več pogojev iz 1. točke
+prvega odstavka tega člena ali če informacijski sistem, ki ga upravlja ta
+oseba, ne ustreza več zahtevam iz 1. točke drugega odstavka prejšnjega člena.
+(10) Če Center za informatiko ugotovi, da informacijski
+sistem, ki ga upravlja izvajalec storitev varnega elektronskega vročanja, več
+ne ustreza zahtevam iz 1. točke drugega odstavka prejšnjega člena, o tem v roku
+pet delovnih dni obvesti Ministrstvo za pravosodje.
+(11) V primeru sprememb tehničnih zahtev iz četrte
+alineje 1. točke drugega odstavka prejšnjega člena mora izvajalec storitev varnega
+elektronskega vročanja prilagoditi svoj informacijski sistem v roku, ki je
+določen ob objavi sprememb tehničnih zahtev, ki pa ne sme biti krajši od 30
+dni.
+9. člen
+(nadomestilo za posredovanje pri vročanju)
+Za posredovanje pri vročanju sodišče izvajalcu storitev
+varnega elektronskega vročanja plača nadomestilo v višini 0,30 EUR na posamezno
+elektronsko pošiljko, ki se vroča po pravilih osebnega vročanja, in 0,15 EUR za
+posamezno elektronsko pošiljko, ki se vroča po pravilih navadnega vročanja.
+2. UPORABNIKI INFORMACIJSKEGA SISTEMA E-SODSTVO IN
+VARNOSTNA SHEMA
+10. člen
+(uporabniške skupine)
+(1) Uporabniki informacijskega sistema e-sodstvo se
+delijo na naslednje splošne skupine:
+1.     
+uporabnike, ki se jim pri uporabi informacijskega sistema e-sodstvo ni
+treba izkazati (v nadaljnjem besedilu: navadni uporabniki),
+2.     
+uporabnike, ki se pri uporabi informacijskega sistema e-sodstvo izkažejo
+z vnosom uporabniškega imena in gesla (v nadaljnjem besedilu: registrirani
+uporabniki) in
+3.     
+uporabnike, ki se pri uporabi informacijskega sistema e-sodstvo izkažejo
+z vnosom uporabniškega imena in gesla in z uporabo kvalificiranega potrdila (v
+nadaljnjem besedilu: kvalificirani uporabniki).
+(2) Kvalificirani uporabniki se delijo na zunanje in
+notranje kvalificirane uporabnike.
+(3) Notranji kvalificirani uporabniki so sodniki in
+uslužbenci sodišč, ki so po zakonu in sodnem redu upravičeni opravljati
+e-opravila v posamezni vrsti civilnih sodnih postopkov.
+(4) Zunanji kvalificirani uporabniki se delijo na:
+1.     
+samostojne zunanje kvalificirane uporabnike in
+2.     
+pooblaščence samostojnih uporabnikov.
+(5) Samostojni zunanji kvalificirani uporabniki se
+delijo na:
+1.     
+uporabnike, ki imajo v civilnih sodnih postopkih položaj zastopnika ali
+organa sodišča (v nadaljnjem besedilu: profesionalni uporabniki), in
+2.     
+uporabnike, ki imajo v civilnih sodnih postopkih položaj stranke
+postopka (v nadaljnjem besedilu: uporabniki – stranke).
+(6) Profesionalni uporabniki se delijo na naslednje
+skupine:
+1.     
+notarji,
+2.     
+odvetniki,
+3.     
+izvršitelji,
+4.     
+upravitelji,
+5.     
+Državno odvetništvo Republike Slovenije,
+6.     
+državna tožilstva,
+7.     
+nepremičninske družbe,
+8.     
+občinska pravobranilstva.
+(7) Uporabniki – stranke se delijo na naslednje skupine:
+1.     
+stranke – pravne osebe,
+2.     
+stranke – fizične osebe in
+3.     
+državni organi in organi lokalnih skupnosti.
+(8) Pooblaščenec samostojnega uporabnika je fizična
+oseba, ki:
+1.     
+je pri samostojnem zunanjem kvalificiranem uporabniku, organiziranem v
+pravnoorganizacijski obliki pravne osebe ali evidentiranega odvetnika, na
+podlagi zaposlitve pooblaščena v imenu tega uporabnika opravljati e-opravila v
+civilnih sodnih postopkih, ali
+2.     
+pri samostojnem zunanjem kvalificiranem uporabniku, ki je državni organ
+ali organ lokalne skupnosti, opravlja funkcijo ali naloge, na podlagi katerih
+je upravičena v imenu tega organa opravljati e-opravila v civilnih sodnih
+postopkih.
+(9) Center za informatiko mora na portalu e-sodstvo
+omogočiti dostop do varnostne sheme za upravljanje pooblastil zunanjih
+kvalificiranih uporabnikov.
+11. člen
+(upravljanje pooblastil registriranih uporabnikov)
+Informacijski sistem e-sodstvo mora vsakomur omogočiti, da:
+1.     
+se prek portala e-sodstvo prijavi v sistem kot registrirani uporabnik in
+2.     
+izvaja e-opravila v zvezi s posamezno vrsto civilnega sodnega postopka,
+ki jih je po zakonu ali drugem predpisu upravičen opravljati registrirani
+uporabnik.
+12. člen
+(upravljanje pooblastil notranjih kvalificiranih
+uporabnikov)
+Center za informatiko upravlja pooblastila notranjih
+kvalificiranih uporabnikov v notranji varnostni shemi informacijskega sistema
+sodišč v skladu z zakonom, ki ureja sodišča in sodnim redom.
+13. člen
+(upravljanje pooblastil administratorjev)
+(1) Administrator posamezne skupine profesionalnih
+uporabnikov (v nadaljnjem besedilu: administrator) je:
+1.     
+za skupino notarjev: Notarska zbornica Slovenije,
+2.     
+za skupino odvetnikov: Odvetniška zbornica Slovenije,
+3.     
+za skupino izvršiteljev: Zbornica izvršiteljev Slovenije,
+4.     
+za skupino upraviteljev: Zbornica upraviteljev Slovenije,
+5.     
+za skupini Državno odvetništvo Republike Slovenije in občinska
+pravobranilstva: Državno odvetništvo Republike Slovenije,
+6.     
+za skupino državnih tožilstev: Vrhovno državno tožilstvo Republike
+Slovenije in
+7.     
+za skupino nepremičninskih družb: Ministrstvo za okolje in prostor.
+(2) Center za informatiko mora v treh delovnih dneh po
+prejemu popolne zahteve administratorja posamezne skupine profesionalnih
+uporabnikov temu omogočiti, da v varnostni shemi izvaja postopke upravljanja
+kvalificiranih uporabnikov iz te skupine, in ga o tem obvestiti na elektronski
+naslov, naveden v zahtevi.
+(3) Zahteva iz prejšnjega odstavka mora vsebovati:
+1.     
+naslednje podatke o administratorju:
+- 
+naziv,
+- 
+matično številko,
+- 
+davčno številko in
+- 
+elektronski naslov za sprejemanje obvestil Centra za informatiko;
+2.     
+naslednje podatke o odgovorni osebi, ki v imenu administratorja vlaga
+zahtevo:
+- 
+osebno ime,
+- 
+funkcijo ali položaj pri administratorju,
+- 
+telefonsko številko in
+- 
+elektronski naslov za sprejemanje obvestil Centra za informatiko;
+3.     
+lastnoročni podpis odgovorne osebe administratorja.
+(4) Administrator mora v treh delovnih dneh po prejemu
+obvestila Centra za informatiko obvestiti profesionalne uporabnike skupine, ki
+jo upravlja, da lahko oddajo prvo prijavo v skladu s 15. členom tega
+pravilnika.
+(5) Administrator lahko spremeni svoj elektronski
+naslov, vpisan v varnostni shemi tako, da odda prijavo za to spremembo prek
+portala e-sodstvo.
+(6) Za fizične osebe, ki jih administrator pooblasti, da
+v njegovem imenu odločajo o potrditvi ali zavrnitvi vključitve uporabnika v
+skupini profesionalnih uporabnikov, ki jo upravlja, se smiselno uporablja
+16. člen tega pravilnika.
+14. člen
+(pogoji za vključitev zunanjega kvalificiranega uporabnika v
+varnostno shemo)
+(1) Uporabnik se lahko vključi v varnostno shemo kot
+samostojni zunanji kvalificirani uporabnik, če ima:
+1.     
+varen elektronski predal za vročanje pisanj v civilnih sodnih postopkih
+in
+2.     
+veljavno kvalificirano potrdilo, ki je povezano z njegovo davčno
+številko.
+(2) Uporabnik – fizična oseba in uporabnik – pravna
+oseba se lahko vključi v varnostno shemo kot samostojni zunanji kvalificirani
+uporabnik tudi samo z veljavnim kvalificiranim potrdilom, povezanim z njegovo
+davčno številko.
+(3) Če ima uporabnik položaj pravne osebe, državnega
+organa ali organa lokalne skupnosti ali če kot profesionalni uporabnik opravlja
+svoje storitve prek pravnoorganizacijske oblike, ki ni pravna oseba in je
+vpisana v Poslovni register Republike Slovenije (v nadaljnjem besedilu: PRS),
+se vključi v varnostno shemo kot subjekt PRS.
+(4) Kvalificirano potrdilo uporabnika, ki se v varnostno
+shemo vključuje kot subjekt PRS, mora biti povezano z davčno številko tega
+uporabnika, vpisano v PRS.
+(5) V posamezno skupino profesionalnih uporabnikov se
+lahko vključi uporabnik, ki poleg pogojev iz prvega odstavka tega člena,
+izpolnjuje tudi naslednje pogoje:
+1.     
+v skupino notarjev: če ima položaj notarja po zakonu, ki ureja notariat,
+2.     
+v skupino odvetnikov: če ima položaj evidentiranega odvetnika ali
+odvetniške družbe po zakonu, ki ureja odvetništvo,
+3.     
+v skupino izvršiteljev: če ima položaj izvršitelja po zakonu, ki ureja
+izvršbo in zavarovanje,
+4.     
+v skupino upraviteljev: če ima položaj upravitelja po zakonu, ki ureja
+postopke zaradi insolventnosti,
+5.     
+v skupino nepremičninskih družb: če ima položaj nepremičninske družbe po
+zakonu, ki ureja nepremičninsko posredovanje.
+(6) Uporabnik se vključi v varnostno shemo v posamezni
+skupini profesionalnih uporabnikov, če njegovo prijavo potrdi administrator te
+uporabniške skupine.
+(7) Fizična oseba se v varnostno shemo vključi kot
+subjekt, ki je vpisan v centralni register prebivalstva (v nadaljnjem besedilu:
+subjekt CRP), razen če se vključuje:
+-       
+bodisi v uporabniško skupino notarji,
+-       
+bodisi v uporabniško skupino odvetniki in odvetniške storitve opravlja
+prek pravnoorganizacijske oblike evidentiranega odvetnika,
+-       
+bodisi v uporabniško skupino izvršiteljev ali upraviteljev in naloge izvršitelja
+ali upravitelja opravlja prek pravnoorganizacijske oblike samostojnega
+podjetnika posameznika,
+-       
+bodisi v uporabniško skupino nepremičninske družbe in storitve
+nepremičninskega posredovanja opravlja prek pravnoorganizacijske oblike
+samostojnega podjetnika posameznika.
+(8) Fizična oseba, ki je subjekt CRP, se lahko vključi v
+varnostno shemo kot pooblaščenec samostojnega uporabnika, če:
+1.     
+ima veljavno kvalificirano potrdilo, ki je povezano z njeno davčno
+številko, in
+2.     
+njeno prijavo v varnostni shemi potrdi samostojni zunanji kvalificirani
+uporabnik, kot pooblaščenec katerega se je prijavila.
+(9) Uporabnik, ki je vključen v varnostno shemo kot
+pooblaščenec samostojnega uporabnika, opravlja e-opravila v imenu samostojnega
+zunanjega kvalificiranega uporabnika.
+(10) Posamezna fizična oseba je lahko hkrati vključena v
+varnostni shemi kot pooblaščenec samo enega samostojnega zunanjega
+kvalificiranega uporabnika v posamezni uporabniški skupini.
+15. člen
+(upravljanje pooblastil samostojnih zunanjih kvalificiranih
+uporabnikov)
+(1) Uporabnik se vključi v varnostno shemo v posamezni
+skupini samostojnih zunanjih kvalificiranih uporabnikov na podlagi prijave za
+vključitev v to skupino (v nadaljnjem besedilu: prva prijava).
+(2) Uporabnik, ki se želi vključiti v posamezno skupino
+samostojnih zunanjih kvalificiranih uporabnikov (v nadaljnjem besedilu:
+prijavitelj), odda prvo prijavo elektronsko prek portala e-sodstvo z uporabo
+svojega kvalificiranega potrdila.
+(3) Prijavitelj mora v prvi prijavi v ustrezne rubrike
+vnesti naslednje podatke:
+1.     
+podatek ali se vključuje kot subjekt PRS ali kot subjekt CRP,
+2.     
+skupino samostojnih zunanjih kvalificiranih uporabnikov, v kateri se
+želi vključiti (v nadaljnjem besedilu: izbrana uporabniška skupina),
+3.     
+glede na položaj, v katerem se vključuje v varnostno shemo, če:
+- 
+se vključuje kot subjekt CRP: svojo davčno številko, s katero je
+povezano njegovo kvalificirano potrdilo,
+- 
+se vključuje kot subjekt PRS: matično številko;
+4.     
+naslov varnega elektronskega predala za vročanje pisanj v civilnih
+sodnih postopkih in
+5.     
+elektronski naslov za sprejemanje obvestil Centra za informatiko.
+(4) Varnostna shema mora:
+1.     
+preveriti veljavnost kvalificiranega potrdila prijavitelja,
+2.     
+če je prijavitelj vključuje kot subjekt CRP, na podlagi vnesene davčne
+številke:
+- 
+preveriti, ali se vnesena davčna številka ujema z davčno številko, s
+katero je povezano kvalificirano potrdilo prijavitelja,
+- 
+v varnostno shemo iz centralnega registra prebivalcev prevzeti podatke o
+osebnem imenu in EMŠO prijavitelja;
+3.     
+če se prijavitelj vključuje kot subjekt PRS:
+- 
+na podlagi vnesene matične številke v varnostno shemo iz PRS prevzeti
+podatke o firmi, davčni številki, poslovnem naslovu in pravnoorganizacijski
+obliki,
+- 
+preveriti, ali se davčna številka, prevzeta iz PRS, ujema z davčno
+številko, s katero je povezano kvalificirano potrdilo prijavitelja;
+4.     
+v informacijskem sistemu za varno elektronsko vročanje preveriti, ali je
+odprt varni elektronski predal z naslovom, navedenim v prijavi.
+(5) Varnostna shema mora sprejeti oddajo prve prijave v
+izbrani uporabniški skupini:
+1.     
+če je kvalificirano potrdilo prijavitelja veljavno,
+2.     
+če se davčna številka, ki se prevzame v varnostno shemo, ujema z davčno
+številko, povezano s kvalificiranim potrdilom prijavitelja, in
+3.     
+če je odprt varni elektronski predal z naslovom, navedenim v prvi
+prijavi.
+(6) Če pogoji iz prejšnjega odstavka niso izpolnjeni,
+mora varnostna shema zavrniti vključitev prijavitelja v izbrani uporabniški skupini.
+(7) Če so pogoji iz petega odstavka tega člena
+izpolnjeni, mora varnostna shema glede na izbrano uporabniško skupino:
+1.     
+če je prijavitelj izbral uporabniško skupino profesionalnih uporabnikov:
+posredovati prijavo administratorju te skupine,
+2.     
+če je prijavitelj izbral uporabniško skupino uporabnikov – strank:
+vključiti prijavitelja v varnostno shemo v izbrani uporabniški skupini.
+(8) Administrator izbrane skupine profesionalnih
+uporabnikov mora preveriti, ali prijavitelj izpolnjuje pogoje za vključitev v
+to skupino iz petega odstavka 14. člena tega pravilnika, in glede na izid
+te preveritve potrditi ali zavrniti vključitev prijavitelja v izbrani
+uporabniški skupini v treh delovnih dneh po prejemu prve prijave.
+(9) Administrator mora prijavitelju poslati obvestilo o
+potrditvi ali zavrnitvi vključitve v skupino profesionalnih uporabnikov prek
+varnostne sheme na prijaviteljev elektronski naslov, naveden v prijavi.
+(10) Če uporabnik neha izpolnjevati pogoj za vključitev
+v posamezni skupini profesionalnih uporabnikov iz petega odstavka 14. člena
+tega pravilnika, mu mora administrator te skupine v varnostni shemi odvzeti
+pooblastila v treh delovnih dneh po dnevu, ko izve za ta razlog.
+(11) Prvi do deseti odstavek tega člena se smiselno
+uporabljajo tudi za:
+1.     
+vključitev uporabnika, ki je že vpisan v varnostni shemi, v dodatno
+uporabniško skupino samostojnih zunanjih kvalificiranih uporabnikov,
+2.     
+izključitev ali izstop uporabnika iz posamezne uporabniške skupine
+samostojnih zunanjih kvalificiranih uporabnikov in
+3.     
+spremembo varnega elektronskega predala ali elektronskega naslova
+uporabnika.
+16. člen
+(upravljanje pooblastil pooblaščencev samostojnih
+uporabnikov)
+(1) Fizična oseba se vključi v varnostno shemo kot
+pooblaščenec samostojnega uporabnika na podlagi prijave (v nadaljnjem besedilu:
+prijava pooblaščenca), ki jo odda elektronsko prek portala e-sodstvo z uporabo
+svojega kvalificiranega potrdila.
+(2) Prijavitelj mora v prijavi pooblaščenca v ustrezne
+rubrike vnesti naslednje podatke:
+1.     
+podatek, da se vključuje kot subjekt CRP,
+2.     
+svojo davčno številko, s katero je povezano njegovo kvalificirano
+potrdilo,
+3.     
+naslednje podatke o samostojnem zunanjem uporabniku, kot pooblaščenec
+katerega se prijavlja (v nadaljnjem besedilu: izbrani samostojni zunanji
+kvalificirani uporabnik):
+- 
+uporabniško skupino, v katero je vključen in
+- 
+davčno številko;
+4.     
+elektronski naslov za sprejemanje obvestil Centra za informatiko.
+(3) Varnostna shema mora:
+1.     
+preveriti veljavnost kvalificiranega potrdila prijavitelja,
+2.     
+preveriti, ali se vnesena davčna številka ujema z davčno številko, s
+katero je povezano kvalificirano potrdilo prijavitelja, in
+3.     
+v varnostno shemo iz centralnega registra prebivalcev prevzeti podatke o
+osebnem imenu in EMŠO prijavitelja.
+(4) Varnostna shema mora sprejeti oddajo prijave
+pooblaščenca, če:
+1.     
+je kvalificirano potrdilo prijavitelja veljavno,
+2.     
+se davčna številka, ki se prevzame v varnostno shemo, ujema z davčno
+številko, povezano s kvalificiranim potrdilom prijavitelja, in
+3.     
+je izpolnjen pogoj iz desetega odstavka 14. člena tega pravilnika.
+(5) Če pogoji iz prejšnjega odstavka niso izpolnjeni,
+mora varnostna shema zavrniti vključitev prijavitelja kot pooblaščenca samostojnega
+uporabnika.
+(6) Če so pogoji iz četrtega odstavka tega člena
+izpolnjeni, mora varnostna shema prijavo pooblaščenca posredovati v potrditev
+izbranemu samostojnemu zunanjemu kvalificiranemu uporabniku.
+(7) Izbrani samostojni zunanji kvalificirani uporabnik
+prek varnostne sheme potrdi ali zavrne vključitev prijavitelja kot njegovega
+pooblaščenca.
+(8) Prvi do sedmi odstavek tega člena se smiselno
+uporabljajo tudi za:
+1.     
+preklic ali odpoved pooblastila pooblaščencu samostojnega uporabnika in
+2.     
+spremembo elektronskega naslova pooblaščenca samostojnega uporabnika.
+17. člen
+(uporabniška navodila in seznam izvajalcev storitev varnega
+elektronskega vročanja)
+(1) Center za informatiko mora na portalu e-sodstvo
+objaviti in tekoče posodabljati uporabniška navodila:
+1.     
+za administratorje in zunanje kvalificirane uporabnike, ki vsebujejo
+opis postopkov pri upravljanju pooblastil zunanjih kvalificiranih uporabnikov,
+2.     
+za registrirane uporabnike, ki vsebujejo opis:
+- 
+postopkov pri izvajanju prve in naslednjih prijav in
+- 
+postopkov, če uporabnik pozabi geslo.
+(2) Seznam izvajalcev storitev varnega elektronskega
+vročanja, ki imajo v skladu s tem pravilnikom dovoljenje za varno elektronsko
+vročanje, objavi Ministrstvo za pravosodje na svojih spletnih straneh, Center
+za informatiko pa na portalu e-sodstvo.
+18. člen
+(vsebinska in tehnična pomoč uporabnikom)
+(1) Vsebinska pomoč uporabnikom je:
+1.     
+pomoč pri izvajanju postopkov prijave uporabnika in
+2.     
+pomoč pri izpolnjevanju podatkov v zaslonskih obrazcih in izvajanju
+drugih korakov e-opravil.
+(2) Tehnična pomoč uporabnikom je pomoč pri tehničnih
+težavah, povezanih z delovanjem modula varnostne sheme ali modula e-opravil.
+(3) Center za informatiko mora zagotavljati:
+1.     
+vsebinsko pomoč registriranim uporabnikom in notranjim kvalificiranim
+uporabnikom,
+2.     
+tehnično pomoč vsem uporabniškim skupinam.
+(4) Center za informatiko mora pomoč iz prejšnjega
+odstavka zagotavljati tako, da:
+1.     
+na portalu e-sodstvo objavi elektronski naslov, na katerega lahko
+uporabnik pošlje zahtevo za pomoč,
+2.     
+na zahtevo za pomoč odgovori naslednji delovni dan po prejemu zahteve.
+(5) Administrator posamezne skupine profesionalnih
+uporabnikov mora zagotavljati vsebinsko pomoč uporabnikom iz te skupine.
+3. E-OPRAVILA UPORABNIKOV INFORMACIJSKEGA SISTEMA
+E-SODSTVO
+19. člen
+(uporaba pravil o e-opravilih)
+Pravila, določena v 20. do 22. členu tega pravilnika, se
+uporabljajo v civilnih sodnih postopkih, v katerih je mogoče opravljati
+e-opravila po izdaji predpisa iz prvega odstavka 25. člena Zakona o
+spremembah in dopolnitvah Zakona o pravdnem postopku (Uradni list RS,
+št. 52/07) ali drugem predpisu, ki ureja posebno vrsto civilnega sodnega
+postopka, če ni v predpisu za posamezno vrsto ali skupino civilnih postopkov
+drugače določeno.
+20. člen
+(uporaba portala e-sodstvo)
+(1) Dostop do opravljanja e-opravil mora biti
+zagotovljen prek portala e-sodstvo.
+(2) Portal e-sodstvo mora biti zasnovan tako, da:
+1.     
+uporabnik ob vstopu na portal izbere uporabniško skupino in izvede
+postopek prijave v izbrani uporabniški skupini,
+2.     
+se po uspešno izvedeni prijavi za izbrano uporabniško skupino prikažejo
+e-postopki, v katerih so uporabniki izbrane uporabniške skupine upravičeni
+opravljati e-opravila,
+3.     
+se potem, ko uporabnik izbere posamezno vrsto ali skupino civilnih
+sodnih postopkov, prikažejo e-opravila, ki jih je uporabnik upravičen
+opravljati v izbranem e-postopku.
+21. člen
+(vložitev elektronske vloge prek portala e-sodstvo)
+(1) Uporabnik vloži elektronsko vlogo tako, da:
+1.     
+na portalu e-sodstvo izbere ustrezno e-opravilo za vložitev elektronske
+vloge in z uporabo ustrezne funkcionalnosti modula e-opravila v ustrezna polja
+zaslonskega obrazca vnese podatke o standardiziranem delu besedila vloge,
+2.     
+nestandardizirani del besedila elektronske vloge oblikuje kot poseben
+elektronski dokument, ki ustreza zahtevam iz 22. člena tega pravilnika,
+3.     
+elektronski dokument z nestandardiziranim delom besedila elektronske
+vloge priloži e-opravilu z uporabo ustrezne funkcionalnosti modula e-opravila
+in ga podpiše s svojim varnim elektronskim podpisom,
+4.     
+izbere ustrezno funkcionalnost modula e-opravila za oddajo elektronske
+vloge v informacijski sistem e-sodstvo.
+(2) Za elektronske priloge, ki se priložijo elektronski
+vlogi se smiselno uporabljata 2. in 3. točka prejšnjega odstavka.
+(3) Informacijski sistem e-sodstvo mora zagotoviti, da:
+1.     
+se vsaka prejeta elektronska vloga opremi s časovnim žigom časa prejema
+elektronske vloge, in
+2.     
+uporabniku posreduje elektronsko potrdilo o času prejema elektronske
+vloge.
+22. člen
+(elektronski dokument, ki se priloži e-opravilu)
+(1) Nestandardizirani del besedila elektronske vloge, ki
+je izvorno sestavljen kot pisni dokument, in prilogo, ki je pisna listina, mora
+uporabnik zaradi priložitve e-opravilu pretvoriti v elektronski dokument tako,
+da jo skenira.
+(2) Elektronski dokument iz prejšnjega odstavka mora
+ustrezati tem zahtevam:
+1.     
+biti mora v PDF/A obliki na črno bel način,
+2.     
+ločljivost mora biti med 240dpi in 300dpi,
+3.     
+če pisna listina obsega več listov, morajo biti vsi listi, ki jih obsega
+listina, vsebovani v eni PDF datoteki tako, da je vsak list na svoji strani
+brez vmesnih praznih listov,
+4.     
+če se prilagata dve listini ali več listin, mora biti vsaka listina v
+svoji PDF datoteki.
+(3) Če se nestandardizirani del besedila elektronske
+vloge izvorno sestavi kot elektronski dokument, mora biti e-opravilu priložen
+tako, da se pretvori v PDF/A obliko.
+(4) Če elektronski dokument, ki je priložen e-opravilu,
+ne ustreza zahtevam iz prvega, drugega ali tretjega odstavka tega člena, velja,
+da je elektronska vloga nepopolna.
+4. VODENJE E-SPISA
+23. člen
+(uporaba pravil o vodenju e-spisa)
+Pravila, določena v 24., 25. in 26. členu tega
+pravilnika, se uporabljajo v civilnih sodnih postopkih, v katerih se po zakonu
+ali drugem predpisu vodi e-spis.
+24. člen
+(način vodenja e-spisa)
+(1) E-spis se vodi tako, da se v centralni
+informatizirani bazi e-spisa hranijo:
+1.     
+vse elektronske vloge in elektronske priloge, ki so jih vložile stranke
+v posamezni zadevi,
+2.     
+vsa elektronska sodna pisanja, ki jih je izdalo sodišče v tej zadevi, in
+3.     
+elektronske vročilnice in v elektronsko obliko pretvorjene pisne
+vročilnice v zvezi z vsemi vročitvami v tej zadevi.
+(2) Centralna informatizirana baza e-spisa mora biti
+zasnovana tako, da so elektronski dokumenti, ki spadajo v e-spis posamezne
+zadeve, opremljeni z meta podatki o tej zadevi, s katerimi jih je mogoče
+povezati s to zadevo.
+25. člen
+(izvirnik in odpravki elektronskega pisanja sodišča)
+(1) Elektronska sodna odločba velja za izvirnik sodne
+odločbe.
+(2) Pri elektronski vročitvi sodne odločbe se pošlje
+odpravek elektronske sodne odločbe kot elektronski dokument.
+(3) Pri vročitvi sodne odločbe po pošti se pošlje
+natisnjeni odpravek elektronske sodne odločbe.
+(4) Prvi do tretji odstavek tega člena se smiselno
+uporabljajo tudi za druga sodna pisanja.
+26. člen
+(pretvarjanje pisnih vročilnic v elektronsko obliko)
+(1) Pisne vročilnice se pretvorijo v elektronsko obliko
+tako, da se skenirajo.
+(2) Elektronski dokument z vsebino skenirane pisne
+vročilnice se vloži v e-spis in ima enako dokazno moč kot vročilnica po
+149. členu ZPP.
+5. ELEKTRONSKO VROČANJE
+27. člen
+(uporaba pravil o elektronskem vročanju)
+Pravila, določena v 28. do 33. členu tega pravilnika, se
+uporabljajo v civilnih sodnih postopkih, v katerih je mogoče opravljati
+elektronsko vročanje po izdaji predpisa iz drugega odstavka 25. člena
+Zakona o spremembah in dopolnitvah Zakona o pravdnem postopku (Uradni list RS,
+št. 52/07) ali drugem predpisu, ki ureja posebno vrsto civilnega sodnega
+postopka.
+28. člen
+(odprava elektronske pošiljke)
+(1) Elektronsko pisanje se odpravi v postopek
+elektronskega vročanja tako, da se določi način vročitve (osebna/navadna), informacijski
+sistem e-sodstvo pa pisanje, ki naj se vroči (v nadaljnjem besedilu:
+elektronska pošiljka):
+1.     
+podpiše z digitalnim potrdilom strežnika informacijskega sistema
+e-sodstvo in
+2.     
+ga pošlje informacijskemu sistema za varno elektronsko vročanje, v
+katerem ima naslovnik svoj varen elektronski predal ali na naslov za vročanje,
+ki je registriran v informacijskem sistemu sodstva v skladu s tem pravilnikom
+(v nadaljnjem besedilu: varni elektronski predal), s sporočilom, ki vsebuje te
+podatke o:
+- 
+sodišču (pošiljatelju),
+- 
+oznaki elektronskega dokumenta (pisanja), ki jo določi informacijski
+sistem e-sodstvo in
+- 
+varnem elektronskem predalu naslovnika.
+(2) Informacijski sistem za varno elektronsko vročanje
+mora potrditi sprejem pisanja v postopek vročanja tako, da informacijskemu
+sistemu e-sodstvo pošlje sporočilo o potrditvi sprejema, podpisano s
+kvalificiranim potrdilom strežnika, na katerem teče informacijski sistem za
+varno elektronsko vročanje.
+29. člen
+(obvestilo o prispeli elektronski pošiljki)
+Informacijski sistem za varno elektronsko vročanje mora
+elektronsko pošiljko poslati naslovniku v varen elektronski predal skupaj z
+elektronskim obvestilom (v nadaljnjem besedilu: obvestilo o prispeli
+elektronski pošiljki).
+30. člen
+(obvestilo o prispeli elektronski pošiljki pri osebnem
+vročanju)
+(1) Obvestilo o prispeli elektronski pošiljki mora, če
+gre za osebno vročitev (141.a člen ZPP), vsebovati:
+1.     
+podatke o sodišču (pošiljatelju) in
+2.     
+besedilo z naslednjo vsebino:
+»Obveščamo vas, da je v vaš varni elektronski predal dne
+________ <datum posredovanja obvestila> prispela pošiljka, z oznako
+___________ <oznaka dokumenta, ki jo je ob odpravi določil informacijski
+sistem e-sodstvo>.
+Pošiljko lahko prevzamete v roku 15 dni v vašem varnem
+elektronskem predalu na naslovu ________ <naslov s povezavo za dostop>.
+Rok za prevzem začne teči od dne ________ <datum posredovanja obvestila>.
+Če v tem roku pošiljke ne boste prevzeli, se bo po sedmem odstavku
+141.a člena ZPP s potekom tega roka vročitev štela za opravljeno.«.
+(2) Obvestilo o prispeli elektronski pošiljki mora, če
+gre za navadno vročitev (141.b člen ZPP), vsebovati:
+1.     
+podatke o sodišču (pošiljatelju) in
+2.     
+besedilo z naslednjo vsebino:
+»Obveščamo vas, da je v vaš varni elektronski predal dne
+________ <datum posredovanja obvestila> prispela pošiljka, z oznako
+___________ <oznaka dokumenta, ki jo je ob odpravi določil informacijski
+sistem e-sodstvo>, ki se po prvem odstavku 141.b člena ZPP z istim dnem
+šteje za vročeno. Pošiljko lahko prevzamete v vašem varnem elektronskem predalu
+na naslovu ________ <naslov s povezavo za dostop>.«.
+31. člen
+(prevzem elektronske pošiljke in elektronska vročilnica)
+(1) Naslovnik elektronsko pošiljko prevzame iz
+informacijskega sistema za varno elektronsko vročanje tako, da z uporabo
+kvalificiranega potrdila:
+1.     
+dokaže svojo istovetnost,
+2.     
+presname elektronski dokument in
+3.     
+elektronsko podpiše vročilnico s svojim varnim elektronskim podpisom (v
+nadaljnjem besedilu: elektronska vročilnica).
+(2) Elektronska vročilnica mora vsebovati:
+1.     
+podatke o sodišču (pošiljatelju),
+2.     
+podatke o naslovniku in
+3.     
+besedilo z naslednjo vsebino:
+»Naslovnik potrjujem, da sem dne ________ <datum
+elektronskega podpisa vročilnice> sprejel pošiljko z oznako ___________
+<oznaka dokumenta, ki jo je ob odpravi določil informacijski sistem
+e-sodstvo>.«.
+(3) Informacijski sistem za varno elektronsko vročanje
+mora informacijski sistem-e sodstvo obvestiti o opravljeni vročiti tako, da mu
+pošlje elektronsko vročilnico, podpisano z varnim elektronskim podpisom
+naslovnika.
+32. člen
+(potrdilo o opravljeni elektronski vročitvi na podlagi
+fikcije)
+(1) Če naslovnik elektronske pošiljke ne prevzame v
+15 dneh od dneva, ko je prejel obvestilo o prispeli elektronski pošiljki,
+mora informacijski sistem za varno elektronsko vročanje naslednji dan po poteku
+tega roka informacijskemu sistemu e-sodstvo poslati sporočilo s potrdilom o
+opravljeni elektronski vročitvi na podlagi fikcije.
+(2) Če je naslovnik prevzel eno ali več elektronskih
+pošiljk, mora informacijski sistem za varno elektronsko vročanje naslednji dan
+informacijskemu sistemu e-sodstvo poslati sporočilo s potrdilom o opravljeni
+elektronski vročitvi na podlagi fikcije iz šestega odstavka 141.a člena ZPP
+tudi za vse ostale pošiljke, ki so se v trenutku prevzema zadnje elektronske
+pošiljke nahajale v varnem elektronskem predalu.
+(3) Potrdilo o opravljeni elektronski vročitvi na
+podlagi fikcije iz prvega odstavka tega člena mora vsebovati:
+1.     
+podatke o sodišču (pošiljatelju),
+2.     
+podatke o naslovniku in
+3.     
+besedilo z naslednjo vsebino:
+»Potrjujemo,
+-       
+da je naslovnik pošiljke z oznako ___________ <oznaka dokumenta, ki
+jo je ob odpravi določil informacijski sistem e-sodstvo> dne __________
+<datum obvestila o prispeli pošiljki> prejel obvestilo o tej pošiljki s
+poukom o pravnih posledicah neprevzema v 15 dneh,
+-       
+da naslovnik pošiljke v 15 dneh od dneva obvestila o prispeli pošiljki
+ni prevzel, zato se po sedmem odstavku 141.a člena ZPP šteje, da je bila
+vročitev opravljena dne __________ <datum – naslednji dan po poteku 15
+dnevnega roka>.«.
+(4) Potrdilo o opravljeni elektronski vročitvi na
+podlagi fikcije iz drugega odstavka tega člena mora vsebovati:
+1.     
+podatke o sodišču (pošiljatelju),
+2.     
+podatke o naslovniku in
+3.     
+besedilo z naslednjo vsebino:
+»Potrjujemo,
+-       
+da je naslovnik pošiljke z oznako ___________ <oznaka dokumenta, ki
+jo je ob odpravi določil informacijski sistem e-sodstvo> to pošiljko prevzel
+na podlagi fikcije po šestem odstavku 141.a člena ZPP, zato se šteje, da je
+bila vročitev opravljena dne __________ <datum – prevzema ene izmed
+pošiljke>.«.
+33. člen
+(potrdilo o opravljeni elektronski vročitvi pri navadnem
+vročanju)
+Potrdilo o opravljeni elektronski vročitvi pri navadnem
+vročanju mora vsebovati:
+1.     
+podatke o sodišču (pošiljatelju),
+2.     
+podatke o naslovniku in
+3.     
+besedilo z naslednjo vsebino:
+»Potrjujemo,
+-       
+da je bila pošiljka z oznako ___________ <oznaka dokumenta, ki jo je
+ob odpravi določil informacijski sistem e-sodstvo> vročena naslovniku dne
+__________ <datum, ko je bila pošiljka skupaj z elektronskim obvestilom
+dostavljena v naslovnikov varen elektronski predal>.«.
+6. PREHODNE DOLOČBE IN KONČNA DOLOČBA
+34. člen
+(začetek uporabe pravil o varnostni shemi)
+Drugi odstavek 13. člena ter 14. in 15. člen tega
+pravilnika se za skupino kvalificiranih uporabnikov iz 6. točke šestega
+odstavka 10. člena tega pravilnika začnejo uporabljati po izdaji predpisa
+iz 25. člena Zakona o spremembah in dopolnitvah Zakona o pravdnem postopku
+(Uradni list RS, št. 52/07).
+35. člen
+(domneva o obstoju dovoljenja za varno elektronsko vročanje)
+Šteje se, da ima izvajalec storitev varnega elektronskega
+vročanja, ki ima ob uveljavitvi tega pravilnika s Centrom za informatiko
+sklenjeno pogodbo v skladu s Pravilnikom o elektronskem poslovanju v civilnih
+sodnih postopkih (Uradni list RS, št. 64/10, 23/11 in 67/15), dovoljenje
+ministra za pravosodje za varno elektronsko vročanje.
+36. člen
+(prenehanje veljavnosti)
+Z dnem začetka veljavnosti tega pravilnika preneha veljati
+Pravilnik o elektronskem poslovanju v civilnih sodnih postopkih (Uradni list
+RS, št. 64/10, 23/11 in 67/15).
+37. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati 14. septembra 2017.
+Št. 007-130/2017
+Ljubljana, dne 11. septembra 2017
+EVA 2017-2030-0006
+mag. Goran Klemenčič l.r.
+Minister
+za pravosodje

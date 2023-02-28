@@ -1,0 +1,378 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta splošni akt natančneje določa:
+i.     metodologijo
+merjenja tehnične kakovosti storitev dostopa do interneta prek fiksnega
+širokopasovnega dostopa in prek širokopasovnega dostopa do storitev na fiksni
+lokaciji z uporabo brezžičnih tehnologij,
+ii.     postopke
+za ugotavljanje skladnosti pogodbenih določil glede hitrosti,
+iii.    pravila,
+ki zagotavljajo enako in nediskriminatorno obravnavo internetnega prometa ter
+transparentnost ponudnikov pri zagotavljanju storitev dostopa do interneta v
+razmerju do končnih uporabnikov glede obsega, omejitev, vrste in kakovosti,
+način sklepanja pogodb ter s tem povezane pravice končnih uporabnikov,
+iv.   pravila
+glede upravljanja in omejevanja prometa v okviru storitve dostopa do interneta.
+II. POMEN IZRAZOV
+2. člen
+Izrazi, uporabljeni v tem splošnem aktu, imajo naslednji
+pomen:
+i.     AKOS
+Test Net je merilno in analitično orodje, potrjeno s strani agencije, ki
+končnim uporabnikom storitev dostopa do interneta omogoča izvajanje meritev
+zmogljivosti, kakovosti in transparentnosti internetne povezave.
+ii.     Uredba
+2015/2120 je Uredba (EU) 2015/2120 Evropskega parlamenta in Sveta z dne 25. 11.
+2015 o določitvi ukrepov v zvezi z dostopom do odprtega interneta in spremembi
+Direktive 2002/22/ES o univerzalni storitvi in pravicah uporabnikov v zvezi z
+elektronskimi komunikacijskimi omrežji in storitvami ter Uredbe (EU) št.
+531/2012 o gostovanju v javnih mobilnih komunikacijskih omrežjih v Uniji (v
+nadaljevanju: Uredba 2015/2120).
+iii.    FWBA
+dostop (angl. Fixed Wireless Broadband Access) je širokopasovni dostop do
+elektronskih komunikacijskih storitev na fiksni lokaciji z uporabo brezžičnih
+tehnologij. Storitev dostopa do interneta prek FWBA dostopa se zagotavlja s
+pomočjo namenske opreme ter ustrezne notranje ali zunanje antene, nameščene na
+fiksni lokaciji končnega uporabnika.
+iv.   Tehnično
+kakovost storitve dostopa do interneta opredeljujejo omrežni parametri, kot so
+hitrost, prehodni čas (latenca), trepetanje, izguba paketov in razmerje
+izgubljenih paketov.
+v.    Ponudnik
+storitev dostopa do interneta je operater, ki končnim uporabnikom zagotavlja
+oziroma ponuja storitev dostopa do interneta (v nadaljevanju: ponudnik).
+vi.   Minimalna
+hitrost je hitrost povezave, ki mora biti ob izključenih specializiranih
+storitvah vedno na voljo na omrežni priključni točki končnega uporabnika, razen
+v primerih, kot jih predvidevajo 140. in 141. člen ZEKom-1 ter tretji odstavek
+3. člena Uredbe 2015/2120 oziroma na njihovi podlagi sprejeti pogoji poslovanja
+ponudnikov. Minimalna hitrost v primeru fiksnega širokopasovnega dostopa mora
+znašati vsaj 50 % maksimalne ter vsaj 25 % maksimalne pritočne in odtočne
+hitrosti z uporabo FWBA dostopa.
+vii.   Maksimalna
+hitrost v fiksnih omrežjih in na fiksni lokaciji je najvišja pritočna in
+odtočna hitrost povezave na omrežni priključni točki, ki je končnemu uporabniku
+na razpolago vsaj enkrat dnevno ob izključenih specializiranih storitvah.
+viii.  Običajno
+razpoložljiva hitrost je hitrost povezave na omrežni priključni točki končnega   uporabnika,
+ki je dosegljiva 90 % časa dneva in se meri izven vršnih ur ter mora znašati
+vsaj 80 % maksimalne pritočne in odtočne hitrosti povezave. V primeru FWBA
+dostopa mora običajno razpoložljiva hitrost znašati vsaj 50 % maksimalne
+hitrosti.
+ix.   Dejanska
+hitrost je hitrost storitve dostopa do interneta na omrežni priključni točki,
+ki jo v izbranem trenutku izmeri končni uporabnik, pooblaščena oseba ponudnika
+ali pooblaščena oseba agencije z uporabo merilnega orodja AKOS Test Net.
+x.    Oglaševana
+hitrost je hitrost, ki jo ponudnik navaja v promocijskih ponudbah in jo preko
+oglaševanja ponuja nedoločenemu krogu končnih uporabnikov.
+xi.   Bistveno
+stalno ali redno ponavljajoče razhajanje med pogodbeno in dejansko hitrostjo
+dostopa do interneta je opredeljeno v 12. členu tega splošnega akta in se
+preverja na način, kot je določen v 11. členu.
+xii.   Specializirane
+storitve so elektronske komunikacijske storitve, ki niso del storitev dostopa
+do interneta in so optimizirane za specifično vsebino, aplikacijo ali storitev
+oziroma njihovo kombinacijo, kjer je optimizacija nujno potrebna, da se zaradi
+same narave storitve ali aplikacije zagotovi ustrezna raven kakovosti storitve
+ali/in zaupnosti, celovitosti ter razpoložljivosti.
+xiii.  Terminalska
+oprema je komunikacijska oprema, kot opredeljena v Direktivi Komisije
+2008/63/ES z dne 20. 6. 2008 o konkurenci na trgih za telekomunikacijsko
+terminalsko opremo.
+xiv. Vršna
+ura je čas statistično največje obremenitve fiksnega omrežja in traja največ
+dve uri in pol v določenem neprekinjenem obdobju dneva, kar opredeli ponudnik v
+svojih pogojih poslovanja.
+xv.  Transparentnost
+internetne povezave pomeni, da ponudnik skozi svoje omrežje transparentno, brez
+omejevanja, upočasnjevanja, zadrževanja ali drugega motenja, ne glede na
+pošiljatelja ali prejemnika, vsebino, aplikacijo ali storitev ali terminalsko
+opremo prenaša ves internetni promet, razen v primerih, kot jih predvideva 3. člen
+Uredbe 2015/2120.
+Preostali izrazi, uporabljeni v tem splošnem aktu, imajo enak
+pomen, kot je določen v Uredbi 2015/2120 in ZEKom-1, če iz samega besedila
+splošnega akta ne izhaja drugače.
+III. SPLOŠNA DOLOČILA
+3. člen
+Končni uporabniki imajo prek storitev dostopa do interneta
+pravico dostopa do informacij in vsebin ter njihovega razširjanja, uporabe in
+zagotavljanja aplikacij ter storitev brez diskriminacije in uporabe terminalske
+opreme po lastni izbiri, ne glede na svojo lokacijo ali lokacijo ponudnika
+oziroma izvor ali cilj informacij, vsebino, uporabljeno aplikacijo ali
+storitev.
+4. člen
+Ponudniki morajo pri zagotavljanju storitev dostopa do
+interneta enakovredne vrste prometa obravnavati enako, brez omejevanja,
+upočasnjevanja, zadrževanja ali drugega motenja, ne glede na pošiljatelja ali
+prejemnika, vsebino, aplikacijo ali storitev ali uporabljeno terminalsko
+opremo.
+5. člen
+(1) Ponudniki lahko izvajajo ukrepe za razumno upravljanje
+prometa. Da bi se takšni ukrepi šteli za razumne, morajo biti pregledni,
+nediskriminatorni in sorazmerni ter ne smejo temeljiti na poslovnih razlogih, temveč
+na objektivno različnih zahtevah glede tehnične kakovosti storitev za posamezno
+vrsto prometa.
+(2) Ukrepi iz prejšnjega odstavka se lahko uporabljajo
+izključno z namenom učinkovitejše izrabe omrežnih virov in optimizacije splošne
+kakovosti prenosa, pri čemer se mora enakovredne vrste prometa obravnavati
+enako. Upravljanje prometa ne sme vključevati beleženja, spremljanja in
+analiziranja vsebine komunikacije in se ne sme izvajati dlje, kot je nujno
+potrebno za namene nemotene uporabe storitev.
+(3) Ukrepi, ki presegajo ukrepe iz prvega in drugega odstavka
+tega člena, se uporabljajo izključno za namene opredeljene v tretjem odstavku
+203. člena ZEKom-1 in v tretjem odstavku Uredbe 2015/2120.
+6. člen
+Ponudnik ne sme vplivati na promet, ki poteka med AKOS Test
+Net strežniki in uporabniško terminalsko napravo.
+IV. PREGLEDNOST IN PRAVICE KONČNIH UPORABNIKOV
+7. člen
+(1) Ponudniki morajo na svojih spletnih straneh na enem,
+dobro vidnem in enostavno dostopnem mestu, objaviti pregledne, celovite,
+razumljive, primerljive, terminološko konsistentne in vseskozi posodobljene
+informacije o storitvah dostopa do interneta ter morebitne omejitve pri uporabi
+teh, vključno z ukrepi, ki se nanašajo na zagotavljanje varnosti in celovitosti
+omrežja ter storitev in kakorkoli vplivajo na uporabniško izkušnjo.
+(2) Informacije iz prejšnjega odstavka morajo vključevati
+najmanj:
+i.     Jasno
+in razumljivo razlago minimalne, običajno razpoložljive in maksimalne hitrosti
+glede na tehnologijo dostopa in v skladu s tem splošnim aktom.
+ii.     Morebitne
+omejitve glede:
+a.   
+količine prenosa podatkov znotraj paketa,
+b.   
+uporabnikove ali ponudnikove terminalske opreme,
+c.   
+sočasne uporabe specializiranih storitev (v kolikor te obstajajo, morajo
+ponudniki v pogodbi jasno navesti, kakšno hitrost dostopa do interneta lahko
+končni uporabnik pričakuje v primeru sočasne rabe vseh naročenih storitev),
+d.   
+kakovosti in delovanja storitev.
+iii.    Čas
+in razpon vršnih ur.
+iv.   Spletno
+povezavo do merilnega orodja AKOS Test Net.
+v     Spletno
+povezavo do besedila tega splošnega akta.
+vi.   Vpliv
+upravljanja prometa z namenom zagotavljanja varnosti in celovitosti omrežja na
+dostopnost, uporabo in kakovost storitev in aplikacij, ki jih lahko uporablja
+ali želi dostopati do njih končni uporabnik.
+vii.   Interaktivni
+digitalni zemljevid pokrivanja Republike Slovenije z radijskim signalom glede
+na uporabljeno brezžično tehnologijo, uporabljen spekter in pričakovano
+zmogljivost (tj. običajno razpoložljive pritočne in odtočne hitrosti).
+Zemljevid se mora posodabljati vsaj enkrat letno.
+viii.  Potencialna
+varnostna tveganja, ki izhajajo iz uporabe storitev dostopa do interneta in
+uporabe terminalske opreme brez potrebne zaščite.
+ix.   Jasno
+in razumljivo razlago pravnih sredstev in drugih možnosti, ki so končnemu
+uporabniku na razpolago v primeru ugotovljenih razhajanj med dejansko
+zagotovljeno in pogodbeno dogovorjeno storitvijo dostopa do interneta.
+(3) V primeru, da ponudnik omejuje uporabo oziroma dostop do
+določenih storitev ali aplikacij preko storitve dostopa do interneta zaradi
+namena zagotavljanja varnosti in celovitosti omrežij in storitev ali zaradi
+drugih namenov, mora na enak način, kot izhaja iz prejšnjega odstavka, objaviti
+najmanj naslednje informacije:
+a.     
+opis tveganja s povezavo do priporočila, ki priporoča določene ukrepe
+(CSIRT, interna ocena tveganja, mednarodni standard, dobra praksa, ipd.);
+b.     
+tip omrežja in tip uporabnikov (rezidenčni oziroma poslovni) na katere
+se omejitev nanaša;
+c.     
+tehnični opis ukrepa in posledice ukrepa;
+d.     
+začetek uvedbe ukrepa;
+e.     
+alternativne načine dostopa do storitev ali aplikacij za končnega
+uporabnika;
+f.      
+možnost sprostitve omejitve na zahtevo končnega uporabnika.
+(4) Ponudnik mora v primeru omejevanja uporabe oziroma
+dostopa do določenih storitev ali aplikacij predhodno izvesti temeljito
+analizo, iz katere bo nedvomno izhajalo, da gre za varnostno tveganje, ki
+utemeljuje ukrep in hkrati ne temelji na poslovnih ali drugih razlogih, ki bi
+bili v prid ponudniku in na škodo končnega uporabnika.
+(5) Varnostno tveganje in sprejeti ukrepi oziroma ukrepi iz
+prejšnjega odstavka morajo biti zabeleženi v varnostnem načrtu ponudnika.
+(6) Ponudnik mora ukrep oziroma ukrepe omejevanja
+internetnega prometa umakniti takoj, ko se tveganje zniža na sprejemljivo
+raven.
+V. STORITEV DOSTOPA DO INTERNETA IN POGODBENA DOLOČILA
+8. člen
+(1) Ponudniki morajo v naročniški pogodbi, ki se nanaša na
+izvajanje storitve dostopa do interneta na fiksni lokaciji in ob spremembi s
+tem povezanih dejanskih okoliščin, navesti najmanj naslednje:
+i.     Maksimalno,
+običajno razpoložljivo ter minimalno zagotovljeno pritočno in odtočno hitrost,
+ki jo bo ponudnik zagotavljal na konkretni omrežni priključni točki, vključno
+preko FWBA dostopa. Hitrost mora biti opredeljena na podlagi koristne vsebine,
+ki se prenaša na IP nivoju ali višje v TCP/IP v protokolnem skladu.
+ii.     Jasno
+opredeljen vpliv določenih dejavnikov na storitev dostopa do interneta:
+a.      omejitve
+glede uporabniške ali ponudnikove terminalske opreme;
+b.      uporaba
+specializiranih storitev glede na zmogljivost priključka in število ter
+kakovost naročenih storitev (npr. IPTV in VoD). Končni uporabnik mora biti
+seznanjen s hitrostjo dostopa do interneta, ki mu bo še na razpolago ob sočasni
+rabi vseh specializiranih naročenih storitev v najvišji kakovosti.
+iii.    Jasno
+in razumljivo razlago pravnih sredstev, ki jih ima končni uporabnik na
+razpolago v primeru bistveno stalnih ali redno ponavljajočih razhajanj glede
+hitrosti storitve dostopa do interneta dogovorjeno s pogodbo.
+(2) V kolikor podatki iz prve točke prejšnjega odstavka niso
+znani pred podpisom pogodbe, se v naročniški pogodbi navede oglaševano hitrost.
+V tem primeru mora ponudnik nemudoma, ko razpolaga s podatki iz prejšnjega
+odstavka oziroma najkasneje v roku enega meseca, končnemu uporabniku v podpis
+posredovati aneks k naročniški pogodbi z navedenimi manjkajočimi podatki. V
+kolikor se končni uporabnik ne strinja z vsebino aneksa, lahko odstopi od
+naročniške pogodbe brez plačila stroškov predčasne prekinitve naročniškega
+razmerja.
+(3) Ponudniki morajo v naročniški pogodbi, ki se nanaša na
+izvajanje storitve dostopa do interneta pri mobilnem dostopu, navesti najmanj
+naslednje:
+i.     Ocenjeno
+maksimalno in oglaševano pritočno in odtočno hitrost glede na zmogljivost omrežja
+ter naročeni paket. Hitrost mora biti opredeljena na podlagi koristne vsebine,
+ki se prenaša na IP nivoju ali višje v TCP/IP v protokolnem skladu.
+ii.     Jasno
+opredeljen vpliv določenih dejavnikov na storitev dostopa do interneta:
+a.      zakupljene
+količine prenosa podatkov znotraj paketa, posledice in ukrepi ob prekoračitvi
+le-teh;
+b.      omejitve
+glede uporabniške ali ponudnikove terminalske opreme.
+iii.    Jasno
+in razumljivo razlago pravnih sredstev, ki jih ima končni uporabnik na
+razpolago v primeru bistveno stalnih ali redno ponavljajočih razhajanj med
+dejansko in ocenjeno maksimalno hitrostjo, ki jo lahko ponudnik zagotavlja na
+posameznem področju Slovenije.
+9. člen
+Podatki o hitrostih na omrežni priključni točki na fiksni
+lokaciji iz prejšnjega člena morajo biti končnem uporabniku dostopni tudi na
+mesečnem računu, uporabniškem portalu ali na drug primeren in transparenten
+način, ki končnemu uporabniku omogoča, da se lahko kadarkoli in v vsakem
+obračunskem obdobju seznani z njimi.
+VI. PRAVICE KONČNIH UPORABNIKOV GLEDE POGODBENIH HITROSTI
+10. člen
+(1) Ob ugotovljenem bistveno stalnem ali redno ponavljajočem
+razhajanju med pogodbeno in dejansko hitrostjo dostopa do interneta ima končni
+uporabnik možnost brezplačnega prehoda na paket z nižjo hitrostjo prenosa
+podatkov ali pravico do znižanja mesečne naročnine za 50 % deleža cene storitve
+internetnega dostopa, ob tem pa do vzpostavitve stanja stalne, trajajoče in s
+pogodbo zagotovljene hitrosti zadrži enak paket ostalih storitev. Končni
+uporabnik se lahko sam odloči za eno izmed ponujenih možnosti.
+(2) Če končni uporabnik spremembe paketa ali nadomestila ne
+želi, mora imeti možnost odstopa od naročniške pogodbe brez plačila
+administrativnih stroškov predčasne prekinitve naročniškega razmerja oziroma
+brez plačila drugih stroškov, v kolikor je tako določeno z ostalimi zakonskimi
+predpisi.
+(3) Z možnostmi iz prejšnjih odstavkov tega člena mora
+ponudnik končnega uporabnika na jasen in nedvoumen način seznaniti ob podpisu
+naročniške pogodbe in nato ponovno v ugovornem postopku, kadar končni uporabnik
+zatrjuje slabše delovanje storitev.
+VII. METODOLOGIJA IZVAJANJA MERITEV
+11. člen
+(1) Bistveno stalno ali redno ponavljajoče razhajanje s
+pogodbo dogovorjene pritočne in odtočne minimalne in običajno razpoložljive
+hitrosti dostopa do interneta se ugotavlja z meritvami z orodjem AKOS Test Net.
+(2) Meritev se izvaja s prenosom kontrolirane vsebine preko
+TCP/http(s) sloja med uporabniškim modemom (omrežno priključno točko) in
+slovenskim stičiščem internetnih omrežij (SIX).
+(3) Ob meritvi morajo biti izpolnjeni naslednji pogoji:
+a.     
+Naprava oziroma računalnik, s katerim se izvaja meritev, mora biti z
+žično povezavo neposredno povezan na omrežno priključno točko, ki jo zagotavlja
+ponudnik (Ethernet LAN port modema oziroma usmerjevalnika).
+b.     
+V času trajanja merjenja na omrežno priključno točko končnega uporabnika
+(modem/usmerjevalnik) ne sme biti drugih povezanih naprav ali vzpostavljenih
+sej, razen merilne naprave ali računalnika s katerim se izvaja meritev.
+c.     
+V času merjenja morajo biti na omrežni priključni točki in računalniku
+izključene vse brezžične (WiFi ali Bluetooth) ali VPN povezave.
+d.     
+Na napravi oziroma računalniku se v času merjenja ne sme izvajati nobena
+druga aplikacija ali storitev (vključno s požarno pregrado in protivirusnim
+programom).
+(4) Končni uporabnik lahko običajno razpoložljivo hitrost
+preverja tako, da na način, kot je določen s tem splošnim aktom, izvede pet (5)
+meritev znotraj petih (5) dni, ob različnih, med sabo vsaj eno (1) uro
+oddaljenih časih in izven obdobja vršnih ur.
+(5) Končni uporabnik lahko minimalno hitrost preverja tako,
+da na način, kot določen s tem splošnim aktom, izvede pet (5) meritev znotraj
+petih (5) dni, ob različnih, med sabo vsaj eno (1) uro oddaljenih časih, ne
+glede na obdobje vršnih ur ponudnika.
+12. člen
+Bistveno stalno ali redno ponavljajoče razhajanje med
+pogodbeno dogovorjeno in dejansko zagotovljeno hitrostjo dostopa pomeni:
+a.     
+Pri ugotavljanju običajno razpoložljive hitrosti: povprečje vseh
+pravilno izvedenih meritev izven vršnih ur je nižje od pogodbeno dogovorjene
+običajno razpoložljive hitrosti, pri čemer se ne upošteva meritvi z izmerjeno
+najnižjo in najvišjo hitrostjo.
+b.     
+Pri ugotavljanju minimalne hitrosti: od vseh pravilno izvedenih meritev
+ne glede na čas dneva je vsaj ena izmed meritev nižja od pogodbeno dogovorjene
+minimalne hitrosti.
+VIII. POSTOPEK ZA UVELJAVLJANJE PRAVIC KONČNIH UPORABNIKOV
+13. člen
+(1) V primeru, da končni uporabnik skladno z 11. členom tega
+splošnega akta ugotovi bistveno stalno ali redno ponavljajoče razhajanje med
+pogodbeno dogovorjeno in dejansko zagotovljeno hitrostjo, kar izkazuje z
+rezultati opravljenih meritev, mora o tem seznaniti ponudnika, in sicer na
+način, kot ga za prijavo slabšega delovanja storitev predvidevajo ponudnikovi
+splošni pogoji.
+(2) Ponudnik mora takemu končnemu uporabniku na njegovo
+zahtevo vsaj enkrat v obračunskem obdobju ali najkasneje v roku desetih (10)
+dni od prijave ponuditi brezplačno strokovno meritev hitrosti in drugih
+parametrov kakovosti povezave na omrežni priključni točki.
+(3) V kolikor ponudnik razpolaga z orodjem, ki mu omogoča
+oddaljeno izvajanje zanesljivih in kakovostnih meritev hitrosti povezave s
+prenosom kontrolirane vsebine preko TCP/http(s) sloja od uporabniškega modema
+do slovenskega stičišča internetnih omrežij (SIX) ter prikaz le-teh na
+uporabniškem portalu, ponudnik ni dolžan zagotoviti dodatnih brezplačnih
+meritev. Ponudnik mora v takem primeru na dobro vidnem in enostavnem dostopnem
+spletnem mestu objaviti tehnično dokumentacijo s katero izkazuje pravilnost,
+zanesljivost, natančnost in način delovanja merilnega orodja.
+(4) Od prijave razhajanj zaradi hitrosti dostopa do interneta
+končnega uporabnika do odprave težav je ponudnik dolžan beležiti in shranjevati
+ključne tehnične parametre zmogljivosti in kakovosti dostopovne povezave
+končnega uporabnika. Obveznost beleženja preneha v primeru ugotovitve, da
+razhajanj ni, oziroma, ko se ponudnik in končni uporabnik dogovorita glede
+pravic iz 10. člena tega splošnega akta.
+(5) Končni uporabnik je dolžan sodelovati s ponudnikom z namenom,
+da se ugotovi dejansko stanje zmogljivosti storitve dostopa do interneta glede
+hitrosti ali drugih parametrov kakovosti.
+(6) Ponudnik je dolžan končnega uporabnika seznaniti z
+rezultati opravljenih meritev najkasneje v roku 30 dni od prijave razhajanj. Če
+ponudnik v tem roku ne odpravi pravilno ugotovljenih razhajanj hitrosti
+opredeljenih v 12. členu tega splošnega akta ali ne zagotovi pravic iz 10.
+člena tega splošnega akta ali če končnemu uporabniku sporoči, da razhajanj ni
+ugotovil, se prijava končnega uporabnika šteje kot podana reklamacija v zvezi z
+računom, izdanim za obračunsko obdobje v katerem so bila ugotovljena
+razhajanja, in lahko končni uporabnik v nadaljnjem roku 15 dni sproži spor pred
+agencijo.
+14. člen
+(postopki agencije za ugotavljanje skladnosti)
+Če pooblaščena uradna oseba agencije na podlagi podatkov,
+pridobljenih v okviru postopka reševanja spora, oceni, da ponudnik ne
+izpolnjuje zahtev iz tega splošnega akta, lahko uvede postopek nadzora. Poleg
+rezultatov meritev s pomočjo AKOS Test Net bo pooblaščena uradna oseba za
+razjasnitev dejanskega stanja meritve na omrežni priključni točki končnega
+uporabnika izvedla tudi z uporabo namenske profesionalne merilne opreme.
+15. člen
+(prehodne in končne določbe)
+Ta splošni akt prične veljati naslednji dan po objavi,
+uporabljati pa se začne 30 dni po objavi v Uradnem listu Republike Slovenije.
+Ljubljana, dne 29. avgusta
+2019
+EVA 2019-3130-0031
+Mag. Tanja Muha
+direktorica

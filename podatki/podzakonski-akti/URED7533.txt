@@ -1,0 +1,310 @@
+1. člen
+(vsebina)
+S to uredbo se za izvajanje 1. točke 6. člena Uredbe Komisije
+(EU) št. 73/2010 z dne 26. januarja 2010 o zahtevah glede kakovosti letalskih
+podatkov in letalskih informacij za enotno evropsko nebo (UL L št. 23 z dne 27.
+1. 2010, str. 6), zadnjič spremenjene z Izvedbeno uredbo Komisije (EU) št.
+1029/2014 z dne 26. septembra 2014 o spremembi Uredbe (EU) št. 73/2010 o
+zahtevah glede kakovosti letalskih podatkov in letalskih informacij za enotno
+evropsko nebo (UL L št. 284 z dne 30. 9. 2014, str. 9), (v nadaljnjem besedilu:
+Uredba 73/2010/EU) določajo zahteve za zagotavljanje letalskih podatkov o
+terenu in ovirah ter zahteve, ki jih morajo izpolnjevati pristojna organa in
+naslednji udeleženci:
+a)    
+izvajalci navigacijskih služb zračnega prometa;
+b)    
+upravljavci tistih letališč, za katere so v Zborniku letalskih
+informacij objavljeni postopki po pravilih instrumentnega letenja (IFR) ali
+posebnih pravilih vizualnega letenja (VFR);
+c)    
+javni ali zasebni subjekti, ki za namene te uredbe zagotavljajo:
+- 
+storitve za ustvarjanje in zagotavljanje geodetskih podatkov,
+- 
+storitve za oblikovanje postopkov,
+- 
+digitalne podatke o terenu,
+- 
+digitalne podatke o ovirah.
+2. člen
+(pomen izraza)
+Za potrebe te uredbe izraz »ovira« pomeni vse nepremične
+(začasne ali stalne) in mobilne objekte ali dele objektov, ki:
+a)    
+se nahajajo na območju, ki je namenjeno premikanju zrakoplova po
+površini, ali 
+b)    
+so višji od določene ravnine, ki je namenjena zaščiti zrakoplova med
+letom, ali 
+c)    
+se nahajajo zunaj navedenih opredeljenih ravnin in so ocenjeni kot
+nevarni za zračno navigacijo.
+3. člen
+(pristojna organa)
+Organa, pristojna za nadzor nad izvajanjem te uredbe, sta
+Javna agencija za civilno letalstvo Republike Slovenije (v nadaljnjem besedilu:
+agencija) v delu, ki se nanaša na izvajalce navigacijskih služb zračnega
+prometa in upravljavce letališč, ter Inšpektorat Republike Slovenije za okolje
+in prostor v delu, ki se nanaša na javne ali zasebne subjekte, ki zagotavljajo
+storitve za ustvarjanje in zagotavljanje geodetskih podatkov, storitve za
+oblikovanje postopkov ter digitalne podatke o terenu in ovirah.
+4. člen
+(opredelitev območij)
+(1) Območja vodenja digitalnih podatkov o terenu in ovirah
+so:
+a)    
+Območje 1: celotno ozemlje države;
+b)    
+Območje 2: območje v bližini letališča, podrobneje razdeljeno na:
+- 
+Območje 2a: strip vzletno-pristajalne steze posameznega letališča in
+čistina steze, če obstaja;
+- 
+Območje 2b: območje, ki se razteza od meje Območja 2a v smeri vzleta ter
+v razdalji 10 km in z bočnim razhajanjem 15% na obeh straneh;
+- 
+Območje 2c: območje, ki se razteza navzven od meja Območja 2a in Območja
+2b ter v razdalji do 10 km od meje Območja 2a, in
+- 
+Območje 2d: območje, ki se razteza navzven od meja Območja 2a, Območja
+2b in Območja 2c ter do razdalje 45 km od referenčne točke letališča oziroma do
+meje TMA (Terminal Manoeuvring/Control Area), če je ta bližje;
+c)    
+Območje 3: območje, ki meji na površine gibanja zrakoplovov (Movement
+Area) in se razteza vodoravno od roba vzletno-pristajalne steze do 90 m od
+središčne črte vzletno-pristajalne steze in 50 m od roba vseh drugih območij
+gibanja zrakoplovov, in
+č)    Območje 4: območje, ki se razteza 900 m pred pragom
+vzletno-pristajalne steze in 60 m na vsaki strani razširjene središčne črte
+vzletno-pristajalne steze v smeri prileta na vzletno-pristajalno stezo za
+natančni prilet kategorij II ali III in na katerem operatorji potrebujejo
+podrobne informacije o terenu za oceno vpliva terena na odločitveno višino pri
+uporabi radijskih višinomerov.
+(2) Če je teren oddaljen več kot 900 m (3.000 čevljev) od
+praga vzletno-pristajalne steze, je gorat ali drugače pomemben, je treba
+dolžino Območja 4 razširiti do razdalje, ki ne presega 2.000 m (6.500 čevljev)
+od praga vzletno-pristajalne steze.
+5. člen
+(podatkovni sloj ovir)
+(1) Republika Slovenija, investitorji ovir in upravljavci
+letališč zagotavljajo podatke o ovirah iz naslednjih območij, ki izpolnjujejo
+naslednja merila:
+a)    
+se nahajajo v Območju 1 in v višino segajo 100 m ali več nad terenom;
+b)    
+se nahajajo v Območju 2a in prebadajo ravnino za zbiranje podatkov, ki
+poteka na višini 3 m nad najbližjo točko središčne črte vzletno-pristajalne
+steze med pragoma in na višini 3 m nad najbližjim pragom vzletno-pristajalne
+steze za čistino, če ta obstaja;
+c)    
+se nahajajo v Območju 2b in prebadajo ravnino za zbiranje podatkov, ki
+je opredeljena z 1,2% naklonom in se razteza od konca Območja 2a na nadmorski
+višini praga vzletno-pristajalne steze v smeri vzleta ter v razdalji 10 km in z
+bočnim razhajanjem 15% na obeh straneh. Podatkov o ovirah z višino, nižjo od 3
+m nad terenom, ni treba zbirati;
+č)    se nahajajo v Območju 2c in prebadajo ravnino za zbiranje
+podatkov, ki je opredeljena z 1,2% naklonom in se razteza navzven od Območja 2a
+in Območja 2b ter v razdalji do 10 km od meje Območja 2a. Začetne nadmorske
+višine točk Območja 2c so enake nadmorskim višinam točk na stiku z Območjem 2a.
+Podatkov o ovirah z višino, nižjo od 15 m nad terenom, ni treba zbirati;
+d)    
+se nahajajo v Območju 2d in v višino segajo 100 m ali več nad terenom;
+e)    
+se nahajajo v Območju 3 in v višino segajo 0,5 m ali več nad vodoravno
+ravnino, ki poteka skozi najbližjo točko območja gibanja na letališču, in
+f)     
+se nahajajo v Območju 4 in v višino segajo 1 m nad terenom.
+(2) Podatki o ovirah se vodijo v skladu z numeričnimi
+zahtevami za vodenje podatkov o ovirah v posameznem območju, določenimi v
+Prilogi 1, ki je sestavni del te uredbe.
+(3) Izvajalec letalskih informacijskih služb zagotovi, da so
+podatki o ovirah na razpolago:
+a)    
+v Območju 1;
+b)    
+za letališča, ki se redno uporabljajo za mednarodni civilni zračni
+promet:
+- 
+v Območju 2 in Območju 3 ter
+- 
+v Območju 4 za vse vzletno-pristajalne steze, pri katerih so bile
+vzpostavljene operacije za natančni prilet kategorije II ali kategorije III.
+(4) Ovire se v podatkovne sloje ovir zajamejo s točkovno,
+linijsko ali ploskovno geometrijo.
+(5) Podatkovni sloji ovir vsebujejo digitalno predstavitev
+navpičnega in vodoravnega obsega ovir.
+(6) V podatkovnih slojih ovir se opredeli vrsta ovire.
+(7) Podatkovni sloji ovir vsebujejo obvezne atribute. Seznam
+obveznih atributov za podatke o ovirah je določen v Prilogi 3, ki je sestavni
+del te uredbe.
+(8) V tistih delih Območja 2, kjer so letalske dejavnosti
+prepovedane zaradi zelo visokega terena ali drugih lokalnih omejitev ali predpisov,
+so podatki o ovirah zbrani in zapisani v skladu z numeričnimi zahtevami za
+Območje 1, iz Priloge 1 te uredbe.
+(9) Ovire ne smejo biti vključene v podatkovne sloje terena.
+(10) Če se zbirajo dodatni podatki o ovirah za izpolnjevanje
+drugih letalskih zahtev, jih je treba vključiti v podatkovne sloje ovir.
+(11) Minister, pristojen za promet, določi letališča iz
+tretjega odstavka tega člena, ki se redno uporabljajo za mednarodni civilni
+zračni promet, na podlagi deleža mednarodnega zračnega prometa v celotnem
+prometu letališča.
+6. člen
+(podatkovni sloj terena)
+(1) Izvajalec letalskih informacijskih služb zagotovi, da so
+podatki o terenu na razpolago za območja iz 4. člena te uredbe.
+(2) Podatkovni sloji terena vsebujejo digitalno predstavitev
+površine terena v obliki neprekinjenega niza vrednosti nadmorskih višin, in to
+na vseh presekih opredeljene mreže, z referenco na skupni višinski datum.
+(3) Mreža točk terena je položajno podana na enakih razmikih
+okroglih vrednosti geografskih ali pravokotnih koordinat (v kotnih oziroma
+dolžinskih merah).
+(4) Podatkovni sloji terena vsebujejo prostorske (položaj in
+nadmorsko višino), tematske in časovne lastnosti naravnih oblik zemeljskega
+površja brez ovir.
+(5) Podatkovni sloji terena vsebujejo samo podatke o obliki
+terena (reliefa).
+(6) Podatkovni sloji terena vsebujejo obvezne atribute.
+Seznam obveznih atributov za podatke o terenu je določen v Prilogi 2, ki je
+sestavni del te uredbe.
+(7) V Območju 2b, Območju 2c in Območju 2d je treba zbirati
+naslednje podatke o terenu, ki so:
+a)    
+v območju 10 km od referenčne točke letališča (ARP),
+b)    
+zunaj območja 10 km od referenčne točke letališča, če teren prebada
+vodoravno ravnino 120 m nad najnižjo nadmorsko višino vzletno-pristajalne
+steze.
+(8) Podatki o terenu v območju s polmerom 10 km od referenčne
+točke letališča so skladni z numeričnimi zahtevami za Območje 2.
+(9) Podatki o terenu, ki prebada vodoravno ravnino 120 m nad
+najnižjo točko vzletno-pristajalne steze, v območju med 10 km in mejo
+terminalnega območja ali v polmeru 45 km (kar je bližje), so skladni z
+numeričnimi zahtevami za Območje 2.
+(10) Podatki o terenu, ki ne prebada vodoravne ravnine 120 m
+nad najnižjo točko vzletno-pristajalne steze, v območju med 10 km in mejo
+terminalnega območja ali v polmeru 45 km (kar je bližje), so skladni z
+numeričnimi zahtevami za Območje 1.
+(11) Podatki o terenu v tistih delih Območja 2, kjer so
+letalske dejavnosti prepovedane zaradi zelo visokega terena ali drugih lokalnih
+omejitev ali predpisov, so skladni z numeričnimi zahtevami za Območje 1.
+(12) Podatki o terenu se vodijo v skladu z numeričnimi
+zahtevami za vodenje podatkov o terenu v posameznem območju, določenimi v
+Prilogi 1 te uredbe.
+(13) V Območju 3 je treba podatke o terenu zbrati za teren,
+ki sega 0,5 m ali več nad vodoravno ravnino, ki poteka skozi najbližjo točko
+območja gibanja na letališču.
+(14) Če se zbirajo dodatni podatki o terenu za izpolnjevanje
+drugih letalskih zahtev, jih je treba vključiti v podatkovne sloje terena.
+7. člen
+(zagotavljanje podatkov o terenu in prvi zajem podatkov o
+ovirah ter upravljanje podatkovnega sloja)
+(1) Podatke o terenu za Območje 1 in Območje 2b, Območje 2c
+in Območje 2d zagotavlja Republika Slovenija. Ministrstvo, pristojno za promet,
+skupaj z agencijo usklajuje aktivnosti za zagotavljanje potrebnih podatkov iz
+obstoječih zbirk prostorskih podatkov in evidenc Republike Slovenije.
+(2) Sredstva za izvajanje nalog iz prejšnjega odstavka ter
+naloge upravljanja podatkovnega sloja terena in ovir iz četrtega odstavka tega
+člena zagotovi Ministrstvo, pristojno za promet.
+(3) Prvi zajem podatkov o ovirah za Območje 1 in Območje 2b,
+Območje 2c in Območje 2d zagotovi Republika Slovenija. Ministrstvo, pristojno
+za promet, zagotovi sredstva za prvi zajem teh podatkov.
+(4) Podatkovni sloj terena in ovir upravlja Geodetski
+inštitut Slovenije.
+8. člen
+(obveznost investitorja ovire)
+(1) Investitor ovire v Območju 1, Območju 2b, Območju 2c in
+Območju 2d agenciji zagotovi digitalne podatke o oviri, ki vsebujejo obvezne
+atribute iz Priloge 3 te uredbe.
+(2) Podatki o oviri iz prejšnjega odstavka izpolnjujejo
+zahteve glede kakovosti, kot jih določa Uredba 73/2010/EU, in numerične zahteve
+za vodenje podatkov iz Priloge 1 te uredbe.
+(3) Agencija izda navodilo za zagotavljanje podatkov o oviri
+iz prvega in drugega odstavka tega člena in ga objavi na svoji spletni strani.
+(4) Stroške zagotavljanja digitalnih podatkov iz prvega
+odstavka tega člena nosi investitor ovire.
+9. člen
+(obveznost upravljavca letališča)
+(1) Upravljavec letališča, ki se redno uporablja za
+mednarodni civilni zračni promet, agenciji zagotovi digitalne podatke o terenu
+in ovirah v Območju 2a in Območju 3, pri čemer podatki vsebujejo obvezne
+atribute iz Priloge 2 in Priloge 3 te uredbe.
+(2) Upravljavec letališča, ki se redno uporablja za
+mednarodni civilni zračni promet in na katerem so vzpostavljene operacije za
+natančni prilet kategorije II ali kategorije III, agenciji zagotovi digitalne
+podatke o terenu in ovirah v Območju 4, pri čemer podatki vsebujejo obvezne
+atribute iz Priloge 2 in Priloge 3 te uredbe.
+(3) Podatki o terenu in ovirah iz prvega in drugega odstavka
+tega člena izpolnjujejo zahteve glede kakovosti, kot jih določa Uredba
+73/2010/EU, in vodenja podatkov iz Priloge 1 te uredbe.
+(4) Agencija izda navodilo upravljavcem letališča za
+zagotavljanje podatkov o terenu in ovirah in ga objavi na svoji spletni strani.
+(5) Stroške zagotavljanja podatkov iz prvega in drugega
+odstavka tega člena nosi upravljavec letališča.
+10. člen
+(prekrški investitorja ovire)
+(1) Z globo od 300 do 500 eurov se za prekršek kaznuje pravna
+oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja
+dejavnost, ki je investitor ovire, če:
+a)    
+ne zagotovi digitalnih podatkov o oviri v skladu s prvim odstavkom 8.
+člena te uredbe, 
+b)    
+pošlje podatke o oviri, ki ne izpolnjujejo zahtev glede kakovosti iz
+drugega odstavka 8. člena te uredbe.
+(2) Z globo od 300 do 500 eurov se za prekršek iz prejšnjega
+odstavka kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika
+posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ki je
+investitor.
+(3) Z globo od 150 do 300 eurov se za prekršek iz prvega
+odstavka kaznuje posameznik, ki je investitor.
+11. člen
+(prekrški upravljavca letališča)
+(1) Z globo od 10.000 do 60.000 eurov se za prekršek kaznuje
+pravna oseba, ki je upravljavec letališča in ne zagotovi digitalnih podatkov o
+terenu in ovirah v skladu s prvim in drugim odstavkom 9. člena te uredbe.
+(2) Z globo od 1.000 do 3.000 eurov se za prekršek iz
+prejšnjega odstavka kaznuje odgovorno osebo pravne osebe.
+(3) Z globo od 6.000 do 30.000 eurov se za prekršek kaznuje
+pravna oseba, ki je upravljavec letališča in pošlje podatke o terenu in ovirah,
+ki ne izpolnjujejo zahtev glede kakovosti in numeričnih zahtev iz tretjega
+odstavka 9. člena te uredbe.
+(4) Z globo od 500 do 1.000 eurov se za prekršek iz
+prejšnjega odstavka kaznuje odgovorno osebo pravne osebe.
+12. člen
+(višina globe v hitrem prekrškovnem postopku)
+Za prekrške iz te uredbe se sme v hitrem postopku izreči
+globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s to
+uredbo.
+13. člen
+(letališča, ki se redno uporabljajo za mednarodni civilni
+zračni promet, za katera so podatki o ovirah na razpolago)
+Minister, pristojen za promet, določi letališča iz enajstega
+odstavka 5. člena te uredbe v dveh mesecih od uveljavitve te uredbe.
+14. člen
+(obveznost upravljavcev letališč, ki se redno uporabljajo za
+mednarodni civilni zračni promet, za katere so podatki o ovirah na razpolago)
+(1) Upravljavci letališč, ki jih minister določi v skladu z
+enajstim odstavkom 5. člena te uredbe, agenciji zagotovijo digitalne podatke o
+terenu in ovirah iz prvega in drugega odstavka 9. člena te uredbe.
+(2) Podatke iz prejšnjega odstavka tega člena upravljavci
+letališč zagotovijo agenciji 6 mesecev po prejemu sklepa o določitvi letališč,
+ki se redno uporabljajo za mednarodni civilni zračni promet.
+15. člen
+(začetek veljavnosti)
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije, 9. člen te uredbe pa se začne uporabljati 1.
+januarja 2018.
+Št. 00710-22/2017
+Ljubljana, dne 26. oktobra 2017
+EVA 2017-2430-0026
+Vlada Republike Slovenije
+dr. Miroslav Cerar l.r.
+Predsednik
+
+Priloga
+1: Numerične zahteve za vodenje podatkov
+Priloga
+2: Seznam obveznih atributov v podatkovnem sloju o terenu
+Priloga
+3: Seznam obveznih atributov v podatkovnem sloju o ovirah
+ 

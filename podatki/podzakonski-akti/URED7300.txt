@@ -1,0 +1,144 @@
+1. člen
+Ta uredba določa mehanizem oblikovanja cen določenih naftnih
+derivatov, sestavine, ki jih morajo upoštevati podjetja, ki se ukvarjajo z
+dejavnostjo prodaje teh naftnih derivatov (v nadaljnjem besedilu:
+distributerji), in merila, po katerih se morajo oblikovati cene ali njihove
+sestavine.
+2. člen
+(1) Za naftne derivate iz prejšnjega člena se štejeta
+95-oktanski neosvinčeni motorni bencin (v nadaljnjem besedilu: NMB-95), ki se
+uporablja v cestnem ali pomorskem prometu, in dizelsko gorivo (v nadaljnjem
+besedilu: dizel).
+(2) Cena iz prejšnjega člena se oblikuje na enoto
+proizvoda, ki znaša en liter, in sicer kot povprečna 14-dnevna cena tekočega
+obdobja.
+3. člen
+Povprečna 14-dnevna prodajna cena tekočega obdobja brez
+dajatev (v nadaljnjem besedilu: modelska cena) za posamezni naftni derivat se
+določi z naslednjim izračunom:
+pri čemer je:
+Pt:                 modelska
+cena naftnega derivata v eurih/liter;
+r:                  gostota naftnega derivata
+(za motorni bencin znaša 0,755 kg/l, za dizel 0,845 kg/l);
+r:                   članarina
+Zavodu Republike Slovenije za blagovne rezerve v eurih/l, ki ga na podlagi 21.b
+člena Zakona o blagovnih rezervah (Uradni list RS, št. 96/09 – uradno
+prečiščeno besedilo in 83/12) z uredbo določi Vlada Republike Slovenije;
+M:                 marža distributerjev,
+navedena v 9. členu te uredbe;
+i:                    dnevni podatek; i =
+1, 2, 3, …, n;
+t:                   14-dnevni interval
+tekočega obdobja;
+n:                  n
+= 14; spremljamo 14-dnevno povprečje (dejansko je n = 10, ker za soboto in
+nedeljo ni objave borznih kotacij);
+e:                  1 USD = x EUR
+(objavljeni dnevni tečaj Banke Slovenije);
+CIF
+MedH:   PLATTS kotacija derivata (najvišja dnevna vrednost v USD/tono po viru:
+Platt's European Marketscan pod rubriko »Mediteranean Cargoes CIF Med (Genova/Lavera)«).
+4. člen
+P* je najvišja prodajna cena brez dajatev v eurih/liter,
+popravljena po postopku zaokroževanja drobnoprodajne cene.
+5. člen
+(1) Drobnoprodajna cena se določi tako, da se modelski
+ceni Pt v skladu z veljavnimi predpisi dodajo vse davčne
+obremenitve. Drobnoprodajna cena se v skladu z matematičnimi pravili zaokroži
+na tri decimalna mesta. S ponovnim preračunom dobimo po odbitku vseh davčnih
+obremenitev najvišjo popravljeno prodajno ceno brez dajatev P*t, ki
+se lahko uveljavi na trgu v obdobju t + 1.
+(2) Po postopku zaokroževanja drobnoprodajne cene, kot
+ga predvideva prejšnji odstavek, se popravljena prodajna cena tekočega
+14-dnevnega obdobja P*t določi kot najvišja prodajna cena brez
+dajatev Pt, ki velja v obdobju t + 1 (P*t = Pt).
+6. člen
+Postopek delovanja mehanizma iz 3. člena te uredbe:
+a)    
+osnova za izračun najvišje prodajne cene brez dajatev (v eurih/liter),
+ki se lahko uveljavi na trgu, so PLATTS kotacije CIF MedH (CIF Mediteran –
+High), izražene v ameriških dolarjih/tono;
+b)    
+modelska cena v eurih/tono se izračuna tako, da se vsakodnevna borzna
+cena pomnoži s tečajem ameriškega dolarja za isti dan, skupna vsota pa se deli
+s številom dni, za katere so na voljo podatki;
+c)    
+če za določen dan ni podatka o deviznem tečaju, se kot ustrezen podatek
+vzame zadnji razpoložljivi devizni tečaj;
+d)    
+dejansko se modelska cena izračuna na podlagi podatkov za deset dni (v
+soboto in nedeljo ni podatkov o borznem trgovanju), in sicer od ponedeljka v
+tednu x do petka v tednu x + 1. Če je zaradi državnih praznikov ali dela
+prostih dni ali zaradi drugega vzroka na voljo manj kakor deset podatkov, se
+14-dnevno povprečje izračuna na podlagi razpoložljivih podatkov. Za
+razpoložljive podatke se štejejo podatki o PLATTS kotacijah CIF MedH in podatki
+o deviznem tečaju, ki so objavljeni najpozneje do ponedeljka v tednu x + 2, in
+sicer do 8. ure. Navedeni podatki se za izračun modelske cene štejejo kot
+dokončni podatki;
+e)    
+izračunana modelska cena, izražena v eurih/tono, se prek gostote (r) derivata in faktorja 1/1000 preračuna
+v eure/liter ter se ji prištejeta v eurih/liter izražena članarina Zavodu Republike
+Slovenije za blagovne rezerve ter v eurih/liter izražena bruto marža.
+7. člen
+(1) Nova najvišja cena se uveljavi v torek v tednu x + 2
+in velja do ponedeljka v tednu x + 4, distributerji pa morajo že v ponedeljek v
+tednu x + 2 o višini oblikovane cene obvestiti Ministrstvo za gospodarski
+razvoj in tehnologijo.
+(2) Če je v ponedeljek v tednu x + 2 v Republiki
+Sloveniji državni praznik ali dela prost dan, morajo distributerji prvi
+naslednji delovni dan o višini oblikovanih cen obvestiti Ministrstvo za
+gospodarski razvoj in tehnologijo, cena pa se na trgu v tem primeru lahko
+uveljavi drugi naslednji delovni dan.
+8. člen
+Pri izračunu cen se uporablja naslednje število decimalnih
+mest in zaokroževanje:
+
+-       
+  borzna cena v ameriških dolarjih/tono:
+
+eno decimalno mesto (vhodni podatek);
+
+
+-       
+  tečaj Banke Slovenije:
+
+štiri decimalna mesta (vhodni podatek);
+
+
+-       
+  borzna cena derivata v eurih/liter:
+
+zaokrožitev na pet decimalnih mest; 
+
+
+-       
+  modelska cena:
+
+zaokrožitev na pet decimalnih mest;
+
+
+-       
+  prodajna cena brez dajatev:
+
+zaokrožitev na pet decimalnih mest;
+
+
+-       
+  drobnoprodajna cena:
+
+zaokrožitev na tri decimalna mesta.
+
+9. člen
+Najvišja višina marže za motorni bencin znaša 0,08701
+eura/liter in za dizel 0,08158 eura/liter.
+KONČNA DOLOČBA
+10. člen
+Ta uredba začne veljati 9. aprila 2016 in velja dva
+meseca.
+Št. 00726-9/2016
+Ljubljana, dne 7. aprila 2016
+EVA 2016-2130-0085
+Vlada Republike Slovenije
+dr. Miroslav Cerar l.r.
+Predsednik

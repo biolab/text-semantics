@@ -1,0 +1,1050 @@
+SPLOŠNE DOLOČBE
+1. člen
+(1) Ta pravilnik določa tehnične
+zahteve, ki jih morajo izpolnjevati igralne naprave za izvajanje iger na srečo,
+način ugotavljanja njihove skladnosti s tehničnimi zahtevami, in izvajanje
+kontrole nad izpolnjevanjem tehničnih zahtev igralnih naprav v uporabi ter
+vsebino in postopek izdaje poročila o preizkusu igralne naprave, listin o
+tipski skladnosti igralne naprave in poročila o kontroli.
+(2) Ta pravilnik se izda ob
+upoštevanju postopka informiranja v skladu z Direktivo 98/34/ES Evropskega
+parlamenta in Sveta z dne 22. junija 1998 o določitvi postopka za zbiranje
+informacij na področju tehničnih standardov in tehničnih predpisov (UL. L. št.
+204 z dne 21. 6. 1998, str. 37), zadnjič spremenjeno z Direktivo 98/48/ES
+Evropskega parlamenta in Sveta z dne 20. julija 1998 o spremembi Direktive
+98/34/ES o določitvi postopka za zbiranje informacij na področju tehničnih
+standardov in tehničnih predpisov (UL. L št. 217 z dne 5. 8. 1998, str.
+18).
+2. člen
+Posamezni izrazi uporabljeni v tem
+pravilniku imajo naslednji pomen:
+-      
+»poročilo o preizkusu« (v nadaljevanju: PPIN) je listina o
+skladnosti posamezne igralne naprave z zahtevami, opredeljenimi v predpisih, ki
+urejajo igre na srečo, ki opredeljuje njene ključne tehnične lastnosti, ki ga
+institucija izda na podlagi certifikata o skladnosti in poročila o kontroli;
+-      
+»institucija« je pravna oseba, ki po predpisanem postopku
+ugotavlja skladnost igralne naprave s predpisanimi tehničnimi in drugimi
+zahtevami;
+-      
+»certificiranje« je postopek ugotavljanja skladnosti tipa igralne
+naprave z zahtevami, določenimi v predpisih, ki urejajo igre na srečo in je
+sestavljen iz pregleda vzorca, dokumentacije in tehničnih preskusnih poročil,
+po potrebi pa tudi preverjanja navedb v tehničnem preskusnem poročilu ali
+dokumentaciji, oziroma izvedbe dodatnih preskusov. Rezultati certificiranja so
+v primeru ugotovljene skladnosti igralne naprave navedeni v certifikatu o
+skladnosti, ki je javna listina;
+-      
+»preskušanje« je postopek preverjanja posameznih tehničnih lastnosti
+igralne naprave, ki so določene v predpisih, ki urejajo igre na srečo, z
+izvedbo različnih tehničnih preskusov na vzorcu tipa igralne naprave, kot so
+pregled dokumentacije, analiza zasnove, funkcionalni preskusi delovanja,
+matematična in statistična analiza, pregled izvorne kode programa, meritve
+mehanskih in snovnih lastnosti. Preskušanje izvaja preskuševalni laboratorij,
+rezultati preskušanja pa so navedeni v tehničnem preskusnem poročilu. Iz
+tehničnega preskusnega poročila so razvidne vse zahteve, ki so se preskušale,
+kvantitativen ali kvalitativen rezultat preskušanja vsake posamezne zahteve in
+skladnost ali neskladnost s tehničnimi zahtevami;
+-      
+»kontrola« je postopek ugotavljanja skladnosti posamezne igralne
+naprave s tipskimi lastnostmi, ki so bile preverjene v postopku certificiranja.
+S postopkom kontrole se preveri tudi, če so nastavitve igralne naprave skladne
+s tehničnimi in drugimi zahtevami, opredeljenimi v predpisih, ki urejajo igre
+na srečo, ter se namestijo zaščite pred nepooblaščenim pristopom. Rezultati
+kontrole so navedeni v poročilu o kontroli;
+-      
+»igralna naprava« je naprava, ki omogoča izvajanje igre na srečo,
+in sicer se za igralno napravo štejejo igralni avtomat, igralna miza, žrebalna
+naprava, igralni pano, spletna igralna naprava in strežniški sistem iger;
+-      
+»igralni avtomat« je vrsta igralne naprave, na kateri se igra
+izvaja brez pomoči človeka, pri čemer se lahko igre izvajajo z vrtečimi koluti
+ali simulacijo posebnih iger na srečo (npr. igre s kartami, ruleto, kockami);
+-      
+»strežniški sistem iger« (v nadaljnjem besedilu: SSI) je posebna
+izvedba igralnega avtomata, sestavljenega iz strežnika in igralnega terminala,
+ki skupaj omogočata izvajanje igre na srečo;
+-      
+»spletna igralna naprava« je posebna izvedba igralne naprave, na
+kateri se izvaja spletna igra in je del spletnega igralnega sistema, vključuje
+generator naključnih števil za spletno igro, vplačila v spletno igro in
+izplačila iz spletne igre in vse števce in zabeležke dogodkov in stanj, ki so
+predpisani v pravilniku, ki ureja prirejanje igre na srečo preko interneta
+oziroma drugih telekomunikacijskih sredstev, in pravilniku, ki ureja nadzorno
+informacijski sistem;
+-      
+»progresiva« je mehanizem
+polnjenja progresivnega sklada, s katerim je povezana ena ali več igralnih
+naprav, in proženja progresivnega dobitka po vnaprej določenih pravilih;
+-      
+»progresivni sistem« se sestoji iz ene ali več vanj vključenih
+igralnih naprav in iz pripadajoče progresivne nadgradnje;
+-      
+»časovni žig« je zabeležka datuma in
+časa s sekundno ločljivostjo.
+II. TEHNIČNE ZAHTEVE ZA IGRALNE NAPRAVE
+SPLOŠNO
+3. člen
+Igralna naprava, ki se uporablja za
+izvajanje iger na srečo, mora zadostiti tehničnim zahtevam funkcionalnega
+delovanja ter zahtevam elektromagnetne združljivosti in električne varnosti.
+ZAHTEVE FUNKCIONALNEGA DELOVANJA
+4. člen
+(1) Tehnične zahteve funkcionalnega
+delovanja igralne naprave obsegajo funkcionalne lastnosti igralne naprave, zaščito
+pred nepooblaščenimi posegi, naključnost izida, delež vračanja in vključljivost
+v nadzorni informacijski sistem igralnih naprav (v nadaljnjem besedilu: NIS).
+(2) Igralna naprava sme imeti samo
+tiste funkcionalne lastnosti, ki so navedene in opisane v priročniku za uporabo
+in tehničnem priročniku igralne naprave.
+(3) (črtan)
+5. člen
+(1) Izid igre na igralnih napravah
+mora biti odvisen izključno od naključja. Izid igre je npr. padla številka na
+ruleti, kombinacija simbolov, na katerih so se ustavili posamezni koluti igralnega
+avtomata z mehanskimi ali navideznimi koluti, razdelitev kart v zavitku po
+mešanju pri igrah s kartami, padla številka ali simbol pri igrah s kockami,
+izpihnjena žogica iz žrebalnega bobna, porazdelitev številk pri različnih
+vrstah tombole.
+(2) Informacije, ki jih daje igralna
+naprava, v nobenem trenutku ne smejo biti zavajajoče. Igralec mora biti v
+vsakem trenutku obveščen o relevantnih lastnostih igre, izidi igre morajo biti
+nedvoumni. Prav tako mora igralna naprava za igre, ki posnemajo igre na srečo
+in pri katerih lahko igralec upravičeno pričakuje določene verjetnosti
+posameznih naključnih dogodkov (npr. izidi pri igrah s kartami), slediti
+pripadajočim verjetnostim.
+(3) Izid igre na srečo in pripadajoči
+dobitek na igralnem avtomatu morata biti neodvisna od predhodno odigranih iger.
+Igra na igralnem avtomatu se začne, ko jo z ustrezno tipko, dotikom zaslona ali
+kakšnim drugim nedvoumnim ukazom sproži igralec. Šele ko igralec sproži igro,
+se izvede vplačilo v igro (stava) in se za vrednost stave zmanjša vrednost
+igralčevega kredita na igralnem avtomatu. Igra je lahko sestavljena iz osnovne
+igre (kolutna igra, igra s kartami, idr.) in ene ali več podiger. Igra na
+igralnem avtomatu se zaključi, ko je ni mogoče več nadaljevati brez novega
+vplačila v igro.
+(4) Dobitki iz igre na igralnem
+avtomatu se lahko prenesejo v podigre, pri čemer mora biti igralcu vedno
+ponujena možnost, da vzame dobitek, razen v primeru, da kreditov v dodatni igri
+ali podigri ne more izgubiti.
+6. člen
+(1) Igralna naprava mora imeti
+generator naključnih števil, ki je lahko mehanska, elektromehanska ali kakšna
+druga priprava (npr. kolo rulete, žrebalna naprava) ali pa matematični algoritem.
+(2) Generator naključnih števil mora
+pri statističnem preskusu z najmanj tisoč krat tolikšnim številom poskusov kot
+je vseh možnih izidov igre izpolniti naslednje kriterije:
+-      
+frekvenca vsakega dobljenega izida se sme od pričakovane frekvence
+razlikovati največ za 3 standardne odmike (frekvenčni ali 3 sigma preskus),
+-      
+hi-kvadrat preskus normalne porazdelitve mora biti znotraj predpisanih
+meja za stopnjo tveganja 0,025,
+-      
+preskus zaporedne korelacije izidov mora prav tako izpolnjevati zahteve
+3 sigma preskusa in hi-kvadrat preskusa.
+(3) Za preskus naključnosti se lahko
+uporabljajo tudi druge metode, če izidi zagotavljajo izpolnjevanje v prejšnjem
+odstavku navedenih kriterijev.
+(4) Programski generator naključnih
+števil brez mehanskih delov, ki temelji na matematičnem algoritmu, mora imeti
+naključno izbrano začetno vrednost.
+7. člen
+(1) Igralna naprava mora biti grajena
+tako, da je dostop v notranjost omogočen samo pooblaščenim osebam koncesionarja
+oziroma prireditelja (npr. z uporabo mehanskih ali elektronskih ključavnic),
+prav tako pa sme biti dostop do vseh zunanjih električnih in komunikacijskih
+povezav do igralne naprave mogoč le pooblaščenim osebam koncesionarja oziroma
+prireditelja.
+(2) Igralna naprava mora biti grajena
+tako, da je pred nepooblaščenim dostopom mogoče zaščititi vse strojne in programske
+sestavne dele, ki izvajajo program, vplivajo na naključnost, delež vračanja in
+ključne nastavitve ter nadzorujejo igro (v nadaljnjem besedilu: zaščiteni deli
+igralne naprave).
+(3) Zaščiteni deli igralnega avtomata
+morajo biti vgrajeni v ločenem in s posebnimi vrati zaprtem logičnem predelku
+igralnega avtomata. Za logični predelek se šteje ohišje, ki izpolnjuje naslednje
+zahteve:
+-      
+dostop v notranjost zahteva uporabo ločenega ključa,
+-      
+dostop v notranjost nadzoruje stikalo in
+-      
+dostop v notranjost ohišja je možno zaščititi pred nepooblaščenim
+dostopom.
+(4) Zahteve iz prejšnjih odstavkov ne
+veljajo za igralne mize in žrebalne naprave, kjer se naključnostni dogodek
+izvede ročno, mehansko ali elektromehansko. Možnost zaščite pred zunanjim
+posegom na vpliv izida igre ali žreba se prouči za vsako vrsto igralne naprave
+posebej.
+8. člen
+Vsak igralni avtomat mora imeti v funkciji
+tiste signalne luči, ki so njegov originalni sestavni del (npr. odprta vrata,
+okvara, zahteva za ročno izplačilo).
+9. člen
+(1) Programska oprema igralnega
+avtomata, ki nadzoruje igro, vpliva na naključnost, delež vračanja in ključne
+nastavitve (v nadaljnjem besedilu: kontrolni program), kot tudi programska oprema
+operacijskega sistema igralnega avtomata in podatki z zvokom in sliko igre,
+mora biti zasnovana tako, da spreminjanje programske kode ni mogoče, bodisi da
+se ta nahaja na nespremenljivih medijih (npr. EPROM, PROM, ROM, CD-ROM, DVD)
+ali pa na spremenljivih medijih (npr. trdi disk). Obstajati mora interni
+mehanizem preverjanja pristnosti (avtentikacija) programske opreme.
+(2) Igralni avtomat mora imeti
+mehanizem za interno preverjanje spremenljivih spominskih lokacij (npr. RAM) in
+mora ustaviti nadaljevanje igre, če se pojavi nepričakovana nepravilnost
+podatkov ali podatkovne strukture.
+(3) Igralni avtomat mora prepoznati,
+javiti in ustaviti nadaljevanje igre tudi ob naslednjih napakah in dogodkih:
+-      
+strojne napake (npr. v komunikaciji s samostojnimi sestavnimi deli, kot
+so zalogovnik žetonov, sprejemnik bankovcev),
+-      
+stanje pred izpraznjenjem baterije za spominske lokacije, v katerih so
+shranjeni podatki o stanju igre, nastavitvah in števcih,
+-      
+odprtje vrat,
+-      
+odprtje dostopa do sprejemnika bankovcev,
+-      
+odprtje dostopa do zbiralnika bankovcev,
+-      
+izpad komunikacije s progresivnim sistemom,
+-      
+napake pri ugotavljanju pristnosti programske opreme.
+(4) Pri igralnih avtomatih s
+procesorsko platformo s spremenljivim oziroma prepisljivim datotečnim sistemom
+sme biti nameščena samo programska oprema operacijskega sistema s sledljivim
+izvorom in programska oprema igre.
+10. člen
+Igralni avtomat mora biti izdelan in
+zasnovan tako, da je spremembo ključnih nastavitev mogoče izvesti samo po predpisanem
+postopku, ki zahteva poseg v zaščitene dele igralnega avtomata. Ključne
+nastavitve so:
+-      
+izbor iger, razen izbora iger, ki je naveden v poročilu o kontroli,
+-      
+obračunska denominacija,
+-      
+izbor vključenih denominacij,
+-      
+tokenizacija,
+-      
+delež vračanja,
+-      
+način beleženja vplačil, izplačil in odigranih iger na elektronskih
+števcih,
+-      
+način posredovanja podatkov v NIS,
+-      
+vključitev/izključitev perifernih enot za vplačila in izplačila,
+-      
+vključitev/izključitev morebitne možnosti dodajanja kredita preko
+komunikacijskega protokola.
+11. člen
+(1) Vplačila v igralne avtomate so
+možna z žetoni ali s kovanci igralne valute, preko sprejemnikov žetonov, kovancev,
+bankovcev in lističev, vgrajenih na igralnem mestu igralnega avtomata in preko
+čitalca igralne kartice z elektronskim prenosom na kredit pri brezgotovinskem
+poslovanju. Izplačila na igralnih avtomatih so možna z žetoni ali s kovanci, z
+izpisom izplačilnega lističa na vgrajenem tiskalniku na igralnem mestu
+avtomata, z elektronskim prenosom kredita pri brezgotovinskem poslovanju in kot
+ročna izplačila na blagajni z resetom kredita na igralnem avtomatu.
+(2) Sprejemnik žetonov mora pravilno
+prepoznati in prešteti veljavne žetone ali kovance in vrednosti.
+(3) Sprejemnik bankovcev mora pravilno
+prepoznati in prešteti bankovce, valuto in vrednosti.
+(4) Sprejemnik žetonov, sprejemnik
+bankovcev ter sprejemnik bankovcev in lističev morajo prebrane vrednosti in
+števila pravilno sporočiti igralnemu avtomatu.
+(5) Sprejemnik žetonov, sprejemnik
+bankovcev ter sprejemnik bankovcev in lističev morajo biti zasnovani tako, da
+zavrnejo plačila z neveljavnim žetonom, kovancem, bankovcem ali lističem in
+morajo imeti vgrajene mehanizme za preprečevanje poskusov nasilnih vdorov,
+prevar in manipulacije brez sledu o fizični poškodbi naprave.
+(6) Sprejemnik bankovcev oziroma
+sprejemnik bankovcev in lističev mora imeti predal za shranjevanje bankovcev
+oziroma lističev (zbiralnik bankovcev), ki je dosegljiv samo iz notranjosti
+igralnega avtomata ali igralne naprave, ki deluje avtomatsko, brez pomoči
+človeka, in na kateri igralci igrajo drug proti drugemu, in mora biti zaklenjen
+s posebnim ključem. Igralni avtomat mora zaznati stanje polnega zbiralnika
+bankovcev.
+(7) Podrobnejše zahteve za vplačila in
+izplačila z lističi in za brezgotovinsko poslovanje so navedene v Prilogi, ki
+je sestavni del tega pravilnika.
+12. člen
+(1) Igralni avtomat mora biti
+opremljen z elektronskimi števci, navedenimi v Prilogi tega pravilnika, in
+katerih vrednosti ni mogoče spreminjati z zunanjimi posegi. Izjemo predstavlja
+predpisan postopek za zamenjavo programske opreme ali spremembo nastavitev
+igralnega avtomata, pri katerem se briše vsebina spremenljivih spominskih
+lokacij in ob katerem se vrednosti elektronskih števcev postavijo na nič, ali
+servisni poseg, če igralni avtomat brez brisanja spremenljivih spominskih
+lokacij ne bi več pravilno deloval. Tak dogodek mora biti zabeležen v mapi
+igralne naprave, pri servisnem posegu pa tudi natančna obrazložitev razloga
+posega.
+(2) SSI mora imeti vse števce, ki se
+zahtevajo za samostojni igralni avtomat, in sicer tako, da so zahtevane informacije
+na voljo ločeno za vsak igralni terminal.
+13. člen
+Igralni avtomat mora biti grajen tako, da
+zaradi prekinitve električnega napajanja ne pride do izgube podatkov, ki se
+hranijo v njegovem pomnilniku in se nanašajo na tekoče stanje igralnega
+avtomata ter stanja predpisanih elektronskih števcev in dnevnikov na igralnem
+avtomatu.
+14. člen
+Igralni avtomat mora hraniti dnevnik
+dogodkov, ki vsebuje vsaj podatke o zadnjih petih v celoti odigranih igrah (in
+o morebitni trenutno potekajoči igri), in sicer: stavo, dobitek, rezultat
+žrebanja oziroma izid igre vključno z vsemi delnimi izidi, kot npr. izidi
+podiger. Če število delnih izidov v zadnjih petih igrah (vključno z morebitno
+trenutno potekajočo igro) preseže deset, hranjenje vseh starejših delnih izidov
+ni zahtevano. Ne glede na to pa je zahtevano hranjenje vseh tistih delnih
+izidov zadnjih petih iger, pri katerih lahko pride do dodatnih stav v podigre
+ali pa do zastavljanja že priigranih kreditov (npr. podvojevanje dobitkov).
+14.a člen
+Na igralnem avtomatu z več igralnimi mesti
+mora biti možno igrati igro proti avtomatu tudi ob udeležbi enega igralca.
+Igralni avtomat z več igralnimi mesti, ki simulira posebne igre na srečo, ki se
+sicer izvajajo na igralni napravi s pomočjo osebe, mora le‑te izvajati z
+identičnimi pravili in verjetnostmi, ki so določene za igro, ki se izvaja na
+igralni napravi s pomočjo osebe, ki izvaja igre na srečo.
+15. člen
+(1) Igralni avtomat z več igralnimi
+mesti in z elektromehanskim generatorjem naključnih izidov (npr. elektromehanska
+ruleta, igra s kockami) mora imeti nameščen zaščitni pokrov, ki onemogoča
+dostop do elektromehanskega generatorja, in mora biti grajen tako, da igranje
+ob dvignjenem zaščitnem pokrovu ni mogoče.
+(2) Mehanski deli generatorja
+naključnih izidov (npr. kolo elektromehanske rulete) morajo izpolnjevati vse
+mehanske in dimenzionalne zahteve, ki so določene za igralne mize, igralne
+panoje in žrebalne naprave.
+(3) Igralni avtomat z elektromehanskim
+generatorjem naključnih izidov mora hraniti dnevnik podatkov za najmanj zadnjih
+40.000 izidov iger, ki jih ni mogoče izbrisati ali spremeniti brez posega v
+zaščitene dele igralne naprave. Skupaj s časovnim žigom posameznega dogodka se
+morajo ločeno beležiti naslednji podatki:
+-      
+vplačilo,
+-      
+stanje kredita na začetku igre,
+-      
+stavna kombinacija,
+-      
+razveljavitev igre,
+-      
+izid igre (npr. padla številka),
+-      
+dobitek,
+-      
+izplačilo,
+-      
+vse napake in dogodki iz tretjega odstavka 9. člena tega pravilnika.
+15.a člen
+Igralna naprava, ki deluje avtomatsko, brez
+pomoči človeka, in na kateri igralci igrajo drug proti drugemu (npr. elektronska
+poker igralna naprava z več igralnimi mesti), mora poleg zahtev, ki so
+predpisane za igralno napravo, izpolnjevati tudi posamezne zahteve, ki so
+predpisane za igralne avtomate, in sicer iz tretjega odstavka 5. člena, 9. do
+11. člena, prvega odstavka 12. člena, 13. in 14.a člena, prvega odstavka 16. člena, 17. člena in prvega odstavka 31. člena tega pravilnika.
+16. člen
+(1) Igralna naprava mora vračati
+igralcu tisti delež vložka, ki je določen v tehnični dokumentaciji igralne
+naprave Delež vračanja mora biti določljiv iz pravil igre, plačilne tabele, ki
+jo sestavljajo tabela dobitnih kombinacij in pripadajočih vrednosti izplačil,
+porazdelitve simbolov in tehnične dokumentacije igralne naprave, ki enolično
+določajo verjetnosti posameznih izidov igre.
+(2) Pri igrah s kartami in igrah,
+katerih izid je odvisen tudi od strategije igralca, se delež vračanja ugotavlja
+ob upoštevanju strategije iz teorije igre. V primeru, da igralna naprava
+vsebuje funkcijo, ki igralcu predlaga določeno strategijo igranja (npr.
+»autohold« pri poker igrah), se delež vračanja upošteva za primer, ko bi
+igralec v celoti upošteval predlagano strategijo.
+VKLJUČLJIVOST V NADZORNI INFORMACIJSKI SISTEM
+IGRALNIH NAPRAV
+17. člen
+(1) Igralni avtomat mora omogočati
+povezavo v NIS preko programskega protokola proizvajalca igralnih avtomatov, ki
+je skupen igralnemu avtomatu in NIS, ki zagotavlja varno in zanesljivo
+posredovanje podatkov in ne dovoljuje posegov v nastavitve igralnega avtomata.
+Podatke, zahtevane v NIS, ki jih na ta način ni mogoče pridobiti, in se ne
+nanašajo na obračunavanje igralnega avtomata, lahko posreduje v igralni avtomat
+vgrajeni vmesnik. Vmesnik mora biti v igralnem avtomatu vgrajen na mestu, ki je
+zaščiteno na tak način, da lahko do njega dostopajo le pooblaščene osebe
+koncesionarja. Če konstrukcijske lastnosti igralnega avtomata ne omogočajo
+zaščite pred nepooblaščenim dostopom, se vmesnik dodatno zaščiti.
+(2) Programski protokol igralnega
+avtomata iz prejšnjega odstavka, mora omogočiti spremljanje in beleženje vseh
+števcev, dogodkov in stanj, ki so za igralne avtomate predpisani v Prilogi tega
+pravilnika.
+PROGRESIVNI SISTEMI IGRALNIH NAPRAV
+18. člen
+(1) Igralna naprava ali skupina
+igralnih naprav se lahko nadgradi s progresivno nadgradnjo, kar tvori
+progresivni sistem. Progresivni sistem je lahko zasnovan kot lastna progresiva,
+kjer ima igralna naprava svoj lasten progresivni sklad, ali pa kot skupna
+progresiva, kjer je več igralnih naprav povezanih v skupen progresivni sklad.
+Progresivni sistem lahko upravlja samostojni progresivni krmilnik, pri igralnih
+avtomatih pa lahko to vlogo prevzame sam igralni avtomat. Komunikacija med
+progresivnim krmilnikom in igralnimi napravami mora zagotavljati pravilne
+vrednosti in prirastke (inkremente) ter delovanje v skladu s predloženo
+tehnično dokumentacijo igralne naprave in progresivne nadgradnje.
+(2) Progresivni sistem ima lahko več
+progresivnih skladov. Progresivni sklad je lahko sestavljen iz več nivojev (večnivojski
+progresivni sklad), pri katerih vrednosti nivojev naraščajo v medsebojni
+povezavi. Izid igre ali naključni proces v krmilniku prožita progresivni
+dobitek.
+(3) Če sta igralni avtomat in
+pripadajoča progresivna nadgradnja zasnovana tako, da izvajanje igre brez
+delujoče progresive ni mogoče, se delež vračanja igralnega avtomata izračuna
+kot vsoto deleža vračanja same igre in deleža vračanja progresivne nadgradnje.
+(4) Pri progresivnem sistemu štejejo
+za zaščitene dele tisti deli sistema, ki omogočajo namestitev oziroma odstranitev
+progresivne nadgradnje in ki omogočajo dostop do kritičnih nastavitev
+progresive. To so vse tiste nastavitve, ki vplivajo na verjetnost progresivnega
+dobitka, in druge nastavitve, ki vplivajo na delež vračanja progresivnega
+sistema (npr. inkrementi in začetne vrednosti).
+(5) Če progresivni dobitek proži izid
+igre, se sme verjetnost tovrstnega izida pri katerikoli igri ali igralnem
+avtomatu, vključenem v progresivni sistem, razlikovati za manj kot 1% od
+srednje vrednosti verjetnosti tovrstnih izidov vseh iger, vključenih v
+progresivni sistem.
+(6) Če je naključnost proženja
+progresivnega dobitka odvisna od progresivnega krmilnika, mora biti tudi
+progresivni krmilnik preskušen v skladu s 6. členom tega pravilnika.
+STREŽNIŠKI SISTEM IGER
+19. člen
+(1) V SSI je igralni terminal, na
+katerem igra igralec, povezan s strežnikom, kot igralni avtomat pa šteje
+kombinacija terminala in pripadajočega strežnika. Igralni terminal omogoča vso
+potrebno interakcijo z igralcem (vplačila, izplačila, prikaz izvajanja igre in
+interakcijo z njo). Lahko tudi delno ali v celoti hrani izvedbeno kodo igre.
+Strežnik prevzema upravljanje in nastavitve sistema, nastavitve izbora
+ponujenih iger, lahko pa tudi delno ali v celoti izvajanje iger, nastavitve
+posamezne igre ali igralnega terminala, delno ali v celoti hranjenje izvedbene
+kode iger in podobno. SSI se med seboj ločijo po tem, ali se izvedbena koda
+igre izvaja na strežniku, na igralnem terminalu, ali pa v kombinaciji, in po
+tem, kje se izvedbena koda igre hrani.
+(2) SSI mora smiselno izpolnjevati vse
+zahteve tega pravilnika, ki se nanašajo na igralne avtomate.
+20. člen
+(1) Vsi komunikacijski protokoli v
+SSI, ki se uporabljajo za komunikacijo med napravami v SSI, morajo imeti mehanizme
+za odkrivanje napak, oziroma obnovo podatkov ob napakah. Protokoli morajo biti
+zasnovani tako, da preprečujejo nepooblaščen dostop in spreminjanje podatkov.
+Uporabljati morajo standarde za šifriranje prenosa podatkov (npr. DES – Data
+Encryption Standard, ali druge enakovredne ali boljše postopke z varnimi algoritmi
+in semeni). Celoten SSI mora biti nameščen v igralnici oziroma igralnem salonu,
+pri čemer ni dovoljeno povezovati SSI med več igralnicami oziroma igralnimi
+saloni.
+(2) Strežniški del SSI sistema se mora
+nahajati v ločenem prostoru v igralnici oziroma igralnem salonu. Dostop do
+strojne opreme strežnika mora biti fizično varovan in onemogočen nepooblaščenim
+osebam. Strežniški prostor in SSI morata biti zasnovana tako, da se sledljivo
+beležijo vsi fizični vstopi v prostor in vse prijave na SSI.
+(3) Vsi v nadaljevanju predpisani
+dnevniki dogodkov morajo biti v predpisanih obdobjih hranjenja neizbrisljivi in
+nespremenljivi ter na voljo za kontrolo in nadzor.
+21. člen
+Če SSI omogoča, da se kontrolni program
+spremeni na igralnem terminalu ali se v celoti namesti nanj, mora:
+-      
+biti sistem, ki skrbi za spreminjanje ali namestitev programa, sposoben
+preveriti, da so vsi naloženi kontrolni programi resnične in natančne kopije
+programa, ki je bil poslan na igralni terminal. V primeru kakršnekoli odkrite
+napake mora SSI sprožiti mehanizme (aktivnosti), ki napako odpravijo ali
+onemogočijo igro;
+-      
+obstajati varnostni mehanizem, ki zagotavlja, da so vsi kontrolni
+programi, nameščeni na igralnem terminalu, ves čas resnične in natančne kopije
+programa, ki je bil poslan na igralni terminal.
+22. člen
+(1) Kadar se v SSI naključna vrednost,
+izžrebana kombinacija ali katerikoli element, ki vpliva na izid igre, določi
+izven ohišja igralnega terminala in se igralnemu terminalu sporoči preko
+komunikacijske povezave, mora SSI poleg splošnih varnostnih mehanizmov iz 20.
+člena tega pravilnika preverjati tudi pristnost posredovanih podatkov in
+opozoriti na njihovo spreminjanje.
+(2) Če pride do napake v komunikaciji,
+mora igralni terminal prikazati vizualno in zvočno sporočilo o napaki, zabeležiti
+pa se morajo tudi podrobnosti o napaki, vključno s časovnim žigom. Brisanje
+stanja napake je možno samo s strani pooblaščenega osebja, razen če obstaja
+varen avtomatiziran proces. V dnevniku SSI, pri katerem se izvedbena koda ne
+izvaja na igralnem terminalu, se morajo za obdobje najmanj 15 dni hraniti vsaj
+naslednji podatki:
+-      
+časovni žigi vseh pomembnih dogodkov, tako da se lahko razreši pritožba
+igralca, ki se nanaša na časovno sosledje dogodkov (npr. datum in čas zadnje
+stave v igri, datum in čas sprejema izžrebane kombinacije na igralnem
+terminalu, datum in čas, ko v igro ni bilo mogoče več staviti, trenutek, ko je
+bil o tem opozorjen igralec);
+-      
+izid vsake odigrane igre;
+-      
+skupna stava v vsako odigrano igro;
+-      
+vse potrebne informacije, tako, da je na osnovi stave in izida odigrane
+igre mogoče določiti višino dobitka v pripadajoči igri.
+23. člen
+(1) SSI omogoča dodajanje,
+spreminjanje oziroma brisanje kontrolnih programov na igralnih terminalih in na
+strežniku SSI, oziroma upravljanje s tem povezanih nastavitev (npr. pričakovani
+delež vračanja, izbira ponujenih denominacij, tokenizacija). Če tak postopek
+vključuje prenos podatkov, mora SSI po vsakem prenosu preveriti pristnost
+posredovanih podatkov in opozoriti na napake. SSI mora poleg tega zagotavljati
+varnostne mehanizme za preprečevanje nepooblaščenega dostopa, tako da je
+zaščita pred nepooblaščenim dostopom enakovredna zaščiti na igralnih avtomatih.
+Ob vsaki prijavi na SSI, se morajo za obdobje najmanj 12 mesecev v dnevniku SSI
+hraniti najmanj naslednji podatki:
+-      
+uporabniško ime prijave v SSI,
+-      
+časovni žig, prijave in odjave v SSI,
+-      
+identifikacijske oznake spremenjenih kontrolnih programov na strežniku
+SSI ali po posameznem igralnem terminalu (pred in po spremembi) oziroma seznam
+imenikov iger ali drugih operativnih parametrov, ki so bili spremenjeni, dodani
+ali brisani,
+-      
+vsak poskus nepooblaščenega dostopa, s časovnim žigom.
+(2) Koncesionar mora voditi tudi ločen
+dnevnik posegov v SSI (na ločenem računalniku oziroma sistemu, ali v papirni
+obliki) za obdobje najmanj 12 mesecev, v katerega mora beležiti podrobnosti o
+vsaki prijavi, in sicer vsaj: ime in priimek osebe, ki je opravila poseg, čas
+prijave, namen prijave, programske, podatkovne ali nastavitvene segmente, do
+katerih je dostopal in vsebino opravljenih posegov.
+24. člen
+Postavljanje ali spreminjanje ključnih
+nastavitev mora biti omogočeno le v nedejavnem času igre, ko igra ni v teku in
+na igralnem terminalu ni naloženih kreditov. Takšna sprememba ne sme povzročiti
+napačnega obračuna kreditov ali izplačil.
+POSEBNE ZAHTEVE ZA IGRALNE MIZE, ŽREBALNE
+NAPRAVE IN IGRALNE PANOJE
+25. člen
+(1) Pri igralnih mizah, žrebalnih
+napravah in igralnih panojih, kjer je izid igre ali žrebanja odvisen od
+mehanskih in dimenzionalnih lastnosti naprave, morajo le-te po svoji konstrukciji
+in izvedbi zagotoviti naključnost in pravilnost izvedbe naprave za dani namen.
+(2) Pri igralnih mizah se ugotavlja
+skladnost le za tiste samostojne sestavne dele, ki vplivajo na naključnost,
+vplačila, izplačila, obračun, povezljivost v NIS, kot so kolo rulete, mešalnik
+kart, progresivni sistem na igralni mizi in podobno.
+26. člen
+Pri kolesu rulete mora biti razlika med
+višinami omejevalnikov in širinami predalčkov manjša kot 0,5 mm, razlika med širinami omejevalnikov pa manjša kot 0,2 mm. Razlika med najmanjšo in največjo širino reže med statičnim in vrtečim se delom kolesa mora biti manj kot 0,8 mm, razlika v višini med robom vrtečega in statičnega dela pa +0,3 do -1,0 mm. Porazdelitev mase vrtečega dela kolesa mora biti takšna, da je pri nagnjenosti 5% iz
+vodoravne lege uravnovešenje kolesa moč doseči z dodajanjem mase manj kot 150 g. Ročno gnano kolo rulete mora imeti takšno vztrajnost in trenje, da je čas zaustavljanja ob
+začetni hitrosti vrtenja 0,5 obrata v sekundi daljši kot 4 minute.
+27. člen
+(1) Oštevilčene ali kako drugače
+označene žogice za žrebanje morajo imeti enako maso, premer in elastičnost
+materiala. Glede na povprečno vrednost kompleta za žrebanje sme masa posamezne
+žogice odstopati manj kot ± 10%. Premer posamezne žogice se določi kot
+povprečna vrednost najmanj treh meritev, enakomerno razporejenih po površini
+žogice ob zanemarljivo majhni sili tipala na žogico. Za votle žogice sme premer
+odstopati od povprečne vrednosti kompleta za žrebanje manj kot ± 1%, za polne
+pa manj kot ± 5%. Elastičnost materiala se ugotavlja samo za votle žogice kot
+razlika med premeroma v eni osi, izmerjenima z dvema silama tipala, od katerih
+je prva med 0,5 N in 1 N, druga pa dvakrat večja od prve. Razlika med obema
+premeroma sme od povprečne vrednosti razlik dveh premerov vseh žogic v kompletu
+za žrebanje odstopati manj kot 0,1 mm, oziroma 0,2% povprečne vrednosti premera
+vseh žogic iz istega kompleta. Pri tem se upošteva večja od obeh navedenih
+toleranc.
+(2) Ostale lastnosti, npr. vpliv
+električnega naboja zaradi površinske električne upornosti materiala, se
+ocenijo po potrebi glede konstrukcijske lastnosti žogic in pripadajočega bobna
+za žrebanje.
+28. člen
+(1) Boben za žrebanje žogic mora imeti
+vsaj štirikrat večji volumen kot ga zasede maksimalno število žogic, ki lahko
+sodelujejo v žrebanju. Pri avtomatskem žrebanju mora konstrukcija bobna
+zagotavljati, da izpuh ali izvlek posamezne žogice ni mogoč preden se vzpostavi
+stacionarno stanje gibajočih se žogic. Stacionarno stanje je vzpostavljeno
+takrat, ko so vse žogice v bobnu v gibanju in se vsaka žogica lahko nahaja
+kjerkoli v bobnu ter vsaka žogica spremeni hitrost od najmanjše do največje,
+gibanje pa je tako hitro, da s prostim očesom ni mogoče prepoznati posameznih
+številk ali označb na žogicah. Najmanjši čas po vklopu pogonskega mehanizma
+bobna (pnevmatski, mehanski idr.) za doseganje stacionarnega stanja se določi s
+preskusom bobna.
+(2) S preskusom se preverijo tudi
+ostale funkcionalne lastnosti žrebalnega bobna, ki so opisane v tehnični dokumentaciji
+proizvajalca. Preskus vključuje tudi preverjanje postopka žrebanja, ki ga ima
+koncesionar ali prireditelj opisanega v svojih internih aktih.
+29. člen
+Statistične preskuse iz 6. člena tega
+pravilnika se na žrebalnih napravah izvede z manjšim številom ponovitev glede
+na njihovo omejeno življenjsko dobo. V tehničnem preskusnem poročilu mora biti
+uporabljena statistična metoda utemeljena in podana ocena njene zanesljivosti.
+30. člen
+Za druge igralne naprave in pripomočke za
+žrebanje oziroma igranje na igralnih mizah, institucija na osnovi njihovih
+dokumentiranih konstrukcijskih lastnosti in pravil igranja izvede potrebne
+preskuse za zagotavljanje naključnosti izida žrebanja in zaščite pred
+nepooblaščenimi posegi v skladu s tem pravilnikom in v tehničnem preskusnem
+poročilu utemelji uporabljeno preskusno metodo in poda oceno njene zanesljivosti.
+31. člen
+(1) Igralni avtomat, žrebalna naprava,
+igralni pano ali samostojni sestavni del igralne mize mora biti opremljen s
+tablico z identifikacijo proizvajalca, tipom naprave in serijsko številko, ki
+ne sme biti odstranljiva brez vidnih sledov posega, igralni avtomat pa tudi z
+letnico izdelave.
+(2) Stator in rotor kolesa ročno gnane
+ali elektronske rulete morata biti označena z identično, edinstveno identifikacijsko
+oznako, neizbrisljivo brez vidnih sledov posega, kolo rulete pa tudi z oznako
+proizvajalca, modela, serijsko številko in letom izdelave.
+(3) Programska oprema igralne naprave
+mora na zahtevo izpisati svojo identifikacijsko oznako na zaslonu igralne
+naprave, ali pa morajo biti nosilci programske opreme v igralni napravi
+opremljeni z ustreznimi identifikacijskimi oznakami.
+32. člen
+Generator naključnih števil in proces
+naključnega izbiranja ne smeta biti občutljiva na motnje zunaj naprave. Igralna
+naprava mora za povezavo z NIS in drugimi zunanjimi deli naprave uporabljati
+takšen komunikacijski protokol in opremo za prenos podatkov do in od igralne
+naprave, ki ne vpliva na generator naključnih števil in proces naključnega
+izbiranja in ki ne povečuje njegove občutljivosti na motnje zunaj naprave.
+Motnje zunaj naprave vključujejo elektromagnetne, elektrostatične in magnetne
+motnje ter motnje na omrežnih in komunikacijskih priključkih.
+33. člen
+(črtan)
+34. člen
+(črtan)
+35. člen
+(črtan)
+36. člen
+(črtan)
+37. člen
+(črtan)
+ZAHTEVE V SMISLU ELEKTROMAGNETNE
+ZDRUŽLJIVOSTI
+38. člen
+Igralna naprava ustreza zahtevam
+elektromagnetne združljivosti, če je skladna z zahtevami, predpisa, ki ureja
+elektromagnetno združljivosti.
+ZAHTEVE V SMISLU ELEKTRIČNE VARNOSTI
+39. člen
+Varna je tista igralna naprava, ki ustreza
+zahtevam predpisa, ki ureja električno opremo, ki je namenjena za uporabo
+znotraj določenih napetostnih mej.
+III. POSTOPEK UGOTAVLJANJA SKLADNOSTI
+SPLOŠNO
+40. člen
+(1) Ugotavljanje tehničnih zahtev iz
+tega pravilnika se izvaja le za igralne naprave, ki jih koncesionar namerava
+vključiti v proces prirejanja iger na srečo.
+(2) Tehnične zahteve za igralne
+naprave, ki jih je preveril že drug akreditiran laboratorij, in so identične z
+zahtevami iz tega pravilnika, katerih vsebine so razvidne iz tehničnega
+preskusnega poročila, se ponovno ne preverja.
+(3) V postopku se za posamezno igralno
+napravo pred njeno uporabo preveri, če je skladna s tehničnimi zahtevami, s
+kontrolo pri koncesionarju pa se zaščiti njene dele in na tej podlagi izda
+PPIN.
+(4) PPIN iz prejšnjega odstavka mora
+vsebovati najmanj naslednje ključne lastnosti igralne naprave:
+-      
+enolične oznake strojne opreme in izvedbe,
+-      
+identifikacijo nameščenih iger,
+-      
+identifikacijo nameščene programske opreme,
+-      
+identifikacijo nameščenih nadgradenj,
+-      
+oznako dokumenta, ki opredeljuje bistvene tipske lastnosti,
+-      
+oznako dokumenta, ki opredeljuje lastnosti in nastavitve te posamezne
+naprave (poročilo o kontroli),
+-      
+identifikacijske podatke koncesionarja: firma in sedež pravne osebe,
+-      
+identifikacijske podatke o lokaciji igralne naprave: ime in naslov
+igralnice oziroma igralnega salona ali prireditelja.
+(5) Ne glede na tretji odstavek tega
+člena se lahko postopek ugotavljanja tehničnih zahtev izvede neodvisno in
+ločeno od igralne naprave le za nadgradnjo igralne naprave oziroma del igralne
+naprave, če ta nadgradnja (npr. sistem samostojnega ali skupnega progresivnega
+dobitka, sistem za vplačevanje z lističi) ali del (npr. sprejemnik bankovcev,
+sprejemnik žetonov, tiskalnik lističev, zalogovnik žetonov, kolo rulete,
+mešalnik kart, komplet žogic za žrebanje) vpliva na izid igre na srečo, proces
+vplačevanja ali izplačevanja v igri na srečo ali povezljivost igralnih naprav v
+NIS.
+UGOTOVITEV SKLADNOSTI TIPA IGRALNE NAPRAVE
+41. člen
+(1) Skladnost tipa se ugotavlja na
+vzorcu iz serije igralnih naprav istega proizvajalca, ki imajo enako oznako
+modela in so med seboj identične v smislu strojne opreme in vgrajene oziroma
+nameščene programske opreme, katere avtentičnost je možno preveriti z odobrenim
+originalnim spominskim medijem (npr. EPROM, PROM, Flash ROM, trdi disk, CD-ROM,
+DVD) ali pa z vsebino medijev v elektronski obliki, vključno s pomembnimi
+nastavitvami igralne naprave.
+(2) V primeru, da gre za nadgradnjo
+tipa, ki ima že pridobljen certifikat o skladnosti, se lahko postopek
+poenostavi na ta način, da se izvedejo le tisti preskusi, ki jih zahtevajo
+spremenjene lastnosti. V primeru, da pri nadgradnji igralne naprave institucija
+oceni, da so spremembe od zadnjega celotnega preverjanja programske opreme
+dovolj obsežne, ali da je od zadnjega preskušanja igralne naprave prišlo do
+sprememb tehničnih zahtev, je potrebno izvesti celoten postopek preskušanja.
+42. člen
+(1) Za pridobitev certifikata o
+skladnosti igralne naprave, njene nadgradnje ali dela igralne naprave poda
+proizvajalec ali zastopnik proizvajalca, po pooblastilu proizvajalca pa tudi
+uvoznik, koncesionar ali trajni prireditelj klasičnih iger na srečo, zahtevo
+instituciji. Zahteva mora vsebovati:
+1.    
+identifikacijske podatke vložnika zahteve (firma in sedež pravne osebe,
+ime odgovorne osebe);
+2.    
+podatke o kontaktni osebi vložnika zahteve za postopek ugotavljanja
+skladnosti (ime, funkcijo in telefonsko številko);
+3.    
+identifikacijske podatke o igralni napravi (proizvajalec, naziv, tip,
+serijska številka, leto izdelave), označbo vseh neodvisnih funkcijskih sklopov,
+popis spominskih medijev (npr. EPROM, PROM, Flash ROM, trdi disk, CD-ROM, DVD)
+s programsko opremo za igranje, sliko, zvok, tiskalnik, terminal na dotik,
+sprejemnik bankovcev in sistemske nastavitve igralne naprave, podatke in
+navodilo za identifikacijo zgoraj navedene vgrajene programske opreme
+(proizvajalčeva označba programske opreme, verzije in serijske številke);
+4.    
+vzorec tipa igralne naprave, vključno z vsemi pripadajočimi zunanjimi
+sklopi, ki so potrebni za normalno delovanje te naprave;
+5.    
+uporabniško dokumentacijo, vključno s podrobnimi pravili igre in opisi
+možnih izidov igre, stav in verjetnostjo ter višino dobitkov glede na izbrano
+kombinacijo in stavo;
+6.    
+vso tehnično dokumentacijo, iz katere so razvidne tehniške lastnosti,
+funkcionalnost delovanja, diagrami ožičenja in sestava igralne naprave;
+7.    
+morebitno dodatno opremo, ki je potrebna za izvedbo postopka
+ugotavljanja skladnosti igralne naprave, v dogovoru z institucijo;
+8.    
+deklarirani delež vračanja s pripadajočim algoritmom določitve
+(analitični izračun, simulacijski model s pripadajočo negotovostjo, ali
+kombinacija obojega), ki izhaja iz pravil igre, dobitnih kombinacij, dobitkov,
+porazdelitev simbolov in drugih dokumentiranih podatkov, ki enolično določajo
+verjetnosti posameznih izidov igre;
+9.    
+komplet originalnih spominskih medijev (npr. EPROM, PROM, Flash ROM,
+trdi disk, CD-ROM, DVD) ali vsebino medijev v elektronski obliki, ki vključuje
+programsko opremo za igranje, sliko, zvok, tiskalnik terminal na dotik,
+sprejemnik bankovcev in nastavitve igralne naprave;
+10.  podroben
+opis programske opreme, vključno z izvorno kodo s komentarji, simbolnimi
+tabelami, diagrami poteka, opisom komunikacij med podsestavi, opisom
+komunikacijskega protokola za vključitev v NIS, način zaščite programske opreme,
+način zagotavljanja avtentičnosti programske opreme, način zagotavljanja
+integritete podatkov, opis generatorja naključnih števil (če je ta izveden programsko)
+in opis vseh programskih nastavitev;
+11.  pisno
+izjavo vložnika zahteve, da programska oprema igralne naprave ne opravlja
+nobenih drugih funkcij, razen tistih, ki so opisane v tehnični in uporabniški
+dokumentaciji in opisu programske opreme iz prejšnje alineje;
+12.  potrebne
+pripomočke (prevajalnik izvorne kode v izvršno, če je ta uporabljen tudi
+operacijski sistem s sledljivim izvorom, ustrezno konfigurirana komunikacijska
+vrata, žetone idr.) za preverjanje programske opreme in simulacijo igre med
+preskušanjem;
+13.  za
+med seboj povezane igralne naprave, ki omogočajo progresivni dobitek, celovito
+tehnično dokumentacijo sistema, skupaj z izračuni verjetnosti dobitkov iz
+progresive in pripadajočim deležem vračanja;
+14.  poročila
+o izvedenih preskusih, meritvah in ugotovljenih funkcionalnih lastnostih za
+igralno napravo v drugih preskusnih laboratorijih, kot tudi tuje listine o
+skladnosti, če obstajajo.
+(2) Če je bila igralna naprava
+preskušena v laboratoriju, ki izpolnjuje zahteve standarda SIST EN ISO/IEC
+17025 za obseg preskusov zahtev funkcionalnega delovanja, in je iz priloženega
+tehničnega poročila razvidno, da so bile preskušene vse zahteve funkcionalnega
+delovanja iz tega pravilnika in ugotovljena skladnost z njimi, ni treba, da
+zahteva za pridobitev certifikata o skladnosti iz prejšnjega odstavka vsebuje
+podatke in pripomočke iz točke 10. in 12. iz prejšnjega odstavka.
+(3) V primeru iz prejšnjega odstavka
+je treba priložiti komplet spominskih modulov z izvedbeno kodo za delovanje
+igralne naprave ali njihovo vsebino v elektronski obliki in z institucijo
+dogovorjeno kontrolno kodo, ki enolično verificira vsebino izvršne kode,
+overjeno s strani preskusnega laboratorija. Zahtev, za katere je iz tehničnega
+preskusnega poročila ustrezno akreditiranega laboratorija razvidna skladnost,
+institucija praviloma ponovno ne preverja.
+43. člen
+Postopek ugotavljanja skladnosti tipa
+igralne naprave se konča z izdajo certifikata o skladnosti ali z izdajo
+tehničnega preskusnega poročila, iz katerega je razvidna neustreznost igralne
+naprave. Vložnik zahteve za ugotavljanje skladnosti je dolžan sodelovati z
+institucijo in pojasniti vse morebitne nepravilnosti, ki se lahko pojavijo v
+času uporabe igralne naprave, kot npr. odstopanja od statistično pričakovanih
+vrednosti, izide igre, ki se ne ujemajo s pravili v dokumentaciji igralne
+naprave, programske napake in druga odstopanja. Vložnik zahteve je dolžan
+institucijo obveščati o morebitnih pritožbah uporabnikov in o kakršnihkoli
+drugih morebitnih nepravilnostih na igralni napravi, ki jih odkrije sam ali je
+o njih obveščen. Institucija je dolžna ugotovljena odstopanja raziskati in
+izdan certifikat o skladnosti razveljaviti, če preiskava pokaže naknadno ugotovljene
+neskladnosti z zahtevami pravilnika in dokumentacijo igralne naprave.
+44. člen
+(1) Ne glede na 40. člen tega
+pravilnika nadzorni organ lahko izjemoma dovoli koncesionarju za igralnico ali
+igralni salon začasno uporabo novih igralnih naprav, za katere je že podana
+zahteva za pridobitev certifikata o skladnosti s tehničnimi zahtevami, vendar
+le za obdobje največ šestih mesecev, če igralne naprave izpolnjujejo zahteve za
+priklop na NIS, in če imajo igralne naprave vse elektronske števce za pravilno
+obračunavanje.
+(2) Delež igralnih naprav, dovoljen z
+dovoljenjem iz prejšnjega odstavka, ne sme presegati eno desetino vseh igralnih
+naprav v posamezni igralnici ali igralnemu salonu, pri čemer število igralnih
+naprav s poročilom o preizkusu igralne naprave v igralnem salonu ne sme biti
+manjše od zakonsko določenega minimalnega števila, skupno število vseh igralnih
+naprav v uporabi pa ne sme presegati zakonsko določenega maksimuma.
+(3) Koncesionar mora vlogi za izdajo
+dovoljenja iz prvega odstavka tega člena predložiti potrdilo institucije, da je
+za ta tip igralne naprave vložena popolna vloga za pridobitev certifikata o
+ustreznosti, z navedbo ugotovitev preskušanja skladnosti nameščenih števcev in
+vključljivosti v NIS ter navesti razloge, s katerimi upravičuje zahtevo po
+izjemnem dovoljenju za uporabo tovrstne naprave.
+KONTROLA IZPOLNJEVANJA TEHNIČNIH ZAHTEV ZA
+IGRALNE NAPRAVE V UPORABI
+45. člen
+(1) Kontrola izpolnjevanja tehničnih
+zahtev za igralne naprave se izvaja z naslednjimi vrstami kontrole:
+a) 
+kontrolo pred prvo uporabo igralne naprave,
+b) 
+redno kontrolo za igralne naprave v uporabi,
+c) 
+izredno kontrolo, ki se izvede na zahtevo
+nadzornega organa ali koncesionarja.
+(2) Kontrolne aktivnosti vsebujejo del
+postopkov za ugotavljanje skladnosti igralne naprave s tehničnimi zahtevami in
+vključujejo:
+-      
+preverjanje identičnosti igralne naprave s tehnično dokumentacijo, ki
+velja za odobreni tip, skladno z navedbami v certifikatu igralne naprave, kar
+vključuje pregled kritičnih sestavnih delov, ki vplivajo na funkcionalno
+delovanje, in identifikacijo nameščenih datotek z izvršno kodo;
+-      
+pregled nastavljenih sistemskih nastavitev (npr. deleži vračanja,
+nastavljeni maksimalni vložek/izplačilo, konstante števcev, kjer so
+nastavljive);
+-      
+preverjanje izpolnjevanja zahtev v zvezi z integriteto delovanja, ki
+vključuje preverjanje predhodno nameščenih zaščit in nameščanje novih po
+opravljeni kontroli;
+-      
+preverjanje funkcionalnih lastnosti, ki vključuje delovanje vplačilnih
+in izplačilnih sistemov;
+-      
+preverjanje javljanja dogodkov in stanja števcev v NIS (npr. odpiranje
+vrat, vplačila in izplačila v igralne naprave, dvig kupole in padle številke
+pri elektronskih ruletah, vrednosti progresivnih skladov, stanje števcev
+obračunskega modela);
+-      
+vizualni pregled priključkov in stikal zaradi morebitnih odstopanj od
+izpolnjevanja zahtev glede električne varnosti, v primeru znakov iztrošenosti
+pa tudi meritve parametrov električne varnosti.
+(3) Veljavnost redne kontrole je do
+konca koledarskega leta, v katerem se izteče triletno obdobje od zadnje
+izvedene kontrole. Kontrolo je treba izvesti tudi po vsakem posegu v zaščitene
+dele igralne naprave, in se šteje kot redna kontrola.
+(4) Ne glede na prejšnji odstavek se
+za igralni avtomat z elektromehanskim generatorjem naključnih izidov (npr.
+elektromehanska ruleta) redna kontrola prvič izvede po najmanj 40.000 in največ 80.000 izidih iger in vključuje tudi izvedbo statističnih preskusov iz 6. člena tega
+pravilnika na osnovi podatkov o padlih številkah, zbranih v dnevniku rulete,
+ali na osnovi podatkov, ki jih instituciji na njeno zahtevo posreduje nadzorni
+organ. Institucija izvede tudi statistične preskuse najmanj enkrat
+na tri leta ali ob sumu nepravilnega delovanja, v okviru rednih
+kontrol.
+(5) Pooblaščena oseba institucije, ki
+izvaja kontrolo na lokaciji pri koncesionarju, se mora izkazati z izkaznico.
+46. člen
+(1) Zahtevo za izvedbo kontrole pred
+prvo uporabo igralne naprave poda koncesionar instituciji, preden da igralno
+napravo v uporabo. Zahtevo za izvedbo redne kontrole poda koncesionar
+instituciji pred začetkom leta, v katerem poteče veljavnost predhodne kontrole.
+(2) Zahteva za izvedbo kontrole pred
+prvo uporabo oziroma zahteva za izvedbo redne kontrole mora vsebovati:
+-      
+identifikacijske podatke vložnika (firma in sedež pravne osebe, ime
+odgovorne osebe),
+-      
+podatke o kontaktni osebi vložnika za postopek ugotavljanja skladnosti
+(ime, funkcijo in telefonsko številko),
+-      
+identifikacijske podatke o igralni napravi (proizvajalec, naziv, tip,
+serijska številka, leto izdelave, interne oznake), označbe posameznih
+perifernih enot za vplačila in izplačila, pomembne nastavitve igralne naprave,
+podatke za identifikacijo vgrajene programske opreme (proizvajalčeva označba
+programske opreme, verzije in serijske številke),
+-      
+označbo pridobljenega certifikata o skladnosti za izbrani tip igralne
+naprave,
+-      
+označbo poročila o predhodno izvedeni kontroli, če je bila že izvedena.
+(3) Za izvedbo redne kontrole zaradi
+posega v zaščitene dele igralne naprave mora koncesionar v vlogi navesti tudi
+naslednje podatke:
+-      
+opis napake oziroma razlog za poseg,
+-      
+kdaj je bil poseg izveden in kdo ga je opravil,
+-      
+opis izvedenih ali potrebnih postopkov za odpravo napake,
+-      
+navedbo vseh poškodovanih zaščit,
+-      
+stanje igralne naprave po posegu.
+47. člen
+Nadzorni organ ali koncesionar lahko
+zahtevata izredno kontrolo igralne naprave v uporabi, če obstaja utemeljen sum,
+da igralna naprava ne deluje tehnično brezhibno. Zahteva se v pisni obliki
+posreduje instituciji.
+48. člen
+(1) O izvedeni kontroli se izdela
+poročilo o kontroli. Igralno napravo institucija opremi z nalepko o kontroli,
+iz katere je razviden datum izvedene kontrole in njen izvajalec.
+(2) Ob vsaki kontroli se namestijo
+zaščite pred nepooblaščenim dostopom.
+POSEBNI POGOJI ZA UPORABO IGRALNIH NAPRAV
+49. člen
+(1) Do zaščitenih delov igralne
+naprave lahko ob servisnih posegih, pri katerih pride zaradi narave posega do
+poškodbe nameščene zaščite, dostopa brez prisotnosti institucije tudi
+pooblaščeno osebje koncesionarja.
+(2) Vsak tak poseg mora koncesionar
+oziroma prireditelj zabeležiti v mapo igralne naprave (datum in ura, vzrok,
+vrsta posega, stanje števcev) in v roku 24 ur o posegu pisno obvestiti
+institucijo, ki v roku 14 dni izvede kontrolo na tej napravi in namesti novo
+zaščito.
+(3) (črtan)
+
+Priloga:
+Elektronski števci in način vplačil ter izplačil z lističi
+
+Pravilnik o tehničnih zahtevah za igralne
+naprave za izvajanje iger na srečo in postopku ugotavljanja skladnosti (Uradni
+list RS, št. 59/08)
+vsebuje naslednje prehodne in končne določbe:
+»IV. PREHODNE IN KONČNE DOLOČBE
+50. člen
+(1) Za igralne naprave, ki so skladne
+s tipi igralne naprave, ki so bili odobreni do dneva uveljavitve tega
+pravilnika, se šteje, da izpolnjujejo tehnične zahteve tega pravilnika.
+(2) Ne glede na prejšnji odstavek
+morajo elektronske rulete izpolniti zahteve tega pravilnika v roku enega leta
+od uveljavitve tega pravilnika.
+(3) Skladnost igralne naprave z
+odobrenim tipom iz prvega odstavka se sme v postopku izdaje poročila o preizkusu
+igralne naprave ugotavljati najdlje do 31. maja 2011.
+(4) Igralne naprave, za katere je bila
+ugotovljena skladnost z odobrenim tipom iz prvega odstavka tega člena do roka,
+določenega v prejšnjem odstavku, se smejo ob izpolnjevanju vseh tehničnih
+zahtev uporabljati brez časovne omejitve.
+51. člen
+(1) Z dnem uveljavitve tega pravilnika
+preneha veljati Pravilnik o tehničnih zahtevah za igralne naprave za izvajanje
+iger na srečo in postopku ugotavljanja skladnosti (Uradni list RS, št. 45/02,
+100/02, 57/03, 1/04, 114/04).
+(2) Ta pravilnik začne veljati 15 dan
+po objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o tehničnih zahtevah za igralne naprave za izvajanje iger na srečo
+in postopku ugotavljanja skladnosti (Uradni list RS, št. 88/09) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+15. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi Pravilnika o tehničnih
+zahtevah za igralne naprave za izvajanje iger na srečo in postopku ugotavljanja
+skladnosti (Uradni list RS, št. 37/11) spreminja 50. člen pravilnika tako,
+da se glasi:
+»50. člen
+(1) Za igralne naprave, ki so skladne
+s tipi igralne naprave, ki so bili odobreni do dneva uveljavitve tega
+pravilnika, se šteje, da izpolnjujejo tehnične zahteve tega pravilnika.
+(2) Ne glede na prejšnji odstavek
+morajo elektronske rulete izpolniti zahteve tega pravilnika v roku enega leta
+od uveljavitve tega pravilnika.
+(3) Skladnost igralne naprave z
+odobrenim tipom iz prvega odstavka se sme v postopku izdaje poročila o preizkusu
+igralne naprave ugotavljati najdlje do 31. maja 2014.
+(4) Igralne naprave, za katere je bila
+ugotovljena skladnost z odobrenim tipom iz prvega odstavka tega člena do roka,
+določenega v prejšnjem odstavku, se smejo ob izpolnjevanju vseh tehničnih
+zahtev uporabljati brez časovne omejitve.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi Pravilnika o tehničnih
+zahtevah za igralne naprave za izvajanje iger na srečo in postopku ugotavljanja
+skladnosti (Uradni list RS, št. 38/14) spreminja 50. člen pravilnika
+tako, da se glasi:
+»50. člen
+(1) Za igralne naprave, ki so skladne
+s tipi igralne naprave, ki so bili odobreni do dneva uveljavitve tega
+pravilnika, se šteje, da izpolnjujejo tehnične zahteve tega pravilnika.
+(2) Ne glede na prejšnji odstavek
+morajo elektronske rulete izpolniti zahteve tega pravilnika v roku enega leta
+od uveljavitve tega pravilnika.
+(3) Skladnost igralne naprave z
+odobrenim tipom iz prvega odstavka se sme v postopku izdaje poročila o preizkusu
+igralne naprave ugotavljati najdlje do 31. maja 2015.
+(4) Igralne naprave, za katere je bila
+ugotovljena skladnost z odobrenim tipom iz prvega odstavka tega člena do roka,
+določenega v prejšnjem odstavku, se smejo ob izpolnjevanju vseh tehničnih
+zahtev uporabljati brez časovne omejitve.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi Pravilnika o tehničnih
+zahtevah za igralne naprave za izvajanje iger na srečo in postopku ugotavljanja
+skladnosti (Uradni list RS, št. 32/15)
+spreminja 50. člen pravilnika tako, da se glasi:
+»50. člen
+(1) Za igralne naprave, ki so skladne
+s tipi igralne naprave, ki so bili odobreni do dneva uveljavitve tega
+pravilnika, se šteje, da izpolnjujejo tehnične zahteve tega pravilnika.
+(2) Ne glede na prejšnji odstavek
+morajo elektronske rulete izpolniti zahteve tega pravilnika v roku enega leta
+od uveljavitve tega pravilnika.
+(3) Skladnost igralne naprave z
+odobrenim tipom iz prvega odstavka se sme v postopku izdaje poročila o preizkusu
+igralne naprave ugotavljati najdlje do 31. maja 2020.
+(4) Igralne naprave, za katere je bila
+ugotovljena skladnost z odobrenim tipom iz prvega odstavka tega člena do roka,
+določenega v prejšnjem odstavku, se smejo ob izpolnjevanju vseh tehničnih
+zahtev uporabljati brez časovne omejitve.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembi Pravilnika o tehničnih
+zahtevah za igralne naprave za izvajanje iger na srečo in postopku ugotavljanja
+skladnosti (Uradni list RS, št. 67/20)
+spreminja 50. člen pravilnika tako, da se glasi:
+»50. člen
+(1) Za igralne naprave, ki so skladne
+s tipi igralne naprave, ki so bili odobreni do dneva uveljavitve tega
+pravilnika, se šteje, da izpolnjujejo tehnične zahteve tega pravilnika.
+(2) Ne glede na prejšnji odstavek
+morajo elektronske rulete izpolniti zahteve tega pravilnika v roku enega leta
+od uveljavitve tega pravilnika.
+(3) Skladnost igralne naprave z
+odobrenim tipom iz prvega odstavka se sme v postopku izdaje poročila o preizkusu
+igralne naprave ugotavljati najdlje do 31. maja 2025.
+(4) Igralne naprave, za katere je bila
+ugotovljena skladnost z odobrenim tipom iz prvega odstavka tega člena do roka,
+določenega v prejšnjem odstavku, se smejo ob izpolnjevanju vseh tehničnih
+zahtev uporabljati brez časovne omejitve.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.

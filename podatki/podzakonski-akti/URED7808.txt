@@ -1,0 +1,663 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+Ta uredba določa tiste storitve iz Uredbe o standardni
+klasifikaciji dejavnosti (Uradni list RS, št. 69/07 in 17/08; v nadaljnjem
+besedilu: SKD), ki se za potrebe izvajanja Zakona o informacijski varnosti (Uradni
+list RS, št. 30/18; v nadaljnjem besedilu: ZInfV) štejejo za bistvene, in
+metodologijo za določitev izvajalcev bistvenih storitev (v nadaljnjem besedilu:
+IBS), vključno z vrednotenjem medpodročnih in področnih dejavnikov.
+2. člen
+(Banka Slovenije)
+(1) Ta uredba se ne uporablja za storitve, katerih
+zagotavljanje je odvisno od informacijskih sistemov, ki jih upravlja Evropski
+sistem centralnih bank.
+(2) Ta uredba se ne uporablja za storitve, katerih
+zagotavljanje je odvisno od informacijskih sistemov v upravljanju Banke
+Slovenije, ki jih nadzira Evropski sistem centralnih bank.
+3. člen
+(uporabljeni izrazi)
+Izrazi, uporabljeni v tej uredbi, imajo za potrebe te uredbe
+naslednji pomen:
+-       
+negativni vpliv na finančno stabilnost države je negativni vpliv zaradi
+nedelovanja plačilnega prometa ali pomanjkanja gotovine ali spremembe rasti BDP
+kot posledice incidenta, pri tem nedelovanje plačilnega prometa ali pomanjkanje
+gotovine traja vsaj ves poslovni dan;
+-       
+uporabnik ali uporabnica (v nadaljnjem besedilu: uporabnik) je fizična
+ali pravna oseba, ki uporablja posamezno bistveno storitev neposredno, posredno
+ali s posredovanjem oziroma je odvisna od nje.
+II. DOLOČITEV BISTVENIH STORITEV
+4. člen
+(področja in podpodročja, na katerih se izvajajo bistvene
+storitve)
+(1) Področja, na katerih se izvajajo bistvene storitve,
+so:
+1.     
+energija,
+2.     
+digitalna infrastruktura,
+3.     
+oskrba s pitno vodo in njena distribucija,
+4.     
+zdravstvo,
+5.     
+promet,
+6.     
+bančništvo,
+7.     
+infrastruktura finančnega trga,
+8.     
+preskrba s hrano in
+9.     
+varstvo okolja.
+(2) Na področju energije iz prejšnjega odstavka so
+naslednja podpodročja:
+-       
+elektrika,
+-       
+nafta,
+-       
+plin.
+(3) Na področju prometa iz prvega odstavka tega člena so
+naslednja podpodročja:
+-       
+zračni promet,
+-       
+železniški promet,
+-       
+vodni promet,
+-       
+cestni promet.
+5. člen
+(določitev bistvenih storitev)
+Seznam bistvenih storitev po področjih in podpodročjih iz
+prejšnjega člena je določen v Prilogi, ki je sestavni del te uredbe.
+III. METODOLOGIJA ZA DOLOČITEV IBS
+6. člen
+(metodologija)
+(1) Pri določitvi IBS se upošteva:
+-       
+ali subjekt zagotavlja bistveno storitev s seznama v Prilogi,
+-       
+ali je zagotavljanje te bistvene storitve odvisno od omrežij in
+informacijskih sistemov in
+-       
+ali bi incident imel pomemben negativen vpliv na zagotavljanje te
+storitve.
+(2) Pri določitvi, ali bi incident imel pomemben
+negativen vpliv iz prejšnjega odstavka, se upoštevajo vsaj trije medpodročni dejavniki
+in hkrati še vsaj dva področna dejavnika. Če ta uredba določa, da je posamezni
+področni dejavnik obvezen, mora biti ta upoštevan.
+(3) Pred določitvijo IBS s področja bančništva je
+potrebno predhodno soglasje Banke Slovenije, če je zagotavljanje teh storitev
+odvisno od njenih informacijskih sistemov, ki niso informacijski sistemi iz
+prvega ali drugega odstavka 2. člena te uredbe in jih Banka Slovenije uporablja
+za izvajanje svojih nalog po zakonu, ki ureja Banko Slovenije, oziroma drugih
+predpisih, Statutu Evropskega sistema centralnih bank in Evropske centralne
+banke (UL C št. 326 z dne 26. 10. 2012, str. 230) in predpisih
+Evropske unije.
+1. Medpodročni dejavniki
+7. člen
+(medpodročni dejavniki)
+(1) Medpodročni dejavniki iz drugega odstavka prejšnjega
+člena so izpolnjeni, če:
+1.     
+je število uporabnikov, ki so odvisni od posamezne bistvene storitve
+subjekta enako ali večje, kot je to opredeljeno pri področnih dejavnikih glede
+števila uporabnikov, ki bi jih prizadela motnja pri zagotavljanju te bistvene
+storitve;
+2.     
+so od posamezne bistvene storitve odvisne storitve drugih področij ali
+podpodročij iz 4. člena te uredbe;
+3.     
+sta stopnja in trajanje vpliva, ki bi ga incidenti lahko imeli na
+gospodarske in družbene dejavnosti ali na javno varnost, glede trajanja vpliva
+enaka ali presegata vrednosti področnih dejavnikov posamezne bistvene storitve
+in je hkrati podana velika ali srednja stopnja vpliva, kot je opredeljena v
+drugem odstavku tega člena;
+4.     
+je tržni delež posameznega subjekta, ki zagotavlja bistveno storitev, na
+trgu, ki se nanaša na posamezno bistveno storitev, 25 odstotkov ali več, pri
+čemer je trg geografsko opredeljen pri področnih dejavnikih z vplivnim
+območjem, ki bi ga motnja pri zagotavljanju te bistvene storitve lahko
+prizadela;
+5.     
+geografska razširjenost območja, ki bi ga incident lahko prizadel,
+zajema območje z več kot 100.000 prebivalci oziroma gre za območje, enako ali
+večje, kot je to za posamezno bistveno storitev opredeljeno pri področnih
+dejavnikih;
+6.     
+pomen subjekta za ohranitev zadostne ravni bistvene storitve, ob
+upoštevanju razpoložljivosti alternativnih načinov za zagotavljanje storitve,
+upošteva pragove, ki so določeni za posamezno bistveno storitev v Prilogi te
+uredbe po področjih oziroma podpodročjih iz 4. člena te uredbe.
+(2) Stopnja vpliva iz prejšnjega odstavka je:
+-       
+velika, če obstaja možnost nastanka smrtnih žrtev, ponesrečenih ljudi
+ali trajnega poslabšanja zdravstvenega stanja ljudi zaradi incidenta,
+-       
+srednja, če obstaja možnost nastanka gospodarske škode ali izpada
+dohodka, ki znaša več kot 1.000.000 eurov na dan oziroma možnost negativnega
+vpliva na finančno stabilnost države,
+-       
+majhna, če obstaja možnost nastanka gospodarske škode ali izpada
+dohodka, ki znaša do 1.000.000 eurov na dan.
+2. Področni dejavniki
+8. člen
+(področni dejavniki)
+Pri določitvi IBS se za posamezno bistveno storitev iz
+Priloge te uredbe po področjih oziroma podpodročjih iz 4. člena te uredbe
+upoštevajo tudi področni dejavniki, kot so določeni v tem podpoglavju.
+9. člen
+(dejavniki na področju energije)
+(1) Dejavniki na podpodročju elektrike za bistvene
+storitve iz Priloge te uredbe, ki so vsi obvezni, so:
+1.     
+pri storitvi prenosa električne energije:
+- 
+motnja pri zagotavljanju storitve iz te točke po prenosnem omrežju
+izvajalca bi lahko prizadela vsaj 100.000 uporabnikov hkrati;
+- 
+incident lahko onemogoči napajanje z električno energijo uporabnikov iz
+prejšnje alineje za vsaj tri ure;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi distribucije električne energije:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov hkrati;
+- 
+incident lahko onemogoči napajanje z električno energijo uporabnikov iz
+prejšnje alineje za vsaj tri ure;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;.
+3.     
+pri storitvi trgovanja z električno energijo, ki je omejena na prodajo
+električne energije odjemalcem:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov hkrati;
+- 
+incident lahko onemogoči napajanje z električno energijo uporabnikov iz
+prejšnje alineje za vsaj tri ure;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+4.     
+pri storitvi proizvodnje električne energije v hidroelektrarnah, ki je
+omejena v delu in za potrebe delovanja prenosnega oziroma distribucijskih
+sistemov:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov hkrati;
+- 
+incident lahko onemogoči napajanje z električno energijo uporabnikov iz
+prejšnje alineje za vsaj tri ure;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+5.     
+pri storitvi proizvodnje električne energije v termoelektrarnah, jedrskih
+elektrarnah, ki je omejena v delu in za potrebe delovanja prenosnega oziroma
+distribucijskih sistemov:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov hkrati;
+- 
+incident lahko onemogoči napajanje z električno energijo uporabnikov iz
+prejšnje alineje za vsaj tri ure;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+(2) Dejavniki na podpodročju nafte za bistvene storitve
+iz Priloge te uredbe so:
+1.     
+pri storitvi trgovine na drobno z lastnimi motornimi gorivi:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi posredništva pri prodaji motornih goriv na drobno:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju Republike
+Slovenije;
+3.     
+pri storitvi skladiščenja, ki je omejena na obratovanje skladišč za
+nafto in naftne derivate – cisterne:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+(3) Dejavniki na podpodročju plina za bistvene storitve
+iz Priloge te uredbe so:
+1.     
+pri storitvi distribucije plinastih goriv po plinovodni mreži:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju,
+večjem od deset odstotkov površine Republike Slovenije;
+2.     
+pri storitvi trgovanja s plinastimi gorivi po plinovodni mreži, ki je
+omejena na prodajo plina uporabnikom prek plinovodne mreže:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi cevovodnega transporta, ki je omejena na transport plina po
+cevovodih – plinovodih:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+100.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+10. člen
+(dejavniki na področju digitalne infrastrukture)
+Dejavniki na področju digitalne infrastrukture za bistvene
+storitve iz Priloge te uredbe so:
+1.     
+pri storitvi telekomunikacijskih dejavnosti po vodih, ki je omejena na
+storitev zagotavljanja stičišč omrežij – tako imenovani IXP, razen za izvajalce
+storitev, ki so izključeni na podlagi tretjega odstavka 2. člena ZInfV:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot šest ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi telekomunikacijskih dejavnosti po vodih, ki je omejena na
+storitve sistema domenskih imen – tako imenovani DNS, razen za izvajalce
+storitev, ki so izključeni na podlagi tretjega odstavka 2. člena ZInfV:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve sistema
+domenskih imen najvišje ravni za več kot šest ur ali lahko povzroči prekinitev
+zagotavljanja drugih storitev iz te točke za več kot 12 ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi telekomunikacijskih dejavnosti po vodih, ki je omejena na
+storitev registra domenskih imen najvišje ravni – tako imenovani register TLD,
+razen za izvajalce storitev, ki so izključeni na podlagi tretjega odstavka 2.
+člena ZInfV:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot 24 ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+11. člen
+(dejavniki na področju oskrbe s pitno vodo in njene
+distribucije)
+Dejavniki na področju oskrbe s pitno vodo in njene
+distribucije za bistveno storitev iz Priloge te uredbe so pri storitvi
+zbiranja, prečiščevanja in distribucije vode, ki je omejena na zbiranje,
+prečiščevanje in distribucijo vode za gospodinjstva oziroma za prehrano ljudi:
+-       
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov (obvezen dejavnik);
+-       
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot teden dni;
+-       
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju, večjem
+od deset odstotkov površine Republike Slovenije.
+12. člen
+(dejavniki na področju zdravstva)
+Dejavniki na področju zdravstva za bistvene storitve iz
+Priloge te uredbe so:
+1.     
+pri storitvi bolnišnične zdravstvene dejavnosti, ki je omejena na
+storitve bolnišničnega zdravstvenega varstva, namenjene hospitaliziranim
+pacientom, vključno z nujno medicinsko pomočjo:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko v bolnišnični
+dejavnosti prizadela več kot 1.000 fizičnih oseb, šteto glede na število
+postelj pri posameznem izvajalcu te storitve, oziroma v dejavnosti nujne
+medicinske pomoči več kot 100.000 oseb, šteto glede na letno število obravnav v
+dejavnosti nujne medicinske pomoči (obvezen dejavnik);
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+  pri storitvi splošne zunajbolnišnične zdravstvene dejavnosti, ki
+je omejena na svetovanje, diagnostiko in zdravljenje, ki ga opravljajo
+zdravniki splošne medicine ali zdravniki pediatri:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+200.000 fizičnih oseb, šteto glede na število opredeljenih zavarovanih oseb pri
+posameznem izvajalcu te storitve (obvezen dejavnik);
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi specialistične zunajbolnišnične zdravstvene dejavnosti, ki
+je omejena na specialistično svetovanje, diagnostiko in zdravljenje:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+400.000 fizičnih oseb, šteto glede na število obiskov pacientov pri posameznem
+izvajalcu te storitve na letni ravni (obvezen dejavnik);
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+4.     
+pri storitvi trgovine na drobno v specializiranih prodajalnah s
+farmacevtskimi izdelki, ki je omejena na lekarniško dejavnost – izdajanja
+zdravil na recept:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+200.000 fizičnih oseb, šteto glede na število izdaj zdravil na recept v enem
+mesecu pri posameznem izvajalcu te storitve (obvezen dejavnik);
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+13. člen
+(dejavniki na področju prometa)
+(1) Dejavniki na podpodročju zračnega prometa za
+bistvene storitve iz Priloge te uredbe so:
+1.     
+pri storitvi potniškega zračnega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+2.000 fizičnih oseb;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke v zračnem
+prostoru Republike Slovenije za več kot 12 ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi tovornega zračnega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+10.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke v zračnem
+prostoru Republike Slovenije za več kot 12 ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi spremljajočih storitvenih dejavnosti v zračnem prometu, ki
+je omejena na obratovanje letaliških terminalov in podobnih objektov,
+obratovanje letališč, kontrolo zračnega prometa in dejavnost služb na
+letališčih, vključno s protipožarno varnostjo:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+2.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke v zračnem
+prostoru Republike Slovenije za več kot 12 ur;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+(2) Dejavniki na podpodročju železniškega prometa za
+bistvene storitve iz Priloge te uredbe so:
+1.     
+pri storitvi železniškega potniškega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke na glavnih progah bi lahko
+prizadela vsaj 10.000 fizičnih oseb;
+- 
+incident lahko onemogoči zagotavljanje vsega železniškega potniškega
+prometa na glavnih progah za najmanj teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi železniškega tovornega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke na železniških tovornih
+koridorjih bi lahko prizadela vsaj 20.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje vsega železniškega tovornega
+prometa na železniških tovornih koridorjih za najmanj teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi spremljajočih storitvenih dejavnosti v kopenskem prometu,
+ki je omejena na obratovanje železniških postaj, ranžirnih postaj terminalov
+tovornega prometa in druge železniške infrastrukture:
+- 
+motnja pri zagotavljanju storitve iz te točke na železniških tovornih
+koridorjih in glavnih progah bi lahko prizadela vsaj 10.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke na
+železniških tovornih koridorjih in glavnih progah za najmanj teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+(3) Dejavniki na podpodročju vodnega prometa za bistvene
+storitve iz Priloge te uredbe so:
+1.     
+pri storitvi pomorskega potniškega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+2.000 fizičnih oseb;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke za najmanj
+teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi pomorskega tovornega prometa:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+10.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke za najmanj
+teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi spremljajočih storitvenih dejavnosti v vodnem prometu, ki
+je omejena na obratovanje pristanišč in pomolov, obratovanje vodnih zapornic in
+navigacijo, vključno z delovanjem obalnih postaj za pomorsko radijsko
+komunikacijo ter opreme in sistemov za nadzor in upravljanje pomorskega
+prometa, pilotažo, sidranje, reševanje plovil, obratovanje svetilnikov in
+drugih objektov za varnost plovbe:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela vsaj
+20.000 uporabnikov;
+- 
+incident lahko onemogoči zagotavljanje storitve iz te točke za 24 ur ali
+več;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+(4) Dejavniki na podpodročju cestnega prometa za
+bistveno storitev iz Priloge te uredbe so pri storitvi spremljajočih
+storitvenih dejavnosti v kopenskem prometu, ki je omejena na obratovanje cestne
+infrastrukture, objektov in naprav za cestninjenje, premostitvenih objektov in
+predorov na avtocestah in hitrih cestah:
+-       
+motnja pri zagotavljanju storitve iz tega odstavka bi lahko prizadela
+vsaj 20.000 uporabnikov;
+-       
+incident lahko onemogoči zagotavljanje storitve iz tega odstavka za 24
+ur;
+-       
+motnja pri zagotavljanju storitve iz tega odstavka ima vpliv na območju
+Republike Slovenije.
+14. člen
+(dejavniki na področju bančništva)
+Dejavniki na področju bančništva za bistvene storitve iz
+Priloge te uredbe so:
+1.     
+pri storitvi centralnega bančništva, ki je omejena na delovanje v vlogi
+bančnika državnega sektorja, vključno s podračuni za pokojninsko, zdravstveno
+in socialno zavarovanje, razen storitev iz 2. člena te uredbe:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+50.000 uporabnikov;
+- 
+incident lahko povzroči motnjo pri zagotavljanju storitve iz te točke za
+več kot teden dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi drugega denarnega posredništva, ki je omejena na
+sprejemanje depozitov in dajanje kreditov s strani bank, hranilnic in kreditnih
+zadrug:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot tri dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+3.     
+pri storitvi drugih pomožnih dejavnosti za finančne storitve, razen za
+zavarovalništvo in pokojninske sklade, ki je omejena na dejavnost obdelave
+finančnih transakcij in dejavnost poravnav, vključno s transakcijami s
+kreditnimi karticami – plačilni promet, razen storitev iz 2. člena te uredbe:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+10.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot en dan;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+15. člen
+(dejavniki na področju infrastrukture finančnega trga)
+Dejavniki na področju infrastrukture finančnega trga za
+bistveni storitvi iz Priloge te uredbe so:
+1.     
+pri storitvi upravljanja finančnih trgov, ki je omejena na poslovanje in
+nadzor finančnih trgov, razen tistega, ki ga opravljajo državni organi: zbirna
+hramba vrednostnih papirjev, ugotavljanje in izpolnjevanje obveznosti iz poslov
+z vrednostnimi papirji ter vodenje centralnega registra imetnikov
+nematerializiranih vrednostnih papirjev:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+10.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot tri delovne dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije;
+2.     
+pri storitvi posredništva pri trgovanju z vrednostnimi papirji in
+borznim blagom, ki je omejena na trgovanje z vrednostnimi papirji, s katerimi
+se trguje na mestu trgovanja v skladu z zakonom, ki ureja trg finančnih
+instrumentov, in s tem povezane dejavnosti, borzno posredništvo vrednostnih
+papirjev:
+- 
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+50.000 uporabnikov;
+- 
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot tri delovne dni;
+- 
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+16. člen
+(dejavniki na področju preskrbe s hrano)
+Dejavniki na področju preskrbe s hrano za bistveno storitev iz
+Priloge te uredbe so pri storitvi skladiščenja, ki je omejena na obratovanje
+skladišč za osnovne prehrambne proizvode:
+-       
+motnja pri zagotavljanju storitve iz te točke bi lahko prizadela več kot
+100.000 uporabnikov;
+-       
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot teden dni;
+-       
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju
+Republike Slovenije.
+17. člen
+(dejavniki na področju varstva okolja)
+Dejavniki na področju varstva okolja za bistveno storitev iz
+Priloge te uredbe so pri storitvi ravnanja z nevarnimi odpadki:
+-       
+motnja pri zagotavljanju storitve iz te točke bi lahko povzročila
+onesnaženje ali radioaktivno kontaminacijo okolja z neposrednim kratkoročnim
+vplivom na zdravje več kot 50.000 fizičnih oseb;
+-       
+incident lahko povzroči prekinitev zagotavljanja storitve iz te točke za
+več kot 24 ur;
+-       
+motnja pri zagotavljanju storitve iz te točke ima vpliv na območju z več
+kot 50.000 prebivalci ali na območju, ki je večje od 100 ha.
+IV. KONČNA DOLOČBA
+18. člen
+(začetek veljavnosti)
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije
+Št. 00714-18/2019
+Ljubljana, dne 20. junija 2019
+EVA 2018-3130-0029
+Vlada Republike Slovenije
+dr. Miroslav Cerar
+podpredsednik
+
+Priloga: Seznam
+bistvenih storitev po področjih in podpodročjih, na katerih se izvajajo
+bistvene storitve

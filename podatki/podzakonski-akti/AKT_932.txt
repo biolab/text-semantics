@@ -1,0 +1,1424 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) Ta akt določa postopke in načine
+monitoringa kakovosti oskrbe z električno energijo (v nadaljnjem besedilu:
+kakovost oskrbe), izračunavanje različnih parametrov kakovosti oskrbe, način in
+roke posredovanja podatkov Agenciji za energijo (v nadaljnjem besedilu:
+agencija), postopek in način presoje monitoringa kakovosti oskrbe ter ukrepe za
+njegovo izboljšanje.
+(2) Podatki o kakovosti oskrbe so
+podatki, ki obsegajo parametre o neprekinjenosti napajanja, komercialni
+kakovosti in kakovosti napetosti in so namenjeni podpori izvajanju regulatornih
+nalog agencije.
+2. člen
+(namen)
+Namen tega akta je:
+-       
+zagotoviti pravilno in poenoteno (standardizirano) registracijo časov,
+potrebnih za izvajanje storitev, beleženje prekinitev oskrbe in spremljanje
+kakovosti napetosti v prenosnem sistemu električne energije (v nadaljnjem
+besedilu: prenosni sistem) in v distribucijskih sistemih električne energije (v
+nadaljnjem besedilu: distribucijski sistem);
+-       
+zagotoviti primerljivo, zanesljivo in preverljivo poročanje o parametrih
+kakovosti oskrbe;
+-       
+spodbujati enako obravnavo kakovosti oskrbe uporabnikov sistema (v
+nadaljnjem besedilu: uporabnik) v zaprtih distribucijskih sistemih in v javnih
+sistemih in
+-       
+zagotoviti učinkovitost procesa nadzora monitoringa kakovosti oskrbe.
+3. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem aktu, imajo enak
+pomen kot izrazi, opredeljeni v 4. in 36. členu Energetskega zakona
+(Uradni list RS, št. 17/14, v nadaljnjem besedilu: EZ-1), poleg tega pa
+imajo posamezni izrazi še naslednji pomen:
+
+-       
+  distribucijsko podjetje:
+
+je najemodajalec oziroma vzdrževalec dela distribucijskega
+  sistema iz prvega in tretjega odstavka 121. člena EZ-1;
+
+
+-       
+  dogodek:
+
+je sprememba obratovalnega stanja sistema ali naprave, ki
+  jo zazna npr. dispečer v centru vodenja bodisi s pomočjo javljanj ali na
+  kateri koli drug način, ter vzpostavljanje prvotnega normalnega stanja;
+
+
+-       
+  dolgotrajna prekinitev napajanja:
+
+je prekinitev napajanja, daljša od treh minut, ki jo
+  praviloma povzroči trajna okvara. V izjemnih primerih je lahko vzrok za
+  dolgotrajno prekinitev napajanja tudi prehodna okvara (npr. pride do daljše
+  »regeneracije« elementov sistema v trajanju več kot treh minut po prehodni
+  okvari);
+
+
+-       
+  klicni center:
+
+je telekomunikacijski sistem oziroma sistem storitev, ki
+  omogoča sprejem več dohodnih klicev. Ti se razvrščajo glede na
+  razpoložljivost in število operaterjev klicnega centra, ki v okviru storitve
+  podajajo želene informacije;
+
+
+-       
+  knjiga pritožb:
+
+je pisni ali elektronski zbir mnenj in pripomb
+  uporabnikov, npr. zaradi predolgih čakalnih dob za sprejem, neprimerne
+  obravnave uporabnikov ob osebnem obisku ali drugih vzrokov;
+
+
+-       
+  kratkotrajna prekinitev napajanja:
+
+je prekinitev napajanja, krajša ali enaka trem minutam, ki
+  jo praviloma povzroči prehodna okvara.
+V izjemnih primerih je lahko vzrok za kratkotrajno
+  prekinitev napajanja tudi trajna okvara (npr. v manj kot treh minutah se
+  uspešno izvedejo manipulacije za prenapajanje);
+
+
+-       
+  lastni vzroki:
+
+so vzroki nastanka prekinitev, ki jih ni mogoče opredeliti
+  kot tuje vzroke ali višjo silo. Lastni vzroki so lahko posledica vzdrževanja
+  (pregled, revizija, remont), obnove ali rekonstrukcije, novogradnje,
+  stikalnih manipulacij (prenapajanje, preklop v normalno stanje, varnostni
+  izklop itd.), nepredvidenih situacij (slučajni dotik, nepravilno delovanje
+  zaščite, preobremenitev, obratovalna prenapetost), dotrajanosti materiala
+  (slaba izdelava, obraba, staranje itd.), povratnih vplivov, neznanega vzroka
+  (vzroki, ki jih ni mogoče ustrezno klasificirati po vzroku in hkrati niso
+  tuji in tudi niso višja sila) in ostali lastni vzroki. Med lastne vzroke se
+  štejejo tudi atmosferske in elementarne vzroke, ki niso višja sila, kot npr.
+  udar strele, atmosferski toplotni vplivi, mraz, megla, rosa, kondenz, dež
+  (vlaga), sol, umazanija, korozija, ostali atmosferski vzroki, če v dogodku
+  niso nastopili parametri izven mej, ki so določeni s stanjem tehnike oziroma so
+  bili podani v projektnih pogojih in je kljub temu prišlo do prekinitve
+  napajanja;
+
+
+ 
+
+
+-       
+  minimalni standardi kakovosti oskrbe:
+
+so eden izmed kriterijev za ugotavljanje upravičenosti
+  nadzorovanih stroškov delovanja in vzdrževanja reguliranih podjetij v regulaciji
+  s kakovostjo oskrbe. Minimalni standardi kakovosti se izražajo z zajamčenimi
+  standardi ali s sistemskimi standardi kakovosti;
+
+
+-       
+  načrtovana prekinitev napajanja:
+
+je stanje, ko je napetost na predajnem mestu manjša od
+  5 % dogovorjene napetosti Uc in kadar so uporabniki obveščeni na način
+  in v roku, kot to določa 150. člen EZ-1, da se bodo izvajala načrtovana dela
+  na sistemu;
+
+
+-       
+  načrtovani dogodek:
+
+je namenska sprememba konfiguracije sistema pred
+  vzdrževalnimi deli in po njih ali zaradi varnega opravljanja del na sosednji
+  napravi (varnostni izklop). Načrtovani dogodek ima lahko za posledico motnjo
+  ali prekinitev dobave električne energije;
+
+
+-       
+  nadomestilo: 
+
+je finančno nadomestilo uporabniku v primeru
+  neizpolnjevanja zajamčenih standardov kakovosti oskrbe za tiste storitve, ki
+  jih je distribucijski operater oziroma distribucijsko podjetje dolžno
+  izvajati v okviru svojih reguliranih dejavnosti;
+
+
+-       
+  nenačrtovan dogodek:
+
+je naključna sprememba obratovalnega stanja sistema ali
+  naprave zaradi okvare, ki ima za posledico motnjo ali prekinitev dobave
+  električne energije. Po sanaciji okvare se z vklopom napajanja vzpostavi
+  normalno delovanje;
+
+
+-       
+  nenačrtovana prekinitev napajanja:
+
+je stanje, ko je napetost na predajnem mestu manjša od 5 % dogovorjene napetosti Uc in jo
+  povzročijo trajne ali prehodne okvare, katerih vzrok so navadno zunanji
+  dogodki, okvare opreme ali motnje. Nenačrtovane prekinitve napajanja so
+  nepredvidljivi, večinoma naključni dogodki;
+
+
+-       
+  nivo izračunavanja parametrov neprekinjenosti napajanja:
+
+je nivo izračunavanja, pri katerem se parametri
+  neprekinjenosti napajanja določajo za sklenjeno strukturo, območje ali
+  kategorijo uporabnikov. Lahko zajema uporabnike na NN-izvodu ali SN-izvodu,
+  na nivoju RTP/RP ali nivoju distribucijskega podjetja, na nivoju zaprtega distribucijskega
+  sistema in na nivoju gospodinjskih odjemalcev, poslovnih odjemalcev ali vseh
+  uporabnikov;
+
+
+-       
+  normalno obratovalno stanje:
+
+so razmere, v katerih ni okvar ali začasno vzpostavljenih
+  stanj med vzdrževalnimi deli ali izgradnjo sistema;
+
+
+-       
+  obratovalna statistika:
+
+so zgodovinski podatki, zajeti v procesih zbiranja,
+  shranjevanja in obdelave podatkov o dogodkih ter stanjih v sistemu.
+  Elektrooperater in distribucijska podjetja so dolžni te podatke hraniti v
+  skladu z veljavno zakonodajo;
+
+
+-       
+  pritožba:
+
+je pisno obvestilo uporabnika, ki se ne strinja z delom
+  ali kakovostjo storitve elektrooperaterja ali distribucijskega podjetja;
+
+
+-       
+  SCADA:
+
+je sistem za nadzor, krmiljenje in zajemanje podatkov o
+  stanju oddaljene opreme, katerega delovanje temelji na kodiranih signalih, ki
+  se prenašajo prek komunikacijskih kanalov;
+
+
+-       
+  sistemski standard:
+
+določa povprečno raven kakovosti storitev, ki so jo
+  distribucijski operater in distribucijska podjetja dolžni zagotavljati v
+  sistemu v okviru svojih pristojnosti;
+
+
+-       
+  stanje tehnike:
+
+je v danem trenutku dosežena stopnja razvoja tehnične
+  zmogljivosti proizvodov, procesov in storitev, ki temelji na relevantnih
+  priznanih izsledkih znanosti, tehnike in izkušenj;
+
+
+-       
+  statistika dogodkov:
+
+so podatki o dogodkih, ki so nastopili v sistemu pod
+  nadzorom elektrooperaterja, distribucijskih podjetij in proizvodnje;
+
+
+-       
+  število uporabnikov:
+
+je število uporabnikov, ki so priključeni na i sistem v
+  točki (ravni) opazovanja oziroma izračunavanja parametrov neprekinjenosti
+  napajanja. Število uporabnikov se spreminja v skladu z načrtovanimi in
+  izvedenimi trajnimi spremembami konfiguracije sistema (normalno obratovalno
+  stanje);
+
+
+-       
+  trajanje prekinitve napajanja:
+
+je časovno obdobje šteto od trenutka prekinitve napajanja
+  do vzpostavitve normalnega napajanja uporabnika, ki se pri dolgotrajnih
+  prekinitvah navaja v minutah. Trajanje prekinitev napajanja se ne spremlja
+  pri kratkotrajnih prekinitvah;
+
+
+-       
+  tuji vzroki:
+
+so vzroki, ki jih je povzročila »tretja oseba«, kot npr.
+  posek drevja – padec drevja, zemeljska dela, napačen priklop pri uporabniku,
+  izklop na zahtevo tretje osebe, tuje osebe, namerna poškodba naprav
+  (vandalizem), živali, padec letečega predmeta, teroristično dejanje,
+  vzdrževanje ali okvare na postrojih elektrooperaterja ali distribucijskega
+  podjetja, razpad sistema, omejitve moči, omejitve energije in ostali tuji
+  vzroki. Med tuje vzroke se štejejo vsa nenormalna obratovalna stanja, ki so
+  določena v slovenskem standardu SIST EN 50160;
+
+
+-       
+  udar strele (posredni in neposredni):
+
+je dogodek, ki ga ni mogoče preprečiti glede na stanje
+  tehnike (npr. nadzemni vodi do 45 kV nimajo zaščitne vrvi) in katerega
+  učinkom se ni mogoče povsem izogniti ali jih preprečiti (zaradi stanja
+  tehnike, vključno s posebnimi nacionalnimi določili (NNA), projektnimi
+  zahtevami, razpoložljivimi finančnimi sredstvi, npr. omrežnina, ipd.);
+
+
+-       
+  višja sila:
+
+je naravni dogodek izven stvari in zunaj okvira dejavnosti
+  elektrooperaterja (padavine (sneg, žled), vihar, orkan, plaz (snežni ali
+  zemeljski), požar, poplava, potres ali druge naravne nesreče, ob katerih so
+  razglašene krizne razmere), katerega učinka na prekinitve napajanja ni mogoče
+  preprečiti z vidika (ne)pričakovanosti. Ob upoštevanju pogojev iz
+  28. člena se lahko za vzrok prekinitve pri udaru strele prizna višja
+  sila. Višja sila je lahko tudi nenaravni dogodek (npr. vojna), ob katerem so
+  razglašene krizne razmere;
+
+
+-       
+  zajamčeni standard:
+
+določa raven kakovosti oskrbe, ki jo distribucijski
+  operater in distribucijska podjetja zagotavljajo v določeni točki sistema, v
+  kateri poteka merjenje oziroma raven kakovosti posamezne izvedene storitve.
+
+4. člen
+(obseg posredovanja podatkov)
+(1) Elektrooperater in distribucijska
+podjetja posredujejo agenciji podatke o kakovosti oskrbe glede na dejavnost, ki
+jo opravljajo, in sicer podatke o:
+-       
+konfiguraciji sistema;
+-       
+neprekinjenosti napajanja;
+-       
+komercialni kakovosti in
+-       
+kakovosti napetosti.
+(2) Distribucijski operater in
+distribucijska podjetja med seboj uredijo svoje obveznosti glede posredovanja
+podatkov o kakovosti oskrbe.
+(3) Določba tretje alinee prvega
+odstavka se ne uporablja za sistemskega operaterja.
+5. člen
+(letno poročanje)
+(1) Elektrooperater in distribucijska
+podjetja enkrat letno za preteklo leto sporočajo:
+-       
+podatke o neprekinjenosti napajanja, kot so opredeljeni v II. poglavju
+tega akta;
+-       
+podatke o komercialni kakovosti, kot so opredeljeni v III. poglavju tega
+akta in
+-       
+podatke o kakovosti napetosti, kot so opredeljeni v IV. poglavju
+tega akta.
+(2) Določba druge alinee prejšnjega
+odstavka se ne uporablja za sistemskega operaterja.
+6. člen
+(krovno poročilo)
+(1) Elektrooperater in distribucijska
+podjetja enkrat letno agenciji oddajo krovno poročilo, ki vsebuje letne podatke
+iz 5. člena tega akta, izsledke analiz neprekinjenosti napajanja,
+komercialne kakovosti in kakovosti napetosti.
+(2) Podlaga za posamezne analize so
+podatki mesečnega oziroma letnega poročanja ter drugi podatki, ki jih elektrooperater
+in distribucijska podjetja uporabljajo za izvajanje nadzora kakovosti oskrbe po
+posameznih področjih.
+(3) Elektrooperater in distribucijska
+podjetja na svojih spletnih straneh javno objavijo krovno poročilo v 15 dneh po
+oddaji krovnega poročila agenciji.
+(4) Določba prvega odstavka se za
+obseg podatkov in izsledke analiz komercialne kakovosti ne uporablja za sistemskega
+operaterja.
+(5) Določba drugega odstavka se za
+mesečno poročanje ne uporablja za sistemskega operaterja in zaprte distribucijske
+sisteme.
+7. člen
+(roki za oddajo poročil)
+(1) Elektrooperater in distribucijska
+podjetja posredujejo agenciji
+podatke v naslednjih rokih, in sicer:
+-       
+distribucijski operater oziroma distribucijska
+podjetja posredujejo
+parametre iz prvega odstavka 21. člena tega akta za koledarski mesec najkasneje do 15. v mesecu za pretekli mesec;
+-       
+distribucijski operater oziroma distribucijska
+podjetja posredujejo
+parametre iz prvega odstavka 21. člena tega akta za posamezni dan najkasneje do 20. v mesecu za predpretekli mesec;
+-       
+sistemski operater in distribucijska podjetja
+posredujejo letna poročila
+najkasneje do 28. februarja za preteklo koledarsko leto;
+-       
+distribucijska podjetja posredujejo krovna
+poročila najkasneje do 31. marca za preteklo koledarsko leto;
+-       
+elektrooperater posreduje krovno poročilo najkasneje do 30. aprila za preteklo koledarsko
+leto.
+(2) Če dnevi iz prejšnjega odstavka
+niso delovni, se aktivnosti izvedejo prvi naslednji delovni dan. Spreminjanje
+ali dopolnjevanje ter verzioniranje poročil je omogočeno do roka oddaje.
+(3) Določba
+prve alinee prvega odstavka se ne uporablja za zaprte distribucijske sisteme.
+8. člen
+(način posredovanja podatkov in
+dokumentov)
+(1) Podatke o kakovosti oskrbe
+elektrooperater in distribucijska podjetja posredujejo agenciji v skladu s
+splošnim aktom agencije, ki ureja način posredovanja podatkov in dokumentov
+izvajalcev energetskih dejavnosti.
+(2) (črtan)
+(3) (črtan)
+9. člen
+(črtan)
+10. člen
+(vodenje in hramba podatkov o kakovosti
+oskrbe)
+(1) Elektrooperater in distribucijska
+podjetja vse potrebne podatke za izračun parametrov kakovosti oskrbe vodijo in
+hranijo najmanj pet let. Za čas trajanja tega obdobja
+elektrooperater in distribucijska podjetja vodijo in hranijo tudi vso
+razpoložljivo dokumentacijo o pritožbah uporabnikov.
+(2) Ne glede na
+prejšnji odstavek distribucijska podjetja vodijo in hranijo dokumentacijo in
+podatke za izračun parametrov kakovosti oskrbe najmanj deset let, če so bili
+predmet presoje monitoringa kakovosti oskrbe iz poglavja V. tega akta.
+II. NEPREKINJENOST NAPAJANJA
+11. člen
+(načrtovanje in vodenje obratovalne
+statistike)
+(1) Elektrooperater in distribucijska
+podjetja morajo voditi obratovanje sistema, nadzirati kakovost oskrbe in
+izvajati analizo izpadov in okvar, izdelovati ter hraniti obratovalno
+statistiko najmanj deset let. Obratovalna statistika mora zagotavljati vir
+podatkov za spremljanje vseh parametrov neprekinjenosti napajanja.
+(2) Elektrooperater in distribucijska
+podjetja v obratovalni statistiki zajamejo nenačrtovane in načrtovane
+prekinitve oskrbe ter dogodke v sistemu.
+12. člen
+(obveščanje in objava podatkov)
+(1) Distribucijski operater ali
+distribucijska podjetja enkrat letno obvestijo vse uporabnike, na kakšen tip
+SN-izvoda so uporabniki priključeni (mestni, mešani ali podeželski). Obvestilo
+mora vsebovati tudi informacijo o imenu SN-izvoda in o ustreznih minimalnih
+standardih neprekinjenosti napajanja za načrtovane in nenačrtovane prekinitve.
+Obveščanje se izvede z informiranjem uporabnikov na računu za storitev dobave
+električne energije.
+(2) Distribucijski operater ali
+distribucijska podjetja na svojih spletnih straneh v okviru krovnega poročila
+objavijo vrednosti parametrov neprekinjenosti napajanja SAIDI, SAIFI, CAIDI,
+CAIFI (lastni vzroki, višja sila in tuji vzroki) in MAIFI ter MAIFIE
+na pripadajočem SN-izvodu v preteklem letu.
+(3) Distribucijski operater ali
+distribucijska podjetja na svojih spletnih straneh v okviru krovnega poročila
+objavijo podatke o številu vseh nenačrtovanih in načrtovanih prekinitev na VN-
+in SN-sistemu.
+13. člen
+(podatki o neprekinjenosti
+napajanja)
+(1) Distribucijski operater ali
+distribucijska podjetja posredujejo agenciji naslednje podatke:
+-       
+splošne podatke sistema;
+-       
+podatke o konfiguraciji sistema;
+-       
+parametre neprekinjenosti napajanja po različnih ravneh opazovanja;
+-       
+dogodke izven vpliva podjetja (višja sila in tuji vzroki);
+-       
+število pritožb uporabnikov in
+-       
+podatke o izplačanih nadomestilih uporabnikom po napetostnih nivojih.
+(2) Sistemski operater posreduje
+agenciji:
+-       
+statistiko prekinitev in dogodkov;
+-       
+parametre nedobavljene energije in
+-       
+število okvar po napetostnih nivojih.
+(3) Definicije za izračun parametrov
+neprekinjenosti napajanja so opredeljene v 2. poglavju Priloge 1, ki je sestavni
+del tega akta.
+14. člen
+(splošni podatki)
+(1) Distribucijski operater ali
+distribucijska podjetja posredujejo agenciji naslednje
+podatke:
+a)     število uporabnikov po napetostnih nivojih;
+b)     dolžino vodov po napetostnih nivojih;
+c)     deleže tipa ozemljitve nevtralnih točk SN-omrežja;
+d)     deleže vrste vodov;
+e)     število načrtovanih in nenačrtovanih dogodkov;
+f)      ostale podatke:
+- 
+delež sistema, ki ustreza stanju tehnike;
+- 
+možnost rezervnega napajanja in;
+- 
+delež SN-sistema pod nadzorom SCADA.
+(2) Sistemski operater posreduje
+agenciji naslednje podatke:
+-       
+dolžino omrežja;
+-       
+število vseh prevzemno-predajnih mest (število uporabnikov) po
+napetostnih nivojih in
+-       
+delež sistema, ki ustreza stanju tehnike.
+(3) Podatki iz prvega in drugega
+odstavka so podrobneje opredeljeni v 3. poglavju Priloge 1.
+15. člen
+(podatki o konfiguraciji sistema)
+(1) Podatki o konfiguraciji sistema so
+pogoj za izvajanje poročanja o neprekinjenosti napajanja.
+(2) Podatki o konfiguraciji sistema so
+opredeljeni glede na ravni spremljanja parametrov neprekinjenosti napajanja ter
+glede na arhitekturne lastnosti sistema in se razlikujejo za distribucijski in
+prenosni sistem.
+(3) Distribucijski operater ali
+distribucijska podjetja morajo agenciji posredovati
+naslednje podatke o konfiguraciji sistema:
+-       
+naziv posameznih RTP/RP in SN-izvodov;
+-       
+zemljepisno dolžino in širino posameznih RTP/RP;
+-       
+tipe, dolžine in povprečne moči SN-izvodov in
+-       
+informacijo o vključenosti posameznih SN-izvodov v SCADA.
+(4) Sistemski operater mora agenciji
+posredovati naslednje podatke o konfiguraciji sistema:
+-       
+naziv posameznih RTP/RP in
+-       
+zemljepisno dolžino in širino posameznih RTP/RP.
+16. člen
+(razvrstitev elementov sistema po tipu)
+(1) Distribucijski operater ali
+distribucijska podjetja razvrstijo SN-izvode RTP oziroma RP po tipu SN-izvoda
+na naslednji način:
+-       
+mestni SN-izvod iz RTP je SN-izvod, ki napaja vsaj dve tretjini vseh
+uporabnikov na SN-izvodu, ki so nanj priključeni v mestnem območju;
+-       
+podeželski SN-izvod iz RTP je SN-izvod, ki napaja vsaj dve tretjini vseh
+uporabnikov na SN-izvodu, ki so nanj priključeni izven mestnega območja;
+-       
+mešani SN-izvod iz RTP je SN-izvod, ki ne ustreza kriterijema za mestni
+in podeželski SN-izvod iz RTP/RP.
+(2) Če razvrščanje SN-izvoda iz RTP
+oziroma RP po definicijah tipov SN-izvodov zaradi specifičnosti konfiguracije
+sistema privede do nelogične razvrstitve, se razvrstitev opravi v korist
+uporabnika tako, da se pri razvrstitvi izbere tip SN-izvoda, za katerega
+veljajo strožji minimalni standardi neprekinjenosti napajanja.
+(3) O morebitnih odstopanjih
+razvrščanja elementov sistema po tipu iz prvega odstavka distribucijski
+operater ali distribucijska podjetja poročajo agenciji na elektronski naslov,
+ki ga agencija objavi na svojih spletnih straneh.
+(4) Zaprti distribucijski sistemi
+razvrstijo SN-izvode kot mestni SN-izvod.
+(5) Distribucijski operater ali
+distribucijska podjetja razvrstijo TP (SN/NN) po naslednjih tipih postaj:
+-       
+mestna TP, če le-ta leži na napajalnem območju mesta in
+-       
+podeželska TP, če le-ta leži na napajalnem območju podeželja.
+(6) Za NN-izvode posamezne TP velja,
+da so istega tipa, kot je tip pripadajoče TP. Razvrščanje ni potrebno.
+(7) Ravni opazovanja parametrov
+neprekinjenosti napajanja so podrobneje opredeljene v 1. poglavju Priloge 1.
+17. člen
+(spremembe podatkov konfiguracije sistema)
+(1) Konfiguracija sistema se lahko
+zaradi trajno spremenjenih obratovalnih stanj in novih elementov spreminja.
+(2) Elektrooperaterju in
+distribucijskim podjetjem je za zagotavljanje ažurnosti konfiguracije omogočeno
+spreminjati naslednje podatke:
+-       
+dodajanje elementov sistema in
+-       
+spreminjanje lastnosti elementov.
+(3) Če je določen element
+izključen iz obratovanja ali ukinjen, se zanj podatki o neprekinjenosti
+napajanja ne poročajo več, do tedaj poročani podatki pa se ohranijo v
+podatkovni bazi agencije.
+(4) Elektrooperater in distribucijska podjetja morajo za čas,
+določen v 10. členu, zagotavljati razpoložljivost in celovitost podatkov o
+konfiguraciji omrežja, ki so podlaga za vsak posamezni izračun kazalnikov
+kakovosti oskrbe, ki je predmet poročanja agenciji.
+18. člen
+(podatki iz obratovalne statistike)
+(1) Podatki iz obratovalne statistike, ki so
+potrebni za izračun parametrov neprekinjenosti napajanja in ki jih
+elektrooperater in distribucijska podjetja spremljajo in posredujejo, so
+naslednji:
+a)     identifikator oziroma naziv elementa sistema v okvari;
+b)     identifikator oziroma naziv SN-izvoda, odvodnega polja ali
+podsklopa sekundarnega dela, ki je v okvari;
+c)     identifikator oziroma naziv vzroka prekinitve: lastni vzrok, višja
+sila ali tuji vzrok;
+d)     datum in čas začetka ter konca prekinitve;
+e)     identifikator oziroma naziv tipa prekinitve:
+- 
+načrtovana ali nenačrtovana in
+- 
+dolgotrajna ali kratkotrajna;
+f)      število in trajanje prekinitev po posameznem tipu;
+g)     celotno število uporabnikov na SN-izvodu;
+h)     število uporabnikov oziroma prevzemno-predajnih mest s prekinjeno
+dobavo električne energije;
+i)       število uporabnikov, ki jim je bila do zaključka opazovanega
+obdobja v koledarskem letu prvič prekinjena dobava električne energije;
+j)       vrednost nedobavljene energije;
+k)     identifikator oziroma naziv mesta dogodka:
+- 
+proizvodnja;
+- 
+prenos in
+- 
+distribucija.
+(2) Določbe b), g) in i) točke prejšnjega odstavka se ne
+uporabljajo za sistemskega operaterja.
+(3) Določbi j) in k) točke prvega odstavka veljata samo
+za sistemskega operaterja.
+(4) Elektrooperater in distribucijska podjetja morajo za
+čas, določen v 10. členu, zagotavljati trajno razpoložljivost in celovitost
+podatkov iz prvega odstavka, ki so podlaga za vsak posamezen izračun kazalnikov
+kakovosti oskrbe, ki je predmet poročanja agenciji.
+19. člen
+(podatki o pritožbah)
+(1) Elektrooperater in distribucijska
+podjetja agenciji enkrat letno posredujejo podatke o številu upravičenih in
+neupravičenih pritožb uporabnikov glede neskladnosti dosežene ravni
+neprekinjenosti napajanja z ravnjo, ki jo določajo zajamčeni standardi
+neprekinjenosti napajanja.
+(2) Vrste pritožb iz prejšnjega
+odstavka so določene v 3. poglavju Priloge 2, ki je sestavni del tega akta.
+20. člen
+(ravni spremljanja parametrov)
+(1) Elektrooperater in distribucijska
+podjetja, ki agenciji poročajo o neprekinjenosti napajanja, so dolžni
+zagotoviti podatke za spremljanje parametrov neprekinjenosti napajanja na
+ravneh opazovanja, ki zagotavljajo razvrstitev vrednosti parametrov glede na
+vzroke prekinitev, vrsto sistema in napetostni nivo sistema.
+(2) Ravni opazovanja za
+distribucijskega operaterja ali distribucijska podjetja so podjetje, RTP/RP,
+SN-izvodi iz RTP/RP ter TP in NN-izvodi iz TP.
+(3) Raven opazovanja za sistemskega
+operaterja je nivo sistemskega operaterja.
+21. člen
+(izračunavanje parametrov neprekinjenosti
+napajanja)
+(1) Distribucijski operater oziroma distribucijsko podjetje
+izračunava vrednosti parametrov SAIDI, SAIFI, CAIDI, CAIFI, MAIFI in MAIFIE za
+distribucijski sistem, razen za zaprte distribucijske sisteme, po ustreznih
+območjih in nivojih za posamezen dan in koledarski mesec ter posreduje
+izračunane parametre agenciji enkrat mesečno.
+(2) Letne vrednosti parametrov, preračunane na nivo
+RTP/RP in nivo podjetja, se v informacijskem sistemu agencije izračunajo
+samodejno na podlagi posredovanih dnevnih oziroma mesečnih podatkov.
+(3) Za prenosni sistem se vrednosti
+parametrov SAIDI, SAIFI, MAIFI, AIT, AIF, AID in ENS izračunavajo za obdobje
+enega leta in se posredujejo za vsako posamezno leto. Pri izračunu parametrov
+neprekinjenosti napajanja SAIDI, SAIFI in MAIFI se izraz uporabnik nanaša na
+posamezno prevzemno-predajno mesto.
+22. člen
+(mesečno poročanje)
+(1) Distribucijski operater ali
+distribucijska podjetja, razen operaterji zaprtih distribucijskih sistemov,
+enkrat mesečno poročajo parametre neprekinjenosti napajanja za načrtovane,
+nenačrtovane in kratkotrajne prekinitve ter prekinitve izven vpliva podjetja.
+Vse prekinitve se poročajo po tipih izvodov (mestni, mešani, podeželski) na
+nivoju SN- in NN-izvodov.
+(2) Pri opredelitvi števila dogodkov
+kratkotrajnih prekinitev napajanja se upošteva časovna agregacija kratkotrajnih
+prekinitev (pri izračunu parametra MAIFIE), kot jo določa 2.6
+poglavje Priloge 1.
+23. člen
+(časovno razvrščanje prekinitev – mejni
+primeri)
+(1) Dolgotrajne in kratkotrajne
+prekinitve, ki se začnejo v nekem mesecu in končajo v enem izmed naslednjih mesecev,
+se prištevajo parametrom neprekinjenosti v mesecu prenehanja prekinitve.
+(2) Pri izračunu parametrov o
+dolgotrajnih prekinitvah iz prejšnjega odstavka sistemski operater upošteva čas
+trajanja prekinitve tako, da upošteva dejanski čas trajanja prekinitve v
+opazovanem obdobju. Pri tem se prekinitev upošteva v tistih parametrih, ki so
+vezani na število prekinitev v mesecu, ko je prekinitev nastala.
+24. člen
+(lokacije spremljanja parametrov
+neprekinjenosti napajanja)
+(1) Elektrooperater in distribucijska
+podjetja spremljajo parametre neprekinjenosti napajanja na nivoju tistih
+postaj, ki imajo na svojih SN-izvodih nameščeno zaščito in naprave za daljinsko
+vodenje (SCADA).
+(2) Na postajah, ki nimajo nameščenih
+naprav za daljinsko vodenje, se spremljajo parametri neprekinjenosti napajanja
+ločeno z upoštevanjem pravil, določenih v 25. členu tega akta. Elementi
+oziroma SN-izvodi, ki nimajo nameščenih naprav za daljinsko vodenje, se v konfiguraciji
+ustrezno označijo.
+25. člen
+(pravila za ročno beleženje dogodkov)
+(1) Na RTP/TP in TR, kjer ni
+nameščenih naprav za daljinsko vodenje, se prekinitve beležijo tako, da se
+odbirajo števci v registrih lokalno nameščenih zaščitnih naprav ali v lokalnih
+podatkovnih bazah. Podatki se redno prenašajo v nadzorni center in upoštevajo
+pri izračunih parametrov. Omenjeni RTP/RP in TR so konfiguraciji ustrezno označeni. Če omenjene tehnološke rešitve na postajah ne
+obstajajo, pa vzdrževalno osebje beleži obratovalno statistiko ročno.
+(2) Elektrooperater in distribucijska
+podjetja zagotovijo, da se vse prekinitve, ki niso registrirane v SCADA in jih
+prek klicnega centra javljajo uporabniki, ustrezno beležijo. Zapise je treba
+hraniti v skladu z določbami 11. člena tega akta in so predmet presoje
+agencije.
+26. člen
+(spremljanje parametrov neprekinjenosti
+napajanja na SN-izvodih iz RTP ali RP, ki napajajo uporabnike različnih
+distribucijskih podjetij)
+(1) Če SN-izvod iz RTP ali RP, ki je v
+upravljanju enega distribucijskega podjetja, napaja uporabnike različnih
+distribucijskih podjetij in ni izvedeno dvostransko napajanje, distribucijska
+podjetja spremljajo parametre neprekinjenosti napajanja na tem SN-izvodu tako,
+da v podatke o svoji konfiguraciji sistema dodajo »virtualni« RTP oziroma RP
+ter ustrezni »virtualni« SN-izvod. Pri tem spremljajo parametre neprekinjenosti
+napajanja samo za svoje uporabnike.
+(2) Če je za SN-izvod izvedeno
+dvostransko napajanje na način, da so RTP oziroma RP v upravljanju različnih
+distribucijskih podjetij, potem vsako distribucijsko podjetje spremlja
+parametre neprekinjenosti napajanja samo za svoje uporabnike.
+27. člen
+(spremljanje parametrov na nivoju RP)
+(1) Distribucijski operater ali
+distribucijska podjetja spremljajo parametre neprekinjenosti napajanja na RP na
+enak način kot na RTP, pri čemer se vrednosti parametrov na posameznih tipih
+SN-izvodov iz RP ne prištevajo k vrednostim tipov SN-izvoda RTP, ki ta RP
+napaja. Na povezovalno-napajalnem SN-izvodu iz RTP (posebni SN-izvodi) se
+parametri neprekinjenosti napajanja spremljajo le za tiste uporabnike, ki so na
+ta napajalni vod priključeni pred RP-jem.
+(2) Pri tem se napajalne SN-izvode iz
+RTP in SN-izvode iz RP razvršča v skladu s 16. členom tega akta.
+28. člen
+(dogodki izven vpliva – višja sila)
+(1) Po vzroku se v višjo silo uvrsti
+prekinitev napajanja z električno energijo, ki je posledica dogodka, na
+katerega elektrooperater in distribucijska podjetja niso mogli vplivati, se mu
+izogniti ali ga preprečiti, in v katerem so nastopili okoljski parametri izven
+mej, ki so določeni s stanjem tehnike oziroma so bili podani v projektnih
+pogojih (sneg, led, žled, mraz, vročina, vlaga, obtežbe/obremenitev ipd.).
+(2) Dolgotrajne prekinitve, ki so
+posledica udara strele, elektrooperater in distribucijska podjetja le izjemoma
+uvrščajo po vzroku v višjo silo, kadar so izpolnjeni vsi naslednji pogoji:
+-       
+prekinitev mora biti korelirana z udarom strele (SCALAR);
+-       
+parametri udara strele morajo presegati meje, ki so bili določeni s
+takratnimi projektnimi pogoji ali jih določa stanje tehnike, kar se lahko
+dokazuje z evidentiranjem in zavarovanjem dokazov o mehanskih poškodbah
+elementov sistema, ki neizpodbitno kažejo na učinke udara strele, na samem kraju
+dogodka in
+-       
+poškodovan element mora biti vzdrževan v skladu s specifikacijami
+proizvajalca.
+(3) Za vse prekinitve, ki jih
+elektrooperater in distribucijska podjetja opredelijo kot posledico višje sile,
+morajo voditi dokumentacijo, s katero lahko dokažejo, da:
+-       
+so nastopili okoljski parametri izven mej, določenih s stanjem tehnike
+ali s projektnimi pogoji in
+-       
+so bile razglašene krizne razmere ter
+-       
+je prekinitev posledica drugega izjemnega dogodka, ki ima značilnost
+višje sile.
+(4) Distribucijski operater ali
+distribucijska podjetja za vsako prekinitev navedejo vzroke in opredelijo
+dokazno dokumentacijo, ki jim služijo kot dokaz.
+(5) Primere razvrščanja prekinitev po
+vzroku v skladu s tem aktom objavi agencija na svojih spletnih straneh.
+29. člen
+(dogodki izven vpliva – tuji vzroki)
+(1) Za vse prekinitve, ki jih
+elektrooperater in distribucijska podjetja opredelijo kot posledico tujega
+vzroka, morajo voditi dokumentacijo, s katero lahko dokažejo, da jih je povzročilo
+dejanje tretje osebe.
+(2) Elektrooperater in distribucijska
+podjetja za vsako prekinitev navedejo vzroke in opredelijo dokazno
+dokumentacijo, ki jim služijo kot dokaz.
+III. KOMERCIALNA KAKOVOST
+30. člen
+(obveščanje in objava podatkov)
+(1) Distribucijski operater ali
+distribucijska podjetja na svojih spletnih straneh objavijo vrednosti
+parametrov zajamčenih in sistemskih standardov komercialne kakovosti
+v 15 dneh po določitvi agencije.
+(2) Distribucijski operater ali
+distribucijska podjetja na svojih spletnih straneh v okviru krovnega poročila
+objavijo dosežene vrednosti parametrov komercialne kakovosti.
+31. člen
+(podatki za komercialno kakovost)
+Distribucijski operater ali distribucijsko podjetje poroča
+agenciji o:
+-       
+parametrih komercialne kakovosti;
+-       
+pritožbah uporabnikov;
+-       
+podatkih o potrjenih zahtevah za izplačilo nadomestil uporabnikom in
+-       
+podatkih o izplačanih nadomestilih uporabnikom.
+32. člen
+(parametri komercialne kakovosti)
+(1) Distribucijski
+operater ali distribucijska podjetja posredujejo agenciji naslednje parametre
+komercialne kakovosti:
+
+
+Področje storitve
+
+Parameter komercialne kakovosti
+
+
+1
+
+Priključevanje na sistem
+
+1
+
+Povprečni čas, potreben za izdajo soglasja za priključitev
+  (v nadaljnjem besedilu: SZP).
+
+
+2
+
+Povprečni čas, potreben za izdajo ocene stroškov
+  (predračuna) za enostavna dela.
+
+
+3
+
+Povprečni čas, potreben za izdajo pogodbe o priključitvi
+  (v nadaljnjem besedilu: PP) na NN-sistem.
+
+
+4
+
+Povprečni čas, potreben za aktiviranje priključka na
+  sistem.
+
+
+2
+
+Skrb za uporabnike
+
+1
+
+Povprečni čas, potreben za odgovore na pisna
+  vprašanja, pritožbe ali zahteve uporabnikov.
+
+
+2
+
+Povprečni čas zadržanja klica v klicnem centru.
+
+
+3
+
+Parameter ravni nivoja strežbe klicnega centra.
+
+
+3
+
+Tehnične storitve
+
+1
+
+Povprečni čas do ponovne vzpostavitve napajanja v primeru
+  napake na napravi za omejevanje toka.
+
+
+2
+
+Povprečni čas, potreben za odgovor na pritožbo v zvezi s
+  kakovostjo napetosti.
+
+
+3
+
+Povprečni čas, potreben za rešitev odstopanj kakovosti
+  napetost.
+
+
+4
+
+Merjenje in zaračunavanje
+
+1
+
+Povprečni čas, potreben za odpravo okvare števca.
+
+
+2
+
+Povprečni čas, potreben za vzpostavitev ponovnega
+  napajanja zaradi neplačila uporabnika.
+
+
+(2) Distribucijski operater ali
+distribucijska podjetja posredujejo tudi naslednje podatke:
+-       
+podatke, ki so potrebni za izračun deležev uporabnikov, ki so deležni
+ustrezne ravni kakovosti posamezne storitve;
+-       
+vrednosti standardne deviacije za posamezne parametre komercialne
+kakovosti;
+-       
+število izplačanih in neizplačanih nadomestil zaradi nedoseganja
+zajamčenih standardov posameznih storitev in
+-       
+število upravičenih in vseh pritožb za posamezne parametre komercialne
+kakovosti.
+(3) Parameter »Povprečni čas, potreben
+za izdajo ocene stroškov (predračuna) za enostavna dela«, se spremlja le za
+tiste storitve, katerih cene ne določi agencija.
+(4) Definicije za izračun parametrov
+komercialne kakovosti so opredeljene v 1. poglavju Priloge 2.
+(5) Izračun skladnosti ravni kakovosti
+storitev iz prve alinee drugega odstavka je opredeljena v 2. poglavju Priloge
+2.
+33. člen
+(izplačana nadomestila)
+Distribucijski operater ali distribucijska
+podjetja poročajo agenciji podatke o potrjenih
+zahtevah za izplačilo nadomestil in podatke o izplačanih nadomestilih po
+napetostnih nivojih oziroma vrsti odjema (SN/NN/GOS) zaradi nedoseganja
+zajamčenih standardov posameznih storitev komercialne kakovosti.
+34. člen
+(podatki o pritožbah)
+(1) Distribucijski operater ali
+distribucijska podjetja v okviru letnega poročanja in krovnega poročila
+poročajo agenciji o številu upravičenih in neupravičenih pritožb uporabnikov v
+zvezi z neskladnostjo ravni kakovosti storitev, ki jih določajo zajamčeni
+standardi komercialne kakovosti.
+(2) Distribucijski operater ali
+distribucijska podjetja posredujejo agenciji število
+upravičenih in vseh pritožb, ki se nanašajo na posamezne storitve komercialne
+kakovosti, ki so jih prejeli od uporabnikov.
+(3) Podatki o pritožbah iz tega člena
+so določeni v 3. poglavju Priloge 2.
+35. člen
+(spremljanje in beleženje časov)
+(1) Čas prejetja pisnega vprašanja,
+pritožbe ali zahteve uporabnika je datum prejema elektronske pošte oziroma
+datum prispetja v elektronski predal ali datum štampiljke vhodne pošte.
+(2) Čas odgovora na pisno vprašanje,
+pritožbo ali zahtevo uporabnika je datum odpošiljanja elektronske pošte na elektronski
+naslov prejemnika oziroma datum štampiljke izhodne pošte.
+36. člen
+(knjiga pritožb)
+Distribucijski operater ali distribucijska
+podjetja uvedejo knjigo pritožb, da lahko stranke, ki so nezadovoljne s
+posamezno storitvijo (čakalna doba, osebna obravnava itd.), opišejo svoja
+opažanja. Zagotoviti je treba redno analizo zapisov v knjigi pritožb. Distribucijski
+operater ali distribucijska podjetja objavijo izsledke in izvedene ukrepe v
+krovnem poročilu o kakovosti oskrbe.
+37. člen
+(višja sila in tuji vzroki)
+(1) Distribucijski operater ali
+distribucijska podjetja za vse parametre, katerih vrednost je presegala
+vrednost, določeno z minimalnimi standardi komercialne kakovosti, in so jih
+opredelili kot višjo silo ali tuji vzrok, vodijo dokumentacijo, s katero lahko
+dokažejo:
+-       
+izredno stanje oziroma razmere, ki so preprečile izvedbo storitve v
+skladu s predpisano ravnjo kakovosti oskrbe in
+-       
+da se je uporabnik strinjal s prekoračitvijo zajamčenih standardov.
+(2) Distribucijski operater ali
+distribucijska podjetja posredujejo informacije o vzroku za vsako prekoračitev
+in opredelijo dokazno gradivo.
+IV. KAKOVOST NAPETOSTI
+38. člen
+(vodenje podatkov o kakovosti napetosti)
+Elektrooperater in distribucijska podjetja
+so dolžni voditi podatke o kakovosti napetosti, ki so podlaga za poročanje
+agenciji. Podatki o kakovosti napetosti se zajemajo iz stalnega nadzora (stalni
+monitoring) kakovosti napetosti na prenosnem in distribucijskem sistemu ter s
+pomočjo občasnega monitoringa.
+39. člen
+(podatki o kakovosti napetnosti)
+Elektrooperater in distribucijska podjetja poročajo agenciji
+o skladnosti parametrov po slovenskem standardu SIST EN 50160, ločenih po
+napetostnih nivojih, in ji posredujejo naslednje vrste podatkov:
+-       
+splošne podatke o kakovosti napetosti;
+-       
+podatke stalnega monitoringa kakovosti napetosti;
+-       
+podatke občasnega monitoringa kakovosti napetosti;
+-       
+podatke o pritožbah glede neskladnosti kakovosti napetosti.
+40. člen
+(splošni podatki o kakovosti napetosti)
+Elektrooperater in distribucijska podjetja
+posredujejo agenciji naslednje podatke:
+a)    
+podatke, pridobljene s pomočjo stalnega
+monitoringa:
+- 
+naziv merilnih točk in lokacija stalnega monitoringa v RTP/RP;
+- 
+stanje opremljenosti sistema s stalnim nadzorom kakovosti napetosti:
+-    
+skupno število merilnih točk VN-sistema;
+-    
+delež vzpostavitve stalnega monitoringa na VN-sistemu glede na
+načrtovani obseg;
+-    
+skupno število merilnih točk SN-sistema in
+-    
+skupno število merilnih točk celotnega sistema;
+b)    
+podatke, pridobljene s pomočjo občasnega
+monitoringa:
+- 
+število izvedenih meritev v okviru občasnega monitoringa in
+- 
+rezultate procentualne analize izmerjenih vrednosti;
+c)    
+podatke o pritožbah:
+- 
+število pritožb zaradi odstopanj kakovosti napetosti in
+- 
+stanje pritožb uporabnikov (ugotovljena upravičenost oziroma
+neupravičenost);
+d)    
+analizo stanja s komentarjem, ki vključuje opis
+dogodkov, ki so bili posledica višje sile večjih področnih razsežnosti.
+41. člen
+(podatki stalnega monitoringa)
+(1) Iz meritev kakovosti napetosti, ki
+se izvajajo v skladu s stanjem tehnike po veljavnih tehničnih standardih,
+elektrooperater in distribucijska podjetja posredujejo agenciji naslednje podatke po napetostnih nivojih in po posameznih objektih
+oziroma točkah sistema, kjer je bilo vzpostavljeno stalno spremljanje kakovosti
+napetosti, in sicer:
+a)     število tednov pod merilnim nadzorom;
+b)     število neskladnih tednov (kakršna koli odstopanja od standarda);
+c)     število skladnih tednov;
+d)     število tednov, v katerih so bila izmerjena odstopanja od standarda
+pri:
+- 
+odklonih napajalne napetosti;
+- 
+hitrih napetostnih spremembah (velikost, jakost flikerja);
+- 
+harmonskih in med-harmonskih napetostih;
+- 
+neravnotežju napajalne napetosti;
+- 
+napetostnih signalih v sistemu in
+- 
+omrežni frekvenci.
+(2) Posamezne parametre stanja kakovosti
+napetosti agencija izračuna iz podatkov meritev kakovosti napetosti, ločeno po
+napetostnih nivojih.
+(3) Elektrooperater in distribucijska
+podjetja enkrat letno posredujejo agenciji tudi podrobnejše podatke o upadih
+napetosti, kot so specificirani v slovenskem standardu SIST EN 50160. Na
+podlagi podatkov o upadih napetosti agencija izračuna sistemski parameter
+pogostosti upadov.
+(4) Definicije in parametri stanja
+kakovosti napetosti so določeni v 1. poglavju Priloge 3, ki je sestavni del
+tega akta.
+(5) Sistemski parameter pogostosti
+upadov je določen v 2. poglavju Priloge 3.
+42. člen
+(parametri kakovosti napetosti)
+(1) Elektrooperater in distribucijska
+podjetja spremljajo na področju kakovosti napetosti naslednje parametre:
+-       
+skupni parameter stanja kakovosti napetosti;
+-       
+parametre stanja posameznih karakteristik kakovosti napetosti in
+-       
+sistemski parameter pogostosti upadov.
+(2) Elektrooperater
+in distribucijska podjetja lahko predpišejo strožje parametre minimalnih
+standardov kakovosti napetosti, kot so zahtevani v slovenskem standardu SIST EN
+50160.
+43. člen
+(podatki občasnega monitoringa)
+(1) Poročanje o parametrih kakovosti
+napetosti, pridobljenih iz občasnega monitoringa napetosti, zajema podatke občasnega
+monitoringa:
+-       
+ob pritožbah uporabnikov;
+-       
+za potrebe izdaje SZP in
+-       
+za potrebe ustreznega načrtovanja ter razvoja omrežja oziroma pred
+priklopom razpršenih virov ipd.
+(2) Elektrooperater in distribucijska
+podjetja spremljajo podatke o skladnosti parametrov kakovosti napetosti za
+celotno območje distribucijskega sistema na opazovanem nivoju RTP/RP.
+44. člen
+(podatki o pritožbah)
+(1) Elektrooperater in distribucijska
+podjetja v okviru letnega poročanja in krovnega poročila agenciji posredujejo
+podatke o številu upravičenih in neupravičenih pritožb uporabnikov glede
+neskladnosti dosežene ravni kakovosti napetosti z ravnjo, ki jo določajo
+minimalni standardi kakovosti napetosti.
+(2) Vrste pritožb iz prejšnjega
+odstavka so določene v 3. poglavju Priloge 2.
+45. člen
+(višja sila in tuji vzroki)
+V višjo silo in tuje vzroke se štejejo vsa
+nenormalna obratovalna stanja, ki so določena v slovenskem standardu SIST EN
+50160.
+46. člen
+(obveščanje in objava podatkov)
+(1) Elektrooperater in distribucijska
+podjetja na svojih spletnih straneh enkrat letno v okviru krovnega poročila
+obvestijo uporabnike o ravni kakovosti napetosti.
+(2) Elektrooperater in distribucijska
+podjetja na svojih spletnih straneh uporabnike obveščajo tudi o veljavnih
+standardih, podzakonskih aktih, dobavnih pogojih in drugih dokumentih, ki
+določajo minimalne tehnične standarde za kakovost napetosti.
+V. PRESOJA MONITORINGA KAKOVOSTI OSKRBE IN UKREPI ZA
+NJEGOVO IZBOLJŠANJE
+47. člen
+(namen)
+Agencija izvaja presoje monitoringa
+kakovosti oskrbe (v nadaljnjem besedilu: presoja) z namenom ugotavljanja
+pravilnosti izvajanja monitoringa kakovosti oskrbe in z namenom ugotavljanja
+možnosti izboljševanja procesa monitoringa kakovosti oskrbe ter ugotoviti
+primernost sistema kakovosti za doseganje kakovostnih ciljev.
+48. člen
+(pooblaščene osebe agencije)
+Presojo pri distribucijskem operaterju ali
+distribucijskih podjetjih izvajajo pooblaščene osebe agencije. Presoja se
+praviloma izvaja na mestu, kjer so na voljo podatki.
+49. člen
+(napoved presoje)
+(1) Agencija napove presojo v pisni
+obliki najpozneje 14 dni pred izvedbo postopka in hkrati sporoči imena
+pooblaščenih oseb agencije ter področje presoje. Distribucijski operater ali
+distribucijsko podjetje mora agenciji sporočiti osebne in kontaktne podatke
+odgovorne osebe, ki bo sodelovala v postopku presoje, in potrditi datum
+napovedane presoje.
+(2) Agencija lahko na zahtevo
+distribucijskega operaterja ali distribucijskega podjetja datum izvedbe presoje
+prestavi za največ pet delovnih dni od napovedanega datuma. Pisno zahtevo za
+prestavitev datuma, ki mora biti utemeljena, mora distribucijski operater ali
+distribucijsko podjetje agenciji posredovati v petih delovnih dneh po prejemu
+pisne napovedi presoje. Vsak udeleženec v presoji nosi svoje stroške.
+50. člen
+(načrtovanje obsega podatkov za presojo)
+Načrtovanje in določitev domene podatkov za
+presojo se izvede na podlagi analiz posredovanih podatkov, ki jih izvaja
+agencija in so shranjeni v podatkovni bazi agencije. Pri presoji se za
+posamezno vrsto kakovosti oskrbe iz 4. člena tega akta pregleda vzorec, ki
+zajema najmanj deset dogodkov oziroma podatkov, ki so podlaga za izračun ravni
+kakovosti izvedenih storitev.
+51. člen
+(področja za izvedbo presoje)
+Agencija izvaja presojo na naslednjih
+področjih:
+-       
+učinkovitost procesa nadzora kakovosti oskrbe;
+-       
+točnost registriranja dogodkov;
+-       
+natančnost izračuna parametrov in
+-       
+pravilnost opredelitve vzrokov dogodkov.
+52. člen
+(učinkovitost procesa nadzora kakovosti
+oskrbe)
+(1) Učinkovitost procesa nadzora kakovosti oskrbe
+se ugotavlja s presojo operativnega izvajanja procesa nadzora kakovosti oskrbe
+na lokaciji presojevanca in s pridobivanjem informacij od distribucijskega
+operaterja ali distribucijskega podjetja na podlagi vprašalnika oziroma
+izpraševanja, ki zajema naslednje procesne vidike:
+-       
+postopke za beleženje in merjenje parametrov;
+-       
+postopke za obdelavo in hrambo podatkov;
+-       
+postopke za poročanje podatkov;
+-       
+postopke uporabe in varovanja podatkov (dostop, avtorizacija itd.);
+-       
+organizacijske vidike izvajanja nadzora kakovosti oskrbe;
+-       
+tehnično podporo za izvajanje nadzora kakovosti oskrbe (informatizacija,
+avtomatizacija, telekomunikacije itd.) in
+-       
+druge procesne vidike.
+(2) Agencija presoja učinkovitost procesa na podlagi
+naslednjih lastnosti:
+-       
+kakovosti (raven razpoložljivosti, celovitosti in kakovosti podatkov ter
+informacij);
+-       
+uporabnosti (raven prilagoditve procesa projektno-procesni kulturi v
+podjetju, raven informatizacije in integracije sistemov, uporabnost podpornih
+orodij in procesnih ogrodij, raven povezljivosti informacij in podatkov, raven
+procesne kompleksnosti ipd.);
+-       
+preglednosti (razpoložljivost informacij, dokumentacija, izmenjava in
+dostop do podatkov, informacij, informacijska varnost ipd.);
+-       
+fleksibilnosti (možnost prilagajanja procesa, učinkovito upravljanje
+sprememb ipd.);
+-       
+natančnosti in predvidljivosti (skladnost z zunanjimi pravili,
+upravljanje tveganj za odstopanja ipd.);
+-       
+hitrosti (hitrost izvajanja, raven avtomatizacije ipd.) in
+-       
+virov (zadostnost virov, upravljanje z viri, ustreznost stroškov ipd.).
+(3) Učinkovitost procesa nadzora kakovosti oskrbe se
+izraža s pozitivnim mnenjem, pozitivnim mnenjem s pridržkom ali negativnim
+mnenjem agencije na podlagi analize izpolnjenega vprašalnika in informacij,
+pridobljenih z izpraševanjem.
+(4) Vprašalnik iz prvega odstavka agencija objavi na
+svojih spletnih straneh.
+53. člen
+(točnost registriranja dogodkov)
+(1) Točnost
+registriranja dogodkov se ugotavlja z analizo postopkov registracije dogodkov v
+okviru procesa nadzora kakovosti oskrbe.
+(2) Parameter točnosti
+registriranja dogodkov se za posamezno vrsto netočnosti določi na naslednji
+način:
+
+
+Točnost registriranja dogodkov
+
+Parameter
+
+
+Postopki dopuščajo, da posamezni dogodki niso
+  registrirani.
+
+0%
+
+
+Postopki zagotavljajo registriranje vseh dogodkov, vendar
+  dopuščajo odstopanja v točnosti registriranja časa, števila dogodkov, števila
+  uporabnikov s prekinjeno dobavo električne energije ali kakršne koli
+  kombinacije navedenih odstopanj.
+
+50%
+
+
+Postopki registrirajo vse dogodke, točno število
+  uporabnikov s prekinjeno dobavo električne energije in točen čas trajanja
+  dogodka (prekinitve, storitve).
+
+100%
+
+
+(3) Parameter točnosti registriranja dogodkov
+predstavlja vrednost posamezne ugotovljene točnosti registriranja dogodkov in
+se določi v skladu s tabelo iz prejšnjega odstavka.
+(4) Agencija pri presoji točnosti registriranja časa
+upošteva zaokroževanje časa na celo sekundo glede na zajeti podatek v sistemu
+SCADA.
+54. člen
+(natančnost izračuna parametrov)
+(1) Natančnost izračuna parametrov se
+ugotavlja na podlagi izbranega vzorca s primerjavo izračunov parametrov
+kakovosti oskrbe, ki jih je naredila agencija, s tistimi, ki jih je opravil
+distribucijski operater ali distribucijsko podjetje oziroma njegov sistem za
+procesiranje podatkov.
+(2) Če sistem za procesiranje podatkov
+ne dopušča dostopa do izvornih podatkov, mora distribucijski operater ali
+distribucijsko podjetje na zahtevo agencije predložiti ustrezno dokumentacijo,
+iz katere izhaja specifikacija ali način izračunov posameznih parametrov
+neprekinjenosti napajanja.
+(3) Parameter natančnosti izračuna je
+delež pravilno izvedenih izračunov, izražen v odstotkih. Nepravilno izveden
+izračun parametrov je tisti, ki se razlikuje od izračuna, ki ga opravi
+agencija.
+55. člen
+(pravilnost opredelitve vzrokov dogodkov)
+(1) Pravilnost opredelitve vzrokov
+dogodkov se ugotavlja na podlagi izbranega vzorca s pregledom dokumentacije, na
+podlagi katere je distribucijski operater ali distribucijsko podjetje izvzelo
+dogodke, na katere ni moglo vplivati (višja sila oziroma tuji vzroki).
+(2) Parameter pravilnosti opredelitve
+vzrokov dogodkov je delež pravilno dokumentiranih in razvrščenih dogodkov glede
+na njihove vzroke (lastni vzrok, tuji vzrok, višja sila), izražen v odstotkih.
+Nepravilno razvrščen dogodek je tisti, ki ni ustrezno dokumentiran ali
+razvrščen v skladu s tem aktom.
+56. člen
+(rezultat presoje in ukrepi za
+izboljšanje)
+(1) Če je pri presoji učinkovitosti
+procesa nadzora kakovosti oskrbe iz 52. člena tega akta agencija podala
+negativno mnenje, se glede vpliva na upravičene stroške upošteva največji
+negativni vpliv, ki ga določa splošni akt agencije, ki ureja metodologijo za
+določitev regulativnega okvira.
+(2) Če je pri presoji učinkovitosti
+procesa nadzora kakovosti oskrbe iz 52. člena tega akta agencija podala
+pozitivno mnenje ali pozitivno mnenje s pridržkom, se izračuna povprečna
+vrednost parametrov točnosti registriranja dogodkov, natančnosti izračuna
+parametrov in pravilnosti opredelitve vzrokov dogodkov, ki se zaokroži navzdol
+na celoštevilčno vrednost.
+(3) Glede
+na izračunano povprečno vrednost parametrov iz prejšnjega odstavka se vpliv na
+upravičene stroške, ki ga določa splošni akt agencije, ki ureja metodologijo za
+določitev regulativnega okvira, določi na naslednji način:
+
+
+95 % – 100 %
+
+Vpliv na upravičene stroške se določi v skladu s splošnim
+  aktom agencije, ki ureja metodologijo za določitev regulativnega okvira.
+
+
+60 % – 94 %
+
+Agencija pozove distribucijskega operaterja
+  ali distribucijsko podjetje, da v petnajstih delovnih dnevih odpravi
+  nepravilnosti in
+  popravi podatke, agencija pa presojo ponovi.
+
+
+0 % – 59 %
+
+Upošteva se največji negativni vpliv, ki ga
+  določa splošni akt agencije, ki ureja meto-dologijo za določitev
+  regulativnega okvira. Agencija pozove distribucijskega operaterja ali
+  distribucijsko podjetje, da v petnajstih delovnih dneh odpravi nepravilnosti in
+  popravi podatke.
+
+
+(4) Presoja se lahko ponovi le enkrat.
+Če se v ponovljeni presoji ponovno pokažejo nepravilnosti, ki se po
+metodologiji tega člena odrazijo v vrednosti manj kot 95 %, se vpliv na
+upravičene stroške določi v skladu s prvim odstavkom.
+(5) Distribucijski operater oziroma distribucijsko podjetje
+mora v primeru iz druge in tretje vrstice tabele v tretjem odstavku zagotoviti
+izračun parametrov neprekinjenosti napajanja v skladu s konfiguracijo omrežja
+in številom uporabnikov, ki ustrezajo presojanemu obdobju.
+57. člen
+(zapisnik in zaključno poročilo izvedene
+presoje)
+(1) O izvedeni presoji agencija
+sestavi zapisnik, ki ga podpišeta agencija in pooblaščeni predstavnik
+distribucijskega operaterja ali distribucijskega podjetja.
+(2) Po končani presoji agencija
+sestavi poročilo, v katerem oceni ustreznost opravljene presoje. Priloga
+poročilu je tudi zapisnik o izvedeni presoji iz prejšnjega odstavka.
+
+Priloga
+1: Neprekinjenost napajanja
+Priloga
+2: Komercialna kakovost
+Priloga
+3: Kakovost napetosti
+
+Akt o pravilih monitoringa kakovosti oskrbe z
+električno energijo (Uradni list RS, št. 59/15) vsebuje naslednje prehodne in
+končne določbe:
+»VI. PREHODNE IN KONČNE DOLOČBE
+58. člen
+(spremljanje
+parametrov neprekinjenosti napajanja na NN-nivoju)
+(1) Distribucijski operater ali
+distribucijska podjetja vzpostavijo nadzor parametrov neprekinjenosti napajanja
+na NN-nivoju (raven spremljanja parametrov na TP in NN-izvodih TP), ko bo vsaj
+80 % uporabnikov opremljenih s sistemom naprednega merjenja.
+(2) Distribucijski operater ali
+distribucijska podjetja pričnejo agenciji posredovati parametre neprekinjenosti
+napajanja na NN-nivoju eno leto po uvedbi sistema naprednega merjenja v obsegu,
+ki je določen v prejšnjem odstavku.
+59. člen
+(uporaba akta
+za operaterje zaprtih distribucijskih sistemov)
+(1) Določbe tega akta se za operaterje
+zaprtih distribucijskih sistemov začnejo uporabljati 1. januarja 2016.
+(2) Operaterji zaprtih distribucijskih
+sistemov vzpostavijo pogoje za pričetek spremljanja podatkov v skladu s tem
+aktom do 31. decembra 2015.
+(3) Prve podatke operaterji zaprtih
+distribucijskih sistemov agenciji posredujejo za obdobje od 1. januarja
+2016 do 31. decembra 2016 v skladu z določbami 7. člena tega akta.
+60. člen
+(prenehanje
+uporabe predpisov)
+Z dnem uveljavitve tega akta se preneha
+uporabljati Akt o posredovanju podatkov o kakovosti oskrbe z električno
+energijo (Uradni list RS, št. 73/12).
+61. člen
+(uveljavitev
+akta)
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Akt o spremembah in dopolnitvah Akta o
+pravilih monitoringa kakovosti oskrbe z električno energijo (Uradni list RS,
+št. 23/18) vsebuje naslednji prehodni in
+končno določbo:
+»PREHODNI IN KONČNA DOLOČBA
+29. člen
+(1) Določbe četrtega odstavka 17. člena in
+četrtega odstavka 18. člena se začnejo uporabljati 1. januarja 2022.
+(2) Distribucijski operater ali
+distribucijska podjetja pričnejo poročati parametre iz prvega odstavka 21.
+člena za posamezni dan 1. januarja 2022.
+30. člen
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Akt o spremembi Akta o spremembah in
+dopolnitvah Akta o pravilih monitoringa kakovosti oskrbe z električno energijo
+(Uradni list RS, št. 62/19) spreminja 29. člen Akta o
+spremembah in dopolnitvah Akta o pravilih monitoringa kakovosti oskrbe z
+električno energijo (Uradni list RS, št. 23/18) tako, da se glasi:
+»29. člen
+(1) Določbe četrtega odstavka 17. člena in
+četrtega odstavka 18. člena se začnejo uporabljati 1. januarja 2022.
+(2) Distribucijski operater oziroma
+distribucijsko podjetje prične poročati parametre iz prvega odstavka 21. člena
+akta za posamezni dan 1. januarja 2020, za leto 2019 pa navedene parametre za
+posamezni dan posreduje agenciji najkasneje do konca leta 2020.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Akt o spremembah Akta o pravilih monitoringa
+kakovosti oskrbe z električno energijo (Uradni list RS, št. 90/21) spreminja 58. člen akta tako, da
+se glasi:
+»58. člen
+(spremljanje
+parametrov neprekinjenosti napajanja na NN-nivoju)
+(1) Distribucijski operater oziroma
+distribucijska podjetja vzpostavijo nadzor parametrov neprekinjenosti napajanja
+na NN-nivoju (raven spremljanja parametrov na TP in NN-izvodih TP) do 1.
+januarja 2024.
+(2) Distribucijski operater oziroma
+distribucijska podjetja začnejo agenciji posredovati parametre neprekinjenosti
+napajanja na NN-nivoju eno leto po roku, ki je določen v prejšnjem odstavku.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.

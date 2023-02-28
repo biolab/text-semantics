@@ -1,0 +1,64 @@
+1. člen
+S tem pravilnikom se določajo vsebina, oblika in način vročanja
+sklepov o izvršbi v elektronski obliki, drugih pravnih aktov, dokumentov in
+informacij, ki se nanašajo na postopek izvršbe na dolžnikova denarna sredstva
+pri bankah oziroma hranilnicah (v nadaljevanju: sklep o izvršbi v elektronski
+obliki), prek informacijskega sistema za vročanje sklepov o izvršbi, ki ga
+upravlja davčni organ (v nadaljnjem besedilu: informacijski sistem za
+vročanje).
+2. člen
+Vročanje sklepov o izvršbi v elektronski obliki poteka prek informacijskega
+sistema za vročanje in temelji na podatkovnih shemah, ki so objavljene na
+spletni strani davčnega organa in Združenja bank Slovenije.
+3. člen
+Davčni organ vzpostavi informacijski sistem za vročanje, do
+katerega dostopajo banke oziroma hranilnice (v nadaljnjem besedilu: banka).
+4. člen
+Davčni organ in banka pred izmenjavo kodirata sklep o izvršbi
+v elektronski obliki z uporabo algoritmov ZIP in Base64.
+5. člen
+Davčni organ oziroma banka sprejem sklepa o izvršbi v elektronski
+obliki potrdi s povratnico.
+6. člen
+Banka pošilja povratnico, dokler od davčnega organa ne prejme
+potrdila o njenem prevzemu.
+7. člen
+Struktura sporočil pri klicih in odgovorih spletne storitve
+je določena v opisu spletne storitve WSDL IzvrsbeXML.
+8. člen
+Sklepi o izvršbi v elektronski obliki, ki se izmenjujejo, morajo
+biti elektronsko podpisani s kvalificiranim digitalnim potrdilom, ki ga izda
+overitelj, vpisan v register overiteljev v Republiki Sloveniji.
+Prejemnik dokumenta ob sprejemu preveri veljavnost
+elektronskega podpisa, skladnost podpisa s podatki o pošiljatelju in skladnost
+podpisa z vsebino sporočila.
+9. člen
+Pred začetkom uporabe spletne storitve banka davčnemu organu
+pošlje podatke o kvalificiranem digitalnem potrdilu za povezavo HTTPS in
+podpisovanje sklepov o izvršbi v elektronski obliki.
+10. člen
+Davčni organ in banka lahko podpisujeta sporočila XML z
+različnimi kvalificiranimi digitalnimi potrdili. Prejemnik identificira pošiljatelja
+sporočila XML na podlagi podpisa in davčne številke v sporočilu XML.
+11. člen
+Davčni organ in banka vodita kronološki dnevnik izmenjav sporočil
+in revizijsko sled.
+12. člen
+Če davčni organ ali banka ugotovita težave z informacijskim sistemom,
+ki onemogočajo prevzem sklepov do 12. ure tekočega dne, drug drugega o tem
+takoj obvestita.
+13. člen
+Banka začne uporabljati informacijski sistem za vročanje z
+dnem, ki ga predhodno pisno sporoči davčnemu organu.
+14. člen
+Dostop do informacijskega sistema mora biti zagotovljen med
+6. in 17. uro.
+15. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 007-40/2014
+Ljubljana, dne 2. junija 2014
+EVA 2014-1611-0005
+dr. Uroš Čufer l.r.
+Minister
+za finance

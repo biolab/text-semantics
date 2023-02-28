@@ -1,0 +1,839 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa sistem obratovanja za elektroenergetska
+distribucijska omrežja, naloge upravljalca distribucijskega omrežja,
+opredeljuje storitev prenosa električne energije po distribucijskem omrežju,
+sistemske storitve na distribucijskem omrežju, obratovanje in razvoj
+distribucijskega omrežja, pogoje za priključitev na distribucijsko omrežje,
+pogoje za dostop do distribucijskega omrežja ter bazo podatkov o
+distribucijskem omrežju in njihovo zaupnost.
+2. člen
+Ta pravilnik velja za družbe Elektro Celje, d.d., Elektro
+Gorenjska, d.d., Elektro Ljubljana, d.d., Elektro Maribor, d.d. in Elektro
+Primorska, d.d. in uporabnike distribucijskih omrežjj.
+3. člen
+Izrazi v tem pravilniku imajo naslednji pomen:
+-       
+izpad: je slučajen, z motnjo pogojen izklop dela omrežja;
+-       
+koncept zaščite: določa vrsto zaščitnih naprav, način vgradnje,
+vrednosti nastavitev in ostale zahteve glede na značilnosti omrežja;
+-       
+ločilno mesto: je mesto, namenjeno za povezavo ali ločitev med omrežjem,
+ki ga upravlja upravljalec distribucijskega omrežja in omrežjem, ki ga upravlja
+upravljalec prenosnega omrežja ali napravami uporabnikov;
+-       
+priključek: je sklop električnih vodov in naprav visoke, srednje ali
+nizke napetosti, s katerimi so uporabnikove elektroenergetske naprave povezane
+z distribucijskim omrežjem. Sestavljen je iz zunanjega in notranjega
+priključka;
+-       
+merilne naprave: so naprave za merjenje in registracijo porabe
+električne energije, ki morajo ustrezati zakonsko določenim zahtevam;
+-       
+fazni faktor cos: je razmerje med delovno močjo P in navidezno močjo S;
+-       
+moteno obratovanje in razpad: so vsa stanja omrežja, ki pomenijo razliko
+od normalnega obratovanja;
+-       
+motnje pri obratovanju: pomenijo stanje, ko niso napajani vsi odjemalci
+ali ko kakovost električne energije odstopa od referenčnih vrednosti;
+-       
+normalno obratovanje: je napajanje vseh odjemalcev, pri čemer so vse
+veličine v dovoljenih mejah;
+-       
+odjemalec: je pravna ali fizična oseba, ki je na pogodbeni osnovi
+oskrbovana z električno energijo. Ta izraz se uporablja le za prejemnike
+energije – tako upravičene kot tudi tarifne, ne pa tudi za proizvajalce;
+-       
+pogodba o dobavi električne energije: je pogodba, ki se sklene med
+dobaviteljem tarifnim odjemalcem in posameznim tarifnim odjemalcem. Ta pogodba
+vsebuje za vsako prevzemnopredajno mesto poleg količin električne energije tudi
+splošne in tehnične ter komercialne pogoje dobave;
+-       
+pogodba o dostopu do distribucijskega omrežja: je pogodba, ki jo
+skleneta upravljalec in uporabnik distribucijskega omrežja. Slednji s to
+pogodbo pridobi za določen čas zagotovljen dostop do omrežja za določeno
+količino energije ob določenem času in v določeni smeri. Pogoj za sklenitev te
+pogodbe je pogodba o nakupu ali prodaji električne energije;
+-       
+pogodba o priključitvi na distribucijsko omrežje: je pogodba, ki jo
+skleneta izvajalec distribucije električne energije in uporabnik
+distribucijskega omrežja ter z njo uredita vsa medsebojna razmerja v zvezi s
+plačilom priključka, njegovo izvedbo, ter s tem povezanimi premoženjskimi
+vprašanji, vzdrževanjem in druga medsebojna razmerja, ki zadevajo priključek;
+-       
+pogodba o kakovosti električne energije: je pogodba s katero se
+uporabnik in upravljalec distribucijskega omrežja dogovorita za nestandardno
+kakovost električne energije in druge posebne pogoje priključitve na
+distribucijsko omrežje;
+-       
+prevzemnopredajno mesto: je mesto, opremljeno z ustreznimi merilnimi
+napravami, ki zagotavljajo potrebne podatke za obračun električne energije in
+nadzor realizacije voznih redov;
+-       
+priključno mesto: je stično mesto proizvajalca ali odjemalca z javnim
+omrežjem. Uporabniki distribucijskega omrežja imajo lahko priključna mesta v
+več točkah prenosnega in distribucijskega omrežja;
+-       
+distribucijsko omrežje: je omrežje za razdeljevanje električne energije
+odjemalcem;
+-       
+distribucijski elektroenergetski sistem: so postroji in naprave za
+proizvodnjo, prenos in razdeljevanje električne energije, ki zagotavljajo
+vzdrževanje ravnotežja med proizvodnjo in porabo z ustreznimi regulacijami;
+-       
+stično mesto: je točka povezave med distribucijskim omrežjem in
+napravami uporabnika oziroma med dvema distribucijskima omrežjema;
+-       
+soglasje za priključitev: je soglasje, ki ga izda upravljalec
+distribucijskega omrežja, skladno z uredbo o splošnih pogojih za dobavo in
+odjem električne energije (Uradni list RS, št. 117/02 in 21/03 – popr.);
+-       
+interno navodilo je akt, s katerim upravljalec distribucijskega omrežja
+ureja področja, ki niso natančneje urejena v drugih predpisih, ki ga obvezujejo
+in določa naloge posameznih izvajalcev gospodarskih javnih služb v skladu s predpisi
+o izvajanju gospodarskih javnih služb s področja distribucije električne
+energije;
+-       
+tarifni odjemalec: je odjemalec, ki po določbah energetskega zakona ni
+upravičeni odjemalec;
+-       
+upravičeni odjemalec: je odjemalec, ki lahko prosto izbira dobavitelja,
+skladno z določbami energetskega zakona;
+-       
+uporabnik distribucijskega omrežja (v nadaljevanju: uporabnik): je
+pravna ali fizična oseba, ki ima po določbah energetskega zakona pravico
+dostopa do distribucijskega omrežja.
+4. člen
+Tehnične in organizacijske zahteve za priključitev, dostop in
+uporabo distribucijskega omrežja obsegajo standarde ter interna navodila
+javnega podjetja za distribucijo električne energije.
+5. člen
+Upravljalcu distribucijskega omrežja ta pravilnik služi kot
+osnova za urejanje enakopravnega dostopa uporabnikov do distribucijskega
+omrežja in na trg električne energije.
+6. člen
+Ta pravilnik določa minimalne zahteve za usklajeno delovanje
+distribucijskih omrežij s sosednjimi distribucijskimi omrežji, s prenosnim
+omrežjem, s proizvajalci električne energije in z omrežjem odjemalcev.
+Upravljalec distribucijskega omrežja lahko presega te minimalne zahteve, če na
+ta način dosega višji razred kakovosti opravljanja storitev.
+7. člen
+Določbe tega pravilnika se smiselno uporabljajo v postopku
+izdaje soglasja za priključitev in pri pripravi vseh potrebnih pogodb z
+uporabniki.
+II. NALOGE UPRAVLJALCA DISTRIBUCIJSKEGA OMREŽJA
+8. člen
+Upravljalec distribucijskega omrežja mora zagotavljati
+varnost in zanesljivost obratovanja distribucijskega omrežja tako, da je to
+sprejemljivo za okolje, ter kakovostno dobavo električne energije odjemalcem,
+skladno z izpolnjevanjem minimalnih tehničnih in organizacijskih zahtev za
+priključitev, dostop in uporabo distribucijskega omrežja.
+9. člen
+Upravljalec distribucijskega omrežja je dolžan skleniti
+pogodbo o prevzemu distribucijskega omrežja v upravljanje z vsako pravno ali
+fizično osebo, ki ima v skladu s predpisi pravico izvajati gospodarsko javno
+službo s področja distribucije električne energije.
+10. člen
+Meja pristojnosti upravljanja distribucijskega omrežja je od
+stičnega mesta med upravljalcem prenosnega omrežja in upravljalcem
+distribucijskega omrežja ter na drugi strani pri proizvajalcih in odjemalcih
+električne energije na priključnem mestu. Pri proizvajalcih električne energije
+vključuje pristojnost upravljalca distribucijskega omrežja tudi ločilno mesto.
+11. člen
+Upravljalec distribucijskega omrežja mora zagotavljati
+obratovanje tega omrežja in razdeljevati uporabnikom električno energijo
+predpisane oziroma dogovorjene kakovosti, zanesljivo in okolju sprejemljivo.
+12. člen
+Upravljalec distribucijskega omrežja mora nanj priključiti
+vse uporabnike v skladu z uredbo o splošnih pogojih za dobavo in odjem
+električne energije.
+13. člen
+Če sta zaradi razdeljevanja električne energije uporabnikom
+ogrožena normalno obratovanje distribucijskega omrežja in zanesljivost dobave
+električne energije, mora upravljalec distribucijskega omrežja ustrezno
+ukrepati za odpravo vzroka.
+14. člen
+Upravljalec distribucijskega omrežja lahko ustavi dobavo
+električne energije z odklopom od omrežja v primerih, ki jih določata
+energetski zakon in uredba o splošnih pogojih za dobavo in odjem električne
+energije.
+15. člen
+Če odjemalec s svojim odjemom presega v soglasju za
+priključitev dovoljeno priključno moč trikrat v obdobju enega leta, mora
+zaprositi za novo soglasje za priključitev za povečavo priključne moči, sicer
+lahko upravljalec distribucijskega omrežja, po predhodnem obvestilu ter preteku
+v njem določenega roka, ustavi dobavo električne energije.
+16. člen
+Upravljalec distribucijskega omrežja ima naslednje naloge:
+-       
+vodenje obratovanja distribucijskega omrežja,
+-       
+zagotavljanje sistemskih storitev,
+-       
+zagotavljanje priključitve na omrežje odjemalcem in proizvajalcem
+električne energije,
+-       
+zagotavljanje dostopa do omrežja odjemalcem in proizvajalcem električne
+energije,
+-       
+prednostno dispečiranje za kvalificirane proizvajalce, priključene na
+distribucijsko omrežje,
+-       
+načrtovanje, vzdrževanje in nadzor naprav za vodenje distribucijskega
+elektroenergetskega sistema,
+-       
+načrtovanje, vzdrževanje in nadzor zaščitnih naprav v distribucijskem
+elektroenergetskem sistemu ter analize,
+-       
+načrtovanje ter vzdrževanje naprav za spremljanje kakovosti električne
+energije,
+-       
+načrtovanje, vzdrževanje in nadzor telekomunikacijskih naprav,
+-       
+načrtovanje, vzdrževanje in nadzor naprav za zajem in prenos števčnih in
+obratovalnih meritev v distribucijskem elektroenergetskem sistemu,
+-       
+pridobivanje podatkov 15minutnih realiziranih vrednosti proizvodnje in
+odjema ter izračun realizacije odjemalcev brez registracijskih meritev po
+analitičnem postopku.
+17. člen
+Vodenje obratovanja distribucijskega elektroenergetskega
+sistema obsega zlasti:
+-       
+nadzor in krmiljenje distribucijskega elektroenergetskega sistema,
+-       
+izdelavo planov obratovanja distribucijskega elektroenergetskega
+sistema,
+-       
+koordinacijo vodenja obratovanja distribucijskega elektroenergetskega
+sistema s sosednjimi sistemi,
+-       
+optimizacijo obratovanja s spreminjanjem konfiguracije distribucijskega
+omrežja,
+-       
+zagotavljanje varnega in zanesljivega obratovanja distribucijskega
+elektroenergetskega sistema,
+-       
+koordiniranje vzdrževanja distribucijskega elektroenergetskega sistema
+in sosednjih sistemov, koordiniranje delovanja zaščite,
+-       
+koordiniranje dela z vzdrževalci na terenu in odzivanje na sporočila
+uporabnikov,
+-       
+izvajanje predpisanih ukrepov omejevanja obtežb in porabe,
+-       
+ustavitev dobave električne energije uporabnikom,
+-       
+analizo izpadov, okvar in izdelava obratovalne statistike,
+-       
+nadzor kakovosti električne energije,
+-       
+izdelavo ali potrjevanje internih obratovalnih navodil.
+III. STORITVE PRENOSA ELEKTRIČNE ENERGIJE PO DISTRIBUCIJSKEM
+OMREŽJU
+18. člen
+Uporabniki storitve prenosa električne energije po
+distribucijskem omrežju so proizvajalci, odjemalci in, v njihovem imenu,
+trgovci z električno energijo, zastopniki in posredniki.
+19. člen
+Upravljalec distribucijskega omrežja zagotavlja uporabnikom
+dostop do omrežja kot osnovo za zagotovitev električne moči in dobave energije
+na trgu električne energije na prevzemno-predajnih mestih v okviru izdanega
+soglasja za priključitev.
+20. člen
+Uporabnik sklene z upravljalcem distribucijskega omrežja
+pogodbo o dostopu do distribucijskega omrežja, s katero pridobi za določen čas
+zagotovljen dostop do distribucijskega omrežja za določeno količino energije ob
+določenem času in smeri. Pred sklenitvijo te pogodbe je potrebno pri
+upravljalcu distribucijskega omrežja vložiti zahtevo za dostop do
+distribucijskega omrežja, skladno z določili uredbe o splošnih pogojih za
+dobavo in odjem električne energije. Zahtevi je potrebno priložiti pogodbo o
+nakupu električne energije.
+21. člen
+V primeru okvar v omrežju in na napravah, izpadu proizvodnih
+virov in razpadu elektroenergetskega sistema se storitev distribucije
+električne energije izvaja z omejitvami ali prekinitvami.
+IV. SISTEMSKE STORITVE
+22. člen
+Sistemske storitve so nujno potrebne storitve za delovanje
+distribucijskega omrežja pri oskrbi odjemalcev z električno energijo. Za vse
+uporabnike jih opravlja upravljalec distribucijskega omrežja, ki skrbi za
+zagotovitev dobave električne energije ter kakovostno oskrbo odjemalcev.
+Sistemske storitve so:
+-       
+vodenje obratovanja distribucijskega elektroenergetskega sistema,
+-       
+regulacija napetosti,
+-       
+ponovna vzpostavitev oskrbe z električno energijo po okvarah ali razpadu
+elektroenergetskega sistema in
+-       
+zagotavljanje električne energije za pokrivanje izgub v omrežju.
+V okviru posebnih sistemskih storitev upravljalec
+distribucijskega omrežja za posamezne uporabnike individualno zagotavlja
+naslednje sistemske storitve:
+-       
+zagotavljanje jalove energije in
+-       
+zagotavljanje nadstandardne kakovosti električne energije.
+23. člen
+Če sistemske storitve za upravljalca distribucijskega omrežja
+individualno zagotavljajo proizvajalci ali odjemalci, jim pripada ustrezno
+nadomestilo s strani upravljalca distribucijskega omrežja, ki se določi v
+pogodbi o dostopu do distribucijskega omrežja.
+24. člen
+Upravljalec distribucijskega omrežja in upravičeni odjemalci
+se dogovorijo o medsebojnih pogojih za zagotovitev individualnih sistemskih
+storitev. Ti pogoji so sestavni del pogodbe o dostopu do distribucijskega
+omrežja, v nasprotnem primeru pa jih ureja pogodba o kakovosti električne
+energije.
+25. člen
+Sistemske storitve, ki jih ni mogoče individualizirati na
+proizvodni ali odjemni ravni, morajo plačevati vsi uporabniki, ki so
+priključeni na omrežje, skladno z določbami pravilnika o določitvi cen za
+uporabo elektroenergetskih omrežij in kriterijih za upravičenost stroškov
+(Uradni list RS, št. 30/01, 103/01, 48/02, 109/02 in 11/03).
+26. člen
+Upravljalec distribucijskega omrežja mora imeti zaradi
+zanesljivega obratovanja nadzor nad sistemskimi storitvami v distribucijskem
+omrežju.
+Upravljalec distribucijskega omrežja določa nosilce, ki
+zagotavljajo sistemske storitve v distribucijskem omrežju ob določenem času.
+27. člen
+Sistemska storitev vodenja obratovanja služi na posameznih
+napetostnih nivojih vsem neposredno in posredno priključenim uporabnikom.
+28. člen
+Regulacija napetosti ohranja napetostno ravnotežje znotraj
+predpisanih mej pri oskrbi z električno energijo, za katero odgovarjata
+upravljalec distribucijskega omrežja in upravljalec prenosnega omrežja.
+Sistemska storitev regulacije napetosti je na voljo vsem
+uporabnikom in ni individualnega značaja. Kadar uporabnik zahteva in naprave to
+omogočajo, se lahko regulacija napetosti izvaja kot individualna storitev.
+29. člen
+Upravljalec distribucijskega omrežja mora izravnavati in
+kompenzirati porabo jalove energije v svojih omrežjih, pri čemer mora s
+priključenimi proizvajalci in odjemalci doseči ustrezno kompenzacijo v omrežju.
+Upravljalec distribucijskega omrežja v soglasju za priključitev ali pogodbi o
+dostopu do distribucijskega omrežja določi odjemalcem in proizvajalcem pogoje
+kompenzacije tako, da je zagotovljena napetost v predpisanih mejah na ustreznih
+napetostnih nivojih in prevzemno-predajnih mestih.
+30. člen
+Uporabniki omrežja se lahko individualno dogovorijo z
+upravljalcem distribucijskega omrežja o prejemu ali dobavi jalove energije v
+pogodbi o dostopu do distribucijskega omrežja.
+31. člen
+Upravljalec distribucijskega omrežja mora, za zagotavljanje
+zanesljivega obratovanja omrežja in njegove ponovne vzpostavitve po razpadu ali
+okvari, izdelati predpise in navodila za preventivne in korektivne ukrepe ob
+izrednih obratovalnih stanjih.
+32. člen
+Sistemska storitev za ponovno vzpostavitev oskrbe z
+električno energijo služi vsem uporabnikom, ki so neposredno ali posredno
+priključeni na distribucijsko omrežje.
+V primeru višje zahtevane stopnje zanesljivosti oskrbe z
+električno energijo, kot je določeno v uredbi o splošnih pogojih za dobavo in
+odjem električne energije se uporabnik in upravljalec distribucijskega omrežja
+dogovorita o pogojih zagotavljanja take storitve v pogodbi o kakovosti
+električne energije.
+33. člen
+Upravljalec distribucijskega omrežja izračunava izgube
+električne energije v svojem distribucijskem omrežju. Za pokrivanje teh izgub
+lahko upravljalec distribucijskega omrežja sklene pogodbo neposredno s
+proizvajalci električne energije ali pa na organiziranem trgu električne
+energije. Nadomestilo za pokrivanje izgub električne energije v distribucijskem
+omrežju je sestavni del omrežnine.
+V. OBRATOVANJE DISTRIBUCIJSKEGA OMREŽJA
+34. člen
+Upravljalec distribucijskega omrežja skrbi za tehnološko
+posodabljanje sistema vodenja. Distribucijsko omrežje, ki ga vodi, mora biti
+tehnično-ekonomsko optimalno, zanesljivo in varno. Gospodarska javna služba za
+distribucijo električne energije mora zagotoviti ustrezno načrtovanje razvoja
+distribucijskega omrežja, njegovo izgradnjo ter vzdrževanje.
+35. člen
+V okvirih načrtovanja obratovanja skrbi upravljalec
+distribucijskega omrežja za vodenje obratovanja s hitrim obvladovanjem motenj
+in okvar, s čimer se smatra tudi vzdrževalna dela v distribucijskem omrežju in
+priključevanje novih delov le-tega. S tem v zvezi je naloga upravljalca
+distribucijskega omrežja pravočasno usklajevanje vzdrževanja postrojev
+proizvajalcev, prenosa in distribucije, z namenom zanesljivega obratovanja
+distribucijskega omrežja.
+36. člen
+Obratovanje distribucijskega omrežja načrtuje upravljalec
+distribucijskega omrežja v skladu s sigurnostnim kriterijem n-1, kjer to
+dopušča stanje zgrajenosti omrežja.
+37. člen
+Upravljalec distribucijskega omrežja sme začasno odstopiti od
+sigurnostnega kriterija n-1, če je to potrebno zaradi vzdrževalnih del,
+rekonstrukcij ali priključitev novih delov distribucijskega omrežja in
+postrojev.
+38. člen
+Vodenje obratovanja distribucijskega omrežja omogoča
+obvladovanje in omejevanje vpliva motenj in okvar v okviru razpoložljivih
+obratovalnih možnosti in mora biti skladno z določitvijo načrtovanja obratovanja.
+39. člen
+Za zagotovitev zanesljivega delovanja omrežja se morajo
+stikalne manipulacije izvajati po planu, ki se pripravi v sklopu načrtovanja
+vodenja obratovanja.
+40. člen
+Upravljalec distribucijskega omrežja skrbi za optimalne
+obremenitve v distribucijskem omrežju z ustreznim razklopom omrežja ob
+upoštevanju predpisanih napetostnih razmer.
+41. člen
+Naloge vodenja obratovanja distribucijskega omrežja
+operativno izvajajo distribucijski centri vodenja.
+42. člen
+Upravljalec distribucijskega omrežja vodi obratovanje svojega
+omrežja, pri čemer mora skrbeti, da se napetosti, bremenski in kratkostični
+toki ter druge veličine, ohranjajo v dovoljenih mejah.
+43. člen
+O napovedanih izklopih delov distribucijskega omrežja morajo
+biti obveščeni uporabniki in prizadeti upravljalci sosednjih distribucijskih
+omrežij, skladno z določili uredbe o splošnih pogojih za dobavo in odjem
+električne energije.
+44. člen
+Upravljalec distribucijskega omrežja mora, v primeru motenj
+ali razpada energetskega sistema, izvesti vse potrebne stikalne manipulacije,
+da se motnje ali posledice razpada omejijo ali odpravijo ter se ponovno
+zagotovita preskrba odjemalcev, z električno energijo, in zanesljivo delovanje
+distribucijskega omrežja. Le-to ima prednost pred posebnimi in posamičnimi interesi
+uporabnikov.
+45. člen
+Upravljalec distribucijskega omrežja izdela interna navodila
+za nadzor ter ukrepanje ob motnjah ali razpadih energetskega sistema. Te ukrepe
+koordinira z upravljalcem prenosnega omrežja, uporabniki in upravljalci
+sosednjih distribucijskih omrežij.
+46. člen
+Če se v distribucijskem omrežju pojavijo preobremenitve, mora
+upravljalec distribucijskega omrežja izvesti vse potrebne ukrepe za
+vzpostavitev obratovalnega stanja, v katerem bodo naprave obratovale v okviru
+dopustnih obremenitev, ob ustrezni kakovosti električne energije.
+47. člen
+Dopustne vrednosti električne napetosti v distribucijskem
+omrežju določa standard SIST EN 50160. Izjemoma sme, skladno z določili točke
+1.1 tega standarda, pri začasnih vzpostavitvah nenormalnih stanj
+distribucijskega omrežja napetost odstopati od nazivne napetosti za večji
+odstotek, vendar ne več kot 15%.
+48. člen
+Upravljalec distribucijskega omrežja izvaja potrebne ukrepe
+za vzdrževanje napetosti, h katerim sodi tudi pogodbeno dogovorjeno
+razbremenjevanje distribucijskega omrežja.
+49. člen
+Če obstaja nevarnost, da se motnja v obratovanju
+elektroenergetskega sistema razširi, je upravljalec distribucijskega omrežja
+upravičen izklopiti določene dele distribucijskega omrežja za čas, ki je nujno
+potreben, da se ta nevarnost odpravi.
+50. člen
+Ob ogrozitvi zanesljivosti obratovanja ali obstoja nevarnosti
+razpada elektroenergetskega sistema, je upravljalec distribucijskega omrežja
+dolžan, skladno z navodili upravljalca prenosnega omrežja in z uredbo o
+omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu,
+(Uradni list RS, št. 42/95, 64/95 in 79/99-EZ), omejevati moč in porabo
+odjemalcev, in sicer:
+-       
+zaradi preprečitve razpada elektroenergetskega sistema,
+-       
+zaradi izpada večjih proizvodnih zmogljivosti ali zaradi znižanja
+proizvodnje električne energije iz ekoloških razlogov in
+-       
+zaradi pomanjkanja električne energije.
+51. člen
+Pri prekoračitvah dovoljenih obremenitev v kriznih
+obratovalnih stanjih distribucijskega omrežja mora upravljalec distribucijskega
+omrežja izvajati ustrezne ukrepe za to, da se v najkrajšem možnem času zagotovi
+oskrba čim večjega števila odjemalcev. V primeru nespoštovanja omejevanja
+porabe električne energije, upravljalec distribucijskega omrežja izstavi račun
+za nastale stroške tistim uporabnikom, ki niso ravnali v skladu z uredbo o
+omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu.
+VI. RAZVOJ DISTRIBUCIJSKEGA OMREŽJA IN IZMENJAVA PODATKOV
+52. člen
+Upravljalec distribucijskega omrežja zagotavlja dostop do
+distribucijskega omrežja, prenosno zmogljivost, obvladovanje kratkostičnih
+tokov ter varno in zanesljivo obratovanje distribucijskega omrežja.
+53. člen
+Upravljalec distribucijskega omrežja mora izvajati analize
+zasedenosti omrežja ter posredovati podatke in rezultate distributerju
+električne energije, ki vsaki dve leti pripravi načrt razvoja distribucijskega
+omrežja.
+54. člen
+Koncept varnosti in zanesljivosti mora biti usklajen s
+tehničnimi in obratovalnimi pogoji distribucijskih omrežij, posebej na
+povezovalnih mestih s postroji proizvajalcev in odjemalcev, prenosnim omrežjem
+in omrežji sosednjih distribucijskih podjetij.
+55. člen
+Upravljalec distribucijskega omrežja določi potrebne tehnične
+parametre za zaščitne, telekomunikacijske in teleinformacijske naprave, ki
+morajo pravilno funkcionirati v vseh obratovalnih razmerah.
+56. člen
+Upravljalec distribucijskega omrežja prilagodi zaščito,
+telekomunikacije, teleinformatiko in avtomatiko, značilnim obratovalnim
+razmeram ob motnjah in okvarah z nastavitvami in preizkusi. Koncept zaščite
+mora zajemati ločilna mesta med distribucijskim omrežjem ter prenosnim
+omrežjem, postroji proizvajalcev in odjemalcev.
+57. člen
+Koncepti zaščite morajo biti usklajeni s sosednjimi omrežji.
+58. člen
+Distributer električne energije mora na 110 kV nivoju graditi
+svoje omrežje in postroje po sigurnostnem kriteriju n-1.
+Sigurnostni kriterij n-1 je v 110 kV omrežjih izpolnjen, če
+je ob izpadu 110 kV voda, postroja ali transformatorja mogoče v kratkem času
+preprečiti:
+-       
+stalno prekoračitev obremenitve elementov distribucijskega
+elektroenergetskega sistema, ki lahko ogrozijo sigurnost distribucijskega elektroenergetskega
+sistema, možnost okvar in zmanjševanje življenjske dobe distribucijskega
+elektroenergetskega sistema in
+-       
+daljšo prekinitev dobave električne energije kljub razpoložljivi rezervi
+na nižjih napetostnih nivojih distribucijskega omrežja.
+59. člen
+Na srednje napetostnem nivoju se omrežje praviloma gradi v
+obliki zank po sigurnostnem kriteriju n-1 v skladu s cilji razvoja
+distribucijskega omrežja, to je zviševanja kakovosti dobave električne
+energije.
+Sigurnostni kriterij n-1 je v srednje napetostnih omrežjih
+izpolnjen, če je ob izpadu srednje napetostnega voda ali postroja možno
+preprečiti:
+-       
+stalno prekoračitev obremenitve elementov distribucijskega
+elektroenergetskega sistema v srednje napetostnem omrežju in
+-       
+daljšo prekinitev dobave električne energije izven okvarjenega sektorja
+v zazankanem srednje napetostnem omrežju.
+60. člen
+Na nizkonapetostnem nivoju se omrežje praviloma ne gradi v
+obliki zank po sigurnostnem kriteriju n-1, razen če je to potrebno zaradi
+zahteve uporabnika po nadstandardni kakovosti, pri čemer stroške za zadostitev
+teh zahtev krije praviloma uporabnik.
+61. člen
+Sigurnostni kriterij n-1 zajema izpad le enega elementa
+distribucijskega elektroenergetskega sistema, pri tem se po strožjem kriteriju
+n-1 dvosistemski daljnovod šteje kot en element.
+62. člen
+Distributer električne energije, upravljalec distribucijskega
+omrežja, upravljalec prenosnega omrežja in dobavitelj električne energije
+tarifnim odjemalcem si izmenjujejo podatke za potrebe načrtovanja obratovanja
+in razvoja.
+63. člen
+Podatke iz prejšnjega člena se lahko pridobiva iz soglasij o
+priključitvi, pogodb o priključitvi in pogodb o dostopu do distribucijskega
+omrežja.
+64. člen
+Upravljalec distribucijskega omrežja izmenjuje z upravljalcem
+prenosnega omrežja podatke, odčitane na stičnih mestih, in sicer:
+-       
+vrednosti tokov, napetosti, moči in električne energije,
+-       
+položajne signalizacije stikalnih naprav,
+-       
+podatke o delovanju zaščite,
+-       
+druge podatke o dogajanjih na stičnih mestih in
+-       
+podatke o kakovosti električne energije.
+VII. PRIKLJUČITEV NA DISTRIBUCIJSKO OMREŽJE
+65. člen
+Pogoje in postopek za priključitev na distribucijsko omrežje
+določa uredba o splošnih pogojih za dobavo in odjem električne energije.
+66. člen
+Postroji proizvajalcev in odjemalcev električne energije se
+morajo projektirati, graditi in obratovati tako, da njihovi povratni vplivi,
+kot na primer utripanje napetosti, nesimetrija in višje harmonske frekvence in
+podobno, ne presegajo nivojev, ki jih predpiše upravljalec distribucijskega
+omrežja v soglasju za priključitev. Zagotovljena mora biti odpornost proti
+motnjam in vplivom, kot to določajo norme in standardi ter upoštevan kriterij
+kakovosti električne energije, ki ga določa uredba o splošnih pogojih za dobavo
+in odjem električne energije.
+67. člen
+Pred izdelavo novega priključka je potrebno določiti dopusten
+nivo motenj naprav uporabnikov distribucijskega omrežja. Mejne vrednosti teh
+motenj določi upravljalec distribucijskega omrežja v soglasju za priključitev.
+V primeru, ko so povratni vplivi, ki jih povzročajo spremembe na postrojih
+uporabnika, višji od dopustnih, naloži upravljalec distribucijskega omrežja
+uporabniku distribucijskega omrežja odpravo le-teh.
+Upravljalec distribucijskega omrežja lahko zahteva
+preverjanje povratnih vplivov uporabnikovih naprav z meritvami.
+68. člen
+Postroji naprav uporabnikov distribucijskega omrežja ne smejo
+ovirati prenosa informacij in krmilnih signalov po distribucijskem omrežju.
+69. člen
+Proizvajalci električne energije in lastnikih zasilnih
+agregatov, katerih električna napeljava je priključena na distribucijsko
+omrežje, potrebujejo, s strani upravljalca distribucijskega omrežja, soglasje
+za priključitev, v katerem se določi zaščita pred povratnim napajanjem.
+Proizvajalci električne energije morajo zagotavljati vrednost
+faznega faktorja z ozirom na zahteve upravljalca distribucijskega omrežja, ki
+so odvisne od razmer v distribucijskem omrežju.
+70. člen
+Odjemalci morajo na priključnem mestu zagotoviti velikost
+faznega faktorja od cos ? = 1,0 do cos ? = 0,95 induktivno.
+71. člen
+Prevzemno-predajna mesta in postroji proizvajalcev električne
+energije, priključenih na distribucijsko omrežje, morajo biti zgrajeni skladno
+s soglasjem za priključitev in z upoštevanjem standardov in predpisov.
+72. člen
+Priključitev elektroenergetskih objektov uporabnika na
+elektroenergetsko omrežje izvajalca dejavnosti distribucije lahko izvede le
+pooblaščeni predstavnik upravljalca distribucijskega omrežja.
+73. člen
+Obvezni sestavni del zaprosila za priključitev objektov za
+proizvodnjo električne energije, elektroenergetskih objektov odjemalcev s
+priključno močjo nad 5 MW in elektroenergetskih objektov odjemalcev, ki jih
+morajo upravljati delavci za katere je obvezno usposabljanje in preizkus znanja
+skladno s pravilnikom o strokovni izobrazbi, delovnih izkušnjah ter obveznem
+usposabljanju in načinu preizkusa znanja delavcev, ki opravljajo dela in naloge
+upravljanja energetskih naprav (Uradni list SRS, št. 30/83, 31/84 in 1/87 in
+Uradni list RS, št. 79/99 – EZ in 31/00 – ZP-L), so obratovalna navodila, izdelana
+skladno z določbo 30. člena uredbe o splošnih pogojih za dobavo in odjem
+električne energije.
+74. člen
+Obratovalna navodila iz prejšnjega člena izdela uporabnik.
+Veljavna postanejo, ko jih potrdi upravljalec distribucijskega omrežja,
+vsebovati pa morajo:
+-       
+splošne podatke o proizvajalcu oziroma odjemalcu,
+-       
+podrobne podatke o vseh napravah z enopolno shemo,
+-       
+ime in funkcijo pooblaščenih oseb,
+-       
+pravice in dolžnosti obeh partnerjev,
+-       
+opis potrebnih stikalnih manipulacij,
+-       
+določitev načina dostopa upravljalca distribucijskega omrežja do naprav
+in
+-       
+varnostna določila.
+75. člen
+Upravljalec distribucijskega omrežja v soglasju za
+priključitev določa postopke in pogoje za priključevanje proizvajalcev na
+distribucijsko omrežje, skladno z navodili za priključevanje in obratovanje
+elektrarn inštalirane moči do 10 MVA, ki jih objavi na krajevno običajen način,
+in uredbo o splošnih pogojih za dobavo in odjem električne energije.
+76. člen
+Upravljalec distribucijskega omrežja lahko dovoli otočno
+obratovanje proizvajalcem električne energije, priključenim na distribucijsko
+omrežje v primerih, ko izpolnjujejo pogoje, ki so določeni za tak način
+obratovanja, in so za to, s strani upravljalca distribucijskega omrežja,
+izdelana posebna navodila.
+77. člen
+Ob priključevanju proizvodnih enot na 110 kV distribucijsko
+omrežje je potrebno upoštevati tudi določbe predpisa, ki ureja obratovalna
+navodila prenosnega omrežja za električno energijo.
+VIII. POGOJI ZA DOSTOP DO DISTRIBUCIJSKEGA OMREŽJA
+1. Postopek uveljavitve dostopa do distribucijskega omrežja
+78. člen
+Upravičeni odjemalci in proizvajalci električne energije
+imajo pravico dostopa do distribucijskega omrežja, razen če jim upravljalec
+distribucijskega omrežja dostopa ne dovoli.
+Dostop do distribucijskega omrežja ureja uredba o splošnih pogojih
+za dobavo in odjem električne energije.
+79. člen
+Razmerja med upravljalcem distribucijskega omrežja in
+uporabnikom ureja pogodba o dostopu do distribucijskega omrežja.
+Upravljalec distribucijskega omrežja mora uporabniku
+distribucijskega omrežja posredovati v podpis pogodbo o dostopu do
+distribucijskega omrežja najkasneje deset delovnih dni po prejemu popolne
+zahteve za dostop do distribucijskega omrežja. Dostop do distribucijskega
+omrežja mora upravljalec distribucijskega omrežja zagotoviti uporabniku
+najkasneje pet delovnih dni po prejemu podpisane in veljavne pogodbe.
+80. člen
+S pogodbo o dostopu do distribucijskega omrežja, ki jo
+skleneta upravljalec distribucijskega omrežja in uporabnik omrežja, pridobi
+uporabnik za določen čas zagotovljen dostop do distribucijskega omrežja za
+določeno količino energije ob določenem času in v določeni smeri na točno
+določenih prevzemno-predajnih mestih. Upravljalec distribucijskega omrežja s
+pogodbo o dostopu do distribucijskega omrežja odobri pravico dostopa do največje
+moči, ki jo določa soglasje o priključitvi.
+81. člen
+Upravljalec distribucijskega omrežja je dolžan skleniti
+pogodbo o dostopu do distribucijskega omrežja tudi v primeru, ko v postopku
+reševanja spora tako odloči Agencija za energijo Republike Slovenije.
+82. člen
+V primeru, da se električna energija prenaša po več
+distribucijskih omrežjih mora vsak izmed upravljalcev le-teh raziskati
+izvedljivost prenosa v okviru razpoložljivih obratovalnih pogojev, s prenosom
+električne energije pa morajo soglašati vsi prizadeti upravljalci
+distribucijskih omrežij.
+Prenos iz prejšnjega odstavka podrobno urejajo navodila za
+obratovanje sosednjih distribucijskih omrežij.
+83. člen
+Na ločilnih mestih med distribucijskima omrežjema dveh
+upravljalcev morajo biti vgrajene merilne naprave, ki omogočajo merjenje in
+registracijo 15-minutnih vrednosti delovne in jalove energije ter daljinski
+prenos podatkov do upravljalcev distribucijskega omrežja.
+84. člen
+Upravljalec distribucijskega omrežja določi proizvajalcu
+električne energije omejitve voznega reda v okviru izdanega soglasja za
+priključitev ter v skladu z energetskimi in tehničnimi pogoji v omrežju, na
+katerega je ta proizvajalec priključen.
+85. člen
+Ne glede na dogovorjene pogoje dobave električne energije,
+lahko upravljalec distribucijskega omrežja pri preobremenitvah in v kriznem
+stanju elektroenergetskega sistema izvaja omejevanje porabe električne energije
+in moči, tako, da čim večjemu številu odjemalcev zagotavlja dobavo električne
+energije, v skladu z uredbo o omejevanju obtežb in porabe električne energije v
+elektroenergetskem sistemu.
+86. člen
+Uporabnik nima pravice do uveljavljanja odškodnine zaradi
+škode, nastale zaradi ravnanja upravljalca distribucijskega omrežja v kriznem
+stanju elektroenergetskega sistema, če upravljalec distribucijskega omrežja
+ravna v skladu z določili prejšnjega člena.
+2. Tarifni odjemalci
+87. člen
+Dobavitelj električne energije tarifnim odjemalcem je dolžan
+v skladu z uredbo o splošnih pogojih za dobavo in odjem električne energije
+skleniti dobavno pogodbo z vsakim tarifnim odjemalcem, priključenim na
+distribucijsko omrežje.
+88. člen
+Za tarifne odjemalce sklene, z upravljalcem distribucijskega
+omrežja, pogodbo o dostopu do distribucijskega omrežja, dobavitelj tarifnim
+odjemalcem.
+Za zagotavljanje varnosti dobave tarifnim odjemalcem se, na
+način iz prejšnjega odstavka, sklepajo ustrezne dolgoročne pogodbe o dostopu do
+distribucijskega omrežja ter ustrezne dolgoročne pogodbe o nakupu električne
+energije.
+3. Odstopanja od voznega reda
+89. člen
+Uporabnik je dolžan upoštevati vozni red, ki je osnova za
+sklenitev pogodbe o nakupu ali prodaji električne energije.
+Osnovo za obračun odstopanj od voznih redov se določi s
+pravilnikom o načinu obračunavanja odstopanj oddaje ali odjema električne
+energije od voznih redov (Uradni list RS, št. 83/02).
+90. člen
+Za nadzor in obračun odstopanj od voznega reda ugotavlja
+upravljalec distribucijskega omrežja dejanske srednje vrednosti moči za
+15-minutne bloke na prevzemno-predajnih mestih, jih sešteva po bilančnih skupinah,
+ločeno za proizvodnjo in odjem, in jih posreduje upravljalcu prenosnega
+omrežja.
+Za uporabnike brez registracijskih meritev upravljalec
+distribucijskega omrežja izračuna realizacijo odjema po analitičnem postopku.
+4. Plačilo dostopa do omrežja
+91. člen
+Cena za uporabo distribucijskega omrežja je določena s
+pravilnikom o določitvi cen za uporabo elektroenergetskih omrežij in kriterijih
+za upravičenost stroškov.
+IX. BAZA PODATKOV, ANALIZE, POROČILA IN OBJAVE
+1. Baza podatkov in njihova zaupnost
+92. člen
+Izvajalec distribucije električne energije je odgovoren za
+sprotno vzdrževanje baze tehničnih podatkov o postrojih in napravah v njegovi
+lasti in je dolžan upravljalcu distribucijskega omrežja nuditi podatke o
+distribucijskem omrežju, postrojih in napravah ter postrojih uporabnikov.
+Upravljalec distribucijskega omrežja je dolžan od izvajalca
+distribucije električne energije zahtevati odpravo napak in pomanjkljivosti
+podatkov iz prejšnjega odstavka.
+93. člen
+Upravljalec distribucijskega omrežja z upravljalcem
+prenosnega omrežja in upravljavci sosednjih distribucijskih omrežij izmenjuje
+tehnične podatke o postrojih, ki so vezani na prevzemno-predajna mesta.
+94. člen
+Upravljalec distribucijskega omrežja je odgovoren za sprotno
+vzdrževanje naslednjih baz:
+-       
+obratovalnih podatkov,
+-       
+podatkov o priključitvah,
+-       
+podatkov o dostopih do distribucijskega omrežja,
+-       
+podatkov o proizvajalcih električne energije,
+-       
+podatkov o upravičenih odjemalcih,
+-       
+podatkov o kakovosti električne energije in
+-       
+podatkov o merilnih, zaščitnih, telekomunikacijskih napravah in napravah
+daljinskega vodenja.
+95. člen
+Upravljalec distribucijskega omrežja sproti pridobiva za
+načrtovanje, izračune, vodenje obratovanja in analize podatke o:
+-       
+parametrih napetosti na prevzemnopredajnih mestih;
+-       
+obremenitvah vodov;
+-       
+stikalnem stanju distribucijskega omrežja,
+-       
+pretokih moči,
+-       
+stanju elementov distribucijskega omrežja
+-       
+proizvajalcih električne energije, ki so priključeni na distribucijsko
+omrežje,
+-       
+postrojih in napravah upravičenih odjemalcev;
+-       
+ponudnikih sistemskih storitev in
+-       
+tarifnih odjemalcih.
+96. člen
+Upravljalec prenosnega omrežja, proizvajalci električne
+energije, upravičeni odjemalci in upravljalci distribucijskih omrežij, s
+katerimi ima upravljalec distribucijskega omrežja skupna prevzemno-predajna
+mesta, so dolžni podatke iz prejšnjega člena, s katerimi razpolagajo, sproti
+sporočati upravljalcu distribucijskega omrežja.
+97. člen
+Upravljalec distribucijskega omrežja mora posredovati
+upravljalcu prenosnega omrežja vse potrebne podatke, ki omogočajo zagotovitev varnega
+in zanesljivega obratovanja omrežij in njihovo usklajeno obratovanje.
+98. člen
+Vsi upravljalci distribucijskih omrežij so dolžni, skladno s
+35. členom uredbe o načinu izvajanja gospodarskih javnih služb s področja
+distribucije električne energije (Uradni list RS, št. 54/00, 31/00, 99/01 in
+96/03), pri zajemanju in vodenju operativnih podatkov o uporabnikih omrežja:
+-       
+zbirati in voditi iste podatke na enak način,
+-       
+uporabljati enak format zajemanja podatkov,
+-       
+v ta namen uporabljati kompatibilno programsko opremo in
+-       
+uporabljati enotne parametre, načine in postopke zbiranja in vodenja
+podatkov tako, da je omogočena takojšnja in nemotena izmenjava vseh podatkov.
+99. člen
+Upravljalec distribucijskega omrežja mora s podatki in
+informacijami, ki jih dobi od uporabnikov, ravnati v skladu s predpisi o
+ravnanju z osebnimi podatki.
+2. Analize, poročila in objave
+100. člen
+Upravljalec distribucijskega omrežja je dolžan objaviti in
+izvajati spodbujevalne programe učinkovite rabe električne energije.
+101. člen
+Upravljalec distribucijskega omrežja izdeluje mesečna in
+letna poročila o obremenitvah in zasedenosti distribucijskega
+elektroenergetskega sistema.
+102. člen
+Upravljalec distribucijskega omrežja je dolžan beležiti vse
+dogodke na distribucijskem omrežju in izdelovati dnevna, letna in poročila na
+zahtevo uporabnikov ter inšpekcijskih služb.
+Upravljalec distribucijskega omrežja o nepredvidenih dogodkih
+praviloma opravi analizo in izdela poročilo, ki služi kot podlaga za razvoj
+omrežja in informacija uporabnikom.
+103. člen
+Upravljalec distribucijskega omrežja dostavlja letna poročila
+o dogodkih, obremenitvah in stanju kakovosti električne energije v
+distribucijskem elektroenergetskem omrežju izvajalcu distribucije električne
+energije, Agenciji za energijo Republike Slovenije in po potrebi ostalim
+udeležencem v procesu prenosa električne energije po distribucijskem omrežju.
+104. člen
+Upravljalec distribucijskega omrežja mora v petnajstih dneh
+po izteku koledarskega leta izdelati poračun stroškov v zvezi s prednostnim
+dispečiranjem in ga predložiti upravljalcu prenosnega omrežja in Agenciji za
+energijo Republike Slovenije.
+X. PREHODNE IN KONČNE DOLOČBE
+105. člen
+Z dnem uveljavitve tega pravilnika preneha veljati navodilo o
+sistemskem obratovanju distribucijskega omrežja za električno energijo (Uradni
+list RS, št. 15/02).
+106. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 311-02-36/2003
+Ljubljana, dne 24. novembra 2003.
+EVA 2003-2511-0208
+Minister
+za okolje, prostor in energijo
+mag. Janez Kopač l. r.

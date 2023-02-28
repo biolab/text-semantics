@@ -1,0 +1,187 @@
+1. člen
+(predmet urejanja)
+Ta sklep ureja slovensko strukturo mednarodne številke
+bančnega računa (International Bank Account Number; v nadaljevanju IBAN). IBAN
+v slovenski strukturi lahko dodeljujejo samo ponudniki plačilnih storitev s
+sedežem v Republiki Sloveniji in ponudniki plačilnih storitev, ki opravljajo
+plačilne storitve preko podružnice v Republiki Sloveniji, v povezavi z
+opravljanjem bančnih in finančnih storitev ter dodatnih in drugih finančnih
+storitev, kot so opredeljene v 5. in 6. členu Zakona o bančništvu (Uradni list
+RS, št. 25/15, 44/16 – ZRPPB in 77/16 – ZCKR, v nadaljevanju: ZBan-2).
+2. člen
+(pojmi)
+Pojmi, uporabljeni v tem sklepu, imajo enak pomen kot v
+zakonu, ki ureja bančništvo, in v zakonu, ki ureja plačilne storitve in
+sisteme.
+3. člen
+(označevanje plačilnih in transakcijskih računov pri
+ponudnikih plačilnih storitev)
+Ponudniki plačilnih storitev lahko slovensko strukturo IBAN,
+kot je določena v tem sklepu, če ni drugače določeno s posebnim predpisom,
+uporabljajo pri:
+-       
+označevanju plačilnih računov,
+-       
+izvajanju drugih storitev iz 1. člena tega sklepa.
+Pri uporabi slovenske strukture IBAN v okviru izvajanja
+poslov v zvezi s storitvami iz 1. člena tega sklepa morajo ponudniki plačilnih
+storitev smiselno upoštevati ista pravila, kot so s tem sklepom določena za
+označevanje plačilnih računov.
+Ponudniki plačilnih storitev morajo označevati transakcijske
+račune v slovenski strukturi IBAN, kot je določeno v tem sklepu, če ni drugače
+določeno s posebnim predpisom.
+Ponudnik plačilnih storitev ne sme dodeliti posameznemu
+plačilnemu računu enake številke plačilnega računa, kot jo ima ali jo je imel
+drug plačilni račun pri tem ponudniku plačilnih storitev, razen če je od
+zaprtja tega računa minilo najmanj 10 let.
+4. člen
+(številka plačilnega računa)
+Številka plačilnega računa je oblikovana v strukturi IBAN, ki
+je določena s standardom ISO 13616.
+Številka plačilnega računa je sestavljena iz 19 črkovnih in
+numeričnih znakov, ki so razdeljeni v naslednje sklope, v zapisanem zaporedju:
+1.     
+oznaka države – Slovenije (d),
+2.     
+kontrolna številka plačilnega računa (e) in
+3.     
+del številke plačilnega računa, ki šteje kot osnovna številka bančnega
+računa (Basic Bank Account Number; v nadaljevanju BBAN) znotraj strukture IBAN
+in je razdeljen v naslednje sklope, v zapisanem zaporedju:
+- 
+nacionalna identifikacijska oznaka ponudnika plačilnih storitev (b),
+- 
+identifikacijska oznaka imetnika plačilnega računa pri ponudniku
+plačilnih storitev (a) in
+- 
+kontrolna številka BBAN (c).
+5. člen
+(oznaka države)
+Oznaka države – Slovenije (d) je določena po standardu ISO
+3166 in je sestavljena iz 2 črkovnih znakov: »SI«.
+6. člen
+(kontrolna številka plačilnega računa)
+Kontrolna številka plačilnega računa (e) je sestavljena iz 2
+numeričnih znakov. Za izračun kontrolne številke plačilnega računa se uporablja
+standard ISO 7064, MOD 97-10.
+Primer izračuna kontrolne številke plačilnega računa je v
+prilogi 1 k temu sklepu.
+7. člen
+(nacionalna identifikacijska oznaka ponudnika plačilnih
+storitev)
+Nacionalna identifikacijska oznaka ponudnika plačilnih
+storitev (b) je sestavljena iz petih numeričnih znakov, ki so razdeljeni v
+naslednja dva sklopa, v zapisanem zaporedju:
+-       
+dvomestna identifikacijska oznaka ponudnika plačilnih storitev (b1) in
+-       
+trimestna identifikacijska oznaka organizacijske enote ponudnika
+plačilnih storitev (b2).
+Dvomestno identifikacijsko oznako ponudnika plačilnih
+storitev (b1) na podlagi zahteve ponudnika plačilnih storitev določi Banka
+Slovenije. Eno ali več trimestnih identifikacijskih oznak organizacijske enote
+ponudnika plačilnih storitev (b2) določi ponudnik plačilnih storitev sam.
+Banka Slovenije posameznemu ponudniku plačilnih storitev
+določi eno dvomestno identifikacijsko oznako ponudnika plačilnih storitev (b1).
+Posamezen ponudnik plačilnih storitev ima lahko več dvomestnih
+identifikacijskih oznak, če kot prevzemni ponudnik plačilnih storitev v primeru
+združitve ponudnikov plačilnih storitev ali druge oblike statusnega
+preoblikovanja z enakim učinkom prevzame obstoječo dvomestno identifikacijsko
+oznako prevzetega ponudnika plačilnih storitev.
+O vsaki nameri prevzema dvomestne identifikacijske oznake v
+skladu s prejšnjim odstavkom je dolžan prevzemni ponudnik plačilnih storitev
+obvestiti Banko Slovenije najmanj tri mesece pred nameravanim prevzemom.
+8. člen
+(nacionalna identifikacijska oznaka plačilne institucije,
+plačilne institucije z opustitvijo, družbe za izdajo elektronskega denarja ali
+družbe za izdajo elektronskega denarja z opustitvijo)
+Ne glede na določbe 7. člena tega sklepa Banka Slovenije
+ponudniku plačilnih storitev, ki je plačilna institucija, plačilna institucija
+z opustitvijo, družba za izdajo elektronskega denarja ali družba za izdajo
+elektronskega denarja z opustitvijo, na podlagi njegove zahteve določi
+nacionalno identifikacijsko oznako (b), ki je sestavljena iz petih numeričnih
+znakov.
+Nacionalna identifikacijska oznaka plačilne institucije,
+plačilne institucije z opustitvijo, družbe za izdajo elektronskega denarja ali
+družbe za izdajo elektronskega denarja z opustitvijo je sestavljena iz dvomestne
+identifikacijske oznake (b1), ki je pri vseh plačilnih institucijah, plačilnih
+institucijah z opustitvijo, družbah za izdajo elektronskega denarja ali družbah
+za izdajo elektronskega denarja z opustitvijo enaka »91«, ter trimestne
+identifikacijske oznake (b2), ki označuje posamezno plačilno institucijo,
+plačilno institucijo z opustitvijo, družbo za izdajo elektronskega denarja ali
+družbo za izdajo elektronskega denarja z opustitvijo.
+Nacionalna identifikacijska oznaka plačilne institucije,
+plačilne institucije z opustitvijo, družbe za izdajo elektronskega denarja ali
+družbe za izdajo elektronskega denarja z opustitvijo ne vsebuje
+identifikacijskih oznak njenih organizacijskih enot.
+9. člen
+(identifikacijska oznaka imetnika plačilnega računa pri
+ponudniku plačilnih storitev)
+Identifikacijska oznaka imetnika plačilnega računa pri
+ponudniku plačilnih storitev (a) je sestavljena iz osmih numeričnih znakov in
+jo določi posamezni ponudnik plačilnih storitev, ki vodi plačilni račun
+imetnika.
+10. člen
+(kontrolna številka BBAN)
+Kontrolna številka BBAN (c) je sestavljena iz 2 numeričnih
+znakov. Za izračun kontrolne številke BBAN se uporablja poenostavljen postopek
+standarda ISO 7064, MOD 97-10.
+Primer izračuna kontrolne številke BBAN je v prilogi 1 k temu
+sklepu.
+11. člen
+(zapis)
+Številka plačilnega računa se zapiše v naslednji obliki:
+1.     
+elektronski zapis: znaki si sledijo brez presledkov ali ločilnih znakov
+(d)(d)(e)(e)(b)(b)(b)(b)(b)(a)(a)(a)(a)(a)(a)(a)(a)(c)(c),
+2.     
+vizualni zapis: znaki se zapišejo v skupinah po štiri znake s presledki
+(d)(d)(e)(e) (b)(b)(b)(b) (b)(a)(a)(a)
+(a)(a)(a)(a) (a)(c)(c).
+Prikaz in primera zapisa številke plačilnega računa sta v
+prilogi 2 k temu sklepu.
+12. člen
+(seznam identifikacijskih oznak ponudnikov plačilnih
+storitev)
+Seznam identifikacijskih oznak ponudnikov plačilnih storitev
+vsebuje naslednje podatke:
+(i)     nacionalno
+identifikacijsko oznako ponudnika plačilnih storitev (b),
+(ii)    naziv
+ponudnika plačilnih storitev,
+(iii)   naslov (ulico
+in hišno številko) ponudnika plačilnih storitev,
+(iv)   poštno številko,
+(v)    kraj in
+(vi)   pripadajočo
+enajstmestno poslovno identifikacijsko kodo (Business Identifier Code).
+Seznam identifikacijskih oznak ponudnikov plačilnih storitev
+je objavljen na spletni strani Banke Slovenije.
+13. člen
+(obveznosti ponudnika plačilnih storitev)
+Ponudnik plačilnih storitev mora skladno z navodilom, ki ga
+za ta namen izda Banka Slovenije, Banko Slovenije nemudoma obvestiti o vsaki
+spremembi podatkov, opredeljenih v 12. členu tega sklepa.
+14. člen
+(prehodna določba)
+Ponudnik plačilnih storitev najpozneje do 31. 1. 2017
+posreduje Banki Slovenije vse podatke, opredeljene v 12. členu tega sklepa,
+veljavne na dan 15. 1. 2017, skladno z navodilom, ki ga za ta namen izda
+Banka Slovenije.
+15. člen
+(končna določba)
+Z dnem uveljavitve tega sklepa preneha veljati Sklep o
+vsebini in uporabi slovenske strukture mednarodne številke bančnega računa
+(Uradni list RS, št. 71/09, 62/15 in 92/15).
+Ta sklep začne veljati naslednji dan po njegovi objavi v
+Uradnem listu Republike Slovenije.
+Ljubljana, dne 20. decembra
+2016
+Boštjan Jazbec l.r.
+Predsednik
+Sveta Banke Slovenije
+
+Priloga 1: Primer
+izračuna kontrolne številke plačilnega računa
+Priloga 2: Prikaz in
+primera zapisa številke plačilnega računa

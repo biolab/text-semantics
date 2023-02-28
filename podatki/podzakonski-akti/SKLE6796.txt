@@ -1,0 +1,1960 @@
+1. SPLOŠNE DOLOČBE
+1. člen
+(Vsebina sklepa)
+(1) Ta sklep določa pravila o izračunu
+kapitalske zahteve za kreditno tveganje po standardiziranem pristopu za banke
+in hranilnice (v nadaljevanju: banke), in sicer:
+(a)    določitev vrednosti izpostavljenosti in opredelitev kategorij
+izpostavljenosti ter izračun tveganjem prilagojenih zneskov izpostavljenosti;
+(b)    pravila za določanje uteži tveganja znotraj posameznih kategorij
+izpostavljenosti;
+(c)    način uporabe različnih bonitetnih ocen za določanje uteži
+tveganja;
+(d)    izračun zneska kapitalske zahteve za kreditno tveganje.
+(2) Banka mora za izračun kapitalske
+zahteve za kreditno tveganje uporabljati standardizirani pristop, razen če ima
+dovoljenje Banke Slovenije za uporabo pristopa na podlagi notranjih bonitetnih
+sistemov.
+(3) Kapitalska zahteva za kreditno
+tveganje se izračuna najmanj v višini 8% vsote tveganjem prilagojenih zneskov
+izpostavljenosti, izračunanih v skladu z določbami 5. člena tega sklepa.
+(4) Kadar se ta sklep sklicuje na
+določbe drugih predpisov, se te določbe uporabljajo v njihovem vsakokrat veljavnem
+besedilu.
+1.a
+člen
+(Prenos direktiv
+EU)
+S tem sklepom se v pravni red Republike Slovenije prenaša
+Direktiva 2006/48/ES Evropskega parlamenta in Sveta z dne 14. junija 2006 o
+začetku opravljanja in opravljanju dejavnosti kreditnih institucij (UL L št.
+177 z dne 30. junija 2006, str. 1), zadnjič spremenjena z Direktivo 2011/89/EU
+Evropskega parlamenta in Sveta z dne 16. novembra 2011 o spremembah direktiv 98/78/ES,
+2002/87/ES, 2006/48/ES in 2009/138/ES glede dopolnilnega nadzora finančnih
+subjektov v finančnem konglomeratu (UL L št. 326 z dne 8. decembra 2011, str.
+113).
+2. člen
+(Opredelitev pojmov)
+(1) Pojmi, uporabljeni v tem sklepu,
+imajo enak pomen kot v določbah Zakona o bančništvu (Uradni list RS,
+št. 131/06; v nadaljevanju: ZBan-1), kot na primer:
+1.    
+družba za upravljanje v 3. točki tretjega odstavka ­5. člena,
+2.    
+kreditna institucija v tretjem odstavku 13. člena,
+3.    
+banka v četrtem odstavku 13. člena,
+4.    
+(črtana),
+5.    
+(črtana),
+6.    
+finančna institucija v prvem odstavku 15. člena,
+7.    
+finančni holding v prvem odstavku 16. člena,
+8.    
+družba za pomožne storitve v tretjem odstavku 17. člena,
+9.    
+država članica v prvem odstavku 18. člena,
+10.  tretja
+država v drugem odstavku 18. člena,
+11.  nadzorni
+organ v drugem in tretjem odstavku 19. člena,
+12.  nadrejena
+oseba in podrejena družba v 25. členu,
+13.  skupina
+povezanih oseb v prvem odstavku 30. člena,
+14.  izpostavljenost
+v prvem odstavku 113. člena,
+15.  stvarno
+kreditno zavarovanje v tretjem odstavku 116. člena,
+16.  posel
+začasne prodaje oziroma odkupa v 117. členu,
+17.  posoja
+oziroma izposoja vrednostnih papirjev ali blaga v 118. členu,
+18.  sekuritizacija
+(v nadaljevanju: listinjenje) v prvem odstavku 120. člena,
+19.  položaj
+v sekuritizaciji (v nadaljevanju: pozicija v listinjenju) v petem odstavku
+120. člena,
+20.  finančni
+instrument v prvem odstavku 121. člena.
+(2) Za namene tega sklepa veljajo
+naslednje opredelitve pojmov:
+1.    
+"enote centralne ravni države" so institucionalne enote, ki
+jih nadzorni organ zadevne države opredeli kot enote centralne ravni države. V
+Republiki Sloveniji so to institucionalne enote, ki so na podlagi Uredbe o
+standardni klasifikaciji institucionalnih sektorjev (Uradni list RS,
+št. 13/06) uvrščene v podsektor Neposredni uporabniki državnega proračuna
+(S.13111) ter Zavod za zdravstveno zavarovanje Slovenije in Zavod za
+pokojninsko in invalidsko zavarovanje Slovenije, Ljubljana;
+2.    
+"enote regionalne ali lokalne ravni države" so institucionalne
+enote, ki jih nadzorni organ zadevne države opredeli kot enote regionalne ali
+lokalne ravni države. V Republiki Sloveniji so to institucionalne enote, ki so
+na podlagi Uredbe o standardni klasifikaciji institucionalnih sektorjev (Uradni
+list RS, št. 13/06) uvrščene v podsektor Neposredni uporabniki proračunov
+občin (S.13131);
+3.    
+"osebe javnega sektorja" so osebe, ki jih nadzorni organ
+države, na območju katere so ustanovljene, opredeli kot osebe javnega sektorja,
+oziroma, če jih nadzorni organ države, na območju katere so ustanovljene, ne
+opredeli, so to:
+-  
+upravni organi, ki opravljajo nepridobitno dejavnost in ki so odgovorni
+enotam centralne, regionalne ali lokalne ravni države oziroma institucionalnim
+enotam, ki imajo enake pristojnosti kot enote regionalne ali lokalne ravni
+države;
+-  
+podjetja, ki opravljajo nepridobitno dejavnost in katerih ustanovitelji
+so enote centralne ravni države, ki tudi izrecno jamčijo za njihove obveznosti,
+vključno z osebami javnega prava, ki so pod javnim nadzorom.
+V Republiki Sloveniji so to pravne osebe
+ali institucionalne enote, ki so na podlagi Uredbe o standardni klasifikaciji
+institucionalnih sektorjev (Uradni list RS, št. 13/06) uvrščene v
+podsektor Javne nefinančne družbe (S.11001), podsektor Javne druge denarne
+finančne institucije (S.12201), podsektor Javni drugi finančni posredniki,
+razen zavarovalnih družb in pokojninskih skladov (S.12301), podsektor Javni
+izvajalci pomožnih finančnih dejavnosti (S.12401), podsektor Javne
+zavarovalniške družbe in pokojninski skladi (S.12501), podsektor Državni skladi
+(S.13112), podsektor Druge enote centralne države (S.13113), podsektor Skladi
+lokalne države (S.13132), podsektor Druge enote lokalne države (S.13133) ali
+podsektor Skladi socialne varnosti (S.13140) in ki izpolnjujejo pogoje iz ene
+izmed naslednjih dveh alinej:
+-  
+so pravne osebe javnega prava oziroma njihove institucionalne enote, ki
+so posredni uporabniki državnega proračuna ali občinskih proračunov, ki jih
+Ministrstvo za finance določi v skladu s Pravilnikom o določitvi neposrednih in
+posrednih uporabnikov državnega in občinskih proračunov (Uradni list RS,
+št. 46/03), ali ki so odgovorne enotam centralne ravni Republike Slovenije;
+-  
+so pravne osebe, ki opravljajo nepridobitno dejavnost in katerih
+ustanovitelji so enote centralne ravni države, ki tudi izrecno jamčijo za
+njihove obveznosti;
+4.    
+"multilateralna razvojna banka" je družba, katere družbenice
+oziroma članice so vsaj tri suverene države in katere osnovna dejavnost je
+zagotavljanje sredstev za financiranje gospodarskega razvoja vseh držav, ki so
+članice, ali pa samo izbrane skupine držav. Ne glede na prejšnji stavek se med
+multilateralne razvojne banke uvrstijo Medameriška investicijska korporacija (Inter-American
+Investment Corporation), Črnomorska trgovinska in razvojna banka (Black
+Sea Trade and Development Bank) in Centralnoameriška banka za gospodarsko
+integracijo (Central American Bank for Economic Integration);
+5.    
+"stanovanjske nepremičnine" so zemljišča, stavbe in posamezni
+deli stavb v etažni lastnini, ki so namenjeni bivanju, kot so na primer
+zemljišča na območju, predvidenem za pozidavo, stanovanja, stanovanjske hiše,
+garaže in počitniške hiše;
+6.    
+"poslovne nepremičnine" so zemljišča, stavbe in posamezni deli
+stavb v etažni lastnini, namenjeni opravljanju poslovne dejavnosti, kot so na
+primer zemljišča na območju, predvidenem za pozidavo, dokončani poslovni
+prostori, pisarne, trgovine, hoteli, poslovalnice in skladišča, ter druga
+zemljišča;
+7.    
+»zapadla postavka« je posamezna izpostavljenost, pri kateri dolžnik
+zamuja s plačilom celotne izpostavljenosti ali njenega dela, ki presega 2 % črpanega zneska te izpostavljenosti
+ali 50.000 evrov, vendar ni manjši kot 200 evrov, za več kakor 90 dni. Banka
+lahko za opredelitev zapadle postavke določi tudi manjši znesek;
+8.    
+"nezapadla izpostavljenost" je posamezna izpostavljenost, ki
+ni zapadla postavka;
+9.    
+"regulatorno zelo tvegane izpostavljenosti" so izpostavljenosti
+do oseb v postopku stečaja ali prisilne poravnave in druge izpostavljenosti, za
+katere objektivni pogoji kažejo, da so zelo tvegane (kot na primer naložbe v
+podjetja oziroma sklade tveganega kapitala, v kapital nejavnih družb in naložbe
+v investicijske sklade s posebno visokim tveganjem);
+10.  "krite
+obveznice" so obveznice, ki so jih izdale banke na podlagi Zakona o
+hipotekarni in komunalni obveznici (Uradni list RS, št. 17/06) ali
+kreditne institucije na podlagi ustreznega predpisa druge države članice in
+katerih kritno premoženje je v oblikah izpostavljenosti, opredeljenih v Prilogi
+I tega sklepa;
+11.  "metoda
+na osnovi uteži tveganja enot centralne ravni države (central government
+risk weight based method)" je metoda, ki pri določanju uteži tveganja
+za izpostavljenosti do dolžnikov upošteva stopnjo kreditne kvalitete enot
+centralne ravni države, v kateri ima posamezni dolžnik sedež;
+12.  "metoda
+na osnovi bonitetne ocene (credit assessment based method)" je
+metoda, ki pri določanju uteži tveganja za izpostavljenosti do dolžnikov
+upošteva bonitetno oceno posameznega dolžnika oziroma bonitetno oceno njegovih
+finančnih instrumentov;
+13.  "ocenjena
+izpostavljenost" je izpostavljenost iz naslova finančnega instrumenta, ki
+ga je ocenila vsaj ena od zunanjih bonitetnih institucij, imenovanih za
+kategorijo izpostavljenosti, v katero je izpostavljenost razvrščena;
+14.  "neocenjena
+izpostavljenost" je izpostavljenost iz naslova finančnega instrumenta, ki
+ga ni ocenila nobena od zunanjih bonitetnih institucij, imenovanih za
+kategorijo izpostavljenosti, v katero je izpostavljenost razvrščena;
+15.  "izpostavljenost
+do institucije ali podjetja s kratkoročno bonitetno oceno" je
+izpostavljenost iz naslova finančnega instrumenta institucije ali podjetja, ki
+ga je ocenila s kratkoročno bonitetno oceno vsaj ena od zunanjih bonitetnih
+institucij, imenovanih za kategorijo izpostavljenosti do institucij ali do
+podjetij;
+16.  "zunanja
+bonitetna institucija (v nadaljevanju: ECAI)" je pravna oseba, ki izdeluje
+pooblaščene in/ali nepooblaščene bonitetne ocene za namen ovrednotenja
+kreditnega tveganja;
+17.  "primerna
+zunanja bonitetna institucija (v nadaljevanju: primerna ECAI)" je ECAI, ki
+jo Banka Slovenije na podlagi Sklepa o priznavanju zunanjih bonitetnih
+institucij (Uradni list RS, št. 135/06; v nadaljevanju: sklep o ECAI)
+uvrsti na seznam primernih zunanjih bonitetnih institucij za posamezno
+kategorijo izpostavljenosti;
+18.  "primerna
+izvozna agencija (v nadaljevanju: primerna ECA)" je:
+- 
+OECD;
+- 
+izvozna agencija, ki hkrati izpolnjuje naslednja pogoja:
+(i)    da
+ima sedež v državi, ki je v veljavnem Sporazumu o smernicah za uradno podprte
+izvozne kredite (Arrangement on Guidelines for Officially Supported Export
+Credits) opredeljena kot udeleženka (participant);
+(ii)   da
+bonitetne ocene, ki so povezane z osmimi minimalnimi premijami za zavarovanje
+izvoza (v nadaljevanju: MEIP), izdeluje na podlagi metodologije OECD in jih
+tudi javno objavlja;
+19.  "imenovana
+zunanja bonitetna institucija (v nadaljevanju: imenovana ECAI)" je
+primerna ECAI, ki jo banka izbere za določanje uteži tveganja pri posamezni
+kategoriji izpostavljenosti;
+20.  "imenovana
+izvozna agencija (v nadaljevanju: imenovana ECA)" je primerna ECA, ki jo
+banka izbere za določanje uteži tveganja pri kategoriji izpostavljenosti do
+enot centralne ravni držav in do centralnih bank;
+21.  "pooblaščena
+bonitetna ocena" je bonitetna ocena, ki je izdelana na zahtevo
+ocenjevanega subjekta;
+22.  "nepooblaščena
+bonitetna ocena" je bonitetna ocena, ki ni pooblaščena bonitetna ocena;
+23.  "zavarovanje
+s finančnim premoženjem" je zavarovanje, kot je opredeljeno v 12. do
+13. členu Sklepa o kreditnih zavarovanjih (Uradni list RS,
+št. 135/06; v nadaljevanju: sklep o kreditnih zavarovanjih);
+24.  "posli
+kreditiranja za povečanje trgovalnega portfelja (margin lending transactions)"
+so posli, s katerimi kreditna institucija odobri kredit za nakup, prodajo,
+pokrivanje stroškov financiranja pri posoji in izposoji vrednostnih papirjev
+ali trgovanje z njimi. Posli kreditiranja za povečanje trgovalnega portfelja ne
+vključujejo drugih kreditov, ki so zavarovani z vrednostnimi papirji;
+25.  "posli
+z dolgim rokom poravnave (long settlement transactions)" so posli,
+pri katerih nasprotna stranka prevzame obveznost, da bo izročila vrednostni
+papir, blago ali tujo valuto za denarna sredstva, druge finančne instrumente
+oziroma blago ali obratno na datum poravnave ali izročitve, ki je naveden v
+pogodbi in presega običajni tržni standard za to vrsto posla oziroma največ pet
+delovnih dni sledi datumu, na katerega je kreditna institucija sklenila posel;
+26.  "kreditno
+tveganje nasprotne stranke (counterparty credit risk – v nadaljevanju:
+CCR)" je tveganje, da bo nasprotna stranka postala neplačnik pred končno
+poravnavo denarnih tokov iz tega posla;
+27.  "centralna
+nasprotna stranka (central counterparty)" je subjekt, ki pravno
+posreduje med nasprotnimi strankami v poslih (pogodbah), s katerimi se trguje
+na enem ali več finančnih trgih, in ki postane kupec za vsakega prodajalca in
+prodajalec za vsakega kupca;
+28.  "investicijska
+podjetja iz primernih tretjih držav" so osebe, ki izpolnjujejo naslednje
+pogoje:
+-  
+ustrezale bi definiciji investicijskih podjetij, če bi bile ustanovljene
+v eni od držav članic;
+-  
+pridobile so dovoljenje za poslovanje v primerni tretji državi;
+-  
+dolžne so upoštevati in tudi dejansko upoštevajo pravila skrbnega in
+varnega poslovanja, ki so enakovredna tistim, ki veljajo za investicijska
+podjetja iz držav članic;
+29.  "primerne
+tretje države" so države, navedene v Prilogi V Sklepa o izračunu
+kapitalske zahteve za tržna tveganja za banke in hranilnice (Uradni list RS,
+št. 135/06; v nadaljevanju: sklep o tržnih tveganjih);
+30.  "investicijska
+podjetja" so investicijska podjetja iz prvega odstavka 14. člena ZBan-1,
+za katera se uporablja Direktiva 2004/39/ES Evropskega parlamenta in Sveta z
+dne 21. aprila 2004 o trgih finančnih instrumentov in o spremembah
+direktiv Sveta 85/611/EGS, 93/6/EGS in Direktive 2000/12/ES Evropskega
+parlamenta in Sveta ter o razveljavitvi Direktive Sveta 93/22/EGS;
+31.  "institucije"
+so kreditne institucije in investicijska podjetja;
+32.  »Uredba
+o bonitetnih agencijah« je Uredba (ES) št. 1060/2009 Evropskega parlamenta in
+Sveta z dne 16. septembra 2009 o bonitetnih agencijah (UL L št. 320 z dne 17.
+novembra 2009, str. 1), zadnjič spremenjena z Direktivo 2011/61/EU Evropskega
+parlamenta in Sveta z dne 8. junija 2011 o upraviteljih alternativnih
+investicijskih skladov in spremembah direktiv 2003/41/ES in 2009/65/ES ter
+uredb (ES) št. 1060/2009 in (EU) št. 1095/2010 (UL L št. 174 z dne 1. julija
+2011, str. 1);
+33.  »Evropski
+organ za vrednostne papirje in trge (ESMA)« je Evropski nadzorni organ
+(Evropski organ za vrednostne papirje in trge), ustanovljen z Uredbo (EU) št.
+1095/2010 Evropskega parlamenta in Sveta z dne 24. novembra 2010 o ustanovitvi
+Evropskega nadzornega organa (Evropski organ za vrednostne papirje in trge) in
+o spremembi Sklepa št. 716/2009/ES ter razveljavitvi Sklepa Komisije 2009/77/ES
+(UL l št. 331 z dne 15. decembra 2010, str. 84).
+3. člen
+(Vrednost izpostavljenosti)
+(1) Vrednost izpostavljenosti iz
+posamezne postavke sredstev je enaka njeni knjigovodski vrednosti, vrednost
+izpostavljenosti iz posamezne zunajbilančne postavke iz Priloge II tega sklepa
+pa je enaka naslednjemu odstotku njene vrednosti zmanjšane za oblikovane
+rezervacije:
+(a)    100%, če je zunajbilančna postavka razvrščena med zunajbilančne
+postavke z visokim tveganjem;
+(b)    50%, če je zunajbilančna postavka razvrščena med zunajbilančne
+postavke s srednjim tveganjem;
+(c)    20%, če je zunajbilančna postavka razvrščena med zunajbilančne
+postavke z nizkim tveganjem;
+(d)    0%, če je zunajbilančna postavka razvrščena med zunajbilančne postavke
+z zelo nizkim tveganjem.
+(2) Če banka v skladu s sklepom o
+kreditnih zavarovanjih uporablja razvito metodo za izračun učinkov zavarovanja
+s finančnim premoženjem in če je izpostavljenost v obliki vrednostnih papirjev
+ali blaga prodanih, predloženih ali posojenih v okviru poslov začasne prodaje
+oziroma odkupa, posoje oziroma izposoje vrednostnih papirjev ali blaga ali v
+okviru poslov kreditiranja za povečanje trgovalnega portfelja, se vrednost
+izpostavljenosti poveča s prilagoditvijo za nestanovitnost, ki se v skladu s
+sklepom o kreditnih zavarovanjih uporablja za vrednostne papirje ali blago, na
+katere se izpostavljenost nanaša.
+(3) Pri izvedenih finančnih
+instrumentih iz Priloge I sklepa o tržnih tveganjih se vrednost
+izpostavljenosti določi v skladu z določbami oddelka 5.3 sklepa o tržnih
+tveganjih in z upoštevanjem učinkov novacij in drugih pogodb o pobotu v skladu
+z navedenimi določbami, medtem ko se lahko vrednost izpostavljenosti iz poslov
+začasne prodaje oziroma odkupa, posoje oziroma izposoje vrednostnih papirjev
+ali blaga, poslov z dolgim rokom poravnave in iz poslov kreditiranja za
+povečanje trgovalnega portfelja določi v skladu z določbami oddelka 5.3 sklepa
+o tržnih tveganjih ali v skladu z določbami tretjega do petega poglavja sklepa
+o kreditnih zavarovanjih.
+(4) Kadar je izpostavljenost
+zavarovana s stvarnim kreditnim zavarovanjem, se njena vrednost lahko spremeni
+v skladu s sklepom o kreditnih zavarovanjih.
+(5) Vrednost izpostavljenosti,
+ki se v skladu z določbo prvega odstavka 4. člena tega sklepa razvrstijo v
+kategorijo pozicij v listinjenju, se določi v skladu s četrtim poglavjem Sklepa
+o izračunu kapitalske zahteve za kreditno tveganje pri listinjenju in pravilih
+glede izpostavljenosti bank in hranilnic prenesenemu kreditnemu tveganju (Uradni
+list RS, št. 85/10; v nadaljevanju: sklep o listinjenju).
+(6) Ne glede na tretji odstavek tega
+člena se vrednosti neporavnanih izpostavljenosti do centralne nasprotne stranke
+določijo v skladu s šestim odstavkom 47. člena sklepa o tržnih tveganjih,
+vendar samo, če so izpostavljenosti centralne nasprotne stranke iz naslova CCR
+do vseh udeležencev, s katerimi posluje, dnevno v celoti zavarovane.
+(7) Vrednost izpostavljenosti iz naslova zakupa je
+diskontirana najmanjša vsota plačil po zakupu. Najmanjša vsota plačil po zakupu
+je enaka plačilom, ki jih banka zahteva od zakupnika med trajanjem pogodbe o
+zakupu, in plačilu iz naslova katere koli nakupne opcije iz zakupa, ki se bo z
+veliko verjetnostjo izvršila. Katera koli preostala vrednost sredstva, danega v
+zakup, zavarovana z osebnim jamstvom, ki izpolnjuje pogoje iz 29. in 30. člena sklepa o kreditnih zavarovanjih glede primernosti dajalcev zavarovanja kakor tudi
+minimalne zahteve za priznanje osebnih jamstev, kakor je določeno v 35. do 39.
+členu sklepa o kreditnih zavarovanjih, je tudi vključena v najmanjšo vsoto
+plačil po zakupu.
+4. člen
+(Kategorije izpostavljenosti)
+(1) Za namen izračuna tveganjem
+prilagojenih zneskov izpostavljenosti mora banka vsako svojo izpostavljenost,
+ki ni odbitna postavka od njenega kapitala in za katero v skladu s sklepom o
+tržnih tveganjih ne izračunava kapitalske zahteve za tržna tveganja, razvrstiti
+v eno od naslednjih kategorij izpostavljenosti:
+(a)    izpostavljenosti do enot centralne ravni držav in do centralnih
+bank,
+(b)    izpostavljenosti do enot regionalne ali lokalne ravni držav,
+(c)    izpostavljenosti do oseb javnega sektorja,
+(d)    izpostavljenosti do multilateralnih razvojnih bank,
+(e)    izpostavljenosti do mednarodnih organizacij,
+(f)    
+izpostavljenosti do institucij,
+(g)    izpostavljenosti do podjetij,
+(h)    izpostavljenosti iz naslova bančništva na drobno,
+(i)    
+izpostavljenosti, zavarovane z nepremičninami,
+(j)    
+zapadle postavke,
+(k)    regulatorno zelo tvegane izpostavljenosti,
+(l)    
+izpostavljenosti iz naslova naložb v krite
+obveznice,
+(m)  pozicije v listinjenju,
+(n)    izpostavljenosti do institucij ali podjetij s kratkoročno bonitetno
+oceno,
+(o)    izpostavljenosti iz naslova naložb v odprte kolektivne naložbene
+podjeme (v nadaljevanju: izpostavljenosti iz naslova naložb v investicijske
+sklade),
+(p)    ostale izpostavljenosti.
+Pri razvrščanju posameznih izpostavljenosti
+v kategorije izpostavljenosti iz prejšnjega stavka banka upošteva shematski
+prikaz postopka razvrščanja iz Priloge V tega sklepa.
+(2) Izpostavljenost se lahko razvrsti
+v kategorijo izpostavljenosti iz naslova bančništva na drobno, če so hkrati
+izpolnjeni vsi naslednji pogoji:
+(a)    je izpostavljenost do ene ali več fizičnih ali pravnih oseb, ki se
+ne razvrščajo med velike družbe iz petega odstavka 55. člena Zakona o
+gospodarskih družbah (Uradni list RS, št. 42/06 in 60/06 – popr.);
+(b)    skupni znesek izpostavljenosti iz postavk sredstev banke, njenih
+nadrejenih družb in njenih podrejenih družb do posamezne osebe ali skupine
+povezanih oseb, vključno z zapadlimi postavkami, ne presega 1 milijon eurov. V
+ta znesek se ne prištevajo deli izpostavljenosti, zavarovani z nepremičninami,
+pri katerih banka uporabi utež tveganja 35% v skladu z drugim do četrtim
+odstavkom 23. člena tega sklepa, utež tveganja 50% v skladu s četrtim odstavkom
+25. člena tega sklepa ali utež tveganja 100% v skladu s točko (a) prvega odstavka
+ 23. in 25. člena tega sklepa. Banka mora izvesti vse razumne ukrepe za
+ugotovitev skupne višine izpostavljenosti;
+(c)    izpostavljenost ne sme biti naložba v vrednostne papirje;
+(d)    izpostavljenost mora biti ena od velikega števila izpostavljenosti
+s podobnimi lastnostmi, tako da so tveganja, povezana s takimi
+izpostavljenostmi, znatno zmanjšana. Šteje se, da je pogoj iz prejšnjega stavka
+izpolnjen, če vsota izpostavljenosti do posamezne osebe ali skupine povezanih
+oseb, ki izpolnjujejo pogoje iz točk (a) do (c) tega odstavka, pred
+upoštevanjem učinkov kreditnega zavarovanja in odstotkov iz točk (a) do (d)
+prvega odstavka 3. člena tega sklepa ne preseže 0,2% vsote vseh
+izpostavljenosti, ki izpolnjujejo pogoje iz točk (a) do (c) tega odstavka, pred
+upoštevanjem učinkov kreditnega zavarovanja in odstotkov iz točk (a) do (d)
+prvega odstavka 3. člena tega sklepa. Če je odstotek iz prejšnjega stavka
+presežen, mora banka z izračuni dokazati, da je nesistematično tveganje,
+povezano z njenimi izpostavljenostmi, ki jih razvrsti v kategorijo
+izpostavljenosti iz naslova bančništva na drobno, odpravljeno.
+(3) Izpostavljenosti iz naslova
+zakupa se razvrstijo v ustrezno kategorijo izpostavljenosti v skladu s prvim in
+drugim odstavkom tega člena.
+(4) V kategorijo izpostavljenosti do
+institucij se razvrsti tudi:
+(a)    izpostavljenosti do finančnih institucij, ki so pridobile
+dovoljenje za poslovanje in jih nadzorujejo nadzorni organi in ki so zavezane k
+izpolnjevanju pravil varnega in skrbnega poslovanja, enakovrednih tistim, ki
+veljajo za kreditne institucije,
+(b)    izpostavljenosti do investicijskih podjetij iz primernih tretjih
+držav in
+(c)    izpostavljenosti do priznanih klirinških hiš ter borz iz Priloge II
+sklepa o tržnih tveganjih.
+(5) Izpostavljenost se sme razvrstiti v
+kategorijo izpostavljenosti do podjetij ali v kategorijo izpostavljenosti do
+institucij ali podjetij s kratkoročno bonitetno oceno, če gre za
+izpostavljenost do pravne osebe ali fizične osebe, ki samostojno in trajno
+opravlja eno ali več dejavnosti.
+5. člen
+(Izračun tveganjem prilagojenega zneska
+izpostavljenosti)
+(1) Tveganjem prilagojeni znesek
+izpostavljenosti mora banka izračunati za vsako posamezno izpostavljenost, ki
+ni odbitna postavka od njenega kapitala in za katero v skladu s sklepom o
+tržnih tveganjih ne izračunava kapitalske zahteve za tržna tveganja, in sicer
+kot zmnožek njene vrednosti iz 3. člena tega sklepa in uteži tveganja.
+(2) Utež tveganja posamezne
+izpostavljenosti se določi glede na kategorijo izpostavljenosti, v katero je ta
+razvrščena, in glede na stopnjo kreditne kvalitete, če se slednja v skladu z
+določbami 6. do 35. člena tega sklepa ugotavlja za kategorijo
+izpostavljenosti, v katero je zadevna izpostavljenost razvrščena.
+(3) Ob upoštevanju določb 36. do
+43. člena tega sklepa in vzporeditve bonitetnih ocen primernih ECAI s
+stopnjami kreditne kvalitete, ki jo določa in javno objavlja Banka Slovenije v
+skladu s sklepom o ECAI, se stopnja kreditne kvalitete posamezne
+izpostavljenosti določi glede na razpoložljive bonitetne ocene dolžnika in/ali
+njegovih finančnih instrumentov, ki jih izdelajo primerne ECAI, in/ali MEIP
+primerne ECA, ki jih banka v skladu s prvim in drugim odstavkom 36. člena
+tega sklepa imenuje za kategorijo izpostavljenosti, v katero se zadevna
+izpostavljenost razvršča.
+(4) Ne glede na določbo drugega
+odstavka tega člena se lahko izpostavljenostim, zavarovanim s primernimi
+oblikami kreditnega zavarovanja, ki se v skladu s sklepom o kreditnih
+zavarovanjih lahko uporabljajo v standardiziranem pristopu, določi utež
+tveganja v skladu z navedenim sklepom.
+(5) Tveganjem prilagojeni zneski
+izpostavljenosti se za izpostavljenosti do institucij izračunajo po metodi na
+osnovi bonitetne ocene (credit assessment based method), kakor je
+določeno v 18. členu tega sklepa.
+(6) Tveganjem prilagojeni zneski izpostavljenosti
+se za pozicije v listinjenju izračunajo, kakor je določeno s sklepom o listinjenju.
+(7) Ne glede na določbo drugega
+odstavka tega člena lahko banka nezapadli izpostavljenosti, ki ni
+izpostavljenost iz osmega odstavka 34. člena tega sklepa in ki ji v skladu z
+določbami 6. do 43. člena tega sklepa ustreza utež tveganja 150%, dodeli utež
+tveganja 100%, če je zanjo oblikovala oslabitve ali rezervacije v znesku, ki ni
+nižji od 20% njene bruto vrednosti.
+(8) Ne glede na določbo drugega
+odstavka tega člena lahko banka za izračun tveganjem prilagojenega zneska
+izpostavljenosti uporabi utež tveganja 0% za svoje izpostavljenosti do
+nasprotne stranke, ki je njena nadrejena družba, njena podrejena družba,
+podrejena družba njene nadrejene družbe ali družba, s katero je povezana kot je
+opredeljeno v 29. členu ZBan-1, če so izpolnjeni naslednji pogoji:
+(a)    nasprotna stranka je institucija ali finančni holding ali
+mešani finančni holding, finančna institucija, družba za
+upravljanje ali družba za pomožne storitve, za katero se uporabljajo ustrezne
+zahteve skrbnega in varnega poslovanja;
+(b)    nasprotna stranka in banka sta vključeni v konsolidacijo iste
+skupine, in sicer po metodi popolne konsolidacije;
+(c)    za nasprotno stranko se uporabljajo isti postopki za vrednotenje,
+merjenje in kontrolo tveganj kakor za banko;
+(d)    nasprotna stranka ima sedež v Republiki Sloveniji;
+(e)    ni trenutne ali predvidene dejanske ali pravne ovire za takojšnji
+prenos kapitala od nasprotne stranke k banki ali za odplačilo obveznosti banke,
+ki ga poravna nasprotna stranka.
+Pravilo iz prejšnjega stavka ne velja za
+izpostavljenosti, ki predstavljajo sestavine temeljnega kapitala iz
+8. člena Sklepa o izračunu kapitala bank in hranilnic (Uradni list RS, št.
+85/10, 97/10, 100/11 in 100/12; v nadaljevanju: sklep o kapitalu) in sestavine dodatnega kapitala I iz 14. člena navedenega
+sklepa.
+(9) Kadar je
+izpostavljenost preostala vrednost sredstva, danega v zakup, se ne glede na
+določbe prvega odstavka tega člena tveganjem prilagojeni znesek
+izpostavljenosti izračuna na naslednji način:
+tveganjem
+prilagojeni znesek izpostavljenosti = 1/t * 100% * vrednost izpostavljenosti,
+kjer je
+t število let, večje ali enako 1 in najbližje številu celih let preostalega obdobja zakupa.
+2. UTEŽI TVEGANJA za
+posamezne KATEGORIJE IZPOSTAVLJENOSTI
+2.1. Uteži tveganja za izpostavljenosti do
+enot centralne ravni držav in do centralnih bank
+6. člen
+(Izpostavljenosti do enot centralne ravni
+držav in do centralnih bank)
+(1) Izpostavljenostim
+do enot centralne ravni držav in do centralnih bank, za katere je na razpolago
+dolgoročna bonitetna ocena imenovane ECAI oziroma MEIP imenovane ECA, se dodeli
+utež tveganja v skladu s Tabelo 1 oziroma 2 tega odstavka.
+Tabela 1
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+0%
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+Tabela 2
+
+
+MEIP
+ 
+
+0
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+7
+ 
+
+
+Utež tveganja
+ 
+
+0%
+ 
+
+0%
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+(2) Izpostavljenostim do enot
+centralne ravni držav in do centralnih bank, za katere ni na razpolago
+dolgoročne bonitetne ocene imenovane ECAI oziroma MEIP imenovane ECA, se dodeli
+utež tveganja 100%.
+7. člen
+(Izpostavljenosti do enot centralne ravni
+držav in do centralnih bank v domači valuti dolžnika)
+Ne glede na določbe 6. člena tega
+sklepa se lahko izpostavljenostim do enot centralne ravni posamezne države
+članice in do njene centralne banke, ki so denominirane in financirane v njeni
+domači valuti, dodeli utež tveganja 0%.
+8. člen
+(Izpostavljenosti do Evropske centralne
+banke)
+Ne glede na določbe 6. člena tega
+sklepa se izpostavljenostim do Evropske centralne banke dodeli utež tveganja
+0%.
+2.2. Uteži tveganja za izpostavljenosti do
+enot regionalne ali lokalne ravni držav
+9. člen
+(Izpostavljenosti do enot regionalne ali
+lokalne ravni držav)
+(1) Izpostavljenostim
+do enot regionalne ali lokalne ravni držav, za katere je na razpolago
+dolgoročna bonitetna ocena imenovane ECAI, se dodeli utež tveganja v skladu s
+Tabelo 3 tega odstavka.
+Tabela 3
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+(2) Izpostavljenostim do enot
+regionalne ali lokalne ravni držav, za katere ni na razpolago dolgoročne
+bonitetne ocene imenovane ECAI, se dodeli utež tveganja:
+(a)    50%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0%, 20% ali 50%;
+(b)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 100%;
+(c)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+9.a člen
+(Izpostavljenosti do enot regionalne ali
+lokalne ravni držav članic v domači valuti dolžnika)
+Ne glede na določbe 9. člena tega sklepa se lahko
+izpostavljenostim do enot regionalne ali lokalne ravni posamezne države članice, ki so denominirane
+in financirane v njeni domači valuti, dodeli utež tveganja 20 %.
+10. člen
+(Izpostavljenosti do enot regionalne ali
+lokalne ravni držav članic z nizkim tveganjem)
+(1) Ne glede na določbe 9. člena
+tega sklepa se lahko izpostavljenostim do enot regionalne ali lokalne ravni
+države članice, katerih tveganost se ne razlikuje od tveganosti enot centralne
+ravni države, na območju katere so ustanovljene, dodeli enaka utež tveganja kot
+izpostavljenostim do enot centralne ravni zadevne države članice v skladu s
+6. členom tega sklepa.
+(2) Banka lahko ravna v skladu s prvim
+odstavkom tega člena samo, če je zadevna enota regionalne ali lokalne ravni
+države članice uvrščena na seznam iz Priloge III tega sklepa ali veljavni
+seznam nadzornega organa zadevne države članice. Banka Slovenije enote
+regionalne ali lokalne ravni Republike Slovenije uvrsti na zadevni seznam, če
+se tveganost teh enot zaradi njihovih pristojnosti pobiranja davkov in drugih
+javnih prihodkov ter obstoja posebnih institucionalnih mehanizmov, ki zmanjšujejo
+tveganje njihovega neplačila, ne razlikuje od tveganosti enot centralne ravni
+Republike Slovenije.
+11. člen
+(Izpostavljenosti do cerkva ali verskih
+skupnosti)
+Izpostavljenostim do cerkve ali verske
+skupnosti, ki je pravna oseba javnega prava in ki ima v skladu z veljavno
+nacionalno zakonodajo pravico pobirati davke, se dodeli utež tveganja v skladu
+z določbami 9. člena tega sklepa.
+2.3. Uteži tveganja za izpostavljenosti do
+oseb javnega sektorja
+12. člen
+(Izpostavljenosti do oseb javnega sektorja
+s sedežem v Republiki Sloveniji)
+(1) Izpostavljenostim
+do oseb javnega sektorja s sedežem v Republiki Sloveniji, za katere je na
+razpolago dolgoročna bonitetna ocena imenovane ECAI, se dodeli utež tveganja v
+skladu s Tabelo 4 tega odstavka.
+Tabela 4
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+(2) Izpostavljenostim do oseb javnega
+sektorja s sedežem v Republiki Sloveniji, za katere ni na razpolago dolgoročne
+bonitetne ocene imenovane ECAI, se dodeli utež tveganja:
+(a)    50%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0%, 20% ali 50%;
+(b)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 100%;
+(c)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+13. člen
+(Izpostavljenosti do oseb javnega sektorja
+s sedežem zunaj Republike Slovenije)
+(1) Izpostavljenostim do oseb javnega sektorja
+s sedežem zunaj Republike Slovenije se dodeli utež tveganja 100%.
+(2) Ne glede na prvi odstavek tega
+člena se izpostavljenostim do oseb javnega sektorja s sedežem v drugi državi
+članici, v kateri nadzorni organ svojim kreditnim institucijam dovoli za
+tehtanje izpostavljenosti do oseb javnega sektorja s sedežem v tej državi
+članici uporabo metode na osnovi bonitetne ocene (credit assessment based
+method), dodeli utež tveganja v skladu z določbami 12. člena tega
+sklepa.
+(3) Ne
+glede na prvi odstavek tega člena se izpostavljenostim do oseb javnega sektorja
+s sedežem v drugi državi članici, v kateri nadzorni organ svojim kreditnim
+institucijam dovoli za tehtanje izpostavljenosti do oseb javnega sektorja s
+sedežem v tej državi članici uporabo metode na osnovi uteži tveganja enot
+centralne ravni države (central government risk weight based method),
+dodeli utež tveganja glede na stopnjo kreditne kvalitete enot centralne ravni
+države, v kateri ima dolžnik sedež, kot je prikazano v Tabeli 5 tega odstavka.
+Tabela 5
+
+
+Stopnja kreditne
+  kvalitete enot centralne ravni države
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+Izpostavljenostim do oseb javnega sektorja
+s sedežem v drugi državi članici se dodeli utež tveganja 100%, če enote
+centralne ravni države, v kateri ima dolžnik sedež, niso ocenjene. Ne glede na
+prejšnje določbe tega odstavka se lahko izpostavljenostim do oseb javnega
+sektorja s sedežem v drugi državi članici z originalno efektivno zapadlostjo do
+3 mesecev dodeli utež tveganja 20%, vendar samo, če to izjemo dovoljuje
+nadzorni organ zadevne države članice.
+14. člen
+(Izpostavljenosti do oseb javnega sektorja
+z nizkim tveganjem)
+(1) Ne glede na določbe 12. in 13. člena tega sklepa se lahko izpostavljenostim do posamezne osebe javnega sektorja s
+sedežem v državi članici, katere tveganost se po mnenju nadzornega organa v
+zadevni državi članici ne razlikuje od tveganosti enot centralne ravni države,
+na območju katere je ustanovljena, dodeli enaka utež tveganja kot
+izpostavljenostim do enot centralne ravni zadevne države članice, pri čemer se
+upoštevajo določbe 6. člena tega sklepa.
+(2) Banka lahko ravna v skladu s prvim
+odstavkom tega člena samo, če je zadevna oseba javnega sektorja uvrščena na
+seznam iz Priloge IV tega sklepa ali veljavni seznam nadzornega organa zadevne
+države članice. Banka Slovenije osebe javnega sektorja s sedežem v Republiki
+Sloveniji uvrsti na zadevni seznam, če oceni, da se zaradi obstoja ustreznega
+jamstva enot centralne ravni Republike Slovenije tveganost zadevnih oseb
+javnega sektorja ne razlikuje od tveganosti enot centralne ravni Republike
+Slovenije.
+2.4. Uteži tveganja za izpostavljenosti do
+multilateralnih razvojnih bank
+15. člen
+(Izpostavljenosti do multilateralnih
+razvojnih bank)
+(1) Izpostavljenostim
+do multilateralnih razvojnih bank, za katere je na razpolago dolgoročna
+bonitetna ocena imenovane ECAI, se dodeli utež tveganja v skladu s Tabelo 6
+tega odstavka.
+Tabela 6
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+(2) Izpostavljenostim do
+multilateralnih razvojnih bank, za katere ni na razpolago dolgoročne bonitetne
+ocene imenovane ECAI, se dodeli utež tveganja:
+(a)    50%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0%, 20% ali 50%;
+(b)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 100%;
+(c)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+16. člen
+(Izpostavljenosti do multilateralnih
+razvojnih bank z nizkim tveganjem)
+(1) Ne glede na določbe 15. člena
+tega sklepa se izpostavljenostim do naslednjih multilateralnih razvojnih bank
+dodeli utež tveganja 0%:
+(a)    Mednarodna banka za obnovo in razvoj (International Bank for
+Reconstruction and Development),
+(b)    Mednarodna finančna korporacija (International Finance
+Corporation),
+(c)    Medameriška razvojna banka (Inter-American Development Bank),
+(d)    Azijska razvojna banka (Asian Development Bank),
+(e)    Afriška razvojna banka (African Development Bank),
+(f)    
+Razvojna banka Sveta Evrope (Council of
+Europe Development Bank),
+(g)    Nordijska investicijska banka (Nordic Investment Bank),
+(h)    Karibska razvojna banka (Caribbean Development Bank),
+(i)    
+Evropska banka za obnovo in razvoj (European
+Bank for Reconstruction and Development);
+(j)    
+Evropska investicijska banka (European
+Investment Bank),
+(k)    Evropski investicijski sklad (European Investment Fund),
+(l)    
+Multilateralna agencija za zavarovanje
+investicij (Multilateral Investment Guarantee Agency),
+(m)  Mednarodna finančna pomoč za imunizacijo (International Finance
+Facility for Immunisation),
+(n)    Islamska razvojna banka (Islamic Development Bank).
+(2) Deležu neplačanega kapitala,
+vpisanega v Evropski investicijski sklad, se dodeli utež tveganja 20%.
+2.5. Utež tveganja za izpostavljenosti do
+mednarodnih organizacij
+17. člen
+(Izpostavljenosti do mednarodnih
+organizacij)
+Izpostavljenostim do naslednjih mednarodnih
+organizacij se dodeli utež tveganja 0%:
+(a)   
+Evropska skupnost,
+(b)   
+Mednarodni denarni sklad,
+(c)   
+Banka za mednarodne poravnave.
+2.6. Uteži tveganja za izpostavljenosti do
+institucij
+18. člen
+(Izpostavljenosti do institucij)
+(1) Izpostavljenostim
+do institucij, za katere je na razpolago dolgoročna bonitetna ocena imenovane
+ECAI, se dodeli utež tveganja v skladu s Tabelo 7 tega odstavka.
+Tabela 7
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+(2) Izpostavljenostim do institucij,
+za katere ni na razpolago dolgoročne bonitetne ocene imenovane ECAI, se dodeli
+utež tveganja:
+(a)    50%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0%, 20% ali 50%;
+(b)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 100%;
+(c)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+(3) Ne
+glede na prvi odstavek tega člena se izpostavljenostim do institucij s
+preostalo efektivno zapadlostjo do vključno 3 mesecev, za katere je na
+razpolago dolgoročna bonitetna ocena imenovane ECAI, dodeli utež tveganja v
+skladu s Tabelo 8 tega odstavka.
+Tabela 8
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+20%
+ 
+
+20%
+ 
+
+50%
+ 
+
+50%
+ 
+
+150%
+ 
+
+
+(4) Ne glede na drugi odstavek tega
+člena se neocenjenim izpostavljenostim do institucij s preostalo efektivno zapadlostjo
+do 3 mesecev, za katere ni na razpolago nobene dolgoročne bonitetne ocene
+imenovane ECAI (tj. dolgoročne bonitetne ocene dolžnika oziroma njegovih drugih
+finančnih instrumentov), dodeli utež tveganja:
+(a)    20%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0% ali 20%;
+(b)    50%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 50%;
+(c)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 100%;
+(d)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+(5) Ne glede na določbe prvega do
+četrtega odstavka tega člena in ob upoštevanju določb tretjega in četrtega
+odstavka 42. člena tega sklepa:
+(a)    se vsem neocenjenim dolgoročnim in kratkoročnim izpostavljenostim
+do institucije dodeli utež tveganja 150%, če bi se v skladu s Tabelo 11 iz 31.
+člena tega sklepa finančnemu instrumentu s kratkoročno bonitetno oceno
+imenovane ECAI, ki ga je izdala ista institucija, dodelila utež tveganja 150%;
+(b)    se vsem neocenjenim kratkoročnim izpostavljenostim do institucije
+dodeli utež tveganja, ki ni nižja od 100%, če bi se v skladu s Tabelo 11 iz 31.
+člena tega sklepa finančnemu instrumentu s kratkoročno bonitetno oceno
+imenovane ECAI, ki ga je izdala ista institucija, dodelila utež tveganja, ki ni
+nižja od 50%.
+19. člen
+(Naložbe v kapital institucij)
+Naložbam v lastniške finančne instrumente
+oziroma druge oblike kapitala, ki jih izdajo institucije in ki niso odbitna
+postavka od kapitala, se dodeli utež tveganja 100%.
+20. člen
+(Izpostavljenosti do institucij iz naslova
+obveznih rezerv pri centralnih bankah držav članic)
+Če je izpostavljenost do institucij iz
+naslova obveznih rezerv, ki jih zahteva ECB ali centralna banka države članice,
+se tej izpostavljenosti dodeli utež tveganja, ki je enaka uteži tveganja za
+zadevno centralno banko, pri čemer morata biti izpolnjena naslednja dva pogoja:
+(a)    da obvezne rezerve banka izračunava in izpolnjuje na podlagi Uredbe
+(ES) št. 1745/2003 Evropske centralne banke z dne 12. septembra 2003
+o uporabi obveznih rezerv ali naknadno sprejete enakovredne zakonodaje ali na
+podlagi ustreznega nacionalnega predpisa države članice;
+(b)    da so sredstva iz naslova obveznih rezerv banke v primeru stečaja
+institucije izločena iz stečajne mase in se banki povrnejo v celoti.
+2.7. Uteži tveganja za izpostavljenosti do
+podjetij
+21. člen
+(Izpostavljenosti do podjetij)
+(1) Izpostavljenostim
+do podjetij, za katere je na razpolago dolgoročna bonitetna ocena imenovane
+ECAI, se dodeli utež tveganja v skladu s Tabelo 9 tega odstavka.
+Tabela 9
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+150%
+ 
+
+(2) Izpostavljenostim do podjetij, za
+katere ni na razpolago dolgoročne bonitetne ocene imenovane ECAI, se dodeli
+utež tveganja:
+(a)    100%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 0%, 20%, 50% ali 100%;
+(b)    150%, če se v skladu z določbami 6. člena tega sklepa enotam
+centralne ravni dolžnikove države dodeli utež tveganja 150%.
+(3) Ne glede na določbe prvega in drugega
+odstavka tega člena in ob upoštevanju določb tretjega in četrtega odstavka
+42. člena tega sklepa:
+(a)    se vsem neocenjenim dolgoročnim in kratkoročnim izpostavljenostim
+do podjetja dodeli utež tveganja 150%, če bi se v skladu s Tabelo 11 iz 31.
+člena tega sklepa finančnemu instrumentu s kratkoročno bonitetno oceno
+imenovane ECAI, ki ga je izdalo isto podjetje, dodelila utež tveganja 150%;
+(b)    se vsem neocenjenim kratkoročnim izpostavljenostim do podjetja
+dodeli utež tveganja, ki ni nižja od 100%, če bi se v skladu s Tabelo 11 iz 31.
+člena tega sklepa finančnemu instrumentu s kratkoročno bonitetno oceno
+imenovane ECAI, ki ga je izdalo isto podjetje, dodelila utež tveganja, ki ni
+nižja od 50%.
+2.8. Utež tveganja za izpostavljenosti iz
+naslova bančništva na drobno
+22. člen
+(Izpostavljenosti iz naslova bančništva na
+drobno)
+Izpostavljenostim, ki izpolnjujejo pogoje
+iz drugega in tretjega odstavka 4. člena tega sklepa, se dodeli utež tveganja
+75%.
+2.9. Uteži tveganja za izpostavljenosti,
+zavarovane z nepremičninami
+2.9.1. Uteži tveganja za izpostavljenosti, zavarovane s
+stanovanjskimi nepremičninami
+23. člen
+(Izpostavljenosti, zavarovane s
+stanovanjskimi nepremičninami)
+(1) Izpostavljenosti se v delu, ki je
+zavarovan s stanovanjskimi nepremičninami, dodeli:
+(a)    utež tveganja 100% ali
+(b)    utež tveganja, ki se dodeli dolžniku oziroma njegovemu finančnemu
+instrumentu, na katerega se izpostavljenost nanaša.
+(2) Ne glede na prvi odstavek tega
+člena se lahko izpostavljenosti, ki izpolnjuje vse pogoje iz 24. člena
+tega sklepa in ki je zavarovana s stanovanjskimi nepremičninami, ki so ali šele
+bodo v neposredni posesti lastnika, oziroma upravičenca v primeru osebnega
+investicijskega podjetja (personal investment company), ali v neposredni
+posesti najemnika, dodeli utež tveganja 35%.
+(3) Ne glede na prvi odstavek tega
+člena se lahko izpostavljenosti, ki izpolnjuje vse pogoje iz 24. člena
+tega sklepa in ki je zavarovana z delnicami v finskih stanovanjsko
+nepremičninskih družbah, ki poslujejo v skladu s finskim Zakonom o nepremičninskih
+družbah iz leta 1991 ali naknadno sprejeto enakovredno zakonodajo, nanašajočo
+se na stanovanjske nepremičnine, katere so ali šele bodo v neposredni posesti
+lastnika ali najemnika, dodeli utež tveganja 35%.
+(4) Ne glede na prvi odstavek tega
+člena se lahko izpostavljenostim iz naslova poslov finančnega zakupa stanovanjskih
+nepremičnin, pri katerih je banka zakupodajalec, v delu, ki je zavarovan z
+lastninsko pravico na teh nepremičninah, ob izpolnjevanju vseh pogojev iz
+24. člena tega sklepa dodeli utež tveganja 35%.
+24. člen
+(Pogoji za uporabo uteži tveganja 35% za
+izpostavljenosti, zavarovane s stanovanjskimi nepremičninami)
+(1) Da se delu izpostavljenosti,
+zavarovanemu s stanovanjsko nepremičnino, dodeli utež tveganja 35%, morajo biti
+izpolnjeni naslednji pogoji:
+(a)    vrednost nepremičnine ne sme biti bistveno odvisna od kreditne
+kvalitete dolžnika, razen če izključno makroekonomski dejavniki vplivajo na
+vrednost nepremičnine in na izpolnjevanje obveznosti dolžnika;
+(b)    tveganost dolžnika ne sme biti bistveno odvisna od donosnosti
+zadevne nepremičnine ali projekta, ampak od zmogljivosti dolžnika, da poplača
+dolg iz drugih virov. Vračilo dolga kot tako ne sme biti bistveno odvisno od
+katerega koli denarnega pritoka, ki ga ustvarja zadevna nepremičnina, ki služi
+kot zavarovanje;
+(c)    izpolnjene morajo biti minimalne zahteve iz 17. člena sklepa o
+kreditnih zavarovanjih in pravila za vrednotenje iz 89. do 92. člena
+navedenega sklepa;
+(d)    vrednost zavarovanega dela izpostavljenosti ne sme preseči 60%
+vrednosti nepremičnine, določene po pravilih za vrednotenje iz 89. do 92. člena
+sklepa o kreditnih zavarovanjih. Odstotek iz prejšnjega stavka je lahko višji,
+vendar samo če tolikšen odstotek dovoljuje nadzorni organ druge države članice,
+v kateri stanovanjska nepremičnina leži.
+(2) Kadar je izpostavljenost
+zavarovana s stanovanjsko nepremičnino, ki je na ozemlju druge države članice,
+izpolnjevanje pogoja pod (b) iz prvega odstavka tega člena ni potrebno, vendar
+samo, če nadzorni organ države članice, v kateri stanovanjska nepremičnina leži,
+dovoljuje tako izjemo.
+2.9.2. Uteži tveganja za izpostavljenosti, zavarovane s
+poslovnimi nepremičninami
+25. člen
+(Izpostavljenosti, zavarovane s poslovnimi
+nepremičninami)
+(1) Izpostavljenosti se v delu, ki je
+zavarovan s poslovnimi nepremičninami, dodeli:
+(a)    utež tveganja 100% ali
+(b)    utež tveganja, ki se dodeli dolžniku oziroma njegovemu finančnemu
+instrumentu, na katerega se izpostavljenost nanaša.
+(2) Ne glede na prvi odstavek tega
+člena se lahko izpostavljenosti, ki izpolnjuje vse pogoje iz 26. člena
+tega sklepa in ki je zavarovana s poslovnimi nepremičninami, ležečimi na
+ozemlju držav članic, dodeli utež tveganja, kot je navedeno v četrtem in petem
+odstavku tega člena.
+(3) Ne glede na prvi odstavek tega
+člena se lahko izpostavljenosti iz naslova poslov finančnega zakupa poslovnih
+nepremičnin, ležečih na ozemlju držav članic, pri katerih je banka
+zakupodajalec, v delu, ki je zavarovan z lastninsko pravico na teh
+nepremičninah, ob izpolnjevanju vseh pogojev iz 26. člena tega sklepa
+dodeli utež tveganja, kot je navedeno v četrtem in petem odstavku tega člena.
+(4) Utež tveganja 50% se uporabi za
+del zavarovane izpostavljenosti, ki ne preseže 50% tržne vrednosti poslovne
+nepremičnine. Če poslovna nepremičnina leži v drugi državi članici, ki je s
+predpisi določila kriterije za ocenjevanje hipotekarne kreditne vrednosti, se
+utež tveganja 50  % uporabi le za del zavarovane izpostavljenosti, ki ne preseže 50 % tržne
+vrednosti niti 60 % hipotekarne kreditne vrednosti poslovne
+nepremičnine. Preostalemu delu zavarovane izpostavljenosti se dodeli utež
+tveganja v skladu s prvim odstavkom tega člena.
+(5) Banka za izpostavljenost,
+zavarovano s poslovno nepremičnino, ki leži na ozemlju druge države članice,
+sme dodeliti utež tveganja, kot je navedeno v četrtem odstavku tega člena samo,
+če nadzorni organ te države članice svojim kreditnim institucijam dovoli tako
+uporabo.
+26. člen
+(Pogoji za uporabo uteži tveganja 50% za
+izpostavljenosti, zavarovane s poslovnimi nepremičninami)
+(1) Da se delu izpostavljenosti iz
+četrtega odstavka 25. člena tega sklepa dodeli utež tveganja 50%, morajo
+biti izpolnjeni naslednji pogoji:
+(a)    vrednost nepremičnine ne sme biti bistveno odvisna od kreditne
+kvalitete dolžnika, razen če izključno makroekonomski dejavniki vplivajo tako
+na vrednost nepremičnine kot tudi na izpolnjevanje obveznosti dolžnika;
+(b)    tveganost dolžnika ne sme biti bistveno odvisna od donosnosti
+zadevne nepremičnine ali projekta, ampak od zmogljivosti dolžnika, da poplača
+dolg iz drugih virov. Vračilo dolga kot tako ne sme biti bistveno odvisno od
+katerega koli denarnega pritoka, ki ga ustvarja zadevna nepremičnina, ki služi
+kot zavarovanje;
+(c)    izpolnjene morajo biti minimalne zahteve iz 17. člena sklepa o
+kreditnih zavarovanjih in pravila za vrednotenje iz 89. do 92. člena
+navedenega sklepa.
+(2) Kadar je izpostavljenost
+zavarovana s poslovno nepremičnino, ki je na ozemlju druge države članice,
+izpolnjevanje pogoja pod (b) iz prvega odstavka tega člena ni potrebno, vendar
+samo, če nadzorni organ države članice, v kateri poslovna nepremičnina leži,
+dovoljuje tako izjemo.
+2.10. Uteži tveganja za zapadle postavke
+27. člen
+(Zapadle postavke)
+Banka mora delu zapadle postavke, ki ni
+zavarovan s primernimi oblikami kreditnega zavarovanja, ki se v skladu s
+sklepom o kreditnih zavarovanjih lahko uporabljajo v standardiziranem pristopu,
+dodeliti utež tveganja:
+(a)    150%, če so bile zanj oblikovane oslabitve v znesku, ki je nižji od
+20% njegove bruto vrednosti;
+(b)    100%, če so bile zanj oblikovane oslabitve v znesku, ki ni nižji od
+20% njegove bruto vrednosti.
+28. člen
+(Zapadle postavke, zavarovane z
+nepremičninami)
+Ne glede na določbo 27. člena tega
+sklepa lahko banka delu zapadle postavke, zavarovanim z nepremičninami, dodeli
+utež tveganja 100%, če ta del izpolnjuje vse pogoje iz 24. člena tega sklepa
+ali če ta del izpolnjuje vse pogoje iz 26. člena tega sklepa in če se temu delu
+lahko v skladu s četrtim odstavkom 25. člena tega sklepa dodeli utež tveganja
+50%.
+2.11. Utež tveganja za regulatorno zelo
+tvegane izpostavljenosti
+29. člen
+(Regulatorno zelo tvegane izpostavljenosti)
+(1) Banka mora regulatorno zelo tveganim
+izpostavljenostim dodeliti utež tveganja 150%.
+(2) Ne glede na prvi odstavek tega člena se
+lahko regulatorno zelo tveganim izpostavljenostim dodeli utež tveganja:
+(a)    v skladu s 27. in 28. členom tega sklepa, če izpostavljenost
+ustreza opredelitvi zapadle postavke iz 7. točke drugega odstavka 2. člena tega
+sklepa;
+(b)    v skladu s 23. do 26. členom tega sklepa, če izpostavljenost
+ustreza opredelitvi nezapadle izpostavljenosti iz 8. točke drugega odstavka
+2. člena tega sklepa.
+2.12. Uteži tveganja za izpostavljenosti iz
+naslova naložb v krite obveznice
+30. člen
+(Izpostavljenosti iz naslova naložb v
+krite obveznice)
+Izpostavljenostim
+iz naslova naložb v krite obveznice se dodeli utež tveganja glede na utež
+tveganja kreditne institucije, ki jih je izdala, in sicer v skladu s prvim in
+drugim odstavkom 18. člena tega sklepa in Tabelo 10 tega odstavka.
+Tabela 10
+
+
+Utež tveganja
+  kreditne institucije
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+150%
+ 
+
+
+Utež tveganja
+  izpostavljenosti iz naslova naložb v krite obveznice
+ 
+
+10%
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+
+2.13. Uteži tveganja za izpostavljenosti do
+institucij ali podjetij s kratkoročno bonitetno oceno
+31. člen
+(Izpostavljenosti do institucij ali
+podjetij s kratkoročno bonitetno oceno)
+Izpostavljenostim
+do institucij ali podjetij s kratkoročno bonitetno oceno imenovane ECAI se
+dodeli utež tveganja v skladu s Tabelo 11 tega odstavka.
+Tabela 11
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+150%
+ 
+
+150%
+ 
+
+150%
+ 
+
+
+2.14. Uteži tveganja za izpostavljenosti iz
+naslova naložb v investicijske sklade
+32. člen
+(Izpostavljenosti iz naslova naložb v
+investicijske sklade)
+(1) Izpostavljenostim
+do investicijskih skladov, za katere je na razpolago dolgoročna bonitetna ocena
+imenovane ECAI, se dodeli utež tveganja v skladu s Tabelo 12 tega odstavka.
+Tabela 12
+
+
+Stopnja kreditne
+  kvalitete
+ 
+
+1
+ 
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+
+Utež tveganja
+ 
+
+20%
+ 
+
+50%
+ 
+
+100%
+ 
+
+100%
+ 
+
+150%
+ 
+
+150%
+ 
+
+
+(2) Izpostavljenostim do
+investicijskih skladov, za katere ni na razpolago dolgoročne bonitetne ocene
+imenovane ECAI, se dodeli utež tveganja 100%.
+33. člen
+(Obravnava naložb v investicijske sklade
+na podlagi njihovih osnovnih izpostavljenosti)
+(1) Banka lahko določi utež tveganja
+za izpostavljenosti do investicijskega sklada v skladu z določbami drugega in
+tretjega odstavka tega člena, če so izpolnjeni naslednji pogoji:
+(a)    investicijski sklad upravlja družba, ki je predmet nadzora v državi
+članici; če pa ga upravlja družba s sedežem zunaj države članice, morata biti
+izpolnjena naslednja dva pogoja:
+-  da je družba za upravljanje, ki upravlja investicijski sklad,
+predmet nadzora, ki je enakovreden nadzoru, določenemu v zakonodaji EU;
+-  da je zagotovljeno sodelovanje med Banko Slovenije in organom,
+pristojnim za nadzor zadevne družbe za upravljanje.
+Ne glede na prejšnji stavek se lahko kot
+primeren investicijski sklad z družbo za upravljanje zunaj EU šteje tudi tisti
+investicijski sklad, ki ga je priznal kot primernega nadzorni organ druge
+države članice;
+(b)    prospekt investicijskega sklada ali enakovreden dokument vsebuje:
+- navedbo
+kategorij sredstev, v katere lahko investicijski sklad vlaga;
+- navedbo
+morebitnih omejitev naložb in metodologijo za njihov izračun;
+(c)    investicijski sklad poroča o svojem poslovanju najmanj enkrat
+letno, kar omogoča oceno sredstev, obveznosti, rezultata poslovanja in
+aktivnosti investicijskega sklada v obdobju, za katerega se poroča.
+(2) Če banka pozna naložbe
+investicijskega sklada, lahko uteži tveganja teh naložb uporabi za izračun
+tehtane povprečne uteži tveganja za investicijski sklad.
+(3) Če banka ne pozna naložb
+investicijskega sklada, lahko izračuna tehtano povprečno utež tveganja za
+investicijski sklad tako, da upošteva pravilo, v skladu s katerim investicijski
+sklad nalaga najprej, v največjem dovoljenem obsegu v okviru svoje naložbene
+politike, v kategorije izpostavljenosti, ki imajo najvišje uteži tveganja, nato
+pa v padajočem vrstnem redu še v naložbe z nižjimi utežmi tveganja, dokler ne
+doseže skupnega investicijskega limita.
+(4) Banki lahko izračun uteži tveganja
+za investicijski sklad in poročilo o izračunu pripravi tretja oseba v skladu z
+metodami iz drugega in tretjega odstavka tega člena pod pogojem, da banka
+zagotovi pravilnost izračuna in poročila.
+2.15 Uteži tveganja za ostale
+izpostavljenosti
+34. člen
+(Določene ostale izpostavljenosti)
+(1) Opredmetenim osnovnim sredstvom se
+dodeli utež tveganja 100%.
+(2) Aktivnim časovnim razmejitvam se
+dodeli utež tveganja 100%.
+(3) Denarju na poti se dodeli utež
+tveganja 20%. Denarju v blagajni in enakovrednim denarnim postavkam se dodeli
+utež tveganja 0%.
+(4) (črtan)
+(5) Naložbam v lastniške finančne
+instrumente oziroma v druge oblike kapitala, razen če so odbitne postavke od
+kapitala, se dodeli utež tveganja:
+(a)    100%, če bi se izdajatelju lastniškega finančnega instrumenta
+oziroma druge oblike kapitala v skladu z drugimi določbami tega poglavja in
+določbami tretjega poglavja tega sklepa dodelila utež tveganja 0%, 20%, 50%,
+75% ali 100%;
+(b)    150%, če bi se izdajatelju lastniškega finančnega instrumenta
+oziroma druge oblike kapitala v skladu z drugimi določbami tega poglavja in
+določbami tretjega poglavja tega sklepa dodelila utež tveganja 150%;
+(c)    »250 %, če gre za kapitalske naložbe iz četrtega odstavka 30. člena
+sklepa o kapitalu.
+Ne glede na prejšnji stavek se deležu
+neplačanega kapitala, vpisanega v Evropski investicijski sklad, in naložbam v
+lastniške finančne instrumente oziroma druge oblike kapitala, ki jih izdajo
+institucije in ki niso odbitna postavka od kapitala, razen naložbam iz
+točke (c) prejšnjega stavka, dodeli utež tveganja v skladu z
+drugim odstavkom 16. člena in 19. členom tega sklepa.
+(6) Zlatu v lastnem trezorju ali zlatu
+na posebni lokaciji, če je krito z obveznostmi v zlatu, se dodeli utež tveganja
+0%.
+(7) Pri pogodbah o prodaji in ponovnem
+nakupu sredstev (asset sale and repurchase agreements) ali pri dogovorih
+o nestandardiziranem terminskem nakupu sredstev (outright forward purchases)
+iz točke (f) oziroma (i) četrtega odstavka Priloge II tega sklepa se
+uporabi utež tveganja, ki velja za instrumente, na katere se pogodbe ali
+dogovori nanašajo, in ne utež tveganja nasprotnih strank.
+(8) Če banka zagotavlja kreditno
+zavarovanje za skupino izpostavljenosti pod pogojem, da n-to neplačilo
+med izpostavljenostmi povzroči plačilo iz naslova kreditnega zavarovanja ter
+prenehanje pogodbe, in:
+(a)    če je za produkt na razpolago bonitetna ocena primerne ECAI, ki jo
+je na podlagi prvega odstavka 10. člena sklepa o listinjenju banka
+imenovala za kategorijo pozicij v listinjenju, se mora določiti utež tveganja v
+skladu s sklepom o listinjenju;
+(b)    če za produkt ni na razpolago bonitetne ocene primerne ECAI, ki jo
+je na podlagi prvega odstavka 10. člena sklepa o listinjenju banka
+imenovala za kategorijo pozicij v listinjenju, se utež tveganja določi tako, da
+se uteži tveganja vseh izpostavljenosti v skupini, razen (n-1) izpostavljenosti,
+seštejejo, vendar največ do 1250%. Izpostavljenosti, ki se izključijo iz
+seštevka, so izpostavljenosti, ki posamično povzročajo nižji tveganjem
+prilagojen znesek izpostavljenosti, kakor je tveganjem prilagojen znesek
+izpostavljenosti katere koli druge izpostavljenosti, ki je vključena v
+seštevek.
+35. člen
+(Druge ostale izpostavljenosti)
+Vsem izpostavljenostim, ki niso obravnavane
+v 6. do 34. členu tega sklepa in ki niso pozicije v listinjenju, se dodeli
+utež tveganja 100%.
+3. UPORABA BONITETNIH OCEN ZA DOLOČANJE UTEŽI TVEGANJA
+36. člen
+(Imenovanje ECAI oziroma ECA)
+(1) Banka lahko imenuje eno ali več
+primernih ECAI za vsako izmed naslednjih kategorij izpostavljenosti:
+(a)    izpostavljenosti do enot centralne ravni držav in do centralnih
+bank;
+(b)    izpostavljenosti do enot regionalne ali lokalne ravni držav;
+(c)    izpostavljenosti do oseb javnega sektorja;
+(d)    izpostavljenosti do multilateralnih razvojnih bank;
+(e)    izpostavljenosti do institucij, vključno z izpostavljenostmi do
+institucij s kratkoročno bonitetno oceno;
+(f)    
+izpostavljenosti do podjetij, vključno z
+izpostavljenostmi do podjetij s kratkoročno bonitetno oceno;
+(g)    izpostavljenosti iz naslova naložb v investicijske sklade.
+(2) Banka lahko za kategorijo
+izpostavljenosti do enot centralne ravni držav in do centralnih bank imenuje
+tudi eno ali več primernih ECA.
+(3) Ne glede na prvi odstavek tega
+člena banka ne more za primerno ECAI imenovati tiste ECAI:
+(a)    ki je njena podrejena družba,
+(b)    ki je njena nadrejena družba ali
+(c)    v kateri ima posredno ali neposredno več kot 10-odstotni delež
+glasovalnih pravic ali več kot 10-odstotni delež v kapitalu, če ima skupaj z
+drugimi bankami posredno oziroma neposredno več kot 50-odstotni delež
+glasovalnih pravic ali več kot 50-odstotni delež v kapitalu.
+(4) Banka, ki za posamezno kategorijo
+izpostavljenosti imenuje primerno ECAI oziroma primerno ECA, mora bonitetne
+ocene te ECAI oziroma MEIP te ECA uporabljati trajno in dosledno za vse
+izpostavljenosti iz zadevne kategorije.
+37. člen
+(Veljavnost bonitetnih ocen)
+Banka mora uporabljati samo tiste bonitetne
+ocene imenovane ECAI oziroma tiste MEIP imenovane ECA, ki jih zadevna ECAI
+oziroma ECA objavlja kot veljavne na dan, za katerega se v skladu s Sklepom o
+poročanju o kapitalu in kapitalskih zahtevah bank in hranilnic (Uradni list RS,
+št. 135/06) poroča o kapitalski zahtevi za kreditno tveganje po
+standardiziranem pristopu.
+37.a člen
+(Uporaba bonitetnih ocen imenovane ECAI,
+ki ji je bilo razveljavljeno priznanje primernosti)
+(1) Banka lahko bonitetne ocene
+imenovane ECAI, kateri je Banka Slovenije izdala odločbo o razveljavitvi
+priznanja primernosti, uporablja še največ tri mesece po izbrisu zadevne ECAI
+iz seznama primernih ECAI, ki ga v skladu s prvim odstavkom 34. člena sklepa o
+ECAI Banka Slovenije objavlja na svoji spletni strani.
+(2) Ne glede na prvi odstavek tega
+člena lahko banka bonitetne ocene imenovane ECAI, ki je registrirana ali
+certificirana v skladu z Uredbo o bonitetnih agencijah in za katero je Evropski
+organ za vrednostne papirje in trge (ESMA) sprejel ukrep iz točke (a) ali (c) 24.
+člena Uredbe o bonitetnih agencijah, uporablja še največ toliko časa po
+sprejemu ukrepa, kot je določeno v četrtem odstavku 24. člena Uredbe o
+bonitetnih agencijah.
+38. člen
+(Uporaba pooblaščenih in nepooblaščenih
+bonitetnih ocen)
+(1) Banka mora uporabljati pooblaščene
+in nepooblaščene bonitetne ocene imenovane ECAI.
+(2) Ne glede na določbo prvega
+odstavka tega člena banka ne sme uporabljati nepooblaščenih bonitetnih ocen
+imenovane ECAI, če Banka Slovenije v skladu z 12. členom sklepa o ECAI
+razveljavi del priznanja primernosti zadevne ECAI, ki se nanaša na njene
+nepooblaščene bonitetne ocene, in tako na seznamu primernih ECAI iz prvega
+odstavka 34. člena sklepa o ECAI dovoli le uporabo pooblaščenih bonitetnih
+ocen.
+39. člen
+(Uporaba celotnih in delnih bonitetnih
+ocen)
+Banka mora uporabljati samo tiste bonitetne
+ocene imenovane ECAI, ki upoštevajo dolgovano glavnico in dolgovane obresti.
+40. člen
+(Bonitetne ocene oziroma MEIP ene ali več
+imenovanih ECAI oziroma ECA za isto izpostavljenost)
+(1) Če je za določeno izpostavljenost
+na razpolago bonitetna ocena oziroma MEIP le ene imenovane ECAI oziroma ECA, se
+za določanje uteži tveganja uporabi ta bonitetna ocena oziroma MEIP.
+(2) Če sta za določeno izpostavljenost
+na razpolago bonitetni oceni oziroma MEIP dveh imenovanih ECAI oziroma ECA in
+če bonitetnima ocenama oziroma MEIP ustrezata različni uteži tveganja, se
+uporabi višja utež tveganja.
+(3) Če so za določeno izpostavljenost
+na razpolago bonitetne ocene oziroma MEIP treh ali več imenovanih ECAI oziroma
+ECA, se upoštevata dve bonitetni oceni oziroma MEIP z najnižjima utežema
+tveganja. Če sta najnižji uteži tveganja enaki, se uporabi ta utež tveganja. Če
+se najnižji uteži tveganja razlikujeta, se uporabi višja utež tveganja.
+41. člen
+(Uporaba dolgoročnih bonitetnih ocen
+dolžnika in finančnih instrumentov imenovane ECAI)
+(1) Če je finančni instrument, na
+katerega se nanaša izpostavljenost do dolžnika, ocenjen z dolgoročno bonitetno
+oceno imenovane ECAI, mora banka to bonitetno oceno uporabiti za določanje
+uteži tveganja izpostavljenosti.
+(2) Če finančni instrument, na
+katerega se nanaša izpostavljenost do dolžnika, ni ocenjen z dolgoročno bonitetno
+oceno imenovane ECAI in če je imenovana ECAI izdelala najmanj eno dolgoročno
+bonitetno oceno za dolžnika ali njegove druge finančne instrumente, mora banka za določanje uteži tveganja izpostavljenosti uporabiti višjo izmed naslednjih dveh uteži:
+(a)    najvišja utež tveganja med utežmi tveganja, ki ustrezajo
+dolgoročnim bonitetnim ocenam dolžnika oziroma njegovih drugih finančnih
+instrumentov, ki jih je izdelala imenovana ECAI;
+(b)    utež tveganja, ki bi se v skladu z določbami 6. do 21. in 32. člena tega sklepa dodelila zadevni izpostavljenosti, če na razpolago ne bi bilo
+nobene dolgoročne bonitetne ocene imenovane ECAI.
+(3) Ne glede na določbo drugega
+odstavka tega člena lahko banka izpostavljenosti, ki se nanaša na finančni
+instrument, ki ga imenovana ECAI ni ocenila, dodeli utež tveganja, ki ustreza dolgoročni
+bonitetni oceni finančnega instrumenta, ki je neocenjenemu instrumentu enakovreden
+ali podrejen. Za namen prejšnjega stavka se šteje, da je dolgoročna bonitetna
+ocena dolžnika dolgoročna bonitetna ocena njegovih najbolj nadrejenih
+nezavarovanih obveznosti (the most senior unsecured obligations).
+(4) Ne glede na določbe prejšnjih
+odstavkov tega člena lahko banka za izpostavljenosti iz naslova naložb v krite
+obveznice uporabi pravila o določanju uteži tveganja iz 30. člena tega
+sklepa.
+(5) Banka bonitetne ocene enega
+podjetja v skupini ne sme uporabiti za določanje uteži tveganja
+izpostavljenosti do drugega podjetja iz iste skupine.
+42. člen
+(Uporaba kratkoročnih bonitetnih ocen
+finančnih instrumentov imenovane ECAI)
+(1) Banka lahko uporablja kratkoročne
+bonitetne ocene le za določanje uteži tveganja izpostavljenosti do institucij
+in do podjetij.
+(2) Banka uporabi kratkoročno
+bonitetno oceno finančnega instrumenta, ki jo je izdelala imenovana ECAI, le za
+določanje uteži tveganja izpostavljenosti iz naslova ocenjenega finančnega
+instrumenta.
+(3) Če bi se finančnemu instrumentu s
+kratkoročno bonitetno oceno imenovane ECAI, ki ga je izdala institucija ali
+podjetje, v skladu s Tabelo 11 iz 31. člena tega sklepa dodelila utež tveganja
+150%, mora banka ne glede na določbo drugega odstavka tega člena in ne glede na
+določbe drugega in tretjega odstavka 41. člena tega sklepa vsem neocenjenim
+dolgoročnim in neocenjenim kratkoročnim izpostavljenostim do istega dolžnika
+dodeliti v skladu s to kratkoročno bonitetno oceno utež tveganja 150%.
+(4) Če bi se finančnemu instrumentu s
+kratkoročno bonitetno oceno imenovane ECAI, ki ga je izdala institucija ali
+podjetje, v skladu s Tabelo 11 iz 31. člena tega sklepa dodelila utež tveganja,
+ki ni nižja od 50%, mora banka ne glede na določbo drugega odstavka tega člena
+vsem neocenjenim kratkoročnim izpostavljenostim do iste institucije ali
+podjetja dodeliti v skladu s to kratkoročno bonitetno oceno utež tveganja:
+(a)    100%, če bi se jim ob upoštevanju določb drugega in tretjega
+odstavka 41. člena tega sklepa dodelila utež tveganja, ki je nižja od 150%;
+(b)    150%, če bi se jim ob upoštevanju določb drugega in tretjega
+odstavka 41. člena tega sklepa dodelila utež tveganja 150%.
+43. člen
+(Uporaba bonitetne ocene finančnega
+instrumenta, denominiranega v domači valuti dolžnika, in bonitetne ocene
+finančnega instrumenta, denominiranega v tuji valuti)
+(1) Za namen tretjega odstavka 41. člena
+ali drugega odstavka 42. člena tega sklepa lahko banka uporabi:
+(a)    bonitetno oceno finančnega instrumenta, denominiranega v domači
+valuti dolžnika, le za določanje uteži tveganja izpostavljenosti do istega
+dolžnika, denominirane v domači valuti dolžnika;
+(b)    bonitetno oceno finančnega instrumenta, denominiranega v določeni
+tuji valuti, le za določanje uteži tveganja izpostavljenosti do istega
+dolžnika, ki je denominirana v isti tuji valuti.
+(2) Ne glede na določbo prvega
+odstavka tega člena lahko banka za namen tretjega odstavka 41. člena ali
+drugega odstavka 42. člena tega sklepa uporabi bonitetno oceno finančnega
+instrumenta, denominiranega v domači valuti dolžnika, če je izpostavljenost
+banke do istega dolžnika, ki ni denominirana v domači valuti dolžnika, nastala
+na podlagi soudeležbe multilateralne razvojne banke, navedene v prvem odstavku
+16. člena tega sklepa.
+
+Priloga
+I: Oblike izpostavljenosti, primerne za kritno premoženje
+Priloga
+II: Razvrstitev zunajbilančnih postavk
+Priloga
+III: Enote lokalne ali regionalne ravni Republike Slovenije, katerih tveganost
+se ne razlikuje od tveganosti enot centralne ravni Republike Slovenije
+Priloga
+IV: Osebe javnega sektorja s sedežem v Republiki Sloveniji, katerih tveganost
+se ne razlikuje od tveganosti enot centralne ravni Republike Slovenije
+Priloga
+V: Shematski prikaz postopka razvrščanja posameznih izpostavljenosti
+
+Sklep o izračunu kapitalske zahteve za
+kreditno tveganje po standardiziranem pristopu za banke in hranilnice (Uradni
+list RS, št. 135/06)
+vsebuje naslednje prehodne in končne določbe:
+»4. PREHODNE IN KONČNE DOLOČBE
+44. člen
+(Izpostavljenosti
+do enot centralne ravni držav članic in njihovih centralnih bank, denominiranih
+in financiranih v domači valuti katere koli države članice)
+Do 31. decembra 2012 se lahko ne glede
+na določbe 6. člena tega sklepa izpostavljenostim do enot centralne ravni
+posamezne države članice in do njene centralne banke, ki so denominirane in
+financirane v domači valuti katere koli države članice, dodeli utež tveganja
+0%.
+45. člen
+(Krite
+obveznice, izdane pred 31. decembrom 2007)
+Pri kritih obveznicah, izdanih pred
+31. decembrom 2007, ni potrebno, da je kritno premoženje v eni izmed oblik
+iz Priloge I tega sklepa.
+46. člen
+(Odlog začetka
+uporabe standardiziranega pristopa za izračun kapitalske zahteve za kreditno
+tveganje)
+(1) Banka, ki v skladu s prvim
+odstavkom 405. člena ZBan-1 odloži začetek uporabe standardiziranega
+pristopa za izračun kapitalske zahteve za kreditno tveganje do 1. januarja
+2008, uporablja do tega datuma namesto določb 1. do 45. člena tega sklepa
+smiselno določbe V. in XIV. poglavja Sklepa o kapitalski ustreznosti bank in
+hranilnic (Uradni list RS, št. 24/02, 85/02, 22/03, 36/04, 68/04, 103/04,
+124/04, 62/05, 67/05 in 74/06).
+(2) Banka, ki začne uporabljati
+standardizirani pristop za izračun kapitalske zahteve za kreditno tveganje
+tekom leta 2007, mora z dnem začetka uporabe omenjenega pristopa začeti
+uporabljati tudi določbe 1. do 45. člena tega sklepa.
+47. člen
+(Začetek veljavnosti
+sklepa)
+Ta sklep začne veljati 1. januarja
+2007.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 104/07) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+19. člen
+Do 30. 6. 2008 lahko banka za namen prvega odstavka 4. člena Sklepa o izračunu kapitalske zahteve za kreditno tveganje
+po standardiziranem pristopu za banke in hranilnice pri razvrščanju posameznih
+izpostavljenosti uporablja tudi postopek razvrščanja, ki se razlikuje od
+postopka razvrščanja iz 18. člena tega sklepa (Priloga V), vendar mora v tem
+primeru Banki Slovenije posredovati tudi shematski prikaz uporabljenega
+postopka razvrščanja.
+20. člen
+Ta sklep začne veljati osmi dan po objavi v
+Uradnem listu Republike Slovenije.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 85/10) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+7. člen
+Ta sklep začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne
+31. decembra 2010.
+Ne glede na prvi odstavek tega člena se
+določba novega 37.a člena sklepa začne uporabljati 7. decembra 2010.«.
+
+Sklep o spremembi Sklepa o izračunu kapitalske
+zahteve za kreditno tveganje po standardiziranem pristopu za banke in
+hranilnice (Uradni list RS, št. 97/10) spreminja 44. člen sklepa tako, da
+se glasi:
+»44. člen
+(Izpostavljenosti
+do enot centralne ravni držav članic in njihovih centralnih bank, denominiranih
+in financiranih v domači valuti katere koli države članice)
+Do 31. decembra 2015 se lahko ne glede na določbe 6. člena tega sklepa
+izpostavljenostim do enot centralne ravni posamezne države članice in do njene
+centralne banke, ki so denominirane in financirane v domači valuti katere koli
+države članice, dodeli utež tveganja 0%.«;
+ter vsebuje naslednjo končno določbo:
+»2. člen
+Ta sklep začne veljati 31. decembra 2010.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 62/11)
+vsebuje naslednjo končno določbo:
+»4. člen
+Ta sklep
+začne veljati naslednji dan po objavi
+v Uradnem listu Republike Slovenije.
+Ne glede na prvi odstavek tega člena se določba 2. člena tega sklepa začne
+uporabljati 31. decembra 2011.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 100/11)
+vsebuje naslednjo končno določbo:
+»3. člen
+Ta sklep
+začne veljati naslednji dan po objavi
+v Uradnem listu Republike Slovenije.«.
+
+Sklep o spremembi Sklepa o izračunu kapitalske
+zahteve za kreditno tveganje po standardiziranem pristopu za banke in
+hranilnice (Uradni list RS, št. 22/12) vsebuje naslednjo
+končno določbo:
+»2. člen
+Ta sklep
+začne veljati 31. marca 2012.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 100/12) vsebuje naslednjo končno določbo:
+»4. člen
+Ta sklep
+začne veljati naslednji dan po objavi
+v Uradnem listu Republike Slovenije.«.
+
+Sklep o spremembi in dopolnitvi Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje po standardiziranem pristopu
+za banke in hranilnice (Uradni list RS, št. 60/13) vsebuje naslednjo končno določbo:
+»3. člen
+Ta sklep
+začne veljati naslednji dan po objavi
+v Uradnem listu Republike Slovenije.«.

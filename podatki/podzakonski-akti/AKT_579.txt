@@ -1,0 +1,640 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+S tem aktom se določajo način in pravila za vodenje registra
+potrdil o izvoru, pogoji za odprtje računa v registru, vodenje računa in
+zaprtje računa v registru ter način in oblika sporočanja podatkov o proizvodnji
+električne energije.
+2. člen
+Izrazi, uporabljeni v tem aktu, imajo naslednji pomen:
+-       
+Register potrdil o izvoru (v nadaljnjem besedilu: Register PoI):
+centralna podatkovna baza potrdil o izvoru, kot jo določa Energetski zakon
+(Uradni list RS, št. 27/07 – uradno prečiščeno besedilo in 70/08; v nadaljnjem
+besedilu: EZ);
+-       
+račun: je del registra potrdil o izvoru, v katerem so vneseni
+uporabnikovi podatki o njegovih potrdilih o izvoru ter omogoča uporabniku
+izdajo in upravljanje potrdil o izvoru;
+-       
+transakcija: izdaja, prenos, unovčenje, uvoz, pretvorba ali izvoz
+potrdil o izvoru;
+-       
+potrdilo o izvozu potrdil o izvoru: elektronsko ali pisno dokazilo o
+številu izvoženih potrdil o izvoru;
+-       
+potrdilo o unovčenju potrdil o izvoru: elektronsko ali pisno dokazilo o
+številu uveljavljenih potrdil o izvoru.
+II. NAČIN IN PRAVILA ZA VODENJE REGISTRA POTRDIL O IZVORU
+3. člen
+(1) Register PoI je centralna podatkovna baza, ki je podpora sistemu
+izdajanja in upravljanja potrdil o izvoru, in se vodi v elektronski obliki.
+(2) Register PoI je dostopen vsak dan od 0. do 24. ure na spletnem
+naslovu https://poi.borzen.si.
+(3) Za delo z registrom potrdil o izvoru mora imeti uporabnik
+osebni računalnik z dostopom do svetovnega spleta in nameščenim spletnim
+brskalnikom Microsoft Internet Explorer 6.0 ali Mozzila Firefox 2.0 oziroma
+novejšo verzijo omenjenih brskalnikov.
+4. člen
+(1) Uporabnikom, ki ne izpolnjujejo zahteve iz tretjega odstavka
+3. člena, vsako zahtevano transakcijo in operacijo, povezano z računom, izvede
+Javna agencija Republike Slovenije za energijo (v nadaljnjem besedilu:
+agencija). V tem primeru morajo uporabniki za vsako transakcijo, ki jo želijo
+opraviti, poslati pisno zahtevo po pošti na naslov agencije.
+(2) Agencija transakcije iz prejšnjega odstavka izvede najpozneje
+v dvajsetih delovnih dneh po prejemu zahteve.
+5. člen
+(1) V javnem delu Registra PoI je objavljen seznam
+registriranih proizvodnih naprav, ki so registrirane v sistem izdajanja potrdil
+o izvoru, in splošne informacije o sistemu izdajanja potrdil o izvoru ter
+kontaktni podatki o osebah, odgovornih za izdajo potrdil o izvoru.
+(2) Uporabnik Registra PoI ima poleg vpogleda v javni del vpogled
+še v podatke, ki se nanašajo na njegove proizvodne naprave, in potrdila o
+izvoru.
+(3) Register PoI mora vsebovati vsaj naslednje:
+-       
+seznam naprav za proizvodnjo električne energije z veljavno deklaracijo
+za proizvodno napravo, ki so registrirane v sistem izdajanja potrdil o izvoru,
+ki vključuje ime proizvodne naprave, nazivno električno moč in energetski vir,
+ločeno za obnovljive vire in soproizvodnjo;
+-       
+količine proizvedene električne energije po posameznih proizvodnih
+napravah na mesečni ravni;
+-       
+seznam imetnikov potrdil o izvoru s podatki o vseh potrdilih o izvoru,
+ki jih ima posamezen imetnik, vključno s podatkom o državi, v kateri je bilo
+izdano posamezno potrdilo;
+-       
+podatke o vseh prenosih lastništva posameznega potrdila o izvoru;
+-       
+seznam unovčenih potrdil o izvoru z vsemi podatki o posameznem potrdilu
+in podatki o lastniku unovčenega potrdila;
+-       
+seznam potrdil o izvoru, ki so bila pridobljena iz tujine in vnesena v
+register (uvoženih), in seznam potrdil o izvoru, prenesenih v tujino
+(izvoženih).
+(4) Register PoI mora biti izveden tako, da preprečuje
+morebitno dvojno ali večkratno izdajo potrdil o izvoru za določeno količino
+električne energije.
+6. člen
+Med opravljanjem vzdrževalnih del register ni dostopen. Upravljavec
+registra mora uporabnike o načrtovanih vzdrževalnih delih obvestiti z novico na
+začetni strani Registra PoI vsaj en delovni dan pred začetkom le‑teh.
+7. člen
+(1) Če informacijski sistem Registra PoI neha delovati zaradi
+okvare ali napake strojne opreme upravljavca registra, zaradi okvare ali napake
+aplikacije ali zaradi drugih vzrokov, ki so v domeni upravljavca registra, mora
+biti ponovno delovanje sistema zagotovljeno najpozneje v desetih delovnih dneh
+od izpada delovanja sistema, razen v primerih višje sile.
+(2) Upravljavec registra mora o izpadu delovanja in o ponovni
+vzpostavitvi registra obvestiti uporabnike registra takoj, ko je to mogoče.
+(3) Uporabnike registra o okvari iz prvega odstavka tega člena
+obvesti z objavo obvestila na začetni strani Registra PoI takoj, ko je to
+mogoče.
+(4) Upravljavec registra ne odgovarja za nobeno škodo, ki bi
+izhajala iz dostopa do, uporabe ali nezmožnosti uporabe Registra PoI.
+III. POGOJI IN NAČIN ODPRTJA, VODENJA IN ZAPRTJA RAČUNA
+8. člen
+Račun v registru je del registra, v katerega so vneseni uporabnikovi
+podatki in podatki o vseh potrdilih o izvoru, s katerimi je uporabnik opravljal
+transakcije.
+9. člen
+V registru PoI je mogoče odpreti naslednje vrste računov:
+-       
+račun proizvajalca,
+-       
+račun trgovca,
+-       
+račun centra za podpore,
+-       
+posebne račune agencije.
+10. člen
+(1) Račun v registru proizvajalcu omogoča registracijo njegovih
+proizvodnih naprav na ta račun. Potrdila o izvoru za proizvodno napravo,
+registrirano na določenem računu, se izdajo na ta račun.
+(2) Račun trgovca v registru imajo lahko vsi potencialni imetniki
+potrdil o izvoru.
+(3) Račun centra za podpore je namenjen upravljanju s potrdili
+o izvoru, ki so na Center za podpore prenesena v skladu z zakonodajnimi
+obvezami sistema podpor proizvodnji električne energije iz obnovljivih virov in
+soproizvodnji električne energije in toplote z visokim izkoristkom.
+(4) Agencija lahko za potrebe izvajanja z zakonodajo določenih
+nalog odpre posebne račune zase in za druge osebe.
+(5) Agencija upravlja s potrdili o izvoru na osnovi izjave iz
+Priloge III, ki je kot priloga sestavni del tega akta, če proizvajalec za
+določeno proizvodno napravo prejema podporo proizvodnji električne energije iz
+obnovljivih virov in soproizvodnji električne energije in toplote z visokim
+izkoristkom.
+11. člen
+(1) Račun v registru potrdil o izvoru imajo lahko vsi
+potencialni imetniki potrdil o izvoru, ki vložijo zahtevo za odprtje računa.
+(2) Za odprtje računa proizvajalca mora proizvajalec
+upravljati vsaj eno proizvodno napravo z veljavno deklaracijo za proizvodno
+napravo.
+(3) Proizvajalci, ki želijo odpreti račun proizvajalca in prejemati
+potrdila o izvoru za prejemanje podpor proizvodnji električni energije iz
+obnovljivih virov energije (v nadaljnjem besedilu: OVE) ali v soproizvodnji z
+visokim izkoristkom (v nadaljnjem besedilu: SPTE), lahko podajo zahtevo za
+odprtje računa in izdajo potrdil o izvoru po enostavnem postopku skladno z 12.
+členom tega akta.
+(4) Proizvajalci, ki želijo na svoj račun registrirati in
+prejemati potrdila o izvoru za proizvodnjo iz proizvodnih naprav, za katere ne
+prejemajo podpore, in nameravajo s potrdili o izvoru opravljati transakcije,
+podajo zahtevo za izdajo potrdil o izvoru skladno s 13. členom tega akta.
+(5) Vsaka pravna ali fizična oseba ima lahko odprt samo en
+račun za opravljanje transakcij s potrdili o izvoru.
+(6) Zahteva za zaprtje računa se poda na obrazcu iz Priloge I,
+ki je kot priloga sestavni del tega akta. 
+Postopek odprtja računa za proizvajalce, ki želijo
+prejemati potrdila o izvoru izključno za prejemanje podpore
+12. člen
+Vloga za odprtje računa in izdajo potrdil o izvoru se poda na
+obrazcu iz Priloge II, ki je kot priloga sestavni del tega akta. 
+Postopek odprtja računa za proizvajalce, ki želijo
+opravljati transakcije s potrdili o izvoru in postopek odprtja računa trgovca
+13. člen
+(1) Zahteva za odprtje računa se vloži v elektronski obliki, in
+sicer tako, da vlagatelj zahteve izpolni spletni obrazec za registracijo v
+Registru PoI, ki se nahaja na spletnem naslovu registra potrdil o izvoru in je
+dostopen po kliku na gumb »Registracija «. Po pošti mora uporabnik, ki je
+izpolnil spletni obrazec, poslati še vlogo iz Priloge III.
+(2) Vsebina spletnega obrazca iz
+prejšnjega odstavka je prikazana v tabeli 1.
+
+
+Ime in priimek
+
+Ime in priimek
+  odgovorne osebe
+
+
+Podjetje/s. p.
+
+Ime podjetja ali
+  samostojnega podjetnika (pri registraciji fizične osebe, ki ni s. p., tega
+  polja ni)
+
+
+Naslov
+
+Naslov podjetja ali
+  fizične osebe
+
+
+Poštna številka
+
+Poštna številka
+  podjetja ali fizične osebe
+
+
+Poštni predal
+
+Poštni predal podjetja
+  ali fizične osebe
+
+
+Kraj
+
+Ime kraja, kjer ima
+  podjetje sedež, oziroma naslov fizične osebe.
+
+
+Država
+
+Ime države, v kateri
+  ima podjetje sedež, oziroma država, v kateri ima stalno prebivališče fizična
+  oseba.
+
+
+Vrsta računa
+
+Če boste opravljali
+  transakcije s potrdili o izvoru in nimate proizvodnih naprav, za katere bi
+  lahko prejemali potrdila o izvoru, izberite »Trgovec«.
+Če boste registrirali
+  svoje proizvodne naprave za izdajo potrdil o izvoru in opravljali transakcije
+  s potrdili o izvoru, izberite »Proizvajalec«.
+
+
+Davčna številka
+
+Davčna številka
+  podjetja s črkovno predpono države (npr. SI za Slovenijo) 
+
+
+Matična številka
+
+Matična številka
+  podjetja
+
+
+Telefonska številka
+
+Telefonska številka
+  osebe, ki bo dostopala do računa.
+
+
+Faks
+
+Številka faksa osebe,
+  ki bo dostopala do računa. 
+
+
+E-naslov
+
+Naslov elektronske
+  pošte osebe, ki bo dostopala do računa.
+
+
+URL
+
+Naslov spletne strani
+  podjetja ali fizične osebe
+
+
+Opomba
+
+Prostor za morebitne
+  opombe
+
+
+Tabela 1: Opis
+vnosnih polj registracije uporabnika
+Če so vsa polja ustrezno izpolnjena, se prikaže okno za potrditev
+podatkov.
+Če je uporabnik izbral profil trgovca s klikom na gumb »Pošlji«,
+potrdi ustreznost podatkov in pošlje podatke agenciji. S tem je postopek
+registracije za račun trgovca končan.
+Uporabnik, ki odpira račun kot proizvajalec, s klikom na gumb
+»Naprej« potrdi vnesene podatke. Postopek lahko nadaljuje z registracijo
+proizvodnih naprav, lahko pa ga konča s klikom na gumb »Končaj« in proizvodne
+naprave registrira pozneje, ko bo imel dostop do svojega računa v Registru PoI.
+Če je uporabnik izbral gumb
+»Naprej«, se mu odpre spletni obrazec z vsebino iz tabele 2. 
+
+
+Število vnesenih naprav
+  
+
+Število naprav, za
+  katere je uporabnik že vnesel zahtevek za registracijo.
+
+
+Ime
+
+Ime naprave
+
+
+Naslov
+
+Naslov (lokacija)
+  proizvodne naprave
+
+
+Poštna številka
+
+Poštna številka naslova
+  proizvodne naprave
+
+
+Kraj
+
+Kraj naslova proizvodne
+  naprave
+
+
+Država
+
+Privzeto je izbrano
+  Slovenija
+
+
+Nazivna moč naprave
+  [kW]
+
+Moč elektrarne na
+  sponkah generatorja kW
+
+
+Številka merilnega
+  mesta
+
+Številka prevzemno-predajnega
+  mesta (9-mestno število). Številke merilnih mest proizvodnih naprav so objavljene
+  na spletni strani registra potrdil o izvoru. Za ogled seznama je treba na
+  prvi strani klikniti gumb »Dokumentacija«.
+
+
+Številka deklaracije za
+  proizvodno napravo
+
+Številka deklaracije za
+  proizvodno napravo
+
+
+Veljavnost do
+
+Veljavnost deklaracije
+  za proizvodno napravo
+
+
+Podpora
+
+Brez: izberite,
+  če proizvodna naprava ne prejema ali ni prejela javne podpore.
+OVE-P =
+  subvencija za investiranje v proizvodne naprave. Izberite, če ste kdaj
+  prejeli investicijsko podporo za proizvodno napravo.
+OVE-C
+  = subvencija za proizvodnjo energije. Izberite, če trenutno prejemate podporo
+  (zagotovljen odkup, obratovalna podpora) za proizvedeno električno energijo.
+OVE-I =
+  subvencija za oboje, za investiranje v proizvodne naprave in za proizvodnjo.
+
+
+Tehnološka koda
+
+OVE
+  – obnovljivi vir energije
+SPTE
+  – soproizvodnja toplote in električne energije
+OVE kombi –
+  kombinirana OVE proizvodna naprava
+
+
+Vir energije
+
+Vrsta primarnega vira
+  za proizvodnjo električne energije
+
+
+Operater
+
+Izberite omrežje, na
+  katero je priključena proizvodna naprava.
+
+
+Način proizvodnje
+
+Izberite način proizvodnje
+  električne energije:
+- proizvodnja iz OVE
+  ali
+- SPTE (soproizvodnja).
+
+
+Številka proizvodne
+  naprave 
+
+18-mestna številka
+  proizvodne naprave 
+Izberete lahko, da vam Register PoI samodejno dodeli številko proizvodne naprave, ali pa vpišete svojo številko GSRN.
+Če pustite polje
+  prazno, vam Register PoI samodejno dodeli številko računa proizvodne naprave.
+
+
+Tabela 2: Opis vnosnih polj
+registracije proizvodne naprave
+(3) Na podlagi pravilno izpolnjenega spletnega obrazca za
+registracijo in izpolnjenega obrazca iz Priloge III agencija vlagatelju zahteve
+odpre račun v registru.
+14. člen
+(1) Agencija najpozneje v petnajstih delovnih dneh po uspešno
+izvedeni registraciji (izpolnitvi spletnega obrazca) in prejemu pravilno
+izpolnjenega obrazca iz Priloge III potrdi registracijo uporabnika.
+(2) Po potrditvi registracije prejme uporabnik oziroma njegov
+pooblaščenec na svoj elektronski naslov geslo za vstop v Register PoI in
+spletni naslov, na katerem lahko prevzame svoj digitalni certifikat (v
+nadaljnjem besedilu: certifikat). Po navadni pošti prejme uporabnik v treh
+delovnih dneh po potrditvi registracije še geslo za prevzem certifikata, ki ga
+potrebuje ob namestitvi certifikata na svoj računalnik. Po namestitvi
+certifikata uporabnik uporablja za dostop do registra potrdil o izvoru še geslo
+za vstop v sistem. Svoje geslo za vstop v sistem si lahko v registru potrdil o
+izvoru uporabnik tudi kadarkoli spremeni.
+(3) Uporabnik Registra PoI mora za varnost poslovanja poskrbeti
+tudi sam. Uporabnik oziroma njegov pooblaščenec mora poskrbeti, da nezaželena
+oseba nima dostopa do njegovega certifikata in zasebnega ključa ali osebnega
+gesla, ki jih prejme ob odprtju računa. S pomočjo didgitalnega certifikata in
+zasebnega ključa ter osebnega gesla uporabnika se lahko nepooblaščena oseba
+identificira v njegovem imenu in v njegovem imenu opravlja transakcije v
+registru. Zato mora vsak uporabnik oziroma njegov pooblaščenec svoje osebno
+geslo in certifikat ter zasebni ključ skrbno varovati.
+15. člen
+Proizvajalci lahko zahtevajo izdajo potrdil o izvoru po prijavi
+v svoj račun s klikom na gumb »Potrdila o izvoru«, kjer izberejo »Izdaja«.
+Agencija v dvajsetih delovnih dneh po prejemu zahteve potrdila o izvoru izda
+skladno z Uredbo o izdaji deklaracij za proizvodne naprave in potrdil o izvoru
+električne energije.
+16. člen
+(1) Če so proizvodne naprave določenega proizvajalca vključene
+v sistem podpor, celoten račun tega proizvajalca upravlja agencija.
+(2) Agencija za proizvodne naprave, ki prejemajo podporo in
+za katere je proizvajalec zahteval izdajo potrdil o izvoru in je do njih tudi
+upravičen glede na predpise, ki urejajo njihovo izdajo, zagotovi prenos potrdil
+o izvoru na Center za podpore, kar proizvajalcu omogoča nemoteno prejemanje
+podpore skladno s predpisi, ki urejajo področje podpor.
+17. člen
+Račun lahko agencija zapre v naslednjih primerih:
+-       
+če je to zahteval uporabnik,
+-       
+če je od zadnje prijave ali izdaje potrdil o izvoru na račun minilo več
+kot pet let,
+-       
+če je uporabnik računa kršil določila zakonskih aktov, ki urejajo sistem
+potrdil o izvoru.
+18. člen
+(1) Uporabnik, ki ne razpolaga z ustreznimi tehničnimi možnostmi,
+lahko za upravljanje njegovega računa in potrdil o izvoru pooblasti agencijo s
+pisnim pooblastilom.
+(2) Do preklica pooblastila vsako želeno operacijo v zvezi z
+njegovim računom opravi agencija najpozneje v dvajsetih delovnih dneh po
+prejemu pisnega zahtevka uporabnika.
+19. člen
+Uporabnik lahko od agencije pisno zahteva izpis količine potrdil
+o izvoru na njegovem računu in drugih podatkov z njegovega računa.
+20. člen
+Uporabnik računa lahko upravlja le potrdila o izvoru, ki so na
+njegovem računu in so bila izdana za električno energijo, proizvedeno v
+proizvodnih napravah, ki ne prejemajo podpor.
+21. člen
+Za vse operacije so uporabniku na voljo priročniki, do katerih
+lahko dostopa po prijavi na račun s klikom na gumb »Pomoč«. Priročniki
+vsebujejo opis izvedbe vseh operacij po korakih s pripadajočimi zaslonskimi
+slikami. 
+IV. TRANSAKCIJE S POTRDILI O IZVORU
+22. člen
+(1) V Registru PoI je mogoče opraviti naslednje transakcije:
+-       
+izdajo potrdil o izvoru (izdajo lahko izvede samo agencija na račun
+proizvajalca, ki je zahteval izdajo),
+-       
+prenos potrdil o izvoru na drug račun v registru potrdil o izvoru,
+-       
+prenos (izvoz) potrdil o izvoru v druge države,
+-       
+unovčenje potrdil o izvoru,
+-       
+pridobitev (uvoz) potrdil o izvoru iz drugih držav.
+(2) Na vsakem računu je razviden seznam izdanih, prenesenih, uvoženih,
+izvoženih in unovčenih potrdil o izvoru.
+(3) Uporabnik računa mora transakcije izvajati posebno pazljivo,
+saj je izvedena transakcija dokončna in je ni mogoče popraviti oziroma
+spremeniti.
+(4) Za prenos v tujino (izvoz) in unovčenje si lahko
+uporabnik izpiše potrdilo o izvozu oziroma potrdilo o unovčenju potrdil o
+izvoru.
+(5) Uporabnik lahko zaprosi agencijo za žigosanje in podpis potrdil
+iz prejšnjega odstavka. Agencija najpozneje v petih delovnih dneh od
+uporabnikove zahteve navedena potrdila žigosa in po pošti pošlje uporabniku.
+Uporabnik lahko zahtevo za žigosanje potrdil pošlje agenciji pisno po pošti. V
+zahtevi je treba navesti serijske številke potrdil, ki jih želi imeti žigosane,
+pri čemer se za vsako serijsko številko potrdilo o izvoru žigosa samo enkrat.
+23. člen
+(1) Uporabniki so odgovorni za vsako transakcijo, ki jo izvedejo
+v Registru PoI.
+(2) Če uporabnik meni, da je stanje na njegovem računu napačno
+zaradi napake v sistemu, lahko agenciji poda ugovor z opisom napake in predloži
+ustrezna dokazila.
+(3) Agencija v 15 delovnih dneh ugotovi, ali je dejansko prišlo
+do spremembe zaradi napake v delovanju registra potrdil o izvoru, in odpravi
+morebitno nepravilnost. 
+Prenos na drug račun v Registru PoI
+24. člen
+(1) Uporabnik lahko potrdila o izvoru s svojega računa prenese
+na račun drugega uporabnika v Registru PoI.
+(2) S potrdili o izvoru iz prvega odstavka tega člena
+uporabnik po prenosu ne more več opravljati transakcij. Količina in druge
+informacije o prenosu so razvidne iz uporabnikovega seznama prenesenih potrdil
+o izvoru.
+Unovčenje potrdil o izvoru
+25. člen
+(1) Uporabnik lahko potrdila o izvoru, ki so na njegovem računu,
+unovči na svoje ime ali na ime končnega kupca potrdil o izvoru.
+(2) Pri unovčenju potrdil o izvoru na ime kupca zunaj območja
+Republike Slovenije Register PoI pošlje sporočilo o unovčenju agenciji. Po
+pregledu poslanega sporočila o unovčenju s strani agencije se unovčenje
+dokončno izvede. Agencija je zavezana sporočilo o unovčenju pregledati
+najpozneje v desetih delovnih dneh po prejemu.
+(3) S potrdili o izvoru iz prvega odstavka tega člena
+uporabnik po unovčenju ne more več opravljati transakcij. Količina in druge
+informacije o unovčenju so razvidne iz uporabnikovega seznama unovčenih potrdil
+o izvoru.
+(4) Ko je transakcija končana, se v Registru PoI sestavi dokument
+s podatki o unovčenih potrdilih o izvoru, ki ga uporabnik lahko shrani na
+računalnik oziroma natisne.
+Izvoz potrdil o izvoru
+26. člen
+(1) Uporabnik lahko potrdila o izvoru, ki so na njegovem računu,
+izvozi na ime pravne ali fizične osebe v tujini.
+(2) Pri izvozu potrdil o izvoru na ime kupca zunaj območja Republike
+Slovenije Register PoI pošlje sporočilo o izvozu agenciji. Ko agencija
+sporočilo o izvozu pregleda, se izvoz dokončno izvede. Agencija je zavezana
+sporočilo o izvozu pregledati najpozneje v desetih delovnih dneh po njegovem prejemu.
+(3) S potrdili o izvoru iz prvega odstavka tega člena uporabnik
+po izvozu ne more več opravljati transakcij. Količina in druge informacije o
+izvozu so razvidne iz uporabnikovega seznama izvoženih potrdil o izvoru.
+(4) Ko je transakcija končana, se sestavi dokument s podatki o
+izvoženih potrdilih o izvoru, ki ga uporabnik lahko shrani na svoj računalnik
+oziroma natisne.
+Uvoz potrdil o izvoru v Register PoI
+27. člen
+(1) Za uvoz potrdil o izvoru v Register PoI je treba po prijavi
+v račun v Registru PoI v spletni obrazec vnesti vse zahtevane podatke o
+potrdilih o izvoru, ki jih uporabnik želi uvoziti, in izvirnike poslati
+agenciji skupaj s pisno prošnjo za uvoz.
+(2) Uvoz potrdil o izvoru v Register PoI agencija potrdi ali zavrne
+v dvajsetih delovnih dneh in o tem obvesti uporabnika.
+(3) Zavrnitev uvoza pomeni izključno zavrnitev vnosa potrdil o
+izvoru v Register PoI in ne vpliva na priznavanje potrdil o izvoru.
+V. SPOROČANJE PODATKOV O PROIZVODNJI
+28. člen
+(1) Proizvajalci so zavezani posredovati agenciji izmerjene količine
+na vseh merilnih mestih (napravah), ki so navedena v odločbi o deklaraciji za
+proizvodno napravo.
+(2) Proizvajalci posredujejo podatke po spletu s pomočjo uporabniškega
+imena in gesla na spletni naslov, ki ga prejmejo skupaj z deklaracijo za
+proizvodno napravo.
+(3) Na naslovu iz prejšnjega odstavka morajo proizvajalci vpisati
+mesečne količine za vse merilne naprave, navedene v odločbi o deklaraciji za
+proizvodno napravo, in druge podatke, ki so navedeni v odločbi o deklaraciji za
+proizvodno napravo.
+(4) Podatke morajo posredovati najpozneje do petega delovnega
+dne tekočega meseca za prejšnji mesec. Proizvajalci, ki ne prejemajo podpore,
+lahko mesečne podatke o proizvodnji vpišejo najpozneje do petega delovnega dne
+tekočega koledarskega leta za prejšnje leto.
+(5) Proizvajalci, ki proizvajajo električno energijo v
+proizvodnih napravah OVE in proizvodnih napravah SPTE z nazivno električno
+močjo, manjšo od 1 MW, lahko s podpisom izjave iz Priloge IV, ki je kot priloga
+sestavni del tega akta, pristanejo, da se kot podatek o izmerjeni količini
+električne energije za določeno merilno mesto uporabi podatek iz
+30. člena tega akta.
+29. člen
+Proizvajalci, ki nimajo ustreznih tehničnih možnosti,
+posredujejo podatke iz prejšnjega člena v pisni obliki s podpisom proizvajalca
+oziroma odgovorne osebe v rokih, navedenih v prejšnjem členu.
+30. člen
+(1) Sistemski operaterji so zavezani v Register PoI vnašati podatke
+o mesečni proizvodnji električne energije v vseh proizvodnih napravah.
+(2) Sistemski operaterji so zavezani sporočati podatke o
+mesečni proizvodnji proizvodne naprave (zaokroženo na1 kWh) za vse proizvodne
+naprave, ki so priključene na njihovo omrežje ali ki obratujejo znotraj
+zaokroženih gospodarskih kompleksov, povezanih na njihovo omrežje.
+(3) Sistemski operaterji dodelijo merilnemu mestu, ki meri proizvedeno
+električno energijo iz proizvodne naprave, devetmestno številko merilnega
+mesta, ki enoznačno označuje proizvodno napravo.
+(4) Sistemski operaterji morajo agenciji posredovati
+naslednje podatke:
+-       
+ime in priimek odgovorne osebe, ki bo posredovala podatke,
+-       
+elektronski naslov odgovorne osebe,
+-       
+telefonsko številko odgovorne osebe,
+-       
+številko faksa odgovorne osebe.
+(5) Podatke morajo sistemski operaterji vnesti najpozneje dvanajsti
+delovni dan v mesecu za prejšnji mesec. Vpis je mogoč prek datoteke XML, katere
+vsebino, obliko in obseg določi agencija.
+(6) Če sistemski operater vnese napačne podatke, lahko s
+ponovnim vnosom popravljene datoteke XML stanje meritev proizvedene električne
+energije popravi. Velja zadnji uspešen vnos datoteke XML. Če ponovni vnos ne
+vsebuje podatkov za določeno merilno mesto, veljajo podatki prejšnjega vnosa. Popravki
+so mogoči do vključno petnajstega delovnega dne v mesecu (časovno okno za vnos
+meritev) za meritve prejšnjega meseca. Po poteku tega roka popravki niso več
+mogoči. O tem, pri katerih merilnih mestih je bil narejen popravek in za
+kolikšno količino, mora oseba, ki v imenu sistemskega operaterja vpisuje podatke
+o proizvodnji, po elektronski pošti obvestiti agencijo na naslov: poi@agen‑rs.si.
+(7) Sistemski operaterji so zavezani pošiljati seznam
+proizvodnih naprav (elektrarn) s pripadajočimi številkami merilnih mest
+agenciji ob vsaki spremembi seznama na naslov: poi@agen‑rs.si. Vsaka številka merilnega mesta enoznačno določa
+posamezno proizvodno napravo (elektrarno) in se ne sme spreminjati.
+(8) Sistemski operaterji so odgovorni za točnost in ažurnost vnesenih
+podatkov.
+VI. PREHODNA IN KONČNA DOLOČBA
+31. člen
+Proizvajalci, ki že imajo odprt račun v registru in
+registrirane naprave, za katere prejemajo potrdila o izvoru, morajo za potrebe
+prejemanja podpor poslati izpolnjen obrazec iz Priloge II. Za proizvodne
+naprave, za katere proizvajalci prejemajo podpore, slednji več ne morejo
+razpolagati s potrdili o izvoru za proizvodnjo od vključno koledarskega leta
+2009 naprej, ker jih agencija za čas, ko prejemajo podpore, prenese na Center za
+podpore.
+32. člen
+Ta akt začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 133-2/2009/EE-31
+Maribor, dne 3. aprila 2009
+EVA 2009-2111-0214
+Predsednik sveta
+Javne agencije
+Republike Slovenije za energijo
+dr. Franc Žlahtič l.r.
+
+Priloga
+I: Vloga za zaprtje računa v Registru PoI
+Priloga
+II: Vloga za odprtje računa proizvajalca – enostavni postopek
+Priloga
+III: Vloga za odprtje računa za opravljanje transakcij
+Priloga
+IV: Izjava o sporočanju podatkov o proizvodnji električne energije

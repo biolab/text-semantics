@@ -1,0 +1,127 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+Ta splošni akt določa organizacijske
+ukrepe, ki jih morajo sprejeti operaterji za zaščito hranjenih podatkov pred
+uničenjem, izgubo, spremembo ter nepooblaščenimi ali nezakonitimi oblikami
+hrambe, obdelave, dostopa ali razkritja.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem splošnem
+aktu, imajo naslednji pomen:
+1.     
+Agencija je neodvisen regulativni organ, katere pristojnosti,
+organizacija in delovanje določa Zakon o elektronskih komunikacijah (Uradni
+list RS, št. 109/12, v nadaljevanju: ZEKom-1).
+2.     
+Sistem upravljanja varovanja informacij (v nadaljevanju: SUVI) je tisti
+del celotnega sistema upravljanja, ki temelji na pristopu poslovnega tveganja
+in zagotavlja vzpostavitev, vpeljavo, delovanje, spremljanje, pregledovanje,
+vzdrževanje in izboljševanje varnosti omrežij.
+3.     
+Varnost omrežja in storitev je zmožnost javnega komunikacijskega
+omrežja, da z določeno stopnjo gotovosti prepreči naključne dogodke ali
+zlonamerna dejanja, ki ogrožajo zaupnost, verodostojnost, celovitost ali
+razpoložljivost shranjenih ali prenesenih podatkov ter s tem povezanih javno
+dostopnih komunikacijskih storitev, ki jih ponujajo ta omrežja in ali so prek
+njih dostopne.
+4.     
+Dokumentiran postopek pomeni, da je postopek zapisan.
+5.     
+Hranjeni podatki so podatki, ki so določeni v 164. členu ZEKom-1.
+6.     
+Obdelava podatkov je obdelava osebnih podatkov skladno z zakonom, ki
+ureja varstvo osebnih podatkov.
+7.     
+Zagotavljanje celovitosti je koncept varovanja pravilnosti in popolnosti
+hranjenih podatkov.
+8.     
+Zaupnost je lastnost hranjenih podatkov, ki zagotavlja, da informacija
+ni na voljo ali razkrita nepooblaščenim osebam ali procesom.
+9.     
+Razpoložljivost je lastnost hranjenih podatkov, ki zagotavlja, da so
+podatki ves čas hrambe dostopni in uporabni na zahtevo pooblaščenih oseb.
+(2) Ostali pojmi, uporabljeni v tem
+splošnem aktu, imajo enak pomen, kot je določen v ZEKom-1.
+3. člen
+(sistem upravljanja varovanja informacij)
+(1) Operater mora sprejeti in izvajati
+postopke in ukrepe za zavarovanje hranjenih podatkov, ki morajo hranjene
+podatke zaščititi pred slučajnim ali namernim uničenjem, izgubo ali spremembo
+in nepooblaščenimi ali nezakonitimi oblikami hrambe, obdelave, dostopa ali
+razkritja.
+(2) Operater mora postopke in ukrepe
+iz prvega odstavka tega člena obravnavati v okviru enotnega SUVI, s smiselno
+uporabo I. poglavja splošnega akta o varnosti omrežij in storitev, sprejetega
+na podlagi 86. člena ZEKom-1.
+II. HRAMBA PODATKOV
+4. člen
+(splošno o hranjenih podatkih)
+Hranjeni podatki morajo biti enake
+kakovosti kot podatki, ki so biti zajeti v omrežju. Določbe 5. člena tega splošnega
+akta, ki veljajo za hranjene podatke, se smiselno uporabljajo tudi za prenos
+podatkov od zajetja v omrežju do informacijskega sistema za hrambo podatkov.
+5. člen
+(zavarovanje hranjenih podatkov)
+(1) Postopki in tehnologija za hrambo
+podatkov morajo zagotavljati nadzor dostopa do hranjenih podatkov in popolno
+sledljivost obdelave hranjenih podatkov z zagotavljanjem celovitosti, zaupnosti
+in razpoložljivosti hranjenih podatkov. Vsak zajem, dostop, spreminjanje ali
+druga oblika obdelave hranjenih podatkov mora biti evidentirana z revizijsko
+sledjo.
+(2) Dostop do hranjenih podatkov mora
+biti omejen na posameznike z ustreznimi pooblastili. Operater mora sprejeti in
+vzdrževati ažuren seznam pooblastil, ki omogočajo dostop do hranjenih podatkov
+in revizijske sledi.
+(3) Informacijski sistem za hrambo
+podatkov mora biti ločen in neodvisen od drugih informacijskih sistemov
+operaterja ter mora zagotavljati fizično in logično varnost. Oprema za hrambo
+podatkov mora biti nameščena v varnem prostoru, ki onemogoča neavtoriziran
+dostop. Zagotovljena mora biti zaščita pred vplivi okolja.
+(4) Informacijski sistem za hrambo
+podatkov mora zagotavljati zaščito zoper izgubo podatkov z rednim izdelovanjem,
+preverjanjem kakovosti in varnim hranjenjem varnostnih kopij. Za zavarovanje
+varnostnih kopij hranjenih podatkov veljajo iste zahteve kot za zavarovanje
+hranjenih podatkov.
+(5) Pri prenosu podatkov v hrambo
+drugemu operaterju ali tretjim strankam preko elektronskih komunikacijskih
+omrežij se šteje, da so podatki ustrezno zavarovani, če se posredujejo z
+uporabo kriptografskih metod, tako, da je zagotovljena njihova nečitljivost
+oziroma neprepoznavnost med prenosom.
+6. člen
+(avtentičnost in celovitost)
+(1) Postopki in tehnologija za hrambo
+podatkov morajo onemogočiti spremembo ali izbris podatkov med v času hrambe in
+zagotavljati povezanost reproducirane vsebine z vsebino izvirnih podatkov iz
+omrežja ter revizijsko sled.
+(2) Avtentičnost in celovitost
+hranjenih podatkov se mora zagotoviti z dodajanjem varnostnih vsebin (npr.
+elektronski podpis, časovni žig in podobno), z drugimi sorodnimi tehnološkimi
+sredstvi in postopki, ki omogočajo dokazovanje avtentičnosti in celovitosti
+hranjenih podatkov (npr. tehnološka sredstva, ki omogočajo enkratno zapisovanje
+in večkratno branje) ali z zagotavljanjem dodatnih organizacijskih ukrepov.
+(3) Avtentičnost in celovitost
+hranjenih podatkov ter revizijske sledi v digitalni obliki morata biti
+zagotovljeni ves čas hrambe podatkov.
+(4) Operater nosi breme dokazovanja
+avtentičnosti, celovitosti in preprečevanja tajenja obdelave hranjenih podatkov
+in revizijske sledi.
+7. člen
+(uničenje hranjenih podatkov)
+Uničenje hranjenih podatkov na elektronskih
+pomnilnih medijih mora biti izvedeno tako, da jih ni mogoče delno ali v celoti
+obnoviti ali prebrati s pomočjo posebnih tehničnih sredstev oziroma postopkov.
+III. KONČNA DOLOČBA
+8. člen
+(začetek veljavnosti)
+(1) Ta splošni akt začne veljati
+naslednji dan po objavi v Uradnem listu Republike Slovenije.
+(2) Z dnem uveljavitve tega splošnega
+akta se preneha uporabljati Splošni akt o tajnosti, zaupnosti in varnosti elektronskih
+komunikacij ter hrambi in zavarovanju hranjenih podatkov (Uradni list RS, št.
+126/08).
+Št. 0073-46/2013/14
+Ljubljana, dne 30. avgusta 2013
+EVA 2013-3330-0123
+Franc Dolenc l.r.
+direktor

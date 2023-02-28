@@ -1,0 +1,1015 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa bistvene in posebne zahteve, ki jih
+morajo izpolnjevati vodomeri za hladno ali vročo vodo (v nadaljnjem besedilu:
+vodomeri), postopke ugotavljanja skladnosti in overitev, roke rednih overitev
+in način označevanja. 
+Ta pravilnik se označi s skrajšano oznako MP-43-R49-1 in R
+72.
+2. člen
+Vodomeri v tem pravilniku so: 
+-       
+vodomeri za merjenje porabe vode v stanovanjskih in drugih objektih,
+vključno z vodomeri, ki se uporabljajo kot delilniki stroškov, 
+-       
+vodomeri za merjenje načrpane vode na črpalnih postajah, 
+-       
+vodomeri, ki se uporabljajo v sklopu sistemov za zagotavljanje splošne
+varnosti (npr. vodomeri na priključkih za gašenje požarov), 
+-       
+kombinirani vodomeri, 
+-       
+vodomeri, ki se uporabljajo v sklopu merilnikov toplotne energije, 
+-       
+vodomeri za merjenje kondenzata in 
+-       
+vodomeri z elektronskimi pomožnimi napravami.
+3. člen
+Šteje se, da vodomeri, ki izpolnjujejo vse zahteve
+mednarodnega priporočila OIML R 49-1 Mednarodne organizacije za zakonsko
+meroslovje (OIML) (v nadaljnjem besedilu: OIML R 49-1) ali OIML R 72 Mednarodne
+organizacije za zakonsko meroslovje (OIML) (v nadaljnjem besedilu: OIML R 72),
+izpolnjujejo tudi zahteve tega pravilnika. 
+Sklicevanje na mednarodni priporočili OIML R 49-1 in OIML R
+72 izhaja iz članstva Republike Slovenije v Mednarodni organizaciji za zakonsko
+meroslovje (Organisation International de Métrologie Légale). 
+Mednarodni priporočili OIML R 49-1 in OIML R 72 v francoskem
+jeziku in prevod v angleškem jeziku sta dosegljivi na Uradu RS za meroslovje v
+Ljubljani.
+4. člen
+V tem pravilniku uporabljeni izrazi imajo naslednji pomen: 
+1.     
+»kombinirani vodomer« je sklop dveh vodomerov z različnim območjem
+pretokov, ki skupaj s pomožnimi napravami sestavljata vodomer z razširjenim
+območjem pretokov za merjenje porabe vode na mestih, kjer poraba niha v mejah,
+ki so širše od delovnega območja posameznega vodomera; 
+2.     
+»vodomer z elektronskimi pomožnimi napravami« je vodomer, pri katerem so
+določene glavne ali pomožne funkcije merila izvedene z elektronskimi vezji; 
+3.     
+»pomožna kontrolna naprava« je naprava, ki je vgrajena v vodomer z
+elektronskimi pomožnimi napravami in je namenjena odkrivanju in kompenziranju
+pomembnih napak. Glede na način delovanja ločimo pomožne kontrolne naprave tipa
+P (avtomatsko in stalno delovanje v vsem času merjenja) in naprave tipa I
+(avtomatsko občasno izvajanje kontrolne funkcije); 
+4.     
+»pretok« je prostornina vode, ki preteče skozi vodomer v časovni enoti
+in v smeri, ki je označena na vodomeru. Navaja se lahko v kubičnih metrih na
+uro ali v litrih na uro; 
+5.     
+»najmanjši pretok (Q1)« je spodnja meja območja pretokov, pri kateri
+vodomer še izpolnjuje zahteve glede največjih dopustnih pogreškov; 
+6.     
+»prehodni pretok (Q2)« je vrednost pretoka med najmanjšim pretokom in
+trajnim (nazivnim) pretokom, pri kateri se območje pretoka razdeli v zgornje in
+spodnje področje. Vsako področje ima značilen največji dopustni pogrešek; 
+7.     
+»trajni (nazivni) pretok (Q3)« je največji pretok, pri katerem mora
+vodomer stalno delovati brez prekoračitve največjega dopustnega pogreška pri
+enakomernem ali neenakomernem pretoku. Ta podatek se šteje za karakteristično
+oznako vodomera; 
+8.     
+»največji pretok (Q4)« je zgornja meja območja pretokov, pri kateri
+vodomer lahko deluje za kratek čas brez prekoračitve največjega dopustnega
+pogreška; 
+9.     
+»kazalna naprava« je del vodomera, ki prikazuje rezultat meritve stalno
+ali na zahtevo. Tiskalnik se ne šteje za kazalno napravo; 
+10.  
+»naprava za nastavitev« je naprava, ki je vgrajena v vodomer in se
+uporablja za (paralelno) premaknitev krivulje pogreškov, da bi se pogreški v
+posameznih točkah merilnega območja umestili v meje največjega dopustnega
+pogreška; 
+11.  
+»najvišja dopustna temperatura« je najvišja temperatura vode, ki ji je
+vodomer lahko izpostavljen znotraj obratovalnega območja brez poslabšanja
+njegovih meroslovnih lastnosti; 
+12.  
+»delovna temperatura« je srednja vrednost temperature, merjene pred
+vodomerom in za njim gledano v meri pretoka skozi vodomer; 
+13.  
+»delovni tlak« je srednja vrednost tlaka, merjenega pred vodomerom in za
+njim; 
+14.  
+»padec tlaka« se nanaša na določeno vrednost pretoka in je izguba tlaka
+zaradi prisotnosti vodomera v cevi; 
+15.  
+»nazivni obratovalni pogoji« določajo območja vrednosti vplivnih
+veličin, pri katerih ostaja pogrešek kazanja v okviru največjega dopustnega
+pogreška; 
+16.  
+»vplivna veličina« je veličina, ki na splošno ni predmet merjenja,
+vendar vpliva na rezultat merjenja; 
+17.  
+»motnja« je vrednost vplivne veličine, ki je še znotraj predpisanih
+mejnih vrednosti, vendar izven vrednosti, ki so opredeljene kot nazivni
+obratovalni pogoji vodomera; 
+18.  
+»največji dopustni pogrešek v uporabi« je enak dvojni vrednosti
+pogreška, ki velja za postopke ugotavljanja skladnosti. Ta kriterij se
+uporablja samo pri kontroli vodomera, ki je bil vzet iz vodovodnega omrežja
+izključno zaradi kontrole delovanja; 
+19.  
+»overitveni razdelek« je najmanjši razdelek na skali, ki pripada
+gibljivemu elementu (kazalcu ali številskemu kolutu), in predstavlja najnižjo
+številčno vrednost prikazovanega rezultata meritve. Pri digitalni kazalni
+napravi je ta razdelek lahko prepoznaven v posebnem načinu delovanja s povečano
+ločljivostjo, ki se vključi samo pri overjanju; 
+20.  
+»ločljivost kazalne naprave« je najmanjša razlika med kazanji kazalne
+naprave, ki jo je še mogoče razločiti; 
+21.  
+»pomožne naprave« so vse naprave, ki kot del vodomera opravljajo pomožno
+funkcijo pri izvajanju meritve, daljinskem prenosu ali prikazovanju rezultata
+meritve (npr. naprava za ničliranje, naprava za nastavljanje, podvojena kazalna
+naprava, dajalnik impulzov, naprava za prednastavitev želene vrednosti, naprave
+za shranjevanje rezultatov merjenja glede na določeno tarifo ali druge
+kriterije itd.). Pomožne naprave so lahko mehanske ali elektronske; 
+22.  
+»relativni pogrešek« je razlika med prikazano vrednostjo prostornine in
+pravo vrednostjo prostornine vode, deljena s pravo vrednostjo prostornine; 
+23.  
+»največji dopustni pogrešek« je največji relativni pogrešek vodomera, ki
+je še dovoljen po tem pravilniku; 
+24.  
+»napaka« je sprememba v nazivnih obratovalnih pogojih glede na kazanje v
+referenčnih pogojih; 
+25.  
+»pomembna napaka« je tista napaka, ki preseže polovico vrednosti največjega
+dopustnega pogreška v zgornjem območju pretokov.
+II. BISTVENE ZAHTEVE
+5. člen
+Nazivni obratovalni pogoji so za: 
+1.     
+razmerja pretokov: 
+Q3/Q1 > 10 
+Q2/Q1 ≥ 1,6 
+Q4/Q3 ≥ 1,25 
+Vrednost za pretok Q3 se izbere po tabeli 1.
+Tabela 1
+
+
+1
+
+1,6
+
+2,5
+
+4
+
+6,3
+
+
+10
+
+16
+
+25
+
+40
+
+63
+
+
+100
+
+160
+
+250
+
+400
+
+630
+
+
+1000
+
+1600
+
+2500
+
+4000
+
+6300
+
+
+Možne vrednosti za
+razmerje Q3/Q1 se izberejo po tabeli 2. 
+Tabela 2
+
+
+10
+
+12,5
+
+16
+
+20
+
+25
+
+31,5
+
+40
+
+50
+
+63
+
+80
+
+
+100
+
+125
+
+160
+
+200
+
+250
+
+315
+
+400
+
+500
+
+630
+
+800
+
+
+2.     
+temperaturno delovno območje: 
+- 
+za vodomere za hladno vodo: od 0,1 °C do najmanj 30 °C; 
+- 
+za vodomere za vročo vodo: od 30 °C do najmanj 90 °C. 
+Vodomeri so lahko predvideni tudi za
+delovanje na obeh temperaturnih delovnih območjih. 
+3.     
+področje delovnih tlakov: 
+- 
+od 0,3 bara do najmanj 10 barov za vodomere za hladno ali vročo vodo. 
+4.     
+razrede okolja, ki se določajo po tabeli 3. 
+Tabela 3
+
+
+Združena mehanska
+  in klimatska okolja
+
+
+Okolje
+
+C1
+
+C2
+
+ C3
+
+
+M1
+
+A
+
+ B
+
+ C
+
+
+M2
+
+D
+
+ E
+
+ F
+
+
+M3
+
+G
+
+ H
+
+ I
+
+
+Klimatska okolja so: 
+-       
+v razred C1 so vključeni zaprti prostori z zvezno kontrolo temperature
+in brez kontrole vlažnosti. Kjer je potrebno, se za ohranjanje zahtevanih
+pogojev uporablja gretje, hlajenje ali vlaženje zraka. Merila so lahko
+izpostavljena sončnemu in toplotnemu sevanju ter prepihu zaradi delovanja
+klimatskega sistema ali odprtih oken, ne smejo pa biti izpostavljena
+kondenzirani vlagi, padavinam ali zmrzovanju, 
+-       
+v razred C2 so vključeni zaprti prostori brez kontrole temperature in
+vlažnosti. Za dvig nizkih temperatur se lahko uporablja gretje, še posebej ob
+velikih razlikah med pogoji zaprtega prostora in zunanjimi pogoji. Merila so
+lahko izpostavljena sončnemu in toplotnemu sevanju, prepihu, lahko pa tudi
+kondenzu in vodi iz vseh virov, razen ledenim tvorbam, 
+-       
+v razred C3 so vključene odprte lokacije s povprečnimi klimatskimi pogoji,
+pri čemer so izključena polarna in puščavska okolja. 
+Mehanska okolja so: 
+-       
+v razred M1 so vključeni prostori, kjer je stopnja vibracij in udarcev
+manjša, npr. zanemarljive vibracije in udarci na konstrukcijah, na katere so
+merila pritrjena zaradi okoljskih del, 
+-       
+v razred M2 so vključeni prostori z večjimi ali močnejšimi vibracijami
+in udarci, npr. ki jih povzročajo stroji in mimo vozeča vozila ali težki
+stroji, tekoči trakovi itd., 
+-       
+v razred M3 so vključene lokacije, kjer je stopnja vibracij močna ali zelo
+močna, npr. če so merila pritrjena neposredno na stroje, tekoče trakove itd. 
+Elektromagnetna okolja so: 
+-       
+razred E1 predstavljajo stanovanjsko, poslovno in lahko industrijsko
+okolje, 
+-       
+razred E2 predstavlja splošno industrijsko okolje. 
+Vodomeri morajo biti predvideni za razrede B, C, E ali F iz
+tabele 3. 
+Za nazivne obratovalne pogoje se štejejo vrednosti, ki so
+znotraj naslednjih mejnih pogojev: 
+območje pretokov: vključno Q1 do vključno Q3,
+temperatura okolja: +5 °C do +55 °C, 
+relativna vlaga: 0% do 100% razen za ločljive
+kazalne naprave, kjer je 0% do 93%, 
+območje delovne temperature: 0,3 °C do 30 °C
+za hladno vodo in 30 °C do 90 °C za vročo vodo, 
+območje delovnih tlakov: 0,3 bar do najmanj
+10 bar.
+6. člen
+Referenčni pogoji so: 
+-       
+pretok: 0,7 x (Q2 + Q3) ± 0,03 x (Q2 + Q3), 
+-       
+delovna temperatura: (20 ± 5) C za hladno vodo, (50 ± 5) °C za vročo
+vodo, 
+-       
+temperatura okolja: (20 ± 5) °C 
+-       
+relativna vlaga: (60 ± 15)% 
+-       
+zračni tlak: 0,86 bar do 1,06 bar.
+7. člen
+Proizvajalec vodomera mora označiti, ali je vodomer predviden
+tudi za delovanje v pogojih pretoka vode v nasprotni smeri od označene ali ne. 
+Vodomeri, ki so predvideni tudi za delovanje v pogojih
+pretoka vode v nasprotni smeri od označene, lahko prostornino vode, pretečene v
+nasprotni smeri odštevajo od prostornine, registrirane v označeni smeri
+pretoka, ali to prostornino vode registrirajo na drugačen način, pri čemer mora
+biti izpolnjena zahteva glede največjega dopustnega pogreška iz 8. člena tega
+pravilnika v obeh smereh delovanja. 
+Vodomeri, ki niso predvideni za delovanje v nasprotni smeri
+pretoka, morajo: 
+-       
+s svojo konstrukcijo preprečevati pretok vode v smeri, ki je nasprotna
+označeni, ali 
+-       
+kratkotrajne naključne spremembe smeri pretoka prestati brez posledic,
+ki bi povzročile trajne spremembe meroslovnih lastnosti vodomera.
+8. člen
+Največji dopustni pogreški, ki veljajo pri postopkih
+ugotavljanja skladnosti, so: 
+-       
+za vodomere za hladno vodo, razred I: 
+± 1% (Q2 ≤ Q ≤ Q4), 
+± 3% (Q1 ≤ Q ≤ Q2); 
+-       
+za vodomere za hladno vodo, razred II: 
+± 2% (Q2 ≤ Q ≤ Q4), 
+± 5% (Q1 ≤ Q ≤ Q2); 
+-       
+za vodomere za vročo vodo: 
+± 3% (Q2 ≤ Q ≤ Q4), 
+± 5% (Q1 ≤ Q ≤ Q2). 
+Vodomeri morajo izpolnjevati zahteve glede največjega
+dopustnega pogreška pri vseh vrednostih temperature in tlaka znotraj nazivnih
+obratovalnih pogojev.
+9. člen
+Kombinirani vodomeri so samostojna funkcionalna enota,
+sestavljena iz naslednjih treh komponent: 
+-       
+vodomera za večje vrednosti pretokov, 
+-       
+vodomera za manjše vrednosti pretokov, 
+-       
+preklopne naprave, ki deluje popolnoma avtomatsko in kot vir energije za
+delovanje izkorišča samo učinek vodnega tlaka. 
+Preklopna naprava lahko odvisno od pretoka vode skozi
+kombinirani vodomer usmerja vodo skozi manjši vodomer: 
+-       
+pri nizkih vrednostih pretoka, skozi večji vodomer pa samo pri večjih
+vrednostih pretoka, ali 
+-       
+pri nizkih pretokih, pri večjih vrednostih pretoka pa skozi oba
+vodomera. 
+Če je kombinirani vodomer konstruiran kot sestav dveh
+samostojnih vodomerov, spojenih s preklopno napravo s pomožnimi cevnimi
+priključki, mora vsak od vodomerov izpolnjevati najmanj zahteve, določene v 5.,
+8. in 11. členu tega pravilnika. 
+Če je kombinirani vodomer konstruiran tako, da so vse
+funkcionalne enote integrirane v enem okrovu, mora preklopna naprava delovati
+skladno z določbo v drugem odstavku tega člena, izmerjena prostornina pretečene
+vode pa se lahko prikazuje na dveh ločenih kazalnih napravah ali pa na eni
+sami, ki sešteva izmerjene vrednosti obeh vodomerov.
+10. člen
+Karakteristične veličine, ki opredeljujejo kombinirani
+vodomer, so: 
+-       
+najmanjši pretok Q1k, ki je enak najmanjšemu pretoku Q1 manjšega
+vodomera, 
+-       
+prehodni pretok Q2k, ki je določen z delovanjem preklopne naprave in je
+približno enak prehodnemu pretoku Q2 manjšega ali večjega vodomera, 
+-       
+nazivni pretok Q3k, ki je približno enak nazivnemu pretoku večjega
+vodomera, in 
+-       
+največji pretok Q4k, ki je enak največjemu pretoku Q4 večjega vodomera. 
+Proizvajalec mora določiti področje pretokov, v katerem
+deluje preklopna naprava, ki mora biti čim ožje. Za nastavitev preklopa velja,
+da: 
+-       
+večji vodomer ne sme delovati v področju pretokov, ki so manjši od
+njegovega najmanjšega pretoka Q1, in da 
+-       
+manjši vodomer ne sme biti aktiven v področju pretokov, ki so večji od
+1,2-kratne vrednosti njegovega nazivnega pretoka Q3. 
+Delovanje preklopne naprave ne sme povečati merilnega
+pogreška kombiniranega vodomera preko mejnih vrednosti, ki so: 
+-       
+± 5% pri pogoju Q1k ≤ Q < Q2k, 
+-       
+± 2% pri pogoju Q2k ≤ Q < Q4k.
+III. POSEBNE ZAHTEVE
+11. člen
+Kazalna naprava pri mehanskih vodomerih ali pri vodomerih z
+elektronskimi pomožnimi napravami je lahko mehanska ali elektronska. Na njej
+mora biti poleg prikaza rezultata označena merska enota kubični meter (m3),
+število mest prikaza pa mora omogočati beleženje izmerjene prostornine, ki je
+sorazmerna 1600 uram delovanja pri trajnem (nazivnem) pretoku Q3 brez prehoda
+skozi (skupno) ničlo, kar je prikazano v naslednji tabeli: 
+Tabela 4
+
+
+Q3 (m3/h)
+
+Obseg prikaza in
+  največji odbirek (m3)
+
+
+Q3 ≤ 6,3
+
+9 999
+
+
+6,3 < Q3 ≤ 63
+
+99 999
+
+
+63 < Q3 ≤ 630
+
+999 999
+
+
+630 < Q3 ≤ 6300
+
+9 999 999
+
+
+Izmerjene vrednosti so lahko prikazane: 
+-       
+s kazalci nad okroglimi ločenimi številčnicami ali 
+-       
+z na isti osi nameščenimi številskimi koluti, katerih stanje se prikaže
+v posebnem okencu. 
+Kazalci se morajo vrteti v smeri urinega kazalca, številski
+koluti pa v smeri od spodaj navzgor. 
+Barva številk mehanske naprave, ki prikazujejo kubični meter
+in njegove večkratnike, mora biti črna. Številke, ki prikazujejo prostornino,
+manjšo od osnovne enote (m3), morajo biti rdeče. Številke naj bodo
+visoke vsaj 4 mm. 
+Enak sistem barvnega označevanja velja za vse elemente, ki so
+vključeni v prikaz izmerjene vrednosti (dodatni kazalci z okroglo skalo, vrteči
+koluti, ki imajo vlogo indikatorja delovanja itd.). 
+Dopustna je tudi kazalna naprava, ki je v celoti elektronska,
+če je zagotovljeno jasno ločevanje med primarnim prikazovanjem celotne
+izmerjene vrednosti in alternativnimi načini prikaza, ki se uporabljajo samo
+pri preskusih in umerjanju. 
+Dolžina in vrednost overitvenih razdelkov morata
+zagotavljati, da pogrešek zaradi ločljivosti ni večji od: 
+-       
+0,25% za vodomer za hladno vodo razreda I in 
+-       
+0,5% za vodomer za hladno vodo razreda II in za vodomer za vročo vodo 
+glede na prostornino vode, ki preteče skozi
+vodomer pri pretoku Q1 v času 1 ure in 30 minut. 
+Na kazalni napravi in po potrebi tudi na okrovu vodomera so
+dopustne tudi dodatne pomožne barvne oznake, ki kažejo temperaturno delovno
+območje vodomera (modra barva za vodomere za hladno vodo in rdeča barva za
+vodomere za vročo vodo). 
+Digitalna kazalna naprava mora biti zasnovana tako, da je
+prikaz izmerjenega rezultata v normalnem načinu delovanja vodomera jasno
+ločljiv od prikaza s povečano resolucijo, ki se namensko vključi samo pri
+overjanju. 
+Elektronska kazalna naprava mora vključevati enega izmed
+naslednjih načinov avtomatskega samopreskusa: 
+-       
+s prikazovanjem samih osmic na vseh pozicijah števil ob hkratnem
+sočasnem prikazovanju vseh drugih signalizacij, 
+-       
+utripajoč prikaz ali 
+-       
+drugačen način, ki se jasno razlikuje od normalnega delovnega načina
+prikaza po izvedbi samopreskusa. 
+Samopreskus kazalne naprave mora ne glede na izvedbo trajati
+najmanj eno sekundo.
+12. člen
+Vodomeri z elektronskimi pomožnimi napravami se napajajo z: 
+-       
+zunanjim napajanjem (enosmernim-DC ali izmeničnim-AC), 
+-       
+nezamenljivo baterijo ali 
+-       
+zamenljivo baterijo. 
+Dopustna je tudi izvedba vodomerov s kombinacijo načinov
+napajanja. 
+Ob kratkotrajni ali daljši prekinitvi zunanjega napajanja se
+mora podatek o zadnji izmerjeni vrednosti prostornine pretečene vode tik pred
+prekinitvijo ohraniti za obdobje najmanj enega leta. Šteje se, da je ta zahteva
+izpolnjena, če se v posebnem pomnilniku sproti shranjujejo rezultati meritve z
+ločljivostjo, ki ustreza prostornini 10-minutnega delovanja pri pretoku Q3. 
+Konstrukcija uporabljenih elektronskih vezij pri napajanju z
+nezamenljivimi baterijami mora zagotavljati, da bo vodomer izpolnjeval vse
+zahteve glede meroslovnih lastnosti najmanj eno leto dlje, kot je deklarirana
+življenjska doba baterije. 
+Pri vodomerih z napajanjem z zamenljivimi baterijami mora
+proizvajalec natančno opisati postopek zamenjave baterije. Na bateriji ali na
+vodomeru mora biti označen predvideni datum zamenjave. 
+Pri ocenjevanju potrebne kapacitete napajanja je treba
+upoštevati stanje vodomera, ki je s stališča porabe energije najneugodnejše. 
+Kratkotrajna prekinitev napajanja ne sme vplivati na
+spremembo meroslovnih lastnosti vodomera. 
+Konstrukcija napajanja ne sme omogočati nenačrtovanega
+zunanjega priključka. 
+Zaradi zamenjave napajanja (usmernika ali baterije) se
+overitvene oznake ne smejo uničiti.
+13. člen
+Ne glede na tip mora pomožna kontrolna naprava: 
+-       
+izvesti avtomatsko korekcijo pomembne napake, 
+-       
+blokirati pomožno napravo (modul), ki je povzročitelj te napake, če
+lahko vodomer deluje brezhibno tudi brez te pomožne naprave, ali 
+-       
+sprožiti vidni ali slišni alarmni signal, ki traja, dokler je prisotna
+pomembna napaka. 
+V primeru pošiljanja merilnih rezultatov preko naprave za
+daljinski prenos se poslani podatki lahko dodatno dopolnijo s signalizacijskim
+sporočilom, ki nakazuje prisotnost pomembne napake. Dodatek takega
+signalizacijskega sporočila ni potreben med preskusi iz 27. člena tega
+pravilnika, ki so obvezni za vodomere z elektronskimi pomožnimi napravami. 
+Vodomer ima lahko tudi pomožno napravo za oceno prostornine
+vode, ki v času trajanja napake preteče skozi vodomer, pri čemer mora biti
+zagotovljeno jasno razlikovanje v prikazu te prostornine od rezultata merjenja
+v normalnem obratovanju.
+14. člen
+Pomožna kontrolna naprava za zaznavalo pretoka mora biti tipa
+P. Nadzirati mora: 
+-       
+pravilno štetje impulzov, ki predstavljajo prirastek prostornine
+pretečene vode, 
+-       
+prisotnost pretoka v obratni smeri in 
+-       
+celotno delovanje zaznavala pretoka. 
+Podrobnosti v zvezi z izvedbo kontrolne naprave za zaznavalo
+pretoka so določene v točki 4.3.2 OIML R 49-1.
+15. člen
+Pomožna kontrolna naprava za računsko enoto zagotavlja
+pravilno delovanje te enote in hkratno validacijo izračuna energije. Naprava
+mora biti tipa P ali I. Če je naprava tipa I, mora opraviti kontrolno funkcijo
+najmanj enkrat v 24 urah ali za vsak prirastek prostornine vode, ki ustreza
+10-minutnemu delovanju pri pretoku Q3. 
+Podrobnosti v zvezi z izvedbo kontrolne naprave za računsko
+enoto so določene v točki 4.3.3 OIML R 49-1.
+16. člen
+Pomožna kontrolna naprava za nadzor delovanja kazalne naprave
+in drugih pomožnih naprav, kot so pomožni alfanumerični indikatorji, tiskalnik,
+dodatni pomnilni modul itd., je lahko tipa P ali I in nadzira: 
+-       
+prenos podatkov, ki predstavljajo pretečeno prostornino vode do enote za
+vizualni prikaz, 
+-       
+skladnost podatkov, ki se prikazujejo s podatki iz računske enote, in 
+-       
+prisotnost posameznih podsestavov kazalne naprave in drugih pomožnih
+naprav, če so te ločljive, vendar nujno potrebne za izvajanje določenih meritev
+in daljinski prenos rezultatov meritev. 
+Podrobnosti v zvezi z izvedbo pomožnih naprav in njihovim
+delovanjem so določene v točkah 4.3.4, 4.3.5 in 4.3.6 OIML R 49-1.
+17. člen
+Funkcije, ki jih opravljajo pomožne naprave, so lahko
+izvedene tudi z vgrajeno posebno programsko opremo. Programska oprema mora
+ustrezati bistvenim zahtevam iz 18. člena tega pravilnika. Zagotoviti je treba
+možnost, da se dostop do posameznih modulov oziroma funkcij, ki neposredno
+vplivajo na meroslovne lastnosti vodomera kot celote, lahko po overitvi
+primerno zaščiti.
+18. člen
+Programska oprema za izvedbo posameznih glavnih ali pomožnih
+funkcij pri vodomerih se razvršča po naslednjih merilih: 
+-       
+po stopnji tveganja glede na možnosti nepooblaščenega posega s ciljem
+spreminjanja meroslovnih lastnosti (v nadaljnjem besedilu: stopnja tveganja), 
+-       
+po stopnji programske zaščite, 
+-       
+po stopnji preskušanja programa in 
+-       
+po stopnji skladnosti programske opreme v vodomeru s programsko opremo,
+ki je bila tipsko odobrena. 
+Glede na merila iz prejšnjega odstavka tega člena se vodomeri
+uvrščajo v srednjo kategorijo, ki pomeni: 
+1.     
+stopnja programske zaščite 
+Tisti del programske opreme, ki je namenjen
+obračunavanju porabljene vode, je zaščiten z enostavnimi splošnimi programskimi
+orodji (urejevalniki besedila). 
+2.     
+stopnja preskušanja 
+Za ovrednotenje programske opreme mora
+proizvajalec ali njegov zastopnik k tehnični dokumentaciji priložiti opis
+programskih funkcij. 
+Pri lastnostih vodomera, ki niso neposredno
+predmet postopka odobritve tipa (npr. zaščita raznih elektronskih vmesnikov),
+lahko organ za ugotavljanje skladnosti upošteva izjavo proizvajalca, da
+vodomer, ki je predložen kot vzorec tipa, popolnoma ustreza opisom v predloženi
+tehnični dokumentaciji in nima nobenih drugih funkcij poleg opisanih. 
+3.     
+stopnja skladnosti programske opreme v vodomeru s programsko opremo, ki
+je bila tipsko odobrena 
+Programska oprema v vodomeru mora biti
+skladna s tehnično dokumentacijo, ki je bila predložena zahtevi za odobritev
+tipa. Opisu v tehnični dokumentaciji, ki je bila predložena zahtevi za
+odobritev tipa, mora ustrezati tudi osnovna funkcija ne glede na manjše
+spremembe v izvorni kodi programske opreme. 
+Tisti deli programske opreme, ki so bili potrjeni v postopku
+odobritve tipa, morajo ostati istovetni v vseh naslednjih posameznih vodomerih.
+Za vsako spremembo v potrjenih programskih delih je treba vložiti novo zahtevo
+za odobritev tipa. 
+Vse druge spremembe programske opreme so dopustne, če pri tem
+dokumentirane funkcije in lastnosti ostajajo nespremenjene. O vseh tovrstnih
+spremembah mora proizvajalec oziroma njegov zastopnik obvestiti organ za
+ugotavljanje skladnosti.
+19. člen
+Učinek elektromagnetne motnje sme biti pri vodomerih z
+elektronskimi pomožnimi napravami največ tolikšen: 
+-       
+da sprememba merilnega rezultata ni večja od vrednosti prostornine, ki
+ustreza enominutnemu delovanju vodomera pri trajnem (nazivnem) pretoku Q3, ali 
+-       
+da kazanja merilnega rezultata ni mogoče razlagati kot veljaven
+rezultat, npr. trenutne spremembe, ki jih ni mogoče razlagati, pomniti ali
+prenašati dalje kot merilni rezultat. 
+Ko je vodomer prestal elektromagnetno motnjo, mora: 
+-       
+obnoviti normalno delovanje v okviru največjega dopustnega pogreška, 
+-       
+zavarovati vse merilne funkcije in 
+-       
+omogočiti obnovitev vseh merilnih podatkov, ki so bili prisotni tik pred
+nastopom motnje.
+20. člen
+Vodomer mora imeti napravo za nastavljanje, ki je lahko
+mehanska ali v obliki elektronske pomožne naprave. 
+Mehansko napravo za nastavljanje, ki je dosegljiva z zunanje
+strani okrova vodomera, mora biti mogoče zaščititi pred nepooblaščenim
+dostopom. Zaščita se izvede z overitvenimi oznakami. 
+Če dostopa do naprave za nastavljanje in do drugih mest,
+preko katerih je mogoče vplivati na meroslovne lastnosti vodomera, ni mogoče
+zaščititi mehansko (s plombiranjem), mora alternativna oblika zaščite
+izpolnjevati naslednje zahteve: 
+-       
+dostop smejo imeti samo pooblaščene osebe preko posebne programske kode
+ali pametne magnetne kartice, 
+-       
+predvidena mora biti možnost spremembe vstopne kode in 
+-       
+predvidena mora biti možnost registracije zadnjega posega v merilo
+(vodomer). Shraniti je treba datum posega in karakteristični element (koda)
+izvajalca posega.
+21. člen
+Če vodomer vsebuje ločljive in zamenljive sestavne dele
+(pomožne naprave, dajalnike impulzov, dodatne kazalne naprave itd.), mora
+izpolnjevati naslednje dodatne zahteve: 
+-       
+ne sme obstajati možnost vpliva na meroslovne lastnosti vodomera preko
+spojnih mest in 
+-       
+na mehanski ali drug ustrezen način mora biti preprečena možnost
+priključitve tujih enot, ki bi lahko vplivale na meroslovne lastnosti vodomera.
+Če vodomer vsebuje ločljive in nezamenljive sestavne dele,
+mora izpolnjevati naslednje dodatne zahteve: 
+-       
+ne sme obstajati možnost vpliva na meroslovne lastnosti vodomera preko
+spojnih mest in 
+-       
+vodomer mora biti opremljen z dodatno napravo, ki onemogoča delovanje
+vodomera, če niso vsi potrebni sestavni deli vključeni v konfiguracijo vodomera
+skladno z navodili proizvajalca.
+22. člen
+Vsak vodomer mora imeti predvidena mesta za namestitev
+dodatnih zaščit, ki ne sodijo v sklop zaščit z overitvenimi oznakami in se
+nanašajo predvsem na preprečitev nepooblaščene odstranitve vodomera iz
+vodovodnega omrežja.
+IV. NAPISI IN OZNAKE
+23. člen
+Vodomeri morajo imeti predvidena mesta za naslednje obvezne
+napise in oznake: 
+1.     
+mersko enoto (m3), 
+2.     
+razred točnosti, če ni enak razredu II, 
+3.     
+vrednost Q3, 
+4.     
+uradno oznako odobritve tipa, 
+5.     
+ime ali zaščitni znak proizvajalca, 
+6.     
+leto izdelave in serijsko številko, 
+7.     
+smer pretoka vode na eni ali obeh stranskih straneh okrova, 
+8.     
+največji dopustni tlak, če se razlikuje od 10 barov, 
+9.     
+črko V ali H za način vgradnje v vodovodno omrežje, 
+10.  
+najvišjo dopustno temperaturo, če je višja od 30 °C, in 
+11.  
+po potrebi največji padec tlaka. 
+Za vodomere z elektronskimi pomožnimi napravami so poleg
+napisov iz prejšnjega odstavka tega člena obvezni še naslednji napisi: 
+1.     
+za zunanje napajanje: nazivna napetost in frekvenca, 
+2.     
+za zamenljivo baterijo: skrajni datum, do katerega je treba baterijo
+zamenjati, 
+3.     
+za nezamenljivo baterijo: skrajni datum, do katerega je treba vodomer
+zamenjati.
+V. UGOTAVLJANJE SKLADNOSTI
+24. člen
+Za vodomere je obvezna odobritev tipa merila, ki ji sledi
+prva overitev ali izjava o skladnosti z odobrenim tipom. 
+Preskusi v postopku odobritve tipa (v nadaljnjem besedilu:
+preskusi) se izvajajo na številu vzorcev, ki se določi z naslednjimi tabelami: 
+-       
+vodomeri za hladno vodo 
+Tabela 5
+
+
+Nazivni pretok Q3 (m3/h)
+
+Najmanjše število
+  vodomerov za preskus
+
+
+Q3 ≤ 160
+
+3
+
+
+160 < Q3 ≤ 1600
+
+2
+
+
+1600 < Q3
+
+1
+
+
+-       
+vodomeri za vročo vodo 
+Tabela 6
+
+
+Največji pretok Q4 (m3/h)
+
+Najmanjše število
+  vodomerov za preskus
+
+
+Q4 ≤ 200
+
+3
+
+
+200 < Q4 ≤ 2000
+
+2
+
+
+2000 < Q4
+
+1
+
+
+Organ za ugotavljanje skladnosti lahko po potrebi določi
+večje število vzorcev, kot je navedeno v tabelah 5 in 6.
+25. člen
+Preskus za vodomere za hladno vodo se izvede pri naslednjih
+pretokih: 
+najmanj dve meritvi pri vsaki od naslednjih vrednosti: 
+-       
+med Q1 in 1,1 Q1; 
+-       
+med 0,5 (Q1 + Q2) in 0,55 (Q1 + Q2), če je Q2/Q1 > 1,6; 
+-       
+med Q2 in 1,1 Q2; 
+-       
+med 0,33 (Q2 + Q3) in 0,37 (Q2 + Q3); 
+-       
+med 0,67 (Q2 + Q3) in 0,74 (Q2 + Q3); 
+-       
+med 0,9 Q3 in Q3; 
+-       
+med 0,95 Q4 in Q4. 
+Preskusi se izvedejo pri temperaturi (20 ± 5) °C. 
+Ugotovljeni pogrešek v vseh opazovanih točkah ne sme biti
+večji od največjega dopustnega pogreška iz 8. člena tega pravilnika. 
+Če je pogrešek na enem ali več vzorcih vodomera večji od
+največjega dopustnega pogreška samo pri eni izmed vrednosti pretoka, je treba
+preskus ponoviti. Celotni preskus se šteje za uspešnega, če sta dva od treh
+rezultatov znotraj vrednosti največjega dopustnega pogreška in če je
+aritmetična srednja vrednost treh rezultatov manjša ali kvečjemu enaka
+vrednosti največjega dopustnega pogreška. 
+Druge podrobnosti in pogoji preskusa, kot so: 
+-       
+namestitev vodomera (vodoravno ali navpično), 
+-       
+potrebna vrednost tlaka na izhodu vodomera, 
+-       
+trajanje izpostavljenosti povečanemu tlaku, 
+-       
+meritvi padca tlaka glede na vrednost pretoka in 
+-       
+časovno razmerje med delovanjem in mirovanjem pri prekinjevalnih
+preskusih, 
+so določeni v točki 6.2 OIML R 49-1.
+26. člen
+Preskus za vodomere za vročo vodo se izvede pri naslednjih
+pretokih: 
+najmanj dve meritvi pri vsaki od naslednjih
+vrednosti: 
+-       
+med Q1 in 1,1 Q1; 
+-       
+med Q2 in 1,1 Q2; 
+-       
+med 0,225 Q4 in 0,25 Q4; 
+-       
+med 0,45 Q4 in 0,5 Q4; 
+-       
+med 0,9 Q4 in Q4. 
+Preskusi se izvedejo pri temperaturi vode, ki je v neposredni
+bližini sredine nazivnega temperaturnega delovnega območja. 
+Ugotovljeni pogrešek v vseh opazovanih točkah ne sme biti
+večji od največjega dopustnega pogreška iz 8. člena tega pravilnika. 
+Če je pogrešek na enem ali več vzorcih vodomera večji od
+največjega dopustnega pogreška samo pri eni izmed vrednosti pretoka, je treba
+preskus ponoviti. Celotni preskus se šteje za uspešnega, če sta dva od treh
+rezultatov znotraj vrednosti največjega dopustnega pogreška in če je
+aritmetična srednja vrednost treh rezultatov manjša ali kvečjemu enaka
+vrednosti največjega dopustnega pogreška. 
+Druge podrobnosti in pogoji preskusa, kot so: 
+-       
+namestitev vodomera (vodoravno ali navpično), 
+-       
+srednja temperatura vode pri preskusu, 
+-       
+potrebna vrednost tlaka na izhodu vodomera, 
+-       
+trajanje izpostavljenosti povečanemu tlaku v bližini najvišje dopustne
+temperature, 
+-       
+meritvi padca tlaka glede na vrednost pretoka, 
+-       
+časovno razmerje med delovanjem in mirovanjem pri prekinjevalnih
+preskusih in merila za presojo, ali se redne overitve lahko izvajajo tudi s
+hladno vodo, 
+so določeni v 11. točki OIML R 72.
+27. člen
+Preskusna oprema mora izpolnjevati naslednje bistvene zahteve:
+1.     
+pri vodomerih za hladno vodo: 
+- 
+skupna merilna negotovost za potrebe izvajanja preskusov tipa mora biti
+manjša od 0,3%, 
+- 
+skupna merilna negotovost za potrebe izvajanja rednih overitev mora biti
+manjša ali enaka 0,4%. 
+2.     
+pri vodomerih za vročo vodo: 
+- 
+skupna merilna negotovost za potrebe izvajanja tipskih preskusov mora
+biti manjša ali enaka 0,3%, 
+- 
+skupna merilna negotovost za potrebe izvajanja rednih overitev mora biti
+manjša ali enaka 0,6%.
+28. člen
+Število vzorcev vodomerov z elektronskimi kontrolnimi napravami
+se določi po tabelah iz 24. člena tega pravilnika. Dodatno je treba: 
+-       
+preveriti konstrukcijsko izvedbo; podrobnosti preskusa so določene v
+točki 6.2.11.1 OIML R 49-1, 
+-       
+opraviti dodatni funkcionalni preskus; podrobnosti preskusa so določene
+v točki 6.2.11.2 OIML R 49-1. 
+Na vodomerih z elektronskimi pomožnimi napravami, vendar brez
+kontrolnih naprav, je poleg preverjanj in preskusov iz druge in tretje alinee
+prejšnjega odstavka tega člena treba opraviti še dodatne preskuse, za katere je
+treba predložiti pet istovetnih vzorcev vodomerov. Najmanj eden od predloženih
+vzorcev mora uspešno prestati vse dodatne meroslovne preskuse iz 27. člena tega
+pravilnika.
+29. člen
+Dodatni preskusi za vodomere z elektronskimi pomožnimi
+napravami obsegajo: 
+-       
+toplotni preskus v odsotnosti kondenzacije, 
+-       
+nizkotemperaturni preskus, 
+-       
+ponavljajoči toplotni preskus v pogojih kondenzacije, 
+-       
+preskus s spreminjanjem napajalne napetosti za vodomere z zunanjim
+napajanjem in z baterijskim napajanjem, 
+-       
+preskus v prisotnosti periodičnih ali naključnih mehanskih vibracij, 
+-       
+preskus pri kratkotrajnih zniževanjih napajalne napetosti, 
+-       
+preskus v pogojih vsiljenih električnih motenj, 
+-       
+preskus v pogojih elektrostatičnih razelektritev in 
+-       
+preskus občutljivosti na visokofrekvenčna elektromagnetna sevanja. 
+Podrobni opisi preskusov so določeni v prilogi A OIML R 49-1.
+30. člen
+Prva overitev vodomera za hladno ali vročo vodo vključuje: 
+-       
+ugotavljanje skladnosti vodomera z odobrenim tipom, 
+-       
+merjenje pogreškov najmanj pri naslednjih pretokih: 
+-       
+med Q1 in 1,1 Q1, 
+-       
+med Q2 in 1,1 Q2, 
+-       
+med 0,9 Q3 in Q3. 
+Če je v certifikatu o odobritvi tipa tako določeno, se
+izvedejo meritve tudi v dodatnih točkah znotraj območja pretokov. V vseh točkah
+morajo biti pogreški znotraj meja največjih dopustnih pogreškov iz 8. člena
+tega pravilnika. 
+Meritve se izvedejo pri temperaturi vode: 
+-       
+20 ±10 °C za vodomere za hladno vodo, 
+-       
+50 ± 10 °C za vodomere za vročo vodo.
+31. člen
+Redne overitve se izvedejo pri enakih pogojih kot prve
+overitve. 
+Izjemoma se vodomeri za vročo vodo lahko pri rednih overitvah
+preskušajo tudi s hladno vodo, če je bilo v certifikatu o odobritvi tipa tako
+določeno. 
+Odločitev o tem, ali je vodomer za vročo vodo dovoljeno
+overjati tudi s hladno vodo, temelji na rezultatih meritev za vodomere za vročo
+vodo iz 24. člena tega pravilnika. 
+Rok za redne overitve vodomerov je 5 let.
+V. PREHODNA IN KONČNE DOLOČBE
+32. člen
+Vodomeri, ki so v uporabi na dan uveljavitve tega pravilnika
+in imajo veljavno odobritev tipa in prvo overitev na podlagi pravilnika o
+metroloških pogojih za vodomere (Uradni list SFRJ, št. 51/86), se lahko še
+naprej dajejo v redno overitev, če izpolnjujejo zahteve glede največjega
+dopustnega pogreška iz 8. člena tega pravilnika.
+33. člen
+Z dnem uveljavitve tega pravilnika se preneha uporabljati pravilnik
+o metroloških pogojih za vodomere (Uradni list SFRJ, št. 51/86).
+34. člen
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 009-11/02
+Ljubljana, dne 11. marca 2002.
+dr. Lucija Čok l. r. 
+Ministrica 
+za šolstvo, znanost in šport

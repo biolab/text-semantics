@@ -1,0 +1,315 @@
+I. SPLOŠNI DOLOČBI
+1. člen
+Ta pravilnik določa meroslovne in z njimi povezane tehnične
+zahteve, ki jih morajo izpolnjevati merilni instrumenti, ki se uporabljajo za
+merjenje izolacijske upornosti, impedance zanke, ozemljitvene upornosti povezav
+in povezav za izenačitev potencialov in ozemljitvene upornosti (v nadaljnjem
+besedilu: merila), postopke ugotavljanja skladnosti in overitev, način
+označevanja ter rok redne overitve. 
+Ta pravilnik se označi s skrajšano oznako MP-33.
+2. člen
+Posamezni izrazi in definicije, ki se uporabljajo v tem
+pravilniku, so določeni v 3. točki standardov SIST EN 61557-1, -2, -3, -4, -5. 
+Standardi, ki so navedeni v tem pravilniku se hranijo in so
+na voljo pri slovenskem nacionalnem organu za standardizacijo.
+II. MEROSLOVNE ZAHTEVE
+3. člen
+Uporabni pogrešek za merila
+izolacijske upornosti se izračuna po naslednji enačbi:
+kjer je: 
+B – uporabni pogrešek; 
+A – osnovni pogrešek; 
+E(1) – variacija zaradi uporabne lege merila
+(±90°); 
+E(2) – variacija zaradi napajalne napetosti
+(mejne vrednosti, ki jih poda proizvajalec); 
+E(3) – variacija zaradi temperature okolja
+(0 °C do 35 °C).
+4. člen
+Uporabni pogrešek za merila
+impedance zanke se izračuna po naslednji enačbi:
+kjer je: 
+B – uporabni pogrešek; 
+A – osnovni pogrešek; 
+E(1) – variacija zaradi uporabne lege merila
+(± 90°); 
+E(2) – variacija zaradi napajalne napetosti
+(mejne vrednosti, ki jih poda proizvajalec); 
+E(3) – variacija zaradi temperature okolja
+(0 °C do 35 °C); 
+E(6) – variacija zaradi faznega kota 0° do
+18°; 
+E(7) – variacija zaradi frekvence sistema
+(99% do 101% nazivne frekvence); 
+E(8) – variacija zaradi napetosti sistema
+(85% do 110% nazivne napetosti).
+5. člen
+Uporabni pogrešek za merila
+ozemljitvene upornosti povezav in povezav za izenačitev potencialov se izračuna
+po naslednji enačbi:
+kjer je: 
+B – uporabni pogrešek; 
+A – osnovni pogrešek; 
+E(1) – variacija zaradi uporabne lege merila
+(± 90°); 
+E(2) – variacija zaradi napajalne napetosti
+(mejne vrednosti, ki jih poda proizvajalec); 
+E(3) – variacija zaradi temperature okolja
+(0 °C do 35 °C).
+6. člen
+Uporabni pogrešek za merila
+ozemljitvene upornosti se izračuna po naslednji enačbi:
+kjer je: 
+B – uporabni pogrešek; 
+A – osnovni pogrešek; 
+E(1) – variacija zaradi uporabne lege merila
+(± 90°); 
+E(2) – variacija zaradi napajalne napetosti
+(mejne vrednosti, ki jih poda proizvajalec); 
+E(3) – variacija zaradi temperature okolja
+(0 °C do 35 °C); 
+E(4) – variacija zaradi dodanih
+interferenčnih napetosti; 
+E(5) – variacija zaradi upornosti sond in
+pomožnih ozemljitvenih elektrod; 
+E(7) – variacija zaradi frekvence sistema
+(99% do 101% nazivne frekvence); 
+V(8) – variacija zaradi napetosti sistema
+(85% do 110% nazivne napetosti).
+7. člen
+Največji dovoljeni pogrešek (NDP) mora biti v mejah ± 30%.
+8. člen
+Pogoji uporabe meril, v katerih mora biti pogrešek v mejah ±
+30%, so določeni v 4. točki standardov SIST EN 61557-1, -2, -3, -4, -5.
+III. TEHNIČNE ZAHTEVE
+9. člen
+Merila morajo biti izdelana skladno z zahtevami iz 4. točke
+standardov SIST EN 61557-1, -2, -3, -4, -5. 
+Navodila za uporabo morajo vsebovati informacije iz točke 5.2
+standardov SIST EN 61557-1, -2, -3, -4, -5.
+IV. NAPISI IN OZNAKE
+10. člen
+Na merilu morajo biti navedeni naslednji podatki: 
+1.     
+oznaka tipa, 
+2.     
+firma oziroma ime ali znak proizvajalca, 
+3.     
+serijska številka, 
+4.     
+nazivna napetost in oznaka za napetost, 
+5.     
+nazivni tok, 
+6.     
+enota merjene veličine, 
+7.     
+merilno območje merila ali mejni vrednosti, 
+8.     
+uradna oznaka merila. 
+Na merilu izolacijske upornosti morajo biti poleg podatkov iz
+prejšnjega odstavka tega člena še podatki, ki so določeni v točki 5.1 standarda
+SIST EN 61557-2. 
+Na merilu impedance zanke morajo biti poleg podatkov iz
+prvega odstavka tega člena še podatki, ki so določeni v točki 5.1 standarda
+SIST EN 61557-3. 
+Na merilu ozemljitvene upornosti povezav in povezav za
+izenačitev potencialov morajo biti poleg podatkov iz prvega odstavka tega člena
+še podatki, ki so določeni v točki 5.1 standarda SIST EN 61557-4. 
+Na merilu ozemljitvene upornosti morajo biti poleg podatkov
+iz prvega odstavka tega člena še podatki, ki so določeni v točki 5.1 standarda
+SIST EN 61557-5. 
+Napisi in oznake na merilu morajo biti jasni, dobro vidni v
+delovnih pogojih in napisani tako, da jih ni mogoče zbrisati ali sneti.
+V. UGOTAVLJANJE SKLADNOSTI
+11. člen
+Za merila sta obvezni odobritev tipa in prva overitev. 
+K zahtevi za odobritev tipa mora vložnik zahteve priložiti
+poleg dokumentacije iz 5. člena pravilnika o načinih ugotavljanja skladnosti za
+posamezne vrste instrumentov ter o vrstah in načinih njihove označitve z
+oznakami skladnosti (Uradni list RS, št. 72/01) še naslednjo dokumentacijo: 
+-       
+navodilo za uporabo in vzdrževanje v slovenskem jeziku, 
+-       
+navodilo za funkcionalni preskus merila. 
+Če ima merilo vgrajeno programsko opremo, mora vložnik k
+zahtevi priložiti naslednjo dodatno dokumentacijo: 
+a)    
+opis programske opreme, 
+b)    
+opis podatkovnih komunikacij med podsestavi, 
+c)    
+podatke in navodilo za identifikacijo programske opreme, vgrajene v
+merilo, 
+d)    
+pisno izjavo vložnika, da programska oprema merila ne opravlja nobenih
+drugih funkcij kot v točki a) tega odstavka, 
+e)    
+način zaščite programske opreme, 
+f)     
+en set epromov oziroma drugih sorodnih uporabljenih elektronskih
+elementov ali modulov (spominskih medijev) z naloženim programom merila, 
+g)    
+opis vseh nastavitev (električnih in programskih). 
+Po potrebi lahko organ za ugotavljanje skladnosti zahteva
+tudi izvorno kodo programa in druga pripadajoča orodja, uporabljena pri razvoju
+in izdelavi naprave.
+12. člen
+Skladnost meril izolacijske upornosti se ugotavlja na način,
+ki je določen v 6. točki standarda SIST EN 61557-2. 
+Skladnost meril impedance zanke se ugotavlja na način, ki je
+določen v 6. točki standarda SIST EN 61557-3. 
+Skladnost meril ozemljitvene upornosti povezav in povezav za
+izenačitev potencialov se ugotavlja na način, ki je določen v 6. točki
+standarda SIST EN 61557-4. 
+Skladnost meril ozemljitvene upornosti se ugotavlja na način,
+ki je določen v 6. točki standarda SIST EN 61557-5.
+13. člen
+Ugotavljanje skladnosti vključuje tudi preverjanje navodila
+za uporabo iz 9. člena tega pravilnika, da se ugotovi, ali so podatki navedeni
+jasno in razumljivo.
+14. člen
+Prva overitev vključuje tudi vizualni pregled vsakega merila,
+da se preveri skladnost z odobrenim tipom.
+15. člen
+Pri prvi overitvi meril izolacijske upornosti se preverijo
+naslednje lastnosti: 
+-       
+lastni pogrešek merjenja izolacijske upornosti, ki se preveri pri
+nazivni vrednosti napajalne napetosti ± 10% oziroma nazivnem številu vrtljajev
+± 30% pri merilih, ki se napajajo z ročno gnanim generatorjem, pri temperaturi
+okolice 23 °C ± 5 °C in pri referenčnem položaju merila skladno z navodilom
+proizvajalca ± 5°, in ne sme preseči ± 10% merjene vrednosti. 
+Lastni pogrešek se preveri
+najmanj pri eni vrednosti za vsako merilno območje merila, ki leži med 50% in
+100% nazivne vrednosti merilnega območja. Najmanj na enem merilnem območju pa
+se uporabni pogrešek preveri pri najmanj treh vrednostih, od katerih leži ena
+med 10% in 40% nazivne vrednosti merilnega območja, ena med 30% in 70% in ena
+med 60% in 100% nazivne vrednosti merilnega območja. Najmanj na enem merilnem
+območju se vrednost upornosti, ki leži med 50% in 100% nazivne vrednosti
+merilnega območja, preveri pri vsaj treh nazivnih izhodnih napetostih merila,
+ki vključujejo najnižjo in najvišjo razpoložljivo merilno napetost; 
+-       
+nazivna izhodna napetost merila (U(N)), ki se preveri v najmanj petih
+vrednostih med najmanjšo in največjo nazivno izhodno napetostjo. 
+Če merilo generira manj kot
+pet diskretnih vrednosti nazivnih izhodnih napetosti, se preverijo vse. Vhodna
+upornost merilnega sistema mora znašati najmanj 100 MΩ. Če merilo vsebuje tudi
+notranji sistem za merjenje generirane izhodne napetosti, se preveri tudi ta
+pri istih vrednostih kot generirana nazivna izhodna napetost. Odstopanje od
+nastavljenih vrednosti ne sme biti večje kot ± 10%; 
+-       
+nazivni tok merila, ki se preveri najmanj pri eni vrednosti merjene upornosti,
+ki znaša U(N) x (1 000 Ω/V), in ne sme biti manjši od 1 mA; 
+-       
+merilni tok, ki se preveri v kratkem stiku na izhodu in ne sme preseči
+15 mA.
+16. člen
+Pri prvi overitvi meril impedance zanke se preveri lastni
+pogrešek merjenja impedance zanke pri nazivni vrednosti omrežne napetosti ±
+10%, pri nazivni vrednosti omrežne frekvence ± 0,1%, pri temperaturi okolice 23
+°C ± 5 °C, pri nazivni vrednosti napajalne omrežne ali baterijske napetosti
+±10%, pri referenčnem položaju merila skladno z navodilom proizvajalca ± 5° in
+pri razliki faznega kota impedance bremenskega vezja in zančne impedance, ki je
+predmet preskusa, < 18°. 
+Lastni pogrešek ne sme preseči ± 10% merjene vrednosti
+oziroma ± 0,1 Ω, kar je več. Lastni pogrešek se preveri najmanj pri eni
+vrednosti za vsako merilno območje merila, ki leži med 50% in 100% nazivne
+vrednosti merilnega območja. 
+Na najnižjem merilnem območju se lastni pogrešek preveri pri
+najmanj treh vrednostih, od katerih leži ena med 10% in 40% nazivne vrednosti
+merilnega območja, ena med 30% in70% in ena med 60% in 100% nazivne vrednosti
+merilnega območja. 
+Za merila impedance, ki lahko prikažejo ločeno tudi uporovno
+in/ali reaktivno komponento impedance zanke, se tudi ta preveri najmanj za eno
+vrednost na najnižjem merilnem območju. Prav tako se na najnižjem območju v eni
+vrednosti preveri lastni pogrešek merjenja impedance med faznim in nevtralnim
+vodnikom (impedanca linije).
+17. člen
+Pri prvi overitvi meril ozemljitvene upornosti povezav in
+povezav za izenačitev potencialov se preverita naslednji lastnosti: 
+-       
+lastni pogrešek merjenja ozemljitvene upornosti povezav in povezav za
+izenačitev potencialov, ki se preveri pri nazivni vrednosti napajalne omrežne
+napetosti ± 10% oziroma nazivnem številu vrtljajev ± 30% pri merilih, ki se
+napajajo z ročno gnanim generatorjem, pri temperaturi okolice 23 °C ± 5 °C, pri
+referenčnem položaju merila skladno z navodilom proizvajalca ± 5°, in ne sme
+preseči ± 10% merjene vrednosti oziroma ± 0,1 Ω, kar je več. Lastni pogrešek se
+preveri najmanj pri eni vrednosti za vsako merilno območje merila, ki leži med
+50% in 100% nazivne vrednosti merilnega območja. 
+Na najnižjem merilnem
+območju se lastni pogrešek preveri pri najmanj treh vrednostih, od katerih leži
+ena med 10% in 40% nazivne vrednosti merilnega območja, ena med 30% in 70% in
+ena med 60% in 100% nazivne vrednosti merilnega območja; 
+-       
+merilni tok na najnižjem merilnem območju, ki mora ležati med 0,2 Ω in 2
+Ω, ne sme biti manjši od 0,2 A in je lahko enosmerni ali izmenični.
+18. člen
+Pri prvi overitvi meril ozemljitvene upornosti se preveri
+lastni pogrešek merjenja ozemljitvene upornosti pri nazivni vrednosti napajalne
+omrežne napetosti ± 10% oziroma nazivnem številu vrtljajev ± 30% pri merilih,
+ki se napajajo z ročno gnanim generatorjem, pri nazivni vrednosti omrežne
+frekvence ± 0,1% pri merilih, ki se napajajo z omrežno napetostjo, pri
+temperaturi okolice 23 °C ± 5 °C, pri referenčnem položaju merila skladno z
+navodilom proizvajalca ± 5°, pri upornosti sond in pomožnih ozemljitvenih
+elektrod 100 Ω ± 1 Ω in interferenčni napetosti 0 V. 
+Lastni pogrešek ne sme preseči ± 10% merjene vrednosti
+oziroma ± 0,1 Ω, kar je več. Lastni pogrešek se preveri najmanj pri eni
+vrednosti za vsako merilno območje merila, ki leži med 50% in 100% nazivne
+vrednosti merilnega območja. 
+Na najnižjem merilnem območju se lastni pogrešek preveri pri
+najmanj treh vrednostih, od katerih leži ena med 10% in 40% nazivne vrednosti
+merilnega območja, ena med 30% in 70% in ena med 60% in 100% nazivne vrednosti
+merilnega območja.
+VI. REDNE IN IZREDNE OVERITVE
+19. člen
+Redne overitve so obvezne. Rok za redne overitve je dve leti.
+Redne in izredne overitve vključujejo: 
+-       
+ugotavljanje skladnosti merila z odobrenim tipom, 
+-       
+meroslovni pregled, s katerim se ugotavlja, ali merilo izpolnjuje
+zahteve tega pravilnika. 
+Meroslovni pregled pri redni in izredni overitvi je enak
+meroslovnemu pregledu za prvo overitev.
+20. člen
+Največji dopustni pogrešek pri rednih oziroma izrednih
+overitvah ne sme biti večji od največjega dopustnega pogreška pri prvi overitvi.
+Redne oziroma izredne overitve se izvedejo na enak način kot prve overitve.
+21. člen
+Merilni postopek, s katerim se preverjajo meroslovne
+lastnosti merila, mora imeti merilno negotovost, ki mora biti najmanj za 1/3
+boljša od zahtevane točnosti merila.
+VII. PREHODNA IN KONČNI DOLOČBI
+22. člen
+Merila, ki imajo na dan uveljavitve tega pravilnika veljavno
+odobritev tipa merila na podlagi: pravilnika o metroloških pogojih za merila za
+izolacijsko upornost (Uradni list SFRJ, št. 58/85 in 32/87), pravilnika o
+metroloških pogojih za instrumente za merjenje upornosti zanke (Uradni list
+SFRJ, št. 31/84), pravilnika o metroloških pogojih za instrumente za merjenje
+ozemljitvene upornosti, katerih delovanje temelji na metodi merjenja napetosti
+in toka (U-I metodi) in za visoko frekvenčne instrumente za merjenje
+ozemljitvene upornosti (Uradni list SFRJ, št. 13/83) in pravilnika o
+metroloških pogojih za instrumente za merjenje ozemljitvene upornosti, katerih
+delovanje temelji na kompenzacijski metodi (Uradni list SFRJ, št. 59/82), se
+smejo dati v promet in uporabo ter redne in izredne overitve po tem pravilniku,
+če izpolnjujejo zahteve iz II., III. in IV. poglavja tega pravilnika.
+23. člen
+Z dnem uveljavitve tega pravilnika se prenehajo uporabljati:
+pravilnik o metroloških pogojih za merila za izolacijsko upornost (Uradni list
+SFRJ, št. 58/85 in 32/87), pravilnik o metroloških pogojih za instrumente za
+merjenje upornosti zanke (Uradni list SFRJ, št. 31/84), pravilnik o metroloških
+pogojih za instrumente za merjenje ozemljitvene upornosti, katerih delovanje
+temelji na metodi merjenja napetosti in toka (U-I metodi) in za
+visokofrekvenčne instrumente za merjenje ozemljitvene upornosti (Uradni list
+SFRJ, št. 13/83) in pravilnik o metroloških pogojih za instrumente za merjenje
+ozemljitvene upornosti, katerih delovanje temelji na kompenzacijski metodi
+(Uradni list SFRJ, št. 59/82).
+24. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 009-5/02
+Ljubljana, dne 11. februarja 2002.
+dr. Lucija Čok l. r. 
+Ministrica 
+za šolstvo, znanost in šport
+ 

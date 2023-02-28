@@ -1,0 +1,1870 @@
+1. SPLOŠNE DOLOČBE
+1.1. Vsebina in namen sklepa
+1. člen
+(1) Ta sklep določa pravila o:
+(a)   izračunu kapitalske zahteve za kreditno tveganje borznoposredniških
+družb pri listinjenju, in sicer:
+-     minimalne
+zahteve za priznanje prenosa pomembnega deleža kreditnega tveganja pri
+pozicijah v listinjenju borznoposredniških družb,
+-     uporabo
+bonitetnih ocen zunanjih bonitetnih institucij za pozicije v listinjenju
+borznoposredniških družb,
+-     izračun
+tveganjem prilagojenih zneskov izpostavljenosti oziroma tveganjem prilagojenih
+zneskov izpostavljenosti in zneskov pričakovanih izgub za pozicije v
+listinjenju borznoposredniških družb,
+-     izračun
+kapitalske zahteve za kreditno tveganje za pozicije v listinjenju
+borznoposredniških družb in
+(b)   izpostavljenosti borznoposredniških družb prenesenemu kreditnemu
+tveganju, in sicer:
+-     pogoje,
+pod katerimi je borznoposredniška družba lahko izpostavljena prenesenemu
+kreditnemu tveganju, oziroma ima pozicije v listinjenju in
+-     zahteve
+glede razumevanja posla listinjenja in upravljanja s tveganji.
+(2) Listinjenje in izpeljanke iz te
+besede imajo po tem sklepu enak pomen kot listinjenje in izpeljanke iz te
+besede v Zakonu o bančništvu (Uradni list RS, št. 99/10 – ZBan-1-UPB5; v
+nadaljevanju: ZBan-1).
+(3) Kadar se ta sklep sklicuje na
+določbe drugih predpisov, se te določbe uporabljajo v njihovem vsakokrat
+veljavnem besedilu.
+2. člen
+S tem sklepom se v pravni red Republike
+Slovenije prenaša Direktiva 2006/48/ES Evropskega parlamenta in Sveta z dne
+14. junija 2006 o začetku opravljanja in opravljanju dejavnosti kreditnih
+institucij (UL L št. 177 z dne 30. junija 2006, str. 1), zadnjič
+spremenjena z Direktivo 2010/78/EU Evropskega parlamenta in Sveta z dne
+24. no­vembra 2010 o spremembi direktiv 98/26/ES, 2002/87/ES, 2003/6/ES,
+2003/41/ES, 2003/71/ES, 2004/39/ES, 2004/109/ES, 2005/60/ES, 2006/48/ES,
+2006/49/ES in 2009/65/ES glede pristojnosti Evropskega nadzornega organa
+(Evropski bančni organ), Evropskega nadzornega organa (Evropski organ za
+zavarovanja in poklicne pokojnine) ter Evropskega nadzornega organa (Evropski
+organ za vrednostne papirje in trge) (UL L št. 331, z dne 15. decembra
+2010, str. 120), v obsegu, v kakršnem se uporablja za
+borznoposredniške družbe.
+1.2. Opredelitev pojmov
+3. člen
+(1) Pojmi, uporabljeni v tem sklepu,
+imajo enak pomen kot v določbah Zakona o trgu finančnih instrumentov (Uradni
+list RS, št. 108/10 – ZTFI-UPB3; v nadaljevanju: ZTFI), kot na primer:
+1.      EU nadrejeni finančni holding v tretjem odstavku
+5. člena,
+2.      EU nadrejeno investicijsko podjetje v drugem
+odstavku 23. člena,
+3.      tveganje
+zmanjšanja vrednosti odkupljenih denarnih terjatev v prvem odstavku 192. člena,
+4.      verjetnost neplačila v prvem odstavku 192. člena,
+5.      neplačilo v prvem odstavku 192. člena,
+6.      izguba v prvem odstavku 192. člena,
+7.      izguba ob neplačilu (LGD) v prvem odstavku 192.
+člena,
+8.      konverzijski količnik (CF) v prvem odstavku 192.
+člena,
+9.      pričakovana izguba (EL) v prvem odstavku 192.
+člena,
+10.    kreditno zavarovanje v prvem odstavku 192. člena,
+11.    stvarno kreditno zavarovanje v prvem odstavku 192.
+člena,
+12.    osebno kreditno zavarovanje v prvem odstavku 192.
+člena,
+13.    listinjenje v prvem odstavku 192. člena,
+14.    tradicionalno listinjenje v prvem odstavku 192.
+člena,
+15.    sintetično listinjenje v prvem odstavku 192. člena,
+16.    segment kreditnega tveganja (v nadaljevanju:
+tranša) v prvem odstavku 192. člena,
+17.    pozicija v listinjenju v prvem odstavku 192. člena,
+18.    izvorna
+borznoposredniška družba (v nadaljevanju originator) v prvem odstavku 192.
+člena,
+19.    sponzor v prvem odstavku 192. člena,
+20.    kreditna izboljšava v prvem odstavku 192. člena,
+21.    pravna
+oseba s posebnim namenom listinjenja (v nadaljevanju: SSPE) v prvem odstavku
+192. Člena,
+22.    relistinjenje
+v prvem odstavku 192. člena,
+23.    pozicija
+v relistinjenju v prvem odstavku 192. člena.
+(2) Pojem nadzorni organ, uporabljen v
+tem sklepu, ima enak pomen kot v določbi drugega odstavka 19. člena ZBan-1.
+4. člen
+Za namen tega sklepa veljajo naslednje
+opredelitve pojmov:
+(1)  
+»izpostavljenost« je sredstvo ali zunajbilančna
+postavka, ki se ne upošteva pri izračunu kapitalske zahteve za tržna tveganja,
+(2)  
+»stopnja kreditne kvalitete« je stopnja, s
+katero Agencija za trg vrednostnih papirjev (v nadaljevanju: Agencija) vzporedi
+posamezno bonitetno oceno primerne zunanje bonitetne institucije,
+(3)  
+»zunanja bonitetna institucija (v nadaljevanju:
+ECAI)« je pravna oseba, ki izdeluje pooblaščene in/ali nepooblaščene bonitetne
+ocene za namen ovrednotenja kreditnega tveganja,
+(4)  
+»primerna zunanja bonitetna institucija (v
+nadaljevanju: primerna ECAI)« je ECAI, ki jo Agencija na podlagi Sklepa o
+priznavanju zunanjih bonitetnih institucij za borznoposredniške družbe (Uradni
+list RS, št. 106/07 in 74/09; v nadaljevanju: sklep o ECAI), uvrsti na seznam
+primernih ECAI za posamezno kategorijo izpostavljenosti,
+(5)  
+»imenovana zunanja bonitetna institucija« (v
+nadaljevanju: imenovana ECAI) je primerna ECAI, ki jo borznoposredniška družba
+izbere za določanje uteži tveganja,
+(6)  
+»investitor« je oseba, ki ni originator,
+sponzor ali serviser in nase prevzema kreditno tveganje izpostavljenosti v
+listinjenju,
+(7)  
+»serviser« je borznoposredniška družba, ki
+upravlja skupino izpostavljenosti v listinjenju, v smislu izterjave glavnice,
+obresti in drugih prilivov iz skupine izpostavljenosti, ki jih nato posreduje
+investitorjem in drugim upnikom v listinjenju,
+(8)  
+»presežni razmik« je razlika med prejetimi
+obrestmi iz skupine izpostavljenosti in plačanimi obrestmi imetnikom pozicij v
+listinjenju ter drugimi izdatki listinjenja,
+(9)  
+»skupina izpostavljenosti« vključuje eno ali
+več osnovnih izpostavljenosti, iz katerih se oblikujejo tranše, ki odražajo
+različno stopnjo kreditnega tveganja,
+(10)»vgrajena
+nakupna opcija« pomeni pogodbeno možnost, da originator začasno odkupi ali
+poplača pozicije v listinjenju pred odplačilom vseh osnovnih izpostavljenosti,
+če znesek še neodplačanih osnovnih izpostavljenosti pade pod določeno raven,
+(11)»okvirno
+likvidnostno posojilo« pomeni pozicijo v listinjenju, ki izhaja iz pogodbe o
+zagotavljanju pravočasne poravnave obveznosti do investitorjev,
+(12)»Kirb«
+pomeni 8 % tveganjem prilagojenih zneskov izpostavljenosti, ki bi bili v
+skladu s Sklepom o izračunu kapitalske zahteve za kreditno tveganje po pristopu
+na podlagi notranjih bonitetnih sistemov za borznoposredniške družbe (Uradni
+list RS, št. 106/07, 74/09, 81/09 – popr. in 80/11; v nadaljevanju: sklep o pristopu
+IRB) izračunani za listinjene izpostavljenosti, če slednje ne bi bile
+listinjene, čemur se prišteje znesek pričakovanih izgub, povezan z zadevnimi
+izpostavljenostmi, izračunan v skladu s sklepom o pristopu IRB,
+(13)»Kirbr«
+je razmerje med Kirb in vrednostjo skupine izpostavljenosti, ki je predmet
+listinjenja,
+(14)»metoda
+nadzorniške formule« pomeni metodo izračunavanja tveganjem prilagojenih zneskov
+izpostavljenosti za pozicije v listinjenju v skladu s 27., 28., 36. in 37.
+členom tega sklepa,
+(15)»neocenjena
+pozicija« pomeni pozicijo v listinjenju, ki nima bonitetne ocene od primerne
+ECAI v skladu z 10. členom tega sklepa,
+(16)»ocenjena
+pozicija« pomeni pozicijo v listinjenju, ki ima bonitetno oceno od primerne
+ECAI v skladu z 10. členom tega sklepa,
+(17)»program
+komercialnih vrednostnih papirjev s premoženjskim kritjem (v nadaljevanju:
+program ABCP)« pomeni program listinjenja, pri katerem se vrednostni papirji
+izdajo pretežno v obliki komercialnih zapisov z originalno zapadlostjo do enega
+leta,
+(18)»metoda
+bonitetnih ocen« pomeni metodo izračunavanja tveganjem prilagojenih zneskov
+izpostavljenosti za pozicije v listinjenju v skladu s 26. členom tega sklepa,
+(19)»obnavljajoča
+se izpostavljenost« je izpostavljenost, pri kateri lahko dolgovani zneski
+dolžnika nihajo glede na njegovo odločitev o črpanju in odplačevanju posojila v
+dogovorjenih okvirih,
+(20)»predčasno
+odplačilo« je pogodbeno določilo, po katerem se ob nastopu določenih dogodkov
+pozicije v listinjenju odplačajo investitorjem pred originalno zapadlostjo
+izdanih vrednostnih papirjev,
+(21)»naložbeni
+razred« (investment grade) so bonitetne ocene, katerim je v skladu s sklepom o
+ECAI dodeljena:
+-     v okviru
+standardiziranega pristopa stopnja kreditne kvalitete, ki ni slabša od 3,
+-     v okviru
+metode bonitetnih ocen pri pristopu IRB stopnja kreditne kvalitete, ki ni
+slabša od 8, če gre za dolgoročne bonitetne ocene, oziroma stopnja kreditne
+kvalitete, ki ni slabša od 3, če gre za kratkoročne bonitetne ocene,
+(22)»izpostavljenost
+iz naslova opravljanja storitev na drobno« je izpostavljenost, kakor je
+opredeljena v 89. členu sklepa o pristopu IRB,
+(23)»vmesna
+pozicija« (mezzanine securitisation position) je pozicija v listinjenju, kateri
+je dodeljena utež tveganja nižja od 1250 %, in ki je podrejena najbolj
+nadrejeni poziciji v zadevnem listinjenju in vsem pozicijam, katerim je
+dodeljena:
+-
+stopnja kreditne kvalitete 1 v primeru uporabe standardiziranega
+pristopa, ali
+-
+stopnja kreditne kvalitete 1 ali 2 v primeru uporabe pristopa IRB,
+(24)»prvotni
+posojilodajalec« je posojilodajalec, od katerega originator odkupi osnovne
+izpostavljenosti in jih listini,
+(25)»neto
+ekonomski delež« (net economic interest) je pozicija v listinjenju, osnovna
+izpostavljenost v celoti ali njen del, zadržana s strani originatorja,
+sponzorja ali prvotnega posojilodajalca.
+2. PRENOS KREDITNEGA TVEGANJA NA TRETJE OSEBE
+2.1. Splošno
+5. člen
+(1) Če borznoposredniška družba v
+vlogi originatorja prenese pomemben delež kreditnega tveganja v zvezi s
+listinjenimi izpostavljenostmi na tretje osebe v skladu s pogoji iz tega
+poglavja, lahko:
+(a)   v primeru tradicionalnega listinjenja, listinjene izpostavljenosti
+izključi iz svojega izračuna tveganjem prilagojenih zneskov izpostavljenosti
+oziroma tveganjem prilagojenih zneskov izpostavljenosti in zneskov pričakovanih
+izgub,
+(b)   v primeru sintetičnega listinjenja, za listinjene izpostavljenosti
+izračuna tveganjem prilagojene zneske izpostavljenosti v skladu z oddelkom 4.2.
+tega sklepa oziroma tveganjem prilagojene zneske izpostavljenosti in zneske
+pričakovanih izgub v skladu z oddelkom 4.3. tega sklepa.
+(2) Če so izpolnjeni pogoji iz
+prejšnjega odstavka tega člena, borznoposredniška družba v vlogi originatorja
+tveganjem prilagojene zneske oziroma tveganjem prilagojene zneske in zneske
+pričakovanih izgub za pozicije v listinjenju izračunava v skladu z določbami
+tega sklepa. Če borznoposredniška družba v vlogi originatorja ne prenese
+pomembnega deleža kreditnega tveganja v zvezi z listinjenimi izpostavljenostmi
+na tretje osebe, mu za nobeno pozicijo v zadevnem listnjenju ni potrebno
+izračunavati tveganjem prilagojenih zneskov izpostavljenosti oziroma tveganjem
+prilagojenih zneskov izpostavljenosti in zneskov pričakovanih izgub v skladu z
+določbami tega sklepa, temveč listinjene izpostavljenosti obravnava kot da ne
+bi bile listinjene.
+(3) Borznoposredniška družba v
+vlogi sponzorja ali borznoposredniška družba v vlogi originatorja, ki
+izračunava tveganjem prilagojene zneske izpostavljenosti oziroma tveganjem
+prilagojene zneske izpostavljenosti in zneske pričakovanih izgub v skladu s
+prvim odstavkom tega člena, ali borznoposredniška družba v vlogi originatorja ali
+sponzorja, ki je prodala finančne instrumente iz svoje trgovalne knjige
+SSPE-ju, tako da ji za tveganja v zvezi s temi finančnimi instrumenti ni več
+potrebno izračunavati kapitalske zahteve, ne sme zagotavljati večje podpore
+investitorjem v smislu zmanjšanja potencialnih ali dejanskih izgub glede na
+pogodbeno določene.
+(4) Če borznoposredniška družba v
+vlogi originatorja ali sponzorja deluje v nasprotju s tretjim odstavkom tega
+člena, mora izračunavati kapitalsko zahtevo za listinjene izpostavljenosti kot da
+te ne bi bile listinjene. Borznoposredniška družba mora javno razkriti podporo
+investitorjem, ki presega pogodbeno določeno, in njen vpliv na kapital
+borznoposredniške družbe.
+(5) Borznoposredniška družba, ki v
+zadevnem listinjenju ne nastopa v vlogi originatorja, sponzorja ali prvotnega
+posojilodajalca, je lahko kreditnemu tveganju iz pozicije v listinjenju
+izpostavljena oziroma ima lahko pozicije v listinjenju le v primeru, če ji je
+originator, sponzor ali prvotni posojilodajalec razkril, da bo trajno zadržal
+neto ekonomski delež vsaj v višini 5 %, in so izpolnjeni ostali pogoji iz 6.
+poglavja tega sklepa.
+(6) Borznoposredniška družba v vlogi
+originatorja ali sponzorja mora ob odobravanju posojil, ki predstavljajo
+izpostavljenosti, katere namerava borznoposredniška družba listiniti, uporabiti
+enaka primerna in jasno opredeljena merila v skladu z zahtevami iz 177. člena
+ZBan-1 v zvezi s prvim odstavkom 193. člena ZTFI, kot jih uporablja za
+izpostavljenosti, ki jih bo zadržala. Zato borznoposredniška družba v vlogi
+originatorja ali sponzorja na enak način odloča o odobritvi in po potrebi o
+spremembi, obnovitvi in refinanciranju takih posojil. Borznoposredniška družba
+uporabi ista načela tudi pri udeležbah in v izvedbah prve prodaje finančnih
+instrumentov, ne glede na to, ali bo udeležba ali izvedba prve prodaje
+finančnih instrumentov v trgovalni ali netrgovalni knjigi.
+(7) Če zahteve iz prejšnjega odstavka
+tega člena niso izpolnjene, se določbe prvega odstavka tega člena ne
+uporabljajo. V tem primeru borznoposredniška družba v vlogi originatorja
+listinjenih izpostavljenosti ne sme izključiti iz svojega izračuna kapitalske
+zahteve za kreditno tveganje.
+(8) Borznoposredniška družba v vlogi
+originatorja ali sponzorja mora investitorjem razkriti, kako izpolnjuje obveznosti
+glede zadržanja neto ekonomskega deleža iz drugega odstavka 45. člena tega
+sklepa. Borznoposredniška družba v vlogi originatorja ali sponzorja mora
+bodočim investitorjem zagotoviti dostop do vseh pomembnih podatkov o kreditni
+kvaliteti in uspešnosti posameznih osnovnih izpostavljenosti, denarnih tokov in
+zavarovanju za kritje pozicije v listinjenju ter podatkov, ki so potrebni za
+izvedbo primernih testov izjemnih situacij glede denarnih tokov in vrednosti
+zavarovanja za kritje skupine izpostavljenosti. Borznoposredniška družba
+podatke, potrebne za te namene, določi na dan zaključka listinjenja. Če to
+zaradi narave listinjenja ni možno, jih določi takoj, ko je to možno.
+(9) Če borznoposredniška družba iz
+malomarnosti ali zaradi opustitve ne izpolni zahtev iz osmega odstavka tega
+člena, ji Agencija odredi dodatno utež tveganja sorazmerno glede na obseg
+kršitev in sicer v višini ne manj kot 250 % uteži, ki bi sicer v skladu z
+določbami tega sklepa veljala za zadevno pozicijo v listinjenju. Dodatna utež
+tveganja se povečuje z vsako naslednjo kršitvijo do zgornje meje skupne uteži v
+višini 1250 %. Agencija v postopku odreditve dodatne uteži upošteva izjeme za
+listinjenja, opredeljena v 47. členu tega sklepa.
+2.2. Minimalne zahteve glede prenosa
+pomembnega deleža kreditnega tveganja na tretje osebe pri tradicionalnem
+listinjenju
+6. člen
+(1) Borznoposredniška družba v vlogi
+originatorja v tradicionalnem listinjenju lahko listinjene izpostavljenosti
+izključi iz izračuna tveganjem prilagojenih zneskov izpostavljenosti oziroma
+tveganjem prilagojenih zneskov izpostavljenosti in zneskov pričakovanih izgub,
+če je izpolnjen eden od pogojev:
+(a)   pomemben delež kreditnega tveganja iz naslova listinjenih
+izpostavljenosti je bil prenesen na tretje osebe,
+(b)   borznoposredniška družba v vlogi originatorja za vse pozicije v
+zadevnem listnjenju uporablja utež tveganja 1250 %, ali jih v skladu s točko
+(g) drugega odstavka 30. člena Sklepa o izračunu kapitala borznoposredniških
+družb (Uradni list RS, št. 80/11; v nadaljevanju sklep o kapitalu) upošteva kot
+odbitno postavko od kapitala.
+(2) Šteje se, da je pomemben delež
+kreditnega tveganja iz točke (a) prvega odstavka tega člena prenesen v
+naslednjih primerih:
+(a)   tveganjem prilagojeni zneski izpostavljenosti vmesnih pozicij, ki
+jih ima borznoposredniška družba v vlogi originatorja v zadevnem listinjenju,
+ne presegajo 50 % tveganjem prilagojenih zneskov izpostavljenosti vseh vmesnih
+pozicij v zadevnem listnjenju, ali
+(b)   kadar v zadevnem listinjenju ni vmesnih pozicij in originator dokaže,
+da vrednost pozicij v listnjenju, za katere bi veljajo, da so odbitna postavka
+od kapitala ali da se jim dodeli utež tveganja 1250 %, znatno presega
+utemeljeno oceno pričakovanih izgub pri listinjenih izpostavljenostih in
+borznoposredniška družba v vlogi originatorja nima več kot 20 % vrednosti
+pozicij v listinjenju, za katere bi veljajo, da so odbitna postavka od kapitala
+ali da se jim dodeli utež tveganja 1250 %.
+(3) Ne glede na določbe drugega
+odstavka tega člena se šteje, da je bil prenesen pomemben delež kreditnega
+tveganja, če borznoposredniška družba v vlogi originatorja Agenciji dokaže, da
+je vzpostavila politike in metodologijo, ki zagotavljajo, da je morebitno
+zmanjšanje kapitalskih zahtev, doseženih z listinjenjem, utemeljeno s
+sorazmernim prenosom kreditnega tveganja na tretje osebe. Poleg tega mora
+borznoposredniška družba v vlogi originatorja dokazati, da je namen prenosa
+kreditnega tveganja na tretje osebe upravljanje s tveganji in razporeditev
+notranjega kapitala.
+(4) Ne glede na določbe drugega in
+tretjega odstavka tega člena lahko Agencija za posamezen primer odloči, da
+morebitno zmanjšanje kapitalskih zahtev, ki bi ga borznoposredniška družba v
+vlogi originatorja dosegla z zadevnim listinjenjem, ni utemeljeno s sorazmernim
+prenosom kreditnega tveganja na tretje osebe in, da v zadevnem primeru
+listinjenja ni prišlo do prenosa pomembnega deleža kreditnega tveganja.
+(5) Da gre za prenos pomembnega deleža
+kreditnega tveganja na tretje osebe, morajo biti izpolnjeni tudi naslednji
+pogoji:
+(a)   dokumentacija o listinjenju odraža ekonomsko vsebino posla,
+(b)   listinjene izpostavljenosti so zunaj dosega borznoposredniške
+družbe v vlogi originatorja in njenih upnikov, kar velja tudi v primeru
+likvidacije ali stečaja. Navedeno borznoposredniška družba v vlogi originatorja
+dokazuje z neodvisnim pravnim mnenjem,
+(c)   izdani vrednostni papirji ne predstavljajo plačilnih obveznosti
+borznoposredniške družbe v vlogi originatorja,
+(d)   prevzemnik listinjenih izpostavljenosti je SSPE,
+(e)   borznoposredniška družba v vlogi originatorja nima dejanske ali
+posredne kontrole nad prenesenimi izpostavljenostmi. Originator ima dejanski
+nadzor nad prenesenimi izpostavljenostmi, če ima pravico, da od prevzemnika
+ponovno odkupi predhodno prenesene izpostavljenosti z namenom pridobitve
+določenih koristi, ali če je dolžan ponovno prevzeti tveganje prenesenih
+izpostavljenosti. Ohranitev servisiranja pravic ali obveznosti, ki se nanašajo
+na zadevne izpostavljenosti, sama po sebi ne predstavlja posrednega nadzora
+borznoposredniške družbe v vlogi originatorja nad izpostavljenostmi,
+(f)    če obstaja vgrajena nakupna opcija, morajo biti izpolnjeni
+naslednji pogoji:
+-     vgrajena
+nakupna opcija je uresničljiva po presoji borznoposredniške družbe v vlogi
+originatorja,
+-     vgrajena
+nakupna opcija se lahko uveljavi šele, ko ostane neodplačano 10 % ali manj
+prvotne vrednosti listinjenih izpostavljenosti,
+-     vgrajena
+nakupna opcija ni strukturirana tako, da bi preprečevala dodeljevanje izgub
+pozicijam kreditne izboljšave investitorjev ali drugim pozicijam investitorjev,
+in tudi drugače ni strukturirana na način, ki bi zagotavljal povečanje kreditne
+izboljšave,
+(g)   dokumentacija o listinjenju ne vsebuje določb, ki:
+-     zahtevajo,
+da borznoposredniška družba v vlogi originatorja izboljša pozicije v
+listinjenju, kar med drugim vključuje spremembo skupine izpostavljenosti ali
+povečanje donosa, ki se izplača investitorjem zaradi poslabšanja kreditne
+kvalitete listinjenih izpostavljenosti, razen v primeru določb o predčasnem
+odplačilu pozicije v listinjenju, ali
+-     omogočajo
+povečanje donosa, ki se izplača imetnikom pozicij v listinjenju zaradi
+poslabšanja kreditne kvalitete skupine izpostavljenosti.
+2.3. Minimalne zahteve glede prenosa
+pomembnega deleža kreditnega tveganja na tretje osebe pri sintetičnem
+listinjenju
+7. člen
+(1) Borznoposredniška družba v vlogi
+originatorja v sintetičnem listinjenju lahko izračunava tveganjem prilagojene
+zneske izpostavljenosti oziroma tveganjem prilagojene zneske izpostavljenosti
+in zneske pričakovanih izgub za listinjene izpostavljenosti v skladu z oddelkom
+2.4. ter 4. poglavjem tega sklepa, če je izpolnjen eden od naslednjih pogojev:
+(a)   pomemben delež kreditnega tveganja je bil s stvarnim ali osebnim
+zavarovanjem prenesen na tretje osebe,
+(b)   borznoposredniška družba v vlogi originatorja za vse pozicije v
+zadevnem listinjenju uporablja utež tveganja 1250 % ali jih v skladu s točko
+(g) drugega odstavka 30. člena sklepa o kapitalu upošteva kot odbitno postavko
+od kapitala.
+(2) Šteje se, da je pomemben delež
+kreditnega tveganja iz točke (a) prvega odstavka tega člena prenesen v
+naslednjih primerih:
+(a)   tveganjem prilagojeni zneski izpostavljenosti vmesnih pozicij, ki
+jih ima borznoposredniška družba v vlogi originatorja v zadevnem listinjenju ne
+presegajo 50 % tveganjem prilagojenih zneskov izpostavljenosti vseh vmesnih
+pozicij v zadevnem listinjenju, ali
+(b)   kadar v zadevnem listinjenju ni vmesnih pozicij in originator lahko
+dokaže, da vrednost pozicij v listinjenju, za katere bi veljajo, da so odbitna
+postavka od kapitala ali da se jim dodeli utež tveganja 1250 %, znatno presega
+utemeljeno oceno pričakovanih izgub pri listinjenih izpostavljenostih in
+borznoposredniška družba v vlogi originatorja nima več kot 20 % vrednosti
+pozicij v listinjenju, za katere bi veljajo, da so odbitna postavka od kapitala
+ali da se jim dodeli utež tveganja 1250 %.
+(3) Ne glede na določbe prejšnjega
+odstavka tega člena se šteje, da je bil prenesen pomemben delež kreditnega
+tveganja, če borznoposredniška družba v vlogi originatorja Agenciji dokaže, da
+je vzpostavila politike in metodologijo, ki zagotavljajo, da je morebitno
+zmanjšanje kapitalskih zahtev, doseženih z listinjenjem, utemeljeno s
+sorazmernim prenosom kreditnega tveganja na tretje osebe. Poleg tega mora
+borznoposredniška družba v vlogi originatorja dokazati, da je namen prenosa
+kreditnega tveganja na tretje osebe upravljanje s tveganji in razporeditev
+notranjega kapitala.
+(4) Ne glede na določbe drugega in
+tretjega odstavka tega člena lahko Agencija za posamezen primer določi, da
+morebitno zmanjšanje kapitalskih zahtev, ki bi jih borznoposredniška družba v
+vlogi originatorja dosegla z zadevnim listinjenjem, ni utemeljeno s sorazmernim
+prenosom kreditnega tveganja na tretje osebe in, da v zadevnem primeru
+listinjenja ni prišlo do prenosa pomembnega deleža kreditnega tveganja.
+(5) Da gre za prenos pomembnega deleža
+kreditnega tveganja na tretje osebe, morajo biti izpolnjeni tudi naslednji
+pogoji:
+(a)   dokumentacija o listinjenju odraža ekonomsko vsebino posla,
+(b)   kreditno zavarovanje, s katerim se prenese kreditno tveganje,
+izpolnjuje merila primernosti in minimalne zahteve za priznanje kreditnih
+zavarovanj iz 2. poglavja Sklepa o kreditnih zavarovanjih za borznoposredniške
+družbe (Uradni list RS, št. 106/07, 74/09 in 80/11; v nadaljevanju: sklep o
+kreditnih zavarovanjih), pri čemer se SSPE ne prizna za primernega dajalca
+osebnih kreditnih zavarovanj,
+(c)   instrumenti, ki se uporabljajo za prenos kreditnega tveganja, ne
+smejo vsebovati zahtev ali pogojev, ki:
+-     določajo
+pomemben prag, ki mora biti dosežen, da se kreditno zavarovanje v primeru
+kreditnega dogodka sploh sproži,
+-     dopuščajo
+prenehanje kreditnega zavarovanja zaradi poslabšanja kreditne kvalitete skupine
+izpostavljenosti,
+-     zahtevajo,
+da borznoposredniška družba v vlogi originatorja izboljša kreditno kvaliteto
+pozicij v listinjenju, razen v primeru določb o predčasnem odplačilu,
+-     povečujejo
+stroške borznoposredniške družbe v vlogi originatorja za kreditno zavarovanje
+ali povečujejo donos, ki se izplača imetnikom pozicij v listinjenju zaradi
+poslabšanja kreditne kvalitete skupine izpostavljenosti,
+(d)   neodvisno pravno mnenje potrjuje izterljivost kreditnega
+zavarovanja v vseh relevantnih pravnih redih.
+2.4. Izračun tveganjem prilagojenih
+zneskov izpostavljenosti borznoposredniške družbe v vlogi originatorja za
+listinjene izpostavljenosti v sintetičnem listinjenju
+8. člen
+(1) Borznoposredniška družba v vlogi
+originatorja v sintetičnem listinjenju mora izračunati tveganjem prilagojene
+zneske izpostavljenosti za listinjene izpostavljenosti, ki izpolnjujejo pogoje
+iz oddelka 2.3. tega sklepa, in sicer za celotno skupino izpostavljenosti v
+skladu s 4. poglavjem tega sklepa in ne v skladu s Sklepom o izračunu
+kapitalske zahteve za kreditno tveganje po standardiziranem pristopu za
+borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09, 81/09 – popr.,
+10/10 – popr. in 80/11; v nadaljevanju: sklep o standardiziranem pristopu) ali
+sklepom o pristopu IRB, pri čemer mora upoštevati pododdelek 2.4.1. tega
+sklepa.
+(2) Borznoposredniška družba v vlogi
+originatorja mora izračunati tveganjem prilagojene zneske izpostavljenosti za
+vse tranše v listinjenju, vključno s tistimi, ki jim je bilo priznano
+zmanjšanje kreditnega tveganja v skladu s 4. poglavjem tega sklepa, ob
+upoštevanju pododdelka 2.4.1. tega sklepa. Če se na primer tranša prenese na
+tretjo osebo z osebnim kreditnim zavarovanjem, se utež tveganja te tretje osebe
+uporabi za tranšo pri izračunu tveganjem prilagojenih zneskov izpostavljenosti
+borznoposredniške družbe v vlogi originatorja.
+(3) Za borznoposredniško družbo v
+vlogi originatorja, ki izračunava tveganjem prilagojene zneske izpostavljenosti
+in zneske pričakovanih izgub za listinjene izpostavljenosti po pristopu IRB, je
+znesek pričakovanih izgub iz naslova teh izpostavljenosti enak nič.
+2.4.1. Obravnava neusklajenosti
+zapadlosti v sintetičnem listinjenju
+9. člen
+(1) Borznoposredniška družba v vlogi
+originatorja mora ob upoštevanju prvega odstavka 8. člena tega sklepa pri
+izračunu tveganjem prilagojenih zneskov izpostavljenosti upoštevati morebitno
+neusklajenost zapadlosti med kreditnim zavarovanjem, s katerim je doseženo
+tranširanje, in listinjenimi izpostavljenostmi v skladu z drugim in tretjim
+odstavkom tega člena.
+(2) Za zapadlost listinjenih
+izpostavljenosti se upošteva najdaljša zapadlost izpostavljenosti, vendar ne
+več kakor pet let. Zapadlost kreditnega zavarovanja se določi v skladu s
+sklepom o kreditnih zavarovanjih.
+(3) Borznoposredniška družba v vlogi
+originatorja ne sme upoštevati morebitne neusklajenosti zapadlosti pri
+izračunavanju tveganjem prilagojenih zneskov izpostavljenosti za tranše ali
+dele tranš, ki jim je v skladu s 4. poglavjem tega sklepa dodeljena utež
+tveganja v višini 1250 %. Za vse druge tranše ali dele tranš se obravnava
+neusklajenost zapadlosti v skladu s sklepom o kreditnih zavarovanjih po
+naslednji formuli:
+RW*
+= [RW(SP) x (t-t*)/(T-t*)] + [RW(Ass) x (T-t)/(T-t*)]
+(4) Simboli v formuli iz tretjega
+odstavka tega člena pomenijo:
+RW*
+= tveganjem prilagojeni zneski izpostavljenosti za listinjene izpostavljenosti
+za izračun kapitalske zahteve v skladu s točko (b) 5. člena sklepa o kapitalu,
+RW(SP)
+=  tveganjem prilagojeni zneski izpostavljenosti, izračunani v skladu s prvim
+odstavkom 8. člena tega sklepa, če ne bi bilo nobene neusklajenosti zapadlosti,
+t
+=   preostala zapadlost kreditnega zavarovanja, izražena v letih, ali vrednost
+T, odvisno od tega, katera vrednost je nižja,
+t* = 0,25,
+T
+=  preostala zapadlost osnovnih izpostavljenosti, izražena v letih, ali 5 let,
+odvisno od tega, katera vrednost je nižja,
+RW(Ass)
+=      tveganjem prilagojeni zneski izpostavljenosti, izračunani za listinjene
+izpostavljenosti, kot da ne bi bile listinjene.
+3. BONITETNE OCENE ECAI
+3.1. Zahteve v zvezi z bonitetnimi
+ocenami ECAI
+10. člen
+(1) V skladu s sklepom o ECAI morajo
+bonitetne ocene primerne ECAI, ki jih borznoposredniška družba uporablja za
+izračun tveganjem prilagojenih zneskov izpostavljenosti za pozicije v
+listinjenju, izpolnjevati standarde verodostojnosti in preglednosti, in sicer:
+(a)   ne sme biti nobene neskladnosti med vrstami plačil, ki se odražajo
+v bonitetni oceni, in vrstami plačil, do katerih je borznoposredniška družba
+upravičena v skladu s pogodbo, iz katere izhaja zadevna pozicija v listinjenju,
+(b)   bonitetne ocene so javno dostopne na trgu. Bonitetne ocene so javno
+dostopne, če so objavljene na javno dostopnem mediju in vključene v matriko
+prehodov ECAI. Bonitetne ocene niso javno dostopne, če so dostopne samo
+omejenemu številu oseb in
+(c)   bonitetna
+ocena ne sme temeljiti, niti delno niti v celoti, na osebnem kreditnem
+zavarovanju in drugih zavezah, katerih dajalec je borznoposredniška družba
+sama. V tem primeru mora borznoposredniška družba obravnavati zadevno pozicijo
+v listinjenju kot neocenjeno in skladno s postopki za obravnavo neocenjenih
+pozicij v okviru določil 4. poglavja tega sklepa.
+(2) Borznoposredniška družba lahko
+bonitetne ocene imenovane ECAI, kateri je Agencija izdala odločbo o
+razveljavitvi priznanja primernosti, uporablja še največ tri mesece po izbrisu
+zadevne ECAI iz seznama primernih ECAI, ki ga v skladu s prvim odstavkom 34.
+člena sklepa o ECAI Agencija objavlja na svoji spletni strani.
+(3) Ne glede na prejšnji odstavek tega
+člena lahko borznoposredniška bonitetne ocene imenovane ECAI, ki je
+registrirana ali certificirana v skladu z Uredbo (ES) št. 1060/2009 Evropskega
+parlamenta in Sveta z dne 16. septembra 2009 o bonitetnih agencijah (UL L
+št. 302 z dne 17. novembra 2009, str. 1; v nadaljevanju Uredba o
+bonitetnih agencijah) in za katero je pristojni organ sprejel ukrep iz točke
+(a) ali (c) 24. člena Uredbe o bonitetnih agencijah, uporablja še največ toliko
+časa po sprejemu ukrepa, kot je določeno v drugem odstavku 24. člena Uredbe o
+bonitetnih agencijah.
+(4) Poleg izpolnjevanja pogojev iz
+prvega odstavka tega člena, morajo biti v zvezi z bonitetnimi ocenami pozicij v
+listinjenju javno objavljene razlage in pojasnila ECAI, iz katerih je razviden
+vpliv kvalitete skupine izpostavljenosti na te bonitetne ocene.
+3.2. Uporaba bonitetnih ocen
+11. člen
+(1) Borznoposredniška družba lahko
+imenuje eno ali več primernih ECAI, katerih bonitetne ocene uporablja za
+izračun tveganjem prilagojenih zneskov izpostavljenosti za pozicije v
+listinjenju.
+(2) Borznoposredniška družba ne sme za
+svoje pozicije v nekaterih tranšah uporabljati bonitetnih ocen ene imenovane
+ECAI, za pozicije v drugih tranšah v okviru istega listinjenja pa bonitetnih
+ocen druge imenovane ECAI.
+(3) Kadar ima pozicija dve bonitetni
+oceni imenovanih ECAI, mora borznoposredniška družba uporabiti manj ugodno
+bonitetno oceno.
+(4) Kadar ima pozicija v listinjenju
+več kot dve bonitetni oceni imenovanih ECAI, mora borznoposredniška družba
+uporabiti dve najugodnejši bonitetni oceni. Če sta dve najugodnejši bonitetni
+oceni različni, borznoposredniška družba uporabi manj ugodno bonitetno oceno.
+(5) Če je kreditno zavarovanje, ki
+izpolnjuje pogoje iz 2. poglavja sklepa o kreditnih zavarovanjih, zagotovljeno
+neposredno SSPE in se istočasno odraža v bonitetni oceni imenovane ECAI za
+pozicijo v listinjenju, borznoposredniška družba uporabi utež tveganja,
+povezano s to bonitetno oceno. Če kreditno zavarovanje ne izpolnjuje zahtev iz
+2. poglavja sklepa o kreditnih zavarovanjih, se bonitetna ocena ne prizna.
+Če se kreditno zavarovanje ne zagotovi SSPE, temveč neposredno poziciji v
+listinjenju, se taka bonitetna ocena ne prizna.
+(6) Uporaba bonitetnih ocen imenovane
+ECAI za izračun tveganjem prilagojenih zneskov izpostavljenosti za pozicije v
+listinjenju mora biti dosledna in ne sme biti selektivna.
+4. IZRAČUN KAPITALSKE ZAHTEVE IN TVEGANJEM PRILAGOJENIH
+ZNESKOV IZPOSTAVLJENOSTI ZA POZICIJE V LISTINJENJU
+4.1. Splošno
+12. člen
+Kapitalska zahteva za kreditno tveganje
+pozicij v listinjenju znaša 8 % tveganjem prilagojenih zneskov
+izpostavljenosti.
+13. člen
+(1) Če borznoposredniška družba za
+izračun tveganjem prilagojenih zneskov izpostavljenosti za listinjene
+izpostavljenosti uporablja standardizirani pristop, tveganjem prilagojene
+zneske izpostavljenosti za pozicije v listinjenju izračunava skladno z določili
+oddelka 4.2., sicer pa skladno z določili oddelka 4.3. tega sklepa.
+(2) Če se izpostavljenost nanaša na
+različne tranše, se izpostavljenost do vsake tranše obravnava kot posamezna
+pozicija v listinjenju. Dajalci kreditnega zavarovanja za pozicije v
+listinjenju se obravnavajo kot imetniki pozicij v listinjenju. Pozicije v
+listinjenju vključujejo tudi izpostavljenosti, ki nastanejo na osnovi obrestnih
+ali valutnih izvedenih finančnih instrumentov.
+(3) Če je pozicija v listinjenju
+zavarovana s stvarnim ali osebnim kreditnim zavarovanjem, se lahko utež
+tveganja za to pozicijo prilagodi v skladu s sklepom o kreditnih zavarovanjih,
+v povezavi s tem sklepom.
+(4) Ob upoštevanju določil prvega
+odstavka in točke (g) drugega odstavka 30. člena sklepa o kapitalu se mora
+tveganjem prilagojeni znesek izpostavljenosti za pozicije v listinjenju
+vključiti v skupne tveganjem prilagojene zneske izpostavljenosti
+borznoposredniške družbe za namen točke (b) 5. člena istega sklepa.
+14. člen
+(1) Pri izračunu tveganjem
+prilagojenih zneskov izpostavljenosti za pozicije v listinjenju je:
+(a)   vrednost bilančne pozicije enaka njeni knjigovodski vrednosti, če
+borznoposredniška družba uporablja za izračun standardizirani pristop,
+(b)   vrednost bilančne pozicije enaka njeni knjigovodski vrednosti,
+povečani za oblikovane oslabitve, če borznoposredniška družba uporablja za
+izračun pristop IRB in
+(c)   vrednost zunajbilančne pozicije v listinjenju enaka njeni nominalni
+vrednosti, pomnoženi s konverzijskim količnikom. Konverzijski količnik znaša
+100 %, razen če ni s tem sklepom drugače določeno.
+(2) Vrednost pozicije v listinjenju,
+ki izhaja iz izvedenega finančnega instrumenta, navedenega v Prilogi I Sklepa o
+izračunu kapitalske zahteve za tržna tveganja za borznoposredniške družbe
+(Uradni list RS, št. 106/07, 74/09, 97/10 in 80/11; v nadaljevanju: sklep o
+tržnih tveganjih), se določi v skladu z oddelkom 5.3. sklepa o tržnih tveganjih.
+(3) Če je pozicija v listinjenju
+zavarovana s stvarnim ali osebnim kreditnim zavarovanjem, se vrednost te
+pozicije prilagodi v skladu z zahtevami sklepa o kreditnih zavarovanjih,
+upoštevaje zahteve iz tega sklepa.
+(4) Če ima borznoposredniška
+družba dve ali več prekrivajočih se pozicij v listinjenju, mora v obsegu
+prekrivanja v svoj izračun tveganjem prilagojenih zneskov izpostavljenosti
+vključiti zgolj pozicijo ali del pozicije, ki prispeva k višjim tveganjem
+prilagojenim zneskom izpostavljenosti. Borznoposredniška družba lahko upošteva
+prekrivanje pozicij tudi med kapitalskimi zahtevami za posebno pozicijsko
+tveganje pozicij v trgovalni knjigi in kapitalskimi zahtevami pozicij v
+netrgovalni knjigi, pod pogojem, da je borznoposredniška družba sposobna izračunati
+in primerjati kapitalske zahteve za zadevne pozicije. Za namen tega odstavka
+»prekrivanje« nastopi, ko pozicije v celoti ali delno predstavljajo
+izpostavljenost do istega tveganja, tako kot da v obsegu prekrivanja obstaja
+ena sama izpostavljenost.
+(5) Če se točka (c) prvega odstavka 10. člena tega sklepa
+nanaša na pozicije v programu ABCP, lahko borznoposredniška družba, po
+predhodni obvestitvi Agencije, pri izračunu tveganjem prilagojenih zneskov
+izpostavljenosti za te pozicije uporabi utež tveganja, dodeljeno okvirnemu
+likvidnostnemu posojilu, če je okvirno likvidnostno posojilo uvrščeno pari
+passu s programom ABCP, tako da se poziciji prekrivata in je program ABCP 100 % krit z okvirnim likvidnostnim
+posojilom.
+4.2. Izračun tveganjem prilagojenih zneskov
+izpostavljenosti za pozicije v listinjenju po standardiziranem pristopu
+15. člen
+(1) Ob
+upoštevanju 16. člena tega sklepa se ocenjenim pozicijam v listinjenju ali
+relistinjenju dodeli utež tveganja v skladu s Tabelo 1.
+ 
+Tabela 1
+ 
+
+Stopnja kreditne kvalitete
+
+1
+
+2
+
+3
+
+4 (le za bonitetne ocene brez
+  kratkoročnih bonitetnih ocen)
+
+Ostale stopnje kreditne
+  kvalitete
+
+
+Pozicije v listinjenju (utež
+  tveganja v  %)
+
+20
+
+50
+
+100
+
+350
+
+1250
+
+
+Pozicije v relistinjenju (utež
+  tveganja v  %)
+
+40
+
+100
+
+225
+
+650
+
+1250
+
+(2) Borznoposredniška družba
+neocenjenim pozicijam v listinjenju dodeli utež tveganja 1250 %, razen če ni s tem sklepom določeno
+drugače.
+4.2.1. Borznoposredniška družba v vlogi
+originatorja ali sponzorja
+16. člen
+Borznoposredniška družba v vlogi
+originatorja ali sponzorja lahko upošteva tveganjem prilagojene zneske
+izpostavljenosti za pozicije v listinjenju največ v višini tveganjem
+prilagojenih zneskov izpostavljenosti, ki bi jih izračunala za listinjene
+izpostavljenosti, kot če te ne bi bile listinjene. Pri tem se za vse zapadle
+postavke iz 27. in 28. člena sklepa o standardiziranem pristopu ter regulatorno
+zelo tvegane postavke iz 29. člena sklepa o standardiziranem pristopu uporabi
+utež tveganja 150 %.
+4.2.2. Obravnava neocenjenih pozicij
+17. člen
+(1) Borznoposredniška družba, ki ima
+neocenjene pozicije v listinjenju, lahko pri izračunu tveganjem prilagojenih
+zneskov izpostavljenosti za te pozicije ravna v skladu z drugim odstavkom tega
+člena, vendar le pod pogojem, da je sestava skupine izpostavljenosti v
+listinjenju vseskozi znana.
+(2) Borznoposredniška družba lahko
+uporabi tehtano povprečje uteži tveganja, katere bi za listinjene
+izpostavljenosti po sklepu o standardiziranem pristopu uporabila
+borznoposredniška družba, ki je imetnik izpostavljenosti, pomnoženo z razmerjem
+koncentracije. Razmerje koncentracije je enako vsoti nominalnih zneskov vseh
+tranš, deljeni z vsoto nominalnih zneskov tranš, podrejenih ali enakovrednih
+tranši, v kateri je pozicija, vključno s to tranšo. Tako izračunana utež
+tveganja ne sme biti višja od 1250 % ali nižja od katere koli uteži tveganja,
+ki se uporablja za ocenjeno nadrejeno tranšo. Če borznoposredniška družba ne
+more določiti uteži tveganja za listinjene izpostavljenosti v skladu s sklepom
+o standardiziranem pristopu, mora uporabiti za pozicijo v listinjenju utež
+tveganja v višini 1250 %.
+4.2.3. Obravnava neocenjenih pozicij v
+listinjenju v tranši druge izgube ali boljši tranši v programu ABCP
+18. člen
+(1) Če borznoposredniška družba lahko
+ravna v skladu z 19. in 20. členom tega sklepa, lahko za pozicije v
+listinjenju, ki izpolnjujejo pogoje iz drugega odstavka tega člena, uporabi
+utež tveganja, ki je večja izmed dveh:
+(a)   100 % ali
+(b)   najvišja med utežmi tveganja, ki bi jo za katero koli od
+listinjenih izpostavljenosti, v skladu s sklepom o standardiziranem pristopu,
+uporabila borznoposredniška družba, če te ne bi bile listinjene.
+(2) Borznoposredniška družba lahko
+ravna v skladu s prvim odstavkom tega člena, če je pozicija v listinjenju:
+(a)   v tranši druge izgube ali boljši tranši, pri čemer mora tranša prve
+izgube zagotavljati pomembno kreditno izboljšavo tranši druge izgube,
+(b)   takšne kvalitete, ki je enakovredna naložbenemu razredu ali boljša,
+(c)   v lasti borznoposredniške družbe, ki ni imetnik pozicije v tranši
+prve izgube v istem listinjenju.
+4.2.4. Obravnava neocenjenih okvirnih likvidnostnih posojil
+4.2.4.1. Primerna okvirna likvidnostna
+posojila
+19. člen
+(1) Za namen določitve vrednosti
+izpostavljenosti neocenjene pozicije v listinjenju v obliki okvirnega
+likvidnostnega posojila mora pozicija v listinjenju izpolnjevati naslednje
+pogoje, da se lahko šteje za primerno okvirno likvidnostno posojilo:
+(a)   dokumentacija o okvirnem likvidnostnem posojilu mora jasno določati
+in opredeljevati okoliščine, pod katerimi se lahko črpa okvirno likvidnostno
+posojilo,
+(b)   okvirnega likvidnostnega posojila ni mogoče črpati za kritje izgub,
+ki so v času črpanja že obstajale,
+(c)   okvirno likvidnostno posojilo se uporablja izključno za pokrivanje
+občasnih razlik med prilivi in odlivi v listinjenju ter ne sme biti trajen ali
+reden vir financiranja listinjenja,
+(d)   odplačilo črpanih zneskov iz okvirnega likvidnostnega posojila ne
+sme biti podrejeno terjatvam investitorjev, razen terjatvam, izhajajočih iz
+obrestnih ali valutnih izvedenih finančnih instrumentov, provizij ali podobnih
+drugih plačil, niti ne sme priti do odloga plačila ali odpusta,
+(e)   okvirnega likvidnostnega posojila ni mogoče črpati potem, ko so
+bile uporabljene vse kreditne izboljšave, ki bi sicer učinkovale v korist
+okvirnega likvidnostnega posojila, in
+(f)    pogodba o okvirnem likvidnostnem posojilu mora vsebovati določbo:
+-     ki sproži
+samodejno zmanjšanje zneska, ki je lahko črpan, za znesek neplačil na podlagi
+listinjenih izpostavljenosti ali
+-     ki sproži
+prekinitev pogodbe o okvirnem likvidnostnem posojilu, če povprečna kvaliteta
+skupine izpostavljenosti, ki je sestavljena iz ocenjenih instrumentov, pade pod
+naložbeni razred.
+(2) Če so izpolnjeni pogoji iz
+prejšnjega odstavka tega člena, lahko borznoposredniška družba za določitev
+vrednosti izpostavljenosti neocenjene pozicije v listinjenju v obliki
+primernega okvirnega likvidnostnega posojila uporabi konverzijski količnik v
+višini 50 % na nominalni znesek okvirnega likvidnostnega kredita.
+(3) Borznoposredniška družba mora za
+izračun tveganjem prilagojenih zneskov izpostavljenosti za neocenjene pozicije
+v listinjenju v obliki primernega okvirnega likvidnostnega posojila uporabiti
+najvišjo utež tveganja, ki bi bila v skladu s sklepom o standardiziranem
+pristopu dodeljena katerikoli izmed listinjenih izpostavljenosti, če te ne bi
+bile listinjene.
+4.2.4.2. Konverzijski količnik za primerna likvidnostna posojila
+kot predujme
+20. člen
+Borznoposredniška družba lahko uporabi
+konverzijski količnik 0 % na nominalni znesek okvirnega likvidnostnega posojila
+pri določitvi vrednosti izpostavljenosti tistega okvirnega likvidnostnega
+posojila:
+(a)   ki je brezpogojno preklicen,
+(b)   pri katerem so izpolnjeni pogoji iz prvega odstavka 19. člena tega
+sklepa,
+(c)   je odplačilo črpanih zneskov iz okvirnega likvidnostnega posojila
+nadrejeno katerim koli drugim terjatvam iz denarnih tokov, izhajajočih iz
+listinjenih izpostavljenosti.
+4.2.5. Upoštevanje kreditnih zavarovanj
+pri pozicijah v listinjenju
+21. člen
+Če borznoposredniška družba za pozicijo v
+listinjenju pridobi kreditno zavarovanje, lahko izračun tveganjem prilagojenih
+zneskov izpostavljenosti prilagodi v skladu s 3. poglavjem sklepa o
+kreditnih zavarovanjih.
+4.2.6. Zmanjšanje tveganjem prilagojenih
+zneskov izpostavljenosti
+22. člen
+(1) Borznoposredniška družba lahko v
+skladu s prvim odstavkom 30. člena sklepa o kapitalu vrednost pozicije v
+listinjenju, kateri je dodelila utež tveganja 1250 %, odšteje od kapitala,
+namesto da take pozicije vključi v izračun tveganjem prilagojenih zneskov
+izpostavljenosti. Če so pozicije v listinjenju zavarovane s primernim stvarnim
+kreditnim zavarovanjem, se od kapitala odšteje vrednost pozicij, ki je
+prilagojena v skladu s 3. poglavjem sklepa o kreditnih zavarovanjih.
+(2) Če borznoposredniška družba ravna
+v skladu s prejšnjim odstavkom tega člena, se za namen 16. člena tega sklepa
+12,5-kratnik odštetega zneska iz prvega odstavka tega člena odšteje od zneska,
+ki je v 16. členu določen kot največji tveganjem prilagojeni znesek
+izpostavljenosti.
+4.3. Izračun tveganjem prilagojenih
+zneskov izpostavljenosti za pozicije v listinjenju po pristopu IRB
+4.3.1. Vrstni red metod za izračun
+tveganjem prilagojenih zneskov izpostavljenosti za pozicije v listinjenju
+23. člen
+(1) Borznoposredniška družba mora pri
+izračunu tveganjem prilagojenih zneskov izpostavljenosti za ocenjene pozicije v
+listinjenju ali pozicije v listinjenju, pri katerih se lahko uporabi povzeta
+bonitetna ocena, ki je opredeljena v 25. členu tega sklepa, uporabiti metodo
+bonitetnih ocen iz pododdelka 4.3.3. tega sklepa.
+(2) Borznoposredniška družba mora pri
+izračunu tveganjem prilagojenih zneskov izpostavljenosti za neocenjene pozicije
+v programu ABCP, katerim se povzeta bonitetna ocena ne more dodeliti, uporabiti
+metodo notranjega ocenjevanja iz 4.3.5. pododdelka tega sklepa, če Agenciji
+dokaže, da so izpolnjeni pogoji iz 29. člena tega sklepa. Če borznoposredniška
+družba izpolnjevanja pogojev iz 29. člena tega sklepa ne dokaže ustrezno ali
+gre za neocenjene pozicije, ki niso iz programa ABCP, uporabi metodo
+nadzorniške formule iz pododdelka 4.3.4. tega sklepa.
+(3) Borznoposredniška družba, ki ni v
+vlogi originatorja ali sponzorja, lahko za izračun tveganjem prilagojenih
+zneskov izpostavljenosti za pozicije v listnjenju uporabi metodo nadzorniške
+formule le, če Agenciji dokaže, da razpolaga s potrebnim znanjem in
+razumevanjem, ki zagotavlja ustrezno uporabo te metode.
+(4) Za pozicije v listinjenju, ki so
+neocenjene in pri katerih se ne more uporabiti povzeta bonitetna ocena, se
+uporabi utež tveganja 1250 % v primeru:
+(a)   da borznoposredniška družba v vlogi originatorja ali sponzorja ne
+more izračunati Kirb in Agenciji ne dokaže izpolnjevanja pogojev za uporabo
+metode notranjega ocenjevanja za pozicije v programu ABCP iz 29. člena tega
+sklepa,
+(b)   da borznoposredniška družba, ki ni v vlogi originatorja ali
+sponzorja, Agenciji ne dokaže izpolnjevanja pogojev iz tretjega odstavka tega
+člena ali izpolnjevanja pogojev za uporabo metode notranjega ocenjevanja za
+pozicije v programu ABCP iz 29. člena tega sklepa.
+4.3.2. Maksimalni tveganjem prilagojeni
+zneski izpostavljenosti za pozicije v listinjenju
+24. člen
+Borznoposredniška družba v vlogi
+originatorja, sponzorja ali druga borznoposredniška družba, ki izračunava Kirb,
+lahko upošteva kot najvišje tveganjem prilagojene zneske izpostavljenosti za
+pozicije v listinjenju tiste zneske, ki dajo kapitalsko zahtevo enako vsoti:
+(a)   8 % tveganjem
+prilagojenih zneskov izpostavljenosti, izračunanih kot če izpostavljenosti ne
+bi bile listinjene in bi bile v bilanci stanja te borznoposredniške družbe in
+(b)   zneskov pričakovanih izgub pri teh izpostavljenostih.
+4.3.2.1. Uporaba povzetih bonitetnih ocen
+25. člen
+Borznoposredniška družba mora neocenjeni
+poziciji v listinjenju dodeliti bonitetno oceno tiste ocenjene pozicije (v
+nadaljevanju: referenčne pozicije), ki je najbolj nadrejena vendar hkrati
+podrejena zadevni neocenjeni poziciji v listinjenju (v nadaljevanju: povzeto
+bonitetno oceno), pri čemer morata biti izpolnjeni še naslednji minimalni zahtevi:
+(a)   zapadlost referenčnih pozicij mora biti enaka ali daljša od
+zapadlosti zadevne neocenjene pozicije, in
+(b)   vse povzete bonitetne ocene se morajo redno posodabljati, tako da
+odražajo vse morebitne spremembe bonitetne ocene referenčnih pozicij.
+4.3.3. Metoda bonitetnih ocen
+26. člen
+(1) Če
+borznoposredniška družba za izračun tveganjem prilagojenih zneskov
+izpostavljenosti za ocenjene pozicije v listinjenju ali relistinjenju uporablja
+metodo bonitetnih ocen, izpostavljenostim dodeli utež tveganja v skladu s
+Tabelo 2. Ustrezna utež tveganja se pomnoži z 1,06.
+ 
+Tabela 2
+ 
+
+Stopnja kreditne kvalitete
+
+Pozicije v listinjenju 
+  (utež tveganja v  %)
+
+Pozicije v relistinjenju 
+  (utež tveganja v  %)
+
+
+Bonitetne ocene brez
+  kratkoročnih bonitetnih ocen
+
+Kratkoročne bonitetne ocene
+
+A
+
+B
+
+C
+
+D
+
+E
+
+
+1
+
+1
+
+7
+
+12
+
+20
+
+20
+
+30
+
+
+2
+
+ 
+
+8
+
+15
+
+25
+
+25
+
+40
+
+
+3
+
+ 
+
+10
+
+18
+
+35
+
+35
+
+50
+
+
+4
+
+2
+
+12
+
+20
+
+35
+
+40
+
+65
+
+
+5
+
+ 
+
+20
+
+35
+
+35
+
+60
+
+100
+
+
+6
+
+ 
+
+35
+
+50
+
+50
+
+100
+
+150
+
+
+7
+
+3
+
+60
+
+75
+
+75
+
+150
+
+225
+
+
+8
+
+ 
+
+100
+
+100
+
+100
+
+200
+
+350
+
+
+9
+
+ 
+
+250
+
+250
+
+250
+
+300
+
+500
+
+
+10
+
+ 
+
+425
+
+425
+
+425
+
+500
+
+650
+
+
+11
+
+ 
+
+650
+
+650
+
+650
+
+750
+
+850
+
+
+Več kot 11 in neocenjene
+  pozicije
+
+Več kot 3 in neocenjene pozicije
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+(2) Uteži tveganja iz stolpca C
+Tabele 2 se uporabijo za pozicijo v listinjenju, ki ni pozicija v
+relistinjenju, in kjer je efektivno število listinjenih izpostavljenosti manjše
+od šest. Za preostale pozicije v listinjenju, ki niso pozicije v relistinjenju,
+se uporabijo uteži tveganja iz stolpca B, razen za pozicijo v listinjenju v
+najbolj nadrejeni tranši, za katero se uporabljajo uteži tveganja iz stolpca A.
+Za pozicije v relistinjenju se uporabljajo uteži tveganja iz stolpca E, razen
+za pozicijo v relistinjenju v najbolj nadrejeni tranši relistinjenja in v
+kateri nobena od osnovnih izpostavljenosti ni že sama pozicija v relistinjenju.
+V tem primeru se uporabljajo uteži tveganja iz stolpca D. Pri določitvi najbolj
+nadrejene tranše ni treba upoštevati zneskov, ki so nastali na osnovi obrestnih
+ali valutnih izvedenih finančnih instrumentov, provizij ali podobnih drugih
+plačil.
+(3) Pri izračunu efektivnega števila
+listinjenih izpostavljenosti se morajo vse izpostavljenosti do istega dolžnika
+obravnavati kot ena izpostavljenost. Efektivno število listinjenih
+izpostavljenosti se izračuna na naslednji način:
+kjer EADi predstavlja vsoto vrednosti vseh
+izpostavljenosti do i-tega dolžnika. Če je na razpolago podatek o deležu
+portfelja, ki predstavlja največjo listinjeno izpostavljenost – C1, lahko
+borznoposredniška družba izračuna N kot 1/C1.
+(4) Borznoposredniška
+družba lahko v skladu s 33. do 35. členom tega sklepa pri izračunu tveganjem
+prilagojenih zneskov izpostavljenosti za pozicije v listinjenju upošteva
+kreditno zavarovanje.
+4.3.4. Metoda nadzorniške formule
+27. člen
+(1) Če borznoposredniška družba za
+izračun tveganjem prilagojenih zneskov izpostavljenosti uporablja metodo
+nadzorniške formule, mora ob upoštevanju 32. člena tega sklepa za pozicijo v
+listinjenju uporabiti večjo izmed dveh uteži:
+(a)   20 % za pozicije v
+relistinjenju in 7 %
+za vse preostale pozicije v listinjenju, ali
+(b)   utež tveganja iz drugega odstavka tega člena.
+(2) Ob upoštevanju 32. člena tega
+sklepa je utež tveganja enaka:
+
+V zgoraj navedenih formulah se Beta [x; a,
+b] nanaša na kumulativno beta distribucijo s parametroma a in b, ovrednotenima
+pri vrednosti x.
+T je velikost tranše, v kateri je pozicija,
+in se izračuna kot razmerje med nominalnim zneskom tranše in vrednostjo skupine
+izpostavljenosti, ki je predmet listinjenja. Za namen izračuna T je vrednost
+izpostavljenosti izvedenega finančnega instrumenta iz Priloge I sklepa o tržnih
+tveganjih, pri katerem nadomestitveni stroški niso pozitivna vrednost, enaka
+potencialni bodoči kreditni izpostavljenosti, izračunani v skladu z oddelkom
+5.3. sklepa o tržnih tveganjih.
+Kirbr je razmerje med Kirb in vrednostjo
+skupine izpostavljenosti, ki je predmet listinjenja (na primer, če je Kirbr
+enak 15 %, se v formuli uporabi 0,15).
+L je stopnja kreditne izboljšave in se
+izračuna kot razmerje med nominalnim zneskom vseh tranš, ki so podrejene
+tranši, v kateri je pozicija v listinjenju, in vrednostjo skupine izpostavljenosti,
+ki je predmet listinjenja. Kapitalizirani bodoči prihodki se ne smejo vključiti
+v izračun L. Za namen izračuna L se zneski, ki jih nasprotne stranke dolgujejo
+v zvezi z izvedenimi finančnimi instrumenti iz Priloge I sklepa o tržnih
+tveganjih in ki predstavljajo tranše, podrejene zadevni tranši, lahko
+izračunajo po nadomestitvenih stroških (brez potencialnih bodočih kreditnih
+izpostavljenosti).
+N je efektivno število izpostavljenosti,
+izračunano v skladu s tretjim odstavkom 26. člena tega sklepa. V primeru relistinjenja mora borznoposredniška družba
+upoštevati število izpostavljenosti v listinjenju v skupini izpostavljenosti,
+ne pa tudi števila osnovnih izpostavljenosti v prvotnih skupinah
+izpostavljenosti, iz katerih izhajajo izpostavljenosti v listinjenju, ki so
+predmet relistinjenja.
+ELGD, z izpostavljenostjo tehtano povprečje
+izgube ob neplačilu, se izračuna:
+kjer LGDi predstavlja povprečni
+LGD, povezan z vsemi izpostavljenostmi do i-tega dolžnika, pri čemer se LGD
+izračuna v skladu s sklepom o pristopu IRB. V primeru relistinjenja je za
+listinjene pozicije LGD 100 %. Če
+se kreditno tveganje in tveganje zmanjšanja vrednosti odkupljenih denarnih
+terjatev obravnavata znotraj listinjenja skupaj (npr. za kritje izgub iz obeh
+navedenih tveganj je na razpolago skupna rezerva ali skupno presežno
+zavarovanje), se LGD, ki se upošteva, izračuna kot tehtano povprečje LGD za
+kreditno tveganje in 75 % LGD za
+tveganje zmanjšanja vrednosti odkupljenih denarnih terjatev. Uteži morajo biti
+ločene za kreditno tveganje in tveganje zmanjšanja vrednosti odkupljenih
+denarnih terjatev.
+4.3.4.1. Možne poenostavitve vhodnih podatkov
+28. člen
+(1) Če vrednost največje listinjene
+izpostavljenosti C1 ni večja od 3 % celotne vsote vrednosti
+listinjenih izpostavljenosti, potem lahko borznoposredniška družba pri uporabi
+metode nadzorniške formule določi, da je LGD 50 %, N pa enak bodisi:
+(a)
+ali
+ 
+(b)   N=1/ C1,
+kjer je Cm razmerje med vsoto
+vrednosti največjih m listinjenih izpostavljenosti in vrednostjo skupine
+izpostavljenosti, ki je predmet listinjenja. Borznoposredniška družba lahko
+sama določi, katere izpostavljenosti šteje med največje m izpostav­ljenosti.
+(2) Pri listinjenju iz naslova
+opravljanja storitev na drobno lahko borznoposredniška družba, ki uporablja
+metodo nadzorniške formule, upošteva v višini 0 spremenljivki h in v.
+(3) Borznoposredniška družba lahko v
+skladu s 33., 34., 36. in 37. členom tega sklepa pri izračunu tveganjem
+prilagojenih zneskov izpostavljenosti za pozicije v listinjenju upošteva
+kreditno zavarovanje.
+4.3.5. Metoda notranjega ocenjevanja za
+pozicije v programu ABCP
+29. člen
+(1) Borznoposredniška družba lahko za
+neocenjene pozicije v programu ABCP uporabi izvedeno bonitetno oceno iz
+tretjega odstavka tega člena, če Agenciji dokaže, da so izpolnjeni naslednji
+pogoji:
+(a)   pozicije v komercialnem zapisu, izdanem v okviru programa ABCP, so
+ocenjene,
+(b)   notranja metodologija ocenjevanja kreditne kvalitete pozicije v
+programu ABCP je skladna z javno dostopno metodologijo ocenjevanja ene ali več
+primernih ECAI za ocenjevanje vrednostnih papirjev, ki so kriti z listinjenimi
+izpostavljenostmi. Za primerne ECAI se štejejo tiste, ki so izdelale oceno za
+komercialni zapis, izdan v programu ABCP,
+(c)   kvantitativni dejavniki, kot so dejavniki izjemnih situacij, ki se
+uporabljajo pri oceni pozicije, morajo biti vsaj toliko konzervativni kot
+tisti, ki se uporabljajo v okviru ustrezne metodologije ocenjevanja primernih
+ECAI,
+(d)   pri razvoju metodologije notranjega ocenjevanja mora
+borznoposredniška družba upoštevati ustrezne javno objavljene metodologije
+primernih ECAI in to ustrezno dokumentirati. Metodologijo mora redno
+posodabljati, kot je določeno v točki (h) tega odstavka,
+(e)   metodologija za notranje ocenjevanje mora vsebovati bonitetne
+razrede. Razredi bonitetnih ocen morajo biti skladni z bonitetnimi ocenami
+primernih ECAI, kar mora biti dokumentirano,
+(f)    metodologija notranjega ocenjevanja se mora uporabljati v sistemu
+upravljanja s tveganji, vključno s procesi odločanja, zagotavljanja
+upravljavskih informacij in razporejanja kapitala,
+(g)   proces notranjega ocenjevanja in kvaliteta bonitetnih ocen za
+izpostavljenosti v programu ABCP morata biti predmet rednega neodvisnega
+pregleda, ki ga izvaja služba notranje revizije ali zunanja revizijska družba
+ali ECAI ali druga neodvisna služba borznoposredniške družbe. Če navedeno
+funkcijo opravlja služba notranje revizije ali druga neodvisna služba
+borznoposredniške družbe, ta ne sme imeti odnosov s strankami, povezanimi s
+programom ABCP,
+(h)   borznoposredniška družba mora redno spremljati kvaliteto svojih
+notranjih bonitetnih ocen z namenom ovrednotenja metodologije notranjega
+ocenjevanja, ki jo mora redno prilagajati glede na spremembo kvalitete
+izpostavljenosti,
+(i)    program ABCP vključuje standarde v obliki kreditnih in
+investicijskih smernic. Pri odločanju o nakupu izpostavljenosti mora upravitelj
+programa ABCP upoštevati vrsto izpostavljenosti, vrsto in vrednost
+izpostavljenosti iz naslova zagotovitve okvirnih likvidnostnih posojil in
+kreditnih izboljšav, porazdelitve izgub ter pravno in ekonomsko izločitev
+prenesenih izpostavljenosti od prodajalca. Opraviti mora analizo kreditne
+tveganosti prodajalca izpostavljenosti, ki vključuje analizo pretekle in
+pričakovane bodoče finančne uspešnosti, trenutni tržni položaj, pričakovano
+bodočo konkurenčnost, stopnjo finančnega vzvoda, denarni tok, pokritost obresti
+in bonitetno oceno dolga. Poleg tega mora opraviti pregled prodajalčevih
+standardov za izdajo komercialnih zapisov, sposobnosti servisiranja in procesov
+izterjave,
+(j)    standardi programa ABCP morajo vsebovati minimalna merila
+primernosti izpostavljenosti, predvsem pa:
+-     izključevati
+nakup izpostavljenosti, ki so zapadle ali neplačane,
+-     omejevati
+presežno koncentracijo do posameznega dolžnika ali do geografskega območja,
+-     omejevati
+ročnost izpostavljenosti, ki se kupujejo,
+(k)   program ABCP mora vsebovati politike in procese izterjave, ki
+upoštevajo operativno sposobnost in kreditno kvaliteto serviserja. Program ABCP
+mora z različnimi metodami zmanjševati tveganje za prodajalca/serviserja,
+(l)    skupna ocena izgube skupine izpostavljenosti, ki je predmet nakupa
+v okviru programa ABCP, mora upoštevati vsa možna tveganja, kot sta kreditno
+tveganje in tveganje zmanjšanja vrednosti odkupljenih denarnih terjatev. Če je
+obseg kreditne izboljšave, ki jo zagotovi prodajalec, zasnovan samo na izgubah
+iz kreditnega tveganja, se mora vzpostaviti ločena rezerva za tveganje
+zmanjšanja vrednosti odkupljenih denarnih terjatev, če je slednje pomembno za
+določeno skupino izpostavljenosti. Poleg tega se mora v okviru programa ABCP
+pri določanju obsega zahtevane stopnje kreditne izboljšave upoštevati obdobje
+opazovanja podatkov vsaj dveh zadnjih let, pri čemer morajo biti med podatke
+vključene izgube, neredna plačila, zmanjšanje vrednosti odkupljenih denarnih
+terjatev in stopnja obračanja denarnih terjatev; in
+(m)
+program ABCP mora v procesu nakupa izpostavljenosti vsebovati
+posebne pokazatelje za namen zmanjšanja tveganja morebitnega poslabšanja
+kreditne kvalitete skupine izpostavljenosti.
+(2) Ne glede na točko (b) prvega
+odstavka tega člena borznoposredniška družba ni dolžna zagotavljati skladnosti
+metodologije notranjega ocenjevanja z ustrezno javno objavljeno metodologijo
+primernih ECAI, če gre za posebne oblike listinjenja, za katere še ne obstaja
+javno dostopna metodologija ocenjevanja ECAI.
+(3) Borznoposredniška družba mora
+razvrstiti neocenjeno pozicijo v enega od bonitetnih razredov. Za neocenjeno
+pozicijo se uporabi izvedena bonitetna ocena, to je tista, ki je enaka
+bonitetni oceni primerne ECAI za zadevni bonitetni razred. Če je ta izvedena
+bonitetna ocena ob začetku listinjenja enaka naložbenemu razredu ali boljša, se
+šteje za enakovredno bonitetni oceni primerne ECAI za namen izračuna tveganjem
+prilagojenih zneskov izpostavljenosti.
+4.3.6. Okvirna likvidnostna posojila
+30. člen
+Določbe tega pododdelka se uporabljajo za
+določanje vrednosti izpostavljenosti neocenjene pozicije v listinjenju v obliki
+določenih vrst okvirnih likvidnostnih posojil.
+4.3.6.1. Konverzijski količnik za primerna okvirna likvidnostna
+posojila kot predujme
+31. člen
+Borznoposredniška družba lahko uporabi
+konverzijski količnik 0 % na nominalni znesek okvirnega likvidnostnega posojila
+pri določitvi vrednosti izpostavljenosti tistega okvirnega likvidnostnega
+posojila, ki izpolnjuje pogoje, določene v 20. členu tega sklepa.
+4.3.6.2. Izjemna obravnava okvirnih likvidnostnih posojil, kadar
+ni mogoče izračunati Kirb
+32. člen
+(1) Če borznoposredniška družba
+Agenciji dokaže, da izračun tveganjem prilagojenih zneskov izpostavljenosti za
+listinjene izpostavljenosti, kot da te ne bi bile listinjene, za
+borznoposredniško družbo ni smiseln, lahko začasno uporablja metodo iz drugega
+odstavka tega člena za izračun tveganjem prilagojenih zneskov izpostavljenosti
+za neocenjeno pozicijo v listinjenju v obliki okvirnega likvidnostnega
+posojila, ki izpolnjuje pogoje za primerno okvirno likvidnostno posojilo,
+določene v 19. členu tega sklepa.
+(2) Borznoposredniška družba lahko
+največjo utež tveganja, ki bi jo v skladu s sklepom o standardiziranem pristopu
+uporabila za katero koli od listinjenih izpostavljenosti, če slednje ne bi bile
+listinjene, uporabi za pozicijo v listinjenju v obliki okvirnega likvidnostnega
+posojila. Borznoposredniška družba lahko pri izračunu vrednosti
+izpostavljenosti pri okvirnih likvidnostnih posojilih z originalno zapadlostjo
+eno leto ali manj na nominalni znesek okvirnega likvidnostnega posojila uporabi
+konverzijski količnik 50 %. V vseh drugih primerih mora uporabiti konverzijski
+količnik 100 %.
+4.3.7. Upoštevanje kreditnih zavarovanj
+pri pozicijah v listinjenju
+4.3.7.1. Stvarno kreditno zavarovanje
+33. člen
+Če borznoposredniška družba za pozicijo v
+listinjenju pridobi stvarno kreditno zavarovanje, ga lahko upošteva v obsegu,
+ki je določen pri izračunu tveganjem prilagojenih zneskov izpostavljenosti po
+standardiziranem pristopu v oddelku 2.1. sklepa o kreditnih zavarovanjih, če
+slednje izpolnjuje minimalne zahteve iz istega oddelka navedenega sklepa.
+4.3.7.2. Osebno kreditno zavarovanje
+34. člen
+Borznoposredniška družba lahko pri izračunu
+tveganjem prilagojenih zneskov izpostavljenosti za pozicije v listinjenju
+upošteva kot primerne dajalce osebnih kreditnih zavarovanj tiste, ki so
+opredeljeni v pododdelku 2.2.1. sklepa o kreditnih zavarovanjih, in kot osebna
+kreditna zavarovanja tista, ki ustrezajo določbam oddelka 2.2. sklepa o
+kreditnih zavarovanjih.
+4.3.7.3. Izračun tveganjem prilagojenih zneskov izpostavljenosti
+za pozicije v listinjenju z upoštevanjem kreditnih zavarovanj
+4.3.7.3.1. Metoda bonitetnih ocen
+35. člen
+Če borznoposredniška družba pri izračunu
+tveganjem prilagojenih zneskov izpostavljenosti za pozicije v listinjenju
+uporablja metodo bonitetnih ocen, lahko vrednost izpostavljenosti in/ali
+tveganjem prilagojeni znesek izpostavljenosti za pozicijo v listinjenju, za katero
+pridobi kreditno zavarovanje, izračuna v skladu s 3. poglavjem sklepa o
+kreditnih zavarovanjih, v delu, ki se nanaša na standardizirani pristop.
+4.3.7.3.2. Metoda nadzorniške formule – polno zavarovanje
+36. člen
+(1) Če borznoposredniška družba pri
+izračunu tveganjem prilagojenih zneskov izpostavljenosti za pozicije v
+listinjenju uporablja metodo nadzorniške formule, mora določiti efektivno utež
+tveganja pozicije, in sicer tako, da tveganjem prilagojeni znesek
+izpostavljenosti pozicije deli z vrednostjo izpostavljenosti pozicije in
+rezultat pomnoži s 100.
+(2) Pri stvarnem kreditnem zavarovanju
+borznoposredniška družba tveganjem prilagojeni znesek izpostavljenosti pozicije
+v listinjenju izračuna tako, da polno prilagojeno vrednost izpostavljenosti te
+pozicije E* pomnoži z efektivno utežjo tveganja iz prvega odstavka tega člena.
+E* se izračuna v skladu z 69. členom sklepa o kreditnih zavarovanjih, pri čemer
+je E znesek pozicije v listinjenju.
+(3) Pri osebnem kreditnem zavarovanju
+borznoposredniška družba tveganjem prilagojeni znesek izpostavljenosti pozicije
+v listinjenju izračuna tako, da vrednost osebnega kreditnega zavarovanja GA
+pomnoži z utežjo tveganja dajalca zavarovanja, rezultat pa prišteje znesku, ki
+je enak razliki med vrednostjo pozicije v listinjenju in GA,
+pomnoženi z efektivno utežjo tveganja iz prvega odstavka tega člena.
+Borznoposredniška družba kot GA upošteva vrednost osebnega
+kreditnega zavarovanja, ki je prilagojena za morebitno valutno neusklajenost in
+neusklajenost zapadlosti, kot je določeno v oddelku 3.2. sklepa o kreditnih
+zavarovanjih.
+4.3.7.3.3. Metoda nadzorniške formule – delno zavarovanje
+37. člen
+(1) Borznoposredniška družba lahko
+ravna v skladu s 36. členom tega sklepa, če se kreditno zavarovanje nanaša na
+tranšo prve izgube ali če je namenjeno sorazmernemu pokrivanju izgub iz
+pozicije v listinjenju.
+(2) V vseh drugih primerih
+borznoposredniška družba pozicijo v listinjenju obravnava kot dve ali več
+pozicij, pri čemer je pozicija brez zavarovanja pozicija z nižjo kreditno
+kvaliteto. Borznoposredniška družba tveganjem prilagojeni znesek
+izpostavljenosti za to pozicijo izračuna v skladu s pododdelkom 4.3.4. tega
+sklepa, pri čemer upošteva naslednje prilagoditve:
+(a) pri stvarnem kreditnem zavarovanju se T spremeni v e*,
+(b) pri osebnem kreditnem zavarovanju se T spremeni v T – g.
+(3) Simboli iz drugega odstavka tega
+člena pomenijo:
+T,      kot je opredeljen v drugem odstavku
+27. člena tega sklepa,
+e*      je razmerje med E* in skupnim
+hipotetičnim zneskom skupine izpostavljenosti,
+E*     je
+polno prilagojena vrednost izpostavljenosti pozicije v listinjenju, ki se
+izračuna v skladu z 69. členom sklepa o kreditnih zavarovanjih, pri čemer je E
+znesek pozicije v listinjenju,
+g       je
+razmerje med nominalnim zneskom osebnega kreditnega zavarovanja, prilagojenim
+za valutno neusklajenost ali neusklajenost zapadlosti v skladu z oddelkom 3.2.
+sklepa o kreditnih zavarovanjih, in vrednostjo skupine izpostavljenosti, ki je
+predmet listinjenja.
+Pri osebnem kreditnem zavarovanju se utež
+dajalca zavarovanja dodeli tistemu deležu pozicije, ki ni zajet v prilagojenem
+T, ki je opredeljen v drugem odstavku tega člena.
+4.3.8. Zmanjšanje tveganjem prilagojenih
+zneskov izpostavljenosti
+38. člen
+(1) Borznoposredniška družba lahko
+tveganjem prilagojeni znesek izpostavljenosti za pozicije v listinjenju z
+utežjo tveganja 1250 % zmanjša za 12,5-kratnik zneska oslabitev in rezervacij,
+ki jih je oblikovala za listinjene izpostavljenosti. Borznoposredniška družba
+mora oblikovane oslabitve in rezervacije iz prejšnjega stavka izključiti iz izračuna
+v zvezi z zneski pričakovanih izgub iz četrtega odstavka 15. člena sklepa o
+pristopu IRB.
+(2) Borznoposredniška družba lahko
+tveganjem prilagojeni znesek izpostavljenosti za pozicije v listinjenju zmanjša
+za 12,5-kratnik zneska oslabitev in rezervacij, ki jih je oblikovala za te
+pozicije.
+(3) Borznoposredniška družba lahko v
+skladu s prvim odstavkom 30. člena sklepa o kapitalu vrednost pozicije v
+listinjenju, ki ji pripada utež tveganja 1250 %, odšteje od kapitala, namesto
+da tako pozicijo vključi v izračun tveganjem prilagojenih zneskov
+izpostavljenosti.
+(4) Za namen tretjega odstavka tega
+člena:
+(a)   se lahko vrednost izpostavljenosti pozicije v listinjenju določi na
+podlagi tveganjem prilagojenih zneskov izpostavljenosti, ob upoštevanju
+zmanjšanj iz prvega in drugega odstavka tega člena,
+(b)   izračun vrednosti izpostavljenosti pozicije v listinjenju lahko
+odraža stvarno kreditno zavarovanje na način, kot je določen v pododdelku
+4.3.7. tega sklepa,
+(c)   če borznoposredniška družba za izračun tveganjem prilagojenih
+zneskov izpostavljenosti za pozicije v listinjenju uporablja metodo nadzorniške
+formule in je pri tem L < ali enak Kirbr in [L+T] > Kirbr, lahko pozicijo
+v listinjenju obravnava kot dve poziciji, pri čemer je za nadrejeno pozicijo L
+enak Kirbr.
+(5) Če borznoposredniška družba ravna
+v skladu s tretjim odstavkom tega člena, mora 12,5-kratnik odštetega zneska iz
+navedenega odstavka odšteti od maksimalnega tveganjem prilagojenega zneska
+izpostavljenosti za pozicije v listinjenju, ki ga borznoposredniška družba
+izračuna v skladu s 24. členom tega sklepa.
+5. DODATNE KAPITALSKE ZAHTEVE ZA LISTINJENJE
+OBNAVLJAJOČIH SE IZPOSTAVLJENOSTI Z MOŽNOSTJO PREDČASNEGA ODPLAČILA
+5.1. Splošno
+39. člen
+(1) Če borznoposredniška družba v
+vlogi originatorja listini obnavljajoče se izpostavljenosti, ki se lahko
+predčasno odplačajo, mora zaradi možnosti povečanja kreditnega tveganja iz
+naslova predčasnega odplačila izračunati tveganjem prilagojene zneske
+izpostavljenosti v skladu s tem poglavjem.
+(2) Borznoposredniška družba izračuna
+tveganjem prilagojeni znesek izpostavljenosti za vsoto udeležbe originatorja in
+udeležbe investitorjev.
+(3) Pri listinjenjih, ki zajemajo
+obnavljajoče in neobnavljajoče se izpostavljenosti, borznoposredniška družba v
+vlogi originatorja izračuna tveganjem prilagojeni znesek izpostavljenosti v
+skladu s tem poglavjem za tisti del skupine izpostavljenosti, ki vsebuje
+obnavljajoče se izpostavljenosti.
+5.2. Posebnosti obravnave listinjenja
+obnavljajočih se izpostavljenosti z možnostjo predčasnega odplačila po
+standardiziranem pristopu
+40. člen
+(1) Udeležba originatorja je vrednost
+izpostavljenosti tistega hipotetičnega dela črpanih zneskov iz skupine
+izpostavljenosti, katerega delež v razmerju do zneska celotne skupine
+izpostavljenosti določa delež denarnih tokov iz glavnice in obresti ter drugih
+povezanih zneskov, ki niso razpoložljivi za izplačila imetnikom pozicij v
+listinjenju. Udeležba originatorja ne sme biti podrejena udeležbi
+investitorjev.
+(2) Udeležba investitorjev je vrednost
+izpostavljenosti preostalega hipotetičnega dela črpanih zneskov iz skupine
+izpostavljenosti, ki ni zajet v udeležbi originatorja.
+(3) Izpostavljenost borznoposredniške
+družbe v vlogi originatorja iz njenih pravic v zvezi z udeležbo originatorja se
+ne upošteva kot pozicija v listinjenju, ampak kot sorazmerna (pro-rata)
+izpostavljenost do listinjenih izpostavljenosti, kot da te ne bi bile
+listinjene.
+5.3. Posebnosti obravnave listinjenja
+obnavljajočih se izpostavljenosti z možnostjo predčasnega odplačila po pristopu
+IRB
+41. člen
+(1) Udeležba originatorja se izračuna
+kot vsota:
+(a)   vrednosti izpostavljenosti tistega dela črpanih zneskov iz skupine
+izpostavljenosti, katerega delež v razmerju do zneska celotne skupine
+izpostavljenosti določa delež denarnih tokov iz glavnice in zbranih obresti ter
+drugih povezanih zneskov, ki niso razpoložljivi za izplačila imetnikom pozicij
+v listinjenju in
+(b)   vrednosti izpostavljenosti tistega dela nečrpanih zneskov kreditnih
+linij, katerih delež v razmerju do celotne vrednosti takih nečrpanih zneskov je
+enak deležu vrednosti izpostavljenosti iz točke (a) do celotne vrednosti
+črpanih zneskov iz skupine izpostavljenosti.
+(2) Udeležba originatorja ne sme biti
+podrejena udeležbi investitorjev.
+(3) Udeležba investitorjev je vsota
+vrednosti izpostavljenosti tistega dela črpanih zneskov iz skupine
+izpostavljenosti, ki ni zajet v točki (a) prvega odstavka tega člena, in
+vrednosti izpostavljenosti tistega dela nečrpanih zneskov kreditnih linij, ki
+ni zajet v točki (b) prvega odstavka tega člena.
+(4) Izpostavljenost borznoposredniške
+družbe v vlogi originatorja iz njenih pravic v zvezi z delom udeležbe
+originatorja iz točke (a) prvega odstavka tega člena se ne upošteva kot
+pozicija v listinjenju, ampak kot sorazmerna (pro-rata) izpostavljenost do
+listinjenih izpostavljenosti, kot da te ne bi bile listinjene, v vrednosti iz
+navedene točke. Upošteva se, da ima borznoposredniška družba v vlogi
+originatorja sorazmerno (pro-rata) izpostavljenost do nečrpanih zneskov
+kreditnih linij v vrednosti iz točke (b) prvega odstavka tega člena.
+5.4. Izjeme pri obravnavi listinjenja
+obnavljajočih se izpostavljenosti z možnostjo predčasnega odplačila
+42. člen
+Iz izračuna kapitalske zahteve za
+listinjenje obnavljajočih se izpostavljenosti z možnostjo predčasnega odplačila
+so izvzeti originatorji v takih listinjenjih, pri katerih:
+(a)   investitorji ostanejo polno izpostavljeni do vseh bodočih črpanj
+posojilojemalcev, tako da se niti v primeru dogodka predčasnega odplačila
+tveganje iz osnovne izpostavljenosti ne prenese nazaj na borznoposredniško
+družbo v vlogi originatorja, in
+(b)   predčasno odplačilo sprožijo izključno dogodki, ki niso povezani z
+donosnostjo listinjenih izpostavljenosti ali poslovanjem borznoposredniške
+družbe v vlogi originatorja, kot so spremembe v davčni ali drugi zakonodaji.
+5.4.1. Maksimalni tveganjem prilagojeni
+zneski izpostavljenosti za pozicije v listinjenju obnavljajočih se
+izpostavljenosti z možnostjo predčasnega odplačila
+43. člen
+(1) Skupna vsota tveganjem
+prilagojenih zneskov izpostavljenosti za pozicije v udeležbi investitorjev in
+tveganjem prilagojenih zneskov izpostavljenosti za pozicije v listinjenju iz
+prvega odstavka 39. člena tega sklepa, ki jo izračuna borznoposredniška družba
+v vlogi originatorja, ne sme presegati večje izmed dveh:
+(a)   tveganjem prilagojenih zneskov izpostavljenosti za pozicije v
+udeležbi investitorjev in
+(b)   tveganjem prilagojenih zneskov izpostavljenosti za listinjene
+izpostavljenosti, ki bi jih izračunala borznoposredniška družba v vlogi
+originatorja v primeru, da te ne bi bile listinjene v znesku, ki je enak
+udeležbi investitorjev.
+(2) Neto dobički iz naslova
+kapitalizacije prihodnjih donosov, ki se v skladu s tretjim odstavkom 15. člena
+sklepa o kapitalu ne upoštevajo v okviru postavke rezerv in zadržanega dobička
+ali izgube, se izvzamejo iz izračuna maksimalnega zneska, določenega v
+prejšnjem odstavku tega člena.
+5.5. Izračun tveganjem prilagojenih
+zneskov izpostavljenosti za listinjenje obnavljajočih se izpostavljenosti z
+možnostjo predčasnega odplačila
+44. člen
+(1) Borznoposredniška družba izračuna
+tveganjem prilagojeni znesek izpostavljenosti za pozicije v listinjenju
+obnavljajočih se izpostavljenosti z možnostjo predčasnega odplačila tako, da
+znesek udeležbe investitorjev pomnoži z zmnožkom ustreznega konverzijskega
+količnika, kot je določeno v petem, šestem in sedmem odstavku tega člena, in
+tehtanim povprečjem uteži tveganja, ki bi jih borznoposredniška družba dodelila
+listinjenim izpostavljenostim, če te ne bi bile listinjene.
+(2) Pogodbeno določeno predčasno
+odplačilo se šteje kot kontrolirano, če so izpolnjeni naslednji pogoji:
+(a)   borznoposredniška družba v vlogi originatorja ima ustrezen načrt
+upravljanja kapitala zaradi zagotavljanja zadostnega obsega kapitala in
+likvidnostni načrt zaradi zagotavljanja likvidnosti v primeru predčasnega odplačila,
+(b)   skozi celotno trajanje posla se izvaja sorazmerna (pro-rata)
+delitev med udeležbo originatorja in udeležbo investitorjev za plačila obresti
+ter glavnice, stroškov, izgub in izterjanih zneskov na podlagi stanja
+neodplačanih denarnih terjatev na enega ali več referenčnih datumov v
+posameznem mesecu,
+(c)   obdobje odplačila je dovolj dolgo, kar pomeni, da je ob nastopu
+predčasnega odplačila vsaj 90 % celotnega dolga (udeležba originatorja in
+udeležba investitorjev) odplačanega ali se šteje za neplačanega,
+(d)   hitrost odplačevanja ni večja od premočrtnega odplačila skozi
+obdobje, ki je določeno v točki (c) tega odstavka.
+(3) Pri listinjenju obnavljajočih se
+izpostavljenosti z možnostjo predčasnega odplačila iz naslova opravljanja
+storitev na drobno, ki niso zavezujoče in so brezpogojno preklicne brez
+predhodnega obvestila in kjer se predčasno odplačilo sproži s padcem stopnje
+presežnega razmika pod določeno raven, borznoposredniška družba primerja
+trimesečno povprečno stopnjo presežnega razmika s stopnjami presežnega razmika,
+pri katerih se zahteva zajemanje presežnega razmika.
+(4) Pri listinjenjih brez izrecne
+zahteve po zajemanju presežnega razmika se upošteva, da je stopnja presežnega
+razmika, pri kateri se določi zajemanje, za 4,5-odstotne točke višja od stopnje
+presežnega razmika, pri kateri se sproži predčasno odplačilo.
+(5) Konverzijski količnik, ki izhaja
+iz Tabele 5, se določi glede na dejansko trimesečno povprečno stopnjo
+presežnega razmika.
+ 
+Tabela 3
+ 
+
+ 
+
+Listinjenja, pri katerih je
+  predčasno odplačilo kontrolirano
+ 
+
+Listinjenja, pri katerih predčasno 
+  odplačilo ni kontrolirano
+ 
+
+
+Dejanska trimesečna povprečna
+  stopnja presežnega razmika
+ 
+
+Konverzijski količnik v %
+ 
+
+Konverzijski količnik v %
+ 
+
+
+Nad stopnjo A
+ 
+
+0
+ 
+
+0
+ 
+
+
+Stopnja A
+ 
+
+1
+ 
+
+5
+ 
+
+
+Stopnja B
+ 
+
+2
+ 
+
+15
+ 
+
+
+Stopnja C
+ 
+
+10
+ 
+
+50
+ 
+
+
+Stopnja D
+ 
+
+20
+ 
+
+100
+ 
+
+
+Stopnja E
+ 
+
+40
+ 
+
+100
+ 
+
+pri čemer je pomen dejanskih trimesečnih
+povprečnih stopenj presežnega razmika naslednji:
+(a)   stopnja A pomeni stopnje presežnega razmika, ki so manjše od
+133,33 % stopnje presežnega razmika, pri katerih se določi zajemanje, vendar ne
+manjše od 100 % te stopnje,
+(b)   stopnja B pomeni stopnje presežnega razmika, ki so manjše od 100 %
+stopnje presežnega razmika, pri katerih se določi zajemanje, vendar ne manjše
+od 75 % te stopnje,
+(c)   stopnja C pomeni stopnje presežnega razmika, ki so manjše od 75 %
+stopnje presežnega razmika, pri katerih se določi zajemanje, vendar ne manjše
+od 50 % te stopnje,
+(d)   stopnja D pomeni stopnje presežnega razmika, ki so manjše od 50 %
+stopnje presežnega razmika, pri katerih se določi zajemanje, vendar ne manjše
+od 25 % te stopnje,
+(e)   stopnja E pomeni stopnje presežnega razmika, ki so manjše od 25 %
+stopnje presežnega razmika, pri katerih se določi zajemanje.
+(6) Za vsa druga listinjenja, pri
+katerih je predčasno odplačilo kontrolirano, se uporabi konverzijski količnik
+90 %.
+(7) Za vsa druga listinjenja, pri
+katerih predčasno odplačilo ni kontrolirano, se uporabi konverzijski količnik
+100 %.
+6. IZPOSTAVLJENOST BORZNOPOSREDNIŠKE DRUŽBE PRENESENEMU
+KREDITNEMU TVEGANJU
+6.1. Pogoji za dovoljeno izpostavljenost
+prenesenemu kreditnemu tveganju oziroma pozicijo v listinjenju
+45. člen
+(1) Kadar borznoposredniška družba v
+listinjenju ne nastopa v vlogi originatorja, sponzorja ali prvotnega
+posojilodajalca, ima lahko pozicije v listinjenju v svoji trgovalni ali
+netrgovalni knjigi le, če ji je originator, sponzor ali prvotni posojilodajalec
+razkril, da bo trajno zadržal neto ekonomski delež, ki bo v vsakem trenutku
+znašal vsaj 5 %.
+(2) Za namen tega sklepa zadržanje
+neto ekonomskega deleža v višini vsaj 5 % pomeni:
+(a)   zadržanje vsaj 5 % nominalne vrednosti vsake tranše, prodane ali
+prenesene na investitorje,
+(b)   v primeru listinjenja obnavljajočih se izpostavljenosti zadržanje
+deleža originatorja v višini vsaj 5 % nominalne vrednosti listinjenih izpostavljenosti,
+(c)   zadržanje naključno izbranih izpostavljenosti, ki so vrednostno
+enake ali presegajo 5 % nominalne vrednosti listinjenih izpostavljenosti, če bi
+bile te izpostavljenosti sicer listinjene v zadevnem listinjenju, pod pogojem,
+da je število potencialno listinjenih izpostavljenosti ob izvedbi listinjenja
+vsaj 100, ali
+(d)   zadržanje tranše prve izgube in po potrebi drugih tranš, ki imajo
+enak ali strožji profil tveganja kot tiste, ki so prenesene ali prodane
+investitorjem, in ki ne zapadejo prej kot tiste, ki so prenesene ali prodane
+investitorjem, tako da je zadržanje enako vsaj 5 % nominalne vrednosti
+listinjenih izpostavljenosti.
+(3) Neto ekonomski delež se izračuna
+ob izvedbi listinjenja in se mora trajno vzdrževati, kar pomeni, da zadržane
+pozicije v listinjenju in listinjene izpostavljenosti ne smejo biti varovane
+ali prodane, niti kot celota niti posamezni deli. Poleg tega neto ekonomski
+delež ne sme biti predmet zmanjševanja kreditnega tveganja, kratke prodaje ali
+varovanja. Za zunajbilančne postavke, povezane s poslom listinjenja, se neto
+ekonomski delež določi na podlagi hipotetičnih vrednosti (notional value) teh
+postavk.
+46. člen
+(1) Kadar EU nadrejeno investicijsko
+podjetje ali EU nadrejeni finančni holding ali ena izmed njunih podrejenih družb
+v vlogi originatorja ali sponzorja listini izpostavljenosti več
+borznoposredniških družb, investicijskih podjetij ali drugih finančnih
+institucij, vključenih v nadzor na konsolidirani podlagi, se lahko zahteva iz
+prvega odstavka 45. člena tega sklepa izpolni na podlagi konsolidiranega
+položaja EU nadrejenega investicijskega podjetja ali EU nadrejenega finančnega
+holdinga.
+(2) Določbe prvega odstavka tega člena
+veljajo le, če so se borznoposredniška družbe, investicijska podjetja ali druge
+finančne institucije, ki so ustvarile listinjene izpostavljenosti, obvezale, da
+bodo izpolnile zahteve iz šestega odstavka 5. člena tega sklepa ter
+originatorju ali sponzorju in EU nadrejenemu investicijskemu podjetju ali EU
+nadrejenemu finančnemu holdingu pravočasno predložile informacije, potrebne za
+izpolnitev zahtev iz osmega odstavka 5. člena tega sklepa.
+47. člen
+(1) Določbe 45. člena tega sklepa se
+ne uporabljajo za listinjene izpostavljenosti iz naslova terjatev ali pogojnih
+terjatev do naslednjih oseb, oziroma če za njih v celoti, brezpogojno in
+nepreklicno jamčijo naslednje osebe:
+(a)   enote centralne ravni držav ali centralne banke,
+(b)   enote regionalne ravni držav, enote lokalne ravni držav in osebe
+javnega sektorja držav članic,
+(c)   institucije, ki jim je dodeljena 50 % ali manjša utež tveganja v
+skladu z določbami sklepa o standardiziranem pristopu ali
+(d)   multilateralne razvojne banke.
+(2) Določbe 45. člena tega sklepa se
+ne uporabljajo tudi za:
+(a)   transakcije, ki temeljijo na jasnem, preglednem in dostopnem
+indeksu, če so referenčni subjekti (reference entities) osnovnih
+izpostavljenosti enaki referenčnim subjektom, ki so vključeni v indeks, s
+katerim se široko trguje, ali če so osnovne izpostavljenosti drugi prenosljivi
+vrednostni papirji, razen pozicij v listinjenju ali
+(b)   sindicirane kredite, odkupljene denarne terjatve ali kreditne
+zamenjave, če se ti instrumenti ne uporabljajo za strukturiranje in/ali
+varovanje listinjenja, opredeljenem v tretjem odstavku 45. člena tega sklepa.
+6.2. Zahteve glede razumevanja posla listinjenja
+in upravljanja s tveganji
+48. člen
+Kadar borznoposredniška družba v
+listinjenju ne nastopa v vlogi originatorja, sponzorja ali prvotnega
+posojilodajalca, mora za namen analize in evidentiranja zahtev iz 49. člena
+tega sklepa ter pravočasnega nadzora nad informacijami glede kvalitete osnovnih
+izpostavljenosti iz 50. člena tega sklepa, vzpostaviti in uresničevati formalne
+politike in postopke, prilagojene trgovalni in netrgovalni knjigi, ki
+upoštevajo stopnjo prevzetega tveganja borznoposredniške družbe v pozicijah v
+listinjenju.
+49. člen
+(1) Borznoposredniška družba mora na
+zahtevo Agencije podrobno obrazložiti vsako svojo pozicijo v listinjenju z
+vidika:
+(a)   Informacij v zvezi z neto ekonomskim deležem, ki jih morajo
+originatorji in sponzorji razkrivati v skladu s 45. členom tega sklepa,
+(b)   značilnosti tveganja posamezne pozicije v listinjenju,
+(c)   značilnosti tveganja osnovnih izpostavljenosti pozicije v
+listinjenju,
+(d)   dobrega imena in dejanske izgube, ki so jih utrpeli originatorji
+ali sponzorji v zadevnih kategorijah osnovnih izpostavljenosti pozicije v
+listinjenju pri prejšnjih listinjenjih,
+(e)   izjav in razkritij originatorjev ali sponzorjev oziroma njihovih
+zastopnikov ali svetovalcev o njihovi skrbnosti za listinjene izpostavljenosti
+ter, kjer je primerno, v zvezi s kakovostjo zavarovanja za kritje listinjenih
+izpostavljenosti,
+(f)    kjer je primerno, metodologij in predpostavk, na katerih temelji
+vrednotenje zavarovanja za pokrivanje listinjenih izpostavljenosti ter politike
+originatorjev ali sponzorjev za zagotavljanje neodvisnosti ocenjevalca in
+(g)   vseh strukturnih lastnosti listinjenja, ki lahko pomembno vplivajo
+na kakovost pozicije borznoposredniške družbe v listinjenju.
+(2) Agencija lahko obrazložitev iz
+prvega odstavka tega člena zahteva, še preden borznoposredniška družba izvede
+naložbo v pozicijo v listinjenju ali, kjer je primerno, kadarkoli kasneje.
+(3) Borznoposredniška družba mora
+redno testirati scenarije izjemnih situacij, ki ustrezajo njenim pozicijam v
+listinjenju.
+(4) Ne glede na določbe tretjega
+odstavka tega člena lahko borznoposredniška družba v ta namen upošteva finančne
+modele, ki jih razvija ECAI, pod pogojem, da lahko borznoposredniška družba
+kadarkoli na zahtevo Agencije dokaže, da je pred naložbami ustrezno ovrednotila
+predpostavke in strukture teh modelov ter razumela njihovo metodologijo,
+predpostavke in rezultate.
+50. člen
+(1) Informacije glede kvalitete
+osnovnih izpostavljenosti zadevne pozicije v listinjenju vključujejo:
+(a)   vrsto izpostavljenosti,
+(b)   odstotek posojil z zapadlimi terjatvami preko 30, 60 in 90
+dni, stopnje neplačil, stopnje predčasnih plačil, podatke o posojilih v
+izvršilnem postopku,
+(c)   vrsto zavarovanja in pokritost izpostavljenosti z zavarovanjem,
+(d)   frekvenčno porazdelitev kreditnih točk ali druga merila kreditne
+kvalitete osnovnih izpostavljenosti,
+(e)   panožno in geografsko razpršitev,
+(f)    frekvenčno porazdelitev razmerij med vrednostjo posojila in
+vrednostjo zavarovanja z uporabo razredov, ki omogočajo ustrezno analizo
+občutljivosti.
+(2) Če so osnovne izpostavljenosti že
+same pozicije v listinjenju, borznoposredniška družba poleg informacij iz
+prvega odstavka tega člena o tranšah, ki so osnovne izpostavljenosti drugega
+listinjenja, spremljajo tudi informacije o značilnostih in kvaliteti skupin
+izpostavljenosti teh tranš.
+(3) Borznoposredniška družba mora biti
+sposobna dokazati, da pozna vse strukturne značilnosti posla listinjenja, ki bi
+bistveno vplivale na kvaliteto njenih izpostavljenosti do poslov, kot so
+poravnava pogodbenih obveznosti po kaskadnem načelu (contractual waterfall) in
+z njim povezani sprožilci (waterfall related triggers), izboljšave kreditne
+kvalitete, izboljšave likvidnosti, sprožilci tržne vrednosti in za posamezen
+posel značilna opredelitev neplačila.
+51. člen
+(1) Če borznoposredniška družba iz malomarnosti
+ali zaradi opustitve ne izpolni zahtev iz 48. do 50. člena tega sklepa, ji
+Agencija odredi dodatno utež tveganja sorazmerno glede na obseg kršitev in
+sicer v višini ne manj kot 250 % uteži, ki bi sicer v skladu z določbami tega
+sklepa veljala za zadevno pozicijo v listinjenju. Dodatna utež tveganja se
+povečuje z vsako naslednjo kršitvijo določb členov iz prvega stavka tega
+odstavka do zgornje meje skupne uteži v višini 1250 %.
+(2) Agencija v postopku odreditve
+dodatne uteži iz prvega odstavka tega člena upošteva izjeme za listinjenja,
+opredeljene v 47. členu tega sklepa.
+
+Sklep o izračunu kapitalske zahteve za
+kreditno tveganje pri listinjenju in pravilih glede izpostavljenosti
+borznoposredniških družb prenesenemu kreditnemu tveganju (Uradni list RS, št. 80/11)
+vsebuje naslednje prehodne in končne določbe:
+»7. PREHODNE IN KONČNE DOLOČBE
+52. člen
+(1) Z dnem, ko začne veljati ta sklep,
+preneha veljati Sklep o izračunu kapitalske zahteve za kreditno tveganje pri
+listinjenju za borznoposredniške družbe (Uradni list RS, št. 106/07, 74/09 in
+81/09 – popr.).
+(2) Določbe petega do osmega odstavka
+5. člena in 6. poglavja tega sklepa se uporabljajo za nova listinjenja,
+izdana od 1. oktobra 2011 in od 1. januarja 2015 tudi za obstoječa
+listinjenja, pri katerih se od 1. januarja 2015 dodajo nove osnovne
+izpostavljenosti ali se nadomestijo.
+53. člen
+Ta sklep začne veljati 1. januarja
+2012.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+izračunu kapitalske zahteve za kreditno tveganje pri listinjenju in pravilih
+glede izpostavljenosti borznoposredniških družb prenesenemu kreditnemu tveganju
+(Uradni list RS, št. 33/12)
+vsebuje naslednjo končno določbo:
+»11. člen
+Ta sklep začne veljati osmi dan po objavi v
+Uradnem listu Republike Slovenije.«.

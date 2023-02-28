@@ -1,0 +1,212 @@
+1. člen
+(vsebina akta)
+Ta splošni akt podrobneje določa način
+uporabe sistema RDS za analogne zvokovne radiodifuzne postaje v frekvenčnem
+področju od 87,5 MHz do 108,0 MHz.
+2. člen
+(pojmi)
+Poleg pomena, določenega z Zakonom o
+elektronskih komunikacijah (Uradni list RS, št. 109/12 – ZEKom-1), imajo v tem
+aktu uporabljeni pojmi naslednji pomen:
+1.     
+Sistem RDS (Radio Data System – radijski podatkovni sistem) je sistem za
+prenos podatkov za analogne zvokovne radiodifuzne postaje v frekvenčnem
+področju od 87,5 MHz do 108,0 MHz.
+2.     
+CENELEC je evropski komite za elektrotehniško standardizacijo.
+3.     
+Standard CENELEC EN50067 je CENELEC standard, ki predpisuje način
+uporabe sistema RDS za zvokovne radiodifuzne radijske postaje v frekvenčnem
+področju od 87,5 MHz do 108,0 MHz.
+4.     
+Program je radijski program, za katerega je izdano dovoljenje za
+izvajanje radijske dejavnosti.
+5.     
+Podatkovna skupina je skupina podatkov, ki se prenaša prek sistema RDS.
+6.     
+PI (Program Identification – identifikacija programa) je podatkovna
+skupina, ki vsebuje 16 bitno kodo namenjeno identifikaciji programa.
+7.     
+PS (Program Service – program) je podatkovna skupina, ki vsebuje
+osemznakovno ime programa namenjeno statičnemu prikazu imena programa na
+sprejemniku.
+8.     
+TP (Traffic Program – cestnoprometni program) je podatkovna skupina, ki
+vsebuje zastavico za identifikacijo programa, ki vsebuje obvestila o cestnem
+prometu, ki so signalizirana prek zastavice v podatkovni skupini TA.
+9.     
+TA (Traffic Announcement – cestnoprometno obvestilo) je podatkovna
+skupina, ki vsebuje zastavico za signalizacijo obvestila o cestnem prometu, ki
+ga radijska postaja trenutno oddaja.
+10.  
+Aktivna zastavica pomeni, da je ustrezni bit zastavice postavljen na
+logično vrednost 1.
+11.  
+CT (Clock Time – čas) je podatkovna skupina, ki vsebuje informacije o
+točnem času in datumu.
+12.  
+AF (Alternative Frequencies – druge frekvence) je podatkovna skupina, ki
+vsebuje informacije o drugih frekvencah za isti program kot je ta, ki ga oddaja
+radijska postaja, ki uporablja podatkovno skupino AF.
+13.  
+RP (Radio Paging – radijski osebni klic) je podatkovna skupina, ki
+vsebuje informacije za storitev osebnega klica prek sistema RDS.
+14.  
+Sistem osebnega klica (paging) prek sistema RDS je javna telekomunikacijska
+storitev namenjena prenašanju sporočil prek sistema RDS.
+15.  
+EON (Enhaced Other Networks – druge mreže) je podatkovna skupina, ki
+vsebuje informacije o drugih programih.
+16.  
+Točen čas je čas (datum in ura), ki je določen z Zakonom o računanju
+časa (Uradni list RS, št. 13/93, 8/96).
+3. člen
+(splošna določila)
+(1) Sistem RDS lahko uporabljajo
+imetniki odločbe o dodelitvi radijskih frekvenc v frekvenčnem področju od
+87,5 MHz do 108,0 MHz, ki
+a.     
+so zaprosili agencijo za uporabo sistema RDS ali
+b.     
+so v ponudbi na javni razpis za prosto frekvenco navedli, da bo radijska
+postaja uporabljala sistem RDS
+in jim je agencija z odločbo o dodelitvi
+radijskih frekvenc predpisala kodo za podatkovno skupino PI in osemznakovno ime
+programa za podatkovno skupino PS.
+(2) Sistem RDS se uporablja v skladu s
+standardom CENELEC EN50067.
+(3) Zvokovne radiodifuzne postaje v
+frekvenčnem področju od 87,5 MHz do 108,0 MHz, ki uporabljajo sistem RDS,
+morajo uporabljati podatkovno skupino PI in podatkovni skupino PS v skladu s 4.
+in 5. členom tega akta in v skladu z odločbo o dodelitvi radijskih frekvenc.
+(4) Podatkovne skupine, katerih
+uporaba v tem aktu ni posebej določena, se uporabljajo v skladu s standardom
+CENELEC EN50067.
+4. člen
+(Podatkovna skupina PI)
+(1) Kodo za podatkovno skupino PI
+določi agencija z odločbo o dodelitvi radijskih frekvenc na podlagi programa za
+katerega se izdaja odločba.
+(2) Vsakemu programu za zvokovno
+radiodifuzno radijsko postajo v frekvenčnem področju od 87,5 MHz do
+108,0 MHz je dodeljena samo ena koda za podatkovno skupino PI, ki mora
+biti različna od drugih dodeljenih kod.
+5. člen
+(Podatkovna skupina PS)
+(1) Osemznakovno ime programa za
+podatkovno skupino PS določi agencija z odločbo o dodelitvi radijskih frekvenc
+na podlagi imena programa za katerega se izdaja odločba v skladu s pravili za
+tvorjenje osemznakovnega imena programa za podatkovno skupino PS, določenimi v
+tem aktu.
+(2) Vsakemu programu za zvokovno
+radiodifuzno radijsko postajo v frekvenčnem področju od 87,5 MHz do
+108,0 MHz je dodeljeno samo eno osemznakovno ime programa za podatkovno
+skupino PS, ki mora biti različno od drugih dodeljenih osemznakovnih imen
+programov.
+(3) Za podatkovno skupino PS se sme
+uporabljati samo osemznakovno ime programa iz odločbe o dodelitvi radijskih
+frekvenc, ki se ne sme časovno spreminjati ali vsebovati drugih besedil ali
+znakov. Sprememba podatkovne skupine PS je dovoljena samo v primeru časovne
+delitve uporabe radijske postaje (time sharing) glede na program, ki se oddaja
+v skladu z odločbo o dodelitvi radijskih frekvenc.
+(4) Za tvorjenje osemznakovnega imena
+programa za podatkovno skupino PS se uporabljajo naslednja pravila:
+1.     
+Uprabljajo se znaki v skladu s standardom CENELEC EN50067.
+2.     
+Za osnovo za tvorjenje osemznakovnega imena se vzame ime programa za
+katerega se izdaja odločba o dodelitvi radijskih frekvenc. Tako se dobi začetno
+ime.
+3.     
+Osnovno ime se dobi iz začetnega imena, tako da se odstrani beseda
+»RADIO« če je ta prisotna, razen v primerih, ko je začetno ime brez besede
+»RADIO« dolgo en ali dva znaka.
+4.     
+Če je osnovno ime sestavljeno iz dveh ali več besed se med besede doda
+en presledek.
+5.     
+Če je osnovno ime krajše ali enako osem znakov (vključno s presledki med
+besedami) se za ime programa za podatkovno skupino PS uporabi sredinsko
+poravnano osnovno ime.
+6.     
+Sredinska poravnava se naredi tako, da se v primeru
+a.   
+sodega števila znakov osnovnega imena doda enako število presledkov pred
+in za osnovnim imenom, tako da je skupna dolžina imena s presledki osem znakov.
+b.   
+lihega števila znakov osnovnega imena doda pred in za osnovnim imenom
+presledke, tako da je za osnovnim imenom en presledek več kot pred imenom in
+skupna dolžina imena s presledki osem znakov.
+7.     
+Če je osnovno ime daljše od osem znakov, se za ime programa za
+podatkovno skupino PS uporabi sredinsko poravnano okrajšano osnovno ime.
+8.     
+Okrajšano osnovno ime je sestavljeno iz delov besed (lahko tudi samo iz
+ene besede ali dela ene besede) osnovnega imena, tako da je razpoznavno ime
+programa in da skupna dolžina imena ne presega osem znakov. Za okrajšanimi
+besedami se lahko doda piko.
+(5) V primerih, ko s pravili za
+tvorjenje osemznakovnega imena programa za podatkovno skupino PS iz točke (4)
+tega člena ni možno ustvariti osemznakovnega imena programa ali pa je
+osemznakovno ime programa tvorjeno po pravilih iz točke (4) tega člena enako
+obstoječemu osemznakovnemu imenu programa, lahko agencija določi drugo primerno
+osemznakovno ime za podatkovno skupino PS, tako da je razpoznavno ime programa
+in da osemznakovno ime programa ni enako obstoječim osemznakovnim imenom programov.
+6. člen
+(Podatkovna skupina TP)
+(1) Uporaba aktivne zastavice v
+podatkovni skupini TP je dovoljena samo za tiste radijske postaje, ki oddajajo
+program, ki vsebuje obvestila o cestnem prometu, ki so signalizirana prek
+zastavice v podatkovni skupini TA.
+(2) Za program, ki vsebuje obvestila o
+cestnem prometu se šteje program, ki vsaj osemnajstkrat v dnevnem oddajnem času
+vsebuje obvestila o cestnem prometu, ki so signalizirana prek zastavice v
+podatkovni skupini TA.
+7. člen
+(Podatkovna skupina TA)
+(1) Uporaba aktivne zastavice v
+podatkovni skupini TA je dovoljena samo za tiste radijske postaje, ki oddajajo
+program, ki vsebuje obvestila o cestnem prometu in samo v času trajanja
+obvestila o cestnem prometu. Signalizacija obvestila o cestnem prometu prek
+zastavice v podatkovni skupini TA mora biti izvedena tako, da zastavica v
+podatkovni skupini TA ni aktivna v delih programa neposredno pred in po
+obvestilu o cestnem prometu.
+(2) Dovoljena je uporaba aktivne
+zastavice v podatkovni skupini TA skupaj z uporabo neaktivne zastavice v
+podatkovni skupini TP kot signalizacija programa, ki ne vsebuje obvestil o
+cestnem prometu, vendar pa prenaša v podatkovni skupini EON podatke o
+programih, ki vsebujejo tudi obvestila o cestnem prometu.
+8. člen
+(Podatkovna skupina AF)
+Podatkovna skupina AF lahko vsebuje samo
+podatke o tistih frekvencah, za katere je izdana veljavna odločba o dodelitvi
+radijskih frekvenc za program, ki je enak programu iz odločbe o dodelitvi
+radijskih frekvenc radijske postaje, ki uporablja podatkovno skupino AF.
+9. člen
+(Podatkovna skupina CT)
+Če se uporablja podatkovna skupina CT,
+informacija o času (datumu in uri) ne sme odstopati od točnega časa več kot eno
+sekundo.
+10. člen
+(Podatkovna skupina RP)
+(1) Podatkovna skupina RP je namenjena
+prenosu informacij za storitve osebnega klica (paging) prek sistema RDS.
+(2) Podatkovna skupina RP se lahko
+uporablja le tako, da ne ovira delovanja obstoječih storitev osebnega klica
+prek sistema RDS.
+11. člen
+(Odločba o dodelitvi radijskih frekvenc)
+V odločbi o dodelitvi radijskih frekvenc za
+zvokovne radiodifuzne postaje v frekvenčnem področju od 87,5 MHz do 108,0 MHz,
+ki uporabljajo sistem RDS, se med pogoji uporabe radijske postaje navede koda
+za podatkovno skupino PI in osemznakovno ime programa za podatkovno skupino PS.
+12. člen
+(Začetek veljavnosti akta)
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije. Z dnem uveljavitve tega akta
+preneha veljati Splošni akt o uporabi sistema RDS (Uradni list RS, št. 75/04).
+Ljubljana,
+dne 15. maja 2013
+EVA 2013-3330-0033
+Franc Dolenc l.r.
+Direktor

@@ -1,0 +1,511 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta pravilnik določa meroslovne in z njimi
+povezane tehnične zahteve, ki jih morajo izpolnjevati statični elektronski
+števci delovne električne energije izmeničnega toka razredov točnosti 0,2 S in
+0,5 S (v nadaljnjem besedilu: števci), postopke ugotavljanja skladnosti in
+overitev, način označevanja ter rok redne overitve.
+Ta pravilnik se označi s skrajšano oznako
+MP-54.
+2. člen
+Določbe tega pravilnika ne veljajo za
+kazalnike maksimuma in etalonske števce.
+3. člen
+Števci po tem pravilniku so števci:
+-      
+ki se priključijo prek tokovnih merilnih
+transformatorjev;
+-      
+ki se priključijo prek tokovnih in napetostnih
+merilnih transformatorjev;
+-      
+ki so namenjeni za merjenje energije v eni
+smeri;
+-      
+ki so namenjeni za merjenje energije v obeh
+smereh;
+-      
+katerih napetost na priključnici je manjša od
+600 V (pri trifaznih števcih se ta napetost nanaša na napetost med faznimi
+vodniki).
+4. člen
+Števci lahko dajejo podatke o energiji
+prek:
+-      
+številčnika,
+-      
+dajalnika impulzov,
+-      
+dajalnika impulzov za daljinsko merjenje.
+Dajalnik impulzov, ki ga ni mogoče
+uravnavati, mora biti priključen za integratorjem.
+II. MEROSLOVNE ZAHTEVE TER UGOTAVLJANJE SKLADNOSTI
+5. člen
+Nazivni tok števca In se določi glede na nazivni sekundarni tok tokovnega merilnega
+transformatorja.
+Nazivni tok števca In je lahko:
+-      
+enak nazivnemu sekundarnemu toku tokovnega
+merilnega transformatorja;
+-      
+večji od nazivnega sekundarnega toka tokovnega
+merilnega transformatorja za odstotno povečanje merilnega območja
+transformatorja.
+Če je nazivni tok števca enak nazivnemu
+sekundarnemu toku tokovnega merilnega transformatorja, se smejo števci
+obremeniti do 120% In.
+Če je nazivni tok števca večji od nazivnega
+sekundarnega toka tokovnega merilnega transformatorja, se smejo števci
+obremeniti do 100% In.
+6. člen
+Števci imajo normalno vrednost referenčne
+napetosti:
+Ne glede na prejšnji odstavek imajo lahko
+števci tudi druge vrednosti referenčne napetosti do 600 V.
+7. člen
+Pri pregledu števcev morata biti izpolnjeni
+naslednji zahtevi:
+-      
+referenčna frekvenca 50 Hz,
+-      
+referenčna temperatura 23 °C.
+8. člen
+Pri nazivnem toku, referenčni napetosti,
+referenčni frekvenci in referenčni temperaturi lastna poraba posameznih delov
+števca ne sme presegati naslednjih vrednosti:
+-      
+za tokovni krog 1 VA,
+-      
+za napetostni krog 0,5 VA,
+-      
+za pomožni krog 10 VA (samo, če je povezan z
+napetostnim krogom števca).
+9. člen
+Izolirni material mora pri normalnem
+delovanju števca obdržati svoje dielektrične lastnosti v tolikšni meri, da ne vpliva
+bistveno na meroslovne lastnosti števca.
+10. člen
+Izolirni material števca mora zdržati
+enominutni dielektrični preskus s sinusno napetostjo efektivne vrednosti 2.000
+V in frekvence 50 Hz:
+-      
+med vsemi krogi, v katerih se med normalnim
+delovanjem števca pojavlja potencialna razlika;
+-      
+med vsemi deli števca, ki so pod napetostjo, in
+kovinskimi deli, ki so pri zaprtem okrovu števca dostopni od zunaj.
+11. člen
+Pri preskušanju dielektrične trdnosti
+števca z okrovom iz izolirnega materiala morajo biti izpolnjene naslednje
+zahteve:
+-      
+števec mora biti ovit s kovinsko folijo ali
+postavljen na ravno kovinsko ploščo, s katero so zvezani vsi kovinski deli
+okrova, dostopni na zaprtem števcu;
+-      
+tokovni in napetostni krogi ter nosilec
+merilnih sistemov morajo biti med seboj povezani;
+-      
+preskusna – sinusna napetost mora biti
+priključena med sponkami in kovinsko folijo oziroma kovinsko ploščo, razmik med
+sponkami in kovinsko folijo oziroma kovinsko ploščo pa mora biti najmanj 2 cm.
+12. člen
+Dielektrična trdnost med vijaki priključnice
+in njenim pokrovom se preskusi glede na zahtevo iz 10. člena tega pravilnika,
+pri čemer morajo biti vijaki toliko odviti, da je odprtina sponk prosta, pokrov
+priključnice pa pritrjen na priključnico.
+Če se preskus dielektrične trdnosti števca
+ponavlja, mora števec zdržati sinusno napetost, ki je za 20% manjša od
+napetosti iz 10. člena tega pravilnika.
+13. člen
+Pri preskusu dielektrične trdnosti števca
+morajo biti izpolnjene naslednje zahteve za delovanje števca:
+-      
+temperatura okolja mora znašati 15 °C do 25 °C;
+-      
+relativna vlažnost zraka mora biti od 45% do
+75%;
+-      
+atmosferski tlak mora biti od 86 kPa do 106 kPa
+(860 mbar do 1.000 mbar).
+14. člen
+Pri preskusu tipa števca se mora njegova
+dielektrična trdnost preskusiti z udarno napetostjo oblike 1,2/50 ms in temenske
+vrednosti 7 kV.
+15. člen
+Ugotavljanje skladnosti števca pri prvih
+overitvah in preskus tipa števca se opravi pri naslednjih pogojih:
+1.    
+okrov števca mora biti zaprt;
+2.    
+zaporedje faz mora biti enako navedenemu v
+vezalni shemi;
+3.    
+napetosti in tokovi morajo biti uravnovešeni:
+- 
+nobena fazna ali zvezna napetost ne sme
+presegati vrednosti ustrezne srednje napetosti za ±1%;
+- 
+noben tok ne sme presegati vrednosti ustreznega
+srednjega toka za ±1%;
+- 
+fazna razlika med tokom in ustrezno fazno
+napetostjo pri katerem koli faktorju moči ne sme presegati 2°;
+4.    
+napetostni in pomožni krogi števca razreda
+točnosti 0,2 S morajo biti priključeni na referenčno napetost števca najmanj
+dve uri pred začetkom pregleda;
+5.    
+napetostni in pomožni krogi števca razreda
+točnosti 0,5 S morajo biti priključeni na referenčno napetost števca najmanj
+eno uro pred začetkom pregleda;
+6.     vplivne veličine morajo imeti referenčno vrednost z odstopki, ki so
+določeni v naslednji tabeli:
+16. člen
+Števci morajo biti konstruirani tako, da ne
+dajejo izhodnih impulzov oziroma da ne registrirajo energije pri odprtih
+tokovnih krogih in pri napetostnih krogih, priključenih na referenčno napetost.
+17. člen
+Števci morajo začeti dajati izhodne impulze
+in nenehno registrirati energijo pri toku, ki ne sme presegati vrednosti 0,1 In in faktorja moči 1.
+Dajalnik impulzov mora imeti tolikšno
+frekvenco, da je mogoče opraviti preskus začetka registriranja energije
+(zagona) v 10 minutah.
+18. člen
+Ob pregledu števcev v pogojih iz 6. točke
+15. člena tega pravilnika morajo imeti števci v času, ki ustreza najmanj 1.000
+periodam merjene moči, v odstotkih izražene meje dopustnih pogreškov:
+-       za enofazne in trifazne števce pri uravnovešeni obremenitvi
+vrednosti, kot so določeni v tabeli I:
+Tabela I
+-      
+za trifazne števce, obremenjene enofazno, pri
+simetričnih trifaznih napetostih vrednosti, kot so določeni v tabeli II:
+Tabela II
+19. člen
+Pri pregledu števca je treba konstanto
+števca preveriti tako, da se ugotovi razmerje med kazanjem številčnika in
+impulzi, ki jih daje dajalnik impulzov.
+20. člen
+Če se pri preskusu tipa števca ugotovi, da so posamezni ali
+vsi merilni rezultati zunaj meja dopustnih pogreškov iz tabel I in II iz 18.
+člena tega pravilnika, je treba abscisno os števcev razredov točnosti 0,2 S
+premakniti vzporedno za vrednost ±0,1%, abcisno os števcev razredov točnosti
+0,5 S pa za ±0,2%. Če ostanejo pri tem vsi merilni rezultati v mejah dopustnih
+pogreškov iz tabel I in II iz 18. člena tega pravilnika, se šteje, da je števec
+brezhiben.
+21. člen
+Pri določanju variacije pogreška, povzročene
+s spremembo ene izmed vplivnih veličin, morajo vrednosti vseh drugih vplivnih
+veličin izpolnjevati pogoje iz 15. člena tega pravilnika.
+Vplivne veličine, ki se upoštevajo za
+določanje referenčnih pogojev, na katere se pregleduje števec, in za določanje
+variacij, povzročenih z njihovo spremembo, so temperatura okolja, napetost
+pomožnih krogov, napetost merilnih krogov, frekvenca, oblika vala, magnetna
+indukcija tujega izvora in zaporedje faz.
+Variacije pogreškov, povzročene s spremembo
+vplivnih veličin iz prejšnjega odstavka, se določajo samo pri preskusu tipa
+števca.
+22. člen
+Povprečni temperaturni koeficient je treba
+določiti za temperaturno območje 20 °C, pri čemer se pogreški števca določijo
+za temperature 10 °C nad temperaturo, s katero se določi povprečni temperaturni
+koeficient, in 10 °C pod njo.
+Temperaturno območje 20 °C mora biti v
+mejah od 0 °C do 40 °C.
+Vrednosti
+povprečnega temperaturnega koeficienta so določene v naslednji tabeli:
+23. člen
+Variacije
+pogreška, povzročene s spremembo drugih vplivnih veličin, so določene v
+naslednji tabeli:
+24. člen
+Tok, ki povzroča magnetno indukcijo tujega
+izvora, mora imeti enako frekvenco kot napetost, priključena na števec.
+Variacija pogreška, povzročena z magnetno
+indukcijo tujega izvora, mora biti določena pri najneugodnejšem faznem položaju
+in najneugodnejši smeri magnetne indukcije.
+25. člen
+Variacija pogreška, povzročena z vplivom
+oblike vala, mora biti določena pri najneugodnejšem faznem položaju tretje
+harmonske frekvence glede na osnovni val toka.
+Pri večfaznih števcih morajo biti
+napetostni krogi povezani vzporedno, tokovni krogi pa zaporedno.
+Faktor popačenja napetosti mora biti manjši
+od 1%.
+26. člen
+Pri preskusu tipa števca se preskušajo:
+-      
+vpliv kratkotrajnih tokovnih preobremenitev,
+-      
+vpliv lastnega segrevanja,
+-      
+vpliv motenj.
+27. člen
+Vpliv kratkotrajnih tokovnih preobremenitev
+se preskusi na naslednji način:
+-      
+preskusni krog za preskušanje kratkotrajnih
+tokovnih preobremenitev mora biti brez induktivnosti;
+-      
+števci morajo 0,5 s zdržati tok, katerega
+vrednost je 12-krat večja od vrednosti nazivnega toka In;
+-      
+po opravljenem preskusu iz prejšnje alinee se
+morajo števci vrniti na začetno temperaturo z napetostnimi krogi, ki so bili
+eno uro napajani z referenčno napetostjo;
+-      
+po končanem preskusu variacija pogreška pri
+nazivnem toku in faktorju moči, ki je enak ena, ne sme biti večja kot 0,5%.
+28. člen
+Vpliv lastnega segrevanja se preskusi na
+naslednji način:
+-      
+pri odprtih tokovnih krogih morajo biti
+napetostni krogi priključeni na referenčno napetost najmanj eno uro pred
+začetkom preskusa;
+-      
+števci se obremenijo z največjim tokom, ki
+ustreza vrednosti nazivnega trajnega termičnega toka transformatorja pri
+faktorju moči, ki je enak ena, pri čemer se neposredno po obremenitvi določi
+pogrešek števca. Preskus mora trajati eno uro;
+-      
+variacija pogreška v 20 minutah ne sme biti
+večja od 0,5%.
+Variacije
+pogreška, povzročene z lastnim segrevanjem, morajo imeti vrednosti, ki niso
+večje od vrednosti, določenih v naslednji tabeli:
+29. člen
+Vpliv motenj se preskusi pri merilnih in
+pomožnih krogih, priključenih na referenčno napetost, in pri odprtih tokovnih
+krogih.
+Vse kroge se 2
+sekundi preskuša z valom dušene frekvence velikosti 1 MHz, moduliranim s 400
+Hz, po naslednji tabeli:
+30. člen
+Za števce je obvezna odobritev tipa merila,
+ki ji sledi bodisi prva overitev bodisi izjava o skladnosti z odobrenim tipom.
+K zahtevi za odobritev tipa mora vložnik
+zahteve priložiti poleg dokumentacije iz 5. člena pravilnika o načinih
+ugotavljanja skladnosti za posamezne vrste instrumentov ter o vrstah in načinih
+njihove označitve z oznakami skladnosti (Uradni list RS, št. 72/01) še
+naslednjo dokumentacijo:
+-      
+navodilo za uporabo in vzdrževanje v slovenskem
+jeziku,
+-      
+opis, delovanje in način zaščite programske
+opreme,
+-      
+navodilo za preskus pri ugotavljanju skladnosti
+(prva overitev) z zahtevami tega pravilnika.
+31. člen
+Preskus števca vključuje tudi preverjanje
+proizvajalčeve dokumentacije iz 30. člena tega pravilnika, da se ugotovi, ali
+so podatki in postopki navedeni jasno in razumljivo.
+32. člen
+(delno
+prenehal veljati)
+Prva overitev vključuje tudi vizualni
+pregled vsakega števca, da se preveri skladnost z odobrenim tipom.
+Prva overitev se izvede tako, kakor je
+opisano v dokumentaciji proizvajalca, in sicer v takem obsegu, da se preveri
+skladnost z zahtevami iz tega pravilnika.
+III. NAPISI IN OZNAKE
+33. člen
+Števci morajo imeti na vidnem mestu napisno
+ploščico s podatki in simboli. Podatki morajo biti v slovenskem jeziku in
+napisani tako, da so v normalnih razmerah delovanja števca trajni in zlahka
+čitljivi.
+34. člen
+Na napisni ploščici morajo biti navedeni
+naslednji podatki:
+1.    
+oznaka merske enote – na ploščici številčnika
+ali med glavnimi podatki števca,
+2.    
+oznaka vrste števca,
+3.    
+uradna oznaka odobritve tipa števca,
+4.    
+tovarniška oznaka tipa števca,
+5.    
+tovarniška številka števca,
+6.    
+referenčna napetost v V,
+7.    
+nazivni sekundarni tok tokovnega merilnega
+transformatorja, ki se napiše pred oklepajem, in podatek o nazivnem toku števca,
+ki se napiše v oklepaju,
+8.    
+razred točnosti,
+9.    
+referenčni frekvenci v Hz,
+10. 
+konstanta števca v imp/kWh oziroma imp/MWh,
+11. 
+vezalna shema ali številka vezalne sheme,
+12. 
+leto izdelave,
+13. 
+firma oziroma ime ali znak proizvajalca,
+14. 
+konstanta dajalnika impulzov za daljinsko
+merjenje v Wh/imp oziroma kWh/imp,
+15. 
+podatki o impulzih dajalnika impulzov za
+daljinsko merjenje:
+- 
+trajanje impulza ali pavza impulza,
+- 
+napetost impulza,
+- 
+moč kroga, ki ga dajalnik impulzov krmili
+direktno,
+16. 
+podatki o napetosti pomožnih krogov, če ti
+krogi niso povezani z napetostnimi krogi števca,
+17. 
+napis “protiregistriranje preprečeno” ali
+ustrezni simbol za števce z napravo za preprečitev protiregistriranja,
+18. 
+oznaka za števce za merjenje energije v obeh
+smereh.
+Sponke v priključnici števca se označijo s
+številkami na priključnici po standardiziranih vezalnih shemah.
+35. člen
+Transformatorski števec s sekundarnim
+številčnikom mora imeti posebno napisno ploščico, na katero je mogoče pozneje
+vpisati podatke o merilnih transformatorjih in o konstanti transformacije, s
+katero se pomnoži kazanje števnika, da bi se dobila energija na primarni strani
+merilnih transformatorjev.
+36. člen
+Podatki o impulzih dajalnika impulzov za
+daljinsko merjenje se lahko napišejo na posebno napisno ploščico, ki se lahko
+namesti na pokrov okrova števca.
+37. člen
+Morebitno povečanje zmogljivosti števca
+mora biti označeno na ploščici številčnika z dekadnim množiteljem (npr. x ×
+100, x 1000 itd.).
+38. člen
+Z namestitvijo overitvenih in zaščitnih
+oznak na števec se potrdi, da števec izpolnjuje zahteve tega pravilnika.
+Mesta za namestitev zaščitnih oznak morajo
+biti izbrana tako, da ni mogoče priti do notranjih aktivnih delov števca, ne da
+bi se oznake pri tem poškodovale.
+IV. REDNE IN IZREDNE OVERITVE
+39. člen
+(delno
+prenehal veljati)
+Za števce so obvezne redne in izredne overitve. Rok za redne
+overitve števcev razredov točnosti 0,2 S je tri leta. Rok za redne overitve
+števcev razredov točnosti 0,5 S je šest let. Redne in izredne overitve
+vključujejo:
+-      
+ugotavljanje skladnosti merila z odobrenim
+tipom,
+-      
+meroslovni pregled, s katerim se ugotavlja, ali
+merilo izpolnjuje zahteve tega pravilnika.
+Meroslovni pregled pri redni in izredni
+overitvi je enak meroslovnemu pregledu pri ugotavljanju skladnosti (prva
+overitev).
+40. člen
+(delno
+prenehal veljati)
+Največji dopustni pogrešek pri rednih
+oziroma izrednih overitvah ne sme biti večji od največjega dopustnega pogreška
+pri prvi overitvi.
+41. člen
+(delno
+prenehal veljati)
+Merilni postopek, s katerim se preverjajo
+meroslovne lastnosti merila, mora imeti merilno negotovost, ki mora biti
+najmanj za 2/3 boljša od zahtevane točnosti merila (merilna negotovost preskusnega sistema ne sme preseči 1/3
+največjega dopustnega pogreška števca).
+
+Pravilnik o meroslovnih zahtevah za statične
+števce delovne električne energije razredov točnosti 0,2 S in 0,5 S (Uradni
+list RS, št. 33/02)
+vsebuje naslednjo prehodno in končno določbo:
+»V. PREHODNA IN KONČNA DOLOČBA
+42. člen
+Z dnem, ko začne veljati ta pravilnik, se
+preneha uporabljati pravilnik o metroloških pogojih za statične števce delovne
+električne energije točnostnih razredov 0,2 S in 0,5 S (Uradni
+list SFRJ, št. 28/89).
+43. člen
+Ta pravilnik začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o merilnih instrumentih (Uradni list
+RS, št. 42/06) v zvezi s prenehanjem veljavnosti
+tega pravilnika določa:
+»41. člen
+(prenehanje
+veljavnosti)
+Z dnem uveljavitve tega pravilnika
+prenehajo veljati naslednji predpisi: 
+[…]
+-      
+Pravilnik o meroslovnih zahtevah za statične
+števce delovne električne energije razredov točnosti 0,2 S in 0,5 S (Uradni
+list RS, št. 33/02) razen v delu, ki se nanaša na števce delovne električne energije
+razredov točnosti 0,2 S,
+[…]
+Predpisi iz prejšnjega odstavka se
+uporabljajo še naprej za: 
+-      
+prve overitve in EGS-prve overitve meril iz 39.
+člena tega pravilnika, do izteka veljavnosti odobritve tipa ali EGS-odobritve
+tipa ali do 30. oktobra 2016, če odobritev tipa oziroma EGS-odobritev tipa nima
+omejene veljavnosti,
+-      
+redne in izredne overitve meril iz 40. člena
+tega pravilnika.
+ter vsebuje naslednjo končno določbo:
+»42. člen
+(začetek
+veljavnosti)
+Ta pravilnik začne veljati 30. oktobra
+2006.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o meroslovnih zahtevah za statične števce delovne električne
+energije razredov točnosti 0,2 S in 0,5 S (Uradni list RS, št. 106/06) vsebuje naslednjo končno določbo:
+»4. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o merilnih instrumentih (Uradni list RS, št. 16/13) v zvezi s prenehanjem uporabe tega
+pravilnika določa:
+»17. člen
+Z dnem uveljavitve tega pravilnika se v
+delu, ki se nanaša na prve, redne in izredne overitve, prenehajo uporabljati
+naslednji predpisi: 
+[…]
+-      
+Pravilnik o meroslovnih zahtevah za statične
+števce delovne električne energije razredov točnosti 0,2 S in 0,5 S (Uradni
+list RS, št. 33/02 in 42/06) v delu, ki se nanaša na števce delovne električne
+energije razredov točnosti 0,5 S.«;
+ter vsebuje naslednjo končno določbo:
+»20. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece
+po njegovi uveljavitvi.«.
+
+Pravilnik o overitvah števcev električne
+energije (Uradni list RS, št. 18/13) določa:
+»40. člen
+Z dnem uveljavitve tega pravilnika
+prenehajo veljati 32., 39., 40. in 41. člen Pravilnika o meroslovnih zahtevah
+za statične števce delovne električne energije razredov točnosti 0,2 S in 0,5 S
+(Uradni list RS, št. 33/02, 42/06 in 106/06) v delu, ki se nanaša na razred
+točnosti 0,2 S.«;
+ter vsebuje naslednjo končno določbo:
+»41. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece
+po njegovi uveljavitvi.«.

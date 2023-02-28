@@ -1,0 +1,459 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+Ta uredba določa v zvezi z elektromagnetnim sevanjem v okolju
+(v nadaljnjem besedilu: sevanje) mejne vrednosti veličin elektromagnetnega
+polja v okolju, stopnje varstva pred sevanjem v posameznih območjih naravnega
+in življenjskega okolja, način določanja in vrednotenja obremenitve okolja
+zaradi sevanja ter ukrepe za zmanjševanje in preprečevanje čezmernega sevanja.
+Določbe te uredbe veljajo za sevanje zunaj nadzorovanih
+območij, ki ga v posameznih območjih naravnega in življenjskega okolja
+povzročajo stalne ali občasne emisije enega ali več virov obremenjevanja okolja
+s sevanjem (v nadaljnjem besedilu: vir sevanja) razen za sevanje naprav, ki so
+namenjene diagnostiki ali zdravljenju v zdravstvu, in za sevanje premičnih ali
+prenosnih oddajnih ali radarskih sistemov za obrambne potrebe ter za zaščito,
+reševanje in pomoč.
+2. člen
+Pojmi imajo po tej uredbi naslednji pomen:
+1.     
+Elektromagnetno sevanje je sevanje, ki pri uporabi ali obratovanju vira
+sevanja v njegovi bližnji ali daljni okolici povzroča elektromagnetno polje, in
+je tveganje za škodljive učinke za človeka in živo naravo. Bližnje polje je
+elektromagnetno polje v neposredni bližini vira sevanja, kjer elektromagnetno
+polje nima značilnosti ravnega valovanja. Daljno polje je elektromagnetno polje
+na vplivnem področju vira sevanja, vendar toliko daleč od vira, da že ima
+značilnost ravnega valovanja.
+2.     
+Vir sevanja je visokonapetostni transformator, razdelilna
+transformatorska postaja, nadzemni ali podzemni vod za prenos električne
+energije, odprt oddajni sistem za brezžično komunikacijo, radijski ali
+televizijski oddajnik, radar ali druga naprava ali objekt, katerega uporaba ali
+obratovanje obremenjuje okolje z:
+- 
+nizkofrekvenčnim elektromagnetnim sevanjem od 0 Hz do vključno 10 kHz (v
+nadaljnjem besedilu: nizkofrekvenčni vir sevanja) in je nazivna napetost, pri
+kateri vir sevanja obratuje, večja od 1kV ali
+- 
+visokofrekvenčnim elektromagnetnim sevanjem od 10 kHz do vključno 300
+GHz in je njegova največja oddajna moč večja od 100 W (v nadaljnjem besedilu:
+visokofrekvenčni vir sevanja).
+Amaterska radijska postaja ni vir sevanja.
+3.     
+Obstoječi vir sevanja je vir sevanja, ki je bil v uporabi ali je
+obratoval na dan začetka veljavnosti te uredbe ali za katerega je bilo skladno
+s predpisi pred začetkom veljavnosti te uredbe pridobljeno gradbeno dovoljenje.
+4.     
+Rekonstrukcija vira sevanja je vsak poseg v vir sevanja, s katerim se
+bistveno spremenijo glavne tehnične značilnosti, način uporabe ali obratovanja
+ali zmogljivost vira in ima za posledico spremembo moči, jakosti ali vrste
+elektromagnetnega polja.
+5.     
+Nadzemni vod je električni vod z vodniki nad zemljo, običajno podprtimi
+z izolatorji in ustreznimi podporniki.
+6.     
+Amaterska radijska postaja je radijska postaja po predpisih o
+radioamaterski dejavnosti.
+7.     
+Nadzorovano območje je ograjeno in označeno območje okrog vira sevanja,
+kjer je vstop dovoljen samo osebju, ki vir upravlja ali vzdržuje.
+8.     
+Nemoteno elektromagnetno polje (v nadaljnjem besedilu: nemoteno polje)
+je zaradi sevanja povzročeno elektromagnetno polje na vplivnem področju vira
+sevanja, kadar niso prisotni premikajoči se objekti ali osebe. V nemotenem
+polju je izbran kraj meritev veličin elektromagnetnega polja.
+9.     
+Električna poljska jakost E (v nadaljnjem besedilu: električna poljska
+jakost) je veličina elektromagnetnega polja, ki opisuje električno polje,
+povzročeno zaradi vira sevanja, in se izraža v voltih na meter (V/m).
+10.  
+Gostota magnetnega pretoka B (v nadaljnjem besedilu: gostota magnetnega
+pretoka) je veličina elektromagnetnega polja, ki opisuje magnetno polje,
+povzročeno zaradi vira sevanja, in se izraža v teslih (T).
+11.  
+Magnetna poljska jakost H (v nadaljnjem besedilu: magnetna poljska
+jakost) je veličina elektromagnetnega polja, ki je povezana z gostoto
+magnetnega pretoka preko permeabilnosti in se izraža v amperih na meter (A/m).
+12.  
+Gostota pretoka moči S (v nadaljnjem besedilu: gostota pretoka moči) je
+moč elektromagnetnega polja, ki ji je izpostavljena površina, postavljena
+pravokotno na smer elektromagnetnega valovanja in se izraža v watih na
+kvadratni meter (W/m²).
+13.  
+Mejna vrednost veličine elektromagnetnega polja (v nadaljnjem besedilu:
+mejna vrednost) je vrednost veličine, določena s to uredbo za posamezno območje
+naravnega ali življenjskega okolja, na podlagi katere se določa čezmerna
+obremenitev okolja zaradi sevanja in se izraža kot:
+- 
+mejna efektivna vrednost električne poljske jakosti in gostote
+magnetnega pretoka ter mejna temenska vrednost električne poljske jakosti in
+gostote magnetnega pretoka za elektromagnetno polje, ki je posledica emisije
+nizkofrekvenčnih virov sevanja,
+- 
+mejna efektivna vrednost električne in magnetne poljske jakosti ter
+mejna vrednost povprečne vrednosti gostote pretoka moči za elektromagnetno
+polje, ki je posledica emisije visokofrekvenčnih virov sevanja,
+- 
+mejna temenska vrednost električne in magnetne poljske jakosti ter mejna
+temenska vrednost gostote pretoka moči za primere impulznega elektromagnetnega
+polja, ki je posledica emisije visokofrekvenčnih virov sevanja.
+14.  
+Efektivna vrednost veličin elektromagnetnega polja se določa za
+periodična polja in je za eliptično polarizirano elektromagnetno polje enaka:
+kjer so E(x) , E(y) in E(z) efektivne
+vrednosti komponent električne poljske jakosti. Enako velja tudi za magnetno
+poljsko jakost.
+15.  
+Povprečna vrednost gostote pretoka moči se določa za periodična
+elektromagnetna sevanja in je enaka povprečni vrednosti produkta električne in
+magnetne poljske jakosti, izračunane za čas najdaljše periode elektromagnetnega
+sevanja kot posledice vira sevanja.
+16.  
+Temenska vrednost veličin elektromagnetnega polja je največja trenutna
+vrednost, ki jo doseže veličina. Če gre za impulzna elektromagnetna sevanja, je
+temenska vrednost veličine največja vrednost veličine v času trajanja impulza
+brez upoštevanja konic in drugih nezaželenih delov impulza, ki ne presegajo 5%
+celotne energije impulza.
+17.  
+Prve meritve so meritve, ki se izvedejo pri prvem zagonu novega ali
+rekonstruiranega vira sevanja.
+18.  
+Občasne meritve so meritve elektromagnetnega polja, povzročenega zaradi
+uporabe ali obratovanja virov sevanja, ki se opravljajo v predpisanih časovnih
+presledkih v okviru predpisanega obratovalnega monitoringa.
+3. člen
+Stopnji varstva pred sevanjem, določeni glede na občutljivost
+posameznega območja naravnega ali življenjskega okolja (v nadaljnjem besedilu:
+območje) za učinke elektromagnetnega polja, ki jih povzročajo viri sevanja, sta
+I. in II. stopnja.
+I. stopnja varstva pred sevanjem velja za I. območje, ki
+potrebuje povečano varstvo pred sevanjem. I. območje je območje bolnišnic,
+zdravilišč, okrevališč ter turističnih objektov, namenjenih bivanju in
+rekreaciji, čisto stanovanjsko območje, območje objektov vzgojnovarstvenega in
+izobraževalnega programa ter programa osnovnega zdravstvenega varstva, območje
+igrišč ter javnih parkov, javnih zelenih in rekreacijskih površin,
+trgovsko-poslovno-stanovanjsko območje, ki je hkrati namenjeno bivanju in
+obrtnim ter podobnim proizvodnim dejavnostim, javno središče, kjer se
+opravljajo upravne, trgovske, storitvene ali gostinske dejavnosti, ter tisti
+predeli območja, namenjenega kmetijski dejavnosti, ki so hkrati namenjeni
+bivanju (v nadaljnjem besedilu: I. območje).
+II. stopnja varstva pred sevanjem velja za II. območje, kjer
+je dopusten poseg v okolje, ki je zaradi sevanja bolj moteč. II. območje je
+zlasti območje brez stanovanj, namenjeno industrijski ali obrtni ali drugi
+podobni proizvodni dejavnosti, transportni, skladiščni ali servisni dejavnosti
+ter vsa druga območja, ki niso v prejšnjem odstavku določena kot I. območje (v
+nadaljnjem besedilu: II. območje).
+II. stopnja varstva pred sevanjem velja tudi na površinah, ki
+so v I. območju namenjene javnemu cestnemu ali železniškemu prometu.
+II. MEJNE VREDNOSTI ZA NIZKOFREKVENČNE VIRE SEVANJA
+4. člen
+Mejne efektivne vrednosti električne poljske jakosti kot
+posledice obratovanja ali uporabe nizkofrekvenčnih virov sevanja so za I. in
+II. območje določene v tabeli 1.
+Tabela 1: Mejne efektivne vrednosti
+električne poljske jakosti
+Mejne efektivne vrednosti gostote magnetnega pretoka kot
+posledice obratovanja ali uporabe nizkofrekvenčnih virov sevanja so za I. in
+II. območje določene v tabeli 2.
+Tabela 2: Mejne efektivne vrednosti
+gostote magnetnega pretoka
+III. MEJNE VREDNOSTI ZA VISOKOFREKVENČNE VIRE SEVANJA
+5. člen
+Mejne efektivne vrednosti električne in magnetne poljske
+jakosti ter povprečne vrednosti gostote pretoka moči kot posledice obratovanja
+ali uporabe visokofrekvenčnih virov sevanja so za I. območje določene v tabeli
+3.
+Tabela 3: Mejne efektivne vrednosti za I.
+območje
+Mejne vrednosti, določene v tabeli 3, veljajo tudi za
+elektromagnetno polje, ki je posledica obratovanja ali uporabe rekonstruiranega
+visokofrekvenčnega vira sevanja.
+Mejne efektivne vrednosti električne in magnetne poljske
+jakosti ter gostote pretoka moči kot posledice obratovanja ali uporabe
+visokofrekvenčnih virov sevanja so za II. območje določene v tabeli 4.
+Tabela 4: Mejne efektivne vrednosti za
+II. območje
+Mejne vrednosti, določene v tabeli 4, veljajo tudi za
+elektromagnetno polje, ki je posledica obratovanja ali uporabe rekonstruiranega
+visokofrekvenčnega vira sevanja.
+6. člen
+Mejne efektivne vrednosti električne in magnetne poljske
+jakosti ter gostote pretoka moči kot posledice obratovanja ali uporabe
+obstoječih visokofrekvenčnih virov sevanja v I. in II. območju so določene v
+tabeli 4 prejšnjega člena.
+7. člen
+Mejne vrednosti za temenske vrednosti električne poljske
+jakosti, magnetne poljske jakosti in gostote pretoka moči kot posledice
+obratovanja ali uporabe visokofrekvenčnih virov sevanja, ki veljajo pri
+izpostavljenosti impulznim elektromagnetnim poljem s časom trajanja manj kot
+100 μs, so za I. območje določene v tabeli 5.
+Tabela 5: Mejne vrednosti za
+izpostavljenost impulznim elektromagnetnim poljem na I. območju
+Mejne vrednosti, določene v tabeli 5, veljajo tudi za
+impulzno elektromagnetno polje, ki je posledica obratovanja ali uporabe
+rekonstruiranega visokofrekvenčnega vira sevanja.
+Mejne vrednosti za temenske vrednosti električne poljske
+jakosti, magnetne poljske jakosti in gostote pretoka moči kot posledice
+obratovanja ali uporabe visokofrekvenčnih virov sevanja, ki veljajo pri
+izpostavljenosti impulznim elektromagnetnim poljem, so za II. območje določene
+v tabeli 6.
+Tabela 6: Mejne vrednosti za
+izpostavljenost impulznim elektromagnetnim poljem na II. območju
+Mejne vrednosti, določene v tabeli 6, veljajo tudi za
+impulzno elektromagnetno polje, ki je posledica obratovanja ali uporabe
+rekonstruiranega visokofrekvenčnega vira sevanja.
+8. člen
+Mejne vrednosti za temenske vrednosti električne poljske
+jakosti, magnetne poljske jakosti in gostote pretoka kot posledice obratovanja
+ali uporabe obstoječih visokofrekvenčnih virov sevanja v I. in II. območju pri
+izpostavljenosti impulznim elektromagnetnim poljem so določene v tabeli 6
+prejšnjega člena.
+IV. DOLOČANJE IN VREDNOTENJE OBREMENITVE S SEVANJEM
+9. člen
+Celotna obremenitev območja s sevanjem kot posledice
+obratovanja ali uporabe vseh virov sevanja se ugotavlja tako, da se na kraju
+meritev izmerijo in vrednotijo veličine elektromagnetnega polja, za katere so s
+to uredbo določene mejne vrednosti. Celotna obremenitev območja s sevanjem za-
+radi nizkofrekvenčnih virov sevanja in zaradi visokofrekvenčnih virov sevanja
+se ugotavlja ločeno. Če so med visokofrekvenčnimi viri sevanja, ki
+obremenjujejo območje, tudi viri z impulznim načinom delovanja, se obremenitev
+območja zaradi izpostavljenosti impulznim elektromagnetnim poljem vrednoti
+posebej.
+10. člen
+Obremenitev območja s sevanjem kot posledice obratovanja ali
+uporabe posameznega vira sevanja se ugotavlja tako, da se na kraju meritev
+izmerijo in vrednotijo veličine elektromagnetnega polja, za katere so s to
+uredbo določene mejne vrednosti, pri čemer se za frekvenčno območje, v katerem
+obravnavani vir seva, ne upoštevajo deleži elektromagnetnega polja, ki so na
+kraju meritev posledica emisije vseh drugih pomembnih virov sevanja.
+Če je za posamezni vir sevanja predpisan računski postopek
+vrednotenja veličin elektromagnetnega polja, kot posledice obratovanja ali
+uporabe posameznega vira sevanja, se lahko namesto iz rezultatov meritev
+vrednotijo veličine elektromagnetnega polja na kraju imisije na podlagi
+podatkov o obratovanju vira sevanja, ko ta s sevanjem najbolj obremenjuje
+okolje. Računske postopke za izračun veličin elektromagnetnega polja na kraju imisije
+za posamezni vir sevanja predpiše minister, pristojen za okolje.
+Nizkofrekvenčni vir sevanja je pomemben vir sevanja, če
+njegovo obratovanje ali uporaba na kraju meritev pomeni, da je:
+-       
+efektivna vrednost električne poljske jakosti ali gostote magnetnega
+pretoka oziroma
+-       
+temenska vrednost električne poljske jakosti ali gostote magnetnega
+pretoka, če gre za frekvenčno območje od 0 do 0,1 Hz,
+najmanj v enem frekvenčnem območju večja od
+20% vrednosti, ki je kot mejna vrednost za nove nizkofrekvenčne vire sevanja
+določena s to uredbo.
+Visokofrekvenčni vir sevanja je pomemben vir sevanja, če
+njegovo obratovanje ali uporaba na kraju meritev pomeni, da je:
+-       
+efektivna vrednost električne ali magnetne poljske jakosti oziroma
+-       
+temenska vrednost, če gre za impulzno sevanje,
+najmanj za eno frekvenčno območje večja od
+20% vrednosti, ki je kot mejna vrednost za nove visokofrekvenčne vire sevanja
+določena s to uredbo.
+11. člen
+Obremenitev območja s sevanjem, ki je posledica obratovanja
+ali uporabe enega ali več nizkofrekvenčnih virov sevanja, je čezmerna , če so
+izpolnjeni pogoji iz priloge 1, ki je sestavni del te uredbe.
+Če se ugotavlja celotna obremenitev območja, kjer obratuje
+ali se uporablja najmanj en obstoječi nizkofrekvenčni vir sevanja, ki je po
+določbah drugega odstavka prejšnjega člena pomemben vir sevanja, se za izračun
+čezmernosti obremenitve iz priloge 1 upoštevajo mejne vrednosti električne
+poljske jakosti in gostote magnetnega pretoka, ki v tabelah 1 in 2 iz 4. člena
+te uredbe veljajo za obstoječe nizkofrekvenčne vire sevanja.
+12. člen
+Obremenitev območja s sevanjem, ki je posledica obratovanja
+ali uporabe enega ali več visokofrekvenčnih virov sevanja, je čezmerna, če so
+izpolnjeni pogoji iz priloge 2, ki je sestavni del te uredbe.
+Če se ugotavlja celotna obremenitev območja, kjer obratuje
+ali se uporablja najmanj en obstoječi visokofrekvenčni vir sevanja, ki je po
+določbah tretjega odstavka 10. člena te uredbe pomemben vir sevanja, se za
+izračun čezmernosti obremenitve iz priloge 2 upoštevajo mejne vrednosti veličin
+elektromagnetnega polja, ki po 6. členu te uredbe veljajo za obstoječe
+visokofrekvenčne vire sevanja.
+13. člen
+Obremenitev območja s sevanjem, ki je posledica obratovanja
+ali uporabe enega ali več visokofrekvenčnih virov sevanja, je pri izpostavljenosti
+impulznim elektromagnetnim poljem čezmerna, če so izpolnjeni pogoji iz priloge
+4, ki je sestavni del te uredbe.
+Če se ugotavlja celotna obremenitev območja, kjer obratuje
+ali se uporablja najmanj en obstoječi visokofrekvenčni vir sevanja, ki je po določbah
+tretjega odstavka 10. člena te uredbe pomemben vir sevanja, se za izračun
+čezmernosti obremenitve iz prejšnjih odstavkov upoštevajo mejne vrednosti
+veličin elektromagnetnega polja, ki po 8. členu te uredbe veljajo za obstoječe
+visokofrekvenčne vire sevanja.
+14. člen
+Vir sevanja povzroča na kraju meritve čezmerno obremenitev,
+če je ob neupoštevanju vseh drugih pomembnih virov sevanja celotna obremenitev
+območja, določena na način iz 11., 12. ali 13. člena te uredbe, čezmerna.
+V. UKREPI ZMANJŠEVANJA SEVANJA
+15. člen
+Nov poseg v okolje ali rekonstrukcija objekta ali naprave, ki
+je vir sevanja, ne sme povzročiti čezmerne obremenitve iz 14. člena te uredbe.
+Nov poseg v okolje ali rekonstrukcija objekta ali naprave, ki
+je vir sevanja, ne sme povzročiti čezmerne celotne obremenitve območja s
+sevanjem, če s predpisi določene mejne vrednosti na tem območju še niso
+presežene.
+Nov poseg v okolje ali rekonstrukcija objekta ali naprave ne
+sme povzročiti povečanja celotne obremenitve območja s sevanjem, če je celotna
+obremenitev območja zaradi sevanja že čezmerna.
+Rekonstrukcija obstoječega podzemnega ali nadzemnega voda za
+prenos električne energije v I. območju lahko povzroči čezmerno obremenitev za
+vir sevanja iz 14. člena te uredbe in čezmerno celotno obremenitev območja s
+sevanjem, če se ta ne ugotavlja skladno z določbami drugega odstavka 11. člena
+te uredbe in če se zaradi obratovanja nadzemnega voda ne poveča obremenitev na
+vplivnem območju vira sevanja v nobenem od bivalnih ali drugih prostorov v
+zgradbah, v katerih se ljudje zadržujejo.
+Če se čezmerna celotna obremenitev območja s sevanjem
+ugotavlja skladno z določbami drugega odstavka 11. člena te uredbe, lahko
+rekonstrukcija iz prejšnjega odstavka povzroča čezmerno obremenitev za vir
+sevanja iz 14. člena te uredbe s tem, da se zaradi obratovanja vira sevanja ne
+poveča obremenitev na vplivnem območju vira sevanja v nobenem od bivalnih ali
+drugih prostorov v zgradbah, v katerih se ljudje zadržujejo.
+Ne glede na obremenitev prostorov iz prejšnjih dveh odstavkov
+s sevanjem pred rekonstrukcijo podzemnega ali nadzemnega voda v njih zaradi
+obratovanja rekonstruiranega vira sevanja efektivna električna poljska jakost
+ne sme presegati vrednosti 1,8 kV/m in efektivna vrednost gostote magnetnega
+pretoka vrednosti 15 μT.
+16. člen
+Nov objekt ali naprava ali objekt ali naprava v
+rekonstrukciji, ki je vir sevanja, mora za pridobitev dovoljenja za poseg v
+prostor izpolnjevati te pogoje:
+-       
+elektromagnetno polje, ki je posledica uporabe ali obratovanja vira, ne
+sme povzročati čezmerne obremenitve s sevanjem in
+-       
+kjer je obremenitev zaradi sevanja že čezmerna, morajo biti pri uporabi
+ali obratovanju obravnavanega vira zagotovljeni ukrepi varstva pred sevanjem,
+ki zagotavljajo izpolnjenost pogoja iz tretjega odstavka prejšnjega člena.
+Za izračun obremenitve območja s sevanjem zaradi obratovanja
+vira sevanja iz prejšnjega odstavka se uporabljajo računski postopki iz drugega
+odstavka 10. člena te uredbe.
+Za objekt ali napravo iz prvega odstavka tega člena, pri
+kateri se na podlagi zakona presojajo vplivi na okolje, se skladnost s pogoji
+iz prejšnjega odstavka ugotavlja v postopku za izdajo okoljevarstvenega
+soglasja.
+Za objekt ali napravo iz prvega odstavka tega člena, za
+katero okoljevarstveno soglasje ni potrebno, mora investitor v zahtevi za
+dovoljenje za poseg v prostor kot osnovne podatke o namenu in zmogljivosti
+objekta ali naprave posredovati tudi strokovno oceno obremenitve okolja zaradi
+sevanja kot posledice uporabe ali obratovanja tega vira sevanja.
+Strokovno oceno iz prejšnjega odstavka izdela pravna ali
+fizična oseba, pooblaščena za izdelavo poročil o vplivih na okolje.
+17. člen
+Investitor mora pri novem ali rekonstruiranem objektu ali
+napravi, ki je vir sevanja, zagotoviti prve meritve tistih veličin
+elektromagnetnega polja kot posledice obremenitve območja zaradi sevanja iz
+vira, za katere so s to uredbo določene mejne vrednosti.
+Lastnik ali upravljavec vira sevanja mora kot obratovalni
+monitoring zagotavljati občasne meritve tistih veličin elektromagnetnega polja
+kot posledice obremenitve območja s sevanjem iz vira, za katere so s to uredbo
+določene mejne vrednosti.
+Obratovalnega monitoringa iz prejšnjega odstavka ni treba
+zagotavljati za:
+-       
+nizkofrekvenčni vir sevanja na II. območju,
+-       
+nizkofrekvenčni vir sevanja na I. območju, katerega nazivna napetost je
+manjša od 110 kV,
+-       
+visokofrekvenčni vir sevanja, katerega največja oddajna moč ne presega
+600 W, in
+-       
+visokofrekvenčni vir sevanja, katerega največja oddajna moč ne presega
+50 kW, če gre za visokofrekvenčni vir sevanja, ki obremenjuje okolje z
+impulznim elektromagnetnim poljem.
+Prve in občasne meritve iz prvega in drugega odstavka tega
+člena se izvajajo na način in v obsegu, določenima s predpisi o prvih meritvah
+in obratovalnem monitoringu za vire sevanja.
+18. člen
+Ministrstvo, pristojno za varstvo okolja, lahko na podlagi
+vloge lastnika ali upravljavca odobri za vir sevanja spremembo programa
+obratovalnega monitoringa, če ugotovi, da je lahko pogostost meritev manjša,
+ker je obremenjevanje okolja s sevanjem enako vse koledarsko leto.
+Vloga iz prejšnjega odstavka mora vsebovati poročilo o
+meritvah veličin elektromagnetnega polja in mnenje izvajalca obratovalnega
+monitoringa o upravičenosti zahtevane spremembe programa.
+Inšpektor, pristojen za varstvo okolja, lahko lastniku ali
+upravljavcu odredi za vir sevanja spremembo programa obratovalnega monitoringa,
+če ugotovi, da mora biti pogostost meritev večja, ker se obremenjevanje okolja
+s sevanjem zaradi uporabe ali obratovanja vira spreminja v obdobju med dvema
+občasnima meritvama ali ker je zaradi obratovanja vira sevanja obremenitev
+območja s sevanjem občasno čezmerna.
+19. člen
+Pri načrtovanju, gradnji ali rekonstrukciji vira sevanja mora
+investitor izbrati tehnične rešitve in upoštevati dognanja in rešitve, ki
+zagotavljajo, da mejne vrednosti niso presežene, in hkrati omogočajo najnižjo
+tehnično dosegljivo obremenitev okolja zaradi sevanja.
+Povzročitelj obremenitve okolja s sevanjem mora zagotoviti
+ograditev bližnjega polja okrog vira sevanja, če vira sevanja ni mogoče
+namestiti tako, da je onemogočen dostop na območje čezmerne obremenitve okolja
+zaradi sevanja ali če čezmerne obremenitve okolja zaradi sevanja na tem območju
+kot posledice obratovanja ali uporabe vira ni mogoče preprečiti z drugimi
+ukrepi varstva pred sevanjem.
+Povzročitelj obremenitve s sevanjem mora inšpektoratu,
+pristojnemu za varstvo okolja, prijaviti vsako nepravilno obratovanje vira
+sevanja, ki povzroči čezmerno obremenitev okolja zaradi sevanja. Zemeljski
+stiki, kratki stiki ter delovanje različnih zaščit se pri napravah in objektih
+za prenos električne energije v nizkofrekvenčnem območju ne štejejo za
+nepravilno obratovanje vira sevanja.
+20. člen
+Amaterske radijske postaje ni dopustno upravljati tako, da:
+-       
+največja oddajna moč postaje presega 1,5 kW,
+-       
+letni obratovalni čas postaje na I. območju presega 700 ur in
+-       
+je aktivni del antene radijske postaje, katere največja oddajna moč
+presega 250 W, več kot 5 m oddaljen od najbližjega bivalnega ali drugega
+prostora v zgradbah, kjer se ljudje zadržujejo.
+VI. NADZOR
+21. člen
+Nadzor nad izvajanjem te uredbe opravlja inšpektorat,
+pristojen za varstvo okolja.
+VII. KAZENSKE DOLOČBE
+22. člen
+Z denarno kaznijo najmanj 200.000 SIT se kaznuje za prekršek
+gospodarska družba ali druga pravna oseba ali posameznik, ki stori prekršek v
+zvezi s samostojnim opravljanjem dejavnosti, če ravna v nasprotju z:
+-       
+drugim odstavkom 17. člena,
+-       
+drugim in tretjim odstavkom 19. člena te uredbe.
+Z denarno kaznijo najmanj 50.000 SIT se kaznuje za prekršek
+iz prejšnjega odstavka tudi odgovorna oseba gospodarske družbe ali druge pravne
+osebe.
+Z denarno kaznijo najmanj 50.000 SIT se kaznuje upravljavec
+amaterske radijske postaje, če ravna v nasprotju z 20. členom te uredbe.
+VIII. PREHODNE IN KONČNE DOLOČBE
+23. člen
+Povzročitelji čezmerne obremenitve okolja s sevanjem morajo
+prilagoditi obstoječe vire sevanja zahtevam te uredbe v štiriindvajsetih
+mesecih po njeni uveljavitvi.
+24. člen
+Do uveljavitve predpisa o vrstah posegov v okolje, za katere
+je presoja vplivov na okolje obvezna, se izpolnjevanje pogojev za vse objekte
+in naprave iz prvega odstavka 16. člena te uredbe ugotavlja na način, določen v
+tretjem odstavku 16. člena te uredbe.
+Do določitve pooblaščenih pravnih ali fizičnih oseb iz
+četrtega odstavka 16. člena te uredbe strokovno oceno iz tretjega odstavka 16.
+člena te uredbe izdela Uprava Republike Slovenije za varstvo narave.
+25. člen
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 353-06/96-4/1-8
+Ljubljana, dne 21. novembra 1996.
+Vlada Republike Slovenije
+dr. Janez Drnovšek l. r. 
+Predsednik
+
+Priloga
+1: Izračun čezmerne obremenitve zaradi sevanja nizkofrekvenčnih virov sevanja
+Priloga
+2: Izračun čezmerne obremenitve zaradi sevanja visokofrekvenčnih virov sevanja
+Priloga
+3: Izračun časovnih povprečij pri izpostavljenosti sevanju, ki je krajša od 6
+minut
+Priloga
+4: Izračun čezmerne obremenitve zaradi sevanja visokofrekvenčnih virov sevanja
+pri izpostavljenosti impulznim elektromagnetnim poljem

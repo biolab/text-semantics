@@ -1,0 +1,236 @@
+1. člen
+(vsebina)
+Ta pravilnik določa minimalne tehnične pogoje za zaščito
+nizkonapetostnih omrežij in z njimi povezanih transformatorskih postaj pred:
+-       
+električnim udarom,
+-       
+tokovno preobremenitvijo,
+-       
+prenapetostjo.
+2. člen
+(področje uporabe)
+(1) Ta pravilnik se uporablja za nizkonapetostna omrežja
+za razdelitev električne energije z nazivno napetostjo do 1 kV in nazivno
+frekvenco 50 Hz, vključno z razdelilnimi omaricami in priključnimi
+omaricami do sponk zaščitnega elementa, ki je namenjen zaščiti električne
+inštalacije v objektu (v nadaljnjem besedilu: nizkonapetostno omrežje) ter
+pripadajoče transformatorske postaje s transformacijo srednje napetosti na
+nizko napetost (v nadaljnjem besedilu: transformatorska postaja).
+(2) Določbe tega pravilnika se uporabljajo tudi pri
+vzdrževalnih delih v javno korist na področju energetske infrastrukture v
+elektroenergetiki.
+(3) Ta pravilnik se ne uporablja za transformatorske
+postaje in nizkonapetostna omrežja:
+-       
+v podzemnih rudnikih,
+-       
+v elektrokemični industriji,
+-       
+na eksplozijsko ogroženih območjih,
+-       
+na ladjah in drugih plovilih,
+-       
+na letalih.
+(4) Ta pravilnik se ne uporablja za električne vleke na
+železnicah in za posebne namene, kot so naprave za napajanje elektrofiltrov in
+podobno.
+3. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem pravilniku, imajo
+naslednji pomen:
+-       
+obratovalna ozemljitev je ozemljitev točke ali točk v
+elektro-napajalnem sistemu;
+-       
+oprema razreda II je oprema, pri kateri zaščita pred električnim
+udarom temelji na osnovni izolaciji ter dodatnih varnostnih ukrepih, kot na
+primer dvojna ali ojačena izolacija, ki ne potrebuje zaščitne ozemljitve in ni
+odvisna od pogojev inštalacije;
+-       
+sistem TN je sistem, v katerem sta obratovalna in zaščitna ozemljitev
+združeni;
+-       
+sistem TT je sistem, v katerem obratovalna in zaščitna ozemljitev
+nista združeni;
+-       
+srednja napetost je visoka napetost z nazivno vrednostjo do
+35 kV;
+-       
+visoka napetost je izmenična napetost, ki presega 1000 V;
+-       
+zaščitna ozemljitev je ozemljitev točke ali točk v sistemu ali
+inštalaciji ali opremi, ki je namenjena električni varnosti;
+-       
+združena ozemljitev je ozemljitev, pri kateri so povezane funkcijske,
+zaščitne in obratovalne ozemljitve.
+(2) Drugi izrazi v tem pravilniku imajo enak pomen, kot
+so določeni v Energetskem zakonu (Uradni list RS, št. 17/14), Zakonu o
+graditvi objektov (Uradni list RS, št. 102/04 – UPB, 14/05, 126/07,
+108/09, 57/12, 110/13 in 19/15) in standardih, navedenih v 4. členu tega
+pravilnika.
+4. člen
+(varnostne zahteve)
+Šteje se, da so izpolnjene zahteve tega pravilnika, če je
+zaščita nizkonapetostnih omrežij in pripadajočih transformatorskih postaj
+izvedena skladno z določbami tega pravilnika in v skladu z naslednjimi
+standardi:
+-       
+SIST EN 61936-1 Elektroenergetski postroji za izmenične napetosti
+nad 1 kV – 1. del: Skupna pravila;
+-       
+SIST EN 50522 Ozemljitve elektroenergetskih postrojev, ki presegajo 1 kV
+izmenične napetosti;
+-       
+SIST HD 60364-4-41 Nizkonapetostne električne inštalacije
+-       
+4-41. del: Zaščitni ukrepi – Zaščita pred električnim udarom;
+-       
+SIST HD 60364-4-442 Nizkonapetostne električne inštalacije
+-       
+4-442. del: Zaščitni ukrepi – Zaščita nizkonapetostnih inštalacij
+pred trenutnimi prenapetostnimi zaradi zemeljskega stika v visokonapetostnem
+sistemu in zaradi napak v nizkonapetostnem sistemu.
+5. člen
+(zaščita pred neposrednim dotikom)
+(1) Vsi deli transformatorskih postaj in
+nizkonapetostnega omrežja, ki so pod napetostjo, morajo biti zaščiteni pred
+neposrednim dotikom.
+(2) Deli pod napetostjo na razdelilniku, v celici ali v
+omarici morajo biti zaščiteni pred neposrednim dotikom s prečkami, mrežami,
+vrati, pregradami ali postavljeni tako, da je preprečen nenamerni dotik.
+(3) Na vratih omaric in dostopih v zaprta električna
+obratovališča morajo biti napisi ali standardni znaki, ki opozarjajo na
+nevarnost pred električnim udarom.
+6. člen
+(zaščita pred posrednim dotikom)
+(1) V transformatorski postaji in na nizkonapetostnem
+omrežju mora biti izvedena zaščita pred posrednim dotikom prevodnih delov, ki
+niso pod napetostjo, z zaščitnim ozemljilom. Vsi prevodni deli transformatorske
+postaje in nizkonapetostnega omrežja morajo biti povezani z ozemljitvenim vodom
+na zaščitno ozemljitev.
+(2) Zaščitni ukrep pred posrednim dotikom prevodnih
+delov nizkonapetostne instalacije v transformatorski postaji se pri združeni
+ozemljitvi izvede:
+-       
+po sistemu TN s samodejnim izklopom napajanja ter zaščitno ozemljitvijo
+in izenačitvijo potencialov ali
+-       
+z uporabo opreme razreda II.
+(3) Pripadajoči zaščitni element mora pri TN
+ozemljitvenem sistemu izklopiti tok kratkega stika najpozneje v času
+5 sekund. Če to ni mogoče, je treba izvesti dodatno izenačevanje potenciala,
+tako da ni prekoračena dovoljena napetost dotika.
+(4) Pri ločeni zaščitni in obratovalni ozemljitvi ni
+dovoljena uporaba sistema TN v nizkonapetostni inštalaciji transformatorske postaje.
+(5) Učinkovitost zaščitnih ukrepov se dokazuje z
+izračuni in meritvami.
+7. člen
+(dovoljena napetost dotika)
+(1) Dovoljeno napetost dotika določa izklopni čas okvare
+(tiz) okvarjenega elementa srednje napetosti (daljnovoda,
+transformatorja ipd.) od vira napajanja.
+(2) Če izračunana ozemljitvena napetost pri zemeljskem
+stiku ne presega polovice dovoljene napetosti dotika, kontrolne meritve
+napetosti dotika na izpostavljenih prevodnih delih objektov, priključenih na
+nizkonapetostno omrežje, niso potrebne.
+(3) Če izračunana ozemljitvena napetost pri zemeljskem
+stiku presega polovico dopustne napetosti dotika, je s kontrolnimi meritvami
+treba dokazati, da napetost okvare ne presega dovoljene napetosti dotika.
+8. člen
+(meritve)
+(1) Meritve ozemljitvene upornosti ozemljitvenega
+sistema objekta, potrebne za izračun ozemljitvene napetosti pri zemeljskem
+stiku, se izvedejo z merilnikom ozemljitvene upornosti ali po UI metodi, pri
+kateri med izvajanjem meritve ne sme biti presežena dovoljena napetost dotika.
+(2) Ozemljitveno upornost obratovalne, zaščitne in
+združene ozemljitve je treba izmeriti, pregledati in izdelati oceno ustreznosti
+pred začetkom obratovanja, nato pa najmanj vsakih pet let.
+(3) Ozemljitveno upornost strelovodne zaščite
+transformatorske postaje je treba izmeriti, pregledati in izdelati oceno
+ustreznosti pred začetkom obratovanja, nato pa najmanj vsakih pet let.
+(4) Ozemljitveno upornost strelovodne zaščite
+nizkonapetostnega omrežja je treba izmeriti, pregledati in izdelati oceno
+ustreznosti pred začetkom obratovanja, nato pa vsakih deset let, pregled pa je
+treba izvesti najmanj vsakih pet let.
+9. člen
+(nadtokovna zaščita transformatorja)
+(1) Transformator mora biti zaščiten pred
+preobremenitvijo in kratkim stikom. Zaščitne naprave morajo zagotoviti izklop
+kratkega stika ali preobremenitve v času, ki ne povzroči poškodbe
+transformatorja.
+(2) Za zaščito transformatorja pred kratkim stikom in
+zemeljskim kratkim stikom se uporabljajo varovalke ali stikalna naprava z
+nadtokovno zaščito.
+(3) Zaščita mora biti izbrana tako, da se transformator
+ne izklopi pri dovoljenih preobremenitvah in kratkotrajnih tokovnih udarih
+(npr. vklop).
+(4) Transformatorji, ki obratujejo vzporedno z drugimi
+transformatorji, morajo biti izbrani tako, da ne more priti do preobremenitve
+enega transformatorja.
+10. člen
+(nadtokovna zaščita nizkonapetostnih vodov)
+(1) Nizkonapetostno omrežje mora biti zaščiteno pred
+preobremenitvijo in kratkim stikom. Zaščitne naprave morajo zagotoviti izklop
+kratkega stika ali preobremenitve v času, ki ne povzroči poškodbe na
+nizkonapetostnem omrežju. Napetost dotika mora biti v dovoljenih mejah.
+(2) Za zaščito nizkonapetostnega omrežja pred trajno
+preobremenitvijo s tokom in kratkostičnim tokom pri kratkem stiku se
+uporabljajo varovalke ali stikalna naprava z nadtokovno zaščito.
+(3) Zaščita mora biti izbrana tako, da se
+nizkonapetostni vod ne izklopi pri dovoljeni preobremenitvi s tokom ali
+kratkotrajnim tokovnim udarom.
+(4) Zaščita mora biti na vseh izvodih v transformatorski
+postaji. Če v nizkonapetostnem omrežju niso izpolnjene zahteve prvega odstavka
+tega člena, mora biti zaščita tudi v nizkonapetostnem omrežju.
+11. člen
+(zaščita pred stikalnimi in atmosferskimi prenapetostmi)
+(1) Prenapetostne odvodnike na nizkonapetostni strani
+transformatorske postaje se vgradi v neposredni bližini transformatorja, na
+srednjenapetostni strani pa takrat, kadar je transformatorska postaja
+priključena na nadzemni srednjenapetostni vod.
+(2) Prenapetostne odvodnike se vgradi na vseh koncih
+nizkonapetostnega omrežja ter v razcepnih točkah. Razdalje med točkami vgradnje
+prenapetostnih odvodnikov v nizkonapetostnih nadzemnih vodih ne smejo biti
+daljše od 500 m, na območjih z gostoto udarov več kot 5 strel/km2/leto
+pa ne daljše od 300 m.
+(3) Na vsak prehod nizkonapetostnega podzemnega voda v
+nizkonapetostni nadzemni vod in obratno se vgradijo prenapetostni odvodniki.
+(4) Nazivni udarni odvodni tok odvodnikov prenapetosti
+je treba izbrati glede na izpostavljenost nizkonapetostnega omrežja
+atmosferskim praznitvam, vendar ne manj kot 5 kA.
+12. člen
+(ozemljitve odvodnikov prenapetosti)
+(1) Prenapetostni odvodniki transformatorske postaje se
+priključijo na ozemljitveni sistem transformatorske postaje.
+(2) Prenapetostni odvodniki nizkonapetostnega omrežja
+morajo biti ozemljeni po najkrajši poti. Zahtevi za ozemljitev je zadoščeno, če
+je izvedena kot dvokrako žarkasto ozemljilo pod kotom najmanj 60° z dolžino
+krakov najmanj 10 m, ki sta zakopana v globini od 0,5 m do 0,8 m. Na ozemljitev
+mora biti priključen nevtralni vodnik nizkonapetostnega omrežja.
+(3) Ne glede na določilo prvega odstavka tega člena je
+lahko ozemljilo in ozemljitev izvedena tudi na drugačen način, pod pogojem, da
+zagotavlja enake pogoje za delovanje prenapetostnih odvodnikov. Skladnost z
+zahtevo se dokazuje z rezultati opravljenih meritev.
+13. člen
+(strelovodi)
+(1) Transformatorske postaje morajo imeti strelovodno
+zaščito izvedeno skladno s predpisi o zaščiti stavb pred delovanjem strele.
+(2) Ne glede na prejšnji odstavek tega člena strelovodna
+zaščita ni potrebna za izvedbe TP do dolžine 5 m, širine 4 m in
+višine 2,5 m v urbanih območjih z gostoto udarov strel do 5 strel/km2/leto.
+14. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega pravilnika se preneha uporabljati
+Pravilnik o tehničnih normativih za zaščito nizkonapetostnih omrežij in
+pripadajočih transformatorskih postaj (Uradni list SFRJ, št. 13/78).
+15. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 007-225/2014
+Ljubljana, dne 2. novembra 2015
+EVA 2014-2430-0081
+dr. Peter Gašperšič l.r.
+Minister
+za infrastrukturo

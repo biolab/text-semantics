@@ -1,0 +1,816 @@
+1. SPLOŠNO
+1.1 Pomen izrazov
+Posamezni izrazi, uporabljeni v tem splošnem aktu, pomenijo:
+-       
+bencinska kartica je plačilna kartica, namenjena predvsem plačevanju
+storitev v tovornem prometu, ki jo izdajajo naftne družbe ali specializirani
+izdajatelji kartic;
+-       
+potrdilo o finančni transakciji je potrdilo o vplačilu dobroimetja z
+bencinsko kartico;
+-       
+račun stranke je uporabniški račun stranke, ki uporablja elektronski
+sistem cestninjenja v prostem prometnem toku (v nadaljnjem besedilu: sistem
+DarsGo); na račun stranke so vezani računi vozil;
+-       
+račun vozila je račun, ki se odpre za vsako vozilo, ki je registrirano v
+sistemu DarsGo;
+-       
+stop lista je lista OBU naprav (v nadaljnjem besedilu: naprava DarsGo),
+ki so uvrščene na seznam naprav DarsGo, s katerimi ni mogoče izvajati postopkov
+cestninjenja;
+-       
+stranka je pravna ali fizična oseba, ki uporablja sistem DarsGo.
+Izrazi, uporabljeni v tem splošnem aktu, katerih pomen ni
+določen v prejšnjem odstavku, imajo enak pomen kakor v zakonih, ki urejajo
+cestninjenje, ceste, motorna vozila in pravila cestnega prometa.
+1.2 Kratek opis sistema DarsGo
+Plačevanje cestnine glede na prevoženo razdaljo se izvaja z
+elektronskim sistemom cestninjenja v prostem prometnem toku.
+Celotno omrežje avtocest in hitrih cest (v nadaljnjem
+besedilu: cestninska cesta), za katere je treba plačevati cestnino, je
+razdeljeno na posamezne cestninske odseke, pri čemer se cestnina za vsak
+posamezni odsek plačuje ločeno. Pogoj za pravilno plačevanje cestnine je, da je
+v vozilu vedno pravilno nameščena delujoča naprava DarsGo, prilagojena za
+konkretno vozilo (s konkretno registrsko številko, ki je zapisana na napravi
+DarsGo) in s pravilno nastavljenim številom osi vozila oziroma skupine vozil za
+posamezno vožnjo.
+Med posameznimi priključki na cestninsko cesto so na
+določenih mestih nameščene naprave za izvajanje cestninjenja, ki predstavljajo
+točke cestninjenja, na katerih se obračuna cestnina za prevoženi odsek
+cestninske ceste.
+Pri vožnji skozi točko cestninjenja steče mikrovalovna
+komunikacija med napravo DarsGo in napravami za izvajanje cestninjenja, ki
+zagotavlja podatke za obračun cestnine za uporabo cestninskih cest.
+2. OBVEZNOST PLAČILA CESTNINE
+Za plačevanje cestnine stranka pridobi napravo DarsGo in jo
+namesti v vozilo pred vstopom na cestninsko cesto. Izjemoma je pridobitev
+naprave DarsGo dovoljena po vstopu na cestninsko cesto, kadar vozilo vstopa v
+Republiko Slovenijo iz druge države neposredno po cestninski cesti. V tem
+primeru stranka pridobi napravo DarsGo na prvi cestninski uporabniški točki v
+smeri vožnje (v nadaljnjem besedilu: DarsGo servis) po vstopu v Republiko
+Slovenijo.
+Vse cestninske ceste, za katere je obvezno plačevanje
+cestnine v sistemu DarsGo, so označene s prometno signalizacijo v skladu s
+pravilnikom, ki ureja prometno signalizacijo in prometno opremo na cestah.
+Elektronsko cestninjenje motornih vozil, katerih največja
+dovoljena masa presega 3.500 kg, se v sistemu DarsGo izvaja na vseh prometnih
+pasovih, po katerih je s prometno signalizacijo dovoljena njihova vožnja.
+2.1 Oprostitve plačila cestnine
+Cestnina se ne plača za prevoze, določene v zakonu, ki ureja
+cestninjenje. Vozila, s katerimi se izvajajo prevozi, za katere se ne plača
+cestnina, ne potrebujejo naprav DarsGo. Pri tem:
+-       
+morajo biti tuja vojaška vozila iz tretje alineje prvega odstavka 9.
+člena Zakona o cestninjenju (Uradni list RS, št. 24/15 in 41/17; v
+nadaljnjem besedilu: ZCestn) napovedana z izpolnitvijo obrazca »Najava prevoza
+tujih vojaških sil«, kot je določeno v Prilogi 1, ki je sestavni del tega
+splošnega akta. Izpolnjeni obrazec se posreduje Operativnemu centru
+cestninskega nadzora na elektronski naslov occn@dars.si vsaj 24 ur pred vstopom
+tujih vojaških vozil na omrežje cestninskih cest;
+-       
+morajo biti vozila za izvajanje prevozov za opravljanje nalog
+humanitarne pomoči prizadetim v miru ali vojni iz četrte alineje prvega
+odstavka 9. člena ZCestn napovedana z izpolnitvijo vloge, kot je določeno v
+Prilogi 2, ki je sestavni del tega splošnega akta. Vloga se izpolni na spletnem
+portalu upravljavca cestninskih cest, ali se posreduje na elektronski naslov
+occn@dars.si, ali na telefaks: +386 5 700 25 08. V sistemu DarsGo ta vozila ne
+potrebujejo naprav DarsGo, kadar so oproščena plačila cestnine in so pravilno
+napovedana.
+2.2 Plačevanje cestnine pri vleki pokvarjenih motornih
+vozil
+Pri vleki pokvarjenega ali poškodovanega vozila nad 3.500 kg
+največje dovoljene mase po cestninski cesti morata biti vlečno in vlečeno
+vozilo opremljeni z delujočo napravo DarsGo.
+Če je pokvarjeno vozilo naloženo na drugo vozilo, se naloženo
+vozilo obravnava kot tovor. Takrat stranka sama poskrbi za odstranitev naprave
+DarsGo z naloženega vozila ali onemogočanje izmenjave podatkov med napravo
+DarsGo in napravami za izvajanje cestninjenja, sicer ni upravičena do vračila
+preveč plačane cestnine. To se izvede tako, da se napravo DarsGo vsaj trikrat
+ovije z aluminijasto folijo.
+3. UPORABA SISTEMA CESTNINJENJA DarsGo
+Vsa vozila nad 3.500 kg največje dovoljene mase, razen vozil,
+ki so v skladu z zakonom, ki ureja cestninjenje, oproščena plačila cestnine,
+morajo biti za vožnjo po cestninskih cestah opremljena z delujočo napravo
+DarsGo. Naprava DarsGo in pravila njene uporabe so opisani v točki 4 tega
+splošnega akta.
+Pred uporabo sistema DarsGo stranke:
+-       
+uredijo prijavo v sistem DarsGo (registracija stranke, računa stranke in
+računa vozila);
+-       
+pridobijo napravo DarsGo, tako kot je določeno v točki 5.2 tega
+splošnega akta;
+-       
+izberejo način plačila, ki ga zagotavlja upravljavec cestninskih cest;
+-       
+pravilno namestijo napravo DarsGo v vozilo, za katero je bila naprava
+DarsGo izdana;
+-       
+preverijo delovanje naprave DarsGo in pravilnost nastavitve števila osi
+vozila.
+3.1 Registracija za uporabo sistema DarsGo
+Registracijo za uporabo sistema DarsGo je mogoče urediti na:
+-       
+DarsGo servisu,
+-       
+spletnem portalu www.darsgo.si.
+3.1.1 DarsGo servis
+Na DarsGo servisu so cestninskemu zavezancu omogočeni:
+-       
+vključitev v sistem DarsGo z registracijo stranke in vozila;
+-       
+pridobitev in vračilo naprave DarsGo;
+-       
+vplačilo dobroimetja z gotovino, kreditno, debetno ali bencinsko kartico
+in povezavo računa vozila z izbrano bencinsko kartico za poplačniški način
+plačevanja cestnine;
+-       
+plačevanje cestnine za nazaj in plačevanje cestnine vnaprej;
+-       
+pridobitev informacij v zvezi s sistemom DarsGo.
+Lokacije DarsGo servisov so objavljene na spletnem portalu
+www.darsgo.si. DarsGo servisi so na vseh lokacijah označeni z enotno oznako, ki
+je prikazana na sliki 1.
+Slika 1: Certifikat
+DarsGo servisa
+3.1.2 Postopek registracije stranke in vozila na
+DarsGo servisu
+Registracijo stranke in vozila na DarsGo servisu lahko opravi
+zakoniti zastopnik pravnega subjekta ali druga oseba (običajno voznik), za kar
+ne potrebuje pooblastila pravnega subjekta.
+3.1.2.1 Registracije stranke
+Stranka uslužbencu na DarsGo servisu sporoči naslednje
+podatke:
+-       
+za pravni subjekt: ime, poštni naslov, davčna številka, opcijsko
+kontaktne podatke;
+-       
+za fizične osebe: ime, priimek, naslov.
+3.1.2.2 Registracija vozila
+Stranka uslužbencu na DarsGo servisu sporoči naslednje
+podatke o vozilu:
+-       
+registrsko številko vozila,
+-       
+število osi vlečnega vozila,
+-       
+emisijski razred vozila EURO.
+V postopku registracije vozila stranka predloži prometno
+dovoljenje ali enakovreden dokument, ki ga je v državi registracije motornega
+vozila izdal organ, pooblaščen za izdajanje tovrstnih dokumentov. Če iz
+prometnega dovoljenja niso razvidni podatki o emisijskem razredu vozila EURO,
+stranka predloži naslednja dokazila, iz katerih so ti podatki razvidni:
+-       
+dokument, ki potrjuje skladnost proizvodnje, ki ga je v državi registracije
+motornega vozila izdal organ, pooblaščen za izdajo tovrstnih dokumentov;
+-       
+dokazilo o skladnosti s tehničnimi in varnostnimi zahtevami za motorno
+vozilo, ki ga je v državi registracije motornega vozila izdal organ, pooblaščen
+za izdajanje tovrstnih dokazil;
+-       
+certifikat ES o skladnosti (v nadaljnjem besedilu: COC) v skladu s
+Prilogo IX k Direktivi Evropskega parlamenta in Sveta 2007/46/ES z dne
+5. septembra 2007 o vzpostavitvi okvira za odobritev motornih in
+priklopnih vozil ter sistemov, sestavnih delov in samostojnih tehničnih enot,
+namenjenih za taka vozila (UL L št. 263 z dne 9. 10. 2007, str. 110);
+-       
+potrdilo proizvajalca vozila, če dodeljenega emisijskega razreda vozila
+EURO ni mogoče dokazati z dokumenti in dokazili iz tega odstavka, pri čemer to
+potrdilo izda proizvajalec vozila ali oseba, ki jo je pooblastil proizvajalec
+vozila.
+Za vozila, ki so registrirana v Republiki Sloveniji, dokazil
+o emisijskem razredu vozila EURO ni treba predložiti, ker jih Družba za
+avtoceste v Republiki Sloveniji, d. d., (v nadaljnjem besedilu: DARS, d. d.)
+pridobi z vpogledom v evidenco registriranih vozil.
+3.1.2.3 Določitev števila osi vlečnega vozila
+Uslužbenec na DarsGo servisu s pomočjo stranke in dokazil iz
+prejšnje točke določi in v sistem DarsGo vnese dejansko število osi vlečnega
+vozila.
+3.1.2.4 Določitev emisijskega razreda vozila EURO
+Vsako vozilo, ki je registrirano v sistemu DarsGo, mora imeti
+določen emisijski razred vozila EURO. Ustrezen emisijski razred vozila EURO se
+določi v postopku registracije vozila in se shrani v sistemu DarsGo. Uslužbenec
+na DarsGo servisu iz dokumentov iz drugega odstavka točke 3.1.2.2 tega
+splošnega akta razbere ustrezen emisijski razred vozila EURO, ga vnese v sistem
+DarsGo in skenira dokazilo.
+Vozila, za katera ni na voljo podatkov o emisijskem razredu
+vozila EURO ali pa ni predloženo ustrezno dokazilo, se razvrstijo v emisijski
+razred vozila EURO 0.
+Za spreminjanje emisijskega razreda vozila EURO po
+registraciji vozila v sistemu DarsGo stranka zahteva spremembo in pošlje
+dokazila iz točke 3.1.2.2 tega splošnega akta:
+-       
+po elektronski pošti na naslov ccs@darsgo.si ali
+-       
+po pošti na naslov DARS d. d., Center cestninskega sistema, Dunajska 7,
+1000 Ljubljana.
+Center cestninskega sistema (v nadaljnjem besedilu: CCS)
+potrdi ustreznost poslanih dokazil najpozneje v 30 dneh od prejema. Naprava
+DarsGo stranko pri vožnji skozi točko cestninjenja z zvočnim signalom (štirje
+zvočni signali) opozori, naj se z napravo DarsGo oglasi na prvem DarsGo servisu
+za dokončno ureditev spremenjenega emisijskega razreda vozila EURO. Po ureditvi
+spremembe emisijskega razreda vozila EURO na DarsGo servisu se začne
+obračunavati ustrezna višina cestnine v skladu s cenikom cestnine.
+Če se pri preverjanju dokumentov ugotovi, da predložena
+dokazila o emisijskem razredu vozila EURO niso ustrezna, se stranko obvesti in
+račun vozila uvrsti na stop listo. Naprava DarsGo na točki cestninjenja opozori
+voznika z zvočnim signalom (štirje zvočni signali), da je uvrščena na stop
+listo. Če je naprava DarsGo uvrščena na stop listo, je stranka obravnavana kot
+kršitelja pravil o cestninjenju in je v prekrškovnem postopku cestninskega
+nadzora. V tem primeru se račun stranke za vse že opravljene vožnje obremeni za
+znesek cestnine, kot da bi imelo emisijski razred vozila EURO, ki je razviden
+iz dokumentov. Če iz dokumentov emisijski razred vozila EURO ni razviden, se do
+določitve ustreznega emisijskega razreda vozila EURO račun stranke obremeni za
+znesek cestnine, kot da bi vozilo imelo emisijski razred vozila EURO 0.
+Če je prvotno dodeljeni emisijski razred vozila EURO nižji od
+dejanskega, se preplačilo cestnine za obdobje registriranega nižjega
+emisijskega razreda vozila EURO ne vrača.
+V vsakem primeru spreminjanja emisijskega razreda vozila EURO
+je treba obiskati DarsGo servis in predložiti napravo DarsGo, da se nanjo
+zapiše emisijski razred vozila EURO.
+3.1.3 Postopek registracije stranke in vozila na
+spletnem portalu www.darsgo.si
+Postopek registracije stranke in vozila je enak kot pri
+registraciji na DarsGo servisu, pri čemer stranka sama zagotovi naslednje
+podatke in jih vpiše na spletni portal www.darsgo.si:
+-       
+pravni subjekt: ime, naslov, davčna številka;
+-       
+fizična oseba: ime, priimek, naslov;
+-       
+vozilo: registrska številka vozila, število osi vlečnega vozila,
+emisijski razred vozila EURO.
+V postopku registracije vozila na spletnem portalu
+www.darsgo.si lahko stranka skenirano ali fotografirano prometno dovoljenje in
+dokazilo o emisijskem razredu vozila EURO naloži v sistem DarsGo. Za vozila,
+registrirana v Republiki Sloveniji, je dovolj, da stranka naloži samo skenirano
+ali fotografirano prometno dovoljenje.
+Ko se stranka registrira na spletnem portalu www.darsgo.si in
+registrira vsa vozila, za katera želi pridobiti naprave DarsGo, lahko natisne
+potrdilo, s katerim na katerem koli DarsGo servisu po plačilu stroška izdaje
+naprave DarsGo v višini, ki je določena v ceniku cestnine, prevzame napravo
+DarsGo.
+Če želi stranka prevzeti naprave DarsGo na katerem od DarsGo
+servisov in dokumentov ni naložila že ob registraciji na spletnem portalu,
+dokumente predloži na DarsGo servisu.
+Če želi stranka s sedežem v Evropski uniji naprave DarsGo
+prejeti po pošti, skenirane dokumente naloži na spletnem portalu www.darsgo.si
+in plača strošek izdaje naprave DarsGo s kreditno ali debetno kartico. Strankam
+s sedežem zunaj Evropske unije je mogoče naprave DarsGo poslati po pošti, če
+jih želijo prejeti na naslov v Evropski uniji.
+3.1.3.1 Preverjanje dokazila o emisijskem razredu vozila
+EURO
+Pravilnost določitve emisijskega razreda vozila EURO se
+preverja v CCS. Če je na podlagi dokumentov, ki jih je posredovala stranka,
+mogoče potrditi določen emisijski razred vozila EURO, je preverjanje dokazil
+končano in določeni emisijski razred vozila EURO se dokončno potrdi v sistemu
+DarsGo.
+Če so predloženi dokumenti, ki jih je posredovala stranka,
+napačni, neberljivi ali nepopolni, DARS, d. d., zahteva dopolnitev manjkajoče
+oziroma nepopolne dokumentacije.
+3.2 Pridobitev naprave DarsGo
+Po končani registraciji stranke in vozila lahko stranka
+pridobi napravo DarsGo na DarsGo servisu ali po pošti, če je bila registracija
+vozila opravljena na spletnem portalu www.darsgo.si.
+Po prijavi v sistem DarsGo in pred prevzemom oziroma ob
+prevzemu vsake naprave DarsGo stranka plača strošek izdaje naprave DarsGo, ki
+je določen v ceniku cestnine.
+Naprava DarsGo se izda samo za vozilo, ki je pravilno
+registrirano za uporabo sistema DarsGo in so zanjo plačani stroški izdaje.
+Naprava DarsGo ni prenosljiva med vozili in mora biti nameščena v vozilu, za
+katero je bila izdana.
+Po izvedeni registraciji stranke in vozila ter izdaji naprave
+DarsGo stranka prejme pristopno izjavo, na kateri preveri in s podpisom potrdi,
+da:
+-       
+so vsi navedeni podatki o stranki pravilni;
+-       
+se registrska številka vozila ujema z registrsko številko vozila,
+zapisano na pristopni izjavi, in s tem na napravi DarsGo;
+-       
+se dejansko število osi vlečnega vozila ujema s številom osi na
+pristopni izjavi;
+-       
+se dodeljeni emisijski razred vozila EURO na izjavi ujema z dejanskim
+emisijskim razredom vozila EURO, ki ga je prijavila stranka in je razviden iz
+dokazil.
+Če stranka ob prevzemu naprave DarsGo in predaji pristopne
+izjave ali kadar koli pozneje ugotovi, da ima njeno vozilo dodeljen nepravilen
+emisijski razred vozila EURO, napačno registrsko številko vozila, napačno
+število osi vlečnega vozila ali da je nastala kakršna koli napaka pri podatkih
+o stranki, mora nemudoma zahtevati dodelitev pravih podatkov:
+1.     
+na DarsGo servisu, če je bila napaka ugotovljena ob prevzemu;
+2.     
+v CCS ob pozneje odkriti napaki ali po prevzemu naprave DarsGo po pošti:
+- 
+po elektronski pošti: ccs@darsgo.si,
+- 
+po navadni pošti: DARS, d. d., Center cestninskega sistema, Dunajska 7,
+1000 Ljubljana,
+- 
+po telefaksu: + 386 1 518 8 320,
+- 
+po telefonu: + 386 1 518 8 454.
+3.2.1 Kraja, izguba, najdba in uvrstitev naprave
+DarsGo na stop listo
+Stranka obvesti klicni center cestnine DARS, d. d., o kraji
+ali izgubi naprave DarsGo na telefonsko številko
++386 1 518 8 350 ali elektronski naslov info@darsgo.si. Pri
+tem navede registrsko številko in enotno številko računa vozila pri posamezni
+stranki (v nadaljnjem besedilu: ŠOR). Ob prijavi kraje ali izgube naprave
+DarsGo se ta uvrsti na stop listo. S tako napravo DarsGo ni več mogoče
+plačevati cestnine.
+Na zahtevo stranke se lahko za vozilo, za katero je bila
+stranki naprava DarsGo že izdana, izda nova naprava DarsGo, za katero se plača
+strošek izdaje druge naprave DarsGo. V tem primeru se prva izdana naprava
+uvrsti na stop listo.
+Če se ukradena ali izgubljena naprava DarsGo najde, jo je
+mogoče spet aktivirati, če za isto vozilo še ni bila izdana nova naprava
+DarsGo. Ponovno aktiviranje se ureja v CCS ob navedbi identifikacijske številke
+naprave DarsGo in ŠOR. Če se ukradena ali izgubljena naprava DarsGo najde po
+izdaji nove naprave DarsGo, je treba najdeno (staro) napravo DarsGo vrniti po
+pošti na naslov DARS, d. d., Center cestninskega sistema, Dunajska 7, 1000
+Ljubljana ali osebno na DarsGo servisu.
+3.3 Način plačila cestnine
+Pred začetkom uporabe sistema DarsGo je treba
+zagotovitiustrezno finančno kritje za plačilo cestnine. Cestnino je mogoče
+plačevati z dobroimetjem na računu vozila (v nadaljnjem besedilu: predplačniški
+način plačevanja cestnine) ali s poznejšim plačilom na podlagi računa (v
+nadaljnjem besedilu: poplačniški način plačevanja cestnine).
+3.3.1 Predplačniški način plačevanja cestnine
+Pred začetkom uporabe naprave DarsGo je treba na račun vozila
+vplačati dobroimetje.
+Dobroimetje je mogoče vplačati:
+1.     
+na DarsGo servisu (gotovina, kreditna, debetna ali bencinska kartica)
+ali
+2.     
+na spletnem portalu www.darsgo.si:
+- 
+z izdelavo ponudbe in nakazilom denarja na transakcijski račun družbe
+DARS, d. d., ki je naveden na ponudbi, ali
+- 
+s plačilom s kreditno ali debetno kartico.
+Seznam kreditnih, debetnih in bencinskih kartic, s katerimi
+je mogoč predplačniški način plačevanja cestnine, je objavljen na spletnem
+portalu www.darsgo.si.
+Pri uporabi cestninskih cest se stanje na računu vozila zniža
+za cestnino, ki jo je treba plačati za vsak prevoženi cestninski odsek. Ko se
+stanje dobroimetja na računu vozila zniža pod določeno mejo, ki jo lahko vsaka
+stranka določi tudi sama na spletnem portalu www.darsgo.si (vendar ne nižje od
+25,00 eura), naprava DarsGo pri vožnji skozi točko cestninjenja z zvočnim
+signalom (dva zvočna signala) voznika opozori, da je stanje na računu vozila še
+pozitivno, vendar se približuje 0,00 eura in je za nadaljevanje vožnje po
+cestninski cesti treba vplačati novo dobroimetje.
+Če dobroimetja na računu vozila ni ali če višina dobroimetja
+na računu vozila ne zadostuje za plačilo cestnine za prevoženi cestninski
+odsek, se ob vožnji skozi točko cestninjenja plačilo cestnine ne izvede ali se
+izvede le delno plačilo. Naprava DarsGo z zvočnim signalom (štirje zvočni
+signali) voznika opozori, da plačilo cestnine ni bilo izvedeno ali ni bilo
+izvedeno v celoti. Voznik mora obiskati prvi DarsGo servis v smeri vožnje in
+plačati neplačano cestnino ter vplačati potrebno dobroimetje za nadaljevanje
+vožnje po cestninski cesti.
+Če stranka vplača dobroimetje z bencinsko kartico na DarsGo
+servisu, prejme potrdilo o finančni transakciji, račun pa dobi od izbranega
+izdajatelja bencinske kartice pod pogoji in v rokih, ki jih določa izdajatelj
+bencinske kartice. Ob vplačilu dobroimetja z gotovino, kreditno ali debetno
+kartico stranka prejme račun na DarsGo servisu.
+3.3.1.1 Veljavnost dobroimetja
+Dobroimetje na računu vozila je veljavno dve leti od zadnjega
+vplačila oziroma dve leti od zadnje uporabe posamezne naprave DarsGo.
+Dobroimetja, ki mu je potekla veljavnost, ni mogoče ponovno aktivirati in tudi
+ne zahtevati vračila.
+3.3.2 Poplačniški način plačevanja cestnine
+V poplačniškem načinu plačevanja cestnine je mogoče cestnino
+plačevati:
+-       
+v povezavi računa vozila z bencinsko kartico ali
+-       
+s sklenitvijo pogodbe o odloženem načinu plačila cestnine z družbo DARS,
+d. d.
+3.3.2.1 Poplačniški način plačevanja cestnine v povezavi z
+bencinsko kartico
+Stranka lahko na DarsGo servisu bencinsko kartico poveže z
+računom vozila ob prvi registraciji vozila v sistem DarsGo ali kadar koli
+pozneje spremeni predplačniški račun vozila v poplačniški ali zamenja bencinsko
+kartico za poplačniški način plačevanja cestnine z drugo bencinsko kartico.
+Pred povezavo naprave DarsGo in bencinske kartice v
+poplačniški način plačevanja cestnine uslužbenec na DarsGo servisu preveri
+veljavnost bencinske kartice. Prav tako preveri, ali je na računu strankinega
+vozila negativno stanje, ki ga mora stranka poravnati pred prehodom na
+poplačniški način plačevanja.
+Če je povezava dovoljena, se tudi izvede. Za obračunano
+cestnino stranka prejme račun od izdajatelja bencinske kartice v skladu s
+pogoji poslovanja izdajatelja kartice.
+Če je bencinska kartica stranke uvrščena na stop listo
+izdajatelja bencinske kartice, se naprava DarsGo, s katero je povezana
+bencinska kartica, uvrsti na stop listo sistema DarsGo. Naprava DarsGo pri
+vožnji skozi točko cestninjenja voznika opozori z zvočnim signalom (štirje
+zvočni signali). V tem primeru se stranka ustavi na prvem DarsGo servisu in
+vplača dobroimetje na račun vozila ali ga poveže z drugo bencinsko kartico.
+Seznam bencinskih kartic, s katerimi je mogoče povezati račun
+vozila, je objavljen na spletnem portalu www.darsgo.si, informacije o tem pa je
+mogoče dobiti tudi v klicnem centru na telefonski številki + 386 1 518 8 350 in
+na DarsGo servisih.
+3.3.2.2 Poplačniški način plačila cestnine s sklenitvijo
+pogodbe o odloženem plačevanju cestnine z družbo DARS, d. d.
+Ob sklenitvi pogodbe o odloženem načinu plačevanja cestnine
+se celoten postopek ureja v CCS.
+V tem primeru se za poravnavanje obveznosti stranke za
+mesečno porabo cestnine in drugih storitev (na primer: stroška izdaje naprave
+DarsGo) sklene pogodba o odloženem načinu plačevanja cestnine med stranko in
+družbo DARS, d. d. Stranke, ki morajo družbi DARS, d. d., po podpisu pogodbe o
+odloženem načinu plačevanja cestnine dostaviti bančno garancijo, morajo
+zagotoviti, da ima bančna garancija rok veljavnosti enak veljavnosti pogodbe in
+še 90 dni po prenehanju pogodbe. Po preteku začetnih dveh let lahko družba
+DARS, d. d., pogodbo s stranko podaljša brez bančne garancije, če je izkazana
+ustrezna plačilna disciplina stranke in če ima nadpovprečno bonitetno oceno. V
+nasprotnem primeru se bančna garancija še vedno zahteva. Družba DARS, d. d.,
+stranki po tako sklenjeni pogodbi mesečno zaračunava cestnino za preteklo
+obračunsko obdobje.
+Če stranka računa ne poravna v roku, se vse naprave DarsGo,
+ki so vezane na pogodbo, uvrstijo na stop listo. Voznik je pri vožnji skozi
+točke cestninjenja z zvočnim signalom (štirje zvočni signali) opozorjen, da je
+posamezna naprava DarsGo uvrščena na stop listo. Voznik mora na prvem DarsGo
+servisu v smeri vožnje vplačati dobroimetje z gotovino, bencinskimi, kreditnimi
+ali debetnimi karticami. Take naprave DarsGo na DarsGo servisu ne bo mogoče
+povezati z bencinsko kartico za poplačniški način plačevanja cestnine. Po
+poravnavi dolgovanih obveznosti za preteklo obdobje se vse naprave DarsGo, ki
+so bile v poplačniškem načinu plačevanja cestnine na podlagi pogodbe o
+odloženem načinu plačevanja cestnine, lahko ponovno aktivira v poplačniškem
+načinu plačevanja cestnine. Ponovno aktiviranje mora stranka zahtevati s pisno
+zahtevo, ki jo pošlje po navadni pošti na naslov DARS, d. d., Center
+cestninskega sistema, Dunajska 7, 1000 Ljubljana ali po elektronski pošti
+na naslov ccs@darsgo.si.
+3.4 Plačilo cestnine za nazaj in plačilo cestnine
+vnaprej
+Cestninski zavezanec, ki vstopi v Republiko Slovenijo
+neposredno na cestninsko cesto z vozilom, ki še ni opremljeno z napravo DarsGo,
+lahko za pridobitev le-te pelje do prvega DarsGo servisa. Cestninski zavezanec
+na prvem mogočem DarsGo servisu registrira stranko in vozilo, pridobi napravo
+DarsGo, plača cestnino za nazaj in zagotovi finančno kritje za nadaljnje
+plačevanje cestnine.
+Plačilo cestnine za nazaj je potrebno, tudi če stranka
+ugotovi, da:
+-       
+je cestninsko cesto uporabljala s prenizko nastavljenim številom osi na
+napravi DarsGo ali
+-       
+ji je med vožnjo naprava DarsGo prenehala delovati.
+Stranko, ki ni registrirana v sistemu DarsGo, nima naprave
+DarsGo in jo ustavijo pri cestninskem nadzoru, cestninski nadzornik registrira
+v sistem DarsGo in napoti na DarsGo servis, kjer pridobi napravo DarsGo. Pri
+tem plača tudi cestnino za nazaj. Če stranka ne pridobi naprave DarsGo in jo
+cestninski nadzor spet ustavi, plača cestnino za nazaj pri cestninskem
+nadzorniku.
+Stranka, ki namerava prenehati uporabljati cestninsko cesto,
+lahko vrne napravo DarsGo, preden zapusti cestninsko cesto tako, da pelje do
+zadnjega DarsGo servisa na cestninski cesti pred izvozom, na katerem namerava
+zapustiti cestninsko cesto, ter vnaprej plača cestnino za prevoženo razdaljo od
+DarsGo servisa do izstopa s cestninske ceste, ki ga navede ob vračilu naprave
+DarsGo. Če stranka ne zapusti cestninske ceste na izvozu, ki ga je navedla ob
+vračilu naprave DarsGo, in jo ustavijo pri cestninskem nadzoru, ji cestninski
+nadzornik zaračuna cestnino za neplačano prevoženo razdaljo.
+3.5 Spreminjanje podatkov o stranki in vozilu
+Ob registraciji stranke se v sistemu DarsGo shranijo podatki,
+ki so bili zahtevani v postopku registracije, kot je določeno v točkah 3.1.2 in
+3.1.3 tega splošnega akta.
+Stranka družbo DARS, d. d., obvesti o vsakršni spremembi
+shranjenih podatkov o stranki oziroma vozilu, takoj ko sprememba nastane ali
+najpozneje pred naslednjo uporabo cestninske ceste. O spremembi podatkov o
+stranki (ime, naslov, davčna številka) in vozilu (registrska številka vozila,
+število osi vlečnega vozila in emisijski razred vozila EURO), stranka obvesti
+DARS, d. d., in predloži ustrezna dokazila:
+-       
+po elektronski pošti na naslov ccs@darsgo.si,
+-       
+po telefaksu na številko + 386 1 518 8 320,
+-       
+po telefonu na številko + 386 1 518 8 454,
+-       
+po pošti na naslov DARS d. d., Center cestninskega sistema, Dunajska 7,
+1000 Ljubljana.
+Če se spremenijo podatki o vozilu, mora stranka, preden z
+vozilom s spremenjenimi podatki zapelje v omrežje cestninskih cest v Republiki
+Sloveniji, obiskati DarsGo servis in omogočiti vpis spremenjenih podatkov v
+napravo DarsGo. Pri tem podpiše in prejme novo pristopno izjavo, prejšnja pa s
+tem samodejno preneha veljati.
+Če vozilo zamenja registrsko številko vozila, stranka pridobi
+novo napravo DarsGo, staro pa vrne. Z zamenjavo registrske številke vozila
+stranka vnovič registrira vozilo v sistem DarsGo in plača strošek izdaje
+naprave DarsGo, ki je določen v ceniku cestnine.
+Če stranka ne poskrbi za pravočasno in pravilno spremembo
+podatkov o vozilu iz tretjega odstavka te točke, lahko to povzroči nepravilno
+plačevanje cestnine.
+DARS, d. d., lahko tudi sam popravi oziroma dopolni podatke,
+shranjene v sistemu DarsGo, če neskladnosti odkrije med postopki verifikacije
+ali nadzora cestninjenja. To velja zlasti, če voznik ali lastnik vozila ne
+izpolnjuje obveznosti takojšnjega sporočanja sprememb podatkov, ki so shranjeni
+v sistemu DarsGo. Če gre za spremembo podatkov o vozilu, bo stranka pri vožnji
+skozi točko cestninjenja z zvočnim signalom (štirje zvočni signali) obveščena,
+da se mora oglasiti na DarsGo servisu, kjer bodo popravljene podatke zapisali
+na napravo DarsGo.
+3.6 Določila ob spremembi lastnika ali uporabnika
+vozila
+3.6.1 Prodaja in oddaja vozil v najem
+3.6.1.1 Prodaja vozila
+Če lastnik proda svoje vozilo, za katero je bila izdana
+naprava DarsGo, to vrne na način, določen v točki 3.9 tega splošnega akta. Če
+tega ne stori in proda vozilo skupaj z napravo DarsGo, prodajalec odgovarja za
+obračun in plačilo morebitnih prihodnjih voženj vozila skozi točke cestninjenja
+(v nadaljnjem besedilu: cestninska transakcija) tega vozila s to napravo
+DarsGo.
+Kupec vozila pred prvo uporabo cestninske ceste izvede novo
+registracijo stranke in vozila za uporabo sistema DarsGo in pridobi novo
+napravo DarsGo.
+3.6.1.2 Oddaja vozila v najem brez naprave DarsGo
+Najemnik vozila se registrira za uporabo sistema DarsGo in
+pridobi napravo DarsGo. Ob koncu najemnega razmerja najemnik vrne napravo
+DarsGo na način, ki je določen v točki 3.9 tega splošnega akta.
+3.6.1.3 Oddaja vozila v najem skupaj s pripadajočo napravo
+DarsGo
+Oddaja vozila skupaj z napravo DarsGo je mogoča, pri čemer
+najemodajalec odgovarja za morebitno neplačano cestnino s tem vozilom in to
+napravo DarsGo.
+3.7 Preizkusne registrske tablice
+Vozila s preizkusnimi registrskimi tablicami se za vožnjo po
+cestninskih cestah registrirajo v sistemu DarsGo in pridobijo napravo DarsGo.
+Pri registracij vozila iz prejšnjega odstavka v sistem DarsGo
+se predložijo naslednji dokumenti:
+-       
+dovoljenje za preizkusno vožnjo, v katerem je vpisana identifikacijska
+številka vozila (številka VIN), in čas njegove veljavnosti;
+-       
+potrdilo o skladnosti vozila ali certifikat ES o skladnosti (COC).
+Ko to vozilo pridobi registrsko tablico, se stranka z napravo
+DarsGo oglasi na DarsGo servisu, kjer se na napravo DarsGo zapiše pravilna
+registrska številka vozila.
+Pri trajnih preskusnih tablicah se v sistemu DarsGo za tako
+tablico zapiše emisijski razred vozila EURO 0.
+3.8 Prenos registrskih tablic na drugo vozilo
+Pri prenosu registrske tablice z enega vozila na drugo za
+vozila iz držav, kjer je to dovoljeno, oziroma pri prenosu registrskih tablic z
+izbrano oznako je ob vsakokratnem prenosu take tablice na drugo vozilo treba
+urediti spremembo registracije vozila za uporabo sistema DarsGo z obvestilom
+družbe DARS, d. d., na elektronski naslov ccs@darsgo.si ali tel. št. + 386 1
+518 8 454.
+3.8.1 Menjalne registrske tablice (velja za vozila,
+registrirana v državah, kjer je to omogočeno)
+Vozila, ki jim je bila dodeljena menjalna registrska tablica,
+se uvrstijo v emisijski razred vozila EURO tistega vozila, ki se razvršča v
+najnižji emisijski razred vozila EURO. V sistem DarsGo se vpiše število osi
+vlečnega vozila z najmanjšim številom osi.
+3.9 Vračilo naprave DarsGo in vračilo preostalega
+dobroimetja
+Vračilo naprave DarsGo ali vračilo neporabljenega dobroimetja
+na zahtevo stranke se šteje za odjavo iz sistema DarsGo.
+Naprava DarsGo se lahko vrne na DarsGo servisu ali po pošti
+na naslov DARS, d. d., Center cestninskega sistema, Dunajska 7, 1000 Ljubljana.
+Če naprava DarsGo zaradi kraje ali izgube ni več na voljo, na
+računu vozila pa je še neporabljeno dobroimetje, stranka zahteva njegovo
+vračilo s pisno vlogo, ki jo pošlje v CCS na elektronski naslov ccs@darsgo.si
+ali po pošti na naslov DARS d. d., Center cestninskega sistema,
+Dunajska 7, 1000 Ljubljana.
+Pred pošiljanjem naprave DarsGo po pošti ali med prevozom po
+cestninski cesti je treba preprečiti izmenjavo podatkov med napravo DarsGo in
+napravami za izvajanje cestninjenja. Zato je treba napravo DarsGo najmanj
+trikrat oviti z aluminijasto folijo. Če stranka tako ne prepreči izmenjave
+podatkov, se obračunana cestnina ne vrača.
+Če je ob vračilu naprave DarsGo na računu vozila še
+neporabljeno dobroimetje, se to vrne stranki, pri čemer se poračunajo še
+morebitne terjatve in strošek postopka vračila, ki je določen v ceniku
+cestnine. Dobroimetje se na račun stranke vrne, le če:
+-       
+stranka sporoči ime pravnega subjekta/ime in priimek, naslov, poštno
+številko, naziv banke, številko transakcijskega računa(IBAN), kodo banke SWIFT
+(BIC);
+-       
+neporabljeno dobroimetje presega znesek stroška postopka vračila
+dobroimetja, ki je določen v ceniku cestnine;
+-       
+je bilo dobroimetje ob vložitvi zahtevka še veljavno (dve leti od datuma
+zadnjega vplačila dobroimetja oziroma od datuma zadnje uporabe posamezne
+naprave DarsGo).
+Če stranka sporoči napačne podatke iz prve alineje prejšnjega
+odstavka in s tem družbi DARS, d. d., povzroči dodatne stroške plačilnega
+prometa, se ti zaračunajo stranki.
+4. NAPRAVA DarsGo
+4.1 Opis delovanja naprave DarsGo
+Za uporabo sistema DarsGo je obvezna uporaba naprave
+DarsGo. Naprava DarsGo je last družbe DARS, d. d., in je
+stranki dana v uporabo. Naprava DarsGo je prikazana na sliki 2.
+Slika 2: Naprava
+DarsGo
+Uporabnik naprave DarsGo je odgovoren za skrbno in pravilno
+ravnanje z napravo. Zlasti niso dovoljene nobene spremembe naprave DarsGo (npr.
+odpiranje ali barvanje ohišja, pisanje nanjo) in poškodbe ali uničenje črtne
+kode oziroma identifikacijske številke naprave DarsGo. Ob morebitnih namernih
+poškodbah naprave DarsGo ali poškodbah zaradi malomarnosti DARS, d. d., stranki
+izda drugo napravo DarsGo in ji zaračuna strošek izdaje druge naprave DarsGo na
+zahtevo stranke v skladu s cenikom cestnine.
+4.2 Uporaba naprave DarsGo
+4.2.1 Namestitev naprave DarsGo v vozilo
+Napravo DarsGo je treba namestiti v vozilo, za katero je bila
+naprava izdana. Pri tem je treba upoštevati navodila za namestitev, ki so
+priložena vsaki napravi DarsGo ob njeni izdaji in so objavljena na spletnem
+portalu www.darsgo.si.
+Pri vozilih, ki imajo metalizirana stekla ali stekla, ki
+zaradi kakršnega koli razloga ne prepuščajo mikrovalov, ali naprave DarsGo na
+vetrobransko steklo vozila ni mogoče namestiti iz katerega koli drugega
+razloga, se naprava DarsGo lahko vstavi v vodoodporno ohišje, ki se namesti na
+zunanji del kabine vozila. Informacije glede takšne namestitve naprave DarsGo
+stranka dobi pri družbi DARS, d. d., po telefonski številki +386 1 518 8 350
+ali na elektronskem naslovu info@darsgo.si.
+4.2.2 Pravilna uporaba naprave DarsGo
+Ob izdaji naprave DarsGo se nastavi dejansko število osi
+vlečnega vozila. Voznik pred začetkom vsake vožnje preveri nastavljeno število
+osi vozila oziroma skupine vozil in po potrebi spremeni nastavitev.
+4.2.2.1 Nastavitev pravilnega števila osi vozila oziroma
+skupine vozil
+Na napravi DarsGo je treba nastaviti pravilno število osi
+vozila za vsako vožnjo po cestninski cesti. Če se število osi spremeni, mora
+voznik ustrezno spremeniti nastavljeno število osi vozila ali skupine vozil. Za
+določitev ustreznega števila osi je bistveno dejansko število osi vlečnega
+vozila skupaj s številom osi priklopnega vozila.
+Navodila za nastavitev števila osi vozila oziroma skupine
+vozil so priložena vsaki napravi DarsGo ob njeni izdaji in objavljena na
+spletnem portalu www.darsgo.si.
+Če voznik iz katerega koli razloga nastavi večje število osi
+od dejanskega, zaradi česar se obračuna višja cestnina, ni upravičen do vračila
+preveč plačane cestnine.
+4.2.2.2 Preverjanje nastavljenega števila osi
+Nastavljeno število osi se preveri s kratkim pritiskom na
+tipko na napravi DarsGo. Pri številki, ki označuje nastavljeno število osi,
+posveti lučka.
+4.2.2.3 Signali naprave DarsGo ob vožnjah vozil skozi točke
+cestninjenja
+Pri vsaki vožnji skozi točko cestninjenja naprava DarsGo
+zvočno opozori voznika z zvočnimi signali, kot je prikazano na sliki 3.
+Slika 3: Signali
+naprave DarsGo ob vožnjah vozil skozi točke cestninjenja
+Zvočni signali naprave DarsGo pomenijo:
+-       
+en zvočni signal: cestninska transakcija je uspešno izvedena (na podlagi
+nastavljenega števila osi in shranjenega emisijskega razreda vozila EURO);
+-       
+dva zvočna signala: cestninska transakcija je uspešno izvedena (na
+podlagi nastavljenega števila osi in shranjenega emisijskega razreda vozila
+EURO), stranka mora obiskati prvi DarsGo servis v smeri vožnje, kjer prejme
+informacije, kaj je treba urediti (npr. nizko stanje dobroimetja na računu
+vozila, zamenjava naprave DarsGo);
+-       
+štirje zvočni signali: cestninska transakcija ni izvedena, na točki
+cestninjenja cestnina ni bila plačana. Stranka mora obiskati prvi DarsGo servis
+v smeri vožnje, kjer uredi vse potrebno za plačilo neplačane cestnine in
+nadaljnje plačevanje le-te.
+Če naprava ne odda zvočnega signala, cestnina ni bila plačana
+in stranka mora obiskati prvi DarsGo servis v smeri vožnje, kjer uredi vse
+potrebno za plačilo neplačane cestnine in nadaljnje plačevanje cestnine.
+4.2.2.4 Preverjanje delovanja naprave DarsGo
+Status vožnje vozila skozi zadnjo točko cestninjenja je
+mogoče preveriti s kratkim pritiskom na tipko. Po tem posveti lučka, označena s
+»S«, v barvi, ki prikaže status vožnje vozila skozi točko cestninjenja:
+-       
+zelena lučka: vožnja vozila skozi točko cestninjenja v redu;
+-       
+rumena lučka: vožnja vozila skozi točko cestninjenja v redu, vendar je
+treba obiskati DarsGo servis;
+-       
+rdeča lučka: vožnja vozila skozi točko cestninjenja ni v redu,
+nemudoma je treba obiskati prvi DarsGo servis v smeri vožnje;
+-       
+brez svetlobnega signala: vožnja vozila skozi točko cestninjenja ni v
+redu, nemudoma je treba obiskati prvi DarsGo servis v smeri vožnje.
+Hkrati z lučko, označeno s »S«, posveti tudi lučka z
+nastavljenim številom osi, s katerim je bila opravljena zadnja vožnja vozila
+skozi točko cestninjenja, če po vožnji vozila skozi zadnjo točko cestninjenja
+število nastavljenih osi ni bilo spremenjeno. Shema preverjanja delovanja
+naprave DarsGo je prikazana na sliki 4.
+Slika 4: Shema
+preverjanja delovanja naprave
+Tehnično ustreznost delovanja naprave DarsGo je mogoče
+preveriti kadar koli s pritiskom na tipko na napravi DarsGo. Svetlobni signali
+naprave DarsGo dajo samo informacijo o tehnični ustreznosti naprave DarsGo in
+nastavitvi števila osi vozila ali skupine vozil v trenutku poizvedbe o stanju,
+voznika pa ne obveščajo o morebitni uvrstitvi naprave DarsGo na stop listo ali
+prenizkem stanju dobroimetja na računu vozila. O tem je voznik obveščen z
+različnimi zvočnimi signali naprave DarsGo med vožnjo skozi točko cestninjenja.
+4.3 Uporabnost naprave DarsGo
+Če naprava DarsGo preneha delovati iz razlogov, za katere ni
+odgovorna stranka ali tretja oseba, za katero je odgovorna stranka, DARS, d.
+d., tako napravo brezplačno nadomesti z novo.
+Če je za nedelovanje ali nepravilno delovanje naprave DarsGo
+odgovorna stranka ali tretja oseba, za katero je odgovorna stranka, mora
+stranka plačati strošek izdaje druge naprave DarsGo v skladu s cenikom
+cestnine.
+DARS, d. d., lahko od stranke kadar koli zahteva vračilo in
+zamenjavo naprave DarsGo.
+4.3.1 Vpoklic naprave DarsGo
+Pred potekom uporabnosti naprave DarsGo bo stranka obveščena,
+da je napravo treba vrniti in jo nadomestiti z novo. Naprava DarsGo bo o
+potrebni zamenjavi z zvočnim signalom obvestila voznika (dva zvočna signala),
+naj se oglasi na DarsGo servisu in napravo zamenja. Neupoštevanje zahtev
+vpoklica povzroči uvrstitev naprave DarsGo na stop listo in posledično
+neplačilo cestnine.
+4.3.2 Uvrstitev naprave DarsGo na stop listo
+DARS, d. d., lahko ob tehničnih pomanjkljivosti oziroma ob
+ugotovitvi nepravilnosti v zvezi s plačevanjem cestnine napravo DarsGo uvrsti
+na stop listo, pri čemer ta voznika o uvrstitvi na stop listo ob vožnji vozila
+skozi točko cestninjenja opozori z zvočnim signalom (štirje zvočni signali).
+Tako zvočno opozorilo pomeni, da mora voznik obiskati prvi DarsGo servis v
+smeri vožnje in odpraviti pomanjkljivosti oziroma nepravilnosti v zvezi s
+plačilom cestnine.
+Če cestnina ni plačana, se naprava DarsGo uvrsti na stop
+listo. V vseh primerih uvrstitve naprave DarsGo na stop listo mora stranka
+obiskati DarsGo servis ali pridobiti informacijo o vzroku za uvrstitev na stop
+listo v klicnem centru na telefonski številki + 386 1 518 8 350 ali
+elektronskem naslovu info@darsgo.si in odpraviti vzrok za neskladnost. Po
+poteku uporabnosti oziroma uvrstitvi naprave DarsGo na stop listo s to napravo
+ni mogoče izvajati cestninskih transakcij.
+Uvrstitve naprave DarsGo na stop listo se lahko izvedejo tudi
+ob prijavi izgube ali kraje naprave DarsGo, kot je opisano v točki 3.2.1 tega
+splošnega akta, in ob vračilu naprave DarsGo, kot je opisano v točki 3.9 tega
+splošnega akta. Na pisno zahtevo stranke se naprava DarsGo uvrsti na stop listo
+in s tako napravo ni več mogoče plačevati cestnine. Na stop listo se uvrsti
+najpozneje v dveh urah po potrditvi prejema prijave.
+4.4 Zamenjava naprave DarsGo
+Napravo DarsGo je mogoče zamenjati kadar koli osebno na vseh
+DarsGo servisih ali jo poslati po pošti na naslov DARS, d. d., Center
+cestninskega sistema, Dunajska 7, 1000 Ljubljana. Pred pošiljanjem po
+pošti ali med prevozom po cestninski cesti je treba preprečiti izmenjavo
+podatkov med napravo DarsGo in napravami za izvajanje cestninjenja. To stranka
+izvede tako, da napravo DarsGo vsaj trikrat ovije z aluminijasto folijo. Če ne
+poskrbi za preprečitev izmenjave podatkov med napravo DarsGo in napravami za
+izvajanje cestninjenja, se morebitne cestninske transakcije oziroma plačila,
+nastala med prevozom z vozilom, ki se ne cestnini, ne povrnejo.
+4.5 Prevoz naprav DarsGo brez obveznosti plačila
+cestnine
+Na DarsGo servisu stranka prejme delujočo napravo DarsGo, ki
+je v stanju mirovanja, dokler je s pritiskom na gumb ne aktivira. Če je naprava
+DarsGo v stanju mirovanja, ne izmenjuje podatkov z napravami za izvajanje
+cestninjenja na točkah cestninjenja in cestnina se ne zaračunava.
+Po aktivaciji (prvi pritisk na gumb) je naprava DarsGo v
+stanju delovanja. V tem primeru se pri prehajanju skozi točke cestninjenja
+izvaja cestninjenje glede na nastavljene parametre. Če cestninjenje ni potrebno
+(npr. prevoz naprave DarsGo v osebnem vozilu, prevzem več naprav DarsGo za
+potrebe stranke, vračilo po pošti), je treba pri taki napravi onemogočiti
+izmenjavo podatkov z napravami za izvajanje cestninjenja. Takrat je treba
+napravo DarsGo vsaj trikrat oviti z aluminijasto folijo.
+Če se napravi DarsGo, kadar ni obveznosti plačila cestnine,
+ne onemogoči izmenjave podatkov z napravami za izvajanje cestninjenja, sistem
+DarsGo samodejno izvede cestninsko transakcijo. V takem primeru stranka ni
+upravičena do vračila plačane cestnine.
+5. INFORMACIJE O PLAČILIH IN NAČINI ZARAČUNAVANJA
+5.1 Podatki o posameznih cestninskih transakcijah
+Podatki o posameznih cestninskih transakcijah in zaračunani
+cestnini glede na prevoženo razdaljo za vsako vozilo so na voljo 90 dni od
+objave potrdila o vožnjah vozila skozi točke cestninjenja za pretekli mesec na
+uporabniškem delu spletnega portala www.darsgo.si vsake stranke in so stranki
+na voljo brezplačno.
+Stranka lahko vloži reklamacijo na zaračunani znesek cestnine
+najpozneje pet delovnih dni pred potekom roka hrambe podatkov o posamezni
+vožnji vozil skozi točke cestninjenja, določenega v prejšnjem odstavku, tako da
+jo pošlje na elektronski naslov ccs@darsgo.si.
+Stranka lahko dobi natisnjeno in potrjeno potrdilo o vožnjah
+vozila skozi točke cestninjenja, ki se izda na njeno zahtevo, če pošlje zahtevo
+v CCS na elektronski naslov ccs@darsgo.si in plača storitev tiskanja potrdila,
+določeno v ceniku cestnine.
+5.2 Poznejše obračunavanje cestnine oziroma
+premoščanje vrzeli 
+DARS, d. d., lahko v primerih, ko se pri prevozu točke
+cestninjenja cestninjenje ni izvedlo, stranka pa je naredila vse, da bi se
+lahko izvedlo, in ob izpadu delovanja naprav za cestninjenje na cestninski
+točki samodejno pozneje obračuna neplačano cestnino.
+Poznejši obračun cestnine se izvede, samo če stranka
+uporablja cestni odsek, za katerega je predpisano plačevanje cestnine, ne da bi
+bila cestninska transakcija uspešno izvedena, čeprav je stranka v vozilu imela
+nameščeno delujočo napravo DarsGo s pravilno nastavljenim številom osi. Cestnina,
+ki jo je treba obračunati za manjkajoči cestninski odsek, mora ustrezati
+neplačani cestnini za cestninski odsek v času manjkajoče cestninske
+transakcije. To velja enako za poznejši obračun v predplačniškem in
+poplačniškem načinu plačevanja cestnine.
+6. OBLIKA IN VELIKOST VINJET ZA MOTORNA VOZILA DO 3.500
+KG NAJVEČJE DOVOLJENE MASE
+Vinjeta je pravokotne oblike z merami 77 mm x 90 mm.
+7. VELJAVNOST SPLOŠNEGA AKTA
+Z dnem uveljavitve tega splošnega akta preneha veljati
+Splošni akt o cestninjenju (Uradni list RS, št. 77/16).
+Ta splošni akt začne veljati z dnem začetka izvajanja
+cestninjenja v prostem prometnem toku.
+Št. 007-46/2018/9-02111214
+Ljubljana, dne 6. februarja 2018
+EVA 2018-2430-0010
+dr. Tomaž Vidic l.r.
+Predsednik
+uprave družbe DARS, d. d.
+V skladu s tretjim odstavkom 21. člena Zakona o cestninjenju
+(Uradni list RS, št. 24/15 in 41/17) je bilo k Splošnemu aktu o cestninjenju
+pridobljeno soglasje Vlade Republike Slovenije, izdano pod št. 00710-3/2018/3 z
+dne 1. 3. 2018.
+
+Priloga 1: Najava
+prevoza tujih vojaških sil
+Priloga 2: Vloga za
+oprostitev plačila cestnine zaradi prevoza humanitarne pomoči
