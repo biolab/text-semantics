@@ -40,17 +40,7 @@ jobs:
       - name: Rename CSV
         run: |
           mkdir ./data/csv/
-          mv ./data/${{ matrix.publish_dir }}.csv ./data/csv/${{ matrix.scraper }}.csv
-
-      - name: Deploy CSV file
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
-          publish_dir: ./data/csv
-          publish_branch: gh-pages
-          destination_dir: podatki
-          keep_files: true  # prevent emptying podatki directory
+          mv ./data/${{ matrix.publish_dir }}.csv ./data/${{ matrix.scraper }}.csv
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
@@ -62,3 +52,9 @@ jobs:
           publish_dir: ./data/${{ matrix.publish_dir }}
           publish_branch: gh-pages
           destination_dir: podatki/${{ matrix.scraper }}
+
+      - name: Archive CSV
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.scraper }}.csv
+          path: data/${{ matrix.scraper }}.csv
