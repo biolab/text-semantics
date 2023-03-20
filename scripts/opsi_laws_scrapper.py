@@ -27,7 +27,7 @@ ROOT_DIRECTORY = "data"
 ARCHIVE_FILE = os.path.join(ROOT_DIRECTORY, os.path.basename(SOURCE_URL))
 UNPACKED_DIR = "vsebina.bson"
 UNPACKED_FILE_NAME = "pisrs/vsebina.bson"
-CSV_FILE = "regulstions.csv"
+CSV_FILE = "regulations.csv"
 DESTINATION_DIRECTORY = "regulations"
 
 # init logging
