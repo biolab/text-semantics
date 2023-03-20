@@ -1,16 +1,10 @@
 Text file: ZAKO511.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 889830000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-03-13 23:00:00
 idPredpisa: ZAKO511
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA NAJETJE POSOJIL ZA NAKUP POTNI\u0160\
-  KIH VLAKOV (ZPPPV)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA NAJETJE POSOJIL ZA NAKUP POTNI\u0160KIH
+  VLAKOV (ZPPPV)"
 npbNum: 0
 path: /1998/08/1998-01-0812
 sopPredpisa: 1998-01-0812

@@ -1,17 +1,8 @@
 Text file: ZAKO8386.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657231200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628632800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-07-07 22:00:00
+datumZacetkaVelj: 2021-08-10 22:00:00
 idPredpisa: ZAKO8386
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O HIPOTEKARNI IN KOMUNALNI OBVEZNICI (ZHKO-2)
 npbNum: 0
 path: /2021/26/2021-01-2626

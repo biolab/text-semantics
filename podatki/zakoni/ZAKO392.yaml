@@ -1,16 +1,10 @@
 Text file: ZAKO392.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 790988400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-01-24 23:00:00
 idPredpisa: ZAKO392
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV ZA ZAPRTJE RUDNIKOV RJAVEGA PREMOGA ZAGORJE,\
-  \ SENOVO IN KANI\u017DARICA"
+naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV ZA ZAPRTJE RUDNIKOV RJAVEGA PREMOGA ZAGORJE,
+  SENOVO IN KANI\u017DARICA"
 npbNum: 0
 path: /1995/00/1995-01-0006
 sopPredpisa: 1995-01-0006

@@ -1,14 +1,8 @@
 Text file: ZAKO2267.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 948495600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-01-21 23:00:00
 idPredpisa: ZAKO2267
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O NA\u010CINU PORAVNAVE DOSPELIH NEPLA\u010CANIH OBVEZNIH DAJATEV (ZNPDND)"
 npbNum: 0
 path: /2000/00/2000-01-0003

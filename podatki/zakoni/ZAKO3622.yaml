@@ -1,16 +1,10 @@
 Text file: ZAKO3622.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1520463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-07 23:00:00
 idPredpisa: ZAKO3622
 idPredpisaChng: ZAKO3622
-instock: .nan
-naslov: "ZAKON o varnosti cestnega prometa (ZVCP-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 25)"
+naslov: "ZAKON o varnosti cestnega prometa (ZVCP-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 25)"
 npbNum: 25
 path: /2018/04/2018-01-0411-2004-01-3690-npb25
 sopPredpisa: 2018-01-0411

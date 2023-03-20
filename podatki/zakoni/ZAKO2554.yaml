@@ -1,17 +1,11 @@
 Text file: ZAKO2554.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 965772000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-08-08 22:00:00
 idPredpisa: ZAKO2554
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O ZAGOTAVLJANJU VIDNOSTI IN SLI\u0160NOSTI PROGRAMOV RTV SLOVENIJA\
-  \ IN LOKALNIH NEKOMERCIALNIH PROGRAMOV NA OBMO\u010CJIH, KJER \u017DIVI SLOVENSKA\
-  \ NARODNA MANJ\u0160INA (ZVSPRTV)"
+naslov: "ZAKON O ZAGOTAVLJANJU VIDNOSTI IN SLI\u0160NOSTI PROGRAMOV RTV SLOVENIJA
+  IN LOKALNIH NEKOMERCIALNIH PROGRAMOV NA OBMO\u010CJIH, KJER \u017DIVI SLOVENSKA
+  NARODNA MANJ\u0160INA (ZVSPRTV)"
 npbNum: 0
 path: /2000/33/2000-01-3306
 sopPredpisa: 2000-01-3306

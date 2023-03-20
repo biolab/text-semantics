@@ -1,20 +1,11 @@
 Text file: ZAKO1950.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508364000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1500415200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-10-18 22:00:00
+datumZacetkaVelj: 2017-07-18 22:00:00
 idPredpisa: ZAKO1950
 idPredpisaChng: ZAKO1950
-instock: .nan
-naslov: "ZAKON o izjemnem priznanju in odmeri starostne pokojnine osebam, ki imajo\
-  \ posebne zasluge (delno se preneha uporabljati) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ZAKON o izjemnem priznanju in odmeri starostne pokojnine osebam, ki imajo
+  posebne zasluge (delno se preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/18/2017-01-1840-1974-04-0182-npb2
 sopPredpisa: 2017-01-1840

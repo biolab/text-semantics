@@ -1,14 +1,8 @@
 Text file: ZAKO473.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 846280800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-10-25 22:00:00
 idPredpisa: ZAKO473
 idPredpisaChng: null
-instock: .nan
 naslov: 'ZAKON O ZAGOTOVITVI SREDSTEV ZA ODPRAVO POSLEDIC PLAZENJA TAL V LETIH 1995
   IN 1996 TER ZA ODPRAVO POSLEDIC NEURJA V LETU 1996 (ZZSO96) '
 npbNum: 0

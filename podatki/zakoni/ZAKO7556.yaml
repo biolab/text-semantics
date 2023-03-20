@@ -1,16 +1,10 @@
 Text file: ZAKO7556.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1610492400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-12 23:00:00
 idPredpisa: ZAKO7556
 idPredpisaChng: ZAKO7556
-instock: .nan
-naslov: "DRU\u017DINSKI ZAKONIK (DZ) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "DRU\u017DINSKI ZAKONIK (DZ) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /2020/36/2020-01-3628-2017-01-0729-npb4
 sopPredpisa: 2020-01-3628

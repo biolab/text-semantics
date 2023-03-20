@@ -1,16 +1,10 @@
 Text file: ZAKO5801.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467324000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-06-30 22:00:00
 idPredpisa: ZAKO5801
 idPredpisaChng: ZAKO5801
-instock: .nan
-naslov: "ZAKON O SPODBUJANJU SKLADNEGA REGIONALNEGA RAZVOJA (ZSRR-2) (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O SPODBUJANJU SKLADNEGA REGIONALNEGA RAZVOJA (ZSRR-2) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2016/19/2016-01-1996-2011-01-0820-npb2
 sopPredpisa: 2016-01-1996

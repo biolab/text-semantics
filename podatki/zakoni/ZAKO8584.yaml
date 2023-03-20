@@ -1,16 +1,10 @@
 Text file: ZAKO8584.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: ZAKO8584
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON ZA ZMANJ\u0160ANJE NEENAKOSTI IN \u0160KODLJIVIH POSEGOV POLITIKE TER\
-  \ ZAGOTAVLJANJE SPO\u0160TOVANJA PRAVNE DR\u017DAVE (ZZN\u0160PP)"
+naslov: "ZAKON ZA ZMANJ\u0160ANJE NEENAKOSTI IN \u0160KODLJIVIH POSEGOV POLITIKE TER
+  ZAGOTAVLJANJE SPO\u0160TOVANJA PRAVNE DR\u017DAVE (ZZN\u0160PP)"
 npbNum: 0
 path: /2022/26/2022-01-2603
 sopPredpisa: 2022-01-2603

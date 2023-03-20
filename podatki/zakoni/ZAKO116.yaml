@@ -1,19 +1,10 @@
 Text file: ZAKO116.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1164322800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1148421600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2006-11-23 23:00:00
+datumZacetkaVelj: 2006-05-23 22:00:00
 idPredpisa: ZAKO116
 idPredpisaChng: ZAKO116
-instock: .nan
-naslov: "ZAKON o zemlji\u0161kem katastru (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "ZAKON o zemlji\u0161kem katastru (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2006/20/2006-01-2024-1974-04-0141-npb3
 sopPredpisa: 2006-01-2024

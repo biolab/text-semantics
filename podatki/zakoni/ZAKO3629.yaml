@@ -1,16 +1,10 @@
 Text file: ZAKO3629.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1050012000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-10 22:00:00
 idPredpisa: ZAKO3629
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVIH ZA KREDITE, NAJETE ZA REFINANCIRANJE KREDITOV PODJETIJ\
-  \ ELEKTROGOSPODARSTVA (ZPRKPE)"
+naslov: "ZAKON O PORO\u0160TVIH ZA KREDITE, NAJETE ZA REFINANCIRANJE KREDITOV PODJETIJ
+  ELEKTROGOSPODARSTVA (ZPRKPE)"
 npbNum: 0
 path: /2003/14/2003-01-1436
 sopPredpisa: 2003-01-1436

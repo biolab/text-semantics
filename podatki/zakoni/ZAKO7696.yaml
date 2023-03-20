@@ -1,18 +1,12 @@
 Text file: ZAKO7696.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510873200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-16 23:00:00
 idPredpisa: ZAKO7696
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON ZA UREJANJE POLO\u017DAJA \u0160TUDENTOV (ZUP\u0160) Zakon o zdravstvenem\
-  \ varstvu in zdravstvenem zavarovanju Zakon o subvencioniranju \u0161tudentske prehrane\
-  \ Zakon o \u0161tipendiranju Zakon o uveljavljanju pravic iz javnih sredstev Zakon\
-  \ o visokem \u0161olstvu"
+naslov: "ZAKON ZA UREJANJE POLO\u017DAJA \u0160TUDENTOV (ZUP\u0160) Zakon o zdravstvenem
+  varstvu in zdravstvenem zavarovanju Zakon o subvencioniranju \u0161tudentske prehrane
+  Zakon o \u0161tipendiranju Zakon o uveljavljanju pravic iz javnih sredstev Zakon
+  o visokem \u0161olstvu"
 npbNum: 0
 path: /2017/29/2017-01-2917
 sopPredpisa: 2017-01-2917

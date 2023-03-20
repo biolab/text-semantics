@@ -1,16 +1,10 @@
 Text file: ZAKO451.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 826326000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-03-08 23:00:00
 idPredpisa: ZAKO451
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PREVZEMU DELA DOLGA PO NOVEM FINAN\u010CNEM SPORAZUMU IZ LETA 1988\
-  \ IN O IZDAJI OBVEZNIC REPUBLIKE SLOVENIJE ZARADI ZAMENJAVE TEGA DOLGA (ZPDNFS) "
+naslov: "ZAKON O PREVZEMU DELA DOLGA PO NOVEM FINAN\u010CNEM SPORAZUMU IZ LETA 1988
+  IN O IZDAJI OBVEZNIC REPUBLIKE SLOVENIJE ZARADI ZAMENJAVE TEGA DOLGA (ZPDNFS) "
 npbNum: 0
 path: /1996/07/1996-01-0732
 sopPredpisa: 1996-01-0732

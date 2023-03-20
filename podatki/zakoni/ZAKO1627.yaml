@@ -1,14 +1,8 @@
 Text file: ZAKO1627.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 964130400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-07-20 22:00:00
 idPredpisa: ZAKO1627
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O PREVOZNIH POGODBAH V \u017DELEZNI\u0160KEM PROMETU (ZPP\u017DP)"
 npbNum: 0
 path: /2000/27/2000-01-2750

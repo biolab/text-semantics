@@ -1,14 +1,8 @@
 Text file: ZAKO5744.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1275084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-28 22:00:00
 idPredpisa: ZAKO5744
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O UPRAVLJANJU KAPITALSKIH NALO\u017DB REPUBLIKE SLOVENIJE (ZUKN)"
 npbNum: 0
 path: /2010/18/2010-01-1847

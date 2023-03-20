@@ -1,17 +1,11 @@
 Text file: ZAKO197.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 678146400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-06-28 22:00:00
 idPredpisa: ZAKO197
 idPredpisaChng: ZAKO197
-instock: .nan
-naslov: "ZAKON o za\u010Dasni prepovedi se\u010Dnje v gozdovih v dru\u017Ebeni lastnini\
-  \ in za\u010Dasni prepovedi prometa z nepremi\u010Dninami v dru\u017Ebeni lastnini\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON o za\u010Dasni prepovedi se\u010Dnje v gozdovih v dru\u017Ebeni lastnini
+  in za\u010Dasni prepovedi prometa z nepremi\u010Dninami v dru\u017Ebeni lastnini
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /1991/00/1991-01-0022-1990-03-1321-npb2
 sopPredpisa: 1991-01-0022

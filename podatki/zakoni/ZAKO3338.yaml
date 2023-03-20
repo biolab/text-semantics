@@ -1,14 +1,8 @@
 Text file: ZAKO3338.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1022623200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-28 22:00:00
 idPredpisa: ZAKO3338
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O LASTNINSKEM PREOBLIKOVANJU ZAVAROVALNIC (ZLPZ-1)
 npbNum: 0
 path: /2002/21/2002-01-2146

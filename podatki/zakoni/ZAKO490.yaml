@@ -1,16 +1,10 @@
 Text file: ZAKO490.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 866844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-06-20 22:00:00
 idPredpisa: ZAKO490
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O ZAGOTOVITVI SREDSTEV ZA OBNOVO V ZIMI 1996/1997 UNI\u010CENIH IN\
-  \ PO\u0160KODOVANIH ODSEKOV MAGISTRALNIH, REGIONALNIH IN LOKALNIH CEST (ZZSC97)"
+naslov: "ZAKON O ZAGOTOVITVI SREDSTEV ZA OBNOVO V ZIMI 1996/1997 UNI\u010CENIH IN
+  PO\u0160KODOVANIH ODSEKOV MAGISTRALNIH, REGIONALNIH IN LOKALNIH CEST (ZZSC97)"
 npbNum: 0
 path: /1997/20/1997-01-2091
 sopPredpisa: 1997-01-2091

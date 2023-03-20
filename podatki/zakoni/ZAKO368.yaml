@@ -1,14 +1,8 @@
 Text file: ZAKO368.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 783385200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-10-28 23:00:00
 idPredpisa: ZAKO368
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O PORAVNAVI ODLO\u017DENIH DAVKOV IN PRISPEVKOV"
 npbNum: 0
 path: /1994/24/1994-01-2417

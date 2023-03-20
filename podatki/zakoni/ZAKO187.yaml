@@ -1,19 +1,10 @@
 Text file: ZAKO187.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1364767200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1364425200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-03-31 22:00:00
+datumZacetkaVelj: 2013-03-27 23:00:00
 idPredpisa: ZAKO187
 idPredpisaChng: ZAKO187
-instock: .nan
-naslov: "ZAKON o funkcionarjih v dr\u017Eavnih organih (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 7)"
+naslov: "ZAKON o funkcionarjih v dr\u017Eavnih organih (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 7)"
 npbNum: 7
 path: /2013/07/2013-01-0788-1990-03-1530-npb7
 sopPredpisa: 2013-01-0788

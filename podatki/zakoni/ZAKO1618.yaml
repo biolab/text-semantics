@@ -1,16 +1,10 @@
 Text file: ZAKO1618.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524088800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-18 22:00:00
 idPredpisa: ZAKO1618
 idPredpisaChng: ZAKO1618
-instock: .nan
-naslov: "ZAKON O SEMENSKEM MATERIALU KMETIJSKIH RASTLIN (ZSMKR) (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 7)"
+naslov: "ZAKON O SEMENSKEM MATERIALU KMETIJSKIH RASTLIN (ZSMKR) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 7)"
 npbNum: 7
 path: /2018/09/2018-01-0947-2002-01-2809-npb7
 sopPredpisa: 2018-01-0947

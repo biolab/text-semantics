@@ -1,16 +1,10 @@
 Text file: ZAKO3118.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1651701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-04 22:00:00
 idPredpisa: ZAKO3118
 idPredpisaChng: ZAKO3118
-instock: .nan
-naslov: "ZAKON O SUBVENCIONIRANJU \u0160TUDENTSKE PREHRANE (ZS\u0160P) (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "ZAKON O SUBVENCIONIRANJU \u0160TUDENTSKE PREHRANE (ZS\u0160P) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 8)"
 npbNum: 8
 path: /2022/11/2022-01-1186-2002-01-4154-npb8
 sopPredpisa: 2022-01-1186

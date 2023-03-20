@@ -1,19 +1,10 @@
 Text file: ZAKO4664.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1345413600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1343426400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2012-08-19 22:00:00
+datumZacetkaVelj: 2012-07-27 22:00:00
 idPredpisa: ZAKO4664
 idPredpisaChng: ZAKO4664
-instock: .nan
-naslov: "ZAKON o \u0161tipendiranju (Z\u0160tip)  (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "ZAKON o \u0161tipendiranju (Z\u0160tip)  (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2012/24/2012-01-2410-2007-01-3157-npb4
 sopPredpisa: 2012-01-2410

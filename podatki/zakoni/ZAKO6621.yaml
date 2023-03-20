@@ -1,16 +1,10 @@
 Text file: ZAKO6621.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1370037600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-31 22:00:00
 idPredpisa: ZAKO6621
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O ODPRAVI POSLEDIC RAZVELJAVITVE DRUGEGA, TRETJEGA IN \u010CETRTEGA\
-  \ ODSTAVKA 143. \u010CLENA ZAKONA ZA URAVNOTE\u017DENJE JAVNIH FINANC (ZOPRZUJF)"
+naslov: "ZAKON O ODPRAVI POSLEDIC RAZVELJAVITVE DRUGEGA, TRETJEGA IN \u010CETRTEGA
+  ODSTAVKA 143. \u010CLENA ZAKONA ZA URAVNOTE\u017DENJE JAVNIH FINANC (ZOPRZUJF)"
 npbNum: 0
 path: /2013/17/2013-01-1780
 sopPredpisa: 2013-01-1780

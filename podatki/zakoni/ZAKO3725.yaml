@@ -1,16 +1,10 @@
 Text file: ZAKO3725.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1066773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-21 22:00:00
 idPredpisa: ZAKO3725
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O NAJEMU KREDITA PRI EVROPSKI INVESTICIJSKI BANKI DO ZNESKA 34 MILIJONOV\
-  \ EVROV ZA FINANCIRANJE \u017DELEZNI\u0160KIH PROJEKTOV (ZNKZelP)"
+naslov: "ZAKON O NAJEMU KREDITA PRI EVROPSKI INVESTICIJSKI BANKI DO ZNESKA 34 MILIJONOV
+  EVROV ZA FINANCIRANJE \u017DELEZNI\u0160KIH PROJEKTOV (ZNKZelP)"
 npbNum: 0
 path: /2003/45/2003-01-4503
 sopPredpisa: 2003-01-4503

@@ -1,16 +1,10 @@
 Text file: ZAKO38.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 741564000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-07-01 22:00:00
 idPredpisa: ZAKO38
 idPredpisaChng: ZAKO38
-instock: .nan
-naslov: "ZAKON o seizmolo\u0161ki slu\u017Ebi (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 2)"
+naslov: "ZAKON o seizmolo\u0161ki slu\u017Ebi (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /1993/13/1993-01-1351-1978-04-0994-npb2
 sopPredpisa: 1993-01-1351

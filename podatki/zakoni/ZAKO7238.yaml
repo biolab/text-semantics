@@ -1,16 +1,10 @@
 Text file: ZAKO7238.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435960800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-07-03 22:00:00
 idPredpisa: ZAKO7238
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O NA\u010CINU IZVR\u0160ITVE SODBE EVROPSKEGA SODI\u0160\u010CA ZA\
-  \ \u010CLOVEKOVE PRAVICE V ZADEVI \u0160TEVILKA 60642/08 (ZNISES\u010CP)"
+naslov: "ZAKON O NA\u010CINU IZVR\u0160ITVE SODBE EVROPSKEGA SODI\u0160\u010CA ZA
+  \u010CLOVEKOVE PRAVICE V ZADEVI \u0160TEVILKA 60642/08 (ZNISES\u010CP)"
 npbNum: 0
 path: /2015/19/2015-01-1970
 sopPredpisa: 2015-01-1970

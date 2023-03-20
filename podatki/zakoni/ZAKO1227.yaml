@@ -1,16 +1,10 @@
 Text file: ZAKO1227.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1519858800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-02-28 23:00:00
 idPredpisa: ZAKO1227
 idPredpisaChng: ZAKO1227
-instock: .nan
-naslov: "ZAKON o javnih financah (ZJF) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 15)"
+naslov: "ZAKON o javnih financah (ZJF) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 15)"
 npbNum: 15
 path: /2018/05/2018-01-0544-1999-01-3758-npb15
 sopPredpisa: 2018-01-0544

@@ -1,16 +1,10 @@
 Text file: ZAKO4300.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1460412000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-11 22:00:00
 idPredpisa: ZAKO4300
 idPredpisaChng: ZAKO4300
-instock: .nan
-naslov: "ZAKON o ban\u010Dni\u0161tvu (ZBan-1) (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 17)"
+naslov: "ZAKON o ban\u010Dni\u0161tvu (ZBan-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 17)"
 npbNum: 17
 path: /2016/10/2016-01-1074-2006-01-5487-npb17
 sopPredpisa: 2016-01-1074

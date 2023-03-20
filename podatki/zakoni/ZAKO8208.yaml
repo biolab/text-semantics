@@ -1,17 +1,11 @@
 Text file: ZAKO8208.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590876000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-30 22:00:00
 idPredpisa: ZAKO8208
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE V EVROPSKEM INSTRUMENTU ZA ZA\u010C\
-  ASNO PODPORO ZA UBLA\u017DITEV TVEGANJ ZA BREZPOSELNOST V IZREDNIH RAZMERAH (SURE)\
-  \ PO IZBRUHU COVID-19 (ZPEIPUTB)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE V EVROPSKEM INSTRUMENTU ZA ZA\u010CASNO
+  PODPORO ZA UBLA\u017DITEV TVEGANJ ZA BREZPOSELNOST V IZREDNIH RAZMERAH (SURE) PO
+  IZBRUHU COVID-19 (ZPEIPUTB)"
 npbNum: 0
 path: /2020/11/2020-01-1191
 sopPredpisa: 2020-01-1191

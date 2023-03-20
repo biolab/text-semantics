@@ -1,16 +1,10 @@
 Text file: ZAKO7090.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1500415200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-18 22:00:00
 idPredpisa: ZAKO7090
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O VZPOSTAVITVI ETA\u017DNE LASTNINE NA DOLO\u010CENIH STAVBAH IN O\
-  \ UGOTAVLJANJU PRIPADAJO\u010CEGA ZEMLJI\u0160\u010CA (ZVEtL-1)"
+naslov: "ZAKON O VZPOSTAVITVI ETA\u017DNE LASTNINE NA DOLO\u010CENIH STAVBAH IN O
+  UGOTAVLJANJU PRIPADAJO\u010CEGA ZEMLJI\u0160\u010CA (ZVEtL-1)"
 npbNum: 0
 path: /2017/18/2017-01-1841
 sopPredpisa: 2017-01-1841

@@ -1,16 +1,10 @@
 Text file: ZAKO1223.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1610492400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-12 23:00:00
 idPredpisa: ZAKO1223
 idPredpisaChng: ZAKO1223
-instock: .nan
-naslov: "ZAKON O IZVR\u0160EVANJU KAZENSKIH SANKCIJ (ZIKS-1) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 11)"
+naslov: "ZAKON O IZVR\u0160EVANJU KAZENSKIH SANKCIJ (ZIKS-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 11)"
 npbNum: 11
 path: /2020/36/2020-01-3628-2000-01-0973-npb11
 sopPredpisa: 2020-01-3628

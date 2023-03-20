@@ -1,20 +1,11 @@
 Text file: ZAKO485.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1661983200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645830000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-08-31 22:00:00
+datumZacetkaVelj: 2022-02-25 23:00:00
 idPredpisa: ZAKO485
 idPredpisaChng: ZAKO485
-instock: .nan
-naslov: "ZAKON O JAVNEM \u0160TIPENDIJSKEM, RAZVOJNEM, INVALIDSKEM IN PRE\u017DIVNINSKEM\
-  \ SKLADU REPUBLIKE SLOVENIJE (ZJSRS) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 13)"
+naslov: "ZAKON O JAVNEM \u0160TIPENDIJSKEM, RAZVOJNEM, INVALIDSKEM IN PRE\u017DIVNINSKEM
+  SKLADU REPUBLIKE SLOVENIJE (ZJSRS) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 13)"
 npbNum: 13
 path: /2022/03/2022-01-0306-1997-01-1486-npb13
 sopPredpisa: 2022-01-0306

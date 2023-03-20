@@ -1,16 +1,10 @@
 Text file: ZAKO3130.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497650400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-16 22:00:00
 idPredpisa: ZAKO3130
 idPredpisaChng: ZAKO3130
-instock: .nan
-naslov: "ZAKON O OMEJEVANJU PORABE ALKOHOLA (ZOPA) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "ZAKON O OMEJEVANJU PORABE ALKOHOLA (ZOPA) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/14/2017-01-1440-2003-01-0589-npb1
 sopPredpisa: 2017-01-1440

@@ -1,16 +1,10 @@
 Text file: ZAKO7918.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546038000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-28 23:00:00
 idPredpisa: ZAKO7918
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O INTERVENTNIH UKREPIH PRI RAVNANJU S KOMUNALNO ODPADNO EMBALA\u017D\
-  O IN Z ODPADNIMI NAGROBNIMI SVE\u010CAMI (ZIURKOE)"
+naslov: "ZAKON O INTERVENTNIH UKREPIH PRI RAVNANJU S KOMUNALNO ODPADNO EMBALA\u017DO
+  IN Z ODPADNIMI NAGROBNIMI SVE\u010CAMI (ZIURKOE)"
 npbNum: 0
 path: /2018/41/2018-01-4120
 sopPredpisa: 2018-01-4120

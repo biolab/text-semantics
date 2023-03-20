@@ -1,18 +1,12 @@
 Text file: ZAKO871.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 776124000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-08-05 22:00:00
 idPredpisa: ZAKO871
 idPredpisaChng: ZAKO871
-instock: .nan
-naslov: "ZAKON o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski\
-  \ plin d.o.o. Ljubljana za pla\u010Dilo stro\u0161kov prenosa zemeljskega plina\
-  \ in o poro\u0161tvu za vra\u010Dilo kreditov, najetih za refinanciranje obstoje\u010D\
-  ih deviznih kreditov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski
+  plin d.o.o. Ljubljana za pla\u010Dilo stro\u0161kov prenosa zemeljskega plina in
+  o poro\u0161tvu za vra\u010Dilo kreditov, najetih za refinanciranje obstoje\u010Dih
+  deviznih kreditov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1994/18/1994-01-1827-1992-01-2345-npb1
 sopPredpisa: 1994-01-1827

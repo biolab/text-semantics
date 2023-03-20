@@ -1,16 +1,10 @@
 Text file: ZAKO6671.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660082400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-09 22:00:00
 idPredpisa: ZAKO6671
 idPredpisaChng: ZAKO6671
-instock: .nan
-naslov: "ZAKON O INVESTICIJSKIH SKLADIH IN DRU\u017DBAH ZA UPRAVLJANJE (ZISDU-3) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "ZAKON O INVESTICIJSKIH SKLADIH IN DRU\u017DBAH ZA UPRAVLJANJE (ZISDU-3) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2022/25/2022-01-2541-2015-01-1299-npb5
 sopPredpisa: 2022-01-2541

@@ -1,16 +1,10 @@
 Text file: ZAKO3841.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-23 23:00:00
 idPredpisa: ZAKO3841
 idPredpisaChng: ZAKO3841
-instock: .nan
-naslov: "ZAKON O ZAPOSLITVENI REHABILITACIJI IN ZAPOSLOVANJU INVALIDOV (ZZRZI) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "ZAKON O ZAPOSLITVENI REHABILITACIJI IN ZAPOSLOVANJU INVALIDOV (ZZRZI) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
 npbNum: 8
 path: /2021/04/2021-01-0414-2004-01-2873-npb8
 sopPredpisa: 2021-01-0414

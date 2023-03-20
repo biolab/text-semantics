@@ -1,17 +1,11 @@
 Text file: ZAKO517.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 891640800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-04-03 22:00:00
 idPredpisa: ZAKO517
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ KREDITA, KI GA\
-  \ NAJAME DARS, D.D., PRI EVROPSKI INVESTICIJSKI BANKI ZA PROJEKT SLOVENSKIH AVTOCEST/II\
-  \ (ZPDKAEIB)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ KREDITA, KI GA
+  NAJAME DARS, D.D., PRI EVROPSKI INVESTICIJSKI BANKI ZA PROJEKT SLOVENSKIH AVTOCEST/II
+  (ZPDKAEIB)"
 npbNum: 0
 path: /1998/11/1998-01-1136
 sopPredpisa: 1998-01-1136

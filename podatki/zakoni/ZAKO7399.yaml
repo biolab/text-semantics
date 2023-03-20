@@ -1,17 +1,8 @@
 Text file: ZAKO7399.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524261600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-04-20 22:00:00
+datumZacetkaVelj: 2017-10-20 22:00:00
 idPredpisa: ZAKO7399
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O KOLEKTIVNIH TO\u017DBAH (ZKolT)"
 npbNum: 0
 path: /2017/25/2017-01-2517

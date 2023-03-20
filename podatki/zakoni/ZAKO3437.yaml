@@ -1,16 +1,10 @@
 Text file: ZAKO3437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1565388000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-08-09 22:00:00
 idPredpisa: ZAKO3437
 idPredpisaChng: ZAKO3437
-instock: .nan
-naslov: "ZAKON O NEPREMI\u010CNINSKEM POSREDOVANJU (ZNPosr) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 6)"
+naslov: "ZAKON O NEPREMI\u010CNINSKEM POSREDOVANJU (ZNPosr) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 6)"
 npbNum: 6
 path: /2019/22/2019-01-2285-2003-01-2010-npb6
 sopPredpisa: 2019-01-2285

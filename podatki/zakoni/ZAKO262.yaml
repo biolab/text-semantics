@@ -1,14 +1,8 @@
 Text file: ZAKO262.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 733186800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-03-26 23:00:00
 idPredpisa: ZAKO262
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O REPREZENTATIVNOSTI SINDIKATOV
 npbNum: 0
 path: /1993/05/1993-01-0589

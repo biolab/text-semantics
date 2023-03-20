@@ -1,16 +1,10 @@
 Text file: ZAKO8461.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640818800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-29 23:00:00
 idPredpisa: ZAKO8461
 idPredpisaChng: ZAKO8461
-instock: .nan
-naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2022\
-  \ IN 2023 (ZIPRS2223) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2022
+  IN 2023 (ZIPRS2223) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/42/2021-01-4283-2021-01-3713-npb1
 sopPredpisa: 2021-01-4283

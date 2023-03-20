@@ -1,16 +1,10 @@
 Text file: ZAKO8364.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645830000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-25 23:00:00
 idPredpisa: ZAKO8364
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O OMEJITVI IN PORAZDELITVI VALUTNEGA TVEGANJA MED KREDITODAJALCI IN\
-  \ KREDITOJEMALCI KREDITOV V \u0160VICARSKIH FRANKIH (ZOPVTKK)"
+naslov: "ZAKON O OMEJITVI IN PORAZDELITVI VALUTNEGA TVEGANJA MED KREDITODAJALCI IN
+  KREDITOJEMALCI KREDITOV V \u0160VICARSKIH FRANKIH (ZOPVTKK)"
 npbNum: 0
 path: /2022/03/2022-01-0304
 sopPredpisa: 2022-01-0304

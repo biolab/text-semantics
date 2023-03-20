@@ -1,16 +1,10 @@
 Text file: ZAKO4461.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1392850800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-19 23:00:00
 idPredpisa: ZAKO4461
 idPredpisaChng: ZAKO4461
-instock: .nan
-naslov: "ZAKON O RADIOTELEVIZIJI SLOVENIJA (ZRTVS-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "ZAKON O RADIOTELEVIZIJI SLOVENIJA (ZRTVS-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2014/02/2014-01-0220-2005-01-4191-npb4
 sopPredpisa: 2014-01-0220

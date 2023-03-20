@@ -1,16 +1,10 @@
 Text file: ZAKO317.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1477087200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-21 22:00:00
 idPredpisa: ZAKO317
 idPredpisaChng: ZAKO317
-instock: .nan
-naslov: "ZAKON o dedovanju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)\
-  \ (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
+naslov: "ZAKON o dedovanju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)
+  (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
 npbNum: 9
 path: /2016/26/2016-01-2687-1976-04-0645-npb9
 sopPredpisa: 2016-01-2687

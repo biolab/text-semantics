@@ -1,14 +1,8 @@
 Text file: ZAKO3457.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1067986800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-04 23:00:00
 idPredpisa: ZAKO3457
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O GEOMETRI\u010CNEM SREDI\u0160\u010CU SLOVENIJE (ZGSS)"
 npbNum: 0
 path: /2003/45/2003-01-4501

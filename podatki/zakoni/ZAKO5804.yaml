@@ -1,16 +1,10 @@
 Text file: ZAKO5804.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1301094000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-03-25 23:00:00
 idPredpisa: ZAKO5804
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O TEHNI\u010CNIH ZAHTEVAH ZA PROIZVODE IN O UGOTAVLJANJU SKLADNOSTI\
-  \ (ZTZPUS-1)"
+naslov: "ZAKON O TEHNI\u010CNIH ZAHTEVAH ZA PROIZVODE IN O UGOTAVLJANJU SKLADNOSTI
+  (ZTZPUS-1)"
 npbNum: 0
 path: /2011/06/2011-01-0691
 sopPredpisa: 2011-01-0691

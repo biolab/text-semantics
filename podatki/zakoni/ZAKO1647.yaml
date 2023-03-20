@@ -1,16 +1,10 @@
 Text file: ZAKO1647.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 970264800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-29 22:00:00
 idPredpisa: ZAKO1647
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O MATI\u010CNI EVIDENCI ZAVAROVANCEV IN U\u017DIVALCEV PRAVIC IZ POKOJNINSKEGA\
-  \ IN INVALIDSKEGA ZAVAROVANJA (ZMEPIZ)"
+naslov: "ZAKON O MATI\u010CNI EVIDENCI ZAVAROVANCEV IN U\u017DIVALCEV PRAVIC IZ POKOJNINSKEGA
+  IN INVALIDSKEGA ZAVAROVANJA (ZMEPIZ)"
 npbNum: 0
 path: /2000/37/2000-01-3709
 sopPredpisa: 2000-01-3709

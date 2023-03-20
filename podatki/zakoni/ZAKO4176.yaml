@@ -1,12 +1,10 @@
 Text file: ZAKO4176.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ZAKO4176
 idPredpisaChng: ZAKO4176
-instock: .nan
-naslov: "ZAKON O ZA\u010CASNI ZA\u0160\u010CITI RAZSELJENIH OSEB (ZZZRO) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O ZA\u010CASNI ZA\u0160\u010CITI RAZSELJENIH OSEB (ZZZRO) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/08/2017-01-0804-2005-01-2839-npb2
 sopPredpisa: 2017-01-0804

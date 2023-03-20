@@ -1,16 +1,10 @@
 Text file: ZAKO8206.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640818800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-29 23:00:00
 idPredpisa: ZAKO8206
 idPredpisaChng: ZAKO8206
-instock: .nan
-naslov: "ZAKON O INTERVENTNIH UKREPIH ZA OMILITEV IN ODPRAVO POSLEDIC EPIDEMIJE COVID-19\
-  \ (ZIUOOPE) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "ZAKON O INTERVENTNIH UKREPIH ZA OMILITEV IN ODPRAVO POSLEDIC EPIDEMIJE COVID-19
+  (ZIUOOPE) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2021/42/2021-01-4283-2020-01-1195-npb6
 sopPredpisa: 2021-01-4283

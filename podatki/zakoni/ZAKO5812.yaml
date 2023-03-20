@@ -1,16 +1,10 @@
 Text file: ZAKO5812.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: ZAKO5812
 idPredpisaChng: ZAKO5812
-instock: .nan
-naslov: "ZAKON O DR\u017DAVNEM TO\u017DILSTVU (ZDT-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 11)"
+naslov: "ZAKON O DR\u017DAVNEM TO\u017DILSTVU (ZDT-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 11)"
 npbNum: 11
 path: /2022/26/2022-01-2603-2011-01-2713-npb11
 sopPredpisa: 2022-01-2603

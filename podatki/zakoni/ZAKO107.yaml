@@ -1,14 +1,8 @@
 Text file: ZAKO107.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 655167600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1990-10-05 23:00:00
 idPredpisa: ZAKO107
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON o amnestiji
 npbNum: 0
 path: /1990/17/1990-03-1793

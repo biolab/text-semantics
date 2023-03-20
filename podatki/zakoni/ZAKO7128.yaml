@@ -1,19 +1,10 @@
 Text file: ZAKO7128.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1676242800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640127600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2023-02-12 23:00:00
+datumZacetkaVelj: 2021-12-21 23:00:00
 idPredpisa: ZAKO7128
 idPredpisaChng: ZAKO7128
-instock: .nan
-naslov: "ZAKON O TRO\u0160ARINAH (ZTro-1) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "ZAKON O TRO\u0160ARINAH (ZTro-1) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2021/38/2021-01-3807-2016-01-2035-npb2
 sopPredpisa: 2021-01-3807

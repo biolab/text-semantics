@@ -1,16 +1,10 @@
 Text file: ZAKO2380.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 640648800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1990-04-20 22:00:00
 idPredpisa: ZAKO2380
 idPredpisaChng: ZAKO2380
-instock: .nan
-naslov: "ZAKON O RE\u0160EVANJU KOLIZIJE ZAKONOV IN PRISTOJNOSTI V STATUSNIH, RODBINSKIH\
-  \ IN DEDNIH RAZMERJIH (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O RE\u0160EVANJU KOLIZIJE ZAKONOV IN PRISTOJNOSTI V STATUSNIH, RODBINSKIH
+  IN DEDNIH RAZMERJIH (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1990/03/1990-07-0366-1979-07-0151-npb1
 sopPredpisa: 1990-07-0366

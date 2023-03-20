@@ -1,17 +1,11 @@
 Text file: ZAKO1857.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 926719200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-05-14 22:00:00
 idPredpisa: ZAKO1857
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI DARS d.d. IZ NASLOVA\
-  \ KREDITA, KI GA NAJAME PRI EVROPSKI INVESTICIJSKI BANKI ZA PROJEKT SLOVENSKIH AVTOCEST/III\
-  \ (ZPDKEIBA)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI DARS d.d. IZ NASLOVA
+  KREDITA, KI GA NAJAME PRI EVROPSKI INVESTICIJSKI BANKI ZA PROJEKT SLOVENSKIH AVTOCEST/III
+  (ZPDKEIBA)"
 npbNum: 0
 path: /1999/17/1999-01-1755
 sopPredpisa: 1999-01-1755

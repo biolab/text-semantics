@@ -1,14 +1,8 @@
 Text file: ZAKO2401.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 657586800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1990-11-02 23:00:00
 idPredpisa: ZAKO2401
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O TEMELJIH GEOLO\u0160KE DEJAVNOSTI, POMEMBNE ZA VSO DR\u017DAVO"
 npbNum: 0
 path: /1990/09/1990-07-0973

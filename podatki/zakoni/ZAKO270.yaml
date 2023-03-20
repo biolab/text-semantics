@@ -1,19 +1,10 @@
 Text file: ZAKO270.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480719600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-12-02 23:00:00
 idPredpisa: ZAKO270
 idPredpisaChng: ZAKO270
-instock: .nan
-naslov: "ZAKON o gozdovih (ZG) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 11) (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
+naslov: "ZAKON o gozdovih (ZG) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  11) (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
 npbNum: 11
 path: /2016/32/2016-01-3230-1993-01-1299-npb11
 sopPredpisa: 2016-01-3230

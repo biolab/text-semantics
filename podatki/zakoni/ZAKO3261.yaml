@@ -1,16 +1,10 @@
 Text file: ZAKO3261.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009666800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-12-29 23:00:00
 idPredpisa: ZAKO3261
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PREVZEMU IN NA\u010CINU PORAVNAVE OBVEZNOSTI SLOVENSKIH \u017DELEZARN\
-  \ V ZVEZI S PROGRAMOM PRESTRUKTURIRANJA (ZPPOSZ)"
+naslov: "ZAKON O PREVZEMU IN NA\u010CINU PORAVNAVE OBVEZNOSTI SLOVENSKIH \u017DELEZARN
+  V ZVEZI S PROGRAMOM PRESTRUKTURIRANJA (ZPPOSZ)"
 npbNum: 0
 path: /2001/54/2001-01-5490
 sopPredpisa: 2001-01-5490

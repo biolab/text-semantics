@@ -1,12 +1,10 @@
 Text file: ZAKO3250.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ZAKO3250
 idPredpisaChng: ZAKO3250
-instock: .nan
-naslov: "ZAKON O EVIDENCI VOLILNE PRAVICE (ZEVP-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ZAKON O EVIDENCI VOLILNE PRAVICE (ZEVP-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2007/00/2007-01-0001-2002-01-2525-npb2
 sopPredpisa: 2007-01-0001

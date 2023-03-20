@@ -1,14 +1,8 @@
 Text file: ZAKO7129.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1523656800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-13 22:00:00
 idPredpisa: ZAKO7129
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O NEVLADNIH ORGANIZACIJAH (ZNOrg)
 npbNum: 0
 path: /2018/08/2018-01-0887

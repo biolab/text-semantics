@@ -1,16 +1,10 @@
 Text file: ZAKO7524.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1532124000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-20 22:00:00
 idPredpisa: ZAKO7524
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O IZGRADNJI, UPRAVLJANJU IN GOSPODARJENJU Z DRUGIM TIROM \u017DELEZNI\u0160\
-  KE PROGE DIVA\u010CA\u2013KOPER (ZIUGDT)"
+naslov: "ZAKON O IZGRADNJI, UPRAVLJANJU IN GOSPODARJENJU Z DRUGIM TIROM \u017DELEZNI\u0160KE
+  PROGE DIVA\u010CA\u2013KOPER (ZIUGDT)"
 npbNum: 0
 path: /2018/26/2018-01-2625
 sopPredpisa: 2018-01-2625

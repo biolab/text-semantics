@@ -1,14 +1,8 @@
 Text file: ZAKO3787.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-31 22:00:00
 idPredpisa: ZAKO3787
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O VARSTVU KUPCEV STANOVANJ IN ENOSTANOVANJSKIH STAVB (ZVKSES)
 npbNum: 0
 path: /2004/07/2004-01-0776

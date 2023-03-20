@@ -1,14 +1,8 @@
 Text file: ZAKO8328.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660082400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-09 22:00:00
 idPredpisa: ZAKO8328
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O OBLIKAH ALTERNATIVNIH INVESTICIJSKIH SKLADOV (ZOAIS)
 npbNum: 0
 path: /2022/25/2022-01-2541

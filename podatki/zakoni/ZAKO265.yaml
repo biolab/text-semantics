@@ -1,16 +1,10 @@
 Text file: ZAKO265.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-21 22:00:00
 idPredpisa: ZAKO265
 idPredpisaChng: ZAKO265
-instock: .nan
-naslov: "ZAKON O ODVETNI\u0160TVU (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 8) (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
+naslov: "ZAKON O ODVETNI\u0160TVU (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  8) (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja tega zakona)"
 npbNum: 8
 path: /2019/16/2019-01-1625-1993-01-0817-npb8
 sopPredpisa: 2019-01-1625

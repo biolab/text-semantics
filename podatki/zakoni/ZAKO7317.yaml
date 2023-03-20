@@ -1,14 +1,8 @@
 Text file: ZAKO7317.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1477087200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-21 22:00:00
 idPredpisa: ZAKO7317
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O KOLEKTIVNEM UPRAVLJANJU AVTORSKE IN SORODNIH PRAVIC (ZKUASP)
 npbNum: 0
 path: /2016/26/2016-01-2683

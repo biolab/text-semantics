@@ -1,17 +1,10 @@
 Text file: ZAKO3367.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1025820000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-04 22:00:00
 idPredpisa: ZAKO3367
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O NAJEMU KREDITA PRI EVROPSKI INVESTICIJSKI BANKI V ZNESKU 20 MILIJONOV\
-  \ EVROV ZA FINANCIRANJE EKOLO\u0160KE SANACIJE RUDNIKA URANA \u017DIROVSKI VRH (ZNKR\u017D\
-  V)"
+naslov: "ZAKON O NAJEMU KREDITA PRI EVROPSKI INVESTICIJSKI BANKI V ZNESKU 20 MILIJONOV
+  EVROV ZA FINANCIRANJE EKOLO\u0160KE SANACIJE RUDNIKA URANA \u017DIROVSKI VRH (ZNKR\u017DV)"
 npbNum: 0
 path: /2002/28/2002-01-2811
 sopPredpisa: 2002-01-2811

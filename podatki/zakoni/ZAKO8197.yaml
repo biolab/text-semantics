@@ -1,17 +1,11 @@
 Text file: ZAKO8197.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1606518000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-27 23:00:00
 idPredpisa: ZAKO8197
 idPredpisaChng: ZAKO8197
-instock: .nan
-naslov: "ZAKON O ZAGOTOVITVI DODATNE LIKVIDNOSTI GOSPODARSTVU ZA OMILITEV POSLEDIC\
-  \ EPIDEMIJE COVID-19 (ZDLGPE) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "ZAKON O ZAGOTOVITVI DODATNE LIKVIDNOSTI GOSPODARSTVU ZA OMILITEV POSLEDIC
+  EPIDEMIJE COVID-19 (ZDLGPE) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2020/30/2020-01-3096-2020-01-0897-npb2
 sopPredpisa: 2020-01-3096

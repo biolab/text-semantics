@@ -1,16 +1,10 @@
 Text file: ZAKO218.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 882572400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-12-19 23:00:00
 idPredpisa: ZAKO218
 idPredpisaChng: ZAKO218
-instock: .nan
-naslov: "ZAKON O INDUSTRIJSKI LASTNINI (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "ZAKON O INDUSTRIJSKI LASTNINI (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /1997/35/1997-01-3589-1992-01-0676-npb3
 sopPredpisa: 1997-01-3589

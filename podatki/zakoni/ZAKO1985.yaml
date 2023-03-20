@@ -1,14 +1,8 @@
 Text file: ZAKO1985.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 926373600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-05-10 22:00:00
 idPredpisa: ZAKO1985
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O ZAGOTOVITVI SREDSTEV ZA ODPRAVO POSLEDIC NEURIJ, POPLAV IN PLAZENJA
   TAL, KI SO V OBDOBJU SEPTEMBER-NOVEMBER 1998 PRIZADELE REPUBLIKO SLOVENIJO (ZZSO98)
 npbNum: 0

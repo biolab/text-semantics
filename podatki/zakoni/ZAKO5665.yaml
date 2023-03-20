@@ -1,17 +1,11 @@
 Text file: ZAKO5665.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1244239200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-06-05 22:00:00
 idPredpisa: ZAKO5665
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI SLOVENSKE OD\u0160\
-  KODNINSKE DRU\u017DBE, D.D., IZ NASLOVA KREDITOV, NAJETIH ZA FINANCIRANJE SLOVENSKE\
-  \ OD\u0160KODNINSKE DRU\u017DBE, D.D., V LETU 2009 (ZPSOD09)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI SLOVENSKE OD\u0160KODNINSKE
+  DRU\u017DBE, D.D., IZ NASLOVA KREDITOV, NAJETIH ZA FINANCIRANJE SLOVENSKE OD\u0160KODNINSKE
+  DRU\u017DBE, D.D., V LETU 2009 (ZPSOD09)"
 npbNum: 0
 path: /2009/20/2009-01-2036
 sopPredpisa: 2009-01-2036

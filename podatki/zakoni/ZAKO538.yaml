@@ -1,14 +1,8 @@
 Text file: ZAKO538.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 757378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-12-31 23:00:00
 idPredpisa: ZAKO538
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O POSEBNEM PROMETNEM DAVKU OD POSEBNIH IGER NA SRE\u010CO"
 npbNum: 0
 path: /1993/24/1993-01-2466

@@ -1,19 +1,10 @@
 Text file: ZAKO7908.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576882800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-12-31 23:00:00
+datumZacetkaVelj: 2019-12-20 23:00:00
 idPredpisa: ZAKO7908
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV ZA DOLO\u010CENE NUJNE PROGRAME REPUBLIKE\
-  \ SLOVENIJE V KULTURI (ZZSDNPK)"
+naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV ZA DOLO\u010CENE NUJNE PROGRAME REPUBLIKE
+  SLOVENIJE V KULTURI (ZZSDNPK)"
 npbNum: 0
 path: /2019/32/2019-01-3226
 sopPredpisa: 2019-01-3226

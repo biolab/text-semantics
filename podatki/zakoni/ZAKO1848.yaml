@@ -1,14 +1,8 @@
 Text file: ZAKO1848.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 945990000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-23 23:00:00
 idPredpisa: ZAKO1848
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O POPISU KMETIJSKIH GOSPODARSTEV V REPUBLIKI SLOVENIJI V LETU 2000 (ZPKG)
 npbNum: 0
 path: /1999/46/1999-01-4694

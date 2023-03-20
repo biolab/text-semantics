@@ -1,19 +1,10 @@
 Text file: ZAKO6446.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527804000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510873200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-05-31 22:00:00
+datumZacetkaVelj: 2017-11-16 23:00:00
 idPredpisa: ZAKO6446
 idPredpisaChng: ZAKO6446
-instock: .nan
-naslov: "ZAKON O DR\u017DAVNEM GEODETSKEM REFEREN\u010CNEM SISTEMU (ZDGRS) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O DR\u017DAVNEM GEODETSKEM REFEREN\u010CNEM SISTEMU (ZDGRS) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/29/2017-01-2913-2014-01-0962-npb1
 sopPredpisa: 2017-01-2913

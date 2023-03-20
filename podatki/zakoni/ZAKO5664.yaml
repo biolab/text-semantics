@@ -1,17 +1,11 @@
 Text file: ZAKO5664.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1397685600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-16 22:00:00
 idPredpisa: ZAKO5664
 idPredpisaChng: ZAKO5664
-instock: .nan
-naslov: "ZAKON O PREJEMKIH POSLOVODNIH OSEB V GOSPODARSKIH DRU\u017DBAH V VE\u010C\
-  INSKI LASTI REPUBLIKE SLOVENIJE IN SAMOUPRAVNIH LOKALNIH SKUPNOSTI (ZPPOGD) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O PREJEMKIH POSLOVODNIH OSEB V GOSPODARSKIH DRU\u017DBAH V VE\u010CINSKI
+  LASTI REPUBLIKE SLOVENIJE IN SAMOUPRAVNIH LOKALNIH SKUPNOSTI (ZPPOGD) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/08/2014-01-0876-2010-01-0880-npb1
 sopPredpisa: 2014-01-0876

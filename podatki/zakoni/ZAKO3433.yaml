@@ -1,16 +1,10 @@
 Text file: ZAKO3433.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1038524400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-11-28 23:00:00
 idPredpisa: ZAKO3433
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O TEMELJNIH RAZVOJNIH PROGRAMIH NA PODRO\u010CJU IZOBRA\u017DEVANJA\
-  \ IN ZNANOSTI V LETIH 2003\u20132008 (ZTRPIZ)"
+naslov: "ZAKON O TEMELJNIH RAZVOJNIH PROGRAMIH NA PODRO\u010CJU IZOBRA\u017DEVANJA
+  IN ZNANOSTI V LETIH 2003\u20132008 (ZTRPIZ)"
 npbNum: 0
 path: /2002/48/2002-01-4809
 sopPredpisa: 2002-01-4809

@@ -1,16 +1,10 @@
 Text file: ZAKO6715.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419894000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-29 23:00:00
 idPredpisa: ZAKO6715
 idPredpisaChng: ZAKO6715
-instock: .nan
-naslov: "ZAKON O INTERVENTNIH UKREPIH NA PODRO\u010CJU TRGA DELA IN STAR\u0160EVSKEGA\
-  \ VARSTVA (ZIUPTDSV) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O INTERVENTNIH UKREPIH NA PODRO\u010CJU TRGA DELA IN STAR\u0160EVSKEGA
+  VARSTVA (ZIUPTDSV) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/39/2014-01-3950-2013-01-2511-npb1
 sopPredpisa: 2014-01-3950

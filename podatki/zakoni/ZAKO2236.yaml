@@ -1,17 +1,11 @@
 Text file: ZAKO2236.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 952124400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-03 23:00:00
 idPredpisa: ZAKO2236
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O SOGLASJU REPUBLIKE SLOVENIJE DARS D.D. ZA NAJETJE KREDITA AUTOVIE\
-  \ VENETE S.p.A., ZA IZGRADNJO 2. IN 3. ETAPE AVTOCESTNEGA ODSEKA VIPAVA\u2013RAZDRTO\
-  \ (ZSDAVR)"
+naslov: "ZAKON O SOGLASJU REPUBLIKE SLOVENIJE DARS D.D. ZA NAJETJE KREDITA AUTOVIE
+  VENETE S.p.A., ZA IZGRADNJO 2. IN 3. ETAPE AVTOCESTNEGA ODSEKA VIPAVA\u2013RAZDRTO
+  (ZSDAVR)"
 npbNum: 0
 path: /2000/08/2000-01-0849
 sopPredpisa: 2000-01-0849

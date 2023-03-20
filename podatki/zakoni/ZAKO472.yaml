@@ -1,17 +1,11 @@
 Text file: ZAKO472.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 931816800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-07-12 22:00:00
 idPredpisa: ZAKO472
 idPredpisaChng: ZAKO472
-instock: .nan
-naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV POOBLA\u0160\u010CENIM INVESTICIJSKIM DRU\u017D\
-  BAM ZARADI ZAMENJAVE TEH SREDSTEV ZA ZBRANE LASTNI\u0160KE CERTIFIKATE (ZZSPID)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O ZAGOTAVLJANJU SREDSTEV POOBLA\u0160\u010CENIM INVESTICIJSKIM DRU\u017DBAM
+  ZARADI ZAMENJAVE TEH SREDSTEV ZA ZBRANE LASTNI\u0160KE CERTIFIKATE (ZZSPID) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1999/23/1999-01-2368-1996-01-3392-npb1
 sopPredpisa: 1999-01-2368

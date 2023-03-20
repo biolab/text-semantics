@@ -1,16 +1,10 @@
 Text file: ZAKO972.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 834789600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-06-14 22:00:00
 idPredpisa: ZAKO972
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O NAJETJU POSOJILA PRI MEDNARODNI BANKI ZA OBNOVO IN RAZVOJ ZA SLOVENSKI\
-  \ EKOLO\u0160KI PROJEKT \u2013 GEOGRAFSKI INFORMACIJSKI SISTEM (ZNPGIS)"
+naslov: "ZAKON O NAJETJU POSOJILA PRI MEDNARODNI BANKI ZA OBNOVO IN RAZVOJ ZA SLOVENSKI
+  EKOLO\u0160KI PROJEKT \u2013 GEOGRAFSKI INFORMACIJSKI SISTEM (ZNPGIS)"
 npbNum: 0
 path: /1996/20/1996-01-2010
 sopPredpisa: 1996-01-2010

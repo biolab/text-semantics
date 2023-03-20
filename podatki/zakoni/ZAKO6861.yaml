@@ -1,14 +1,8 @@
 Text file: ZAKO6861.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1472680800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-08-31 22:00:00
 idPredpisa: ZAKO6861
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O VARNOSTI NA SMU\u010CI\u0160\u010CIH (ZVSmu\u010D-1)"
 npbNum: 0
 path: /2016/19/2016-01-1922

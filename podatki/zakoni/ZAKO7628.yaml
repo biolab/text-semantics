@@ -1,14 +1,8 @@
 Text file: ZAKO7628.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-20 22:00:00
 idPredpisa: ZAKO7628
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O IZVAJANJU UREDBE (EU) O PREGLEDNOSTI POSLOV FINANCIRANJA Z VREDNOSTNIMI
   PAPIRJI IN PONOVNE UPORABE (ZIUPVP)
 npbNum: 0

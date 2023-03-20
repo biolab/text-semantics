@@ -1,16 +1,10 @@
 Text file: ZAKO865.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-13 22:00:00
 idPredpisa: ZAKO865
 idPredpisaChng: ZAKO865
-instock: .nan
-naslov: "ZAKON o praznikih in dela prostih dnevih v Republiki Sloveniji (ZPDPD) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
+naslov: "ZAKON o praznikih in dela prostih dnevih v Republiki Sloveniji (ZPDPD) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
 npbNum: 7
 path: /2020/16/2020-01-1627-1991-01-1091-npb7
 sopPredpisa: 2020-01-1627

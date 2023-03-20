@@ -1,17 +1,11 @@
 Text file: ZAKO478.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 860191200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-04-04 22:00:00
 idPredpisa: ZAKO478
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVIH REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ POGODB O NAJETJU\
-  \ POSOJIL MEDNARODNE BANKE ZA OBNOVO IN RAZVOJ ZA PROJEKT O\u017DIVITVE NALO\u017D\
-  BENE DEJAVNOSTI V SLOVENIJI (ZPOPNP)"
+naslov: "ZAKON O PORO\u0160TVIH REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ POGODB O NAJETJU
+  POSOJIL MEDNARODNE BANKE ZA OBNOVO IN RAZVOJ ZA PROJEKT O\u017DIVITVE NALO\u017DBENE
+  DEJAVNOSTI V SLOVENIJI (ZPOPNP)"
 npbNum: 0
 path: /1997/10/1997-01-1055
 sopPredpisa: 1997-01-1055

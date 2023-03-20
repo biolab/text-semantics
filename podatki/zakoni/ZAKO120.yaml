@@ -1,16 +1,10 @@
 Text file: ZAKO120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 522712800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1986-07-25 22:00:00
 idPredpisa: ZAKO120
 idPredpisaChng: ZAKO120
-instock: .nan
-naslov: "ZAKON o dolo\u010Ditvi zavarovanega obmo\u010Dja za reko So\u010Do s pritoki\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON o dolo\u010Ditvi zavarovanega obmo\u010Dja za reko So\u010Do s pritoki
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1986/14/1986-04-1421-1976-04-0293-npb1
 sopPredpisa: 1986-04-1421

@@ -1,14 +1,8 @@
 Text file: ZAKO8412.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639522800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-14 23:00:00
 idPredpisa: ZAKO8412
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O ODPRAVI KRIVIC ZARADI IZBRISA PRAVNIH OSEB IZ SODNEGA REGISTRA V OBDOBJU
   OD 23. JULIJA 1999 DO 15. JANUARJA 2008 (ZOKIPOSR)
 npbNum: 0

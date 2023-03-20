@@ -1,19 +1,10 @@
 Text file: ZAKO450.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1567288800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564783200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-08-31 22:00:00
+datumZacetkaVelj: 2019-08-02 22:00:00
 idPredpisa: ZAKO450
 idPredpisaChng: ZAKO450
-instock: .nan
-naslov: "ZAKON O GIMNAZIJAH (ZGim) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 6)"
+naslov: "ZAKON O GIMNAZIJAH (ZGim) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  6)"
 npbNum: 6
 path: /2019/21/2019-01-2180-1996-01-0571-npb6
 sopPredpisa: 2019-01-2180

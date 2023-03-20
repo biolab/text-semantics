@@ -1,16 +1,10 @@
 Text file: ZAKO5400.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1572994800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-11-05 23:00:00
 idPredpisa: ZAKO5400
 idPredpisaChng: ZAKO5400
-instock: .nan
-naslov: "ZAKON O DAVKU OD DOBI\u010CKA OD ODSVOJITVE IZVEDENIH FINAN\u010CNIH INSTRUMENTOV\
-  \ (ZDDOIFI) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O DAVKU OD DOBI\u010CKA OD ODSVOJITVE IZVEDENIH FINAN\u010CNIH INSTRUMENTOV
+  (ZDDOIFI) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/29/2019-01-2926-2008-01-2814-npb2
 sopPredpisa: 2019-01-2926

@@ -1,16 +1,10 @@
 Text file: ZAKO6315.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: ZAKO6315
 idPredpisaChng: ZAKO6315
-instock: .nan
-naslov: "ZAKON O ORGANIZIRANOSTI IN DELU V POLICIJI (ZODPol) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 9)"
+naslov: "ZAKON O ORGANIZIRANOSTI IN DELU V POLICIJI (ZODPol) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 9)"
 npbNum: 9
 path: /2022/26/2022-01-2603-2013-01-0436-npb9
 sopPredpisa: 2022-01-2603

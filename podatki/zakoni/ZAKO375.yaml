@@ -1,14 +1,8 @@
 Text file: ZAKO375.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 784594800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-11-11 23:00:00
 idPredpisa: ZAKO375
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O IZGRADNJI UNIVERZITETNE KNJI\u017DNICE V LJUBLJANI"
 npbNum: 0
 path: /1994/25/1994-01-2511

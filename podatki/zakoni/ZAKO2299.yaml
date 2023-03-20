@@ -1,14 +1,8 @@
 Text file: ZAKO2299.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 640908000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1990-04-23 22:00:00
 idPredpisa: ZAKO2299
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON o prenehanju veljavnosti zakonov o dru\u017Ebenih svetih"
 npbNum: 0
 path: /1990/07/1990-03-0710

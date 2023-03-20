@@ -1,17 +1,8 @@
 Text file: ZAKO7733.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639522800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-31 23:00:00
+datumZacetkaVelj: 2021-12-14 23:00:00
 idPredpisa: ZAKO7733
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O ZNANSTVENORAZISKOVALNI IN INOVACIJSKI DEJAVNOSTI (ZZrID)
 npbNum: 0
 path: /2021/36/2021-01-3695

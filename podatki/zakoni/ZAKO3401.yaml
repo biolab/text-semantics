@@ -1,16 +1,10 @@
 Text file: ZAKO3401.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-10 23:00:00
 idPredpisa: ZAKO3401
 idPredpisaChng: ZAKO3401
-instock: .nan
-naslov: "ZAKON o volitvah poslancev iz Republike Slovenije v Evropski parlament (ZVPEP)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "ZAKON o volitvah poslancev iz Republike Slovenije v Evropski parlament (ZVPEP)
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2017/27/2017-01-2770-2002-01-4803-npb6
 sopPredpisa: 2017-01-2770

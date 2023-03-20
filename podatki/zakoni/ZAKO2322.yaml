@@ -1,16 +1,10 @@
 Text file: ZAKO2322.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524088800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-18 22:00:00
 idPredpisa: ZAKO2322
 idPredpisaChng: ZAKO2322
-instock: .nan
-naslov: "ZAKON O VETERINARSTVU (ZVet-1) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 5)"
+naslov: "ZAKON O VETERINARSTVU (ZVet-1) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 5)"
 npbNum: 5
 path: /2018/09/2018-01-0948-2001-01-1959-npb5
 sopPredpisa: 2018-01-0948

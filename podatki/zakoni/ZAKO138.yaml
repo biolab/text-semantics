@@ -1,16 +1,10 @@
 Text file: ZAKO138.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 869781600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-07-24 22:00:00
 idPredpisa: ZAKO138
 idPredpisaChng: ZAKO138
-instock: .nan
-naslov: "ZAKON o komunalnih dejavnostih (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "ZAKON o komunalnih dejavnostih (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /1997/24/1997-01-2417-1982-04-0350-npb4
 sopPredpisa: 1997-01-2417

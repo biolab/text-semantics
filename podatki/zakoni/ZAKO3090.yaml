@@ -1,16 +1,9 @@
 Text file: ZAKO3090.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982364400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-16 23:00:00
 idPredpisa: ZAKO3090
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O \u010CLANSTVU REPUBLIKE SLOVENIJE V RAZVOJNI BANKI SVETA EVROPE (Z\u010C\
-  RBSE)"
+naslov: "ZAKON O \u010CLANSTVU REPUBLIKE SLOVENIJE V RAZVOJNI BANKI SVETA EVROPE (Z\u010CRBSE)"
 npbNum: 0
 path: /2001/06/2001-01-0665
 sopPredpisa: 2001-01-0665

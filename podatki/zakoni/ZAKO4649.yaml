@@ -1,16 +1,10 @@
 Text file: ZAKO4649.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1445551200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-22 22:00:00
 idPredpisa: ZAKO4649
 idPredpisaChng: ZAKO4649
-instock: .nan
-naslov: "ZAKON O PREVZEMIH (ZPre-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 10)"
+naslov: "ZAKON O PREVZEMIH (ZPre-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  10)"
 npbNum: 10
 path: /2015/29/2015-01-2926-2006-01-3446-npb10
 sopPredpisa: 2015-01-2926

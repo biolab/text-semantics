@@ -1,16 +1,10 @@
 Text file: ZAKO1600.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: ZAKO1600
 idPredpisaChng: ZAKO1600
-instock: .nan
-naslov: "ZAKON O OHRANJANJU NARAVE (ZON) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 12)"
+naslov: "ZAKON O OHRANJANJU NARAVE (ZON) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 12)"
 npbNum: 12
 path: /2022/26/2022-01-2603-1999-01-2655-npb12
 sopPredpisa: 2022-01-2603

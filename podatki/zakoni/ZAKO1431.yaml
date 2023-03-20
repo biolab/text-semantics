@@ -1,16 +1,10 @@
 Text file: ZAKO1431.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1338415200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-30 22:00:00
 idPredpisa: ZAKO1431
 idPredpisaChng: ZAKO1431
-instock: .nan
-naslov: "ZAKON o pokojninskem in invalidskem zavarovanju (ZPIZ-1) \_(neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 28)"
+naslov: "ZAKON o pokojninskem in invalidskem zavarovanju (ZPIZ-1) \_(neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 28)"
 npbNum: 28
 path: /2012/17/2012-01-1700-1999-01-4965-npb28
 sopPredpisa: 2012-01-1700

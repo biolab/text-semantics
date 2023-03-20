@@ -1,16 +1,10 @@
 Text file: ZAKO1445.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1439416800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-08-12 22:00:00
 idPredpisa: ZAKO1445
 idPredpisaChng: ZAKO1445
-instock: .nan
-naslov: "ZAKON O PREVOZU NEVARNEGA BLAGA (ZPNB) (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 7)"
+naslov: "ZAKON O PREVOZU NEVARNEGA BLAGA (ZPNB) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 7)"
 npbNum: 7
 path: /2015/23/2015-01-2361-1999-01-3756-npb7
 sopPredpisa: 2015-01-2361

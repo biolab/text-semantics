@@ -1,17 +1,11 @@
 Text file: ZAKO461.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 834789600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-06-14 22:00:00
 idPredpisa: ZAKO461
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ POGODBE O NAJETJU\
-  \ POSOJILA MEDNARODNE BANKE ZA OBNOVO IN RAZVOJ ZA SLOVENSKI EKOLO\u0160KI PROJEKT\
-  \ \u2013 ZMANJ\u0160ANJE ONESNA\u017DEVANJA ZRAKA (ZNPZOZ) "
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ POGODBE O NAJETJU
+  POSOJILA MEDNARODNE BANKE ZA OBNOVO IN RAZVOJ ZA SLOVENSKI EKOLO\u0160KI PROJEKT
+  \u2013 ZMANJ\u0160ANJE ONESNA\u017DEVANJA ZRAKA (ZNPZOZ) "
 npbNum: 0
 path: /1996/20/1996-01-2009
 sopPredpisa: 1996-01-2009

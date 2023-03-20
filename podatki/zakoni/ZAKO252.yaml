@@ -1,16 +1,10 @@
 Text file: ZAKO252.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 868053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-07-04 22:00:00
 idPredpisa: ZAKO252
 idPredpisaChng: ZAKO252
-instock: .nan
-naslov: "ZAKON O SKLADU REPUBLIKE SLOVENIJE ZA SUKCESIJO (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O SKLADU REPUBLIKE SLOVENIJE ZA SUKCESIJO (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /1997/22/1997-01-2258-1993-01-0431-npb2
 sopPredpisa: 1997-01-2258

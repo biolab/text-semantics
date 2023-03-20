@@ -1,16 +1,10 @@
 Text file: ZAKO7430.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-10 23:00:00
 idPredpisa: ZAKO7430
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O DR\u017DAVNI METEOROLO\u0160KI, HIDROLO\u0160KI, OCEANOGRAFSKI IN\
-  \ SEIZMOLO\u0160KI SLU\u017DBI (ZDMHS)"
+naslov: "ZAKON O DR\u017DAVNI METEOROLO\u0160KI, HIDROLO\u0160KI, OCEANOGRAFSKI IN
+  SEIZMOLO\u0160KI SLU\u017DBI (ZDMHS)"
 npbNum: 0
 path: /2017/28/2017-01-2879
 sopPredpisa: 2017-01-2879

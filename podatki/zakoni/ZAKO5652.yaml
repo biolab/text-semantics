@@ -1,16 +1,10 @@
 Text file: ZAKO5652.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1338415200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-30 22:00:00
 idPredpisa: ZAKO5652
 idPredpisaChng: ZAKO5652
-instock: .nan
-naslov: "ZAKON o \u0161olski prehrani (Z\u0160olPre) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ZAKON o \u0161olski prehrani (Z\u0160olPre) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2012/17/2012-01-1700-2010-01-2183-npb2
 sopPredpisa: 2012-01-1700

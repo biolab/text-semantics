@@ -1,16 +1,10 @@
 Text file: ZAKO475.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 847494000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-08 23:00:00
 idPredpisa: ZAKO475
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O UKREPIH ZA SANACIJO FINAN\u010CNEGA POLO\u017DAJA PODJETIJ S PODRO\u010C\
-  JA ELEKTROGOSPODARSTVA IN RUDNIKOV RJAVEGA PREMOGA V ZAPIRANJU (ZUSFPE)"
+naslov: "ZAKON O UKREPIH ZA SANACIJO FINAN\u010CNEGA POLO\u017DAJA PODJETIJ S PODRO\u010CJA
+  ELEKTROGOSPODARSTVA IN RUDNIKOV RJAVEGA PREMOGA V ZAPIRANJU (ZUSFPE)"
 npbNum: 0
 path: /1996/34/1996-01-3452
 sopPredpisa: 1996-01-3452

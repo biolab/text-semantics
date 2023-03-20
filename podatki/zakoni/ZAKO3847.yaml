@@ -1,16 +1,10 @@
 Text file: ZAKO3847.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1374012000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-16 22:00:00
 idPredpisa: ZAKO3847
 idPredpisaChng: ZAKO3847
-instock: .nan
-naslov: "ZAKON O FINAN\u010CNIH KONGLOMERATIH (ZFK) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ZAKON O FINAN\u010CNIH KONGLOMERATIH (ZFK) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/21/2013-01-2142-2006-01-1837-npb2
 sopPredpisa: 2013-01-2142

@@ -1,17 +1,11 @@
 Text file: ZAKO4297.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1515711600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-01-11 23:00:00
 idPredpisa: ZAKO4297
 idPredpisaChng: ZAKO4297
-instock: .nan
-naslov: "ZAKON O NAGRADAH IN PRIZNANJIH ZA IZJEMNE DOSE\u017DKE V ZNANSTVENO-RAZISKOVALNI\
-  \ IN RAZVOJNI DEJAVNOSTI (ZNPZRRD) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "ZAKON O NAGRADAH IN PRIZNANJIH ZA IZJEMNE DOSE\u017DKE V ZNANSTVENO-RAZISKOVALNI
+  IN RAZVOJNI DEJAVNOSTI (ZNPZRRD) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2017/37/2017-01-3783-2005-01-4017-npb1
 sopPredpisa: 2017-01-3783

@@ -1,17 +1,11 @@
 Text file: ZAKO232.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 799106400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-04-28 22:00:00
 idPredpisa: ZAKO232
 idPredpisaChng: ZAKO232
-instock: .nan
-naslov: "ZAKON o pogojih, pod katerimi se kmetom zmanj\u0161ani ali odpisani prispevki\
-  \ \u0161tejejo za pla\u010Dane (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "ZAKON o pogojih, pod katerimi se kmetom zmanj\u0161ani ali odpisani prispevki
+  \u0161tejejo za pla\u010Dane (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /1995/09/1995-01-0960-1992-01-2229-npb1
 sopPredpisa: 1995-01-0960

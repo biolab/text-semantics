@@ -1,14 +1,8 @@
 Text file: ZAKO8141.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-12 23:00:00
 idPredpisa: ZAKO8141
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O OSKRBI Z ELEKTRI\u010CNO ENERGIJO (ZOEE)"
 npbNum: 0
 path: /2021/33/2021-01-3349

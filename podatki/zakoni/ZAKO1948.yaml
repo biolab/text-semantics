@@ -1,14 +1,8 @@
 Text file: ZAKO1948.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 49590000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1971-07-28 23:00:00
 idPredpisa: ZAKO1948
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON o republi\u0161kih priznavalninah"
 npbNum: 0
 path: /1971/01/1971-04-0176

@@ -1,19 +1,10 @@
 Text file: ZAKO7103.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636412400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620511200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-11-08 23:00:00
+datumZacetkaVelj: 2021-05-08 22:00:00
 idPredpisa: ZAKO7103
 idPredpisaChng: ZAKO7103
-instock: .nan
-naslov: "ZAKON O MEDNARODNI ZA\u0160\u010CITI (ZMZ-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 3)"
+naslov: "ZAKON O MEDNARODNI ZA\u0160\u010CITI (ZMZ-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2021/10/2021-01-1052-2016-01-0830-npb3
 sopPredpisa: 2021-01-1052

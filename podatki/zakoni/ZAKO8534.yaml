@@ -1,14 +1,8 @@
 Text file: ZAKO8534.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646434800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-04 23:00:00
 idPredpisa: ZAKO8534
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O NUJNIH UKREPIH ZA OMILITEV POSLEDIC ZARADI VPLIVA VISOKIH CEN ENERGENTOV
   (ZUOPVCE)
 npbNum: 0

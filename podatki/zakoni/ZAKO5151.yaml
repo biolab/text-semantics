@@ -1,14 +1,8 @@
 Text file: ZAKO5151.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1183759200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-06 22:00:00
 idPredpisa: ZAKO5151
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O POGOJIH ZA STATUSNO PREOBLIKOVANJE VZAJEMNE ZDRAVSTVENE ZAVAROVALNICE
   d.v.z. (ZPSPVZZ)
 npbNum: 0

@@ -1,19 +1,10 @@
 Text file: ZAKO7681.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1502488800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2017-08-11 22:00:00
 idPredpisa: ZAKO7681
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O CELOSTNI ZGODNJI OBRAVNAVI PRED\u0160OLSKIH OTROK S POSEBNIMI POTREBAMI\
-  \ (ZOPOPP)"
+naslov: "ZAKON O CELOSTNI ZGODNJI OBRAVNAVI PRED\u0160OLSKIH OTROK S POSEBNIMI POTREBAMI
+  (ZOPOPP)"
 npbNum: 0
 path: /2017/20/2017-01-2065
 sopPredpisa: 2017-01-2065

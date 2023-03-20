@@ -1,14 +1,8 @@
 Text file: ZAKO8385.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1641596400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-07 23:00:00
 idPredpisa: ZAKO8385
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O IZPLA\u010CILU NEIZPLA\u010CANEGA NADOMESTILA ZA INVALIDNOST (ZINNI)"
 npbNum: 0
 path: /2021/40/2021-01-4061

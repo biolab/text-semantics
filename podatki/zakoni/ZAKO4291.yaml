@@ -1,16 +1,10 @@
 Text file: ZAKO4291.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-23 23:00:00
 idPredpisa: ZAKO4291
 idPredpisaChng: ZAKO4291
-instock: .nan
-naslov: "ZAKON O GOSPODARSKIH DRU\u017DBAH (ZGD-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 18)"
+naslov: "ZAKON O GOSPODARSKIH DRU\u017DBAH (ZGD-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 18)"
 npbNum: 18
 path: /2021/04/2021-01-0413-2006-01-1799-npb18
 sopPredpisa: 2021-01-0413

@@ -1,18 +1,12 @@
 Text file: ZAKO1014.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 969746400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-23 22:00:00
 idPredpisa: ZAKO1014
 idPredpisaChng: ZAKO1014
-instock: .nan
-naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI SLOVENSKIH \u017D\
-  ELEZNIC, D.D., IZ NASLOVA POSOJIL, NAJETIH ZA FINANCIRANJE GRADNJE \u017DELEZNI\u0160\
-  KE PROGE NA SMERI PUCONCI\u2013HODO\u0160\u2013DR\u017DAVNA MEJA (ZPSZPH) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O PORO\u0160TVU REPUBLIKE SLOVENIJE ZA OBVEZNOSTI SLOVENSKIH \u017DELEZNIC,
+  D.D., IZ NASLOVA POSOJIL, NAJETIH ZA FINANCIRANJE GRADNJE \u017DELEZNI\u0160KE PROGE
+  NA SMERI PUCONCI\u2013HODO\u0160\u2013DR\u017DAVNA MEJA (ZPSZPH) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2000/38/2000-01-3807-1998-01-2113-npb1
 sopPredpisa: 2000-01-3807

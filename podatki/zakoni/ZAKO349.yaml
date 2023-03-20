@@ -1,14 +1,8 @@
 Text file: ZAKO349.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 773704800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-07-08 22:00:00
 idPredpisa: ZAKO349
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O GARANCIJI REPUBLIKE SLOVENIJE ZA OBVEZNOSTI IZ POGODBE O NAJETJU KREDITA
   EVROPSKE INVESTICIJSKE BANKE ZA PROJEKT GRADNJE SLOVENSKIH AVTOCEST/A
 npbNum: 0

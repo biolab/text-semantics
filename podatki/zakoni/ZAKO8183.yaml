@@ -1,17 +1,11 @@
 Text file: ZAKO8183.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588284000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-30 22:00:00
 idPredpisa: ZAKO8183
 idPredpisaChng: ZAKO8183
-instock: .nan
-naslov: "ZAKON O ZA\u010CASNIH UKREPIH V ZVEZI S SODNIMI, UPRAVNIMI IN DRUGIMI JAVNOPRAVNIMI\
-  \ ZADEVAMI ZA OBVLADOVANJE \u0160IRJENJA NALEZLJIVE BOLEZNI SARS-CoV-2 (COVID-19)\
-  \ (ZZUSUDJZ) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O ZA\u010CASNIH UKREPIH V ZVEZI S SODNIMI, UPRAVNIMI IN DRUGIMI JAVNOPRAVNIMI
+  ZADEVAMI ZA OBVLADOVANJE \u0160IRJENJA NALEZLJIVE BOLEZNI SARS-CoV-2 (COVID-19)
+  (ZZUSUDJZ) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/08/2020-01-0899-2020-01-0681-npb1
 sopPredpisa: 2020-01-0899

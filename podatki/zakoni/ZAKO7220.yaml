@@ -1,17 +1,11 @@
 Text file: ZAKO7220.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: ZAKO7220
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PODALJ\u0160ANJU PREHODNEGA OBDOBJA NA PODRO\u010CJU PROSTEGA GIBANJA\
-  \ DR\u017DAVLJANOV REPUBLIKE HRVA\u0160KE IN NJIHOVIH DRU\u017DINSKIH \u010CLANOV\
-  \ (ZPPOPGHR)"
+naslov: "ZAKON O PODALJ\u0160ANJU PREHODNEGA OBDOBJA NA PODRO\u010CJU PROSTEGA GIBANJA
+  DR\u017DAVLJANOV REPUBLIKE HRVA\u0160KE IN NJIHOVIH DRU\u017DINSKIH \u010CLANOV
+  (ZPPOPGHR)"
 npbNum: 0
 path: /2015/18/2015-01-1877
 sopPredpisa: 2015-01-1877

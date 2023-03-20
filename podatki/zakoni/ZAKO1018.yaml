@@ -1,20 +1,11 @@
 Text file: ZAKO1018.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1281391200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2011-12-31 23:00:00
+datumZacetkaVelj: 2010-08-09 22:00:00
 idPredpisa: ZAKO1018
 idPredpisaChng: ZAKO1018
-instock: .nan
-naslov: "ZAKON o pravicah iz pokojninskega in invalidskega zavarovanja biv\u0161ih\
-  \ voja\u0161kih zavarovancev (ZPIZVZ) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "ZAKON o pravicah iz pokojninskega in invalidskega zavarovanja biv\u0161ih
+  voja\u0161kih zavarovancev (ZPIZVZ) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /2010/33/2010-01-3350-1998-01-2142-npb4
 sopPredpisa: 2010-01-3350

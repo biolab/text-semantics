@@ -1,16 +1,10 @@
 Text file: ZAKO1626.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1258153200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-13 23:00:00
 idPredpisa: ZAKO1626
 idPredpisaChng: ZAKO1626
-instock: .nan
-naslov: "ZAKON o nacionalnih poklicnih kvalifikacijah (ZNPK) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 5)"
+naslov: "ZAKON o nacionalnih poklicnih kvalifikacijah (ZNPK) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2009/37/2009-01-3792-2000-01-3708-npb5
 sopPredpisa: 2009-01-3792

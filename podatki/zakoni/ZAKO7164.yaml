@@ -1,12 +1,10 @@
 Text file: ZAKO7164.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ZAKO7164
 idPredpisaChng: ZAKO7164
-instock: .nan
-naslov: "ZAKON O VOZNIKIH (ZVoz-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 6)"
+naslov: "ZAKON O VOZNIKIH (ZVoz-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  6)"
 npbNum: 6
 path: /2022/22/2022-01-2285-2016-01-3686-npb6
 sopPredpisa: 2022-01-2285

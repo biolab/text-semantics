@@ -1,16 +1,10 @@
 Text file: ZAKO7568.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-12 23:00:00
 idPredpisa: ZAKO7568
 idPredpisaChng: ZAKO7568
-instock: .nan
-naslov: "ZAKON O OSEBNI ASISTENCI (ZOA) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "ZAKON O OSEBNI ASISTENCI (ZOA) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2021/33/2021-01-3351-2017-01-0460-npb2
 sopPredpisa: 2021-01-3351

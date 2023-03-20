@@ -1,16 +1,10 @@
 Text file: ZAKO1694.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 373935600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1981-11-06 23:00:00
 idPredpisa: ZAKO1694
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O EVIDENCI ZNANSTVENEGA, KULTURNEGA, PROSVETNEGA IN TEHNI\u010CNEGA\
-  \ SODELOVANJA S TUJINO"
+naslov: "ZAKON O EVIDENCI ZNANSTVENEGA, KULTURNEGA, PROSVETNEGA IN TEHNI\u010CNEGA
+  SODELOVANJA S TUJINO"
 npbNum: 0
 path: /1981/06/1981-07-0622
 sopPredpisa: 1981-07-0622

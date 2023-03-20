@@ -1,16 +1,10 @@
 Text file: ZAKO445.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: ZAKO445
 idPredpisaChng: ZAKO445
-instock: .nan
-naslov: "ZAKON O ORGANIZACIJI IN FINANCIRANJU VZGOJE IN IZOBRA\u017DEVANJA (ZOFVI)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 25)"
+naslov: "ZAKON O ORGANIZACIJI IN FINANCIRANJU VZGOJE IN IZOBRA\u017DEVANJA (ZOFVI)
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 25)"
 npbNum: 25
 path: /2022/26/2022-01-2603-1996-01-0567-npb25
 sopPredpisa: 2022-01-2603

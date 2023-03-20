@@ -1,14 +1,8 @@
 Text file: ZAKO6535.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1382479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-22 22:00:00
 idPredpisa: ZAKO6535
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O GRADBENIH PROIZVODIH (ZGPro-1)
 npbNum: 0
 path: /2013/30/2013-01-3032

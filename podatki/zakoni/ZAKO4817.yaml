@@ -1,17 +1,11 @@
 Text file: ZAKO4817.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1151445600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-27 22:00:00
 idPredpisa: ZAKO4817
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O POGOJIH ZA PRIDOBITEV LASTNINSKE PRAVICE FIZI\u010CNIH IN PRAVNIH\
-  \ OSEB DR\u017DAV KANDIDATK ZA \u010CLANSTVO V EVROPSKI UNIJI NA NEPREMI\u010CNINAH\
-  \ (ZPPLPKEU)"
+naslov: "ZAKON O POGOJIH ZA PRIDOBITEV LASTNINSKE PRAVICE FIZI\u010CNIH IN PRAVNIH
+  OSEB DR\u017DAV KANDIDATK ZA \u010CLANSTVO V EVROPSKI UNIJI NA NEPREMI\u010CNINAH
+  (ZPPLPKEU)"
 npbNum: 0
 path: /2006/25/2006-01-2570
 sopPredpisa: 2006-01-2570

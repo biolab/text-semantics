@@ -1,16 +1,10 @@
 Text file: ZAKO2015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1305669600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-17 22:00:00
 idPredpisa: ZAKO2015
 idPredpisaChng: ZAKO2015
-instock: .nan
-naslov: "ZAKON O DAV\u010CNI SLU\u017DBI (ZDS-1) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 6)"
+naslov: "ZAKON O DAV\u010CNI SLU\u017DBI (ZDS-1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 6)"
 npbNum: 6
 path: /2011/15/2011-01-1585-2004-01-2668-npb6
 sopPredpisa: 2011-01-1585

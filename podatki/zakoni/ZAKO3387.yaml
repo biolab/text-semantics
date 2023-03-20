@@ -1,16 +1,10 @@
 Text file: ZAKO3387.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1551135600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-25 23:00:00
 idPredpisa: ZAKO3387
 idPredpisaChng: ZAKO3387
-instock: .nan
-naslov: "ZAKON o raziskovalni in razvojni dejavnosti (ZRRD) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 8)"
+naslov: "ZAKON o raziskovalni in razvojni dejavnosti (ZRRD) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 8)"
 npbNum: 8
 path: /2019/02/2019-01-0290-2002-01-4808-npb8
 sopPredpisa: 2019-01-0290

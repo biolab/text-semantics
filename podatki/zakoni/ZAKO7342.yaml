@@ -1,17 +1,8 @@
 Text file: ZAKO7342.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527804000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510873200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-05-31 22:00:00
+datumZacetkaVelj: 2017-11-16 23:00:00
 idPredpisa: ZAKO7342
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON O ARHITEKTURNI IN IN\u017DENIRSKI DEJAVNOSTI (ZAID)"
 npbNum: 0
 path: /2017/29/2017-01-2913

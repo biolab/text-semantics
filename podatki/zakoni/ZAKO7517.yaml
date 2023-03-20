@@ -1,14 +1,8 @@
 Text file: ZAKO7517.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1481324400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-09 23:00:00
 idPredpisa: ZAKO7517
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O CENTRALNEM KREDITNEM REGISTRU (ZCKR)
 npbNum: 0
 path: /2016/32/2016-01-3227

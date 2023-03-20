@@ -1,16 +1,10 @@
 Text file: ZAKO1366.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1429912800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-24 22:00:00
 idPredpisa: ZAKO1366
 idPredpisaChng: ZAKO1366
-instock: .nan
-naslov: "ZAKON o javnih cestah (ZJC) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 12)"
+naslov: "ZAKON o javnih cestah (ZJC) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 12)"
 npbNum: 12
 path: /2015/09/2015-01-0991-1997-01-1642-npb12
 sopPredpisa: 2015-01-0991

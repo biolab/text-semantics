@@ -1,14 +1,8 @@
 Text file: ZAKO2366.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 955144800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-07 22:00:00
 idPredpisa: ZAKO2366
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O NAJEMU POSOJILA PRI MEDNARODNI BANKI ZA OBNOVO IN RAZVOJ (MBOR) ZA
   PROJEKT RAZVOJA UPRAVLJANJA SISTEMA ZDRAVSTVENEGA VARSTVA V REPUBLIKI SLOVENIJI
   (ZNPZV)

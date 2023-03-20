@@ -1,17 +1,11 @@
 Text file: ZAKO6036.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609369200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-30 23:00:00
 idPredpisa: ZAKO6036
 idPredpisaChng: ZAKO6036
-instock: .nan
-naslov: "ZAKON O PRIZNAVANJU POKLICNIH KVALIFIKACIJ ZDRAVNIK, ZDRAVNIK SPECIALIST,\
-  \ DOKTOR DENTALNE MEDICINE IN DOKTOR DENTALNE MEDICINE SPECIALIST (ZPPKZ) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O PRIZNAVANJU POKLICNIH KVALIFIKACIJ ZDRAVNIK, ZDRAVNIK SPECIALIST,
+  DOKTOR DENTALNE MEDICINE IN DOKTOR DENTALNE MEDICINE SPECIALIST (ZPPKZ) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/37/2020-01-3772-2010-01-5581-npb2
 sopPredpisa: 2020-01-3772

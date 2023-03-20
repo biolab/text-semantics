@@ -1,20 +1,11 @@
 Text file: ZAKO7119.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1481842800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-12-15 23:00:00
 idPredpisa: ZAKO7119
 idPredpisaChng: ZAKO7119
-instock: .nan
-naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2016\
-  \ IN 2017 (ZIPRS1617) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2) (delno\
-  \ prenehal veljati)"
+naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2016
+  IN 2017 (ZIPRS1617) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2) (delno
+  prenehal veljati)"
 npbNum: 2
 path: /2016/33/2016-01-3386-2015-01-3772-npb2
 sopPredpisa: 2016-01-3386

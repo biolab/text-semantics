@@ -1,17 +1,11 @@
 Text file: ZAKO3724.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1515711600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-01-11 23:00:00
 idPredpisa: ZAKO3724
 idPredpisaChng: ZAKO3724
-instock: .nan
-naslov: "ZAKON O DODATNI KONCESIJSKI DAJATVI OD PREJEMKOV, IZPLA\u010CANIH ZA OB\u010C\
-  ASNA IN ZA\u010CASNA DELA \u0160TUDENTOV IN DIJAKOV (ZDKDP\u0160) (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "ZAKON O DODATNI KONCESIJSKI DAJATVI OD PREJEMKOV, IZPLA\u010CANIH ZA OB\u010CASNA
+  IN ZA\u010CASNA DELA \u0160TUDENTOV IN DIJAKOV (ZDKDP\u0160) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2017/37/2017-01-3782-2003-01-3743-npb3
 sopPredpisa: 2017-01-3782

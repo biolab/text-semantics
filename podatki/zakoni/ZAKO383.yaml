@@ -1,16 +1,10 @@
 Text file: ZAKO383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1649800800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-12 22:00:00
 idPredpisa: ZAKO383
 idPredpisaChng: ZAKO383
-instock: .nan
-naslov: "ZAKON O DEDOVANJU KMETIJSKIH GOSPODARSTEV (ZDKG) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 3)"
+naslov: "ZAKON O DEDOVANJU KMETIJSKIH GOSPODARSTEV (ZDKG) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2022/08/2022-01-0877-1995-01-3295-npb3
 sopPredpisa: 2022-01-0877

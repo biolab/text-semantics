@@ -1,14 +1,8 @@
 Text file: ZAKO7516.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1469829600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-29 22:00:00
 idPredpisa: ZAKO7516
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O UKREPIH ZA ODPRAVO POSLEDIC POZEBE IN SNEGA V KMETIJSKI PROIZVODNJI
   MED 25. IN 30. APRILOM 2016 (ZUOPPSKP)
 npbNum: 0

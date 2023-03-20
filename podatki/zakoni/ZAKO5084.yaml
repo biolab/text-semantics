@@ -1,19 +1,10 @@
 Text file: ZAKO5084.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1642460400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639782000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-01-17 23:00:00
+datumZacetkaVelj: 2021-12-17 23:00:00
 idPredpisa: ZAKO5084
 idPredpisaChng: ZAKO5084
-instock: .nan
-naslov: "ZAKON O PREPRE\u010CEVANJU NASILJA V DRU\u017DINI (ZPND) (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "ZAKON O PREPRE\u010CEVANJU NASILJA V DRU\u017DINI (ZPND) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2021/38/2021-01-3898-2008-01-0487-npb3
 sopPredpisa: 2021-01-3898

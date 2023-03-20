@@ -1,16 +1,10 @@
 Text file: ZAKO1430.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1338415200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-30 22:00:00
 idPredpisa: ZAKO1430
 idPredpisaChng: ZAKO1430
-instock: .nan
-naslov: "ZAKON o star\u0161evskem varstvu in dru\u017Einskih prejemkih (ZSDP) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "ZAKON o star\u0161evskem varstvu in dru\u017Einskih prejemkih (ZSDP) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
 npbNum: 8
 path: /2012/17/2012-01-1700-2001-01-4794-npb8
 sopPredpisa: 2012-01-1700

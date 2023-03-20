@@ -1,14 +1,8 @@
 Text file: ZAKO462.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 836085600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-06-29 22:00:00
 idPredpisa: ZAKO462
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O ZAGOTOVITVI SREDSTEV ZA ODPRAVO POSLEDIC ZIME V LETU 1995/1996 (ZSPZ96)
 npbNum: 0
 path: /1996/22/1996-01-2202

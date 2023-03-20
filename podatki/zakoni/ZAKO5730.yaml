@@ -1,16 +1,10 @@
 Text file: ZAKO5730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497650400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-16 22:00:00
 idPredpisa: ZAKO5730
 idPredpisaChng: ZAKO5730
-instock: .nan
-naslov: "ZAKON O RAZVOJNI PODPORI POMURSKI REGIJI V OBDOBJU 2010\u20132019 (ZRPPR1015)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON O RAZVOJNI PODPORI POMURSKI REGIJI V OBDOBJU 2010\u20132019 (ZRPPR1015)
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/14/2017-01-1444-2009-01-3839-npb2
 sopPredpisa: 2017-01-1444

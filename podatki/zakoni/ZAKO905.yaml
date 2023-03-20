@@ -1,14 +1,8 @@
 Text file: ZAKO905.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083708000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-05-04 22:00:00
 idPredpisa: ZAKO905
 idPredpisaChng: ZAKO905
-instock: .nan
 naslov: "KAZENSKI ZAKONIK (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2004/42/2004-01-4208-1994-01-2167-npb3

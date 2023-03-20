@@ -1,16 +1,10 @@
 Text file: ZAKO256.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 734047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-04-05 22:00:00
 idPredpisa: ZAKO256
 idPredpisaChng: ZAKO256
-instock: .nan
-naslov: "ZAKON o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti\
-  \ v letu 1993 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti
+  v letu 1993 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1993/08/1993-01-0803-1993-01-0493-npb1
 sopPredpisa: 1993-01-0803

@@ -1,16 +1,10 @@
 Text file: ZAKO4911.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1389394800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-10 23:00:00
 idPredpisa: ZAKO4911
 idPredpisaChng: ZAKO4911
-instock: .nan
-naslov: "ZAKON o mednarodni za\u0161\u010Diti (ZMZ) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 7)"
+naslov: "ZAKON o mednarodni za\u0161\u010Diti (ZMZ) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 7)"
 npbNum: 7
 path: /2013/41/2013-01-4129-2007-01-5504-npb7
 sopPredpisa: 2013-01-4129

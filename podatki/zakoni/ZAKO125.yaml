@@ -1,16 +1,10 @@
 Text file: ZAKO125.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1066082400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-13 22:00:00
 idPredpisa: ZAKO125
 idPredpisaChng: ZAKO125
-instock: .nan
-naslov: "STANOVANJSKI ZAKON (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 11)"
+naslov: "STANOVANJSKI ZAKON (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  11)"
 npbNum: 11
 path: /2003/33/2003-01-3312-1991-01-0652-npb11
 sopPredpisa: 2003-01-3312

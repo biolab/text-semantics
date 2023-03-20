@@ -1,16 +1,10 @@
 Text file: ZAKO8306.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628287200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-06 22:00:00
 idPredpisa: ZAKO8306
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O IZPLA\u010CILU NEIZPLA\u010CANEGA DODATKA ZA POMO\u010C IN POSTRE\u017D\
-  BO (ZINDPP)"
+naslov: "ZAKON O IZPLA\u010CILU NEIZPLA\u010CANEGA DODATKA ZA POMO\u010C IN POSTRE\u017DBO
+  (ZINDPP)"
 npbNum: 0
 path: /2021/25/2021-01-2572
 sopPredpisa: 2021-01-2572

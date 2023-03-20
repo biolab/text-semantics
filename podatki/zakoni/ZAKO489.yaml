@@ -1,20 +1,11 @@
 Text file: ZAKO489.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1104534000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1085090400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-12-31 23:00:00
+datumZacetkaVelj: 2004-05-20 22:00:00
 idPredpisa: ZAKO489
 idPredpisaChng: ZAKO489
-instock: .nan
-naslov: "ZAKON O POVRNITVI \u0160KODE OSEBAM, OKU\u017DENIM Z VIRUSOM HIV ZARADI TRANSFUZIJE\
-  \ KRVI ALI KRVNIH PRIPRAVKOV (ZP\u0160HIV) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "ZAKON O POVRNITVI \u0160KODE OSEBAM, OKU\u017DENIM Z VIRUSOM HIV ZARADI TRANSFUZIJE
+  KRVI ALI KRVNIH PRIPRAVKOV (ZP\u0160HIV) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2004/25/2004-01-2538-1997-01-2020-npb1
 sopPredpisa: 2004-01-2538

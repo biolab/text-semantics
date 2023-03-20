@@ -1,16 +1,10 @@
 Text file: ZAKO4109.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1092348000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-12 22:00:00
 idPredpisa: ZAKO4109
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PRENEHANJU VELJAVNOSTI ZAKONA O POSEBNEM DAVKU NA BILAN\u010CNO VSOTO\
-  \ BANK IN HRANILNIC (ZPVZPDBH)"
+naslov: "ZAKON O PRENEHANJU VELJAVNOSTI ZAKONA O POSEBNEM DAVKU NA BILAN\u010CNO VSOTO
+  BANK IN HRANILNIC (ZPVZPDBH)"
 npbNum: 0
 path: /2004/36/2004-01-3693
 sopPredpisa: 2004-01-3693

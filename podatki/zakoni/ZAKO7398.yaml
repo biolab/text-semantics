@@ -1,14 +1,8 @@
 Text file: ZAKO7398.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1489186800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-10 23:00:00
 idPredpisa: ZAKO7398
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O OVERITVI LISTIN V MEDNARODNEM PROMETU (ZOLMP-1)
 npbNum: 0
 path: /2017/04/2017-01-0405

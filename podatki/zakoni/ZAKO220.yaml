@@ -1,19 +1,10 @@
 Text file: ZAKO220.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 857170800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 838418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1997-02-28 23:00:00
+datumZacetkaVelj: 1996-07-26 22:00:00
 idPredpisa: ZAKO220
 idPredpisaChng: ZAKO220
-instock: .nan
-naslov: "ZAKON O PLA\u010CAH DELAVCEV V JAVNIH VZGOJNOIZOBRA\u017DEVALNIH ZAVODIH\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "ZAKON O PLA\u010CAH DELAVCEV V JAVNIH VZGOJNOIZOBRA\u017DEVALNIH ZAVODIH
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /1996/23/1996-01-2347-1992-01-0805-npb4
 sopPredpisa: 1996-01-2347

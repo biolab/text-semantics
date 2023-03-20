@@ -1,17 +1,11 @@
 Text file: ZAKO7683.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628028000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-03 22:00:00
 idPredpisa: ZAKO7683
 idPredpisaChng: ZAKO7683
-instock: .nan
-naslov: "ZAKON O DODATKU K POKOJNINI ZA DELO IN IZJEMNE DOSE\u017DKE NA PODRO\u010C\
-  JU \u0160PORTA (ZDPID\u0160) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "ZAKON O DODATKU K POKOJNINI ZA DELO IN IZJEMNE DOSE\u017DKE NA PODRO\u010CJU
+  \u0160PORTA (ZDPID\u0160) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2021/25/2021-01-2549-2017-01-1840-npb1
 sopPredpisa: 2021-01-2549

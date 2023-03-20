@@ -1,16 +1,10 @@
 Text file: ZAKO2008.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-18 22:00:00
 idPredpisa: ZAKO2008
 idPredpisaChng: ZAKO2008
-instock: .nan
-naslov: "STANOVANJSKI ZAKON (SZ-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 13)"
+naslov: "STANOVANJSKI ZAKON (SZ-1) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  13)"
 npbNum: 13
 path: /2021/18/2021-01-1868-2003-01-3312-npb13
 sopPredpisa: 2021-01-1868

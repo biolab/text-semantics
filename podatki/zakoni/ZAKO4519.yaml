@@ -1,16 +1,10 @@
 Text file: ZAKO4519.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1129932000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-10-21 22:00:00
 idPredpisa: ZAKO4519
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O RAZGLASITVI ZA\u0160\u010CITNE EKOLO\u0160KE CONE IN EPIKONTINENTALNEM\
-  \ PASU REPUBLIKE SLOVENIJE (ZRZECEP)"
+naslov: "ZAKON O RAZGLASITVI ZA\u0160\u010CITNE EKOLO\u0160KE CONE IN EPIKONTINENTALNEM
+  PASU REPUBLIKE SLOVENIJE (ZRZECEP)"
 npbNum: 0
 path: /2005/40/2005-01-4021
 sopPredpisa: 2005-01-4021

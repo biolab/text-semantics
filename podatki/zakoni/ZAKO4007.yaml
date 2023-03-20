@@ -1,17 +1,11 @@
 Text file: ZAKO4007.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083880800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-05-06 22:00:00
 idPredpisa: ZAKO4007
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O PRENOSU POOBLASTIL, PRAVIC IN OBVEZNOSTI SLOVENSKE RAZVOJNE DRU\u017D\
-  BE IN O PRENEHANJU AGENCIJE REPUBLIKE SLOVENIJE ZA PRESTRUKTURIRANJE IN PRIVATIZACIJO\
-  \ (ZPPSRD)"
+naslov: "ZAKON O PRENOSU POOBLASTIL, PRAVIC IN OBVEZNOSTI SLOVENSKE RAZVOJNE DRU\u017DBE
+  IN O PRENEHANJU AGENCIJE REPUBLIKE SLOVENIJE ZA PRESTRUKTURIRANJE IN PRIVATIZACIJO
+  (ZPPSRD)"
 npbNum: 0
 path: /2004/22/2004-01-2298
 sopPredpisa: 2004-01-2298

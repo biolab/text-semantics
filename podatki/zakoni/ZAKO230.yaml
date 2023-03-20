@@ -1,16 +1,10 @@
 Text file: ZAKO230.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 718153200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-10-03 23:00:00
 idPredpisa: ZAKO230
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON o dolo\u010Ditvi volilnih enot za volitve predstavnikov lokalnih interesov\
-  \ v dr\u017Eavni svet"
+naslov: "ZAKON o dolo\u010Ditvi volilnih enot za volitve predstavnikov lokalnih interesov
+  v dr\u017Eavni svet"
 npbNum: 0
 path: /1992/22/1992-01-2227
 sopPredpisa: 1992-01-2227

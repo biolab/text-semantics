@@ -1,14 +1,8 @@
 Text file: ZAKO866.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 693183600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-12-19 23:00:00
 idPredpisa: ZAKO866
 idPredpisaChng: null
-instock: .nan
 naslov: "ZAKON o Pre\u0161ernovi nagradi"
 npbNum: 0
 path: /1991/12/1991-01-1237

@@ -1,17 +1,8 @@
 Text file: ZAKO7154.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1479510000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-11-18 23:00:00
 idPredpisa: ZAKO7154
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O DIMNIKARSKIH STORITVAH (ZDimS)
 npbNum: 0
 path: /2016/29/2016-01-2926

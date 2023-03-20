@@ -1,14 +1,8 @@
 Text file: ZAKO8346.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1642806000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-21 23:00:00
 idPredpisa: ZAKO8346
 idPredpisaChng: null
-instock: .nan
 naslov: ZAKON O DEBIROKRATIZACIJI (ZDeb)
 npbNum: 0
 path: /2022/00/2022-01-0014

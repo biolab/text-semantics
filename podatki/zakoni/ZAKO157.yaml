@@ -1,12 +1,10 @@
 Text file: ZAKO157.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ZAKO157
 idPredpisaChng: ZAKO157
-instock: .nan
-naslov: "ZAKON o prepre\u010Devanju posledic rudarjenja v Rudniku \u017Eivega srebra\
-  \ Idrija (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ZAKON o prepre\u010Devanju posledic rudarjenja v Rudniku \u017Eivega srebra
+  Idrija (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2005/08/2005-01-0895-1987-04-1614-npb2
 sopPredpisa: 2005-01-0895

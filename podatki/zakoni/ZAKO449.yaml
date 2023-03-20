@@ -1,12 +1,10 @@
 Text file: ZAKO449.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ZAKO449
 idPredpisaChng: ZAKO449
-instock: .nan
-naslov: "ZAKON O IZOBRA\u017DEVANJU ODRASLIH (ZIO) (delno prenehal veljati) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "ZAKON O IZOBRA\u017DEVANJU ODRASLIH (ZIO) (delno prenehal veljati) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2006/46/2006-01-4673-1996-01-0572-npb3
 sopPredpisa: 2006-01-4673

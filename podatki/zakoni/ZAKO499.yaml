@@ -1,17 +1,11 @@
 Text file: ZAKO499.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 915058800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-30 23:00:00
 idPredpisa: ZAKO499
 idPredpisaChng: ZAKO499
-instock: .nan
-naslov: "ZAKON o poro\u0161tvu Republike Slovenije za najetje posojil za izgradnjo\
-  \ plinskih blokov mo\u010Di 2 x 114 MW v Termoelektrarni Brestanica (ZPRSTB) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON o poro\u0161tvu Republike Slovenije za najetje posojil za izgradnjo
+  plinskih blokov mo\u010Di 2 x 114 MW v Termoelektrarni Brestanica (ZPRSTB) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1998/47/1998-01-4742-1997-01-3267-npb1
 sopPredpisa: 1998-01-4742

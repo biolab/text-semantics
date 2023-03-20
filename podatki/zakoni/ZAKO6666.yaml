@@ -1,16 +1,10 @@
 Text file: ZAKO6666.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1438380000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-07-31 22:00:00
 idPredpisa: ZAKO6666
 idPredpisaChng: ZAKO6666
-instock: .nan
-naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2014\
-  \ IN 2015 (ZIPRS1415) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
+naslov: "ZAKON O IZVR\u0160EVANJU PRORA\u010CUNOV REPUBLIKE SLOVENIJE ZA LETI 2014
+  IN 2015 (ZIPRS1415) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
 npbNum: 9
 path: /2015/22/2015-01-2279-2013-01-3675-npb9
 sopPredpisa: 2015-01-2279

@@ -1,17 +1,11 @@
 Text file: ZAKO1778.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 203382000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1976-06-11 23:00:00
 idPredpisa: ZAKO1778
 idPredpisaChng: ZAKO1778
-instock: .nan
-naslov: "ZAKON O TEMELJIH VODNEGA RE\u017DIMA, POMEMBNEGA ZA DVE ALI VE\u010C REPUBLIK\
-  \ OZIROMA AVTONOMNIH POKRAJIN, IN O MEDDR\u017DAVNIH VODAH (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "ZAKON O TEMELJIH VODNEGA RE\u017DIMA, POMEMBNEGA ZA DVE ALI VE\u010C REPUBLIK
+  OZIROMA AVTONOMNIH POKRAJIN, IN O MEDDR\u017DAVNIH VODAH (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /1976/03/1976-07-0342-1974-07-0014-npb1
 sopPredpisa: 1976-07-0342
