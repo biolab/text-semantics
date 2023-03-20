@@ -46,7 +46,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
           publish_dir: ./data/csv/
           publish_branch: gh-pages
           destination_dir: podatki/
