@@ -42,15 +42,15 @@ jobs:
           mkdir ./data/csv/
           mv ./data/${{ matrix.publish_dir }}.csv ./data/csv/${{ matrix.scraper }}.csv
 
-#      - name: Deploy CSV file
-#        uses: peaceiris/actions-gh-pages@v3
-#        if: ${{ github.ref == 'refs/heads/main' }}
-#        env:
-#          github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
-#          publish_dir: ./data/csv
-#          publish_branch: gh-pages
-#          destination_dir: podatki
-#          keep_files: true  # prevent emptying podatki directory
+      - name: Deploy CSV file
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.BIOLAB_HELPER_PAT }}
+          publish_dir: ./data/csv
+          publish_branch: gh-pages
+          destination_dir: podatki
+          keep_files: true  # prevent emptying podatki directory
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
