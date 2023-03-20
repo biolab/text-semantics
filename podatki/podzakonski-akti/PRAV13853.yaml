@@ -1,17 +1,11 @@
 Text file: PRAV13853.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1579302000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-17 23:00:00
 idPredpisa: PRAV13853
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih in merilih za izdajatelja pomnilni\u0161kih kartic za\
-  \ zapisovalno opremo v cestnih prevozih ter na\u010Dinu oblikovanja in dolo\u010D\
-  anja cene za izdajo kartice"
+naslov: "PRAVILNIK o pogojih in merilih za izdajatelja pomnilni\u0161kih kartic za
+  zapisovalno opremo v cestnih prevozih ter na\u010Dinu oblikovanja in dolo\u010Danja
+  cene za izdajo kartice"
 npbNum: 0
 path: /2020/00/2020-01-0063
 sopPredpisa: 2020-01-0063

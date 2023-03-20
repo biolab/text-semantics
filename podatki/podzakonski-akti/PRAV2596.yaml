@@ -1,14 +1,8 @@
 Text file: PRAV2596.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 968364000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-07 22:00:00
 idPredpisa: PRAV2596
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o pogojih za proizvodnjo strupenih kemikalij in obratovanje objektov
   za njihovo proizvodnjo
 npbNum: 0

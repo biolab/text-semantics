@@ -1,18 +1,12 @@
 Text file: URED5744.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1341007200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-06-29 22:00:00
 idPredpisa: URED5744
 idPredpisaChng: URED5744
-instock: .nan
-naslov: "UREDBA o za\u010Dasnih ukrepih za zavarovanje urejanja prostora na podlagi\
-  \ Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega na\u010Drta za prenosni\
-  \ plinovod M3/1 Kalce\u2013Vodice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o za\u010Dasnih ukrepih za zavarovanje urejanja prostora na podlagi
+  Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega na\u010Drta za prenosni
+  plinovod M3/1 Kalce\u2013Vodice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2012/21/2012-01-2115-2011-01-0282-npb1
 sopPredpisa: 2012-01-2115

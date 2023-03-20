@@ -1,14 +1,8 @@
 Text file: URED2139.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1014332400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-21 23:00:00
 idPredpisa: URED2139
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o raz\u0161iritvi evropskih patentov na Republiko Slovenijo"
 npbNum: 0
 path: /2002/06/2002-01-0617

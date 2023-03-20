@@ -1,16 +1,10 @@
 Text file: PRAV5938.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524261600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-20 22:00:00
 idPredpisa: PRAV5938
 idPredpisaChng: PRAV5938
-instock: .nan
-naslov: "PRAVILNIK o poravnavanju v kazenskih zadevah (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o poravnavanju v kazenskih zadevah (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/09/2018-01-0959-2004-01-4718-npb2
 sopPredpisa: 2018-01-0959

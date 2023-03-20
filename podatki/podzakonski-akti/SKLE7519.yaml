@@ -1,16 +1,10 @@
 Text file: SKLE7519.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-28 23:00:00
 idPredpisa: SKLE7519
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o popolni ali delni razveljavitvi sklepov o olaj\u0161avah za potovanja\
-  \ dr\u017Eavljanov dolo\u010Denih dr\u017Eav v Republiko Slovenijo"
+naslov: "SKLEP o popolni ali delni razveljavitvi sklepov o olaj\u0161avah za potovanja
+  dr\u017Eavljanov dolo\u010Denih dr\u017Eav v Republiko Slovenijo"
 npbNum: 0
 path: /2008/11/2008-01-1197
 sopPredpisa: 2008-01-1197

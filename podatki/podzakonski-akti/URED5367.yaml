@@ -1,18 +1,12 @@
 Text file: URED5367.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657317600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-08 22:00:00
 idPredpisa: URED5367
 idPredpisaChng: URED5367
-instock: .nan
-naslov: "UREDBA o sodelovanju dr\u017Eavnega to\u017Eilstva, policije in drugih pristojnih\
-  \ dr\u017Eavnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih\
-  \ dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o sodelovanju dr\u017Eavnega to\u017Eilstva, policije in drugih pristojnih
+  dr\u017Eavnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih
+  dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2022/20/2022-01-2099-2010-01-4491-npb2
 sopPredpisa: 2022-01-2099

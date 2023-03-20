@@ -1,17 +1,11 @@
 Text file: SKLE1516.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 745365600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-08-14 22:00:00
 idPredpisa: SKLE1516
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vzhodno avtocesto\
-  \ od Malenc do \u0160entjakoba in del severne obvozne ceste od Toma\u010Devega do\
-  \ Zadobrove v Ljubljani"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vzhodno avtocesto
+  od Malenc do \u0160entjakoba in del severne obvozne ceste od Toma\u010Devega do
+  Zadobrove v Ljubljani"
 npbNum: 0
 path: /1993/18/1993-01-1853
 sopPredpisa: 1993-01-1853

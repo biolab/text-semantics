@@ -1,14 +1,8 @@
 Text file: SKLE1773.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 727138800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-01-15 23:00:00
 idPredpisa: SKLE1773
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dnevih izpla\u010Devanja denarnih dajatev"
 npbNum: 0
 path: /1993/00/1993-01-0010

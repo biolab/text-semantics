@@ -1,16 +1,10 @@
 Text file: SKLE10466.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1456527600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-26 23:00:00
 idPredpisa: SKLE10466
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o registrih zavarovalnih zastopnikov in\_posrednikov ter zavarovalno\
-  \ zastopni\u0161kih in\_posredni\u0161kih dru\u017Eb"
+naslov: "SKLEP o registrih zavarovalnih zastopnikov in\_posrednikov ter zavarovalno
+  zastopni\u0161kih in\_posredni\u0161kih dru\u017Eb"
 npbNum: 0
 path: /2016/03/2016-01-0351
 sopPredpisa: 2016-01-0351

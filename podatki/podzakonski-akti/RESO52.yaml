@@ -1,16 +1,10 @@
 Text file: RESO52.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1168297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-08 23:00:00
 idPredpisa: RESO52
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU VARNOSTI CESTNEGA PROMETA ZA OBDOBJE 2007\u2013\
-  2011 (SKUPAJ ZA VE\u010CJO VARNOST) (ReNPVCP)"
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU VARNOSTI CESTNEGA PROMETA ZA OBDOBJE 2007\u20132011
+  (SKUPAJ ZA VE\u010CJO VARNOST) (ReNPVCP)"
 npbNum: 0
 path: /2007/00/2007-01-0068
 sopPredpisa: 2007-01-0068

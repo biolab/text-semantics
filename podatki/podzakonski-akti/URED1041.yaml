@@ -1,16 +1,10 @@
 Text file: URED1041.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 899244000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-06-30 22:00:00
 idPredpisa: URED1041
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu prodaje premo\u017Eenja v lasti Slovenske razvojne dru\u017E\
-  be poobla\u0161\u010Denim investicijskim dru\u017Ebam"
+naslov: "UREDBO o na\u010Dinu prodaje premo\u017Eenja v lasti Slovenske razvojne dru\u017Ebe
+  poobla\u0161\u010Denim investicijskim dru\u017Ebam"
 npbNum: 0
 path: /1998/21/1998-01-2124
 sopPredpisa: 1998-01-2124

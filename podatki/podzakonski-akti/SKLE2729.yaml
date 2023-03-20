@@ -1,14 +1,8 @@
 Text file: SKLE2729.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1012604400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-01 23:00:00
 idPredpisa: SKLE2729
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o uskladitvi zajam\u010Denega osebnega dohodka"
 npbNum: 0
 path: /2002/04/2002-01-0422

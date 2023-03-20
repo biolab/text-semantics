@@ -1,17 +1,8 @@
 Text file: TARI234.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609282800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-12-31 23:00:00
+datumZacetkaVelj: 2020-12-29 23:00:00
 idPredpisa: TARI234
 idPredpisaChng: null
-instock: .nan
 naslov: "TARIFO 2021 o pla\u010Dilih za izvajanje po\u0161tnih storitev"
 npbNum: 0
 path: /2020/36/2020-01-3640

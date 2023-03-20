@@ -1,17 +1,11 @@
 Text file: URED6336.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1423868400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-02-13 23:00:00
 idPredpisa: URED6336
 idPredpisaChng: URED6336
-instock: .nan
-naslov: "UREDBA o postopkih ravnanja v primeru motenj in nestabilnosti na trgu pri\
-  \ preskrbi z nafto in naftnimi derivati (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o postopkih ravnanja v primeru motenj in nestabilnosti na trgu pri
+  preskrbi z nafto in naftnimi derivati (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2015/03/2015-01-0347-2013-01-1295-npb1
 sopPredpisa: 2015-01-0347

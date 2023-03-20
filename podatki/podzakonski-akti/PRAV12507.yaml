@@ -1,14 +1,8 @@
 Text file: PRAV12507.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1448665200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-11-27 23:00:00
 idPredpisa: PRAV12507
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izdaji zdravil prek medmre\u017Eja"
 npbNum: 0
 path: /2015/33/2015-01-3388

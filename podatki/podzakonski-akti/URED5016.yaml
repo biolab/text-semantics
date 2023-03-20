@@ -1,17 +1,11 @@
 Text file: URED5016.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1235170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-20 23:00:00
 idPredpisa: URED5016
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih za ocenjevanje verjetnosti pomembnej\u0161ih vplivov izvedbe\
-  \ plana, programa, na\u010Drta ali drugega splo\u0161nega akta in njegovih sprememb\
-  \ na okolje v postopku celovite presoje vplivov na okolje"
+naslov: "UREDBO o merilih za ocenjevanje verjetnosti pomembnej\u0161ih vplivov izvedbe
+  plana, programa, na\u010Drta ali drugega splo\u0161nega akta in njegovih sprememb
+  na okolje v postopku celovite presoje vplivov na okolje"
 npbNum: 0
 path: /2009/02/2009-01-0248
 sopPredpisa: 2009-01-0248

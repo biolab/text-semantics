@@ -1,16 +1,10 @@
 Text file: ODRE2774.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660946400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-19 22:00:00
 idPredpisa: ODRE2774
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu izobra\u017Eevalnega programa za odrasle Usposabljanje\
-  \ za \u017Eivljenjsko uspe\u0161nost \u2013 Delovno mesto (U\u017DU \u2013 DM)"
+naslov: "ODREDBO o sprejemu izobra\u017Eevalnega programa za odrasle Usposabljanje
+  za \u017Eivljenjsko uspe\u0161nost \u2013 Delovno mesto (U\u017DU \u2013 DM)"
 npbNum: 0
 path: /2022/26/2022-01-2668
 sopPredpisa: 2022-01-2668

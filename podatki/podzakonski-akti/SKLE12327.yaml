@@ -1,16 +1,10 @@
 Text file: SKLE12327.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628892000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-13 22:00:00
 idPredpisa: SKLE12327
 idPredpisaChng: SKLE12327
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega zavoda Muzej slovenske osamosvojitve (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi javnega zavoda Muzej slovenske osamosvojitve (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/27/2021-01-2717-2021-01-0648-npb2
 sopPredpisa: 2021-01-2717

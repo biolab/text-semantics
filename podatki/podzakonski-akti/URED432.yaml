@@ -1,16 +1,10 @@
 Text file: URED432.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 849913200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-12-06 23:00:00
 idPredpisa: URED432
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o lokacijskem na\u010Drtu za obnovo in doin\u0161talacijo obstoje\u010D\
-  e hidroelektrarne Plave na So\u010Di \u2013 HE Plave II"
+naslov: "UREDBO o lokacijskem na\u010Drtu za obnovo in doin\u0161talacijo obstoje\u010De
+  hidroelektrarne Plave na So\u010Di \u2013 HE Plave II"
 npbNum: 0
 path: /1996/36/1996-01-3652
 sopPredpisa: 1996-01-3652

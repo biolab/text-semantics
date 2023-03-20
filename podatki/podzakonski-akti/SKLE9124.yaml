@@ -1,16 +1,10 @@
 Text file: SKLE9124.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1319580000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-25 22:00:00
 idPredpisa: SKLE9124
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ravnanju s tajnimi podatki v Dr\u017Eavnem svetu Republike Slovenije\
-  \ (SkRTP)"
+naslov: "SKLEP o ravnanju s tajnimi podatki v Dr\u017Eavnem svetu Republike Slovenije
+  (SkRTP)"
 npbNum: 0
 path: /2011/36/2011-01-3606
 sopPredpisa: 2011-01-3606

@@ -1,14 +1,8 @@
 Text file: PRAV14090.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1606431600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-26 23:00:00
 idPredpisa: PRAV14090
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o voja\u0161kih letali\u0161\u010Dih, vzleti\u0161\u010Dih in heliportih"
 npbNum: 0
 path: /2020/28/2020-01-2854

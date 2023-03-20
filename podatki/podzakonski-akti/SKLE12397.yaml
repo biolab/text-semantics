@@ -1,16 +1,10 @@
 Text file: SKLE12397.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639782000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-17 23:00:00
 idPredpisa: SKLE12397
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vi\u0161ini penalov za vsako za\u010Deto tono ekvivalenta ogljikovega\
-  \ dioksida za leto 2021"
+naslov: "SKLEP o vi\u0161ini penalov za vsako za\u010Deto tono ekvivalenta ogljikovega
+  dioksida za leto 2021"
 npbNum: 0
 path: /2021/39/2021-01-3966
 sopPredpisa: 2021-01-3966

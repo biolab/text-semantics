@@ -1,14 +1,8 @@
 Text file: PRAV11397.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1345500000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-08-20 22:00:00
 idPredpisa: PRAV11397
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o \u0161tipendiranju dr\u017Eavnih to\u017Eilcev"
 npbNum: 0
 path: /2012/25/2012-01-2514

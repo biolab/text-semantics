@@ -1,14 +1,8 @@
 Text file: PRAV13383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1515538800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-01-09 23:00:00
 idPredpisa: PRAV13383
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izdaji diplom in potrdil o izobra\u017Eevanju"
 npbNum: 0
 path: /2018/00/2018-01-0046

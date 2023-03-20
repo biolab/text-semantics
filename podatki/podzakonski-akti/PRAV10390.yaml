@@ -1,17 +1,8 @@
 Text file: PRAV10390.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293836400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1290812400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2010-12-31 23:00:00
+datumZacetkaVelj: 2010-11-26 23:00:00
 idPredpisa: PRAV10390
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o organizaciji neprekinjenega zdravstvenega varstva
 npbNum: 0
 path: /2010/49/2010-01-4983

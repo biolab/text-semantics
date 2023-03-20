@@ -1,16 +1,10 @@
 Text file: PRAV2168.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 756169200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-12-17 23:00:00
 idPredpisa: PRAV2168
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu priglasitve podjetij v tujini, ki so jih ustanovile\
-  \ fizi\u010Dne osebe"
+naslov: "PRAVILNIK o na\u010Dinu priglasitve podjetij v tujini, ki so jih ustanovile
+  fizi\u010Dne osebe"
 npbNum: 0
 path: /1993/24/1993-01-2474
 sopPredpisa: 1993-01-2474

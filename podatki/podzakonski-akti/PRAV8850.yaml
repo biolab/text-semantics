@@ -1,16 +1,10 @@
 Text file: PRAV8850.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1298674800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-02-25 23:00:00
 idPredpisa: PRAV8850
 idPredpisaChng: PRAV8850
-instock: .nan
-naslov: "PRAVILNIK o postopnem uvajanju drugega tujega jezikav osnovni \u0161oli (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o postopnem uvajanju drugega tujega jezikav osnovni \u0161oli (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/04/2011-01-0491-2008-01-2058-npb1
 sopPredpisa: 2011-01-0491

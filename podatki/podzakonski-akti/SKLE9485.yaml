@@ -1,16 +1,10 @@
 Text file: SKLE9485.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356130800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-21 23:00:00
 idPredpisa: SKLE9485
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o oprostitvi pla\u010Dila upravne takse zaradi naravne nesre\u010D\
-  e, ki se je na obmo\u010Dju Republike Slovenije zgodila 5.\_novembra 2012"
+naslov: "SKLEP o oprostitvi pla\u010Dila upravne takse zaradi naravne nesre\u010De,
+  ki se je na obmo\u010Dju Republike Slovenije zgodila 5.\_novembra 2012"
 npbNum: 0
 path: /2012/39/2012-01-3949
 sopPredpisa: 2012-01-3949

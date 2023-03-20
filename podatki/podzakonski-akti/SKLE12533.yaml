@@ -1,18 +1,12 @@
 Text file: SKLE12533.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1633730400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-08 22:00:00
 idPredpisa: SKLE12533
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o poenostavljenem in okrepljenem skrbnem preverjanju\
-  \ strank ter dejavnikih, ki bi jih kreditne in finan\u010Dne institucije morale\
-  \ upo\u0161tevati pri oceni tveganja pranja denarja in financiranja terorizma, povezanega\
-  \ s posameznimi poslovnimi odnosi in ob\u010Dasnimi transakcijami"
+naslov: "SKLEP o uporabi Smernic o poenostavljenem in okrepljenem skrbnem preverjanju
+  strank ter dejavnikih, ki bi jih kreditne in finan\u010Dne institucije morale upo\u0161tevati
+  pri oceni tveganja pranja denarja in financiranja terorizma, povezanega s posameznimi
+  poslovnimi odnosi in ob\u010Dasnimi transakcijami"
 npbNum: 0
 path: /2021/29/2021-01-2933
 sopPredpisa: 2021-01-2933

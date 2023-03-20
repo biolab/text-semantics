@@ -1,21 +1,12 @@
 Text file: PRAV3920.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1370815200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1362783600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-06-09 22:00:00
+datumZacetkaVelj: 2013-03-08 23:00:00
 idPredpisa: PRAV3920
 idPredpisaChng: PRAV3920
-instock: .nan
-naslov: "PRAVILNIK o meroslovnih zahtevah za preto\u010Dna merila in merilne sisteme\
-  \ za zvezno in dinami\u010Dno merjenje koli\u010Din teko\u010Din razen vode (prenehal\
-  \ veljati) (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 5)"
+naslov: "PRAVILNIK o meroslovnih zahtevah za preto\u010Dna merila in merilne sisteme
+  za zvezno in dinami\u010Dno merjenje koli\u010Din teko\u010Din razen vode (prenehal
+  veljati) (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 5)"
 npbNum: 5
 path: /2013/05/2013-01-0510-2001-01-3291-npb5
 sopPredpisa: 2013-01-0510

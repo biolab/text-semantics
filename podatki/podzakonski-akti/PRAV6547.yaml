@@ -1,17 +1,11 @@
 Text file: PRAV6547.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1373061600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-05 22:00:00
 idPredpisa: PRAV6547
 idPredpisaChng: PRAV6547
-instock: .nan
-naslov: "PRAVILNIK za izra\u010Dun dopolnilnih kapitalskih zahtev nadzorovanih oseb\
-  \ in za izra\u010Dun prilagojenih kapitalskih zahtev nenadzorovanih oseb v finan\u010D\
-  nem konglomeratu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK za izra\u010Dun dopolnilnih kapitalskih zahtev nadzorovanih oseb
+  in za izra\u010Dun prilagojenih kapitalskih zahtev nenadzorovanih oseb v finan\u010Dnem
+  konglomeratu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2013/19/2013-01-1993-2007-01-0335-npb1
 sopPredpisa: 2013-01-1993

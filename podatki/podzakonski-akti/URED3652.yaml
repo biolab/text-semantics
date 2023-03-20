@@ -1,16 +1,10 @@
 Text file: URED3652.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136934000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-10 23:00:00
 idPredpisa: URED3652
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu uporabe zvo\u010Dnih naprav, ki na shodih in prireditvah\
-  \ povzro\u010Dajo hrup"
+naslov: "UREDBO o na\u010Dinu uporabe zvo\u010Dnih naprav, ki na shodih in prireditvah
+  povzro\u010Dajo hrup"
 npbNum: 0
 path: /2005/51/2005-01-5191
 sopPredpisa: 2005-01-5191

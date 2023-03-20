@@ -1,18 +1,12 @@
 Text file: URED4592.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-03 22:00:00
 idPredpisa: URED4592
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje\
-  \ urejanja prostora na podlagi Programa priprave dr\u017Eavnega lokacijskega na\u010D\
-  rta za glavno cesto na odseku \u017Delodnik\u2013Menge\u0161\u2013Vodice, na odseku\
-  \ \u017Deje\u2013Vodice"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje
+  urejanja prostora na podlagi Programa priprave dr\u017Eavnega lokacijskega na\u010Drta
+  za glavno cesto na odseku \u017Delodnik\u2013Menge\u0161\u2013Vodice, na odseku
+  \u017Deje\u2013Vodice"
 npbNum: 0
 path: /2007/38/2007-01-3828
 sopPredpisa: 2007-01-3828

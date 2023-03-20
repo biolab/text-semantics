@@ -1,12 +1,10 @@
 Text file: PRAV10699.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV10699
 idPredpisaChng: PRAV10699
-instock: .nan
-naslov: "PRAVILNIK o izdaji diplom in potrdil o izobra\u017Eevanju \u0161ole za risanje\
-  \ in slikanje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o izdaji diplom in potrdil o izobra\u017Eevanju \u0161ole za risanje
+  in slikanje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2012/31/2012-01-3198-2011-01-0152-npb1
 sopPredpisa: 2012-01-3198

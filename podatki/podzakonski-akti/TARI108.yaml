@@ -1,17 +1,10 @@
 Text file: TARI108.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1236380400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-06 23:00:00
 idPredpisa: TARI108
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO nadomestil za storitve, ki jih Agencija Republike Slovenije za javnopravne\
-  \ evidence in storitve opravlja po 58. \u010Dlenu Zakona o gospodarskih dru\u017E\
-  bah"
+naslov: "TARIFO nadomestil za storitve, ki jih Agencija Republike Slovenije za javnopravne
+  evidence in storitve opravlja po 58. \u010Dlenu Zakona o gospodarskih dru\u017Ebah"
 npbNum: 0
 path: /2009/06/2009-01-0651
 sopPredpisa: 2009-01-0651

@@ -1,10 +1,8 @@
 Text file: SKLE11294.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11294
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o odprtju Konzulata Republike Slovenije v Kampali, v Republiki Ugandi
 npbNum: 0
 path: /2018/21/2018-01-2116

@@ -1,17 +1,11 @@
 Text file: SKLE6604.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1158962400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-09-22 22:00:00
 idPredpisa: SKLE6604
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi roka za vklju\u010Ditev Zavoda za varstvo in usposabljanje\
-  \ dr. Marijana Bor\u0161tnarja Dornava v sistem enotnega upravljanja s prostimi\
-  \ denarnimi sredstvi"
+naslov: "SKLEP o dolo\u010Ditvi roka za vklju\u010Ditev Zavoda za varstvo in usposabljanje
+  dr. Marijana Bor\u0161tnarja Dornava v sistem enotnega upravljanja s prostimi denarnimi
+  sredstvi"
 npbNum: 0
 path: /2006/41/2006-01-4196
 sopPredpisa: 2006-01-4196

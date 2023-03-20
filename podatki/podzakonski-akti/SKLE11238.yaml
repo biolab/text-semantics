@@ -1,16 +1,10 @@
 Text file: SKLE11238.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: SKLE11238
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010D\
-  enje podzemne vode za leto 2018"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010Denje
+  podzemne vode za leto 2018"
 npbNum: 0
 path: /2017/35/2017-01-3503
 sopPredpisa: 2017-01-3503

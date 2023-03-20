@@ -1,14 +1,8 @@
 Text file: PRAV4784.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051135200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-23 22:00:00
 idPredpisa: PRAV4784
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dovoljenjih za fitofarmacevtska sredstva
 npbNum: 0
 path: /2003/15/2003-01-1553

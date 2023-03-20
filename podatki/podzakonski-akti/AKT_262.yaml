@@ -1,14 +1,8 @@
 Text file: AKT_262.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1002319200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-05 22:00:00
 idPredpisa: AKT_262
 idPredpisaChng: null
-instock: .nan
 naslov: "SOGLASJE  k aktu o ustanovitvi Fundacije \u201CEdvard Rusjan\u201D, ustanove"
 npbNum: 0
 path: /2001/40/2001-01-4061

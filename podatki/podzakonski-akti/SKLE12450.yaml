@@ -1,12 +1,10 @@
 Text file: SKLE12450.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12450
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dlanov strokovnega sveta Agencije za zavarovalni\
-  \ nadzor"
+naslov: "SKLEP o imenovanju \u010Dlanov strokovnega sveta Agencije za zavarovalni
+  nadzor"
 npbNum: 0
 path: /2021/18/2021-01-1871
 sopPredpisa: 2021-01-1871

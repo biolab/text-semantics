@@ -1,16 +1,10 @@
 Text file: PRAV14291.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636412400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-08 23:00:00
 idPredpisa: PRAV14291
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o nagradi in povra\u010Dilu stro\u0161kov zakonitim zastopnikom\
-  \ mladoletnikov brez spremstva"
+naslov: "PRAVILNIK o nagradi in povra\u010Dilu stro\u0161kov zakonitim zastopnikom
+  mladoletnikov brez spremstva"
 npbNum: 0
 path: /2021/32/2021-01-3274
 sopPredpisa: 2021-01-3274

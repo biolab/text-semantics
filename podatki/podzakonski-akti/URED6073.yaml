@@ -1,17 +1,11 @@
 Text file: URED6073.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1351288800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-10-26 22:00:00
 idPredpisa: URED6073
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredb (ES) o vzpostavitvi sistema Skupnosti za prepre\u010D\
-  evanje nezakonitega, neprijavljenega in nereguliranega ribolova, za odvra\u010D\
-  anje od njega ter za njegovo odpravljanje"
+naslov: "UREDBO o izvajanju uredb (ES) o vzpostavitvi sistema Skupnosti za prepre\u010Devanje
+  nezakonitega, neprijavljenega in nereguliranega ribolova, za odvra\u010Danje od
+  njega ter za njegovo odpravljanje"
 npbNum: 0
 path: /2012/29/2012-01-2986
 sopPredpisa: 2012-01-2986

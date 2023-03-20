@@ -1,17 +1,11 @@
 Text file: PRAV7777.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1380319200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-27 22:00:00
 idPredpisa: PRAV7777
 idPredpisaChng: PRAV7777
-instock: .nan
-naslov: "PRAVILNIK o vi\u0161ini pristojbine za opravljanje izpitov, izmeritev \u010D\
-  olnov in ugotavljanje njihove sposobnosti za plovbo ter stro\u0161kih tiskovin (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o vi\u0161ini pristojbine za opravljanje izpitov, izmeritev \u010Dolnov
+  in ugotavljanje njihove sposobnosti za plovbo ter stro\u0161kih tiskovin (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/27/2013-01-2790-2007-01-0609-npb2
 sopPredpisa: 2013-01-2790

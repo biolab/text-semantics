@@ -1,16 +1,10 @@
 Text file: PRAV13068.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1597442400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-14 22:00:00
 idPredpisa: PRAV13068
 idPredpisaChng: PRAV13068
-instock: .nan
-naslov: "PRAVILNIK o usposabljanju za varno delo s traktorjem in traktorskimi priklju\u010D\
-  ki (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o usposabljanju za varno delo s traktorjem in traktorskimi priklju\u010Dki
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/21/2020-01-2116-2017-01-3597-npb2
 sopPredpisa: 2020-01-2116

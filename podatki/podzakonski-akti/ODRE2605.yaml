@@ -1,17 +1,11 @@
 Text file: ODRE2605.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-31 23:00:00
 idPredpisa: ODRE2605
 idPredpisaChng: ODRE2605
-instock: .nan
-naslov: "ODREDBA o za\u010Dasnih ukrepih na podro\u010Dju organizacije zdravstvene\
-  \ dejavnosti zaradi obvladovanja nalezljive bolezni COVID-19 (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "ODREDBA o za\u010Dasnih ukrepih na podro\u010Dju organizacije zdravstvene
+  dejavnosti zaradi obvladovanja nalezljive bolezni COVID-19 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2020/37/2020-01-3789-2020-01-2907-npb4
 sopPredpisa: 2020-01-3789

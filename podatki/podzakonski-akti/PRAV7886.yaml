@@ -1,14 +1,8 @@
 Text file: PRAV7886.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1165273200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-04 23:00:00
 idPredpisa: PRAV7886
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o ravnanju z odpadnimi fitofarmacevtskimi sredstvi, ki vsebujejo nevarne
   snovi
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: PRAV14580.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1650060000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-15 22:00:00
 idPredpisa: PRAV14580
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o kadrovskih pogojih, usposabljanju in superviziji v dolgotrajni
   oskrbi
 npbNum: 0

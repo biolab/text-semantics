@@ -1,16 +1,10 @@
 Text file: SKLE5144.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1100818800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-18 23:00:00
 idPredpisa: SKLE5144
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za avtocesto na odseku Fram (Slivnica) \u2013 Ptuj (Dra\u017Eenci)"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za avtocesto na odseku Fram (Slivnica) \u2013 Ptuj (Dra\u017Eenci)"
 npbNum: 0
 path: /2004/51/2004-01-5192
 sopPredpisa: 2004-01-5192

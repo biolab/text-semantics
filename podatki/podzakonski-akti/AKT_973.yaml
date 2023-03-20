@@ -1,17 +1,11 @@
 Text file: AKT_973.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: AKT_973
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Novo mesto, Ob\u010D\
-  ine Litija ter Podkraj v Hrastniku"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Novo mesto, Ob\u010Dine
+  Litija ter Podkraj v Hrastniku"
 npbNum: 0
 path: /2015/41/2015-01-4194
 sopPredpisa: 2015-01-4194

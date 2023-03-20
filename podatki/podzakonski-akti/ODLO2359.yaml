@@ -1,17 +1,11 @@
 Text file: ODLO2359.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-25 23:00:00
 idPredpisa: ODLO2359
 idPredpisaChng: ODLO2359
-instock: .nan
-naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja ponujanja in prodajanja blaga\
-  \ in storitev neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki\
-  \ Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja ponujanja in prodajanja blaga
+  in storitev neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki
+  Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2021/08/2021-01-0864-2021-01-0538-npb4
 sopPredpisa: 2021-01-0864

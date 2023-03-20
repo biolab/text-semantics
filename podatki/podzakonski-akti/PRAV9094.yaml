@@ -1,14 +1,8 @@
 Text file: PRAV9094.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1216764000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-22 22:00:00
 idPredpisa: PRAV9094
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o elektronskem dostopu do podatkov iz vpisnika morskih \u010Dolnov"
 npbNum: 0
 path: /2008/29/2008-01-2979

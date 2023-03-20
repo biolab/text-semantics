@@ -1,16 +1,10 @@
 Text file: TARI203.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-31 23:00:00
 idPredpisa: TARI203
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO nadomestila stro\u0161kov za dostop do podatkov iz Registra dejanskih\
-  \ lastnikov"
+naslov: "TARIFO nadomestila stro\u0161kov za dostop do podatkov iz Registra dejanskih
+  lastnikov"
 npbNum: 0
 path: /2017/37/2017-01-3724
 sopPredpisa: 2017-01-3724

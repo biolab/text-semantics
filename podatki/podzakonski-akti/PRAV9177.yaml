@@ -1,17 +1,11 @@
 Text file: PRAV9177.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1373839200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-14 22:00:00
 idPredpisa: PRAV9177
 idPredpisaChng: PRAV9177
-instock: .nan
-naslov: "PRAVILNIK o vodenju evidence o odpustu obveznosti in po\u0161iljanju obvestil\
-  \ glede vodenja te evidence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "PRAVILNIK o vodenju evidence o odpustu obveznosti in po\u0161iljanju obvestil
+  glede vodenja te evidence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2013/22/2013-01-2297-2008-01-3638-npb1
 sopPredpisa: 2013-01-2297

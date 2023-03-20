@@ -1,17 +1,11 @@
 Text file: URED5894.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325718000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-04 23:00:00
 idPredpisa: URED5894
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije v\
-  \ hidroelektrarnah do 10 MW nazivne mo\u010Di, na delu vodnega telesa vodotoka reke\
-  \ Krke, hidrografsko obmo\u010Dje Breg pri Zagradcu"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije v
+  hidroelektrarnah do 10 MW nazivne mo\u010Di, na delu vodnega telesa vodotoka reke
+  Krke, hidrografsko obmo\u010Dje Breg pri Zagradcu"
 npbNum: 0
 path: /2011/45/2011-01-4518
 sopPredpisa: 2011-01-4518

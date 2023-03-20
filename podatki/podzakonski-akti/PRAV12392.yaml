@@ -1,14 +1,8 @@
 Text file: PRAV12392.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419030000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-19 23:00:00
 idPredpisa: PRAV12392
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o izvedbi postopka izbire avdiovizualnih projektov za javno kinematografsko
   predvajanje
 npbNum: 0

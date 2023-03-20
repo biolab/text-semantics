@@ -1,17 +1,11 @@
 Text file: AKT_779.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1375740000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-08-05 22:00:00
 idPredpisa: AKT_779
 idPredpisaChng: AKT_779
-instock: .nan
-naslov: "AKT o metodologiji za obra\u010Dunavanje omre\u017Enine za distribucijsko\
-  \ omre\u017Eje zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "AKT o metodologiji za obra\u010Dunavanje omre\u017Enine za distribucijsko
+  omre\u017Eje zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2013/26/2013-01-2604-2012-01-2537-npb1
 sopPredpisa: 2013-01-2604

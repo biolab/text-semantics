@@ -1,16 +1,10 @@
 Text file: SKLE10950.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480114800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-25 23:00:00
 idPredpisa: SKLE10950
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini in obliki javnih listin o zaklju\u010Denem izobra\u017Eevanju\
-  \ na Mednarodni fakulteti za dru\u017Ebene in poslovne \u0161tudije"
+naslov: "SKLEP o vsebini in obliki javnih listin o zaklju\u010Denem izobra\u017Eevanju
+  na Mednarodni fakulteti za dru\u017Ebene in poslovne \u0161tudije"
 npbNum: 0
 path: /2016/31/2016-01-3149
 sopPredpisa: 2016-01-3149

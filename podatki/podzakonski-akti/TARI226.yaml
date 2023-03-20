@@ -1,16 +1,10 @@
 Text file: TARI226.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: TARI226
 idPredpisaChng: TARI226
-instock: .nan
-naslov: "TARIFA o taksah in nadomestilih Agencije za trg vrednostnih papirjev (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "TARIFA o taksah in nadomestilih Agencije za trg vrednostnih papirjev (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/34/2021-01-3432-2019-01-3310-npb2
 sopPredpisa: 2021-01-3432

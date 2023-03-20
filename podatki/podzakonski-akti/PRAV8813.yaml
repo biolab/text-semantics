@@ -1,16 +1,10 @@
 Text file: PRAV8813.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-20 22:00:00
 idPredpisa: PRAV8813
 idPredpisaChng: PRAV8813
-instock: .nan
-naslov: "PRAVILNIK o preizkusu iz zdravstvenih vsebin za zdravilce, ki nimajo zdravstvene\
-  \ izobrazbe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o preizkusu iz zdravstvenih vsebin za zdravilce, ki nimajo zdravstvene
+  izobrazbe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/25/2017-01-2594-2008-01-3529-npb2
 sopPredpisa: 2017-01-2594

@@ -1,14 +1,8 @@
 Text file: SKLE91.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 857170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-02-28 23:00:00
 idPredpisa: SKLE91
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o podalj\u0161anju roka za izvoz dolo\u010Denih pridobljenih proizvodov"
 npbNum: 0
 path: /1997/06/1997-01-0691

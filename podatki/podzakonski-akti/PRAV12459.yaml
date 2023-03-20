@@ -1,16 +1,10 @@
 Text file: PRAV12459.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1426892400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-03-20 23:00:00
 idPredpisa: PRAV12459
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na\
-  \ Fakulteti za zdravstvo Jesenice"
+naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na
+  Fakulteti za zdravstvo Jesenice"
 npbNum: 0
 path: /2015/07/2015-01-0735
 sopPredpisa: 2015-01-0735

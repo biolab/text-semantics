@@ -1,16 +1,10 @@
 Text file: URED7752.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528322400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-06 22:00:00
 idPredpisa: URED7752
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku\
-  \ Sava v ob\u010Dini \u0160en\u010Dur"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku
+  Sava v ob\u010Dini \u0160en\u010Dur"
 npbNum: 0
 path: /2018/19/2018-01-1910
 sopPredpisa: 2018-01-1910

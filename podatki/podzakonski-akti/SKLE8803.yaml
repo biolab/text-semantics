@@ -1,12 +1,10 @@
 Text file: SKLE8803.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE8803
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o na\u010Dinu pla\u010Devanja \u010Dlanarine Obrtno-podjetni\u0161\
-  ki zbornici Slovenije od 1. 1. 2011 dalje"
+naslov: "SKLEP o na\u010Dinu pla\u010Devanja \u010Dlanarine Obrtno-podjetni\u0161ki
+  zbornici Slovenije od 1. 1. 2011 dalje"
 npbNum: 0
 path: /2010/55/2010-01-5596
 sopPredpisa: 2010-01-5596

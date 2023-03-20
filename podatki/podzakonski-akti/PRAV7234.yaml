@@ -1,19 +1,13 @@
 Text file: PRAV7234.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1165618800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-08 23:00:00
 idPredpisa: PRAV7234
 idPredpisaChng: PRAV7234
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih in organizacijskih pogojih, ki jih morajo izpolnjevati\
-  \ organizacije za kontrolo nad pridelavo in predelavo ekolo\u0161kih kmetijskih\
-  \ pridelkov oziroma \u017Eivil in organizacije za kontrolo nad pridelavo integriranih\
-  \ kmetijskih pridelkov oziroma \u017Eivil (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1) (delno prenehal veljati)"
+naslov: "PRAVILNIK o tehni\u010Dnih in organizacijskih pogojih, ki jih morajo izpolnjevati
+  organizacije za kontrolo nad pridelavo in predelavo ekolo\u0161kih kmetijskih pridelkov
+  oziroma \u017Eivil in organizacije za kontrolo nad pridelavo integriranih kmetijskih
+  pridelkov oziroma \u017Eivil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1) (delno prenehal veljati)"
 npbNum: 1
 path: /2006/54/2006-01-5415-2005-01-5024-npb1
 sopPredpisa: 2006-01-5415

@@ -1,26 +1,19 @@
 Text file: AKT_1097.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-31 23:00:00
 idPredpisa: AKT_1097
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju ob\u010Dine Tr\u017Ei\u010D, ob\u010D\
-  ine Radovljica, ob\u010Dine Beltinci, ob\u010Dine Odranci, ob\u010Dine Trzin, ob\u010D\
-  ine Menge\u0161, ob\u010Dine Dom\u017Eale, ob\u010Dine Turni\u0161\u010De, ob\u010D\
-  ine Vodice, ob\u010Dine Komenda, ob\u010Dine Slovenska Bistrica, ob\u010Dine Slovenske\
-  \ Konjice, ob\u010Dine Gornja Radgona, ob\u010Dine Cerklje na Gorenjskem, ob\u010D\
-  ine \u0160en\u010Dur - 3. o\u017Eje obmo\u010Dje, ob\u010Dine \u0160kofja Loka,\
-  \ ob\u010Dine Dobrovnik - o\u017Eje obmo\u010Dje, ob\u010Dine Idrija, ob\u010Dine\
-  \ Prevalje, ob\u010Dine Me\u017Eica, ob\u010Dine Ravne na Koro\u0161kem, ob\u010D\
-  ine Muta in ob\u010Dine \u010Crna \u2013 obmo\u010Dje \u017Derjav, Mu\u0161enik\
-  \ in Rudarjevo, ter vod, s katerim so ta naselja priklju\u010Dena na distribucijski\
-  \ sistem v Ob\u010Dini Me\u017Eica"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju ob\u010Dine Tr\u017Ei\u010D, ob\u010Dine
+  Radovljica, ob\u010Dine Beltinci, ob\u010Dine Odranci, ob\u010Dine Trzin, ob\u010Dine
+  Menge\u0161, ob\u010Dine Dom\u017Eale, ob\u010Dine Turni\u0161\u010De, ob\u010Dine
+  Vodice, ob\u010Dine Komenda, ob\u010Dine Slovenska Bistrica, ob\u010Dine Slovenske
+  Konjice, ob\u010Dine Gornja Radgona, ob\u010Dine Cerklje na Gorenjskem, ob\u010Dine
+  \u0160en\u010Dur - 3. o\u017Eje obmo\u010Dje, ob\u010Dine \u0160kofja Loka, ob\u010Dine
+  Dobrovnik - o\u017Eje obmo\u010Dje, ob\u010Dine Idrija, ob\u010Dine Prevalje, ob\u010Dine
+  Me\u017Eica, ob\u010Dine Ravne na Koro\u0161kem, ob\u010Dine Muta in ob\u010Dine
+  \u010Crna \u2013 obmo\u010Dje \u017Derjav, Mu\u0161enik in Rudarjevo, ter vod, s
+  katerim so ta naselja priklju\u010Dena na distribucijski sistem v Ob\u010Dini Me\u017Eica"
 npbNum: 0
 path: /2018/42/2018-01-4215
 sopPredpisa: 2018-01-4215

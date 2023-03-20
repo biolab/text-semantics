@@ -1,16 +1,10 @@
 Text file: ODRE1236.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 842220000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-09-08 22:00:00
 idPredpisa: ODRE1236
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o uvedbi agromelioracijskega postopka za obnovo trajnih nasadov na\
-  \ obmo\u010Dju Ob\u010Dine \u0160kocjan"
+naslov: "ODREDBO o uvedbi agromelioracijskega postopka za obnovo trajnih nasadov na
+  obmo\u010Dju Ob\u010Dine \u0160kocjan"
 npbNum: 0
 path: /1996/29/1996-01-2950
 sopPredpisa: 1996-01-2950

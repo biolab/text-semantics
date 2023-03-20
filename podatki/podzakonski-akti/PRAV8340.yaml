@@ -1,17 +1,11 @@
 Text file: PRAV8340.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1189461600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-10 22:00:00
 idPredpisa: PRAV8340
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dokumentaciji, ki je podlaga za \u010Drpanje namenskih sredstev\
-  \ za graditev dr\u017Eavnih cest, dolo\u010Denih v nacionalnem programu izgradnje\
-  \ avtocest v Republiki Sloveniji"
+naslov: "PRAVILNIK o dokumentaciji, ki je podlaga za \u010Drpanje namenskih sredstev
+  za graditev dr\u017Eavnih cest, dolo\u010Denih v nacionalnem programu izgradnje
+  avtocest v Republiki Sloveniji"
 npbNum: 0
 path: /2007/41/2007-01-4192
 sopPredpisa: 2007-01-4192

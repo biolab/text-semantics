@@ -1,16 +1,10 @@
 Text file: SKLE4923.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-31 22:00:00
 idPredpisa: SKLE4923
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uskladitvi zneska minimalne premije kolektivnega dodatnega pokojninskega\
-  \ zavarovanja za javne uslu\u017Ebence"
+naslov: "SKLEP o uskladitvi zneska minimalne premije kolektivnega dodatnega pokojninskega
+  zavarovanja za javne uslu\u017Ebence"
 npbNum: 0
 path: /2004/34/2004-01-3415
 sopPredpisa: 2004-01-3415

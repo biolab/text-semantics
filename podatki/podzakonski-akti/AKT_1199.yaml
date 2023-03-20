@@ -1,16 +1,10 @@
 Text file: AKT_1199.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613775600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-19 23:00:00
 idPredpisa: AKT_1199
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za zaprti distribucijski sistem zemeljskega\
-  \ plina za geografsko obmo\u010Dje SAVA LABORE v Mestni ob\u010Dini Kranj"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za zaprti distribucijski sistem zemeljskega
+  plina za geografsko obmo\u010Dje SAVA LABORE v Mestni ob\u010Dini Kranj"
 npbNum: 0
 path: /2021/03/2021-01-0358
 sopPredpisa: 2021-01-0358

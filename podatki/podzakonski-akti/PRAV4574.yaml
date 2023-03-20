@@ -1,16 +1,10 @@
 Text file: PRAV4574.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1355871600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-18 23:00:00
 idPredpisa: PRAV4574
 idPredpisaChng: PRAV4574
-instock: .nan
-naslov: "PRAVILNIK o zemlji\u0161kem pismu (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "PRAVILNIK o zemlji\u0161kem pismu (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /2012/37/2012-01-3799-2003-01-0593-npb4
 sopPredpisa: 2012-01-3799

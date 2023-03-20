@@ -1,18 +1,12 @@
 Text file: URED8426.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1642201200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-14 23:00:00
 idPredpisa: URED8426
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (EU) o za\u010Dasnem odstopanju od nekaterih dolo\u010D\
-  b Direktive 2002/58/ES glede uporabe tehnologij s strani ponudnikov medosebnih komunikacijskih\
-  \ storitev, neodvisnih od \u0161tevilke, za obdelavo osebnih in drugih podatkov\
-  \ za namene boja proti spolni zlorabi otrok na spletu"
+naslov: "UREDBO o izvajanju Uredbe (EU) o za\u010Dasnem odstopanju od nekaterih dolo\u010Db
+  Direktive 2002/58/ES glede uporabe tehnologij s strani ponudnikov medosebnih komunikacijskih
+  storitev, neodvisnih od \u0161tevilke, za obdelavo osebnih in drugih podatkov za
+  namene boja proti spolni zlorabi otrok na spletu"
 npbNum: 0
 path: /2022/00/2022-01-0062
 sopPredpisa: 2022-01-0062

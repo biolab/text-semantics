@@ -1,16 +1,9 @@
 Text file: SKLE1681.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 828140400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-03-29 23:00:00
 idPredpisa: SKLE1681
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o merilih za postavitev javne mre\u017Ee vi\u0161jih strokovnih \u0161\
-  ol"
+naslov: "SKLEP  o merilih za postavitev javne mre\u017Ee vi\u0161jih strokovnih \u0161ol"
 npbNum: 0
 path: /1996/10/1996-01-1058
 sopPredpisa: 1996-01-1058

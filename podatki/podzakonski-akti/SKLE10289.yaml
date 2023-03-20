@@ -1,13 +1,11 @@
 Text file: SKLE10289.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10289
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju predsednika in devetih \u010Dlanov Nadzornega odbora Sklada\
-  \ za financiranje razgradnje Nuklearne elektrarne Kr\u0161ko in odlaganja radioaktivnih\
-  \ odpadkov iz Nuklearne elektrarne Kr\u0161ko"
+naslov: "SKLEP o imenovanju predsednika in devetih \u010Dlanov Nadzornega odbora Sklada
+  za financiranje razgradnje Nuklearne elektrarne Kr\u0161ko in odlaganja radioaktivnih
+  odpadkov iz Nuklearne elektrarne Kr\u0161ko"
 npbNum: 0
 path: /2015/02/2015-01-0221
 sopPredpisa: 2015-01-0221

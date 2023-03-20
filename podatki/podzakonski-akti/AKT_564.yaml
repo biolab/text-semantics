@@ -1,14 +1,8 @@
 Text file: AKT_564.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219183200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
+datumZacetkaUpor: 2008-08-19 22:00:00
+datumZacetkaVelj: null
 idPredpisa: AKT_564
 idPredpisaChng: null
-instock: .nan
 naslov: AKT o notranji organizaciji in sistemizaciji delovnih mest Sodnega sveta Republike
   Slovenije
 npbNum: 0

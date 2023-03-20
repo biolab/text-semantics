@@ -1,17 +1,11 @@
 Text file: PRAV13942.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-31 23:00:00
 idPredpisa: PRAV13942
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredb (EU) glede ukrepov za okrepitev upravnega sodelovanja\
-  \ na podro\u010Dju davka na dodano vrednost v zvezi z izmenjavo podatkov iz nacionalnih\
-  \ registrov vozil"
+naslov: "UREDBO o izvajanju uredb (EU) glede ukrepov za okrepitev upravnega sodelovanja
+  na podro\u010Dju davka na dodano vrednost v zvezi z izmenjavo podatkov iz nacionalnih
+  registrov vozil"
 npbNum: 0
 path: /2019/38/2019-01-3866
 sopPredpisa: 2019-01-3866

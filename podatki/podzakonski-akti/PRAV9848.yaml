@@ -1,17 +1,11 @@
 Text file: PRAV9848.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1344031200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-08-03 22:00:00
 idPredpisa: PRAV9848
 idPredpisaChng: PRAV9848
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu posredovanja hranjenih podatkov o prometu telefonskih\
-  \ in podatkovnih storitev v mobilnem in fiksnem elektronskem komunikacijskem omre\u017E\
-  ju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu posredovanja hranjenih podatkov o prometu telefonskih
+  in podatkovnih storitev v mobilnem in fiksnem elektronskem komunikacijskem omre\u017Eju
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2012/23/2012-01-2340-2009-01-4515-npb1
 sopPredpisa: 2012-01-2340

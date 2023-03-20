@@ -1,17 +1,11 @@
 Text file: PRAV10343.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1359154800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-01-25 23:00:00
 idPredpisa: PRAV10343
 idPredpisaChng: PRAV10343
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev vi\u0161ine nagrade in za povrnitev\
-  \ stro\u0161kov za delo zastopnika pravic oseb na podro\u010Dju du\u0161evnega zdravja\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev vi\u0161ine nagrade in za povrnitev
+  stro\u0161kov za delo zastopnika pravic oseb na podro\u010Dju du\u0161evnega zdravja
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/02/2013-01-0204-2010-01-3706-npb2
 sopPredpisa: 2013-01-0204

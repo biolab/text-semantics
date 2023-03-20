@@ -1,14 +1,8 @@
 Text file: SKLE2070.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 986594400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-04-06 22:00:00
 idPredpisa: SKLE2070
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o vi\u0161ini stro\u0161kov vpogleda v izpitno \_dokumentacijo"
 npbNum: 0
 path: /2001/15/2001-01-1539

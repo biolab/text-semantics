@@ -1,17 +1,11 @@
 Text file: PRAV9628.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356562800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-26 23:00:00
 idPredpisa: PRAV9628
 idPredpisaChng: PRAV9628
-instock: .nan
-naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga v proizvodnji hrane in\
-  \ pija\u010D (kalo, razsip, razbitje in primanjkljaj) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga v proizvodnji hrane in
+  pija\u010D (kalo, razsip, razbitje in primanjkljaj) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2012/40/2012-01-4006-2008-01-5579-npb2
 sopPredpisa: 2012-01-4006

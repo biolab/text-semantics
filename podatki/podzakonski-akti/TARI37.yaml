@@ -1,16 +1,10 @@
 Text file: TARI37.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387839600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-23 23:00:00
 idPredpisa: TARI37
 idPredpisaChng: TARI37
-instock: .nan
-naslov: "TARIFA o taksah in nadomestilih (Tarifa \u2013 1) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 3)"
+naslov: "TARIFA o taksah in nadomestilih (Tarifa \u2013 1) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2013/38/2013-01-3828-2002-01-4451-npb3
 sopPredpisa: 2013-01-3828

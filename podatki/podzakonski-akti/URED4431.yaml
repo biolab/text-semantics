@@ -1,16 +1,10 @@
 Text file: URED4431.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167606000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-31 23:00:00
 idPredpisa: URED4431
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi obdobja, v katerem se ne pla\u010Duje tro\u0161arina\
-  \ na elektri\u010Dno energijo"
+naslov: "UREDBO o dolo\u010Ditvi obdobja, v katerem se ne pla\u010Duje tro\u0161arina
+  na elektri\u010Dno energijo"
 npbNum: 0
 path: /2006/59/2006-01-5986
 sopPredpisa: 2006-01-5986

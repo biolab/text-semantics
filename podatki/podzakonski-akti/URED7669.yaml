@@ -1,18 +1,12 @@
 Text file: URED7669.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1558735200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-24 22:00:00
 idPredpisa: URED7669
 idPredpisaChng: URED7669
-instock: .nan
-naslov: "UREDBA o programu opremljanja stavbnih zemlji\u0161\u010D in odloku o podlagah\
-  \ za odmero komunalnega prispevka za obstoje\u010Do komunalno opremo ter o izra\u010D\
-  unu in odmeri komunalnega prispevka (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o programu opremljanja stavbnih zemlji\u0161\u010D in odloku o podlagah
+  za odmero komunalnega prispevka za obstoje\u010Do komunalno opremo ter o izra\u010Dunu
+  in odmeri komunalnega prispevka (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2019/15/2019-01-1565-2019-01-0897-npb1
 sopPredpisa: 2019-01-1565

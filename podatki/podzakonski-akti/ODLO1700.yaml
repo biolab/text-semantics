@@ -1,16 +1,10 @@
 Text file: ODLO1700.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1396047600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-03-28 23:00:00
 idPredpisa: ODLO1700
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o seznamu upravljavcev naprav, ki izpu\u0161\u010Dajo toplogredne pline,\
-  \ za obdobje od 2013 do 2020"
+naslov: "ODLOK o seznamu upravljavcev naprav, ki izpu\u0161\u010Dajo toplogredne pline,
+  za obdobje od 2013 do 2020"
 npbNum: 0
 path: /2014/08/2014-01-0828
 sopPredpisa: 2014-01-0828

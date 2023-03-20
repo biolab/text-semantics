@@ -1,17 +1,11 @@
 Text file: PRAV8581.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204671600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-04 23:00:00
 idPredpisa: PRAV8581
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o smeri in stopnji izobrazbe predavateljev vi\u0161je strokovne\
-  \ \u0161ole in drugih strokovnih delavcev v vi\u0161je\u0161olskem programu vi\u0161\
-  jega strokovnega izobra\u017Eevanja BALET"
+naslov: "PRAVILNIK o smeri in stopnji izobrazbe predavateljev vi\u0161je strokovne
+  \u0161ole in drugih strokovnih delavcev v vi\u0161je\u0161olskem programu vi\u0161jega
+  strokovnega izobra\u017Eevanja BALET"
 npbNum: 0
 path: /2008/07/2008-01-0781
 sopPredpisa: 2008-01-0781

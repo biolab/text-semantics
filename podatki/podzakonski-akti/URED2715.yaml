@@ -1,14 +1,8 @@
 Text file: URED2715.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: URED2715
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o mejnih dozah, radioaktivni kontaminaciji in intervencijskih nivojih
 npbNum: 0
 path: /2004/22/2004-01-2278

@@ -1,16 +1,10 @@
 Text file: SKLE3217.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1469224800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-22 22:00:00
 idPredpisa: SKLE3217
 idPredpisaChng: SKLE3217
-instock: .nan
-naslov: "SKLEP o ustanovitvi Instituta informacijskih znanosti (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o ustanovitvi Instituta informacijskih znanosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/22/2016-01-2291-2002-01-3385-npb1
 sopPredpisa: 2016-01-2291

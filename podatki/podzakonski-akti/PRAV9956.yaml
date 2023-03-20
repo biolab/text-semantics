@@ -1,16 +1,10 @@
 Text file: PRAV9956.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1258758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-20 23:00:00
 idPredpisa: PRAV9956
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na\
-  \ Visoki \u0161oli za zdravstveno nego Jesenice"
+naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o izobra\u017Eevanju na
+  Visoki \u0161oli za zdravstveno nego Jesenice"
 npbNum: 0
 path: /2009/40/2009-01-4063
 sopPredpisa: 2009-01-4063

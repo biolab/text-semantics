@@ -1,14 +1,8 @@
 Text file: POSL127.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1541804400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-11-09 23:00:00
 idPredpisa: POSL127
 idPredpisaChng: null
-instock: .nan
 naslov: "POSLOVNIK Sveta varuha za \u010Dlovekove pravice"
 npbNum: 0
 path: /2018/34/2018-01-3480

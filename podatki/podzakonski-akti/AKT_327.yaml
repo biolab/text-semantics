@@ -1,16 +1,10 @@
 Text file: AKT_327.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071702000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-17 23:00:00
 idPredpisa: AKT_327
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o vrednosti to\u010Dke za dolo\u010Ditev vi\u0161ine dolo\u010D\
-  enih pristojbin na podro\u010Dju telekomunikacij"
+naslov: "SPLO\u0160NI AKT o vrednosti to\u010Dke za dolo\u010Ditev vi\u0161ine dolo\u010Denih
+  pristojbin na podro\u010Dju telekomunikacij"
 npbNum: 0
 path: /2004/01/2004-01-0131
 sopPredpisa: 2004-01-0131

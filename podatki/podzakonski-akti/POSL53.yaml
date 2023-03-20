@@ -1,16 +1,10 @@
 Text file: POSL53.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091484000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-02 22:00:00
 idPredpisa: POSL53
 idPredpisaChng: null
-instock: .nan
-naslov: "POSLOVNIK Komisije za nadzor obve\u0161\u010Devalnih in varnostnih slu\u017E\
-  b (PoKNOVS)"
+naslov: "POSLOVNIK Komisije za nadzor obve\u0161\u010Devalnih in varnostnih slu\u017Eb
+  (PoKNOVS)"
 npbNum: 0
 path: /2004/34/2004-01-3469
 sopPredpisa: 2004-01-3469

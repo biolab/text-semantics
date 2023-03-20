@@ -1,14 +1,8 @@
 Text file: AKT_350.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1092261600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-11 22:00:00
 idPredpisa: AKT_350
 idPredpisaChng: null
-instock: .nan
 naslov: SOGLASJE k Aktu o ustanovitvi Fundacije pismo srca, ustanove
 npbNum: 0
 path: /2004/40/2004-01-4037

@@ -1,17 +1,11 @@
 Text file: SKLE7363.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1479510000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-18 23:00:00
 idPredpisa: SKLE7363
 idPredpisaChng: SKLE7363
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161i vsebini poenostavljenega prospekta in podrobnej\u0161\
-  a pravila za izvajanje postopka javne ponudbe (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "SKLEP o podrobnej\u0161i vsebini poenostavljenega prospekta in podrobnej\u0161a
+  pravila za izvajanje postopka javne ponudbe (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/30/2016-01-3094-2007-01-5280-npb1
 sopPredpisa: 2016-01-3094

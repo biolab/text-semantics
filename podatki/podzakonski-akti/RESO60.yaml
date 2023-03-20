@@ -1,12 +1,10 @@
 Text file: RESO60.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO60
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU PREPRE\u010CEVANJA NASILJA V DRU\u017D\
-  INI 2009\u20132014 (ReNPPND0914)"
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU PREPRE\u010CEVANJA NASILJA V DRU\u017DINI
+  2009\u20132014 (ReNPPND0914)"
 npbNum: 0
 path: /2009/19/2009-01-1987
 sopPredpisa: 2009-01-1987

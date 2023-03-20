@@ -1,14 +1,8 @@
 Text file: PRAV10356.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1301954400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-04-04 22:00:00
 idPredpisa: PRAV10356
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o \u0161olninah in prispevkih v vi\u0161jem \u0161olstvu"
 npbNum: 0
 path: /2011/08/2011-01-0858

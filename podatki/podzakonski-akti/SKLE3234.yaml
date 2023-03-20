@@ -1,16 +1,10 @@
 Text file: SKLE3234.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1031263200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-09-05 22:00:00
 idPredpisa: SKLE3234
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010D\
-  rta \_gozdnogospodarske enote Dole"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Dole"
 npbNum: 0
 path: /2002/38/2002-01-3806
 sopPredpisa: 2002-01-3806

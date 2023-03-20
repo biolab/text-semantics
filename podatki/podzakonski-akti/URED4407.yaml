@@ -1,17 +1,11 @@
 Text file: URED4407.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1273874400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-14 22:00:00
 idPredpisa: URED4407
 idPredpisaChng: URED4407
-instock: .nan
-naslov: "UREDBA o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o prehranskih\
-  \ in zdravstvenih trditvah na \u017Eivilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o prehranskih
+  in zdravstvenih trditvah na \u017Eivilih (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2010/18/2010-01-1853-2007-01-4140-npb1
 sopPredpisa: 2010-01-1853

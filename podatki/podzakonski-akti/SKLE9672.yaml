@@ -1,12 +1,10 @@
 Text file: SKLE9672.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9672
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o odprtju Konzulata Republike Slovenije v Ni\u017Enjem Novgorodu,\
-  \ v Ruski federaciji"
+naslov: "SKLEP  o odprtju Konzulata Republike Slovenije v Ni\u017Enjem Novgorodu,
+  v Ruski federaciji"
 npbNum: 0
 path: /2013/38/2013-01-3882
 sopPredpisa: 2013-01-3882

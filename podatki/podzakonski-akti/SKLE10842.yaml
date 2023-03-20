@@ -1,12 +1,10 @@
 Text file: SKLE10842.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10842
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Daeguju, v\
-  \ Republiki Koreji"
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Daeguju, v
+  Republiki Koreji"
 npbNum: 0
 path: /2017/13/2017-01-1373
 sopPredpisa: 2017-01-1373

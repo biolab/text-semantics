@@ -1,16 +1,10 @@
 Text file: PRAV11378.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1407535200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-08-08 22:00:00
 idPredpisa: PRAV11378
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o homologaciji dvo- in trikolesnih motornih vozil ter njihovih\
-  \ sistemov, sestavnih delov in samostojnih tehni\u010Dnih enot"
+naslov: "PRAVILNIK o homologaciji dvo- in trikolesnih motornih vozil ter njihovih
+  sistemov, sestavnih delov in samostojnih tehni\u010Dnih enot"
 npbNum: 0
 path: /2014/25/2014-01-2529
 sopPredpisa: 2014-01-2529

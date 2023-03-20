@@ -1,16 +1,10 @@
 Text file: PRAV9786.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1297465200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-02-11 23:00:00
 idPredpisa: PRAV9786
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o strokovnem usposabljanju in preverjanju znanja s podro\u010D\
-  ja pridelave in ravnanja z gensko spremenjenimi rastlinami"
+naslov: "PRAVILNIK o strokovnem usposabljanju in preverjanju znanja s podro\u010Dja
+  pridelave in ravnanja z gensko spremenjenimi rastlinami"
 npbNum: 0
 path: /2011/01/2011-01-0169
 sopPredpisa: 2011-01-0169

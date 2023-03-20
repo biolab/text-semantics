@@ -1,14 +1,8 @@
 Text file: SKLE1422.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 687135600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-10-10 23:00:00
 idPredpisa: SKLE1422
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o pogojih in na\u010Dinu registracije kreditnih poslov s tujino"
 npbNum: 0
 path: /1991/06/1991-01-0687

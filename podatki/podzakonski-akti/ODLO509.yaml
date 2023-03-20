@@ -1,16 +1,10 @@
 Text file: ODLO509.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 886806000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-02-06 23:00:00
 idPredpisa: ODLO509
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi fundacije za financiranje \u0161portnih organizacij v\
-  \ Republiki Sloveniji (OdF\u0160)"
+naslov: "ODLOK o ustanovitvi fundacije za financiranje \u0161portnih organizacij v
+  Republiki Sloveniji (OdF\u0160)"
 npbNum: 0
 path: /1998/03/1998-01-0361
 sopPredpisa: 1998-01-0361

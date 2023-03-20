@@ -1,18 +1,12 @@
 Text file: ODLO2113.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594159200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-07 22:00:00
 idPredpisa: ODLO2113
 idPredpisaChng: ODLO2113
-instock: .nan
-naslov: "ODLOK o odrejanju in izvajanju ukrepov za prepre\u010Ditev \u0161irjenja\
-  \ nalezljive bolezni COVID-19 na mejnih prehodih na zunanji meji in na kontrolnih\
-  \ to\u010Dkah na notranjih mejah Republike Slovenije (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 5)"
+naslov: "ODLOK o odrejanju in izvajanju ukrepov za prepre\u010Ditev \u0161irjenja
+  nalezljive bolezni COVID-19 na mejnih prehodih na zunanji meji in na kontrolnih
+  to\u010Dkah na notranjih mejah Republike Slovenije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2020/17/2020-01-1730-2020-01-1326-npb5
 sopPredpisa: 2020-01-1730

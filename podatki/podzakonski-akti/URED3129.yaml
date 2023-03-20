@@ -1,16 +1,10 @@
 Text file: URED3129.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090015200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-16 22:00:00
 idPredpisa: URED3129
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 2005 izdajo prilo\u017E\
-  nostni kovanci"
+naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 2005 izdajo prilo\u017Enostni
+  kovanci"
 npbNum: 0
 path: /2004/33/2004-01-3399
 sopPredpisa: 2004-01-3399

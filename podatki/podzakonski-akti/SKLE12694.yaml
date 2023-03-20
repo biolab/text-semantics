@@ -1,16 +1,9 @@
 Text file: SKLE12694.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657231200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-07 22:00:00
 idPredpisa: SKLE12694
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji glede pogojev za imenovanje skrbnika kritnega premo\u017E\
-  enja"
+naslov: "SKLEP o dokumentaciji glede pogojev za imenovanje skrbnika kritnega premo\u017Eenja"
 npbNum: 0
 path: /2022/01/2022-01-0168
 sopPredpisa: 2022-01-0168

@@ -1,17 +1,11 @@
 Text file: PRAV2580.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1116972000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-24 22:00:00
 idPredpisa: PRAV2580
 idPredpisaChng: PRAV2580
-instock: .nan
-naslov: "PRAVILNIK o izpitu za voditelja \u010Dolna in preizkusu znanja za upravljanje\
-  \ \u010Dolna (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o izpitu za voditelja \u010Dolna in preizkusu znanja za upravljanje
+  \u010Dolna (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2005/16/2005-01-1649-2000-01-1955-npb2
 sopPredpisa: 2005-01-1649

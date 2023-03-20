@@ -1,16 +1,10 @@
 Text file: SKLE12513.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1631916000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-17 22:00:00
 idPredpisa: SKLE12513
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o nujnih kadrovskih ukrepih za nemoteno delovanje vzgojno-izobra\u017E\
-  evalnih zavodov"
+naslov: "SKLEP o nujnih kadrovskih ukrepih za nemoteno delovanje vzgojno-izobra\u017Eevalnih
+  zavodov"
 npbNum: 0
 path: /2021/28/2021-01-2890
 sopPredpisa: 2021-01-2890

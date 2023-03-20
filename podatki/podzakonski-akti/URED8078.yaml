@@ -1,16 +1,10 @@
 Text file: URED8078.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588284000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-30 22:00:00
 idPredpisa: URED8078
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o ustanovitvi Odbora za spremljanje Operativnega programa za izvajanje\
-  \ evropske kohezijske politike v obdobju 2014\u20132020"
+naslov: "UREDBO o ustanovitvi Odbora za spremljanje Operativnega programa za izvajanje
+  evropske kohezijske politike v obdobju 2014\u20132020"
 npbNum: 0
 path: /2020/09/2020-01-0932
 sopPredpisa: 2020-01-0932

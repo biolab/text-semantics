@@ -1,16 +1,10 @@
 Text file: PRAV9946.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1284760800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-17 22:00:00
 idPredpisa: PRAV9946
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o veterinarskih pogojih za promet z \u017Eivalskim semenom, jaj\u010D\
-  nimi celicami in zarodki"
+naslov: "PRAVILNIK o veterinarskih pogojih za promet z \u017Eivalskim semenom, jaj\u010Dnimi
+  celicami in zarodki"
 npbNum: 0
 path: /2010/38/2010-01-3822
 sopPredpisa: 2010-01-3822

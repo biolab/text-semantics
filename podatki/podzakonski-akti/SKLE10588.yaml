@@ -1,14 +1,8 @@
 Text file: SKLE10588.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1452121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-06 23:00:00
 idPredpisa: SKLE10588
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o merilih za dolo\u010Ditev pomembnega vpliva na upravljanje izdajatelja"
 npbNum: 0
 path: /2015/39/2015-01-3979

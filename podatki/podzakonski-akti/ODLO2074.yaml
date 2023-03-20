@@ -1,17 +1,11 @@
 Text file: ODLO2074.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590789600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-29 22:00:00
 idPredpisa: ODLO2074
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi Komisije Vlade Republike Slovenije za presojanje upravi\u010D\
-  enosti prevladujo\u010Dega javnega interesa v zvezi z razkritjem podatkov, ki so\
-  \ dolo\u010Deni kot tajni"
+naslov: "ODLOK o ustanovitvi Komisije Vlade Republike Slovenije za presojanje upravi\u010Denosti
+  prevladujo\u010Dega javnega interesa v zvezi z razkritjem podatkov, ki so dolo\u010Deni
+  kot tajni"
 npbNum: 0
 path: /2020/11/2020-01-1180
 sopPredpisa: 2020-01-1180

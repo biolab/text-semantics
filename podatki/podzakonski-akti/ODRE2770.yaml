@@ -1,16 +1,10 @@
 Text file: ODRE2770.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657317600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-08 22:00:00
 idPredpisa: ODRE2770
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o vi\u0161ini stro\u0161kov strokovnega izpita zdravstvenih delavcev\
-  \ in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti "
+naslov: "ODREDBO o vi\u0161ini stro\u0161kov strokovnega izpita zdravstvenih delavcev
+  in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti "
 npbNum: 0
 path: /2022/22/2022-01-2299
 sopPredpisa: 2022-01-2299

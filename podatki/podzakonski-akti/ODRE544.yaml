@@ -1,18 +1,12 @@
 Text file: ODRE544.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933976800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-08-06 22:00:00
 idPredpisa: ODRE544
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi najmanj\u0161ega dohodka, ki ga mora dosegati morski\
-  \ ribi\u010D, imetnik dovoljenja za gospodarski ribolov, kot prete\u017Eni del svojih\
-  \ dohodkov za vklju\u010Ditev v pokojninsko in invalidsko ter zdravstveno zavarovanje\
-  \ pod pogoji, ki veljajo za kmeta"
+naslov: "ODREDBO o dolo\u010Ditvi najmanj\u0161ega dohodka, ki ga mora dosegati morski
+  ribi\u010D, imetnik dovoljenja za gospodarski ribolov, kot prete\u017Eni del svojih
+  dohodkov za vklju\u010Ditev v pokojninsko in invalidsko ter zdravstveno zavarovanje
+  pod pogoji, ki veljajo za kmeta"
 npbNum: 0
 path: /1999/30/1999-01-3028
 sopPredpisa: 1999-01-3028

@@ -1,19 +1,12 @@
 Text file: AKT_972.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: AKT_972
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju Mestna ob\u010Dina Ljubljana, Ob\u010D\
-  ina Brezovica, Ob\u010Dina Dobrova - Polhov Gradec, Ob\u010Dina Dol pri Ljubljani,\
-  \ Ob\u010Dina Ig, Ob\u010Dina Medvode, Ob\u010Dina \u0160kofljica in Ob\u010Dina\
-  \ Log - Dragomer"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju Mestna ob\u010Dina Ljubljana, Ob\u010Dina
+  Brezovica, Ob\u010Dina Dobrova - Polhov Gradec, Ob\u010Dina Dol pri Ljubljani, Ob\u010Dina
+  Ig, Ob\u010Dina Medvode, Ob\u010Dina \u0160kofljica in Ob\u010Dina Log - Dragomer"
 npbNum: 0
 path: /2015/41/2015-01-4198
 sopPredpisa: 2015-01-4198

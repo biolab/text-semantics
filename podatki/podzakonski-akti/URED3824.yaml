@@ -1,14 +1,8 @@
 Text file: URED3824.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1133564400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-02 23:00:00
 idPredpisa: URED3824
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o omejevalnih ukrepih proti Libiji
 npbNum: 0
 path: /2005/46/2005-01-4695

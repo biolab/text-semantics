@@ -1,16 +1,10 @@
 Text file: PRAV4401.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1294354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-01-06 23:00:00
 idPredpisa: PRAV4401
 idPredpisaChng: PRAV4401
-instock: .nan
-naslov: "PRAVILNIK o prehranskih dopolnilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "PRAVILNIK o prehranskih dopolnilih (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /2010/53/2010-01-5351-2003-01-3942-npb4
 sopPredpisa: 2010-01-5351

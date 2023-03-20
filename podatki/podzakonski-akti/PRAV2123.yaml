@@ -1,16 +1,10 @@
 Text file: PRAV2123.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1658959200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-27 22:00:00
 idPredpisa: PRAV2123
 idPredpisaChng: PRAV2123
-instock: .nan
-naslov: "PRAVILNIK o upravljanju s \u010Dolni (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o upravljanju s \u010Dolni (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2022/23/2022-01-2370-2005-01-1649-npb4
 sopPredpisa: 2022-01-2370

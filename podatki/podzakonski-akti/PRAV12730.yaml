@@ -1,16 +1,10 @@
 Text file: PRAV12730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1459548000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-01 22:00:00
 idPredpisa: PRAV12730
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini programov izobra\u017Eevanja in\_usposabljanja za posamezne\
-  \ postopke preskrbe z organi"
+naslov: "PRAVILNIK o vsebini programov izobra\u017Eevanja in\_usposabljanja za posamezne
+  postopke preskrbe z organi"
 npbNum: 0
 path: /2016/07/2016-01-0750
 sopPredpisa: 2016-01-0750

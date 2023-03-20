@@ -1,16 +1,10 @@
 Text file: PRAV5079.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1055973600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-18 22:00:00
 idPredpisa: PRAV5079
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u010D\
-  ko I (1998\u20132007)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u010Dko
+  I (1998\u20132007)"
 npbNum: 0
 path: /2003/28/2003-01-2874
 sopPredpisa: 2003-01-2874

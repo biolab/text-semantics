@@ -1,16 +1,10 @@
 Text file: PRAV12278.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1608850800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-24 23:00:00
 idPredpisa: PRAV12278
 idPredpisaChng: PRAV12278
-instock: .nan
-naslov: "PRAVILNIK o kategorizaciji nastanitvenih obratov (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o kategorizaciji nastanitvenih obratov (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/31/2020-01-3197-2018-01-0951-npb2
 sopPredpisa: 2020-01-3197

@@ -1,16 +1,10 @@
 Text file: SKLE12542.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-31 23:00:00
 idPredpisa: SKLE12542
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o merilih za uporabo vhodnih podatkov v modelu za\
-  \ merjenje tveganj iz \u010Dlena 325bc Uredbe (EU) \u0161t. 575/2013"
+naslov: "SKLEP o uporabi Smernic o merilih za uporabo vhodnih podatkov v modelu za
+  merjenje tveganj iz \u010Dlena 325bc Uredbe (EU) \u0161t. 575/2013"
 npbNum: 0
 path: /2021/31/2021-01-3106
 sopPredpisa: 2021-01-3106

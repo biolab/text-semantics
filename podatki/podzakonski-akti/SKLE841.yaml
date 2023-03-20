@@ -1,16 +1,10 @@
 Text file: SKLE841.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 717721200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-09-28 23:00:00
 idPredpisa: SKLE841
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o izro\u010Ditvi tolarskih bankovcev za 1000, 500 in 100 tolarjev v\
-  \ obtok"
+naslov: "SKLEP o izro\u010Ditvi tolarskih bankovcev za 1000, 500 in 100 tolarjev v
+  obtok"
 npbNum: 0
 path: /1992/21/1992-01-2129
 sopPredpisa: 1992-01-2129

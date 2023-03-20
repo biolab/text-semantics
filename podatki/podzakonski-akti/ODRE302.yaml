@@ -1,16 +1,10 @@
 Text file: ODRE302.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 730594800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-02-24 23:00:00
 idPredpisa: ODRE302
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o videzu atestnega znaka za naprave in opremo informacijske tehnologije\
-  \ in elektri\u010Dnih pisarni\u0161kih strojev"
+naslov: "ODREDBO o videzu atestnega znaka za naprave in opremo informacijske tehnologije
+  in elektri\u010Dnih pisarni\u0161kih strojev"
 npbNum: 0
 path: /1993/04/1993-01-0438
 sopPredpisa: 1993-01-0438

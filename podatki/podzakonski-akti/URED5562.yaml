@@ -1,18 +1,12 @@
 Text file: URED5562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1351897200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-02 23:00:00
 idPredpisa: URED5562
 idPredpisaChng: URED5562
-instock: .nan
-naslov: "UREDBA o za\u010Dasnih ukrepih za zavarovanje urejanja prostora na podlagi\
-  \ Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega na\u010Drta za dr\u017E\
-  avno cesto od priklju\u010Dka Velenje jug do priklju\u010Dka Slovenj Gradec jug\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o za\u010Dasnih ukrepih za zavarovanje urejanja prostora na podlagi
+  Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega na\u010Drta za dr\u017Eavno
+  cesto od priklju\u010Dka Velenje jug do priklju\u010Dka Slovenj Gradec jug (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2012/32/2012-01-3239-2010-01-4271-npb1
 sopPredpisa: 2012-01-3239

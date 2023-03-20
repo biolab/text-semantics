@@ -1,16 +1,10 @@
 Text file: ODRE2688.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-27 22:00:00
 idPredpisa: ODRE2688
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa poklicno tehni\u0161kega\
-  \ izobra\u017Eevanja Frizerski tehnik "
+naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa poklicno tehni\u0161kega
+  izobra\u017Eevanja Frizerski tehnik "
 npbNum: 0
 path: /2021/27/2021-01-2781
 sopPredpisa: 2021-01-2781

@@ -1,16 +1,9 @@
 Text file: URED5879.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1324422000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-20 23:00:00
 idPredpisa: URED5879
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod R38 Kalce\u2013\
-  Godovi\u010D"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod R38 Kalce\u2013Godovi\u010D"
 npbNum: 0
 path: /2011/42/2011-01-4214
 sopPredpisa: 2011-01-4214

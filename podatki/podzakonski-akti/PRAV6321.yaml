@@ -1,18 +1,12 @@
 Text file: PRAV6321.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1102114800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-03 23:00:00
 idPredpisa: PRAV6321
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izra\u010Dunavanju, objavi, po\u0161iljanju in upo\u0161tevanju\
-  \ dele\u017Eev rasti vrednosti premo\u017Eenja kvalificiranega vzajemnega sklada\
-  \ pri izra\u010Dunavanju dav\u010Dne osnove od dohodka iz 3. to\u010Dke drugega\
-  \ odstavka 81. \u010Dlena ZDoh-1"
+naslov: "PRAVILNIK o izra\u010Dunavanju, objavi, po\u0161iljanju in upo\u0161tevanju
+  dele\u017Eev rasti vrednosti premo\u017Eenja kvalificiranega vzajemnega sklada pri
+  izra\u010Dunavanju dav\u010Dne osnove od dohodka iz 3. to\u010Dke drugega odstavka
+  81. \u010Dlena ZDoh-1"
 npbNum: 0
 path: /2004/54/2004-01-5425
 sopPredpisa: 2004-01-5425

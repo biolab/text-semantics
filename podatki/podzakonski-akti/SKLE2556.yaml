@@ -1,17 +1,11 @@
 Text file: SKLE2556.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1006470000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-11-22 23:00:00
 idPredpisa: SKLE2556
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP, \u0161t. 1/99  Pridru\u017Eitvenega sveta, o pridru\u017Eitvi med\
-  \ Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010Dlanicami, na eni strani,\
-  \ in Republiko Slovenijo, na drugi strani o dolo\u010Ditvi svojega poslovnika"
+naslov: "SKLEP, \u0161t. 1/99  Pridru\u017Eitvenega sveta, o pridru\u017Eitvi med
+  Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010Dlanicami, na eni strani,
+  in Republiko Slovenijo, na drugi strani o dolo\u010Ditvi svojega poslovnika"
 npbNum: 0
 path: /2001/46/2001-01-4604
 sopPredpisa: 2001-01-4604

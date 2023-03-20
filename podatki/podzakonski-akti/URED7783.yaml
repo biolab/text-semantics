@@ -1,17 +1,11 @@
 Text file: URED7783.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1531951200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-18 22:00:00
 idPredpisa: URED7783
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine\
-  \ prod v pridobivalnem prostoru Ivanci \u2013 \u0161iritev v ob\u010Dini Moravske\
-  \ Toplice"
+naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine
+  prod v pridobivalnem prostoru Ivanci \u2013 \u0161iritev v ob\u010Dini Moravske
+  Toplice"
 npbNum: 0
 path: /2018/25/2018-01-2527
 sopPredpisa: 2018-01-2527

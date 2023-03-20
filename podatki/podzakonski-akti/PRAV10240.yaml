@@ -1,16 +1,10 @@
 Text file: PRAV10240.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1304114400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-04-29 22:00:00
 idPredpisa: PRAV10240
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o katastrih gospodarske javne infrastrukture javnih slu\u017Eb\
-  \ varstva okolja"
+naslov: "PRAVILNIK o katastrih gospodarske javne infrastrukture javnih slu\u017Eb
+  varstva okolja"
 npbNum: 0
 path: /2011/13/2011-01-1304
 sopPredpisa: 2011-01-1304

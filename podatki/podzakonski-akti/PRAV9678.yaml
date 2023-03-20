@@ -1,16 +1,10 @@
 Text file: PRAV9678.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1368223200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-10 22:00:00
 idPredpisa: PRAV9678
 idPredpisaChng: PRAV9678
-instock: .nan
-naslov: "PRAVILNIK o slu\u017Ebeni oceni (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 4)"
+naslov: "PRAVILNIK o slu\u017Ebeni oceni (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 4)"
 npbNum: 4
 path: /2013/15/2013-01-1560-2010-01-0050-npb4
 sopPredpisa: 2013-01-1560

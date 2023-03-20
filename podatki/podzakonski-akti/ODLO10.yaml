@@ -1,16 +1,10 @@
 Text file: ODLO10.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1507327200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-06 22:00:00
 idPredpisa: ODLO10
 idPredpisaChng: ODLO10
-instock: .nan
-naslov: "ODLOK o preoblikovanju In\u0161tituta za narodnostna vpra\u0161anja v javni\
-  \ raziskovalni zavod (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+naslov: "ODLOK o preoblikovanju In\u0161tituta za narodnostna vpra\u0161anja v javni
+  raziskovalni zavod (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
 npbNum: 10
 path: /2017/25/2017-01-2592-1992-01-2390-npb10
 sopPredpisa: 2017-01-2592

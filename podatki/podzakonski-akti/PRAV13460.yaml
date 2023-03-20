@@ -1,14 +1,8 @@
 Text file: PRAV13460.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546038000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-28 23:00:00
 idPredpisa: PRAV13460
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izvr\u0161evanju nalog in pooblastil pravosodnih policistov"
 npbNum: 0
 path: /2018/38/2018-01-3886

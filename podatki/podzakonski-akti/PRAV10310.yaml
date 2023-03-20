@@ -1,16 +1,10 @@
 Text file: PRAV10310.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1600466400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-09-18 22:00:00
 idPredpisa: PRAV10310
 idPredpisaChng: PRAV10310
-instock: .nan
-naslov: "PRAVILNIK o preverjanju varnosti cestne infrastrukture in usposabljanju presojevalcev\
-  \ varnosti cest (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o preverjanju varnosti cestne infrastrukture in usposabljanju presojevalcev
+  varnosti cest (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2020/22/2020-01-2234-2011-01-2364-npb3
 sopPredpisa: 2020-01-2234

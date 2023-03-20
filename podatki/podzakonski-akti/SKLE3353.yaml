@@ -1,16 +1,10 @@
 Text file: SKLE3353.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041375600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-31 23:00:00
 idPredpisa: SKLE3353
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine in na\u010Dina obra\u010Dunavanja\
-  \ stro\u0161kov za opravljene preglede carinskega blaga"
+naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine in na\u010Dina obra\u010Dunavanja
+  stro\u0161kov za opravljene preglede carinskega blaga"
 npbNum: 0
 path: /2002/55/2002-01-5560
 sopPredpisa: 2002-01-5560

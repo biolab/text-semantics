@@ -1,12 +1,10 @@
 Text file: SKLE11494.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11494
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Funchalu,\
-  \ v Portugalski republiki"
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Funchalu,
+  v Portugalski republiki"
 npbNum: 0
 path: /2018/33/2018-01-3325
 sopPredpisa: 2018-01-3325

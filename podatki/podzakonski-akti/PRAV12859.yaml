@@ -1,17 +1,8 @@
 Text file: PRAV12859.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1536530400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1473458400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-09-09 22:00:00
+datumZacetkaVelj: 2016-09-09 22:00:00
 idPredpisa: PRAV12859
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o obratovanju elektroenegetskih postrojev
 npbNum: 0
 path: /2016/24/2016-01-2464

@@ -1,14 +1,8 @@
 Text file: URED6504.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1421103600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-12 23:00:00
 idPredpisa: URED6504
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o predelavi nenevarnih odpadkov v trdno gorivo in njegovi uporabi
 npbNum: 0
 path: /2014/40/2014-01-4040

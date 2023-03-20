@@ -1,14 +1,8 @@
 Text file: PRAV12941.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483052400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-29 23:00:00
 idPredpisa: PRAV12941
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o letali\u0161\u010Dih"
 npbNum: 0
 path: /2016/37/2016-01-3775

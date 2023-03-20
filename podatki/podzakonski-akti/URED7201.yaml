@@ -1,14 +1,8 @@
 Text file: URED7201.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1461621600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-25 22:00:00
 idPredpisa: URED7201
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o skupnem javnem naro\u010Danju Vlade Republike\_Slovenije"
 npbNum: 0
 path: /2016/10/2016-01-1078

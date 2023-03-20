@@ -1,16 +1,10 @@
 Text file: PRAV8193.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1328569200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-06 23:00:00
 idPredpisa: PRAV8193
 idPredpisaChng: PRAV8193
-instock: .nan
-naslov: "PRAVILNIK o rednih dovoljenjih za biocidne proizvode (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o rednih dovoljenjih za biocidne proizvode (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2012/01/2012-01-0179-2007-01-3359-npb2
 sopPredpisa: 2012-01-0179

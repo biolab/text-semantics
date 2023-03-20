@@ -1,17 +1,11 @@
 Text file: PRAV7122.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1130799600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-10-31 23:00:00
 idPredpisa: PRAV7122
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti pravilnika o dolo\u010Ditvi obrazcev zahtevkov\
-  \ za pridobitev listin, potrebnih pri uvozu dolo\u010Denih tekstilnih, jeklenih\
-  \ in obutvenih izdelkov s poreklom iz tretjih dr\u017Eav"
+naslov: "PRAVILNIK o prenehanju veljavnosti pravilnika o dolo\u010Ditvi obrazcev zahtevkov
+  za pridobitev listin, potrebnih pri uvozu dolo\u010Denih tekstilnih, jeklenih in
+  obutvenih izdelkov s poreklom iz tretjih dr\u017Eav"
 npbNum: 0
 path: /2005/40/2005-01-4032
 sopPredpisa: 2005-01-4032

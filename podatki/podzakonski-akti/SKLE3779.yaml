@@ -1,17 +1,8 @@
 Text file: SKLE3779.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051221600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051221600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2003-04-24 22:00:00
+datumZacetkaVelj: 2003-04-24 22:00:00
 idPredpisa: SKLE3779
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prepovedi predpisovanja in izdajanja na veterinarski recept kloramfenikola
   in zdravil, ki vsebujejo kloramfenikol
 npbNum: 0

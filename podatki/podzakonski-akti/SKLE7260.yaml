@@ -1,16 +1,10 @@
 Text file: SKLE7260.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-30 23:00:00
 idPredpisa: SKLE7260
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Seznama smernic za evropska tehni\u010D\
-  na soglasja za gradbene proizvode"
+naslov: "PRAVILNIK o prenehanju veljavnosti Seznama smernic za evropska tehni\u010Dna
+  soglasja za gradbene proizvode"
 npbNum: 0
 path: /2007/54/2007-01-5419
 sopPredpisa: 2007-01-5419

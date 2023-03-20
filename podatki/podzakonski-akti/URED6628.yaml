@@ -1,18 +1,12 @@
 Text file: URED6628.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648850400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-01 22:00:00
 idPredpisa: URED6628
 idPredpisaChng: URED6628
-instock: .nan
-naslov: "UREDBA o dodeljevanju regionalnih dr\u017Eavnih pomo\u010Di ter na\u010D\
-  inu uveljavljanja regionalne spodbude za zaposlovanje ter dav\u010Dnih olaj\u0161\
-  av za zaposlovanje in investiranje (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 6)"
+naslov: "UREDBA o dodeljevanju regionalnih dr\u017Eavnih pomo\u010Di ter na\u010Dinu
+  uveljavljanja regionalne spodbude za zaposlovanje ter dav\u010Dnih olaj\u0161av
+  za zaposlovanje in investiranje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  6)"
 npbNum: 6
 path: /2022/09/2022-01-0972-2014-01-3846-npb6
 sopPredpisa: 2022-01-0972

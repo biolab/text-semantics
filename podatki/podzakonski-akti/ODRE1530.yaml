@@ -1,16 +1,10 @@
 Text file: ODRE1530.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982364400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-16 23:00:00
 idPredpisa: ODRE1530
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi objekta in okoli\u0161a objekta Centra za tujce\
-  \ v Velikem Otoku pri Postojni ter ukrepov za njegovo varovanje"
+naslov: "ODREDBO o dolo\u010Ditvi objekta in okoli\u0161a objekta Centra za tujce
+  v Velikem Otoku pri Postojni ter ukrepov za njegovo varovanje"
 npbNum: 0
 path: /2001/06/2001-01-0671
 sopPredpisa: 2001-01-0671

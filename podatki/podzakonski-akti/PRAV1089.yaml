@@ -1,20 +1,11 @@
 Text file: PRAV1089.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230764400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1236985200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-12-31 23:00:00
+datumZacetkaVelj: 2009-03-13 23:00:00
 idPredpisa: PRAV1089
 idPredpisaChng: PRAV1089
-instock: .nan
-naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa, primanjkljaja blaga in remitende\
-  \ (kalo, razbitje in okvara nosilcev besede, slike, zvoka) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa, primanjkljaja blaga in remitende
+  (kalo, razbitje in okvara nosilcev besede, slike, zvoka) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2009/07/2009-01-0708-1999-01-2523-npb2
 sopPredpisa: 2009-01-0708

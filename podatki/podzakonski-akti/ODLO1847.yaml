@@ -1,14 +1,8 @@
 Text file: ODLO1847.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527890400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-01 22:00:00
 idPredpisa: ODLO1847
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o strategiji razvoja nevladnih organizacij in prostovoljstva do leta
   2023
 npbNum: 0

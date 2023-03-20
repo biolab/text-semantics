@@ -1,19 +1,10 @@
 Text file: TARI61.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-07-31 22:00:00
+datumZacetkaVelj: 2004-07-31 22:00:00
 idPredpisa: TARI61
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Racna\
-  \ gora (2009\u20132018)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Racna
+  gora (2009\u20132018)"
 npbNum: 0
 path: /2004/44/2004-01-4421
 sopPredpisa: 2004-01-4421

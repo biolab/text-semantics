@@ -1,16 +1,10 @@
 Text file: URED5772.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1298674800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-02-25 23:00:00
 idPredpisa: URED5772
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu opravljanja republi\u0161ke gospodarske javne slu\u017E\
-  be obratovanja javnega letali\u0161\u010Da dr\u017Eavnega pomena"
+naslov: "UREDBO o na\u010Dinu opravljanja republi\u0161ke gospodarske javne slu\u017Ebe
+  obratovanja javnega letali\u0161\u010Da dr\u017Eavnega pomena"
 npbNum: 0
 path: /2011/05/2011-01-0545
 sopPredpisa: 2011-01-0545

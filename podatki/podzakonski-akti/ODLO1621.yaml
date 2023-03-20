@@ -1,17 +1,11 @@
 Text file: ODLO1621.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1319580000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-25 22:00:00
 idPredpisa: ODLO1621
 idPredpisaChng: ODLO1621
-instock: .nan
-naslov: "ODLOK o Programu prodaje dr\u017Eavnega finan\u010Dnega premo\u017Eenja za\
-  \ leti 2010 in 2011 (OdPDFP1011) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "ODLOK o Programu prodaje dr\u017Eavnega finan\u010Dnega premo\u017Eenja za
+  leti 2010 in 2011 (OdPDFP1011) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2011/35/2011-01-3586-2009-01-4251-npb1
 sopPredpisa: 2011-01-3586

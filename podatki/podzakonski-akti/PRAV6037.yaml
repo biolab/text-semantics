@@ -1,16 +1,10 @@
 Text file: PRAV6037.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-13 22:00:00
 idPredpisa: PRAV6037
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prilagojenem programu ni\u017Ejega poklicnega izobra\u017Eevanja\
-  \ Pomo\u017Eni administrator za gibalno ovirane dijake"
+naslov: "PRAVILNIK o prilagojenem programu ni\u017Ejega poklicnega izobra\u017Eevanja
+  Pomo\u017Eni administrator za gibalno ovirane dijake"
 npbNum: 0
 path: /2004/33/2004-01-3335
 sopPredpisa: 2004-01-3335

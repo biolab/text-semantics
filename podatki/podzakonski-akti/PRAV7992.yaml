@@ -1,17 +1,11 @@
 Text file: PRAV7992.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1198882800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-28 23:00:00
 idPredpisa: PRAV7992
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zbiranju, prevozu, skladi\u0161\u010Denju, ravnanju, uporabi\
-  \ in odstranjevanju \u017Eivalskih trupel kot vrste \u017Eivalskih stranskih proizvodov,\
-  \ ki niso namenjeni prehrani ljudi"
+naslov: "PRAVILNIK o zbiranju, prevozu, skladi\u0161\u010Denju, ravnanju, uporabi
+  in odstranjevanju \u017Eivalskih trupel kot vrste \u017Eivalskih stranskih proizvodov,
+  ki niso namenjeni prehrani ljudi"
 npbNum: 0
 path: /2007/61/2007-01-6196
 sopPredpisa: 2007-01-6196

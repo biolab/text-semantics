@@ -1,14 +1,8 @@
 Text file: SKLE8202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259103600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-24 23:00:00
 idPredpisa: SKLE8202
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prenehanju veljavnosti Sklepa o ustanovitvi in pristojnostih Komisije
   za ocenjevanje ugotavljanja skladnosti izvolitev v znanstvenoraziskovalne in raziskovalno-razvojne
   nazive

@@ -1,18 +1,12 @@
 Text file: SKLE11509.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1526680800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-18 22:00:00
 idPredpisa: SKLE11509
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o najni\u017Eji in najvi\u0161ji pokojninski osnovi, najni\u017Eji\
-  \ pokojnini, najni\u017Eji osnovi za odmero nadomestil iz invalidskega zavarovanja\
-  \ in najvi\u0161jem znesku nadomestila za \u010Das poklicne rehabilitacije od 1.\
-  \ januarja 2018 do 31. marca 2018"
+naslov: "SKLEP o najni\u017Eji in najvi\u0161ji pokojninski osnovi, najni\u017Eji
+  pokojnini, najni\u017Eji osnovi za odmero nadomestil iz invalidskega zavarovanja
+  in najvi\u0161jem znesku nadomestila za \u010Das poklicne rehabilitacije od 1. januarja
+  2018 do 31. marca 2018"
 npbNum: 0
 path: /2018/15/2018-01-1564
 sopPredpisa: 2018-01-1564

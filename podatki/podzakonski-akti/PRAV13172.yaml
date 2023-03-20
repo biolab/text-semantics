@@ -1,16 +1,10 @@
 Text file: PRAV13172.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1509141600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-27 22:00:00
 idPredpisa: PRAV13172
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih glede prostorov, opremljenosti in kadrov za opravljanje\
-  \ javne slu\u017Ebe strokovnih nalog v proizvodnji kmetijskih rastlin"
+naslov: "PRAVILNIK o pogojih glede prostorov, opremljenosti in kadrov za opravljanje
+  javne slu\u017Ebe strokovnih nalog v proizvodnji kmetijskih rastlin"
 npbNum: 0
 path: /2017/28/2017-01-2891
 sopPredpisa: 2017-01-2891

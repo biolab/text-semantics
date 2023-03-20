@@ -1,16 +1,10 @@
 Text file: PRAV12985.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-31 23:00:00
 idPredpisa: PRAV12985
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcih in dokumentaciji za obra\u010Dun finan\u010Dnih obveznosti\
-  \ iz pokojninskega in invalidskega zavarovanja"
+naslov: "PRAVILNIK o obrazcih in dokumentaciji za obra\u010Dun finan\u010Dnih obveznosti
+  iz pokojninskega in invalidskega zavarovanja"
 npbNum: 0
 path: /2016/33/2016-01-3381
 sopPredpisa: 2016-01-3381

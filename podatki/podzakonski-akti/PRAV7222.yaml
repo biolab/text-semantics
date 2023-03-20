@@ -1,17 +1,11 @@
 Text file: PRAV7222.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1327100400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-20 23:00:00
 idPredpisa: PRAV7222
 idPredpisaChng: PRAV7222
-instock: .nan
-naslov: "PRAVILNIK o uvrstitvi delovnih mest direktorjev s podro\u010Dja dela, dru\u017E\
-  ine in socialnih zadev v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "PRAVILNIK o uvrstitvi delovnih mest direktorjev s podro\u010Dja dela, dru\u017Eine
+  in socialnih zadev v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
 npbNum: 8
 path: /2012/01/2012-01-0133-2005-01-4579-npb8
 sopPredpisa: 2012-01-0133

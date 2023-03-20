@@ -1,16 +1,10 @@
 Text file: AKT_1179.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598652000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-28 22:00:00
 idPredpisa: AKT_1179
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o ra\u010Dunovodskih informacijah in izra\u010Dunu neto\
-  \ stro\u0161ka obveznosti univerzalne po\u0161tne storitve"
+naslov: "SPLO\u0160NI AKT o ra\u010Dunovodskih informacijah in izra\u010Dunu neto
+  stro\u0161ka obveznosti univerzalne po\u0161tne storitve"
 npbNum: 0
 path: /2020/21/2020-01-2117
 sopPredpisa: 2020-01-2117

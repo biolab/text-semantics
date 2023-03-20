@@ -1,18 +1,11 @@
 Text file: URED6334.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1361919600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-02-26 23:00:00
 idPredpisa: URED6334
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin\
-  \ v pridobivalnih prostorih U\u0161eni\u0161\u010De 2 v Ob\u010Dini Morav\u010D\
-  e, Stari Grad 2b v Ob\u010Dini Kr\u0161ko in Stari Grad 3b v Ob\u010Dini Kr\u0161\
-  ko"
+naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin
+  v pridobivalnih prostorih U\u0161eni\u0161\u010De 2 v Ob\u010Dini Morav\u010De,
+  Stari Grad 2b v Ob\u010Dini Kr\u0161ko in Stari Grad 3b v Ob\u010Dini Kr\u0161ko"
 npbNum: 0
 path: /2013/05/2013-01-0564
 sopPredpisa: 2013-01-0564

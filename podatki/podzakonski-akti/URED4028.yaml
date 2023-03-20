@@ -1,19 +1,10 @@
 Text file: URED4028.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1314828000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1311631200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2011-08-31 22:00:00
+datumZacetkaVelj: 2011-07-25 22:00:00
 idPredpisa: URED4028
 idPredpisaChng: URED4028
-instock: .nan
-naslov: "UREDBA o ureditvi trga s sve\u017Eim sadjem in zelenjavo (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o ureditvi trga s sve\u017Eim sadjem in zelenjavo (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2011/27/2011-01-2786-2009-01-3048-npb2
 sopPredpisa: 2011-01-2786

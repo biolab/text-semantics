@@ -1,21 +1,12 @@
 Text file: SKLE357.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933458400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933458400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1999-07-31 22:00:00
+datumZacetkaVelj: 1999-07-31 22:00:00
 idPredpisa: SKLE357
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP \u0161t. UE-SI 960/99 Pridru\u017Eitvenega sveta z dne 15.\_7. 1999,\
-  \ s katerim se sprejmejo dolo\u010Dila in pogoji za sodelovanje Slovenije v programih\
-  \ Skupnosti na podro\u010Dju raziskav, tehnolo\u0161kega razvoja in predstavitev\
-  \ (1998-2002), ter v programih za razvojne in izobra\u017Eevalne dejavnosti (1998-2002)"
+naslov: "SKLEP \u0161t. UE-SI 960/99 Pridru\u017Eitvenega sveta z dne 15.\_7. 1999,
+  s katerim se sprejmejo dolo\u010Dila in pogoji za sodelovanje Slovenije v programih
+  Skupnosti na podro\u010Dju raziskav, tehnolo\u0161kega razvoja in predstavitev (1998-2002),
+  ter v programih za razvojne in izobra\u017Eevalne dejavnosti (1998-2002)"
 npbNum: 0
 path: /1999/38/1999-01-3896
 sopPredpisa: 1999-01-3896

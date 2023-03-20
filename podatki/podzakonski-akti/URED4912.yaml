@@ -1,17 +1,11 @@
 Text file: URED4912.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-18 23:00:00
 idPredpisa: URED4912
 idPredpisaChng: URED4912
-instock: .nan
-naslov: "UREDBA o pla\u010Dah in drugih prejemkih pripadnikov Slovenske vojske pri\
-  \ izvajanju obveznosti, prevzetih v mednarodnih organizacijah oziroma z mednarodnimi\
-  \ pogodbami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+naslov: "UREDBA o pla\u010Dah in drugih prejemkih pripadnikov Slovenske vojske pri
+  izvajanju obveznosti, prevzetih v mednarodnih organizacijah oziroma z mednarodnimi
+  pogodbami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
 npbNum: 10
 path: /2022/06/2022-01-0629-2008-01-2886-npb10
 sopPredpisa: 2022-01-0629

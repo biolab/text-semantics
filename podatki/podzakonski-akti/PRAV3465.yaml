@@ -1,16 +1,10 @@
 Text file: PRAV3465.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 837208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-12 22:00:00
 idPredpisa: PRAV3465
 idPredpisaChng: PRAV3465
-instock: .nan
-naslov: "PRAVILNIK za uveljavljanje regresa za potovanja otrok in mladine (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK za uveljavljanje regresa za potovanja otrok in mladine (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /1996/23/1996-01-2364-1994-01-1002-npb2
 sopPredpisa: 1996-01-2364

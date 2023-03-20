@@ -1,14 +1,8 @@
 Text file: ODRE2133.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325286000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-30 23:00:00
 idPredpisa: ODRE2133
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti
   gradbenih proizvodov z zahtevami Zakona o gradbenih proizvodih
 npbNum: 0

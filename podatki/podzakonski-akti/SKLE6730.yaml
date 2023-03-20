@@ -1,16 +1,9 @@
 Text file: SKLE6730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1165618800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-08 23:00:00
 idPredpisa: SKLE6730
 idPredpisaChng: null
-instock: .nan
-naslov: "STALI\u0160\u010CE\_1 REVIZORJEV PREGLED IN PORO\u010CANJE O LETNEM PORO\u010C\
-  ILU"
+naslov: "STALI\u0160\u010CE\_1 REVIZORJEV PREGLED IN PORO\u010CANJE O LETNEM PORO\u010CILU"
 npbNum: 0
 path: /2006/53/2006-01-5324
 sopPredpisa: 2006-01-5324

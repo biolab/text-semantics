@@ -1,16 +1,10 @@
 Text file: PRAV10297.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1274479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-21 22:00:00
 idPredpisa: PRAV10297
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o nacionalnem registru specialnih znanj v dejavnosti zdravstvene\
-  \ in babi\u0161ke nege "
+naslov: "PRAVILNIK o nacionalnem registru specialnih znanj v dejavnosti zdravstvene
+  in babi\u0161ke nege "
 npbNum: 0
 path: /2010/20/2010-01-2003
 sopPredpisa: 2010-01-2003

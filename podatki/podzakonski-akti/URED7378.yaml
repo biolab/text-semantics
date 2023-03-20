@@ -1,17 +1,11 @@
 Text file: URED7378.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1469829600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-29 22:00:00
 idPredpisa: URED7378
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin\
-  \ v pridobivalnih prostorih Andra\u017E 2 v ob\u010Dini Polzela in Zavratec 1b v\
-  \ ob\u010Dini Sevnica"
+naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin
+  v pridobivalnih prostorih Andra\u017E 2 v ob\u010Dini Polzela in Zavratec 1b v ob\u010Dini
+  Sevnica"
 npbNum: 0
 path: /2016/23/2016-01-2350
 sopPredpisa: 2016-01-2350

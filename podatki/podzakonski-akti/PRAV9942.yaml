@@ -1,14 +1,8 @@
 Text file: PRAV9942.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1294959600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-01-13 23:00:00
 idPredpisa: PRAV9942
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dovoljenju za promet z zdravilom za uporabo v humani medicini
 npbNum: 0
 path: /2010/57/2010-01-5735

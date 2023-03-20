@@ -1,16 +1,10 @@
 Text file: URED1199.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 955663200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-13 22:00:00
 idPredpisa: URED1199
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBA o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za\
-  \ \u010Di\u0161\u010Denje dimnih plinov"
+naslov: "UREDBA o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za
+  \u010Di\u0161\u010Denje dimnih plinov"
 npbNum: 0
 path: /2000/12/2000-01-1269
 sopPredpisa: 2000-01-1269

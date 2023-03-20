@@ -1,18 +1,12 @@
 Text file: PRAV6255.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1150408800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-15 22:00:00
 idPredpisa: PRAV6255
 idPredpisaChng: PRAV6255
-instock: .nan
-naslov: "PRAVILNIK o posebnem delu izpita za in\u0161pektorja za okolje in naravo,\
-  \ gradbenega in\u0161pektorja, rudarskega in\u0161pektorja, energetskega in\u0161\
-  pektorja, geodetskega in\u0161pektorja in stanovanjskega in\u0161pektorja (delno\
-  \ prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o posebnem delu izpita za in\u0161pektorja za okolje in naravo,
+  gradbenega in\u0161pektorja, rudarskega in\u0161pektorja, energetskega in\u0161pektorja,
+  geodetskega in\u0161pektorja in stanovanjskega in\u0161pektorja (delno prenehal
+  veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2006/27/2006-01-2713-2004-01-5258-npb1
 sopPredpisa: 2006-01-2713

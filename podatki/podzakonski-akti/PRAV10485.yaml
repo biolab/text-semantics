@@ -1,17 +1,11 @@
 Text file: PRAV10485.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419462000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-24 23:00:00
 idPredpisa: PRAV10485
 idPredpisaChng: PRAV10485
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu pla\u010Devanja, razporejanja in sporo\u010Danja\
-  \ podatkov obveznih dajatev in drugih javnofinan\u010Dnih prihodkov (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "PRAVILNIK o na\u010Dinu pla\u010Devanja, razporejanja in sporo\u010Danja
+  podatkov obveznih dajatev in drugih javnofinan\u010Dnih prihodkov (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 8)"
 npbNum: 8
 path: /2014/38/2014-01-3854-2010-01-5737-npb8
 sopPredpisa: 2014-01-3854

@@ -1,14 +1,8 @@
 Text file: PRAV4278.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1030140000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-23 22:00:00
 idPredpisa: PRAV4278
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK  o usmeritvah za usklajeno delovanje sistema notranjega nadzora
   javnih financ
 npbNum: 0

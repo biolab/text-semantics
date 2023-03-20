@@ -1,26 +1,20 @@
 Text file: SKLE137.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 896479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-05-29 22:00:00
 idPredpisa: SKLE137
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za smer avtoceste\
-  \ Maribor \u2013 slovensko mad\u017Earska meja na odseku avtoceste Vu\u010Dja vas\u2013\
-  Beltinci,  b) predloga sprememb in dopolnitev prostorskih sestavin: \u2013 dolgoro\u010D\
-  nega plana Ob\u010Dine Ljutomer za obdobje 1986\u20132000 in srednjero\u010Dnega\
-  \ dru\u017Ebenega plana Ob\u010Dine Ljutomer za obdobje 1986\u20131990 v delu, ki\
-  \ ga opredeljuje osnutek lokacijskega na\u010Drta, \u2013 dolgoro\u010Dnega plana\
-  \ Ob\u010Dine Murska Sobota za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017E\
-  benega plana Ob\u010Dine Murska Sobota za obdobje 1986\u20131990 v delu, ki ga opredeljuje\
-  \ osnutek lokacijskega na\u010Drta in \u2013 dolgoro\u010Dnega plana Ob\u010Dine\
-  \ Murska Sobota za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega\
-  \ plana Ob\u010Dine Murska Sobota za obdobje 1986\u20131990 za obmo\u010Dje Ob\u010D\
-  ine Beltinci v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za smer avtoceste
+  Maribor \u2013 slovensko mad\u017Earska meja na odseku avtoceste Vu\u010Dja vas\u2013Beltinci,
+  \ b) predloga sprememb in dopolnitev prostorskih sestavin: \u2013 dolgoro\u010Dnega
+  plana Ob\u010Dine Ljutomer za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega
+  plana Ob\u010Dine Ljutomer za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek
+  lokacijskega na\u010Drta, \u2013 dolgoro\u010Dnega plana Ob\u010Dine Murska Sobota
+  za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine
+  Murska Sobota za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek lokacijskega
+  na\u010Drta in \u2013 dolgoro\u010Dnega plana Ob\u010Dine Murska Sobota za obdobje
+  1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Murska Sobota
+  za obdobje 1986\u20131990 za obmo\u010Dje Ob\u010Dine Beltinci v delu, ki ga opredeljuje
+  osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1998/18/1998-01-1828
 sopPredpisa: 1998-01-1828

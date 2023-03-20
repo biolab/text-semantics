@@ -1,17 +1,11 @@
 Text file: URED700.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091484000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-02 22:00:00
 idPredpisa: URED700
 idPredpisaChng: URED700
-instock: .nan
-naslov: "UREDBA o lokacijskem na\u010Drtu za smer avtoceste Maribor\u2013slovensko\u2013\
-  mad\u017Earska meja na odseku Vu\u010Dja vas\u2013Beltinci (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2) (delno prenehala veljati) (delno prenehala veljati)"
+naslov: "UREDBA o lokacijskem na\u010Drtu za smer avtoceste Maribor\u2013slovensko\u2013mad\u017Earska
+  meja na odseku Vu\u010Dja vas\u2013Beltinci (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2) (delno prenehala veljati) (delno prenehala veljati)"
 npbNum: 2
 path: /2004/34/2004-01-3475-1999-01-3020-npb2
 sopPredpisa: 2004-01-3475

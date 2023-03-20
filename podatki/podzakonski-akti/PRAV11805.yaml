@@ -1,14 +1,8 @@
 Text file: PRAV11805.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1380319200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-27 22:00:00
 idPredpisa: PRAV11805
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o nadomestilu za vpogled in posredovanje podatkov iz evidenc policije
 npbNum: 0
 path: /2013/27/2013-01-2789

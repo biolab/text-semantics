@@ -1,14 +1,8 @@
 Text file: SKLE9229.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1330988400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-03-05 23:00:00
 idPredpisa: SKLE9229
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o pogojih za pridobitev dovoljenja za izdajanje hipotekarnih in komunalnih
   obveznic
 npbNum: 0

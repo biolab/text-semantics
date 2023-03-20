@@ -1,14 +1,8 @@
 Text file: PRAV3218.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 970869600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-10-06 22:00:00
 idPredpisa: PRAV3218
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o eti\u010Dni komisiji za poskuse na \u017Eivalih"
 npbNum: 0
 path: /2000/37/2000-01-3777

@@ -1,17 +1,11 @@
 Text file: URED6060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576882800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-20 23:00:00
 idPredpisa: URED6060
 idPredpisaChng: URED6060
-instock: .nan
-naslov: "UREDBA o metodologiji za oblikovanje cen storitev obveznih ob\u010Dinskih\
-  \ gospodarskih javnih slu\u017Eb varstva okolja (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 3)"
+naslov: "UREDBA o metodologiji za oblikovanje cen storitev obveznih ob\u010Dinskih
+  gospodarskih javnih slu\u017Eb varstva okolja (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2019/34/2019-01-3494-2012-01-3443-npb3
 sopPredpisa: 2019-01-3494

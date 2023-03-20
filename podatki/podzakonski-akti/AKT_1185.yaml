@@ -1,17 +1,11 @@
 Text file: AKT_1185.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1604703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-06 23:00:00
 idPredpisa: AKT_1185
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILA o pogojih in na\u010Dinu razdelitve zmogljivosti na povezovalnih\
-  \ to\u010Dkah prenosnega sistema z dra\u017Ebo, upravljanja prezasedenosti prenosnega\
-  \ sistema in trgovanja z zmogljivostmi na sekundarnem trgu"
+naslov: "PRAVILA o pogojih in na\u010Dinu razdelitve zmogljivosti na povezovalnih
+  to\u010Dkah prenosnega sistema z dra\u017Ebo, upravljanja prezasedenosti prenosnega
+  sistema in trgovanja z zmogljivostmi na sekundarnem trgu"
 npbNum: 0
 path: /2020/26/2020-01-2641
 sopPredpisa: 2020-01-2641

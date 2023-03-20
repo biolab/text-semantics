@@ -1,10 +1,8 @@
 Text file: DEKL27.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: DEKL27
 idPredpisaChng: null
-instock: .nan
 naslov: DEKLARACIJO o seznanitvi z Resolucijo Evropskega parlamenta o evropski zavesti
   in totalitarizmu z dne 2. aprila 2009 (DeReEPEZT)
 npbNum: 0

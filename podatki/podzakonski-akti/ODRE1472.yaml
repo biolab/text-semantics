@@ -1,17 +1,8 @@
 Text file: ODRE1472.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 752108400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 755564400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1993-10-31 23:00:00
+datumZacetkaVelj: 1993-12-10 23:00:00
 idPredpisa: ODRE1472
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o kriterijih za dodelitev subvencije invalidskim podjetjem
 npbNum: 0
 path: /1993/24/1993-01-2427

@@ -1,19 +1,10 @@
 Text file: SKLE9739.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388530800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1386802800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-12-31 23:00:00
+datumZacetkaVelj: 2013-12-11 23:00:00
 idPredpisa: SKLE9739
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine vodnega povra\u010Dila za osnove vodnih\
-  \ povra\u010Dil za rabo vode, naplavin in vodnih zemlji\u0161\u010D za leto 2014"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine vodnega povra\u010Dila za osnove vodnih
+  povra\u010Dil za rabo vode, naplavin in vodnih zemlji\u0161\u010D za leto 2014"
 npbNum: 0
 path: /2013/37/2013-01-3738
 sopPredpisa: 2013-01-3738

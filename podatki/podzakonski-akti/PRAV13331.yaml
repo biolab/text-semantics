@@ -1,14 +1,8 @@
 Text file: PRAV13331.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524261600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-20 22:00:00
 idPredpisa: PRAV13331
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o registru kolektivnih to\u017Eb"
 npbNum: 0
 path: /2018/11/2018-01-1143

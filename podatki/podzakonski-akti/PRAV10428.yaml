@@ -1,17 +1,11 @@
 Text file: PRAV10428.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1292972400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-21 23:00:00
 idPredpisa: PRAV10428
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcu vloge za uveljavljanje posebne olaj\u0161ave za vzdr\u017E\
-  evane dru\u017Einske \u010Dlane in vloge za uveljavljanje olaj\u0161ave za investiranje\
-  \ v osnovno kmetijsko in osnovno gozdarsko dejavnost za leto 2010"
+naslov: "PRAVILNIK o obrazcu vloge za uveljavljanje posebne olaj\u0161ave za vzdr\u017Eevane
+  dru\u017Einske \u010Dlane in vloge za uveljavljanje olaj\u0161ave za investiranje
+  v osnovno kmetijsko in osnovno gozdarsko dejavnost za leto 2010"
 npbNum: 0
 path: /2010/53/2010-01-5309
 sopPredpisa: 2010-01-5309

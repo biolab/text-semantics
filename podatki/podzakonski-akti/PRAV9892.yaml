@@ -1,16 +1,10 @@
 Text file: PRAV9892.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1446246000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-30 23:00:00
 idPredpisa: PRAV9892
 idPredpisaChng: PRAV9892
-instock: .nan
-naslov: "PRAVILNIK o nalogah, pogojih in cenah storitev opravljanja javne slu\u017E\
-  be v hmeljarstvu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o nalogah, pogojih in cenah storitev opravljanja javne slu\u017Ebe
+  v hmeljarstvu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/31/2015-01-3196-2010-01-2235-npb1
 sopPredpisa: 2015-01-3196

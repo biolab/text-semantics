@@ -1,17 +1,11 @@
 Text file: PRAV9066.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1382738400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-25 22:00:00
 idPredpisa: PRAV9066
 idPredpisaChng: PRAV9066
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih in varnostnih zahtevah, obrazcih ter evidencah\
-  \ za eksplozive in pirotehni\u010Dne izdelke (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o tehni\u010Dnih in varnostnih zahtevah, obrazcih ter evidencah
+  za eksplozive in pirotehni\u010Dne izdelke (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2013/32/2013-01-3216-2008-01-4488-npb3
 sopPredpisa: 2013-01-3216

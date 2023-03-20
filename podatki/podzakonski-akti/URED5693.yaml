@@ -1,16 +1,10 @@
 Text file: URED5693.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1306533600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-27 22:00:00
 idPredpisa: URED5693
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvedbi ukrepov za prepre\u010Devanje \u0161irjenja zlate trsne\
-  \ rumenice in zatiranju ameri\u0161kega \u0161kr\u017Eatka Scaphoideus titanus Ball"
+naslov: "UREDBO o izvedbi ukrepov za prepre\u010Devanje \u0161irjenja zlate trsne
+  rumenice in zatiranju ameri\u0161kega \u0161kr\u017Eatka Scaphoideus titanus Ball"
 npbNum: 0
 path: /2011/19/2011-01-1966
 sopPredpisa: 2011-01-1966

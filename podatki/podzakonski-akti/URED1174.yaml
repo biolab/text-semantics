@@ -1,16 +1,10 @@
 Text file: URED1174.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 767052000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-04-22 22:00:00
 idPredpisa: URED1174
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o glavnih znamenjih prilo\u017Enostnih kovancev ob 50-letnici ustanovitve\
-  \ Denarnega zavoda Slovenije"
+naslov: "UREDBO o glavnih znamenjih prilo\u017Enostnih kovancev ob 50-letnici ustanovitve
+  Denarnega zavoda Slovenije"
 npbNum: 0
 path: /1994/09/1994-01-0948
 sopPredpisa: 1994-01-0948

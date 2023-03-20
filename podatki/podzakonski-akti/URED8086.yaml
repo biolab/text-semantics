@@ -1,14 +1,8 @@
 Text file: URED8086.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1610146800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-08 23:00:00
 idPredpisa: URED8086
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o varnostnem preverjanju in izdaji dovoljenj za dostop do tajnih podatkov
 npbNum: 0
 path: /2021/00/2021-01-0096

@@ -1,16 +1,10 @@
 Text file: PRAV10366.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1288389600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-10-29 22:00:00
 idPredpisa: PRAV10366
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izvajanja financiranja javnih zavodov, javnih skladov\
-  \ in javnih agencij na podro\u010Dju kulture"
+naslov: "PRAVILNIK o na\u010Dinu izvajanja financiranja javnih zavodov, javnih skladov
+  in javnih agencij na podro\u010Dju kulture"
 npbNum: 0
 path: /2010/45/2010-01-4557
 sopPredpisa: 2010-01-4557

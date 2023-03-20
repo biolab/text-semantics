@@ -1,14 +1,8 @@
 Text file: SKLE834.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 732495600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-03-18 23:00:00
 idPredpisa: SKLE834
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o glavnih znamenjih bankovca za 50 tolarjev
 npbNum: 0
 path: /1993/06/1993-01-0641

@@ -1,16 +1,10 @@
 Text file: URED7537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1652392800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-12 22:00:00
 idPredpisa: URED7537
 idPredpisaChng: URED7537
-instock: .nan
-naslov: "UREDBA o javnem financiranju visoko\u0161olskih zavodov in drugih zavodov\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o javnem financiranju visoko\u0161olskih zavodov in drugih zavodov
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2022/15/2022-01-1536-2017-01-1924-npb2
 sopPredpisa: 2022-01-1536

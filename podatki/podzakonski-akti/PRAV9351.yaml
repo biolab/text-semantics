@@ -1,16 +1,10 @@
 Text file: PRAV9351.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1228777200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-08 23:00:00
 idPredpisa: PRAV9351
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izplenu \u017Eivil, ki je nelo\u010Dljivo povezan s procesom\
-  \ predelave \u017Eivil in priprave obrokov hrane"
+naslov: "PRAVILNIK o izplenu \u017Eivil, ki je nelo\u010Dljivo povezan s procesom
+  predelave \u017Eivil in priprave obrokov hrane"
 npbNum: 0
 path: /2008/49/2008-01-4914
 sopPredpisa: 2008-01-4914

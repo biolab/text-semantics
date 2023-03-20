@@ -1,16 +1,10 @@
 Text file: SKLE1480.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 692060400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-12-06 23:00:00
 idPredpisa: SKLE1480
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razvrstitvi rizi\u010Dnih aktivnih bilan\u010Dnih in ustreznih izvenbilan\u010D\
-  nih postavk banke"
+naslov: "SKLEP o razvrstitvi rizi\u010Dnih aktivnih bilan\u010Dnih in ustreznih izvenbilan\u010Dnih
+  postavk banke"
 npbNum: 0
 path: /1991/11/1991-01-1129
 sopPredpisa: 1991-01-1129

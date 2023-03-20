@@ -1,16 +1,10 @@
 Text file: SKLE10632.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE10632
 idPredpisaChng: SKLE10632
-instock: .nan
-naslov: "SKLEP o letnem poro\u010Dilu in trimese\u010Dnih ra\u010Dunovodskih izkazih\
-  \ zavarovalnic (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "SKLEP o letnem poro\u010Dilu in trimese\u010Dnih ra\u010Dunovodskih izkazih
+  zavarovalnic (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2020/12/2020-01-1253-2016-01-0010-npb3
 sopPredpisa: 2020-01-1253

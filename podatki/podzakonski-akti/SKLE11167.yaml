@@ -1,16 +1,10 @@
 Text file: SKLE11167.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1498860000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-30 22:00:00
 idPredpisa: SKLE11167
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadne embala\u017Ee pri\
-  \ izvajalcih javne slu\u017Ebe za leto 2017"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadne embala\u017Ee pri
+  izvajalcih javne slu\u017Ebe za leto 2017"
 npbNum: 0
 path: /2017/18/2017-01-1837
 sopPredpisa: 2017-01-1837

@@ -1,16 +1,10 @@
 Text file: URED7675.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1551481200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-01 23:00:00
 idPredpisa: URED7675
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o preverjanju radioaktivnosti po\u0161iljk, ki bi lahko vsebovale\
-  \ vire sevanja neznanega izvora"
+naslov: "UREDBO o preverjanju radioaktivnosti po\u0161iljk, ki bi lahko vsebovale
+  vire sevanja neznanega izvora"
 npbNum: 0
 path: /2019/03/2019-01-0374
 sopPredpisa: 2019-01-0374

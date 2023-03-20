@@ -1,16 +1,10 @@
 Text file: URED2990.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1059170400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-07-25 22:00:00
 idPredpisa: URED2990
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni\
-  \ promet Rakitovec"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni
+  promet Rakitovec"
 npbNum: 0
 path: /2003/35/2003-01-3533
 sopPredpisa: 2003-01-3533

@@ -1,16 +1,10 @@
 Text file: ODRE2545.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583881200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-10 23:00:00
 idPredpisa: ODRE2545
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o za\u010Dasnih ukrepih za obvladovanje \u0161irjenja nalezljive\
-  \ bolezni SARS-CoV-2 (COVID-19)"
+naslov: "ODREDBO o za\u010Dasnih ukrepih za obvladovanje \u0161irjenja nalezljive
+  bolezni SARS-CoV-2 (COVID-19)"
 npbNum: 0
 path: /2020/05/2020-01-0525
 sopPredpisa: 2020-01-0525

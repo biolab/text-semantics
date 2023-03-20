@@ -1,17 +1,11 @@
 Text file: AKT_649.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388530800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-31 23:00:00
 idPredpisa: AKT_649
 idPredpisaChng: AKT_649
-instock: .nan
-naslov: "AKT o metodologiji za dolo\u010Ditev omre\u017Enine in kriterijih za ugotavljanje\
-  \ upravi\u010Denih stro\u0161kov za prenosno omre\u017Eje zemeljskega plina (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "AKT o metodologiji za dolo\u010Ditev omre\u017Enine in kriterijih za ugotavljanje
+  upravi\u010Denih stro\u0161kov za prenosno omre\u017Eje zemeljskega plina (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2013/42/2013-01-4289-2010-01-3297-npb4
 sopPredpisa: 2013-01-4289

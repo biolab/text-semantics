@@ -1,16 +1,10 @@
 Text file: PRAV8952.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201734000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-30 23:00:00
 idPredpisa: PRAV8952
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi pogojev, pod katerimi za nekatere stranke ni treba\
-  \ sporo\u010Diti podatkov o gotovinskih transakcijah"
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev, pod katerimi za nekatere stranke ni treba
+  sporo\u010Diti podatkov o gotovinskih transakcijah"
 npbNum: 0
 path: /2008/03/2008-01-0311
 sopPredpisa: 2008-01-0311

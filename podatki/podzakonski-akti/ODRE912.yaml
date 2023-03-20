@@ -1,17 +1,11 @@
 Text file: ODRE912.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 953938800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-24 23:00:00
 idPredpisa: ODRE912
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o merilih za opremljanje \u010Dlanov \u0161taba Civilne za\u0161\
-  \u010Dite Republike Slovenije in \u0161tabov Civilne za\u0161\u010Dite regij z oboro\u017E\
-  itvijo za osebno za\u0161\u010Dito"
+naslov: "ODREDBO  o merilih za opremljanje \u010Dlanov \u0161taba Civilne za\u0161\u010Dite
+  Republike Slovenije in \u0161tabov Civilne za\u0161\u010Dite regij z oboro\u017Eitvijo
+  za osebno za\u0161\u010Dito"
 npbNum: 0
 path: /2000/11/2000-01-1156
 sopPredpisa: 2000-01-1156

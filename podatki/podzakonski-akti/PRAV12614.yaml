@@ -1,16 +1,10 @@
 Text file: PRAV12614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-11 23:00:00
 idPredpisa: PRAV12614
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju uporabe dolo\u010Denih pravilnikov izdanih na podlagi\
-  \ Zakona o dav\u010Dni slu\u017Ebi"
+naslov: "PRAVILNIK o prenehanju uporabe dolo\u010Denih pravilnikov izdanih na podlagi
+  Zakona o dav\u010Dni slu\u017Ebi"
 npbNum: 0
 path: /2015/38/2015-01-3810
 sopPredpisa: 2015-01-3810

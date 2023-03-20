@@ -1,14 +1,8 @@
 Text file: SKLE405.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 941061600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-10-27 22:00:00
 idPredpisa: SKLE405
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o dinamiki uvedbe kartice zdravstvenega zavarovanja
 npbNum: 0
 path: /1999/41/1999-01-4165

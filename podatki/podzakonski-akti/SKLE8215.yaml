@@ -1,19 +1,13 @@
 Text file: SKLE8215.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1304460000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-03 22:00:00
 idPredpisa: SKLE8215
 idPredpisaChng: SKLE8215
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov\
-  \ in namestnikov \u010Dlanov Preiskovalne komisije Dr\u017Eavnega zbora za ugotovitev\
-  \ politi\u010Dne odgovornosti ministra za visoko \u0161olstvo, znanost in tehnologijo\
-  \ Gregorja Golobi\u010Da zaradi suma klientelizma in koruptivnega ravnanja  (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov
+  in namestnikov \u010Dlanov Preiskovalne komisije Dr\u017Eavnega zbora za ugotovitev
+  politi\u010Dne odgovornosti ministra za visoko \u0161olstvo, znanost in tehnologijo
+  Gregorja Golobi\u010Da zaradi suma klientelizma in koruptivnega ravnanja  (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2011/17/2011-01-1756-2009-01-3356-npb4
 sopPredpisa: 2011-01-1756

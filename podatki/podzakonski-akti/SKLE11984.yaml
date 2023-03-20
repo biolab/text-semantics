@@ -1,14 +1,8 @@
 Text file: SKLE11984.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1582930800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-02-28 23:00:00
 idPredpisa: SKLE11984
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o uskladitvi pokojnin in drugih prejemkov od 1.\_januarja 2020"
 npbNum: 0
 path: /2020/03/2020-01-0357

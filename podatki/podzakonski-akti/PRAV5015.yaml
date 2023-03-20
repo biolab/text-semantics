@@ -1,17 +1,11 @@
 Text file: PRAV5015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-03 22:00:00
 idPredpisa: PRAV5015
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prilagojenem izobra\u017Eevalnem programu poklicno-tehni\u0161\
-  kega izobra\u017Eevanja Medijski tehnik za gluhe in naglu\u0161ne dijake in dijake\
-  \ z govorno-jezikovnimi motnjami"
+naslov: "PRAVILNIK o prilagojenem izobra\u017Eevalnem programu poklicno-tehni\u0161kega
+  izobra\u017Eevanja Medijski tehnik za gluhe in naglu\u0161ne dijake in dijake z
+  govorno-jezikovnimi motnjami"
 npbNum: 0
 path: /2003/25/2003-01-2547
 sopPredpisa: 2003-01-2547

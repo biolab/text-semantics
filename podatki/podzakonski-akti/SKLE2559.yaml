@@ -1,17 +1,11 @@
 Text file: SKLE2559.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1003356000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-17 22:00:00
 idPredpisa: SKLE2559
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP, \u0161t. 1/2001 Pridru\u017Eitvenega sveta EU \u2013 Slovenija o sprejemu\
-  \ dolo\u010Dil in pogojev za sodelovanje \_Republike Slovenije pri finan\u010Dnem\
-  \ \_instrumentu za okolje (LIFE)"
+naslov: "SKLEP, \u0161t. 1/2001 Pridru\u017Eitvenega sveta EU \u2013 Slovenija o sprejemu
+  dolo\u010Dil in pogojev za sodelovanje \_Republike Slovenije pri finan\u010Dnem
+  \_instrumentu za okolje (LIFE)"
 npbNum: 0
 path: /2001/46/2001-01-4607
 sopPredpisa: 2001-01-4607

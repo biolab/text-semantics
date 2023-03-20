@@ -1,16 +1,10 @@
 Text file: PRAV10626.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1301608800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-03-31 22:00:00
 idPredpisa: PRAV10626
 idPredpisaChng: PRAV10626
-instock: .nan
-naslov: "PRAVILNIK  o programu in na\u010Dinu opravljanja strokovnega izpita za izvajanje\
-  \ geodetskih storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK  o programu in na\u010Dinu opravljanja strokovnega izpita za izvajanje
+  geodetskih storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/09/2011-01-0975-2011-01-0454-npb1
 sopPredpisa: 2011-01-0975

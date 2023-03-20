@@ -1,16 +1,10 @@
 Text file: URED6280.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1351724400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-10-31 23:00:00
 idPredpisa: URED6280
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu dolo\u010Danja in vi\u0161ini letne dajatve za uporabo\
-  \ vozil v cestnem prometu"
+naslov: "UREDBO o na\u010Dinu dolo\u010Danja in vi\u0161ini letne dajatve za uporabo
+  vozil v cestnem prometu"
 npbNum: 0
 path: /2012/31/2012-01-3184
 sopPredpisa: 2012-01-3184

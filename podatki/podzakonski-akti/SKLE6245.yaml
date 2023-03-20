@@ -1,17 +1,11 @@
 Text file: SKLE6245.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137106800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-12 23:00:00
 idPredpisa: SKLE6245
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga strokovne re\u0161itve poteka trase prenosnega\
-  \ plinovoda M2/1 Trojane\u2013Vodice pri Ljubljani, okoljskega poro\u010Dila in\
-  \ revizije okoljskega poro\u010Dila in  SKLIC  2. prostorske konference"
+naslov: "SKLEP o javni razgrnitvi predloga strokovne re\u0161itve poteka trase prenosnega
+  plinovoda M2/1 Trojane\u2013Vodice pri Ljubljani, okoljskega poro\u010Dila in revizije
+  okoljskega poro\u010Dila in  SKLIC  2. prostorske konference"
 npbNum: 0
 path: /2006/01/2006-01-0138
 sopPredpisa: 2006-01-0138

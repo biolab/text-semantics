@@ -1,16 +1,10 @@
 Text file: URED3602.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1523916000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-16 22:00:00
 idPredpisa: URED3602
 idPredpisaChng: URED3602
-instock: .nan
-naslov: "UREDBA o upravnem poslovanju (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 12)"
+naslov: "UREDBA o upravnem poslovanju (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 12)"
 npbNum: 12
 path: /2018/03/2018-01-0353-2005-01-0690-npb12
 sopPredpisa: 2018-01-0353

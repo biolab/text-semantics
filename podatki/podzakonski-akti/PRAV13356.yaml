@@ -1,16 +1,10 @@
 Text file: PRAV13356.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-23 23:00:00
 idPredpisa: PRAV13356
 idPredpisaChng: PRAV13356
-instock: .nan
-naslov: "PRAVILNIK o pla\u010Devanju in razporejanju obveznih dajatev in drugih javnofinan\u010D\
-  nih prihodkov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o pla\u010Devanju in razporejanju obveznih dajatev in drugih javnofinan\u010Dnih
+  prihodkov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/04/2021-01-0415-2018-01-0892-npb2
 sopPredpisa: 2021-01-0415

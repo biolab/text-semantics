@@ -1,16 +1,10 @@
 Text file: PRAV4430.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1147471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-05-12 22:00:00
 idPredpisa: PRAV4430
 idPredpisaChng: PRAV4430
-instock: .nan
-naslov: "PRAVILNIK o emisiji hrupa strojev, ki se uporabljajo na prostem (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o emisiji hrupa strojev, ki se uporabljajo na prostem (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2006/20/2006-01-2098-2002-01-5269-npb2
 sopPredpisa: 2006-01-2098

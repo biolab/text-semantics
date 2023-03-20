@@ -1,17 +1,11 @@
 Text file: URED6897.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1426287600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-03-13 23:00:00
 idPredpisa: URED6897
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (EU) o dolo\u010Ditvi skupnih pravil zra\u010D\
-  nega prometa in operativnih dolo\u010Db v zvezi z navigacijskimi slu\u017Ebami in\
-  \ postopki zra\u010Dnega prometa"
+naslov: "UREDBO o izvajanju Uredbe (EU) o dolo\u010Ditvi skupnih pravil zra\u010Dnega
+  prometa in operativnih dolo\u010Db v zvezi z navigacijskimi slu\u017Ebami in postopki
+  zra\u010Dnega prometa"
 npbNum: 0
 path: /2015/06/2015-01-0631
 sopPredpisa: 2015-01-0631

@@ -1,14 +1,8 @@
 Text file: SKLE12866.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654293600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-06-03 22:00:00
 idPredpisa: SKLE12866
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o uporabi Smernic o izvzetju omejene mre\u017Ee na podlagi PSD2"
 npbNum: 0
 path: /2022/17/2022-01-1798

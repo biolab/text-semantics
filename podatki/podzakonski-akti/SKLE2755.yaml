@@ -1,19 +1,13 @@
 Text file: SKLE2755.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 915145200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-31 23:00:00
 idPredpisa: SKLE2755
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 48 o spremembi na\u010D\
-  el za dolo\u010Danje stro\u0161kovne osnove naprav na zra\u010Dnih poteh, pogojev\
-  \ uporabe sistema pristojbin na zra\u010Dnih poteh in pla\u010Dilnih pogojev ter\
-  \ finan\u010Dnih predpisov (ter pravilnika o njihovi uporabi), ki veljajo za sistem\
-  \ pristojbin na zra\u010Dnih poteh,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 48 o spremembi na\u010Del
+  za dolo\u010Danje stro\u0161kovne osnove naprav na zra\u010Dnih poteh, pogojev uporabe
+  sistema pristojbin na zra\u010Dnih poteh in pla\u010Dilnih pogojev ter finan\u010Dnih
+  predpisov (ter pravilnika o njihovi uporabi), ki veljajo za sistem pristojbin na
+  zra\u010Dnih poteh,"
 npbNum: 0
 path: /2002/05/2002-01-0596
 sopPredpisa: 2002-01-0596

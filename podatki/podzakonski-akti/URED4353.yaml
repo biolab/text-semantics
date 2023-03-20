@@ -1,16 +1,10 @@
 Text file: URED4353.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1190152800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-18 22:00:00
 idPredpisa: URED4353
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesijah za izvajanje ribi\u0161kega upravljanja v ribi\u0161\
-  kih okoli\u0161ih v Republiki Sloveniji"
+naslov: "UREDBO o koncesijah za izvajanje ribi\u0161kega upravljanja v ribi\u0161kih
+  okoli\u0161ih v Republiki Sloveniji"
 npbNum: 0
 path: /2007/41/2007-01-4137
 sopPredpisa: 2007-01-4137

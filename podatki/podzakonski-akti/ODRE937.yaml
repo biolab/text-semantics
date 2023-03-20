@@ -1,14 +1,8 @@
 Text file: ODRE937.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 761439600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-02-16 23:00:00
 idPredpisa: ODRE937
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o drugi izdaji enomese\u010Dnih zakladnih menic na ime"
 npbNum: 0
 path: /1994/03/1994-01-0315

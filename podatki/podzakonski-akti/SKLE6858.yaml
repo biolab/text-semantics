@@ -1,16 +1,10 @@
 Text file: SKLE6858.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1166655600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-20 23:00:00
 idPredpisa: SKLE6858
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka\
-  \ Kmetijsko gozdarske zbornice Slovenije za leto 2007"
+naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka
+  Kmetijsko gozdarske zbornice Slovenije za leto 2007"
 npbNum: 0
 path: /2007/03/2007-01-0352
 sopPredpisa: 2007-01-0352

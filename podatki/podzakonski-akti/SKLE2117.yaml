@@ -1,20 +1,14 @@
 Text file: SKLE2117.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 994111200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-02 22:00:00
 idPredpisa: SKLE2117
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Hrastje\u2013Kronovo in  b) Predloga sprememb in dopolnitev prostorskih\
-  \ sestavin dolgoro\u010Dnega plana Ob\u010Dine Novo mesto za obdobje 1986\u2013\
-  2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Novo mesto, za obmo\u010D\
-  je Mestne ob\u010Dine Novo mesto in za obmo\u010Dje Ob\u010Dine Mirna Pe\u010D v\
-  \ delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Hrastje\u2013Kronovo in  b) Predloga sprememb in dopolnitev prostorskih
+  sestavin dolgoro\u010Dnega plana Ob\u010Dine Novo mesto za obdobje 1986\u20132000
+  in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Novo mesto, za obmo\u010Dje
+  Mestne ob\u010Dine Novo mesto in za obmo\u010Dje Ob\u010Dine Mirna Pe\u010D v delu,
+  ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /2001/29/2001-01-2935
 sopPredpisa: 2001-01-2935

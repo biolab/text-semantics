@@ -1,16 +1,10 @@
 Text file: SKLE9298.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1349042400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-09-30 22:00:00
 idPredpisa: SKLE9298
 idPredpisaChng: SKLE9298
-instock: .nan
-naslov: "SKLEP o poro\u010Danju skrbnika (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "SKLEP o poro\u010Danju skrbnika (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2012/27/2012-01-2701-2012-01-1452-npb1
 sopPredpisa: 2012-01-2701

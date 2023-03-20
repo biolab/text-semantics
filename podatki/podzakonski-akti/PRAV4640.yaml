@@ -1,17 +1,11 @@
 Text file: PRAV4640.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1283810400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-06 22:00:00
 idPredpisa: PRAV4640
 idPredpisaChng: PRAV4640
-instock: .nan
-naslov: "PRAVILNIK o strokovnem izobra\u017Eevanju ter programu, pogojih in na\u010D\
-  inu opravljanja preizkusov znanja izvr\u0161iteljev (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o strokovnem izobra\u017Eevanju ter programu, pogojih in na\u010Dinu
+  opravljanja preizkusov znanja izvr\u0161iteljev (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/38/2010-01-3850-2003-01-0595-npb1
 sopPredpisa: 2010-01-3850

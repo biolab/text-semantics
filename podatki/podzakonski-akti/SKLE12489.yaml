@@ -1,14 +1,8 @@
 Text file: SKLE12489.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-16 22:00:00
 idPredpisa: SKLE12489
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o ureditvi notranjega upravljanja, upravljalnem organu in procesu ocenjevanja
   ustreznega notranjega kapitala za banke in hranilnice
 npbNum: 0

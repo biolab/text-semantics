@@ -1,16 +1,10 @@
 Text file: SKLE1826.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 816562800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-11-16 23:00:00
 idPredpisa: SKLE1826
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o izjemnem priznanju in odmeri starostnih pokojnin osebam, ki imajo\
-  \ posebne zasluge na podro\u010Dju kulture"
+naslov: "SKLEP o izjemnem priznanju in odmeri starostnih pokojnin osebam, ki imajo
+  posebne zasluge na podro\u010Dju kulture"
 npbNum: 0
 path: /1995/30/1995-01-3027
 sopPredpisa: 1995-01-3027

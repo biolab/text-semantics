@@ -1,16 +1,10 @@
 Text file: PRAV14127.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-31 23:00:00
 idPredpisa: PRAV14127
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trge pra\u0161i\u010Djega\
-  \ mesa, ov\u010Djega mesa ter perutninskega mesa in jajc"
+naslov: "PRAVILNIK o tr\u017Eno informacijskem sistemu za trge pra\u0161i\u010Djega
+  mesa, ov\u010Djega mesa ter perutninskega mesa in jajc"
 npbNum: 0
 path: /2020/33/2020-01-3354
 sopPredpisa: 2020-01-3354

@@ -1,17 +1,11 @@
 Text file: URED4256.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1163804400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-17 23:00:00
 idPredpisa: URED4256
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu zagotavljanja prihodkov ob\u010Dinam iz naslova davka\
-  \ na dodano vrednost pri prometu objektov ali delov objektov in zemlji\u0161\u010D\
-  , na katerih so postavljeni"
+naslov: "UREDBO o na\u010Dinu zagotavljanja prihodkov ob\u010Dinam iz naslova davka
+  na dodano vrednost pri prometu objektov ali delov objektov in zemlji\u0161\u010D,
+  na katerih so postavljeni"
 npbNum: 0
 path: /2006/50/2006-01-5031
 sopPredpisa: 2006-01-5031

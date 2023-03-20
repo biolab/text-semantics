@@ -1,14 +1,8 @@
 Text file: SKLE6722.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1175637600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-03 22:00:00
 idPredpisa: SKLE6722
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Kara\u010Diju"
 npbNum: 0
 path: /2007/15/2007-01-1518

@@ -1,17 +1,11 @@
 Text file: ODRE2180.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1509141600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-27 22:00:00
 idPredpisa: ODRE2180
 idPredpisaChng: ODRE2180
-instock: .nan
-naslov: "ODREDBA o dolo\u010Ditvi programa strokovnega izpopolnjevanja za prevoz in\
-  \ varovanje gotovine ter drugih vrednostnih po\u0161iljk (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "ODREDBA o dolo\u010Ditvi programa strokovnega izpopolnjevanja za prevoz in
+  varovanje gotovine ter drugih vrednostnih po\u0161iljk (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/27/2017-01-2784-2012-01-2125-npb1
 sopPredpisa: 2017-01-2784

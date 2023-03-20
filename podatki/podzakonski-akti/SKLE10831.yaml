@@ -1,17 +1,10 @@
 Text file: SKLE10831.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467669600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-04 22:00:00
 idPredpisa: SKLE10831
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o obrazcu za izdajo potrdila o stanju na\_osebnem ra\u010Dunu \u010D\
-  lana in obrazcu za\_predlo\u017Eitev potrdila o vpla\u010Dilih \u0161portnega dru\u0161\
-  tva"
+naslov: "SKLEP o obrazcu za izdajo potrdila o stanju na\_osebnem ra\u010Dunu \u010Dlana
+  in obrazcu za\_predlo\u017Eitev potrdila o vpla\u010Dilih \u0161portnega dru\u0161tva"
 npbNum: 0
 path: /2016/18/2016-01-1889
 sopPredpisa: 2016-01-1889

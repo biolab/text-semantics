@@ -1,14 +1,8 @@
 Text file: ODLO1994.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1579302000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-17 23:00:00
 idPredpisa: ODLO1994
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o medresorski komisiji za odpravljanje posledic dela z azbestom
 npbNum: 0
 path: /2020/00/2020-01-0059

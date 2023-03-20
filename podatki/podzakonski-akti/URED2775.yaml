@@ -1,16 +1,10 @@
 Text file: URED2775.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1047682800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-14 23:00:00
 idPredpisa: URED2775
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o neposrednih pla\u010Dilih za kobile za vzrejo \u017Erebet in o neposrednih\
-  \ pla\u010Dilih za gospodarske \u010Debelje dru\u017Eine za leto 2003"
+naslov: "UREDBO o neposrednih pla\u010Dilih za kobile za vzrejo \u017Erebet in o neposrednih
+  pla\u010Dilih za gospodarske \u010Debelje dru\u017Eine za leto 2003"
 npbNum: 0
 path: /2003/10/2003-01-1044
 sopPredpisa: 2003-01-1044

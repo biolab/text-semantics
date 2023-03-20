@@ -1,12 +1,10 @@
 Text file: SKLE12793.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12793
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o Vzgojnem programu za vzgojo in izobra\u017Eevanje otrok in mladostnikov\
-  \ s \u010Dustvenimi in vedenjskimi te\u017Eavami in motnjami"
+naslov: "SKLEP o Vzgojnem programu za vzgojo in izobra\u017Eevanje otrok in mladostnikov
+  s \u010Dustvenimi in vedenjskimi te\u017Eavami in motnjami"
 npbNum: 0
 path: /2022/13/2022-01-1375
 sopPredpisa: 2022-01-1375

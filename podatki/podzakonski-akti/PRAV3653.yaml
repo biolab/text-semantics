@@ -1,16 +1,10 @@
 Text file: PRAV3653.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 980550000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-01-26 23:00:00
 idPredpisa: PRAV3653
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zahtevah za maslo in posneto mleko \_v prahu za potrebe ureditve\
-  \ trga z mlekom \_in mle\u010Dnimi izdelki"
+naslov: "PRAVILNIK o zahtevah za maslo in posneto mleko \_v prahu za potrebe ureditve
+  trga z mlekom \_in mle\u010Dnimi izdelki"
 npbNum: 0
 path: /2001/03/2001-01-0363
 sopPredpisa: 2001-01-0363

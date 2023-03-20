@@ -1,16 +1,10 @@
 Text file: SKLE12872.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656626400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-06-30 22:00:00
 idPredpisa: SKLE12872
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi cene storitve javne slu\u017Ebe ravnanja z \u017E\
-  ivalskimi stranskimi proizvodi kategorije 1 in 2"
+naslov: "SKLEP o dolo\u010Ditvi cene storitve javne slu\u017Ebe ravnanja z \u017Eivalskimi
+  stranskimi proizvodi kategorije 1 in 2"
 npbNum: 0
 path: /2022/21/2022-01-2171
 sopPredpisa: 2022-01-2171

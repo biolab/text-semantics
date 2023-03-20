@@ -1,16 +1,10 @@
 Text file: PRAV5023.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064613600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-26 22:00:00
 idPredpisa: PRAV5023
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o posegih v okolje, ki se izjemoma lahko dovolijo na vplivnem obmo\u010D\
-  ju Regijskega parka \u0160kocjanske jame"
+naslov: "PRAVILNIK o posegih v okolje, ki se izjemoma lahko dovolijo na vplivnem obmo\u010Dju
+  Regijskega parka \u0160kocjanske jame"
 npbNum: 0
 path: /2003/40/2003-01-4088
 sopPredpisa: 2003-01-4088

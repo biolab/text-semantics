@@ -1,14 +1,8 @@
 Text file: SKLE6771.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1172271600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-23 23:00:00
 idPredpisa: SKLE6771
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi prodajne vrednosti za 1 tono \u0161koljk za leto 2007"
 npbNum: 0
 path: /2007/07/2007-01-0727

@@ -1,14 +1,8 @@
 Text file: ODRE860.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 950914800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-02-18 23:00:00
 idPredpisa: ODRE860
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO  o uvedbi namakanja na kompleksu imenovanem Namakalni sistem Lipa
 npbNum: 0
 path: /2000/06/2000-01-0631

@@ -1,18 +1,12 @@
 Text file: PRAV7500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137193200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-13 23:00:00
 idPredpisa: PRAV7500
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Navodila o seznamu organov tujih dr\u017E\
-  av, pristojnih za izdajo listin o izpolnjevanju obveznih pogojev za udele\u017E\
-  bo tujih ponudnikov v postopku oddaje javnih naro\u010Dil, in o na\u010Dinu preveritve\
-  \ teh listin"
+naslov: "PRAVILNIK o prenehanju veljavnosti Navodila o seznamu organov tujih dr\u017Eav,
+  pristojnih za izdajo listin o izpolnjevanju obveznih pogojev za udele\u017Ebo tujih
+  ponudnikov v postopku oddaje javnih naro\u010Dil, in o na\u010Dinu preveritve teh
+  listin"
 npbNum: 0
 path: /2006/01/2006-01-0118
 sopPredpisa: 2006-01-0118

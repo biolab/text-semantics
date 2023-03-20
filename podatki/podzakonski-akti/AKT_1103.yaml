@@ -1,25 +1,22 @@
 Text file: AKT_1103.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1103
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev in oceno dejanskega stanja\
-  \ za ugotovitev politi\u010Dne odgovornosti nosilcev javnih funkcij zaradi suma\
-  \ vplivanja na domnevno pranje denarja v Novi Kreditni banki Maribor d.d. s strani\
-  \ tujih dr\u017Eavljanov in z njimi povezanih pravnih in fizi\u010Dnih oseb in za\
-  \ ugotovitev in oceno dejanskega stanja za ugotovitev politi\u010Dne odgovornosti\
-  \ nosilcev javnih funkcij zaradi suma nezakonitega financiranja politi\u010Dne stranke\
-  \ Slovenske demokratske stranke in suma delovanja izdajateljev medijev v lasti te\
-  \ politi\u010Dne stranke in njenih funkcionarjev ter \u010Dlanov in z njimi povezanih\
-  \ pravnih in fizi\u010Dnih oseb z namenom nezakonitega financiranja volilne kampanje\
-  \ za pred\u010Dasne volitve poslancev v Dr\u017Eavni zbor leta 2018 ter za morebitno\
-  \ spremembo veljavne zakonodaje, ki ureja podro\u010Dja prepre\u010Devanja pranja\
-  \ denarja in financiranja terorizma, financiranja politi\u010Dnih strank, financiranja\
-  \ volilne kampanje, ustanavljanja in lastninsko-upravljavsko ureditev izdajateljev\
-  \ medijev ter financiranja izdajanja in delovanja medijev v \u010Dasu volilne kampanje,\
-  \ tako, da se:"
+naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev in oceno dejanskega stanja
+  za ugotovitev politi\u010Dne odgovornosti nosilcev javnih funkcij zaradi suma vplivanja
+  na domnevno pranje denarja v Novi Kreditni banki Maribor d.d. s strani tujih dr\u017Eavljanov
+  in z njimi povezanih pravnih in fizi\u010Dnih oseb in za ugotovitev in oceno dejanskega
+  stanja za ugotovitev politi\u010Dne odgovornosti nosilcev javnih funkcij zaradi
+  suma nezakonitega financiranja politi\u010Dne stranke Slovenske demokratske stranke
+  in suma delovanja izdajateljev medijev v lasti te politi\u010Dne stranke in njenih
+  funkcionarjev ter \u010Dlanov in z njimi povezanih pravnih in fizi\u010Dnih oseb
+  z namenom nezakonitega financiranja volilne kampanje za pred\u010Dasne volitve poslancev
+  v Dr\u017Eavni zbor leta 2018 ter za morebitno spremembo veljavne zakonodaje, ki
+  ureja podro\u010Dja prepre\u010Devanja pranja denarja in financiranja terorizma,
+  financiranja politi\u010Dnih strank, financiranja volilne kampanje, ustanavljanja
+  in lastninsko-upravljavsko ureditev izdajateljev medijev ter financiranja izdajanja
+  in delovanja medijev v \u010Dasu volilne kampanje, tako, da se:"
 npbNum: 0
 path: /2018/40/2018-01-4069
 sopPredpisa: 2018-01-4069

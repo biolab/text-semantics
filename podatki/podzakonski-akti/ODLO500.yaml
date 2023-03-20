@@ -1,17 +1,11 @@
 Text file: ODLO500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 704671200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-04-30 22:00:00
 idPredpisa: ODLO500
 idPredpisaChng: ODLO500
-instock: .nan
-naslov: "ODLOK o na\u010Dinu dolo\u010Danja vrednosti kmetijskih zemlji\u0161\u010D\
-  , gozdov in zemlji\u0161\u010D, uporabljenih za gradnjo, v postopku denacionalizacije\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o na\u010Dinu dolo\u010Danja vrednosti kmetijskih zemlji\u0161\u010D,
+  gozdov in zemlji\u0161\u010D, uporabljenih za gradnjo, v postopku denacionalizacije
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1992/10/1992-01-1050-1992-01-0783-npb1
 sopPredpisa: 1992-01-1050

@@ -1,17 +1,11 @@
 Text file: SKLE12688.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653429600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-24 22:00:00
 idPredpisa: SKLE12688
 idPredpisaChng: SKLE12688
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega raziskovalnega zavoda Rudolfovo \u2013 Znanstveno\
-  \ in tehnolo\u0161ko sredi\u0161\u010De Novo mesto (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "SKLEP o ustanovitvi javnega raziskovalnega zavoda Rudolfovo \u2013 Znanstveno
+  in tehnolo\u0161ko sredi\u0161\u010De Novo mesto (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2022/16/2022-01-1688-2022-01-0826-npb1
 sopPredpisa: 2022-01-1688

@@ -1,16 +1,10 @@
 Text file: PRAV14252.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1621980000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-25 22:00:00
 idPredpisa: PRAV14252
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti kemi\u010D\
-  nim snovem pri delu"
+naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti kemi\u010Dnim
+  snovem pri delu"
 npbNum: 0
 path: /2021/15/2021-01-1536
 sopPredpisa: 2021-01-1536

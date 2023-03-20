@@ -1,19 +1,10 @@
 Text file: PRAV14684.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654034400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654034400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-05-31 22:00:00
+datumZacetkaVelj: 2022-05-31 22:00:00
 idPredpisa: PRAV14684
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pripravni\u0161tvu in strokovnih izpitih zdravstvenih delavcev\
-  \ in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti"
+naslov: "PRAVILNIK o pripravni\u0161tvu in strokovnih izpitih zdravstvenih delavcev
+  in zdravstvenih sodelavcev na podro\u010Dju zdravstvene dejavnosti"
 npbNum: 0
 path: /2022/17/2022-01-1766
 sopPredpisa: 2022-01-1766

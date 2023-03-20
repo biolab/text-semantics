@@ -1,16 +1,10 @@
 Text file: ODRE1111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 862005600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-04-25 22:00:00
 idPredpisa: ODRE1111
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Ravne"
+naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Ravne"
 npbNum: 0
 path: /1997/14/1997-01-1456
 sopPredpisa: 1997-01-1456

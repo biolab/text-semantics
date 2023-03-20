@@ -1,16 +1,10 @@
 Text file: STAT43.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1093039200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-20 22:00:00
 idPredpisa: STAT43
 idPredpisaChng: STAT43
-instock: .nan
-naslov: "STATUT Zbornice Republike Slovenije za zasebno varovanje (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "STATUT Zbornice Republike Slovenije za zasebno varovanje (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2004/41/2004-01-4117-2001-01-0368-npb5
 sopPredpisa: 2004-01-4117

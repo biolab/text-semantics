@@ -1,17 +1,11 @@
 Text file: PRAV3146.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1059775200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-01 22:00:00
 idPredpisa: PRAV3146
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o opremi in sredstvih za dajanje prve pomo\u010Di, usposabljanju\
-  \ in preizkusih iz prve pomo\u010Di ter zdravni\u0161kih pregledih re\u0161evalcev\
-  \ iz vode"
+naslov: "PRAVILNIK o opremi in sredstvih za dajanje prve pomo\u010Di, usposabljanju
+  in preizkusih iz prve pomo\u010Di ter zdravni\u0161kih pregledih re\u0161evalcev
+  iz vode"
 npbNum: 0
 path: /2003/33/2003-01-3392
 sopPredpisa: 2003-01-3392

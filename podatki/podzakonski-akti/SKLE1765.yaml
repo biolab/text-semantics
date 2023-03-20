@@ -1,16 +1,10 @@
 Text file: SKLE1765.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 920070000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-02-26 23:00:00
 idPredpisa: SKLE1765
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D iz prej\u0161\
-  njih let na raven pla\u010D iz leta 1998"
+naslov: "SKLEP o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D iz prej\u0161njih
+  let na raven pla\u010D iz leta 1998"
 npbNum: 0
 path: /1999/05/1999-01-0574
 sopPredpisa: 1999-01-0574

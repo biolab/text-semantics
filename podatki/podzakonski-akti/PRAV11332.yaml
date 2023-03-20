@@ -1,17 +1,11 @@
 Text file: PRAV11332.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1340402400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-06-22 22:00:00
 idPredpisa: PRAV11332
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o varovanju in hranjenju nacionalnega bogastva in muzejskega gradiva,\
-  \ o vpisu v razvid muzejev in o podelitvi pooblastila za opravljanje dr\u017Eavne\
-  \ javne slu\u017Ebe muzejev"
+naslov: "PRAVILNIK o varovanju in hranjenju nacionalnega bogastva in muzejskega gradiva,
+  o vpisu v razvid muzejev in o podelitvi pooblastila za opravljanje dr\u017Eavne
+  javne slu\u017Ebe muzejev"
 npbNum: 0
 path: /2012/19/2012-01-1982
 sopPredpisa: 2012-01-1982

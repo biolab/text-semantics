@@ -1,14 +1,8 @@
 Text file: SKLE10910.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480719600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-02 23:00:00
 idPredpisa: SKLE10910
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o podrobnej\u0161ih pravilih o borznem trgu"
 npbNum: 0
 path: /2016/30/2016-01-3093

@@ -1,14 +1,8 @@
 Text file: PRAV10349.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1327705200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-27 23:00:00
 idPredpisa: PRAV10349
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o meroslovnih zahtevah za nepremi\u010Dne rezervoarje"
 npbNum: 0
 path: /2012/00/2012-01-0079

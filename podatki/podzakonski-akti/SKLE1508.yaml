@@ -1,14 +1,8 @@
 Text file: SKLE1508.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 876520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-10-10 22:00:00
 idPredpisa: SKLE1508
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o za\u010Detku poslovanja Jamstvenega sklada Republike Slovenije"
 npbNum: 0
 path: /1997/31/1997-01-3101

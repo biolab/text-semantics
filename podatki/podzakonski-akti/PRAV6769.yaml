@@ -1,14 +1,8 @@
 Text file: PRAV6769.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1116540000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-19 22:00:00
 idPredpisa: PRAV6769
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o programu usposabljanja za izvajanje gospodarskega ribolova, potrdilu
   o opravljenem izpitu in o vodenju evidenc o izdanih potrdilih o opravljenih izpitih
 npbNum: 0

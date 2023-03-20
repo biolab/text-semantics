@@ -1,17 +1,11 @@
 Text file: URED2118.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1434751200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-19 22:00:00
 idPredpisa: URED2118
 idPredpisaChng: URED2118
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi vstopnih mest in o minimalnih pogojih za izvajanje\
-  \ in\u0161pekcijskih pregledov rastlin, rastlinskih proizvodov in nadzorovanih predmetov\
-  \ na vstopnih mestih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o dolo\u010Ditvi vstopnih mest in o minimalnih pogojih za izvajanje
+  in\u0161pekcijskih pregledov rastlin, rastlinskih proizvodov in nadzorovanih predmetov
+  na vstopnih mestih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2015/16/2015-01-1615-2002-01-0247-npb2
 sopPredpisa: 2015-01-1615

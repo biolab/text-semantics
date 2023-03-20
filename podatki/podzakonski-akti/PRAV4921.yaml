@@ -1,17 +1,11 @@
 Text file: PRAV4921.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1222812000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-09-30 22:00:00
 idPredpisa: PRAV4921
 idPredpisaChng: PRAV4921
-instock: .nan
-naslov: "PRAVILNIK o ovojnici za vro\u010Danje po po\u0161ti v pravdnem in kazenskem\
-  \ postopku (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o ovojnici za vro\u010Danje po po\u0161ti v pravdnem in kazenskem
+  postopku (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2008/39/2008-01-3941-2003-01-3625-npb1
 sopPredpisa: 2008-01-3941

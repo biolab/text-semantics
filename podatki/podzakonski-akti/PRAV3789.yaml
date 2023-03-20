@@ -1,17 +1,11 @@
 Text file: PRAV3789.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064008800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-19 22:00:00
 idPredpisa: PRAV3789
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih za odobritev gozdnih semenskih objektov v kategorijah\
-  \ \u201Cznano poreklo\u201C in \u201Cizbran\u201C, ter o seznamu gozdnih semenskih\
-  \ objektov*"
+naslov: "PRAVILNIK o pogojih za odobritev gozdnih semenskih objektov v kategorijah
+  \u201Cznano poreklo\u201C in \u201Cizbran\u201C, ter o seznamu gozdnih semenskih
+  objektov*"
 npbNum: 0
 path: /2003/41/2003-01-4132
 sopPredpisa: 2003-01-4132

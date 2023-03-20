@@ -1,16 +1,10 @@
 Text file: ODLO2531.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-20 22:00:00
 idPredpisa: ODLO2531
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi Komisije za fizi\u010Dno varovanje jedrskih objektov\
-  \ ter jedrskih in radioaktivnih snovi"
+naslov: "ODLOK o ustanovitvi Komisije za fizi\u010Dno varovanje jedrskih objektov
+  ter jedrskih in radioaktivnih snovi"
 npbNum: 0
 path: /2022/14/2022-01-1464
 sopPredpisa: 2022-01-1464

@@ -1,16 +1,10 @@
 Text file: PRAV4826.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1123884000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-12 22:00:00
 idPredpisa: PRAV4826
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Mokrec\
-  \ (2002\u20132011)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Mokrec
+  (2002\u20132011)"
 npbNum: 0
 path: /2005/33/2005-01-3393
 sopPredpisa: 2005-01-3393

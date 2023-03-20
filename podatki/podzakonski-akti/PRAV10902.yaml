@@ -1,14 +1,8 @@
 Text file: PRAV10902.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1324681200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-23 23:00:00
 idPredpisa: PRAV10902
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dostavi podatkov za odmero dohodnine od dohodka iz osnovne kmetijske
   in osnovne gozdarske dejavnosti za leto 2011
 npbNum: 0

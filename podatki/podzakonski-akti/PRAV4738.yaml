@@ -1,16 +1,10 @@
 Text file: PRAV4738.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1082757600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-23 22:00:00
 idPredpisa: PRAV4738
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave Prostorskega\
-  \ reda Slovenije ter vrstah njegovih strokovnih podlag"
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave Prostorskega
+  reda Slovenije ter vrstah njegovih strokovnih podlag"
 npbNum: 0
 path: /2004/18/2004-01-1887
 sopPredpisa: 2004-01-1887

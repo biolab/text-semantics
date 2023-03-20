@@ -1,16 +1,10 @@
 Text file: AKT_881.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1438380000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-07-31 22:00:00
 idPredpisa: AKT_881
 idPredpisaChng: AKT_881
-instock: .nan
-naslov: "AKT o na\u010Dinu zagotavljanja u\u010Dinkovitosti v \u017Eelezni\u0161kem\
-  \ prometu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "AKT o na\u010Dinu zagotavljanja u\u010Dinkovitosti v \u017Eelezni\u0161kem
+  prometu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/24/2015-01-2415-2013-01-3962-npb1
 sopPredpisa: 2015-01-2415

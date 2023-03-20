@@ -1,17 +1,11 @@
 Text file: URED4479.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1176847200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-17 22:00:00
 idPredpisa: URED4479
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za izvennivojsko kri\u017E\
-  anje Zijavnica regionalne ceste I. reda R1-215/1162 Trebnje\u2013Mokronog z \u017E\
-  elezni\u0161ko progo Sevnica\u2013Trebnje"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za izvennivojsko kri\u017Eanje
+  Zijavnica regionalne ceste I. reda R1-215/1162 Trebnje\u2013Mokronog z \u017Eelezni\u0161ko
+  progo Sevnica\u2013Trebnje"
 npbNum: 0
 path: /2007/15/2007-01-1517
 sopPredpisa: 2007-01-1517

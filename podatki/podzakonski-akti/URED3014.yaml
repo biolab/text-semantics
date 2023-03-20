@@ -1,16 +1,10 @@
 Text file: URED3014.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1060898400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-14 22:00:00
 idPredpisa: URED3014
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pogojih in merilih za sofinanciranje projektov na podro\u010Dju\
-  \ enakih mo\u017Enosti \u017Eensk in mo\u0161kih"
+naslov: "UREDBO o pogojih in merilih za sofinanciranje projektov na podro\u010Dju
+  enakih mo\u017Enosti \u017Eensk in mo\u0161kih"
 npbNum: 0
 path: /2003/38/2003-01-3810
 sopPredpisa: 2003-01-3810

@@ -1,14 +1,8 @@
 Text file: ODRE2271.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1391209200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-31 23:00:00
 idPredpisa: ODRE2271
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o spremembi izobra\u017Eevalnega programa Umetni\u0161ka gimnazija"
 npbNum: 0
 path: /2014/01/2014-01-0176

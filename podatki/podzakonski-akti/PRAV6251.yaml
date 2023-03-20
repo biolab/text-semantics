@@ -1,16 +1,10 @@
 Text file: PRAV6251.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1101855600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-30 23:00:00
 idPredpisa: PRAV6251
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
-  anov za leto 2005"
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010Danov
+  za leto 2005"
 npbNum: 0
 path: /2004/53/2004-01-5349
 sopPredpisa: 2004-01-5349

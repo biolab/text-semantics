@@ -1,14 +1,8 @@
 Text file: PRAV13883.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624658400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-25 22:00:00
 idPredpisa: PRAV13883
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o ozna\u010Devanju kulturnih spomenikov"
 npbNum: 0
 path: /2021/20/2021-01-2004

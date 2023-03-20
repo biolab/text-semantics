@@ -1,19 +1,10 @@
 Text file: URED8316.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634335200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-31 23:00:00
+datumZacetkaVelj: 2021-10-15 22:00:00
 idPredpisa: URED8316
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesijah za rabo vode za odvzem naplavin na delih reke Save, Save\
-  \ Dolinke, So\u010De, Tolminke in Ba\u010De"
+naslov: "UREDBO o koncesijah za rabo vode za odvzem naplavin na delih reke Save, Save
+  Dolinke, So\u010De, Tolminke in Ba\u010De"
 npbNum: 0
 path: /2021/32/2021-01-3249
 sopPredpisa: 2021-01-3249

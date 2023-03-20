@@ -1,17 +1,11 @@
 Text file: SKLE11653.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1544828400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-14 23:00:00
 idPredpisa: SKLE11653
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi Sklepa o uporabi Smernic organa EBA o notranjem upravljanju\
-  \ in Sklepa o uporabi Smernic o ocenjevanju primernosti \u010Dlanov organov vodenja\
-  \ ali nadzora in nosilcev klju\u010Dnih funkcij"
+naslov: "SKLEP o razveljavitvi Sklepa o uporabi Smernic organa EBA o notranjem upravljanju
+  in Sklepa o uporabi Smernic o ocenjevanju primernosti \u010Dlanov organov vodenja
+  ali nadzora in nosilcev klju\u010Dnih funkcij"
 npbNum: 0
 path: /2018/38/2018-01-3890
 sopPredpisa: 2018-01-3890

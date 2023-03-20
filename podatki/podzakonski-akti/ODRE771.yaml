@@ -1,16 +1,10 @@
 Text file: ODRE771.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 947286000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-01-07 23:00:00
 idPredpisa: ODRE771
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev srednje strokovne izobrazbe\
-  \ (poklicni te\u010Daj)"
+naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev srednje strokovne izobrazbe
+  (poklicni te\u010Daj)"
 npbNum: 0
 path: /2000/00/2000-01-0008
 sopPredpisa: 2000-01-0008

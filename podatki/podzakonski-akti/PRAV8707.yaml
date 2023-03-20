@@ -1,16 +1,10 @@
 Text file: PRAV8707.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1235170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-20 23:00:00
 idPredpisa: PRAV8707
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o obmo\u010Djih z vi\u0161jo stopnjo brezposelnosti v Republiki Sloveniji\
-  \ za leto 2009"
+naslov: "SKLEP o obmo\u010Djih z vi\u0161jo stopnjo brezposelnosti v Republiki Sloveniji
+  za leto 2009"
 npbNum: 0
 path: /2009/04/2009-01-0497
 sopPredpisa: 2009-01-0497

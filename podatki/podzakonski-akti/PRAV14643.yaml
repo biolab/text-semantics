@@ -1,17 +1,11 @@
 Text file: PRAV14643.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1664575200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-09-30 22:00:00
 idPredpisa: PRAV14643
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcih prijav podatkov o pokojninskem in invalidskem ter zdravstvenem\
-  \ zavarovanju, zavarovanju za dolgotrajno oskrbo, zavarovanju za star\u0161evsko\
-  \ varstvo in zavarovanju za primer brezposelnosti"
+naslov: "PRAVILNIK o obrazcih prijav podatkov o pokojninskem in invalidskem ter zdravstvenem
+  zavarovanju, zavarovanju za dolgotrajno oskrbo, zavarovanju za star\u0161evsko varstvo
+  in zavarovanju za primer brezposelnosti"
 npbNum: 0
 path: /2022/11/2022-01-1196
 sopPredpisa: 2022-01-1196

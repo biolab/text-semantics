@@ -1,16 +1,10 @@
 Text file: URED5150.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1247868000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-17 22:00:00
 idPredpisa: URED5150
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o metodologiji za izra\u010Dun povpre\u010Dnine za financiranje ob\u010D\
-  inskih nalog"
+naslov: "UREDBO o metodologiji za izra\u010Dun povpre\u010Dnine za financiranje ob\u010Dinskih
+  nalog"
 npbNum: 0
 path: /2009/24/2009-01-2499
 sopPredpisa: 2009-01-2499

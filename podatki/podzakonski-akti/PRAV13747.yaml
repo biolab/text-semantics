@@ -1,16 +1,10 @@
 Text file: PRAV13747.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-26 22:00:00
 idPredpisa: PRAV13747
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o za\u010Dasnih prepovedih in omejitvi ravnanj v vodotokih, ki so\
-  \ habitat primorske podusti v Gori\u0161kih brdih"
+naslov: "ODREDBO o za\u010Dasnih prepovedih in omejitvi ravnanj v vodotokih, ki so
+  habitat primorske podusti v Gori\u0161kih brdih"
 npbNum: 0
 path: /2019/23/2019-01-2311
 sopPredpisa: 2019-01-2311

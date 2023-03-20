@@ -1,17 +1,11 @@
 Text file: URED6701.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-31 23:00:00
 idPredpisa: URED6701
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o okoljski dajatvi za onesna\u017Eevanje okolja zaradi nastajanja\
-  \ odpadne elektri\u010Dne in elektronske opreme ter odpadnih prenosnih baterij in\
-  \ akumulatorjev"
+naslov: "UREDBO o okoljski dajatvi za onesna\u017Eevanje okolja zaradi nastajanja
+  odpadne elektri\u010Dne in elektronske opreme ter odpadnih prenosnih baterij in
+  akumulatorjev"
 npbNum: 0
 path: /2018/41/2018-01-4190
 sopPredpisa: 2018-01-4190

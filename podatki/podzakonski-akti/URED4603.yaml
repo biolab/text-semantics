@@ -1,19 +1,10 @@
 Text file: URED4603.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1212271200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204326000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-05-31 22:00:00
+datumZacetkaVelj: 2008-02-29 23:00:00
 idPredpisa: URED4603
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o vsebini evidence o planinskih poteh in o na\u010Dinu njene vzpostavitve\
-  \ in vodenja"
+naslov: "UREDBO o vsebini evidence o planinskih poteh in o na\u010Dinu njene vzpostavitve
+  in vodenja"
 npbNum: 0
 path: /2008/04/2008-01-0491
 sopPredpisa: 2008-01-0491

@@ -1,16 +1,10 @@
 Text file: URED1375.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 726447600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-01-07 23:00:00
 idPredpisa: URED1375
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o zemlji\u0161koknji\u017Eni izvedbi prenosa nepremi\u010Dnin biv\u0161\
-  e SFRJ na Republiko Slovenijo"
+naslov: "UREDBO o zemlji\u0161koknji\u017Eni izvedbi prenosa nepremi\u010Dnin biv\u0161e
+  SFRJ na Republiko Slovenijo"
 npbNum: 0
 path: /1992/28/1992-01-2806
 sopPredpisa: 1992-01-2806

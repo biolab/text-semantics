@@ -1,16 +1,10 @@
 Text file: AKT_492.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1205881200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-18 23:00:00
 idPredpisa: AKT_492
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o dolo\u010Ditvi geografskih obmo\u010Dij za digitalno televizijsko\
-  \ radiodifuzijo"
+naslov: "SPLO\u0160NI AKT o dolo\u010Ditvi geografskih obmo\u010Dij za digitalno televizijsko
+  radiodifuzijo"
 npbNum: 0
 path: /2008/07/2008-01-0784
 sopPredpisa: 2008-01-0784

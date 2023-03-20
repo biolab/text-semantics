@@ -1,16 +1,10 @@
 Text file: PRAV13764.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1573858800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-11-15 23:00:00
 idPredpisa: PRAV13764
 idPredpisaChng: PRAV13764
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi Programa cepljenja in za\u0161\u010Dite z zdravili\
-  \ za leto 2019"
+naslov: "PRAVILNIK o dolo\u010Ditvi Programa cepljenja in za\u0161\u010Dite z zdravili
+  za leto 2019"
 npbNum: 1
 path: /2019/30/2019-01-3062-2019-01-1204-npb1
 sopPredpisa: 2019-01-3062

@@ -1,19 +1,10 @@
 Text file: SKLE10601.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1456786800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-02-29 23:00:00
 idPredpisa: SKLE10601
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ra\u010Dunovodskih izkazih in analiti\u010Dnem kontnem na\u010Drtu\
-  \ dru\u017Ebe za upravljanje"
+naslov: "SKLEP o ra\u010Dunovodskih izkazih in analiti\u010Dnem kontnem na\u010Drtu
+  dru\u017Ebe za upravljanje"
 npbNum: 0
 path: /2016/04/2016-01-0423
 sopPredpisa: 2016-01-0423

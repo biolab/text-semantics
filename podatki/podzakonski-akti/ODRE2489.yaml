@@ -1,16 +1,10 @@
 Text file: ODRE2489.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1552431600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-12 23:00:00
 idPredpisa: ODRE2489
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o spremembi prilagojenih izobra\u017Eevalnih programov osnovne \u0161\
-  ole z enakovrednim izobrazbenim standardom"
+naslov: "ODREDBO o spremembi prilagojenih izobra\u017Eevalnih programov osnovne \u0161ole
+  z enakovrednim izobrazbenim standardom"
 npbNum: 0
 path: /2019/06/2019-01-0603
 sopPredpisa: 2019-01-0603

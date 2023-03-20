@@ -1,14 +1,8 @@
 Text file: SKLE531.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 787618800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-12-16 23:00:00
 idPredpisa: SKLE531
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o izdaji prve serije obveznic Slovenskega od\u0161kodninskega sklada"
 npbNum: 0
 path: /1994/28/1994-01-2849

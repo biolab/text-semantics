@@ -1,17 +1,8 @@
 Text file: PRAV8893.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1205103600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201215600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-03-09 23:00:00
+datumZacetkaVelj: 2008-01-24 23:00:00
 idPredpisa: PRAV8893
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o varovanju izpitne tajnosti pri maturi
 npbNum: 0
 path: /2008/02/2008-01-0245

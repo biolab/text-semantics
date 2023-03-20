@@ -1,16 +1,10 @@
 Text file: PRAV5399.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1076108400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-06 23:00:00
 idPredpisa: PRAV5399
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev prispevka eta\u017Enega lastnika v\
-  \ rezervni sklad in najni\u017Eji vrednosti prispevka"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev prispevka eta\u017Enega lastnika v
+  rezervni sklad in najni\u017Eji vrednosti prispevka"
 npbNum: 0
 path: /2004/04/2004-01-0467
 sopPredpisa: 2004-01-0467

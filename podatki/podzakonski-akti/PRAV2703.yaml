@@ -1,16 +1,10 @@
 Text file: PRAV2703.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1401487200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-05-30 22:00:00
 idPredpisa: PRAV2703
 idPredpisaChng: PRAV2703
-instock: .nan
-naslov: "PRAVILNIK o strokovnih izpitih poklicnih gasilcev (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o strokovnih izpitih poklicnih gasilcev (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2014/14/2014-01-1437-2000-01-1447-npb2
 sopPredpisa: 2014-01-1437

@@ -1,17 +1,10 @@
 Text file: PRAV10673.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1368223200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-10 22:00:00
 idPredpisa: PRAV10673
 idPredpisaChng: PRAV10673
-instock: .nan
-naslov: "PRAVILNIK o delovanju stalnih in ob\u010Dasnih strokovnih teles za podro\u010D\
-  je raziskovalne dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 2)"
+naslov: "PRAVILNIK o delovanju stalnih in ob\u010Dasnih strokovnih teles za podro\u010Dje
+  raziskovalne dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/15/2013-01-1567-2011-01-1852-npb2
 sopPredpisa: 2013-01-1567

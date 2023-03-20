@@ -1,14 +1,8 @@
 Text file: PRAV6721.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1130536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-10-28 22:00:00
 idPredpisa: PRAV6721
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o ustanavljanju javnih vi\u0161jih strokovnih \u0161ol"
 npbNum: 0
 path: /2005/41/2005-01-4199

@@ -1,17 +1,11 @@
 Text file: URED2457.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1020722400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-06 22:00:00
 idPredpisa: URED2457
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti uredbe o dolo\u010Ditvi minimalne odkupne\
-  \ cene kravjega mleka za namen izvajanja ukrepov v okviru ureditve trga z mlekom\
-  \ in mle\u010Dnimi izdelki"
+naslov: "UREDBO o prenehanju veljavnosti uredbe o dolo\u010Ditvi minimalne odkupne
+  cene kravjega mleka za namen izvajanja ukrepov v okviru ureditve trga z mlekom in
+  mle\u010Dnimi izdelki"
 npbNum: 0
 path: /2002/18/2002-01-1864
 sopPredpisa: 2002-01-1864

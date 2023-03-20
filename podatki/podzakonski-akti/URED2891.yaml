@@ -1,14 +1,8 @@
 Text file: URED2891.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1052517600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-05-09 22:00:00
 idPredpisa: URED2891
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o lokacijskem na\u010Drtu za mednarodni mejni prehod Jel\u0161ane"
 npbNum: 0
 path: /2003/20/2003-01-2091

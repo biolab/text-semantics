@@ -1,16 +1,9 @@
 Text file: URED6405.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1371074400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-06-12 22:00:00
 idPredpisa: URED6405
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o varovanju delavcev pred tveganji zaradi po\u0161kodb z ostrimi pripomo\u010D\
-  ki"
+naslov: "UREDBO o varovanju delavcev pred tveganji zaradi po\u0161kodb z ostrimi pripomo\u010Dki"
 npbNum: 0
 path: /2013/17/2013-01-1759
 sopPredpisa: 2013-01-1759

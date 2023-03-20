@@ -1,16 +1,10 @@
 Text file: ODRE2733.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646089200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-28 23:00:00
 idPredpisa: ODRE2733
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o vi\u0161ini urne postavke in vi\u0161ini dohodka za opravljeno\
-  \ za\u010Dasno ali ob\u010Dasno delo upokojencev"
+naslov: "ODREDBO o vi\u0161ini urne postavke in vi\u0161ini dohodka za opravljeno
+  za\u010Dasno ali ob\u010Dasno delo upokojencev"
 npbNum: 0
 path: /2022/03/2022-01-0316
 sopPredpisa: 2022-01-0316

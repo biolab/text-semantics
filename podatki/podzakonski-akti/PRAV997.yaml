@@ -1,17 +1,8 @@
 Text file: PRAV997.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 863733600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 863733600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1997-05-15 22:00:00
+datumZacetkaVelj: 1997-05-15 22:00:00
 idPredpisa: PRAV997
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o odnosih v zasebni veterinarski dejavnosti
 npbNum: 0
 path: /1997/15/1997-01-1572

@@ -1,16 +1,10 @@
 Text file: URED2257.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 773013600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-06-30 22:00:00
 idPredpisa: URED2257
 idPredpisaChng: null
-instock: .nan
-naslov: "ZAKON O NAJETJU KREDITA REPUBLIKE SLOVENIJE PRI EVROPSKI BANKI ZA OBNOVO\
-  \ IN RAZVOJ ZA PROJEKT PRENOVE OBSTOJE\u010CIH MAGISTRALNIH CEST"
+naslov: "ZAKON O NAJETJU KREDITA REPUBLIKE SLOVENIJE PRI EVROPSKI BANKI ZA OBNOVO
+  IN RAZVOJ ZA PROJEKT PRENOVE OBSTOJE\u010CIH MAGISTRALNIH CEST"
 npbNum: 0
 path: /1994/13/1994-01-1316
 sopPredpisa: 1994-01-1316

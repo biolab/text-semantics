@@ -1,19 +1,10 @@
 Text file: PRAV9070.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219701600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219442400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-08-25 22:00:00
+datumZacetkaVelj: 2008-08-22 22:00:00
 idPredpisa: PRAV9070
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vi\u0161ini materialnih stro\u0161kov nastanitve pri izvajalcu\
-  \ zdravstvenih storitev"
+naslov: "PRAVILNIK o vi\u0161ini materialnih stro\u0161kov nastanitve pri izvajalcu
+  zdravstvenih storitev"
 npbNum: 0
 path: /2008/36/2008-01-3639
 sopPredpisa: 2008-01-3639

@@ -1,14 +1,8 @@
 Text file: SKLE193.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 872287200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-08-22 22:00:00
 idPredpisa: SKLE193
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o ustanovitvi letali\u0161ke kontrole letenja Cerklje, Cerklje ob Krki"
 npbNum: 0
 path: /1997/25/1997-01-2589

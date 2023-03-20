@@ -1,19 +1,10 @@
 Text file: PRAV12150.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1407189600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1404511200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2014-08-04 22:00:00
+datumZacetkaVelj: 2014-07-04 22:00:00
 idPredpisa: PRAV12150
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi akusti\u010Dnega in vizualnega opozorila ter vizualnega\
-  \ simbola za programske vsebine, ki niso primerne za otroke in mladoletnike"
+naslov: "PRAVILNIK o dolo\u010Ditvi akusti\u010Dnega in vizualnega opozorila ter vizualnega
+  simbola za programske vsebine, ki niso primerne za otroke in mladoletnike"
 npbNum: 0
 path: /2014/20/2014-01-2090
 sopPredpisa: 2014-01-2090

@@ -1,16 +1,10 @@
 Text file: AKT_536.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226617200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-13 23:00:00
 idPredpisa: AKT_536
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NE POGOJE za dobavo in odjem zemeljskega plina iz distribucijskega\
-  \ omre\u017Eja za geografsko obmo\u010Dje Mestne ob\u010Dine Slovenj Gradec"
+naslov: "SPLO\u0160NE POGOJE za dobavo in odjem zemeljskega plina iz distribucijskega
+  omre\u017Eja za geografsko obmo\u010Dje Mestne ob\u010Dine Slovenj Gradec"
 npbNum: 0
 path: /2008/43/2008-01-4376
 sopPredpisa: 2008-01-4376

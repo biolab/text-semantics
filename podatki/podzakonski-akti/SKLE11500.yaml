@@ -1,16 +1,10 @@
 Text file: SKLE11500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1539381600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-10-12 22:00:00
 idPredpisa: SKLE11500
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi zdravstvenih stanj in drugih pogojev za upravi\u010D\
-  enost do posameznih medicinskih pripomo\u010Dkov"
+naslov: "SKLEP o dolo\u010Ditvi zdravstvenih stanj in drugih pogojev za upravi\u010Denost
+  do posameznih medicinskih pripomo\u010Dkov"
 npbNum: 0
 path: /2018/30/2018-01-3054
 sopPredpisa: 2018-01-3054

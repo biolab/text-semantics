@@ -1,16 +1,10 @@
 Text file: PRAV5281.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1314828000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-08-31 22:00:00
 idPredpisa: PRAV5281
 idPredpisaChng: PRAV5281
-instock: .nan
-naslov: "PRAVILNIK o notranji organizaciji in pisarni\u0161kem poslovanju Ustavnega\
-  \ sodi\u0161\u010Da (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o notranji organizaciji in pisarni\u0161kem poslovanju Ustavnega
+  sodi\u0161\u010Da (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/26/2011-01-2624-2003-01-4240-npb1
 sopPredpisa: 2011-01-2624

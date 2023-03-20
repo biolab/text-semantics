@@ -1,14 +1,8 @@
 Text file: PRAV13683.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1595023200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-17 22:00:00
 idPredpisa: PRAV13683
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o tehni\u010Dnih specifikacijah za vozila"
 npbNum: 0
 path: /2020/16/2020-01-1645

@@ -1,16 +1,9 @@
 Text file: SKLE10690.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1458342000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-18 23:00:00
 idPredpisa: SKLE10690
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o izra\u010Dunu kapitala in kapitalski ustreznosti pokojninskih dru\u017E\
-  b"
+naslov: "SKLEP o izra\u010Dunu kapitala in kapitalski ustreznosti pokojninskih dru\u017Eb"
 npbNum: 0
 path: /2016/06/2016-01-0609
 sopPredpisa: 2016-01-0609

@@ -1,19 +1,10 @@
 Text file: SKLE679.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 883609200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 887410800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1997-12-31 23:00:00
+datumZacetkaVelj: 1998-02-13 23:00:00
 idPredpisa: SKLE679
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi slovenskih poslovnofinan\u010Dnih standardov za ocenjevanje\
-  \ vrednosti"
+naslov: "SKLEP o dolo\u010Ditvi slovenskih poslovnofinan\u010Dnih standardov za ocenjevanje
+  vrednosti"
 npbNum: 0
 path: /1998/03/1998-01-0307
 sopPredpisa: 1998-01-0307

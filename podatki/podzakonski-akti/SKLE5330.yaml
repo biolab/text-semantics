@@ -1,17 +1,11 @@
 Text file: SKLE5330.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1120168800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-06-30 22:00:00
 idPredpisa: SKLE5330
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 86 o dolo\u010Ditvi cene\
-  \ za enoto storitve za Hrva\u0161ko, \u0160vico, Slovenijo in Avstrijo, z za\u010D\
-  etkom uporabe od 1. julija 2005,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 86 o dolo\u010Ditvi cene
+  za enoto storitve za Hrva\u0161ko, \u0160vico, Slovenijo in Avstrijo, z za\u010Detkom
+  uporabe od 1. julija 2005,"
 npbNum: 0
 path: /2005/29/2005-01-2961
 sopPredpisa: 2005-01-2961

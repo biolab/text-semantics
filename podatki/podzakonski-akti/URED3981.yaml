@@ -1,17 +1,11 @@
 Text file: URED3981.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1154210400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-07-29 22:00:00
 idPredpisa: URED3981
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o trgovini z blagom, ki bi se lahko uporabilo za izvr\u0161itev smrtne\
-  \ kazni, mu\u010Denje ali drugo okrutno, ne\u010Dlove\u0161ko ali poni\u017Eevalno\
-  \ ravnanje ali kaznovanje"
+naslov: "UREDBO o trgovini z blagom, ki bi se lahko uporabilo za izvr\u0161itev smrtne
+  kazni, mu\u010Denje ali drugo okrutno, ne\u010Dlove\u0161ko ali poni\u017Eevalno
+  ravnanje ali kaznovanje"
 npbNum: 0
 path: /2006/25/2006-01-2550
 sopPredpisa: 2006-01-2550

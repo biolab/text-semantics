@@ -1,17 +1,10 @@
 Text file: PRAV5539.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1296255600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-01-28 23:00:00
 idPredpisa: PRAV5539
 idPredpisaChng: PRAV5539
-instock: .nan
-naslov: "PRAVILNIK o presoji sprejemljivosti vplivov izvedbe planov in posegov v naravo\
-  \ na varovana obmo\u010Dja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 3)"
+naslov: "PRAVILNIK o presoji sprejemljivosti vplivov izvedbe planov in posegov v naravo
+  na varovana obmo\u010Dja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2011/00/2011-01-0094-2004-01-5407-npb3
 sopPredpisa: 2011-01-0094

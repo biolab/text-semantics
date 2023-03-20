@@ -1,16 +1,10 @@
 Text file: SKLE8885.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1301608800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-03-31 22:00:00
 idPredpisa: SKLE8885
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi skupnih izvajalcev neprekinjene nujne medicinske pomo\u010D\
-  i in delovnih mest, na katerih se opravlja de\u017Eurstvo"
+naslov: "SKLEP o dolo\u010Ditvi skupnih izvajalcev neprekinjene nujne medicinske pomo\u010Di
+  in delovnih mest, na katerih se opravlja de\u017Eurstvo"
 npbNum: 0
 path: /2011/10/2011-01-1052
 sopPredpisa: 2011-01-1052

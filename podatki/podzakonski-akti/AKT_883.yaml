@@ -1,16 +1,10 @@
 Text file: AKT_883.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383174000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-30 23:00:00
 idPredpisa: AKT_883
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017E\
-  je zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Celje"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017Eje
+  zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Celje"
 npbNum: 0
 path: /2013/32/2013-01-3267
 sopPredpisa: 2013-01-3267

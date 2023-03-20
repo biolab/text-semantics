@@ -1,16 +1,10 @@
 Text file: ODRE2275.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1394233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-03-07 23:00:00
 idPredpisa: ODRE2275
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o zgornji meji \u0161tevila ponudb za delo v Republiki Sloveniji\
-  \ za leto 2014"
+naslov: "ODREDBO o zgornji meji \u0161tevila ponudb za delo v Republiki Sloveniji
+  za leto 2014"
 npbNum: 0
 path: /2014/05/2014-01-0547
 sopPredpisa: 2014-01-0547

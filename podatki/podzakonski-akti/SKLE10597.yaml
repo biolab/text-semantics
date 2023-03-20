@@ -1,16 +1,10 @@
 Text file: SKLE10597.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-11 23:00:00
 idPredpisa: SKLE10597
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o za\u010Dasni zaustavitvi odkupa oziroma uvedbi delnega odkupa investicijskih\
-  \ kuponov vzajemnega sklada"
+naslov: "SKLEP o za\u010Dasni zaustavitvi odkupa oziroma uvedbi delnega odkupa investicijskih
+  kuponov vzajemnega sklada"
 npbNum: 0
 path: /2015/35/2015-01-3526
 sopPredpisa: 2015-01-3526

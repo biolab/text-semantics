@@ -1,16 +1,10 @@
 Text file: PRAV2177.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028325600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-02 22:00:00
 idPredpisa: PRAV2177
 idPredpisaChng: PRAV2177
-instock: .nan
-naslov: "PRAVILNIK o sestavi, organizaciji in nalogah Agencije Republike Slovenije\
-  \ za regionalni razvoj (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o sestavi, organizaciji in nalogah Agencije Republike Slovenije
+  za regionalni razvoj (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2002/30/2002-01-3045-2000-01-2456-npb2
 sopPredpisa: 2002-01-3045

@@ -1,14 +1,8 @@
 Text file: AKT_323.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1073602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-01-08 23:00:00
 idPredpisa: AKT_323
 idPredpisaChng: null
-instock: .nan
 naslov: "SOGLASJE  k aktu o ustanovitvi Ustanove patra Stanislava \u0160krabca"
 npbNum: 0
 path: /2004/00/2004-01-0028

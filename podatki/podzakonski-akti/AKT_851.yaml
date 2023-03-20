@@ -1,13 +1,11 @@
 Text file: AKT_851.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_851
 idPredpisaChng: AKT_851
-instock: .nan
-naslov: "VALORIZACIJSKI KOLI\u010CNIKI za prera\u010Dun osnov iz prej\u0161njih let\
-  \ zavarovanja na raven povpre\u010Dne pla\u010De na zaposleno osebo, izpla\u010D\
-  ane za leto 2012 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "VALORIZACIJSKI KOLI\u010CNIKI za prera\u010Dun osnov iz prej\u0161njih let
+  zavarovanja na raven povpre\u010Dne pla\u010De na zaposleno osebo, izpla\u010Dane
+  za leto 2012 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2013/34/2013-01-3495-2013-01-2000-npb1
 sopPredpisa: 2013-01-3495

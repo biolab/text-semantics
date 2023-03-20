@@ -1,21 +1,18 @@
 Text file: AKT_1015.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1015
 idPredpisaChng: AKT_1015
-instock: .nan
-naslov: "AKT o odreditvi parlamentarne preiskave za morebitno spremembo zakonodaje,\
-  \ ki ureja prepre\u010Devanje pranja denarja in financiranja terorizma, ter za ugotovitev\
-  \ in oceno dejanskega stanja za ugotovitev politi\u010Dne odgovornosti nosilcev\
-  \ javnih funkcij zaradi suma vplivanja oziroma vpletenosti v domnevno pranje denarja\
-  \ in financiranje terorizma, financiranje jedrske proliferacije ter financiranje\
-  \ aktivnosti tujih obve\u0161\u010Devalno-varnostnih slu\u017Eb v tujini v Novi\
-  \ Ljubljanski banki d.d. s strani dr\u017Eavljanov Islamske republike Iran in z\
-  \ njimi povezanimi gospodarskimi subjekti ter za domnevno neizvajanje omejevalnih\
-  \ ukrepov proti Islamski republiki Iran, ki so jih sprejeli Zdru\u017Eeni narodi\
-  \ in tudi Evropska unija, (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 1)"
+naslov: "AKT o odreditvi parlamentarne preiskave za morebitno spremembo zakonodaje,
+  ki ureja prepre\u010Devanje pranja denarja in financiranja terorizma, ter za ugotovitev
+  in oceno dejanskega stanja za ugotovitev politi\u010Dne odgovornosti nosilcev javnih
+  funkcij zaradi suma vplivanja oziroma vpletenosti v domnevno pranje denarja in financiranje
+  terorizma, financiranje jedrske proliferacije ter financiranje aktivnosti tujih
+  obve\u0161\u010Devalno-varnostnih slu\u017Eb v tujini v Novi Ljubljanski banki d.d.
+  s strani dr\u017Eavljanov Islamske republike Iran in z njimi povezanimi gospodarskimi
+  subjekti ter za domnevno neizvajanje omejevalnih ukrepov proti Islamski republiki
+  Iran, ki so jih sprejeli Zdru\u017Eeni narodi in tudi Evropska unija, (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/27/2017-01-2780-2017-01-1935-npb1
 sopPredpisa: 2017-01-2780

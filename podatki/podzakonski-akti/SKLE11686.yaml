@@ -1,14 +1,8 @@
 Text file: SKLE11686.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1568412000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-09-13 22:00:00
 idPredpisa: SKLE11686
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o odprtju Konzulata Republike Slovenije v Riu de Janeiru, v Federativni
   republiki Braziliji
 npbNum: 0

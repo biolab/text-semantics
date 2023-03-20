@@ -1,16 +1,10 @@
 Text file: PRAV8716.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1244844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-06-12 22:00:00
 idPredpisa: PRAV8716
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o evidenci, razporejanju in pozivanju pripadnikov Civilne za\u0161\
-  \u010Dite ter drugih sil za za\u0161\u010Dito, re\u0161evanje in pomo\u010D"
+naslov: "PRAVILNIK o evidenci, razporejanju in pozivanju pripadnikov Civilne za\u0161\u010Dite
+  ter drugih sil za za\u0161\u010Dito, re\u0161evanje in pomo\u010D"
 npbNum: 0
 path: /2009/19/2009-01-1929
 sopPredpisa: 2009-01-1929

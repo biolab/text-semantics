@@ -1,20 +1,13 @@
 Text file: SKLE154.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 864338400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-05-22 22:00:00
 idPredpisa: SKLE154
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi A) Osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Kozina - Klanec  B) Predloga sprememb in dopolnitev prostorskih sestavin:\
-  \ dolgoro\u010Dnega plana ob\u010Dine Se\u017Eana za obdobje 1986\u2013 2000 in\
-  \ srednjero\u010Dnega dru\u017Ebenega plana ob\u010Dine Se\u017Eana za obdobje 1986\u2013\
-  1990 za obmo\u010Dje Ob\u010Dine Hrpelje-Kozina v delu, ki ga opredeljuje osnutek\
-  \ lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi A) Osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Kozina - Klanec  B) Predloga sprememb in dopolnitev prostorskih sestavin:
+  dolgoro\u010Dnega plana ob\u010Dine Se\u017Eana za obdobje 1986\u2013 2000 in srednjero\u010Dnega
+  dru\u017Ebenega plana ob\u010Dine Se\u017Eana za obdobje 1986\u20131990 za obmo\u010Dje
+  Ob\u010Dine Hrpelje-Kozina v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1997/16/1997-01-1694
 sopPredpisa: 1997-01-1694

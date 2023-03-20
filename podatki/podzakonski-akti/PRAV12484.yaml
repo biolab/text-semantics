@@ -1,16 +1,10 @@
 Text file: PRAV12484.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1496440800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-02 22:00:00
 idPredpisa: PRAV12484
 idPredpisaChng: PRAV12484
-instock: .nan
-naslov: "PRAVILNIK o potrjevanju u\u010Dbenikov (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o potrjevanju u\u010Dbenikov (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/15/2017-01-1511-2015-01-1401-npb1
 sopPredpisa: 2017-01-1511

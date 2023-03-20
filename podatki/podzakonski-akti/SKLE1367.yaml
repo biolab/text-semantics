@@ -1,20 +1,14 @@
 Text file: SKLE1367.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 688172400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-10-22 23:00:00
 idPredpisa: SKLE1367
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  Banka Slovenije, dokler Republika Slovenija uporablja dinar kot zakonito\
-  \ pla\u010Dilno sredstvo, izdvaja sredstva iz naslova prispevka Narodni banki Jugoslavije\
-  \ najve\u010D do zneska obveznosti NBJ do bank v Republiki Sloveniji po osnovi obresti\
-  \ na obvezno rezervo in blagajni\u0161ke zapise NBJ, oziroma najve\u010D do vi\u0161\
-  ine 40% pla\u010Danih obresti na kredite iz primarne emisije. Ta odstotek Banka\
-  \ Slovenije uporabi tudi v obra\u010Dunu za prvo polletje 1991."
+naslov: "SKLEP  Banka Slovenije, dokler Republika Slovenija uporablja dinar kot zakonito
+  pla\u010Dilno sredstvo, izdvaja sredstva iz naslova prispevka Narodni banki Jugoslavije
+  najve\u010D do zneska obveznosti NBJ do bank v Republiki Sloveniji po osnovi obresti
+  na obvezno rezervo in blagajni\u0161ke zapise NBJ, oziroma najve\u010D do vi\u0161ine
+  40% pla\u010Danih obresti na kredite iz primarne emisije. Ta odstotek Banka Slovenije
+  uporabi tudi v obra\u010Dunu za prvo polletje 1991."
 npbNum: 0
 path: /1991/06/1991-01-0604
 sopPredpisa: 1991-01-0604

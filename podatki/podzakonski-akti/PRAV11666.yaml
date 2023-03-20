@@ -1,14 +1,8 @@
 Text file: PRAV11666.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1509750000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-03 23:00:00
 idPredpisa: PRAV11666
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o kakovosti mesnih izdelkov in mesnih pripravkov
 npbNum: 0
 path: /2017/26/2017-01-2697

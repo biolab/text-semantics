@@ -1,19 +1,13 @@
 Text file: URED4097.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1144188000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-04-04 22:00:00
 idPredpisa: URED4097
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o vzpostavitvi\
-  \ seznama Skupnosti o letalskih prevoznikih, za katere velja prepoved opravljanja\
-  \ letov v Skupnosti, in informiranju potnikov v zra\u010Dnem prometu o identiteti\
-  \ letalskega prevoznika, ki opravlja let, ter razveljavitvi \u010Dlena 9 Direktive\
-  \ 2004/36/ES"
+naslov: "UREDBO o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o vzpostavitvi
+  seznama Skupnosti o letalskih prevoznikih, za katere velja prepoved opravljanja
+  letov v Skupnosti, in informiranju potnikov v zra\u010Dnem prometu o identiteti
+  letalskega prevoznika, ki opravlja let, ter razveljavitvi \u010Dlena 9 Direktive
+  2004/36/ES"
 npbNum: 0
 path: /2006/11/2006-01-1184
 sopPredpisa: 2006-01-1184

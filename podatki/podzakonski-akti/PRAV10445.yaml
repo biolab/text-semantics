@@ -1,17 +1,11 @@
 Text file: PRAV10445.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1455318000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-12 23:00:00
 idPredpisa: PRAV10445
 idPredpisaChng: PRAV10445
-instock: .nan
-naslov: "PRAVILNIK o standardih in pogojih izmenjave elektronskih ra\u010Dunov prek\
-  \ enotne vstopne in izstopne to\u010Dke pri Upravi Republike Slovenije za javna\
-  \ pla\u010Dila (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "PRAVILNIK o standardih in pogojih izmenjave elektronskih ra\u010Dunov prek
+  enotne vstopne in izstopne to\u010Dke pri Upravi Republike Slovenije za javna pla\u010Dila
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2016/03/2016-01-0343-2011-01-0334-npb5
 sopPredpisa: 2016-01-0343

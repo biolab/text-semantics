@@ -1,16 +1,10 @@
 Text file: URED8065.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-20 23:00:00
 idPredpisa: URED8065
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Izvedbene uredbe Komisije (EU) 2020/402 o dolo\u010Ditvi\
-  \ obvezne predlo\u017Eitve izvoznega dovoljenja pri izvozu nekaterih izdelkov"
+naslov: "UREDBO o izvajanju Izvedbene uredbe Komisije (EU) 2020/402 o dolo\u010Ditvi
+  obvezne predlo\u017Eitve izvoznega dovoljenja pri izvozu nekaterih izdelkov"
 npbNum: 0
 path: /2020/06/2020-01-0644
 sopPredpisa: 2020-01-0644

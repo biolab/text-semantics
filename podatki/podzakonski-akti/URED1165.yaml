@@ -1,16 +1,10 @@
 Text file: URED1165.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 792457200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-02-10 23:00:00
 idPredpisa: URED1165
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 1995 izdajajo prilo\u017E\
-  nostni kovanci"
+naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 1995 izdajajo prilo\u017Enostni
+  kovanci"
 npbNum: 0
 path: /1995/05/1995-01-0535
 sopPredpisa: 1995-01-0535

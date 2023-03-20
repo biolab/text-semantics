@@ -1,19 +1,13 @@
 Text file: SKLE11055.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1489791600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-17 23:00:00
 idPredpisa: SKLE11055
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi smernic Evropskega organa za vrednostne papirje in trge (ESMA)\
-  \ z naslovom Smernice za izvajanje uredbe o zlorabi trga \u2013 Informacije v zvezi\
-  \ s trgi izvedenih finan\u010Dnih instrumentov na blago ali povezanimi promptnimi\
-  \ trgi za potrebe opredelitve pojma notranje informacije o izvedenih finan\u010D\
-  nih instrumentih na blago"
+naslov: "SKLEP o uporabi smernic Evropskega organa za vrednostne papirje in trge (ESMA)
+  z naslovom Smernice za izvajanje uredbe o zlorabi trga \u2013 Informacije v zvezi
+  s trgi izvedenih finan\u010Dnih instrumentov na blago ali povezanimi promptnimi
+  trgi za potrebe opredelitve pojma notranje informacije o izvedenih finan\u010Dnih
+  instrumentih na blago"
 npbNum: 0
 path: /2017/06/2017-01-0618
 sopPredpisa: 2017-01-0618

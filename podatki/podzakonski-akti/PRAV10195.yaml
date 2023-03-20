@@ -1,17 +1,11 @@
 Text file: PRAV10195.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1277848800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-06-29 22:00:00
 idPredpisa: PRAV10195
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu ravnanja ponudnikov pla\u010Dilnih storitev v zvezi\
-  \ z izvr\u0161evanjem sklepov o izvr\u0161bi oziroma zavarovanju, ki jih izdajo\
-  \ dav\u010Dni organi"
+naslov: "PRAVILNIK o na\u010Dinu ravnanja ponudnikov pla\u010Dilnih storitev v zvezi
+  z izvr\u0161evanjem sklepov o izvr\u0161bi oziroma zavarovanju, ki jih izdajo dav\u010Dni
+  organi"
 npbNum: 0
 path: /2010/21/2010-01-2191
 sopPredpisa: 2010-01-2191

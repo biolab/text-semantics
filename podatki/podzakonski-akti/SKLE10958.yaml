@@ -1,16 +1,10 @@
 Text file: SKLE10958.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480546800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-30 23:00:00
 idPredpisa: SKLE10958
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o uporabi poenostavljenih obveznosti na podlagi \u010D\
-  lena 4(5) Direktive 2014/59/EU"
+naslov: "SKLEP o uporabi Smernic o uporabi poenostavljenih obveznosti na podlagi \u010Dlena
+  4(5) Direktive 2014/59/EU"
 npbNum: 0
 path: /2016/32/2016-01-3217
 sopPredpisa: 2016-01-3217

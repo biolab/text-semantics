@@ -1,18 +1,12 @@
 Text file: URED3829.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1505858400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-19 22:00:00
 idPredpisa: URED3829
 idPredpisaChng: URED3829
-instock: .nan
-naslov: "UREDBA o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o dolo\u010D\
-  itvi skupnih pravil glede od\u0161kodnine in pomo\u010Di potnikom v primeru zavrnitve\
-  \ vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) \u0161\
-  t. 295/91 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o dolo\u010Ditvi
+  skupnih pravil glede od\u0161kodnine in pomo\u010Di potnikom v primeru zavrnitve
+  vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) \u0161t.
+  295/91 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/23/2017-01-2383-2005-01-2744-npb1
 sopPredpisa: 2017-01-2383

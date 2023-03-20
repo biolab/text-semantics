@@ -1,16 +1,10 @@
 Text file: URED530.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 782780400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-10-21 23:00:00
 idPredpisa: URED530
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora\
-  \ ob\u010Dine Slovenske Konjice"
+naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora
+  ob\u010Dine Slovenske Konjice"
 npbNum: 0
 path: /1994/21/1994-01-2136
 sopPredpisa: 1994-01-2136

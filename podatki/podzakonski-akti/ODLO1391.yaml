@@ -1,19 +1,13 @@
 Text file: ODLO1391.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1098482400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-10-22 22:00:00
 idPredpisa: ODLO1391
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o prenehanju veljavnosti Odloka o operativnem programu odvodnje in\
-  \ \u010Di\u0161\u010Denja komunalnih odpadnih voda s programom projektov vodooskrbe\
-  \ (Uradni list RS, \u0161t. 94/99) in Odloka o operativnem programu odvodnje in\
-  \ \u010Di\u0161\u010Denja komunalnih odpadnih voda obmo\u010Dij poselitve velikosti\
-  \ med 2000 in 15000 PE in pod 2000 PE (Uradni list RS, \u0161t. 109/01)"
+naslov: "ODLOK o prenehanju veljavnosti Odloka o operativnem programu odvodnje in
+  \u010Di\u0161\u010Denja komunalnih odpadnih voda s programom projektov vodooskrbe
+  (Uradni list RS, \u0161t. 94/99) in Odloka o operativnem programu odvodnje in \u010Di\u0161\u010Denja
+  komunalnih odpadnih voda obmo\u010Dij poselitve velikosti med 2000 in 15000 PE in
+  pod 2000 PE (Uradni list RS, \u0161t. 109/01)"
 npbNum: 0
 path: /2004/47/2004-01-4714
 sopPredpisa: 2004-01-4714

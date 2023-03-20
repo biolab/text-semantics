@@ -1,14 +1,8 @@
 Text file: SKLE7046.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1175205600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-29 22:00:00
 idPredpisa: SKLE7046
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o na\u010Dinu izra\u010Duna in postavkah dodatnega lastnega kapitala"
 npbNum: 0
 path: /2007/14/2007-01-1415

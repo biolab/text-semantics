@@ -1,14 +1,8 @@
 Text file: AKT_772.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1338242400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-28 22:00:00
 idPredpisa: AKT_772
 idPredpisaChng: null
-instock: .nan
 naslov: "SPLO\u0160NI AKT o priglasitvi avdiovizualnih medijskih storitev na zahtevo"
 npbNum: 0
 path: /2012/15/2012-01-1540

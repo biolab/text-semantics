@@ -1,12 +1,10 @@
 Text file: SKLE11718.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11718
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o soglasju za odprtje Konzulata Republike Tunizije v Republiki Sloveniji\
-  \ s sede\u017Eem v Ljubljani"
+naslov: "SKLEP o soglasju za odprtje Konzulata Republike Tunizije v Republiki Sloveniji
+  s sede\u017Eem v Ljubljani"
 npbNum: 0
 path: /2019/17/2019-01-1723
 sopPredpisa: 2019-01-1723

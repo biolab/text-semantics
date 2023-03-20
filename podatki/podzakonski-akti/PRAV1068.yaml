@@ -1,16 +1,10 @@
 Text file: PRAV1068.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1351288800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-10-26 22:00:00
 idPredpisa: PRAV1068
 idPredpisaChng: PRAV1068
-instock: .nan
-naslov: "PRAVILNIK o minimalnih pogojih, ki jih morajo izpolnjevati izvajalci del\
-  \ v gozdovih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o minimalnih pogojih, ki jih morajo izpolnjevati izvajalci del
+  v gozdovih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2012/31/2012-01-3133-1994-01-1398-npb3
 sopPredpisa: 2012-01-3133

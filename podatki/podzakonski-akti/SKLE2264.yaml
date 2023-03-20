@@ -1,16 +1,10 @@
 Text file: SKLE2264.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 990828000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-05-25 22:00:00
 idPredpisa: SKLE2264
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uskladitvi pre\u017Eivnin in o uskladitvi vi\u0161ine nadomestila\
-  \ pre\u017Eivnin"
+naslov: "SKLEP o uskladitvi pre\u017Eivnin in o uskladitvi vi\u0161ine nadomestila
+  pre\u017Eivnin"
 npbNum: 0
 path: /2001/24/2001-01-2418
 sopPredpisa: 2001-01-2418

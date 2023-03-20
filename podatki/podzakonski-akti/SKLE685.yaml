@@ -1,14 +1,8 @@
 Text file: SKLE685.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 952729200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-10 23:00:00
 idPredpisa: SKLE685
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o odprtju Konzulata Republike Slovenije v Minneapolisu
 npbNum: 0
 path: /2000/09/2000-01-0985

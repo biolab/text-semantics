@@ -1,16 +1,10 @@
 Text file: PRAV634.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 917650800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-01-29 23:00:00
 idPredpisa: PRAV634
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o minimalnih tehni\u010Dnih in drugih pogojih, ki se nana\u0161\
-  ajo na prostore in opremo izvr\u0161itelja"
+naslov: "PRAVILNIK o minimalnih tehni\u010Dnih in drugih pogojih, ki se nana\u0161ajo
+  na prostore in opremo izvr\u0161itelja"
 npbNum: 0
 path: /1999/02/1999-01-0238
 sopPredpisa: 1999-01-0238

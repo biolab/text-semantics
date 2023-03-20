@@ -1,16 +1,10 @@
 Text file: SKLE2224.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 994456800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-06 22:00:00
 idPredpisa: SKLE2224
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Rovte"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Rovte"
 npbNum: 0
 path: /2001/30/2001-01-3008
 sopPredpisa: 2001-01-3008

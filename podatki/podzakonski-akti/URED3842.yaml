@@ -1,17 +1,11 @@
 Text file: URED3842.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1121378400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-14 22:00:00
 idPredpisa: URED3842
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesijah za rabo vode za proizvodnjo elektri\u010Dne energije\
-  \ na delih vodnih teles vodotokov Savinja-Letu\u0161ka struga, reka Reka-\u017D\
-  agarjeva mlin\u0161\u010Dica"
+naslov: "UREDBO o koncesijah za rabo vode za proizvodnjo elektri\u010Dne energije
+  na delih vodnih teles vodotokov Savinja-Letu\u0161ka struga, reka Reka-\u017Dagarjeva
+  mlin\u0161\u010Dica"
 npbNum: 0
 path: /2005/26/2005-01-2667
 sopPredpisa: 2005-01-2667

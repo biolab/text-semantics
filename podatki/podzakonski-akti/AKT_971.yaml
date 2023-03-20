@@ -1,20 +1,13 @@
 Text file: AKT_971.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: AKT_971
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine Hrastnik brez Podkraja,\
-  \ Ob\u010Dine Lendava, Ob\u010Dine Ljutomer, Ob\u010Dine Ormo\u017E, Mestne ob\u010D\
-  ine Murska Sobota, Ob\u010Dine Polzela, Ob\u010Dine Prebold, Ob\u010Dine Radenci,\
-  \ Ob\u010Dine Sredi\u0161\u010De ob Dravi, Ob\u010Dine Zre\u010De in Ob\u010Dine\
-  \ \u017Dalec"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine Hrastnik brez Podkraja,
+  Ob\u010Dine Lendava, Ob\u010Dine Ljutomer, Ob\u010Dine Ormo\u017E, Mestne ob\u010Dine
+  Murska Sobota, Ob\u010Dine Polzela, Ob\u010Dine Prebold, Ob\u010Dine Radenci, Ob\u010Dine
+  Sredi\u0161\u010De ob Dravi, Ob\u010Dine Zre\u010De in Ob\u010Dine \u017Dalec"
 npbNum: 0
 path: /2015/42/2015-01-4200
 sopPredpisa: 2015-01-4200

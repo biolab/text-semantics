@@ -1,14 +1,8 @@
 Text file: SKLE10932.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1479510000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-18 23:00:00
 idPredpisa: SKLE10932
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o izpolnjevanju obveznosti razkrivanja nadzorovanih informacij
 npbNum: 0
 path: /2016/30/2016-01-3083

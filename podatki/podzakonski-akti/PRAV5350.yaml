@@ -1,16 +1,10 @@
 Text file: PRAV5350.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1214863200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-30 22:00:00
 idPredpisa: PRAV5350
 idPredpisaChng: PRAV5350
-instock: .nan
-naslov: "PRAVILNIK o presku\u0161anju izdelkov in snovi, ki prihajajo v stik z \u017E\
-  ivili (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o presku\u0161anju izdelkov in snovi, ki prihajajo v stik z \u017Eivili
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/28/2008-01-2830-2003-01-5586-npb2
 sopPredpisa: 2008-01-2830

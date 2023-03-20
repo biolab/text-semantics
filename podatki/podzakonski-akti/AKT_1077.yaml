@@ -1,16 +1,10 @@
 Text file: AKT_1077.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1554069600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-31 22:00:00
 idPredpisa: AKT_1077
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o elementih vzor\u010Dne ponudbe za veleprodajni lokalni\
-  \ dostop na fiksni lokaciji"
+naslov: "SPLO\u0160NI AKT o elementih vzor\u010Dne ponudbe za veleprodajni lokalni
+  dostop na fiksni lokaciji"
 npbNum: 0
 path: /2019/01/2019-01-0146
 sopPredpisa: 2019-01-0146

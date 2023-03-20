@@ -1,19 +1,10 @@
 Text file: URED6683.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1420066800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419030000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2014-12-31 23:00:00
+datumZacetkaVelj: 2014-12-19 23:00:00
 idPredpisa: URED6683
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obliki in barvi zastave in znaka Finan\u010Dne uprave Republike\
-  \ Slovenije ter njuni uporabi"
+naslov: "UREDBO o obliki in barvi zastave in znaka Finan\u010Dne uprave Republike
+  Slovenije ter njuni uporabi"
 npbNum: 0
 path: /2014/36/2014-01-3692
 sopPredpisa: 2014-01-3692

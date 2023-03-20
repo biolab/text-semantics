@@ -1,12 +1,10 @@
 Text file: SKLE8959.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE8959
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEPOM o razglasitvi odlo\u010Ditve, ki je bila sprejeta na zakonodajnem\
-  \ referendumu o Zakonu o malem delu, ki je bil 10. aprila 2011"
+naslov: "SKLEPOM o razglasitvi odlo\u010Ditve, ki je bila sprejeta na zakonodajnem
+  referendumu o Zakonu o malem delu, ki je bil 10. aprila 2011"
 npbNum: 0
 path: /2011/18/2011-01-1840
 sopPredpisa: 2011-01-1840

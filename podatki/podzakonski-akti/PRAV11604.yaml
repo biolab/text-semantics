@@ -1,14 +1,8 @@
 Text file: PRAV11604.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1371852000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-06-21 22:00:00
 idPredpisa: PRAV11604
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izvr\u0161evanju zakona o osebni izkaznici"
 npbNum: 0
 path: /2013/19/2013-01-1989

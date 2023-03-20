@@ -1,14 +1,8 @@
 Text file: ODLO2659.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1649455200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-08 22:00:00
 idPredpisa: ODLO2659
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o Programu porabe sredstev Sklada za podnebne spremembe za leti 2022
   in 2023
 npbNum: 0

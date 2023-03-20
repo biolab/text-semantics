@@ -1,16 +1,10 @@
 Text file: URED3925.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134687600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-15 23:00:00
 idPredpisa: URED3925
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o sodelovanju, obve\u0161\u010Danju in usklajevanju na podro\u010D\
-  ju zunanjih zadev in mednarodnih odnosov"
+naslov: "UREDBO o sodelovanju, obve\u0161\u010Danju in usklajevanju na podro\u010Dju
+  zunanjih zadev in mednarodnih odnosov"
 npbNum: 0
 path: /2005/49/2005-01-4921
 sopPredpisa: 2005-01-4921

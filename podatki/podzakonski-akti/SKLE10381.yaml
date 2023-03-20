@@ -1,16 +1,10 @@
 Text file: SKLE10381.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1428703200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-10 22:00:00
 idPredpisa: SKLE10381
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o splo\u0161nih pravilih izvajanja\
-  \ denarne politike"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o splo\u0161nih pravilih izvajanja
+  denarne politike"
 npbNum: 0
 path: /2015/10/2015-01-1002
 sopPredpisa: 2015-01-1002

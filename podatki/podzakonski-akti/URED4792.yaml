@@ -1,14 +1,8 @@
 Text file: URED4792.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1214344800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-24 22:00:00
 idPredpisa: URED4792
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o predelavi nenevarnih odpadkov v trdno gorivo
 npbNum: 0
 path: /2008/24/2008-01-2419

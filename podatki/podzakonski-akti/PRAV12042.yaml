@@ -1,16 +1,10 @@
 Text file: PRAV12042.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1394233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-03-07 23:00:00
 idPredpisa: PRAV12042
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sejnini in povra\u010Dilu potnih stro\u0161kov \u010Dlanom disciplinskih\
-  \ komisij prve in druge stopnje"
+naslov: "PRAVILNIK o sejnini in povra\u010Dilu potnih stro\u0161kov \u010Dlanom disciplinskih
+  komisij prve in druge stopnje"
 npbNum: 0
 path: /2014/05/2014-01-0545
 sopPredpisa: 2014-01-0545

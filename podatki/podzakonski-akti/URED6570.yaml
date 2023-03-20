@@ -1,18 +1,12 @@
 Text file: URED6570.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1395442800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-03-21 23:00:00
 idPredpisa: URED6570
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje\
-  \ urejanja prostora na podlagi Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega\
-  \ na\u010Drta za dr\u017Eavno cesto od priklju\u010Dka Velenje jug do priklju\u010D\
-  ka Slovenj Gradec jug"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje
+  urejanja prostora na podlagi Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega
+  na\u010Drta za dr\u017Eavno cesto od priklju\u010Dka Velenje jug do priklju\u010Dka
+  Slovenj Gradec jug"
 npbNum: 0
 path: /2014/07/2014-01-0704
 sopPredpisa: 2014-01-0704

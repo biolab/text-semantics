@@ -1,16 +1,10 @@
 Text file: PRAV11737.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419462000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-24 23:00:00
 idPredpisa: PRAV11737
 idPredpisaChng: PRAV11737
-instock: .nan
-naslov: "PRAVILNIK o pripravi konsolidirane premo\u017Eenjske bilance dr\u017Eave\
-  \ in ob\u010Din (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pripravi konsolidirane premo\u017Eenjske bilance dr\u017Eave
+  in ob\u010Din (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/38/2014-01-3857-2013-01-3860-npb1
 sopPredpisa: 2014-01-3857

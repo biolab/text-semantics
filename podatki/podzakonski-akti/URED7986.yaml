@@ -1,17 +1,11 @@
 Text file: URED7986.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1581721200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-02-14 23:00:00
 idPredpisa: URED7986
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi koncesije za opravljanje javne zdravstvene slu\u017Ebe\
-  \ na podro\u010Dju dermatovenerologije v specialisti\u010Dni zunajbolni\u0161ni\u010D\
-  ni dejavnosti"
+naslov: "UREDBO o podelitvi koncesije za opravljanje javne zdravstvene slu\u017Ebe
+  na podro\u010Dju dermatovenerologije v specialisti\u010Dni zunajbolni\u0161ni\u010Dni
+  dejavnosti"
 npbNum: 0
 path: /2020/02/2020-01-0282
 sopPredpisa: 2020-01-0282

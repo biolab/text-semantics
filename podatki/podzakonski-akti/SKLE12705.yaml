@@ -1,16 +1,10 @@
 Text file: SKLE12705.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645052400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-16 23:00:00
 idPredpisa: SKLE12705
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o objavi datuma, od katerega se izdajajo dovoljenja oziroma potrdila\
-  \ v skladu z dolo\u010Dbami spremenjenega Zakona o tujcih"
+naslov: "ODREDBO o objavi datuma, od katerega se izdajajo dovoljenja oziroma potrdila
+  v skladu z dolo\u010Dbami spremenjenega Zakona o tujcih"
 npbNum: 0
 path: /2022/03/2022-01-0362
 sopPredpisa: 2022-01-0362

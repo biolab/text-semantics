@@ -1,17 +1,11 @@
 Text file: URED8500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648850400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-01 22:00:00
 idPredpisa: URED8500
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi vzorca izjave o dostopnosti glede skladnosti spleti\u0161\
-  \u010D in mobilnih aplikacij z zahtevami glede dostopnosti ter o metodologiji spremljanja\
-  \ skladnosti spleti\u0161\u010D in mobilnih aplikacij"
+naslov: "UREDBO o dolo\u010Ditvi vzorca izjave o dostopnosti glede skladnosti spleti\u0161\u010D
+  in mobilnih aplikacij z zahtevami glede dostopnosti ter o metodologiji spremljanja
+  skladnosti spleti\u0161\u010D in mobilnih aplikacij"
 npbNum: 0
 path: /2022/09/2022-01-0970
 sopPredpisa: 2022-01-0970

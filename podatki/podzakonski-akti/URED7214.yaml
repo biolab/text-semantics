@@ -1,17 +1,10 @@
 Text file: URED7214.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: URED7214
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov\
-  \ prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2016 in\
-  \ 2017"
+naslov: "UREDBO o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov
+  prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2016 in 2017"
 npbNum: 0
 path: /2015/41/2015-01-4112
 sopPredpisa: 2015-01-4112

@@ -1,14 +1,8 @@
 Text file: PRAV3606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 829346400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-04-12 22:00:00
 idPredpisa: PRAV3606
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o povra\u010Dilu potnih stro\u0161kov"
 npbNum: 0
 path: /1996/11/1996-01-1143

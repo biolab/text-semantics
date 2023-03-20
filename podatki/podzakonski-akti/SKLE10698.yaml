@@ -1,14 +1,8 @@
 Text file: SKLE10698.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1452294000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-08 23:00:00
 idPredpisa: SKLE10698
 idPredpisaChng: null
-instock: .nan
 naslov: UGOTOVITVENI SKLEP o izredni uskladitvi pokojnin in drugih prejemkov od 1.
   januarja 2016
 npbNum: 0

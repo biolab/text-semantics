@@ -1,16 +1,10 @@
 Text file: URED6339.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1362783600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-08 23:00:00
 idPredpisa: URED6339
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih proti Demokrati\u010Dni ljudski republiki Koreji\
-  \ in izvajanju Uredbe Sveta (ES) \u0161t. 329/2007"
+naslov: "UREDBO o omejevalnih ukrepih proti Demokrati\u010Dni ljudski republiki Koreji
+  in izvajanju Uredbe Sveta (ES) \u0161t. 329/2007"
 npbNum: 0
 path: /2013/07/2013-01-0773
 sopPredpisa: 2013-01-0773

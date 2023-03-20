@@ -1,17 +1,11 @@
 Text file: PRAV13902.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576278000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-13 23:00:00
 idPredpisa: PRAV13902
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova\
-  \ prodaje blaga in storitev na trgu v javnih zavodih s podro\u010Dja izobra\u017E\
-  evanja, znanosti, \u0161porta in mladine"
+naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova
+  prodaje blaga in storitev na trgu v javnih zavodih s podro\u010Dja izobra\u017Eevanja,
+  znanosti, \u0161porta in mladine"
 npbNum: 0
 path: /2019/33/2019-01-3324
 sopPredpisa: 2019-01-3324

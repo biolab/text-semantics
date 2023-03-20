@@ -1,17 +1,11 @@
 Text file: PRAV7909.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643410800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-28 23:00:00
 idPredpisa: PRAV7909
 idPredpisaChng: PRAV7909
-instock: .nan
-naslov: "PRAVILNIK o pogojih in na\u010Dinu uveljavljanja oprostitev po 51. \u010D\
-  lenu Zakona o davku na dodano vrednost (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o pogojih in na\u010Dinu uveljavljanja oprostitev po 51. \u010Dlenu
+  Zakona o davku na dodano vrednost (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2022/01/2022-01-0157-2006-01-6166-npb2
 sopPredpisa: 2022-01-0157

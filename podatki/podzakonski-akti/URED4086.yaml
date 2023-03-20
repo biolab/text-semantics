@@ -1,16 +1,10 @@
 Text file: URED4086.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137106800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-12 23:00:00
 idPredpisa: URED4086
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije na\
-  \ delu vodnega telesa reke Mure od Sladkega Vrha do Ver\u017Eeja"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije na
+  delu vodnega telesa reke Mure od Sladkega Vrha do Ver\u017Eeja"
 npbNum: 0
 path: /2005/54/2005-01-5413
 sopPredpisa: 2005-01-5413

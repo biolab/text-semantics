@@ -1,16 +1,10 @@
 Text file: PRAV4503.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1123279200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-05 22:00:00
 idPredpisa: PRAV4503
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Drtu ukrepov za primer nesre\u010De pri delu z gensko\
-  \ spremenjenimi organizmi v zaprtem sistemu"
+naslov: "PRAVILNIK o na\u010Drtu ukrepov za primer nesre\u010De pri delu z gensko
+  spremenjenimi organizmi v zaprtem sistemu"
 npbNum: 0
 path: /2005/30/2005-01-3090
 sopPredpisa: 2005-01-3090

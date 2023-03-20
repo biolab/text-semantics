@@ -1,17 +1,11 @@
 Text file: SKLE5218.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1107212400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-01-31 23:00:00
 idPredpisa: SKLE5218
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 81, o spremembi na\u010D\
-  el za dolo\u010Danje stro\u0161kovne baze za pristojbine na zra\u010Dnih poteh in\
-  \ izra\u010Dun cene za enoto storitve,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 81, o spremembi na\u010Del
+  za dolo\u010Danje stro\u0161kovne baze za pristojbine na zra\u010Dnih poteh in izra\u010Dun
+  cene za enoto storitve,"
 npbNum: 0
 path: /2005/00/2005-01-0049
 sopPredpisa: 2005-01-0049

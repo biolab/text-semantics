@@ -1,16 +1,10 @@
 Text file: URED3755.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1342216800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-07-13 22:00:00
 idPredpisa: URED3755
 idPredpisaChng: URED3755
-instock: .nan
-naslov: "UREDBA o dr\u017Eavnem lokacijskem na\u010Drtu za daljnovod 2 \xD7 400 kV\
-  \ Beri\u010Devo\u2013Kr\u0161ko (delno prenehala veljati)"
+naslov: "UREDBA o dr\u017Eavnem lokacijskem na\u010Drtu za daljnovod 2 \xD7 400 kV
+  Beri\u010Devo\u2013Kr\u0161ko (delno prenehala veljati)"
 npbNum: 1
 path: /2012/21/2012-01-2112-2006-01-0155-npb1
 sopPredpisa: 2012-01-2112

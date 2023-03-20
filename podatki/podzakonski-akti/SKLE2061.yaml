@@ -1,16 +1,10 @@
 Text file: SKLE2061.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 991346400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-05-31 22:00:00
 idPredpisa: SKLE2061
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi najni\u017Ejega in najvi\u0161jega zneska ter na\u010D\
-  inu dolo\u010Ditve od\u0161kodnine v skupnem znesku v regresnih zadevah"
+naslov: "SKLEP o dolo\u010Ditvi najni\u017Ejega in najvi\u0161jega zneska ter na\u010Dinu
+  dolo\u010Ditve od\u0161kodnine v skupnem znesku v regresnih zadevah"
 npbNum: 0
 path: /2001/25/2001-01-2500
 sopPredpisa: 2001-01-2500

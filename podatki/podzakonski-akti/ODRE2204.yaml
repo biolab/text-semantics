@@ -1,17 +1,11 @@
 Text file: ODRE2204.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1360278000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-02-07 23:00:00
 idPredpisa: ODRE2204
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov poklicno-tehni\u0161kega\
-  \ izobra\u017Eevanja Tehnik ra\u010Dunalni\u0161tva (GLU, GJM) in Tehnik ra\u010D\
-  unalni\u0161tva (IS)"
+naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov poklicno-tehni\u0161kega
+  izobra\u017Eevanja Tehnik ra\u010Dunalni\u0161tva (GLU, GJM) in Tehnik ra\u010Dunalni\u0161tva
+  (IS)"
 npbNum: 0
 path: /2013/03/2013-01-0319
 sopPredpisa: 2013-01-0319

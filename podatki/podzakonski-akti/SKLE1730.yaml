@@ -1,14 +1,8 @@
 Text file: SKLE1730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 717894000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-09-30 23:00:00
 idPredpisa: SKLE1730
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o pove\u010Danju denarnih nadomestil za brezposelnost"
 npbNum: 0
 path: /1992/22/1992-01-2206

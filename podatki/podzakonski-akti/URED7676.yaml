@@ -1,16 +1,10 @@
 Text file: URED7676.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643670000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-31 23:00:00
 idPredpisa: URED7676
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu in pogojih izvajanja obvezne dr\u017Eavne gospodarske\
-  \ javne slu\u017Ebe za ravnanje z radioaktivnimi odpadki"
+naslov: "UREDBO o na\u010Dinu in pogojih izvajanja obvezne dr\u017Eavne gospodarske
+  javne slu\u017Ebe za ravnanje z radioaktivnimi odpadki"
 npbNum: 0
 path: /2022/00/2022-01-0099
 sopPredpisa: 2022-01-0099

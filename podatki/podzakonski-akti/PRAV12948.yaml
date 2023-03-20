@@ -1,17 +1,11 @@
 Text file: PRAV12948.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483484400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-03 23:00:00
 idPredpisa: PRAV12948
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine in na\u010Dina obra\u010Dunavanja\
-  \ stro\u0161kov iz 16. \u010Dlena Zakona o izvajanju carinske zakonodaje Evropske\
-  \ unije"
+naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine in na\u010Dina obra\u010Dunavanja
+  stro\u0161kov iz 16. \u010Dlena Zakona o izvajanju carinske zakonodaje Evropske
+  unije"
 npbNum: 0
 path: /2016/34/2016-01-3496
 sopPredpisa: 2016-01-3496

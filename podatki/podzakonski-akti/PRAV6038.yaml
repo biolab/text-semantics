@@ -1,16 +1,10 @@
 Text file: PRAV6038.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-13 22:00:00
 idPredpisa: PRAV6038
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu Maturitetni te\u010Daj za izvajanje\
-  \ na narodno me\u0161anem obmo\u010Dju"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu Maturitetni te\u010Daj za izvajanje
+  na narodno me\u0161anem obmo\u010Dju"
 npbNum: 0
 path: /2004/33/2004-01-3336
 sopPredpisa: 2004-01-3336

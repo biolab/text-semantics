@@ -1,16 +1,10 @@
 Text file: SKLE6617.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514242800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-25 23:00:00
 idPredpisa: SKLE6617
 idPredpisaChng: SKLE6617
-instock: .nan
-naslov: "SKLEP o ustanovitvi Javne agencije Republike Slovenije za zdravila in medicinske\
-  \ pripomo\u010Dke (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o ustanovitvi Javne agencije Republike Slovenije za zdravila in medicinske
+  pripomo\u010Dke (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/33/2017-01-3378-2006-01-4993-npb1
 sopPredpisa: 2017-01-3378

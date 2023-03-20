@@ -1,14 +1,8 @@
 Text file: STAT282.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619474400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-26 22:00:00
 idPredpisa: STAT282
 idPredpisaChng: null
-instock: .nan
 naslov: "STATUT zbornice izvr\u0161iteljev Slovenije"
 npbNum: 0
 path: /2021/11/2021-01-1164

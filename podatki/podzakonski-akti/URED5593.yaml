@@ -1,17 +1,11 @@
 Text file: URED5593.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1289602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-11-12 23:00:00
 idPredpisa: URED5593
 idPredpisaChng: URED5593
-instock: .nan
-naslov: "UREDBA o za\u010Dasni shemi omejene pomo\u010Di ob finan\u010Dni in gospodarski\
-  \ krizi v kmetijstvu v letu 2009 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o za\u010Dasni shemi omejene pomo\u010Di ob finan\u010Dni in gospodarski
+  krizi v kmetijstvu v letu 2009 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2010/48/2010-01-4825-2010-01-4370-npb1
 sopPredpisa: 2010-01-4825

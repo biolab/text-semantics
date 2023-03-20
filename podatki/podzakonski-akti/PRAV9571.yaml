@@ -1,16 +1,10 @@
 Text file: PRAV9571.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1273269600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-07 22:00:00
 idPredpisa: PRAV9571
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o spremembah in dopolnitvah Pravilnika o upravljanju u\u010Dbeni\u0161\
-  kih skladov"
+naslov: "PRAVILNIK o spremembah in dopolnitvah Pravilnika o upravljanju u\u010Dbeni\u0161kih
+  skladov"
 npbNum: 0
 path: /2010/17/2010-01-1781
 sopPredpisa: 2010-01-1781

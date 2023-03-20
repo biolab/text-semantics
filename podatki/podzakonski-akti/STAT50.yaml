@@ -1,12 +1,10 @@
 Text file: STAT50.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: STAT50
 idPredpisaChng: STAT50
-instock: .nan
-naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) (UPB\
-  \ 13)"
+naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) (UPB
+  13)"
 npbNum: 18
 path: /2021/08/2021-01-0837-2001-01-1077-npb18
 sopPredpisa: 2021-01-0837

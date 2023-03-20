@@ -1,16 +1,10 @@
 Text file: ODLO2579.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-27 22:00:00
 idPredpisa: ODLO2579
 idPredpisaChng: ODLO2579
-instock: .nan
-naslov: "ODLOK o za\u010Dasnih omejitvah pri izvajanju \u0161portnih programov (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o za\u010Dasnih omejitvah pri izvajanju \u0161portnih programov (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/27/2021-01-2798-2021-01-2749-npb1
 sopPredpisa: 2021-01-2798

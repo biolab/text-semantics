@@ -1,16 +1,10 @@
 Text file: SKLE11145.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1659304800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-31 22:00:00
 idPredpisa: SKLE11145
 idPredpisaChng: SKLE11145
-instock: .nan
-naslov: "SKLEP o poslovanju dru\u017Ebe za upravljanje (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "SKLEP o poslovanju dru\u017Ebe za upravljanje (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2022/24/2022-01-2467-2017-01-1706-npb4
 sopPredpisa: 2022-01-2467

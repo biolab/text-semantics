@@ -1,16 +1,10 @@
 Text file: URED4995.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226962800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-17 23:00:00
 idPredpisa: URED4995
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo podzemne vode iz vrtine JAN-1/04 za dejavnost\
-  \ kopali\u0161\u010D in naravnih zdravili\u0161\u010D"
+naslov: "UREDBO o koncesiji za rabo podzemne vode iz vrtine JAN-1/04 za dejavnost
+  kopali\u0161\u010D in naravnih zdravili\u0161\u010D"
 npbNum: 0
 path: /2008/44/2008-01-4424
 sopPredpisa: 2008-01-4424

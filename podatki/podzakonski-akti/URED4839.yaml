@@ -1,14 +1,8 @@
 Text file: URED4839.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1223071200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-03 22:00:00
 idPredpisa: URED4839
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o ravnanju z amalgamskimi odpadki, ki nastanejo pri opravljanju zdravstvene
   dejavnosti in z njo povezanih raziskavah
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: PRAV9218.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1228518000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-05 23:00:00
 idPredpisa: PRAV9218
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o od\u0161kodninskem ceniku za povra\u010Dilo \u0161kode na ribah"
 npbNum: 0
 path: /2008/47/2008-01-4742

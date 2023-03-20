@@ -1,17 +1,11 @@
 Text file: SKLE1320.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 682380000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-08-16 22:00:00
 idPredpisa: SKLE1320
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi normativov in standardov za opravljanje vzgojnoizobra\u017E\
-  evalne dejavnosti v osnovnih \u0161olah, ni\u017Ejih glasbenih \u0161olah in v domovih\
-  \ za u\u010Dence osnovnih \u0161ol"
+naslov: "SKLEP o dolo\u010Ditvi normativov in standardov za opravljanje vzgojnoizobra\u017Eevalne
+  dejavnosti v osnovnih \u0161olah, ni\u017Ejih glasbenih \u0161olah in v domovih
+  za u\u010Dence osnovnih \u0161ol"
 npbNum: 0
 path: /1991/04/1991-01-0412
 sopPredpisa: 1991-01-0412

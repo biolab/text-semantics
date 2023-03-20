@@ -1,16 +1,9 @@
 Text file: PRAV11827.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1386370800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-06 23:00:00
 idPredpisa: PRAV11827
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o \u0160tajerskem hmelju z za\u0161\u010Diteno geografsko ozna\u010D\
-  bo"
+naslov: "PRAVILNIK o \u0160tajerskem hmelju z za\u0161\u010Diteno geografsko ozna\u010Dbo"
 npbNum: 0
 path: /2013/34/2013-01-3449
 sopPredpisa: 2013-01-3449

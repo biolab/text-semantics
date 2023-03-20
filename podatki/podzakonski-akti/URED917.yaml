@@ -1,14 +1,8 @@
 Text file: URED917.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 727052400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-01-14 23:00:00
 idPredpisa: URED917
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o ugotavljanju in vpisovanju zavarovalne dobe osebam, ki so prestopile
   v Teritorialno obrambo Republike Slovenije
 npbNum: 0

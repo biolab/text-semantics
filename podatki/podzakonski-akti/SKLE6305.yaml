@@ -1,16 +1,10 @@
 Text file: SKLE6305.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1138662000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-30 23:00:00
 idPredpisa: SKLE6305
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dajanju prilo\u017Enostnih kovancev ob 250-letnici rojstva dramatika\
-  \ Antona Toma\u017Ea Linharta v prodajo in obtok"
+naslov: "SKLEP o dajanju prilo\u017Enostnih kovancev ob 250-letnici rojstva dramatika
+  Antona Toma\u017Ea Linharta v prodajo in obtok"
 npbNum: 0
 path: /2006/03/2006-01-0362
 sopPredpisa: 2006-01-0362

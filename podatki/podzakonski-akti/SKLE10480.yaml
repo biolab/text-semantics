@@ -1,16 +1,10 @@
 Text file: SKLE10480.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10480
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Skupnih smernic o zbli\u017Eevanju nadzorni\u0161kih praks\
-  \ v zvezi s skladnostjo dogovorov o koordinaciji nadzora finan\u010Dnih konglomeratov"
+naslov: "SKLEP o uporabi Skupnih smernic o zbli\u017Eevanju nadzorni\u0161kih praks
+  v zvezi s skladnostjo dogovorov o koordinaciji nadzora finan\u010Dnih konglomeratov"
 npbNum: 0
 path: /2015/19/2015-01-1950
 sopPredpisa: 2015-01-1950

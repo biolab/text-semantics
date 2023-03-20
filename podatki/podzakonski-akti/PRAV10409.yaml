@@ -1,16 +1,10 @@
 Text file: PRAV10409.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1294959600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-01-13 23:00:00
 idPredpisa: PRAV10409
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izvajanja pooblastil poobla\u0161\u010Denih uradnih\
-  \ oseb carinske slu\u017Ebe"
+naslov: "PRAVILNIK o na\u010Dinu izvajanja pooblastil poobla\u0161\u010Denih uradnih
+  oseb carinske slu\u017Ebe"
 npbNum: 0
 path: /2010/57/2010-01-5736
 sopPredpisa: 2010-01-5736

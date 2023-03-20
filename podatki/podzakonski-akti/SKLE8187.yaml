@@ -1,16 +1,10 @@
 Text file: SKLE8187.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449270000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-04 23:00:00
 idPredpisa: SKLE8187
 idPredpisaChng: SKLE8187
-instock: .nan
-naslov: "SKLEP o vsebini in uporabi slovenske strukture mednarodne \u0161tevilke ban\u010D\
-  nega ra\u010Duna (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o vsebini in uporabi slovenske strukture mednarodne \u0161tevilke ban\u010Dnega
+  ra\u010Duna (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2015/36/2015-01-3622-2009-01-3157-npb2
 sopPredpisa: 2015-01-3622

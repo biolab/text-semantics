@@ -1,19 +1,10 @@
 Text file: KOLP498.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654034400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1652997600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-05-31 22:00:00
+datumZacetkaVelj: 2022-05-19 22:00:00
 idPredpisa: KOLP498
 idPredpisaChng: KOLP498
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA grafi\u010Dne dejavnosti (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 5)"
+naslov: "KOLEKTIVNA POGODBA grafi\u010Dne dejavnosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2022/16/2022-01-1640-2017-01-3738-npb5
 sopPredpisa: 2022-01-1640

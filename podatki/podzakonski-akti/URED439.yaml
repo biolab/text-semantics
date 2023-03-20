@@ -1,16 +1,10 @@
 Text file: URED439.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 839023200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-08-02 22:00:00
 idPredpisa: URED439
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o lokacijskem na\u010Drtu za izvennivojski priklju\u010Dek Slovenska\
-  \ Bistrica sever (Devina) na avtomobilski cesti A 10 Ho\u010De\u2013Arja vas"
+naslov: "UREDBO o lokacijskem na\u010Drtu za izvennivojski priklju\u010Dek Slovenska
+  Bistrica sever (Devina) na avtomobilski cesti A 10 Ho\u010De\u2013Arja vas"
 npbNum: 0
 path: /1996/25/1996-01-2502
 sopPredpisa: 1996-01-2502

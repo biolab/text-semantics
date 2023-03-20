@@ -1,18 +1,11 @@
 Text file: PRAV13034.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1485558000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-27 23:00:00
 idPredpisa: PRAV13034
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja dru\u0161tva za podelitev statusa dru\u0161tva v javnem interesu na\
-  \ delovnem podro\u010Dju Ministrstva za delo, dru\u017Eino, socialne zadeve in enake\
-  \ mo\u017Enosti"
+naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja dru\u0161tva za podelitev statusa dru\u0161tva v javnem interesu na delovnem
+  podro\u010Dju Ministrstva za delo, dru\u017Eino, socialne zadeve in enake mo\u017Enosti"
 npbNum: 0
 path: /2017/00/2017-01-0047
 sopPredpisa: 2017-01-0047

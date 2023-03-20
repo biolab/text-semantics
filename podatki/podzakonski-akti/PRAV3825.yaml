@@ -1,17 +1,11 @@
 Text file: PRAV3825.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041721200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-01-04 23:00:00
 idPredpisa: PRAV3825
 idPredpisaChng: PRAV3825
-instock: .nan
-naslov: "PRAVILNIK o pridobitvi certifikata o skladnosti za naprave za nana\u0161\
-  anje fitofarmacevtskih sredstev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "PRAVILNIK o pridobitvi certifikata o skladnosti za naprave za nana\u0161anje
+  fitofarmacevtskih sredstev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2002/56/2002-01-5697-2001-01-2122-npb3
 sopPredpisa: 2002-01-5697

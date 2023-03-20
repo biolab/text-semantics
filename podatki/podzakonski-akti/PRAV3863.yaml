@@ -1,16 +1,10 @@
 Text file: PRAV3863.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 993160800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-21 22:00:00
 idPredpisa: PRAV3863
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi vrste in stopnje programov \_izobra\u017Eevanja\
-  \ za strokovne sodelavce \_v socialnem varstvu"
+naslov: "PRAVILNIK o dolo\u010Ditvi vrste in stopnje programov \_izobra\u017Eevanja
+  za strokovne sodelavce \_v socialnem varstvu"
 npbNum: 0
 path: /2001/27/2001-01-2774
 sopPredpisa: 2001-01-2774

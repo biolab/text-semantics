@@ -1,16 +1,10 @@
 Text file: PRAV9756.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1248472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-24 22:00:00
 idPredpisa: PRAV9756
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o opremljanju dr\u017Eavnih organov in drugih izvajalcev civilne\
-  \ obrambe na obrambnem podro\u010Dju"
+naslov: "PRAVILNIK o opremljanju dr\u017Eavnih organov in drugih izvajalcev civilne
+  obrambe na obrambnem podro\u010Dju"
 npbNum: 0
 path: /2009/25/2009-01-2596
 sopPredpisa: 2009-01-2596

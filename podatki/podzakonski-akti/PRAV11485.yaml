@@ -1,16 +1,10 @@
 Text file: PRAV11485.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1375480800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-08-02 22:00:00
 idPredpisa: PRAV11485
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o katastru \u010Debelje pa\u0161e, \u010Debelarskem pa\u0161nem\
-  \ redu in programu napovedi medenja"
+naslov: "PRAVILNIK o katastru \u010Debelje pa\u0161e, \u010Debelarskem pa\u0161nem
+  redu in programu napovedi medenja"
 npbNum: 0
 path: /2013/23/2013-01-2394
 sopPredpisa: 2013-01-2394

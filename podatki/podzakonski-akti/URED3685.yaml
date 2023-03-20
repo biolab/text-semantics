@@ -1,17 +1,11 @@
 Text file: URED3685.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-18 23:00:00
 idPredpisa: URED3685
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi vi\u0161ine dele\u017Ea, ki pripada dr\u017Eavnemu\
-  \ prora\u010Dunu za pokrivanje stro\u0161kov Dav\u010Dne uprave Republike Slovenije\
-  \ v letu 2005 iz naslova pobiranja davkov in drugih obveznih dajatev"
+naslov: "UREDBO o dolo\u010Ditvi vi\u0161ine dele\u017Ea, ki pripada dr\u017Eavnemu
+  prora\u010Dunu za pokrivanje stro\u0161kov Dav\u010Dne uprave Republike Slovenije
+  v letu 2005 iz naslova pobiranja davkov in drugih obveznih dajatev"
 npbNum: 0
 path: /2005/44/2005-01-4478
 sopPredpisa: 2005-01-4478

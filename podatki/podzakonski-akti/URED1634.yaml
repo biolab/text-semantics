@@ -1,17 +1,11 @@
 Text file: URED1634.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1018648800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-12 22:00:00
 idPredpisa: URED1634
 idPredpisaChng: URED1634
-instock: .nan
-naslov: "UREDBA o pravilih za opravljanje tehni\u010Dnega in finan\u010Dnega nadzora\
-  \ nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje \u2013 Hrastnik\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o pravilih za opravljanje tehni\u010Dnega in finan\u010Dnega nadzora
+  nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje \u2013 Hrastnik (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2002/11/2002-01-1178-2001-01-2034-npb1
 sopPredpisa: 2002-01-1178

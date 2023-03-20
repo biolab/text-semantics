@@ -1,14 +1,8 @@
 Text file: PRAV7524.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1138402800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-27 23:00:00
 idPredpisa: PRAV7524
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o delu Odbora za podeljevanje Bloudkovih priznanj
 npbNum: 0
 path: /2006/03/2006-01-0306

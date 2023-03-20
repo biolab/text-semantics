@@ -1,17 +1,11 @@
 Text file: SKLE11829.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561759200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-28 22:00:00
 idPredpisa: SKLE11829
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadnih nagrobnih sve\u010D\
-  \ pri izvajalcih javne slu\u017Ebe zbiranja in upravljavcih pokopali\u0161\u010D\
-  \ za obdobje do 30.\_junija 2020"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadnih nagrobnih sve\u010D
+  pri izvajalcih javne slu\u017Ebe zbiranja in upravljavcih pokopali\u0161\u010D za
+  obdobje do 30.\_junija 2020"
 npbNum: 0
 path: /2019/19/2019-01-1996
 sopPredpisa: 2019-01-1996

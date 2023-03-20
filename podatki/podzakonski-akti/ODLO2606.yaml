@@ -1,14 +1,8 @@
 Text file: ODLO2606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-31 23:00:00
 idPredpisa: ODLO2606
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o ustanovitvi Komisije za odpravo posledic \u0161kode v kmetijstvu"
 npbNum: 0
 path: /2021/43/2021-01-4396

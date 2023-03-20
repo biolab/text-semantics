@@ -1,14 +1,8 @@
 Text file: SKLE7644.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1207000800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-31 22:00:00
 idPredpisa: SKLE7644
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o dajanju zbirateljskih kovancev ob predsedovanju Evropski uniji v prodajo
   in obtok
 npbNum: 0

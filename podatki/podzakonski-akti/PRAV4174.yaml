@@ -1,16 +1,10 @@
 Text file: PRAV4174.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1020549600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-04 22:00:00
 idPredpisa: PRAV4174
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o delih, ki se \u0161tejejo za osebno dopolnilno delo, ter o postopku\
-  \ priglasitve teh del"
+naslov: "PRAVILNIK o delih, ki se \u0161tejejo za osebno dopolnilno delo, ter o postopku
+  priglasitve teh del"
 npbNum: 0
 path: /2002/12/2002-01-1268
 sopPredpisa: 2002-01-1268

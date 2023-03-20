@@ -1,17 +1,10 @@
 Text file: SKLE9757.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1374876000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-26 22:00:00
 idPredpisa: SKLE9757
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dodatnih za\u010Dasnih ukrepih razvojne podpore za problemsko obmo\u010D\
-  je z visoko brezposelnostjo za obmo\u010Dje ob\u010Din Hrastnik, Rade\u010De in\
-  \ Trbovlje"
+naslov: "SKLEP o dodatnih za\u010Dasnih ukrepih razvojne podpore za problemsko obmo\u010Dje
+  z visoko brezposelnostjo za obmo\u010Dje ob\u010Din Hrastnik, Rade\u010De in Trbovlje"
 npbNum: 0
 path: /2013/25/2013-01-2571
 sopPredpisa: 2013-01-2571

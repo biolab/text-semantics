@@ -1,14 +1,8 @@
 Text file: SKLE11774.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562882400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-11 22:00:00
 idPredpisa: SKLE11774
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o izvajanju opcij in diskrecijskih pravic iz Uredbe 575/2013/EU
 npbNum: 0
 path: /2019/18/2019-01-1896

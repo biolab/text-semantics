@@ -1,16 +1,10 @@
 Text file: PRAV4370.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1118786400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-06-14 22:00:00
 idPredpisa: PRAV4370
 idPredpisaChng: PRAV4370
-instock: .nan
-naslov: "PRAVILNIK o ozna\u010Devanju zavarovanih obmo\u010Dij naravnih vrednot (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o ozna\u010Devanju zavarovanih obmo\u010Dij naravnih vrednot (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2005/22/2005-01-2229-2002-01-5708-npb1
 sopPredpisa: 2005-01-2229

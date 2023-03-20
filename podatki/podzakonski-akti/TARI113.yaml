@@ -1,16 +1,10 @@
 Text file: TARI113.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1251496800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-08-28 22:00:00
 idPredpisa: TARI113
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO nadomestil za ponovno uporabo informacij javnega zna\u010Daja iz letnih\
-  \ poro\u010Dil poslovnih subjektov"
+naslov: "TARIFO nadomestil za ponovno uporabo informacij javnega zna\u010Daja iz letnih
+  poro\u010Dil poslovnih subjektov"
 npbNum: 0
 path: /2009/31/2009-01-3112
 sopPredpisa: 2009-01-3112

@@ -1,17 +1,11 @@
 Text file: ODRE990.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1285365600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-24 22:00:00
 idPredpisa: ODRE990
 idPredpisaChng: ODRE990
-instock: .nan
-naslov: "PRAVILNIK o smeri strokovne izobrazbe, ki jo morajo imeti u\u010Ditelji,\
-  \ korepetitorji in knji\u017Eni\u010Darji v glasbenih \u0161olah (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o smeri strokovne izobrazbe, ki jo morajo imeti u\u010Ditelji,
+  korepetitorji in knji\u017Eni\u010Darji v glasbenih \u0161olah (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2010/39/2010-01-3902-2000-01-1992-npb4
 sopPredpisa: 2010-01-3902

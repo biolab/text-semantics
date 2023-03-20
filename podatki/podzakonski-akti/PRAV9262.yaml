@@ -1,16 +1,9 @@
 Text file: PRAV9262.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226098800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-07 23:00:00
 idPredpisa: PRAV9262
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcu pro\u0161nje za dodelitev brezpla\u010Dne pravne pomo\u010D\
-  i"
+naslov: "PRAVILNIK o obrazcu pro\u0161nje za dodelitev brezpla\u010Dne pravne pomo\u010Di"
 npbNum: 0
 path: /2008/45/2008-01-4537
 sopPredpisa: 2008-01-4537

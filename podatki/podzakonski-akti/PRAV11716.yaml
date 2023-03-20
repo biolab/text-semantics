@@ -1,16 +1,10 @@
 Text file: PRAV11716.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419634800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-26 23:00:00
 idPredpisa: PRAV11716
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o priznanju organizacij proizvajalcev v sektorju sadja in zelenjave,\
-  \ olj\u010Dnega olja in namiznih oljk ter hmelja"
+naslov: "PRAVILNIK o priznanju organizacij proizvajalcev v sektorju sadja in zelenjave,
+  olj\u010Dnega olja in namiznih oljk ter hmelja"
 npbNum: 0
 path: /2014/35/2014-01-3593
 sopPredpisa: 2014-01-3593

@@ -1,19 +1,13 @@
 Text file: URED8114.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1608764400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-23 23:00:00
 idPredpisa: URED8114
 idPredpisaChng: URED8114
-instock: .nan
-naslov: "UREDBA o na\u010Dinu unov\u010Ditve bona za izbolj\u0161anje gospodarskega\
-  \ polo\u017Eaja na podro\u010Dju potro\u0161nje turizma, povra\u010Dilu sredstev\
-  \ preko informacijskega sistema Finan\u010Dne uprave Republike Slovenije ter na\u010D\
-  inu vodenja in upravljanja evidence bonov (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o na\u010Dinu unov\u010Ditve bona za izbolj\u0161anje gospodarskega
+  polo\u017Eaja na podro\u010Dju potro\u0161nje turizma, povra\u010Dilu sredstev preko
+  informacijskega sistema Finan\u010Dne uprave Republike Slovenije ter na\u010Dinu
+  vodenja in upravljanja evidence bonov (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2020/35/2020-01-3533-2020-01-1345-npb1
 sopPredpisa: 2020-01-3533

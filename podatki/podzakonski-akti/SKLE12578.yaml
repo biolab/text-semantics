@@ -1,17 +1,11 @@
 Text file: SKLE12578.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637708400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-23 23:00:00
 idPredpisa: SKLE12578
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o opredelitvi ukrepov za zmanj\u0161anje ali odpravo\
-  \ ovir za re\u0161ljivost in okoli\u0161\u010Dinah, v katerih se lahko posamezen\
-  \ ukrep uporablja v skladu z Direktivo 2014/59/EU"
+naslov: "SKLEP o uporabi Smernic o opredelitvi ukrepov za zmanj\u0161anje ali odpravo
+  ovir za re\u0161ljivost in okoli\u0161\u010Dinah, v katerih se lahko posamezen ukrep
+  uporablja v skladu z Direktivo 2014/59/EU"
 npbNum: 0
 path: /2021/36/2021-01-3604
 sopPredpisa: 2021-01-3604

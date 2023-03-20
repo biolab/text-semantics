@@ -1,16 +1,10 @@
 Text file: ODLO1955.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1543618800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-11-30 23:00:00
 idPredpisa: ODLO1955
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o razglasitvi Vile Tom\u0161i\u010Deva 12 v Ljubljani za kulturni spomenik\
-  \ dr\u017Eavnega pomena"
+naslov: "ODLOK o razglasitvi Vile Tom\u0161i\u010Deva 12 v Ljubljani za kulturni spomenik
+  dr\u017Eavnega pomena"
 npbNum: 0
 path: /2018/37/2018-01-3756
 sopPredpisa: 2018-01-3756

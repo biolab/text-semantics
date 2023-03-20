@@ -1,20 +1,18 @@
 Text file: SKLE12683.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12683
 idPredpisaChng: null
-instock: .nan
-naslov: "razpisuje volitve \u010Dlanov personalnih svetov pri Vrhovnem sodi\u0161\u010D\
-  u RS, Vi\u0161jem sodi\u0161\u010Du v Celju, Vi\u0161jem sodi\u0161\u010Du v Kopru,\
-  \ Vi\u0161jem sodi\u0161\u010Du v Ljubljani, Vi\u0161jem sodi\u0161\u010Du v Mariboru,\
-  \ Vi\u0161jem delovnem in socialnem sodi\u0161\u010Du, Okro\u017Enem sodi\u0161\u010D\
-  u v Celju, Okro\u017Enem sodi\u0161\u010Du v Kopru, Okro\u017Enem sodi\u0161\u010D\
-  u v Kranju, Okro\u017Enem sodi\u0161\u010Du v Ljubljani, Okro\u017Enem sodi\u0161\
-  \u010Du v Mariboru, Okro\u017Enem sodi\u0161\u010Du v Murski Soboti, Okro\u017E\
-  nem sodi\u0161\u010Du v Novi Gorici, Okro\u017Enem sodi\u0161\u010Du v Novem mestu,\
-  \ Delovnem in socialnem sodi\u0161\u010Du v Ljubljani, Delovnem sodi\u0161\u010D\
-  u v Celju, Delovnem sodi\u0161\u010Du v Kopru in Delovnem sodi\u0161\u010Du v Mariboru"
+naslov: "razpisuje volitve \u010Dlanov personalnih svetov pri Vrhovnem sodi\u0161\u010Du
+  RS, Vi\u0161jem sodi\u0161\u010Du v Celju, Vi\u0161jem sodi\u0161\u010Du v Kopru,
+  Vi\u0161jem sodi\u0161\u010Du v Ljubljani, Vi\u0161jem sodi\u0161\u010Du v Mariboru,
+  Vi\u0161jem delovnem in socialnem sodi\u0161\u010Du, Okro\u017Enem sodi\u0161\u010Du
+  v Celju, Okro\u017Enem sodi\u0161\u010Du v Kopru, Okro\u017Enem sodi\u0161\u010Du
+  v Kranju, Okro\u017Enem sodi\u0161\u010Du v Ljubljani, Okro\u017Enem sodi\u0161\u010Du
+  v Mariboru, Okro\u017Enem sodi\u0161\u010Du v Murski Soboti, Okro\u017Enem sodi\u0161\u010Du
+  v Novi Gorici, Okro\u017Enem sodi\u0161\u010Du v Novem mestu, Delovnem in socialnem
+  sodi\u0161\u010Du v Ljubljani, Delovnem sodi\u0161\u010Du v Celju, Delovnem sodi\u0161\u010Du
+  v Kopru in Delovnem sodi\u0161\u010Du v Mariboru"
 npbNum: 0
 path: /2022/01/2022-01-0149
 sopPredpisa: 2022-01-0149

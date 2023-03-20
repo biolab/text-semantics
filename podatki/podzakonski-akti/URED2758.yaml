@@ -1,20 +1,11 @@
 Text file: URED2758.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051740000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051567200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2003-04-30 22:00:00
+datumZacetkaVelj: 2003-04-28 22:00:00
 idPredpisa: URED2758
 idPredpisaChng: URED2758
-instock: .nan
-naslov: "UREDBA o uvedbi podpor za pripravo kmetijskih pridelkov in \u017Eivil za\
-  \ zunanji trg za obdobje od 1. januarja do 30. junija 2003 (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o uvedbi podpor za pripravo kmetijskih pridelkov in \u017Eivil za
+  zunanji trg za obdobje od 1. januarja do 30. junija 2003 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/19/2003-01-1901-2002-01-5684-npb2
 sopPredpisa: 2003-01-1901

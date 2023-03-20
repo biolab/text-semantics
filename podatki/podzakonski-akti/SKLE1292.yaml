@@ -1,16 +1,10 @@
 Text file: SKLE1292.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 680997600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-07-31 22:00:00
 idPredpisa: SKLE1292
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o valorizaciji nadomestila za invalidnost in dolo\u010Ditvi dodatka\
-  \ za tujo nego in pomo\u010D"
+naslov: "SKLEP o valorizaciji nadomestila za invalidnost in dolo\u010Ditvi dodatka
+  za tujo nego in pomo\u010D"
 npbNum: 0
 path: /1991/02/1991-01-0278
 sopPredpisa: 1991-01-0278

@@ -1,16 +1,10 @@
 Text file: PRAV8688.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230591600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-29 23:00:00
 idPredpisa: PRAV8688
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Jesenice\
-  \ (2008\u20132017)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Jesenice
+  (2008\u20132017)"
 npbNum: 0
 path: /2008/55/2008-01-5561
 sopPredpisa: 2008-01-5561

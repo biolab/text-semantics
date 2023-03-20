@@ -1,17 +1,11 @@
 Text file: SKLE5844.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1169852400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-26 23:00:00
 idPredpisa: SKLE5844
 idPredpisaChng: SKLE5844
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161i vsebini dokumentacije k zahtevi za izdajo dovoljenja\
-  \ za opravljanje funkcije \u010Dlana uprave (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "SKLEP o podrobnej\u0161i vsebini dokumentacije k zahtevi za izdajo dovoljenja
+  za opravljanje funkcije \u010Dlana uprave (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2007/02/2007-01-0290-2005-01-2175-npb1
 sopPredpisa: 2007-01-0290

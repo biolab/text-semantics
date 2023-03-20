@@ -1,14 +1,8 @@
 Text file: URED6508.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1410559200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-09-12 22:00:00
 idPredpisa: URED6508
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o emisiji snovi in odstranjevanju odpadkov iz proizvodnje titanovega
   dioksida
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: URED3587.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1326063600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-08 23:00:00
 idPredpisa: URED3587
 idPredpisaChng: URED3587
-instock: .nan
-naslov: "UREDBA o okoljski dajatvi za onesna\u017Eevanje zraka z emisijo ogljikovega\
-  \ dioksida (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "UREDBA o okoljski dajatvi za onesna\u017Eevanje zraka z emisijo ogljikovega
+  dioksida (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
 npbNum: 8
 path: /2012/00/2012-01-0053-2005-01-1732-npb8
 sopPredpisa: 2012-01-0053

@@ -1,17 +1,8 @@
 Text file: URED1971.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009839600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1008370800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2001-12-31 23:00:00
+datumZacetkaVelj: 2001-12-14 23:00:00
 idPredpisa: URED1971
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dolo\u010Ditvi obsega kontingentov za uvoz blaga v letu 2002"
 npbNum: 0
 path: /2001/48/2001-01-4898

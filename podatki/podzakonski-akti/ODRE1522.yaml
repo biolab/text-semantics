@@ -1,16 +1,10 @@
 Text file: ODRE1522.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 981759600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-09 23:00:00
 idPredpisa: ODRE1522
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta\
-  \ \_gozdnogospodarske enote Kranjska Gora"
+naslov: "ODREDBO o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Kranjska Gora"
 npbNum: 0
 path: /2001/05/2001-01-0551
 sopPredpisa: 2001-01-0551

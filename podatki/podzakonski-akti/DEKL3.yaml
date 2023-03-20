@@ -1,14 +1,8 @@
 Text file: DEKL3.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 946335600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-27 23:00:00
 idPredpisa: DEKL3
 idPredpisaChng: null
-instock: .nan
 naslov: DEKLARACIJO o zunanji politiki Republike Slovenije (DeZPRS)
 npbNum: 0
 path: /1999/50/1999-01-5028

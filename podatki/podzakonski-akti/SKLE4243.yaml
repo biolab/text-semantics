@@ -1,16 +1,10 @@
 Text file: SKLE4243.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1067468400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-29 23:00:00
 idPredpisa: SKLE4243
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za cesto G1-2 (HC)  Hajdina\u2013Ptuj na obmo\u010Dju Ob\u010Dine Hajdina"
+naslov: "SKLEP  o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za cesto G1-2 (HC)  Hajdina\u2013Ptuj na obmo\u010Dju Ob\u010Dine Hajdina"
 npbNum: 0
 path: /2003/46/2003-01-4663
 sopPredpisa: 2003-01-4663

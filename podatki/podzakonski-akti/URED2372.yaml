@@ -1,16 +1,10 @@
 Text file: URED2372.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1018994400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-16 22:00:00
 idPredpisa: URED2372
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o neposrednih pla\u010Dilih za kobile za vzrejo \u017Erebet in o\
-  \ neposrednih pla\u010Dilih za gospodarske \u010Debelje dru\u017Eine za leto 2002"
+naslov: "UREDBO  o neposrednih pla\u010Dilih za kobile za vzrejo \u017Erebet in o
+  neposrednih pla\u010Dilih za gospodarske \u010Debelje dru\u017Eine za leto 2002"
 npbNum: 0
 path: /2002/15/2002-01-1577
 sopPredpisa: 2002-01-1577

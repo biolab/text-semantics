@@ -1,14 +1,8 @@
 Text file: STRA12.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090274400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-19 22:00:00
 idPredpisa: STRA12
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK O STRATEGIJI PROSTORSKEGA RAZVOJA SLOVENIJE (OdSPRS)
 npbNum: 0
 path: /2004/33/2004-01-3397

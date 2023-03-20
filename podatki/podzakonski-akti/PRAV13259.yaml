@@ -1,16 +1,10 @@
 Text file: PRAV13259.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1559340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-31 22:00:00
 idPredpisa: PRAV13259
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kras II\
-  \ (2018\u20132027)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kras II
+  (2018\u20132027)"
 npbNum: 0
 path: /2019/15/2019-01-1576
 sopPredpisa: 2019-01-1576

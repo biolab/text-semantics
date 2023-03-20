@@ -1,16 +1,10 @@
 Text file: PRAV9242.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1237849200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-23 23:00:00
 idPredpisa: PRAV9242
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o slu\u017Ebeni izkaznici poobla\u0161\u010Dene uradne osebe Urada\
-  \ Republike Slovenije za varstvo konkurence"
+naslov: "PRAVILNIK o slu\u017Ebeni izkaznici poobla\u0161\u010Dene uradne osebe Urada
+  Republike Slovenije za varstvo konkurence"
 npbNum: 0
 path: /2009/06/2009-01-0660
 sopPredpisa: 2009-01-0660

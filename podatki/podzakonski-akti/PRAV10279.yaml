@@ -1,17 +1,11 @@
 Text file: PRAV10279.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1287439200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-10-18 22:00:00
 idPredpisa: PRAV10279
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova\
-  \ prodaje blaga in storitev na trgu v javnih zavodih in javnih skladih iz pristojnosti\
-  \ Ministrstva za okolje in prostor"
+naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova
+  prodaje blaga in storitev na trgu v javnih zavodih in javnih skladih iz pristojnosti
+  Ministrstva za okolje in prostor"
 npbNum: 0
 path: /2010/43/2010-01-4380
 sopPredpisa: 2010-01-4380

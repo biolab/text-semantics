@@ -1,16 +1,10 @@
 Text file: URED5500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1279922400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-07-23 22:00:00
 idPredpisa: URED5500
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za raz\u0161iritev kompresorske\
-  \ postaje Kidri\u010Devo"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za raz\u0161iritev kompresorske
+  postaje Kidri\u010Devo"
 npbNum: 0
 path: /2010/29/2010-01-2953
 sopPredpisa: 2010-01-2953

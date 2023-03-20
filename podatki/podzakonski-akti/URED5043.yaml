@@ -1,20 +1,11 @@
 Text file: URED5043.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1246399200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1242424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2009-06-30 22:00:00
+datumZacetkaVelj: 2009-05-15 22:00:00
 idPredpisa: URED5043
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Komisije (ES) \u0161t. 504/2008 z dne 6. junija\
-  \ 2008 o izvajanju direktiv Sveta 90/426/EGS in 90/427/EGS v zvezi z metodami za\
-  \ identifikacijo kopitarjev"
+naslov: "UREDBO o izvajanju Uredbe Komisije (ES) \u0161t. 504/2008 z dne 6. junija
+  2008 o izvajanju direktiv Sveta 90/426/EGS in 90/427/EGS v zvezi z metodami za identifikacijo
+  kopitarjev"
 npbNum: 0
 path: /2009/17/2009-01-1707
 sopPredpisa: 2009-01-1707

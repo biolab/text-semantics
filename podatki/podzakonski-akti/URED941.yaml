@@ -1,16 +1,10 @@
 Text file: URED941.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051567200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-28 22:00:00
 idPredpisa: URED941
 idPredpisaChng: URED941
-instock: .nan
-naslov: "UREDBA o teritorialnem obsegu upravnih enot v Republiki Sloveniji (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o teritorialnem obsegu upravnih enot v Republiki Sloveniji (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/18/2003-01-1894-1994-01-2690-npb2
 sopPredpisa: 2003-01-1894

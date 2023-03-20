@@ -1,16 +1,10 @@
 Text file: PRAV10201.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1277416800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-06-24 22:00:00
 idPredpisa: PRAV10201
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o informacijskem sistemu za spremljanje, nadzor in poro\u010Danje\
-  \ o dolo\u010Denih boleznih \u017Eivali"
+naslov: "PRAVILNIK o informacijskem sistemu za spremljanje, nadzor in poro\u010Danje
+  o dolo\u010Denih boleznih \u017Eivali"
 npbNum: 0
 path: /2010/27/2010-01-2756
 sopPredpisa: 2010-01-2756

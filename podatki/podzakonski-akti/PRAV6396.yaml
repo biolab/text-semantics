@@ -1,14 +1,8 @@
 Text file: PRAV6396.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1116885600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-23 22:00:00
 idPredpisa: PRAV6396
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o dolo\u010Ditvi vodne infrastrukture"
 npbNum: 0
 path: /2005/18/2005-01-1880

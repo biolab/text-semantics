@@ -1,19 +1,13 @@
 Text file: PRAV6558.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1117231200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-27 22:00:00
 idPredpisa: PRAV6558
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o posebnih pogojih za uvoz\
-  \ \u010Dilija in izdelkov s \u010Dilijem, Pravilnika o posebnih pogojih za uvoz\
-  \ zemeljskih ore\u0161kov, le\u0161nikov, pistacij in fig ter izdelkov iz njih iz\
-  \ dolo\u010Denih dr\u017Eav in Pravilnika o posebnih pogojih za uvoz brazilskih\
-  \ orehov v lupini iz Brazilije"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o posebnih pogojih za uvoz
+  \u010Dilija in izdelkov s \u010Dilijem, Pravilnika o posebnih pogojih za uvoz zemeljskih
+  ore\u0161kov, le\u0161nikov, pistacij in fig ter izdelkov iz njih iz dolo\u010Denih
+  dr\u017Eav in Pravilnika o posebnih pogojih za uvoz brazilskih orehov v lupini iz
+  Brazilije"
 npbNum: 0
 path: /2005/21/2005-01-2174
 sopPredpisa: 2005-01-2174

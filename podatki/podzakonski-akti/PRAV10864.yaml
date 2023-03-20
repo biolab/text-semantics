@@ -1,14 +1,8 @@
 Text file: PRAV10864.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1324940400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-26 23:00:00
 idPredpisa: PRAV10864
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o usposabljanju in opravljanju preverjanja znanj svetovalcev za
   begunce
 npbNum: 0

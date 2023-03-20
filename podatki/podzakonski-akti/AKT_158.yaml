@@ -1,19 +1,13 @@
 Text file: AKT_158.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 682898400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-08-22 22:00:00
 idPredpisa: AKT_158
 idPredpisaChng: null
-instock: .nan
-naslov: "izvolili v dvanajst\u010Dlansko delegacijo Skup\u0161\u010Dine Republike\
-  \ Slovenije za sodelovanje v Skup\u0161\u010Dini SFRJ v pogajanjih za izvedbo postopka\
-  \ razdru\u017Eitve dosedanje SFRJ, v pogajanjih o re\u0161evanju teko\u010Dih vpra\u0161\
-  anj in v dogovarjanju o morebitnem oblikovanju skupnosti suverenih dr\u017Eav na\
-  \ ozemlju dosedanje SFRJ "
+naslov: "izvolili v dvanajst\u010Dlansko delegacijo Skup\u0161\u010Dine Republike
+  Slovenije za sodelovanje v Skup\u0161\u010Dini SFRJ v pogajanjih za izvedbo postopka
+  razdru\u017Eitve dosedanje SFRJ, v pogajanjih o re\u0161evanju teko\u010Dih vpra\u0161anj
+  in v dogovarjanju o morebitnem oblikovanju skupnosti suverenih dr\u017Eav na ozemlju
+  dosedanje SFRJ "
 npbNum: 0
 path: /1991/03/1991-01-0356
 sopPredpisa: 1991-01-0356

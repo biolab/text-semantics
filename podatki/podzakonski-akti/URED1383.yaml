@@ -1,18 +1,12 @@
 Text file: URED1383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1053986400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-05-26 22:00:00
 idPredpisa: URED1383
 idPredpisaChng: URED1383
-instock: .nan
-naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih\
-  \ odsekih vodotokov \u0160ujica, Mlin\u0161\u010Dica ob Besnici, Krka, Brlo\u017E\
-  nica in Lobnica za vzrejo salmonidnih vrst rib (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih
+  odsekih vodotokov \u0160ujica, Mlin\u0161\u010Dica ob Besnici, Krka, Brlo\u017Enica
+  in Lobnica za vzrejo salmonidnih vrst rib (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2003/24/2003-01-2426-1997-01-1038-npb1
 sopPredpisa: 2003-01-2426

@@ -1,16 +1,10 @@
 Text file: AKT_806.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1357945200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-01-11 23:00:00
 idPredpisa: AKT_806
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi omre\u017Enine za distribucijsko omre\u017Eje zemeljskega\
-  \ plina na geografskem obmo\u010Dju Ob\u010Dine Rogatec"
+naslov: "AKT o dolo\u010Ditvi omre\u017Enine za distribucijsko omre\u017Eje zemeljskega
+  plina na geografskem obmo\u010Dju Ob\u010Dine Rogatec"
 npbNum: 0
 path: /2013/01/2013-01-0114
 sopPredpisa: 2013-01-0114

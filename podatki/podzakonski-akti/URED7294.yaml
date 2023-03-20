@@ -1,16 +1,10 @@
 Text file: URED7294.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-27 22:00:00
 idPredpisa: URED7294
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Odlo\u010Dbe o zavarovanju vrtnega parka\
-  \ v \u0160tanjelu"
+naslov: "UREDBO o prenehanju veljavnosti Odlo\u010Dbe o zavarovanju vrtnega parka
+  v \u0160tanjelu"
 npbNum: 0
 path: /2016/16/2016-01-1698
 sopPredpisa: 2016-01-1698

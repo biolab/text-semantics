@@ -1,16 +1,10 @@
 Text file: ODRE1833.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1016233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-03-15 23:00:00
 idPredpisa: ODRE1833
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev srednje strokovne izobrazbe\
-  \ Aran\u017Eerski tehnik"
+naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev srednje strokovne izobrazbe
+  Aran\u017Eerski tehnik"
 npbNum: 0
 path: /2002/10/2002-01-1020
 sopPredpisa: 2002-01-1020

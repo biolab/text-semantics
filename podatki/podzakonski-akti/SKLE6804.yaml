@@ -1,17 +1,11 @@
 Text file: SKLE6804.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1426892400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-03-20 23:00:00
 idPredpisa: SKLE6804
 idPredpisaChng: SKLE6804
-instock: .nan
-naslov: "SKLEP o upravljanju s tveganji in izvajanju procesa ocenjevanja ustreznega\
-  \ notranjega kapitala za banke in hranilnice (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 11)"
+naslov: "SKLEP o upravljanju s tveganji in izvajanju procesa ocenjevanja ustreznega
+  notranjega kapitala za banke in hranilnice (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 11)"
 npbNum: 11
 path: /2015/07/2015-01-0732-2006-01-5664-npb11
 sopPredpisa: 2015-01-0732

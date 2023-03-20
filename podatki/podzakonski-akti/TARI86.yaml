@@ -1,16 +1,10 @@
 Text file: TARI86.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1168556400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-11 23:00:00
 idPredpisa: TARI86
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO zdru\u017Eenja SAZAS za javno priob\u010Ditev glasbenih del za izdajatelje\
-  \ radijskih in televizijskih programov"
+naslov: "TARIFO zdru\u017Eenja SAZAS za javno priob\u010Ditev glasbenih del za izdajatelje
+  radijskih in televizijskih programov"
 npbNum: 0
 path: /2007/01/2007-01-0112
 sopPredpisa: 2007-01-0112

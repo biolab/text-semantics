@@ -1,14 +1,8 @@
 Text file: PRAV8230.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1198278000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-21 23:00:00
 idPredpisa: PRAV8230
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vsebini in obliki potrdila o skladnosti izdelkov iz plemenitih
   kovin s predpisi
 npbNum: 0

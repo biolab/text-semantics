@@ -1,14 +1,8 @@
 Text file: URED7372.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1580511600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-31 23:00:00
 idPredpisa: URED7372
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D iz vrtine P-1/06"
 npbNum: 0
 path: /2020/01/2020-01-0191

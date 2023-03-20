@@ -1,17 +1,11 @@
 Text file: PRAV12694.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1633039200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-30 22:00:00
 idPredpisa: PRAV12694
 idPredpisaChng: PRAV12694
-instock: .nan
-naslov: "PRAVILNIK o seznamu kmetijske in gozdarske mehanizacije ter katalogu stro\u0161\
-  kov kmetijske in gozdarske mehanizacije (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o seznamu kmetijske in gozdarske mehanizacije ter katalogu stro\u0161kov
+  kmetijske in gozdarske mehanizacije (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2021/29/2021-01-2984-2016-01-0266-npb2
 sopPredpisa: 2021-01-2984

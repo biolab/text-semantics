@@ -1,17 +1,11 @@
 Text file: SKLE11549.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528495200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-08 22:00:00
 idPredpisa: SKLE11549
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju Slovensko poslovnofinan\u010Dnega standarda 6 Na\u010D\
-  in izvajanja Uredbe o izvajanju ukrepov za stabilnost bank (Uradni list RS, \u0161\
-  t. 22/13)"
+naslov: "SKLEP o prenehanju Slovensko poslovnofinan\u010Dnega standarda 6 Na\u010Din
+  izvajanja Uredbe o izvajanju ukrepov za stabilnost bank (Uradni list RS, \u0161t.
+  22/13)"
 npbNum: 0
 path: /2018/19/2018-01-1942
 sopPredpisa: 2018-01-1942

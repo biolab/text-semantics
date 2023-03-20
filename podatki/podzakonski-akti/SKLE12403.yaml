@@ -1,16 +1,10 @@
 Text file: SKLE12403.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619820000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-30 22:00:00
 idPredpisa: SKLE12403
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi izpolnjevanja obveznosti na podro\u010Dju prakti\u010D\
-  nega usposabljanja z delom pri delodajalcu za dijake za \u0161olsko leto 2020/2021"
+naslov: "SKLEP o dolo\u010Ditvi izpolnjevanja obveznosti na podro\u010Dju prakti\u010Dnega
+  usposabljanja z delom pri delodajalcu za dijake za \u0161olsko leto 2020/2021"
 npbNum: 0
 path: /2021/14/2021-01-1410
 sopPredpisa: 2021-01-1410

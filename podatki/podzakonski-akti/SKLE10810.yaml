@@ -1,12 +1,10 @@
 Text file: SKLE10810.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10810
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Schaanu,\
-  \ v Kne\u017Eevini Lihten\u0161tajn"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Schaanu,
+  v Kne\u017Eevini Lihten\u0161tajn"
 npbNum: 0
 path: /2016/19/2016-01-1972
 sopPredpisa: 2016-01-1972

@@ -1,16 +1,10 @@
 Text file: SKLE4763.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1088978400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-04 22:00:00
 idPredpisa: SKLE4763
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za daljnovod 2x400kV Beri\u010Devo-Kr\u0161ko"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za daljnovod 2x400kV Beri\u010Devo-Kr\u0161ko"
 npbNum: 0
 path: /2004/32/2004-01-3241
 sopPredpisa: 2004-01-3241

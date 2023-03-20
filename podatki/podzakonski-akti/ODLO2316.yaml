@@ -1,16 +1,10 @@
 Text file: ODLO2316.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616454000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-22 23:00:00
 idPredpisa: ODLO2316
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka v proizvodnji vina\
-  \ zaradi drugega vala epidemije COVID-19"
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka v proizvodnji vina
+  zaradi drugega vala epidemije COVID-19"
 npbNum: 0
 path: /2021/08/2021-01-0822
 sopPredpisa: 2021-01-0822

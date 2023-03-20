@@ -1,14 +1,8 @@
 Text file: PRAV12724.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1484953200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-20 23:00:00
 idPredpisa: PRAV12724
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o ukrepu odvzema osebkov vrst rjavega medveda (Ursus arctos) in volka
   (Canis lupus) iz narave za leto 2017
 npbNum: 0

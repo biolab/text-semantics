@@ -1,17 +1,11 @@
 Text file: PRAV8843.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1432936800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-05-29 22:00:00
 idPredpisa: PRAV8843
 idPredpisaChng: PRAV8843
-instock: .nan
-naslov: "PRAVILNIK o sklepanju sporazumov o gostovanju med raziskovalnimi organizacijami\
-  \ in raziskovalci iz tretjih dr\u017Eav (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o sklepanju sporazumov o gostovanju med raziskovalnimi organizacijami
+  in raziskovalci iz tretjih dr\u017Eav (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2015/15/2015-01-1520-2008-01-1368-npb1
 sopPredpisa: 2015-01-1520

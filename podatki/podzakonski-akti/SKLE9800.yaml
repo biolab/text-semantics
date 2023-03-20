@@ -1,17 +1,11 @@
 Text file: SKLE9800.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383260400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-31 23:00:00
 idPredpisa: SKLE9800
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini obvestila o vklju\u010Ditvi v kolektivno zavarovanje, izjave\
-  \ o izbiri podsklada krovnega pokojninskega sklada in pristopne izjave k pokojninskem\
-  \ na\u010Drtu individualnega zavarovanja"
+naslov: "SKLEP o vsebini obvestila o vklju\u010Ditvi v kolektivno zavarovanje, izjave
+  o izbiri podsklada krovnega pokojninskega sklada in pristopne izjave k pokojninskem
+  na\u010Drtu individualnega zavarovanja"
 npbNum: 0
 path: /2013/28/2013-01-2847
 sopPredpisa: 2013-01-2847

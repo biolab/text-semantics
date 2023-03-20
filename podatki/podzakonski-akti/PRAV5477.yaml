@@ -1,16 +1,10 @@
 Text file: PRAV5477.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1316815200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-09-23 22:00:00
 idPredpisa: PRAV5477
 idPredpisaChng: PRAV5477
-instock: .nan
-naslov: "PRAVILNIK o elektri\u010Dni opremi, ki je namenjena za uporabo znotraj dolo\u010D\
-  enih napetostnih mej (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o elektri\u010Dni opremi, ki je namenjena za uporabo znotraj dolo\u010Denih
+  napetostnih mej (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/31/2011-01-3115-2004-01-1175-npb1
 sopPredpisa: 2011-01-3115

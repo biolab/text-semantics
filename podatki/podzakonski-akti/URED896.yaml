@@ -1,14 +1,8 @@
 Text file: URED896.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 945730800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-20 23:00:00
 idPredpisa: URED896
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen u\u010Dbenikov"
 npbNum: 0
 path: /1999/49/1999-01-4920

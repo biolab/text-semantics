@@ -1,14 +1,8 @@
 Text file: PRAV10482.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1309471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-30 22:00:00
 idPredpisa: PRAV10482
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o odobritvi kmetijskih in gozdarskih traktorjev
 npbNum: 0
 path: /2011/24/2011-01-2450

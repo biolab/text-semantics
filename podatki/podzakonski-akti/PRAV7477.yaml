@@ -1,16 +1,10 @@
 Text file: PRAV7477.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1151013600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-22 22:00:00
 idPredpisa: PRAV7477
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu vzor\u010Denja in metodah za laboratorijske analize\
-  \ kozmeti\u010Dnih proizvodov"
+naslov: "PRAVILNIK o na\u010Dinu vzor\u010Denja in metodah za laboratorijske analize
+  kozmeti\u010Dnih proizvodov"
 npbNum: 0
 path: /2006/25/2006-01-2500
 sopPredpisa: 2006-01-2500

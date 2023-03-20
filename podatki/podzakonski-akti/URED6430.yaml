@@ -1,16 +1,10 @@
 Text file: URED6430.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1379800800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-21 22:00:00
 idPredpisa: URED6430
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za obmo\u010Dje hidroelektrarne\
-  \ Mokrice"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za obmo\u010Dje hidroelektrarne
+  Mokrice"
 npbNum: 0
 path: /2013/26/2013-01-2686
 sopPredpisa: 2013-01-2686

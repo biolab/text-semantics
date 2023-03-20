@@ -1,17 +1,11 @@
 Text file: SKLE4545.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: SKLE4545
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o sodelovanju in delitvi dela med Carinsko upravo Republike Slovenije\
-  \ in Statisti\u010Dnim uradom Republike Slovenije pri izvajanju statisti\u010Dnega\
-  \ raziskovanja Intrastat v Republiki Sloveniji"
+naslov: "SKLEP o sodelovanju in delitvi dela med Carinsko upravo Republike Slovenije
+  in Statisti\u010Dnim uradom Republike Slovenije pri izvajanju statisti\u010Dnega
+  raziskovanja Intrastat v Republiki Sloveniji"
 npbNum: 0
 path: /2004/21/2004-01-2152
 sopPredpisa: 2004-01-2152

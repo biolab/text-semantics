@@ -1,17 +1,11 @@
 Text file: PRAV14196.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620856800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-12 22:00:00
 idPredpisa: PRAV14196
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o programu in na\u010Dinu izvedbe osnovnega in rednega usposabljanja\
-  \ za sodnike, dr\u017Eavne to\u017Eilce, policiste, zagovornike in poravnalce, ki\
-  \ sodelujejo v postopku proti mladoletniku"
+naslov: "PRAVILNIK o programu in na\u010Dinu izvedbe osnovnega in rednega usposabljanja
+  za sodnike, dr\u017Eavne to\u017Eilce, policiste, zagovornike in poravnalce, ki
+  sodelujejo v postopku proti mladoletniku"
 npbNum: 0
 path: /2021/14/2021-01-1461
 sopPredpisa: 2021-01-1461

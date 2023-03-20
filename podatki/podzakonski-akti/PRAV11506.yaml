@@ -1,16 +1,10 @@
 Text file: PRAV11506.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356994800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-31 23:00:00
 idPredpisa: PRAV11506
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi olaj\u0161av in lestvice za odmero dohodnine za\
-  \ leto 2013"
+naslov: "PRAVILNIK o dolo\u010Ditvi olaj\u0161av in lestvice za odmero dohodnine za
+  leto 2013"
 npbNum: 0
 path: /2012/39/2012-01-3951
 sopPredpisa: 2012-01-3951

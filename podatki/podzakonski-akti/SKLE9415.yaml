@@ -1,17 +1,8 @@
 Text file: SKLE9415.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1349042400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1344031200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2012-09-30 22:00:00
+datumZacetkaVelj: 2012-08-03 22:00:00
 idPredpisa: SKLE9415
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o poro\u010Danju institucij, ki izvajajo dejavnost najema"
 npbNum: 0
 path: /2012/24/2012-01-2493

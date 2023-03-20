@@ -1,16 +1,10 @@
 Text file: ODLO1731.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387580400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-20 23:00:00
 idPredpisa: ODLO1731
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine\
-  \ Celje"
+naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine
+  Celje"
 npbNum: 0
 path: /2013/39/2013-01-3947
 sopPredpisa: 2013-01-3947

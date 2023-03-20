@@ -1,17 +1,11 @@
 Text file: SKLE11087.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1505858400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-19 22:00:00
 idPredpisa: SKLE11087
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o seznamu tretjih dr\u017Eav, katerih dr\u017E\
-  avljani morajo pri prehodu zunanjih meja imeti vizume, in dr\u017Eav, katerih dr\u017E\
-  avljani so opro\u0161\u010Deni te zahteve"
+naslov: "UREDBO o izvajanju Uredbe (ES) o seznamu tretjih dr\u017Eav, katerih dr\u017Eavljani
+  morajo pri prehodu zunanjih meja imeti vizume, in dr\u017Eav, katerih dr\u017Eavljani
+  so opro\u0161\u010Deni te zahteve"
 npbNum: 0
 path: /2017/23/2017-01-2382
 sopPredpisa: 2017-01-2382

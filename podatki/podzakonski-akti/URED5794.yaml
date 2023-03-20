@@ -1,16 +1,10 @@
 Text file: URED5794.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1315605600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-09-09 22:00:00
 idPredpisa: URED5794
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o pravicah in obveznostih potnikov v \u017E\
-  elezni\u0161kem prometu"
+naslov: "UREDBO o izvajanju Uredbe (ES) o pravicah in obveznostih potnikov v \u017Eelezni\u0161kem
+  prometu"
 npbNum: 0
 path: /2011/30/2011-01-3040
 sopPredpisa: 2011-01-3040

@@ -1,16 +1,10 @@
 Text file: PRAV10685.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1457737200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-11 23:00:00
 idPredpisa: PRAV10685
 idPredpisaChng: PRAV10685
-instock: .nan
-naslov: "PRAVILNIK o razvojnih nalogah v visokem \u0161olstvu (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o razvojnih nalogah v visokem \u0161olstvu (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/06/2016-01-0668-2011-01-4792-npb1
 sopPredpisa: 2016-01-0668

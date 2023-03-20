@@ -1,14 +1,8 @@
 Text file: PRAV13810.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561932000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-30 22:00:00
 idPredpisa: PRAV13810
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o postopku skupnega dogovarjanja v skladu z mednarodno pogodbo
 npbNum: 0
 path: /2019/19/2019-01-1998

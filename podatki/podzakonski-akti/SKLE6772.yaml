@@ -1,17 +1,11 @@
 Text file: SKLE6772.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1172271600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-23 23:00:00
 idPredpisa: SKLE6772
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode\
-  \ za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomo\u010D\
-  no uporabno dovoljenje, za leto 2007"
+naslov: "SKLEP o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode
+  za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomo\u010Dno
+  uporabno dovoljenje, za leto 2007"
 npbNum: 0
 path: /2007/07/2007-01-0725
 sopPredpisa: 2007-01-0725

@@ -1,17 +1,11 @@
 Text file: PRAV12555.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1473458400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-09-09 22:00:00
 idPredpisa: PRAV12555
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o metodologiji za dolo\u010Danje vrednosti vodnih in priobalnih\
-  \ zemlji\u0161\u010D in vi\u0161ine nadomestil v postopkih pridobivanja, razpolaganja\
-  \ in obremenjevanja s stavbnimi pravicami"
+naslov: "PRAVILNIK o metodologiji za dolo\u010Danje vrednosti vodnih in priobalnih
+  zemlji\u0161\u010D in vi\u0161ine nadomestil v postopkih pridobivanja, razpolaganja
+  in obremenjevanja s stavbnimi pravicami"
 npbNum: 0
 path: /2016/24/2016-01-2436
 sopPredpisa: 2016-01-2436

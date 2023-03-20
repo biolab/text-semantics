@@ -1,14 +1,8 @@
 Text file: SKLE3268.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1034373600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-11 22:00:00
 idPredpisa: SKLE3268
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o odprtju Konzulata Republike Slovenije v San Carlos de Bariloche
 npbNum: 0
 path: /2002/42/2002-01-4241

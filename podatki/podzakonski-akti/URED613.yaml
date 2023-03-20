@@ -1,14 +1,8 @@
 Text file: URED613.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 926719200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-05-14 22:00:00
 idPredpisa: URED613
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koncesiji za upravljanje naravnega rezervata \u0160kocjanski zatok"
 npbNum: 0
 path: /1999/14/1999-01-1489

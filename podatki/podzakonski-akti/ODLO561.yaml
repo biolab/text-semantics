@@ -1,14 +1,8 @@
 Text file: ODLO561.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 724114800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-12-11 23:00:00
 idPredpisa: ODLO561
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o izdaji kovancev za 5 tolarjev, 2 tolarja in 1 tolar ter za 50, 20
   in 10 stotinov
 npbNum: 0

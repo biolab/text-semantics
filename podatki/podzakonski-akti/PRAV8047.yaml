@@ -1,20 +1,11 @@
 Text file: PRAV8047.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450911600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2015-12-31 23:00:00
+datumZacetkaVelj: 2015-12-23 23:00:00
 idPredpisa: PRAV8047
 idPredpisaChng: PRAV8047
-instock: .nan
-naslov: "PRAVILNIK o poslovnih knjigah in drugih dav\u010Dnih evidencah za fizi\u010D\
-  ne osebe, ki opravljajo dejavnost (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "PRAVILNIK o poslovnih knjigah in drugih dav\u010Dnih evidencah za fizi\u010Dne
+  osebe, ki opravljajo dejavnost (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2015/39/2015-01-3994-2006-01-6010-npb3
 sopPredpisa: 2015-01-3994

@@ -1,14 +1,8 @@
 Text file: URED7179.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1454972400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-08 23:00:00
 idPredpisa: URED7179
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o oblikovanju cen naftnih derivatov
 npbNum: 0
 path: /2016/02/2016-01-0286

@@ -1,16 +1,10 @@
 Text file: URED5935.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1331679600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-03-13 23:00:00
 idPredpisa: URED5935
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju 9. in 10. \u010Dlena Sporazuma o statusu Organizacije\
-  \ Severnoatlantske pogodbe, nacionalnih predstavnikov in mednarodnega osebja"
+naslov: "UREDBO o izvajanju 9. in 10. \u010Dlena Sporazuma o statusu Organizacije
+  Severnoatlantske pogodbe, nacionalnih predstavnikov in mednarodnega osebja"
 npbNum: 0
 path: /2012/07/2012-01-0736
 sopPredpisa: 2012-01-0736

@@ -1,20 +1,14 @@
 Text file: SKLE1581.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 970178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-28 22:00:00
 idPredpisa: SKLE1581
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi a) osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Vrba\u2013\u010Crnivec, b) predloga sprememb in dopolnitev prostorskih\
-  \ sestavin dolgoro\u010Dnega plana ob\u010Dine Radovljica za obdobje od leta 1986\
-  \ do leta 2000 in srednjero\u010Dnega dru\u017Ebenega plana ob\u010Dine Radovljica\
-  \ za obdobje od leta 1986 do leta 1990 v delu, ki ga opredeljuje osnutek lokacijskega\
-  \ na\u010Drta"
+naslov: "SKLEP  o javni razgrnitvi a) osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Vrba\u2013\u010Crnivec, b) predloga sprememb in dopolnitev prostorskih
+  sestavin dolgoro\u010Dnega plana ob\u010Dine Radovljica za obdobje od leta 1986
+  do leta 2000 in srednjero\u010Dnega dru\u017Ebenega plana ob\u010Dine Radovljica
+  za obdobje od leta 1986 do leta 1990 v delu, ki ga opredeljuje osnutek lokacijskega
+  na\u010Drta"
 npbNum: 0
 path: /2000/38/2000-01-3844
 sopPredpisa: 2000-01-3844

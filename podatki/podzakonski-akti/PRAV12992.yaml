@@ -1,16 +1,10 @@
 Text file: PRAV12992.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1488582000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-03 23:00:00
 idPredpisa: PRAV12992
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi gozdne zdru\u017Ebe in rasti\u0161\u010Dnega koeficienta\
-  \ za gozdno parcelo"
+naslov: "PRAVILNIK o dolo\u010Ditvi gozdne zdru\u017Ebe in rasti\u0161\u010Dnega koeficienta
+  za gozdno parcelo"
 npbNum: 0
 path: /2017/04/2017-01-0488
 sopPredpisa: 2017-01-0488

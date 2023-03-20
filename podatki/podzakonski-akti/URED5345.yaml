@@ -1,16 +1,10 @@
 Text file: URED5345.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1390604400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-24 23:00:00
 idPredpisa: URED5345
 idPredpisaChng: URED5345
-instock: .nan
-naslov: "UREDBA o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje\
-  \ in ribi\u0161tva (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje
+  in ribi\u0161tva (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2014/00/2014-01-0032-2010-01-5285-npb2
 sopPredpisa: 2014-01-0032

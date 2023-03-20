@@ -1,17 +1,11 @@
 Text file: SKLE619.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 720486000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-10-30 23:00:00
 idPredpisa: SKLE619
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uvedbi skraj\u0161anega u\u010Dnega programa za vzgojno-izobra\u017E\
-  evalno delo s \u0161oloobveznimi u\u010Denci \u2013 za\u010Dasnimi begunci iz Bosne\
-  \ in Hercegovine v Republiki Sloveniji"
+naslov: "SKLEP o uvedbi skraj\u0161anega u\u010Dnega programa za vzgojno-izobra\u017Eevalno
+  delo s \u0161oloobveznimi u\u010Denci \u2013 za\u010Dasnimi begunci iz Bosne in
+  Hercegovine v Republiki Sloveniji"
 npbNum: 0
 path: /1992/23/1992-01-2391
 sopPredpisa: 1992-01-2391

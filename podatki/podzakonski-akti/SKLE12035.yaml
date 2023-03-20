@@ -1,14 +1,8 @@
 Text file: SKLE12035.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE12035
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o zavarovalno-tehni\u010Dnih rezervacijah pokojninske dru\u017Ebe"
 npbNum: 0
 path: /2020/12/2020-01-1247

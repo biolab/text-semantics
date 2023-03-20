@@ -1,17 +1,10 @@
 Text file: URED5196.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1253570400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-21 22:00:00
 idPredpisa: URED5196
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe javni linijski\
-  \ prevoz potnikov v notranjem cestnem prometu in o koncesiji te javne slu\u017E\
-  be"
+naslov: "UREDBO o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe javni linijski
+  prevoz potnikov v notranjem cestnem prometu in o koncesiji te javne slu\u017Ebe"
 npbNum: 0
 path: /2009/32/2009-01-3216
 sopPredpisa: 2009-01-3216

@@ -1,16 +1,10 @@
 Text file: URED3579.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1102114800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-03 23:00:00
 idPredpisa: URED3579
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da potoka\
-  \ Zaganjal\u0161\u010Dica na obmo\u010Dju Ob\u010Dine Cerkno"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da potoka
+  Zaganjal\u0161\u010Dica na obmo\u010Dju Ob\u010Dine Cerkno"
 npbNum: 0
 path: /2004/53/2004-01-5393
 sopPredpisa: 2004-01-5393

@@ -1,17 +1,11 @@
 Text file: ODRE2638.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614553200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-28 23:00:00
 idPredpisa: ODRE2638
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izpolnitvi tehni\u010Dnih pogojev za elektronsko poslovanje med\
-  \ okro\u017Enimi sodi\u0161\u010Di in centri za socialno delo v postopkih za ureditev\
-  \ osebnih stanj in dru\u017Einskih razmerij"
+naslov: "ODREDBO o izpolnitvi tehni\u010Dnih pogojev za elektronsko poslovanje med
+  okro\u017Enimi sodi\u0161\u010Di in centri za socialno delo v postopkih za ureditev
+  osebnih stanj in dru\u017Einskih razmerij"
 npbNum: 0
 path: /2021/05/2021-01-0551
 sopPredpisa: 2021-01-0551

@@ -1,14 +1,8 @@
 Text file: SKLE11659.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-31 23:00:00
 idPredpisa: SKLE11659
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o dolo\u010Ditvi vrednosti to\u010Dke za odmero rudarske koncesnine"
 npbNum: 0
 path: /2018/42/2018-01-4259

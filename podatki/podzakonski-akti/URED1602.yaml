@@ -1,16 +1,10 @@
 Text file: URED1602.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1016233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-03-15 23:00:00
 idPredpisa: URED1602
 idPredpisaChng: URED1602
-instock: .nan
-naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku Kr\u0161ka vas\u2013\
-  Obre\u017Eje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku Kr\u0161ka vas\u2013Obre\u017Eje
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2002/10/2002-01-1069-2001-01-2035-npb1
 sopPredpisa: 2002-01-1069

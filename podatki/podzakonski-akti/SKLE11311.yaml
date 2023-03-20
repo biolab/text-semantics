@@ -1,19 +1,10 @@
 Text file: SKLE11311.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: SKLE11311
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini podatkov in informacij v centralnem kreditnem registru in\
-  \ sistemu izmenjave informacij o zadol\u017Eenosti poslovnih subjektov"
+naslov: "SKLEP o vsebini podatkov in informacij v centralnem kreditnem registru in
+  sistemu izmenjave informacij o zadol\u017Eenosti poslovnih subjektov"
 npbNum: 0
 path: /2017/34/2017-01-3456
 sopPredpisa: 2017-01-3456

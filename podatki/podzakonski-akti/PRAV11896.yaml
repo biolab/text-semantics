@@ -1,16 +1,10 @@
 Text file: PRAV11896.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1434751200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-19 22:00:00
 idPredpisa: PRAV11896
 idPredpisaChng: PRAV11896
-instock: .nan
-naslov: "PRAVILNIK o shemah kakovosti kmetijskih pridelkov in \u017Eivil (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o shemah kakovosti kmetijskih pridelkov in \u017Eivil (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/18/2015-01-1814-2015-01-0908-npb1
 sopPredpisa: 2015-01-1814

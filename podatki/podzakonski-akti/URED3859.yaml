@@ -1,16 +1,10 @@
 Text file: URED3859.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387321200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-17 23:00:00
 idPredpisa: URED3859
 idPredpisaChng: URED3859
-instock: .nan
-naslov: "UREDBA o mejnih vrednostih vnosa nevarnih snovi in gnojil v tla (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "UREDBA o mejnih vrednostih vnosa nevarnih snovi in gnojil v tla (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2013/35/2013-01-3557-2005-01-3646-npb4
 sopPredpisa: 2013-01-3557

@@ -1,16 +1,10 @@
 Text file: URED2672.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1042498800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-01-13 23:00:00
 idPredpisa: URED2672
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora\
-  \ na obmo\u010Dju Triglavskega narodnega parka v Ob\u010Dini Bled"
+naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora
+  na obmo\u010Dju Triglavskega narodnega parka v Ob\u010Dini Bled"
 npbNum: 0
 path: /2002/58/2002-01-5884
 sopPredpisa: 2002-01-5884

@@ -1,17 +1,11 @@
 Text file: PRAV13458.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1534543200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-17 22:00:00
 idPredpisa: PRAV13458
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcih odlo\u010Dbe o zavrnitvi izdaje vizuma za dolgoro\u010D\
-  no bivanje, sklepa o ustavitvi postopka in sklepa o zavr\u017Eenju pro\u0161nje\
-  \ za izdajo vizuma za dolgoro\u010Dno bivanje"
+naslov: "PRAVILNIK o obrazcih odlo\u010Dbe o zavrnitvi izdaje vizuma za dolgoro\u010Dno
+  bivanje, sklepa o ustavitvi postopka in sklepa o zavr\u017Eenju pro\u0161nje za
+  izdajo vizuma za dolgoro\u010Dno bivanje"
 npbNum: 0
 path: /2018/27/2018-01-2713
 sopPredpisa: 2018-01-2713

@@ -1,12 +1,10 @@
 Text file: SKLE10456.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10456
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega generalnega konzula Republike Slovenije\
-  \ v Manili, v Republiki Filipini"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega generalnega konzula Republike Slovenije
+  v Manili, v Republiki Filipini"
 npbNum: 0
 path: /2015/22/2015-01-2291
 sopPredpisa: 2015-01-2291

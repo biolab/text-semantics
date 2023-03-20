@@ -1,18 +1,12 @@
 Text file: SKLE12699.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-18 23:00:00
 idPredpisa: SKLE12699
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za dokazovanje izpolnjevanja pogojev za imenovanje\
-  \ \u010Dlana upravljalnega organa borznoposredni\u0161ke dru\u017Ebe, likvidacijskega\
-  \ upravitelja borznoposredni\u0161ke dru\u017Ebe oziroma poslovodjo podru\u017E\
-  nice investicijskega podjetja tretje dr\u017Eave"
+naslov: "SKLEP o dokumentaciji za dokazovanje izpolnjevanja pogojev za imenovanje
+  \u010Dlana upravljalnega organa borznoposredni\u0161ke dru\u017Ebe, likvidacijskega
+  upravitelja borznoposredni\u0161ke dru\u017Ebe oziroma poslovodjo podru\u017Enice
+  investicijskega podjetja tretje dr\u017Eave"
 npbNum: 0
 path: /2022/05/2022-01-0572
 sopPredpisa: 2022-01-0572

@@ -1,16 +1,10 @@
 Text file: PRAV10795.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1310767200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-15 22:00:00
 idPredpisa: PRAV10795
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o smeri izobrazbe u\u010Diteljev v izobra\u017Eevalnem programu za\
-  \ odrasle Za\u010Detna integracija priseljencev"
+naslov: "ODREDBO o smeri izobrazbe u\u010Diteljev v izobra\u017Eevalnem programu za
+  odrasle Za\u010Detna integracija priseljencev"
 npbNum: 0
 path: /2011/26/2011-01-2658
 sopPredpisa: 2011-01-2658

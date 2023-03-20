@@ -1,16 +1,10 @@
 Text file: SKLE11788.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562364000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-05 22:00:00
 idPredpisa: SKLE11788
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega generalnega konzula Republike Slovenije\
-  \ v Milanu, v Italijanski republiki"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega generalnega konzula Republike Slovenije
+  v Milanu, v Italijanski republiki"
 npbNum: 0
 path: /2019/20/2019-01-2004
 sopPredpisa: 2019-01-2004

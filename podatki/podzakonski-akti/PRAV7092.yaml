@@ -1,16 +1,10 @@
 Text file: PRAV7092.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1189807200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-14 22:00:00
 idPredpisa: PRAV7092
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izdajanju potrdil za naziv dr\u017Eavni notranji revizor in preizku\u0161\
-  eni dr\u017Eavni notranji revizor"
+naslov: "PRAVILNIK o izdajanju potrdil za naziv dr\u017Eavni notranji revizor in preizku\u0161eni
+  dr\u017Eavni notranji revizor"
 npbNum: 0
 path: /2007/42/2007-01-4253
 sopPredpisa: 2007-01-4253

@@ -1,10 +1,8 @@
 Text file: KOLP275.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: KOLP275
 idPredpisaChng: null
-instock: .nan
 naslov: ODPOVED KOLEKTIVNE POGODBE dejavnosti bank in hranilnic v Republiki Sloveniji
 npbNum: 0
 path: /2009/33/2009-01-3394

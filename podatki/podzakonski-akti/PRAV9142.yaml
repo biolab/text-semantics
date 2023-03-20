@@ -1,19 +1,10 @@
 Text file: PRAV9142.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293836400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1290812400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2010-12-31 23:00:00
+datumZacetkaVelj: 2010-11-26 23:00:00
 idPredpisa: PRAV9142
 idPredpisaChng: PRAV9142
-instock: .nan
-naslov: "PRAVILNIK o slu\u017Ebi nujne medicinske pomo\u010Di (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2) "
+naslov: "PRAVILNIK o slu\u017Ebi nujne medicinske pomo\u010Di (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2) "
 npbNum: 2
 path: /2010/49/2010-01-4983-2008-01-4545-npb2
 sopPredpisa: 2010-01-4983

@@ -1,16 +1,10 @@
 Text file: PRAV12924.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653429600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-24 22:00:00
 idPredpisa: PRAV12924
 idPredpisaChng: PRAV12924
-instock: .nan
-naslov: "PRAVILNIK o izvajanju Zakona o tro\u0161arinah (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o izvajanju Zakona o tro\u0161arinah (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2022/16/2022-01-1689-2016-01-2615-npb4
 sopPredpisa: 2022-01-1689

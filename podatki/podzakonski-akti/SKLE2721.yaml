@@ -1,16 +1,10 @@
 Text file: SKLE2721.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1011913200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-01-24 23:00:00
 idPredpisa: SKLE2721
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarskega obmo\u010Dja Postojna"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarskega obmo\u010Dja Postojna"
 npbNum: 0
 path: /2002/02/2002-01-0270
 sopPredpisa: 2002-01-0270

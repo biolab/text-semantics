@@ -1,16 +1,10 @@
 Text file: PRAV13574.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583017200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-02-29 23:00:00
 idPredpisa: PRAV13574
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uveljavljanju izpla\u010Dila nadomestila pla\u010De iz obveznega\
-  \ zdravstvenega zavarovanja na zahtevo delodajalca"
+naslov: "PRAVILNIK o uveljavljanju izpla\u010Dila nadomestila pla\u010De iz obveznega
+  zdravstvenega zavarovanja na zahtevo delodajalca"
 npbNum: 0
 path: /2020/03/2020-01-0356
 sopPredpisa: 2020-01-0356

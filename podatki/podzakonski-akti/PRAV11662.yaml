@@ -1,14 +1,8 @@
 Text file: PRAV11662.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383001200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-28 23:00:00
 idPredpisa: PRAV11662
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o obdelavi podatkov o elektronskih komunikacijah policije in o dostopu
   do policijskih zbirk podatkov
 npbNum: 0

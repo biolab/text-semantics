@@ -1,12 +1,10 @@
 Text file: TARI144.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: TARI144
 idPredpisaChng: null
-instock: .nan
-naslov: "ZA\u010CASNO TARIFO za prenose glasbenih videospotov preko interneta kon\u010D\
-  nim uporabnikom"
+naslov: "ZA\u010CASNO TARIFO za prenose glasbenih videospotov preko interneta kon\u010Dnim
+  uporabnikom"
 npbNum: 0
 path: /2012/11/2012-01-1185
 sopPredpisa: 2012-01-1185

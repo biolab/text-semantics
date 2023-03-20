@@ -1,14 +1,8 @@
 Text file: PRAV6075.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091138400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-29 22:00:00
 idPredpisa: PRAV6075
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vsebini, obliki in evidenci dovoljenj za gospodarski ribolov
 npbNum: 0
 path: /2004/37/2004-01-3724

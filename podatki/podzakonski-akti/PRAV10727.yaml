@@ -1,16 +1,10 @@
 Text file: PRAV10727.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1298674800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-02-25 23:00:00
 idPredpisa: PRAV10727
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki diplom o zaklju\u010Denem izobra\u017Eevanju\
-  \ na Visoki zdravstveni \u0161oli v Celju"
+naslov: "PRAVILNIK o vsebini in obliki diplom o zaklju\u010Denem izobra\u017Eevanju
+  na Visoki zdravstveni \u0161oli v Celju"
 npbNum: 0
 path: /2011/05/2011-01-0508
 sopPredpisa: 2011-01-0508

@@ -1,16 +1,10 @@
 Text file: SKLE7324.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1195426800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-18 23:00:00
 idPredpisa: SKLE7324
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi Sklepa o splo\u0161nih pogojih za pridobitev posojila\
-  \ \u010Dez dan pri Banki Slovenije"
+naslov: "SKLEP o razveljavitvi Sklepa o splo\u0161nih pogojih za pridobitev posojila
+  \u010Dez dan pri Banki Slovenije"
 npbNum: 0
 path: /2007/46/2007-01-4609
 sopPredpisa: 2007-01-4609

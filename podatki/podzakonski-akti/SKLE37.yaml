@@ -1,17 +1,11 @@
 Text file: SKLE37.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1506722400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-29 22:00:00
 idPredpisa: SKLE37
 idPredpisaChng: SKLE37
-instock: .nan
-naslov: "SKLEP o preoblikovanju dela In\u0161tituta za geologijo, geotehniko in geofiziko\
-  \ v javni raziskovalni zavod Geolo\u0161ki zavod Slovenije (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 6)"
+naslov: "SKLEP o preoblikovanju dela In\u0161tituta za geologijo, geotehniko in geofiziko
+  v javni raziskovalni zavod Geolo\u0161ki zavod Slovenije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 6)"
 npbNum: 6
 path: /2017/25/2017-01-2514-1998-01-3170-npb6
 sopPredpisa: 2017-01-2514

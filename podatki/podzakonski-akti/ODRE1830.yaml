@@ -1,17 +1,11 @@
 Text file: ODRE1830.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1016233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-03-15 23:00:00
 idPredpisa: ODRE1830
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za\
-  \ pridobitev srednje poklicne in srednje strokovne izobrazbe za dijake, ki se bodo\
-  \ vpisali v za\u010Detni letnik v \u0161olskem letu 2002/2003"
+naslov: "ODREDBO  o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za
+  pridobitev srednje poklicne in srednje strokovne izobrazbe za dijake, ki se bodo
+  vpisali v za\u010Detni letnik v \u0161olskem letu 2002/2003"
 npbNum: 0
 path: /2002/10/2002-01-1017
 sopPredpisa: 2002-01-1017

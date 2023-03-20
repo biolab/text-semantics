@@ -1,13 +1,11 @@
 Text file: SKLE8341.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE8341
 idPredpisaChng: SKLE8341
-instock: .nan
-naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka\
-  \ Kmetijsko gozdarske zbornice Slovenije za leto 2010 (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka
+  Kmetijsko gozdarske zbornice Slovenije za leto 2010 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/17/2011-01-1767-2009-01-5091-npb1
 sopPredpisa: 2011-01-1767

@@ -1,16 +1,10 @@
 Text file: PRAV7722.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1301608800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-03-31 22:00:00
 idPredpisa: PRAV7722
 idPredpisaChng: PRAV7722
-instock: .nan
-naslov: "PRAVILNIK o zaklju\u010Dnem izpitu (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o zaklju\u010Dnem izpitu (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2011/09/2011-01-0974-2008-01-2410-npb2
 sopPredpisa: 2011-01-0974

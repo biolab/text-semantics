@@ -1,16 +1,10 @@
 Text file: SKLE1737.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 702943200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-04-10 22:00:00
 idPredpisa: SKLE1737
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pla\u010Devanju participacije v zdravstvu, delnih in popolnih oprostitvah\
-  \ ter o povra\u010Dilih"
+naslov: "SKLEP o pla\u010Devanju participacije v zdravstvu, delnih in popolnih oprostitvah
+  ter o povra\u010Dilih"
 npbNum: 0
 path: /1992/08/1992-01-0853
 sopPredpisa: 1992-01-0853

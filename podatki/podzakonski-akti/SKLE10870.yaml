@@ -1,14 +1,8 @@
 Text file: SKLE10870.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1470434400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-08-05 22:00:00
 idPredpisa: SKLE10870
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic o primerjavi prejemkov
 npbNum: 0
 path: /2016/23/2016-01-2373

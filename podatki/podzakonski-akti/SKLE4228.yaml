@@ -1,17 +1,11 @@
 Text file: SKLE4228.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1057010400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-30 22:00:00
 idPredpisa: SKLE4228
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL-a \u0161t. 73, o izra\u010Dunu\
-  \ cene za enoto storitve za \u010Ce\u0161ko republiko, z za\u010Detkom veljavnosti\
-  \ 1. julija 2003,"
+naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL-a \u0161t. 73, o izra\u010Dunu
+  cene za enoto storitve za \u010Ce\u0161ko republiko, z za\u010Detkom veljavnosti
+  1. julija 2003,"
 npbNum: 0
 path: /2003/44/2003-01-4418
 sopPredpisa: 2003-01-4418

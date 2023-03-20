@@ -1,16 +1,10 @@
 Text file: URED7449.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1490396400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-24 23:00:00
 idPredpisa: URED7449
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o sofinanciranju ob\u010Din na narodnostno me\u0161anem obmo\u010D\
-  ju za leto\_2017"
+naslov: "UREDBO o sofinanciranju ob\u010Din na narodnostno me\u0161anem obmo\u010Dju
+  za leto\_2017"
 npbNum: 0
 path: /2017/06/2017-01-0670
 sopPredpisa: 2017-01-0670

@@ -1,17 +1,11 @@
 Text file: SKLE3806.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1291417200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-03 23:00:00
 idPredpisa: SKLE3806
 idPredpisaChng: SKLE3806
-instock: .nan
-naslov: "SKLEP o soglasju za odprtje Konzulata Republike Ciper v Republiki Sloveniji\
-  \ s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o soglasju za odprtje Konzulata Republike Ciper v Republiki Sloveniji
+  s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/50/2010-01-5028-2003-01-1904-npb1
 sopPredpisa: 2010-01-5028

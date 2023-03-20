@@ -1,16 +1,10 @@
 Text file: ODRE2703.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1635544800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-29 22:00:00
 idPredpisa: ODRE2703
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu dopolnitve izobra\u017Eevalnega programa Naravovarstveni\
-  \ tehnik"
+naslov: "ODREDBO o sprejemu dopolnitve izobra\u017Eevalnega programa Naravovarstveni
+  tehnik"
 npbNum: 0
 path: /2021/33/2021-01-3372
 sopPredpisa: 2021-01-3372

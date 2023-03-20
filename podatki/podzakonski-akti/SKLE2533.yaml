@@ -1,16 +1,10 @@
 Text file: SKLE2533.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1004047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-25 22:00:00
 idPredpisa: SKLE2533
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010D\
-  rta \_gozdnogospodarske enote Ru\u0161e"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Ru\u0161e"
 npbNum: 0
 path: /2001/42/2001-01-4288
 sopPredpisa: 2001-01-4288

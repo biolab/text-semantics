@@ -1,17 +1,11 @@
 Text file: URED7251.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1461362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-22 22:00:00
 idPredpisa: URED7251
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob levem\
-  \ bregu vodotoka Sava na obmo\u010Dju Trbojskega jezera v naselju Trboje v Ob\u010D\
-  ini \u0160en\u010Dur"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob levem
+  bregu vodotoka Sava na obmo\u010Dju Trbojskega jezera v naselju Trboje v Ob\u010Dini
+  \u0160en\u010Dur"
 npbNum: 0
 path: /2016/11/2016-01-1182
 sopPredpisa: 2016-01-1182

@@ -1,14 +1,8 @@
 Text file: URED4905.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-20 22:00:00
 idPredpisa: URED4905
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o ukrepih za prestrukturiranje pridelovalcev sladkorne pese v Republiki
   Sloveniji
 npbNum: 0

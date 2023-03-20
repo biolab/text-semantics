@@ -1,20 +1,11 @@
 Text file: SKLE10857.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468015200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-07-08 22:00:00
 idPredpisa: SKLE10857
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi smernic Omejitve izpostavljenosti do subjektov, ki opravljajo\
-  \ dejavnosti ban\u010Dni\u0161tva v senci zunaj reguliranega okvira, v skladu s\
-  \ \u010Dlenom 395(2) Uredbe (EU) \u0161t. 575/2013"
+naslov: "SKLEP o uporabi smernic Omejitve izpostavljenosti do subjektov, ki opravljajo
+  dejavnosti ban\u010Dni\u0161tva v senci zunaj reguliranega okvira, v skladu s \u010Dlenom
+  395(2) Uredbe (EU) \u0161t. 575/2013"
 npbNum: 0
 path: /2016/21/2016-01-2120
 sopPredpisa: 2016-01-2120

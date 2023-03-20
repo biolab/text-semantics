@@ -1,16 +1,10 @@
 Text file: PRAV13362.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1520031600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-02 23:00:00
 idPredpisa: PRAV13362
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izvedbi javnega nate\u010Daja za izbiro umetni\u0161kih del v\
-  \ javnih investicijskih projektih"
+naslov: "PRAVILNIK o izvedbi javnega nate\u010Daja za izbiro umetni\u0161kih del v
+  javnih investicijskih projektih"
 npbNum: 0
 path: /2018/03/2018-01-0358
 sopPredpisa: 2018-01-0358

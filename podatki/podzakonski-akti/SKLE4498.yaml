@@ -1,16 +1,10 @@
 Text file: SKLE4498.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1079046000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-11 23:00:00
 idPredpisa: SKLE4498
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za prelo\u017Eitev regionalne ceste RII-420 na obmo\u010Dju naselja Dobova"
+naslov: "SKLEP  o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za prelo\u017Eitev regionalne ceste RII-420 na obmo\u010Dju naselja Dobova"
 npbNum: 0
 path: /2004/10/2004-01-1009
 sopPredpisa: 2004-01-1009

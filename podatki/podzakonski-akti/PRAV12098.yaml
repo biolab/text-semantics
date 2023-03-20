@@ -1,21 +1,12 @@
 Text file: PRAV12098.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1420066800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1419030000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2014-12-31 23:00:00
+datumZacetkaVelj: 2014-12-19 23:00:00
 idPredpisa: PRAV12098
 idPredpisaChng: PRAV12098
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izvajanja nalog podpore za spletno pla\u010Devanje\
-  \ storitev prora\u010Dunskih uporabnikov prek sistema spletnih pla\u010Dil, ki ga\
-  \ upravlja Uprava Republike Slovenije za javna pla\u010Dila (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu izvajanja nalog podpore za spletno pla\u010Devanje
+  storitev prora\u010Dunskih uporabnikov prek sistema spletnih pla\u010Dil, ki ga
+  upravlja Uprava Republike Slovenije za javna pla\u010Dila (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/37/2014-01-3700-2014-01-0977-npb1
 sopPredpisa: 2014-01-3700

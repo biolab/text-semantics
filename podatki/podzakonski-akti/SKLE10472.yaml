@@ -1,16 +1,10 @@
 Text file: SKLE10472.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10472
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o usklajenih opredelitvah in predlogah za na\u010D\
-  rte financiranja kreditnih institucij na podlagi priporo\u010Dila A4 ESRB/2012/2"
+naslov: "SKLEP o uporabi Smernic o usklajenih opredelitvah in predlogah za na\u010Drte
+  financiranja kreditnih institucij na podlagi priporo\u010Dila A4 ESRB/2012/2"
 npbNum: 0
 path: /2015/19/2015-01-1943
 sopPredpisa: 2015-01-1943

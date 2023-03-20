@@ -1,14 +1,8 @@
 Text file: SKLE6511.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1155074400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-08-08 22:00:00
 idPredpisa: SKLE6511
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o ustanovitvi, sestavi, organizaciji in nalogah Razvojno-poslovnega
   sveta za Slovence po svetu
 npbNum: 0

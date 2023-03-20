@@ -1,14 +1,8 @@
 Text file: URED6517.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1381528800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-11 22:00:00
 idPredpisa: URED6517
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o pravici do omre\u017Enih priklju\u010Dnih to\u010Dk s prednostjo"
 npbNum: 0
 path: /2013/29/2013-01-2901

@@ -1,16 +1,10 @@
 Text file: URED283.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1530914400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-06 22:00:00
 idPredpisa: URED283
 idPredpisaChng: URED283
-instock: .nan
-naslov: "UREDBA o posebnih varstvenih obmo\u010Djih (obmo\u010Djih Natura 2000) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "UREDBA o posebnih varstvenih obmo\u010Djih (obmo\u010Djih Natura 2000) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 8)"
 npbNum: 8
 path: /2018/24/2018-01-2436-2004-01-2277-npb8
 sopPredpisa: 2018-01-2436

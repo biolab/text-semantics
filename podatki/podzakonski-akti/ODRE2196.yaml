@@ -1,12 +1,10 @@
 Text file: ODRE2196.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODRE2196
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izdaji Prvega dopolnila k Tretji izdaji Slovenskega dodatka k Evropski\
-  \ farmakopeji \u2013 Formulariuma Slovenicuma 3.1"
+naslov: "ODREDBO o izdaji Prvega dopolnila k Tretji izdaji Slovenskega dodatka k Evropski
+  farmakopeji \u2013 Formulariuma Slovenicuma 3.1"
 npbNum: 0
 path: /2012/39/2012-01-3965
 sopPredpisa: 2012-01-3965

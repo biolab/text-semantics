@@ -1,16 +1,10 @@
 Text file: PRAV8914.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230764400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-31 23:00:00
 idPredpisa: PRAV8914
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak\
-  \ iz nepremi\u010Dnih virov onesna\u017Eevanja ter o pogojih za njegovo izvajanje"
+naslov: "PRAVILNIK o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak
+  iz nepremi\u010Dnih virov onesna\u017Eevanja ter o pogojih za njegovo izvajanje"
 npbNum: 0
 path: /2008/44/2008-01-4489
 sopPredpisa: 2008-01-4489

@@ -1,14 +1,8 @@
 Text file: SKLE11546.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528495200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-08 22:00:00
 idPredpisa: SKLE11546
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o vzpostavitvi in vodenju registra finan\u010Dnega premo\u017Eenja"
 npbNum: 0
 path: /2018/17/2018-01-1759

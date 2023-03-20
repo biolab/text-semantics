@@ -1,16 +1,10 @@
 Text file: PRAV10544.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1526680800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-18 22:00:00
 idPredpisa: PRAV10544
 idPredpisaChng: PRAV10544
-instock: .nan
-naslov: "PRAVILNIK o pogojih za pridobitev dovoljenja za gojenje konoplje in maka\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o pogojih za pridobitev dovoljenja za gojenje konoplje in maka
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/15/2018-01-1553-2011-01-1919-npb2
 sopPredpisa: 2018-01-1553

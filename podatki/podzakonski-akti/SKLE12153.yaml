@@ -1,12 +1,10 @@
 Text file: SKLE12153.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12153
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi in imenovanju \u010Dlanice Slovenske nacionalne komisije\
-  \ za UNESCO"
+naslov: "SKLEP o razre\u0161itvi in imenovanju \u010Dlanice Slovenske nacionalne komisije
+  za UNESCO"
 npbNum: 0
 path: /2020/18/2020-01-1847
 sopPredpisa: 2020-01-1847

@@ -1,16 +1,10 @@
 Text file: ODRE781.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 948495600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-01-21 23:00:00
 idPredpisa: ODRE781
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o zni\u017Eanju tarife pristani\u0161kih pristojbin oljnih tankerjev\
-  \ z lo\u010Denim balastom"
+naslov: "ODREDBO  o zni\u017Eanju tarife pristani\u0161kih pristojbin oljnih tankerjev
+  z lo\u010Denim balastom"
 npbNum: 0
 path: /2000/00/2000-01-0020
 sopPredpisa: 2000-01-0020

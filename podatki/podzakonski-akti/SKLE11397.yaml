@@ -1,18 +1,12 @@
 Text file: SKLE11397.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1602280800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-10-09 22:00:00
 idPredpisa: SKLE11397
 idPredpisaChng: SKLE11397
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o enotnih razkritjih v skladu s \u010Dlenom 473a\
-  \ Uredbe (EU) \u0161t. 575/2013 v zvezi s prehodnimi ureditvami za zmanj\u0161anje\
-  \ vpliva uvedbe MSRP 9 na kapital (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "SKLEP o uporabi Smernic o enotnih razkritjih v skladu s \u010Dlenom 473a
+  Uredbe (EU) \u0161t. 575/2013 v zvezi s prehodnimi ureditvami za zmanj\u0161anje
+  vpliva uvedbe MSRP 9 na kapital (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2020/25/2020-01-2502-2018-01-0462-npb1
 sopPredpisa: 2020-01-2502

@@ -1,18 +1,11 @@
 Text file: PRAV11421.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356130800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-21 23:00:00
 idPredpisa: PRAV11421
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja dru\u0161tva za podelitev statusa dru\u0161tva v javnem interesu na\
-  \ podro\u010Dju vzgoje in izobra\u017Eevanja, raziskovalne dejavnosti, kulture in\
-  \ \u0161porta"
+naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja dru\u0161tva za podelitev statusa dru\u0161tva v javnem interesu na podro\u010Dju
+  vzgoje in izobra\u017Eevanja, raziskovalne dejavnosti, kulture in \u0161porta"
 npbNum: 0
 path: /2012/38/2012-01-3864
 sopPredpisa: 2012-01-3864

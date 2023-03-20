@@ -1,13 +1,11 @@
 Text file: SKLE11303.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11303
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju osmih \u010Dlanov Programskega sveta RTV Slovenija \u2013\
-  \ na podlagi sedme alineje \u0161estega odstavka 17. \u010Dlena Zakona o Radioteleviziji\
-  \ Slovenija"
+naslov: "SKLEP o imenovanju osmih \u010Dlanov Programskega sveta RTV Slovenija \u2013
+  na podlagi sedme alineje \u0161estega odstavka 17. \u010Dlena Zakona o Radioteleviziji
+  Slovenija"
 npbNum: 0
 path: /2017/34/2017-01-3443
 sopPredpisa: 2017-01-3443

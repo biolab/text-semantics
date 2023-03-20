@@ -1,22 +1,16 @@
 Text file: SKLE135.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 900626400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-07-16 22:00:00
 idPredpisa: SKLE135
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Klanec\u2013Srmin  b) predloga sprememb in dopolnitev prostorskih sestavin:\
-  \ \u2013 dolgoro\u010Dnega plana Mestne ob\u010Dine Koper za \_obdobje 1986\u2013\
-  2000 in srednjero\u010Dnega dru\u017Ebenega plana Mestne ob\u010Dine Koper za obdobje\
-  \ 1986\u20131990 ter dolgoro\u010Dnega plana Ob\u010Dine Se\u017Eana za obdobje\
-  \ 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Se\u017E\
-  ana za obdobje 1986\u20131990, za obmo\u010Dje Ob\u010Dine Hrpelje-Kozina v delu,\
-  \ ki ga opredeljuje \_osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Klanec\u2013Srmin  b) predloga sprememb in dopolnitev prostorskih sestavin:
+  \u2013 dolgoro\u010Dnega plana Mestne ob\u010Dine Koper za \_obdobje 1986\u20132000
+  in srednjero\u010Dnega dru\u017Ebenega plana Mestne ob\u010Dine Koper za obdobje
+  1986\u20131990 ter dolgoro\u010Dnega plana Ob\u010Dine Se\u017Eana za obdobje 1986\u20132000
+  in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Se\u017Eana za obdobje
+  1986\u20131990, za obmo\u010Dje Ob\u010Dine Hrpelje-Kozina v delu, ki ga opredeljuje
+  \_osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1998/23/1998-01-2344
 sopPredpisa: 1998-01-2344

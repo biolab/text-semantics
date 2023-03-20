@@ -1,16 +1,10 @@
 Text file: ODRE2682.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634335200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-15 22:00:00
 idPredpisa: ODRE2682
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programov strokovnega usposabljanja in obdobnega\
-  \ strokovnega izpopolnjevanja za varnostnega tehnika"
+naslov: "ODREDBO o dolo\u010Ditvi programov strokovnega usposabljanja in obdobnega
+  strokovnega izpopolnjevanja za varnostnega tehnika"
 npbNum: 0
 path: /2021/29/2021-01-2998
 sopPredpisa: 2021-01-2998

@@ -1,17 +1,11 @@
 Text file: PRAV2247.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 998690400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-24 22:00:00
 idPredpisa: PRAV2247
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o imenovanju poku\u0161evalcev in poobla\u0161\u010Dene organizacije\
-  \ za preizku\u0161anje poku\u0161evalcev in organolepti\u010Dnih sposobnosti kmetijskih\
-  \ in\u0161pektorjev"
+naslov: "PRAVILNIK o imenovanju poku\u0161evalcev in poobla\u0161\u010Dene organizacije
+  za preizku\u0161anje poku\u0161evalcev in organolepti\u010Dnih sposobnosti kmetijskih
+  in\u0161pektorjev"
 npbNum: 0
 path: /2001/37/2001-01-3778
 sopPredpisa: 2001-01-3778

@@ -1,16 +1,10 @@
 Text file: ODRE360.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 871077600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-08-08 22:00:00
 idPredpisa: ODRE360
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe \u2013 gradbeni\u0161tvo"
+naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe \u2013 gradbeni\u0161tvo"
 npbNum: 0
 path: /1997/25/1997-01-2591
 sopPredpisa: 1997-01-2591

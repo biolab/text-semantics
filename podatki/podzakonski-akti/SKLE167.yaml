@@ -1,20 +1,14 @@
 Text file: SKLE167.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 813193200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-10-08 23:00:00
 idPredpisa: SKLE167
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za odsek avtoceste\
-  \ Fram\u2013Slivnica in hitre ceste Slivnica\u2013Blagovno distribucijski center\
-  \ in o javni razgrnitvi predloga sprememb in dopolnitev prostorskih sestavin dolgoro\u010D\
-  nega plana Mestne ob\u010Dine Maribor za obdobje 1986\u20132000 in dru\u017Ebenega\
-  \ plana Mestne ob\u010Dine Maribor za obdobje 1986\u20131990 s programskimi zasnovami\
-  \ v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za odsek avtoceste
+  Fram\u2013Slivnica in hitre ceste Slivnica\u2013Blagovno distribucijski center in
+  o javni razgrnitvi predloga sprememb in dopolnitev prostorskih sestavin dolgoro\u010Dnega
+  plana Mestne ob\u010Dine Maribor za obdobje 1986\u20132000 in dru\u017Ebenega plana
+  Mestne ob\u010Dine Maribor za obdobje 1986\u20131990 s programskimi zasnovami v
+  delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1995/26/1995-01-2694
 sopPredpisa: 1995-01-2694

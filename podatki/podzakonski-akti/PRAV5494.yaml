@@ -1,16 +1,10 @@
 Text file: PRAV5494.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1072306800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-24 23:00:00
 idPredpisa: PRAV5494
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu za pridobitev srednje poklicne izobrazbe\
-  \ administrator za izvajanje na narodno me\u0161anem obmo\u010Dju"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu za pridobitev srednje poklicne izobrazbe
+  administrator za izvajanje na narodno me\u0161anem obmo\u010Dju"
 npbNum: 0
 path: /2003/55/2003-01-5582
 sopPredpisa: 2003-01-5582

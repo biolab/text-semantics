@@ -1,17 +1,11 @@
 Text file: SKLE1995.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1375740000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-08-05 22:00:00
 idPredpisa: SKLE1995
 idPredpisaChng: SKLE1995
-instock: .nan
-naslov: "SKLEP o vsebini poro\u010Dil in obvestil iz 176. in 239. \u010Dlena zakona\
-  \ o zavarovalni\u0161tvu ter na\u010Dinu in rokih poro\u010Danja (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "SKLEP o vsebini poro\u010Dil in obvestil iz 176. in 239. \u010Dlena zakona
+  o zavarovalni\u0161tvu ter na\u010Dinu in rokih poro\u010Danja (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2013/24/2013-01-2486-2000-01-5094-npb4
 sopPredpisa: 2013-01-2486

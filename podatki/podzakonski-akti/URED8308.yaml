@@ -1,17 +1,11 @@
 Text file: URED8308.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1625090400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-30 22:00:00
 idPredpisa: URED8308
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta celovite energetske\
-  \ prenove dolo\u010Denih objektov Ministrstva za zdravje \u2013 objekti Univerzitetnega\
-  \ klini\u010Dnega centra Ljubljana"
+naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta celovite energetske
+  prenove dolo\u010Denih objektov Ministrstva za zdravje \u2013 objekti Univerzitetnega
+  klini\u010Dnega centra Ljubljana"
 npbNum: 0
 path: /2021/22/2021-01-2218
 sopPredpisa: 2021-01-2218

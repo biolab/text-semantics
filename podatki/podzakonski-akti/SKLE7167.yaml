@@ -1,16 +1,10 @@
 Text file: SKLE7167.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1183154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-29 22:00:00
 idPredpisa: SKLE7167
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o kriterijih in merilih za dodelitev finan\u010Dnih sredstev za raziskovalno\
-  \ in preventivno dejavnost"
+naslov: "SKLEP o kriterijih in merilih za dodelitev finan\u010Dnih sredstev za raziskovalno
+  in preventivno dejavnost"
 npbNum: 0
 path: /2007/30/2007-01-3050
 sopPredpisa: 2007-01-3050

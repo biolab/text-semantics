@@ -1,16 +1,10 @@
 Text file: SKLE965.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 897775200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-06-13 22:00:00
 idPredpisa: SKLE965
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi slovenskega ra\u010Dunovodskega standarda 37 - ra\u010D\
-  unovodske re\u0161itve v nedelujo\u010Dih podjetjih"
+naslov: "SKLEP o dolo\u010Ditvi slovenskega ra\u010Dunovodskega standarda 37 - ra\u010Dunovodske
+  re\u0161itve v nedelujo\u010Dih podjetjih"
 npbNum: 0
 path: /1998/18/1998-01-1836
 sopPredpisa: 1998-01-1836

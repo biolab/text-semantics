@@ -1,17 +1,10 @@
 Text file: URED7326.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483743600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-06 23:00:00
 idPredpisa: URED7326
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za kablovod 110 kV od RTP\
-  \ 110/20 kV Dekani do slovensko-italijanske meje pri mednarodnem mejnem prehodu\
-  \ \u0160kofije"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za kablovod 110 kV od RTP
+  110/20 kV Dekani do slovensko-italijanske meje pri mednarodnem mejnem prehodu \u0160kofije"
 npbNum: 0
 path: /2016/36/2016-01-3637
 sopPredpisa: 2016-01-3637

@@ -1,17 +1,11 @@
 Text file: ODLO2365.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-25 23:00:00
 idPredpisa: ODLO2365
 idPredpisaChng: ODLO2365
-instock: .nan
-naslov: "ODLOK o za\u010Dasni delni omejitvi gibanja ljudi in prepovedi zbiranja ljudi\
-  \ zaradi prepre\u010Devanja oku\u017Eb s SARS-CoV-2 (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "ODLOK o za\u010Dasni delni omejitvi gibanja ljudi in prepovedi zbiranja ljudi
+  zaradi prepre\u010Devanja oku\u017Eb s SARS-CoV-2 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2021/08/2021-01-0862-2021-01-0536-npb4
 sopPredpisa: 2021-01-0862

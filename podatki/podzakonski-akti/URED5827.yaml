@@ -1,16 +1,10 @@
 Text file: URED5827.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1310421600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-11 22:00:00
 idPredpisa: URED5827
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopku, merilih in na\u010Dinih dodeljevanja sredstev za spodbujanje\
-  \ razvojnih programov in prednostnih nalog"
+naslov: "UREDBO o postopku, merilih in na\u010Dinih dodeljevanja sredstev za spodbujanje
+  razvojnih programov in prednostnih nalog"
 npbNum: 0
 path: /2011/26/2011-01-2618
 sopPredpisa: 2011-01-2618

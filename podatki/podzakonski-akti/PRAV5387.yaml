@@ -1,17 +1,11 @@
 Text file: PRAV5387.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: PRAV5387
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o medsebojnem sodelovanju med pristojnimi organi dr\u017Eav \u010D\
-  lanic ter sodelovanju med njimi in Evropske komisije za zagotavljanje pravilnega\
-  \ izvajanja zootehni\u0161ke zakonodaje"
+naslov: "PRAVILNIK o medsebojnem sodelovanju med pristojnimi organi dr\u017Eav \u010Dlanic
+  ter sodelovanju med njimi in Evropske komisije za zagotavljanje pravilnega izvajanja
+  zootehni\u0161ke zakonodaje"
 npbNum: 0
 path: /2004/11/2004-01-1111
 sopPredpisa: 2004-01-1111

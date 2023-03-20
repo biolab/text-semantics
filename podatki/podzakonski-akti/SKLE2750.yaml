@@ -1,16 +1,10 @@
 Text file: SKLE2750.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1013727600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-14 23:00:00
 idPredpisa: SKLE2750
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarskega obmo\u010Dja Celje"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarskega obmo\u010Dja Celje"
 npbNum: 0
 path: /2002/05/2002-01-0548
 sopPredpisa: 2002-01-0548

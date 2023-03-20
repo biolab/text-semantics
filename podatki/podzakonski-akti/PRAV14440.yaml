@@ -1,19 +1,10 @@
 Text file: PRAV14440.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1649023200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640818800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-04-03 22:00:00
+datumZacetkaVelj: 2021-12-29 23:00:00
 idPredpisa: PRAV14440
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izpitu za bonitiranje zemlji\u0161\u010D in o pooblastilu za\
-  \ bonitiranje"
+naslov: "PRAVILNIK o izpitu za bonitiranje zemlji\u0161\u010D in o pooblastilu za
+  bonitiranje"
 npbNum: 0
 path: /2021/38/2021-01-3892
 sopPredpisa: 2021-01-3892

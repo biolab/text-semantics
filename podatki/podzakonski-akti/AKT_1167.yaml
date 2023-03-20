@@ -1,17 +1,11 @@
 Text file: AKT_1167.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-31 23:00:00
 idPredpisa: AKT_1167
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o stalnem poklicnem usposabljanju poobla\u0161\u010Denih\
-  \ arhitektov, poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\u010D\
-  enih prostorskih na\u010Drtovalcev"
+naslov: "SPLO\u0160NI AKT o stalnem poklicnem usposabljanju poobla\u0161\u010Denih
+  arhitektov, poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\u010Denih
+  prostorskih na\u010Drtovalcev"
 npbNum: 0
 path: /2021/37/2021-01-3719
 sopPredpisa: 2021-01-3719

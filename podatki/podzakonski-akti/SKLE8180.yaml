@@ -1,16 +1,10 @@
 Text file: SKLE8180.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1337205600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-16 22:00:00
 idPredpisa: SKLE8180
 idPredpisaChng: SKLE8180
-instock: .nan
-naslov: "SKLEP o poro\u010Danju o kapitalu in kapitalskih zahtevah borznoposredni\u0161\
-  kih dru\u017Eb (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o poro\u010Danju o kapitalu in kapitalskih zahtevah borznoposredni\u0161kih
+  dru\u017Eb (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2012/14/2012-01-1464-2009-01-3270-npb2
 sopPredpisa: 2012-01-1464

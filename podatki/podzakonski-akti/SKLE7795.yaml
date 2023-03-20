@@ -1,14 +1,8 @@
 Text file: SKLE7795.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1221861600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-09-19 22:00:00
 idPredpisa: SKLE7795
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o oprostitvi pla\u010Devanja letnega nadomestila za opravljanje nadzora"
 npbNum: 0
 path: /2008/38/2008-01-3832

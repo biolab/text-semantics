@@ -1,12 +1,10 @@
 Text file: RESO138.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO138
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o nacionalnem programu izobra\u017Eevanja odraslih v Republiki\
-  \ Sloveniji za obdobje 2022\u20132030 (ReNPIO22\u201330)"
+naslov: "RESOLUCIJO o nacionalnem programu izobra\u017Eevanja odraslih v Republiki
+  Sloveniji za obdobje 2022\u20132030 (ReNPIO22\u201330)"
 npbNum: 0
 path: /2022/09/2022-01-0983
 sopPredpisa: 2022-01-0983

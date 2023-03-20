@@ -1,17 +1,11 @@
 Text file: PRAV14415.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: PRAV14415
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopkih in rokih za uveljavljanje zahtevkov izpla\u010Dil sredstev\
-  \ izvajalcem socialno varstvene storitve pomo\u010D dru\u017Eini na domu zaradi\
-  \ epidemije COVID-19"
+naslov: "PRAVILNIK o postopkih in rokih za uveljavljanje zahtevkov izpla\u010Dil sredstev
+  izvajalcem socialno varstvene storitve pomo\u010D dru\u017Eini na domu zaradi epidemije
+  COVID-19"
 npbNum: 0
 path: /2021/35/2021-01-3543
 sopPredpisa: 2021-01-3543

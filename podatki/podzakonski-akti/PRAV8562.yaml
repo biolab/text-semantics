@@ -1,14 +1,8 @@
 Text file: PRAV8562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193436000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-26 22:00:00
 idPredpisa: PRAV8562
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o izvajanju preventivnih ukrepov
   glede ostankov zdravil in kloramfenikola v mleku na kmetijskih gospodarstvih
 npbNum: 0

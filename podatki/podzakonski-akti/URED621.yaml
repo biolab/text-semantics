@@ -1,18 +1,11 @@
 Text file: URED621.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: URED621
 idPredpisaChng: URED621
-instock: .nan
-naslov: "UREDBA o emisiji snovi pri odvajanju odpadne vode iz naprav za \u010Di\u0161\
-  \u010Denje odpadnih plinov se\u017Eigalnice odpadkov in pri sose\u017Eigu odpadkov\
-  \ (delno prenehala veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 4)"
+naslov: "UREDBA o emisiji snovi pri odvajanju odpadne vode iz naprav za \u010Di\u0161\u010Denje
+  odpadnih plinov se\u017Eigalnice odpadkov in pri sose\u017Eigu odpadkov (delno prenehala
+  veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2004/22/2004-01-2226-2001-01-2773-npb4
 sopPredpisa: 2004-01-2226

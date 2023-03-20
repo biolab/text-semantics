@@ -1,17 +1,11 @@
 Text file: PRAV6607.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-18 23:00:00
 idPredpisa: PRAV6607
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih, ki jih mora izpolnjevati zavod za izvajanje prakti\u010D\
-  nega pouka dijakov zdravstvenih \u0161ol in \u0161tudentov visoko\u0161olskih zavodov\
-  \ za podelitev naziva u\u010Dni zavod"
+naslov: "PRAVILNIK o pogojih, ki jih mora izpolnjevati zavod za izvajanje prakti\u010Dnega
+  pouka dijakov zdravstvenih \u0161ol in \u0161tudentov visoko\u0161olskih zavodov
+  za podelitev naziva u\u010Dni zavod"
 npbNum: 0
 path: /2005/44/2005-01-4489
 sopPredpisa: 2005-01-4489

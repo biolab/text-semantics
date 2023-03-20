@@ -1,13 +1,11 @@
 Text file: SKLE8066.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE8066
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi sklepa Vlade Republike Slovenije \u0161t. 912-13/99-5\
-  \ o soglasju za odprtje Konzulata Federativne republike Brazilije v Republiki Sloveniji\
-  \ s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom"
+naslov: "SKLEP o razveljavitvi sklepa Vlade Republike Slovenije \u0161t. 912-13/99-5
+  o soglasju za odprtje Konzulata Federativne republike Brazilije v Republiki Sloveniji
+  s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom"
 npbNum: 0
 path: /2009/30/2009-01-3037
 sopPredpisa: 2009-01-3037

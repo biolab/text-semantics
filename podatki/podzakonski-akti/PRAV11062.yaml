@@ -1,14 +1,8 @@
 Text file: PRAV11062.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1334354400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-04-13 22:00:00
 idPredpisa: PRAV11062
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o izvajanju strokovnega usposabljanja in izpopolnjevanja varnostnega
   osebja
 npbNum: 0

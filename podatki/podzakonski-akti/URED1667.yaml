@@ -1,17 +1,11 @@
 Text file: URED1667.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1002751200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-10 22:00:00
 idPredpisa: URED1667
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o preoblikovanju Rudnika \u017Dirovski vrh, javnega podjetja za zapiranje\
-  \ rudnika urana, p.o., v Rudnik \u017Dirovski vrh, javno podjetje za zapiranje rudnika\
-  \ urana, d.o.o."
+naslov: "UREDBO o preoblikovanju Rudnika \u017Dirovski vrh, javnega podjetja za zapiranje
+  rudnika urana, p.o., v Rudnik \u017Dirovski vrh, javno podjetje za zapiranje rudnika
+  urana, d.o.o."
 npbNum: 0
 path: /2001/41/2001-01-4118
 sopPredpisa: 2001-01-4118

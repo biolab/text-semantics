@@ -1,14 +1,8 @@
 Text file: PRAV8525.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1188943200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-04 22:00:00
 idPredpisa: PRAV8525
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o pogojih, ki jih mora za pridobitev koncesije izpolnjevati izvajalec
   cepljenja lisic
 npbNum: 0

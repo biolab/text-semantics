@@ -1,14 +1,8 @@
 Text file: PRAV3332.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 972684000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-10-27 22:00:00
 idPredpisa: PRAV3332
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dodeljevanju sredstev v okviru javnih razpisov razvojnega projektnega
   financiranja
 npbNum: 0

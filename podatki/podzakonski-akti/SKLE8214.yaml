@@ -1,20 +1,13 @@
 Text file: SKLE8214.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1319061600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-19 22:00:00
 idPredpisa: SKLE8214
 idPredpisaChng: SKLE8214
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov\
-  \ in namestnikov \u010Dlanov Preiskovalne komisije za ugotovitev politi\u010Dne\
-  \ odgovornosti pri pripravi in izvedbi gradbenih investicij na podro\u010Dju izgradnje\
-  \ avtocest in objektov gospodarske javne infrastrukture, financiranih s sredstvi\
-  \ dr\u017Eavnega prora\u010Duna (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov
+  in namestnikov \u010Dlanov Preiskovalne komisije za ugotovitev politi\u010Dne odgovornosti
+  pri pripravi in izvedbi gradbenih investicij na podro\u010Dju izgradnje avtocest
+  in objektov gospodarske javne infrastrukture, financiranih s sredstvi dr\u017Eavnega
+  prora\u010Duna (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2011/36/2011-01-3642-2009-01-3355-npb3
 sopPredpisa: 2011-01-3642

@@ -1,16 +1,10 @@
 Text file: PRAV6360.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-25 22:00:00
 idPredpisa: PRAV6360
 idPredpisaChng: PRAV6360
-instock: .nan
-naslov: "PRAVILNIK o registru zasebnih raziskovalcev (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o registru zasebnih raziskovalcev (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/36/2008-01-3668-2005-01-0349-npb2
 sopPredpisa: 2008-01-3668

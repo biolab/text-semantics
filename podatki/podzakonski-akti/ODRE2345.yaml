@@ -1,16 +1,10 @@
 Text file: ODRE2345.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450479600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-18 23:00:00
 idPredpisa: ODRE2345
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o vklju\u010Ditvi sektorja pridelave in predelave mesa za goveje\
-  \ in perutninsko meso v program promocije"
+naslov: "ODREDBO o vklju\u010Ditvi sektorja pridelave in predelave mesa za goveje
+  in perutninsko meso v program promocije"
 npbNum: 0
 path: /2015/38/2015-01-3861
 sopPredpisa: 2015-01-3861

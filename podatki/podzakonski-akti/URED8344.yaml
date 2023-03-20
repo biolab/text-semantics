@@ -1,16 +1,10 @@
 Text file: URED8344.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-16 22:00:00
 idPredpisa: URED8344
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe rednega vzdr\u017E\
-  evanja dr\u017Eavnih cest"
+naslov: "UREDBO o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe rednega vzdr\u017Eevanja
+  dr\u017Eavnih cest"
 npbNum: 0
 path: /2021/25/2021-01-2529
 sopPredpisa: 2021-01-2529

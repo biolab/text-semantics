@@ -1,17 +1,11 @@
 Text file: PRAV13303.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-31 23:00:00
 idPredpisa: PRAV13303
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini zahtevka za uveljavljanje vi\u0161jih normiranih stro\u0161\
-  kov ali dejanskih stro\u0161kov nerezidenta \u2013 nastopajo\u010Dega izvajalca\
-  \ ali \u0161portnika"
+naslov: "PRAVILNIK o vsebini zahtevka za uveljavljanje vi\u0161jih normiranih stro\u0161kov
+  ali dejanskih stro\u0161kov nerezidenta \u2013 nastopajo\u010Dega izvajalca ali
+  \u0161portnika"
 npbNum: 0
 path: /2017/37/2017-01-3786
 sopPredpisa: 2017-01-3786

@@ -1,14 +1,8 @@
 Text file: URED6078.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1357340400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-01-04 23:00:00
 idPredpisa: URED6078
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koordinaciji slu\u017Eb na morju"
 npbNum: 0
 path: /2012/39/2012-01-3938

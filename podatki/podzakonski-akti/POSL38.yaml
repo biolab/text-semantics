@@ -1,14 +1,8 @@
 Text file: POSL38.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1012431600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-01-30 23:00:00
 idPredpisa: POSL38
 idPredpisaChng: null
-instock: .nan
 naslov: "POSLOVNIK  komisije za ugovor vesti voja\u0161ki dol\u017Enosti"
 npbNum: 0
 path: /2002/03/2002-01-0367

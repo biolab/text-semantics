@@ -1,16 +1,10 @@
 Text file: SKLE10476.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10476
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o vrsti scenarijev, ki se uporabljajo v na\u010D\
-  rtih sanacije"
+naslov: "SKLEP o uporabi Smernic o vrsti scenarijev, ki se uporabljajo v na\u010Drtih
+  sanacije"
 npbNum: 0
 path: /2015/19/2015-01-1947
 sopPredpisa: 2015-01-1947

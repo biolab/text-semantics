@@ -1,12 +1,10 @@
 Text file: RESO101.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO101
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o nacionalnem programu o prehrani in telesni dejavnosti za zdravje\
-  \ 2015\u20132025 (ReNPPTDZ)"
+naslov: "RESOLUCIJO o nacionalnem programu o prehrani in telesni dejavnosti za zdravje
+  2015\u20132025 (ReNPPTDZ)"
 npbNum: 0
 path: /2015/24/2015-01-2441
 sopPredpisa: 2015-01-2441

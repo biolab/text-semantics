@@ -1,18 +1,11 @@
 Text file: URED4377.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1195254000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-16 23:00:00
 idPredpisa: URED4377
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredbe Sveta (ES) o zajam\u010Denih tradicionalnih posebnostih\
-  \ kmetijskih proizvodov in \u017Eivil ter uredbe Sveta (ES) glede za\u0161\u010D\
-  ite geografskih ozna\u010Db in ozna\u010Db porekla za kmetijske proizvode in \u017E\
-  ivila"
+naslov: "UREDBO o izvajanju uredbe Sveta (ES) o zajam\u010Denih tradicionalnih posebnostih
+  kmetijskih proizvodov in \u017Eivil ter uredbe Sveta (ES) glede za\u0161\u010Dite
+  geografskih ozna\u010Db in ozna\u010Db porekla za kmetijske proizvode in \u017Eivila"
 npbNum: 0
 path: /2007/51/2007-01-5127
 sopPredpisa: 2007-01-5127

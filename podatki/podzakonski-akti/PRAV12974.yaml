@@ -1,14 +1,8 @@
 Text file: PRAV12974.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1481324400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-09 23:00:00
 idPredpisa: PRAV12974
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu izdaje potnega lista za begunca"
 npbNum: 0
 path: /2016/33/2016-01-3335

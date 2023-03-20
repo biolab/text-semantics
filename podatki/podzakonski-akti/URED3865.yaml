@@ -1,16 +1,10 @@
 Text file: URED3865.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1121724000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-18 22:00:00
 idPredpisa: URED3865
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za odvzem podzemne vode iz vodnih virov G-9/78, G-10/95,\
-  \ V-3/66-70 in K-2a/86 za proizvodnjo pija\u010D"
+naslov: "UREDBO o koncesiji za odvzem podzemne vode iz vodnih virov G-9/78, G-10/95,
+  V-3/66-70 in K-2a/86 za proizvodnjo pija\u010D"
 npbNum: 0
 path: /2005/29/2005-01-2989
 sopPredpisa: 2005-01-2989

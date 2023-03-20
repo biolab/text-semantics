@@ -1,17 +1,11 @@
 Text file: PRAV10249.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-12 23:00:00
 idPredpisa: PRAV10249
 idPredpisaChng: PRAV10249
-instock: .nan
-naslov: "PRAVILNIK o normativih in standardih za izvajanje izobra\u017Eevalnih programov\
-  \ in vzgojnega programa na podro\u010Dju srednjega \u0161olstva (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o normativih in standardih za izvajanje izobra\u017Eevalnih programov
+  in vzgojnega programa na podro\u010Dju srednjega \u0161olstva (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2021/35/2021-01-3518-2010-01-3507-npb4
 sopPredpisa: 2021-01-3518

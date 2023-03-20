@@ -1,10 +1,8 @@
 Text file: SKLE10000.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10000
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o odprtju Generalnega konzulata Republike Slovenije v Bariju, v Italijanski
   republiki
 npbNum: 0

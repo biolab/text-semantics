@@ -1,17 +1,11 @@
 Text file: SKLE12546.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640386800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-24 23:00:00
 idPredpisa: SKLE12546
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi javnih zavodov s podro\u010Dja vzgoje in izobra\u017E\
-  evanja ter delovnih mest, na katerih so javni uslu\u017Ebenci upravi\u010Deni do\
-  \ dodatka iz 8. to\u010Dke 39.\_\u010Dlena Kolektivne pogodbe za javni sektor"
+naslov: "SKLEP o dolo\u010Ditvi javnih zavodov s podro\u010Dja vzgoje in izobra\u017Eevanja
+  ter delovnih mest, na katerih so javni uslu\u017Ebenci upravi\u010Deni do dodatka
+  iz 8. to\u010Dke 39.\_\u010Dlena Kolektivne pogodbe za javni sektor"
 npbNum: 0
 path: /2021/40/2021-01-4064
 sopPredpisa: 2021-01-4064

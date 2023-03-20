@@ -1,16 +1,10 @@
 Text file: PRAV9264.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1350079200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-10-12 22:00:00
 idPredpisa: PRAV9264
 idPredpisaChng: PRAV9264
-instock: .nan
-naslov: "PRAVILNIK o obrazcu za dav\u010Dni obra\u010Dun akontacije dohodnine od dohodka\
-  \ iz dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o obrazcu za dav\u010Dni obra\u010Dun akontacije dohodnine od dohodka
+  iz dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2012/29/2012-01-2991-2008-01-5469-npb3
 sopPredpisa: 2012-01-2991

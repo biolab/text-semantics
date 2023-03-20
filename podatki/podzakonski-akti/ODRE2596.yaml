@@ -1,17 +1,11 @@
 Text file: ODRE2596.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1603576800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-10-24 22:00:00
 idPredpisa: ODRE2596
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o za\u010Dasnih ukrepih na podro\u010Dju izvajanja sekundariata,\
-  \ pripravni\u0161tva in specializacije v \u010Dasu obvladovanja in prepre\u010D\
-  evanja \u0161irjenja nalezljive bolezni COVID-19"
+naslov: "ODREDBO o za\u010Dasnih ukrepih na podro\u010Dju izvajanja sekundariata,
+  pripravni\u0161tva in specializacije v \u010Dasu obvladovanja in prepre\u010Devanja
+  \u0161irjenja nalezljive bolezni COVID-19"
 npbNum: 0
 path: /2020/26/2020-01-2692
 sopPredpisa: 2020-01-2692

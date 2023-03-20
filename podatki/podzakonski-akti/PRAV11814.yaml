@@ -1,16 +1,10 @@
 Text file: PRAV11814.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1398463200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-25 22:00:00
 idPredpisa: PRAV11814
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uvr\u0161\u010Danju in izlo\u010Ditvi medicinskih pripomo\u010D\
-  kov na seznam medicinskih pripomo\u010Dkov"
+naslov: "PRAVILNIK o uvr\u0161\u010Danju in izlo\u010Ditvi medicinskih pripomo\u010Dkov
+  na seznam medicinskih pripomo\u010Dkov"
 npbNum: 0
 path: /2014/09/2014-01-0985
 sopPredpisa: 2014-01-0985

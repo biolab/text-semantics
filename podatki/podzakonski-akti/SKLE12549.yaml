@@ -1,14 +1,8 @@
 Text file: SKLE12549.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634940000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-22 22:00:00
 idPredpisa: SKLE12549
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prenehanju veljavnosti Sklepa o makrobonitetnem spremljanju strukture
   financiranja
 npbNum: 0

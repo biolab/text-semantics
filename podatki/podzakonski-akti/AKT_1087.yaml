@@ -1,18 +1,11 @@
 Text file: AKT_1087.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-31 23:00:00
 idPredpisa: AKT_1087
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskih obmo\u010Djih Mestne ob\u010Dine Maribor in ob\u010D\
-  in Ru\u0161e, Ho\u010De-Slivnica, \u0160entilj, Miklav\u017E na Dravskem polju in\
-  \ Ra\u010De-Fram"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskih obmo\u010Djih Mestne ob\u010Dine Maribor in ob\u010Din
+  Ru\u0161e, Ho\u010De-Slivnica, \u0160entilj, Miklav\u017E na Dravskem polju in Ra\u010De-Fram"
 npbNum: 0
 path: /2018/42/2018-01-4207
 sopPredpisa: 2018-01-4207

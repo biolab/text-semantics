@@ -1,16 +1,10 @@
 Text file: SKLE10787.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467324000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-06-30 22:00:00
 idPredpisa: SKLE10787
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine stro\u0161ka dnevne oskrbe za prosilca\
-  \ za mednarodno za\u0161\u010Dito"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine stro\u0161ka dnevne oskrbe za prosilca
+  za mednarodno za\u0161\u010Dito"
 npbNum: 0
 path: /2016/20/2016-01-2000
 sopPredpisa: 2016-01-2000

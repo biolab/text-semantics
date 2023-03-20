@@ -1,18 +1,16 @@
 Text file: AKT_982.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_982
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL: parlamentarno preiskavo za spremembo zakonodaje ter za druge odlo\u010D\
-  itve Dr\u017Eavnega zbora iz njegove pristojnosti ter za ugotovitev in\_oceno dejanskega\
-  \ stanja za ugotovitev politi\u010Dne odgovornosti nosilcev javnih funkcij, ki\_\
-  naj bi sodelovali pri pripravi in izvedbi postopka javnega naro\u010Danja na podro\u010D\
-  ju prodaje in nabave \u017Eilnih opornic, zaradi suma, da so bili postopki in posli\
-  \ vodeni negospodarno in netransparentno, da naj bi\_nastale \u0161e neugotovljene\
-  \ posledice tak\u0161nih ravnanj ter zaradi suma prisotnosti korupcije v\_zdravstvu\
-  \ na podro\u010Dju prodaje in nabave \u017Eilnih\_opornic, "
+naslov: "ODREDIL: parlamentarno preiskavo za spremembo zakonodaje ter za druge odlo\u010Ditve
+  Dr\u017Eavnega zbora iz njegove pristojnosti ter za ugotovitev in\_oceno dejanskega
+  stanja za ugotovitev politi\u010Dne odgovornosti nosilcev javnih funkcij, ki\_naj
+  bi sodelovali pri pripravi in izvedbi postopka javnega naro\u010Danja na podro\u010Dju
+  prodaje in nabave \u017Eilnih opornic, zaradi suma, da so bili postopki in posli
+  vodeni negospodarno in netransparentno, da naj bi\_nastale \u0161e neugotovljene
+  posledice tak\u0161nih ravnanj ter zaradi suma prisotnosti korupcije v\_zdravstvu
+  na podro\u010Dju prodaje in nabave \u017Eilnih\_opornic, "
 npbNum: 0
 path: /2016/09/2016-01-0916
 sopPredpisa: 2016-01-0916

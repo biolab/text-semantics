@@ -1,16 +1,10 @@
 Text file: KOLP52.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: KOLP52
 idPredpisaChng: KOLP52
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA za zaposlene v zdravstveni negi (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 14)"
+naslov: "KOLEKTIVNA POGODBA za zaposlene v zdravstveni negi (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 14)"
 npbNum: 14
 path: /2021/35/2021-01-3594-1998-01-2770-npb14
 sopPredpisa: 2021-01-3594

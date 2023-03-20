@@ -1,16 +1,10 @@
 Text file: URED4507.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1198537200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-24 23:00:00
 idPredpisa: URED4507
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo podzemne vode iz vrtin K-1/67, K-2/70, V-1/72,\
-  \ V-3/75 in V-4/84 za dejavnost kopali\u0161\u010D in naravnih zdravili\u0161\u010D"
+naslov: "UREDBO o koncesiji za rabo podzemne vode iz vrtin K-1/67, K-2/70, V-1/72,
+  V-3/75 in V-4/84 za dejavnost kopali\u0161\u010D in naravnih zdravili\u0161\u010D"
 npbNum: 0
 path: /2007/59/2007-01-5987
 sopPredpisa: 2007-01-5987

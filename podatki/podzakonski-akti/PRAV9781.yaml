@@ -1,14 +1,8 @@
 Text file: PRAV9781.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-27 23:00:00
 idPredpisa: PRAV9781
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o meroslovnih zahtevah za naprave z valji za preverjanje zaviralne
   sile
 npbNum: 0

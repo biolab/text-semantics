@@ -1,19 +1,13 @@
 Text file: SKLE9198.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1330556400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-29 23:00:00
 idPredpisa: SKLE9198
 idPredpisaChng: SKLE9198
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi standarda povpre\u010Dne pla\u010De ter stro\u0161\
-  kov in odhodkov storitev oskrbe institucionalnega varstva za osebe, starej\u0161\
-  e od 65\_let ter za odrasle osebe s posebnimi potrebami v posebnih socialno varstvenih\
-  \ zavodih in enotah domov za starej\u0161e, ki ga je mo\u017Eno upo\u0161tevati\
-  \ v cenah storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o dolo\u010Ditvi standarda povpre\u010Dne pla\u010De ter stro\u0161kov
+  in odhodkov storitev oskrbe institucionalnega varstva za osebe, starej\u0161e od
+  65\_let ter za odrasle osebe s posebnimi potrebami v posebnih socialno varstvenih
+  zavodih in enotah domov za starej\u0161e, ki ga je mo\u017Eno upo\u0161tevati v
+  cenah storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2012/05/2012-01-0595-2012-01-0411-npb1
 sopPredpisa: 2012-01-0595

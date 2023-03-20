@@ -1,14 +1,8 @@
 Text file: PRAV13628.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1580511600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-31 23:00:00
 idPredpisa: PRAV13628
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o klasifikaciji in kategorizaciji zalog in virov trdnih mineralnih
   surovin
 npbNum: 0

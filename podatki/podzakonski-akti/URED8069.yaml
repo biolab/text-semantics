@@ -1,16 +1,10 @@
 Text file: URED8069.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590098400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-21 22:00:00
 idPredpisa: URED8069
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku\
-  \ Dravinja v ob\u010Dini Zre\u010De"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku
+  Dravinja v ob\u010Dini Zre\u010De"
 npbNum: 0
 path: /2020/11/2020-01-1100
 sopPredpisa: 2020-01-1100

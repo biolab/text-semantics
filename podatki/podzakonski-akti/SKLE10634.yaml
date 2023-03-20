@@ -1,16 +1,10 @@
 Text file: SKLE10634.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653688800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-27 22:00:00
 idPredpisa: SKLE10634
 idPredpisaChng: SKLE10634
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161ih navodilih za vrednotenje zavarovalno-tehni\u010D\
-  nih rezervacij (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o podrobnej\u0161ih navodilih za vrednotenje zavarovalno-tehni\u010Dnih
+  rezervacij (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2022/15/2022-01-1565-2016-01-0173-npb1
 sopPredpisa: 2022-01-1565

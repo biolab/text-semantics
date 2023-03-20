@@ -1,17 +1,11 @@
 Text file: URED2368.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1048892400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-28 23:00:00
 idPredpisa: URED2368
 idPredpisaChng: URED2368
-instock: .nan
-naslov: "UREDBA o neposrednih pla\u010Dilih za ukrepe Slovenskega kmetijsko okoljskega\
-  \ programa v letih 2002\u20132003 (EKO 2, EKO 3) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "UREDBA o neposrednih pla\u010Dilih za ukrepe Slovenskega kmetijsko okoljskega
+  programa v letih 2002\u20132003 (EKO 2, EKO 3) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/13/2003-01-1331-2002-01-1574-npb2
 sopPredpisa: 2003-01-1331

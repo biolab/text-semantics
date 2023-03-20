@@ -1,16 +1,10 @@
 Text file: SKLE12715.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-18 23:00:00
 idPredpisa: SKLE12715
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o poro\u010Danju posameznih dejstev in okoli\u0161\u010Din borznoposredni\u0161\
-  kih dru\u017Eb"
+naslov: "SKLEP o poro\u010Danju posameznih dejstev in okoli\u0161\u010Din borznoposredni\u0161kih
+  dru\u017Eb"
 npbNum: 0
 path: /2022/05/2022-01-0568
 sopPredpisa: 2022-01-0568

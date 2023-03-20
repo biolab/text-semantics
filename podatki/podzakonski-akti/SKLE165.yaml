@@ -1,21 +1,14 @@
 Text file: SKLE165.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 818636400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-12-10 23:00:00
 idPredpisa: SKLE165
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za izvennivojski\
-  \ priklju\u010Dek Slovenska Bistrica sever na odseku avtomobilske ceste A 10 Ho\u010D\
-  e\u2013Arja vas in o javni razgrnitvi predloga sprememb in dopolnitev prostorskih\
-  \ sestavin dolgoro\u010Dnega plana Ob\u010Dine Slovenska Bistrica za obdobje 1986\u2013\
-  2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Slovenska Bistrica\
-  \ za obdobje 1986\u20131990 s programsko zasnovo v delu, ki ga opredeljuje osnutek\
-  \ lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za izvennivojski
+  priklju\u010Dek Slovenska Bistrica sever na odseku avtomobilske ceste A 10 Ho\u010De\u2013Arja
+  vas in o javni razgrnitvi predloga sprememb in dopolnitev prostorskih sestavin dolgoro\u010Dnega
+  plana Ob\u010Dine Slovenska Bistrica za obdobje 1986\u20132000 in srednjero\u010Dnega
+  dru\u017Ebenega plana Ob\u010Dine Slovenska Bistrica za obdobje 1986\u20131990 s
+  programsko zasnovo v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1995/33/1995-01-3303
 sopPredpisa: 1995-01-3303

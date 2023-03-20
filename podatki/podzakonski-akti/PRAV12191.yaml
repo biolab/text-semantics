@@ -1,16 +1,10 @@
 Text file: PRAV12191.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1414188000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-10-24 22:00:00
 idPredpisa: PRAV12191
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev vidnih dose\u017Ekov za pridobitev\
-  \ naziva predavatelj vi\u0161je \u0161ole"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev vidnih dose\u017Ekov za pridobitev
+  naziva predavatelj vi\u0161je \u0161ole"
 npbNum: 0
 path: /2014/31/2014-01-3188
 sopPredpisa: 2014-01-3188

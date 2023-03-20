@@ -1,16 +1,10 @@
 Text file: SKLE2067.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 986508000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-04-05 22:00:00
 idPredpisa: SKLE2067
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Cerklje"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Cerklje"
 npbNum: 0
 path: /2001/15/2001-01-1529
 sopPredpisa: 2001-01-1529

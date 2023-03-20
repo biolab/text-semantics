@@ -1,16 +1,10 @@
 Text file: ODRE2730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647039600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-11 23:00:00
 idPredpisa: ODRE2730
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o Programu promocije in informiranja javnosti o shemah kakovosti\
-  \ za obdobje do 30.\_junija 2023"
+naslov: "ODREDBO o Programu promocije in informiranja javnosti o shemah kakovosti
+  za obdobje do 30.\_junija 2023"
 npbNum: 0
 path: /2022/07/2022-01-0706
 sopPredpisa: 2022-01-0706

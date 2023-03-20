@@ -1,16 +1,10 @@
 Text file: SKLE12813.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1652479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-13 22:00:00
 idPredpisa: SKLE12813
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic Evropskega ban\u010Dnega organa o notranjem upravljanju\
-  \ v skladu z Direktivo (EU) 2019/2034"
+naslov: "SKLEP o uporabi Smernic Evropskega ban\u010Dnega organa o notranjem upravljanju
+  v skladu z Direktivo (EU) 2019/2034"
 npbNum: 0
 path: /2022/12/2022-01-1276
 sopPredpisa: 2022-01-1276

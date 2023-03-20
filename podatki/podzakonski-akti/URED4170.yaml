@@ -1,16 +1,10 @@
 Text file: URED4170.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1362783600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-08 23:00:00
 idPredpisa: URED4170
 idPredpisaChng: URED4170
-instock: .nan
-naslov: "UREDBA o vrstah posegov v okolje, za katere je treba izvesti presojo vplivov\
-  \ na okolje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "UREDBA o vrstah posegov v okolje, za katere je treba izvesti presojo vplivov
+  na okolje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2013/07/2013-01-0777-2006-01-3406-npb4
 sopPredpisa: 2013-01-0777

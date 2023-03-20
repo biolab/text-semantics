@@ -1,14 +1,8 @@
 Text file: PRAV3842.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 992642400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-15 22:00:00
 idPredpisa: PRAV3842
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o publikaciji o glasbeni \u0161oli"
 npbNum: 0
 path: /2001/24/2001-01-2487

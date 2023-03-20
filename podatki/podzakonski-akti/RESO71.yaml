@@ -1,12 +1,9 @@
 Text file: RESO71.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO71
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o Nacionalnem programu visokega \u0161olstva 2011\u20132020 (ReNPV\u0160\
-  11-20)"
+naslov: "RESOLUCIJO o Nacionalnem programu visokega \u0161olstva 2011\u20132020 (ReNPV\u016011-20)"
 npbNum: 0
 path: /2011/19/2011-01-1974
 sopPredpisa: 2011-01-1974

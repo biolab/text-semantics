@@ -1,16 +1,10 @@
 Text file: SKLE12221.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1604703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-06 23:00:00
 idPredpisa: SKLE12221
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o zgornjih mejah za izpla\u010Dilo dela vdovske pokojnine od 1.\_decembra\
-  \ 2020"
+naslov: "SKLEP o zgornjih mejah za izpla\u010Dilo dela vdovske pokojnine od 1.\_decembra
+  2020"
 npbNum: 0
 path: /2020/27/2020-01-2792
 sopPredpisa: 2020-01-2792

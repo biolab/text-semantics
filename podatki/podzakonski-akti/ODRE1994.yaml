@@ -1,23 +1,17 @@
 Text file: ODRE1994.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1178229600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-03 22:00:00
 idPredpisa: ODRE1994
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL parlamentarno preiskavo za ugotovitev politi\u010Dne odgovornosti\
-  \ nosilcev javnih funkcij, ki so sodelovali pri pripravi in izvedbi nakupa lahkih\
-  \ oklepnih kolesnih vozil 6x6, vladnega letala, havbic 155 mm, sistema za upravljanje\
-  \ ognja (ACCS), letal Pilatus in obnovi tankov T55-S financiranih v okviru temeljnih\
-  \ razvojnih programov obrambnih sil Republike Slovenije v letih 1994 do 2007 zaradi\
-  \ suma, da so bili posli politi\u010Dno dogovorjeni, vodeni netransparentno in da\
-  \ so negospodarni, ter zaradi suma o prisotnosti klientelizma in korupcije, in za\
-  \ ugotovitev suma o odgovornosti nosilcev javnih funkcij pri razoro\u017Eitvi nekdanje\
-  \ teritorialne obrambe"
+naslov: "ODREDIL parlamentarno preiskavo za ugotovitev politi\u010Dne odgovornosti
+  nosilcev javnih funkcij, ki so sodelovali pri pripravi in izvedbi nakupa lahkih
+  oklepnih kolesnih vozil 6x6, vladnega letala, havbic 155 mm, sistema za upravljanje
+  ognja (ACCS), letal Pilatus in obnovi tankov T55-S financiranih v okviru temeljnih
+  razvojnih programov obrambnih sil Republike Slovenije v letih 1994 do 2007 zaradi
+  suma, da so bili posli politi\u010Dno dogovorjeni, vodeni netransparentno in da
+  so negospodarni, ter zaradi suma o prisotnosti klientelizma in korupcije, in za
+  ugotovitev suma o odgovornosti nosilcev javnih funkcij pri razoro\u017Eitvi nekdanje
+  teritorialne obrambe"
 npbNum: 0
 path: /2007/21/2007-01-2108
 sopPredpisa: 2007-01-2108

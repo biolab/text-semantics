@@ -1,17 +1,11 @@
 Text file: PRAV9814.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1288389600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-10-29 22:00:00
 idPredpisa: PRAV9814
 idPredpisaChng: PRAV9814
-instock: .nan
-naslov: "UREDBA o ukrepih 1., 3. in 4. osi Programa razvoja pode\u017Eelja Republike\
-  \ Slovenije za obdobje 2007\u20132013 v letih 2010\u20132013 (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o ukrepih 1., 3. in 4. osi Programa razvoja pode\u017Eelja Republike
+  Slovenije za obdobje 2007\u20132013 v letih 2010\u20132013 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/46/2010-01-4647-2010-01-2061-npb1
 sopPredpisa: 2010-01-4647

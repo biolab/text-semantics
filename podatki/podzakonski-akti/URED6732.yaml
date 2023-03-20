@@ -1,17 +1,11 @@
 Text file: URED6732.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1392418800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-14 23:00:00
 idPredpisa: URED6732
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi vi\u0161ine dnevnega nadomestila za \u010Das zadr\u017E\
-  anosti od dela zaradi bolezni za samozaposlene v kulturi za polni delovni \u010D\
-  as za leto 2014"
+naslov: "UREDBO o dolo\u010Ditvi vi\u0161ine dnevnega nadomestila za \u010Das zadr\u017Eanosti
+  od dela zaradi bolezni za samozaposlene v kulturi za polni delovni \u010Das za leto
+  2014"
 npbNum: 0
 path: /2014/03/2014-01-0352
 sopPredpisa: 2014-01-0352

@@ -1,16 +1,10 @@
 Text file: PRAV4825.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1092693600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-16 22:00:00
 idPredpisa: PRAV4825
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Polje\
-  \ (2002 \u2013 2011)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Polje
+  (2002 \u2013 2011)"
 npbNum: 0
 path: /2004/41/2004-01-4144
 sopPredpisa: 2004-01-4144

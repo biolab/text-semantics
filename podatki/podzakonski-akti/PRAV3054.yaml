@@ -1,16 +1,10 @@
 Text file: PRAV3054.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 906760800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-09-25 22:00:00
 idPredpisa: PRAV3054
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vrstah vzdr\u017Eevalnih del na javnih cestah in nivoju rednega\
-  \ vzdr\u017Eevanja javnih cest"
+naslov: "PRAVILNIK o vrstah vzdr\u017Eevalnih del na javnih cestah in nivoju rednega
+  vzdr\u017Eevanja javnih cest"
 npbNum: 0
 path: /1998/28/1998-01-2848
 sopPredpisa: 1998-01-2848

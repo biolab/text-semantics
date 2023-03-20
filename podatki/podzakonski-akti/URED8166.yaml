@@ -1,17 +1,11 @@
 Text file: URED8166.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1607641200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-10 23:00:00
 idPredpisa: URED8166
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o rudarski pravici za izkori\u0161\u010Danje mineralne surovine tehni\u010D\
-  ni kamen \u2013 dolomit v pridobivalnem prostoru Bela \u2013 \u0161iritev v ob\u010D\
-  ini Polj\u010Dane"
+naslov: "UREDBO o rudarski pravici za izkori\u0161\u010Danje mineralne surovine tehni\u010Dni
+  kamen \u2013 dolomit v pridobivalnem prostoru Bela \u2013 \u0161iritev v ob\u010Dini
+  Polj\u010Dane"
 npbNum: 0
 path: /2020/32/2020-01-3204
 sopPredpisa: 2020-01-3204

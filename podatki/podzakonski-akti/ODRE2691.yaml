@@ -1,19 +1,10 @@
 Text file: ODRE2691.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630447200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1629756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-08-31 22:00:00
+datumZacetkaVelj: 2021-08-23 22:00:00
 idPredpisa: ODRE2691
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izvajanja samotestiranja za zgodnje odkrivanje oku\u017E\
-  b z virusom SARS-CoV-2 za u\u010Dence in dijake"
+naslov: "PRAVILNIK o na\u010Dinu izvajanja samotestiranja za zgodnje odkrivanje oku\u017Eb
+  z virusom SARS-CoV-2 za u\u010Dence in dijake"
 npbNum: 0
 path: /2021/27/2021-01-2761
 sopPredpisa: 2021-01-2761

@@ -1,16 +1,10 @@
 Text file: SKLE1077.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 961711200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-22 22:00:00
 idPredpisa: SKLE1077
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Lenart v Slovenskih Goricah"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Lenart v Slovenskih Goricah"
 npbNum: 0
 path: /2000/26/2000-01-2622
 sopPredpisa: 2000-01-2622

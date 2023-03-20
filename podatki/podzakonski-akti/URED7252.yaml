@@ -1,16 +1,10 @@
 Text file: URED7252.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1461362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-22 22:00:00
 idPredpisa: URED7252
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob predoru\
-  \ potoka Dupelj\u0161\u010Dica v naselju Stru\u017Eevo v Mestni ob\u010Dini Kranj"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob predoru
+  potoka Dupelj\u0161\u010Dica v naselju Stru\u017Eevo v Mestni ob\u010Dini Kranj"
 npbNum: 0
 path: /2016/11/2016-01-1183
 sopPredpisa: 2016-01-1183

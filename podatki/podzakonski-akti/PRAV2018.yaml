@@ -1,16 +1,10 @@
 Text file: PRAV2018.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 998690400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-24 22:00:00
 idPredpisa: PRAV2018
 idPredpisaChng: PRAV2018
-instock: .nan
-naslov: "PRAVILNIK o kontroli kakovosti grozdja v \u010Dasu trgatve (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o kontroli kakovosti grozdja v \u010Dasu trgatve (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2001/37/2001-01-3779-1999-01-3377-npb2
 sopPredpisa: 2001-01-3779

@@ -1,19 +1,10 @@
 Text file: PRAV13061.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-12-31 23:00:00
+datumZacetkaVelj: 2019-06-21 22:00:00
 idPredpisa: PRAV13061
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zahtevah glede pravilnega delovanja naprav za nana\u0161anje\
-  \ fitofarmacevtskih sredstev in o pogojih ter na\u010Dinu izvajanja njihovih pregledov"
+naslov: "PRAVILNIK o zahtevah glede pravilnega delovanja naprav za nana\u0161anje
+  fitofarmacevtskih sredstev in o pogojih ter na\u010Dinu izvajanja njihovih pregledov"
 npbNum: 0
 path: /2019/16/2019-01-1633
 sopPredpisa: 2019-01-1633

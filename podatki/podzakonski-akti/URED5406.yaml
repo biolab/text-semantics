@@ -1,16 +1,10 @@
 Text file: URED5406.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1310767200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-15 22:00:00
 idPredpisa: URED5406
 idPredpisaChng: URED5406
-instock: .nan
-naslov: "UREDBA o zagotavljanju prihrankov energije pri kon\u010Dnih odjemalcih (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o zagotavljanju prihrankov energije pri kon\u010Dnih odjemalcih (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/26/2011-01-2649-2009-01-5214-npb1
 sopPredpisa: 2011-01-2649

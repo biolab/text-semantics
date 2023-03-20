@@ -1,17 +1,11 @@
 Text file: URED6337.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1362783600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-08 23:00:00
 idPredpisa: URED6337
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih proti nekaterim posameznikom, skupinam, podjetjem\
-  \ in subjektom zaradi razmer v Afganistanu in izvajanju Uredbe Sveta (EU) \u0161\
-  t. 753/2011"
+naslov: "UREDBO o omejevalnih ukrepih proti nekaterim posameznikom, skupinam, podjetjem
+  in subjektom zaradi razmer v Afganistanu in izvajanju Uredbe Sveta (EU) \u0161t.
+  753/2011"
 npbNum: 0
 path: /2013/07/2013-01-0771
 sopPredpisa: 2013-01-0771

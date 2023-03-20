@@ -1,16 +1,10 @@
 Text file: PRAV6646.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1122933600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-01 22:00:00
 idPredpisa: PRAV6646
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi dejavnosti uslu\u017Ebencev dav\u010Dne uprave,\
-  \ ki so nezdru\u017Eljive z nalogami dav\u010Dne slu\u017Ebe"
+naslov: "PRAVILNIK o dolo\u010Ditvi dejavnosti uslu\u017Ebencev dav\u010Dne uprave,
+  ki so nezdru\u017Eljive z nalogami dav\u010Dne slu\u017Ebe"
 npbNum: 0
 path: /2005/32/2005-01-3260
 sopPredpisa: 2005-01-3260

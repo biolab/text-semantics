@@ -1,16 +1,10 @@
 Text file: URED4341.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196722800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-03 23:00:00
 idPredpisa: URED4341
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o organizaciji in delovanju sistema opazovanja, obve\u0161\u010Danja\
-  \ in alarmiranja"
+naslov: "UREDBO o organizaciji in delovanju sistema opazovanja, obve\u0161\u010Danja
+  in alarmiranja"
 npbNum: 0
 path: /2007/52/2007-01-5220
 sopPredpisa: 2007-01-5220

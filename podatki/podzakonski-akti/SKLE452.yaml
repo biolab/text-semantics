@@ -1,14 +1,8 @@
 Text file: SKLE452.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 944262000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-03 23:00:00
 idPredpisa: SKLE452
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o veljavnosti tretjega dodatka k tretji izdaji Evropske farmakopeje
 npbNum: 0
 path: /1999/46/1999-01-4621

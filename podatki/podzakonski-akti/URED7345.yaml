@@ -1,16 +1,10 @@
 Text file: URED7345.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1477692000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-28 22:00:00
 idPredpisa: URED7345
 idPredpisaChng: URED7345
-instock: .nan
-naslov: "UREDBA o za\u010Dasnih izrednih ukrepih na trgu s sve\u017Eim sadjem in zelenjavo\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o za\u010Dasnih izrednih ukrepih na trgu s sve\u017Eim sadjem in zelenjavo
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/29/2016-01-2920-2016-01-2030-npb1
 sopPredpisa: 2016-01-2920

@@ -1,14 +1,8 @@
 Text file: URED4389.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196722800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-03 23:00:00
 idPredpisa: URED4389
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dav\u010Dni regijski olaj\u0161avi za raziskave in razvoj"
 npbNum: 0
 path: /2007/54/2007-01-5470

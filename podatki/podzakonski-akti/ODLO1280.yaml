@@ -1,16 +1,10 @@
 Text file: ODLO1280.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1058565600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-07-18 22:00:00
 idPredpisa: ODLO1280
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o gozdnogospodarskem na\u010Drtu Gozdnogospodarskega obmo\u010Dja Maribor\
-  \ (2001-2010)"
+naslov: "ODLOK o gozdnogospodarskem na\u010Drtu Gozdnogospodarskega obmo\u010Dja Maribor
+  (2001-2010)"
 npbNum: 0
 path: /2003/33/2003-01-3382
 sopPredpisa: 2003-01-3382

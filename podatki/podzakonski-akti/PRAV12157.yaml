@@ -1,14 +1,8 @@
 Text file: PRAV12157.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1410559200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-09-12 22:00:00
 idPredpisa: PRAV12157
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o strokovnih nalogah ocenjevanja aktivnih snovi in fitofarmacevtskih
   sredstev ter pogojih glede izobrazbe ocenjevalcev
 npbNum: 0

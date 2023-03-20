@@ -1,14 +1,8 @@
 Text file: PRAV3599.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 837208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-12 22:00:00
 idPredpisa: PRAV3599
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o uveljavljanju popusta pri vo\u017Enji"
 npbNum: 0
 path: /1996/23/1996-01-2386

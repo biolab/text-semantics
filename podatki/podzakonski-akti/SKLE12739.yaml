@@ -1,19 +1,10 @@
 Text file: SKLE12739.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648764000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648249200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-03-31 22:00:00
+datumZacetkaVelj: 2022-03-25 23:00:00
 idPredpisa: SKLE12739
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev odpadne embala\u017Ee za april, maj in\
-  \ junij 2022"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev odpadne embala\u017Ee za april, maj in
+  junij 2022"
 npbNum: 0
 path: /2022/08/2022-01-0868
 sopPredpisa: 2022-01-0868

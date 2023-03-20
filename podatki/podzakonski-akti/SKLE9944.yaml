@@ -1,17 +1,11 @@
 Text file: SKLE9944.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388530800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-31 23:00:00
 idPredpisa: SKLE9944
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije Eurocontrol \u0161t. 124 o dolo\u010Ditvi\
-  \ zamudnih obresti za pristojbine na zra\u010Dnih poteh z za\u010Detkom veljavnosti\
-  \ 1.\_januarja 2014,"
+naslov: "SKLEP raz\u0161irjene komisije Eurocontrol \u0161t. 124 o dolo\u010Ditvi
+  zamudnih obresti za pristojbine na zra\u010Dnih poteh z za\u010Detkom veljavnosti
+  1.\_januarja 2014,"
 npbNum: 0
 path: /2014/03/2014-01-0308
 sopPredpisa: 2014-01-0308

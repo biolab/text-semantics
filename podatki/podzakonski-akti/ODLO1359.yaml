@@ -1,16 +1,10 @@
 Text file: ODLO1359.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1081461600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-08 22:00:00
 idPredpisa: ODLO1359
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu priprave dr\u017Eavnega lokacijskega na\u010Drta za mednarodni\
-  \ mejni prehod Starod"
+naslov: "ODLOK o programu priprave dr\u017Eavnega lokacijskega na\u010Drta za mednarodni
+  mejni prehod Starod"
 npbNum: 0
 path: /2004/14/2004-01-1472
 sopPredpisa: 2004-01-1472

@@ -1,14 +1,8 @@
 Text file: PRAV10056.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1309816800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-04 22:00:00
 idPredpisa: PRAV10056
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prvih meritvah in obratovalnem monitoringu odpadnih voda ter o
   pogojih za njegovo izvajanje
 npbNum: 0

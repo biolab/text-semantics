@@ -1,19 +1,10 @@
 Text file: ODLO1773.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388530800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1386716400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-12-31 23:00:00
+datumZacetkaVelj: 2013-12-10 23:00:00
 idPredpisa: ODLO1773
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Dr\u017E\
-  avno revizijsko komisijo za leto 2014 (OdRSPDRK14)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Dr\u017Eavno
+  revizijsko komisijo za leto 2014 (OdRSPDRK14)"
 npbNum: 0
 path: /2013/37/2013-01-3729
 sopPredpisa: 2013-01-3729

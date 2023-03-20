@@ -1,17 +1,11 @@
 Text file: URED5651.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-12 23:00:00
 idPredpisa: URED5651
 idPredpisaChng: URED5651
-instock: .nan
-naslov: "UREDBA o soglasjih za proizvodnjo in dovoljenjih za promet z voja\u0161kim\
-  \ oro\u017Ejem in opremo ter predhodnih dovoljenjih za uvoz, izvoz, tranzit in prenos\
-  \ obrambnih proizvodov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+naslov: "UREDBA o soglasjih za proizvodnjo in dovoljenjih za promet z voja\u0161kim
+  oro\u017Ejem in opremo ter predhodnih dovoljenjih za uvoz, izvoz, tranzit in prenos
+  obrambnih proizvodov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
 npbNum: 10
 path: /2021/33/2021-01-3364-2011-01-2782-npb10
 sopPredpisa: 2021-01-3364

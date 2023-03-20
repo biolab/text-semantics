@@ -1,21 +1,19 @@
 Text file: AKT_1124.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1124
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev politi\u010Dne odgovornosti\
-  \ nosilcev javnih funkcij, ki naj bi sodelovali pri pripravi in izvedbi politi\u010D\
-  nega in kazenskega pregona zoper nekdanjega \u017Eupana Mestne ob\u010Dine Maribor\
-  \ in \u010Dlana Dr\u017Eavnega sveta Republike Slovenije Franca Kanglerja in drugih,\
-  \ zaradi suma, da so bile v postopkih zoper nekdanjega \u017Eupana Mestne ob\u010D\
-  ine Maribor in \u010Dlana Dr\u017Eavnega sveta Republike Slovenije Franca Kanglerja\
-  \ in drugih huje kr\u0161ene in nedopustno zlorabljene dolo\u010Dbe Evropske konvencije\
-  \ o varstvu \u010Dlovekovih pravic in temeljnih svobo\u0161\u010Din, Ustave Republike\
-  \ Slovenije, Zakona o kazenskem postopku, Kazenskega zakonika ter Zakona o dr\u017E\
-  avnem svetu, in ugotovitev domnevnega nezakonitega upravljanja in vodenja dolo\u010D\
-  enih evidenc Policije,"
+naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev politi\u010Dne odgovornosti
+  nosilcev javnih funkcij, ki naj bi sodelovali pri pripravi in izvedbi politi\u010Dnega
+  in kazenskega pregona zoper nekdanjega \u017Eupana Mestne ob\u010Dine Maribor in
+  \u010Dlana Dr\u017Eavnega sveta Republike Slovenije Franca Kanglerja in drugih,
+  zaradi suma, da so bile v postopkih zoper nekdanjega \u017Eupana Mestne ob\u010Dine
+  Maribor in \u010Dlana Dr\u017Eavnega sveta Republike Slovenije Franca Kanglerja
+  in drugih huje kr\u0161ene in nedopustno zlorabljene dolo\u010Dbe Evropske konvencije
+  o varstvu \u010Dlovekovih pravic in temeljnih svobo\u0161\u010Din, Ustave Republike
+  Slovenije, Zakona o kazenskem postopku, Kazenskega zakonika ter Zakona o dr\u017Eavnem
+  svetu, in ugotovitev domnevnega nezakonitega upravljanja in vodenja dolo\u010Denih
+  evidenc Policije,"
 npbNum: 0
 path: /2019/21/2019-01-2181
 sopPredpisa: 2019-01-2181

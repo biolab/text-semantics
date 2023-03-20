@@ -1,17 +1,11 @@
 Text file: PRAV2182.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1345240800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-08-17 22:00:00
 idPredpisa: PRAV2182
 idPredpisaChng: PRAV2182
-instock: .nan
-naslov: "PRAVILNIK o \u0161olski dokumentaciji v srednje\u0161olskem izobra\u017E\
-  evanju (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "PRAVILNIK o \u0161olski dokumentaciji v srednje\u0161olskem izobra\u017Eevanju
+  (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2012/25/2012-01-2512-1999-01-4584-npb3
 sopPredpisa: 2012-01-2512

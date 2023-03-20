@@ -1,14 +1,8 @@
 Text file: SKLE1494.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 692060400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-12-06 23:00:00
 idPredpisa: SKLE1494
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uskladitvi zneskov denarnih nadomestil za telesno okvaro
 npbNum: 0
 path: /1991/11/1991-01-1144

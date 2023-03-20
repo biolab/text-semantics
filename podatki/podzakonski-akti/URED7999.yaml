@@ -1,16 +1,10 @@
 Text file: URED7999.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590789600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-29 22:00:00
 idPredpisa: URED7999
 idPredpisaChng: URED7999
-instock: .nan
-naslov: "UREDBA o izvedbi ukrepov kmetijske politike za leto 2020 (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o izvedbi ukrepov kmetijske politike za leto 2020 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/11/2020-01-1177-2020-01-0334-npb2
 sopPredpisa: 2020-01-1177

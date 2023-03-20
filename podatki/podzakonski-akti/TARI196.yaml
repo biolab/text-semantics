@@ -1,20 +1,11 @@
 Text file: TARI196.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482966000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-12-28 23:00:00
 idPredpisa: TARI196
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO 2017 o vrednosti to\u010Dke za letno pla\u010Dilo na podlagi dovoljenja\
-  \ za izvajanje televizijske dejavnosti oziroma vpisa v uradno evidenco ponudnikov\
-  \ avdiovizualnih medijskih storitev na zahtevo"
+naslov: "TARIFO 2017 o vrednosti to\u010Dke za letno pla\u010Dilo na podlagi dovoljenja
+  za izvajanje televizijske dejavnosti oziroma vpisa v uradno evidenco ponudnikov
+  avdiovizualnih medijskih storitev na zahtevo"
 npbNum: 0
 path: /2016/37/2016-01-3720
 sopPredpisa: 2016-01-3720

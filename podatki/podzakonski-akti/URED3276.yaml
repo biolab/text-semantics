@@ -1,16 +1,9 @@
 Text file: URED3276.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1171666800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-16 23:00:00
 idPredpisa: URED3276
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu usklajevanja obratovalnega \u010Dasa javnega letali\u0161\
-  \u010Da"
+naslov: "UREDBO o na\u010Dinu usklajevanja obratovalnega \u010Dasa javnega letali\u0161\u010Da"
 npbNum: 0
 path: /2007/03/2007-01-0386
 sopPredpisa: 2007-01-0386

@@ -1,17 +1,11 @@
 Text file: SKLE12807.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1650664800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-22 22:00:00
 idPredpisa: SKLE12807
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o sodelovanju in izmenjavi informacij med bonitetnimi\
-  \ nadzorniki, nadzorniki za prepre\u010Devanje pranja denarja/financiranja terorizma\
-  \ in finan\u010Dnoobve\u0161\u010Devalnimi enotami v skladu z Direktivo 2013/36/EU"
+naslov: "SKLEP o uporabi Smernic o sodelovanju in izmenjavi informacij med bonitetnimi
+  nadzorniki, nadzorniki za prepre\u010Devanje pranja denarja/financiranja terorizma
+  in finan\u010Dnoobve\u0161\u010Devalnimi enotami v skladu z Direktivo 2013/36/EU"
 npbNum: 0
 path: /2022/09/2022-01-0993
 sopPredpisa: 2022-01-0993

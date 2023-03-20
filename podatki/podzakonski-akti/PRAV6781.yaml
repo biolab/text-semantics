@@ -1,16 +1,10 @@
 Text file: PRAV6781.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136070000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-31 23:00:00
 idPredpisa: PRAV6781
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o pogojih, ki jih morajo izpolnjevati\
-  \ poobla\u0161\u010Deni laboratoriji za kontrolo ustreznosti krme, dodatkov in premiksov"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o pogojih, ki jih morajo izpolnjevati
+  poobla\u0161\u010Deni laboratoriji za kontrolo ustreznosti krme, dodatkov in premiksov"
 npbNum: 0
 path: /2005/48/2005-01-4815
 sopPredpisa: 2005-01-4815

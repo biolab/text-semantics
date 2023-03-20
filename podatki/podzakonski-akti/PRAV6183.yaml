@@ -1,14 +1,8 @@
 Text file: PRAV6183.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1100300400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-12 23:00:00
 idPredpisa: PRAV6183
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o zbiranju in varstvu osebnih podatkov v glasbenih \u0161olah"
 npbNum: 0
 path: /2004/48/2004-01-4810

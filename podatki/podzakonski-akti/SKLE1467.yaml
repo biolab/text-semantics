@@ -1,14 +1,8 @@
 Text file: SKLE1467.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 690073200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-13 23:00:00
 idPredpisa: SKLE1467
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prepovedi sklepanja terminskih deviznih poslov
 npbNum: 0
 path: /1991/09/1991-01-0952

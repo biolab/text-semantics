@@ -1,17 +1,11 @@
 Text file: PRAV10709.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1306792800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-30 22:00:00
 idPredpisa: PRAV10709
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o slu\u017Ebeni izkaznici letalskega nadzornika in nadzornika Javne\
-  \ agencije za civilno letalstvo Republike Slovenije ter uradne osebe ministrstva,\
-  \ pristojnega za promet"
+naslov: "PRAVILNIK o slu\u017Ebeni izkaznici letalskega nadzornika in nadzornika Javne
+  agencije za civilno letalstvo Republike Slovenije ter uradne osebe ministrstva,
+  pristojnega za promet"
 npbNum: 0
 path: /2011/18/2011-01-1812
 sopPredpisa: 2011-01-1812

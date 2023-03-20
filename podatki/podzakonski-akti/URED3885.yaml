@@ -1,16 +1,10 @@
 Text file: URED3885.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1128117600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-09-30 22:00:00
 idPredpisa: URED3885
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju odlo\u010Dbe Komisije o ukrepih, ki prepovedujejo dajanje\
-  \ na trg nekaterih igra\u010D in predmetov za nego otrok"
+naslov: "UREDBO o izvajanju odlo\u010Dbe Komisije o ukrepih, ki prepovedujejo dajanje
+  na trg nekaterih igra\u010D in predmetov za nego otrok"
 npbNum: 0
 path: /2005/36/2005-01-3647
 sopPredpisa: 2005-01-3647

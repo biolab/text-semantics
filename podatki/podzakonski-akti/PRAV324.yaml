@@ -1,16 +1,10 @@
 Text file: PRAV324.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1020117600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-29 22:00:00
 idPredpisa: PRAV324
 idPredpisaChng: PRAV324
-instock: .nan
-naslov: "PRAVILNIK o napredovanju zaposlenih v dr\u017Eavni upravi (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "PRAVILNIK o napredovanju zaposlenih v dr\u017Eavni upravi (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2002/18/2002-01-1825-1994-01-1680-npb5
 sopPredpisa: 2002-01-1825

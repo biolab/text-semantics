@@ -1,16 +1,10 @@
 Text file: SKLE8254.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1263596400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-15 23:00:00
 idPredpisa: SKLE8254
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010D\
-  enje podzemne vode za leto 2010"
+naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010Denje
+  podzemne vode za leto 2010"
 npbNum: 0
 path: /2010/01/2010-01-0120
 sopPredpisa: 2010-01-0120

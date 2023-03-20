@@ -1,16 +1,9 @@
 Text file: URED4821.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1224021600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-14 22:00:00
 idPredpisa: URED4821
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za daljnovod 2 x 110 kV Beri\u010D\
-  evo\u2013Trbovlje"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za daljnovod 2 x 110 kV Beri\u010Devo\u2013Trbovlje"
 npbNum: 0
 path: /2008/41/2008-01-4179
 sopPredpisa: 2008-01-4179

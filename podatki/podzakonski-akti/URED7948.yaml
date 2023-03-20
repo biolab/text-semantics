@@ -1,14 +1,8 @@
 Text file: URED7948.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1563573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-19 22:00:00
 idPredpisa: URED7948
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju uredbe (EU) o prospektu, ki se objavi ob ponudbi vrednostnih
   papirjev javnosti ali njihovi uvrstitvi v trgovanje na reguliranem trgu
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: PRAV14203.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616194800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-19 23:00:00
 idPredpisa: PRAV14203
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o registru ponudnikov storitev menjav med virtualnimi in fiat valutami\
-  \ ter ponudnikov skrbni\u0161kih denarnic"
+naslov: "PRAVILNIK o registru ponudnikov storitev menjav med virtualnimi in fiat valutami
+  ter ponudnikov skrbni\u0161kih denarnic"
 npbNum: 0
 path: /2021/08/2021-01-0833
 sopPredpisa: 2021-01-0833

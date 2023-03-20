@@ -1,19 +1,10 @@
 Text file: SKLE12120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609369200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-12-30 23:00:00
+datumZacetkaVelj: 2020-06-12 22:00:00
 idPredpisa: SKLE12120
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o usklajenih opredelitvah in predlogah za na\u010D\
-  rte financiranja kreditnih institucij na podlagi priporo\u010Dila A4 ESRB/2012/2"
+naslov: "SKLEP o uporabi Smernic o usklajenih opredelitvah in predlogah za na\u010Drte
+  financiranja kreditnih institucij na podlagi priporo\u010Dila A4 ESRB/2012/2"
 npbNum: 0
 path: /2020/11/2020-01-1158
 sopPredpisa: 2020-01-1158

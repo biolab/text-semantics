@@ -1,14 +1,8 @@
 Text file: DEKL5.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 646869600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1990-07-01 22:00:00
 idPredpisa: DEKL5
 idPredpisaChng: null
-instock: .nan
 naslov: "DEKLARACIJA O SUVERENOSTI DR\u017DAVE REPUBLIKE SLOVENIJE"
 npbNum: 0
 path: /1990/13/1990-03-1320

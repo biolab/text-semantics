@@ -1,17 +1,8 @@
 Text file: SKLE11205.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514934000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1504908000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-01-02 23:00:00
+datumZacetkaVelj: 2017-09-08 22:00:00
 idPredpisa: SKLE11205
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic Evropskega organa za vrednostne papirje in trge o
   kalibraciji sistemov za prekinitev trgovanja in objavah zaustavitev trgovanja
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: PRAV12902.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1471644000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-08-19 22:00:00
 idPredpisa: PRAV12902
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o registru zasebnih vrtcev in \u0161ol, ki izvajajo mednarodne\
-  \ programe"
+naslov: "PRAVILNIK o registru zasebnih vrtcev in \u0161ol, ki izvajajo mednarodne
+  programe"
 npbNum: 0
 path: /2016/23/2016-01-2367
 sopPredpisa: 2016-01-2367

@@ -1,14 +1,8 @@
 Text file: PRAV11741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-11-05 23:00:00
 idPredpisa: PRAV11741
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o obratovalnem monitoringu stanja povr\u0161inskih voda"
 npbNum: 0
 path: /2013/33/2013-01-3307

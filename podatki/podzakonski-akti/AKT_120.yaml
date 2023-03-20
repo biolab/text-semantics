@@ -1,17 +1,10 @@
 Text file: AKT_120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1289602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-11-12 23:00:00
 idPredpisa: AKT_120
 idPredpisaChng: AKT_120
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi \u0161tevila sodnikov porotnikov na okro\u017Enih sodi\u0161\
-  \u010Dih v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 4)"
+naslov: "AKT o dolo\u010Ditvi \u0161tevila sodnikov porotnikov na okro\u017Enih sodi\u0161\u010Dih
+  v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2010/47/2010-01-4785-1994-01-3026-npb4
 sopPredpisa: 2010-01-4785

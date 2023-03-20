@@ -1,17 +1,11 @@
 Text file: ODRE2686.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654034400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-31 22:00:00
 idPredpisa: ODRE2686
 idPredpisaChng: ODRE2686
-instock: .nan
-naslov: "ODREDBA o za\u010Dasnih ukrepih na podro\u010Dju organizacije in opravljanja\
-  \ zdravstvene dejavnosti zaradi obvladovanja nalezljive bolezni COVID-19 (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
+naslov: "ODREDBA o za\u010Dasnih ukrepih na podro\u010Dju organizacije in opravljanja
+  zdravstvene dejavnosti zaradi obvladovanja nalezljive bolezni COVID-19 (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
 npbNum: 9
 path: /2022/17/2022-01-1768-2021-01-2538-npb9
 sopPredpisa: 2022-01-1768

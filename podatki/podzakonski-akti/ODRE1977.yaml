@@ -1,18 +1,12 @@
 Text file: ODRE1977.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1162594800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-03 23:00:00
 idPredpisa: ODRE1977
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi Elektro Slovenije, d.o.o.  za koordinatorja pri\
-  \ pripravah in izvajanju nalog v kriznem in vojnem stanju na podro\u010Dju elektrogospodarstva\
-  \ in premogovni\u0161tva ter opredelitvi nalog podjetjem s podro\u010Dja elektrogospodarstva\
-  \ in premogovni\u0161tva"
+naslov: "PRAVILNIK o dolo\u010Ditvi Elektro Slovenije, d.o.o.  za koordinatorja pri
+  pripravah in izvajanju nalog v kriznem in vojnem stanju na podro\u010Dju elektrogospodarstva
+  in premogovni\u0161tva ter opredelitvi nalog podjetjem s podro\u010Dja elektrogospodarstva
+  in premogovni\u0161tva"
 npbNum: 0
 path: /2006/47/2006-01-4741
 sopPredpisa: 2006-01-4741

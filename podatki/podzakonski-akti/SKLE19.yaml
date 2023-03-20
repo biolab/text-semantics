@@ -1,14 +1,8 @@
 Text file: SKLE19.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 757292400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-12-30 23:00:00
 idPredpisa: SKLE19
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi slovenskih ra\u010Dunovodskih standardov"
 npbNum: 0
 path: /1993/25/1993-01-2533

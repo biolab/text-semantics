@@ -1,16 +1,10 @@
 Text file: SKLE6794.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167433200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-29 23:00:00
 idPredpisa: SKLE6794
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pripojitvi Tekstilnega in\u0161tituta Maribor k javnemu zavodu Institut\
-  \ informacijskih znanosti"
+naslov: "SKLEP o pripojitvi Tekstilnega in\u0161tituta Maribor k javnemu zavodu Institut
+  informacijskih znanosti"
 npbNum: 0
 path: /2006/61/2006-01-6110
 sopPredpisa: 2006-01-6110

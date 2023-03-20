@@ -1,17 +1,11 @@
 Text file: PRAV10772.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1303509600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-04-22 22:00:00
 idPredpisa: PRAV10772
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podatkih in dokumentih na podlagi katerih se presoja vloga za\
-  \ neposredno opravljanje zavarovalnih poslov tujih zavarovalnic in rokih za sporo\u010D\
-  anje navedenih podatkov"
+naslov: "PRAVILNIK o podatkih in dokumentih na podlagi katerih se presoja vloga za
+  neposredno opravljanje zavarovalnih poslov tujih zavarovalnic in rokih za sporo\u010Danje
+  navedenih podatkov"
 npbNum: 0
 path: /2011/14/2011-01-1418
 sopPredpisa: 2011-01-1418

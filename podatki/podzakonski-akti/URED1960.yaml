@@ -1,16 +1,10 @@
 Text file: URED1960.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1608850800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-24 23:00:00
 idPredpisa: URED1960
 idPredpisaChng: URED1960
-instock: .nan
-naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje naplavin iz struge\
-  \ reke So\u010De (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje naplavin iz struge
+  reke So\u010De (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/35/2020-01-3552-2001-01-4850-npb2
 sopPredpisa: 2020-01-3552

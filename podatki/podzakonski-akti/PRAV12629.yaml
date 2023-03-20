@@ -1,16 +1,10 @@
 Text file: PRAV12629.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483052400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-29 23:00:00
 idPredpisa: PRAV12629
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pohorje\
-  \ (2016\u20132025)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pohorje
+  (2016\u20132025)"
 npbNum: 0
 path: /2016/37/2016-01-3776
 sopPredpisa: 2016-01-3776

@@ -1,16 +1,10 @@
 Text file: SKLE11180.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1498860000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-30 22:00:00
 idPredpisa: SKLE11180
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za dokazovanje izpolnjevanja pogojev za imenovanje\
-  \ \u010Dlana upravljalnega organa banke in hranilnice"
+naslov: "SKLEP o dokumentaciji za dokazovanje izpolnjevanja pogojev za imenovanje
+  \u010Dlana upravljalnega organa banke in hranilnice"
 npbNum: 0
 path: /2017/18/2017-01-1815
 sopPredpisa: 2017-01-1815

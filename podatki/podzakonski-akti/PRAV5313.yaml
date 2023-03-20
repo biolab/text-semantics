@@ -1,16 +1,10 @@
 Text file: PRAV5313.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1066428000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-17 22:00:00
 idPredpisa: PRAV5313
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prilagojenih izobra\u017Eevalnih programih devetletne osnovne\
-  \ \u0161ole"
+naslov: "PRAVILNIK o prilagojenih izobra\u017Eevalnih programih devetletne osnovne
+  \u0161ole"
 npbNum: 0
 path: /2003/44/2003-01-4415
 sopPredpisa: 2003-01-4415

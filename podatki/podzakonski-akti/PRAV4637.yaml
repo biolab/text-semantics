@@ -1,16 +1,9 @@
 Text file: PRAV4637.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1048633200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-25 23:00:00
 idPredpisa: PRAV4637
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK  o vsebini dokumenta, ki ga izda izvr\u0161itelj o prodaji premi\u010D\
-  nine"
+naslov: "PRAVILNIK  o vsebini dokumenta, ki ga izda izvr\u0161itelj o prodaji premi\u010Dnine"
 npbNum: 0
 path: /2003/07/2003-01-0740
 sopPredpisa: 2003-01-0740

@@ -1,17 +1,11 @@
 Text file: PRAV9694.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1239055200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-04-06 22:00:00
 idPredpisa: PRAV9694
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i vsebini obrazca za prijavo terjatev upnikov\
-  \ v postopku prisilne likvidacije zavarovalnice s sede\u017Eem v Republiki Sloveniji,\
-  \ ki ima podru\u017Enico ustanovljeno v drugi dr\u017Eavi \u010Dlanici"
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini obrazca za prijavo terjatev upnikov
+  v postopku prisilne likvidacije zavarovalnice s sede\u017Eem v Republiki Sloveniji,
+  ki ima podru\u017Enico ustanovljeno v drugi dr\u017Eavi \u010Dlanici"
 npbNum: 0
 path: /2009/11/2009-01-1147
 sopPredpisa: 2009-01-1147

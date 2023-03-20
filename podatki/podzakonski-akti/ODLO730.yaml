@@ -1,16 +1,10 @@
 Text file: ODLO730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 690159600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-14 23:00:00
 idPredpisa: ODLO730
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK  o oprostitvi pla\u010Dila posebne takse na uvo\u017Eeno blago za uvoz\
-  \ dolo\u010Denega blaga"
+naslov: "ODLOK  o oprostitvi pla\u010Dila posebne takse na uvo\u017Eeno blago za uvoz
+  dolo\u010Denega blaga"
 npbNum: 0
 path: /1991/09/1991-01-0941
 sopPredpisa: 1991-01-0941

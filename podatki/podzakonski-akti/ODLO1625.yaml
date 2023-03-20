@@ -1,14 +1,8 @@
 Text file: ODLO1625.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1262991600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-08 23:00:00
 idPredpisa: ODLO1625
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o ustanovitvi in nalogah Protokola Vlade Republike Slovenije
 npbNum: 0
 path: /2010/00/2010-01-0002

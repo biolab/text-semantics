@@ -1,14 +1,8 @@
 Text file: DEKL16.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1048806000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-27 23:00:00
 idPredpisa: DEKL16
 idPredpisaChng: null
-instock: .nan
 naslov: "DEKLARACIJO  v zvezi z ira\u0161ko krizo (DeIrak)"
 npbNum: 0
 path: /2003/12/2003-01-1259

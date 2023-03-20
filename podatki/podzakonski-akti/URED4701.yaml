@@ -1,14 +1,8 @@
 Text file: URED4701.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206313200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-23 23:00:00
 idPredpisa: URED4701
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o upravljanju kakovosti kopalnih voda
 npbNum: 0
 path: /2008/09/2008-01-0974

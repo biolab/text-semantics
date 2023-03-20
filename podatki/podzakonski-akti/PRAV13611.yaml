@@ -1,16 +1,10 @@
 Text file: PRAV13611.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-07 22:00:00
 idPredpisa: PRAV13611
 idPredpisaChng: PRAV13611
-instock: .nan
-naslov: "PRAVILNIK o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih\
-  \ preverjanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih
+  preverjanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/12/2021-01-1294-2019-01-1573-npb1
 sopPredpisa: 2021-01-1294

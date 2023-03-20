@@ -1,16 +1,10 @@
 Text file: URED6958.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1458946800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-25 23:00:00
 idPredpisa: URED6958
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prepre\u010Devanju ve\u010Djih nesre\u010D in zmanj\u0161evanju\
-  \ njihovih posledic"
+naslov: "UREDBO o prepre\u010Devanju ve\u010Djih nesre\u010D in zmanj\u0161evanju
+  njihovih posledic"
 npbNum: 0
 path: /2016/08/2016-01-0887
 sopPredpisa: 2016-01-0887

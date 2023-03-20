@@ -1,16 +1,10 @@
 Text file: ODRE1651.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982969200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-23 23:00:00
 idPredpisa: ODRE1651
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnih programih za pridobitev srednje poklicne izobrazbe\
-  \ Gozdar, Kmetovalec \_in Cvetli\u010Dar"
+naslov: "ODREDBO o izobra\u017Eevalnih programih za pridobitev srednje poklicne izobrazbe
+  Gozdar, Kmetovalec \_in Cvetli\u010Dar"
 npbNum: 0
 path: /2001/07/2001-01-0741
 sopPredpisa: 2001-01-0741

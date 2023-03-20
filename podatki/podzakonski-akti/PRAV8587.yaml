@@ -1,14 +1,8 @@
 Text file: PRAV8587.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1197932400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-17 23:00:00
 idPredpisa: PRAV8587
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o proizvodih iz kristalnega stekla
 npbNum: 0
 path: /2007/54/2007-01-5474

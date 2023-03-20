@@ -1,16 +1,10 @@
 Text file: PRAV10369.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1374876000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-26 22:00:00
 idPredpisa: PRAV10369
 idPredpisaChng: PRAV10369
-instock: .nan
-naslov: "DISCIPLINSKI PRAVILNIK (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "DISCIPLINSKI PRAVILNIK (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2013/25/2013-01-2543-2010-01-3772-npb2
 sopPredpisa: 2013-01-2543

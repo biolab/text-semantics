@@ -1,17 +1,11 @@
 Text file: PRAV10857.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1314396000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-08-26 22:00:00
 idPredpisa: PRAV10857
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi u\u010Diteljev v programu pedago\u0161ko-andrago\u0161\
-  kega in specialnopedago\u0161kega izpopolnjevanja za strokovne delavce s srednjo\
-  \ in srednjo strokovno izobrazbo"
+naslov: "PRAVILNIK o izobrazbi u\u010Diteljev v programu pedago\u0161ko-andrago\u0161kega
+  in specialnopedago\u0161kega izpopolnjevanja za strokovne delavce s srednjo in srednjo
+  strokovno izobrazbo"
 npbNum: 0
 path: /2011/30/2011-01-3030
 sopPredpisa: 2011-01-3030

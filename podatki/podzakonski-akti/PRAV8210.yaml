@@ -1,14 +1,8 @@
 Text file: PRAV8210.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1180130400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-25 22:00:00
 idPredpisa: PRAV8210
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o Vipavskem pr\u0161utu s priznano geografsko ozna\u010Dbo"
 npbNum: 0
 path: /2007/23/2007-01-2362

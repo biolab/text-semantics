@@ -1,16 +1,10 @@
 Text file: URED5643.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1307743200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-10 22:00:00
 idPredpisa: URED5643
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pogojih glede ustreznosti zavarovanja ali drugega finan\u010Dnega\
-  \ poro\u0161tva za ladje, ki preva\u017Eajo olje kot tovor ali gorivo"
+naslov: "UREDBO o pogojih glede ustreznosti zavarovanja ali drugega finan\u010Dnega
+  poro\u0161tva za ladje, ki preva\u017Eajo olje kot tovor ali gorivo"
 npbNum: 0
 path: /2011/19/2011-01-1913
 sopPredpisa: 2011-01-1913

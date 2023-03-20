@@ -1,17 +1,11 @@
 Text file: SKLE6117.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-18 23:00:00
 idPredpisa: SKLE6117
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za odvzem podzemne\
-  \ vode iz vodnih virov 9/78, G-10/95, V-3/66-70 in K-2a/86 za proizvodnjo pija\u010D\
-  \ za leto 2005"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za odvzem podzemne
+  vode iz vodnih virov 9/78, G-10/95, V-3/66-70 in K-2a/86 za proizvodnjo pija\u010D
+  za leto 2005"
 npbNum: 0
 path: /2005/44/2005-01-4496
 sopPredpisa: 2005-01-4496

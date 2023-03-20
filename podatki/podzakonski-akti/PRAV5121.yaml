@@ -1,16 +1,10 @@
 Text file: PRAV5121.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1101423600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-25 23:00:00
 idPredpisa: PRAV5121
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o vrstah amaterskih radijskih postaj\
-  \ in tehni\u010Dnih pogojih za njihovo uporabo"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o vrstah amaterskih radijskih postaj
+  in tehni\u010Dnih pogojih za njihovo uporabo"
 npbNum: 0
 path: /2004/52/2004-01-5291
 sopPredpisa: 2004-01-5291

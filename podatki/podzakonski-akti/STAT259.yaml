@@ -1,14 +1,8 @@
 Text file: STAT259.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1553641200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-26 23:00:00
 idPredpisa: STAT259
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT Socialne zbornice Slovenije
 npbNum: 0
 path: /2019/07/2019-01-0793

@@ -1,14 +1,8 @@
 Text file: PRAV14741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660946400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-19 22:00:00
 idPredpisa: PRAV14741
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vrstah podatkov, ki jih zagotavljajo izvajalci energetskih dejavnosti
   in drugi zavezanci
 npbNum: 0

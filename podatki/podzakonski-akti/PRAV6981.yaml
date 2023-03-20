@@ -1,19 +1,10 @@
 Text file: PRAV6981.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1128722400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1122069600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2005-10-07 22:00:00
+datumZacetkaVelj: 2005-07-22 22:00:00
 idPredpisa: PRAV6981
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti pravilnika o biorazgradljivosti in ozna\u010D\
-  evanju detergentov"
+naslov: "PRAVILNIK o prenehanju veljavnosti pravilnika o biorazgradljivosti in ozna\u010Devanju
+  detergentov"
 npbNum: 0
 path: /2005/28/2005-01-2842
 sopPredpisa: 2005-01-2842

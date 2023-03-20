@@ -1,16 +1,10 @@
 Text file: PRAV4560.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1077836400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-26 23:00:00
 idPredpisa: PRAV4560
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obveznostih izvajalca sevalne dejavnosti in imetnika vira ionizirajo\u010D\
-  ih sevanj"
+naslov: "PRAVILNIK o obveznostih izvajalca sevalne dejavnosti in imetnika vira ionizirajo\u010Dih
+  sevanj"
 npbNum: 0
 path: /2004/05/2004-01-0512
 sopPredpisa: 2004-01-0512

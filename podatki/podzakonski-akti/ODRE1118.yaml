@@ -1,16 +1,10 @@
 Text file: ODRE1118.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 962316000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-29 22:00:00
 idPredpisa: ODRE1118
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o usklajevanju zneska najni\u017Eje in najvi\u0161je premije prostovoljnega\
-  \ dodatnega zavarovanja"
+naslov: "ODREDBO o usklajevanju zneska najni\u017Eje in najvi\u0161je premije prostovoljnega
+  dodatnega zavarovanja"
 npbNum: 0
 path: /2000/26/2000-01-2651
 sopPredpisa: 2000-01-2651

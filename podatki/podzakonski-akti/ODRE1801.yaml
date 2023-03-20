@@ -1,14 +1,8 @@
 Text file: ODRE1801.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1016233200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-03-15 23:00:00
 idPredpisa: ODRE1801
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o zgornji meji koli\u010Dine vina za lastno rabo"
 npbNum: 0
 path: /2002/08/2002-01-0851

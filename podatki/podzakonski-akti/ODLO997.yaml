@@ -1,17 +1,11 @@
 Text file: ODLO997.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1237244400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-16 23:00:00
 idPredpisa: ODLO997
 idPredpisaChng: ODLO997
-instock: .nan
-naslov: "ODLOK o razglasitvi tehni\u0161ke dedi\u0161\u010Dine v Idriji in njeni okolici\
-  \ za kulturne spomenike dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 4)"
+naslov: "ODLOK o razglasitvi tehni\u0161ke dedi\u0161\u010Dine v Idriji in njeni okolici
+  za kulturne spomenike dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2009/07/2009-01-0761-2001-01-3538-npb4
 sopPredpisa: 2009-01-0761

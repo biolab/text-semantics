@@ -1,16 +1,10 @@
 Text file: ODRE1614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1133564400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-02 23:00:00
 idPredpisa: ODRE1614
 idPredpisaChng: ODRE1614
-instock: .nan
-naslov: "PRAVILNIK o obrazcu potrdila o izpitu iz znanja tujega jezika za odrasle\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o obrazcu potrdila o izpitu iz znanja tujega jezika za odrasle
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2005/46/2005-01-4699-2001-01-2867-npb1
 sopPredpisa: 2005-01-4699

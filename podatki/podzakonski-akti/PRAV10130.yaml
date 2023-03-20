@@ -1,17 +1,11 @@
 Text file: PRAV10130.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1267225200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-26 23:00:00
 idPredpisa: PRAV10130
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov s podro\u010Dja srednjega\
-  \ poklicnega izobra\u017Eevanja Avtokaroserist, Avtoserviser, Frizer, Grafi\u010D\
-  ni operater, Mehatronik operater, Mizar, Tapetnik, \u017Divilec"
+naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov s podro\u010Dja srednjega
+  poklicnega izobra\u017Eevanja Avtokaroserist, Avtoserviser, Frizer, Grafi\u010Dni
+  operater, Mehatronik operater, Mizar, Tapetnik, \u017Divilec"
 npbNum: 0
 path: /2010/06/2010-01-0645
 sopPredpisa: 2010-01-0645

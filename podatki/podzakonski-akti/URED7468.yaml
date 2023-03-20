@@ -1,16 +1,10 @@
 Text file: URED7468.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1563573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-19 22:00:00
 idPredpisa: URED7468
 idPredpisaChng: URED7468
-instock: .nan
-naslov: "UREDBA o izvajanju \u0161olske sheme (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "UREDBA o izvajanju \u0161olske sheme (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/22/2019-01-2277-2017-01-1434-npb1
 sopPredpisa: 2019-01-2277

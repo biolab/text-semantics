@@ -1,16 +1,10 @@
 Text file: PRAV4095.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1079391600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-15 23:00:00
 idPredpisa: PRAV4095
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave regionalne\
-  \ zasnove prostorskega razvoja ter vrstah njenih strokovnih podlag"
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave regionalne
+  zasnove prostorskega razvoja ter vrstah njenih strokovnih podlag"
 npbNum: 0
 path: /2004/10/2004-01-1063
 sopPredpisa: 2004-01-1063

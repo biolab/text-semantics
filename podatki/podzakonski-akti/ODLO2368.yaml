@@ -1,17 +1,11 @@
 Text file: ODLO2368.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620684000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-10 22:00:00
 idPredpisa: ODLO2368
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka pri reji pra\u0161\
-  i\u010Dev zaradi posledic drugega vala epidemije COVID-19 za obdobje od 1. novembra\
-  \ 2020 do 31. januarja 2021"
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka pri reji pra\u0161i\u010Dev
+  zaradi posledic drugega vala epidemije COVID-19 za obdobje od 1. novembra 2020 do
+  31. januarja 2021"
 npbNum: 0
 path: /2021/14/2021-01-1465
 sopPredpisa: 2021-01-1465

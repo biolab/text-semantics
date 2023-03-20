@@ -1,17 +1,11 @@
 Text file: PRAV11638.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1400277600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-05-16 22:00:00
 idPredpisa: PRAV11638
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o ukrepih za prepre\u010Devanje\
-  \ \u0161irjenja in zatiranje hmeljeve uvelosti, ki jo povzro\u010Data glivi Verticillium\
-  \ alboatrum Reinke at Berthold in Verticillium dahliae Klebahn"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o ukrepih za prepre\u010Devanje
+  \u0161irjenja in zatiranje hmeljeve uvelosti, ki jo povzro\u010Data glivi Verticillium
+  alboatrum Reinke at Berthold in Verticillium dahliae Klebahn"
 npbNum: 0
 path: /2014/14/2014-01-1434
 sopPredpisa: 2014-01-1434

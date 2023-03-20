@@ -1,16 +1,10 @@
 Text file: PRAV6926.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1173481200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-09 23:00:00
 idPredpisa: PRAV6926
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u0161\
-  ko (2005\u20132014)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u0161ko
+  (2005\u20132014)"
 npbNum: 0
 path: /2007/09/2007-01-0998
 sopPredpisa: 2007-01-0998

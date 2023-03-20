@@ -1,16 +1,10 @@
 Text file: TARI199.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609369200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-30 23:00:00
 idPredpisa: TARI199
 idPredpisaChng: TARI199
-instock: .nan
-naslov: "TARIFA za izvajanje storitev Javne agencije za civilno letalstvo Republike\
-  \ Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "TARIFA za izvajanje storitev Javne agencije za civilno letalstvo Republike
+  Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/36/2020-01-3692-2017-01-1948-npb1
 sopPredpisa: 2020-01-3692

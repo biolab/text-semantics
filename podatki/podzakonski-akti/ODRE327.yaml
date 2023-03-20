@@ -1,18 +1,12 @@
 Text file: ODRE327.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 876520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-10-10 22:00:00
 idPredpisa: ODRE327
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o obsegu carinskih kvot za uvoz kmetijskih izdelkov v letu 1997 po\
-  \ za\u010Dasnem sporazumu o trgovini in zadevah v zvezi s trgovino z Evropsko skupnostjo,\
-  \ Evropsko skupnostjo za premog in jeklo in Evropsko skupnostjo za jedrsko energijo,\
-  \ ki .e niso bile razdeljene"
+naslov: "ODREDBO o obsegu carinskih kvot za uvoz kmetijskih izdelkov v letu 1997 po
+  za\u010Dasnem sporazumu o trgovini in zadevah v zvezi s trgovino z Evropsko skupnostjo,
+  Evropsko skupnostjo za premog in jeklo in Evropsko skupnostjo za jedrsko energijo,
+  ki .e niso bile razdeljene"
 npbNum: 0
 path: /1997/31/1997-01-3106
 sopPredpisa: 1997-01-3106

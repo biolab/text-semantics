@@ -1,14 +1,8 @@
 Text file: PRAV6267.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1101164400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-22 23:00:00
 idPredpisa: PRAV6267
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o strokovnem izpitu na podro\u010Dju socialnega varstva"
 npbNum: 0
 path: /2004/50/2004-01-5015

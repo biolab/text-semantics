@@ -1,16 +1,10 @@
 Text file: PRAV5900.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293836400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-31 23:00:00
 idPredpisa: PRAV5900
 idPredpisaChng: PRAV5900
-instock: .nan
-naslov: "PRAVILNIK o kategorijah potro\u0161nikov, ki so upravi\u010Deni do posebnih\
-  \ cenovnih opcij ali paketov (neuradno pre\u010Di\u0161\u010Deno besedilo)"
+naslov: "PRAVILNIK o kategorijah potro\u0161nikov, ki so upravi\u010Deni do posebnih
+  cenovnih opcij ali paketov (neuradno pre\u010Di\u0161\u010Deno besedilo)"
 npbNum: 1
 path: /2010/48/2010-01-4869-2005-01-4423-npb1
 sopPredpisa: 2010-01-4869

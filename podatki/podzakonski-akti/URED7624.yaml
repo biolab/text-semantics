@@ -1,17 +1,11 @@
 Text file: URED7624.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1520031600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-02 23:00:00
 idPredpisa: URED7624
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o koncesiji za rabo termalne vode\
-  \ za ogrevanje in potrebe kopali\u0161\u010Da iz vrtine Sob-1/87 \u2013 Komunala\
-  \ d. o. o."
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o koncesiji za rabo termalne vode
+  za ogrevanje in potrebe kopali\u0161\u010Da iz vrtine Sob-1/87 \u2013 Komunala d.
+  o. o."
 npbNum: 0
 path: /2018/06/2018-01-0641
 sopPredpisa: 2018-01-0641

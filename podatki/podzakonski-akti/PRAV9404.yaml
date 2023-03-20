@@ -1,14 +1,8 @@
 Text file: PRAV9404.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1262300400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-31 23:00:00
 idPredpisa: PRAV9404
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dostavi podatkov za odmero dohodnine za leto 2009
 npbNum: 0
 path: /2009/52/2009-01-5202

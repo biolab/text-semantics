@@ -1,14 +1,8 @@
 Text file: SKLE12523.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: SKLE12523
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prenehanju veljavnosti Sklepa o odprtju Konzulata Republike Slovenije
   v Koblenzu
 npbNum: 0

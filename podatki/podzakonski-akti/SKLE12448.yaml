@@ -1,16 +1,10 @@
 Text file: SKLE12448.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-18 23:00:00
 idPredpisa: SKLE12448
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Kuala Lumpurju,\
-  \ v Maleziji"
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Kuala Lumpurju,
+  v Maleziji"
 npbNum: 0
 path: /2022/07/2022-01-0718
 sopPredpisa: 2022-01-0718

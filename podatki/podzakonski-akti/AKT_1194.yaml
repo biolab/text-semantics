@@ -1,14 +1,8 @@
 Text file: AKT_1194.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-31 23:00:00
 idPredpisa: AKT_1194
 idPredpisaChng: null
-instock: .nan
 naslov: "AKT o vodenju registra potrdil o izvoru elektri\u010Dne energije"
 npbNum: 0
 path: /2020/37/2020-01-3783

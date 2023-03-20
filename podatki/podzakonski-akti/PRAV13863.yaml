@@ -1,16 +1,10 @@
 Text file: PRAV13863.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630447200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-31 22:00:00
 idPredpisa: PRAV13863
 idPredpisaChng: PRAV13863
-instock: .nan
-naslov: "PRAVILNIK o sofinanciranju izvajanja letnega programa \u0161porta na dr\u017E\
-  avni ravni (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o sofinanciranju izvajanja letnega programa \u0161porta na dr\u017Eavni
+  ravni (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/28/2021-01-2806-2019-01-2992-npb2
 sopPredpisa: 2021-01-2806

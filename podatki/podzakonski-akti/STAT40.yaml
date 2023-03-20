@@ -1,14 +1,8 @@
 Text file: STAT40.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 812242800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-09-27 23:00:00
 idPredpisa: STAT40
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT Javnega zavoda Radiotelevizija Slovenija
 npbNum: 0
 path: /1995/30/1995-01-3033

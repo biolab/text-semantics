@@ -1,16 +1,10 @@
 Text file: PRAV9741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1242424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-15 22:00:00
 idPredpisa: PRAV9741
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izdajanju potrdil za naziva dr\u017Eavni revizor in preizku\u0161\
-  eni dr\u017Eavni revizor"
+naslov: "PRAVILNIK o izdajanju potrdil za naziva dr\u017Eavni revizor in preizku\u0161eni
+  dr\u017Eavni revizor"
 npbNum: 0
 path: /2009/17/2009-01-1734
 sopPredpisa: 2009-01-1734

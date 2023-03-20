@@ -1,16 +1,10 @@
 Text file: PRAV8471.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-03 22:00:00
 idPredpisa: PRAV8471
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za ugotavljanje delovne uspe\u0161nosti direktorja Javnega\
-  \ gospodarskega zavoda Protokolarne storitve Republike Slovenije"
+naslov: "PRAVILNIK o merilih za ugotavljanje delovne uspe\u0161nosti direktorja Javnega
+  gospodarskega zavoda Protokolarne storitve Republike Slovenije"
 npbNum: 0
 path: /2007/38/2007-01-3836
 sopPredpisa: 2007-01-3836

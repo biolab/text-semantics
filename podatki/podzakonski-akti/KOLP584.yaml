@@ -1,17 +1,8 @@
 Text file: KOLP584.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1638918000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-31 23:00:00
+datumZacetkaVelj: 2021-12-07 23:00:00
 idPredpisa: KOLP584
 idPredpisaChng: null
-instock: .nan
 naslov: "KOLEKTIVNO POGODBO za cestni potni\u0161ki promet Slovenije"
 npbNum: 0
 path: /2021/38/2021-01-3815

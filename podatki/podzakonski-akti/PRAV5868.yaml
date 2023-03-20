@@ -1,17 +1,11 @@
 Text file: PRAV5868.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1194649200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-09 23:00:00
 idPredpisa: PRAV5868
 idPredpisaChng: PRAV5868
-instock: .nan
-naslov: "PRAVILNIK o strokovni izobrazbi, strokovni usposobljenosti, izpitih in licencah\
-  \ oziroma potrdilih tehni\u010Dnega osebja v letalstvu (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o strokovni izobrazbi, strokovni usposobljenosti, izpitih in licencah
+  oziroma potrdilih tehni\u010Dnega osebja v letalstvu (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2007/50/2007-01-5079-2005-01-1284-npb1
 sopPredpisa: 2007-01-5079

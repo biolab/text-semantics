@@ -1,18 +1,12 @@
 Text file: PRAV13784.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1644620400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-11 23:00:00
 idPredpisa: PRAV13784
 idPredpisaChng: PRAV13784
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi meril in kriterijev za dolo\u010Ditev vi\u0161\
-  ine nadomestil in povra\u010Dila stro\u0161kov \u010Dlanom volilnih organov, tajnikom\
-  \ in drugim osebam, ki opravljajo dol\u017Enosti na volitvah in referendumu (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dolo\u010Ditvi meril in kriterijev za dolo\u010Ditev vi\u0161ine
+  nadomestil in povra\u010Dila stro\u0161kov \u010Dlanom volilnih organov, tajnikom
+  in drugim osebam, ki opravljajo dol\u017Enosti na volitvah in referendumu (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2022/03/2022-01-0323-2019-01-1048-npb1
 sopPredpisa: 2022-01-0323

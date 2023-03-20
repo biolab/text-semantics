@@ -1,16 +1,10 @@
 Text file: AKT_1079.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1547506800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-01-14 23:00:00
 idPredpisa: AKT_1079
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o merilih za odstopanja od zahtev iz dolo\u010Denih evropskih uredb glede\
-  \ priklju\u010Devanja na elektroenergetsko omre\u017Eje"
+naslov: "AKT o merilih za odstopanja od zahtev iz dolo\u010Denih evropskih uredb glede
+  priklju\u010Devanja na elektroenergetsko omre\u017Eje"
 npbNum: 0
 path: /2018/42/2018-01-4220
 sopPredpisa: 2018-01-4220

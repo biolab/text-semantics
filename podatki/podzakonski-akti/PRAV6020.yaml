@@ -1,16 +1,10 @@
 Text file: PRAV6020.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090620000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-23 22:00:00
 idPredpisa: PRAV6020
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih, ki jih morata za pridobitev koncesije izpolnjevati \u017E\
-  ivalski vrt in zaveti\u0161\u010De za zapu\u0161\u010Dene \u017Eivali"
+naslov: "PRAVILNIK o pogojih, ki jih morata za pridobitev koncesije izpolnjevati \u017Eivalski
+  vrt in zaveti\u0161\u010De za zapu\u0161\u010Dene \u017Eivali"
 npbNum: 0
 path: /2004/34/2004-01-3458
 sopPredpisa: 2004-01-3458

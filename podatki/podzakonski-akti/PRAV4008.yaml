@@ -1,14 +1,8 @@
 Text file: PRAV4008.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1004742000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-11-02 23:00:00
 idPredpisa: PRAV4008
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o pogojih, ki jih mora izpolnjevati veterinarska zbornica za opravljanje
   nalog, ki se opravljajo kot javna pooblastila po zakonu, ki ureja veterinarstvo
 npbNum: 0

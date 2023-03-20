@@ -1,16 +1,10 @@
 Text file: PRAV12685.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1522447200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-30 22:00:00
 idPredpisa: PRAV12685
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o vi\u0161ini pla\u010Dila\
-  \ in povra\u010Dila stro\u0161kov v zvezi z delom v izpitnih komisijah"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o vi\u0161ini pla\u010Dila
+  in povra\u010Dila stro\u0161kov v zvezi z delom v izpitnih komisijah"
 npbNum: 0
 path: /2018/08/2018-01-0894
 sopPredpisa: 2018-01-0894

@@ -1,14 +1,8 @@
 Text file: RESO32.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080169200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-24 23:00:00
 idPredpisa: RESO32
 idPredpisaChng: null
-instock: .nan
 naslov: "RESOLUCIJO o nacionalnem programu na podro\u010Dju drog 2004\u20132009 (ReNPPD)"
 npbNum: 0
 path: /2004/12/2004-01-1206

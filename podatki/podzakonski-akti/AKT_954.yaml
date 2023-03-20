@@ -1,19 +1,10 @@
 Text file: AKT_954.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1506808800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1485558000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-09-30 22:00:00
+datumZacetkaVelj: 2017-01-27 23:00:00
 idPredpisa: AKT_954
 idPredpisaChng: AKT_954
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za prenosni sistem zemeljskega\
-  \ plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za prenosni sistem zemeljskega
+  plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/02/2017-01-0218-2015-01-3686-npb1
 sopPredpisa: 2017-01-0218

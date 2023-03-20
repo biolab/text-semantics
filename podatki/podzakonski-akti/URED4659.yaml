@@ -1,17 +1,11 @@
 Text file: URED4659.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1309471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-30 22:00:00
 idPredpisa: URED4659
 idPredpisaChng: URED4659
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi mejnih prehodov za mednarodni in meddr\u017Eavni\
-  \ promet Republike Slovenije na zunanji meji Evropske unije (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o dolo\u010Ditvi mejnih prehodov za mednarodni in meddr\u017Eavni
+  promet Republike Slovenije na zunanji meji Evropske unije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2011/22/2011-01-2270-2008-01-0546-npb2
 sopPredpisa: 2011-01-2270

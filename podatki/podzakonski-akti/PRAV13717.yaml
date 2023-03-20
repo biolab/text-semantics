@@ -1,14 +1,8 @@
 Text file: PRAV13717.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1567202400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-08-30 22:00:00
 idPredpisa: PRAV13717
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vrstah in poteku specializacij za magistre farmacije
 npbNum: 0
 path: /2019/24/2019-01-2436

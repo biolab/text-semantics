@@ -1,16 +1,10 @@
 Text file: ODRE870.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 952124400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-03 23:00:00
 idPredpisa: ODRE870
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Vrem\u0161\u010Dica"
+naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Vrem\u0161\u010Dica"
 npbNum: 0
 path: /2000/08/2000-01-0857
 sopPredpisa: 2000-01-0857

@@ -1,12 +1,10 @@
 Text file: SKLE11179.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11179
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razpisu postopka za imenovanje in volitve \u010Dlanov sveta Zavoda\
-  \ za pokojninsko in invalidsko zavarovanje Slovenije"
+naslov: "SKLEP o razpisu postopka za imenovanje in volitve \u010Dlanov sveta Zavoda
+  za pokojninsko in invalidsko zavarovanje Slovenije"
 npbNum: 0
 path: /2017/17/2017-01-1705
 sopPredpisa: 2017-01-1705

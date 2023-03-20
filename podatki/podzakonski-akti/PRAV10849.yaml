@@ -1,17 +1,11 @@
 Text file: PRAV10849.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1531519200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-13 22:00:00
 idPredpisa: PRAV10849
 idPredpisaChng: PRAV10849
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu ugotavljanja zadostnih sredstev za pre\u017Eivljanje\
-  \ v postopku izdaje dovoljenja za prebivanje (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o na\u010Dinu ugotavljanja zadostnih sredstev za pre\u017Eivljanje
+  v postopku izdaje dovoljenja za prebivanje (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2018/22/2018-01-2213-2012-01-2530-npb3
 sopPredpisa: 2018-01-2213

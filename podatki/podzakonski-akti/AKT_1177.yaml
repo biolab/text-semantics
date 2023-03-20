@@ -1,22 +1,20 @@
 Text file: AKT_1177.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1177
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev dejanskega stanja in morebitne\
-  \ politi\u010Dne odgovornosti nosilcev javnih funkcij o stanju, ravnanju, zalogah,\
-  \ naro\u010Dilih, nabavah, hrambi ter drugih na\u010Dinih pridobitve ali razpolaganja\
-  \ z osebno za\u0161\u010Ditno in kriti\u010Dno medicinsko opremo za u\u010Dinkovito\
-  \ zoperstavljanje oku\u017Ebam z nalezljivimi boleznimi ter delovanju institucij\
-  \ in nosilcev javnih funkcij v zvezi s pravo\u010Dasno zajezitvijo epidemije nalezljive\
-  \ bolezni SARS-CoV-2 (COVID-19) in ustreznimi ukrepi, zaradi sumov nezakonite porabe\
-  \ javnih sredstev in zaradi sumov opustitve ustreznih ukrepov v zvezi s pravo\u010D\
-  asno zajezitvijo epidemije COVID-19, za obdobje od 1.\_2. 2020 do odreditve predmetne\
-  \ parlamentarne preiskave, in za morebitno spremembo veljavne zakonodaje, ki ureja\
-  \ javno naro\u010Danje, blagovne rezerve, integriteto in prepre\u010Devanje korupcije\
-  \ ter ravnanje nosilcev javnih funkcij z javnofinan\u010Dnimi sredstvi,"
+naslov: "ODREDIL: parlamentarno preiskavo za ugotovitev dejanskega stanja in morebitne
+  politi\u010Dne odgovornosti nosilcev javnih funkcij o stanju, ravnanju, zalogah,
+  naro\u010Dilih, nabavah, hrambi ter drugih na\u010Dinih pridobitve ali razpolaganja
+  z osebno za\u0161\u010Ditno in kriti\u010Dno medicinsko opremo za u\u010Dinkovito
+  zoperstavljanje oku\u017Ebam z nalezljivimi boleznimi ter delovanju institucij in
+  nosilcev javnih funkcij v zvezi s pravo\u010Dasno zajezitvijo epidemije nalezljive
+  bolezni SARS-CoV-2 (COVID-19) in ustreznimi ukrepi, zaradi sumov nezakonite porabe
+  javnih sredstev in zaradi sumov opustitve ustreznih ukrepov v zvezi s pravo\u010Dasno
+  zajezitvijo epidemije COVID-19, za obdobje od 1.\_2. 2020 do odreditve predmetne
+  parlamentarne preiskave, in za morebitno spremembo veljavne zakonodaje, ki ureja
+  javno naro\u010Danje, blagovne rezerve, integriteto in prepre\u010Devanje korupcije
+  ter ravnanje nosilcev javnih funkcij z javnofinan\u010Dnimi sredstvi,"
 npbNum: 0
 path: /2020/18/2020-01-1842
 sopPredpisa: 2020-01-1842

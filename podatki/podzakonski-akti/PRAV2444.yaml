@@ -1,14 +1,8 @@
 Text file: PRAV2444.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 895874400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-05-22 22:00:00
 idPredpisa: PRAV2444
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o programu in o opravljanju strokovnih izpitov delavcev v pravosodju
 npbNum: 0
 path: /1998/15/1998-01-1511

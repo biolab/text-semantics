@@ -1,14 +1,8 @@
 Text file: URED4011.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1224540000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-20 22:00:00
 idPredpisa: URED4011
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o podelitvi koncesij za trajnostno gospodarjenje z divjadjo
 npbNum: 0
 path: /2008/42/2008-01-4241

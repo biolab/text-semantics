@@ -1,16 +1,10 @@
 Text file: ODLO2425.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624572000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-24 22:00:00
 idPredpisa: ODLO2425
 idPredpisaChng: ODLO2425
-instock: .nan
-naslov: "ODLOK o za\u010Dasni omejitvi ponujanja kulturnih storitev kon\u010Dnim uporabnikom\
-  \ v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
+naslov: "ODLOK o za\u010Dasni omejitvi ponujanja kulturnih storitev kon\u010Dnim uporabnikom
+  v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
 npbNum: 9
 path: /2021/21/2021-01-2189-2021-01-1289-npb9
 sopPredpisa: 2021-01-2189

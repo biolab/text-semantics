@@ -1,16 +1,10 @@
 Text file: PRAV9730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1555106400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-12 22:00:00
 idPredpisa: PRAV9730
 idPredpisaChng: PRAV9730
-instock: .nan
-naslov: "PRAVILNIK o napredovanju v pla\u010Dne razrede na Univerzi v Ljubljani (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o napredovanju v pla\u010Dne razrede na Univerzi v Ljubljani (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/10/2019-01-1051-2009-01-1517-npb2
 sopPredpisa: 2019-01-1051

@@ -1,16 +1,10 @@
 Text file: URED4927.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1220047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-29 22:00:00
 idPredpisa: URED4927
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih\
-  \ zemlji\u0161kih parcelah ob reki Me\u017Ei v ob\u010Dini Me\u017Eica"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih
+  zemlji\u0161kih parcelah ob reki Me\u017Ei v ob\u010Dini Me\u017Eica"
 npbNum: 0
 path: /2008/36/2008-01-3687
 sopPredpisa: 2008-01-3687

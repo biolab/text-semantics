@@ -1,17 +1,11 @@
 Text file: PRAV3980.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186783200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-10 22:00:00
 idPredpisa: PRAV3980
 idPredpisaChng: PRAV3980
-instock: .nan
-naslov: "PRAVILNIK o postopku, po katerem poobla\u0161\u010Dene uradne osebe carinske\
-  \ slu\u017Ebe ustavljajo prevozna sredstva v cestnem in vodnem prometu (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o postopku, po katerem poobla\u0161\u010Dene uradne osebe carinske
+  slu\u017Ebe ustavljajo prevozna sredstva v cestnem in vodnem prometu (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2007/37/2007-01-3709-2001-01-3986-npb1
 sopPredpisa: 2007-01-3709

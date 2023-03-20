@@ -1,16 +1,10 @@
 Text file: URED4270.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1163804400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-17 23:00:00
 idPredpisa: URED4270
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mednarodnega mejnega prehoda\
-  \ Bistrica ob Sotli"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mednarodnega mejnega prehoda
+  Bistrica ob Sotli"
 npbNum: 0
 path: /2006/50/2006-01-5033
 sopPredpisa: 2006-01-5033

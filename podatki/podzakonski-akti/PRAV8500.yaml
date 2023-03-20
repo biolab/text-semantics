@@ -1,16 +1,10 @@
 Text file: PRAV8500.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204326000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-02-29 23:00:00
 idPredpisa: PRAV8500
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vinu z oznako priznanega tradicionalnega poimenovanja \u2013\
-  \ teran"
+naslov: "PRAVILNIK o vinu z oznako priznanega tradicionalnega poimenovanja \u2013
+  teran"
 npbNum: 0
 path: /2008/04/2008-01-0495
 sopPredpisa: 2008-01-0495

@@ -1,16 +1,10 @@
 Text file: PRAV13006.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1499464800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-07 22:00:00
 idPredpisa: PRAV13006
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi u\u010Diteljev v izobra\u017Eevalnem programu za odrasle\
-  \ opismenjevanje v sloven\u0161\u010Dini za odrasle govorce drugih jezikov"
+naslov: "PRAVILNIK o izobrazbi u\u010Diteljev v izobra\u017Eevalnem programu za odrasle
+  opismenjevanje v sloven\u0161\u010Dini za odrasle govorce drugih jezikov"
 npbNum: 0
 path: /2017/17/2017-01-1701
 sopPredpisa: 2017-01-1701

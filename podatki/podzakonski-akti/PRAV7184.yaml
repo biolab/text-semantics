@@ -1,18 +1,12 @@
 Text file: PRAV7184.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1443218400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-09-25 22:00:00
 idPredpisa: PRAV7184
 idPredpisaChng: PRAV7184
-instock: .nan
-naslov: "PRAVILNIK o smeri izobrazbe u\u010Diteljev in drugih strokovnih delavcev\
-  \ v prilagojenem izobra\u017Eevalnem programu devetletne osnovne \u0161ole z ni\u017E\
-  jim izobrazbenim standardom (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o smeri izobrazbe u\u010Diteljev in drugih strokovnih delavcev
+  v prilagojenem izobra\u017Eevalnem programu devetletne osnovne \u0161ole z ni\u017Ejim
+  izobrazbenim standardom (se delno preneha uporabljati) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/26/2015-01-2684-2006-01-1352-npb1
 sopPredpisa: 2015-01-2684

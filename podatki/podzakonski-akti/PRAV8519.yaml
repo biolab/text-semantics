@@ -1,16 +1,10 @@
 Text file: PRAV8519.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1529704800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-22 22:00:00
 idPredpisa: PRAV8519
 idPredpisaChng: PRAV8519
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu prostorskega prikaza tras planinskih poti (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu prostorskega prikaza tras planinskih poti (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2018/19/2018-01-1931-2008-01-3595-npb1
 sopPredpisa: 2018-01-1931

@@ -1,14 +1,8 @@
 Text file: PRAV13565.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1566079200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-08-17 22:00:00
 idPredpisa: PRAV13565
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izvr\u0161evanju kazni zapora"
 npbNum: 0
 path: /2019/22/2019-01-2204

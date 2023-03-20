@@ -1,16 +1,10 @@
 Text file: SKLE5027.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1095372000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-09-16 22:00:00
 idPredpisa: SKLE5027
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vplivno obmo\u010D\
-  je plazu \u0160mihel v Mestni ob\u010Dini Nova Gorica"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vplivno obmo\u010Dje
+  plazu \u0160mihel v Mestni ob\u010Dini Nova Gorica"
 npbNum: 0
 path: /2004/43/2004-01-4391
 sopPredpisa: 2004-01-4391

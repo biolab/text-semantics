@@ -1,16 +1,10 @@
 Text file: PRAV6647.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1143842400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-03-31 22:00:00
 idPredpisa: PRAV6647
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevanju, izpopolnjevanju in usposabljanju poobla\u0161\
-  \u010Denih uradnih oseb v Dav\u010Dni upravi Republike Slovenije"
+naslov: "PRAVILNIK o izobra\u017Eevanju, izpopolnjevanju in usposabljanju poobla\u0161\u010Denih
+  uradnih oseb v Dav\u010Dni upravi Republike Slovenije"
 npbNum: 0
 path: /2006/14/2006-01-1407
 sopPredpisa: 2006-01-1407

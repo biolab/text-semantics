@@ -1,14 +1,8 @@
 Text file: NACP7.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 956354400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-21 22:00:00
 idPredpisa: NACP7
 idPredpisaChng: null
-instock: .nan
 naslov: NACIONALNI PROGRAM  socialnega varstva do leta 2005 (NPSV)
 npbNum: 0
 path: /2000/14/2000-01-1442

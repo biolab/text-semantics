@@ -1,16 +1,10 @@
 Text file: PRAV6050.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-13 22:00:00
 idPredpisa: PRAV6050
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu poklicno-tehni\u0161kega izobra\u017E\
-  evanja Prometni tehnik"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu poklicno-tehni\u0161kega izobra\u017Eevanja
+  Prometni tehnik"
 npbNum: 0
 path: /2004/33/2004-01-3344
 sopPredpisa: 2004-01-3344

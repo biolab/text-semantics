@@ -1,14 +1,8 @@
 Text file: SKLE496.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 728694000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-02-02 23:00:00
 idPredpisa: SKLE496
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o uporabi avtomobilov Dr\u017Eavnega zbora Republike Slovenije"
 npbNum: 0
 path: /1993/03/1993-01-0326

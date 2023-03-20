@@ -1,16 +1,10 @@
 Text file: ODRE1860.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1020117600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-29 22:00:00
 idPredpisa: ODRE1860
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi melioracije na kompleksu, imenovanem Namakalni sistem Vogr\u0161\
-  \u010Dek \u2013 severni krak \u2013 Hidrantno omre\u017Eje \u0160empasko polje III"
+naslov: "ODREDBO  o uvedbi melioracije na kompleksu, imenovanem Namakalni sistem Vogr\u0161\u010Dek
+  \u2013 severni krak \u2013 Hidrantno omre\u017Eje \u0160empasko polje III"
 npbNum: 0
 path: /2002/18/2002-01-1822
 sopPredpisa: 2002-01-1822

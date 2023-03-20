@@ -1,20 +1,13 @@
 Text file: ODLO2535.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1629496800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-20 22:00:00
 idPredpisa: ODLO2535
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o dolo\u010Ditvi otro\u0161kih igri\u0161\u010D Vrtca Anice \u010C\
-  ernejeve, Enota Luna, Ljubljanska cesta 48, Vrtca Zarja, Enota Iskrica, Pucova ulica\
-  \ 3, in Vrtca Ton\u010Dke \u010Ce\u010Deve, Enota Center, Kocenova ulica 10, ter\
-  \ igri\u0161\u010Da na Savinjskem nabre\u017Eju v Mestni ob\u010Dini Celje za degradirano\
-  \ okolje in o programu ukrepov za izbolj\u0161anje kakovosti tal na teh obmo\u010D\
-  jih"
+naslov: "ODLOK o dolo\u010Ditvi otro\u0161kih igri\u0161\u010D Vrtca Anice \u010Cernejeve,
+  Enota Luna, Ljubljanska cesta 48, Vrtca Zarja, Enota Iskrica, Pucova ulica 3, in
+  Vrtca Ton\u010Dke \u010Ce\u010Deve, Enota Center, Kocenova ulica 10, ter igri\u0161\u010Da
+  na Savinjskem nabre\u017Eju v Mestni ob\u010Dini Celje za degradirano okolje in
+  o programu ukrepov za izbolj\u0161anje kakovosti tal na teh obmo\u010Djih"
 npbNum: 0
 path: /2021/27/2021-01-2730
 sopPredpisa: 2021-01-2730

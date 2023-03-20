@@ -1,16 +1,10 @@
 Text file: PRAV13215.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1510354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-10 23:00:00
 idPredpisa: PRAV13215
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih glede prostorov, opremljenosti in kadrov, ki jih mora\
-  \ izpolnjevati izvajalec javne slu\u017Ebe kmetijskega svetovanja"
+naslov: "PRAVILNIK o pogojih glede prostorov, opremljenosti in kadrov, ki jih mora
+  izpolnjevati izvajalec javne slu\u017Ebe kmetijskega svetovanja"
 npbNum: 0
 path: /2017/30/2017-01-3022
 sopPredpisa: 2017-01-3022

@@ -1,16 +1,10 @@
 Text file: PRAV7484.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167865200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-03 23:00:00
 idPredpisa: PRAV7484
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o veterinarskih pregledih dolo\u010Denih \u017Eivali in \u017E\
-  ivalskih proizvodov pri trgovanju na teritoriju EU"
+naslov: "PRAVILNIK o veterinarskih pregledih dolo\u010Denih \u017Eivali in \u017Eivalskih
+  proizvodov pri trgovanju na teritoriju EU"
 npbNum: 0
 path: /2006/57/2006-01-5750
 sopPredpisa: 2006-01-5750

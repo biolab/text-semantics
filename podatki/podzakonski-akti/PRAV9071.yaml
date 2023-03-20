@@ -1,14 +1,8 @@
 Text file: PRAV9071.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226962800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-17 23:00:00
 idPredpisa: PRAV9071
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK za izvajanje ognjemetov
 npbNum: 0
 path: /2008/44/2008-01-4425

@@ -1,16 +1,10 @@
 Text file: SKLE3646.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1050616800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-17 22:00:00
 idPredpisa: SKLE3646
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za mednarodni mejni\
-  \ prehod Dobova"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za mednarodni mejni
+  prehod Dobova"
 npbNum: 0
 path: /2003/17/2003-01-1781
 sopPredpisa: 2003-01-1781

@@ -1,14 +1,8 @@
 Text file: STAT239.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1503352800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-08-21 22:00:00
 idPredpisa: STAT239
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT Zbornice podjetij za izterjavo
 npbNum: 0
 path: /2017/22/2017-01-2232

@@ -1,16 +1,10 @@
 Text file: ODLO1482.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1152309600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-07-07 22:00:00
 idPredpisa: ODLO1482
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu priprave dr\u017Eavnega lokacijskega na\u010Drta za mednarodni\
-  \ mejni prehod So\u010Derga"
+naslov: "ODLOK o programu priprave dr\u017Eavnega lokacijskega na\u010Drta za mednarodni
+  mejni prehod So\u010Derga"
 npbNum: 0
 path: /2006/30/2006-01-3073
 sopPredpisa: 2006-01-3073

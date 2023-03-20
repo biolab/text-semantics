@@ -1,16 +1,10 @@
 Text file: URED1204.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 954540000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-31 22:00:00
 idPredpisa: URED1204
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen prevoza potnikov po \u017Eeleznici\
-  \ v doma\u010Dem potni\u0161kem prometu"
+naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen prevoza potnikov po \u017Eeleznici
+  v doma\u010Dem potni\u0161kem prometu"
 npbNum: 0
 path: /2000/13/2000-01-1392
 sopPredpisa: 2000-01-1392

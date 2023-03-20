@@ -1,14 +1,8 @@
 Text file: PRAV12333.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435960800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-07-03 22:00:00
 idPredpisa: PRAV12333
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o krmi za posebne prehranske namene
 npbNum: 0
 path: /2015/17/2015-01-1773

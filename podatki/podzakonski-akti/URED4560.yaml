@@ -1,18 +1,12 @@
 Text file: URED4560.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1192572000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-16 22:00:00
 idPredpisa: URED4560
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Sveta (ES) \u0161t. 2271/96 z dne 22. novembra\
-  \ 1996 o za\u0161\u010Diti pred u\u010Dinki ekstrateritorialne uporabe zakonodaje,\
-  \ ki jo sprejme tretja dr\u017Eava, in dejanji, ki na tej zakonodaji temeljijo ali\
-  \ iz nje izhajajo"
+naslov: "UREDBO o izvajanju Uredbe Sveta (ES) \u0161t. 2271/96 z dne 22. novembra
+  1996 o za\u0161\u010Diti pred u\u010Dinki ekstrateritorialne uporabe zakonodaje,
+  ki jo sprejme tretja dr\u017Eava, in dejanji, ki na tej zakonodaji temeljijo ali
+  iz nje izhajajo"
 npbNum: 0
 path: /2007/46/2007-01-4698
 sopPredpisa: 2007-01-4698

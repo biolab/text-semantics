@@ -1,14 +1,8 @@
 Text file: PRAV9311.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1236380400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-06 23:00:00
 idPredpisa: PRAV9311
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o pogojih za opravljanje pregledov vkrcanega tovora nevarnega blaga
   na ladjah in za izdajo potrdil
 npbNum: 0

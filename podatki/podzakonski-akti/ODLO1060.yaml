@@ -1,17 +1,11 @@
 Text file: ODLO1060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009839600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-12-31 23:00:00
 idPredpisa: ODLO1060
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o uporabi odloka o preferencialnih pravilih o poreklu blaga, ki se\
-  \ v letu 2001 uporabljajo za izvajanje uredbe o za\u010Dasni uporabi sporazuma o\
-  \ prosti trgovini med Republiko Slovenijo in Republiko Litvo"
+naslov: "ODLOK o uporabi odloka o preferencialnih pravilih o poreklu blaga, ki se
+  v letu 2001 uporabljajo za izvajanje uredbe o za\u010Dasni uporabi sporazuma o prosti
+  trgovini med Republiko Slovenijo in Republiko Litvo"
 npbNum: 0
 path: /2001/55/2001-01-5511
 sopPredpisa: 2001-01-5511

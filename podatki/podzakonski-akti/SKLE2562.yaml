@@ -1,17 +1,11 @@
 Text file: SKLE2562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 994197600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-03 22:00:00
 idPredpisa: SKLE2562
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP, \u0161t. 3/2001  Pridru\u017Eitvenega sveta EU \u2013 Slovenija o\
-  \ dolo\u010Ditvi finan\u010Dnega prispevka Slovenije za sodelovanjev programih Socrates\
-  \ II in Mladina v letih 2001 \_do 2006"
+naslov: "SKLEP, \u0161t. 3/2001  Pridru\u017Eitvenega sveta EU \u2013 Slovenija o
+  dolo\u010Ditvi finan\u010Dnega prispevka Slovenije za sodelovanjev programih Socrates
+  II in Mladina v letih 2001 \_do 2006"
 npbNum: 0
 path: /2001/46/2001-01-4609
 sopPredpisa: 2001-01-4609

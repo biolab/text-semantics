@@ -1,14 +1,8 @@
 Text file: URED4392.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186524000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-07 22:00:00
 idPredpisa: URED4392
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o izvajanju Uredbe (ES) \u0161t. 1013/2006 o po\u0161iljkah odpadkov"
 npbNum: 0
 path: /2007/38/2007-01-3886

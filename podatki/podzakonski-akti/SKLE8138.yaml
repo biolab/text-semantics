@@ -1,16 +1,10 @@
 Text file: SKLE8138.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1254261600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-29 22:00:00
 idPredpisa: SKLE8138
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izdaji \u010Cetrtega dopolnila k Drugi izdaji Slovenskega dodatka\
-  \ k Evropski farmakopeji"
+naslov: "ODREDBO o izdaji \u010Cetrtega dopolnila k Drugi izdaji Slovenskega dodatka
+  k Evropski farmakopeji"
 npbNum: 0
 path: /2009/32/2009-01-3292
 sopPredpisa: 2009-01-3292

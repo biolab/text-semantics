@@ -1,16 +1,10 @@
 Text file: SKLE677.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 952124400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-03 23:00:00
 idPredpisa: SKLE677
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o dolo\u010Ditvi izhodi\u0161\u010Dnih cen strojnih in prevoznih storitev\
-  \ vodnogospodarske javne slu\u017Ebe v letu 2000"
+naslov: "SKLEP  o dolo\u010Ditvi izhodi\u0161\u010Dnih cen strojnih in prevoznih storitev
+  vodnogospodarske javne slu\u017Ebe v letu 2000"
 npbNum: 0
 path: /2000/09/2000-01-0900
 sopPredpisa: 2000-01-0900

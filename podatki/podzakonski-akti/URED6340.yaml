@@ -1,17 +1,11 @@
 Text file: URED6340.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513983600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-22 23:00:00
 idPredpisa: URED6340
 idPredpisaChng: URED6340
-instock: .nan
-naslov: "UREDBA o omejevalnih ukrepih proti nekaterim osebam in subjektom, povezanim\
-  \ z organizacijama ISIL (Dai\u0161) in Al Kaida, ter izvajanju Uredbe Sveta (ES)\
-  \ \u0161t. 881/2002 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o omejevalnih ukrepih proti nekaterim osebam in subjektom, povezanim
+  z organizacijama ISIL (Dai\u0161) in Al Kaida, ter izvajanju Uredbe Sveta (ES) \u0161t.
+  881/2002 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/35/2017-01-3596-2013-01-0774-npb1
 sopPredpisa: 2017-01-3596

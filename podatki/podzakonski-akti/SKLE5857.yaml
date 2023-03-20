@@ -1,16 +1,10 @@
 Text file: SKLE5857.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1118959200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-06-16 22:00:00
 idPredpisa: SKLE5857
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za mednarodni mejni prehod Starod"
+naslov: "SKLEP o javni razgrnitvi osnutka dr\u017Eavnega lokacijskega na\u010Drta
+  za mednarodni mejni prehod Starod"
 npbNum: 0
 path: /2005/25/2005-01-2598
 sopPredpisa: 2005-01-2598

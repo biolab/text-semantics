@@ -1,14 +1,8 @@
 Text file: PRAV6818.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134774000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-16 23:00:00
 idPredpisa: PRAV6818
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o enotnih postopkih nadzora cestnega prevoza nevarnega blaga
 npbNum: 0
 path: /2005/47/2005-01-4703

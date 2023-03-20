@@ -1,16 +1,10 @@
 Text file: PRAV12916.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1551481200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-01 23:00:00
 idPredpisa: PRAV12916
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu, obliki in rokih za po\u0161iljanje podatkov nadzornemu\
-  \ organu, pristojnemu za nadzor prirejanja iger na sre\u010Do"
+naslov: "PRAVILNIK o na\u010Dinu, obliki in rokih za po\u0161iljanje podatkov nadzornemu
+  organu, pristojnemu za nadzor prirejanja iger na sre\u010Do"
 npbNum: 0
 path: /2019/03/2019-01-0301
 sopPredpisa: 2019-01-0301

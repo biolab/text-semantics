@@ -1,16 +1,10 @@
 Text file: PRAV13573.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1632520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-24 22:00:00
 idPredpisa: PRAV13573
 idPredpisaChng: PRAV13573
-instock: .nan
-naslov: "PRAVILNIK o vrstah zdravstvene dejavnosti (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o vrstah zdravstvene dejavnosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2021/29/2021-01-2929-2018-01-3038-npb4
 sopPredpisa: 2021-01-2929

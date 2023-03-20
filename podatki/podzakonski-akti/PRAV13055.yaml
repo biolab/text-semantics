@@ -1,10 +1,8 @@
 Text file: PRAV13055.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV13055
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vsebini in obliki diplom Fakultete za upravljanje, poslovanje
   in informatiko Novo mesto
 npbNum: 0

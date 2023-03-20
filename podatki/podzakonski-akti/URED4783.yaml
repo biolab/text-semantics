@@ -1,16 +1,10 @@
 Text file: URED4783.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213653600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-16 22:00:00
 idPredpisa: URED4783
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o mre\u017Ei javne veterinarske slu\u017Ebe in izvajalcev nalog odobrenih\
-  \ veterinarjev"
+naslov: "UREDBO o mre\u017Ei javne veterinarske slu\u017Ebe in izvajalcev nalog odobrenih
+  veterinarjev"
 npbNum: 0
 path: /2008/22/2008-01-2271
 sopPredpisa: 2008-01-2271

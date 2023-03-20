@@ -1,17 +1,11 @@
 Text file: URED6840.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1430431200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-30 22:00:00
 idPredpisa: URED6840
 idPredpisaChng: URED6840
-instock: .nan
-naslov: "UREDBA o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami\
-  \ v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami
+  v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/12/2015-01-1296-2014-01-3057-npb1
 sopPredpisa: 2015-01-1296

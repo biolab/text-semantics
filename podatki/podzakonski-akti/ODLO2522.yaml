@@ -1,16 +1,10 @@
 Text file: ODLO2522.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1633730400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-08 22:00:00
 idPredpisa: ODLO2522
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o Strategiji skladnega upravljanja dr\u017Eavne meje Republike Slovenije\
-  \ (IBM Strategija)"
+naslov: "ODLOK o Strategiji skladnega upravljanja dr\u017Eavne meje Republike Slovenije
+  (IBM Strategija)"
 npbNum: 0
 path: /2021/31/2021-01-3163
 sopPredpisa: 2021-01-3163

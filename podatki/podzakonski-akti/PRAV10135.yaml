@@ -1,14 +1,8 @@
 Text file: PRAV10135.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1265410800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-05 23:00:00
 idPredpisa: PRAV10135
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o razveljavitvi Pravilnika o usposobljenosti za opravljanje dopolnilnih
   dejavnosti na kmetiji
 npbNum: 0

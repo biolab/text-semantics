@@ -1,16 +1,10 @@
 Text file: PRAV6971.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226962800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-17 23:00:00
 idPredpisa: PRAV6971
 idPredpisaChng: PRAV6971
-instock: .nan
-naslov: "PRAVILNIK o programski klasifikaciji izdatkov ob\u010Dinskih prora\u010D\
-  unov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o programski klasifikaciji izdatkov ob\u010Dinskih prora\u010Dunov
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/46/2008-01-4691-2005-01-2494-npb2
 sopPredpisa: 2008-01-4691

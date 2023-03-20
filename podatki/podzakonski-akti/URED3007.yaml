@@ -1,16 +1,10 @@
 Text file: URED3007.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1067641200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-31 23:00:00
 idPredpisa: URED3007
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o za\u010Dasni uporabi dodatnega protokola \u0161t. 13 k srednjeevropskemu\
-  \ sporazumu o prosti trgovini"
+naslov: "UREDBO o za\u010Dasni uporabi dodatnega protokola \u0161t. 13 k srednjeevropskemu
+  sporazumu o prosti trgovini"
 npbNum: 0
 path: /2003/36/2003-01-3678
 sopPredpisa: 2003-01-3678

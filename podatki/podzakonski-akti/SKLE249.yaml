@@ -1,14 +1,8 @@
 Text file: SKLE249.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 931384800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-07-07 22:00:00
 idPredpisa: SKLE249
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o soglasju k Aktu o ustanovitvi Ustanove Stanovanjska ustanova delavcev
   pri samostojnih podjetnikih Maribor
 npbNum: 0

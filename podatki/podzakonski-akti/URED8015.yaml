@@ -1,16 +1,10 @@
 Text file: URED8015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-20 23:00:00
 idPredpisa: URED8015
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o manj\u0161ih napravah za proizvodnjo elektri\u010Dne energije iz\
-  \ obnovljivih virov energije ali s soproizvodnjo z visokim izkoristkom"
+naslov: "UREDBO o manj\u0161ih napravah za proizvodnjo elektri\u010Dne energije iz
+  obnovljivih virov energije ali s soproizvodnjo z visokim izkoristkom"
 npbNum: 0
 path: /2020/04/2020-01-0459
 sopPredpisa: 2020-01-0459

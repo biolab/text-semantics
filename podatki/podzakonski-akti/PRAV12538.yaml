@@ -1,16 +1,10 @@
 Text file: PRAV12538.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1441058400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-08-31 22:00:00
 idPredpisa: PRAV12538
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi minimalnih standardov za nastanitev tujcev, ki\
-  \ so zaposleni ali delajo v Republiki Sloveniji"
+naslov: "PRAVILNIK o dolo\u010Ditvi minimalnih standardov za nastanitev tujcev, ki
+  so zaposleni ali delajo v Republiki Sloveniji"
 npbNum: 0
 path: /2015/25/2015-01-2597
 sopPredpisa: 2015-01-2597

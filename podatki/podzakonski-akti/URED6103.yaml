@@ -1,16 +1,10 @@
 Text file: URED6103.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614380400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-26 23:00:00
 idPredpisa: URED6103
 idPredpisaChng: URED6103
-instock: .nan
-naslov: "UREDBA o razmejitvi 110 kV omre\u017Eja v distribucijski in prenosni sistem\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o razmejitvi 110 kV omre\u017Eja v distribucijski in prenosni sistem
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/06/2021-01-0611-2015-01-1490-npb1
 sopPredpisa: 2021-01-0611

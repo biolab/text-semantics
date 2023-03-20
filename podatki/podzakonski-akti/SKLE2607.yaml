@@ -1,18 +1,12 @@
 Text file: SKLE2607.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1006902000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-11-27 23:00:00
 idPredpisa: SKLE2607
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o nadaljevanju postopka za ustanovitev ob\u010Din, \_za dolo\u010D\
-  itev njihovih obmo\u010Dij, za spremembo \_obmo\u010Dij ob\u010Din ter za spremembo\
-  \ imen \_in sede\u017Eev ob\u010Din po zakonu o postopku \_za ustanovitev ob\u010D\
-  in ter za dolo\u010Ditev njihovih \_obmo\u010Dij (ZPUODO)"
+naslov: "SKLEP o nadaljevanju postopka za ustanovitev ob\u010Din, \_za dolo\u010Ditev
+  njihovih obmo\u010Dij, za spremembo \_obmo\u010Dij ob\u010Din ter za spremembo imen
+  \_in sede\u017Eev ob\u010Din po zakonu o postopku \_za ustanovitev ob\u010Din ter
+  za dolo\u010Ditev njihovih \_obmo\u010Dij (ZPUODO)"
 npbNum: 0
 path: /2001/47/2001-01-4738
 sopPredpisa: 2001-01-4738

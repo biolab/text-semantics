@@ -1,14 +1,8 @@
 Text file: PRAV13228.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-26 22:00:00
 idPredpisa: PRAV13228
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o zrakoplovih za raziskovalne, eksperimentalne ali znanstvene namene
 npbNum: 0
 path: /2019/23/2019-01-2308

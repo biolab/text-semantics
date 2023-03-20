@@ -1,14 +1,8 @@
 Text file: SKLE8002.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1235430000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-23 23:00:00
 idPredpisa: SKLE8002
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o mejnem znesku za pridobitev pravice do varstvenega dodatka od 1. januarja
   2009
 npbNum: 0

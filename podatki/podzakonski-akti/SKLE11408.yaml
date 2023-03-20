@@ -1,16 +1,10 @@
 Text file: SKLE11408.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1519858800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-02-28 23:00:00
 idPredpisa: SKLE11408
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o prito\u017Ebenih postopkih glede domnevnih kr\u0161\
-  itev revidirane direktive o pla\u010Dilnih storitvah"
+naslov: "SKLEP o uporabi Smernic o prito\u017Ebenih postopkih glede domnevnih kr\u0161itev
+  revidirane direktive o pla\u010Dilnih storitvah"
 npbNum: 0
 path: /2018/05/2018-01-0551
 sopPredpisa: 2018-01-0551

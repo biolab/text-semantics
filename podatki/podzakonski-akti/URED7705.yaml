@@ -1,16 +1,10 @@
 Text file: URED7705.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1521846000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-23 23:00:00
 idPredpisa: URED7705
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za \u017Eelezni\u0161ko progo\
-  \ Maribor\u2013\u0160entilj"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za \u017Eelezni\u0161ko progo
+  Maribor\u2013\u0160entilj"
 npbNum: 0
 path: /2018/06/2018-01-0678
 sopPredpisa: 2018-01-0678

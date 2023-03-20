@@ -1,16 +1,10 @@
 Text file: PRAV5078.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1055973600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-18 22:00:00
 idPredpisa: PRAV5078
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pod\u010D\
-  etrtek (2001\u20132010)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pod\u010Detrtek
+  (2001\u20132010)"
 npbNum: 0
 path: /2003/28/2003-01-2873
 sopPredpisa: 2003-01-2873

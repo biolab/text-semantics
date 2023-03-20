@@ -1,16 +1,10 @@
 Text file: SKLE10878.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1474063200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-09-16 22:00:00
 idPredpisa: SKLE10878
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o podajanju informacij v obliki povzetka ali zbirni\
-  \ obliki za namene \u010Dlena 84(3) Direktive 2014/59/EU"
+naslov: "SKLEP o uporabi Smernic o podajanju informacij v obliki povzetka ali zbirni
+  obliki za namene \u010Dlena 84(3) Direktive 2014/59/EU"
 npbNum: 0
 path: /2016/25/2016-01-2524
 sopPredpisa: 2016-01-2524

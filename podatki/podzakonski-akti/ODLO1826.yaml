@@ -1,17 +1,11 @@
 Text file: ODLO1826.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1425164400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-02-28 23:00:00
 idPredpisa: ODLO1826
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za organe\
-  \ dr\u017Eavne uprave, pravosodne organe, javne zavode, javne gospodarske zavode,\
-  \ javne agencije in javne sklade za leto 2015 (OdRSPODU15-1)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za organe
+  dr\u017Eavne uprave, pravosodne organe, javne zavode, javne gospodarske zavode,
+  javne agencije in javne sklade za leto 2015 (OdRSPODU15-1)"
 npbNum: 0
 path: /2015/05/2015-01-0507
 sopPredpisa: 2015-01-0507

@@ -1,16 +1,10 @@
 Text file: URED3271.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1076713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-13 23:00:00
 idPredpisa: URED3271
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uvedbi za\u010Dasnega za\u0161\u010Ditnega ukrepa pri uvozu dolo\u010D\
-  enega blaga"
+naslov: "SKLEP o uvedbi za\u010Dasnega za\u0161\u010Ditnega ukrepa pri uvozu dolo\u010Denega
+  blaga"
 npbNum: 0
 path: /2004/05/2004-01-0569
 sopPredpisa: 2004-01-0569

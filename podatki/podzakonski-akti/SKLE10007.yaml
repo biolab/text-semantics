@@ -1,18 +1,12 @@
 Text file: SKLE10007.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1396648800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-04 22:00:00
 idPredpisa: SKLE10007
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi Sklepa o podrobnej\u0161ih pravilih o merilih za obravnavo\
-  \ oseb kot dobro pou\u010Denih vlagateljev in o podrobnej\u0161ih pravilih o vodenju\
-  \ registra dobro pou\u010Denih vlagateljev, dostopu do podatkov in izdajanju potrdil\
-  \ o osebah, vpisanih v tem registru"
+naslov: "SKLEP o razveljavitvi Sklepa o podrobnej\u0161ih pravilih o merilih za obravnavo
+  oseb kot dobro pou\u010Denih vlagateljev in o podrobnej\u0161ih pravilih o vodenju
+  registra dobro pou\u010Denih vlagateljev, dostopu do podatkov in izdajanju potrdil
+  o osebah, vpisanih v tem registru"
 npbNum: 0
 path: /2014/08/2014-01-0894
 sopPredpisa: 2014-01-0894

@@ -1,14 +1,8 @@
 Text file: ODLO2068.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588024800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-27 22:00:00
 idPredpisa: ODLO2068
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o prepovedi opravljanja zra\u010Dnih prevozov v Republiki Sloveniji"
 npbNum: 0
 path: /2020/08/2020-01-0836

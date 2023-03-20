@@ -1,16 +1,10 @@
 Text file: NACP53.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1144879200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-04-12 22:00:00
 idPredpisa: NACP53
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU SOCIALNEGA VARSTVA ZA OBDOBJE 2006\u2013\
-  2010 (ReNPSV06-10)"
+naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU SOCIALNEGA VARSTVA ZA OBDOBJE 2006\u20132010
+  (ReNPSV06-10)"
 npbNum: 0
 path: /2006/16/2006-01-1683
 sopPredpisa: 2006-01-1683

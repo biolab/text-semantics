@@ -1,16 +1,10 @@
 Text file: URED1399.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 808178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-08-11 22:00:00
 idPredpisa: URED1399
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za gospodarsko izkori\u0161\u010Danje vode iz vodotoka\
-  \ Kokre za dodatno zasne\u017Eevanje smu\u010Di\u0161\u010D na Krvavcu"
+naslov: "UREDBO o koncesiji za gospodarsko izkori\u0161\u010Danje vode iz vodotoka
+  Kokre za dodatno zasne\u017Eevanje smu\u010Di\u0161\u010D na Krvavcu"
 npbNum: 0
 path: /1995/21/1995-01-2155
 sopPredpisa: 1995-01-2155

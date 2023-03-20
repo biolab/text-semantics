@@ -1,17 +1,11 @@
 Text file: URED2730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041375600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-31 23:00:00
 idPredpisa: URED2730
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o izvajanju Sporazuma med dr\u017Eavami \u010Dlanicami EFTA in Republiko\
-  \ Slovenijo ter za\u010Dasni uporabi sklepa skupnega odbora EFTA \u2013 Slovenija\
-  \ \u0161t. 4 iz leta 2001 o spremembah Protokola B"
+naslov: "UREDBO  o izvajanju Sporazuma med dr\u017Eavami \u010Dlanicami EFTA in Republiko
+  Slovenijo ter za\u010Dasni uporabi sklepa skupnega odbora EFTA \u2013 Slovenija
+  \u0161t. 4 iz leta 2001 o spremembah Protokola B"
 npbNum: 0
 path: /2002/55/2002-01-5553
 sopPredpisa: 2002-01-5553

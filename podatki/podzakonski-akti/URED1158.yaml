@@ -1,16 +1,10 @@
 Text file: URED1158.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 849308400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-29 23:00:00
 idPredpisa: URED1158
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izdaji obveznic Republike Slovenije za prevzete obveznosti do bank\
-  \ iz neizpla\u010Danih deviznih vlog"
+naslov: "UREDBO o izdaji obveznic Republike Slovenije za prevzete obveznosti do bank
+  iz neizpla\u010Danih deviznih vlog"
 npbNum: 0
 path: /1996/37/1996-01-3796
 sopPredpisa: 1996-01-3796

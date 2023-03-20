@@ -1,19 +1,10 @@
 Text file: PRAV11631.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1410732000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1409349600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2014-09-14 22:00:00
+datumZacetkaVelj: 2014-08-29 22:00:00
 idPredpisa: PRAV11631
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izpitnih centrih za opravljanje vozni\u0161kega izpita za voznike\
-  \ motornih vozil"
+naslov: "PRAVILNIK o izpitnih centrih za opravljanje vozni\u0161kega izpita za voznike
+  motornih vozil"
 npbNum: 0
 path: /2014/27/2014-01-2709
 sopPredpisa: 2014-01-2709

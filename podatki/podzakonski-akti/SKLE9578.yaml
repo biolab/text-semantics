@@ -1,18 +1,12 @@
 Text file: SKLE9578.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1404424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-07-03 22:00:00
 idPredpisa: SKLE9578
 idPredpisaChng: SKLE9578
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov\
-  \ in namestnikov \u010Dlanov Preiskovalne komisije za ugotovitev in oceno delovanja\
-  \ ekstremisti\u010Dnih skupin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 4)"
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika ter \u010Dlanov
+  in namestnikov \u010Dlanov Preiskovalne komisije za ugotovitev in oceno delovanja
+  ekstremisti\u010Dnih skupin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  4)"
 npbNum: 4
 path: /2014/22/2014-01-2273-2013-01-0373-npb4
 sopPredpisa: 2014-01-2273

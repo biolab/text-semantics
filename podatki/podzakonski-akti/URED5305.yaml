@@ -1,14 +1,8 @@
 Text file: URED5305.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1261782000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-25 23:00:00
 idPredpisa: URED5305
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o potrjevanju primernosti za sodelovanje na razpisih zveze Nato
 npbNum: 0
 path: /2009/44/2009-01-4452

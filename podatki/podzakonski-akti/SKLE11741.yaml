@@ -1,16 +1,10 @@
 Text file: SKLE11741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1606431600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-26 23:00:00
 idPredpisa: SKLE11741
 idPredpisaChng: SKLE11741
-instock: .nan
-naslov: "SKLEP o registrih zavarovalnih zastopnikov in zavarovalnih posrednikov (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o registrih zavarovalnih zastopnikov in zavarovalnih posrednikov (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/28/2020-01-2858-2019-01-1452-npb1
 sopPredpisa: 2020-01-2858

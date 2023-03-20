@@ -1,17 +1,11 @@
 Text file: PRAV5889.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1102028400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-02 23:00:00
 idPredpisa: PRAV5889
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o minimalnih tehni\u010Dnih zahtevah, ki jih morajo izpolnjevati\
-  \ bivalne enote, namenjene za\u010Dasnemu re\u0161evanju stanovanjskih potreb socialno\
-  \ ogro\u017Eenih oseb"
+naslov: "PRAVILNIK o minimalnih tehni\u010Dnih zahtevah, ki jih morajo izpolnjevati
+  bivalne enote, namenjene za\u010Dasnemu re\u0161evanju stanovanjskih potreb socialno
+  ogro\u017Eenih oseb"
 npbNum: 0
 path: /2004/51/2004-01-5128
 sopPredpisa: 2004-01-5128

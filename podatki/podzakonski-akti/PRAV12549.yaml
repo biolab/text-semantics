@@ -1,17 +1,11 @@
 Text file: PRAV12549.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1445032800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-16 22:00:00
 idPredpisa: PRAV12549
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova\
-  \ prodaje blaga in storitev na trgu v javnih agencijah iz pristojnosti Ministrstva\
-  \ za finance"
+naslov: "PRAVILNIK o dolo\u010Ditvi obsega sredstev za delovno uspe\u0161nost iz naslova
+  prodaje blaga in storitev na trgu v javnih agencijah iz pristojnosti Ministrstva
+  za finance"
 npbNum: 0
 path: /2015/30/2015-01-3045
 sopPredpisa: 2015-01-3045

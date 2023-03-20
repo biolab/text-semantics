@@ -1,16 +1,10 @@
 Text file: SKLE3835.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1052431200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-05-08 22:00:00
 idPredpisa: SKLE3835
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 56, o dopolnitvi finan\u010D\
-  nega pravilnika, ki velja za sistem pristojbin na zra\u010Dnih poteh,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 56, o dopolnitvi finan\u010Dnega
+  pravilnika, ki velja za sistem pristojbin na zra\u010Dnih poteh,"
 npbNum: 0
 path: /2003/20/2003-01-2035
 sopPredpisa: 2003-01-2035

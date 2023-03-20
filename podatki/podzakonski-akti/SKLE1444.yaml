@@ -1,16 +1,10 @@
 Text file: SKLE1444.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 689036400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-01 23:00:00
 idPredpisa: SKLE1444
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi delovnih mest pri delu z azbestom v podjetju Donit\
-  \ Medvode, na katerih se zavarovalna doba \u0161teje s pove\u010Danjem"
+naslov: "SKLEP o dolo\u010Ditvi delovnih mest pri delu z azbestom v podjetju Donit
+  Medvode, na katerih se zavarovalna doba \u0161teje s pove\u010Danjem"
 npbNum: 0
 path: /1991/07/1991-01-0756
 sopPredpisa: 1991-01-0756

@@ -1,17 +1,11 @@
 Text file: URED5552.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450479600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-18 23:00:00
 idPredpisa: URED5552
 idPredpisaChng: URED5552
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi zneska specifi\u010Dne in stopnje proporcionalne\
-  \ tro\u0161arine za cigarete (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 10)"
+naslov: "UREDBA o dolo\u010Ditvi zneska specifi\u010Dne in stopnje proporcionalne
+  tro\u0161arine za cigarete (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  10)"
 npbNum: 10
 path: /2015/38/2015-01-3848-2010-01-3269-npb10
 sopPredpisa: 2015-01-3848

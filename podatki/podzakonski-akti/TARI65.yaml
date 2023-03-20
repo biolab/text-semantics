@@ -1,16 +1,10 @@
 Text file: TARI65.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1100905200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-19 23:00:00
 idPredpisa: TARI65
 idPredpisaChng: null
-instock: .nan
-naslov: "POSEBNO TARIFO Stalne arbitra\u017Ee pri Gospodarski zbornici Slovenije za\
-  \ arbitra\u017Ene postopke v okviru poskusnega projekta"
+naslov: "POSEBNO TARIFO Stalne arbitra\u017Ee pri Gospodarski zbornici Slovenije za
+  arbitra\u017Ene postopke v okviru poskusnega projekta"
 npbNum: 0
 path: /2004/50/2004-01-5080
 sopPredpisa: 2004-01-5080

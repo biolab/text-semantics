@@ -1,14 +1,8 @@
 Text file: KOLP577.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624831200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-27 22:00:00
 idPredpisa: KOLP577
 idPredpisaChng: null
-instock: .nan
 naslov: KOLEKTIVNO POGODBO komunalnih dejavnosti
 npbNum: 0
 path: /2021/22/2021-01-2236

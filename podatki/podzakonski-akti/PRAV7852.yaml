@@ -1,16 +1,10 @@
 Text file: PRAV7852.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1159912800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-10-03 22:00:00
 idPredpisa: PRAV7852
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev \u0161tevila delovnih mest sodnega\
-  \ osebja"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev \u0161tevila delovnih mest sodnega
+  osebja"
 npbNum: 0
 path: /2006/43/2006-01-4359
 sopPredpisa: 2006-01-4359

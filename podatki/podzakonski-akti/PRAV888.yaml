@@ -1,17 +1,10 @@
 Text file: PRAV888.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 999295200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-31 22:00:00
 idPredpisa: PRAV888
 idPredpisaChng: PRAV888
-instock: .nan
-naslov: "PRAVILNIK o programu in na\u010Dinu opravljanja strokovnih izpitov pri In\u017E\
-  enirski zbornici Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 2)"
+naslov: "PRAVILNIK o programu in na\u010Dinu opravljanja strokovnih izpitov pri In\u017Eenirski
+  zbornici Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2001/36/2001-01-3674-1998-01-1515-npb2
 sopPredpisa: 2001-01-3674

@@ -1,16 +1,10 @@
 Text file: URED4488.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1173481200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-09 23:00:00
 idPredpisa: URED4488
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mednarodnega mejnega prehoda\
-  \ Petrina"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mednarodnega mejnega prehoda
+  Petrina"
 npbNum: 0
 path: /2007/09/2007-01-0992
 sopPredpisa: 2007-01-0992

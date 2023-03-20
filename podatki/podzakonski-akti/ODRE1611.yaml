@@ -1,16 +1,10 @@
 Text file: ODRE1611.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-12 22:00:00
 idPredpisa: ODRE1611
 idPredpisaChng: ODRE1611
-instock: .nan
-naslov: "ODREDBA o merskih enotah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "ODREDBA o merskih enotah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2019/36/2019-01-3662-2001-01-1594-npb2
 sopPredpisa: 2019-01-3662

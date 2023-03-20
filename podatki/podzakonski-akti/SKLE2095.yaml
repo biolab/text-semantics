@@ -1,16 +1,10 @@
 Text file: SKLE2095.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 993247200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-22 22:00:00
 idPredpisa: SKLE2095
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o valorizaciji zneska premo\u017Eenja iz tretjega odstavka 133. \u010D\
-  lena zakona o pokojninskem \_in invalidskem zavarovanju"
+naslov: "SKLEP o valorizaciji zneska premo\u017Eenja iz tretjega odstavka 133. \u010Dlena
+  zakona o pokojninskem \_in invalidskem zavarovanju"
 npbNum: 0
 path: /2001/28/2001-01-2813
 sopPredpisa: 2001-01-2813

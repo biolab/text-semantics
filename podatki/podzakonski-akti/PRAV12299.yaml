@@ -1,17 +1,11 @@
 Text file: PRAV12299.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1507327200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-06 22:00:00
 idPredpisa: PRAV12299
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161ih pogojih za dolo\u010Ditev predloga obmo\u010D\
-  ij trajno varovanih kmetijskih zemlji\u0161\u010D ter o podrobnej\u0161i vsebini\
-  \ strokovnih podlag s podro\u010Dja kmetijstva"
+naslov: "PRAVILNIK o podrobnej\u0161ih pogojih za dolo\u010Ditev predloga obmo\u010Dij
+  trajno varovanih kmetijskih zemlji\u0161\u010D ter o podrobnej\u0161i vsebini strokovnih
+  podlag s podro\u010Dja kmetijstva"
 npbNum: 0
 path: /2017/25/2017-01-2593
 sopPredpisa: 2017-01-2593

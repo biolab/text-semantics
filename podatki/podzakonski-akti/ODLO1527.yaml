@@ -1,16 +1,10 @@
 Text file: ODLO1527.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1183240800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-30 22:00:00
 idPredpisa: ODLO1527
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o prenehanju veljavnosti Odloka o ustanovitvi javnega podjetja za prenos\
-  \ elektri\u010Dne energije in javnih podjetij za distribucijo elektri\u010Dne energije"
+naslov: "ODLOK o prenehanju veljavnosti Odloka o ustanovitvi javnega podjetja za prenos
+  elektri\u010Dne energije in javnih podjetij za distribucijo elektri\u010Dne energije"
 npbNum: 0
 path: /2007/30/2007-01-3090
 sopPredpisa: 2007-01-3090

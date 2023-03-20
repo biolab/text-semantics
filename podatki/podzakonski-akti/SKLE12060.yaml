@@ -1,19 +1,10 @@
 Text file: SKLE12060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-12-31 23:00:00
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE12060
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161i vsebini pristopne izjave o vklju\u010Ditvi v individualno\
-  \ zavarovanje"
+naslov: "SKLEP o podrobnej\u0161i vsebini pristopne izjave o vklju\u010Ditvi v individualno
+  zavarovanje"
 npbNum: 0
 path: /2020/12/2020-01-1251
 sopPredpisa: 2020-01-1251

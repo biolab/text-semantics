@@ -1,17 +1,11 @@
 Text file: SKLE7921.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1233356400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-01-30 23:00:00
 idPredpisa: SKLE7921
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o usklajenih vi\u0161inah transferjev, ki so dolo\u010Deni v nominalnih\
-  \ zneskih ter o odstotku uskladitve drugih transferjev posameznikom in gospodinjstvom\
-  \ v Republiki Sloveniji od 1. januarja 2009"
+naslov: "SKLEP o usklajenih vi\u0161inah transferjev, ki so dolo\u010Deni v nominalnih
+  zneskih ter o odstotku uskladitve drugih transferjev posameznikom in gospodinjstvom
+  v Republiki Sloveniji od 1. januarja 2009"
 npbNum: 0
 path: /2009/02/2009-01-0220
 sopPredpisa: 2009-01-0220

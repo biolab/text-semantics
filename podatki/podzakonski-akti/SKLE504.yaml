@@ -1,16 +1,10 @@
 Text file: SKLE504.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132959600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-25 23:00:00
 idPredpisa: SKLE504
 idPredpisaChng: SKLE504
-instock: .nan
-naslov: "SKLEP o ustanovitvi Slovenskega komiteja za vpra\u0161anja spremembe podnebja\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "SKLEP o ustanovitvi Slovenskega komiteja za vpra\u0161anja spremembe podnebja
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2005/45/2005-01-4567-1997-01-2950-npb3
 sopPredpisa: 2005-01-4567

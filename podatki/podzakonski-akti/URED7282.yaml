@@ -1,16 +1,10 @@
 Text file: URED7282.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468620000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-15 22:00:00
 idPredpisa: URED7282
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Huber, d. o.\
-  \ o., iz vrtine NIKO-1/08"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Huber, d. o.
+  o., iz vrtine NIKO-1/08"
 npbNum: 0
 path: /2016/21/2016-01-2177
 sopPredpisa: 2016-01-2177

@@ -1,17 +1,11 @@
 Text file: PRAV3975.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1002924000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-12 22:00:00
 idPredpisa: PRAV3975
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o meroslovnih zahtevah za 5- do 50-kilogramske paralelepipedne\
-  \ ute\u017Ei srednje to\u010Dnosti in za 1- do 10-kilogramske cilindri\u010Dne ute\u017E\
-  i srednje to\u010Dnosti, ki lahko nosijo oznake in znake EEC*"
+naslov: "PRAVILNIK o meroslovnih zahtevah za 5- do 50-kilogramske paralelepipedne
+  ute\u017Ei srednje to\u010Dnosti in za 1- do 10-kilogramske cilindri\u010Dne ute\u017Ei
+  srednje to\u010Dnosti, ki lahko nosijo oznake in znake EEC*"
 npbNum: 0
 path: /2001/39/2001-01-3978
 sopPredpisa: 2001-01-3978

@@ -1,16 +1,10 @@
 Text file: ODRE2278.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1393023600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-21 23:00:00
 idPredpisa: ODRE2278
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o spremembah in dopolnitvah vzgojno-izobra\u017Eevalnega programa\
-  \ osnovna \u0161ola"
+naslov: "ODREDBO o spremembah in dopolnitvah vzgojno-izobra\u017Eevalnega programa
+  osnovna \u0161ola"
 npbNum: 0
 path: /2014/04/2014-01-0439
 sopPredpisa: 2014-01-0439

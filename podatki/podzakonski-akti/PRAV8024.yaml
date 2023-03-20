@@ -1,16 +1,10 @@
 Text file: PRAV8024.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1197068400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-07 23:00:00
 idPredpisa: PRAV8024
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja evidence ribi\u010Dev \u2013 fizi\u010D\
-  nih oseb"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja evidence ribi\u010Dev \u2013 fizi\u010Dnih
+  oseb"
 npbNum: 0
 path: /2007/54/2007-01-5418
 sopPredpisa: 2007-01-5418

@@ -1,16 +1,10 @@
 Text file: SKLE10242.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1456527600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-26 23:00:00
 idPredpisa: SKLE10242
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o potrebnem znanju za nosilca aktuarske funkcije in poobla\u0161\u010D\
-  enega aktuarja"
+naslov: "SKLEP o potrebnem znanju za nosilca aktuarske funkcije in poobla\u0161\u010Denega
+  aktuarja"
 npbNum: 0
 path: /2016/03/2016-01-0347
 sopPredpisa: 2016-01-0347

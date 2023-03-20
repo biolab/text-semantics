@@ -1,14 +1,8 @@
 Text file: URED5338.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1298674800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-02-25 23:00:00
 idPredpisa: URED5338
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o izvajanju uredbe (ES) o encimih za \u017Eivila"
 npbNum: 0
 path: /2011/05/2011-01-0550

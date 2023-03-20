@@ -1,16 +1,10 @@
 Text file: PRAV2451.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 802735200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-06-09 22:00:00
 idPredpisa: PRAV2451
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vrsti in primerih no\u0161enja slu\u017Ebenega obla\u010Dila\
-  \ odvetnika"
+naslov: "PRAVILNIK o vrsti in primerih no\u0161enja slu\u017Ebenega obla\u010Dila
+  odvetnika"
 npbNum: 0
 path: /1995/15/1995-01-1539
 sopPredpisa: 1995-01-1539

@@ -1,18 +1,12 @@
 Text file: SKLE12275.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-25 23:00:00
 idPredpisa: SKLE12275
 idPredpisaChng: SKLE12275
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju veljavnosti dolo\u010Denih ukrepov iz Zakona o za\u010D\
-  asnih ukrepih za omilitev in odpravo posledic COVID-19 ter Zakona o interventnih\
-  \ ukrepih za omilitev posledic drugega vala epidemije COVID-19 (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o podalj\u0161anju veljavnosti dolo\u010Denih ukrepov iz Zakona o za\u010Dasnih
+  ukrepih za omilitev in odpravo posledic COVID-19 ter Zakona o interventnih ukrepih
+  za omilitev posledic drugega vala epidemije COVID-19 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/08/2021-01-0869-2020-01-3545-npb1
 sopPredpisa: 2021-01-0869

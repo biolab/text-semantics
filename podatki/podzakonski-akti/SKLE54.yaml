@@ -1,14 +1,8 @@
 Text file: SKLE54.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 918860400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-02-12 23:00:00
 idPredpisa: SKLE54
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP O SOGLASJU k ustanovitvenemu aktu Fundacije za odprto dru\u017Ebo"
 npbNum: 0
 path: /1999/04/1999-01-0409

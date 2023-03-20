@@ -1,17 +1,11 @@
 Text file: URED5050.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1422658800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-30 23:00:00
 idPredpisa: URED5050
 idPredpisaChng: URED5050
-instock: .nan
-naslov: "UREDBA o sejninah in povra\u010Dilih stro\u0161kov v javnih skladih, javnih\
-  \ agencijah, javnih zavodih in javnih gospodarskih zavodih (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 4)"
+naslov: "UREDBA o sejninah in povra\u010Dilih stro\u0161kov v javnih skladih, javnih
+  agencijah, javnih zavodih in javnih gospodarskih zavodih (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2015/01/2015-01-0198-2009-01-0557-npb4
 sopPredpisa: 2015-01-0198

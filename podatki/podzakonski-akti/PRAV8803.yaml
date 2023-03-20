@@ -1,16 +1,10 @@
 Text file: PRAV8803.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230159600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-24 23:00:00
 idPredpisa: PRAV8803
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj\
-  \ \u017Eivali v letu 2009"
+naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja stanja bolezni in cepljenj
+  \u017Eivali v letu 2009"
 npbNum: 0
 path: /2008/55/2008-01-5549
 sopPredpisa: 2008-01-5549

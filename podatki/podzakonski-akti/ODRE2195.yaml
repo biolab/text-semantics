@@ -1,14 +1,8 @@
 Text file: ODRE2195.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1353366000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-19 23:00:00
 idPredpisa: ODRE2195
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o po\u0161iljanju obvestil o spremembi cen"
 npbNum: 0
 path: /2012/33/2012-01-3314

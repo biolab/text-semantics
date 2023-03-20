@@ -1,16 +1,9 @@
 Text file: PRAV11325.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1347660000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-09-14 22:00:00
 idPredpisa: PRAV11325
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o Prekmurski \u0161unki z za\u0161\u010Diteno geografsko ozna\u010D\
-  bo"
+naslov: "PRAVILNIK o Prekmurski \u0161unki z za\u0161\u010Diteno geografsko ozna\u010Dbo"
 npbNum: 0
 path: /2012/26/2012-01-2646
 sopPredpisa: 2012-01-2646

@@ -1,12 +1,10 @@
 Text file: PRAV8920.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV8920
 idPredpisaChng: PRAV8920
-instock: .nan
-naslov: "SEZNAM snovi I, IA in IB (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 6)"
+naslov: "SEZNAM snovi I, IA in IB (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  6)"
 npbNum: 6
 path: /2013/02/2013-01-0205-2008-01-0499-npb6
 sopPredpisa: 2013-01-0205

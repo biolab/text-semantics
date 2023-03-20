@@ -1,16 +1,9 @@
 Text file: URED3758.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1149890400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-09 22:00:00
 idPredpisa: URED3758
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za kompresorsko postajo Ajdov\u0161\
-  \u010Dina"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za kompresorsko postajo Ajdov\u0161\u010Dina"
 npbNum: 0
 path: /2006/23/2006-01-2336
 sopPredpisa: 2006-01-2336

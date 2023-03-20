@@ -1,16 +1,10 @@
 Text file: SKLE9824.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1380319200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-27 22:00:00
 idPredpisa: SKLE9824
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi cene za enoto obremenitve okolja z emisijo ogljikovega\
-  \ dioksida"
+naslov: "SKLEP o dolo\u010Ditvi cene za enoto obremenitve okolja z emisijo ogljikovega
+  dioksida"
 npbNum: 0
 path: /2013/28/2013-01-2835
 sopPredpisa: 2013-01-2835

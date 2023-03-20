@@ -1,14 +1,8 @@
 Text file: URED7710.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527976800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-02 22:00:00
 idPredpisa: URED7710
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o stvarnem premo\u017Eenju dr\u017Eave in samoupravnih lokalnih skupnosti"
 npbNum: 0
 path: /2018/14/2018-01-1412

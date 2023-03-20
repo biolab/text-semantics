@@ -1,17 +1,11 @@
 Text file: PRAV11205.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: PRAV11205
 idPredpisaChng: PRAV11205
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pivka\
-  \ jama-Grmada (2012\u20132021) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Pivka
+  jama-Grmada (2012\u20132021) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2018/40/2018-01-4095-2013-01-0501-npb1
 sopPredpisa: 2018-01-4095

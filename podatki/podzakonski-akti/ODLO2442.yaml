@@ -1,17 +1,11 @@
 Text file: ODLO2442.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1623362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-10 22:00:00
 idPredpisa: ODLO2442
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka pridelovalcem jedilnega\
-  \ krompirja zaradi posledic drugega vala epidemije COVID-19 za obdobje od 1.\_oktobra\_\
-  2020 do 31.\_marca 2021"
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka pridelovalcem jedilnega
+  krompirja zaradi posledic drugega vala epidemije COVID-19 za obdobje od 1.\_oktobra\_2020
+  do 31.\_marca 2021"
 npbNum: 0
 path: /2021/19/2021-01-1992
 sopPredpisa: 2021-01-1992

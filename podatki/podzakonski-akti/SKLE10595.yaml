@@ -1,16 +1,10 @@
 Text file: SKLE10595.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1452121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-06 23:00:00
 idPredpisa: SKLE10595
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razdelitvi ali zadr\u017Eanju \u010Distega dobi\u010Dka oziroma prihodkov\
-  \ vzajemnega sklada"
+naslov: "SKLEP o razdelitvi ali zadr\u017Eanju \u010Distega dobi\u010Dka oziroma prihodkov
+  vzajemnega sklada"
 npbNum: 0
 path: /2015/39/2015-01-3982
 sopPredpisa: 2015-01-3982

@@ -1,16 +1,10 @@
 Text file: PRAV7861.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1185487200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-26 22:00:00
 idPredpisa: PRAV7861
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prosto \u017Eive\u010Dih \u017Eivalskih vrstah, za katere ni\
-  \ treba pridobiti dovoljenja za gojitev"
+naslov: "PRAVILNIK o prosto \u017Eive\u010Dih \u017Eivalskih vrstah, za katere ni
+  treba pridobiti dovoljenja za gojitev"
 npbNum: 0
 path: /2007/33/2007-01-3356
 sopPredpisa: 2007-01-3356

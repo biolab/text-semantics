@@ -1,17 +1,11 @@
 Text file: URED7884.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1559340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-31 22:00:00
 idPredpisa: URED7884
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredbe (EU) o dolo\u010Ditvi ukrepov v zvezi z dostopom\
-  \ do odprtega interneta in v zvezi z maloprodajnimi cenami za regulirane komunikacije\
-  \ znotraj Evropske unije"
+naslov: "UREDBO o izvajanju uredbe (EU) o dolo\u010Ditvi ukrepov v zvezi z dostopom
+  do odprtega interneta in v zvezi z maloprodajnimi cenami za regulirane komunikacije
+  znotraj Evropske unije"
 npbNum: 0
 path: /2019/16/2019-01-1620
 sopPredpisa: 2019-01-1620

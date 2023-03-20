@@ -1,17 +1,11 @@
 Text file: URED2535.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1025301600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-06-28 22:00:00
 idPredpisa: URED2535
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o razveljavitvi uredbe o na\u010Dinu opravljanja javnih telekomunikacijskih\
-  \ storitev govorne telefonije in teleksa ter o upravljanju javnega telekomunikacijskega\
-  \ omre\u017Eja"
+naslov: "UREDBO o razveljavitvi uredbe o na\u010Dinu opravljanja javnih telekomunikacijskih
+  storitev govorne telefonije in teleksa ter o upravljanju javnega telekomunikacijskega
+  omre\u017Eja"
 npbNum: 0
 path: /2002/27/2002-01-2764
 sopPredpisa: 2002-01-2764

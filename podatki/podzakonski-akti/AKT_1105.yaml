@@ -1,16 +1,10 @@
 Text file: AKT_1105.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1549062000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-01 23:00:00
 idPredpisa: AKT_1105
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju ob\u010Dine Dravograd"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju ob\u010Dine Dravograd"
 npbNum: 0
 path: /2019/02/2019-01-0241
 sopPredpisa: 2019-01-0241

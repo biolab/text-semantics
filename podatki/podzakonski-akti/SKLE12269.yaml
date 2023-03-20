@@ -1,16 +1,10 @@
 Text file: SKLE12269.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-25 23:00:00
 idPredpisa: SKLE12269
 idPredpisaChng: SKLE12269
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju ukrepa za\u010Dasnega opravljanja dela upokojenih\
-  \ pravosodnih policistov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o podalj\u0161anju ukrepa za\u010Dasnega opravljanja dela upokojenih
+  pravosodnih policistov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/08/2021-01-0867-2020-01-3543-npb1
 sopPredpisa: 2021-01-0867

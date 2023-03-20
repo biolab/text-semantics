@@ -1,16 +1,10 @@
 Text file: PRAV4559.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1070924400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-08 23:00:00
 idPredpisa: PRAV4559
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih in metodologiji za ocenjevanje doz pri varstvu delavcev\
-  \ in prebivalstva pred ionizirajo\u010Dimi sevanji *"
+naslov: "PRAVILNIK o pogojih in metodologiji za ocenjevanje doz pri varstvu delavcev
+  in prebivalstva pred ionizirajo\u010Dimi sevanji *"
 npbNum: 0
 path: /2003/50/2003-01-5037
 sopPredpisa: 2003-01-5037

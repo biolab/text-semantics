@@ -1,16 +1,10 @@
 Text file: PRAV13483.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1529704800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-22 22:00:00
 idPredpisa: PRAV13483
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podelitvi licence za opravljanje dejavnosti organiziranja in\
-  \ dejavnosti prodaje turisti\u010Dnih paketov"
+naslov: "PRAVILNIK o podelitvi licence za opravljanje dejavnosti organiziranja in
+  dejavnosti prodaje turisti\u010Dnih paketov"
 npbNum: 0
 path: /2018/19/2018-01-1927
 sopPredpisa: 2018-01-1927

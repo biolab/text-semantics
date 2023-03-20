@@ -1,16 +1,10 @@
 Text file: PRAV8383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1182549600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-22 22:00:00
 idPredpisa: PRAV8383
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov za pridobitev poklicne\
-  \ in srednje strokovne izobrazbe"
+naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov za pridobitev poklicne
+  in srednje strokovne izobrazbe"
 npbNum: 0
 path: /2007/29/2007-01-2931
 sopPredpisa: 2007-01-2931

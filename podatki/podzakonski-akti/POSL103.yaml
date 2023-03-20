@@ -1,14 +1,8 @@
 Text file: POSL103.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1354316400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-30 23:00:00
 idPredpisa: POSL103
 idPredpisaChng: null
-instock: .nan
 naslov: POSLOVNIK Sveta za avtorsko pravo
 npbNum: 0
 path: /2012/34/2012-01-3411

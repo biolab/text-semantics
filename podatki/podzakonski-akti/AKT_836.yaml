@@ -1,18 +1,11 @@
 Text file: AKT_836.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1368223200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-10 22:00:00
 idPredpisa: AKT_836
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017E\
-  je zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Kranj, Ob\u010D\
-  ine Naklo in na 1., 2. in 4. o\u017Ejem obmo\u010Dju Ob\u010Dine \u0160en\u010D\
-  ur"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017Eje
+  zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Kranj, Ob\u010Dine
+  Naklo in na 1., 2. in 4. o\u017Ejem obmo\u010Dju Ob\u010Dine \u0160en\u010Dur"
 npbNum: 0
 path: /2013/15/2013-01-1568
 sopPredpisa: 2013-01-1568

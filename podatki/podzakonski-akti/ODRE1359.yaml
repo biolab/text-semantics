@@ -1,16 +1,10 @@
 Text file: ODRE1359.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 969573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-21 22:00:00
 idPredpisa: ODRE1359
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe \u2013 Komunala"
+naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe \u2013 Komunala"
 npbNum: 0
 path: /2000/37/2000-01-3754
 sopPredpisa: 2000-01-3754

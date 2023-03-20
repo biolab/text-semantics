@@ -1,14 +1,8 @@
 Text file: PRAV14181.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1611961200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-29 23:00:00
 idPredpisa: PRAV14181
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o elektronskem poslovanju v postopkih zaradi insolventnosti
 npbNum: 0
 path: /2021/02/2021-01-0250

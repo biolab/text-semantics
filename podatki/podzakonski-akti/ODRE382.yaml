@@ -1,16 +1,10 @@
 Text file: ODRE382.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 997480800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-10 22:00:00
 idPredpisa: ODRE382
 idPredpisaChng: ODRE382
-instock: .nan
-naslov: "ODREDBA o postopnem uvajanju programa 9-letne osnovne \u0161ole (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ODREDBA o postopnem uvajanju programa 9-letne osnovne \u0161ole (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2001/32/2001-01-3272-1998-01-0975-npb2
 sopPredpisa: 2001-01-3272

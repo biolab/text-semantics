@@ -1,17 +1,11 @@
 Text file: PRAV13476.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528840800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-12 22:00:00
 idPredpisa: PRAV13476
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o strokovnem izpitu za poobla\u0161\u010Denega arhitekta,\
-  \ poobla\u0161\u010Denega krajinskega arhitekta in poobla\u0161\u010Denega prostorskega\
-  \ na\u010Drtovalca"
+naslov: "SPLO\u0160NI AKT o strokovnem izpitu za poobla\u0161\u010Denega arhitekta,
+  poobla\u0161\u010Denega krajinskega arhitekta in poobla\u0161\u010Denega prostorskega
+  na\u010Drtovalca"
 npbNum: 0
 path: /2018/20/2018-01-2007
 sopPredpisa: 2018-01-2007

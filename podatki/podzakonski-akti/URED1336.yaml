@@ -1,17 +1,11 @@
 Text file: URED1336.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213135200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-10 22:00:00
 idPredpisa: URED1336
 idPredpisaChng: URED1336
-instock: .nan
-naslov: "UREDBA o postopkih notificiranja na podro\u010Dju standardov, tehni\u010D\
-  nih predpisov in postopkov za ugotavljanje skladnosti (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o postopkih notificiranja na podro\u010Dju standardov, tehni\u010Dnih
+  predpisov in postopkov za ugotavljanje skladnosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/24/2008-01-2424-2000-01-3062-npb2
 sopPredpisa: 2008-01-2424

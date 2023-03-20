@@ -1,16 +1,10 @@
 Text file: ODLO2556.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1627596000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-29 22:00:00
 idPredpisa: ODLO2556
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o spremembah dolo\u010Denih odlokov, izdanih na podlagi Zakona o nalezljivih\
-  \ boleznih"
+naslov: "ODLOK o spremembah dolo\u010Denih odlokov, izdanih na podlagi Zakona o nalezljivih
+  boleznih"
 npbNum: 0
 path: /2021/26/2021-01-2648
 sopPredpisa: 2021-01-2648

@@ -1,14 +1,8 @@
 Text file: PRAV14249.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619215200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-23 22:00:00
 idPredpisa: PRAV14249
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o podelitvi nagrade Zlata \u010Debela"
 npbNum: 0
 path: /2021/12/2021-01-1293

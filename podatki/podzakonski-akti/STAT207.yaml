@@ -1,14 +1,8 @@
 Text file: STAT207.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1415401200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-11-07 23:00:00
 idPredpisa: STAT207
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT Veterinarske zbornice Slovenije
 npbNum: 0
 path: /2014/32/2014-01-3291

@@ -1,14 +1,8 @@
 Text file: URED3847.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1122933600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-01 22:00:00
 idPredpisa: URED3847
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koncesiji za graditev sede\u017Enice Stari vrh na Starem vrhu"
 npbNum: 0
 path: /2005/32/2005-01-3252

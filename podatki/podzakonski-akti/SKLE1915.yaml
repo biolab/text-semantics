@@ -1,16 +1,10 @@
 Text file: SKLE1915.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 981673200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-08 23:00:00
 idPredpisa: SKLE1915
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010D\
-  rta \_gozdnogospodarske enote Bele Vode"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Bele Vode"
 npbNum: 0
 path: /2001/05/2001-01-0553
 sopPredpisa: 2001-01-0553

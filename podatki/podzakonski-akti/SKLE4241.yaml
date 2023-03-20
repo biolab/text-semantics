@@ -1,16 +1,10 @@
 Text file: SKLE4241.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1066946400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-23 22:00:00
 idPredpisa: SKLE4241
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi osnutka gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote \u0160marje (2003\u20132012)"
+naslov: "SKLEP  o javni razgrnitvi osnutka gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote \u0160marje (2003\u20132012)"
 npbNum: 0
 path: /2003/45/2003-01-4560
 sopPredpisa: 2003-01-4560

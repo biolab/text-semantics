@@ -1,14 +1,8 @@
 Text file: URED7844.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1556920800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-03 22:00:00
 idPredpisa: URED7844
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o odpadnih nagrobnih sve\u010Dah"
 npbNum: 0
 path: /2019/11/2019-01-1187

@@ -1,17 +1,11 @@
 Text file: SKLE8994.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1390604400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-24 23:00:00
 idPredpisa: SKLE8994
 idPredpisaChng: SKLE8994
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega zavoda Center za upravljanje z dedi\u0161\u010D\
-  ino \u017Eivega srebra Idrija (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "SKLEP o ustanovitvi javnega zavoda Center za upravljanje z dedi\u0161\u010Dino
+  \u017Eivega srebra Idrija (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2014/01/2014-01-0164-2011-01-2607-npb1
 sopPredpisa: 2014-01-0164

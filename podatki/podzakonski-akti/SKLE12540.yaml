@@ -1,19 +1,10 @@
 Text file: SKLE12540.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643756400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1638572400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-02-01 23:00:00
+datumZacetkaVelj: 2021-12-03 23:00:00
 idPredpisa: SKLE12540
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o tr\u017Enih sporo\u010Dilih v skladu z uredbo o\
-  \ \u010Dezmejni distribuciji skladov"
+naslov: "SKLEP o uporabi Smernic o tr\u017Enih sporo\u010Dilih v skladu z uredbo o
+  \u010Dezmejni distribuciji skladov"
 npbNum: 0
 path: /2021/35/2021-01-3548
 sopPredpisa: 2021-01-3548

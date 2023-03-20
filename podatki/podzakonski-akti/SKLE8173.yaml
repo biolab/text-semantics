@@ -1,16 +1,10 @@
 Text file: SKLE8173.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1253916000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-25 22:00:00
 idPredpisa: SKLE8173
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev centralne klirin\u0161kodepotne\
-  \ dru\u017Ebe"
+naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev centralne klirin\u0161kodepotne
+  dru\u017Ebe"
 npbNum: 0
 path: /2009/32/2009-01-3263
 sopPredpisa: 2009-01-3263

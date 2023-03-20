@@ -1,17 +1,11 @@
 Text file: URED7747.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588888800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-07 22:00:00
 idPredpisa: URED7747
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine\
-  \ opekarska glina v pridobivalnem prostoru Harde\u0161ka \u0161uma \u2013 \u0161\
-  iritev 4 v ob\u010Dini Ormo\u017E"
+naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine
+  opekarska glina v pridobivalnem prostoru Harde\u0161ka \u0161uma \u2013 \u0161iritev
+  4 v ob\u010Dini Ormo\u017E"
 npbNum: 0
 path: /2020/09/2020-01-0965
 sopPredpisa: 2020-01-0965

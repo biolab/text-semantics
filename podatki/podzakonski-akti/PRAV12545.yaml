@@ -1,17 +1,11 @@
 Text file: PRAV12545.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1530914400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-06 22:00:00
 idPredpisa: PRAV12545
 idPredpisaChng: PRAV12545
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih zahtevah naprav za samooskrbo z elektri\u010D\
-  no energijo iz obnovljivih virov energije (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o tehni\u010Dnih zahtevah naprav za samooskrbo z elektri\u010Dno
+  energijo iz obnovljivih virov energije (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2018/23/2018-01-2331-2016-01-0002-npb1
 sopPredpisa: 2018-01-2331

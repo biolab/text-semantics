@@ -1,14 +1,8 @@
 Text file: PRAV9653.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1246658400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-03 22:00:00
 idPredpisa: PRAV9653
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o Slovenskem medu z za\u0161\u010Diteno geografsko ozna\u010Dbo"
 npbNum: 0
 path: /2009/22/2009-01-2275

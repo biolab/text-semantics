@@ -1,16 +1,10 @@
 Text file: URED1166.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 760402800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-02-04 23:00:00
 idPredpisa: URED1166
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 1994 izdajajo prilo\u017E\
-  nostni kovanci"
+naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 1994 izdajajo prilo\u017Enostni
+  kovanci"
 npbNum: 0
 path: /1994/01/1994-01-0166
 sopPredpisa: 1994-01-0166

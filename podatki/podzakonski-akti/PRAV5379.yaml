@@ -1,16 +1,10 @@
 Text file: PRAV5379.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1075417200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-01-29 23:00:00
 idPredpisa: PRAV5379
 idPredpisaChng: null
-instock: .nan
-naslov: "NAVODILO o dolo\u010Ditvi fiksiranih pozicij in velikosti posameznih polj\
-  \ ovojnice za vro\u010Danje po po\u0161ti v pravdnem in kazenskem postopku"
+naslov: "NAVODILO o dolo\u010Ditvi fiksiranih pozicij in velikosti posameznih polj
+  ovojnice za vro\u010Danje po po\u0161ti v pravdnem in kazenskem postopku"
 npbNum: 0
 path: /2004/02/2004-01-0206
 sopPredpisa: 2004-01-0206

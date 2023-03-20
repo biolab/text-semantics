@@ -1,17 +1,11 @@
 Text file: PRAV8757.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1246658400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-03 22:00:00
 idPredpisa: PRAV8757
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o natan\u010Dnej\u0161ih pogojih za opravljanje dejavnosti prometa\
-  \ z zdravili na debelo in ugotavljanju izpolnjevanja teh pogojev ter o postopku\
-  \ priglasitve dejavnosti ali pridobitve dovoljenja za promet z zdravili na debelo"
+naslov: "PRAVILNIK o natan\u010Dnej\u0161ih pogojih za opravljanje dejavnosti prometa
+  z zdravili na debelo in ugotavljanju izpolnjevanja teh pogojev ter o postopku priglasitve
+  dejavnosti ali pridobitve dovoljenja za promet z zdravili na debelo"
 npbNum: 0
 path: /2009/22/2009-01-2277
 sopPredpisa: 2009-01-2277

@@ -1,14 +1,8 @@
 Text file: SKLE6706.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1164409200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-24 23:00:00
 idPredpisa: SKLE6706
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o najni\u017Eji pokojninski osnovi in osnovi za odmero dodatnih pravic"
 npbNum: 0
 path: /2006/51/2006-01-5189

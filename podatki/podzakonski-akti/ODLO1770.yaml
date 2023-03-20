@@ -1,16 +1,10 @@
 Text file: ODLO1770.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1386716400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-10 23:00:00
 idPredpisa: ODLO1770
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Dr\u017E\
-  avni svet Republike Slovenije za leto 2014 (OdRSPDS14)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Dr\u017Eavni
+  svet Republike Slovenije za leto 2014 (OdRSPDS14)"
 npbNum: 0
 path: /2013/37/2013-01-3726
 sopPredpisa: 2013-01-3726

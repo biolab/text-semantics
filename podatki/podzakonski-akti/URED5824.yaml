@@ -1,18 +1,12 @@
 Text file: URED5824.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1357340400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-01-04 23:00:00
 idPredpisa: URED5824
 idPredpisaChng: URED5824
-instock: .nan
-naslov: "UREDBA o toplogrednih plinih, dejavnostih in napravah, za katere je treba\
-  \ pridobiti dovoljenje za izpu\u0161\u010Danje toplogrednih plinov oziroma izvajati\
-  \ monitoring emisij toplogrednih plinov (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o toplogrednih plinih, dejavnostih in napravah, za katere je treba
+  pridobiti dovoljenje za izpu\u0161\u010Danje toplogrednih plinov oziroma izvajati
+  monitoring emisij toplogrednih plinov (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2013/00/2013-01-0027-2011-01-2604-npb1
 sopPredpisa: 2013-01-0027

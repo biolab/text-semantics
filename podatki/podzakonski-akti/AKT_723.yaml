@@ -1,17 +1,10 @@
 Text file: AKT_723.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1312149600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-31 22:00:00
 idPredpisa: AKT_723
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o prenehanju veljavnosti Akta o dolo\u010Ditvi omre\u017Enine za distribucijsko\
-  \ omre\u017Eje zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine \u0160\
-  entilj"
+naslov: "AKT o prenehanju veljavnosti Akta o dolo\u010Ditvi omre\u017Enine za distribucijsko
+  omre\u017Eje zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine \u0160entilj"
 npbNum: 0
 path: /2011/28/2011-01-2879
 sopPredpisa: 2011-01-2879

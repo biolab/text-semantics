@@ -1,14 +1,8 @@
 Text file: SKLE10442.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1433455200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-04 22:00:00
 idPredpisa: SKLE10442
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o prenosu delov dr\u017Eavnih cest med ob\u010Dinske ceste"
 npbNum: 0
 path: /2015/16/2015-01-1608

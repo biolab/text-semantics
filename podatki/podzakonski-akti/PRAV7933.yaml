@@ -1,16 +1,10 @@
 Text file: PRAV7933.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1596664800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-05 22:00:00
 idPredpisa: PRAV7933
 idPredpisaChng: PRAV7933
-instock: .nan
-naslov: "PRAVILNIK o licencah za opravljanje prevozov v cestnem prometu (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o licencah za opravljanje prevozov v cestnem prometu (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/19/2020-01-1917-2007-01-3707-npb1
 sopPredpisa: 2020-01-1917

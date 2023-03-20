@@ -1,14 +1,8 @@
 Text file: URED2812.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1120773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-07 22:00:00
 idPredpisa: URED2812
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o vrsti, obsegu in pogojih za opravljanje dopolnilnih dejavnosti na
   kmetiji
 npbNum: 0

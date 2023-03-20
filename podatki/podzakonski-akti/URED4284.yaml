@@ -1,16 +1,10 @@
 Text file: URED4284.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1199142000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-31 23:00:00
 idPredpisa: URED4284
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pogojih za imenovanje v komisijo za vodenje postopkov o prito\u017E\
-  bah v letalstvu in o pla\u010Dilu za delo v komisiji"
+naslov: "UREDBO o pogojih za imenovanje v komisijo za vodenje postopkov o prito\u017Ebah
+  v letalstvu in o pla\u010Dilu za delo v komisiji"
 npbNum: 0
 path: /2007/58/2007-01-5805
 sopPredpisa: 2007-01-5805

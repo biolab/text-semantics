@@ -1,14 +1,8 @@
 Text file: ODRE2001.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193090400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-22 22:00:00
 idPredpisa: ODRE2001
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o dolo\u010Ditvi Programa za vodenje socialno varstvenih zavodov"
 npbNum: 0
 path: /2007/48/2007-01-4807

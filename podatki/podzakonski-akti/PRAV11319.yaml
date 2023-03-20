@@ -1,16 +1,10 @@
 Text file: PRAV11319.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1442008800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-09-11 22:00:00
 idPredpisa: PRAV11319
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ravnanju ob resnih nesre\u010Dah, nesre\u010Dah in incidentih\
-  \ v \u017Eelezni\u0161kem prometu"
+naslov: "PRAVILNIK o ravnanju ob resnih nesre\u010Dah, nesre\u010Dah in incidentih
+  v \u017Eelezni\u0161kem prometu"
 npbNum: 0
 path: /2015/25/2015-01-2598
 sopPredpisa: 2015-01-2598

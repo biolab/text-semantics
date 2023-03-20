@@ -1,16 +1,10 @@
 Text file: SKLE12564.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636844400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-13 23:00:00
 idPredpisa: SKLE12564
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o spremljanju praga in drugih postopkovnih vidikih\
-  \ ustanovitve vmesne EU nadrejene osebe v skladu s \u010Dlenom 21b Direktive 2013/36/EU"
+naslov: "SKLEP o uporabi Smernic o spremljanju praga in drugih postopkovnih vidikih
+  ustanovitve vmesne EU nadrejene osebe v skladu s \u010Dlenom 21b Direktive 2013/36/EU"
 npbNum: 0
 path: /2021/34/2021-01-3466
 sopPredpisa: 2021-01-3466

@@ -1,17 +1,11 @@
 Text file: ODRE813.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1189461600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-10 22:00:00
 idPredpisa: ODRE813
 idPredpisaChng: ODRE813
-instock: .nan
-naslov: "PRAVILNIK o cenah in normativih za dolo\u010Danje cen projektne dokumentacije\
-  \ za popotresno obnovo objektov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 5)"
+naslov: "PRAVILNIK o cenah in normativih za dolo\u010Danje cen projektne dokumentacije
+  za popotresno obnovo objektov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  5)"
 npbNum: 5
 path: /2007/41/2007-01-4195-1998-01-2735-npb5
 sopPredpisa: 2007-01-4195

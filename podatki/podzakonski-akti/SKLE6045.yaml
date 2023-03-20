@@ -1,16 +1,10 @@
 Text file: SKLE6045.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1127426400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-09-22 22:00:00
 idPredpisa: SKLE6045
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za avtocesto na odseku Ponikve\u2013Hrastje"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za avtocesto na odseku Ponikve\u2013Hrastje"
 npbNum: 0
 path: /2005/36/2005-01-3684
 sopPredpisa: 2005-01-3684

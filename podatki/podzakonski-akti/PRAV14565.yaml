@@ -1,16 +1,10 @@
 Text file: PRAV14565.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656712800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-01 22:00:00
 idPredpisa: PRAV14565
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o povpre\u010Dnih stro\u0161kih obstoje\u010De komunalne opreme\
-  \ na enoto mere in izra\u010Dunu komunalnega prispevka na podlagi nadomestnih podlag"
+naslov: "PRAVILNIK o povpre\u010Dnih stro\u0161kih obstoje\u010De komunalne opreme
+  na enoto mere in izra\u010Dunu komunalnega prispevka na podlagi nadomestnih podlag"
 npbNum: 0
 path: /2022/21/2022-01-2176
 sopPredpisa: 2022-01-2176

@@ -1,17 +1,11 @@
 Text file: SKLE12093.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590962400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-31 22:00:00
 idPredpisa: SKLE12093
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ugotovitvi prenehanja razlogov za za\u010Dasne ukrepe v zvezi s sodnimi,\
-  \ upravnimi in drugimi javnopravnimi zadevami za obvladovanje \u0161irjenja nalezljive\
-  \ bolezni SARS-CoV-2 (COVID-19)"
+naslov: "SKLEP o ugotovitvi prenehanja razlogov za za\u010Dasne ukrepe v zvezi s sodnimi,
+  upravnimi in drugimi javnopravnimi zadevami za obvladovanje \u0161irjenja nalezljive
+  bolezni SARS-CoV-2 (COVID-19)"
 npbNum: 0
 path: /2020/11/2020-01-1103
 sopPredpisa: 2020-01-1103

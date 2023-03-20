@@ -1,16 +1,10 @@
 Text file: PRAV9614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1263423600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-13 23:00:00
 idPredpisa: PRAV9614
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih zahtevah za gradnjo in obratovanje postaj za preskrbo\
-  \ motornih vozil z gorivi"
+naslov: "PRAVILNIK o tehni\u010Dnih zahtevah za gradnjo in obratovanje postaj za preskrbo
+  motornih vozil z gorivi"
 npbNum: 0
 path: /2009/50/2009-01-5078
 sopPredpisa: 2009-01-5078

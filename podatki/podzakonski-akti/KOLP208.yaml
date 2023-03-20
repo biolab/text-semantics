@@ -1,19 +1,10 @@
 Text file: KOLP208.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1364767200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1371247200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-03-31 22:00:00
+datumZacetkaVelj: 2013-06-14 22:00:00
 idPredpisa: KOLP208
 idPredpisaChng: KOLP208
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA za kovinsko industrijo Slovenije (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 8)"
+naslov: "KOLEKTIVNA POGODBA za kovinsko industrijo Slovenije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 8)"
 npbNum: 8
 path: /2013/19/2013-01-1942-2005-01-4708-npb8
 sopPredpisa: 2013-01-1942

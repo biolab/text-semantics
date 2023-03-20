@@ -1,16 +1,10 @@
 Text file: SKLE506.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1423868400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-02-13 23:00:00
 idPredpisa: SKLE506
 idPredpisaChng: SKLE506
-instock: .nan
-naslov: "SKLEP o ustanovitvi in nalogah Sveta Vlade Republike Slovenije za \u0161\
-  tudentska vpra\u0161anja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 11)"
+naslov: "SKLEP o ustanovitvi in nalogah Sveta Vlade Republike Slovenije za \u0161tudentska
+  vpra\u0161anja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 11)"
 npbNum: 11
 path: /2015/02/2015-01-0280-1996-01-3240-npb11
 sopPredpisa: 2015-01-0280

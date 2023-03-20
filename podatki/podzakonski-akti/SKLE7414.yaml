@@ -1,14 +1,8 @@
 Text file: SKLE7414.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1197586800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-13 23:00:00
 idPredpisa: SKLE7414
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi leta 2008 za Trubarjevo leto"
 npbNum: 0
 path: /2007/57/2007-01-5706

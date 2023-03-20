@@ -1,16 +1,10 @@
 Text file: PRAV4776.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1391209200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-31 23:00:00
 idPredpisa: PRAV4776
 idPredpisaChng: PRAV4776
-instock: .nan
-naslov: "PRAVILNIK o postopkih pri uveljavljanju pravice do institucionalnega varstva\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o postopkih pri uveljavljanju pravice do institucionalnega varstva
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2014/00/2014-01-0060-2004-01-1637-npb3
 sopPredpisa: 2014-01-0060

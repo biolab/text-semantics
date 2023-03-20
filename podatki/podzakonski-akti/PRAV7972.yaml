@@ -1,20 +1,11 @@
 Text file: PRAV7972.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630447200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619215200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-08-31 22:00:00
+datumZacetkaVelj: 2021-04-23 22:00:00
 idPredpisa: PRAV7972
 idPredpisaChng: PRAV7972
-instock: .nan
-naslov: "PRAVILNIK o normativih in standardih za izvajanje vzgojno-izobra\u017Eevalnih\
-  \ programov za otroke s posebnimi potrebami (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 7)"
+naslov: "PRAVILNIK o normativih in standardih za izvajanje vzgojno-izobra\u017Eevalnih
+  programov za otroke s posebnimi potrebami (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 7)"
 npbNum: 7
 path: /2021/10/2021-01-1064-2007-01-3163-npb7
 sopPredpisa: 2021-01-1064

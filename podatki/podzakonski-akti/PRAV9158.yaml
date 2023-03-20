@@ -1,16 +1,10 @@
 Text file: PRAV9158.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464991200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-06-03 22:00:00
 idPredpisa: PRAV9158
 idPredpisaChng: PRAV9158
-instock: .nan
-naslov: "PRAVILNIK o javnih listinah v vi\u0161jem strokovnem izobra\u017Eevanju (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o javnih listinah v vi\u0161jem strokovnem izobra\u017Eevanju (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2016/17/2016-01-1718-2008-01-3640-npb2
 sopPredpisa: 2016-01-1718

@@ -1,16 +1,10 @@
 Text file: PRAV2910.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1060984800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-15 22:00:00
 idPredpisa: PRAV2910
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu varstva osebnih podatkov dajalcev in prejemnikov\
-  \ delov \u010Dlove\u0161kega telesa zaradi zdravljenja"
+naslov: "PRAVILNIK o na\u010Dinu varstva osebnih podatkov dajalcev in prejemnikov
+  delov \u010Dlove\u0161kega telesa zaradi zdravljenja"
 npbNum: 0
 path: /2003/36/2003-01-3630
 sopPredpisa: 2003-01-3630

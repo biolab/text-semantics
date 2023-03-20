@@ -1,16 +1,10 @@
 Text file: URED6772.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1411164000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-09-19 22:00:00
 idPredpisa: URED6772
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o ozna\u010Devanju proizvodov, povezanih z energijo, glede rabe energije\
-  \ in drugih virov"
+naslov: "UREDBO o ozna\u010Devanju proizvodov, povezanih z energijo, glede rabe energije
+  in drugih virov"
 npbNum: 0
 path: /2014/27/2014-01-2740
 sopPredpisa: 2014-01-2740

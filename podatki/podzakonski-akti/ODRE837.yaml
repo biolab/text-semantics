@@ -1,16 +1,10 @@
 Text file: ODRE837.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646434800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-04 23:00:00
 idPredpisa: ODRE837
 idPredpisaChng: ODRE837
-instock: .nan
-naslov: "ODREDBA o \u0161tevilu in sede\u017Eih notarskih mest (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 11)"
+naslov: "ODREDBA o \u0161tevilu in sede\u017Eih notarskih mest (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 11)"
 npbNum: 11
 path: /2022/06/2022-01-0640-1994-01-1678-npb11
 sopPredpisa: 2022-01-0640

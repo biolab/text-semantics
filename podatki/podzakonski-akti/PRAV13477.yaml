@@ -1,17 +1,11 @@
 Text file: PRAV13477.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528840800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-12 22:00:00
 idPredpisa: PRAV13477
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o strokovnem nadzoru nad delom poobla\u0161\u010Denih arhitektov,\
-  \ poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\u010Denih prostorskih\
-  \ na\u010Drtovalcev"
+naslov: "SPLO\u0160NI AKT o strokovnem nadzoru nad delom poobla\u0161\u010Denih arhitektov,
+  poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\u010Denih prostorskih
+  na\u010Drtovalcev"
 npbNum: 0
 path: /2018/20/2018-01-2008
 sopPredpisa: 2018-01-2008

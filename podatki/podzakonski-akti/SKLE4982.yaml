@@ -1,17 +1,11 @@
 Text file: SKLE4982.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1093989600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-31 22:00:00
 idPredpisa: SKLE4982
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 79  o dolo\u010Ditvi\
-  \ cene za enoto storitve za Dansko in \u010Ce\u0161ko republiko, z za\u010Detkom\
-  \ veljavnosti 1. septembra 2004,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 79  o dolo\u010Ditvi
+  cene za enoto storitve za Dansko in \u010Ce\u0161ko republiko, z za\u010Detkom veljavnosti
+  1. septembra 2004,"
 npbNum: 0
 path: /2004/45/2004-01-4505
 sopPredpisa: 2004-01-4505

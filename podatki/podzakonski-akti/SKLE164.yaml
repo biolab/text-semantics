@@ -1,20 +1,14 @@
 Text file: SKLE164.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 819673200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-12-22 23:00:00
 idPredpisa: SKLE164
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na\
-  \ odseku Diva\u010Da\u2013Kozina in o javni razgrnitvi predloga sprememb in dopolnitev\
-  \ prostorskih sestavin dolgoro\u010Dnega plana Ob\u010Dine Diva\u010Da za obdobje\
-  \ 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Diva\u010D\
-  a in Ob\u010Dine Hrpelje-Kozina za obdobje 1986\u20131990 s programsko zasnovo v\
-  \ delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na
+  odseku Diva\u010Da\u2013Kozina in o javni razgrnitvi predloga sprememb in dopolnitev
+  prostorskih sestavin dolgoro\u010Dnega plana Ob\u010Dine Diva\u010Da za obdobje
+  1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Diva\u010Da
+  in Ob\u010Dine Hrpelje-Kozina za obdobje 1986\u20131990 s programsko zasnovo v delu,
+  ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1995/34/1995-01-3421
 sopPredpisa: 1995-01-3421

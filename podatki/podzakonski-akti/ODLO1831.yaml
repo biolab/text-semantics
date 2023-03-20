@@ -1,16 +1,10 @@
 Text file: ODLO1831.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435356000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-26 22:00:00
 idPredpisa: ODLO1831
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o razglasitvi \u017Di\u010Dke kartuzije za kulturni spomenik dr\u017E\
-  avnega pomena"
+naslov: "ODLOK o razglasitvi \u017Di\u010Dke kartuzije za kulturni spomenik dr\u017Eavnega
+  pomena"
 npbNum: 0
 path: /2015/19/2015-01-1926
 sopPredpisa: 2015-01-1926

@@ -1,16 +1,10 @@
 Text file: PRAV13423.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1559340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-31 22:00:00
 idPredpisa: PRAV13423
 idPredpisaChng: PRAV13423
-instock: .nan
-naslov: "PRAVILNIK o evidentiranju podatkov v zemlji\u0161kem katastru (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o evidentiranju podatkov v zemlji\u0161kem katastru (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/15/2019-01-1579-2018-01-2522-npb1
 sopPredpisa: 2019-01-1579

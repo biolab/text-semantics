@@ -1,14 +1,8 @@
 Text file: URED6390.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1370642400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-06-07 22:00:00
 idPredpisa: URED6390
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju Uredbe 1177/2010/EU o pravicah potnikov med potovanjem
   po morju in celinskih plovnih poteh
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: PRAV13722.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1569621600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-09-27 22:00:00
 idPredpisa: PRAV13722
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o nivojskih prehodih
 npbNum: 0
 path: /2019/24/2019-01-2496

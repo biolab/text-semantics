@@ -1,16 +1,10 @@
 Text file: SKLE11779.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562882400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-11 22:00:00
 idPredpisa: SKLE11779
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ureditvi notranjega upravljanja, upravljalnem organu in procesu ocenjevanja\
-  \ ustreznega notranjega kapitala za borznoposredni\u0161ke dru\u017Ebe"
+naslov: "SKLEP o ureditvi notranjega upravljanja, upravljalnem organu in procesu ocenjevanja
+  ustreznega notranjega kapitala za borznoposredni\u0161ke dru\u017Ebe"
 npbNum: 0
 path: /2019/18/2019-01-1895
 sopPredpisa: 2019-01-1895

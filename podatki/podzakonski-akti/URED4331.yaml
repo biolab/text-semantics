@@ -1,16 +1,10 @@
 Text file: URED4331.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201647600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-29 23:00:00
 idPredpisa: URED4331
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije\
-  \ na podro\u010Dju javne \u017Eelezni\u0161ke infrastrukture"
+naslov: "UREDBO o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije
+  na podro\u010Dju javne \u017Eelezni\u0161ke infrastrukture"
 npbNum: 0
 path: /2008/02/2008-01-0216
 sopPredpisa: 2008-01-0216

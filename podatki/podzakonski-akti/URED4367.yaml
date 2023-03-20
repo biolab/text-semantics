@@ -1,16 +1,10 @@
 Text file: URED4367.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1170457200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-02 23:00:00
 idPredpisa: URED4367
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi pogojev, meril in obsegu pla\u010Dila za pove\u010D\
-  an obseg dela dodeljenih sodnikov na Ministrstvo za pravosodje"
+naslov: "UREDBO o dolo\u010Ditvi pogojev, meril in obsegu pla\u010Dila za pove\u010Dan
+  obseg dela dodeljenih sodnikov na Ministrstvo za pravosodje"
 npbNum: 0
 path: /2007/04/2007-01-0440
 sopPredpisa: 2007-01-0440

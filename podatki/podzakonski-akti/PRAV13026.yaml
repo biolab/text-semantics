@@ -1,16 +1,10 @@
 Text file: PRAV13026.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1494626400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-05-12 22:00:00
 idPredpisa: PRAV13026
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi Programa cepljenja in za\u0161\u010Dite z zdravili\
-  \ za leto 2017"
+naslov: "PRAVILNIK o dolo\u010Ditvi Programa cepljenja in za\u0161\u010Dite z zdravili
+  za leto 2017"
 npbNum: 0
 path: /2017/12/2017-01-1270
 sopPredpisa: 2017-01-1270

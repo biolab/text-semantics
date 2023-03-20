@@ -1,17 +1,11 @@
 Text file: PRAV5453.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1086386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-04 22:00:00
 idPredpisa: PRAV5453
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu in postopku pridobitve licenc za opravljanje dejavnosti\
-  \ organiziranja in prodaje turisti\u010Dnih aran\u017Emajev ter o vsebini in na\u010D\
-  inu vodenja registra izdanih licenc"
+naslov: "PRAVILNIK o na\u010Dinu in postopku pridobitve licenc za opravljanje dejavnosti
+  organiziranja in prodaje turisti\u010Dnih aran\u017Emajev ter o vsebini in na\u010Dinu
+  vodenja registra izdanih licenc"
 npbNum: 0
 path: /2004/26/2004-01-2600
 sopPredpisa: 2004-01-2600

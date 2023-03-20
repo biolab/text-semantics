@@ -1,17 +1,11 @@
 Text file: PRAV11900.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1421103600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-12 23:00:00
 idPredpisa: PRAV11900
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi majhnih koli\u010Din \u017Eivil, pogojih za njihovo\
-  \ pridelavo ter o dolo\u010Ditvi nekaterih odstopanj za obrate na podro\u010Dju\
-  \ \u017Eivil \u017Eivalskega izvora"
+naslov: "PRAVILNIK o dolo\u010Ditvi majhnih koli\u010Din \u017Eivil, pogojih za njihovo
+  pridelavo ter o dolo\u010Ditvi nekaterih odstopanj za obrate na podro\u010Dju \u017Eivil
+  \u017Eivalskega izvora"
 npbNum: 0
 path: /2014/40/2014-01-4051
 sopPredpisa: 2014-01-4051

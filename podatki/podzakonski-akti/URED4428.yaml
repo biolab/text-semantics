@@ -1,14 +1,8 @@
 Text file: URED4428.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1194044400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-02 23:00:00
 idPredpisa: URED4428
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o delovanju trga z zemeljskim plinom
 npbNum: 0
 path: /2007/47/2007-01-4740

@@ -1,17 +1,11 @@
 Text file: ODLO2347.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614294000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-25 23:00:00
 idPredpisa: ODLO2347
 idPredpisaChng: ODLO2347
-instock: .nan
-naslov: "ODLOK o dolo\u010Ditvi pogojev vstopa v Republiko Slovenijo zaradi zajezitve\
-  \ in obvladovanja nalezljive bolezni COVID-19 (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 2)"
+naslov: "ODLOK o dolo\u010Ditvi pogojev vstopa v Republiko Slovenijo zaradi zajezitve
+  in obvladovanja nalezljive bolezni COVID-19 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/05/2021-01-0542-2021-01-0421-npb2
 sopPredpisa: 2021-01-0542

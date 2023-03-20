@@ -1,19 +1,13 @@
 Text file: PRAV9796.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1248472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-24 22:00:00
 idPredpisa: PRAV9796
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga \u2013 kala (tehnolo\u0161\
-  ki dodatek, primanjkljaj, okvara in po\u0161kodbe), ki je nelo\u010Dljivo povezan\
-  \ s procesom izdelave in predelave papirja ter normalnega odpisa blaga kot posledico\
-  \ po\u0161kodb in okvar papirja, kartonov in drugih izdelkov iz papirja v proizvodnji,\
-  \ skladi\u0161\u010Du in med transportom"
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa blaga \u2013 kala (tehnolo\u0161ki
+  dodatek, primanjkljaj, okvara in po\u0161kodbe), ki je nelo\u010Dljivo povezan s
+  procesom izdelave in predelave papirja ter normalnega odpisa blaga kot posledico
+  po\u0161kodb in okvar papirja, kartonov in drugih izdelkov iz papirja v proizvodnji,
+  skladi\u0161\u010Du in med transportom"
 npbNum: 0
 path: /2009/28/2009-01-2808
 sopPredpisa: 2009-01-2808

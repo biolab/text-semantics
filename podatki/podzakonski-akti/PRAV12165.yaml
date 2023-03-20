@@ -1,16 +1,10 @@
 Text file: PRAV12165.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1408053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-08-14 22:00:00
 idPredpisa: PRAV12165
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o poro\u010Danju o nalo\u017Ebah prostih denarnih sredstev izven\
-  \ sistema enotnega zakladni\u0161kega ra\u010Duna dr\u017Eave"
+naslov: "PRAVILNIK o poro\u010Danju o nalo\u017Ebah prostih denarnih sredstev izven
+  sistema enotnega zakladni\u0161kega ra\u010Duna dr\u017Eave"
 npbNum: 0
 path: /2014/26/2014-01-2652
 sopPredpisa: 2014-01-2652

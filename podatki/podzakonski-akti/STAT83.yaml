@@ -1,14 +1,8 @@
 Text file: STAT83.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064613600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-26 22:00:00
 idPredpisa: STAT83
 idPredpisaChng: null
-instock: .nan
 naslov: "STATUT Zbornice izvr\u0161iteljev Slovenije"
 npbNum: 0
 path: /2003/40/2003-01-4097

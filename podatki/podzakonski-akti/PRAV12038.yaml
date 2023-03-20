@@ -1,16 +1,10 @@
 Text file: PRAV12038.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1406325600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-07-25 22:00:00
 idPredpisa: PRAV12038
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i opredelitvi podatkov o obdav\u010Dljivih dohodkih,\
-  \ ki niso opro\u0161\u010Deni pla\u010Dila dohodnine"
+naslov: "PRAVILNIK o podrobnej\u0161i opredelitvi podatkov o obdav\u010Dljivih dohodkih,
+  ki niso opro\u0161\u010Deni pla\u010Dila dohodnine"
 npbNum: 0
 path: /2014/22/2014-01-2279
 sopPredpisa: 2014-01-2279

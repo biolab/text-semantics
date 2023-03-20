@@ -1,14 +1,8 @@
 Text file: AKT_1145.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-10 22:00:00
 idPredpisa: AKT_1145
 idPredpisaChng: null
-instock: .nan
 naslov: "AKT o na\u010Drtu preventivnih ukrepov pri oskrbi z zemeljskim plinom"
 npbNum: 0
 path: /2020/17/2020-01-1759

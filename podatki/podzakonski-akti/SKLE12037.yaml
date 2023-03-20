@@ -1,14 +1,8 @@
 Text file: SKLE12037.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE12037
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o poro\u010Dilu nosilca aktuarske funkcije pokojninske dru\u017Ebe"
 npbNum: 0
 path: /2020/12/2020-01-1248

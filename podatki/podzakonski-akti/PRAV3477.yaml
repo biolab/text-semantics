@@ -1,16 +1,10 @@
 Text file: PRAV3477.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 911602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-11-20 23:00:00
 idPredpisa: PRAV3477
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o organizaciji in pristojnosti strokovnih teles Ministrstva za\
-  \ znanost in tehnologijo za podro\u010Dje tehnolo\u0161kega razvoja"
+naslov: "PRAVILNIK o organizaciji in pristojnosti strokovnih teles Ministrstva za
+  znanost in tehnologijo za podro\u010Dje tehnolo\u0161kega razvoja"
 npbNum: 0
 path: /1998/39/1998-01-3976
 sopPredpisa: 1998-01-3976

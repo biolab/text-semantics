@@ -1,16 +1,10 @@
 Text file: PRAV13486.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1539295200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-10-11 22:00:00
 idPredpisa: PRAV13486
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o registru farmacevtskih strokovnih delavcev pri izvajalcu lekarni\u0161\
-  ke dejavnosti"
+naslov: "PRAVILNIK o registru farmacevtskih strokovnih delavcev pri izvajalcu lekarni\u0161ke
+  dejavnosti"
 npbNum: 0
 path: /2018/30/2018-01-3039
 sopPredpisa: 2018-01-3039

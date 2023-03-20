@@ -1,16 +1,10 @@
 Text file: ODLO236.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1069714800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-24 23:00:00
 idPredpisa: ODLO236
 idPredpisaChng: ODLO236
-instock: .nan
-naslov: "ODLOK o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik\
-  \ dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik
+  dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2003/50/2003-01-5030-1999-01-3815-npb1
 sopPredpisa: 2003-01-5030

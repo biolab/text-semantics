@@ -1,14 +1,8 @@
 Text file: URED6595.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388790000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-03 23:00:00
 idPredpisa: URED6595
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o standardni klasifikaciji institucionalnih sektorjev
 npbNum: 0
 path: /2013/38/2013-01-3880

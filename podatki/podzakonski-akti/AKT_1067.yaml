@@ -1,16 +1,10 @@
 Text file: AKT_1067.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1536357600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-09-07 22:00:00
 idPredpisa: AKT_1067
 idPredpisaChng: null
-instock: .nan
-naslov: "KONCESIJSKI AKT o javno-zasebnem partnerstvu pri izvedbi projekta energetskega\
-  \ pogodbeni\u0161tva na objektih T\u0160C Maribor"
+naslov: "KONCESIJSKI AKT o javno-zasebnem partnerstvu pri izvedbi projekta energetskega
+  pogodbeni\u0161tva na objektih T\u0160C Maribor"
 npbNum: 0
 path: /2018/29/2018-01-2927
 sopPredpisa: 2018-01-2927

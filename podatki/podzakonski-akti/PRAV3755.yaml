@@ -1,16 +1,10 @@
 Text file: PRAV3755.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071788400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-18 23:00:00
 idPredpisa: PRAV3755
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih za vpis \u010Distopasemskih plemenskih pra\u0161i\u010D\
-  ev v rodovni\u0161ko knjigo*"
+naslov: "PRAVILNIK o pogojih za vpis \u010Distopasemskih plemenskih pra\u0161i\u010Dev
+  v rodovni\u0161ko knjigo*"
 npbNum: 0
 path: /2003/42/2003-01-4255
 sopPredpisa: 2003-01-4255

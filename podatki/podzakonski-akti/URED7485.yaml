@@ -1,16 +1,10 @@
 Text file: URED7485.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1536789600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-09-12 22:00:00
 idPredpisa: URED7485
 idPredpisaChng: URED7485
-instock: .nan
-naslov: "UREDBA o obvezni ob\u010Dinski gospodarski javni slu\u017Ebi zbiranja komunalnih\
-  \ odpadkov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o obvezni ob\u010Dinski gospodarski javni slu\u017Ebi zbiranja komunalnih
+  odpadkov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2018/29/2018-01-2949-2017-01-1836-npb1
 sopPredpisa: 2018-01-2949

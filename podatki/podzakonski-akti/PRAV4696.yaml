@@ -1,16 +1,10 @@
 Text file: PRAV4696.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1047596400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-13 23:00:00
 idPredpisa: PRAV4696
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu gozdnogospodarskega na\u010Drta gozdnogospodarske enote\
-  \ Stari trg (2001\u20132010)"
+naslov: "PRAVILNIK o sprejemu gozdnogospodarskega na\u010Drta gozdnogospodarske enote
+  Stari trg (2001\u20132010)"
 npbNum: 0
 path: /2003/10/2003-01-1003
 sopPredpisa: 2003-01-1003

@@ -1,17 +1,11 @@
 Text file: PRAV12408.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1474668000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-09-23 22:00:00
 idPredpisa: PRAV12408
 idPredpisaChng: PRAV12408
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu delitve in obra\u010Dunu stro\u0161kov za toploto\
-  \ v stanovanjskih in drugih stavbah z ve\u010D posameznimi deli (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu delitve in obra\u010Dunu stro\u0161kov za toploto
+  v stanovanjskih in drugih stavbah z ve\u010D posameznimi deli (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/25/2016-01-2573-2015-01-3265-npb1
 sopPredpisa: 2016-01-2573

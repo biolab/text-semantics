@@ -1,16 +1,9 @@
 Text file: SKLE10660.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1458342000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-18 23:00:00
 idPredpisa: SKLE10660
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o poro\u010Dilu poobla\u0161\u010Denega aktuarja pokojninske dru\u017E\
-  be"
+naslov: "SKLEP o poro\u010Dilu poobla\u0161\u010Denega aktuarja pokojninske dru\u017Ebe"
 npbNum: 0
 path: /2016/06/2016-01-0606
 sopPredpisa: 2016-01-0606

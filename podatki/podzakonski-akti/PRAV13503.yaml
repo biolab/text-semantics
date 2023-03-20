@@ -1,16 +1,10 @@
 Text file: PRAV13503.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1544828400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-14 23:00:00
 idPredpisa: PRAV13503
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ukrepih za ugotavljanje, prepre\u010Devanje in zatiranje atipi\u010D\
-  ne koko\u0161je kuge"
+naslov: "PRAVILNIK o ukrepih za ugotavljanje, prepre\u010Devanje in zatiranje atipi\u010Dne
+  koko\u0161je kuge"
 npbNum: 0
 path: /2018/38/2018-01-3887
 sopPredpisa: 2018-01-3887

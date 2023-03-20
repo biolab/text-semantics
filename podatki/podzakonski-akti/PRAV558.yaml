@@ -1,16 +1,10 @@
 Text file: PRAV558.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206140400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-21 23:00:00
 idPredpisa: PRAV558
 idPredpisaChng: PRAV558
-instock: .nan
-naslov: "PRAVILNIK o dehidriranem konzerviranem mleku (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dehidriranem konzerviranem mleku (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2008/08/2008-01-0884-2004-01-1337-npb1
 sopPredpisa: 2008-01-0884

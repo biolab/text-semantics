@@ -1,20 +1,14 @@
 Text file: URED2031.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1014937200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-28 23:00:00
 idPredpisa: URED2031
 idPredpisaChng: URED2031
-instock: .nan
-naslov: "UREDBA o izvajanju Evropskega sporazuma o pridru\u017Eitvi med Republiko\
-  \ Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010D\
-  lanicami, ki delujejo v okviru Evropske unije na drugi strani, v delu, ki se nana\u0161\
-  a na trgovino in za\u010Dasni uporabi zapisnika trgovinskega pogajanja med komisijo\
-  \ in Republiko Slovenijo o novih vzajemnih koncesijah v kmetijstvu  (Bruselj, 22.\
-  \ 5. 2000) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o izvajanju Evropskega sporazuma o pridru\u017Eitvi med Republiko
+  Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010Dlanicami,
+  ki delujejo v okviru Evropske unije na drugi strani, v delu, ki se nana\u0161a na
+  trgovino in za\u010Dasni uporabi zapisnika trgovinskega pogajanja med komisijo in
+  Republiko Slovenijo o novih vzajemnih koncesijah v kmetijstvu  (Bruselj, 22. 5.
+  2000) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2002/06/2002-01-0690-2001-01-5505-npb1
 sopPredpisa: 2002-01-0690

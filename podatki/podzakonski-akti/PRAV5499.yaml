@@ -1,16 +1,10 @@
 Text file: PRAV5499.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1177106400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-20 22:00:00
 idPredpisa: PRAV5499
 idPredpisaChng: PRAV5499
-instock: .nan
-naslov: "PRAVILNIK o pogojih in nalogah opravljanja javne slu\u017Ebe zdravstvenega\
-  \ varstva rastlin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih in nalogah opravljanja javne slu\u017Ebe zdravstvenega
+  varstva rastlin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2007/19/2007-01-1937-2006-01-1408-npb1
 sopPredpisa: 2007-01-1937

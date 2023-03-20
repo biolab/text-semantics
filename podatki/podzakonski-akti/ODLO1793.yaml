@@ -1,17 +1,11 @@
 Text file: ODLO1793.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1405720800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-07-18 22:00:00
 idPredpisa: ODLO1793
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o prenehanju Javnega gospodarskega zavoda Pohorje Mirna, proizvodnja\
-  \ opreme za protipo\u017Earno za\u0161\u010Dito in namakanje, ulivanje in kovanje\
-  \ barvnih kovin ter kmetijska proizvodnja"
+naslov: "ODLOK o prenehanju Javnega gospodarskega zavoda Pohorje Mirna, proizvodnja
+  opreme za protipo\u017Earno za\u0161\u010Dito in namakanje, ulivanje in kovanje
+  barvnih kovin ter kmetijska proizvodnja"
 npbNum: 0
 path: /2014/24/2014-01-2437
 sopPredpisa: 2014-01-2437

@@ -1,20 +1,11 @@
 Text file: SKLE10872.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1470434400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-08-05 22:00:00
 idPredpisa: SKLE10872
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o preudarnih politikah prejemkov v skladu s \u010D\
-  lenoma 74(3) in 75(2) Direktive 2013/36/EU ter razkritjih v skladu s \u010Dlenom\
-  \ 450 Uredbe (EU) \u0161t.\_575/2013"
+naslov: "SKLEP o uporabi Smernic o preudarnih politikah prejemkov v skladu s \u010Dlenoma
+  74(3) in 75(2) Direktive 2013/36/EU ter razkritjih v skladu s \u010Dlenom 450 Uredbe
+  (EU) \u0161t.\_575/2013"
 npbNum: 0
 path: /2016/23/2016-01-2375
 sopPredpisa: 2016-01-2375

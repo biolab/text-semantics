@@ -1,17 +1,11 @@
 Text file: ODRE2364.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1457737200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-11 23:00:00
 idPredpisa: ODRE2364
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi objekta in okoli\u0161a objekta Centra za tujce\
-  \ v Lenartu v Slovenskih goricah za objekt in okoli\u0161 objekta posebnega pomena\
-  \ ter ukrepov za njuno varovanje"
+naslov: "ODREDBO o dolo\u010Ditvi objekta in okoli\u0161a objekta Centra za tujce
+  v Lenartu v Slovenskih goricah za objekt in okoli\u0161 objekta posebnega pomena
+  ter ukrepov za njuno varovanje"
 npbNum: 0
 path: /2016/06/2016-01-0669
 sopPredpisa: 2016-01-0669

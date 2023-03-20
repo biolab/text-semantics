@@ -1,12 +1,10 @@
 Text file: SKLE10177.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10177
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastne konzulke Republike Slovenije v Sevilli, v\
-  \ Kraljevini \u0160paniji"
+naslov: "SKLEP o imenovanju \u010Dastne konzulke Republike Slovenije v Sevilli, v
+  Kraljevini \u0160paniji"
 npbNum: 0
 path: /2015/13/2015-01-1367
 sopPredpisa: 2015-01-1367

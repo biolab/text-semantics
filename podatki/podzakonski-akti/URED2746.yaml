@@ -1,18 +1,12 @@
 Text file: URED2746.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041375600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-31 23:00:00
 idPredpisa: URED2746
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o izvajanju Sporazuma o prosti trgovini med Republiko Slovenijo in\
-  \ Republiko Tur\u010Dijo ter za\u010Dasni uporabi dodatnega Protokola \u0161t. 2\
-  \ o spremembi Protokola 3 o opredelitvi pojma \xBBizdelki s poreklom\xAB in na\u010D\
-  inih upravnega sodelovanja"
+naslov: "UREDBO  o izvajanju Sporazuma o prosti trgovini med Republiko Slovenijo in
+  Republiko Tur\u010Dijo ter za\u010Dasni uporabi dodatnega Protokola \u0161t. 2 o
+  spremembi Protokola 3 o opredelitvi pojma \xBBizdelki s poreklom\xAB in na\u010Dinih
+  upravnega sodelovanja"
 npbNum: 0
 path: /2002/56/2002-01-5627
 sopPredpisa: 2002-01-5627

@@ -1,16 +1,10 @@
 Text file: ODRE420.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 807573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-08-04 22:00:00
 idPredpisa: ODRE420
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o obveznem sodelovanju imetnikov pri zatiranju \u0161kodljivih organizmov\
-  \ na \u017Eelezni\u0161kih objektih"
+naslov: "ODREDBO o obveznem sodelovanju imetnikov pri zatiranju \u0161kodljivih organizmov
+  na \u017Eelezni\u0161kih objektih"
 npbNum: 0
 path: /1995/20/1995-01-2046
 sopPredpisa: 1995-01-2046

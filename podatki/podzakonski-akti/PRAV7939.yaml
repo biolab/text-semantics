@@ -1,16 +1,10 @@
 Text file: PRAV7939.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1200351600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-14 23:00:00
 idPredpisa: PRAV7939
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopku, po katerem in\u0161pektorji Prometnega in\u0161pektorata\
-  \ Republike Slovenije ustavljajo vozila v cestnem prometu"
+naslov: "PRAVILNIK o postopku, po katerem in\u0161pektorji Prometnega in\u0161pektorata
+  Republike Slovenije ustavljajo vozila v cestnem prometu"
 npbNum: 0
 path: /2008/01/2008-01-0138
 sopPredpisa: 2008-01-0138

@@ -1,17 +1,11 @@
 Text file: PRAV2027.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1280181600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-07-26 22:00:00
 idPredpisa: PRAV2027
 idPredpisaChng: PRAV2027
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi obrazca pro\u0161nje za izdajo dovoljenja za stalno\
-  \ prebivanje in za izdajo posebne odlo\u010Dbe (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dolo\u010Ditvi obrazca pro\u0161nje za izdajo dovoljenja za stalno
+  prebivanje in za izdajo posebne odlo\u010Dbe (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/33/2010-01-3386-1999-01-3666-npb1
 sopPredpisa: 2010-01-3386

@@ -1,16 +1,10 @@
 Text file: URED1048.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 876520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-10-10 22:00:00
 idPredpisa: URED1048
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih za razdelitev navadnih delnic prirediteljev posebnih iger\
-  \ na sre\u010Do med lokalne skupnosti"
+naslov: "UREDBO o merilih za razdelitev navadnih delnic prirediteljev posebnih iger
+  na sre\u010Do med lokalne skupnosti"
 npbNum: 0
 path: /1997/30/1997-01-3058
 sopPredpisa: 1997-01-3058

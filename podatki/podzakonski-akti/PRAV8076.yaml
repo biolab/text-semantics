@@ -1,16 +1,9 @@
 Text file: PRAV8076.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1203980400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-02-25 23:00:00
 idPredpisa: PRAV8076
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopkih za\u0161\u010Dite kmetijskih pridelkov oziroma \u017E\
-  ivil"
+naslov: "PRAVILNIK o postopkih za\u0161\u010Dite kmetijskih pridelkov oziroma \u017Eivil"
 npbNum: 0
 path: /2008/04/2008-01-0456
 sopPredpisa: 2008-01-0456

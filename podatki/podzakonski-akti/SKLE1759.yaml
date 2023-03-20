@@ -1,14 +1,8 @@
 Text file: SKLE1759.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 817167600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-11-23 23:00:00
 idPredpisa: SKLE1759
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uskladitvi priznavalnin
 npbNum: 0
 path: /1995/30/1995-01-3071

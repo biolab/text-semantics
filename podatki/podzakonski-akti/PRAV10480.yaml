@@ -1,14 +1,8 @@
 Text file: PRAV10480.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293145200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-23 23:00:00
 idPredpisa: PRAV10480
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dostavi podatkov za odmero akontacije dohodnine od dohodka iz
   osnovne kmetijske in osnovne gozdarske dejavnosti za leto 2010
 npbNum: 0

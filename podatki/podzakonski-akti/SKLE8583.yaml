@@ -1,16 +1,10 @@
 Text file: SKLE8583.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1283551200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-03 22:00:00
 idPredpisa: SKLE8583
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o obmo\u010Djih z vi\u0161jo stopnjo brezposelnosti v Republiki Sloveniji\
-  \ za leto 2010"
+naslov: "SKLEP  o obmo\u010Djih z vi\u0161jo stopnjo brezposelnosti v Republiki Sloveniji
+  za leto 2010"
 npbNum: 0
 path: /2010/38/2010-01-3827
 sopPredpisa: 2010-01-3827

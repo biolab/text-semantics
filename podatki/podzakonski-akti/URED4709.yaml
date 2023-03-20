@@ -1,17 +1,11 @@
 Text file: URED4709.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1242684000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-18 22:00:00
 idPredpisa: URED4709
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Danju koli\u010Dine elektri\u010Dne energije, ki je proizvedena\
-  \ v soproizvodnji toplote in elektri\u010Dne energije z visokim izkoristkom ter\
-  \ dolo\u010Danju izkoristka pretvorbe energije biomase"
+naslov: "UREDBO o dolo\u010Danju koli\u010Dine elektri\u010Dne energije, ki je proizvedena
+  v soproizvodnji toplote in elektri\u010Dne energije z visokim izkoristkom ter dolo\u010Danju
+  izkoristka pretvorbe energije biomase"
 npbNum: 0
 path: /2009/17/2009-01-1778
 sopPredpisa: 2009-01-1778

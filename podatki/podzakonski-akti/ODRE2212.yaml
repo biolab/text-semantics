@@ -1,14 +1,8 @@
 Text file: ODRE2212.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1367618400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-03 22:00:00
 idPredpisa: ODRE2212
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDB  o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti
   gradbenih proizvodov z zahtevami Zakona o gradbenih proizvodih
 npbNum: 0

@@ -1,17 +1,11 @@
 Text file: URED5843.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-31 23:00:00
 idPredpisa: URED5843
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (EU) \u0161t. 1210/2010 Evropskega parlamenta in\
-  \ Sveta z dne 15. decembra 2010 o preverjanju pristnosti eurokovancev in ravnanju\
-  \ z eurokovanci, neprimernimi za obtok"
+naslov: "UREDBO o izvajanju Uredbe (EU) \u0161t. 1210/2010 Evropskega parlamenta in
+  Sveta z dne 15. decembra 2010 o preverjanju pristnosti eurokovancev in ravnanju
+  z eurokovanci, neprimernimi za obtok"
 npbNum: 0
 path: /2011/32/2011-01-3280
 sopPredpisa: 2011-01-3280

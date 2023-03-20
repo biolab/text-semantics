@@ -1,17 +1,11 @@
 Text file: PRAV5012.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-03 22:00:00
 idPredpisa: PRAV5012
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prilagojenem izobra\u017Eevalnem programu srednjega poklicnega\
-  \ izobra\u017Eevanja Oblikovalec kovin za gluhe in naglu\u0161ne dijake in dijake\
-  \ z govorno-jezikovnimi motnjami"
+naslov: "PRAVILNIK o prilagojenem izobra\u017Eevalnem programu srednjega poklicnega
+  izobra\u017Eevanja Oblikovalec kovin za gluhe in naglu\u0161ne dijake in dijake
+  z govorno-jezikovnimi motnjami"
 npbNum: 0
 path: /2003/25/2003-01-2544
 sopPredpisa: 2003-01-2544

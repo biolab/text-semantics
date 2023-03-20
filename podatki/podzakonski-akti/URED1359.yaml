@@ -1,16 +1,10 @@
 Text file: URED1359.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 891039600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-03-27 23:00:00
 idPredpisa: URED1359
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopku sklenitve delovnega razmerja \_za nedolo\u010Den \u010D\
-  as v organih dr\u017Eavne uprave"
+naslov: "UREDBO o postopku sklenitve delovnega razmerja \_za nedolo\u010Den \u010Das
+  v organih dr\u017Eavne uprave"
 npbNum: 0
 path: /1998/09/1998-01-0998
 sopPredpisa: 1998-01-0998

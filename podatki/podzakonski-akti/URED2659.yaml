@@ -1,16 +1,10 @@
 Text file: URED2659.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1035583200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-25 22:00:00
 idPredpisa: URED2659
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni\
-  \ promet Sredi\u0161\u010De ob Dravi I"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni
+  promet Sredi\u0161\u010De ob Dravi I"
 npbNum: 0
 path: /2002/45/2002-01-4588
 sopPredpisa: 2002-01-4588

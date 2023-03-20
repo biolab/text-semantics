@@ -1,17 +1,11 @@
 Text file: URED7114.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1563573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-19 22:00:00
 idPredpisa: URED7114
 idPredpisaChng: URED7114
-instock: .nan
-naslov: "UREDBA o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50\
-  \ za ogrevanje in\_potrebe kopali\u0161\u010Da Terme Lendava (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50
+  za ogrevanje in\_potrebe kopali\u0161\u010Da Terme Lendava (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/22/2019-01-2280-2015-01-3350-npb2
 sopPredpisa: 2019-01-2280

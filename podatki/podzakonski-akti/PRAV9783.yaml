@@ -1,14 +1,8 @@
 Text file: PRAV9783.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1292626800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-17 23:00:00
 idPredpisa: PRAV9783
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK  o registru pridelovalcev gensko spremenjenih rastlin
 npbNum: 0
 path: /2010/50/2010-01-5030

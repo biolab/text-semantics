@@ -1,17 +1,11 @@
 Text file: ODRE148.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660341600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-12 22:00:00
 idPredpisa: ODRE148
 idPredpisaChng: ODRE148
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinih ugotavljanja skladnosti za posamezne vrste merilnih\
-  \ instrumentov ter o vrstah in na\u010Dinih njihove ozna\u010Ditve z oznakami skladnosti\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o na\u010Dinih ugotavljanja skladnosti za posamezne vrste merilnih
+  instrumentov ter o vrstah in na\u010Dinih njihove ozna\u010Ditve z oznakami skladnosti
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2022/25/2022-01-2550-2001-01-3876-npb3
 sopPredpisa: 2022-01-2550

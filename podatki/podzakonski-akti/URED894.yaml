@@ -1,16 +1,10 @@
 Text file: URED894.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 946594800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-30 23:00:00
 idPredpisa: URED894
 idPredpisaChng: URED894
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi delovnih mest, na katerih se \u0161teje zavarovalna\
-  \ doba s pove\u010Danjem (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o dolo\u010Ditvi delovnih mest, na katerih se \u0161teje zavarovalna
+  doba s pove\u010Danjem (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /1999/51/1999-01-5165-1998-01-2122-npb2
 sopPredpisa: 1999-01-5165

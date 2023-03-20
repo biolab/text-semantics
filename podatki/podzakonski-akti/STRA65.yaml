@@ -1,16 +1,10 @@
 Text file: STRA65.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 985989600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-03-30 22:00:00
 idPredpisa: STRA65
 idPredpisaChng: STRA65
-instock: .nan
-naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) (Statut\
-  \ UM-UPB10)"
+naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) (Statut
+  UM-UPB10)"
 npbNum: 10
 path: /2001/10/2001-01-1077-2012-01-1929-npb10
 sopPredpisa: 2001-01-1077

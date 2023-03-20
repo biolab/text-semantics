@@ -1,17 +1,11 @@
 Text file: PRAV11150.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1341871200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-07-09 22:00:00
 idPredpisa: PRAV11150
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dostavi podatkov za odmero dohodnine od dobi\u010Dka iz kapitala\
-  \ od odsvojitve vrednostnih papirjev in drugih dele\u017Eev ter investicijskih kuponov\
-  \ za leto 2012"
+naslov: "PRAVILNIK o dostavi podatkov za odmero dohodnine od dobi\u010Dka iz kapitala
+  od odsvojitve vrednostnih papirjev in drugih dele\u017Eev ter investicijskih kuponov
+  za leto 2012"
 npbNum: 0
 path: /2012/21/2012-01-2183
 sopPredpisa: 2012-01-2183

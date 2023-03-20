@@ -1,16 +1,10 @@
 Text file: PRAV9715.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1239400800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-04-10 22:00:00
 idPredpisa: PRAV9715
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o napredovanju javnih uslu\u017Ebencev Sodnega sveta RS v pla\u010D\
-  ne razrede"
+naslov: "PRAVILNIK o napredovanju javnih uslu\u017Ebencev Sodnega sveta RS v pla\u010Dne
+  razrede"
 npbNum: 0
 path: /2009/11/2009-01-1199
 sopPredpisa: 2009-01-1199

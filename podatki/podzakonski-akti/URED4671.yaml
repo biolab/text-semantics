@@ -1,16 +1,10 @@
 Text file: URED4671.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1198623600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-25 23:00:00
 idPredpisa: URED4671
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za rekonstrukcijo vinske ceste\
-  \ L 613 v delu obmejnega obmo\u010Dja Republike Slovenije v ob\u010Dini Kungota"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za rekonstrukcijo vinske ceste
+  L 613 v delu obmejnega obmo\u010Dja Republike Slovenije v ob\u010Dini Kungota"
 npbNum: 0
 path: /2007/56/2007-01-5636
 sopPredpisa: 2007-01-5636

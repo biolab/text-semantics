@@ -1,16 +1,10 @@
 Text file: PRAV13345.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1523656800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-13 22:00:00
 idPredpisa: PRAV13345
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sestavi, nalogah, pristojnostih in na\u010Dinu dela Komisije\
-  \ Republike Slovenije za medicinsko etiko"
+naslov: "PRAVILNIK o sestavi, nalogah, pristojnostih in na\u010Dinu dela Komisije
+  Republike Slovenije za medicinsko etiko"
 npbNum: 0
 path: /2018/08/2018-01-0896
 sopPredpisa: 2018-01-0896

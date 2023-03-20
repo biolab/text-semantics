@@ -1,17 +1,11 @@
 Text file: ODRE2368.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1462572000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-06 22:00:00
 idPredpisa: ODRE2368
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o prenehanju veljavnosti Odredbe o dolo\u010Ditvi objekta in okoli\u0161\
-  a objekta Centra za tujce v\_Lenartu v Slovenskih goricah za objekt in\_okoli\u0161\
-  \ objekta posebnega pomena ter ukrepov za njuno varovanje"
+naslov: "ODREDBO o prenehanju veljavnosti Odredbe o dolo\u010Ditvi objekta in okoli\u0161a
+  objekta Centra za tujce v\_Lenartu v Slovenskih goricah za objekt in\_okoli\u0161
+  objekta posebnega pomena ter ukrepov za njuno varovanje"
 npbNum: 0
 path: /2016/13/2016-01-1374
 sopPredpisa: 2016-01-1374

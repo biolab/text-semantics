@@ -1,17 +1,11 @@
 Text file: AKT_1162.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591048800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-01 22:00:00
 idPredpisa: AKT_1162
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA\_OBRATOVALNA\_NAVODILA za distribucijske sisteme zemeljskega plina\
-  \ za geografska obmo\u010Dja Mestne ob\u010Dine Kranj, Ob\u010Dine Naklo in Ob\u010D\
-  ine \u0160en\u010Dur \u2013 1., 2. in 4.\_obmo\u010Dje"
+naslov: "SISTEMSKA\_OBRATOVALNA\_NAVODILA za distribucijske sisteme zemeljskega plina
+  za geografska obmo\u010Dja Mestne ob\u010Dine Kranj, Ob\u010Dine Naklo in Ob\u010Dine
+  \u0160en\u010Dur \u2013 1., 2. in 4.\_obmo\u010Dje"
 npbNum: 0
 path: /2020/10/2020-01-1070
 sopPredpisa: 2020-01-1070

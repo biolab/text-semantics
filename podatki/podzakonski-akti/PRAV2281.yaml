@@ -1,17 +1,11 @@
 Text file: PRAV2281.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1057010400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-30 22:00:00
 idPredpisa: PRAV2281
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinih usmrtitve \u017Eivali iz veterinarskih razlogov,\
-  \ \u017Eivali, ki se jih redi za proizvodnjo krzna, ter odve\u010Dnih enodnevnih\
-  \ pi\u0161\u010Dancev in zarodkov v odpadkih iz valilnice*"
+naslov: "PRAVILNIK o na\u010Dinih usmrtitve \u017Eivali iz veterinarskih razlogov,
+  \u017Eivali, ki se jih redi za proizvodnjo krzna, ter odve\u010Dnih enodnevnih pi\u0161\u010Dancev
+  in zarodkov v odpadkih iz valilnice*"
 npbNum: 0
 path: /2003/30/2003-01-3071
 sopPredpisa: 2003-01-3071

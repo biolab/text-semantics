@@ -1,16 +1,10 @@
 Text file: PRAV4132.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071788400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-18 23:00:00
 idPredpisa: PRAV4132
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo\
-  \ izvorno rodovni\u0161ko knjigo za plemenske kranjske \u010Debele"
+naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo
+  izvorno rodovni\u0161ko knjigo za plemenske kranjske \u010Debele"
 npbNum: 0
 path: /2003/42/2003-01-4272
 sopPredpisa: 2003-01-4272

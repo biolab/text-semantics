@@ -1,20 +1,14 @@
 Text file: SKLE166.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 817426800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-11-26 23:00:00
 idPredpisa: SKLE166
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za hitro cesto\
-  \ na odseku Vipava\u2013Selo in o javni razgrnitvi predloga sprememb in dopolnitev\
-  \ prostorskih sestavin dolgoro\u010Dnega plana ob\u010Dine Ajdov\u0161\u010Dina\
-  \ za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana ob\u010D\
-  ine Ajdov\u0161\u010Dina za obdobje 1986\u20131990 s programsko zasnovo v delu,\
-  \ ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za hitro cesto
+  na odseku Vipava\u2013Selo in o javni razgrnitvi predloga sprememb in dopolnitev
+  prostorskih sestavin dolgoro\u010Dnega plana ob\u010Dine Ajdov\u0161\u010Dina za
+  obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana ob\u010Dine
+  Ajdov\u0161\u010Dina za obdobje 1986\u20131990 s programsko zasnovo v delu, ki ga
+  opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1995/31/1995-01-3127
 sopPredpisa: 1995-01-3127

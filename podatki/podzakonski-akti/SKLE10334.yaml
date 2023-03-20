@@ -1,12 +1,10 @@
 Text file: SKLE10334.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10334
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEPE o imenovanju volilnih komisij volilnih enot in okrajnih volilnih komisij\
-  \ za volitve poslancev v Dr\u017Eavni zbor Republike Slovenije "
+naslov: "SKLEPE o imenovanju volilnih komisij volilnih enot in okrajnih volilnih komisij
+  za volitve poslancev v Dr\u017Eavni zbor Republike Slovenije "
 npbNum: 0
 path: /2015/03/2015-01-0389
 sopPredpisa: 2015-01-0389

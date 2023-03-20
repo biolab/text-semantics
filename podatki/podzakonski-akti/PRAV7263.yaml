@@ -1,16 +1,10 @@
 Text file: PRAV7263.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1192658400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-17 22:00:00
 idPredpisa: PRAV7263
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o omejitvah uporabe dr\u017Eavnih cest, katerih trajanje je dalj\u0161\
-  e od enega leta"
+naslov: "PRAVILNIK o omejitvah uporabe dr\u017Eavnih cest, katerih trajanje je dalj\u0161e
+  od enega leta"
 npbNum: 0
 path: /2007/42/2007-01-4257
 sopPredpisa: 2007-01-4257

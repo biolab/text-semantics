@@ -1,17 +1,8 @@
 Text file: PRAV13435.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1535752800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1524780000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-08-31 22:00:00
+datumZacetkaVelj: 2018-04-26 22:00:00
 idPredpisa: PRAV13435
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o vpisu v srednje \u0161ole"
 npbNum: 0
 path: /2018/13/2018-01-1384

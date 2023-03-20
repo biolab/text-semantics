@@ -1,14 +1,8 @@
 Text file: URED4015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1171321200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-12 23:00:00
 idPredpisa: URED4015
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o zagotavljanju zanesljivosti oskrbe z zemeljskim plinom
 npbNum: 0
 path: /2007/03/2007-01-0319

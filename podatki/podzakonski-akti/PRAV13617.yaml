@@ -1,14 +1,8 @@
 Text file: PRAV13617.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1560549600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-14 22:00:00
 idPredpisa: PRAV13617
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o skupnih varnostnih kazalnikih
 npbNum: 0
 path: /2019/15/2019-01-1574

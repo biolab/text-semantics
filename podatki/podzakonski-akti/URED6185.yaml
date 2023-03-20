@@ -1,14 +1,8 @@
 Text file: URED6185.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1379973600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-23 22:00:00
 idPredpisa: URED6185
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o Naravnem rezervatu \u0160kocjanski zatok"
 npbNum: 0
 path: /2013/27/2013-01-2781

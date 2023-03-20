@@ -1,16 +1,10 @@
 Text file: PRAV7390.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1172876400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-02 23:00:00
 idPredpisa: PRAV7390
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o uporabi izraza mleko in uporabi ozna\u010D\
-  b za mle\u010Dne izdelke"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o uporabi izraza mleko in uporabi ozna\u010Db
+  za mle\u010Dne izdelke"
 npbNum: 0
 path: /2007/08/2007-01-0890
 sopPredpisa: 2007-01-0890

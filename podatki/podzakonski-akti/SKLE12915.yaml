@@ -1,16 +1,10 @@
 Text file: SKLE12915.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1659132000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-29 22:00:00
 idPredpisa: SKLE12915
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uvrstitvi obmo\u010Dij, na katerih javnim uslu\u017Ebencem, ki opravljajo\
-  \ delo v tujini, pripada dodatek za posebne \u017Eivljenjske razmere v tujini"
+naslov: "SKLEP o uvrstitvi obmo\u010Dij, na katerih javnim uslu\u017Ebencem, ki opravljajo
+  delo v tujini, pripada dodatek za posebne \u017Eivljenjske razmere v tujini"
 npbNum: 0
 path: /2022/25/2022-01-2598
 sopPredpisa: 2022-01-2598

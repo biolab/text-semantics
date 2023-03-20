@@ -1,16 +1,10 @@
 Text file: SKLE12687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1644015600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-04 23:00:00
 idPredpisa: SKLE12687
 idPredpisaChng: null
-instock: .nan
-naslov: "UGOTOVITVENI SKLEP o dodatni uskladitvi pokojnin in drugih prejemkov od 1.\_\
-  januarja 2022"
+naslov: "UGOTOVITVENI SKLEP o dodatni uskladitvi pokojnin in drugih prejemkov od 1.\_januarja
+  2022"
 npbNum: 0
 path: /2022/02/2022-01-0246
 sopPredpisa: 2022-01-0246

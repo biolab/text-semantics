@@ -1,16 +1,10 @@
 Text file: PRAV6346.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134774000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-16 23:00:00
 idPredpisa: PRAV6346
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Soteska\
-  \ (2004\u20132013)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Soteska
+  (2004\u20132013)"
 npbNum: 0
 path: /2005/50/2005-01-5028
 sopPredpisa: 2005-01-5028

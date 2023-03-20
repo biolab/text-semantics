@@ -1,19 +1,10 @@
 Text file: SKLE11035.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1488495600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1487977200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-03-02 23:00:00
+datumZacetkaVelj: 2017-02-24 23:00:00
 idPredpisa: SKLE11035
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pogojih za opravljanje storitev potro\u0161ni\u0161kega kreditiranja\
-  \ za nepremi\u010Dnino"
+naslov: "SKLEP o pogojih za opravljanje storitev potro\u0161ni\u0161kega kreditiranja
+  za nepremi\u010Dnino"
 npbNum: 0
 path: /2017/04/2017-01-0423
 sopPredpisa: 2017-01-0423

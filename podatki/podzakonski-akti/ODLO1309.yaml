@@ -1,16 +1,10 @@
 Text file: ODLO1309.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064613600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-26 22:00:00
 idPredpisa: ODLO1309
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010D\
-  je plazu \u0160mihel v Mestni ob\u010Dini Nova Gorica"
+naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010Dje
+  plazu \u0160mihel v Mestni ob\u010Dini Nova Gorica"
 npbNum: 0
 path: /2003/41/2003-01-4171
 sopPredpisa: 2003-01-4171

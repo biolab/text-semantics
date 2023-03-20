@@ -1,14 +1,8 @@
 Text file: ODLO732.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 690073200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-13 23:00:00
 idPredpisa: ODLO732
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o zni\u017Eanju stopenj povra\u010Dil za ceste ob ceni naftnih derivatov"
 npbNum: 0
 path: /1991/10/1991-01-1022

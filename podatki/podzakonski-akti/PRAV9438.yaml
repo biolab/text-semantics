@@ -1,14 +1,8 @@
 Text file: PRAV9438.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1256943600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-10-30 23:00:00
 idPredpisa: PRAV9438
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o sistemu za sprejem, shranjevanje in sledljivost zdravil
 npbNum: 0
 path: /2009/35/2009-01-3580

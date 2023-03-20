@@ -1,16 +1,10 @@
 Text file: SKLE12325.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1612566000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-05 23:00:00
 idPredpisa: SKLE12325
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi nujnih ukrepov v zvezi s pojavi aviarne influence\
-  \ pri prosto\u017Eive\u010Dih pticah"
+naslov: "SKLEP o dolo\u010Ditvi nujnih ukrepov v zvezi s pojavi aviarne influence
+  pri prosto\u017Eive\u010Dih pticah"
 npbNum: 0
 path: /2021/04/2021-01-0407
 sopPredpisa: 2021-01-0407

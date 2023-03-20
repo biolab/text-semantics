@@ -1,18 +1,12 @@
 Text file: SKLE3416.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1040943600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-26 23:00:00
 idPredpisa: SKLE3416
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na\
-  \ odseku Korenitka\u2013Pluska in predloga sprememb in dopolnitev prostorskih sestavin\
-  \ planskih aktov Ob\u010Dine Trebnje v delu, ki ga dolo\u010Da osnutek lokacijskega\
-  \ na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na
+  odseku Korenitka\u2013Pluska in predloga sprememb in dopolnitev prostorskih sestavin
+  planskih aktov Ob\u010Dine Trebnje v delu, ki ga dolo\u010Da osnutek lokacijskega
+  na\u010Drta"
 npbNum: 0
 path: /2002/56/2002-01-5613
 sopPredpisa: 2002-01-5613

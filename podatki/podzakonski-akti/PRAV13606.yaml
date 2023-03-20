@@ -1,16 +1,10 @@
 Text file: PRAV13606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1552086000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-03-08 23:00:00
 idPredpisa: PRAV13606
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o strokovnem usposabljanju za tehnike delavnic za tahografe in\
-  \ osebe, ki so poobla\u0161\u010Dene za izvajanje nadzora"
+naslov: "PRAVILNIK o strokovnem usposabljanju za tehnike delavnic za tahografe in
+  osebe, ki so poobla\u0161\u010Dene za izvajanje nadzora"
 npbNum: 0
 path: /2019/03/2019-01-0384
 sopPredpisa: 2019-01-0384

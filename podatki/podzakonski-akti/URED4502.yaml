@@ -1,16 +1,10 @@
 Text file: URED4502.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1176242400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-10 22:00:00
 idPredpisa: URED4502
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih\
-  \ zemlji\u0161kih parcelah ob reki Mislinji v mestni ob\u010Dini Slovenj Gradec"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih
+  zemlji\u0161kih parcelah ob reki Mislinji v mestni ob\u010Dini Slovenj Gradec"
 npbNum: 0
 path: /2007/17/2007-01-1702
 sopPredpisa: 2007-01-1702

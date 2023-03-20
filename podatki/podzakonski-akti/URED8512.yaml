@@ -1,16 +1,10 @@
 Text file: URED8512.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1650664800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-22 22:00:00
 idPredpisa: URED8512
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za izvajanje storitev obratovanja javnega letali\u0161\
-  \u010Da Letali\u0161\u010De Edvarda Rusjana Maribor"
+naslov: "UREDBO o koncesiji za izvajanje storitev obratovanja javnega letali\u0161\u010Da
+  Letali\u0161\u010De Edvarda Rusjana Maribor"
 npbNum: 0
 path: /2022/12/2022-01-1252
 sopPredpisa: 2022-01-1252

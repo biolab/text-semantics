@@ -1,14 +1,8 @@
 Text file: SKLE11988.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1575500400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-04 23:00:00
 idPredpisa: SKLE11988
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o imenovanju Volilne komisije Kmetijsko gozdarske zbornice Slovenije
 npbNum: 0
 path: /2020/03/2020-01-0349

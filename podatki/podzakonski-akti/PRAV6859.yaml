@@ -1,17 +1,10 @@
 Text file: PRAV6859.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1120514400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-04 22:00:00
 idPredpisa: PRAV6859
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za\
-  \ pridobitev srednje poklicne in srednje strokovne izobrazbe v \u0161olskem letu\
-  \ 2005/2006"
+naslov: "PRAVILNIK o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za
+  pridobitev srednje poklicne in srednje strokovne izobrazbe v \u0161olskem letu 2005/2006"
 npbNum: 0
 path: /2005/28/2005-01-2820
 sopPredpisa: 2005-01-2820

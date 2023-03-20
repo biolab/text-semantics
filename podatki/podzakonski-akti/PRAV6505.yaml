@@ -1,17 +1,10 @@
 Text file: PRAV6505.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1593208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-26 22:00:00
 idPredpisa: PRAV6505
 idPredpisaChng: PRAV6505
-instock: .nan
-naslov: "PRAVILNIK o vrstah in obsegu nalog obveznih dr\u017Eavnih gospodarskih javnih\
-  \ slu\u017Eb urejanja voda (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 3)"
+naslov: "PRAVILNIK o vrstah in obsegu nalog obveznih dr\u017Eavnih gospodarskih javnih
+  slu\u017Eb urejanja voda (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2020/15/2020-01-1571-2006-01-2381-npb3
 sopPredpisa: 2020-01-1571

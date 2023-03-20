@@ -1,18 +1,12 @@
 Text file: AKT_1059.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640386800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-24 23:00:00
 idPredpisa: AKT_1059
 idPredpisaChng: AKT_1059
-instock: .nan
-naslov: "SPLO\u0160NI AKT o na\u010Dinu izvajanja zagovorni\u0161tva otrok, organizaciji\
-  \ zagovorni\u0161tva, vklju\u010Ditvi otroka v zagovorni\u0161tvo ter nalogah, sestavi\
-  \ in na\u010Dinu dela strokovnega sveta (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "SPLO\u0160NI AKT o na\u010Dinu izvajanja zagovorni\u0161tva otrok, organizaciji
+  zagovorni\u0161tva, vklju\u010Ditvi otroka v zagovorni\u0161tvo ter nalogah, sestavi
+  in na\u010Dinu dela strokovnega sveta (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2021/41/2021-01-4131-2018-01-2224-npb3
 sopPredpisa: 2021-01-4131

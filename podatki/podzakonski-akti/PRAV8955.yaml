@@ -1,16 +1,10 @@
 Text file: PRAV8955.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201734000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-30 23:00:00
 idPredpisa: PRAV8955
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi pogojev za ugotavljanje in preverjanje istovetnosti\
-  \ stranke z uporabo kvalificiranega digitalnega potrdila stranke"
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev za ugotavljanje in preverjanje istovetnosti
+  stranke z uporabo kvalificiranega digitalnega potrdila stranke"
 npbNum: 0
 path: /2008/03/2008-01-0314
 sopPredpisa: 2008-01-0314

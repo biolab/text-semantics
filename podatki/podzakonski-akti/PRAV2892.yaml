@@ -1,16 +1,10 @@
 Text file: PRAV2892.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1020722400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-06 22:00:00
 idPredpisa: PRAV2892
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu dela Strokovnega sveta za preskrbo \_s krvjo, krvnimi\
-  \ pripravki in zdravili iz krvi"
+naslov: "PRAVILNIK o na\u010Dinu dela Strokovnega sveta za preskrbo \_s krvjo, krvnimi
+  pripravki in zdravili iz krvi"
 npbNum: 0
 path: /2002/18/2002-01-1869
 sopPredpisa: 2002-01-1869

@@ -1,14 +1,8 @@
 Text file: SKLE4418.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1077318000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-20 23:00:00
 idPredpisa: SKLE4418
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prepovedi trgovanja in uporabe govejega somatotropina (BST)*
 npbNum: 0
 path: /2004/06/2004-01-0639

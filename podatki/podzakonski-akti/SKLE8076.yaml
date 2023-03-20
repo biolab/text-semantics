@@ -1,14 +1,8 @@
 Text file: SKLE8076.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1241820000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-08 22:00:00
 idPredpisa: SKLE8076
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o dajanju v prodajo in obtok zbirateljskih kovancev ob 100-letnici prvega
   poleta z motornim letalom na Slovenskem
 npbNum: 0

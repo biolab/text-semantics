@@ -1,12 +1,10 @@
 Text file: SKLE11118.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11118
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dlanice Sveta Fundacije za financiranje invalidskih\
-  \ in humanitarnih organizacij v Republiki Sloveniji "
+naslov: "SKLEP o imenovanju \u010Dlanice Sveta Fundacije za financiranje invalidskih
+  in humanitarnih organizacij v Republiki Sloveniji "
 npbNum: 0
 path: /2017/11/2017-01-1120
 sopPredpisa: 2017-01-1120

@@ -1,16 +1,10 @@
 Text file: URED7437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1492207200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-04-14 22:00:00
 idPredpisa: URED7437
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih proti Demokrati\u010Dni ljudski republiki Koreji\
-  \ in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi"
+naslov: "UREDBO o omejevalnih ukrepih proti Demokrati\u010Dni ljudski republiki Koreji
+  in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi"
 npbNum: 0
 path: /2017/09/2017-01-0914
 sopPredpisa: 2017-01-0914

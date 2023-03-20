@@ -1,16 +1,10 @@
 Text file: PRAV14722.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657922400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-15 22:00:00
 idPredpisa: PRAV14722
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ovojnici, vro\u010Dilnici in drugih sporo\u010Dilih za vro\u010D\
-  anje v upravnem postopku"
+naslov: "PRAVILNIK o ovojnici, vro\u010Dilnici in drugih sporo\u010Dilih za vro\u010Danje
+  v upravnem postopku"
 npbNum: 0
 path: /2022/21/2022-01-2177
 sopPredpisa: 2022-01-2177

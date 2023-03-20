@@ -1,17 +1,11 @@
 Text file: SKLE1497.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 949359600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-01-31 23:00:00
 idPredpisa: SKLE1497
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP pridru\u017Eitvenega sveta \u0161t. 1/2000 z dne 5. 5. 2000 o sprejemu\
-  \ dolo\u010Dil in pogojev za sodelovanje Slovenije v programu Skupnosti za energetsko\
-  \ u\u010Dinkovitost SAVE II"
+naslov: "SKLEP pridru\u017Eitvenega sveta \u0161t. 1/2000 z dne 5. 5. 2000 o sprejemu
+  dolo\u010Dil in pogojev za sodelovanje Slovenije v programu Skupnosti za energetsko
+  u\u010Dinkovitost SAVE II"
 npbNum: 0
 path: /2000/33/2000-01-3396
 sopPredpisa: 2000-01-3396

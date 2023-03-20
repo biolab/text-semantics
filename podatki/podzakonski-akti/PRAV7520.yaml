@@ -1,19 +1,10 @@
 Text file: PRAV7520.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141167600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137193200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2006-02-28 23:00:00
+datumZacetkaVelj: 2006-01-13 23:00:00
 idPredpisa: PRAV7520
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o za\u010Dasnih uvrstitvah delovnih mest direktorjev s podro\u010D\
-  ja okolja in prostora v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov"
+naslov: "PRAVILNIK o za\u010Dasnih uvrstitvah delovnih mest direktorjev s podro\u010Dja
+  okolja in prostora v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov"
 npbNum: 0
 path: /2006/01/2006-01-0140
 sopPredpisa: 2006-01-0140

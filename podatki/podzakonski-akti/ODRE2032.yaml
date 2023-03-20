@@ -1,14 +1,8 @@
 Text file: ODRE2032.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259967600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-04 23:00:00
 idPredpisa: ODRE2032
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o uporabi znaka dav\u010Dne slu\u017Ebe na slu\u017Ebenih avtomobilih"
 npbNum: 0
 path: /2009/42/2009-01-4289

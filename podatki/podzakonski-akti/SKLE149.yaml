@@ -1,17 +1,11 @@
 Text file: SKLE149.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1440799200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-08-28 22:00:00
 idPredpisa: SKLE149
 idPredpisaChng: SKLE149
-instock: .nan
-naslov: "SKLEP o soglasju za odprtje Konzulata Republike Koreje v Republiki Sloveniji\
-  \ s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o soglasju za odprtje Konzulata Republike Koreje v Republiki Sloveniji
+  s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/25/2015-01-2582-1999-01-1000-npb1
 sopPredpisa: 2015-01-2582

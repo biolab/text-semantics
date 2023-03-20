@@ -1,16 +1,10 @@
 Text file: SKLE3366.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1039474800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-09 23:00:00
 idPredpisa: SKLE3366
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o prenehanju veljavnosti sklepa o lombardni obrestni meri in obrestni\
-  \ meri za depozit \u010Dez no\u010D"
+naslov: "SKLEP  o prenehanju veljavnosti sklepa o lombardni obrestni meri in obrestni
+  meri za depozit \u010Dez no\u010D"
 npbNum: 0
 path: /2002/51/2002-01-5152
 sopPredpisa: 2002-01-5152

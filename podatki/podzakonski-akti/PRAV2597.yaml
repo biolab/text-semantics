@@ -1,16 +1,10 @@
 Text file: PRAV2597.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 968364000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-07 22:00:00
 idPredpisa: PRAV2597
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu pridobitve dovoljenj za uvoz, tranzit, izvoz, skladi\u0161\
-  \u010Denje in porabo strupenih kemikalij"
+naslov: "PRAVILNIK o na\u010Dinu pridobitve dovoljenj za uvoz, tranzit, izvoz, skladi\u0161\u010Denje
+  in porabo strupenih kemikalij"
 npbNum: 0
 path: /2000/35/2000-01-3517
 sopPredpisa: 2000-01-3517

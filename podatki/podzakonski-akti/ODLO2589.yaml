@@ -1,16 +1,10 @@
 Text file: ODLO2589.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634335200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-15 22:00:00
 idPredpisa: ODLO2589
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dni pomo\u010Di za nadomestilo \u0161kode v \u010Debelarstvu\
-  \ v letu 2021"
+naslov: "ODLOK o finan\u010Dni pomo\u010Di za nadomestilo \u0161kode v \u010Debelarstvu
+  v letu 2021"
 npbNum: 0
 path: /2021/32/2021-01-3255
 sopPredpisa: 2021-01-3255

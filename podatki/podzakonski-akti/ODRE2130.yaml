@@ -1,16 +1,10 @@
 Text file: ODRE2130.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1321052400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-11-11 23:00:00
 idPredpisa: ODRE2130
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode\
-  \ za vzrejo avtohtonih morskih rib za leto 2012"
+naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode
+  za vzrejo avtohtonih morskih rib za leto 2012"
 npbNum: 0
 path: /2011/36/2011-01-3656
 sopPredpisa: 2011-01-3656

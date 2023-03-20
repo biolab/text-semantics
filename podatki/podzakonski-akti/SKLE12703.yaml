@@ -1,16 +1,10 @@
 Text file: SKLE12703.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-18 23:00:00
 idPredpisa: SKLE12703
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o postavitvi \u010Dastnega konzula\
-  \ Republike Slovenije v Helsingborgu"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o postavitvi \u010Dastnega konzula
+  Republike Slovenije v Helsingborgu"
 npbNum: 0
 path: /2022/07/2022-01-0720
 sopPredpisa: 2022-01-0720

@@ -1,16 +1,10 @@
 Text file: URED3767.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134169200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-09 23:00:00
 idPredpisa: URED3767
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o lokacijskem na\u010Drtu za vplivno obmo\u010Dje plazu Podmark v\
-  \ Ob\u010Dini \u0160empeter \u2013 Vrtojba"
+naslov: "UREDBO o lokacijskem na\u010Drtu za vplivno obmo\u010Dje plazu Podmark v
+  Ob\u010Dini \u0160empeter \u2013 Vrtojba"
 npbNum: 0
 path: /2005/48/2005-01-4808
 sopPredpisa: 2005-01-4808

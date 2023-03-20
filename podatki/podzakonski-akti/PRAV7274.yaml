@@ -1,16 +1,10 @@
 Text file: PRAV7274.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-27 23:00:00
 idPredpisa: PRAV7274
 idPredpisaChng: PRAV7274
-instock: .nan
-naslov: "PRAVILNIK o vsebini in postopkih za pripravo in predlo\u017Eitev kadrovskih\
-  \ na\u010Drtov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o vsebini in postopkih za pripravo in predlo\u017Eitev kadrovskih
+  na\u010Drtov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2009/41/2009-01-4196-2006-01-2555-npb3
 sopPredpisa: 2009-01-4196

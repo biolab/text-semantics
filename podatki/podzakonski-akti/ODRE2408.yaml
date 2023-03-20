@@ -1,16 +1,10 @@
 Text file: ODRE2408.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-31 23:00:00
 idPredpisa: ODRE2408
 idPredpisaChng: ODRE2408
-instock: .nan
-naslov: "ODREDBA o dolo\u010Ditvi poklicev, v katerih zaposlitev tujca ni vezana na\
-  \ trg dela (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "ODREDBA o dolo\u010Ditvi poklicev, v katerih zaposlitev tujca ni vezana na
+  trg dela (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2019/38/2019-01-3867-2017-01-1762-npb6
 sopPredpisa: 2019-01-3867

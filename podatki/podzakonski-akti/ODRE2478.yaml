@@ -1,17 +1,11 @@
 Text file: ODRE2478.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-30 22:00:00
 idPredpisa: ODRE2478
 idPredpisaChng: ODRE2478
-instock: .nan
-naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij o postopkih\
-  \ s podro\u010Dja motornih in priklopnih vozil (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij o postopkih
+  s podro\u010Dja motornih in priklopnih vozil (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2022/08/2022-01-0893-2019-01-3327-npb2
 sopPredpisa: 2022-01-0893

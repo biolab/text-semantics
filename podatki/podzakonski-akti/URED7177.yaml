@@ -1,18 +1,12 @@
 Text file: URED7177.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1520463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-07 23:00:00
 idPredpisa: URED7177
 idPredpisaChng: URED7177
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi vi\u0161ine in za\u010Detku pla\u010Devanja obveznega\
-  \ prispevka za promocijo kmetijskih in \u017Eivilskih proizvodov za zavezance sektorja\
-  \ pridelave in predelave sadja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o dolo\u010Ditvi vi\u0161ine in za\u010Detku pla\u010Devanja obveznega
+  prispevka za promocijo kmetijskih in \u017Eivilskih proizvodov za zavezance sektorja
+  pridelave in predelave sadja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2018/04/2018-01-0416-2016-01-3436-npb1
 sopPredpisa: 2018-01-0416

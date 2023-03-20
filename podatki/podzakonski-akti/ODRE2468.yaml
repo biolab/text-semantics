@@ -1,17 +1,11 @@
 Text file: ODRE2468.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545433200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-21 23:00:00
 idPredpisa: ODRE2468
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja zdravstvenega stanja\
-  \ \u017Eivali, programov izkoreninjenja bolezni \u017Eivali ter cepljenj \u017E\
-  ivali v letu 2019"
+naslov: "ODREDBO o izvajanju sistemati\u010Dnega spremljanja zdravstvenega stanja
+  \u017Eivali, programov izkoreninjenja bolezni \u017Eivali ter cepljenj \u017Eivali
+  v letu 2019"
 npbNum: 0
 path: /2018/40/2018-01-4065
 sopPredpisa: 2018-01-4065

@@ -1,16 +1,10 @@
 Text file: KOLP297.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1285884000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-30 22:00:00
 idPredpisa: KOLP297
 idPredpisaChng: null
-instock: .nan
-naslov: "KOLEKTIVNO POGODBO  o dolo\u010Ditvi najni\u017Ejih osnovnih pla\u010D za\
-  \ dejavnosti gostinstva in turizma Slovenije"
+naslov: "KOLEKTIVNO POGODBO  o dolo\u010Ditvi najni\u017Ejih osnovnih pla\u010D za
+  dejavnosti gostinstva in turizma Slovenije"
 npbNum: 0
 path: /2010/43/2010-01-4383
 sopPredpisa: 2010-01-4383

@@ -1,16 +1,10 @@
 Text file: PRAV9933.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1267225200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-26 23:00:00
 idPredpisa: PRAV9933
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vi\u0161ini nadomestil predsednika in \u010Dlanov Komisije Republike\
-  \ Slovenije za varstvo pacientovih pravic ter mediatorjev"
+naslov: "PRAVILNIK o vi\u0161ini nadomestil predsednika in \u010Dlanov Komisije Republike
+  Slovenije za varstvo pacientovih pravic ter mediatorjev"
 npbNum: 0
 path: /2010/05/2010-01-0583
 sopPredpisa: 2010-01-0583

@@ -1,16 +1,10 @@
 Text file: ODLO1263.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1555711200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-19 22:00:00
 idPredpisa: ODLO1263
 idPredpisaChng: ODLO1263
-instock: .nan
-naslov: "ODLOK o dolo\u010Ditvi gozdnogospodarskih obmo\u010Dij v Republiki Sloveniji\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o dolo\u010Ditvi gozdnogospodarskih obmo\u010Dij v Republiki Sloveniji
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/11/2019-01-1192-2003-01-1334-npb1
 sopPredpisa: 2019-01-1192

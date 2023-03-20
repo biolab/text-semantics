@@ -1,18 +1,12 @@
 Text file: PRAV11663.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1421449200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-16 23:00:00
 idPredpisa: PRAV11663
 idPredpisaChng: PRAV11663
-instock: .nan
-naslov: "PRAVILNIK o izvajanju strokovnega nadzora s svetovanjem za posamezne poklicne\
-  \ skupine zdravstvenih delavcev, ki niso organizirani v poklicnih zbornicah oziroma\
-  \ strokovnih zdru\u017Eenjih z javnim pooblastilom (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o izvajanju strokovnega nadzora s svetovanjem za posamezne poklicne
+  skupine zdravstvenih delavcev, ki niso organizirani v poklicnih zbornicah oziroma
+  strokovnih zdru\u017Eenjih z javnim pooblastilom (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/00/2015-01-0078-2013-01-2393-npb1
 sopPredpisa: 2015-01-0078

@@ -1,17 +1,8 @@
 Text file: PRAV7407.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167606000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1160690400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2006-12-31 23:00:00
+datumZacetkaVelj: 2006-10-12 22:00:00
 idPredpisa: PRAV7407
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o tr\u017Eenju semenskega krompirja"
 npbNum: 0
 path: /2006/44/2006-01-4493

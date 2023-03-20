@@ -1,16 +1,10 @@
 Text file: SKLE11241.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: SKLE11241
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi povpre\u010Dne letne cene toplote za 1 MJ toplote\
-  \ (C) za leto 2018"
+naslov: "SKLEP o dolo\u010Ditvi povpre\u010Dne letne cene toplote za 1 MJ toplote
+  (C) za leto 2018"
 npbNum: 0
 path: /2017/35/2017-01-3506
 sopPredpisa: 2017-01-3506

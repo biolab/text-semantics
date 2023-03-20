@@ -1,16 +1,10 @@
 Text file: SKLE4452.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1095976800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-09-23 22:00:00
 idPredpisa: SKLE4452
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o kriterijih za upo\u0161tevanje na\u010Dela uravnote\u017Eene zastopanosti\
-  \ spolov"
+naslov: "UREDBO o kriterijih za upo\u0161tevanje na\u010Dela uravnote\u017Eene zastopanosti
+  spolov"
 npbNum: 0
 path: /2004/44/2004-01-4407
 sopPredpisa: 2004-01-4407

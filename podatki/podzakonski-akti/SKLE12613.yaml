@@ -1,16 +1,10 @@
 Text file: SKLE12613.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640905200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-30 23:00:00
 idPredpisa: SKLE12613
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju veljavnosti ukrepa iz 82.\_\u010Dlena Zakona o za\u010D\
-  asnih ukrepih za omilitev in odpravo posledic COVID-19"
+naslov: "SKLEP o podalj\u0161anju veljavnosti ukrepa iz 82.\_\u010Dlena Zakona o za\u010Dasnih
+  ukrepih za omilitev in odpravo posledic COVID-19"
 npbNum: 0
 path: /2021/43/2021-01-4393
 sopPredpisa: 2021-01-4393

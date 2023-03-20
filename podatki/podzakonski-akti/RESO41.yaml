@@ -1,14 +1,8 @@
 Text file: RESO41.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136502000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-05 23:00:00
 idPredpisa: RESO41
 idPredpisaChng: null
-instock: .nan
 naslov: "RESOLUCIJO O NACIONALNEM PROGRAMU VARSTVA OKOLJA 2005\u20132012 (ReNPVO) "
 npbNum: 0
 path: /2006/00/2006-01-0003

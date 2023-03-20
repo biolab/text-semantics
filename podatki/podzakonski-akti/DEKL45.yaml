@@ -1,12 +1,10 @@
 Text file: DEKL45.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: DEKL45
 idPredpisaChng: null
-instock: .nan
-naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah\
-  \ Evropske unije v obdobju januar 2019\u2013junij 2020 (DeUDIEU1920) "
+naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah
+  Evropske unije v obdobju januar 2019\u2013junij 2020 (DeUDIEU1920) "
 npbNum: 0
 path: /2019/06/2019-01-0692
 sopPredpisa: 2019-01-0692

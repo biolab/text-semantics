@@ -1,14 +1,8 @@
 Text file: STAT243.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1529704800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-22 22:00:00
 idPredpisa: STAT243
 idPredpisaChng: null
-instock: .nan
 naslov: "STATUT Agencije za komunikacijska omre\u017Eja in storitve Republike Slovenije"
 npbNum: 0
 path: /2018/21/2018-01-2138

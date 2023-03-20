@@ -1,16 +1,10 @@
 Text file: URED585.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1047682800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-14 23:00:00
 idPredpisa: URED585
 idPredpisaChng: URED585
-instock: .nan
-naslov: "UREDBA o ustanovitvi dru\u017Ebe Rudnik Senovo v zapiranju, d.o.o. (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o ustanovitvi dru\u017Ebe Rudnik Senovo v zapiranju, d.o.o. (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2003/08/2003-01-0820-1995-01-1988-npb1
 sopPredpisa: 2003-01-0820

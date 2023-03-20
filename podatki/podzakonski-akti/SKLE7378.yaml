@@ -1,14 +1,8 @@
 Text file: SKLE7378.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1207951200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-04-11 22:00:00
 idPredpisa: SKLE7378
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o odprtju Konzulata Republike Slovenije v Kolombu
 npbNum: 0
 path: /2008/14/2008-01-1463

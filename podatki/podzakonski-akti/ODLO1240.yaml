@@ -1,17 +1,11 @@
 Text file: ODLO1240.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1072220400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-23 23:00:00
 idPredpisa: ODLO1240
 idPredpisaChng: ODLO1240
-instock: .nan
-naslov: "ODLOK o programu prodaje dr\u017Eavnega finan\u010Dnega in stvarnega premo\u017E\
-  enja za leti 2003 in 2004 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 3) (delno prenehal vejati)"
+naslov: "ODLOK o programu prodaje dr\u017Eavnega finan\u010Dnega in stvarnega premo\u017Eenja
+  za leti 2003 in 2004 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3) (delno
+  prenehal vejati)"
 npbNum: 3
 path: /2003/55/2003-01-5513-2002-01-5796-npb3
 sopPredpisa: 2003-01-5513

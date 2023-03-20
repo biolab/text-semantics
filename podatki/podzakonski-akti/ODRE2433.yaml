@@ -1,10 +1,8 @@
 Text file: ODRE2433.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODRE2433
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o usklajeni vi\u0161ini minimalnega dohodka od januarja 2018"
 npbNum: 0
 path: /2018/02/2018-01-0283

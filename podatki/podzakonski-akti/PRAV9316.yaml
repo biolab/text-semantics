@@ -1,14 +1,8 @@
 Text file: PRAV9316.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226444400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-11 23:00:00
 idPredpisa: PRAV9316
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK  o dr\u017Eavnoto\u017Eilskem pripravni\u0161tvu"
 npbNum: 0
 path: /2008/45/2008-01-4549

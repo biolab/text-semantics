@@ -1,19 +1,10 @@
 Text file: PRAV9003.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1207000800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-03-31 22:00:00
+datumZacetkaVelj: 2008-03-28 23:00:00
 idPredpisa: PRAV9003
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o metodologiji za posredovanje in analizo podatkov o pla\u010D\
-  ah v javnem sektorju"
+naslov: "PRAVILNIK o metodologiji za posredovanje in analizo podatkov o pla\u010Dah
+  v javnem sektorju"
 npbNum: 0
 path: /2008/11/2008-01-1125
 sopPredpisa: 2008-01-1125

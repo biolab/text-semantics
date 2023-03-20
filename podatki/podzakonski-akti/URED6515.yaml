@@ -1,17 +1,11 @@
 Text file: URED6515.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1649455200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-08 22:00:00
 idPredpisa: URED6515
 idPredpisaChng: URED6515
-instock: .nan
-naslov: "UREDBA o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav,\
-  \ v katerih se uporabljajo organska topila (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "UREDBA o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav,
+  v katerih se uporabljajo organska topila (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2022/10/2022-01-1061-2015-01-1491-npb3
 sopPredpisa: 2022-01-1061

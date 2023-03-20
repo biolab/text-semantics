@@ -1,17 +1,11 @@
 Text file: ODLO2503.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624572000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-24 22:00:00
 idPredpisa: ODLO2503
 idPredpisaChng: ODLO2503
-instock: .nan
-naslov: "ODLOK o za\u010Dasnih omejitvah ponujanja in prodajanja blaga in storitev\
-  \ potro\u0161nikom v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "ODLOK o za\u010Dasnih omejitvah ponujanja in prodajanja blaga in storitev
+  potro\u0161nikom v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2021/21/2021-01-2189-2021-01-2074-npb1
 sopPredpisa: 2021-01-2189

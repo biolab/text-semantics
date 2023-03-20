@@ -1,16 +1,10 @@
 Text file: URED2949.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1418943600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-18 23:00:00
 idPredpisa: URED2949
 idPredpisaChng: URED2949
-instock: .nan
-naslov: "UREDBA o organih v sestavi ministrstev (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 23)"
+naslov: "UREDBA o organih v sestavi ministrstev (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 23)"
 npbNum: 23
 path: /2014/36/2014-01-3687-2003-01-2930-npb23
 sopPredpisa: 2014-01-3687

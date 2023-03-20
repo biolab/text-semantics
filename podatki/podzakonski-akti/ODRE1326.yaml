@@ -1,16 +1,10 @@
 Text file: ODRE1326.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 826930800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-03-15 23:00:00
 idPredpisa: ODRE1326
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine\
-  \ Kuzma"
+naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine
+  Kuzma"
 npbNum: 0
 path: /1996/07/1996-01-0766
 sopPredpisa: 1996-01-0766

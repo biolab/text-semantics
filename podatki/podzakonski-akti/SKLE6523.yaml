@@ -1,16 +1,10 @@
 Text file: SKLE6523.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1175637600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-03 22:00:00
 idPredpisa: SKLE6523
 idPredpisaChng: SKLE6523
-instock: .nan
-naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Tel Avivu (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Tel Avivu (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2007/15/2007-01-1520-2007-01-1286-npb1
 sopPredpisa: 2007-01-1520

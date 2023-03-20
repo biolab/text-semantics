@@ -1,16 +1,10 @@
 Text file: URED6951.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639177200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-10 23:00:00
 idPredpisa: URED6951
 idPredpisaChng: URED6951
-instock: .nan
-naslov: "UREDBA o odvajanju in \u010Di\u0161\u010Denju komunalne odpadne vode (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "UREDBA o odvajanju in \u010Di\u0161\u010Denju komunalne odpadne vode (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2021/38/2021-01-3885-2015-01-3842-npb3
 sopPredpisa: 2021-01-3885

@@ -1,16 +1,10 @@
 Text file: PRAV12209.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480114800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-25 23:00:00
 idPredpisa: PRAV12209
 idPredpisaChng: PRAV12209
-instock: .nan
-naslov: "PRAVILNIK o posebnih zahtevah glede ozna\u010Devanja in predstavljanja predpakiranih\
-  \ \u017Eivil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o posebnih zahtevah glede ozna\u010Devanja in predstavljanja predpakiranih
+  \u017Eivil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/31/2016-01-3141-2014-01-3434-npb1
 sopPredpisa: 2016-01-3141

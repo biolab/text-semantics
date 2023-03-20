@@ -1,14 +1,8 @@
 Text file: KOLP331.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1330124400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-24 23:00:00
 idPredpisa: KOLP331
 idPredpisaChng: null
-instock: .nan
 naslov: "KOLEKTIVNO POGODBO za cestni potni\u0161ki promet Slovenije"
 npbNum: 0
 path: /2012/05/2012-01-0542

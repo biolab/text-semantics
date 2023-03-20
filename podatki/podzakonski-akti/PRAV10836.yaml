@@ -1,16 +1,10 @@
 Text file: PRAV10836.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1593036000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-24 22:00:00
 idPredpisa: PRAV10836
 idPredpisaChng: PRAV10836
-instock: .nan
-naslov: "PRAVILNIK o obrazcih, dokumentaciji in stro\u0161kih pri vrednotenju in priznavanju\
-  \ izobra\u017Eevanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o obrazcih, dokumentaciji in stro\u0161kih pri vrednotenju in priznavanju
+  izobra\u017Eevanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/14/2020-01-1498-2011-01-4422-npb2
 sopPredpisa: 2020-01-1498

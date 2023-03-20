@@ -1,17 +1,11 @@
 Text file: DEKL23.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1185228000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-23 22:00:00
 idPredpisa: DEKL23
 idPredpisaChng: null
-instock: .nan
-naslov: "DEKLARACIJO o podpori prizadevanjem za mednarodno prepoved kasetnih bomb\
-  \ in drugega kasetnega streliva, ki civilnemu prebivalstvu povzro\u010Da nesprejemljivo\
-  \ \u0161kodo (DePPMPKB)"
+naslov: "DEKLARACIJO o podpori prizadevanjem za mednarodno prepoved kasetnih bomb
+  in drugega kasetnega streliva, ki civilnemu prebivalstvu povzro\u010Da nesprejemljivo
+  \u0161kodo (DePPMPKB)"
 npbNum: 0
 path: /2007/36/2007-01-3633
 sopPredpisa: 2007-01-3633

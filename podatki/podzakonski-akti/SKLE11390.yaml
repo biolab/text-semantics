@@ -1,16 +1,10 @@
 Text file: SKLE11390.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1519686000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-02-26 23:00:00
 idPredpisa: SKLE11390
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic ESMA o upravljalnem organu upravljavcev trga in izvajalcev\
-  \ storitev sporo\u010Danja podatkov"
+naslov: "SKLEP o uporabi Smernic ESMA o upravljalnem organu upravljavcev trga in izvajalcev
+  storitev sporo\u010Danja podatkov"
 npbNum: 0
 path: /2018/05/2018-01-0526
 sopPredpisa: 2018-01-0526

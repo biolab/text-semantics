@@ -1,16 +1,10 @@
 Text file: PRAV12473.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1433800800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-08 22:00:00
 idPredpisa: PRAV12473
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zadol\u017Eevanju sistema enotnega zakladni\u0161kega ra\u010D\
-  una dr\u017Eave"
+naslov: "PRAVILNIK o zadol\u017Eevanju sistema enotnega zakladni\u0161kega ra\u010Duna
+  dr\u017Eave"
 npbNum: 0
 path: /2015/16/2015-01-1679
 sopPredpisa: 2015-01-1679

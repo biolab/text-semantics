@@ -1,16 +1,10 @@
 Text file: ODRE1094.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 899503200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-07-03 22:00:00
 idPredpisa: ODRE1094
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Kras I"
+naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Kras I"
 npbNum: 0
 path: /1998/21/1998-01-2154
 sopPredpisa: 1998-01-2154

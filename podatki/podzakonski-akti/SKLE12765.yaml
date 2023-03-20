@@ -1,16 +1,10 @@
 Text file: SKLE12765.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647039600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-11 23:00:00
 idPredpisa: SKLE12765
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o razmejitvi razpolo\u017Eljivih finan\u010Dnih sredstev\
-  \ sistemov jamstva za vloge in poro\u010Danju o njih"
+naslov: "SKLEP o uporabi Smernic o razmejitvi razpolo\u017Eljivih finan\u010Dnih sredstev
+  sistemov jamstva za vloge in poro\u010Danju o njih"
 npbNum: 0
 path: /2022/06/2022-01-0664
 sopPredpisa: 2022-01-0664

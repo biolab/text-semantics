@@ -1,17 +1,11 @@
 Text file: ODRE2544.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583967600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-11 23:00:00
 idPredpisa: ODRE2544
 idPredpisaChng: ODRE2544
-instock: .nan
-naslov: "ODREDBA o dolo\u010Ditvi pogojev vstopa v Republiko Slovenijo iz Italijanske\
-  \ republike zaradi prepre\u010Devanja \u0161irjenja nalezljive bolezni (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODREDBA o dolo\u010Ditvi pogojev vstopa v Republiko Slovenijo iz Italijanske
+  republike zaradi prepre\u010Devanja \u0161irjenja nalezljive bolezni (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/05/2020-01-0534-2020-01-0524-npb1
 sopPredpisa: 2020-01-0534

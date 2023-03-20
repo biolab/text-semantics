@@ -1,12 +1,10 @@
 Text file: SKLE9380.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9380
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Rosevillu, v Zdru\u017Eenih\
-  \ dr\u017Eavah Amerike"
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Rosevillu, v Zdru\u017Eenih
+  dr\u017Eavah Amerike"
 npbNum: 0
 path: /2012/35/2012-01-3501
 sopPredpisa: 2012-01-3501

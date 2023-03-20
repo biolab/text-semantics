@@ -1,16 +1,10 @@
 Text file: URED7045.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1434492000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-16 22:00:00
 idPredpisa: URED7045
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih\
-  \ kovancev ob\_150.\_obletnici Rde\u010Dega kri\u017Ea na Slovenskem"
+naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih
+  kovancev ob\_150.\_obletnici Rde\u010Dega kri\u017Ea na Slovenskem"
 npbNum: 0
 path: /2015/17/2015-01-1761
 sopPredpisa: 2015-01-1761

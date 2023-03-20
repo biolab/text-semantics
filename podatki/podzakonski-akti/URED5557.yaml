@@ -1,18 +1,12 @@
 Text file: URED5557.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1486162800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-02-03 23:00:00
 idPredpisa: URED5557
 idPredpisaChng: URED5557
-instock: .nan
-naslov: "UREDBA o dr\u017Eavnem prostorskem na\u010Drtu za ureditev Savinje za zagotavljanje\
-  \ poplavne varnosti urbaniziranih obmo\u010Dij od Lo\u010Dice ob Savinji do Letu\u0161\
-  a (delno prenehala veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o dr\u017Eavnem prostorskem na\u010Drtu za ureditev Savinje za zagotavljanje
+  poplavne varnosti urbaniziranih obmo\u010Dij od Lo\u010Dice ob Savinji do Letu\u0161a
+  (delno prenehala veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2017/01/2017-01-0159-2010-01-5300-npb1
 sopPredpisa: 2017-01-0159

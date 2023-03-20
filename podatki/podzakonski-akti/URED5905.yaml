@@ -1,16 +1,10 @@
 Text file: URED5905.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1388530800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-31 23:00:00
 idPredpisa: URED5905
 idPredpisaChng: URED5905
-instock: .nan
-naslov: "UREDBA o predpisanih zahtevah ravnanja ter dobrih kmetijskih in okoljskih\
-  \ pogojih pri kmetovanju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o predpisanih zahtevah ravnanja ter dobrih kmetijskih in okoljskih
+  pogojih pri kmetovanju (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/42/2013-01-4296-2011-01-4198-npb2
 sopPredpisa: 2013-01-4296

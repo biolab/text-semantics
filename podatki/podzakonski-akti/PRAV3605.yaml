@@ -1,16 +1,10 @@
 Text file: PRAV3605.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 829346400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-04-12 22:00:00
 idPredpisa: PRAV3605
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi metodologije za upo\u0161tevanje katastrskega\
-  \ dohodka za pridobitev pravice do invalidskega dodatka"
+naslov: "PRAVILNIK o dolo\u010Ditvi metodologije za upo\u0161tevanje katastrskega
+  dohodka za pridobitev pravice do invalidskega dodatka"
 npbNum: 0
 path: /1996/11/1996-01-1144
 sopPredpisa: 1996-01-1144

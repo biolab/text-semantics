@@ -1,19 +1,10 @@
 Text file: PRAV9026.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219701600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217282400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-08-25 22:00:00
+datumZacetkaVelj: 2008-07-28 22:00:00
 idPredpisa: PRAV9026
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o internem strokovnem nadzoru pri izvajalcu zdravstvenih storitev,\
-  \ zoper katerega je vlo\u017Eena druga zahteva"
+naslov: "PRAVILNIK o internem strokovnem nadzoru pri izvajalcu zdravstvenih storitev,
+  zoper katerega je vlo\u017Eena druga zahteva"
 npbNum: 0
 path: /2008/34/2008-01-3456
 sopPredpisa: 2008-01-3456

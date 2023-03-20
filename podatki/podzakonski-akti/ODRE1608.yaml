@@ -1,16 +1,10 @@
 Text file: ODRE1608.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 996271200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-27 22:00:00
 idPredpisa: ODRE1608
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o pogojih obiskovanja in zadr\u017Eevanja v naravnem rezervatu \u0160\
-  kocjanski zatok"
+naslov: "ODREDBO o pogojih obiskovanja in zadr\u017Eevanja v naravnem rezervatu \u0160kocjanski
+  zatok"
 npbNum: 0
 path: /2001/30/2001-01-3054
 sopPredpisa: 2001-01-3054

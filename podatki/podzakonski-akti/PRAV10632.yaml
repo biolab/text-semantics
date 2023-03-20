@@ -1,17 +1,11 @@
 Text file: PRAV10632.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1397858400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-18 22:00:00
 idPredpisa: PRAV10632
 idPredpisaChng: PRAV10632
-instock: .nan
-naslov: "PRAVILNIK o emisiji plinastih onesna\u017Eeval in delcev iz motorjev z notranjim\
-  \ zgorevanjem, namenjenih za vgradnjo v necestne premi\u010Dne stroje (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o emisiji plinastih onesna\u017Eeval in delcev iz motorjev z notranjim
+  zgorevanjem, namenjenih za vgradnjo v necestne premi\u010Dne stroje (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2014/11/2014-01-1174-2011-01-2511-npb2
 sopPredpisa: 2014-01-1174

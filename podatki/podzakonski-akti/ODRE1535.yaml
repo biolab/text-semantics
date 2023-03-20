@@ -1,16 +1,10 @@
 Text file: ODRE1535.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 976316400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-12-08 23:00:00
 idPredpisa: ODRE1535
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o smeri izobrazbe u\u010Diteljev in drugih strokovnih delavcev v\
-  \ izobra\u017Eevalnem programu za odrasle Sloven\u0161\u010Dina za tujce"
+naslov: "ODREDBO o smeri izobrazbe u\u010Diteljev in drugih strokovnih delavcev v
+  izobra\u017Eevalnem programu za odrasle Sloven\u0161\u010Dina za tujce"
 npbNum: 0
 path: /2000/46/2000-01-4699
 sopPredpisa: 2000-01-4699

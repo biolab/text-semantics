@@ -1,16 +1,10 @@
 Text file: ODRE2385.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-23 23:00:00
 idPredpisa: ODRE2385
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010D\
-  enje podzemne vode za leto 2017"
+naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine pla\u010Dila za koncesijo za stekleni\u010Denje
+  podzemne vode za leto 2017"
 npbNum: 0
 path: /2016/36/2016-01-3661
 sopPredpisa: 2016-01-3661

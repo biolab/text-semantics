@@ -1,17 +1,10 @@
 Text file: PRAV9339.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1229382000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-15 23:00:00
 idPredpisa: PRAV9339
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcu zdravni\u0161kega potrdila o upravi\u010Deni odsotnosti\
-  \ z naroka glavne obravnave ali drugega procesnega dejanja pred sodi\u0161\u010D\
-  em"
+naslov: "PRAVILNIK o obrazcu zdravni\u0161kega potrdila o upravi\u010Deni odsotnosti
+  z naroka glavne obravnave ali drugega procesnega dejanja pred sodi\u0161\u010Dem"
 npbNum: 0
 path: /2008/51/2008-01-5137
 sopPredpisa: 2008-01-5137

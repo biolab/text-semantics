@@ -1,17 +1,10 @@
 Text file: PRAV12185.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-23 23:00:00
 idPredpisa: PRAV12185
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o proizvodnji, prometu na debelo in uvozu u\u010Dinkovin ter registrih\
-  \ proizvajalcev u\u010Dinkovin, veletrgovcev z u\u010Dinkovinami in uvoznikov u\u010D\
-  inkovin"
+naslov: "PRAVILNIK o proizvodnji, prometu na debelo in uvozu u\u010Dinkovin ter registrih
+  proizvajalcev u\u010Dinkovin, veletrgovcev z u\u010Dinkovinami in uvoznikov u\u010Dinkovin"
 npbNum: 0
 path: /2016/33/2016-01-3333
 sopPredpisa: 2016-01-3333

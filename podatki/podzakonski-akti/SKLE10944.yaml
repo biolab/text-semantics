@@ -1,17 +1,8 @@
 Text file: SKLE10944.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1481929200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-12-16 23:00:00
 idPredpisa: SKLE10944
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o pretvorbi zneska tro\u0161arine za zemeljski plin"
 npbNum: 0
 path: /2016/34/2016-01-3448

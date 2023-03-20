@@ -1,16 +1,10 @@
 Text file: URED7526.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1496440800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-02 22:00:00
 idPredpisa: URED7526
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku\
-  \ Mura v Ob\u010Dini Gornja Radgona"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob vodotoku
+  Mura v Ob\u010Dini Gornja Radgona"
 npbNum: 0
 path: /2017/15/2017-01-1506
 sopPredpisa: 2017-01-1506

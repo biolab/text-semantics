@@ -1,17 +1,11 @@
 Text file: PRAV4878.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1057960800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-07-11 22:00:00
 idPredpisa: PRAV4878
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o delovanju strokovnega sveta za vpra\u0161anja varstva ljudi pred\
-  \ ionizirajo\u010Dimi sevanji, radiolo\u0161kih posegov in uporabe virov sevanja\
-  \ v zdravstvu in veterinarstvu"
+naslov: "PRAVILNIK o delovanju strokovnega sveta za vpra\u0161anja varstva ljudi pred
+  ionizirajo\u010Dimi sevanji, radiolo\u0161kih posegov in uporabe virov sevanja v
+  zdravstvu in veterinarstvu"
 npbNum: 0
 path: /2003/30/2003-01-3044
 sopPredpisa: 2003-01-3044

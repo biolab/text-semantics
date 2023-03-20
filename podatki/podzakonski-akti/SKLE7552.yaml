@@ -1,16 +1,9 @@
 Text file: SKLE7552.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1207605600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-04-07 22:00:00
 idPredpisa: SKLE7552
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o objavi vi\u0161in mejnih vrednosti za postopke javnega naro\u010D\
-  anja"
+naslov: "SKLEP o objavi vi\u0161in mejnih vrednosti za postopke javnega naro\u010Danja"
 npbNum: 0
 path: /2008/13/2008-01-1367
 sopPredpisa: 2008-01-1367

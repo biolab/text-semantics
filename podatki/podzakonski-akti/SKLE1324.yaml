@@ -1,16 +1,10 @@
 Text file: SKLE1324.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 964735200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-07-27 22:00:00
 idPredpisa: SKLE1324
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Jurjeva dolina"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Jurjeva dolina"
 npbNum: 0
 path: /2000/31/2000-01-3185
 sopPredpisa: 2000-01-3185

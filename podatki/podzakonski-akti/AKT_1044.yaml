@@ -1,14 +1,8 @@
 Text file: AKT_1044.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1547852400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-01-18 23:00:00
 idPredpisa: AKT_1044
 idPredpisaChng: null
-instock: .nan
 naslov: "AKT o ustanovitvi Javnega sklada Republike Slovenije za podjetni\u0161tvo"
 npbNum: 0
 path: /2019/00/2019-01-0069

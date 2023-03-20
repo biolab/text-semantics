@@ -1,16 +1,10 @@
 Text file: SKLE10654.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-07 22:00:00
 idPredpisa: SKLE10654
 idPredpisaChng: SKLE10654
-instock: .nan
-naslov: "SKLEP o objavah in neposrednem obve\u0161\u010Danju imetnikov enot (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o objavah in neposrednem obve\u0161\u010Danju imetnikov enot (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/13/2021-01-1304-2015-01-3974-npb2
 sopPredpisa: 2021-01-1304

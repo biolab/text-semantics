@@ -1,16 +1,10 @@
 Text file: URED1723.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 995061600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-13 22:00:00
 idPredpisa: URED1723
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih za ugotavljanje interesa Republike Slovenije, na podlagi\
-  \ katerih se lahko izda diplomatski ali slu\u017Ebeni potni list"
+naslov: "UREDBO o merilih za ugotavljanje interesa Republike Slovenije, na podlagi
+  katerih se lahko izda diplomatski ali slu\u017Ebeni potni list"
 npbNum: 0
 path: /2001/31/2001-01-3135
 sopPredpisa: 2001-01-3135

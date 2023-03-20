@@ -1,16 +1,10 @@
 Text file: URED4058.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1533938400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-10 22:00:00
 idPredpisa: URED4058
 idPredpisaChng: URED4058
-instock: .nan
-naslov: "UREDBA o Krajinskem parku Kolpa (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "UREDBA o Krajinskem parku Kolpa (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2018/27/2018-01-2767-2006-01-3707-npb2
 sopPredpisa: 2018-01-2767

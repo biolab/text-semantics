@@ -1,18 +1,12 @@
 Text file: SKLE12062.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE12062
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o premo\u017Eenju kritnih skladov pokojninskih dru\u017Eb za dodatno\
-  \ invalidsko in dodatno dru\u017Einsko pokojnino ter za izpla\u010Devanje pokojninskih\
-  \ rent in o poro\u010Danju o nalo\u017Ebah teh kritnih skladov ter nalo\u017Ebah\
-  \ pokojninskih dru\u017Eb, ki niso financirane iz zavarovalno-tehni\u010Dnih rezervacij"
+naslov: "SKLEP o premo\u017Eenju kritnih skladov pokojninskih dru\u017Eb za dodatno
+  invalidsko in dodatno dru\u017Einsko pokojnino ter za izpla\u010Devanje pokojninskih
+  rent in o poro\u010Danju o nalo\u017Ebah teh kritnih skladov ter nalo\u017Ebah pokojninskih
+  dru\u017Eb, ki niso financirane iz zavarovalno-tehni\u010Dnih rezervacij"
 npbNum: 0
 path: /2020/12/2020-01-1252
 sopPredpisa: 2020-01-1252

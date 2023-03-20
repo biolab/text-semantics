@@ -1,16 +1,10 @@
 Text file: SKLE8276.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1290812400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-11-26 23:00:00
 idPredpisa: SKLE8276
 idPredpisaChng: SKLE8276
-instock: .nan
-naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2010 (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2010 (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/49/2010-01-4937-2010-01-3506-npb1
 sopPredpisa: 2010-01-4937

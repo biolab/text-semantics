@@ -1,10 +1,8 @@
 Text file: SKLE9886.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9886
 idPredpisaChng: null
-instock: .nan
 naslov: "DOPOLNITEV\_SKLEPA o vsebini in obliki diplomskih listin Univerze v Mariboru"
 npbNum: 0
 path: /2013/31/2013-01-3170

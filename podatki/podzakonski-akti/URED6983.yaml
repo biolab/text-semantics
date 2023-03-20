@@ -1,17 +1,11 @@
 Text file: URED6983.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1430431200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-30 22:00:00
 idPredpisa: URED6983
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje\
-  \ urejanja prostora na podlagi Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega\
-  \ na\u010Drta za prenosni plinovod M3/1 Kalce\u2013Vodice"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje
+  urejanja prostora na podlagi Sklepa o za\u010Detku priprave dr\u017Eavnega prostorskega
+  na\u010Drta za prenosni plinovod M3/1 Kalce\u2013Vodice"
 npbNum: 0
 path: /2015/12/2015-01-1292
 sopPredpisa: 2015-01-1292

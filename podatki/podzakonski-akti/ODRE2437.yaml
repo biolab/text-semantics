@@ -1,14 +1,8 @@
 Text file: ODRE2437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1522533600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-31 22:00:00
 idPredpisa: ODRE2437
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o vi\u0161ini prispevkov za osebno dopolnilno delo"
 npbNum: 0
 path: /2018/08/2018-01-0804

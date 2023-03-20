@@ -1,16 +1,10 @@
 Text file: URED7292.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-27 22:00:00
 idPredpisa: URED7292
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Odlo\u010Dbe o zavarovanju drevesnega parka\
-  \ gra\u0161\u010Dine Viltu\u0161 ob Dravi"
+naslov: "UREDBO o prenehanju veljavnosti Odlo\u010Dbe o zavarovanju drevesnega parka
+  gra\u0161\u010Dine Viltu\u0161 ob Dravi"
 npbNum: 0
 path: /2016/16/2016-01-1696
 sopPredpisa: 2016-01-1696

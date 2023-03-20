@@ -1,12 +1,10 @@
 Text file: SKLE10331.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10331
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razpisu volitev \u010Dlana ob\u010Dinskega sveta, predstavnika romske\
-  \ skupnosti v Ob\u010Dini Grosuplje"
+naslov: "SKLEP o razpisu volitev \u010Dlana ob\u010Dinskega sveta, predstavnika romske
+  skupnosti v Ob\u010Dini Grosuplje"
 npbNum: 0
 path: /2015/03/2015-01-0352
 sopPredpisa: 2015-01-0352

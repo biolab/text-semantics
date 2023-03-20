@@ -1,16 +1,10 @@
 Text file: SKLE822.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 910998000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-11-13 23:00:00
 idPredpisa: SKLE822
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o deseti izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim\
-  \ bonom"
+naslov: "SKLEP o deseti izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim
+  bonom"
 npbNum: 0
 path: /1998/38/1998-01-3847
 sopPredpisa: 1998-01-3847

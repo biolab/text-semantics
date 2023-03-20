@@ -1,14 +1,8 @@
 Text file: STAT129.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1203721200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-02-22 23:00:00
 idPredpisa: STAT129
 idPredpisaChng: null
-instock: .nan
 naslov: "STATUT javnega zavoda Univerzitetni center za evro-sredozemske \u0161tudije"
 npbNum: 0
 path: /2008/05/2008-01-0581

@@ -1,14 +1,8 @@
 Text file: PRAV2341.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 825375600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-02-26 23:00:00
 idPredpisa: PRAV2341
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o opravljanju strokovnega izpita in\u0161pektorjev za obrambo"
 npbNum: 0
 path: /1996/03/1996-01-0390

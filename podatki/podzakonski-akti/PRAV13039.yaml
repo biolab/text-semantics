@@ -1,16 +1,10 @@
 Text file: PRAV13039.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1574463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-11-22 23:00:00
 idPredpisa: PRAV13039
 idPredpisaChng: PRAV13039
-instock: .nan
-naslov: "PRAVILA o delovanju Ekonomsko-socialnega sveta (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILA o delovanju Ekonomsko-socialnega sveta (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/31/2019-01-3118-2017-01-0008-npb1
 sopPredpisa: 2019-01-3118

@@ -1,14 +1,8 @@
 Text file: POSL133.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1555711200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-19 22:00:00
 idPredpisa: POSL133
 idPredpisaChng: null
-instock: .nan
 naslov: POSLOVNIK komisij Radiotelevizije Slovenija za ocenjevanje filmskih in avdiovizualnih
   projektov
 npbNum: 0

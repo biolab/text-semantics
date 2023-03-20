@@ -1,16 +1,10 @@
 Text file: ODRE966.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 956354400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-21 22:00:00
 idPredpisa: ODRE966
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o izobra\u017Eevalnih programih za pridobitev srednje strokovne\
-  \ izobrazbe Ekonomski tehnik, prilagojenih za mladostnike s posebnimi potrebami"
+naslov: "ODREDBO  o izobra\u017Eevalnih programih za pridobitev srednje strokovne
+  izobrazbe Ekonomski tehnik, prilagojenih za mladostnike s posebnimi potrebami"
 npbNum: 0
 path: /2000/16/2000-01-1631
 sopPredpisa: 2000-01-1631

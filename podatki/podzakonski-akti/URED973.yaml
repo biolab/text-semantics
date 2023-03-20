@@ -1,17 +1,11 @@
 Text file: URED973.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 846975600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-02 23:00:00
 idPredpisa: URED973
 idPredpisaChng: URED973
-instock: .nan
-naslov: "UREDBA o tehni\u010Dnih normativih za zakloni\u0161\u010Da, zaklonilnike\
-  \ in druge za\u0161\u010Ditne objekte (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o tehni\u010Dnih normativih za zakloni\u0161\u010Da, zaklonilnike
+  in druge za\u0161\u010Ditne objekte (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /1996/33/1996-01-3322-1993-01-1844-npb1
 sopPredpisa: 1996-01-3322

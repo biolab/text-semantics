@@ -1,16 +1,10 @@
 Text file: URED8006.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576882800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-20 23:00:00
 idPredpisa: URED8006
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredb (EU) o ukrepih varstva pred \u0161kodljivimi organizmi\
-  \ rastlin"
+naslov: "UREDBO o izvajanju uredb (EU) o ukrepih varstva pred \u0161kodljivimi organizmi
+  rastlin"
 npbNum: 0
 path: /2019/34/2019-01-3489
 sopPredpisa: 2019-01-3489

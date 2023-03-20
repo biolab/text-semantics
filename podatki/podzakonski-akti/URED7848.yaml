@@ -1,16 +1,10 @@
 Text file: URED7848.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653688800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-27 22:00:00
 idPredpisa: URED7848
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (EU) o \u010Dezmejni prenosljivosti storitev spletnih\
-  \ vsebin na notranjem trgu"
+naslov: "UREDBO o izvajanju Uredbe (EU) o \u010Dezmejni prenosljivosti storitev spletnih
+  vsebin na notranjem trgu"
 npbNum: 0
 path: /2022/16/2022-01-1698
 sopPredpisa: 2022-01-1698

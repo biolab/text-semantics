@@ -1,16 +1,10 @@
 Text file: SKLE9720.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1368741600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-05-16 22:00:00
 idPredpisa: SKLE9720
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o spremembah Sklepa o vsebini in obliki javnih listin o zaklju\u010D\
-  enem izobra\u017Eevanju na DOBA Fakulteti"
+naslov: "SKLEP o spremembah Sklepa o vsebini in obliki javnih listin o zaklju\u010Denem
+  izobra\u017Eevanju na DOBA Fakulteti"
 npbNum: 0
 path: /2013/16/2013-01-1632
 sopPredpisa: 2013-01-1632

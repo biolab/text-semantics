@@ -1,17 +1,11 @@
 Text file: PRAV6466.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1271455200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-04-16 22:00:00
 idPredpisa: PRAV6466
 idPredpisaChng: PRAV6466
-instock: .nan
-naslov: "PRAVILNIK o radijskih frekvencah, ki se smejo uporabljati brez odlo\u010D\
-  be o dodelitvi radijskih frekvenc (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "PRAVILNIK o radijskih frekvencah, ki se smejo uporabljati brez odlo\u010Dbe
+  o dodelitvi radijskih frekvenc (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2010/11/2010-01-1194-2005-01-1864-npb3
 sopPredpisa: 2010-01-1194

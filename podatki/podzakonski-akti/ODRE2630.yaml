@@ -1,17 +1,11 @@
 Text file: ODRE2630.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1612134000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-31 23:00:00
 idPredpisa: ODRE2630
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izpolnitvi tehni\u010Dnih pogojev za uporabo spletnega iskalnika\
-  \ prodaj in izvajanje spletnih javnih dra\u017Eb nepremi\u010Dnin v izvr\u0161ilnih\
-  \ postopkih"
+naslov: "ODREDBO o izpolnitvi tehni\u010Dnih pogojev za uporabo spletnega iskalnika
+  prodaj in izvajanje spletnih javnih dra\u017Eb nepremi\u010Dnin v izvr\u0161ilnih
+  postopkih"
 npbNum: 0
 path: /2021/03/2021-01-0311
 sopPredpisa: 2021-01-0311

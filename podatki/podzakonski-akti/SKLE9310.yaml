@@ -1,12 +1,10 @@
 Text file: SKLE9310.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9310
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o soglasju k omejitvam vpisa na dodiplomske in enovit magistrski \u0161\
-  tudijski program na Univerzi v Mariboru v \u0161tudijskem letu 2012/13"
+naslov: "SKLEP o soglasju k omejitvam vpisa na dodiplomske in enovit magistrski \u0161tudijski
+  program na Univerzi v Mariboru v \u0161tudijskem letu 2012/13"
 npbNum: 0
 path: /2012/13/2012-01-1347
 sopPredpisa: 2012-01-1347

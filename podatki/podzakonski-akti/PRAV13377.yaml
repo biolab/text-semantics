@@ -1,16 +1,10 @@
 Text file: PRAV13377.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-21 22:00:00
 idPredpisa: PRAV13377
 idPredpisaChng: PRAV13377
-instock: .nan
-naslov: "PRAVILNIK o izvajanju programa Evropske \u0161ole Ljubljana (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o izvajanju programa Evropske \u0161ole Ljubljana (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/21/2020-01-2138-2018-01-2001-npb1
 sopPredpisa: 2020-01-2138

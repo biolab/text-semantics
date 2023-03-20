@@ -1,16 +1,10 @@
 Text file: URED6287.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1354921200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-07 23:00:00
 idPredpisa: URED6287
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M6 od\
-  \ Ajdov\u0161\u010Dine do Lucije"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M6 od
+  Ajdov\u0161\u010Dine do Lucije"
 npbNum: 0
 path: /2012/34/2012-01-3499
 sopPredpisa: 2012-01-3499

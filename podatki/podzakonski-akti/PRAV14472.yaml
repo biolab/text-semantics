@@ -1,17 +1,11 @@
 Text file: PRAV14472.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1644620400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-11 23:00:00
 idPredpisa: PRAV14472
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o potrdilu o prijavi prebivanja in dovoljenju za prebivanje za\
-  \ dr\u017Eavljane Evropske unije ter njihove dru\u017Einske \u010Dlane in dru\u017E\
-  inske \u010Dlane slovenskih dr\u017Eavljanov"
+naslov: "PRAVILNIK o potrdilu o prijavi prebivanja in dovoljenju za prebivanje za
+  dr\u017Eavljane Evropske unije ter njihove dru\u017Einske \u010Dlane in dru\u017Einske
+  \u010Dlane slovenskih dr\u017Eavljanov"
 npbNum: 0
 path: /2022/03/2022-01-0314
 sopPredpisa: 2022-01-0314

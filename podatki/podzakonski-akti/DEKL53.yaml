@@ -1,10 +1,8 @@
 Text file: DEKL53.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: DEKL53
 idPredpisaChng: null
-instock: .nan
 naslov: DEKLARACIJO o seznanitvi z Resolucijo Evropskega parlamenta z dne 19. maja
   2022 o boju proti nekaznovanju vojnih hudodelstev v Ukrajini (DeSRBNVH)
 npbNum: 0

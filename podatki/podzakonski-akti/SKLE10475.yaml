@@ -1,14 +1,8 @@
 Text file: SKLE10475.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10475
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic EBA o tveganih vrednostih za izjemne situacije
 npbNum: 0
 path: /2015/19/2015-01-1946

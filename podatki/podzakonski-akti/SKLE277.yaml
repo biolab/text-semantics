@@ -1,16 +1,10 @@
 Text file: SKLE277.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-08 22:00:00
 idPredpisa: SKLE277
 idPredpisaChng: SKLE277
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega raziskovalnega zavoda Primorski in\u0161titut\
-  \ za naravoslovne in tehni\u010Dne vede"
+naslov: "SKLEP o ustanovitvi javnega raziskovalnega zavoda Primorski in\u0161titut
+  za naravoslovne in tehni\u010Dne vede"
 npbNum: 1
 path: /2002/33/2002-01-3386-1999-01-3130-npb1
 sopPredpisa: 2002-01-3386

@@ -1,16 +1,10 @@
 Text file: SKLE12052.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594245600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-08 22:00:00
 idPredpisa: SKLE12052
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini pristopne izjave k pokojninskemu na\u010Drtu individualnega\
-  \ zavarovanja"
+naslov: "SKLEP o vsebini pristopne izjave k pokojninskemu na\u010Drtu individualnega
+  zavarovanja"
 npbNum: 0
 path: /2020/15/2020-01-1502
 sopPredpisa: 2020-01-1502

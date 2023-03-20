@@ -1,16 +1,10 @@
 Text file: PRAV4846.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134774000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-16 23:00:00
 idPredpisa: PRAV4846
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Preserje-Rakitna\
-  \ (2003\u20132012)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Preserje-Rakitna
+  (2003\u20132012)"
 npbNum: 0
 path: /2005/50/2005-01-5027
 sopPredpisa: 2005-01-5027

@@ -1,16 +1,10 @@
 Text file: PRAV13896.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591653600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-08 22:00:00
 idPredpisa: PRAV13896
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o poslovanju sistema enotnega zakladni\u0161kega ra\u010Duna dr\u017E\
-  ave oziroma ob\u010Dine"
+naslov: "PRAVILNIK o poslovanju sistema enotnega zakladni\u0161kega ra\u010Duna dr\u017Eave
+  oziroma ob\u010Dine"
 npbNum: 0
 path: /2020/11/2020-01-1114
 sopPredpisa: 2020-01-1114

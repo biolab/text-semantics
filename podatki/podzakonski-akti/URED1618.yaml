@@ -1,19 +1,13 @@
 Text file: URED1618.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1181685600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-12 22:00:00
 idPredpisa: URED1618
 idPredpisaChng: URED1618
-instock: .nan
-naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih\
-  \ odsekih vodotokov Mle\u010Dni potok, Zapajli\u0161ka grapa, Pla\u0161\u010Dak,\
-  \ Mislinja, Ple\u0161i\u0161\u010Dica, \u010Crni potok, Vuhred\u0161\u010Dica, Po\u017E\
-  arnica, Bistrica (Muta), Oplotnica, Dravinja in Poljanska Sora za proizvodnjo elektri\u010D\
-  ne energije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih
+  odsekih vodotokov Mle\u010Dni potok, Zapajli\u0161ka grapa, Pla\u0161\u010Dak, Mislinja,
+  Ple\u0161i\u0161\u010Dica, \u010Crni potok, Vuhred\u0161\u010Dica, Po\u017Earnica,
+  Bistrica (Muta), Oplotnica, Dravinja in Poljanska Sora za proizvodnjo elektri\u010Dne
+  energije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2007/27/2007-01-2788-2001-01-2037-npb2
 sopPredpisa: 2007-01-2788

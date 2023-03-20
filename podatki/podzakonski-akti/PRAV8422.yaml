@@ -1,16 +1,10 @@
 Text file: PRAV8422.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1199487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-04 23:00:00
 idPredpisa: PRAV8422
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Semi\u010D\
-  \ (2006\u20132015)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Semi\u010D
+  (2006\u20132015)"
 npbNum: 0
 path: /2008/00/2008-01-0015
 sopPredpisa: 2008-01-0015

@@ -1,16 +1,10 @@
 Text file: PRAV8322.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1175896800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-06 22:00:00
 idPredpisa: PRAV8322
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o stro\u0161kih za fotokopiranje uradnih aktov ali listin pri upravnem\
-  \ organu"
+naslov: "PRAVILNIK o stro\u0161kih za fotokopiranje uradnih aktov ali listin pri upravnem
+  organu"
 npbNum: 0
 path: /2007/16/2007-01-1620
 sopPredpisa: 2007-01-1620

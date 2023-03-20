@@ -1,16 +1,10 @@
 Text file: URED4736.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-28 23:00:00
 idPredpisa: URED4736
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 2009 izdajo prilo\u017E\
-  nostni kovanci"
+naslov: "UREDBO o dolo\u010Ditvi dogodkov, ob katerih se v letu 2009 izdajo prilo\u017Enostni
+  kovanci"
 npbNum: 0
 path: /2008/11/2008-01-1191
 sopPredpisa: 2008-01-1191

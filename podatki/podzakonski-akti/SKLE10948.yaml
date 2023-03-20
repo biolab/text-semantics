@@ -1,16 +1,10 @@
 Text file: SKLE10948.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1484175600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-11 23:00:00
 idPredpisa: SKLE10948
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pravilih v zvezi s preglednostjo in celovitostjo trga za borznoposredni\u0161\
-  ke dru\u017Ebe, ve\u010Dstranske sisteme trgovanja (MTF) in sistemati\u010Dne internalizatorje"
+naslov: "SKLEP o pravilih v zvezi s preglednostjo in celovitostjo trga za borznoposredni\u0161ke
+  dru\u017Ebe, ve\u010Dstranske sisteme trgovanja (MTF) in sistemati\u010Dne internalizatorje"
 npbNum: 0
 path: /2016/37/2016-01-3712
 sopPredpisa: 2016-01-3712

@@ -1,16 +1,10 @@
 Text file: URED2969.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1215554400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-08 22:00:00
 idPredpisa: URED2969
 idPredpisaChng: URED2969
-instock: .nan
-naslov: "UREDBA o metodologiji za ocenjevanje \u0161kode (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 4)"
+naslov: "UREDBA o metodologiji za ocenjevanje \u0161kode (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2008/29/2008-01-2972-2003-01-3224-npb4
 sopPredpisa: 2008-01-2972

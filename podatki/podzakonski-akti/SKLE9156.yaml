@@ -1,17 +1,11 @@
 Text file: SKLE9156.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1323385200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-08 23:00:00
 idPredpisa: SKLE9156
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pravilih poro\u010Danja v skladu z Uredbo 1210/2010/EU in nadomestilu\
-  \ za stro\u0161ke postopka povra\u010Dil in nadomestitev eurokovancev, neprimernih\
-  \ za obtok"
+naslov: "SKLEP o pravilih poro\u010Danja v skladu z Uredbo 1210/2010/EU in nadomestilu
+  za stro\u0161ke postopka povra\u010Dil in nadomestitev eurokovancev, neprimernih
+  za obtok"
 npbNum: 0
 path: /2011/42/2011-01-4262
 sopPredpisa: 2011-01-4262

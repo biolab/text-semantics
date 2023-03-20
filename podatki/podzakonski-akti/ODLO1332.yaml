@@ -1,17 +1,11 @@
 Text file: ODLO1332.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1069714800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-24 23:00:00
 idPredpisa: ODLO1332
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK  o razglasitvi arheolo\u0161kega najdi\u0161\u010Da \u0160empeter \
-  \ v Savinjski dolini \u2013 Anti\u010Dna nekropola za kulturni spomenik dr\u017E\
-  avnega pomena"
+naslov: "ODLOK  o razglasitvi arheolo\u0161kega najdi\u0161\u010Da \u0160empeter  v
+  Savinjski dolini \u2013 Anti\u010Dna nekropola za kulturni spomenik dr\u017Eavnega
+  pomena"
 npbNum: 0
 path: /2003/50/2003-01-5036
 sopPredpisa: 2003-01-5036

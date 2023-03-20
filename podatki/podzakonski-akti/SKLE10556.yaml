@@ -1,16 +1,10 @@
 Text file: SKLE10556.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE10556
 idPredpisaChng: SKLE10556
-instock: .nan
-naslov: "SKLEP o kontnem okviru za zavarovalnice (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "SKLEP o kontnem okviru za zavarovalnice (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/12/2020-01-1256-2015-01-4138-npb2
 sopPredpisa: 2020-01-1256

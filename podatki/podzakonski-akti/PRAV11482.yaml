@@ -1,20 +1,11 @@
 Text file: PRAV11482.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497909600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497045600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-06-19 22:00:00
+datumZacetkaVelj: 2017-06-09 22:00:00
 idPredpisa: PRAV11482
 idPredpisaChng: PRAV11482
-instock: .nan
-naslov: "PRAVILNIK o pla\u010Dilnih navodilih, SEPA direktnih obremenitvah, izpiskih\
-  \ o prometu in stanju, delnih izpisih ter obrestnih listih v papirni in elektronski\
-  \ obliki (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o pla\u010Dilnih navodilih, SEPA direktnih obremenitvah, izpiskih
+  o prometu in stanju, delnih izpisih ter obrestnih listih v papirni in elektronski
+  obliki (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2017/15/2017-01-1533-2012-01-4363-npb4
 sopPredpisa: 2017-01-1533

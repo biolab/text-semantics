@@ -1,16 +1,10 @@
 Text file: PRAV9823.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-27 23:00:00
 idPredpisa: PRAV9823
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o posebnih zdravstvenih pogojih za tr\u017E\
-  enje jajc, namenjenih za prehrano ljudi"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o posebnih zdravstvenih pogojih za tr\u017Eenje
+  jajc, namenjenih za prehrano ljudi"
 npbNum: 0
 path: /2009/39/2009-01-3975
 sopPredpisa: 2009-01-3975

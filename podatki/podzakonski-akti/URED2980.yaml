@@ -1,17 +1,11 @@
 Text file: URED2980.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1061244000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-18 22:00:00
 idPredpisa: URED2980
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pogojih za pridobitev akreditacije pla\u010Dilne agencije za izpla\u010D\
-  evanje sredstev Jamstvenega oddelka Evropskega kmetijskega usmerjevalnega in jamstvenega\
-  \ sklada"
+naslov: "UREDBO o pogojih za pridobitev akreditacije pla\u010Dilne agencije za izpla\u010Devanje
+  sredstev Jamstvenega oddelka Evropskega kmetijskega usmerjevalnega in jamstvenega
+  sklada"
 npbNum: 0
 path: /2003/38/2003-01-3870
 sopPredpisa: 2003-01-3870

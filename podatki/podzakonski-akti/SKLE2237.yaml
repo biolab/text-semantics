@@ -1,18 +1,12 @@
 Text file: SKLE2237.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 991432800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-01 22:00:00
 idPredpisa: SKLE2237
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi organizacijskih enot carinske slu\u017Ebe Republike\
-  \ Slovenije, preko katerih se lahko uva\u017Ea blago iz 2., 4. in 5. to\u010Dke\
-  \ uredbe \_o dolo\u010Ditvi ugodnej\u0161e carinske obravnave \_zaradi narave ali\
-  \ uporabe blaga \_v posebne namene"
+naslov: "SKLEP o dolo\u010Ditvi organizacijskih enot carinske slu\u017Ebe Republike
+  Slovenije, preko katerih se lahko uva\u017Ea blago iz 2., 4. in 5. to\u010Dke uredbe
+  \_o dolo\u010Ditvi ugodnej\u0161e carinske obravnave \_zaradi narave ali uporabe
+  blaga \_v posebne namene"
 npbNum: 0
 path: /2001/23/2001-01-2389
 sopPredpisa: 2001-01-2389

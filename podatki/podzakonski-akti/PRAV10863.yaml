@@ -1,14 +1,8 @@
 Text file: PRAV10863.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1326495600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-13 23:00:00
 idPredpisa: PRAV10863
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o opravljanju strokovnega izpita iz varnosti in zdravja pri delu
 npbNum: 0
 path: /2011/49/2011-01-4939

@@ -1,19 +1,10 @@
 Text file: PRAV9063.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1220220000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217628000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-08-31 22:00:00
+datumZacetkaVelj: 2008-08-01 22:00:00
 idPredpisa: PRAV9063
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih in postopku za pridobitev soglasja za dajanje brezpla\u010D\
-  ne pravne pomo\u010Di"
+naslov: "PRAVILNIK o pogojih in postopku za pridobitev soglasja za dajanje brezpla\u010Dne
+  pravne pomo\u010Di"
 npbNum: 0
 path: /2008/35/2008-01-3533
 sopPredpisa: 2008-01-3533

@@ -1,16 +1,10 @@
 Text file: URED3176.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609542000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-01 23:00:00
 idPredpisa: URED3176
 idPredpisaChng: URED3176
-instock: .nan
-naslov: "UREDBA o varovalnih gozdovih in gozdovih s posebnim namenom (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "UREDBA o varovalnih gozdovih in gozdovih s posebnim namenom (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 6)"
 npbNum: 6
 path: /2020/33/2020-01-3350-2005-01-3786-npb6
 sopPredpisa: 2020-01-3350

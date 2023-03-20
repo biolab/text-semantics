@@ -1,14 +1,8 @@
 Text file: SKLE10603.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1456786800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-29 23:00:00
 idPredpisa: SKLE10603
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o tehnikah upravljanja sredstev investicijskega\_sklada"
 npbNum: 0
 path: /2016/04/2016-01-0427

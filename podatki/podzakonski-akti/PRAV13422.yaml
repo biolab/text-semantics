@@ -1,17 +1,8 @@
 Text file: PRAV13422.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1542841200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1530309600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-11-21 23:00:00
+datumZacetkaVelj: 2018-06-29 22:00:00
 idPredpisa: PRAV13422
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vrstah dejanskih rab dela stavbe in vrstah prostorov, ki pripadajo
   delu stavbe
 npbNum: 0

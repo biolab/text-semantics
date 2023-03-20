@@ -1,14 +1,8 @@
 Text file: PRAV14257.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-18 22:00:00
 idPredpisa: PRAV14257
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o potrditvenem osebju za komponente v letalstvu
 npbNum: 0
 path: /2021/18/2021-01-1888

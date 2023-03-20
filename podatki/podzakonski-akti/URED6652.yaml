@@ -1,17 +1,11 @@
 Text file: URED6652.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527890400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-06-01 22:00:00
 idPredpisa: URED6652
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o trgovini z dolo\u010Denim blagom, ki bi\
-  \ se lahko uporabilo za izvr\u0161itev smrtne kazni, mu\u010Denje ali drugo okrutno,\
-  \ ne\u010Dlove\u0161ko ali poni\u017Eevalno ravnanje ali kaznovanje"
+naslov: "UREDBO o izvajanju Uredbe (ES) o trgovini z dolo\u010Denim blagom, ki bi
+  se lahko uporabilo za izvr\u0161itev smrtne kazni, mu\u010Denje ali drugo okrutno,
+  ne\u010Dlove\u0161ko ali poni\u017Eevalno ravnanje ali kaznovanje"
 npbNum: 0
 path: /2018/19/2018-01-1903
 sopPredpisa: 2018-01-1903

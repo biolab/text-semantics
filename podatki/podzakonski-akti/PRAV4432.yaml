@@ -1,16 +1,9 @@
 Text file: PRAV4432.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: PRAV4432
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zvrsteh protipravno odstranjenih predmetov kulturne dedi\u0161\
-  \u010Dine*"
+naslov: "PRAVILNIK o zvrsteh protipravno odstranjenih predmetov kulturne dedi\u0161\u010Dine*"
 npbNum: 0
 path: /2004/14/2004-01-1482
 sopPredpisa: 2004-01-1482

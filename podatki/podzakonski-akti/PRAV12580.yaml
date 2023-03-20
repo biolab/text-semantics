@@ -1,19 +1,13 @@
 Text file: PRAV12580.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: PRAV12580
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcu vloge za uveljavljanje posebne olaj\u0161ave za vzdr\u017E\
-  evane dru\u017Einske \u010Dlane, obrazcu vloge za uveljavljanje olaj\u0161ave za\
-  \ investiranje v osnovno kmetijsko in osnovno gozdarsko dejavnost ter obrazcu zahtevka\
-  \ za zmanj\u0161anje dav\u010Dne osnove od dohodka iz drugega pogodbenega razmerja\
-  \ zaradi uveljavljanja dejanskih stro\u0161kov"
+naslov: "PRAVILNIK o obrazcu vloge za uveljavljanje posebne olaj\u0161ave za vzdr\u017Eevane
+  dru\u017Einske \u010Dlane, obrazcu vloge za uveljavljanje olaj\u0161ave za investiranje
+  v osnovno kmetijsko in osnovno gozdarsko dejavnost ter obrazcu zahtevka za zmanj\u0161anje
+  dav\u010Dne osnove od dohodka iz drugega pogodbenega razmerja zaradi uveljavljanja
+  dejanskih stro\u0161kov"
 npbNum: 0
 path: /2015/39/2015-01-3990
 sopPredpisa: 2015-01-3990

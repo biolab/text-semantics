@@ -1,16 +1,10 @@
 Text file: SKLE10955.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1484175600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-01-11 23:00:00
 idPredpisa: SKLE10955
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za izdajo dovoljenj za opravljanje investicijskih ter\
-  \ pomo\u017Enih investicijskih storitev in drugih dovoljenj"
+naslov: "SKLEP o dokumentaciji za izdajo dovoljenj za opravljanje investicijskih ter
+  pomo\u017Enih investicijskih storitev in drugih dovoljenj"
 npbNum: 0
 path: /2016/37/2016-01-3710
 sopPredpisa: 2016-01-3710

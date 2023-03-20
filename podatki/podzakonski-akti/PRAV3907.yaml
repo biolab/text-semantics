@@ -1,14 +1,8 @@
 Text file: PRAV3907.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 998172000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-18 22:00:00
 idPredpisa: PRAV3907
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o registraciji in vodenju registra mladinskih \_svetov"
 npbNum: 0
 path: /2001/31/2001-01-3185

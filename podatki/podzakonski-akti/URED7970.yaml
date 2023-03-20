@@ -1,16 +1,10 @@
 Text file: URED7970.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634940000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-22 22:00:00
 idPredpisa: URED7970
 idPredpisaChng: URED7970
-instock: .nan
-naslov: "UREDBA o razvrstitvi prepovedanih drog (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 2)"
+naslov: "UREDBA o razvrstitvi prepovedanih drog (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/31/2021-01-3162-2019-01-3115-npb2
 sopPredpisa: 2021-01-3162

@@ -1,16 +1,10 @@
 Text file: URED5921.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1478300400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-11-04 23:00:00
 idPredpisa: URED5921
 idPredpisaChng: URED5921
-instock: .nan
-naslov: "UREDBA o podatkih o lastnostih nepremi\u010Dnin v registru nepremi\u010D\
-  nin (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "UREDBA o podatkih o lastnostih nepremi\u010Dnin v registru nepremi\u010Dnin
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2016/28/2016-01-2852-2011-01-4104-npb4
 sopPredpisa: 2016-01-2852

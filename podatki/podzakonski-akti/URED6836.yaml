@@ -1,14 +1,8 @@
 Text file: URED6836.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1408053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-08-14 22:00:00
 idPredpisa: URED6836
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o finan\u010Dnih spodbudah za tuje neposredne investicije"
 npbNum: 0
 path: /2014/26/2014-01-2676

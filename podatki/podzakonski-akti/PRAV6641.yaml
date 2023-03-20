@@ -1,16 +1,10 @@
 Text file: PRAV6641.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1198537200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-24 23:00:00
 idPredpisa: PRAV6641
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu poveritve opravljanja nalog dav\u010Dne izvr\u0161\
-  be zunanjim izvajalcem"
+naslov: "PRAVILNIK o na\u010Dinu poveritve opravljanja nalog dav\u010Dne izvr\u0161be
+  zunanjim izvajalcem"
 npbNum: 0
 path: /2007/60/2007-01-6000
 sopPredpisa: 2007-01-6000

@@ -1,19 +1,13 @@
 Text file: SKLE10904.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: SKLE10904
 idPredpisaChng: SKLE10904
-instock: .nan
-naslov: "SKLEP o imenovanju poveljnika Civilne za\u0161\u010Dite Republike Slovenije,\
-  \ njegovega namestnika in \u010Dlanov \u0160taba Civilne za\u0161\u010Dite Republike\
-  \ Slovenije ter regijskih poveljnikov Civilne za\u0161\u010Dite, njihovih namestnikov\
-  \ in \u010Dlanov regijskih \u0161tabov Civilne za\u0161\u010Dite (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "SKLEP o imenovanju poveljnika Civilne za\u0161\u010Dite Republike Slovenije,
+  njegovega namestnika in \u010Dlanov \u0160taba Civilne za\u0161\u010Dite Republike
+  Slovenije ter regijskih poveljnikov Civilne za\u0161\u010Dite, njihovih namestnikov
+  in \u010Dlanov regijskih \u0161tabov Civilne za\u0161\u010Dite (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2021/35/2021-01-3542-2016-01-3331-npb3
 sopPredpisa: 2021-01-3542

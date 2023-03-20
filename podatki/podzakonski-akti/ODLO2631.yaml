@@ -1,16 +1,10 @@
 Text file: ODLO2631.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639090800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-09 23:00:00
 idPredpisa: ODLO2631
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o za\u010Dasnem ukrepu pri izvajanju obveznega zdravstvenega zavarovanja\
-  \ zaradi prepre\u010Ditve \u0161irjenja nalezljive bolezni COVID-19"
+naslov: "ODLOK o za\u010Dasnem ukrepu pri izvajanju obveznega zdravstvenega zavarovanja
+  zaradi prepre\u010Ditve \u0161irjenja nalezljive bolezni COVID-19"
 npbNum: 0
 path: /2021/38/2021-01-3817
 sopPredpisa: 2021-01-3817

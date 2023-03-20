@@ -1,16 +1,10 @@
 Text file: SKLE3221.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028757600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-07 22:00:00
 idPredpisa: SKLE3221
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote \u010Crna-Smrekovec"
+naslov: "SKLEP o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote \u010Crna-Smrekovec"
 npbNum: 0
 path: /2002/33/2002-01-3390
 sopPredpisa: 2002-01-3390

@@ -1,16 +1,10 @@
 Text file: PRAV6804.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435356000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-26 22:00:00
 idPredpisa: PRAV6804
 idPredpisaChng: PRAV6804
-instock: .nan
-naslov: "PRAVILNIK o integrirani pridelavi sadja (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o integrirani pridelavi sadja (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/17/2015-01-1714-2010-01-5766-npb1
 sopPredpisa: 2015-01-1714

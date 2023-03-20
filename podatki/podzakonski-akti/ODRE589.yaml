@@ -1,16 +1,10 @@
 Text file: ODRE589.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 964216800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-07-21 22:00:00
 idPredpisa: ODRE589
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o spremembi gozdnogospodarskega na\u010Drta gozdnogospodarske enote\
-  \ Gornji Grad"
+naslov: "ODREDBO  o spremembi gozdnogospodarskega na\u010Drta gozdnogospodarske enote
+  Gornji Grad"
 npbNum: 0
 path: /2000/29/2000-01-2994
 sopPredpisa: 2000-01-2994

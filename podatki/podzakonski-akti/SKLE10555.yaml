@@ -1,17 +1,11 @@
 Text file: SKLE10555.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1537567200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-09-21 22:00:00
 idPredpisa: SKLE10555
 idPredpisaChng: SKLE10555
-instock: .nan
-naslov: "SKLEP o omejitvah glede sredstev in referen\u010Dnih vrednosti pri zavarovanjih\
-  \ z nalo\u017Ebenim tveganjem (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "SKLEP o omejitvah glede sredstev in referen\u010Dnih vrednosti pri zavarovanjih
+  z nalo\u017Ebenim tveganjem (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2018/29/2018-01-2926-2016-01-0611-npb1
 sopPredpisa: 2018-01-2926

@@ -1,16 +1,10 @@
 Text file: URED2633.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1033164000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-09-27 22:00:00
 idPredpisa: URED2633
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o pred\u010Dasni izpolnitvi obveznosti iz obveznic Republike Slovenije\
-  \ serij RS151095S, RS151095T, RS151095P, RS151095R"
+naslov: "UREDBO  o pred\u010Dasni izpolnitvi obveznosti iz obveznic Republike Slovenije
+  serij RS151095S, RS151095T, RS151095P, RS151095R"
 npbNum: 0
 path: /2002/41/2002-01-4134
 sopPredpisa: 2002-01-4134

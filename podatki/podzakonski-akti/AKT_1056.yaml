@@ -1,16 +1,10 @@
 Text file: AKT_1056.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1532728800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-27 22:00:00
 idPredpisa: AKT_1056
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o dolo\u010Ditvi roka za odgovor na pro\u0161nje za dodatne\
-  \ storitve v \u017Eelezni\u0161kem prometu"
+naslov: "SPLO\u0160NI AKT o dolo\u010Ditvi roka za odgovor na pro\u0161nje za dodatne
+  storitve v \u017Eelezni\u0161kem prometu"
 npbNum: 0
 path: /2018/26/2018-01-2652
 sopPredpisa: 2018-01-2652

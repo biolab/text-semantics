@@ -1,16 +1,10 @@
 Text file: PRAV11277.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1492207200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-04-14 22:00:00
 idPredpisa: PRAV11277
 idPredpisaChng: PRAV11277
-instock: .nan
-naslov: "PRAVILNIK o uniformah Slovenske vojske (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o uniformah Slovenske vojske (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/09/2017-01-0998-2012-01-1879-npb1
 sopPredpisa: 2017-01-0998

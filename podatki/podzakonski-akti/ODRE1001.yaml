@@ -1,16 +1,10 @@
 Text file: ODRE1001.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 959983200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-02 22:00:00
 idPredpisa: ODRE1001
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe \u2013 Kmetijstvo"
+naslov: "ODREDBO  o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe \u2013 Kmetijstvo"
 npbNum: 0
 path: /2000/23/2000-01-2318
 sopPredpisa: 2000-01-2318

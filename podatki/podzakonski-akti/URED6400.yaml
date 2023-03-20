@@ -1,16 +1,10 @@
 Text file: URED6400.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1363820400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-20 23:00:00
 idPredpisa: URED6400
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o rudarski pravici za izkori\u0161\u010Danje tehni\u010Dnega kamna\
-  \ apnenec v pridobivalnem prostoru Peskokop Mala gora v ob\u010Dini Ko\u010Devje"
+naslov: "UREDBO o rudarski pravici za izkori\u0161\u010Danje tehni\u010Dnega kamna
+  apnenec v pridobivalnem prostoru Peskokop Mala gora v ob\u010Dini Ko\u010Devje"
 npbNum: 0
 path: /2013/08/2013-01-0863
 sopPredpisa: 2013-01-0863

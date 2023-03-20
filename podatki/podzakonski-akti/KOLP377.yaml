@@ -1,16 +1,10 @@
 Text file: KOLP377.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: null
 idPredpisa: KOLP377
 idPredpisaChng: KOLP377
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA za obrt in podjetni\u0161tvo (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 3)"
+naslov: "KOLEKTIVNA POGODBA za obrt in podjetni\u0161tvo (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2017/37/2017-01-3700-2013-01-3344-npb3
 sopPredpisa: 2017-01-3700

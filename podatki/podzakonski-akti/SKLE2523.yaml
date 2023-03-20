@@ -1,14 +1,8 @@
 Text file: SKLE2523.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 902527200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-08-07 22:00:00
 idPredpisa: SKLE2523
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o odpravi vizumov za dr\u017Eavljane Irske"
 npbNum: 0
 path: /1998/25/1998-01-2554

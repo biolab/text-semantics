@@ -1,16 +1,10 @@
 Text file: ODLO2072.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588284000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-30 22:00:00
 idPredpisa: ODLO2072
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka v gozdarskem sektorju\
-  \ zaradi epidemije COVID-19"
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi izpada dohodka v gozdarskem sektorju
+  zaradi epidemije COVID-19"
 npbNum: 0
 path: /2020/09/2020-01-0938
 sopPredpisa: 2020-01-0938

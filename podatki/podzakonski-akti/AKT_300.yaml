@@ -1,16 +1,10 @@
 Text file: AKT_300.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028757600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-07 22:00:00
 idPredpisa: AKT_300
 idPredpisaChng: null
-instock: .nan
-naslov: "SOGLASJE k aktu o ustanovitvi Ustanove \u0161tipendijske fundacije Adama\
-  \ Bohori\u010Da Kr\u0161ko"
+naslov: "SOGLASJE k aktu o ustanovitvi Ustanove \u0161tipendijske fundacije Adama
+  Bohori\u010Da Kr\u0161ko"
 npbNum: 0
 path: /2002/33/2002-01-3399
 sopPredpisa: 2002-01-3399

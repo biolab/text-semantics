@@ -1,16 +1,10 @@
 Text file: PRAV8328.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1179525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-18 22:00:00
 idPredpisa: PRAV8328
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vi\u0161je\u0161olskem \u0161tudijskem programu \u017Divilstvo\
-  \ in prehrana"
+naslov: "PRAVILNIK o vi\u0161je\u0161olskem \u0161tudijskem programu \u017Divilstvo
+  in prehrana"
 npbNum: 0
 path: /2007/23/2007-01-2365
 sopPredpisa: 2007-01-2365

@@ -1,12 +1,10 @@
 Text file: SKLE11283.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11283
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Parani,\
-  \ v Argentinski republiki"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Parani,
+  v Argentinski republiki"
 npbNum: 0
 path: /2018/00/2018-01-0041
 sopPredpisa: 2018-01-0041

@@ -1,14 +1,8 @@
 Text file: SKLE11699.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1549580400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-07 23:00:00
 idPredpisa: SKLE11699
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic za stresno testiranje bank (EBA/GL/2018/04)
 npbNum: 0
 path: /2019/02/2019-01-0254

@@ -1,17 +1,10 @@
 Text file: PRAV9523.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1445032800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-16 22:00:00
 idPredpisa: PRAV9523
 idPredpisaChng: PRAV9523
-instock: .nan
-naslov: "PRAVILNIK o odvzemu osebkov vrst rjavega medveda (Ursus arctos) in volka\
-  \ (Canis lupus) iz narave (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 7)"
+naslov: "PRAVILNIK o odvzemu osebkov vrst rjavega medveda (Ursus arctos) in volka
+  (Canis lupus) iz narave (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 7)"
 npbNum: 7
 path: /2015/30/2015-01-3049-2009-01-1264-npb7
 sopPredpisa: 2015-01-3049

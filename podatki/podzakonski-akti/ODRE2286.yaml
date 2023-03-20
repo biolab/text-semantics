@@ -1,12 +1,10 @@
 Text file: ODRE2286.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODRE2286
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi datuma, od katerega je v postopkih izvr\u0161be\
-  \ in zavarovanja mogo\u010De vro\u010Danje po elektronski poti"
+naslov: "ODREDBO o dolo\u010Ditvi datuma, od katerega je v postopkih izvr\u0161be
+  in zavarovanja mogo\u010De vro\u010Danje po elektronski poti"
 npbNum: 0
 path: /2014/19/2014-01-1999
 sopPredpisa: 2014-01-1999

@@ -1,16 +1,10 @@
 Text file: PRAV4737.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051308000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-25 22:00:00
 idPredpisa: PRAV4737
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave Strategije\
-  \ prostorskega razvoja Slovenije ter vrstah njenih strokovnih podlag"
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini, obliki in na\u010Dinu priprave Strategije
+  prostorskega razvoja Slovenije ter vrstah njenih strokovnih podlag"
 npbNum: 0
 path: /2003/18/2003-01-1892
 sopPredpisa: 2003-01-1892

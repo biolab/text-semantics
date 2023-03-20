@@ -1,16 +1,10 @@
 Text file: ODRE1273.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 831765600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-05-10 22:00:00
 idPredpisa: ODRE1273
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine\
-  \ Komen"
+naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine
+  Komen"
 npbNum: 0
 path: /1996/14/1996-01-1446
 sopPredpisa: 1996-01-1446

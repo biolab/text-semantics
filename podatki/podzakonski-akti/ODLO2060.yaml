@@ -1,14 +1,8 @@
 Text file: ODLO2060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1587074400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-16 22:00:00
 idPredpisa: ODLO2060
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o razporejanju zdravnikov diplomantov, doktorjev dentalne medicine diplomantov,
   zdravnikov sekundarijev, doktorjev dentalne medicine pripravnikov, zdravnikov specializantov
   in doktorjev dentalne medicine specializantov

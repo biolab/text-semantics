@@ -1,16 +1,10 @@
 Text file: URED2365.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1018994400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-16 22:00:00
 idPredpisa: URED2365
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o uvedbi izravnalnih pla\u010Dil za obmo\u010Dja \_z omejenimi mo\u017E\
-  nostmi za kmetijsko dejavnost (EKO 1) v letu 2002"
+naslov: "UREDBO  o uvedbi izravnalnih pla\u010Dil za obmo\u010Dja \_z omejenimi mo\u017Enostmi
+  za kmetijsko dejavnost (EKO 1) v letu 2002"
 npbNum: 0
 path: /2002/15/2002-01-1572
 sopPredpisa: 2002-01-1572

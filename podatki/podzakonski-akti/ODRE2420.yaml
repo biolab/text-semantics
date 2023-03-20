@@ -1,17 +1,11 @@
 Text file: ODRE2420.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513810800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-20 23:00:00
 idPredpisa: ODRE2420
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010D\
-  ne energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010D\
-  ne energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2018"
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010Dne
+  energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010Dne
+  energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2018"
 npbNum: 0
 path: /2017/35/2017-01-3526
 sopPredpisa: 2017-01-3526

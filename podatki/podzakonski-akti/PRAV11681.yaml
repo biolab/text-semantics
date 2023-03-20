@@ -1,17 +1,10 @@
 Text file: PRAV11681.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1566597600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-08-23 22:00:00
 idPredpisa: PRAV11681
 idPredpisaChng: PRAV11681
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Notranji\
-  \ Bohinj (2013\u20132022) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 1)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Notranji
+  Bohinj (2013\u20132022) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/24/2019-01-2422-2013-01-4211-npb1
 sopPredpisa: 2019-01-2422

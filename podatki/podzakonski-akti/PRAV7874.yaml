@@ -1,16 +1,10 @@
 Text file: PRAV7874.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-30 23:00:00
 idPredpisa: PRAV7874
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote \u017D\
-  alec (2006\u20132015)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote \u017Dalec
+  (2006\u20132015)"
 npbNum: 0
 path: /2007/54/2007-01-5417
 sopPredpisa: 2007-01-5417

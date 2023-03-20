@@ -1,14 +1,8 @@
 Text file: PRAV5244.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1063317600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-11 22:00:00
 idPredpisa: PRAV5244
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o osrednjih obmo\u010Dnih knji\u017Enicah"
 npbNum: 0
 path: /2003/40/2003-01-4079

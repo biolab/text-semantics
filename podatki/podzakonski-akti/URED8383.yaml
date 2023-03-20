@@ -1,16 +1,10 @@
 Text file: URED8383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1633125600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-01 22:00:00
 idPredpisa: URED8383
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo termalne vode iz vrtine JAN-1/04 za ogrevanje\
-  \ in potrebe kopali\u0161\u010Da v Termah Gaja"
+naslov: "UREDBO o koncesiji za rabo termalne vode iz vrtine JAN-1/04 za ogrevanje
+  in potrebe kopali\u0161\u010Da v Termah Gaja"
 npbNum: 0
 path: /2021/29/2021-01-2996
 sopPredpisa: 2021-01-2996

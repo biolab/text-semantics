@@ -1,16 +1,10 @@
 Text file: PRAV9687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1242424800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-15 22:00:00
 idPredpisa: PRAV9687
 idPredpisaChng: PRAV9687
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi Programa imunoprofilakse in kemoprofilakse za\
-  \ leto 2009 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dolo\u010Ditvi Programa imunoprofilakse in kemoprofilakse za
+  leto 2009 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2009/17/2009-01-1772-2009-01-0993-npb1
 sopPredpisa: 2009-01-1772

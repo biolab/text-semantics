@@ -1,16 +1,10 @@
 Text file: PRAV8654.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1250200800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-08-13 22:00:00
 idPredpisa: PRAV8654
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ravnanju s tankerji in oskrbo ladij s pogonskim gorivom v tovornem\
-  \ pristani\u0161\u010Du Koper"
+naslov: "PRAVILNIK o ravnanju s tankerji in oskrbo ladij s pogonskim gorivom v tovornem
+  pristani\u0161\u010Du Koper"
 npbNum: 0
 path: /2009/29/2009-01-2914
 sopPredpisa: 2009-01-2914

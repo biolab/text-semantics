@@ -1,16 +1,10 @@
 Text file: SKLE6801.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1374271200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-19 22:00:00
 idPredpisa: SKLE6801
 idPredpisaChng: SKLE6801
-instock: .nan
-naslov: "SKLEP o izra\u010Dunu kapitalske zahteve za tr\u017Ena tveganja za banke\
-  \ in hranilnice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "SKLEP o izra\u010Dunu kapitalske zahteve za tr\u017Ena tveganja za banke
+  in hranilnice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2013/24/2013-01-2406-2006-01-5661-npb4
 sopPredpisa: 2013-01-2406

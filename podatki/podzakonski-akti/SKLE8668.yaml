@@ -1,14 +1,8 @@
 Text file: SKLE8668.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1287784800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-10-22 22:00:00
 idPredpisa: SKLE8668
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o prenehanju veljavnosti Sklepa o opravljanju del in nalog Veterinarske
   uprave Republike Slovenije med stavko
 npbNum: 0

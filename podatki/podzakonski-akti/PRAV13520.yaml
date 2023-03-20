@@ -1,18 +1,12 @@
 Text file: PRAV13520.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1557525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-10 22:00:00
 idPredpisa: PRAV13520
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v\
-  \ javnem interesu na podro\u010Dju mednarodnih odnosov, zunanjih zadev, mednarodnega\
-  \ razvojnega sodelovanja in mednarodne humanitarne pomo\u010Di"
+naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v javnem
+  interesu na podro\u010Dju mednarodnih odnosov, zunanjih zadev, mednarodnega razvojnega
+  sodelovanja in mednarodne humanitarne pomo\u010Di"
 npbNum: 0
 path: /2019/13/2019-01-1362
 sopPredpisa: 2019-01-1362

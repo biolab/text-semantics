@@ -1,16 +1,10 @@
 Text file: PRAV11863.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1632952800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-29 22:00:00
 idPredpisa: PRAV11863
 idPredpisaChng: PRAV11863
-instock: .nan
-naslov: "PRAVILNIK o obrazcih in listinah za uresni\u010Devanje obveznega zdravstvenega\
-  \ zavarovanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "PRAVILNIK o obrazcih in listinah za uresni\u010Devanje obveznega zdravstvenega
+  zavarovanja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2021/28/2021-01-2877-2013-01-3779-npb5
 sopPredpisa: 2021-01-2877

@@ -1,19 +1,12 @@
 Text file: PRAV14335.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1624053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-18 22:00:00
 idPredpisa: PRAV14335
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih zahtevah za priklju\u010Ditev proizvodnih naprav\
-  \ elektri\u010Dne energije na distribucijsko omre\u017Eje in o izvajanju 5. \u010D\
-  lena Uredbe Komisije (EU) \u0161t. 2016/631 o vzpostavitvi kodeksa omre\u017Eja\
-  \ za zahteve za priklju\u010Ditev proizvajalcev elektri\u010Dne energije na omre\u017E\
-  je"
+naslov: "PRAVILNIK o tehni\u010Dnih zahtevah za priklju\u010Ditev proizvodnih naprav
+  elektri\u010Dne energije na distribucijsko omre\u017Eje in o izvajanju 5. \u010Dlena
+  Uredbe Komisije (EU) \u0161t. 2016/631 o vzpostavitvi kodeksa omre\u017Eja za zahteve
+  za priklju\u010Ditev proizvajalcev elektri\u010Dne energije na omre\u017Eje"
 npbNum: 0
 path: /2021/20/2021-01-2083
 sopPredpisa: 2021-01-2083

@@ -1,16 +1,10 @@
 Text file: ODLO2644.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647039600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-11 23:00:00
 idPredpisa: ODLO2644
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o razglasitvi dvorca in parka Dornava za kulturni spomenik dr\u017E\
-  avnega pomena"
+naslov: "ODLOK o razglasitvi dvorca in parka Dornava za kulturni spomenik dr\u017Eavnega
+  pomena"
 npbNum: 0
 path: /2022/07/2022-01-0702
 sopPredpisa: 2022-01-0702

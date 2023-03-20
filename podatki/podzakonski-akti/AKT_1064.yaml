@@ -1,17 +1,8 @@
 Text file: AKT_1064.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: AKT_1064
 idPredpisaChng: null
-instock: .nan
 naslov: "TARIFO 2019 o pla\u010Dilih za izvajanje po\u0161tnih storitev"
 npbNum: 0
 path: /2018/41/2018-01-4105

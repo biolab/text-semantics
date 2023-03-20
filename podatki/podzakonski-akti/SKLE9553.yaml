@@ -1,16 +1,10 @@
 Text file: SKLE9553.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1385766000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-11-29 23:00:00
 idPredpisa: SKLE9553
 idPredpisaChng: SKLE9553
-instock: .nan
-naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2013 (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2013 (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2013/35/2013-01-3544-2013-01-2244-npb1
 sopPredpisa: 2013-01-3544

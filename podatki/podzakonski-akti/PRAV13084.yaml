@@ -1,16 +1,10 @@
 Text file: PRAV13084.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1493416800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-04-28 22:00:00
 idPredpisa: PRAV13084
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o letnih nagradah za dobro prakso na podro\u010Dju zaposlovanja\
-  \ invalidov"
+naslov: "PRAVILNIK o letnih nagradah za dobro prakso na podro\u010Dju zaposlovanja
+  invalidov"
 npbNum: 0
 path: /2017/09/2017-01-0916
 sopPredpisa: 2017-01-0916

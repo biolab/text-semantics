@@ -1,16 +1,10 @@
 Text file: PRAV8925.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1206745200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-28 23:00:00
 idPredpisa: PRAV8925
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o Kra\u0161kem ov\u010Djem siru z za\u0161\u010Diteno ozna\u010D\
-  bo porekla"
+naslov: "PRAVILNIK o Kra\u0161kem ov\u010Djem siru z za\u0161\u010Diteno ozna\u010Dbo
+  porekla"
 npbNum: 0
 path: /2008/10/2008-01-1080
 sopPredpisa: 2008-01-1080

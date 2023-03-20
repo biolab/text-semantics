@@ -1,17 +1,11 @@
 Text file: SKLE8259.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1264201200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-22 23:00:00
 idPredpisa: SKLE8259
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010D\
-  ne energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010D\
-  ne energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2010"
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne prodajne vrednosti 1 kWh elektri\u010Dne
+  energije kot osnove pla\u010Dila za koncesijo za rabo vode za proizvodnjo elektri\u010Dne
+  energije v hidroelektrarnah do 10 MW nazivne mo\u010Di za leto 2010"
 npbNum: 0
 path: /2010/01/2010-01-0135
 sopPredpisa: 2010-01-0135

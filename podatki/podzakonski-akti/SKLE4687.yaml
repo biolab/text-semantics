@@ -1,16 +1,10 @@
 Text file: SKLE4687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089324000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-08 22:00:00
 idPredpisa: SKLE4687
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za vodnogospodarsko ureditev Drave od Dogo\u0161 do jezu v Melju"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za vodnogospodarsko ureditev Drave od Dogo\u0161 do jezu v Melju"
 npbNum: 0
 path: /2004/33/2004-01-3327
 sopPredpisa: 2004-01-3327

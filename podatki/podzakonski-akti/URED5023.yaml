@@ -1,16 +1,10 @@
 Text file: URED5023.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1282946400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-08-27 22:00:00
 idPredpisa: URED5023
 idPredpisaChng: URED5023
-instock: .nan
-naslov: "UREDBA o merilih in pogojih za odobritev posojil po 81.a \u010Dlenu Zakona\
-  \ o javnih financah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o merilih in pogojih za odobritev posojil po 81.a \u010Dlenu Zakona
+  o javnih financah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/38/2010-01-3815-2008-01-5330-npb1
 sopPredpisa: 2010-01-3815

@@ -1,16 +1,10 @@
 Text file: URED4806.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1209765600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-05-02 22:00:00
 idPredpisa: URED4806
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za gojenje \u0161koljk na I., II., III., IV., V. in VI.\
-  \ parceli gojitvenega obmo\u010Dja Strunjan"
+naslov: "UREDBO o koncesiji za gojenje \u0161koljk na I., II., III., IV., V. in VI.
+  parceli gojitvenega obmo\u010Dja Strunjan"
 npbNum: 0
 path: /2008/15/2008-01-1580
 sopPredpisa: 2008-01-1580

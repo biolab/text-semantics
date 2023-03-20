@@ -1,14 +1,8 @@
 Text file: POSL105.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1373320800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-08 22:00:00
 idPredpisa: POSL105
 idPredpisaChng: null
-instock: .nan
 naslov: POSLOVNIK Sveta za elektronske komunikacije Republike Slovenije
 npbNum: 0
 path: /2013/22/2013-01-2246

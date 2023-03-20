@@ -1,16 +1,10 @@
 Text file: URED4781.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1606518000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-27 23:00:00
 idPredpisa: URED4781
 idPredpisaChng: URED4781
-instock: .nan
-naslov: "UREDBA o delovni uspe\u0161nosti iz naslova pove\u010Danega obsega dela za\
-  \ javne uslu\u017Ebence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o delovni uspe\u0161nosti iz naslova pove\u010Danega obsega dela za
+  javne uslu\u017Ebence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2020/31/2020-01-3100-2008-01-2253-npb2
 sopPredpisa: 2020-01-3100

@@ -1,16 +1,10 @@
 Text file: SKLE8114.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1318024800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-07 22:00:00
 idPredpisa: SKLE8114
 idPredpisaChng: SKLE8114
-instock: .nan
-naslov: "SKLEP o poro\u010Danju monetarnih finan\u010Dnih institucij (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o poro\u010Danju monetarnih finan\u010Dnih institucij (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/33/2011-01-3336-2009-01-2285-npb1
 sopPredpisa: 2011-01-3336

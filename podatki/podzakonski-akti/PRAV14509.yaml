@@ -1,16 +1,10 @@
 Text file: PRAV14509.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1659736800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-05 22:00:00
 idPredpisa: PRAV14509
 idPredpisaChng: PRAV14509
-instock: .nan
-naslov: "PRAVILNIK o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2022/26/2022-01-2623-2022-01-1702-npb1
 sopPredpisa: 2022-01-2623

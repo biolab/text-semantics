@@ -1,18 +1,12 @@
 Text file: URED1238.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1026511200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-12 22:00:00
 idPredpisa: URED1238
 idPredpisaChng: URED1238
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi dodatkov strokovnim in administrativno-tehni\u010D\
-  nim ter drugim delavcem na sodi\u0161\u010Dih, dr\u017Eavnih to\u017Eilstvih, dr\u017E\
-  avnem pravobranilstvu in v organih za postopek o prekr\u0161kih (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 8)"
+naslov: "UREDBA o dolo\u010Ditvi dodatkov strokovnim in administrativno-tehni\u010Dnim
+  ter drugim delavcem na sodi\u0161\u010Dih, dr\u017Eavnih to\u017Eilstvih, dr\u017Eavnem
+  pravobranilstvu in v organih za postopek o prekr\u0161kih (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 8)"
 npbNum: 8
 path: /2002/30/2002-01-3015-1996-01-2505-npb8
 sopPredpisa: 2002-01-3015

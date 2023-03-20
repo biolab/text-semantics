@@ -1,16 +1,10 @@
 Text file: PRAV8284.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1173222000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-06 23:00:00
 idPredpisa: PRAV8284
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ozna\u010Devanju magistralnih pripravkov in o ozna\u010Devanju\
-  \ ter navodilu za uporabo galenskih izdelkov"
+naslov: "PRAVILNIK o ozna\u010Devanju magistralnih pripravkov in o ozna\u010Devanju
+  ter navodilu za uporabo galenskih izdelkov"
 npbNum: 0
 path: /2007/06/2007-01-0687
 sopPredpisa: 2007-01-0687

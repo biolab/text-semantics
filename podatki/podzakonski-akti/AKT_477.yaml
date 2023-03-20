@@ -1,16 +1,10 @@
 Text file: AKT_477.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1184623200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-16 22:00:00
 idPredpisa: AKT_477
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi pogojev, meril in obsegu pla\u010Dila za pove\u010D\
-  an obseg dela dr\u017Eavnih to\u017Eilcev"
+naslov: "AKT o dolo\u010Ditvi pogojev, meril in obsegu pla\u010Dila za pove\u010Dan
+  obseg dela dr\u017Eavnih to\u017Eilcev"
 npbNum: 0
 path: /2007/34/2007-01-3479
 sopPredpisa: 2007-01-3479

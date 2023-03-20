@@ -1,14 +1,8 @@
 Text file: PRAV8743.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1224280800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-17 22:00:00
 idPredpisa: PRAV8743
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o homeopatskih zdravilih za uporabo v humani medicini
 npbNum: 0
 path: /2008/39/2008-01-3965

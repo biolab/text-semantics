@@ -1,17 +1,11 @@
 Text file: ODRE2191.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1351897200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-02 23:00:00
 idPredpisa: ODRE2191
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine nadomestila na hektar za kritje stro\u0161\
-  kov za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010D\
-  jih za leto 2012"
+naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine nadomestila na hektar za kritje stro\u0161kov
+  za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010Djih
+  za leto 2012"
 npbNum: 0
 path: /2012/32/2012-01-3244
 sopPredpisa: 2012-01-3244

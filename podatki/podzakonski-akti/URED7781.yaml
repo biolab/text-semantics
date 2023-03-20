@@ -1,16 +1,10 @@
 Text file: URED7781.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1582930800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-02-28 23:00:00
 idPredpisa: URED7781
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obveznem prispevku za promocijo kmetijskih in \u017Eivilskih proizvodov\
-  \ za zavezance sektorja mesa za obdobje 2020\u20132022"
+naslov: "UREDBO o obveznem prispevku za promocijo kmetijskih in \u017Eivilskih proizvodov
+  za zavezance sektorja mesa za obdobje 2020\u20132022"
 npbNum: 0
 path: /2020/02/2020-01-0286
 sopPredpisa: 2020-01-0286

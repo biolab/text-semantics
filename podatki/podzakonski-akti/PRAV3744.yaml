@@ -1,17 +1,11 @@
 Text file: PRAV3744.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: PRAV3744
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zootehni\u0161kih in genealo\u0161kih pogojih za uvoz \u010D\
-  istopasemskih plemenskih \u017Eivali, njihovega semena, jaj\u010Dnih celic in zarodkov\
-  \ iz tretjih dr\u017Eav*"
+naslov: "PRAVILNIK o zootehni\u0161kih in genealo\u0161kih pogojih za uvoz \u010Distopasemskih
+  plemenskih \u017Eivali, njihovega semena, jaj\u010Dnih celic in zarodkov iz tretjih
+  dr\u017Eav*"
 npbNum: 0
 path: /2003/53/2003-01-5359
 sopPredpisa: 2003-01-5359

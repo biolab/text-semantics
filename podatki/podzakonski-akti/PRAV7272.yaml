@@ -1,16 +1,10 @@
 Text file: PRAV7272.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1153519200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-07-21 22:00:00
 idPredpisa: PRAV7272
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu zagotavljanja pla\u010Dane pravne pomo\u010Di javnim\
-  \ uslu\u017Ebencem"
+naslov: "UREDBO o na\u010Dinu zagotavljanja pla\u010Dane pravne pomo\u010Di javnim
+  uslu\u017Ebencem"
 npbNum: 0
 path: /2006/30/2006-01-3046
 sopPredpisa: 2006-01-3046

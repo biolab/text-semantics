@@ -1,17 +1,8 @@
 Text file: TARI70.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1119391200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1121637600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2005-06-21 22:00:00
+datumZacetkaVelj: 2005-07-17 22:00:00
 idPredpisa: TARI70
 idPredpisaChng: null
-instock: .nan
 naslov: "TARIFO ZAVODA IPF za javno priob\u010Ditev fonogramov"
 npbNum: 0
 path: /2005/30/2005-01-3016

@@ -1,16 +1,10 @@
 Text file: PRAV14184.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1607986800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-14 23:00:00
 idPredpisa: PRAV14184
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopku in rokih za uveljavljanje zahtevkov iz 123. \u010Dlena\
-  \ Zakona o interventnih ukrepih za omilitev posledic drugega vala epidemije COVID-19"
+naslov: "PRAVILNIK o postopku in rokih za uveljavljanje zahtevkov iz 123. \u010Dlena
+  Zakona o interventnih ukrepih za omilitev posledic drugega vala epidemije COVID-19"
 npbNum: 0
 path: /2020/32/2020-01-3281
 sopPredpisa: 2020-01-3281

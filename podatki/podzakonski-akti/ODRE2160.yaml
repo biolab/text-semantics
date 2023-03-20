@@ -1,16 +1,10 @@
 Text file: ODRE2160.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1327705200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-27 23:00:00
 idPredpisa: ODRE2160
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o usklajenih vi\u0161inah nominalnih vrednosti povra\u010Dila stro\u0161\
-  kov mati\u010Darjev in poobla\u0161\u010Denih oseb za leto 2012"
+naslov: "ODREDBO o usklajenih vi\u0161inah nominalnih vrednosti povra\u010Dila stro\u0161kov
+  mati\u010Darjev in poobla\u0161\u010Denih oseb za leto 2012"
 npbNum: 0
 path: /2012/02/2012-01-0211
 sopPredpisa: 2012-01-0211

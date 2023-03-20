@@ -1,25 +1,18 @@
 Text file: URED5433.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1618005600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-09 22:00:00
 idPredpisa: URED5433
 idPredpisaChng: URED5433
-instock: .nan
-naslov: "UREDBA o rudarskih pravicah za gospodarsko izkori\u0161\u010Danje mineralnih\
-  \ surovin v pridobivalnih prostorih Laze \u2013 \u0161iritev v Ob\u010Dini Ko\u010D\
-  evje, Suhor pri Vinici \u2013 \u0161iritev v Ob\u010Dini \u010Crnomelj, Lenart pri\
-  \ Gornjem Gradu 2 v Ob\u010Dini Gornji Grad, Je\u017Ece \u2013 \u0161iritev 2 v\
-  \ Ob\u010Dini \u0160martno pri Litiji, Kmetov pruh \u2013 \u0161iritev v Ob\u010D\
-  ini \u0160martno pri Litiji, Brezovica \u2013 \u0161iritev v Ob\u010Dini Semi\u010D\
-  , Stari Grad 2 v Ob\u010Dini Kr\u0161ko, Stari Grad 3 v Ob\u010Dini Kr\u0161ko,\
-  \ Gabrovec (Vrbovo) v Ob\u010Dini Ilirska Bistrica, Bu\u010Dka \u2013 \u0161iritev\
-  \ v Ob\u010Dini \u0160kocjan, Hrastenice v Ob\u010Dini Dobrova - Polhov Gradec in\
-  \ Vrhpe\u010D \u2013 \u0161iritev 2 v Ob\u010Dini Trebnje (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 5)"
+naslov: "UREDBA o rudarskih pravicah za gospodarsko izkori\u0161\u010Danje mineralnih
+  surovin v pridobivalnih prostorih Laze \u2013 \u0161iritev v Ob\u010Dini Ko\u010Devje,
+  Suhor pri Vinici \u2013 \u0161iritev v Ob\u010Dini \u010Crnomelj, Lenart pri Gornjem
+  Gradu 2 v Ob\u010Dini Gornji Grad, Je\u017Ece \u2013 \u0161iritev 2 v Ob\u010Dini
+  \u0160martno pri Litiji, Kmetov pruh \u2013 \u0161iritev v Ob\u010Dini \u0160martno
+  pri Litiji, Brezovica \u2013 \u0161iritev v Ob\u010Dini Semi\u010D, Stari Grad 2
+  v Ob\u010Dini Kr\u0161ko, Stari Grad 3 v Ob\u010Dini Kr\u0161ko, Gabrovec (Vrbovo)
+  v Ob\u010Dini Ilirska Bistrica, Bu\u010Dka \u2013 \u0161iritev v Ob\u010Dini \u0160kocjan,
+  Hrastenice v Ob\u010Dini Dobrova - Polhov Gradec in Vrhpe\u010D \u2013 \u0161iritev
+  2 v Ob\u010Dini Trebnje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2021/10/2021-01-1054-2010-01-1932-npb5
 sopPredpisa: 2021-01-1054

@@ -1,10 +1,8 @@
 Text file: SKLE11883.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11883
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o vi\u0161ini gospodarske rasti v letu 2018"
 npbNum: 0
 path: /2019/26/2019-01-2608

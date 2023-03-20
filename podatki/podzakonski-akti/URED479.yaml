@@ -1,18 +1,12 @@
 Text file: URED479.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 803340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-06-16 22:00:00
 idPredpisa: URED479
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o lastninskem preoblikovanju podjetja \u2019Splo\u0161na plovba p.o.,\
-  \ Portoro\u017E\u2019 v dru\u017Ebo z omejeno odgovornostjo - \u2019Splo\u0161na\
-  \ plovba d.o.o.\u2019 in ustanovitvi dru\u017Ebe z omejeno odgovornostjo - \u2019\
-  Splo\u0161na plovba d.o.o., Portoro\u017E\u2019"
+naslov: "UREDBO o lastninskem preoblikovanju podjetja \u2019Splo\u0161na plovba p.o.,
+  Portoro\u017E\u2019 v dru\u017Ebo z omejeno odgovornostjo - \u2019Splo\u0161na plovba
+  d.o.o.\u2019 in ustanovitvi dru\u017Ebe z omejeno odgovornostjo - \u2019Splo\u0161na
+  plovba d.o.o., Portoro\u017E\u2019"
 npbNum: 0
 path: /1995/15/1995-01-1593
 sopPredpisa: 1995-01-1593

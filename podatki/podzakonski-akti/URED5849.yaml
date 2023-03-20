@@ -1,14 +1,8 @@
 Text file: URED5849.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1334354400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-04-13 22:00:00
 idPredpisa: URED5849
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o odpadnih oljih
 npbNum: 0
 path: /2012/09/2012-01-0999

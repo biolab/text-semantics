@@ -1,16 +1,10 @@
 Text file: PRAV8439.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1199487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-04 23:00:00
 idPredpisa: PRAV8439
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ravensko\
-  \ (2007\u20132016)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ravensko
+  (2007\u20132016)"
 npbNum: 0
 path: /2008/00/2008-01-0014
 sopPredpisa: 2008-01-0014

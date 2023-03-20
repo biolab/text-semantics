@@ -1,19 +1,10 @@
 Text file: PRAV11769.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: PRAV11769
 idPredpisaChng: PRAV11769
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Danju zavarovalne osnove (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o dolo\u010Danju zavarovalne osnove (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2017/34/2017-01-3453-2013-01-3217-npb3
 sopPredpisa: 2017-01-3453

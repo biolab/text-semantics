@@ -1,16 +1,10 @@
 Text file: ODRE2071.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1291935600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-09 23:00:00
 idPredpisa: ODRE2071
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne cene toplote, ki nastane z zgorevanjem\
-  \ ekstra lahkega kurilnega olja, za leto 2011"
+naslov: "ODREDBO o dolo\u010Ditvi povpre\u010Dne cene toplote, ki nastane z zgorevanjem
+  ekstra lahkega kurilnega olja, za leto 2011"
 npbNum: 0
 path: /2010/49/2010-01-4926
 sopPredpisa: 2010-01-4926

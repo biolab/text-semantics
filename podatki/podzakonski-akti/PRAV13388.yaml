@@ -1,14 +1,8 @@
 Text file: PRAV13388.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1523052000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-06 22:00:00
 idPredpisa: PRAV13388
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o ugotavljanju zdravstvene sposobnosti operativnih gasilcev
 npbNum: 0
 path: /2018/08/2018-01-0862

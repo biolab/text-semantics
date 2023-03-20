@@ -1,14 +1,8 @@
 Text file: URED4735.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1249077600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-31 22:00:00
 idPredpisa: URED4735
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o vrstah ukrepov za sanacijo okoljske \u0161kode"
 npbNum: 0
 path: /2009/27/2009-01-2705

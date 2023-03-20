@@ -1,16 +1,10 @@
 Text file: ODLO2092.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588975200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-08 22:00:00
 idPredpisa: ODLO2092
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o prenehanju veljavnosti Odloka o za\u010Dasnih ukrepih na podro\u010D\
-  ju zdravstvene dejavnosti zaradi zajezitve in obvladovanja epidemije COVID-19"
+naslov: "ODLOK o prenehanju veljavnosti Odloka o za\u010Dasnih ukrepih na podro\u010Dju
+  zdravstvene dejavnosti zaradi zajezitve in obvladovanja epidemije COVID-19"
 npbNum: 0
 path: /2020/09/2020-01-0996
 sopPredpisa: 2020-01-0996

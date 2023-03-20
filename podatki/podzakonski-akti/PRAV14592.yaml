@@ -1,16 +1,10 @@
 Text file: PRAV14592.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656712800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-01 22:00:00
 idPredpisa: PRAV14592
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi vzgojiteljev in drugih strokovnih delavcev v vzgojnem\
-  \ programu za dija\u0161ke domove"
+naslov: "PRAVILNIK o izobrazbi vzgojiteljev in drugih strokovnih delavcev v vzgojnem
+  programu za dija\u0161ke domove"
 npbNum: 0
 path: /2022/19/2022-01-1986
 sopPredpisa: 2022-01-1986

@@ -1,14 +1,8 @@
 Text file: PRAV7188.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141945200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-03-09 23:00:00
 idPredpisa: PRAV7188
 idPredpisaChng: null
-instock: .nan
 naslov: "TARIFO o pla\u010Dilih za izvajanje po\u0161tnih storitev za leto 2006"
 npbNum: 0
 path: /2006/10/2006-01-1033

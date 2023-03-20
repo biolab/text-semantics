@@ -1,14 +1,8 @@
 Text file: URED4094.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1170457200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-02 23:00:00
 idPredpisa: URED4094
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o standardni klasifikaciji teritorialnih enot
 npbNum: 0
 path: /2007/03/2007-01-0385

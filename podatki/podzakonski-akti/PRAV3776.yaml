@@ -1,16 +1,10 @@
 Text file: PRAV3776.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1158703200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-09-19 22:00:00
 idPredpisa: PRAV3776
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ozna\u010Devanju plemenskih \u017Eivali in drugega plemenskega\
-  \ materiala"
+naslov: "PRAVILNIK o ozna\u010Devanju plemenskih \u017Eivali in drugega plemenskega
+  materiala"
 npbNum: 0
 path: /2006/40/2006-01-4002
 sopPredpisa: 2006-01-4002

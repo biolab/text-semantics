@@ -1,17 +1,11 @@
 Text file: PRAV9504.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1443823200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-02 22:00:00
 idPredpisa: PRAV9504
 idPredpisaChng: PRAV9504
-instock: .nan
-naslov: "PRAVILNIK o ovojnici za vro\u010Danje po po\u0161ti v postopku vpisa v sodni\
-  \ register in postopku izbrisa iz sodnega registra brez likvidacije (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o ovojnici za vro\u010Danje po po\u0161ti v postopku vpisa v sodni
+  register in postopku izbrisa iz sodnega registra brez likvidacije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/27/2015-01-2733-2009-01-0598-npb1
 sopPredpisa: 2015-01-2733

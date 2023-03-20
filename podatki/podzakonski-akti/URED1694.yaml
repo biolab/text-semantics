@@ -1,16 +1,10 @@
 Text file: URED1694.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 996271200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-27 22:00:00
 idPredpisa: URED1694
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih, pogojih in postopku za dodelitev spodbud za ustvarjanje\
-  \ gospodarske osnove na narodnostno me\u0161anih obmo\u010Djih za leto 2001"
+naslov: "UREDBO o merilih, pogojih in postopku za dodelitev spodbud za ustvarjanje
+  gospodarske osnove na narodnostno me\u0161anih obmo\u010Djih za leto 2001"
 npbNum: 0
 path: /2001/33/2001-01-3332
 sopPredpisa: 2001-01-3332

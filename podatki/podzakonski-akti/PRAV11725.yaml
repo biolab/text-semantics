@@ -1,16 +1,10 @@
 Text file: PRAV11725.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1448924400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-11-30 23:00:00
 idPredpisa: PRAV11725
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti dolo\u010Denih pravilnikov na podro\u010D\
-  ju meroslovja"
+naslov: "PRAVILNIK o prenehanju veljavnosti dolo\u010Denih pravilnikov na podro\u010Dju
+  meroslovja"
 npbNum: 0
 path: /2015/18/2015-01-1854
 sopPredpisa: 2015-01-1854

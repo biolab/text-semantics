@@ -1,16 +1,10 @@
 Text file: ODRE573.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 979945200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-01-19 23:00:00
 idPredpisa: ODRE573
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote Lovrenc na Pohorju"
+naslov: "ODREDBO o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote Lovrenc na Pohorju"
 npbNum: 0
 path: /2001/02/2001-01-0288
 sopPredpisa: 2001-01-0288

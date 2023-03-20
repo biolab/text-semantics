@@ -1,16 +1,10 @@
 Text file: SKLE8255.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1264201200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-22 23:00:00
 idPredpisa: SKLE8255
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode\
-  \ za vzrejo salmonidnih vrst rib za leto 2010"
+naslov: "ODREDBO o dolo\u010Ditvi cene osnove pla\u010Dila za koncesijo za rabo vode
+  za vzrejo salmonidnih vrst rib za leto 2010"
 npbNum: 0
 path: /2010/01/2010-01-0134
 sopPredpisa: 2010-01-0134

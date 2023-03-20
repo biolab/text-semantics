@@ -1,16 +1,10 @@
 Text file: PRAV5988.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1103929200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-24 23:00:00
 idPredpisa: PRAV5988
 idPredpisaChng: PRAV5988
-instock: .nan
-naslov: "PRAVILNIK o pogojih za izvajanje veterinarske dejavnosti dezinfekcije, dezinsekcije\
-  \ in deratizacije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih za izvajanje veterinarske dejavnosti dezinfekcije, dezinsekcije
+  in deratizacije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 2
 path: /2004/59/2004-01-5943-2004-01-3211-npb2
 sopPredpisa: 2004-01-5943

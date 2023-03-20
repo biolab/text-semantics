@@ -1,17 +1,11 @@
 Text file: PRAV13399.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1555624800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-18 22:00:00
 idPredpisa: PRAV13399
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zahtevah za zagotavljanje varnosti in zdravja pri delu in o tehni\u010D\
-  nih ukrepih za dela pri raziskovanju in izkori\u0161\u010Danju mineralnih surovin\
-  \ na povr\u0161inskih kopih"
+naslov: "PRAVILNIK o zahtevah za zagotavljanje varnosti in zdravja pri delu in o tehni\u010Dnih
+  ukrepih za dela pri raziskovanju in izkori\u0161\u010Danju mineralnih surovin na
+  povr\u0161inskih kopih"
 npbNum: 0
 path: /2019/09/2019-01-0908
 sopPredpisa: 2019-01-0908

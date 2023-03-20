@@ -1,20 +1,11 @@
 Text file: ODLO251.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204326000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204930800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-02-29 23:00:00
+datumZacetkaVelj: 2008-03-07 23:00:00
 idPredpisa: ODLO251
 idPredpisaChng: ODLO251
-instock: .nan
-naslov: "ODLOK o razglasitvi Obmo\u010Dja gradu Kostanjevica s samostanom in Galerijo\
-  \ na prostem \u2013 Formo vivo za kulturni spomenik dr\u017Eavnega pomena (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "ODLOK o razglasitvi Obmo\u010Dja gradu Kostanjevica s samostanom in Galerijo
+  na prostem \u2013 Formo vivo za kulturni spomenik dr\u017Eavnega pomena (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2008/08/2008-01-0845-1999-01-3830-npb3
 sopPredpisa: 2008-01-0845

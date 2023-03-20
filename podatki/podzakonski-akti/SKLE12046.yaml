@@ -1,14 +1,8 @@
 Text file: SKLE12046.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1586556000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-10 22:00:00
 idPredpisa: SKLE12046
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o makrobonitetni omejitvi razdelitev dobi\u010Dkov bank"
 npbNum: 0
 path: /2020/07/2020-01-0770

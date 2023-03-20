@@ -1,13 +1,11 @@
 Text file: AKT_1262.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1262
 idPredpisaChng: null
-instock: .nan
-naslov: "VALORIZACIJSKE\_KOLI\u010CNIKE za prera\u010Dun osnov iz prej\u0161njih let\
-  \ zavarovanja na raven povpre\u010Dne pla\u010De na zaposleno osebo, izpla\u010D\
-  ane za leto 2021"
+naslov: "VALORIZACIJSKE\_KOLI\u010CNIKE za prera\u010Dun osnov iz prej\u0161njih let
+  zavarovanja na raven povpre\u010Dne pla\u010De na zaposleno osebo, izpla\u010Dane
+  za leto 2021"
 npbNum: 0
 path: /2022/09/2022-01-0932
 sopPredpisa: 2022-01-0932

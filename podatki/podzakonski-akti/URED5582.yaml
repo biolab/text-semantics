@@ -1,17 +1,11 @@
 Text file: URED5582.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-20 22:00:00
 idPredpisa: URED5582
 idPredpisaChng: URED5582
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih\
-  \ zemlji\u0161kih parcelah ob reki Me\u017Ei v Ob\u010Dini Prevalje (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih
+  zemlji\u0161kih parcelah ob reki Me\u017Ei v Ob\u010Dini Prevalje (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/26/2017-01-2696-2010-01-4864-npb1
 sopPredpisa: 2017-01-2696

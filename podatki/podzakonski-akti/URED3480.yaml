@@ -1,17 +1,11 @@
 Text file: URED3480.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1227654000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-25 23:00:00
 idPredpisa: URED3480
 idPredpisaChng: URED3480
-instock: .nan
-naslov: "UREDBA o koncesiji za izvajanje gospodarske javne slu\u017Ebe dejavnost sistemskega\
-  \ operaterja prenosnega omre\u017Eja zemeljskega plina (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesiji za izvajanje gospodarske javne slu\u017Ebe dejavnost sistemskega
+  operaterja prenosnega omre\u017Eja zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/47/2008-01-4776-2004-01-4546-npb2
 sopPredpisa: 2008-01-4776

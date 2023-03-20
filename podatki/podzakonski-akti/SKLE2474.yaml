@@ -1,16 +1,10 @@
 Text file: SKLE2474.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 999295200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-31 22:00:00
 idPredpisa: SKLE2474
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o zvi\u0161anju cene strokovnih izpitov pri In\u017Eenirski zbornici\
-  \ Slovenije"
+naslov: "SKLEP o zvi\u0161anju cene strokovnih izpitov pri In\u017Eenirski zbornici
+  Slovenije"
 npbNum: 0
 path: /2001/36/2001-01-3674
 sopPredpisa: 2001-01-3674

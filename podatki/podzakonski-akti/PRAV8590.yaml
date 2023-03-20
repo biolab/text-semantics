@@ -1,16 +1,10 @@
 Text file: PRAV8590.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193436000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-26 22:00:00
 idPredpisa: PRAV8590
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopku za izdajo potrdila o izvr\u0161ljivosti oziroma verodostojnosti\
-  \ tuje odlo\u010Dbe oziroma tuje javne listine"
+naslov: "PRAVILNIK o postopku za izdajo potrdila o izvr\u0161ljivosti oziroma verodostojnosti
+  tuje odlo\u010Dbe oziroma tuje javne listine"
 npbNum: 0
 path: /2007/49/2007-01-4910
 sopPredpisa: 2007-01-4910

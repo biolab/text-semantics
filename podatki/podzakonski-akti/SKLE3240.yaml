@@ -1,16 +1,10 @@
 Text file: SKLE3240.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1034114400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-08 22:00:00
 idPredpisa: SKLE3240
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o dolo\u010Ditvi nove vi\u0161ine pristojbine za kritje stro\u0161\
-  kov opravljanja strokovnih izpitov pri In\u017Eenirski zbornici Slovenije"
+naslov: "SKLEP  o dolo\u010Ditvi nove vi\u0161ine pristojbine za kritje stro\u0161kov
+  opravljanja strokovnih izpitov pri In\u017Eenirski zbornici Slovenije"
 npbNum: 0
 path: /2002/40/2002-01-4058
 sopPredpisa: 2002-01-4058

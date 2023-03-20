@@ -1,14 +1,8 @@
 Text file: SKLE614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 862956000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-05-06 22:00:00
 idPredpisa: SKLE614
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o drugih osebnih prejemkih in povra\u010Dilih dr\u017Eavnih pravobranilcev"
 npbNum: 0
 path: /1997/19/1997-01-1964

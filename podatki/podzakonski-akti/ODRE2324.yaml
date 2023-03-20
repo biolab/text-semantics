@@ -1,17 +1,11 @@
 Text file: ODRE2324.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1431122400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-05-08 22:00:00
 idPredpisa: ODRE2324
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi datuma, od katerega so vzpostavljene tehni\u010D\
-  ne mo\u017Enosti za objavo pogodb s podro\u010Dja javnega naro\u010Danja, koncesij\
-  \ in javno-zasebnih partnerstev na portalu javnih naro\u010Dil"
+naslov: "ODREDBO o dolo\u010Ditvi datuma, od katerega so vzpostavljene tehni\u010Dne
+  mo\u017Enosti za objavo pogodb s podro\u010Dja javnega naro\u010Danja, koncesij
+  in javno-zasebnih partnerstev na portalu javnih naro\u010Dil"
 npbNum: 0
 path: /2015/11/2015-01-1160
 sopPredpisa: 2015-01-1160

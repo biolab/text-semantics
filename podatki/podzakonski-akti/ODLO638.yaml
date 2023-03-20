@@ -1,16 +1,10 @@
 Text file: ODLO638.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 679615200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-07-15 22:00:00
 idPredpisa: ODLO638
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK  o pogojih, pod katerimi so zavezanci za dohodnino dol\u017Eni odpreti\
-  \ \u017Eiro ra\u010Dun"
+naslov: "ODLOK  o pogojih, pod katerimi so zavezanci za dohodnino dol\u017Eni odpreti
+  \u017Eiro ra\u010Dun"
 npbNum: 0
 path: /1991/01/1991-01-0128
 sopPredpisa: 1991-01-0128

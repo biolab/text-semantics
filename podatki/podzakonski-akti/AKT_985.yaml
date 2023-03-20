@@ -1,16 +1,10 @@
 Text file: AKT_985.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468879200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-18 22:00:00
 idPredpisa: AKT_985
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o kriterijih in pravilih za zagotavljanje nujne oskrbe z elektri\u010D\
-  no energijo"
+naslov: "AKT o kriterijih in pravilih za zagotavljanje nujne oskrbe z elektri\u010Dno
+  energijo"
 npbNum: 0
 path: /2016/20/2016-01-2076
 sopPredpisa: 2016-01-2076

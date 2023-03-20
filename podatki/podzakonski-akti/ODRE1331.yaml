@@ -1,16 +1,10 @@
 Text file: ODRE1331.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 842047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-09-06 22:00:00
 idPredpisa: ODRE1331
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o uvedbi hidromelioracijskega postopka na obmo\u010Dju Ob\u010Dine\
-  \ Sevnica"
+naslov: "ODREDBO o uvedbi hidromelioracijskega postopka na obmo\u010Dju Ob\u010Dine
+  Sevnica"
 npbNum: 0
 path: /1996/29/1996-01-2959
 sopPredpisa: 1996-01-2959

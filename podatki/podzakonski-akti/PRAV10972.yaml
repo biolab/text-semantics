@@ -1,14 +1,8 @@
 Text file: PRAV10972.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1321570800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-11-17 23:00:00
 idPredpisa: PRAV10972
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vsebini in obliki diplom Fakultete za medije
 npbNum: 0
 path: /2011/39/2011-01-3974

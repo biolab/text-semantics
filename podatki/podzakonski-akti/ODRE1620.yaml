@@ -1,14 +1,8 @@
 Text file: ODRE1620.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 989618400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-05-11 22:00:00
 idPredpisa: ODRE1620
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO  o minimalni zajam\u010Deni donosnosti za mesec april 2001"
 npbNum: 0
 path: /2001/20/2001-01-2053

@@ -1,16 +1,10 @@
 Text file: SKLE8534.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1500674400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-21 22:00:00
 idPredpisa: SKLE8534
 idPredpisaChng: SKLE8534
-instock: .nan
-naslov: "SKLEP o ustanovitvi Javne agencije Republike Slovenije za varnost prometa\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi Javne agencije Republike Slovenije za varnost prometa
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/20/2017-01-2062-2010-01-2636-npb2
 sopPredpisa: 2017-01-2062

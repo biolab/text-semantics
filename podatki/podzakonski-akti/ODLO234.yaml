@@ -1,17 +1,11 @@
 Text file: ODLO234.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091138400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-29 22:00:00
 idPredpisa: ODLO234
 idPredpisaChng: ODLO234
-instock: .nan
-naslov: "ODLOK o razglasitvi Starokr\u0161\u010Danske krstilnice v Celju za kulturni\
-  \ spomenik dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "ODLOK o razglasitvi Starokr\u0161\u010Danske krstilnice v Celju za kulturni
+  spomenik dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2004/37/2004-01-3720-1999-01-3813-npb2
 sopPredpisa: 2004-01-3720

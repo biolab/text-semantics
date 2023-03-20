@@ -1,17 +1,11 @@
 Text file: URED5432.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1486162800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-02-03 23:00:00
 idPredpisa: URED5432
 idPredpisaChng: URED5432
-instock: .nan
-naslov: "UREDBA o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M 2/1\
-  \ na odseku med Roga\u0161ko Slatino in Trojanami (delno prenehala veljati) (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M 2/1
+  na odseku med Roga\u0161ko Slatino in Trojanami (delno prenehala veljati) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/01/2017-01-0159-2010-01-2065-npb1
 sopPredpisa: 2017-01-0159

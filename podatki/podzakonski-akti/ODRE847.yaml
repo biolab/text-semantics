@@ -1,16 +1,9 @@
 Text file: ODRE847.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 949705200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-02-04 23:00:00
 idPredpisa: ODRE847
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi namakanja na kompleksu imenovanem Namakalni sistem Ja\u0161\
-  enca\u2013Po\u017Eeg"
+naslov: "ODREDBO  o uvedbi namakanja na kompleksu imenovanem Namakalni sistem Ja\u0161enca\u2013Po\u017Eeg"
 npbNum: 0
 path: /2000/04/2000-01-0466
 sopPredpisa: 2000-01-0466

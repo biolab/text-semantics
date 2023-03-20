@@ -1,16 +1,10 @@
 Text file: ODRE928.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 958168800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-05-12 22:00:00
 idPredpisa: ODRE928
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o prepovedi vznemirjanja zavarovanih vrst ptic na stenah na obmo\u010D\
-  ju Kra\u0161kega roba"
+naslov: "ODREDBO o prepovedi vznemirjanja zavarovanih vrst ptic na stenah na obmo\u010Dju
+  Kra\u0161kega roba"
 npbNum: 0
 path: /2000/18/2000-01-1896
 sopPredpisa: 2000-01-1896

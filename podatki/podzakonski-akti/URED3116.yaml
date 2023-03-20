@@ -1,17 +1,11 @@
 Text file: URED3116.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1072306800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-24 23:00:00
 idPredpisa: URED3116
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopku pridobitve uvoznega dovoljenja za uvoz dolo\u010Denih tekstilnih\
-  \ izdelkov s poreklom iz Srbije in \u010Crne Gore ali Severne Koreje po vstopu Republike\
-  \ Slovenije v Evropsko skupnost"
+naslov: "UREDBO o postopku pridobitve uvoznega dovoljenja za uvoz dolo\u010Denih tekstilnih
+  izdelkov s poreklom iz Srbije in \u010Crne Gore ali Severne Koreje po vstopu Republike
+  Slovenije v Evropsko skupnost"
 npbNum: 0
 path: /2003/55/2003-01-5565
 sopPredpisa: 2003-01-5565

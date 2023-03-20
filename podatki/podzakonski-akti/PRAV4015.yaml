@@ -1,16 +1,10 @@
 Text file: PRAV4015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1180476000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-29 22:00:00
 idPredpisa: PRAV4015
 idPredpisaChng: PRAV4015
-instock: .nan
-naslov: "PRAVILNIK o prijavi overiteljev in vodenju registra overiteljev v Republiki\
-  \ Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o prijavi overiteljev in vodenju registra overiteljev v Republiki
+  Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2007/22/2007-01-2299-2001-01-4859-npb1
 sopPredpisa: 2007-01-2299

@@ -1,20 +1,14 @@
 Text file: AKT_1066.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1541804400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-11-09 23:00:00
 idPredpisa: AKT_1066
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote za geografsko\
-  \ obmo\u010Dje Ob\u010Dine Mozirje \u2013 mikrosistem Osnovna \u0161ola Mozirje\
-  \ in mikrosistem Podro\u017Enik Mozirje, Ob\u010Dine Lu\u010De \u2013 mikrosistem\
-  \ daljinskega ogrevanja s toplovodnim omre\u017Ejem Lu\u010De \u2013 ureditveno\
-  \ obmo\u010Dje 3.15 (UN 12) ter naselja Sol\u010Dava \u2013 mikrosistem daljinskega\
-  \ ogrevanja s toplovodnim omre\u017Ejem Sol\u010Dava v Ob\u010Dini Sol\u010Dava"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote za geografsko
+  obmo\u010Dje Ob\u010Dine Mozirje \u2013 mikrosistem Osnovna \u0161ola Mozirje in
+  mikrosistem Podro\u017Enik Mozirje, Ob\u010Dine Lu\u010De \u2013 mikrosistem daljinskega
+  ogrevanja s toplovodnim omre\u017Ejem Lu\u010De \u2013 ureditveno obmo\u010Dje 3.15
+  (UN 12) ter naselja Sol\u010Dava \u2013 mikrosistem daljinskega ogrevanja s toplovodnim
+  omre\u017Ejem Sol\u010Dava v Ob\u010Dini Sol\u010Dava"
 npbNum: 0
 path: /2018/33/2018-01-3335
 sopPredpisa: 2018-01-3335

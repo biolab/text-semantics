@@ -1,16 +1,10 @@
 Text file: URED3275.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1135378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-23 23:00:00
 idPredpisa: URED3275
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu izdaje dovoljenja za gibanje in zadr\u017Eevanje na\
-  \ letali\u0161\u010Dih"
+naslov: "UREDBO o na\u010Dinu izdaje dovoljenja za gibanje in zadr\u017Eevanje na
+  letali\u0161\u010Dih"
 npbNum: 0
 path: /2005/48/2005-01-4807
 sopPredpisa: 2005-01-4807

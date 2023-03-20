@@ -1,18 +1,11 @@
 Text file: URED8198.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640386800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-24 23:00:00
 idPredpisa: URED8198
 idPredpisaChng: URED8198
-instock: .nan
-naslov: "UREDBA o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov\
-  \ prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2021 in\
-  \ 2022 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1) (delno prenehala\
-  \ veljati)"
+naslov: "UREDBA o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov
+  prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2021 in 2022
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1) (delno prenehala veljati)"
 npbNum: 1
 path: /2021/41/2021-01-4135-2021-01-0020-npb1
 sopPredpisa: 2021-01-4135

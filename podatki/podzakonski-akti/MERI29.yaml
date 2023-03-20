@@ -1,14 +1,8 @@
 Text file: MERI29.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1185314400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-24 22:00:00
 idPredpisa: MERI29
 idPredpisaChng: null
-instock: .nan
 naslov: "MERILA za pove\u010Dan obseg dela"
 npbNum: 0
 path: /2007/36/2007-01-3654

@@ -1,17 +1,11 @@
 Text file: URED3837.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1120514400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-04 22:00:00
 idPredpisa: URED3837
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu, predmetu in pogojih izvajanja dr\u017Eavne gospodarske\
-  \ javne slu\u017Ebe zbiranja odpadkov s plovil na obmo\u010Dju koprskega tovornega\
-  \ pristani\u0161\u010Da"
+naslov: "UREDBO o na\u010Dinu, predmetu in pogojih izvajanja dr\u017Eavne gospodarske
+  javne slu\u017Ebe zbiranja odpadkov s plovil na obmo\u010Dju koprskega tovornega
+  pristani\u0161\u010Da"
 npbNum: 0
 path: /2005/26/2005-01-2604
 sopPredpisa: 2005-01-2604

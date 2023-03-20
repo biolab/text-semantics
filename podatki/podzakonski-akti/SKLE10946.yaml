@@ -1,12 +1,10 @@
 Text file: SKLE10946.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10946
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju predsednika in \u010Dlanov Dr\u017Eavne volilne komisije\
-  \ ter njihovih namestnikov"
+naslov: "SKLEP o imenovanju predsednika in \u010Dlanov Dr\u017Eavne volilne komisije
+  ter njihovih namestnikov"
 npbNum: 0
 path: /2016/31/2016-01-3137
 sopPredpisa: 2016-01-3137

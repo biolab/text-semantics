@@ -1,18 +1,16 @@
 Text file: AKT_1235.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1235
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDIL: raz\u0161iritev obsega parlamentarne preiskave za ugotovitev dejanskega\
-  \ stanja in morebitne politi\u010Dne odgovornosti nosilcev javnih funkcij zaradi\
-  \ suma nedopustnega politi\u010Dnega vme\u0161avanja v delo slovenske policije,\
-  \ policijskih enot, specializiranih enot policije in preiskovalnih skupin in zaradi\
-  \ suma politi\u010Dnega vplivanja na potek oziroma izid predkazenskih in drugih\
-  \ postopkov, za obdobje od 13.\_marca 2020 do dneva odreditve te raz\u0161iritve\
-  \ predmetne parlamentarne preiskave in za morebitno spremembo veljavne zakonodaje,\
-  \ ki ureja organizacijo, delovanje, vodenje, naloge in pooblastila slovenske policije."
+naslov: "ODREDIL: raz\u0161iritev obsega parlamentarne preiskave za ugotovitev dejanskega
+  stanja in morebitne politi\u010Dne odgovornosti nosilcev javnih funkcij zaradi suma
+  nedopustnega politi\u010Dnega vme\u0161avanja v delo slovenske policije, policijskih
+  enot, specializiranih enot policije in preiskovalnih skupin in zaradi suma politi\u010Dnega
+  vplivanja na potek oziroma izid predkazenskih in drugih postopkov, za obdobje od
+  13.\_marca 2020 do dneva odreditve te raz\u0161iritve predmetne parlamentarne preiskave
+  in za morebitno spremembo veljavne zakonodaje, ki ureja organizacijo, delovanje,
+  vodenje, naloge in pooblastila slovenske policije."
 npbNum: 0
 path: /2021/36/2021-01-3621
 sopPredpisa: 2021-01-3621

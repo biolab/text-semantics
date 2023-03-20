@@ -1,16 +1,10 @@
 Text file: SKLE962.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 955058400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-06 22:00:00
 idPredpisa: SKLE962
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEPE  skup\u0161\u010Dine o zaklju\u010Dnem ra\u010Dunu Zavoda za pokojninsko\
-  \ in invalidsko zavarovanje Slovenije za leto 1999"
+naslov: "SKLEPE  skup\u0161\u010Dine o zaklju\u010Dnem ra\u010Dunu Zavoda za pokojninsko
+  in invalidsko zavarovanje Slovenije za leto 1999"
 npbNum: 0
 path: /2000/14/2000-01-1458
 sopPredpisa: 2000-01-1458

@@ -1,14 +1,8 @@
 Text file: PRAV6429.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1125352800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-29 22:00:00
 idPredpisa: PRAV6429
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o ozna\u010Dbi geografskega porekla Kra\u0161ki med"
 npbNum: 0
 path: /2005/35/2005-01-3556

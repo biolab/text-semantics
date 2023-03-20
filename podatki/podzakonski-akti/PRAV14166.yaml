@@ -1,14 +1,8 @@
 Text file: PRAV14166.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-12 23:00:00
 idPredpisa: PRAV14166
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o napredovanju delavcev zaposlenih
   v zdravstvu
 npbNum: 0

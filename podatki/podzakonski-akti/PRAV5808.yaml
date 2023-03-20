@@ -1,20 +1,11 @@
 Text file: PRAV5808.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080770400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080342000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-03-31 22:00:00
+datumZacetkaVelj: 2004-03-26 23:00:00
 idPredpisa: PRAV5808
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za vrednotenje materialnih stro\u0161kov srednjim \u0161\
-  olam, ki izvajajo gimnazijske programe ter programe za pridobitev poklicne in srednje\
-  \ strokovne izobrazbe"
+naslov: "PRAVILNIK o merilih za vrednotenje materialnih stro\u0161kov srednjim \u0161olam,
+  ki izvajajo gimnazijske programe ter programe za pridobitev poklicne in srednje
+  strokovne izobrazbe"
 npbNum: 0
 path: /2004/12/2004-01-1257
 sopPredpisa: 2004-01-1257

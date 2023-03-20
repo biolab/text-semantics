@@ -1,14 +1,8 @@
 Text file: PRAV6606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1168556400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-11 23:00:00
 idPredpisa: PRAV6606
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o pogojih, ki jih morajo izpolnjevati zdravstveni zavodi in zasebni
   zdravstveni delavci za izvajanje programov specializacij
 npbNum: 0

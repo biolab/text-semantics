@@ -1,18 +1,12 @@
 Text file: SKLE6048.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141081200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-02-27 23:00:00
 idPredpisa: SKLE6048
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ustanovitvi, organizaciji in delovnem podro\u010Dju komisije Vlade\
-  \ Republike Slovenije za obravnavanje predlogov predpisov z vidika dolo\u010Db Zakona\
-  \ o javni rabi sloven\u0161\u010Dine ter ciljev jezikovne politike in jezikovnega\
-  \ na\u010Drtovanja"
+naslov: "SKLEP o ustanovitvi, organizaciji in delovnem podro\u010Dju komisije Vlade
+  Republike Slovenije za obravnavanje predlogov predpisov z vidika dolo\u010Db Zakona
+  o javni rabi sloven\u0161\u010Dine ter ciljev jezikovne politike in jezikovnega
+  na\u010Drtovanja"
 npbNum: 0
 path: /2006/08/2006-01-0842
 sopPredpisa: 2006-01-0842

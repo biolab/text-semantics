@@ -1,17 +1,8 @@
 Text file: SKLE12606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640905200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639782000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-30 23:00:00
+datumZacetkaVelj: 2021-12-17 23:00:00
 idPredpisa: SKLE12606
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic o preudarnih politikah prejemkov v skladu z Direktivo
   2013/36/EU
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: PRAV8369.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1181167200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-06 22:00:00
 idPredpisa: PRAV8369
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu letnih na\u010Drtov lovsko upravljavskih obmo\u010D\
-  ij v Republiki Sloveniji za leto 2007"
+naslov: "PRAVILNIK o sprejemu letnih na\u010Drtov lovsko upravljavskih obmo\u010Dij
+  v Republiki Sloveniji za leto 2007"
 npbNum: 0
 path: /2007/26/2007-01-2696
 sopPredpisa: 2007-01-2696

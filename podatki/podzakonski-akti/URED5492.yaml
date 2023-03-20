@@ -1,19 +1,10 @@
 Text file: URED5492.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1305669600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1288389600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2011-05-17 22:00:00
+datumZacetkaVelj: 2010-10-29 22:00:00
 idPredpisa: URED5492
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o informacijah o var\u010Dni porabi goriva in emisijah CO2, ki so\
-  \ na voljo potro\u0161nikom ob nakupu novih osebnih vozil"
+naslov: "UREDBO o informacijah o var\u010Dni porabi goriva in emisijah CO2, ki so
+  na voljo potro\u0161nikom ob nakupu novih osebnih vozil"
 npbNum: 0
 path: /2010/43/2010-01-4333
 sopPredpisa: 2010-01-4333

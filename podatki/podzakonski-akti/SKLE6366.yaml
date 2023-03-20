@@ -1,16 +1,10 @@
 Text file: SKLE6366.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141426800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-03-03 23:00:00
 idPredpisa: SKLE6366
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o pogojih za pridobitev in u\u017Eivanje pravice do varstvenega dodatka\
-  \ v letu 2006"
+naslov: "SKLEP o pogojih za pridobitev in u\u017Eivanje pravice do varstvenega dodatka
+  v letu 2006"
 npbNum: 0
 path: /2006/09/2006-01-0919
 sopPredpisa: 2006-01-0919

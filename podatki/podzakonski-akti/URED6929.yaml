@@ -1,16 +1,10 @@
 Text file: URED6929.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1509141600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-27 22:00:00
 idPredpisa: URED6929
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu in obveznostih izvajanja javne slu\u017Ebe kmetijskega\
-  \ svetovanja"
+naslov: "UREDBO o na\u010Dinu in obveznostih izvajanja javne slu\u017Ebe kmetijskega
+  svetovanja"
 npbNum: 0
 path: /2017/28/2017-01-2886
 sopPredpisa: 2017-01-2886

@@ -1,16 +1,10 @@
 Text file: URED7327.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1476482400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-14 22:00:00
 idPredpisa: URED7327
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Son\u010Dni elektrarni\
-  \ Bah Dragica Bah s. p. iz vrtine B-1/09"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Son\u010Dni elektrarni
+  Bah Dragica Bah s. p. iz vrtine B-1/09"
 npbNum: 0
 path: /2016/27/2016-01-2793
 sopPredpisa: 2016-01-2793

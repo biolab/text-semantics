@@ -1,16 +1,10 @@
 Text file: PRAV9288.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1231974000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-01-14 23:00:00
 idPredpisa: PRAV9288
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o metodah merjenja zemlji\u0161\u010D in o tehni\u010Dnih tolerancah\
-  \ meritev"
+naslov: "PRAVILNIK o metodah merjenja zemlji\u0161\u010D in o tehni\u010Dnih tolerancah
+  meritev"
 npbNum: 0
 path: /2008/58/2008-01-5805
 sopPredpisa: 2008-01-5805

@@ -1,16 +1,9 @@
 Text file: PRAV9259.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226962800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-17 23:00:00
 idPredpisa: PRAV9259
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vajah na podro\u010Dju varstva pred naravnimi in drugimi nesre\u010D\
-  ami"
+naslov: "PRAVILNIK o vajah na podro\u010Dju varstva pred naravnimi in drugimi nesre\u010Dami"
 npbNum: 0
 path: /2008/44/2008-01-4426
 sopPredpisa: 2008-01-4426

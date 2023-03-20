@@ -1,16 +1,10 @@
 Text file: PRAV5687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1076022000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-05 23:00:00
 idPredpisa: PRAV5687
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o smeri in stopnji izobrazbe vzgojiteljev in drugih strokovnih\
-  \ delavcev v domovih za u\u010Dence in dija\u0161kih domovih"
+naslov: "PRAVILNIK o smeri in stopnji izobrazbe vzgojiteljev in drugih strokovnih
+  delavcev v domovih za u\u010Dence in dija\u0161kih domovih"
 npbNum: 0
 path: /2004/04/2004-01-0439
 sopPredpisa: 2004-01-0439

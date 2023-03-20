@@ -1,12 +1,10 @@
 Text file: SKLE10623.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10623
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Katmanduju,\
-  \ v Zvezni demokrati\u010Dni republiki Nepal"
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Katmanduju,
+  v Zvezni demokrati\u010Dni republiki Nepal"
 npbNum: 0
 path: /2016/25/2016-01-2561
 sopPredpisa: 2016-01-2561

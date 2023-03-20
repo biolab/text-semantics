@@ -1,17 +1,11 @@
 Text file: ODRE2473.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-27 23:00:00
 idPredpisa: ODRE2473
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine nadomestila na hektar za kritje stro\u0161\
-  kov za vzdr\u017Eevanje osu\u0161evalnih sistemov in delovanje ter vzdr\u017Eevanje\
-  \ namakalnih sistemov v letu 2020 "
+naslov: "ODREDBO o dolo\u010Ditvi vi\u0161ine nadomestila na hektar za kritje stro\u0161kov
+  za vzdr\u017Eevanje osu\u0161evalnih sistemov in delovanje ter vzdr\u017Eevanje
+  namakalnih sistemov v letu 2020 "
 npbNum: 0
 path: /2019/36/2019-01-3661
 sopPredpisa: 2019-01-3661

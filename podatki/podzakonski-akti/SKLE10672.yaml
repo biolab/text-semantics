@@ -1,19 +1,10 @@
 Text file: SKLE10672.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1448060400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2015-12-31 23:00:00
+datumZacetkaVelj: 2015-11-20 23:00:00
 idPredpisa: SKLE10672
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o skupnih postopkih in\_metodologijah za proces nadzorni\u0161\
-  kega pregledovanja in ovrednotenja (SREP)"
+naslov: "SKLEP o uporabi Smernic o skupnih postopkih in\_metodologijah za proces nadzorni\u0161kega
+  pregledovanja in ovrednotenja (SREP)"
 npbNum: 0
 path: /2015/34/2015-01-3435
 sopPredpisa: 2015-01-3435

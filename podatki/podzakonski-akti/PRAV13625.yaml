@@ -1,16 +1,10 @@
 Text file: PRAV13625.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-21 22:00:00
 idPredpisa: PRAV13625
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o enotni uniformi, ozna\u010Dbah in slu\u017Ebeni izkaznici ob\u010D\
-  inskih redarjev"
+naslov: "PRAVILNIK o enotni uniformi, ozna\u010Dbah in slu\u017Ebeni izkaznici ob\u010Dinskih
+  redarjev"
 npbNum: 0
 path: /2019/17/2019-01-1720
 sopPredpisa: 2019-01-1720

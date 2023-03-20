@@ -1,16 +1,10 @@
 Text file: URED3249.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1081288800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-06 22:00:00
 idPredpisa: URED3249
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi kvote delovnih dovoljenj za leto 2004, s katero se\
-  \ omejuje \u0161tevilo tujcev na trgu dela"
+naslov: "UREDBO o dolo\u010Ditvi kvote delovnih dovoljenj za leto 2004, s katero se
+  omejuje \u0161tevilo tujcev na trgu dela"
 npbNum: 0
 path: /2004/14/2004-01-1433
 sopPredpisa: 2004-01-1433

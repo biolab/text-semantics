@@ -1,16 +1,10 @@
 Text file: PRAV12819.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1460152800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-08 22:00:00
 idPredpisa: PRAV12819
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o osnovno\u0161olskem izobra\u017Eevanju u\u010Dencev s\_posebnimi\
-  \ potrebami na domu"
+naslov: "PRAVILNIK o osnovno\u0161olskem izobra\u017Eevanju u\u010Dencev s\_posebnimi
+  potrebami na domu"
 npbNum: 0
 path: /2016/08/2016-01-0839
 sopPredpisa: 2016-01-0839

@@ -1,20 +1,14 @@
 Text file: SKLE407.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 941148000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-10-28 22:00:00
 idPredpisa: SKLE407
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) osnutka sprememb in dopolnitev lokacijskega na\u010D\
-  rta za avtocesto Arja vas\u2013Lo\u010Dica pri Vranskem za gradnjo avtocestne baze\
-  \ b) predloga sprememb in dopolnitev prostorskih sestavin dolgoro\u010Dnega plana\
-  \ Ob\u010Dine \u017Dalec za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017E\
-  benega plana Ob\u010Dine \u017Dalec za obmo\u010Dje Ob\u010Dine Vransko, v delu,\
-  \ ki ga opredeljuje osnutek sprememb in dopolnitev lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi a) osnutka sprememb in dopolnitev lokacijskega na\u010Drta
+  za avtocesto Arja vas\u2013Lo\u010Dica pri Vranskem za gradnjo avtocestne baze b)
+  predloga sprememb in dopolnitev prostorskih sestavin dolgoro\u010Dnega plana Ob\u010Dine
+  \u017Dalec za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana
+  Ob\u010Dine \u017Dalec za obmo\u010Dje Ob\u010Dine Vransko, v delu, ki ga opredeljuje
+  osnutek sprememb in dopolnitev lokacijskega na\u010Drta"
 npbNum: 0
 path: /1999/42/1999-01-4259
 sopPredpisa: 1999-01-4259

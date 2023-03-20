@@ -1,17 +1,11 @@
 Text file: PRAV8814.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1243029600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-22 22:00:00
 idPredpisa: PRAV8814
 idPredpisaChng: PRAV8814
-instock: .nan
-naslov: "PRAVILNIK o obrazcu informativnega izra\u010Duna dohodnine in obrazcu napovedi\
-  \ za odmero dohodnine za leto 2008 (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o obrazcu informativnega izra\u010Duna dohodnine in obrazcu napovedi
+  za odmero dohodnine za leto 2008 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2009/18/2009-01-1872-2008-01-4699-npb1
 sopPredpisa: 2009-01-1872

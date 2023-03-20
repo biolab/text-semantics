@@ -1,16 +1,10 @@
 Text file: PRAV9588.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1307397600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-06 22:00:00
 idPredpisa: PRAV9588
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopku izdaje dovoljenj za izvoz in iznos predmetov kulturne\
-  \ dedi\u0161\u010Dine"
+naslov: "PRAVILNIK o postopku izdaje dovoljenj za izvoz in iznos predmetov kulturne
+  dedi\u0161\u010Dine"
 npbNum: 0
 path: /2011/11/2011-01-1166
 sopPredpisa: 2011-01-1166

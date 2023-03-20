@@ -1,12 +1,10 @@
 Text file: RESO99.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO99
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o nacionalnem programu \u0161porta v Republiki Sloveniji za obdobje\
-  \ 2014\u20132023 (ReNP\u016014\u201323)"
+naslov: "RESOLUCIJO o nacionalnem programu \u0161porta v Republiki Sloveniji za obdobje
+  2014\u20132023 (ReNP\u016014\u201323)"
 npbNum: 0
 path: /2014/10/2014-01-1071
 sopPredpisa: 2014-01-1071

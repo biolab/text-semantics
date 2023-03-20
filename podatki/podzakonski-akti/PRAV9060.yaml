@@ -1,16 +1,10 @@
 Text file: PRAV9060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-06-20 22:00:00
 idPredpisa: PRAV9060
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi poklicev, za katere se pred prvim opravljanjem\
-  \ storitev preverja poklicna kvalifikacija ponudnika storitev"
+naslov: "PRAVILNIK o dolo\u010Ditvi poklicev, za katere se pred prvim opravljanjem
+  storitev preverja poklicna kvalifikacija ponudnika storitev"
 npbNum: 0
 path: /2008/26/2008-01-2689
 sopPredpisa: 2008-01-2689

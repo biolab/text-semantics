@@ -1,16 +1,10 @@
 Text file: PRAV2990.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 961106400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-15 22:00:00
 idPredpisa: PRAV2990
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILA  o pogojih, merilih in postopku za sprejem in podalj\u0161anje bivanja\
-  \ v \u0161tudentskih domovih"
+naslov: "PRAVILA  o pogojih, merilih in postopku za sprejem in podalj\u0161anje bivanja
+  v \u0161tudentskih domovih"
 npbNum: 0
 path: /2000/25/2000-01-2527
 sopPredpisa: 2000-01-2527

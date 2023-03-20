@@ -1,17 +1,11 @@
 Text file: ODRE300.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 954540000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-31 22:00:00
 idPredpisa: ODRE300
 idPredpisaChng: ODRE300
-instock: .nan
-naslov: "ODREDBA o videzu in uporabi certifikacijskega znaka za ozna\u010Devanje proizvodov,\
-  \ ki jih je treba certificirati (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "ODREDBA o videzu in uporabi certifikacijskega znaka za ozna\u010Devanje proizvodov,
+  ki jih je treba certificirati (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2000/11/2000-01-1109-1996-01-3164-npb2
 sopPredpisa: 2000-01-1109

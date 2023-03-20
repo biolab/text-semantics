@@ -1,14 +1,8 @@
 Text file: PRAV14328.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-16 22:00:00
 idPredpisa: PRAV14328
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o postopkih za izdajo soglasja k zadol\u017Eevanju ob\u010Din"
 npbNum: 0
 path: /2021/23/2021-01-2337

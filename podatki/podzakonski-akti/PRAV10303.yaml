@@ -1,16 +1,10 @@
 Text file: PRAV10303.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1307484000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-07 22:00:00
 idPredpisa: PRAV10303
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pravilih in postopkih pri obravnavanju nasilja v dru\u017Eini\
-  \ pri izvajanju zdravstvene dejavnosti"
+naslov: "PRAVILNIK o pravilih in postopkih pri obravnavanju nasilja v dru\u017Eini
+  pri izvajanju zdravstvene dejavnosti"
 npbNum: 0
 path: /2011/18/2011-01-1876
 sopPredpisa: 2011-01-1876

@@ -1,14 +1,8 @@
 Text file: SKLE12762.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646866800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-09 23:00:00
 idPredpisa: SKLE12762
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o uvedbi za\u010Dasne za\u0161\u010Dite za razseljene osebe iz Ukrajine"
 npbNum: 0
 path: /2022/06/2022-01-0648

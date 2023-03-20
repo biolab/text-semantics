@@ -1,16 +1,10 @@
 Text file: URED2919.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: URED2919
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o standardih o stopnji potrebnega znanja slovenskega jezika za orientacijska\
-  \ delovna mesta na podro\u010Dju zdravstva"
+naslov: "UREDBO o standardih o stopnji potrebnega znanja slovenskega jezika za orientacijska
+  delovna mesta na podro\u010Dju zdravstva"
 npbNum: 0
 path: /2004/18/2004-01-1872
 sopPredpisa: 2004-01-1872

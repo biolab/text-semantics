@@ -1,16 +1,10 @@
 Text file: URED3348.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: URED3348
 idPredpisaChng: URED3348
-instock: .nan
-naslov: "UREDBA o merilih za dolo\u010Danje oprostitev pri pla\u010Dilih socialno\
-  \ varstvenih storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "UREDBA o merilih za dolo\u010Danje oprostitev pri pla\u010Dilih socialno
+  varstvenih storitev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2015/17/2015-01-1762-2004-01-4596-npb5
 sopPredpisa: 2015-01-1762

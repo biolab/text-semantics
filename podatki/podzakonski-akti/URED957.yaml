@@ -1,17 +1,11 @@
 Text file: URED957.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 904341600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-08-28 22:00:00
 idPredpisa: URED957
 idPredpisaChng: URED957
-instock: .nan
-naslov: "UREDBA o na\u010Dinu, pogojih in postopku uporabe obveznic Republike Slovenije\
-  \ za izvajanje programa prestrukturiranja podjetij (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "UREDBA o na\u010Dinu, pogojih in postopku uporabe obveznic Republike Slovenije
+  za izvajanje programa prestrukturiranja podjetij (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /1998/27/1998-01-2798-1998-01-1817-npb1
 sopPredpisa: 1998-01-2798

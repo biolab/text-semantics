@@ -1,16 +1,10 @@
 Text file: URED1987.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028325600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-02 22:00:00
 idPredpisa: URED1987
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopkih zagotavljanja enotnih tehnolo\u0161kih zahtev na podro\u010D\
-  ju skupnih informacijskih re\u0161itev v organih dr\u017Eavne uprave"
+naslov: "UREDBO o postopkih zagotavljanja enotnih tehnolo\u0161kih zahtev na podro\u010Dju
+  skupnih informacijskih re\u0161itev v organih dr\u017Eavne uprave"
 npbNum: 0
 path: /2002/30/2002-01-3042
 sopPredpisa: 2002-01-3042

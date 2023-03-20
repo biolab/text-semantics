@@ -1,16 +1,9 @@
 Text file: PRAV12714.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1568412000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-09-13 22:00:00
 idPredpisa: PRAV12714
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o nadzoru vgrajenih sistemov aktivne po\u017Earne za\u0161\u010D\
-  ite"
+naslov: "PRAVILNIK o nadzoru vgrajenih sistemov aktivne po\u017Earne za\u0161\u010Dite"
 npbNum: 0
 path: /2019/24/2019-01-2437
 sopPredpisa: 2019-01-2437

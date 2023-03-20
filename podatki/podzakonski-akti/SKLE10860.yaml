@@ -1,12 +1,10 @@
 Text file: SKLE10860.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10860
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni veljavnosti spremenjenega programa katoli\u0161ke osnovne \u0161\
-  ole v Zavodu sv. Stanislava Ljubljana"
+naslov: "SKLEP o javni veljavnosti spremenjenega programa katoli\u0161ke osnovne \u0161ole
+  v Zavodu sv. Stanislava Ljubljana"
 npbNum: 0
 path: /2016/24/2016-01-2442
 sopPredpisa: 2016-01-2442

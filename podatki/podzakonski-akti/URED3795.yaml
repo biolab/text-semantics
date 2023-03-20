@@ -1,21 +1,15 @@
 Text file: URED3795.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1600466400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-09-18 22:00:00
 idPredpisa: URED3795
 idPredpisaChng: URED3795
-instock: .nan
-naslov: "UREDBA o rudarskih pravicah za gospodarsko izkori\u0161\u010Danje mineralnih\
-  \ surovin na pridobivalnih prostorih: La\u017Ee, Ob\u010Dina Diva\u010Da; Gri\u017E\
-  a, Mestna ob\u010Dina Koper; Klanci, Ob\u010Dina Grosuplje; Debela gri\u017Ea pri\
-  \ Povirju, Ob\u010Dina Se\u017Eana; Lancova vas, Ob\u010Dina Videm; Obrovnik, Ob\u010D\
-  ina Oplotnica; Velika Pire\u0161ica, Ob\u010Dina \u017Dalec; Bu\u010Dka, Ob\u010D\
-  ina \u0160kocjan, in Konji\u0161\u010De, Ob\u010Dina Gornja Radgona (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o rudarskih pravicah za gospodarsko izkori\u0161\u010Danje mineralnih
+  surovin na pridobivalnih prostorih: La\u017Ee, Ob\u010Dina Diva\u010Da; Gri\u017Ea,
+  Mestna ob\u010Dina Koper; Klanci, Ob\u010Dina Grosuplje; Debela gri\u017Ea pri Povirju,
+  Ob\u010Dina Se\u017Eana; Lancova vas, Ob\u010Dina Videm; Obrovnik, Ob\u010Dina Oplotnica;
+  Velika Pire\u0161ica, Ob\u010Dina \u017Dalec; Bu\u010Dka, Ob\u010Dina \u0160kocjan,
+  in Konji\u0161\u010De, Ob\u010Dina Gornja Radgona (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/22/2020-01-2255-2005-01-2603-npb1
 sopPredpisa: 2020-01-2255

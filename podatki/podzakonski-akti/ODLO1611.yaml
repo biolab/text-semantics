@@ -1,17 +1,11 @@
 Text file: ODLO1611.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1621029600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-14 22:00:00
 idPredpisa: ODLO1611
 idPredpisaChng: ODLO1611
-instock: .nan
-naslov: "ODLOK o razglasitvi del arhitekta Jo\u017Eeta Ple\u010Dnika v Ljubljani za\
-  \ kulturne spomenike dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 5)"
+naslov: "ODLOK o razglasitvi del arhitekta Jo\u017Eeta Ple\u010Dnika v Ljubljani za
+  kulturne spomenike dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 5)"
 npbNum: 5
 path: /2021/16/2021-01-1640-2009-01-2500-npb5
 sopPredpisa: 2021-01-1640

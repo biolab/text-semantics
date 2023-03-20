@@ -1,16 +1,10 @@
 Text file: URED1159.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 741736800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-07-03 22:00:00
 idPredpisa: URED1159
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izdaji in uporabi obveznic Republike Slovenije za poravnavanje obveznosti\
-  \ iz neizpla\u010Danih deviznih vlog"
+naslov: "UREDBO o izdaji in uporabi obveznic Republike Slovenije za poravnavanje obveznosti
+  iz neizpla\u010Danih deviznih vlog"
 npbNum: 0
 path: /1993/15/1993-01-1506
 sopPredpisa: 1993-01-1506

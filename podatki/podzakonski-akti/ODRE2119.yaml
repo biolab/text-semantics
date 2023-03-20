@@ -1,16 +1,10 @@
 Text file: ODRE2119.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1329260400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-14 23:00:00
 idPredpisa: ODRE2119
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o razveljavitvi Odredbe o dolo\u010Ditvi seznama nujno potrebnih\
-  \ zdravil za uporabo v veterinarski medicini"
+naslov: "ODREDBO o razveljavitvi Odredbe o dolo\u010Ditvi seznama nujno potrebnih
+  zdravil za uporabo v veterinarski medicini"
 npbNum: 0
 path: /2012/04/2012-01-0419
 sopPredpisa: 2012-01-0419

@@ -1,14 +1,8 @@
 Text file: SKLE9896.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1389394800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-01-10 23:00:00
 idPredpisa: SKLE9896
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o povra\u010Dilu potnih stro\u0161kov"
 npbNum: 0
 path: /2014/00/2014-01-0035

@@ -1,17 +1,10 @@
 Text file: PRAV2565.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-13 22:00:00
 idPredpisa: PRAV2565
 idPredpisaChng: PRAV2565
-instock: .nan
-naslov: "PRAVILNIK o opravljanju strokovnega izpita za zdravstvenega in\u0161pektorja\
-  \ (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 3)"
+naslov: "PRAVILNIK o opravljanju strokovnega izpita za zdravstvenega in\u0161pektorja
+  (delno prenehal veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2004/33/2004-01-3332-2000-01-2523-npb3
 sopPredpisa: 2004-01-3332

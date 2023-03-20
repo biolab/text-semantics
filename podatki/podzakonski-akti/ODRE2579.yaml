@@ -1,17 +1,11 @@
 Text file: ODRE2579.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1595541600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-23 22:00:00
 idPredpisa: ODRE2579
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o prenehanju veljavnosti Odredbe o za\u010Dasnih ukrepih v zvezi\
-  \ z izvajanjem ukrepov glede najmanj\u0161ega obsega zdravstvenega varstva \u017E\
-  ivali ter ozna\u010Devanja in registracije \u017Eivali"
+naslov: "ODREDBO o prenehanju veljavnosti Odredbe o za\u010Dasnih ukrepih v zvezi
+  z izvajanjem ukrepov glede najmanj\u0161ega obsega zdravstvenega varstva \u017Eivali
+  ter ozna\u010Devanja in registracije \u017Eivali"
 npbNum: 0
 path: /2020/19/2020-01-1939
 sopPredpisa: 2020-01-1939

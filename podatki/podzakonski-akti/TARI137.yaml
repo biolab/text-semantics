@@ -1,14 +1,8 @@
 Text file: TARI137.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1329260400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-14 23:00:00
 idPredpisa: TARI137
 idPredpisaChng: null
-instock: .nan
 naslov: "TARIFO o pla\u010Dilih za izvajanje po\u0161tnih storitev za leto 2012"
 npbNum: 0
 path: /2012/04/2012-01-0425

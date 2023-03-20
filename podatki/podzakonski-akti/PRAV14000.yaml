@@ -1,14 +1,8 @@
 Text file: PRAV14000.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1593208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-26 22:00:00
 idPredpisa: PRAV14000
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o opravljanju strokovnega izpita iz varnosti in zdravja pri delu
 npbNum: 0
 path: /2020/13/2020-01-1349

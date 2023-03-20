@@ -1,16 +1,10 @@
 Text file: PRAV8759.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1251151200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-08-24 22:00:00
 idPredpisa: PRAV8759
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o natan\u010Dnej\u0161ih pogojih, ki jih morajo izpolnjevati specializirane\
-  \ prodajalne za promet z zdravili na drobno, in o postopku ugotavljanja teh pogojev"
+naslov: "PRAVILNIK o natan\u010Dnej\u0161ih pogojih, ki jih morajo izpolnjevati specializirane
+  prodajalne za promet z zdravili na drobno, in o postopku ugotavljanja teh pogojev"
 npbNum: 0
 path: /2009/30/2009-01-3020
 sopPredpisa: 2009-01-3020

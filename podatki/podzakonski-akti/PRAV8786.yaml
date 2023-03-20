@@ -1,17 +1,11 @@
 Text file: PRAV8786.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1210975200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-05-16 22:00:00
 idPredpisa: PRAV8786
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in\
-  \ zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta\
-  \ 2007"
+naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in
+  zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta
+  2007"
 npbNum: 0
 path: /2008/20/2008-01-2070
 sopPredpisa: 2008-01-2070

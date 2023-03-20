@@ -1,14 +1,8 @@
 Text file: ODRE1867.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1022277600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-24 22:00:00
 idPredpisa: ODRE1867
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o prenehanju veljavnosti odredbe o vrstah meril, za katere so obvezne
   odobritve tipa in overitve
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: SKLE842.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 888534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-02-26 23:00:00
 idPredpisa: SKLE842
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o izro\u010Ditvi bankovca za 200 tolarjev v obtok"
 npbNum: 0
 path: /1998/07/1998-01-0720

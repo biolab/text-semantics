@@ -1,16 +1,10 @@
 Text file: AKT_466.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1274479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-21 22:00:00
 idPredpisa: AKT_466
 idPredpisaChng: AKT_466
-instock: .nan
-naslov: "SPLO\u0160NI AKT o kakovosti univerzalne storitve (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "SPLO\u0160NI AKT o kakovosti univerzalne storitve (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/20/2010-01-2063-2007-01-4107-npb1
 sopPredpisa: 2010-01-2063

@@ -1,14 +1,8 @@
 Text file: ODRE2731.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643410800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-28 23:00:00
 idPredpisa: ODRE2731
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o spremembi izobra\u017Eevalnih programov glasbene \u0161ole"
 npbNum: 0
 path: /2022/01/2022-01-0160

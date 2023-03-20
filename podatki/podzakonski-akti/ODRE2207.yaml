@@ -1,16 +1,10 @@
 Text file: ODRE2207.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1361919600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-02-26 23:00:00
 idPredpisa: ODRE2207
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o spremembah in dopolnitvah prilagojenih izobra\u017Eevalnih programov\
-  \ devetletne osnovne \u0161ole"
+naslov: "ODREDBO o spremembah in dopolnitvah prilagojenih izobra\u017Eevalnih programov
+  devetletne osnovne \u0161ole"
 npbNum: 0
 path: /2013/05/2013-01-0570
 sopPredpisa: 2013-01-0570

@@ -1,16 +1,10 @@
 Text file: SKLE12389.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619215200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-23 22:00:00
 idPredpisa: SKLE12389
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ocenjevanju znanja pri strokovnih modulih in dolo\u010Ditvi kon\u010D\
-  ne ocene v vajeni\u0161ki obliki izobra\u017Eevanja v \u0161olskem letu 2020/2021"
+naslov: "SKLEP o ocenjevanju znanja pri strokovnih modulih in dolo\u010Ditvi kon\u010Dne
+  ocene v vajeni\u0161ki obliki izobra\u017Eevanja v \u0161olskem letu 2020/2021"
 npbNum: 0
 path: /2021/12/2021-01-1295
 sopPredpisa: 2021-01-1295

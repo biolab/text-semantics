@@ -1,16 +1,9 @@
 Text file: ODRE2651.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1618005600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-09 22:00:00
 idPredpisa: ODRE2651
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa srednjega poklicnega izobra\u017E\
-  evanja"
+naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa srednjega poklicnega izobra\u017Eevanja"
 npbNum: 0
 path: /2021/10/2021-01-1067
 sopPredpisa: 2021-01-1067

@@ -1,16 +1,10 @@
 Text file: PRAV13272.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: PRAV13272
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Metlika\
-  \ (2018\u20132027)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Metlika
+  (2018\u20132027)"
 npbNum: 0
 path: /2018/40/2018-01-4086
 sopPredpisa: 2018-01-4086

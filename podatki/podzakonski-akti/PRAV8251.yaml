@@ -1,16 +1,10 @@
 Text file: PRAV8251.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167606000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-12-31 23:00:00
 idPredpisa: PRAV8251
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK TARIFA o javni priob\u010Ditvi glasbenih del za javno priob\u010D\
-  itev glasbenih del"
+naslov: "PRAVILNIK TARIFA o javni priob\u010Ditvi glasbenih del za javno priob\u010Ditev
+  glasbenih del"
 npbNum: 0
 path: /2006/59/2006-01-5939
 sopPredpisa: 2006-01-5939

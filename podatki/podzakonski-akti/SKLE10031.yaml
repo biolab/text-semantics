@@ -1,12 +1,10 @@
 Text file: SKLE10031.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10031
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi in imenovanju v 3. okrajni volilni komisiji IV. volilne\
-  \ enote"
+naslov: "SKLEP o razre\u0161itvi in imenovanju v 3. okrajni volilni komisiji IV. volilne
+  enote"
 npbNum: 0
 path: /2014/11/2014-01-1118
 sopPredpisa: 2014-01-1118

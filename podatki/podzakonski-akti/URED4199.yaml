@@ -1,17 +1,11 @@
 Text file: URED4199.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1151100000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-23 22:00:00
 idPredpisa: URED4199
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih\
-  \ zemlji\u0161kih parcelah ob desnem drena\u017Enem jarku Ptujskega jezera v Ob\u010D\
-  ini Ptuj"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih
+  zemlji\u0161kih parcelah ob desnem drena\u017Enem jarku Ptujskega jezera v Ob\u010Dini
+  Ptuj"
 npbNum: 0
 path: /2006/27/2006-01-2792
 sopPredpisa: 2006-01-2792

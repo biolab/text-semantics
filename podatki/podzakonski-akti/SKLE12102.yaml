@@ -1,16 +1,10 @@
 Text file: SKLE12102.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594245600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-08 22:00:00
 idPredpisa: SKLE12102
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o registru osebnih ra\u010Dunov in potrdilu o pravicah iz dodatnega\
-  \ pokojninskega zavarovanja"
+naslov: "SKLEP o registru osebnih ra\u010Dunov in potrdilu o pravicah iz dodatnega
+  pokojninskega zavarovanja"
 npbNum: 0
 path: /2020/15/2020-01-1500
 sopPredpisa: 2020-01-1500

@@ -1,14 +1,8 @@
 Text file: URED5535.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1280527200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-07-30 22:00:00
 idPredpisa: URED5535
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih
   kovancev ob 20. obletnici samostojnosti Republike Slovenije
 npbNum: 0

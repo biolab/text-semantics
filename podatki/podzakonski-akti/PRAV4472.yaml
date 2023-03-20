@@ -1,17 +1,11 @@
 Text file: PRAV4472.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1632520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-24 22:00:00
 idPredpisa: PRAV4472
 idPredpisaChng: PRAV4472
-instock: .nan
-naslov: "PRAVILNIK o sestavljanju letnih poro\u010Dil za prora\u010Dun, prora\u010D\
-  unske uporabnike in druge osebe javnega prava (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 11)"
+naslov: "PRAVILNIK o sestavljanju letnih poro\u010Dil za prora\u010Dun, prora\u010Dunske
+  uporabnike in druge osebe javnega prava (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 11)"
 npbNum: 11
 path: /2021/29/2021-01-2930-2002-01-5618-npb11
 sopPredpisa: 2021-01-2930

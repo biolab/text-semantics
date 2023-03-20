@@ -1,16 +1,10 @@
 Text file: PRAV11822.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1378159200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-02 22:00:00
 idPredpisa: PRAV11822
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu in postopku ustavljanja prevoznih sredstev, ki preva\u017E\
-  ajo gozdno lesne sortimente na gozdnih prometnicah"
+naslov: "PRAVILNIK o na\u010Dinu in postopku ustavljanja prevoznih sredstev, ki preva\u017Eajo
+  gozdno lesne sortimente na gozdnih prometnicah"
 npbNum: 0
 path: /2013/27/2013-01-2726
 sopPredpisa: 2013-01-2726

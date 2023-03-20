@@ -1,16 +1,10 @@
 Text file: PRAV8073.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645225200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-18 23:00:00
 idPredpisa: PRAV8073
 idPredpisaChng: PRAV8073
-instock: .nan
-naslov: "PRAVILNIK o seznamu geografskih ozna\u010Db za vina in trsnem izboru (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o seznamu geografskih ozna\u010Db za vina in trsnem izboru (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2022/02/2022-01-0237-2007-01-2634-npb2
 sopPredpisa: 2022-01-0237

@@ -1,14 +1,8 @@
 Text file: URED7718.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1521846000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-23 23:00:00
 idPredpisa: URED7718
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o izvajanju Uredbe (EU) o \u017Ei\u010Dni\u0161kih napravah"
 npbNum: 0
 path: /2018/08/2018-01-0821

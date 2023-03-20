@@ -1,18 +1,12 @@
 Text file: URED1042.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 896479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-05-29 22:00:00
 idPredpisa: URED1042
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopku za ugotavljanje upravi\u010Denosti dr\u017Eavljanov Republike\
-  \ Slovenije do vpisa lastni\u0161kih certifikatov, ki so jih do 30. junija 1997\
-  \ uporabili pri poobla\u0161\u010Denih investicijskih dru\u017Ebah, pa so jim bili\
-  \ zaradi prese\u017Enega vpisa zavrnjeni"
+naslov: "UREDBO o postopku za ugotavljanje upravi\u010Denosti dr\u017Eavljanov Republike
+  Slovenije do vpisa lastni\u0161kih certifikatov, ki so jih do 30. junija 1997 uporabili
+  pri poobla\u0161\u010Denih investicijskih dru\u017Ebah, pa so jim bili zaradi prese\u017Enega
+  vpisa zavrnjeni"
 npbNum: 0
 path: /1998/18/1998-01-1824
 sopPredpisa: 1998-01-1824

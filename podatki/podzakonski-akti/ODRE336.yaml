@@ -1,14 +1,8 @@
 Text file: ODRE336.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 867967200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-07-03 22:00:00
 idPredpisa: ODRE336
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o odprodaji terjatev Republike Slovenije
 npbNum: 0
 path: /1997/21/1997-01-2198

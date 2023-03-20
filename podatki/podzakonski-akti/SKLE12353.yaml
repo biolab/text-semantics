@@ -1,17 +1,11 @@
 Text file: SKLE12353.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-12 23:00:00
 idPredpisa: SKLE12353
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za izdajo dovoljenja za vklju\u010Ditev kapitalskega\
-  \ instrumenta v izra\u010Dun kapitala bank in hranilnic ter dokumentaciji o naknadnih\
-  \ izdajah instrumentov"
+naslov: "SKLEP o dokumentaciji za izdajo dovoljenja za vklju\u010Ditev kapitalskega
+  instrumenta v izra\u010Dun kapitala bank in hranilnic ter dokumentaciji o naknadnih
+  izdajah instrumentov"
 npbNum: 0
 path: /2021/04/2021-01-0436
 sopPredpisa: 2021-01-0436

@@ -1,16 +1,10 @@
 Text file: PRAV12202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467410400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-01 22:00:00
 idPredpisa: PRAV12202
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o minimalnih pogojih za za\u0161\u010Dito posameznih nelovnih povr\u0161\
-  in pred \u0161kodo od divjadi"
+naslov: "PRAVILNIK o minimalnih pogojih za za\u0161\u010Dito posameznih nelovnih povr\u0161in
+  pred \u0161kodo od divjadi"
 npbNum: 0
 path: /2016/18/2016-01-1846
 sopPredpisa: 2016-01-1846

@@ -1,16 +1,10 @@
 Text file: URED557.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 911343600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-11-17 23:00:00
 idPredpisa: URED557
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pristojbinah in stro\u0161kih za pridobitev in vzdr\u017Eevanje\
-  \ akreditacije"
+naslov: "UREDBO o pristojbinah in stro\u0161kih za pridobitev in vzdr\u017Eevanje
+  akreditacije"
 npbNum: 0
 path: /1998/37/1998-01-3727
 sopPredpisa: 1998-01-3727

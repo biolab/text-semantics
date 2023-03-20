@@ -1,16 +1,10 @@
 Text file: PRAV9850.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1284760800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-17 22:00:00
 idPredpisa: PRAV9850
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uvedbi velikega namakalnega sistema na namakalnem obmo\u010D\
-  ju Nem\u0161\u010Dak"
+naslov: "PRAVILNIK o uvedbi velikega namakalnega sistema na namakalnem obmo\u010Dju
+  Nem\u0161\u010Dak"
 npbNum: 0
 path: /2010/38/2010-01-3820
 sopPredpisa: 2010-01-3820

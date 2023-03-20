@@ -1,14 +1,8 @@
 Text file: SKLE8960.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1310767200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-15 22:00:00
 idPredpisa: SKLE8960
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o ukinitvi monografije Benfluoreksijev klorid (1601) iz Evropske farmakopeje
 npbNum: 0
 path: /2011/26/2011-01-2656

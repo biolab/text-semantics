@@ -1,16 +1,10 @@
 Text file: PRAV7993.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646434800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-04 23:00:00
 idPredpisa: PRAV7993
 idPredpisaChng: PRAV7993
-instock: .nan
-naslov: "PRAVILNIK o po\u017Earnem varovanju (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o po\u017Earnem varovanju (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2022/03/2022-01-0378-2007-01-5308-npb2
 sopPredpisa: 2022-01-0378

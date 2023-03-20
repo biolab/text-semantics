@@ -1,16 +1,10 @@
 Text file: ODRE1523.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 981759600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-09 23:00:00
 idPredpisa: ODRE1523
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu letnih gozdnogospodarskih na\u010Drtov za gozdnogospodarsko\
-  \ enoto Unec"
+naslov: "ODREDBO o sprejemu letnih gozdnogospodarskih na\u010Drtov za gozdnogospodarsko
+  enoto Unec"
 npbNum: 0
 path: /2001/05/2001-01-0556
 sopPredpisa: 2001-01-0556

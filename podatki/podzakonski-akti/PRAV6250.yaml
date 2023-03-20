@@ -1,18 +1,12 @@
 Text file: PRAV6250.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1117576800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-31 22:00:00
 idPredpisa: PRAV6250
 idPredpisaChng: PRAV6250
-instock: .nan
-naslov: "PRAVILNIK o obliki in vsebini izkaznice in enotnega \u017Eiga poobla\u0161\
-  \u010Denih arhitektov, poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\
-  \u010Denih prostorskih na\u010Drtovalcev (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o obliki in vsebini izkaznice in enotnega \u017Eiga poobla\u0161\u010Denih
+  arhitektov, poobla\u0161\u010Denih krajinskih arhitektov in poobla\u0161\u010Denih
+  prostorskih na\u010Drtovalcev (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2005/22/2005-01-2237-2004-01-4729-npb1
 sopPredpisa: 2005-01-2237

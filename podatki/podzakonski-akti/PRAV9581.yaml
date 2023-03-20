@@ -1,14 +1,8 @@
 Text file: PRAV9581.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1252101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-04 22:00:00
 idPredpisa: PRAV9581
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o konservatorskem na\u010Drtu"
 npbNum: 0
 path: /2009/30/2009-01-3055

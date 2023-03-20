@@ -1,16 +1,10 @@
 Text file: URED5015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1232406000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-01-19 23:00:00
 idPredpisa: URED5015
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob reki\
-  \ Savinji v naselju Okonina v ob\u010Dini Ljubno"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da ob reki
+  Savinji v naselju Okonina v ob\u010Dini Ljubno"
 npbNum: 0
 path: /2009/01/2009-01-0132
 sopPredpisa: 2009-01-0132

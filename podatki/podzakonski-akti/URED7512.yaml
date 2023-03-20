@@ -1,14 +1,8 @@
 Text file: URED7512.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1492207200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-04-14 22:00:00
 idPredpisa: URED7512
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o prenehanju veljavnosti Uredbe o mejnih vrednostih vnosa nevarnih
   snovi in gnojil v tla
 npbNum: 0

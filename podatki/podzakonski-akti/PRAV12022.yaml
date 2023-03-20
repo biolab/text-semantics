@@ -1,16 +1,10 @@
 Text file: PRAV12022.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1476482400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-14 22:00:00
 idPredpisa: PRAV12022
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o normativih za izgradnjo in opremljenost policijskih prostorov\
-  \ za pridr\u017Eanje"
+naslov: "PRAVILNIK o normativih za izgradnjo in opremljenost policijskih prostorov
+  za pridr\u017Eanje"
 npbNum: 0
 path: /2016/26/2016-01-2616
 sopPredpisa: 2016-01-2616

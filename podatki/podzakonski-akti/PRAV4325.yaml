@@ -1,16 +1,10 @@
 Text file: PRAV4325.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1030831200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-31 22:00:00
 idPredpisa: PRAV4325
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o denarnih prejemkih vojakov in kandidatov za pod\u010Dastnike\
-  \ ter \u010Dastnike vojnih enot"
+naslov: "PRAVILNIK o denarnih prejemkih vojakov in kandidatov za pod\u010Dastnike
+  ter \u010Dastnike vojnih enot"
 npbNum: 0
 path: /2002/33/2002-01-3398
 sopPredpisa: 2002-01-3398

@@ -1,17 +1,11 @@
 Text file: ODRE2120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1319839200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-28 22:00:00
 idPredpisa: ODRE2120
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programa strokovnega usposabljanja in izpopolnjevanja\
-  \ ter obdobnega strokovnega izpopolnjevanja za poobla\u0161\u010Denega in\u017E\
-  enirja varnostnih sistemov"
+naslov: "ODREDBO o dolo\u010Ditvi programa strokovnega usposabljanja in izpopolnjevanja
+  ter obdobnega strokovnega izpopolnjevanja za poobla\u0161\u010Denega in\u017Eenirja
+  varnostnih sistemov"
 npbNum: 0
 path: /2011/34/2011-01-3453
 sopPredpisa: 2011-01-3453

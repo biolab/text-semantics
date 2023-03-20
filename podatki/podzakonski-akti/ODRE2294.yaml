@@ -1,17 +1,11 @@
 Text file: ODRE2294.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1409349600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-08-29 22:00:00
 idPredpisa: ODRE2294
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi obrazca za pridobitev podatka, ali je fizi\u010D\
-  na oseba, ki ni \u010Dlan politi\u010Dne stranke in je prispevala prispevek politi\u010D\
-  ni stranki, dr\u017Eavljan Republike Slovenije"
+naslov: "ODREDBO o dolo\u010Ditvi obrazca za pridobitev podatka, ali je fizi\u010Dna
+  oseba, ki ni \u010Dlan politi\u010Dne stranke in je prispevala prispevek politi\u010Dni
+  stranki, dr\u017Eavljan Republike Slovenije"
 npbNum: 0
 path: /2014/27/2014-01-2711
 sopPredpisa: 2014-01-2711

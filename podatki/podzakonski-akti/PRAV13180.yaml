@@ -1,16 +1,10 @@
 Text file: PRAV13180.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1507068000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-03 22:00:00
 idPredpisa: PRAV13180
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o opozorilih o \u0161kodljivosti pitja alkoholnih pija\u010D na\
-  \ javnih \u0161portnih prireditvah"
+naslov: "PRAVILNIK o opozorilih o \u0161kodljivosti pitja alkoholnih pija\u010D na
+  javnih \u0161portnih prireditvah"
 npbNum: 0
 path: /2017/23/2017-01-2384
 sopPredpisa: 2017-01-2384

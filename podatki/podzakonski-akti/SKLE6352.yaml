@@ -1,14 +1,8 @@
 Text file: SKLE6352.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1140822000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-02-24 23:00:00
 idPredpisa: SKLE6352
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o zneskih invalidnin za telesno okvaro
 npbNum: 0
 path: /2006/07/2006-01-0773

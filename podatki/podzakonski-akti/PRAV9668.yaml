@@ -1,16 +1,10 @@
 Text file: PRAV9668.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1268434800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-03-12 23:00:00
 idPredpisa: PRAV9668
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o priznavanju predhodno pridobljenega znanja v vi\u0161jem strokovnem\
-  \ izobra\u017Eevanju"
+naslov: "PRAVILNIK o priznavanju predhodno pridobljenega znanja v vi\u0161jem strokovnem
+  izobra\u017Eevanju"
 npbNum: 0
 path: /2010/08/2010-01-0877
 sopPredpisa: 2010-01-0877

@@ -1,16 +1,10 @@
 Text file: SKLE12763.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648076400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-23 23:00:00
 idPredpisa: SKLE12763
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi rokov za opravljanje izpitov in drugih obveznosti\
-  \ za dijake zaklju\u010Dnih letnikov v \u0161olskem letu 2021/2022"
+naslov: "SKLEP o dolo\u010Ditvi rokov za opravljanje izpitov in drugih obveznosti
+  za dijake zaklju\u010Dnih letnikov v \u0161olskem letu 2021/2022"
 npbNum: 0
 path: /2022/07/2022-01-0788
 sopPredpisa: 2022-01-0788

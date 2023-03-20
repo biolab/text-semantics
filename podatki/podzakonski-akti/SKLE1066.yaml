@@ -1,14 +1,8 @@
 Text file: SKLE1066.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 961020000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-14 22:00:00
 idPredpisa: SKLE1066
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o izro\u010Ditvi bankovca za 10.000 tolarjev v obtok"
 npbNum: 0
 path: /2000/24/2000-01-2484

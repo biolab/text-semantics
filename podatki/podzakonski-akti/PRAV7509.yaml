@@ -1,16 +1,10 @@
 Text file: PRAV7509.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1138748400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-31 23:00:00
 idPredpisa: PRAV7509
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu Usposabljanje za \u017Eivljenjsko\
-  \ uspe\u0161nost \u2013 Izzivi pode\u017Eelja (U\u017DU-IP)"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu Usposabljanje za \u017Eivljenjsko
+  uspe\u0161nost \u2013 Izzivi pode\u017Eelja (U\u017DU-IP)"
 npbNum: 0
 path: /2006/03/2006-01-0354
 sopPredpisa: 2006-01-0354

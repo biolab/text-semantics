@@ -1,18 +1,12 @@
 Text file: URED1381.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1053986400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-05-26 22:00:00
 idPredpisa: URED1381
 idPredpisaChng: URED1381
-instock: .nan
-naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih\
-  \ odsekih vodotokov \u010Crna (Dolenji Novaki), Dov\u017Eanka, Krka, Kazarska, Polskava\
-  \ in Sevni\u0161\u010Dica za proizvodnjo elektri\u010Dne energije (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih
+  odsekih vodotokov \u010Crna (Dolenji Novaki), Dov\u017Eanka, Krka, Kazarska, Polskava
+  in Sevni\u0161\u010Dica za proizvodnjo elektri\u010Dne energije (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/24/2003-01-2425-1997-01-1359-npb2
 sopPredpisa: 2003-01-2425

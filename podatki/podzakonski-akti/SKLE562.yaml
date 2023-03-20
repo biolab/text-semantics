@@ -1,16 +1,10 @@
 Text file: SKLE562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 909093600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-10-22 22:00:00
 idPredpisa: SKLE562
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o ugotovitvi vrednosti premo\u017Eenja, ki se preda poobla\u0161\u010D\
-  enim investicijskim dru\u017Ebam \_za lastni\u0161ke certifikate"
+naslov: "SKLEP  o ugotovitvi vrednosti premo\u017Eenja, ki se preda poobla\u0161\u010Denim
+  investicijskim dru\u017Ebam \_za lastni\u0161ke certifikate"
 npbNum: 0
 path: /1998/35/1998-01-3573
 sopPredpisa: 1998-01-3573

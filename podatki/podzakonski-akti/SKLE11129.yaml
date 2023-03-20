@@ -1,16 +1,10 @@
 Text file: SKLE11129.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497045600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-09 22:00:00
 idPredpisa: SKLE11129
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161ih pravilih obve\u0161\u010Danja o izboru mati\u010D\
-  ne dr\u017Eave \u010Dlanice glede obveznosti razkrivanja nadzorovanih informacij"
+naslov: "SKLEP o podrobnej\u0161ih pravilih obve\u0161\u010Danja o izboru mati\u010Dne
+  dr\u017Eave \u010Dlanice glede obveznosti razkrivanja nadzorovanih informacij"
 npbNum: 0
 path: /2017/15/2017-01-1536
 sopPredpisa: 2017-01-1536

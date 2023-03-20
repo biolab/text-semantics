@@ -1,17 +1,11 @@
 Text file: URED3446.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1292626800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-17 23:00:00
 idPredpisa: URED3446
 idPredpisaChng: URED3446
-instock: .nan
-naslov: "UREDBA o koncesiji za odvzem naplavin iz reke Save in Zavr\u0161nice iz zadr\u017E\
-  evalnikov proda na vplivnem obmo\u010Dju HE Moste, HE Zavr\u0161nica in HE Mav\u010D\
-  i\u010De (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o koncesiji za odvzem naplavin iz reke Save in Zavr\u0161nice iz zadr\u017Eevalnikov
+  proda na vplivnem obmo\u010Dju HE Moste, HE Zavr\u0161nica in HE Mav\u010Di\u010De
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/52/2010-01-5287-2004-01-3716-npb1
 sopPredpisa: 2010-01-5287

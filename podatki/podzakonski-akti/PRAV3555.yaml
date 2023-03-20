@@ -1,16 +1,10 @@
 Text file: PRAV3555.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 785804400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-11-25 23:00:00
 idPredpisa: PRAV3555
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sofinanciranju strokovnega tiska, organizacije in udele\u017E\
-  be na kongresih in drugih strokovnih sre\u010Danjih"
+naslov: "PRAVILNIK o sofinanciranju strokovnega tiska, organizacije in udele\u017Ebe
+  na kongresih in drugih strokovnih sre\u010Danjih"
 npbNum: 0
 path: /1994/25/1994-01-2561
 sopPredpisa: 1994-01-2561

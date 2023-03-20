@@ -1,14 +1,8 @@
 Text file: SKLE494.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 885337200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-01-20 23:00:00
 idPredpisa: SKLE494
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o ustanovitvi in nalogah komisij Dr\u017Eavnega sveta Republike Slovenije"
 npbNum: 0
 path: /1998/02/1998-01-0280

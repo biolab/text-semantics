@@ -1,16 +1,10 @@
 Text file: ODRE1252.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 837208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-12 22:00:00
 idPredpisa: ODRE1252
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju \_Ob\u010D\
-  ine Ilirska Bistrica"
+naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju \_Ob\u010Dine
+  Ilirska Bistrica"
 npbNum: 0
 path: /1996/23/1996-01-2349
 sopPredpisa: 1996-01-2349

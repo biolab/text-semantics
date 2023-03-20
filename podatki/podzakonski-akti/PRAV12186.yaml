@@ -1,16 +1,10 @@
 Text file: PRAV12186.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-11 23:00:00
 idPredpisa: PRAV12186
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o za\u0161\u010Diti nizkonapetostnih omre\u017Eij in\_pripadajo\u010D\
-  ih transformatorskih postaj"
+naslov: "PRAVILNIK o za\u0161\u010Diti nizkonapetostnih omre\u017Eij in\_pripadajo\u010Dih
+  transformatorskih postaj"
 npbNum: 0
 path: /2015/35/2015-01-3512
 sopPredpisa: 2015-01-3512

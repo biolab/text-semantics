@@ -1,17 +1,8 @@
 Text file: URED7264.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467324000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467324000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-06-30 22:00:00
+datumZacetkaVelj: 2016-06-30 22:00:00
 idPredpisa: URED7264
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju Uredbe (EU) o elektronski identifikaciji in storitvah zaupanja
   za elektronske transakcije na notranjem trgu in razveljavitvi Direktive 1999/93/ES
 npbNum: 0

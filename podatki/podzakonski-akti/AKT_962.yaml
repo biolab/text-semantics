@@ -1,17 +1,11 @@
 Text file: AKT_962.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: AKT_962
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za\_distribucijski sistem\
-  \ zemeljskega plina na\_geografskem obmo\u010Dju Ob\u010Dine Ravne na\_Koro\u0161\
-  kem, Ob\u010Dine Prevalje in Ob\u010Dine Me\u017Eica"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za\_distribucijski sistem
+  zemeljskega plina na\_geografskem obmo\u010Dju Ob\u010Dine Ravne na\_Koro\u0161kem,
+  Ob\u010Dine Prevalje in Ob\u010Dine Me\u017Eica"
 npbNum: 0
 path: /2015/43/2015-01-4332
 sopPredpisa: 2015-01-4332

@@ -1,16 +1,10 @@
 Text file: ODRE2569.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1633730400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-10-08 22:00:00
 idPredpisa: ODRE2569
 idPredpisaChng: ODRE2569
-instock: .nan
-naslov: "PRAVILNIK o izvajanju projekta Tradicionalni slovenski zajtrk (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o izvajanju projekta Tradicionalni slovenski zajtrk (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/31/2021-01-3102-2020-01-2287-npb2
 sopPredpisa: 2021-01-3102

@@ -1,25 +1,19 @@
 Text file: SKLE171.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 923004000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-04-01 22:00:00
 idPredpisa: SKLE171
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za sanacijo\
-  \ in doinstalacijo HE Moste b) Predloga sprememb in dopolnitev prostorskih sestavin:\
-  \ -\_dolgoro\u010Dnega plana Ob\u010Dine Jesenice za obdobje 1986-2000 in dru\u017E\
-  benega plana Ob\u010Dine Jesenice za obdobje 1986-1990 v delu, ki ga opredeljuje\
-  \ osnutek lokacijskega na\u010Drta, -\_dolgoro\u010Dnega plana Ob\u010Dine Jesenice\
-  \ za obdobje 1986-2000 in dru\u017Ebenega plana Ob\u010Dine Jesenice za obdobje\
-  \ 1986-1990 za obmo\u010Dje Ob\u010Dine \u017Dirovnica v delu, ki ga opredeljuje\
-  \ osnutek lokacijskega na\u010Drta, -\_dolgoro\u010Dnega plana Ob\u010Dine Radovljica\
-  \ za obdobje 1986-2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine\
-  \ Radovljica za obdobje 1986-1990 za obmo\u010Dje Ob\u010Dine Bled v delu, ki ga\
-  \ opredeljuje osnutek lokacijskega na\u010Drta."
+naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za sanacijo
+  in doinstalacijo HE Moste b) Predloga sprememb in dopolnitev prostorskih sestavin:
+  -\_dolgoro\u010Dnega plana Ob\u010Dine Jesenice za obdobje 1986-2000 in dru\u017Ebenega
+  plana Ob\u010Dine Jesenice za obdobje 1986-1990 v delu, ki ga opredeljuje osnutek
+  lokacijskega na\u010Drta, -\_dolgoro\u010Dnega plana Ob\u010Dine Jesenice za obdobje
+  1986-2000 in dru\u017Ebenega plana Ob\u010Dine Jesenice za obdobje 1986-1990 za
+  obmo\u010Dje Ob\u010Dine \u017Dirovnica v delu, ki ga opredeljuje osnutek lokacijskega
+  na\u010Drta, -\_dolgoro\u010Dnega plana Ob\u010Dine Radovljica za obdobje 1986-2000
+  in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Radovljica za obdobje 1986-1990
+  za obmo\u010Dje Ob\u010Dine Bled v delu, ki ga opredeljuje osnutek lokacijskega
+  na\u010Drta."
 npbNum: 0
 path: /1999/10/1999-01-1028
 sopPredpisa: 1999-01-1028

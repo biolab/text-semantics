@@ -1,14 +1,8 @@
 Text file: PRAV13614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1544828400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-14 23:00:00
 idPredpisa: PRAV13614
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o strokovnih komisijah
 npbNum: 0
 path: /2018/37/2018-01-3757

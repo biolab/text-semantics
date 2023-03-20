@@ -1,16 +1,10 @@
 Text file: ODRE510.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933372000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-07-30 22:00:00
 idPredpisa: ODRE510
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote Krakovo"
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote Krakovo"
 npbNum: 0
 path: /1999/29/1999-01-2921
 sopPredpisa: 1999-01-2921

@@ -1,20 +1,11 @@
 Text file: SKLE7654.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1183240800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2007-06-30 22:00:00
+datumZacetkaVelj: 2008-06-20 22:00:00
 idPredpisa: SKLE7654
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 96 o dolo\u010Ditvi cene\
-  \ za enoto storitve za Republiko \u010Ce\u0161ko z za\u010Detkom uporabe od 1. julija\
-  \ 2007,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 96 o dolo\u010Ditvi cene
+  za enoto storitve za Republiko \u010Ce\u0161ko z za\u010Detkom uporabe od 1. julija
+  2007,"
 npbNum: 0
 path: /2008/26/2008-01-2647
 sopPredpisa: 2008-01-2647

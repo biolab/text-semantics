@@ -1,16 +1,10 @@
 Text file: URED429.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 901922400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-07-31 22:00:00
 idPredpisa: URED429
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zneska davka iz tarifne \u0161tevilke\_6 tarife davka\
-  \ od prometa proizvodov"
+naslov: "UREDBO o dolo\u010Ditvi zneska davka iz tarifne \u0161tevilke\_6 tarife davka
+  od prometa proizvodov"
 npbNum: 0
 path: /1998/25/1998-01-2501
 sopPredpisa: 1998-01-2501

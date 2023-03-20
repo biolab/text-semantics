@@ -1,17 +1,10 @@
 Text file: URED5625.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1627077600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-23 22:00:00
 idPredpisa: URED5625
 idPredpisaChng: URED5625
-instock: .nan
-naslov: "UREDBA o kriterijih za dolo\u010Ditev vi\u0161ine polo\u017Eajnega dodatka\
-  \ za javne uslu\u017Ebence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 2)"
+naslov: "UREDBA o kriterijih za dolo\u010Ditev vi\u0161ine polo\u017Eajnega dodatka
+  za javne uslu\u017Ebence (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2021/25/2021-01-2583-2010-01-4645-npb2
 sopPredpisa: 2021-01-2583

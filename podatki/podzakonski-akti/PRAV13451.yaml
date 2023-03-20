@@ -1,12 +1,10 @@
 Text file: PRAV13451.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV13451
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NI AKT o postopkih vpisa in izbrisa iz imenika poobla\u0161\u010D\
-  enih in\u017Eenirjev"
+naslov: "SPLO\u0160NI AKT o postopkih vpisa in izbrisa iz imenika poobla\u0161\u010Denih
+  in\u017Eenirjev"
 npbNum: 0
 path: /2018/18/2018-01-1852
 sopPredpisa: 2018-01-1852

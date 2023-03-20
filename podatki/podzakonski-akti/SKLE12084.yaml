@@ -1,17 +1,11 @@
 Text file: SKLE12084.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1588284000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-30 22:00:00
 idPredpisa: SKLE12084
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o nedopustnosti razpisa zakonodajnega referenduma o Zakonu o spremembah\
-  \ in dopolnitvah Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in\
-  \ omilitev njenih posledic za dr\u017Eavljane in gospodarstvo (ZIUZEOP-A, EPA 1122-VIII)"
+naslov: "SKLEP o nedopustnosti razpisa zakonodajnega referenduma o Zakonu o spremembah
+  in dopolnitvah Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in
+  omilitev njenih posledic za dr\u017Eavljane in gospodarstvo (ZIUZEOP-A, EPA 1122-VIII)"
 npbNum: 0
 path: /2020/09/2020-01-0902
 sopPredpisa: 2020-01-0902

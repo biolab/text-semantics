@@ -1,16 +1,10 @@
 Text file: SKLE10752.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1460152800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-08 22:00:00
 idPredpisa: SKLE10752
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za izkazovanje izpolnjevanja pogojev za \u010Dlana\
-  \ uprave zavarovalnice"
+naslov: "SKLEP o dokumentaciji za izkazovanje izpolnjevanja pogojev za \u010Dlana
+  uprave zavarovalnice"
 npbNum: 0
 path: /2016/08/2016-01-0845
 sopPredpisa: 2016-01-0845

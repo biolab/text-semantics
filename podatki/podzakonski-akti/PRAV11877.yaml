@@ -1,12 +1,10 @@
 Text file: PRAV11877.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV11877
 idPredpisaChng: PRAV11877
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki diplome Fakultete za zdravstvene vede Novo\
-  \ mesto (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o vsebini in obliki diplome Fakultete za zdravstvene vede Novo
+  mesto (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2015/20/2015-01-2029-2013-01-3269-npb1
 sopPredpisa: 2015-01-2029

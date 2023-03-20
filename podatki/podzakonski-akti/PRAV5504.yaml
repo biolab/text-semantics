@@ -1,17 +1,11 @@
 Text file: PRAV5504.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1104534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-31 23:00:00
 idPredpisa: PRAV5504
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o minimalnih pogojih, ki morajo biti izpolnjeni za opravljanje\
-  \ pregledov istovetnosti in zdravstvenih pregledov po\u0161iljk rastlin, ki se vna\u0161\
-  ajo iz tretjih dr\u017Eav, izven vstopnih mest"
+naslov: "PRAVILNIK o minimalnih pogojih, ki morajo biti izpolnjeni za opravljanje
+  pregledov istovetnosti in zdravstvenih pregledov po\u0161iljk rastlin, ki se vna\u0161ajo
+  iz tretjih dr\u017Eav, izven vstopnih mest"
 npbNum: 0
 path: /2004/62/2004-01-6218
 sopPredpisa: 2004-01-6218

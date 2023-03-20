@@ -1,17 +1,11 @@
 Text file: PRAV5909.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1570226400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-10-04 22:00:00
 idPredpisa: PRAV5909
 idPredpisaChng: PRAV5909
-instock: .nan
-naslov: "PRAVILNIK o obrazcu za posredovanje podatkov, ki so potrebni za dolo\u010D\
-  anje vrste in koli\u010Dine obveznih rezerv nafte in njenih derivatov ter za prijavo\
-  \ o \u010Dlanarini (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o obrazcu za posredovanje podatkov, ki so potrebni za dolo\u010Danje
+  vrste in koli\u010Dine obveznih rezerv nafte in njenih derivatov ter za prijavo
+  o \u010Dlanarini (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/25/2019-01-2530-2004-01-2752-npb2
 sopPredpisa: 2019-01-2530

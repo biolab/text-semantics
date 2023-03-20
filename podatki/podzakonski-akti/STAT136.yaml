@@ -1,16 +1,10 @@
 Text file: STAT136.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 985989600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-03-30 22:00:00
 idPredpisa: STAT136
 idPredpisaChng: STAT136
-instock: .nan
-naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) Statut\
-  \ UM-UPB6)"
+naslov: "STATUT Univerze v Mariboru (uradno pre\u010Di\u0161\u010Deno besedilo) Statut
+  UM-UPB6)"
 npbNum: 6
 path: /2001/10/2001-01-1077-2008-01-3866-npb6
 sopPredpisa: 2001-01-1077

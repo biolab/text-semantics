@@ -1,18 +1,12 @@
 Text file: SKLE512.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 877125600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-10-17 22:00:00
 idPredpisa: SKLE512
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o na\u010Dinu in pogojih za prijavo terjatev in obveznosti, ki jih\
-  \ imajo nekatere pravne osebe s sede\u017Eem v Republiki Sloveniji do dol\u017E\
-  nikov in upnikov s sede\u017Eem v Republiki Hrva\u0161ki, Bosni in Hercegovini in\
-  \ Republiki Makedoniji"
+naslov: "SKLEP o na\u010Dinu in pogojih za prijavo terjatev in obveznosti, ki jih
+  imajo nekatere pravne osebe s sede\u017Eem v Republiki Sloveniji do dol\u017Enikov
+  in upnikov s sede\u017Eem v Republiki Hrva\u0161ki, Bosni in Hercegovini in Republiki
+  Makedoniji"
 npbNum: 0
 path: /1997/31/1997-01-3165
 sopPredpisa: 1997-01-3165

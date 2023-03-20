@@ -1,17 +1,11 @@
 Text file: PRAV13924.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1595628000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-24 22:00:00
 idPredpisa: PRAV13924
 idPredpisaChng: PRAV13924
-instock: .nan
-naslov: "PRAVILNIK o obrazcu za napoved za odmero davka od dobi\u010Dka od odsvojitve\
-  \ izvedenih finan\u010Dnih instrumentov (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o obrazcu za napoved za odmero davka od dobi\u010Dka od odsvojitve
+  izvedenih finan\u010Dnih instrumentov (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2020/17/2020-01-1752-2019-01-3653-npb1
 sopPredpisa: 2020-01-1752

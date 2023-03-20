@@ -1,14 +1,8 @@
 Text file: KOLP563.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
+datumZacetkaUpor: 2020-12-31 23:00:00
+datumZacetkaVelj: null
 idPredpisa: KOLP563
 idPredpisaChng: null
-instock: .nan
 naslov: KOLEKTIVNO POGODBO dejavnosti za storitvene dejavnosti v kopenskem prometu
 npbNum: 0
 path: /2020/36/2020-01-3644

@@ -1,14 +1,8 @@
 Text file: URED4849.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201906800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-02-01 23:00:00
 idPredpisa: URED4849
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvedbi ukrepov kmetijske politike za leto 2008
 npbNum: 0
 path: /2008/03/2008-01-0338

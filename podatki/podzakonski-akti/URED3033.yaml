@@ -1,16 +1,10 @@
 Text file: URED3033.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064613600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-26 22:00:00
 idPredpisa: URED3033
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni\
-  \ promet Novi Kot"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni
+  promet Novi Kot"
 npbNum: 0
 path: /2003/41/2003-01-4169
 sopPredpisa: 2003-01-4169

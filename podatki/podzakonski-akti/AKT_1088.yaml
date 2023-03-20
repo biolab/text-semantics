@@ -1,17 +1,11 @@
 Text file: AKT_1088.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-31 23:00:00
 idPredpisa: AKT_1088
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Velenje in ob\u010D\
-  ine \u0160o\u0161tanj"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskem obmo\u010Dju Mestne ob\u010Dine Velenje in ob\u010Dine
+  \u0160o\u0161tanj"
 npbNum: 0
 path: /2018/42/2018-01-4208
 sopPredpisa: 2018-01-4208

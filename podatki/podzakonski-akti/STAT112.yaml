@@ -1,14 +1,8 @@
 Text file: STAT112.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1163113200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-09 23:00:00
 idPredpisa: STAT112
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT Zavoda za pokojninsko in invalidsko zavarovanje Slovenije
 npbNum: 0
 path: /2006/48/2006-01-4838

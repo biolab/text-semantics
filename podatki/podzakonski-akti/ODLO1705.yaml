@@ -1,16 +1,10 @@
 Text file: ODLO1705.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1393369200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-25 23:00:00
 idPredpisa: ODLO1705
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o Programu varstva in razvoja Parka \u0160kocjanske jame za obdobje\
-  \ 2013\u20132017 (OdPVRP\u0160J13\u201317)"
+naslov: "ODLOK o Programu varstva in razvoja Parka \u0160kocjanske jame za obdobje
+  2013\u20132017 (OdPVRP\u0160J13\u201317)"
 npbNum: 0
 path: /2014/02/2014-01-0292
 sopPredpisa: 2014-01-0292

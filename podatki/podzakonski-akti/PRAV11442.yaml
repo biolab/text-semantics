@@ -1,16 +1,10 @@
 Text file: PRAV11442.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1432936800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-05-29 22:00:00
 idPredpisa: PRAV11442
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o odobritvi motornih in priklopnih vozil ter sistemov, sestavnih\
-  \ delov in samostojnih tehni\u010Dnih enot, namenjenih za taka vozila"
+naslov: "PRAVILNIK o odobritvi motornih in priklopnih vozil ter sistemov, sestavnih
+  delov in samostojnih tehni\u010Dnih enot, namenjenih za taka vozila"
 npbNum: 0
 path: /2015/13/2015-01-1399
 sopPredpisa: 2015-01-1399

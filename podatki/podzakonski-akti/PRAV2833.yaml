@@ -1,16 +1,9 @@
 Text file: PRAV2833.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 959983200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-02 22:00:00
 idPredpisa: PRAV2833
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o re\u0161evalni in gasilski slu\u017Ebi na javnem letali\u0161\
-  \u010Du"
+naslov: "PRAVILNIK o re\u0161evalni in gasilski slu\u017Ebi na javnem letali\u0161\u010Du"
 npbNum: 0
 path: /2000/19/2000-01-1956
 sopPredpisa: 2000-01-1956

@@ -1,16 +1,10 @@
 Text file: SKLE8191.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1257030000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-10-31 23:00:00
 idPredpisa: SKLE8191
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini zahteve za izdajo dovoljenja za opravljanje storitev upravljanja\
-  \ pla\u010Dilnega sistema kot klirin\u0161ka dru\u017Eba"
+naslov: "SKLEP o vsebini zahteve za izdajo dovoljenja za opravljanje storitev upravljanja
+  pla\u010Dilnega sistema kot klirin\u0161ka dru\u017Eba"
 npbNum: 0
 path: /2009/32/2009-01-3220
 sopPredpisa: 2009-01-3220

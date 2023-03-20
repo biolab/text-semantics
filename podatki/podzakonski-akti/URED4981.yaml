@@ -1,17 +1,11 @@
 Text file: URED4981.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1274479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-21 22:00:00
 idPredpisa: URED4981
 idPredpisaChng: URED4981
-instock: .nan
-naslov: "UREDBA o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o mejnih vrednostih\
-  \ ostankov pesticidov v ali na hrani in krmi rastlinskega in \u017Eivalskega izvora\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o mejnih vrednostih
+  ostankov pesticidov v ali na hrani in krmi rastlinskega in \u017Eivalskega izvora
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/19/2010-01-1989-2009-01-0556-npb1
 sopPredpisa: 2010-01-1989

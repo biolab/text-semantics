@@ -1,17 +1,11 @@
 Text file: PRAV6876.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1270850400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-04-09 22:00:00
 idPredpisa: PRAV6876
 idPredpisaChng: PRAV6876
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ivan\u010D\
-  na Gorica (2004 \u2013 2013) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Ivan\u010Dna
+  Gorica (2004 \u2013 2013) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2010/13/2010-01-1335-2006-01-4618-npb1
 sopPredpisa: 2010-01-1335

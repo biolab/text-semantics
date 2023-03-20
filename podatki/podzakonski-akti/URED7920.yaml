@@ -1,17 +1,10 @@
 Text file: URED7920.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1604703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-06 23:00:00
 idPredpisa: URED7920
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju norve\u0161kega finan\u010Dnega mehanizma in finan\u010D\
-  nega mehanizma Evropskega gospodarskega prostora v Republiki Sloveniji v obdobju\
-  \ 2014\u20132021"
+naslov: "UREDBO o izvajanju norve\u0161kega finan\u010Dnega mehanizma in finan\u010Dnega
+  mehanizma Evropskega gospodarskega prostora v Republiki Sloveniji v obdobju 2014\u20132021"
 npbNum: 0
 path: /2020/28/2020-01-2833
 sopPredpisa: 2020-01-2833

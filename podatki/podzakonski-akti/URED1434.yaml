@@ -1,20 +1,14 @@
 Text file: URED1434.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 971992800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-10-19 22:00:00
 idPredpisa: URED1434
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za avtocesto\
-  \ \_na odseku Bi\u010D \u2013 Korenitka in  b) predloga sprememb in dopolnitev prostorskih\
-  \ sestavin dolgoro\u010Dnega plana ob\u010Dine Trebnje \_za obdobje od leta 1986\
-  \ do leta 2000 \_in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Trebnje\
-  \ za obdobje od leta 1986 do leta 1990 \_v delu, ki ga opredeljuje osnutek \_lokacijskega\
-  \ na\u010Drta"
+naslov: "SKLEP  o javni razgrnitvi  a) osnutka lokacijskega na\u010Drta za avtocesto
+  \_na odseku Bi\u010D \u2013 Korenitka in  b) predloga sprememb in dopolnitev prostorskih
+  sestavin dolgoro\u010Dnega plana ob\u010Dine Trebnje \_za obdobje od leta 1986 do
+  leta 2000 \_in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Trebnje za
+  obdobje od leta 1986 do leta 1990 \_v delu, ki ga opredeljuje osnutek \_lokacijskega
+  na\u010Drta"
 npbNum: 0
 path: /2000/41/2000-01-4111
 sopPredpisa: 2000-01-4111

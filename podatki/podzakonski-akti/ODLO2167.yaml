@@ -1,19 +1,10 @@
 Text file: ODLO2167.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1603666800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1603490400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-10-25 23:00:00
+datumZacetkaVelj: 2020-10-23 22:00:00
 idPredpisa: ODLO2167
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o za\u010Dasni prepovedi zbiranja ljudi v zavodih s podro\u010Dja vzgoje\
-  \ in izobra\u017Eevanja ter univerzah in samostojnih visoko\u0161olskih zavodih"
+naslov: "ODLOK o za\u010Dasni prepovedi zbiranja ljudi v zavodih s podro\u010Dja vzgoje
+  in izobra\u017Eevanja ter univerzah in samostojnih visoko\u0161olskih zavodih"
 npbNum: 0
 path: /2020/26/2020-01-2689
 sopPredpisa: 2020-01-2689

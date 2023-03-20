@@ -1,16 +1,10 @@
 Text file: ODLO2558.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1629064800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-15 22:00:00
 idPredpisa: ODLO2558
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja javnega prevoza potnikov na ozemlju\
-  \ Republike Slovenije"
+naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja javnega prevoza potnikov na ozemlju
+  Republike Slovenije"
 npbNum: 0
 path: /2021/27/2021-01-2714
 sopPredpisa: 2021-01-2714

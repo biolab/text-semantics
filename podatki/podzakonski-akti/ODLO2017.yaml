@@ -1,16 +1,10 @@
 Text file: ODLO2017.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584486000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-17 23:00:00
 idPredpisa: ODLO2017
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o za\u010Dasnem prenehanju obratovanja mejnih prehodov za obmejni promet\
-  \ na meji z Republiko Hrva\u0161ko"
+naslov: "ODLOK o za\u010Dasnem prenehanju obratovanja mejnih prehodov za obmejni promet
+  na meji z Republiko Hrva\u0161ko"
 npbNum: 0
 path: /2020/05/2020-01-0585
 sopPredpisa: 2020-01-0585

@@ -1,16 +1,10 @@
 Text file: URED7350.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468620000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-15 22:00:00
 idPredpisa: URED7350
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za dograditev avtocestnega\
-  \ predora Karavanke"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za dograditev avtocestnega
+  predora Karavanke"
 npbNum: 0
 path: /2016/20/2016-01-2072
 sopPredpisa: 2016-01-2072

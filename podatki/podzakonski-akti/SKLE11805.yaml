@@ -1,16 +1,10 @@
 Text file: SKLE11805.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-21 22:00:00
 idPredpisa: SKLE11805
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic Evropskega organa za vrednostne papirje in trge o\
-  \ obvladovanju navzkri\u017Eja interesov centralnih nasprotnih strank"
+naslov: "SKLEP o uporabi Smernic Evropskega organa za vrednostne papirje in trge o
+  obvladovanju navzkri\u017Eja interesov centralnih nasprotnih strank"
 npbNum: 0
 path: /2019/16/2019-01-1643
 sopPredpisa: 2019-01-1643

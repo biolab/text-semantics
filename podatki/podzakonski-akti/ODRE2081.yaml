@@ -1,16 +1,10 @@
 Text file: ODRE2081.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1443823200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-02 22:00:00
 idPredpisa: ODRE2081
 idPredpisaChng: ODRE2081
-instock: .nan
-naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij za dvo- in trikolesna\
-  \ motorna vozila (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ODREDBA o dolo\u010Ditvi seznama tehni\u010Dnih specifikacij za dvo- in trikolesna
+  motorna vozila (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2015/28/2015-01-2880-2011-01-2366-npb2
 sopPredpisa: 2015-01-2880

@@ -1,10 +1,8 @@
 Text file: SKLE10270.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10270
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o zaprtju Generalnega konzulata Republike Slovenije v Pireju
 npbNum: 0
 path: /2015/05/2015-01-0550

@@ -1,18 +1,12 @@
 Text file: URED4160.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1416870000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-11-24 23:00:00
 idPredpisa: URED4160
 idPredpisaChng: URED4160
-instock: .nan
-naslov: "UREDBA o seznamih naro\u010Dnikov, seznamih gradenj, storitev, dolo\u010D\
-  enih vrst blaga, obveznih informacijah v objavah, opisih tehni\u010Dnih specifikacij\
-  \ in zahtevah, ki jih mora izpolnjevati oprema za elektronsko naro\u010Danje (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o seznamih naro\u010Dnikov, seznamih gradenj, storitev, dolo\u010Denih
+  vrst blaga, obveznih informacijah v objavah, opisih tehni\u010Dnih specifikacij
+  in zahtevah, ki jih mora izpolnjevati oprema za elektronsko naro\u010Danje (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/33/2014-01-3326-2007-01-0836-npb1
 sopPredpisa: 2014-01-3326

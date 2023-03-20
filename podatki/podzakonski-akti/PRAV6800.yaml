@@ -1,14 +1,8 @@
 Text file: PRAV6800.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1147471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-05-12 22:00:00
 idPredpisa: PRAV6800
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o bioti\u010Dnem varstvu rastlin"
 npbNum: 0
 path: /2006/19/2006-01-1926

@@ -1,18 +1,12 @@
 Text file: URED4265.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1463176800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-13 22:00:00
 idPredpisa: URED4265
 idPredpisaChng: URED4265
-instock: .nan
-naslov: "UREDBA o izvajanju Odlo\u010Dbe Komisije o zahtevi, da dr\u017Eave \u010D\
-  lanice sprejmejo ukrepe za zagotovitev, da se dajo na trg samo v\u017Eigalniki,\
-  \ ki so varni za otroke, in za prepoved dajanja neobi\u010Dajnih v\u017Eigalnikov\
-  \ na trg (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
+naslov: "UREDBA o izvajanju Odlo\u010Dbe Komisije o zahtevi, da dr\u017Eave \u010Dlanice
+  sprejmejo ukrepe za zagotovitev, da se dajo na trg samo v\u017Eigalniki, ki so varni
+  za otroke, in za prepoved dajanja neobi\u010Dajnih v\u017Eigalnikov na trg (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 10)"
 npbNum: 10
 path: /2016/14/2016-01-1478-2006-01-4184-npb10
 sopPredpisa: 2016-01-1478

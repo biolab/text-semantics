@@ -1,10 +1,8 @@
 Text file: ODLO2413.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODLO2413
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o razpisu volitev v Uradni\u0161ki svet"
 npbNum: 0
 path: /2021/09/2021-01-0975

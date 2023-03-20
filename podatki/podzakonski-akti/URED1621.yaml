@@ -1,16 +1,10 @@
 Text file: URED1621.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 992642400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-15 22:00:00
 idPredpisa: URED1621
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesijah za izkori\u0161\u010Danje vode iz vodnih virov L-1/97\
-  \ in SK-2/98 za oskrbo prebivalstva s pitno vodo"
+naslov: "UREDBO o koncesijah za izkori\u0161\u010Danje vode iz vodnih virov L-1/97
+  in SK-2/98 za oskrbo prebivalstva s pitno vodo"
 npbNum: 0
 path: /2001/25/2001-01-2543
 sopPredpisa: 2001-01-2543

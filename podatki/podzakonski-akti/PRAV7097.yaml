@@ -1,14 +1,8 @@
 Text file: PRAV7097.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1126303200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-09-09 22:00:00
 idPredpisa: PRAV7097
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o splo\u0161nih pogojih poslovanja registra emisijskih kuponov"
 npbNum: 0
 path: /2005/36/2005-01-3600

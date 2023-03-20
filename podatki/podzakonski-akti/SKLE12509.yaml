@@ -1,17 +1,11 @@
 Text file: SKLE12509.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636758000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-12 23:00:00
 idPredpisa: SKLE12509
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo\
-  \ proizvajalci elektri\u010Dne in elektronske opreme za leto 2021 zagotoviti zbiranje\
-  \ in obdelavo odpadne elektri\u010Dne in elektronske opreme"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo
+  proizvajalci elektri\u010Dne in elektronske opreme za leto 2021 zagotoviti zbiranje
+  in obdelavo odpadne elektri\u010Dne in elektronske opreme"
 npbNum: 0
 path: /2021/34/2021-01-3485
 sopPredpisa: 2021-01-3485

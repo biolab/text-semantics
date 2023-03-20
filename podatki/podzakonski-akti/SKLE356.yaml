@@ -1,17 +1,11 @@
 Text file: SKLE356.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 925509600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-04-30 22:00:00
 idPredpisa: SKLE356
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP \u0161t. UE-SI 959/99 Pridru\u017Eitvenega sveta z dne 29.\_4. 1999,\
-  \ s katerim se sprejemajo dolo\u010Dila in pogoji za sodelovanje Slovenije v programih\
-  \ Skupnosti na podro\u010Djih usposabljanja, mladine in izobra\u017Eevanja"
+naslov: "SKLEP \u0161t. UE-SI 959/99 Pridru\u017Eitvenega sveta z dne 29.\_4. 1999,
+  s katerim se sprejemajo dolo\u010Dila in pogoji za sodelovanje Slovenije v programih
+  Skupnosti na podro\u010Djih usposabljanja, mladine in izobra\u017Eevanja"
 npbNum: 0
 path: /1999/38/1999-01-3895
 sopPredpisa: 1999-01-3895

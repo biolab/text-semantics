@@ -1,17 +1,11 @@
 Text file: PRAV12982.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-23 23:00:00
 idPredpisa: PRAV12982
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcih za priglasitev za\u010Detka in konca obravnave dohodka\
-  \ iz malega obsega prve stopnje predelave lastnih pridelkov kot dohodka v zvezi\
-  \ z osnovno kmetijsko in osnovno gozdarsko dejavnostjo"
+naslov: "PRAVILNIK o obrazcih za priglasitev za\u010Detka in konca obravnave dohodka
+  iz malega obsega prve stopnje predelave lastnih pridelkov kot dohodka v zvezi z
+  osnovno kmetijsko in osnovno gozdarsko dejavnostjo"
 npbNum: 0
 path: /2016/35/2016-01-3570
 sopPredpisa: 2016-01-3570

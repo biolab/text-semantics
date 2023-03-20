@@ -1,14 +1,8 @@
 Text file: PRAV3548.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 706572000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-05-22 22:00:00
 idPredpisa: PRAV3548
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vodenju registra zasebnih zdravstvenih delavcev
 npbNum: 0
 path: /1992/13/1992-01-1317

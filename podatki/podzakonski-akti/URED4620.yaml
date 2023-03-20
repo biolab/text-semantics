@@ -1,16 +1,10 @@
 Text file: URED4620.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1195513200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-19 23:00:00
 idPredpisa: URED4620
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Programa ukrepov na podro\u010Dju \u010Debelarstva v Republiki\
-  \ Sloveniji v letih 2008-2010 za leto 2008"
+naslov: "UREDBO o izvajanju Programa ukrepov na podro\u010Dju \u010Debelarstva v Republiki
+  Sloveniji v letih 2008-2010 za leto 2008"
 npbNum: 0
 path: /2007/52/2007-01-5219
 sopPredpisa: 2007-01-5219

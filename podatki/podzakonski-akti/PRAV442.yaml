@@ -1,17 +1,11 @@
 Text file: PRAV442.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230764400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-31 23:00:00
 idPredpisa: PRAV442
 idPredpisaChng: PRAV442
-instock: .nan
-naslov: "PRAVILNIK o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak\
-  \ iz nepremi\u010Dnih virov onesna\u017Eevanja \_ter o pogojih za njegovo izvajanje\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak
+  iz nepremi\u010Dnih virov onesna\u017Eevanja \_ter o pogojih za njegovo izvajanje
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2008/44/2008-01-4489-1996-01-3824-npb4
 sopPredpisa: 2008-01-4489

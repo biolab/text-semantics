@@ -1,16 +1,10 @@
 Text file: ODLO1127.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1022536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-27 22:00:00
 idPredpisa: ODLO1127
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za mednarodni mejni prehod\
-  \ Dobova"
+naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za mednarodni mejni prehod
+  Dobova"
 npbNum: 0
 path: /2002/22/2002-01-2259
 sopPredpisa: 2002-01-2259

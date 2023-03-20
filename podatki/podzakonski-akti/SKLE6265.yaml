@@ -1,16 +1,10 @@
 Text file: SKLE6265.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137452400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-16 23:00:00
 idPredpisa: SKLE6265
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine in na\u010Dina pla\u010Devanja \u010D\
-  lanarine Obmo\u010Dni obrtni zbornici Idrija"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine in na\u010Dina pla\u010Devanja \u010Dlanarine
+  Obmo\u010Dni obrtni zbornici Idrija"
 npbNum: 0
 path: /2006/01/2006-01-0163
 sopPredpisa: 2006-01-0163

@@ -1,16 +1,10 @@
 Text file: ODRE2617.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1611097200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-19 23:00:00
 idPredpisa: ODRE2617
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o prenehanju veljavnosti Odredbe o dolo\u010Ditvi ogro\u017Eenih\
-  \ obmo\u010Dij zaradi nalezljive bolezni COVID-19"
+naslov: "ODREDBO o prenehanju veljavnosti Odredbe o dolo\u010Ditvi ogro\u017Eenih
+  obmo\u010Dij zaradi nalezljive bolezni COVID-19"
 npbNum: 0
 path: /2021/01/2021-01-0149
 sopPredpisa: 2021-01-0149

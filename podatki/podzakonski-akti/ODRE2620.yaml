@@ -1,14 +1,8 @@
 Text file: ODRE2620.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-27 22:00:00
 idPredpisa: ODRE2620
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o Programu promocije sektorja sadja za obdobje 2021\u20132023"
 npbNum: 0
 path: /2021/26/2021-01-2694

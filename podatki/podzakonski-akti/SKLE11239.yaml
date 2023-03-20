@@ -1,17 +1,11 @@
 Text file: SKLE11239.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: SKLE11239
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi faktorja izhodi\u0161\u010Dne vrednosti enote posebne\
-  \ rabe vode (D) za potrebe kopali\u0161\u010D in ogrevanje, \u010De se rabi mineralna,\
-  \ termalna ali termomineralna voda, za leto 2018"
+naslov: "SKLEP o dolo\u010Ditvi faktorja izhodi\u0161\u010Dne vrednosti enote posebne
+  rabe vode (D) za potrebe kopali\u0161\u010D in ogrevanje, \u010De se rabi mineralna,
+  termalna ali termomineralna voda, za leto 2018"
 npbNum: 0
 path: /2017/35/2017-01-3505
 sopPredpisa: 2017-01-3505

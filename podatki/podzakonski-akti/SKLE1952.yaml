@@ -1,14 +1,8 @@
 Text file: SKLE1952.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 976834800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-12-14 23:00:00
 idPredpisa: SKLE1952
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o odprtju Konzulata Republike Slovenije v Caltanissetti
 npbNum: 0
 path: /2000/48/2000-01-4803

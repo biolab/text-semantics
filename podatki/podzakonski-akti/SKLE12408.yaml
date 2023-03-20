@@ -1,16 +1,10 @@
 Text file: SKLE12408.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1627682400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-30 22:00:00
 idPredpisa: SKLE12408
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju generalne konzulke Republike\
-  \ Slovenije v M\xFCnchnu"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju generalne konzulke Republike
+  Slovenije v M\xFCnchnu"
 npbNum: 0
 path: /2021/21/2021-01-2142
 sopPredpisa: 2021-01-2142

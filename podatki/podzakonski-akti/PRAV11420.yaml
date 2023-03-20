@@ -1,14 +1,8 @@
 Text file: PRAV11420.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1345845600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-08-24 22:00:00
 idPredpisa: PRAV11420
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o izvajanju subvencioniranega prevoza
 npbNum: 0
 path: /2012/26/2012-01-2610

@@ -1,14 +1,8 @@
 Text file: PRAV11915.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1402696800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-06-13 22:00:00
 idPredpisa: PRAV11915
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o obrazcih v zvezi z uveljavljanjem pravice do odstopa od pogodbe,
   sklenjene na daljavo ali zunaj poslovnih prostorov
 npbNum: 0

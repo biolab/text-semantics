@@ -1,16 +1,10 @@
 Text file: ODRE2705.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636498800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-09 23:00:00
 idPredpisa: ODRE2705
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu prenovljenih izobra\u017Eevalnih programov srednjega poklicnega\
-  \ izobra\u017Eevanja"
+naslov: "ODREDBO o sprejemu prenovljenih izobra\u017Eevalnih programov srednjega poklicnega
+  izobra\u017Eevanja"
 npbNum: 0
 path: /2021/34/2021-01-3465
 sopPredpisa: 2021-01-3465

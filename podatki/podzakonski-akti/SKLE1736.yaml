@@ -1,16 +1,10 @@
 Text file: SKLE1736.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 715298400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-08-31 22:00:00
 idPredpisa: SKLE1736
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o merilih in pogojih za zmanj\u0161anje ali odpis prispevka za zdravstveno\
-  \ zavarovanje"
+naslov: "SKLEP o merilih in pogojih za zmanj\u0161anje ali odpis prispevka za zdravstveno
+  zavarovanje"
 npbNum: 0
 path: /1992/20/1992-01-2055
 sopPredpisa: 1992-01-2055

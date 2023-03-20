@@ -1,16 +1,10 @@
 Text file: PRAV5582.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1258153200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-13 23:00:00
 idPredpisa: PRAV5582
 idPredpisaChng: PRAV5582
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu prevoza in varovanja denarja ter drugih vrednostnih\
-  \ po\u0161iljk (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o na\u010Dinu prevoza in varovanja denarja ter drugih vrednostnih
+  po\u0161iljk (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2009/38/2009-01-3812-2005-01-4198-npb3
 sopPredpisa: 2009-01-3812

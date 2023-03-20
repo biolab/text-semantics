@@ -1,17 +1,11 @@
 Text file: PRAV11836.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1417215600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-11-28 23:00:00
 idPredpisa: PRAV11836
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o homologaciji kmetijskih in gozdarskih traktorjev, njihovih priklopnikov\
-  \ in zamenljivih vle\u010Denih strojev ter njihovih sistemov, sestavnih delov in\
-  \ samostojnih tehni\u010Dnih enot"
+naslov: "PRAVILNIK o homologaciji kmetijskih in gozdarskih traktorjev, njihovih priklopnikov
+  in zamenljivih vle\u010Denih strojev ter njihovih sistemov, sestavnih delov in samostojnih
+  tehni\u010Dnih enot"
 npbNum: 0
 path: /2014/33/2014-01-3352
 sopPredpisa: 2014-01-3352

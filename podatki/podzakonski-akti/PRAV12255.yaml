@@ -1,14 +1,8 @@
 Text file: PRAV12255.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1418425200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-12 23:00:00
 idPredpisa: PRAV12255
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o nagradah in priznanjih Republike
   Slovenije za znanstveno-raziskovalno delo
 npbNum: 0

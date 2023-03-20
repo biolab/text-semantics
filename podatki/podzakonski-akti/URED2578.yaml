@@ -1,17 +1,10 @@
 Text file: URED2578.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1321657200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-11-18 23:00:00
 idPredpisa: URED2578
 idPredpisaChng: URED2578
-instock: .nan
-naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku \u0160entvid\u2013\
-  Koseze (delno preneha veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 4)"
+naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku \u0160entvid\u2013Koseze
+  (delno preneha veljati) (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2011/37/2011-01-3747-2002-01-3444-npb4
 sopPredpisa: 2011-01-3747

@@ -1,14 +1,8 @@
 Text file: SKLE195.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 923868000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-04-11 22:00:00
 idPredpisa: SKLE195
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o odprtju Konzulata Republike Slovenije v Monctonu
 npbNum: 0
 path: /1999/11/1999-01-1117

@@ -1,16 +1,10 @@
 Text file: ODLO1743.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1396648800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-04 22:00:00
 idPredpisa: ODLO1743
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine\
-  \ Ljubljana"
+naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine
+  Ljubljana"
 npbNum: 0
 path: /2014/09/2014-01-0958
 sopPredpisa: 2014-01-0958

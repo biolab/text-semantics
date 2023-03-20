@@ -1,16 +1,10 @@
 Text file: SKLE12236.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1605826800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-19 23:00:00
 idPredpisa: SKLE12236
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o za\u010Dasnem prenehanju teka rokov za uveljavljanje pravic strank\
-  \ v sodnih postopkih, dolo\u010Denih z zakonom"
+naslov: "SKLEP o za\u010Dasnem prenehanju teka rokov za uveljavljanje pravic strank
+  v sodnih postopkih, dolo\u010Denih z zakonom"
 npbNum: 0
 path: /2020/29/2020-01-2922
 sopPredpisa: 2020-01-2922

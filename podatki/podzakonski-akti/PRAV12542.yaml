@@ -1,16 +1,10 @@
 Text file: PRAV12542.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1618437600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-14 22:00:00
 idPredpisa: PRAV12542
 idPredpisaChng: PRAV12542
-instock: .nan
-naslov: "PRAVILNIK o pogojih, rokih, na\u010Dinu vklju\u010Ditve in uporabe eZdravja\
-  \ za obvezne uporabnike (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o pogojih, rokih, na\u010Dinu vklju\u010Ditve in uporabe eZdravja
+  za obvezne uporabnike (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2021/11/2021-01-1172-2015-01-2772-npb3
 sopPredpisa: 2021-01-1172

@@ -1,16 +1,10 @@
 Text file: SKLE5737.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1116453600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-18 22:00:00
 idPredpisa: SKLE5737
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi meril in kriterijev za obliko in vi\u0161ino dodatka\
-  \ za rekreacijo v letu 2005"
+naslov: "SKLEP o dolo\u010Ditvi meril in kriterijev za obliko in vi\u0161ino dodatka
+  za rekreacijo v letu 2005"
 npbNum: 0
 path: /2005/19/2005-01-1975
 sopPredpisa: 2005-01-1975

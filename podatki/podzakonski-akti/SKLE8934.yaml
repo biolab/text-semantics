@@ -1,18 +1,12 @@
 Text file: SKLE8934.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1304114400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-04-29 22:00:00
 idPredpisa: SKLE8934
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini zahteve za izdajo dovoljenja za opravljanje storitev izdajanja\
-  \ elektronskega denarja kot dru\u017Eba za izdajo elektronskega denarja, dru\u017E\
-  ba za izdajo elektronskega denarja z opustitvijo ter dovoljenja za pridobitev kvalificiranega\
-  \ dele\u017Ea v dru\u017Ebi za izdajo elektronskega denarja"
+naslov: "SKLEP o vsebini zahteve za izdajo dovoljenja za opravljanje storitev izdajanja
+  elektronskega denarja kot dru\u017Eba za izdajo elektronskega denarja, dru\u017Eba
+  za izdajo elektronskega denarja z opustitvijo ter dovoljenja za pridobitev kvalificiranega
+  dele\u017Ea v dru\u017Ebi za izdajo elektronskega denarja"
 npbNum: 0
 path: /2011/14/2011-01-1415
 sopPredpisa: 2011-01-1415

@@ -1,17 +1,11 @@
 Text file: PRAV6743.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136070000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-31 23:00:00
 idPredpisa: PRAV6743
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih in postopku za pridobitev statusa invalida, za priznanje\
-  \ pravice do zaposlitvene rehabilitacije in za ocenjevanje zaposlitvenih mo\u017E\
-  nosti invalidov ter o delu rehabilitacijskih komisij"
+naslov: "PRAVILNIK o merilih in postopku za pridobitev statusa invalida, za priznanje
+  pravice do zaposlitvene rehabilitacije in za ocenjevanje zaposlitvenih mo\u017Enosti
+  invalidov ter o delu rehabilitacijskih komisij"
 npbNum: 0
 path: /2005/51/2005-01-5164
 sopPredpisa: 2005-01-5164

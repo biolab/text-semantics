@@ -1,16 +1,10 @@
 Text file: URED4515.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1176847200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-17 22:00:00
 idPredpisa: URED4515
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja meddr\u017Eavnega mejnega\
-  \ prehoda Ormo\u017E"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja meddr\u017Eavnega mejnega
+  prehoda Ormo\u017E"
 npbNum: 0
 path: /2007/18/2007-01-1850
 sopPredpisa: 2007-01-1850

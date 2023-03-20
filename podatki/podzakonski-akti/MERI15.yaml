@@ -1,16 +1,10 @@
 Text file: MERI15.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1095458400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-09-17 22:00:00
 idPredpisa: MERI15
 idPredpisaChng: MERI15
-instock: .nan
-naslov: "MERILA za ocenjevanje pedago\u0161kih \u0161tudijskih programov, njihovem\
-  \ obsegu in strukturi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "MERILA za ocenjevanje pedago\u0161kih \u0161tudijskih programov, njihovem
+  obsegu in strukturi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2004/43/2004-01-4356-1998-01-2562-npb1
 sopPredpisa: 2004-01-4356

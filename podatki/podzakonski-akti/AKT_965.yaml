@@ -1,18 +1,11 @@
 Text file: AKT_965.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-31 23:00:00
 idPredpisa: AKT_965
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem\
-  \ zemeljskega plina na geografskih obmo\u010Djih Mestne ob\u010Dine Maribor in ob\u010D\
-  in Ru\u0161e, Ho\u010De-Slivnica, \u0160entilj, Miklav\u017E na Dravskem polju in\
-  \ Ra\u010De-Fram"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijski sistem
+  zemeljskega plina na geografskih obmo\u010Djih Mestne ob\u010Dine Maribor in ob\u010Din
+  Ru\u0161e, Ho\u010De-Slivnica, \u0160entilj, Miklav\u017E na Dravskem polju in Ra\u010De-Fram"
 npbNum: 0
 path: /2015/41/2015-01-4196
 sopPredpisa: 2015-01-4196

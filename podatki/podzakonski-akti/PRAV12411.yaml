@@ -1,17 +1,11 @@
 Text file: PRAV12411.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-27 22:00:00
 idPredpisa: PRAV12411
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izvr\u0161evanju varnostnih ukrepov obveznega psihiatri\u010D\
-  nega zdravljenja in varstva v\_zdravstvenem zavodu in obveznega psihiatri\u010D\
-  nega zdravljenja na prostosti"
+naslov: "PRAVILNIK o izvr\u0161evanju varnostnih ukrepov obveznega psihiatri\u010Dnega
+  zdravljenja in varstva v\_zdravstvenem zavodu in obveznega psihiatri\u010Dnega zdravljenja
+  na prostosti"
 npbNum: 0
 path: /2016/14/2016-01-1480
 sopPredpisa: 2016-01-1480

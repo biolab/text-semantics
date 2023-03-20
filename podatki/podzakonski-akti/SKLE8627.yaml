@@ -1,14 +1,8 @@
 Text file: SKLE8627.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1285365600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-24 22:00:00
 idPredpisa: SKLE8627
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o pogojih, ki jih mora izpolnjevati ban\u010Dni kreditni posrednik"
 npbNum: 0
 path: /2010/39/2010-01-3904

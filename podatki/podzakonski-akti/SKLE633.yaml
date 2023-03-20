@@ -1,19 +1,12 @@
 Text file: SKLE633.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 950828400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-02-17 23:00:00
 idPredpisa: SKLE633
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi A) osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Kr\u0161ka vas\u2013Obre\u017Eje B) predloga sprememb in dopolnitev\
-  \ prostorskih sestavin dolgoro\u010Dnega in srednjero\u010Dnega plana Ob\u010Dine\
-  \ Bre\u017Eice za obdobje od leta 1986 do leta 2000, ki ga opredeljuje osnutek lokacijskega\
-  \ na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi A) osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Kr\u0161ka vas\u2013Obre\u017Eje B) predloga sprememb in dopolnitev prostorskih
+  sestavin dolgoro\u010Dnega in srednjero\u010Dnega plana Ob\u010Dine Bre\u017Eice
+  za obdobje od leta 1986 do leta 2000, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /2000/06/2000-01-0695
 sopPredpisa: 2000-01-0695

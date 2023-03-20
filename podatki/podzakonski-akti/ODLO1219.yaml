@@ -1,17 +1,11 @@
 Text file: ODLO1219.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1070060400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-28 23:00:00
 idPredpisa: ODLO1219
 idPredpisaChng: ODLO1219
-instock: .nan
-naslov: "ODLOK o vi\u0161ini sredstev za ukrepe kmetijske strukturne politike Programa\
-  \ razvoja pode\u017Eelja 2000\u20132006 (SAPARD) (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "ODLOK o vi\u0161ini sredstev za ukrepe kmetijske strukturne politike Programa
+  razvoja pode\u017Eelja 2000\u20132006 (SAPARD) (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/50/2003-01-5072-2002-01-3712-npb2
 sopPredpisa: 2003-01-5072

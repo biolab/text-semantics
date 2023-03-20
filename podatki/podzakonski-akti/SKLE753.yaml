@@ -1,16 +1,10 @@
 Text file: SKLE753.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 871509600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-08-13 22:00:00
 idPredpisa: SKLE753
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o deveti emisiji dvodelnega prenosljivega blagajni\u0161kega zapisa\
-  \ Banke Slovenije"
+naslov: "SKLEP o deveti emisiji dvodelnega prenosljivega blagajni\u0161kega zapisa
+  Banke Slovenije"
 npbNum: 0
 path: /1997/27/1997-01-2719
 sopPredpisa: 1997-01-2719

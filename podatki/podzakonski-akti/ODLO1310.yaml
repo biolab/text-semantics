@@ -1,17 +1,11 @@
 Text file: ODLO1310.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1311631200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-25 22:00:00
 idPredpisa: ODLO1310
 idPredpisaChng: ODLO1310
-instock: .nan
-naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010D\
-  je plazu Macesnik v Ob\u010Dini Sol\u010Dava (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 2)"
+naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010Dje
+  plazu Macesnik v Ob\u010Dini Sol\u010Dava (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2011/27/2011-01-2788-2003-01-4170-npb2
 sopPredpisa: 2011-01-2788

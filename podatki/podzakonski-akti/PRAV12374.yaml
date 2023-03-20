@@ -1,17 +1,11 @@
 Text file: PRAV12374.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1429308000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-17 22:00:00
 idPredpisa: PRAV12374
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o evidenci o o\u0161kodovancih, izvedenih za\u0161\u010Ditah in\
-  \ ukrepih ter sklenjenih sporazumih o od\u0161kodninah zaradi \u0161kode, povzro\u010D\
-  ene po \u017Eivalih zavarovanih prosto \u017Eive\u010Dih vrst"
+naslov: "PRAVILNIK o evidenci o o\u0161kodovancih, izvedenih za\u0161\u010Ditah in
+  ukrepih ter sklenjenih sporazumih o od\u0161kodninah zaradi \u0161kode, povzro\u010Dene
+  po \u017Eivalih zavarovanih prosto \u017Eive\u010Dih vrst"
 npbNum: 0
 path: /2015/09/2015-01-0910
 sopPredpisa: 2015-01-0910

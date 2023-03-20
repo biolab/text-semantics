@@ -1,14 +1,8 @@
 Text file: URED6758.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1414188000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-10-24 22:00:00
 idPredpisa: URED6758
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koncesiji za graditev sede\u017Enice Kisovec"
 npbNum: 0
 path: /2014/30/2014-01-3004

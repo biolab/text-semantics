@@ -1,16 +1,10 @@
 Text file: ODRE1495.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 976662000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-12-12 23:00:00
 idPredpisa: ODRE1495
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o oblikah oznak skladnosti in znakov za ozna\u010Devanje \u010Distine\
-  \ ter o na\u010Dinu ozna\u010Devanja \u010Distine na izdelkih iz plemenitih kovin"
+naslov: "ODREDBO o oblikah oznak skladnosti in znakov za ozna\u010Devanje \u010Distine
+  ter o na\u010Dinu ozna\u010Devanja \u010Distine na izdelkih iz plemenitih kovin"
 npbNum: 0
 path: /2000/45/2000-01-4540
 sopPredpisa: 2000-01-4540

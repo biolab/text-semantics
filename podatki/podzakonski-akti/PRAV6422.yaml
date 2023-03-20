@@ -1,14 +1,8 @@
 Text file: PRAV6422.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1133305200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-29 23:00:00
 idPredpisa: PRAV6422
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izvajanju javnih pooblastil na podro\u010Dju raziskovalne dejavnosti"
 npbNum: 0
 path: /2005/46/2005-01-4659

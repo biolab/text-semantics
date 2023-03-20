@@ -1,18 +1,12 @@
 Text file: PRAV13744.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1558130400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-17 22:00:00
 idPredpisa: PRAV13744
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v\
-  \ javnem interesu na podro\u010Djih vzgoje in izobra\u017Eevanja, znanosti, raziskovalne\
-  \ dejavnosti in \u0161porta"
+naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v javnem
+  interesu na podro\u010Djih vzgoje in izobra\u017Eevanja, znanosti, raziskovalne
+  dejavnosti in \u0161porta"
 npbNum: 0
 path: /2019/14/2019-01-1441
 sopPredpisa: 2019-01-1441

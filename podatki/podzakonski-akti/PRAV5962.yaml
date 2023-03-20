@@ -1,17 +1,10 @@
 Text file: PRAV5962.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1087596000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-18 22:00:00
 idPredpisa: PRAV5962
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi pristojnih organov in programu nadzora salmonele\
-  \ in drugih opredeljenih povzro\u010Diteljev zoonoz, ki se prena\u0161ajo z \u017E\
-  ivili"
+naslov: "PRAVILNIK o dolo\u010Ditvi pristojnih organov in programu nadzora salmonele
+  in drugih opredeljenih povzro\u010Diteljev zoonoz, ki se prena\u0161ajo z \u017Eivili"
 npbNum: 0
 path: /2004/30/2004-01-3023
 sopPredpisa: 2004-01-3023

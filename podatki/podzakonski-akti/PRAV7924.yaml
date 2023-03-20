@@ -1,16 +1,10 @@
 Text file: PRAV7924.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1245794400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-06-23 22:00:00
 idPredpisa: PRAV7924
 idPredpisaChng: PRAV7924
-instock: .nan
-naslov: "PRAVILNIK o predlo\u017Eitvi sprejetih ob\u010Dinskih prora\u010Dunov (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o predlo\u017Eitvi sprejetih ob\u010Dinskih prora\u010Dunov (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2009/23/2009-01-2337-2007-01-5798-npb1
 sopPredpisa: 2009-01-2337

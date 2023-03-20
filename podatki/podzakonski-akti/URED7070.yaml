@@ -1,16 +1,10 @@
 Text file: URED7070.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1446850800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-11-06 23:00:00
 idPredpisa: URED7070
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo termalne vode za ogrevanje in potrebe kopali\u0161\
-  \u010Da v Termah Dobrna iz izvira Zdravili\u0161ki dom in iz vrtine V-8/76"
+naslov: "UREDBO o koncesiji za rabo termalne vode za ogrevanje in potrebe kopali\u0161\u010Da
+  v Termah Dobrna iz izvira Zdravili\u0161ki dom in iz vrtine V-8/76"
 npbNum: 0
 path: /2015/33/2015-01-3346
 sopPredpisa: 2015-01-3346

@@ -1,16 +1,10 @@
 Text file: PRAV10989.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1467410400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-01 22:00:00
 idPredpisa: PRAV10989
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o registraciji, ozna\u010Devanju, plovnosti ter listinah in knjigah\
-  \ voja\u0161kih zrakoplovov"
+naslov: "PRAVILNIK o registraciji, ozna\u010Devanju, plovnosti ter listinah in knjigah
+  voja\u0161kih zrakoplovov"
 npbNum: 0
 path: /2016/18/2016-01-1844
 sopPredpisa: 2016-01-1844

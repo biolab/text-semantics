@@ -1,16 +1,10 @@
 Text file: URED7063.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450479600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-18 23:00:00
 idPredpisa: URED7063
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo mineralne vode za potrebe kopali\u0161\u010Da\
-  \ Aquapark Hotel \u017Dusterna iz vrtine K\u017DV-1/2001"
+naslov: "UREDBO o koncesiji za rabo mineralne vode za potrebe kopali\u0161\u010Da
+  Aquapark Hotel \u017Dusterna iz vrtine K\u017DV-1/2001"
 npbNum: 0
 path: /2015/38/2015-01-3843
 sopPredpisa: 2015-01-3843

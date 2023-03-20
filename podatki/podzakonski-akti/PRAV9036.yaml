@@ -1,16 +1,10 @@
 Text file: PRAV9036.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217628000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-01 22:00:00
 idPredpisa: PRAV9036
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o vzor\u010Denju in analiznih metodah\
-  \ za surovo in toplotno obdelano mleko"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o vzor\u010Denju in analiznih metodah
+  za surovo in toplotno obdelano mleko"
 npbNum: 0
 path: /2008/32/2008-01-3214
 sopPredpisa: 2008-01-3214

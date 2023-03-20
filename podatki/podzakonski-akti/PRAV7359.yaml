@@ -1,16 +1,10 @@
 Text file: PRAV7359.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1448924400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-11-30 23:00:00
 idPredpisa: PRAV7359
 idPredpisaChng: PRAV7359
-instock: .nan
-naslov: "PRAVILNIK o strokovno medicinskih pogojih za odvzem krvi (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o strokovno medicinskih pogojih za odvzem krvi (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 3)"
 npbNum: 3
 path: /2015/35/2015-01-3574-2007-01-0397-npb3
 sopPredpisa: 2015-01-3574

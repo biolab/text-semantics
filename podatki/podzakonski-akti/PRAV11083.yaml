@@ -1,19 +1,10 @@
 Text file: PRAV11083.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1664575200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656712800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-09-30 22:00:00
+datumZacetkaVelj: 2022-07-01 22:00:00
 idPredpisa: PRAV11083
 idPredpisaChng: PRAV11083
-instock: .nan
-naslov: "PRAVILNIK o omejevanju uporabe dolo\u010Denih nevarnih snovi v elektri\u010D\
-  ni in elektronski opremi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 12)"
+naslov: "PRAVILNIK o omejevanju uporabe dolo\u010Denih nevarnih snovi v elektri\u010Dni
+  in elektronski opremi (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 12)"
 npbNum: 12
 path: /2022/21/2022-01-2180-2012-01-3952-npb12
 sopPredpisa: 2022-01-2180

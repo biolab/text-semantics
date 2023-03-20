@@ -1,16 +1,10 @@
 Text file: URED4136.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1391814000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-07 23:00:00
 idPredpisa: URED4136
 idPredpisaChng: URED4136
-instock: .nan
-naslov: "UREDBA o uporabi plovil na motorni pogon na odseku reke Krke skozi Novo mesto\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o uporabi plovil na motorni pogon na odseku reke Krke skozi Novo mesto
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2014/01/2014-01-0119-2006-01-1771-npb1
 sopPredpisa: 2014-01-0119

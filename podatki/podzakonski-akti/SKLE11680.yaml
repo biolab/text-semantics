@@ -1,20 +1,10 @@
 Text file: SKLE11680.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1552690800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-12-31 23:00:00
+datumZacetkaVelj: 2019-03-15 23:00:00
 idPredpisa: SKLE11680
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uvedbi pove\u010Danja uporabnine za posebni investicijski projekt\
-  \ izgradnje drugega tira \u017Eelezni\u0161ke povezave na odseku Diva\u010Da\u2013\
-  Koper"
+naslov: "SKLEP o uvedbi pove\u010Danja uporabnine za posebni investicijski projekt
+  izgradnje drugega tira \u017Eelezni\u0161ke povezave na odseku Diva\u010Da\u2013Koper"
 npbNum: 0
 path: /2019/05/2019-01-0506
 sopPredpisa: 2019-01-0506

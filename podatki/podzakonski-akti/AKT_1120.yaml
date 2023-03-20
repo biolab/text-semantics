@@ -1,14 +1,8 @@
 Text file: AKT_1120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561154400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-06-21 22:00:00
 idPredpisa: AKT_1120
 idPredpisaChng: null
-instock: .nan
 naslov: "OPERATIVNO - TEHNI\u010CNO ZAHTEVO za izvajanje uvodnih letov"
 npbNum: 0
 path: /2019/16/2019-01-1645

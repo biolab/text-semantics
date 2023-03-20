@@ -1,14 +1,8 @@
 Text file: PRAV13837.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562364000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-05 22:00:00
 idPredpisa: PRAV13837
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o registrih Agencije za javni nadzor nad revidiranjem
 npbNum: 0
 path: /2019/20/2019-01-2018

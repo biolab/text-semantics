@@ -1,20 +1,11 @@
 Text file: ODRE2547.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584313200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584140400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-03-15 23:00:00
+datumZacetkaVelj: 2020-03-13 23:00:00
 idPredpisa: ODRE2547
 idPredpisaChng: ODRE2547
-instock: .nan
-naslov: "ODREDBA o prepovedi zbiranja ljudi v zavodih s podro\u010Dja vzgoje in izobra\u017E\
-  evanja ter univerzah in samostojnih visoko\u0161olskih zavodih (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODREDBA o prepovedi zbiranja ljudi v zavodih s podro\u010Dja vzgoje in izobra\u017Eevanja
+  ter univerzah in samostojnih visoko\u0161olskih zavodih (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/05/2020-01-0549-2020-01-0530-npb1
 sopPredpisa: 2020-01-0549

@@ -1,16 +1,10 @@
 Text file: SKLE11802.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562882400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-11 22:00:00
 idPredpisa: SKLE11802
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o poslovnih knjigah, letnih in polletnih poro\u010Dilih borznoposredni\u0161\
-  kih dru\u017Eb"
+naslov: "SKLEP o poslovnih knjigah, letnih in polletnih poro\u010Dilih borznoposredni\u0161kih
+  dru\u017Eb"
 npbNum: 0
 path: /2019/19/2019-01-1908
 sopPredpisa: 2019-01-1908

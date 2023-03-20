@@ -1,16 +1,10 @@
 Text file: PRAV6907.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1113516000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-04-14 22:00:00
 idPredpisa: PRAV6907
 idPredpisaChng: null
-instock: .nan
-naslov: "SEZNAM sort krompirja, ki so odporne proti krompirjevemu raku in krompirjevim\
-  \ ogor\u010Dicam in imajo dovoljenje za trgovanje v Republiki Sloveniji"
+naslov: "SEZNAM sort krompirja, ki so odporne proti krompirjevemu raku in krompirjevim
+  ogor\u010Dicam in imajo dovoljenje za trgovanje v Republiki Sloveniji"
 npbNum: 0
 path: /2005/13/2005-01-1314
 sopPredpisa: 2005-01-1314

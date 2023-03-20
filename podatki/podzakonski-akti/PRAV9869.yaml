@@ -1,19 +1,13 @@
 Text file: PRAV9869.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259103600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-24 23:00:00
 idPredpisa: PRAV9869
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov s podro\u010Dja poklicnega\
-  \ in srednjega strokovnega izobra\u017Eevanja (NPI \u2013 Pomo\u010Dnik pri tehnologiji\
-  \ gradnje, SPI \u2013 Dimnikar, Izvajalec suhomonta\u017Ene gradnje, Kamnosek, Pe\u010D\
-  ar \u2013 polagalec kerami\u010Dnih oblog, Polagalec talnih oblog, Slikopleskar\
-  \ \u2013 \u010Drkoslikar, Tesar, Upravljalec te\u017Eke gradbene mehanizacije, Zidar)"
+naslov: "PRAVILNIK o sprejemu izobra\u017Eevalnih programov s podro\u010Dja poklicnega
+  in srednjega strokovnega izobra\u017Eevanja (NPI \u2013 Pomo\u010Dnik pri tehnologiji
+  gradnje, SPI \u2013 Dimnikar, Izvajalec suhomonta\u017Ene gradnje, Kamnosek, Pe\u010Dar
+  \u2013 polagalec kerami\u010Dnih oblog, Polagalec talnih oblog, Slikopleskar \u2013
+  \u010Drkoslikar, Tesar, Upravljalec te\u017Eke gradbene mehanizacije, Zidar)"
 npbNum: 0
 path: /2009/41/2009-01-4173
 sopPredpisa: 2009-01-4173

@@ -1,14 +1,8 @@
 Text file: SKLE12693.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657231200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-07 22:00:00
 idPredpisa: SKLE12693
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o dokumentaciji glede pogojev za pridobitev dovoljenja za izdajo programa
   hipotekarnih oziroma komunalnih obveznic
 npbNum: 0

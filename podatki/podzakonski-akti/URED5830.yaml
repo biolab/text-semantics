@@ -1,16 +1,10 @@
 Text file: URED5830.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1310162400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-07-08 22:00:00
 idPredpisa: URED5830
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za celovito prostorsko ureditev\
-  \ pristani\u0161\u010Da za mednarodni promet v Kopru"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za celovito prostorsko ureditev
+  pristani\u0161\u010Da za mednarodni promet v Kopru"
 npbNum: 0
 path: /2011/22/2011-01-2287
 sopPredpisa: 2011-01-2287

@@ -1,16 +1,10 @@
 Text file: ODLO2253.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1615503600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-11 23:00:00
 idPredpisa: ODLO2253
 idPredpisaChng: ODLO2253
-instock: .nan
-naslov: "ODLOK o za\u010Dasni omejitvi kolektivnega uresni\u010Devanja verske svobode\
-  \ v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 12)"
+naslov: "ODLOK o za\u010Dasni omejitvi kolektivnega uresni\u010Devanja verske svobode
+  v Republiki Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 12)"
 npbNum: 12
 path: /2021/07/2021-01-0705-2020-01-3333-npb12
 sopPredpisa: 2021-01-0705

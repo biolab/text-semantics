@@ -1,16 +1,10 @@
 Text file: SKLE4246.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1068159600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-06 23:00:00
 idPredpisa: SKLE4246
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi predloga lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Lendava\u2013Pince z odcepom hitre ceste na Dolgo vas"
+naslov: "SKLEP  o javni razgrnitvi predloga lokacijskega na\u010Drta za avtocesto
+  na odseku Lendava\u2013Pince z odcepom hitre ceste na Dolgo vas"
 npbNum: 0
 path: /2003/47/2003-01-4726
 sopPredpisa: 2003-01-4726

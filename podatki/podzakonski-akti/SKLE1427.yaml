@@ -1,17 +1,11 @@
 Text file: SKLE1427.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 687135600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-10-10 23:00:00
 idPredpisa: SKLE1427
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o obveznosti in na\u010Dinu poro\u010Danja o poslih nakupa in prodaje\
-  \ terjatev, o prevzemu obveznosti do tujine in o pobotu medsebojnih dospelih obveznosti\
-  \ in terjatev"
+naslov: "SKLEP o obveznosti in na\u010Dinu poro\u010Danja o poslih nakupa in prodaje
+  terjatev, o prevzemu obveznosti do tujine in o pobotu medsebojnih dospelih obveznosti
+  in terjatev"
 npbNum: 0
 path: /1991/06/1991-01-0695
 sopPredpisa: 1991-01-0695

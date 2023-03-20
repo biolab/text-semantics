@@ -1,16 +1,10 @@
 Text file: SKLE6444.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1143669600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-03-29 22:00:00
 idPredpisa: SKLE6444
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine in na\u010Dina pla\u010Devanja \u010D\
-  lanarine Obmo\u010Dni obrtni zbornici Vrhnika za leto 2006"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine in na\u010Dina pla\u010Devanja \u010Dlanarine
+  Obmo\u010Dni obrtni zbornici Vrhnika za leto 2006"
 npbNum: 0
 path: /2006/13/2006-01-1361
 sopPredpisa: 2006-01-1361

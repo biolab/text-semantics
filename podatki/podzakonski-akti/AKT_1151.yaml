@@ -1,16 +1,14 @@
 Text file: AKT_1151.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1151
 idPredpisaChng: null
-instock: .nan
-naslov: "REVALORIZACIJO nadomestil za prireditve v organizaciji \u0160tudentske organizacije\
-  \ Slovenije, kjer je uporaba fonogramov klju\u010Dnega pomena kot so koncerti in\
-  \ prireditve, ki so organizirane izklju\u010Dno ali prvenstveno zaradi javnega priob\u010D\
-  evanja fonogramov ter prireditve, pri katerih gre za kombinacijo razli\u010Dnih\
-  \ umetni\u0161kih zvrsti in pri katerih se fonogrami ne uporabljajo le za zvo\u010D\
-  no ozadje ampak kot del prireditve,"
+naslov: "REVALORIZACIJO nadomestil za prireditve v organizaciji \u0160tudentske organizacije
+  Slovenije, kjer je uporaba fonogramov klju\u010Dnega pomena kot so koncerti in prireditve,
+  ki so organizirane izklju\u010Dno ali prvenstveno zaradi javnega priob\u010Devanja
+  fonogramov ter prireditve, pri katerih gre za kombinacijo razli\u010Dnih umetni\u0161kih
+  zvrsti in pri katerih se fonogrami ne uporabljajo le za zvo\u010Dno ozadje ampak
+  kot del prireditve,"
 npbNum: 0
 path: /2020/00/2020-01-0023
 sopPredpisa: 2020-01-0023

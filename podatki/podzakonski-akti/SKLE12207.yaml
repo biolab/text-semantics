@@ -1,19 +1,13 @@
 Text file: SKLE12207.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643756400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-01 23:00:00
 idPredpisa: SKLE12207
 idPredpisaChng: SKLE12207
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in\
-  \ namestnikov \u010Dlanov Preiskovalne komisije o zagotavljanju za\u0161\u010Ditne\
-  \ opreme ter ukrepih institucij in nosilcev javnih funkcij za zajezitev \u0161irjenja\
-  \ bolezni COVID-19 od 1. 2. 2020 do odreditve predmetne parlamentarne preiskave\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in
+  namestnikov \u010Dlanov Preiskovalne komisije o zagotavljanju za\u0161\u010Ditne
+  opreme ter ukrepih institucij in nosilcev javnih funkcij za zajezitev \u0161irjenja
+  bolezni COVID-19 od 1. 2. 2020 do odreditve predmetne parlamentarne preiskave (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2022/02/2022-01-0224-2020-01-2370-npb4
 sopPredpisa: 2022-01-0224

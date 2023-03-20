@@ -1,14 +1,8 @@
 Text file: TARI67.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1107212400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-01-31 23:00:00
 idPredpisa: TARI67
 idPredpisaChng: null
-instock: .nan
 naslov: TARIFO Zavoda IPF za reproduciranje glasbenih posnetkov v digitalne Juke-box
   aparate
 npbNum: 0

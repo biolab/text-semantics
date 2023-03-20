@@ -1,17 +1,8 @@
 Text file: KOLP587.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640386800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-31 23:00:00
+datumZacetkaVelj: 2021-12-24 23:00:00
 idPredpisa: KOLP587
 idPredpisaChng: null
-instock: .nan
 naslov: "KOLEKTIVNO POGODBO za po\u0161tne in kurirske dejavnosti"
 npbNum: 0
 path: /2021/40/2021-01-4080

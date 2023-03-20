@@ -1,14 +1,8 @@
 Text file: SKLE7394.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196204400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-27 23:00:00
 idPredpisa: SKLE7394
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o najni\u017Eji pokojninski osnovi"
 npbNum: 0
 path: /2007/53/2007-01-5359

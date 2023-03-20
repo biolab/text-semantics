@@ -1,16 +1,10 @@
 Text file: SKLE5482.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1112911200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-04-07 22:00:00
 idPredpisa: SKLE5482
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vplivno obmo\u010D\
-  je plazu Podmark v Ob\u010Dini \u0160empeter-Vrtojba"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za vplivno obmo\u010Dje
+  plazu Podmark v Ob\u010Dini \u0160empeter-Vrtojba"
 npbNum: 0
 path: /2005/12/2005-01-1250
 sopPredpisa: 2005-01-1250

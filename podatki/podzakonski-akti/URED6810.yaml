@@ -1,16 +1,10 @@
 Text file: URED6810.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1402092000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-06-06 22:00:00
 idPredpisa: URED6810
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih\
-  \ kovancev ob 500.\_obletnici prvega slovenskega tiskanega besedila"
+naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih
+  kovancev ob 500.\_obletnici prvega slovenskega tiskanega besedila"
 npbNum: 0
 path: /2014/16/2014-01-1679
 sopPredpisa: 2014-01-1679

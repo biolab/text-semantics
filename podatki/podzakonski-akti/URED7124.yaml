@@ -1,17 +1,11 @@
 Text file: URED7124.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1535148000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-24 22:00:00
 idPredpisa: URED7124
 idPredpisaChng: URED7124
-instock: .nan
-naslov: "UREDBA o koncesiji za rabo termalne vode za ogrevanje objektov dru\u017E\
-  be Paradajz d.\_o.\_o. iz vrtine Re-1g/11 (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o koncesiji za rabo termalne vode za ogrevanje objektov dru\u017Ebe
+  Paradajz d.\_o.\_o. iz vrtine Re-1g/11 (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2018/28/2018-01-2870-2015-01-3916-npb1
 sopPredpisa: 2018-01-2870

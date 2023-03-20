@@ -1,16 +1,10 @@
 Text file: URED4090.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1139612400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-02-10 23:00:00
 idPredpisa: URED4090
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za uporabo vode za proizvodnjo elektri\u010Dne energije\
-  \ na delu vodnega telesa vodotoka Savinja \u2013 Gru\u0161oveljska struga"
+naslov: "UREDBO o koncesiji za uporabo vode za proizvodnjo elektri\u010Dne energije
+  na delu vodnega telesa vodotoka Savinja \u2013 Gru\u0161oveljska struga"
 npbNum: 0
 path: /2006/03/2006-01-0300
 sopPredpisa: 2006-01-0300

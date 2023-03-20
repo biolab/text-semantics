@@ -1,14 +1,8 @@
 Text file: ODRE2499.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1559340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-31 22:00:00
 idPredpisa: ODRE2499
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o prepovedi prometa na cestah v Republiki Sloveniji
 npbNum: 0
 path: /2019/15/2019-01-1581

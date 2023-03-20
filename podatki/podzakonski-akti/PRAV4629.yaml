@@ -1,16 +1,10 @@
 Text file: PRAV4629.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1042239600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-01-10 23:00:00
 idPredpisa: PRAV4629
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe Informatika"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe Informatika"
 npbNum: 0
 path: /2003/00/2003-01-0091
 sopPredpisa: 2003-01-0091

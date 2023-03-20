@@ -1,16 +1,10 @@
 Text file: KOLP55.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1622757600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-03 22:00:00
 idPredpisa: KOLP55
 idPredpisaChng: KOLP55
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA za zdravnike in zobozdravnike v Republiki Sloveniji (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 16)"
+naslov: "KOLEKTIVNA POGODBA za zdravnike in zobozdravnike v Republiki Sloveniji (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 16)"
 npbNum: 16
 path: /2021/18/2021-01-1847-1994-01-0543-npb16
 sopPredpisa: 2021-01-1847

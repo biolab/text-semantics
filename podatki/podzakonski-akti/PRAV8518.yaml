@@ -1,14 +1,8 @@
 Text file: PRAV8518.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1219442400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-22 22:00:00
 idPredpisa: PRAV8518
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o ozna\u010Devanju in opremljanju planinskih poti"
 npbNum: 0
 path: /2008/35/2008-01-3594

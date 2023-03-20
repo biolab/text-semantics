@@ -1,14 +1,8 @@
 Text file: URED670.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 930693600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-06-29 22:00:00
 idPredpisa: URED670
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o lokacijskem na\u010Drtu za avtocesto na odseku Klanec-Srmin"
 npbNum: 0
 path: /1999/24/1999-01-2444

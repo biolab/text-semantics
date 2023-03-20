@@ -1,17 +1,10 @@
 Text file: PRAV8537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201734000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-30 23:00:00
 idPredpisa: PRAV8537
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu sporo\u010Danja podatkov odvetnika, odvetni\u0161\
-  ke dru\u017Ebe ali notarja Uradu Republike Slovenije za prepre\u010Devanje pranja\
-  \ denarja"
+naslov: "PRAVILNIK o na\u010Dinu sporo\u010Danja podatkov odvetnika, odvetni\u0161ke
+  dru\u017Ebe ali notarja Uradu Republike Slovenije za prepre\u010Devanje pranja denarja"
 npbNum: 0
 path: /2008/03/2008-01-0310
 sopPredpisa: 2008-01-0310

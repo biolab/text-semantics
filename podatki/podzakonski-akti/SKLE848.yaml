@@ -1,16 +1,10 @@
 Text file: SKLE848.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 725151600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-12-23 23:00:00
 idPredpisa: SKLE848
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o izro\u010Ditvi kovancev za 5 tolarjev, 2 tolarja in 1 tolar ter 50\
-  \ stotinov v obtok"
+naslov: "SKLEP o izro\u010Ditvi kovancev za 5 tolarjev, 2 tolarja in 1 tolar ter 50
+  stotinov v obtok"
 npbNum: 0
 path: /1992/28/1992-01-2815
 sopPredpisa: 1992-01-2815

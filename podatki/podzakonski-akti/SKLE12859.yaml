@@ -1,14 +1,8 @@
 Text file: SKLE12859.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1654293600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-06-03 22:00:00
 idPredpisa: SKLE12859
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic o nadzoru na podlagi tveganja
 npbNum: 0
 path: /2022/18/2022-01-1805

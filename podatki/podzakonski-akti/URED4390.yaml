@@ -1,19 +1,10 @@
 Text file: URED4390.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1183500000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1176242400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2007-07-03 22:00:00
+datumZacetkaVelj: 2007-04-10 22:00:00
 idPredpisa: URED4390
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o dolo\u010Denih fluoriranih toplogrednih\
-  \ plinih"
+naslov: "UREDBO o izvajanju Uredbe (ES) o dolo\u010Denih fluoriranih toplogrednih
+  plinih"
 npbNum: 0
 path: /2007/17/2007-01-1703
 sopPredpisa: 2007-01-1703

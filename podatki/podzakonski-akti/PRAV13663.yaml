@@ -1,16 +1,10 @@
 Text file: PRAV13663.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577228400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-24 23:00:00
 idPredpisa: PRAV13663
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u010D\
-  ko II (2019\u20132028)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Gori\u010Dko
+  II (2019\u20132028)"
 npbNum: 0
 path: /2019/35/2019-01-3538
 sopPredpisa: 2019-01-3538

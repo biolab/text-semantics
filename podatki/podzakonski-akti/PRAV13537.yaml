@@ -1,17 +1,11 @@
 Text file: PRAV13537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1554501600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-05 22:00:00
 idPredpisa: PRAV13537
 idPredpisaChng: PRAV13537
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o drugih oblikah izobra\u017E\
-  evanja na Visoko\u0161olskem zavodu Fizioterapevtika (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o vsebini in obliki diplom ter potrdil o drugih oblikah izobra\u017Eevanja
+  na Visoko\u0161olskem zavodu Fizioterapevtika (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/09/2019-01-0928-2018-01-2119-npb1
 sopPredpisa: 2019-01-0928

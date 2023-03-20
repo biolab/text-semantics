@@ -1,17 +1,8 @@
 Text file: SKLE11810.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1561845600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1559340000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-06-29 22:00:00
+datumZacetkaVelj: 2019-05-31 22:00:00
 idPredpisa: SKLE11810
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic o upravljanju nedonosnih in restrukturiranih izpostavljenosti
   (EBA/GL/2018/06)
 npbNum: 0

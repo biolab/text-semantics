@@ -1,16 +1,10 @@
 Text file: PRAV9457.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1252706400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-11 22:00:00
 idPredpisa: PRAV9457
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o metodologiji za oblikovanje cen presku\u0161anja zdravil pri\
-  \ izvajanju kontrole kakovosti zdravil"
+naslov: "PRAVILNIK o metodologiji za oblikovanje cen presku\u0161anja zdravil pri
+  izvajanju kontrole kakovosti zdravil"
 npbNum: 0
 path: /2009/30/2009-01-3085
 sopPredpisa: 2009-01-3085

@@ -1,13 +1,11 @@
 Text file: AKT_1155.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: AKT_1155
 idPredpisaChng: null
-instock: .nan
-naslov: "REVALORIZACIJO nadomestil za uporabo avtorsko varovanih del iz repertoarja\
-  \ IPF, k.o. za podro\u010Dje trgovskih centrov, blagovnih centrov, prodajaln, tr\u017E\
-  nic in bencinskih \u010Drpalk,"
+naslov: "REVALORIZACIJO nadomestil za uporabo avtorsko varovanih del iz repertoarja
+  IPF, k.o. za podro\u010Dje trgovskih centrov, blagovnih centrov, prodajaln, tr\u017Enic
+  in bencinskih \u010Drpalk,"
 npbNum: 0
 path: /2020/00/2020-01-0027
 sopPredpisa: 2020-01-0027

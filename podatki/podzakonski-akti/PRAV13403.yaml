@@ -1,16 +1,10 @@
 Text file: PRAV13403.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614898800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-04 23:00:00
 idPredpisa: PRAV13403
 idPredpisaChng: PRAV13403
-instock: .nan
-naslov: "PRAVILNIK o posebnih zahtevah varstva pred sevanji in na\u010Dinu ocene doz\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o posebnih zahtevah varstva pred sevanji in na\u010Dinu ocene doz
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/06/2021-01-0633-2018-01-2424-npb1
 sopPredpisa: 2021-01-0633

@@ -1,16 +1,10 @@
 Text file: ODRE1859.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1021327200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-13 22:00:00
 idPredpisa: ODRE1859
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o merilih za dolo\u010Danje pove\u010Dane nevarnosti \_nastanka\
-  \ po\u017Eara, eksplozije ali druge \_posebne nevarnosti"
+naslov: "ODREDBO  o merilih za dolo\u010Danje pove\u010Dane nevarnosti \_nastanka
+  po\u017Eara, eksplozije ali druge \_posebne nevarnosti"
 npbNum: 0
 path: /2002/18/2002-01-1821
 sopPredpisa: 2002-01-1821

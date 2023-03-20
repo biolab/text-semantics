@@ -1,16 +1,10 @@
 Text file: STAT15.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657922400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-15 22:00:00
 idPredpisa: STAT15
 idPredpisaChng: STAT15
-instock: .nan
-naslov: "STATUT Notarske zbornice Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 8)"
+naslov: "STATUT Notarske zbornice Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 8)"
 npbNum: 8
 path: /2022/21/2022-01-2185-1995-01-0836-npb8
 sopPredpisa: 2022-01-2185

@@ -1,17 +1,11 @@
 Text file: SKLE4202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1059688800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-07-31 22:00:00
 idPredpisa: SKLE4202
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL \u0161t. 51,  o dopolnitvi na\u010D\
-  el za dolo\u010Danje stro\u0161kovne baze za pristojbine na zra\u010Dnih poteh in\
-  \ izra\u010Dun cen za enoto storitve,"
+naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL \u0161t. 51,  o dopolnitvi na\u010Del
+  za dolo\u010Danje stro\u0161kovne baze za pristojbine na zra\u010Dnih poteh in izra\u010Dun
+  cen za enoto storitve,"
 npbNum: 0
 path: /2003/40/2003-01-4025
 sopPredpisa: 2003-01-4025

@@ -1,16 +1,10 @@
 Text file: PRAV10046.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1326495600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-13 23:00:00
 idPredpisa: PRAV10046
 idPredpisaChng: PRAV10046
-instock: .nan
-naslov: "PRAVILNIK o pogojih za opravljanje storitev potro\u0161ni\u0161kega kreditiranja\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih za opravljanje storitev potro\u0161ni\u0161kega kreditiranja
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2011/49/2011-01-4996-2010-01-5230-npb1
 sopPredpisa: 2011-01-4996

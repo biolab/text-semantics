@@ -1,16 +1,10 @@
 Text file: URED2655.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1034978400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-18 22:00:00
 idPredpisa: URED2655
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni\
-  \ promet Osilnica"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja mejnega prehoda za obmejni
+  promet Osilnica"
 npbNum: 0
 path: /2002/44/2002-01-4443
 sopPredpisa: 2002-01-4443

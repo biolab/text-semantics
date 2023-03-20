@@ -1,14 +1,8 @@
 Text file: PRAV10982.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1328569200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-06 23:00:00
 idPredpisa: PRAV10982
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o sprejemu vi\u0161je\u0161olskega \u0161tudijskega programa Policist"
 npbNum: 0
 path: /2012/01/2012-01-0180

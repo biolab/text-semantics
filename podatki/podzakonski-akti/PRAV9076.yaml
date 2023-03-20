@@ -1,16 +1,10 @@
 Text file: PRAV9076.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1215813600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-11 22:00:00
 idPredpisa: PRAV9076
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o \u0161olninah in bivanju v \u0161tudentskih domovih za Slovence\
-  \ brez slovenskega dr\u017Eavljanstva in tujce v Republiki Sloveniji"
+naslov: "PRAVILNIK o \u0161olninah in bivanju v \u0161tudentskih domovih za Slovence
+  brez slovenskega dr\u017Eavljanstva in tujce v Republiki Sloveniji"
 npbNum: 0
 path: /2008/30/2008-01-3097
 sopPredpisa: 2008-01-3097

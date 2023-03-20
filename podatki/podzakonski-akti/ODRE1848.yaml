@@ -1,17 +1,11 @@
 Text file: ODRE1848.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1019253600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-19 22:00:00
 idPredpisa: ODRE1848
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D \_\
-  in zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta\
-  \ 2001"
+naslov: "ODREDBO  o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D \_in
+  zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta
+  2001"
 npbNum: 0
 path: /2002/16/2002-01-1616
 sopPredpisa: 2002-01-1616

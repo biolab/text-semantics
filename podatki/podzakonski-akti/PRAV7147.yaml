@@ -1,16 +1,10 @@
 Text file: PRAV7147.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132354800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-18 23:00:00
 idPredpisa: PRAV7147
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in obliki vloge za dodelitev sredstev za odpravo posledic\
-  \ naravnih nesre\u010D"
+naslov: "PRAVILNIK o vsebini in obliki vloge za dodelitev sredstev za odpravo posledic
+  naravnih nesre\u010D"
 npbNum: 0
 path: /2005/44/2005-01-4491
 sopPredpisa: 2005-01-4491

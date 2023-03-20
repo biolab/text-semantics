@@ -1,16 +1,10 @@
 Text file: ODLO1902.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1505167200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-11 22:00:00
 idPredpisa: ODLO1902
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine\
-  \ Novo mesto"
+naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine
+  Novo mesto"
 npbNum: 0
 path: /2017/23/2017-01-2332
 sopPredpisa: 2017-01-2332

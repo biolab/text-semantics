@@ -1,16 +1,10 @@
 Text file: SKLE12410.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620079200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-03 22:00:00
 idPredpisa: SKLE12410
 idPredpisaChng: null
-instock: .nan
-naslov: "UGOTOVITVENI SKLEP o najni\u017Eji pokojnini, zagotovljeni pokojnini in najni\u017E\
-  jem znesku invalidske pokojnine od 1. maja 2021"
+naslov: "UGOTOVITVENI SKLEP o najni\u017Eji pokojnini, zagotovljeni pokojnini in najni\u017Ejem
+  znesku invalidske pokojnine od 1. maja 2021"
 npbNum: 0
 path: /2021/14/2021-01-1463
 sopPredpisa: 2021-01-1463

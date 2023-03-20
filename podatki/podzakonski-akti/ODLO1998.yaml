@@ -1,14 +1,8 @@
 Text file: ODLO1998.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1587765600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-24 22:00:00
 idPredpisa: ODLO1998
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o ustanovitvi Medresorske komisije za napotitev oseb v mednarodne civilne
   misije in mednarodne organizacije
 npbNum: 0

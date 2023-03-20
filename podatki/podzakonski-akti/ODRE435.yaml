@@ -1,14 +1,8 @@
 Text file: ODRE435.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 924818400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-04-22 22:00:00
 idPredpisa: ODRE435
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o obliki in vsebini napovedi za odmero takse za obremenjevanje zraka
   z emisijo ogljikovega dioksida za gorljive organske snovi
 npbNum: 0

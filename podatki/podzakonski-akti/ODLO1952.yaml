@@ -1,16 +1,10 @@
 Text file: ODLO1952.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1536357600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-09-07 22:00:00
 idPredpisa: ODLO1952
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o dolo\u010Ditvi referen\u010Dnih merilnih postaj za izvajanje meteorolo\u0161\
-  kega, hidrolo\u0161kega, oceanografskega in seizmolo\u0161kega opazovanja"
+naslov: "ODLOK o dolo\u010Ditvi referen\u010Dnih merilnih postaj za izvajanje meteorolo\u0161kega,
+  hidrolo\u0161kega, oceanografskega in seizmolo\u0161kega opazovanja"
 npbNum: 0
 path: /2018/29/2018-01-2919
 sopPredpisa: 2018-01-2919

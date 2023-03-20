@@ -1,16 +1,10 @@
 Text file: ODRE2255.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1405720800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-07-18 22:00:00
 idPredpisa: ODRE2255
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
-  \ vinogradov in izpada dohodka v vinskem letu 2014/2015"
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja
+  vinogradov in izpada dohodka v vinskem letu 2014/2015"
 npbNum: 0
 path: /2014/21/2014-01-2167
 sopPredpisa: 2014-01-2167

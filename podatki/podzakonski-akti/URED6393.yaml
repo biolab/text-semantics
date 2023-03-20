@@ -1,16 +1,10 @@
 Text file: URED6393.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1644620400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-11 23:00:00
 idPredpisa: URED6393
 idPredpisaChng: URED6393
-instock: .nan
-naslov: "UREDBA o obrambnem na\u010Drtovanju (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o obrambnem na\u010Drtovanju (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2022/02/2022-01-0200-2013-01-1970-npb1
 sopPredpisa: 2022-01-0200

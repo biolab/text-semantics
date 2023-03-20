@@ -1,14 +1,8 @@
 Text file: SKLE12909.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656108000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-06-24 22:00:00
 idPredpisa: SKLE12909
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o likvidnih nalo\u017Ebah za namen sklada za re\u0161evanje"
 npbNum: 0
 path: /2022/20/2022-01-2040

@@ -1,14 +1,8 @@
 Text file: SKLE1663.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 973551600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-11-06 23:00:00
 idPredpisa: SKLE1663
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o veljavnosti \u010Detrtega dodatka k tretji izdaji Evropske farmakopeje"
 npbNum: 0
 path: /2000/42/2000-01-4214

@@ -1,18 +1,12 @@
 Text file: SKLE2718.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1011913200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-01-24 23:00:00
 idPredpisa: SKLE2718
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na\
-  \ odseku \u010Crnivec (Pera\u010Dica) \u2013 Podtabor in predloga sprememb in dopolnitev\
-  \ prostorskih sestavin planskih aktov ob\u010Din Radovljica in Kranj (za obmo\u010D\
-  je Ob\u010Dine Naklo), v delu, ki ga dolo\u010Da osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi osnutka lokacijskega na\u010Drta za avtocesto na
+  odseku \u010Crnivec (Pera\u010Dica) \u2013 Podtabor in predloga sprememb in dopolnitev
+  prostorskih sestavin planskih aktov ob\u010Din Radovljica in Kranj (za obmo\u010Dje
+  Ob\u010Dine Naklo), v delu, ki ga dolo\u010Da osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /2002/02/2002-01-0264
 sopPredpisa: 2002-01-0264

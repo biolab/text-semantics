@@ -1,17 +1,11 @@
 Text file: URED5275.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1339797600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-06-15 22:00:00
 idPredpisa: URED5275
 idPredpisaChng: URED5275
-instock: .nan
-naslov: "UREDBA o na\u010Dinu izdaje dovoljenj in potrdil ter vlogi Komisije za nadzor\
-  \ izvoza blaga z dvojno rabo (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o na\u010Dinu izdaje dovoljenj in potrdil ter vlogi Komisije za nadzor
+  izvoza blaga z dvojno rabo (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2012/17/2012-01-1770-2010-01-1694-npb1
 sopPredpisa: 2012-01-1770

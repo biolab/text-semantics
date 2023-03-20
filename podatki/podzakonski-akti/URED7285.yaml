@@ -1,18 +1,12 @@
 Text file: URED7285.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-27 22:00:00
 idPredpisa: URED7285
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin\
-  \ v pridobivalnih prostorih Adamlje 2 v\_Ob\u010Dini \u0160martno pri Litiji, Vetrnik\
-  \ 2 v Ob\u010Dini \u0160martno pri Litiji, Mala gora 2 v Ob\u010Dini Sodra\u017E\
-  ica in Anhovo v Ob\u010Dini Kanal ob So\u010Di"
+naslov: "UREDBO o rudarskih pravicah za izkori\u0161\u010Danje mineralnih surovin
+  v pridobivalnih prostorih Adamlje 2 v\_Ob\u010Dini \u0160martno pri Litiji, Vetrnik
+  2 v Ob\u010Dini \u0160martno pri Litiji, Mala gora 2 v Ob\u010Dini Sodra\u017Eica
+  in Anhovo v Ob\u010Dini Kanal ob So\u010Di"
 npbNum: 0
 path: /2016/16/2016-01-1689
 sopPredpisa: 2016-01-1689

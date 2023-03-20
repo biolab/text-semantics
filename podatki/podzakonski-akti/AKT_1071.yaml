@@ -1,16 +1,10 @@
 Text file: AKT_1071.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1539900000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-10-18 22:00:00
 idPredpisa: AKT_1071
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILA sistema izmenjave informacij o zadol\u017Eenosti poslovnih subjektov\
-  \ \u2013 SISBIZ"
+naslov: "PRAVILA sistema izmenjave informacij o zadol\u017Eenosti poslovnih subjektov
+  \u2013 SISBIZ"
 npbNum: 0
 path: /2018/31/2018-01-3101
 sopPredpisa: 2018-01-3101

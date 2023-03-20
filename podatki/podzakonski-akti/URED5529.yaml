@@ -1,17 +1,10 @@
 Text file: URED5529.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1288389600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-10-29 22:00:00
 idPredpisa: URED5529
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za ureditev regionalne ceste\
-  \ R2-428/1249 Radmirje\u2013Lu\u010De in zagotavljanje poplavne varnosti naselja\
-  \ Lu\u010De"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za ureditev regionalne ceste
+  R2-428/1249 Radmirje\u2013Lu\u010De in zagotavljanje poplavne varnosti naselja Lu\u010De"
 npbNum: 0
 path: /2010/43/2010-01-4371
 sopPredpisa: 2010-01-4371

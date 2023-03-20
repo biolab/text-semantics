@@ -1,17 +1,8 @@
 Text file: PRAV11360.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1370728800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1362783600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-06-08 22:00:00
+datumZacetkaVelj: 2013-03-08 23:00:00
 idPredpisa: PRAV11360
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o overitvah taksimetrov
 npbNum: 0
 path: /2013/04/2013-01-0485

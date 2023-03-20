@@ -1,16 +1,10 @@
 Text file: PRAV14625.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1650060000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-15 22:00:00
 idPredpisa: PRAV14625
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o za\u010Detnih formulah za\
-  \ dojen\u010Dke in nadaljevalnih formulah za dojen\u010Dke in majhne otroke"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o za\u010Detnih formulah za
+  dojen\u010Dke in nadaljevalnih formulah za dojen\u010Dke in majhne otroke"
 npbNum: 0
 path: /2022/11/2022-01-1172
 sopPredpisa: 2022-01-1172

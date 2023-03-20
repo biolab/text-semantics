@@ -1,17 +1,11 @@
 Text file: PRAV13112.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1599775200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-09-10 22:00:00
 idPredpisa: PRAV13112
 idPredpisaChng: PRAV13112
-instock: .nan
-naslov: "TARIFNI PRAVILNIK o nadomestilih za opravljanje storitev Eko sklada, Slovenskega\
-  \ okoljskega javnega sklada (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "TARIFNI PRAVILNIK o nadomestilih za opravljanje storitev Eko sklada, Slovenskega
+  okoljskega javnega sklada (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2020/22/2020-01-2207-2017-01-2086-npb3
 sopPredpisa: 2020-01-2207

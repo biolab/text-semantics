@@ -1,20 +1,14 @@
 Text file: URED7460.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1610146800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-08 23:00:00
 idPredpisa: URED7460
 idPredpisaChng: URED7460
-instock: .nan
-naslov: "UREDBA o postopku in natan\u010Dnej\u0161ih pogojih za izbiro centrov za\
-  \ zbiranje oziroma predelavo lesa, oku\u017Eenega ali z insekti napadenega, ki je\
-  \ predmet upravne izvr\u0161be odlo\u010Dbe o sanitarni se\u010Dnji, o dolo\u010D\
-  itvi minimalne cene gozdnih lesnih sortimentov ter podrobnej\u0161em postopku prodaje\
-  \ gozdnih lesnih sortimentov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 3)"
+naslov: "UREDBA o postopku in natan\u010Dnej\u0161ih pogojih za izbiro centrov za
+  zbiranje oziroma predelavo lesa, oku\u017Eenega ali z insekti napadenega, ki je
+  predmet upravne izvr\u0161be odlo\u010Dbe o sanitarni se\u010Dnji, o dolo\u010Ditvi
+  minimalne cene gozdnih lesnih sortimentov ter podrobnej\u0161em postopku prodaje
+  gozdnih lesnih sortimentov (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  3)"
 npbNum: 3
 path: /2021/00/2021-01-0023-2017-01-0792-npb3
 sopPredpisa: 2021-01-0023

@@ -1,19 +1,10 @@
 Text file: SKLE243.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 917737200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 917564400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 1999-01-30 23:00:00
+datumZacetkaVelj: 1999-01-28 23:00:00
 idPredpisa: SKLE243
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o zagotavljanju likvidnosti za stanja na skrbni\u0161kih ra\u010Dunih\
-  \ pri bankah"
+naslov: "SKLEP o zagotavljanju likvidnosti za stanja na skrbni\u0161kih ra\u010Dunih
+  pri bankah"
 npbNum: 0
 path: /1999/02/1999-01-0242
 sopPredpisa: 1999-01-0242

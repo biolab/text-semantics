@@ -1,16 +1,10 @@
 Text file: ODLO1269.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1058565600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-07-18 22:00:00
 idPredpisa: ODLO1269
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o gozdnogospodarskem na\u010Drtu Gozdnogospodarskega obmo\u010Dja Tolmin\
-  \ (2001\u20132010)"
+naslov: "ODLOK o gozdnogospodarskem na\u010Drtu Gozdnogospodarskega obmo\u010Dja Tolmin
+  (2001\u20132010)"
 npbNum: 0
 path: /2003/33/2003-01-3371
 sopPredpisa: 2003-01-3371

@@ -1,16 +1,10 @@
 Text file: PRAV12537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1444428000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-09 22:00:00
 idPredpisa: PRAV12537
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o poro\u010Danju in obvladovanju hudih ne\u017Eelenih dogodkov\
-  \ in hudih ne\u017Eelenih reakcij pri ravnanju s \u010Dlove\u0161kimi organi"
+naslov: "PRAVILNIK o poro\u010Danju in obvladovanju hudih ne\u017Eelenih dogodkov
+  in hudih ne\u017Eelenih reakcij pri ravnanju s \u010Dlove\u0161kimi organi"
 npbNum: 0
 path: /2015/29/2015-01-2980
 sopPredpisa: 2015-01-2980

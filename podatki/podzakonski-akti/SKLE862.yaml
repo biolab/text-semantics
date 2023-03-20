@@ -1,14 +1,8 @@
 Text file: SKLE862.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 812934000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-10-05 23:00:00
 idPredpisa: SKLE862
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o izro\u010Ditvi prilo\u017Enostnih kovancev v prodajo in obtok"
 npbNum: 0
 path: /1995/26/1995-01-2658

@@ -1,16 +1,10 @@
 Text file: PRAV11878.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1503698400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-08-25 22:00:00
 idPredpisa: PRAV11878
 idPredpisaChng: PRAV11878
-instock: .nan
-naslov: "PRAVILNIK o dodeljevanju dr\u017Eavnih \u0161tipendij (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dodeljevanju dr\u017Eavnih \u0161tipendij (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/22/2017-01-2224-2013-01-4135-npb1
 sopPredpisa: 2017-01-2224

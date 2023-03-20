@@ -1,16 +1,10 @@
 Text file: URED6706.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1393023600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-02-21 23:00:00
 idPredpisa: URED6706
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju uredbe (EU) o dra\u017Ebi pravic do emisije toplogrednih\
-  \ plinov"
+naslov: "UREDBO o izvajanju uredbe (EU) o dra\u017Ebi pravic do emisije toplogrednih
+  plinov"
 npbNum: 0
 path: /2014/04/2014-01-0436
 sopPredpisa: 2014-01-0436

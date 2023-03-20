@@ -1,18 +1,12 @@
 Text file: URED1405.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1237590000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-20 23:00:00
 idPredpisa: URED1405
 idPredpisaChng: URED1405
-instock: .nan
-naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih\
-  \ odsekih vodotokov Pro\u0161\u010Dka, Kne\u017Ee, Ba\u010De, Ro\u010Dice, Brusnika,\
-  \ Radovne, Zavr\u0161nice in Vipave za proizvodnjo elektri\u010Dne energije (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "UREDBA o koncesijah za gospodarsko izkori\u0161\u010Danje vode na posameznih
+  odsekih vodotokov Pro\u0161\u010Dka, Kne\u017Ee, Ba\u010De, Ro\u010Dice, Brusnika,
+  Radovne, Zavr\u0161nice in Vipave za proizvodnjo elektri\u010Dne energije (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2009/05/2009-01-0594-1995-01-0542-npb6
 sopPredpisa: 2009-01-0594

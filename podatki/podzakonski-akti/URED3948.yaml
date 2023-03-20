@@ -1,16 +1,10 @@
 Text file: URED3948.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136934000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-01-10 23:00:00
 idPredpisa: URED3948
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o poro\u010Dilu o primernosti izdelka, ki vsebuje gensko spremenjene\
-  \ organizme, za dajanje na trg in njegove uporabe"
+naslov: "UREDBO o poro\u010Dilu o primernosti izdelka, ki vsebuje gensko spremenjene
+  organizme, za dajanje na trg in njegove uporabe"
 npbNum: 0
 path: /2005/51/2005-01-5189
 sopPredpisa: 2005-01-5189

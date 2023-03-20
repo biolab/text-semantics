@@ -1,17 +1,10 @@
 Text file: URED3921.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1129932000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-10-21 22:00:00
 idPredpisa: URED3921
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje na nekaterih zemlji\u0161kih parcelah\
-  \ priobalnega zemlji\u0161\u010Da ob potoku Cerkni\u0161\u010Dica v Ob\u010Dini\
-  \ Cerknica"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje na nekaterih zemlji\u0161kih parcelah
+  priobalnega zemlji\u0161\u010Da ob potoku Cerkni\u0161\u010Dica v Ob\u010Dini Cerknica"
 npbNum: 0
 path: /2005/40/2005-01-4026
 sopPredpisa: 2005-01-4026

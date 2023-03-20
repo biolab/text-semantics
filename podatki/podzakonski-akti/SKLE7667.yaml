@@ -1,16 +1,10 @@
 Text file: SKLE7667.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: SKLE7667
 idPredpisaChng: SKLE7667
-instock: .nan
-naslov: "SKLEP o ustanovitvi Javnega zavoda Republike Slovenije za varstvo kulturne\
-  \ dedi\u0161\u010Dine (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi Javnega zavoda Republike Slovenije za varstvo kulturne
+  dedi\u0161\u010Dine (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/40/2018-01-4075-2008-01-2860-npb2
 sopPredpisa: 2018-01-4075

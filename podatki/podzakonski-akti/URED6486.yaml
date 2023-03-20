@@ -1,16 +1,10 @@
 Text file: URED6486.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1395097200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-03-17 23:00:00
 idPredpisa: URED6486
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopkih notificiranja na podro\u010Dju standardov, tehni\u010D\
-  nih predpisov in postopkov za ugotavljanje skladnosti"
+naslov: "UREDBO o postopkih notificiranja na podro\u010Dju standardov, tehni\u010Dnih
+  predpisov in postopkov za ugotavljanje skladnosti"
 npbNum: 0
 path: /2014/06/2014-01-0669
 sopPredpisa: 2014-01-0669

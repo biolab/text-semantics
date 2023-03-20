@@ -1,14 +1,8 @@
 Text file: URED3096.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071183600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-11 23:00:00
 idPredpisa: URED3096
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o sredstvih in opremi za osebno in skupinsko za\u0161\u010Dito"
 npbNum: 0
 path: /2003/50/2003-01-5044

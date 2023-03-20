@@ -1,16 +1,10 @@
 Text file: SKLE4499.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1079737200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-19 23:00:00
 idPredpisa: SKLE4499
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi Sklepa o ustanovitvi, organizaciji in delovnem podro\u010D\
-  ju Urada Vlade Republike Slovenije za slovenski jezik"
+naslov: "SKLEP o razveljavitvi Sklepa o ustanovitvi, organizaciji in delovnem podro\u010Dju
+  Urada Vlade Republike Slovenije za slovenski jezik"
 npbNum: 0
 path: /2004/10/2004-01-1072
 sopPredpisa: 2004-01-1072

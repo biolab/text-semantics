@@ -1,16 +1,10 @@
 Text file: SKLE1119.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 912726000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-03 23:00:00
 idPredpisa: SKLE1119
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Ljubno"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Ljubno"
 npbNum: 0
 path: /1998/41/1998-01-4189
 sopPredpisa: 1998-01-4189

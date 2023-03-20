@@ -1,17 +1,11 @@
 Text file: ODLO2235.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-27 22:00:00
 idPredpisa: ODLO2235
 idPredpisaChng: ODLO2235
-instock: .nan
-naslov: "ODLOK o obvezni namestitvi razpr\u0161ilnikov za razku\u017Eevanje rok v\
-  \ ve\u010Dstanovanjskih stavbah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 36)"
+naslov: "ODLOK o obvezni namestitvi razpr\u0161ilnikov za razku\u017Eevanje rok v
+  ve\u010Dstanovanjskih stavbah (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  36)"
 npbNum: 36
 path: /2021/27/2021-01-2799-2020-01-3211-npb36
 sopPredpisa: 2021-01-2799

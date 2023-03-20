@@ -1,16 +1,10 @@
 Text file: ODLO1402.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1103151600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-15 23:00:00
 idPredpisa: ODLO1402
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi in nalogah Ustavne komisije Dr\u017Eavnega zbora Republike\
-  \ Slovenije"
+naslov: "ODLOK o ustanovitvi in nalogah Ustavne komisije Dr\u017Eavnega zbora Republike
+  Slovenije"
 npbNum: 0
 path: /2004/58/2004-01-5852
 sopPredpisa: 2004-01-5852

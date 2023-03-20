@@ -1,14 +1,8 @@
 Text file: URED3660.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1121378400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-14 22:00:00
 idPredpisa: URED3660
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o zavarovanju kratkoro\u010Dnih poslov pred politi\u010Dnimi riziki"
 npbNum: 0
 path: /2005/26/2005-01-2669

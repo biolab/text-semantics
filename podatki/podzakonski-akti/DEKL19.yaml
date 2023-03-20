@@ -1,14 +1,8 @@
 Text file: DEKL19.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1113861600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-04-18 22:00:00
 idPredpisa: DEKL19
 idPredpisaChng: null
-instock: .nan
 naslov: DEKLARACIJO O USMERITVAH ZA DELOVANJE REPUBLIKE SLOVENIJE V INSTITUCIJAH EU
   V LETU 2005 (DeUDIEU)
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: URED5655.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1312840800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-08-08 22:00:00
 idPredpisa: URED5655
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu izvedbe preselitve oseb, ki so v Republiko Slovenijo\
-  \ sprejete na podlagi letne kvote"
+naslov: "UREDBO o na\u010Dinu izvedbe preselitve oseb, ki so v Republiko Slovenijo
+  sprejete na podlagi letne kvote"
 npbNum: 0
 path: /2011/27/2011-01-2781
 sopPredpisa: 2011-01-2781

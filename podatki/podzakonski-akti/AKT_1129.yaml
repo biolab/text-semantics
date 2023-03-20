@@ -1,17 +1,11 @@
 Text file: AKT_1129.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1573686000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-11-13 23:00:00
 idPredpisa: AKT_1129
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote na geografskem\
-  \ obmo\u010Dju Ob\u010Dine Bohinj \u2013 zaklju\u010Deno obmo\u010Dje naselja Bohinjska\
-  \ Bistrica"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote na geografskem
+  obmo\u010Dju Ob\u010Dine Bohinj \u2013 zaklju\u010Deno obmo\u010Dje naselja Bohinjska
+  Bistrica"
 npbNum: 0
 path: /2019/28/2019-01-2888
 sopPredpisa: 2019-01-2888

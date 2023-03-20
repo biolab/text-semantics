@@ -1,16 +1,10 @@
 Text file: URED4537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1182204000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-18 22:00:00
 idPredpisa: URED4537
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih\
-  \ zemlji\u0161kih parcelah ob reki Me\u017Ei v Ob\u010Dini Ravne na Koro\u0161kem"
+naslov: "UREDBO o dolo\u010Ditvi zunanje meje priobalnega zemlji\u0161\u010Da na nekaterih
+  zemlji\u0161kih parcelah ob reki Me\u017Ei v Ob\u010Dini Ravne na Koro\u0161kem"
 npbNum: 0
 path: /2007/28/2007-01-2892
 sopPredpisa: 2007-01-2892

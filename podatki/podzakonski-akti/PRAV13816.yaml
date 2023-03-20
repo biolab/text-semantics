@@ -1,16 +1,10 @@
 Text file: PRAV13816.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562968800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-12 22:00:00
 idPredpisa: PRAV13816
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o razvr\u0161\u010Danju, pakiranju\
-  \ in ozna\u010Devanju nevarnih snovi"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o razvr\u0161\u010Danju, pakiranju
+  in ozna\u010Devanju nevarnih snovi"
 npbNum: 0
 path: /2019/19/2019-01-1936
 sopPredpisa: 2019-01-1936

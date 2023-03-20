@@ -1,16 +1,10 @@
 Text file: SKLE4185.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1062108000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-28 22:00:00
 idPredpisa: SKLE4185
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi osnutka gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote  Pivka jama-Grmada (2002\u20132011)"
+naslov: "SKLEP  o javni razgrnitvi osnutka gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote  Pivka jama-Grmada (2002\u20132011)"
 npbNum: 0
 path: /2003/40/2003-01-4003
 sopPredpisa: 2003-01-4003

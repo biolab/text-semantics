@@ -1,16 +1,9 @@
 Text file: URED5604.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1299279600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-03-04 23:00:00
 idPredpisa: URED5604
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za navezovalno cesto Jeprca\u2013\
-  Stane\u017Ei\u010De\u2013Brod"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za navezovalno cesto Jeprca\u2013Stane\u017Ei\u010De\u2013Brod"
 npbNum: 0
 path: /2011/03/2011-01-0379
 sopPredpisa: 2011-01-0379

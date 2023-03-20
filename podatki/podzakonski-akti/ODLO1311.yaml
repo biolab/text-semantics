@@ -1,16 +1,10 @@
 Text file: ODLO1311.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1064613600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-26 22:00:00
 idPredpisa: ODLO1311
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010D\
-  je plazu Strug nad vasjo Kose\u010D v Ob\u010Dini Kobarid"
+naslov: "ODLOK o programu priprave lokacijskega na\u010Drta za vplivno obmo\u010Dje
+  plazu Strug nad vasjo Kose\u010D v Ob\u010Dini Kobarid"
 npbNum: 0
 path: /2003/41/2003-01-4173
 sopPredpisa: 2003-01-4173

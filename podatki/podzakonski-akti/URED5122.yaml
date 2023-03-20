@@ -1,16 +1,10 @@
 Text file: URED5122.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1260831600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-14 23:00:00
 idPredpisa: URED5122
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o kriterijih za dolo\u010Ditev ter na\u010Dinu spremljanja in poro\u010D\
-  anja ekolo\u0161ko sprejemljivega pretoka"
+naslov: "UREDBO o kriterijih za dolo\u010Ditev ter na\u010Dinu spremljanja in poro\u010Danja
+  ekolo\u0161ko sprejemljivega pretoka"
 npbNum: 0
 path: /2009/42/2009-01-4256
 sopPredpisa: 2009-01-4256

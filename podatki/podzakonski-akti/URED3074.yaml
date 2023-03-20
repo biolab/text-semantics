@@ -1,16 +1,10 @@
 Text file: URED3074.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1068246000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-07 23:00:00
 idPredpisa: URED3074
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja meddr\u017Eavnega mejnega\
-  \ prehoda Podgorje"
+naslov: "UREDBO o dolo\u010Ditvi ureditvenega obmo\u010Dja meddr\u017Eavnega mejnega
+  prehoda Podgorje"
 npbNum: 0
 path: /2003/47/2003-01-4725
 sopPredpisa: 2003-01-4725

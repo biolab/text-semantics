@@ -1,19 +1,10 @@
 Text file: SKLE6788.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167606000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1213999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2006-12-31 23:00:00
+datumZacetkaVelj: 2008-06-20 22:00:00
 idPredpisa: SKLE6788
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 94 o dolo\u010Ditvi cene\
-  \ za enoto storitve z za\u010Detkom uporabe od 1. januarja 2007,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 94 o dolo\u010Ditvi cene
+  za enoto storitve z za\u010Detkom uporabe od 1. januarja 2007,"
 npbNum: 0
 path: /2008/26/2008-01-2645
 sopPredpisa: 2008-01-2645

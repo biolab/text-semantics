@@ -1,17 +1,8 @@
 Text file: URED3769.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1110150000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1109977200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2005-03-06 23:00:00
+datumZacetkaVelj: 2005-03-04 23:00:00
 idPredpisa: URED3769
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Hotiza"
 npbNum: 0
 path: /2005/07/2005-01-0749

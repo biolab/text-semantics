@@ -1,12 +1,10 @@
 Text file: SKLE10811.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10811
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Luxembourgu,\
-  \ v Velikem vojvodstvu Luksemburg"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Luxembourgu,
+  v Velikem vojvodstvu Luksemburg"
 npbNum: 0
 path: /2016/19/2016-01-1973
 sopPredpisa: 2016-01-1973

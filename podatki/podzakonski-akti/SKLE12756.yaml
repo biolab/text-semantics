@@ -1,16 +1,10 @@
 Text file: SKLE12756.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646089200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-28 23:00:00
 idPredpisa: SKLE12756
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o umiku soglasja Vlade Republike Slovenije k odprtju konzulata Ruske\
-  \ federacije v Republiki Sloveniji s sede\u017Eem na Jesenicah"
+naslov: "SKLEP o umiku soglasja Vlade Republike Slovenije k odprtju konzulata Ruske
+  federacije v Republiki Sloveniji s sede\u017Eem na Jesenicah"
 npbNum: 0
 path: /2022/05/2022-01-0550
 sopPredpisa: 2022-01-0550

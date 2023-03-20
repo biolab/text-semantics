@@ -1,16 +1,10 @@
 Text file: URED6281.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1535752800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-31 22:00:00
 idPredpisa: URED6281
 idPredpisaChng: URED6281
-instock: .nan
-naslov: "UREDBA o predelavi biolo\u0161ko razgradljivih odpadkov in uporabi komposta\
-  \ ali digestata (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o predelavi biolo\u0161ko razgradljivih odpadkov in uporabi komposta
+  ali digestata (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/28/2018-01-2816-2013-01-3557-npb2
 sopPredpisa: 2018-01-2816

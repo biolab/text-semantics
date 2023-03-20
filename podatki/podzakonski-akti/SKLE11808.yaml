@@ -1,17 +1,11 @@
 Text file: SKLE11808.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562882400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-11 22:00:00
 idPredpisa: SKLE11808
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161ih merilih zahtevanih znanj in usposobljenosti fizi\u010D\
-  nih oseb, ki dajejo strankam informacije o finan\u010Dnih instrumentih, investicijskih\
-  \ storitvah in poslih ter pomo\u017Enih investicijskih storitvah"
+naslov: "SKLEP o podrobnej\u0161ih merilih zahtevanih znanj in usposobljenosti fizi\u010Dnih
+  oseb, ki dajejo strankam informacije o finan\u010Dnih instrumentih, investicijskih
+  storitvah in poslih ter pomo\u017Enih investicijskih storitvah"
 npbNum: 0
 path: /2019/19/2019-01-1903
 sopPredpisa: 2019-01-1903

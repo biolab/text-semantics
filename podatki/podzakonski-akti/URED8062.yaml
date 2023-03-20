@@ -1,17 +1,11 @@
 Text file: URED8062.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1584399600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-16 23:00:00
 idPredpisa: URED8062
 idPredpisaChng: URED8062
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi najvi\u0161jih cen varovalne, za\u0161\u010Ditne\
-  \ in druge zdravstvene opreme (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "UREDBA o dolo\u010Ditvi najvi\u0161jih cen varovalne, za\u0161\u010Ditne
+  in druge zdravstvene opreme (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2020/05/2020-01-0583-2020-01-0556-npb1
 sopPredpisa: 2020-01-0583

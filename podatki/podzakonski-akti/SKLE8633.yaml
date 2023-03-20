@@ -1,14 +1,8 @@
 Text file: SKLE8633.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1291417200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-03 23:00:00
 idPredpisa: SKLE8633
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o objavi Sprememb in dopolnitev Prilog A in B k Evropskemu sporazumu
   o mednarodnem cestnem prevozu nevarnega blaga (ADR)
 npbNum: 0

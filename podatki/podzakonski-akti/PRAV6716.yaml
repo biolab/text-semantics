@@ -1,14 +1,8 @@
 Text file: PRAV6716.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1158703200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-09-19 22:00:00
 idPredpisa: PRAV6716
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o bivanju v dija\u0161kih domovih"
 npbNum: 0
 path: /2006/41/2006-01-4158

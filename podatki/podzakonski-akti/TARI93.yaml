@@ -1,16 +1,10 @@
 Text file: TARI93.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1209765600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-05-02 22:00:00
 idPredpisa: TARI93
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz distribucijskega omre\u017E\
-  ja toplotne energije v Mestni ob\u010Dini Velenje in Ob\u010Dini \u0160o\u0161tanj"
+naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz distribucijskega omre\u017Eja
+  toplotne energije v Mestni ob\u010Dini Velenje in Ob\u010Dini \u0160o\u0161tanj"
 npbNum: 0
 path: /2008/17/2008-01-1782
 sopPredpisa: 2008-01-1782

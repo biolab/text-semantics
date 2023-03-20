@@ -1,14 +1,8 @@
 Text file: PRAV10557.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1319234400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-21 22:00:00
 idPredpisa: PRAV10557
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o obdelavi in posredovanju podatkov o tujcih, ki se zaposlijo ali
   delajo na ozemlju Republike Slovenije
 npbNum: 0

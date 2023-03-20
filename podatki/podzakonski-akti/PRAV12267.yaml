@@ -1,16 +1,10 @@
 Text file: PRAV12267.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464991200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-06-03 22:00:00
 idPredpisa: PRAV12267
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o omogo\u010Danju dostopnosti elektri\u010Dne opreme na trgu, ki\
-  \ je na\u010Drtovana za uporabo znotraj dolo\u010Denih napetostnih mej"
+naslov: "PRAVILNIK o omogo\u010Danju dostopnosti elektri\u010Dne opreme na trgu, ki
+  je na\u010Drtovana za uporabo znotraj dolo\u010Denih napetostnih mej"
 npbNum: 0
 path: /2016/17/2016-01-1712
 sopPredpisa: 2016-01-1712

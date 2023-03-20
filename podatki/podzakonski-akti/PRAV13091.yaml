@@ -1,18 +1,12 @@
 Text file: PRAV13091.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1490997600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-31 22:00:00
 idPredpisa: PRAV13091
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o povra\u010Dilu stro\u0161kov in o nagradah osebam iz organizacij,\
-  \ ki opravljajo naloge oziroma izvr\u0161ujejo pooblastila po dolo\u010Dbah Opcijskega\
-  \ protokola h Konvenciji proti mu\u010Denju in drugim krutim, ne\u010Dlove\u0161\
-  kim ali poni\u017Eevalnim kaznim ali ravnanju"
+naslov: "PRAVILNIK o povra\u010Dilu stro\u0161kov in o nagradah osebam iz organizacij,
+  ki opravljajo naloge oziroma izvr\u0161ujejo pooblastila po dolo\u010Dbah Opcijskega
+  protokola h Konvenciji proti mu\u010Denju in drugim krutim, ne\u010Dlove\u0161kim
+  ali poni\u017Eevalnim kaznim ali ravnanju"
 npbNum: 0
 path: /2017/06/2017-01-0617
 sopPredpisa: 2017-01-0617

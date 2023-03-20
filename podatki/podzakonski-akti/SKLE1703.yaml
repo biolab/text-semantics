@@ -1,14 +1,8 @@
 Text file: SKLE1703.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 793062000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-02-17 23:00:00
 idPredpisa: SKLE1703
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o ustanovitvi Sveta za kulturo
 npbNum: 0
 path: /1995/05/1995-01-0543

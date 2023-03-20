@@ -1,16 +1,10 @@
 Text file: ODLO508.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 914799600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-27 23:00:00
 idPredpisa: ODLO508
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o soglasju k pravilom Fundacije za financiranje invalidskih in humanitarnih\
-  \ organizacij \_v Republiki Sloveniji (OdFFIHO)"
+naslov: "ODLOK o soglasju k pravilom Fundacije za financiranje invalidskih in humanitarnih
+  organizacij \_v Republiki Sloveniji (OdFFIHO)"
 npbNum: 0
 path: /1998/46/1998-01-4692
 sopPredpisa: 1998-01-4692

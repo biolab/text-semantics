@@ -1,16 +1,10 @@
 Text file: URED2521.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1173481200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-03-09 23:00:00
 idPredpisa: URED2521
 idPredpisaChng: URED2521
-instock: .nan
-naslov: "SKLEP o ustanovitvi Agencije Republike Slovenije za javnopravne evidence\
-  \ in storitve (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi Agencije Republike Slovenije za javnopravne evidence
+  in storitve (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2007/07/2007-01-0793-2002-01-2575-npb2
 sopPredpisa: 2007-01-0793

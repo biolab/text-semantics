@@ -1,16 +1,10 @@
 Text file: ODRE2304.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1440194400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-08-21 22:00:00
 idPredpisa: ODRE2304
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o spremembah vi\u0161je\u0161olskih \u0161tudijskih programov KOZMETIKA\
-  \ in VAROVANJE"
+naslov: "ODREDBO o spremembah vi\u0161je\u0161olskih \u0161tudijskih programov KOZMETIKA
+  in VAROVANJE"
 npbNum: 0
 path: /2015/25/2015-01-2568
 sopPredpisa: 2015-01-2568

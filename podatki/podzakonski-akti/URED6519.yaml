@@ -1,17 +1,11 @@
 Text file: URED6519.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1397858400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-18 22:00:00
 idPredpisa: URED6519
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o informacijah o var\u010Dnosti porabe goriva, emisijah ogljikovega\
-  \ dioksida in emisijah onesna\u017Eeval zunanjega zraka, ki so na voljo potro\u0161\
-  nikom o novih osebnih avtomobilih"
+naslov: "UREDBO o informacijah o var\u010Dnosti porabe goriva, emisijah ogljikovega
+  dioksida in emisijah onesna\u017Eeval zunanjega zraka, ki so na voljo potro\u0161nikom
+  o novih osebnih avtomobilih"
 npbNum: 0
 path: /2014/09/2014-01-0956
 sopPredpisa: 2014-01-0956

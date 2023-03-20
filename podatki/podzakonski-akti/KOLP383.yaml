@@ -1,13 +1,11 @@
 Text file: KOLP383.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: KOLP383
 idPredpisaChng: null
-instock: .nan
-naslov: "odpoveduje Kolektivno pogodbo za tekstilne, obla\u010Dilne, usnjarske in\
-  \ usnjarsko-predelovalne dejavnosti Slovenije  (Uradni list RS, \u0161t. 55/09,\
-  \ 28/10) s \u0161estmese\u010Dnim odpovednim rokom."
+naslov: "odpoveduje Kolektivno pogodbo za tekstilne, obla\u010Dilne, usnjarske in
+  usnjarsko-predelovalne dejavnosti Slovenije  (Uradni list RS, \u0161t. 55/09, 28/10)
+  s \u0161estmese\u010Dnim odpovednim rokom."
 npbNum: 0
 path: /2014/01/2014-01-0100
 sopPredpisa: 2014-01-0100

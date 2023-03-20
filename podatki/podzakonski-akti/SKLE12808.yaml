@@ -1,16 +1,10 @@
 Text file: SKLE12808.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1649368800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-07 22:00:00
 idPredpisa: SKLE12808
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o skupni metodologiji ocenjevanja za izdajo dovoljenja\
-  \ kot kreditni instituciji v skladu s \u010Dlenom 8(5) Direktive 2013/36/EU"
+naslov: "SKLEP o uporabi Smernic o skupni metodologiji ocenjevanja za izdajo dovoljenja
+  kot kreditni instituciji v skladu s \u010Dlenom 8(5) Direktive 2013/36/EU"
 npbNum: 0
 path: /2022/09/2022-01-0994
 sopPredpisa: 2022-01-0994

@@ -1,16 +1,10 @@
 Text file: PRAV10305.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1283292000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-08-31 22:00:00
 idPredpisa: PRAV10305
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o posebnih proizvodih, ki so\
-  \ neposredni ali posredni vir beljakovin v prehrani \u017Eivali"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o posebnih proizvodih, ki so
+  neposredni ali posredni vir beljakovin v prehrani \u017Eivali"
 npbNum: 0
 path: /2010/31/2010-01-3131
 sopPredpisa: 2010-01-3131

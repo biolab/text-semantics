@@ -1,12 +1,10 @@
 Text file: SKLE12738.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12738
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju volilne komisije posebne volilne enote 10000 \u2013 Lendava\
-  \ za volitve poslancev v Dr\u017Eavni zbor Republike Slovenije"
+naslov: "SKLEP o imenovanju volilne komisije posebne volilne enote 10000 \u2013 Lendava
+  za volitve poslancev v Dr\u017Eavni zbor Republike Slovenije"
 npbNum: 0
 path: /2022/03/2022-01-0326
 sopPredpisa: 2022-01-0326

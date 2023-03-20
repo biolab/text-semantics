@@ -1,16 +1,10 @@
 Text file: SKLE7591.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1209592800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-04-30 22:00:00
 idPredpisa: SKLE7591
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o neuporabi dolo\u010Db tarifne \u0161tevilke 42 Tarife o taksah in\
-  \ nadomestilih za vlagatelje dolo\u010Denih zahtev"
+naslov: "SKLEP o neuporabi dolo\u010Db tarifne \u0161tevilke 42 Tarife o taksah in
+  nadomestilih za vlagatelje dolo\u010Denih zahtev"
 npbNum: 0
 path: /2008/18/2008-01-1819
 sopPredpisa: 2008-01-1819

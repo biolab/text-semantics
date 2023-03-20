@@ -1,17 +1,11 @@
 Text file: ODRE2598.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1604703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-06 23:00:00
 idPredpisa: ODRE2598
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o za\u010Dasnih ukrepih na podro\u010Dju izvajanja pripravni\u0161\
-  tva zdravstvenih delavcev in zdravstvenih sodelavcev v \u010Dasu obvladovanja in\
-  \ prepre\u010Devanja \u0161irjenja nalezljive bolezni COVID-19"
+naslov: "ODREDBO o za\u010Dasnih ukrepih na podro\u010Dju izvajanja pripravni\u0161tva
+  zdravstvenih delavcev in zdravstvenih sodelavcev v \u010Dasu obvladovanja in prepre\u010Devanja
+  \u0161irjenja nalezljive bolezni COVID-19"
 npbNum: 0
 path: /2020/28/2020-01-2839
 sopPredpisa: 2020-01-2839

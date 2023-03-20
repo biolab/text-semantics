@@ -1,17 +1,11 @@
 Text file: URED1104.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1434492000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-16 22:00:00
 idPredpisa: URED1104
 idPredpisaChng: URED1104
-instock: .nan
-naslov: "UREDBA o pristojbini za vzdr\u017Eevanje gozdnih cest (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 14) (prenehala veljati) (poseg odlo\u010Dbe US\
-  \ o na\u010Dinu izvr\u0161evanja te uredbe)"
+naslov: "UREDBA o pristojbini za vzdr\u017Eevanje gozdnih cest (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 14) (prenehala veljati) (poseg odlo\u010Dbe US o na\u010Dinu izvr\u0161evanja
+  te uredbe)"
 npbNum: 14
 path: /2015/17/2015-01-1760-1994-01-1537-npb14
 sopPredpisa: 2015-01-1760

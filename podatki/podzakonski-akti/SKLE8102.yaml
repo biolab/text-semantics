@@ -1,16 +1,10 @@
 Text file: SKLE8102.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1244844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-06-12 22:00:00
 idPredpisa: SKLE8102
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o najmanj\u0161em obsegu in vsebini dodatnega revizijskega pregleda\
-  \ glede izpolnjevanja pravil o upravljanju s tveganji v bankah in hranilnicah"
+naslov: "SKLEP o najmanj\u0161em obsegu in vsebini dodatnega revizijskega pregleda
+  glede izpolnjevanja pravil o upravljanju s tveganji v bankah in hranilnicah"
 npbNum: 0
 path: /2009/20/2009-01-2050
 sopPredpisa: 2009-01-2050

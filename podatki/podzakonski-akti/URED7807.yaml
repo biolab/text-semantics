@@ -1,16 +1,10 @@
 Text file: URED7807.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1550790000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-21 23:00:00
 idPredpisa: URED7807
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (EU) o izvedenih finan\u010Dnih instrumentih OTC,\
-  \ centralnih nasprotnih strankah in repozitorijih sklenjenih poslov"
+naslov: "UREDBO o izvajanju Uredbe (EU) o izvedenih finan\u010Dnih instrumentih OTC,
+  centralnih nasprotnih strankah in repozitorijih sklenjenih poslov"
 npbNum: 0
 path: /2019/02/2019-01-0248
 sopPredpisa: 2019-01-0248

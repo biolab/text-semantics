@@ -1,12 +1,10 @@
 Text file: RESO106.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO106
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o nacionalnem programu ravnanja z\_radioaktivnimi odpadki in izrabljenim\
-  \ gorivom za obdobje 2016\u20132025 (ReNPRRO16\u201325)"
+naslov: "RESOLUCIJO o nacionalnem programu ravnanja z\_radioaktivnimi odpadki in izrabljenim
+  gorivom za obdobje 2016\u20132025 (ReNPRRO16\u201325)"
 npbNum: 0
 path: /2016/13/2016-01-1303
 sopPredpisa: 2016-01-1303

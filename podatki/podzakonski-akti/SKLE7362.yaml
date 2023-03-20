@@ -1,17 +1,11 @@
 Text file: SKLE7362.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1328050800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-31 23:00:00
 idPredpisa: SKLE7362
 idPredpisaChng: SKLE7362
-instock: .nan
-naslov: "SKLEP o posebnih pravilih za obve\u0161\u010Danje o notranjih informacijah\
-  \ in nalo\u017Ebenih priporo\u010Dilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "SKLEP o posebnih pravilih za obve\u0161\u010Danje o notranjih informacijah
+  in nalo\u017Ebenih priporo\u010Dilih (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2012/02/2012-01-0215-2007-01-5279-npb1
 sopPredpisa: 2012-01-0215

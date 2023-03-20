@@ -1,17 +1,11 @@
 Text file: PRAV4849.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1051740000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-04-30 22:00:00
 idPredpisa: PRAV4849
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in\
-  \ zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta\
-  \ 2002"
+naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in
+  zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta
+  2002"
 npbNum: 0
 path: /2003/19/2003-01-1941
 sopPredpisa: 2003-01-1941

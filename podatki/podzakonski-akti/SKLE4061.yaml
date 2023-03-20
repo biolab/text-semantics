@@ -1,19 +1,13 @@
 Text file: SKLE4061.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1062108000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-28 22:00:00
 idPredpisa: SKLE4061
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podrobnej\u0161i vsebini, na\u010Dinu in rokih poro\u010Danja dru\u017E\
-  be za upravljanje oziroma podru\u017Enice tuje dru\u017Ebe za upravljanje o dejstvih\
-  \ in okoli\u0161\u010Dinah, povezanih s poslovanjem dru\u017Ebe za upravljanje oziroma\
-  \ podru\u017Enice tuje dru\u017Ebe za upravljanje, investicijskimi skladi in premo\u017E\
-  enjem dobro pou\u010Denih vlagateljev"
+naslov: "SKLEP o podrobnej\u0161i vsebini, na\u010Dinu in rokih poro\u010Danja dru\u017Ebe
+  za upravljanje oziroma podru\u017Enice tuje dru\u017Ebe za upravljanje o dejstvih
+  in okoli\u0161\u010Dinah, povezanih s poslovanjem dru\u017Ebe za upravljanje oziroma
+  podru\u017Enice tuje dru\u017Ebe za upravljanje, investicijskimi skladi in premo\u017Eenjem
+  dobro pou\u010Denih vlagateljev"
 npbNum: 0
 path: /2003/38/2003-01-3828
 sopPredpisa: 2003-01-3828

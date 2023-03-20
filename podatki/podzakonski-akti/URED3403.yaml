@@ -1,16 +1,10 @@
 Text file: URED3403.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091484000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-02 22:00:00
 idPredpisa: URED3403
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za sanacijo in izgradnjo visokovodnih\
-  \ nasipov ob reki Muri od Cvena do Vu\u010Dje vasi"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za sanacijo in izgradnjo visokovodnih
+  nasipov ob reki Muri od Cvena do Vu\u010Dje vasi"
 npbNum: 0
 path: /2004/34/2004-01-3475
 sopPredpisa: 2004-01-3475

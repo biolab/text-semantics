@@ -1,19 +1,10 @@
 Text file: PRAV9634.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1228086000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1229727600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2008-11-30 23:00:00
+datumZacetkaVelj: 2008-12-19 23:00:00
 idPredpisa: PRAV9634
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa materiala in izdelkov (kalo,\
-  \ razsip, razbitje, okvara) v gradbeni\u0161tvu in industriji gradbenega materiala"
+naslov: "PRAVILNIK o stopnjah obi\u010Dajnega odpisa materiala in izdelkov (kalo,
+  razsip, razbitje, okvara) v gradbeni\u0161tvu in industriji gradbenega materiala"
 npbNum: 0
 path: /2008/52/2008-01-5244
 sopPredpisa: 2008-01-5244

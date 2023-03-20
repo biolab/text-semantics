@@ -1,17 +1,10 @@
 Text file: URED8148.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-21 22:00:00
 idPredpisa: URED8148
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o zagotovitvi javnih sredstev za financiranje dodatnih kadrov pri\
-  \ izvajalcih socialnovarstvene storitve institucionalnega varstva v javni mre\u017E\
-  i"
+naslov: "UREDBO o zagotovitvi javnih sredstev za financiranje dodatnih kadrov pri
+  izvajalcih socialnovarstvene storitve institucionalnega varstva v javni mre\u017Ei"
 npbNum: 0
 path: /2020/21/2020-01-2150
 sopPredpisa: 2020-01-2150

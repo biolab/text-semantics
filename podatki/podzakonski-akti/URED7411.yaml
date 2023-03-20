@@ -1,17 +1,11 @@
 Text file: URED7411.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1477692000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-28 22:00:00
 idPredpisa: URED7411
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta \xBBCelostna energetska\
-  \ prenova stavbe z ve\u010D upravljavci (\u0160marje pri Jel\u0161ah) po principu\
-  \ JZP\xAB"
+naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta \xBBCelostna energetska
+  prenova stavbe z ve\u010D upravljavci (\u0160marje pri Jel\u0161ah) po principu
+  JZP\xAB"
 npbNum: 0
 path: /2016/29/2016-01-2919
 sopPredpisa: 2016-01-2919

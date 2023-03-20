@@ -1,16 +1,10 @@
 Text file: SKLE12110.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1595023200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-17 22:00:00
 idPredpisa: SKLE12110
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ugotovitvi prenehanja razlogov za interventne ukrepe na podro\u010D\
-  ju kmetijstva, gozdarstva in prehrane"
+naslov: "SKLEP o ugotovitvi prenehanja razlogov za interventne ukrepe na podro\u010Dju
+  kmetijstva, gozdarstva in prehrane"
 npbNum: 0
 path: /2020/19/2020-01-1913
 sopPredpisa: 2020-01-1913

@@ -1,16 +1,10 @@
 Text file: ODRE677.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 728780400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-02-03 23:00:00
 idPredpisa: ODRE677
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o stopnjah dodatnih izvoznih spodbud za proizvode s podro\u010Dja\
-  \ kmetijstva in \u017Eivilske industrije"
+naslov: "ODREDBO o stopnjah dodatnih izvoznih spodbud za proizvode s podro\u010Dja
+  kmetijstva in \u017Eivilske industrije"
 npbNum: 0
 path: /1993/03/1993-01-0310
 sopPredpisa: 1993-01-0310

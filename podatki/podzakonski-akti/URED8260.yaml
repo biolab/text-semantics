@@ -1,16 +1,10 @@
 Text file: URED8260.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-15 22:00:00
 idPredpisa: URED8260
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Izvedbene uredbe (EU) o tehni\u010Dnih standardih za vzpostavitev\
-  \ in delovanje sistema sledljivosti toba\u010Dnih izdelkov"
+naslov: "UREDBO o izvajanju Izvedbene uredbe (EU) o tehni\u010Dnih standardih za vzpostavitev
+  in delovanje sistema sledljivosti toba\u010Dnih izdelkov"
 npbNum: 0
 path: /2021/22/2021-01-2222
 sopPredpisa: 2021-01-2222

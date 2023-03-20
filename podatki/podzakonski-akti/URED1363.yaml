@@ -1,17 +1,11 @@
 Text file: URED1363.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 771199200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-06-09 22:00:00
 idPredpisa: URED1363
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o kreditnih pogojih za dolgoro\u010Dne kredite spodbujanja razvoja\
-  \ na demografsko ogro\u017Eenih obmo\u010Djih v Republiki Sloveniji iz prora\u010D\
-  una Republike Slovenije za leto 1994"
+naslov: "UREDBO o kreditnih pogojih za dolgoro\u010Dne kredite spodbujanja razvoja
+  na demografsko ogro\u017Eenih obmo\u010Djih v Republiki Sloveniji iz prora\u010Duna
+  Republike Slovenije za leto 1994"
 npbNum: 0
 path: /1994/11/1994-01-1183
 sopPredpisa: 1994-01-1183

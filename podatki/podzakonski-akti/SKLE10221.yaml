@@ -1,17 +1,11 @@
 Text file: SKLE10221.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1428098400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-03 22:00:00
 idPredpisa: SKLE10221
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi seznama medicinskih pripomo\u010Dkov, pri katerih\
-  \ je potrebna timska obravnava zavarovane osebe, individualna izdelava in individualna\
-  \ aplikacija"
+naslov: "ODREDBO o dolo\u010Ditvi seznama medicinskih pripomo\u010Dkov, pri katerih
+  je potrebna timska obravnava zavarovane osebe, individualna izdelava in individualna
+  aplikacija"
 npbNum: 0
 path: /2015/07/2015-01-0727
 sopPredpisa: 2015-01-0727

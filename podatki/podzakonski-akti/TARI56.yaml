@@ -1,17 +1,8 @@
 Text file: TARI56.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1085608800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1086904800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-05-26 22:00:00
+datumZacetkaVelj: 2004-06-10 22:00:00
 idPredpisa: TARI56
 idPredpisaChng: null
-instock: .nan
 naslov: TARIFO ZAVODA IPF za kabelsko retransmisijo fonogramov
 npbNum: 0
 path: /2004/29/2004-01-2920

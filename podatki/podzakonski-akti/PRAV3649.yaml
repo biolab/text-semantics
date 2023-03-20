@@ -1,14 +1,8 @@
 Text file: PRAV3649.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 976921200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-12-15 23:00:00
 idPredpisa: PRAV3649
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o no\u0161enju in uporabi oro\u017Eja v carinski slu\u017Ebi"
 npbNum: 0
 path: /2000/46/2000-01-4613

@@ -1,17 +1,11 @@
 Text file: PRAV10980.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1620943200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-13 22:00:00
 idPredpisa: PRAV10980
 idPredpisaChng: PRAV10980
-instock: .nan
-naslov: "PRAVILNIK o vsebini in formatu pro\u0161nje za izdajo vizuma za dolgoro\u010D\
-  no bivanje ter o vsebini in formatu garantnega pisma (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o vsebini in formatu pro\u0161nje za izdajo vizuma za dolgoro\u010Dno
+  bivanje ter o vsebini in formatu garantnega pisma (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/15/2021-01-1562-2012-01-0732-npb1
 sopPredpisa: 2021-01-1562

@@ -1,16 +1,10 @@
 Text file: PRAV3562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1638918000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-07 23:00:00
 idPredpisa: PRAV3562
 idPredpisaChng: PRAV3562
-instock: .nan
-naslov: "PRAVILA obveznega zdravstvenega zavarovanja (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 36)"
+naslov: "PRAVILA obveznega zdravstvenega zavarovanja (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 36)"
 npbNum: 36
 path: /2021/36/2021-01-3613-1994-01-2855-npb36
 sopPredpisa: 2021-01-3613

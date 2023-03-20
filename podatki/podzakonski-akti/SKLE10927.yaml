@@ -1,17 +1,11 @@
 Text file: SKLE10927.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480719600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-02 23:00:00
 idPredpisa: SKLE10927
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o najmanj\u0161em obsegu in vsebini dodatnega revizijskega pregleda\
-  \ in dodatnega revizorjevega poro\u010Dila o izpolnjevanju pravil o upravljanju\
-  \ tveganj v borznoposredni\u0161kih dru\u017Ebah"
+naslov: "SKLEP o najmanj\u0161em obsegu in vsebini dodatnega revizijskega pregleda
+  in dodatnega revizorjevega poro\u010Dila o izpolnjevanju pravil o upravljanju tveganj
+  v borznoposredni\u0161kih dru\u017Ebah"
 npbNum: 0
 path: /2016/30/2016-01-3082
 sopPredpisa: 2016-01-3082

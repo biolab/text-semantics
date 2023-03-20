@@ -1,14 +1,8 @@
 Text file: PRAV6383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1106348400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-01-21 23:00:00
 idPredpisa: PRAV6383
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vrednostih, potrebnih za pripravo programa prestrukturiranja v
   vinskem letu 2005/2006
 npbNum: 0

@@ -1,17 +1,11 @@
 Text file: PRAV5919.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1085695200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-05-27 22:00:00
 idPredpisa: PRAV5919
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o smeri in stopnji izobrazbe strokovnih delavcev v posebnem programu\
-  \ vzgoje in izobra\u017Eevanja za otroke in mladostnike s posebnimi potrebami (post)rehabilitacijski\
-  \ praktikum"
+naslov: "PRAVILNIK o smeri in stopnji izobrazbe strokovnih delavcev v posebnem programu
+  vzgoje in izobra\u017Eevanja za otroke in mladostnike s posebnimi potrebami (post)rehabilitacijski
+  praktikum"
 npbNum: 0
 path: /2004/26/2004-01-2672
 sopPredpisa: 2004-01-2672

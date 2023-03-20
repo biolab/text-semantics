@@ -1,16 +1,10 @@
 Text file: URED7198.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1601330400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-09-28 22:00:00
 idPredpisa: URED7198
 idPredpisaChng: URED7198
-instock: .nan
-naslov: "UREDBA o informacijski varnosti v dr\u017Eavni upravi (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o informacijski varnosti v dr\u017Eavni upravi (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/23/2020-01-2333-2018-01-1272-npb1
 sopPredpisa: 2020-01-2333

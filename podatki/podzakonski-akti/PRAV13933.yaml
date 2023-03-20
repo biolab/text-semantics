@@ -1,18 +1,12 @@
 Text file: PRAV13933.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-31 23:00:00
 idPredpisa: PRAV13933
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dostavi podatkov za odmero dohodnine od dobi\u010Dka iz kapitala\
-  \ od odsvojitve vrednostnih papirjev in drugih dele\u017Eev ter investicijskih kuponov,\
-  \ in podatkov o naknadnih vpla\u010Dilih ter kapitalskih dele\u017Eih dru\u017E\
-  benikov v osebnih dru\u017Ebah"
+naslov: "PRAVILNIK o dostavi podatkov za odmero dohodnine od dobi\u010Dka iz kapitala
+  od odsvojitve vrednostnih papirjev in drugih dele\u017Eev ter investicijskih kuponov,
+  in podatkov o naknadnih vpla\u010Dilih ter kapitalskih dele\u017Eih dru\u017Ebenikov
+  v osebnih dru\u017Ebah"
 npbNum: 0
 path: /2019/36/2019-01-3652
 sopPredpisa: 2019-01-3652

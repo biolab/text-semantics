@@ -1,16 +1,10 @@
 Text file: SKLE12086.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598911200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-08-31 22:00:00
 idPredpisa: SKLE12086
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine cestnine za vozila, katerih najve\u010D\
-  ja dovoljena masa presega 3.500 kg"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine cestnine za vozila, katerih najve\u010Dja
+  dovoljena masa presega 3.500 kg"
 npbNum: 0
 path: /2020/19/2020-01-1985
 sopPredpisa: 2020-01-1985

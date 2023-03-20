@@ -1,16 +1,10 @@
 Text file: PRAV11196.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1361574000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-02-22 23:00:00
 idPredpisa: PRAV11196
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Grosuplje\
-  \ (2012\u20132021)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Grosuplje
+  (2012\u20132021)"
 npbNum: 0
 path: /2013/04/2013-01-0493
 sopPredpisa: 2013-01-0493

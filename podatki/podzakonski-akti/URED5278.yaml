@@ -1,16 +1,10 @@
 Text file: URED5278.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1266620400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-19 23:00:00
 idPredpisa: URED5278
 idPredpisaChng: URED5278
-instock: .nan
-naslov: "UREDBA o koncesiji za graditev sede\u017Enice \u010Caplja v Planici (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o koncesiji za graditev sede\u017Enice \u010Caplja v Planici (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/04/2010-01-0477-2009-01-3644-npb1
 sopPredpisa: 2010-01-0477

@@ -1,16 +1,10 @@
 Text file: ODRE1897.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1026338400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-10 22:00:00
 idPredpisa: ODRE1897
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnem programu Usposabljanje za vo\u017Enjo kolesa\
-  \ za osemletni program osnovno\u0161olskega izobra\u017Eevanja"
+naslov: "ODREDBO o izobra\u017Eevalnem programu Usposabljanje za vo\u017Enjo kolesa
+  za osemletni program osnovno\u0161olskega izobra\u017Eevanja"
 npbNum: 0
 path: /2002/28/2002-01-2887
 sopPredpisa: 2002-01-2887

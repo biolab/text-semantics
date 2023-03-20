@@ -1,16 +1,10 @@
 Text file: ODRE2307.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1427497200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-03-27 23:00:00
 idPredpisa: ODRE2307
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi prodajne vrednosti za eno tono \u0161koljk za leto\
-  \ 2015"
+naslov: "ODREDBO o dolo\u010Ditvi prodajne vrednosti za eno tono \u0161koljk za leto
+  2015"
 npbNum: 0
 path: /2015/07/2015-01-0785
 sopPredpisa: 2015-01-0785

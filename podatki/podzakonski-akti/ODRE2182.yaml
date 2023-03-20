@@ -1,21 +1,12 @@
 Text file: ODRE2182.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1393023600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1361487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2014-02-21 23:00:00
+datumZacetkaVelj: 2013-02-21 23:00:00
 idPredpisa: ODRE2182
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programa osnovnega strokovnega usposabljanja in\
-  \ programa obdobnega strokovnega izpopolnjevanja varnostnega osebja, ki izvaja fizi\u010D\
-  no varovanje jedrskih objektov, jedrskih ali radioaktivnih snovi ter prevozov jedrskih\
-  \ snovi"
+naslov: "ODREDBO o dolo\u010Ditvi programa osnovnega strokovnega usposabljanja in
+  programa obdobnega strokovnega izpopolnjevanja varnostnega osebja, ki izvaja fizi\u010Dno
+  varovanje jedrskih objektov, jedrskih ali radioaktivnih snovi ter prevozov jedrskih
+  snovi"
 npbNum: 0
 path: /2013/03/2013-01-0318
 sopPredpisa: 2013-01-0318

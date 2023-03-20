@@ -1,16 +1,10 @@
 Text file: ODLO2088.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590184800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-22 22:00:00
 idPredpisa: ODLO2088
 idPredpisaChng: ODLO2088
-instock: .nan
-naslov: "ODLOK o za\u010Dasnih pogojih za izvajanje \u0161portne dejavnosti (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o za\u010Dasnih pogojih za izvajanje \u0161portne dejavnosti (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/10/2020-01-1029-2020-01-0964-npb1
 sopPredpisa: 2020-01-1029

@@ -1,16 +1,10 @@
 Text file: URED1506.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1013036400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-06 23:00:00
 idPredpisa: URED1506
 idPredpisaChng: URED1506
-instock: .nan
-naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku Kronovo-Smednik (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o lokacijskem na\u010Drtu za avtocesto na odseku Kronovo-Smednik (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2002/04/2002-01-0447-2001-01-1674-npb1
 sopPredpisa: 2002-01-0447

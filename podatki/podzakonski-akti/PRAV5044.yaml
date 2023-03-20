@@ -1,16 +1,10 @@
 Text file: PRAV5044.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-03 22:00:00
 idPredpisa: PRAV5044
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega strokovnega izobra\u017E\
-  evanja strojni tehnik (poklicno-tehni\u0161ko izobra\u017Eevanje)"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega strokovnega izobra\u017Eevanja
+  strojni tehnik (poklicno-tehni\u0161ko izobra\u017Eevanje)"
 npbNum: 0
 path: /2003/25/2003-01-2571
 sopPredpisa: 2003-01-2571

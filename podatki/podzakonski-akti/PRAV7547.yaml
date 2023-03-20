@@ -1,20 +1,11 @@
 Text file: PRAV7547.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141167600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1137193200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2006-02-28 23:00:00
+datumZacetkaVelj: 2006-01-13 23:00:00
 idPredpisa: PRAV7547
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o za\u010Dasni uvrstitvi delovnega mesta direktorja s podro\u010D\
-  ja gasilsko re\u0161evalne dejavnosti v pla\u010Dni razred znotraj razponov pla\u010D\
-  nih razredov"
+naslov: "PRAVILNIK o za\u010Dasni uvrstitvi delovnega mesta direktorja s podro\u010Dja
+  gasilsko re\u0161evalne dejavnosti v pla\u010Dni razred znotraj razponov pla\u010Dnih
+  razredov"
 npbNum: 0
 path: /2006/01/2006-01-0116
 sopPredpisa: 2006-01-0116

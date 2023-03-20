@@ -1,16 +1,10 @@
 Text file: SKLE12598.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639782000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-17 23:00:00
 idPredpisa: SKLE12598
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju veljavnosti ukrepov upravi\u010Denosti do dodatka\
-  \ za neposredno delo s pacienti oziroma uporabniki, obolelimi za COVID-19"
+naslov: "SKLEP o podalj\u0161anju veljavnosti ukrepov upravi\u010Denosti do dodatka
+  za neposredno delo s pacienti oziroma uporabniki, obolelimi za COVID-19"
 npbNum: 0
 path: /2021/39/2021-01-3963
 sopPredpisa: 2021-01-3963

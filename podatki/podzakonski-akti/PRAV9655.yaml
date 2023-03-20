@@ -1,19 +1,9 @@
 Text file: PRAV9655.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1251756000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1243029600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2009-08-31 22:00:00
+datumZacetkaVelj: 2009-05-22 22:00:00
 idPredpisa: PRAV9655
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prilagoditvi \u0161olskih obveznosti dijaku v srednji \u0161\
-  oli"
+naslov: "PRAVILNIK o prilagoditvi \u0161olskih obveznosti dijaku v srednji \u0161oli"
 npbNum: 0
 path: /2009/18/2009-01-1814
 sopPredpisa: 2009-01-1814

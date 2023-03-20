@@ -1,16 +1,10 @@
 Text file: PRAV4125.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1256943600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-10-30 23:00:00
 idPredpisa: PRAV4125
 idPredpisaChng: PRAV4125
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu zbiranja podatkov in vodenju zbirke podatkov o obsojencih\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu zbiranja podatkov in vodenju zbirke podatkov o obsojencih
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2009/38/2009-01-3835-2002-01-1153-npb1
 sopPredpisa: 2009-01-3835

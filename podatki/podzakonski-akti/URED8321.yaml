@@ -1,14 +1,8 @@
 Text file: URED8321.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1644620400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-11 23:00:00
 idPredpisa: URED8321
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju uredbe (EU) o proizvodnji, dajanju v promet in uporabi
   medicirane krme
 npbNum: 0

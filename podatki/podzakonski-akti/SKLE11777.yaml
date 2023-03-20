@@ -1,16 +1,9 @@
 Text file: SKLE11777.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562882400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-11 22:00:00
 idPredpisa: SKLE11777
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev borznoposredni\u0161ke dru\u017E\
-  be"
+naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev borznoposredni\u0161ke dru\u017Ebe"
 npbNum: 0
 path: /2019/18/2019-01-1899
 sopPredpisa: 2019-01-1899

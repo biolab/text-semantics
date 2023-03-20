@@ -1,14 +1,8 @@
 Text file: ODRE1725.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1004396400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-29 23:00:00
 idPredpisa: ODRE1725
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBA  o po\u0161iljanju obvestila o spremembi cen"
 npbNum: 0
 path: /2001/43/2001-01-4336

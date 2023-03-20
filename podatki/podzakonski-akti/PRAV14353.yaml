@@ -1,14 +1,8 @@
 Text file: PRAV14353.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1625090400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-30 22:00:00
 idPredpisa: PRAV14353
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o obveznostih glede davka na dodano vrednost v zvezi z direktivami
   Sveta (EU), ki veljajo za opravljanje storitev in prodajo blaga na daljavo
 npbNum: 0

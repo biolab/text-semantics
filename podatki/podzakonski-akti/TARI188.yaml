@@ -1,20 +1,11 @@
 Text file: TARI188.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451343600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2015-12-31 23:00:00
+datumZacetkaVelj: 2015-12-28 23:00:00
 idPredpisa: TARI188
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFE o vrednosti to\u010Dke za letno pla\u010Dilo na podlagi obvestila,\
-  \ za letno pla\u010Dilo za uporabo radijskih frekvenc in za letno pla\u010Dilo za\
-  \ uporabo elementov o\u0161tevil\u010Denja"
+naslov: "TARIFE o vrednosti to\u010Dke za letno pla\u010Dilo na podlagi obvestila,
+  za letno pla\u010Dilo za uporabo radijskih frekvenc in za letno pla\u010Dilo za
+  uporabo elementov o\u0161tevil\u010Denja"
 npbNum: 0
 path: /2015/41/2015-01-4142
 sopPredpisa: 2015-01-4142

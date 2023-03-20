@@ -1,16 +1,10 @@
 Text file: PRAV13213.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1522447200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-30 22:00:00
 idPredpisa: PRAV13213
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o kakovosti storitve za enotno evropsko telefonsko \u0161tevilko\
-  \ za klice v sili 112 in \u0161tevilko policije 113"
+naslov: "PRAVILNIK o kakovosti storitve za enotno evropsko telefonsko \u0161tevilko
+  za klice v sili 112 in \u0161tevilko policije 113"
 npbNum: 0
 path: /2018/07/2018-01-0741
 sopPredpisa: 2018-01-0741

@@ -1,16 +1,10 @@
 Text file: PRAV8111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1194994800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-13 23:00:00
 idPredpisa: PRAV8111
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu priprave regionalnega prostorskega\
-  \ na\u010Drta"
+naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu priprave regionalnega prostorskega
+  na\u010Drta"
 npbNum: 0
 path: /2007/49/2007-01-4916
 sopPredpisa: 2007-01-4916

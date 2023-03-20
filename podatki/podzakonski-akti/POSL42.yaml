@@ -1,19 +1,10 @@
 Text file: POSL42.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1046386800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1045090800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2003-02-27 23:00:00
+datumZacetkaVelj: 2003-02-12 23:00:00
 idPredpisa: POSL42
 idPredpisaChng: null
-instock: .nan
-naslov: "POSLOVNIK  o na\u010Dinu dela sodnega sveta po zakonu o nezdru\u017Eljivosti\
-  \ opravljanja javne funkcije s pridobitno dejavnostjo"
+naslov: "POSLOVNIK  o na\u010Dinu dela sodnega sveta po zakonu o nezdru\u017Eljivosti
+  opravljanja javne funkcije s pridobitno dejavnostjo"
 npbNum: 0
 path: /2003/08/2003-01-0835
 sopPredpisa: 2003-01-0835

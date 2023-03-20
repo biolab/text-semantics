@@ -1,17 +1,10 @@
 Text file: SKLE11994.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1593813600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-03 22:00:00
 idPredpisa: SKLE11994
 idPredpisaChng: SKLE11994
-instock: .nan
-naslov: "SKLEP o izpolnitvi celoletne obveznosti ravnanja z odpadnimi nagrobnimi sve\u010D\
-  ami za koledarsko leto 2019 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "SKLEP o izpolnitvi celoletne obveznosti ravnanja z odpadnimi nagrobnimi sve\u010Dami
+  za koledarsko leto 2019 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/17/2020-01-1717-2020-01-0798-npb1
 sopPredpisa: 2020-01-1717

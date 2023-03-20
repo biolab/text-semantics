@@ -1,16 +1,10 @@
 Text file: ODLO2662.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1647039600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-03-11 23:00:00
 idPredpisa: ODLO2662
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi vpliva pove\u010Danja cen energentov\
-  \ v \u010Debelarstvu"
+naslov: "ODLOK o finan\u010Dnem nadomestilu zaradi vpliva pove\u010Danja cen energentov
+  v \u010Debelarstvu"
 npbNum: 0
 path: /2022/07/2022-01-0701
 sopPredpisa: 2022-01-0701

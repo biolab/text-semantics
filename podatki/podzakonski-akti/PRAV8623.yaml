@@ -1,19 +1,10 @@
 Text file: PRAV8623.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193090400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1191794400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2007-10-22 22:00:00
+datumZacetkaVelj: 2007-10-07 22:00:00
 idPredpisa: PRAV8623
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o postopku strokovne verifikacije socialnovarstvenih programov,\
-  \ ki se izvajajo na podro\u010Dju socialnega varstva"
+naslov: "PRAVILNIK o postopku strokovne verifikacije socialnovarstvenih programov,
+  ki se izvajajo na podro\u010Dju socialnega varstva"
 npbNum: 0
 path: /2007/48/2007-01-4806
 sopPredpisa: 2007-01-4806

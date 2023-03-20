@@ -1,17 +1,11 @@
 Text file: PRAV14439.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1651701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-04 22:00:00
 idPredpisa: PRAV14439
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zagotavljanju sledljivosti porekla za nepredpakirano sve\u017E\
-  e, ohlajeno in zamrznjeno goveje, pra\u0161i\u010Dje, ov\u010Dje, kozje in perutninsko\
-  \ meso"
+naslov: "PRAVILNIK o zagotavljanju sledljivosti porekla za nepredpakirano sve\u017Ee,
+  ohlajeno in zamrznjeno goveje, pra\u0161i\u010Dje, ov\u010Dje, kozje in perutninsko
+  meso"
 npbNum: 0
 path: /2022/11/2022-01-1189
 sopPredpisa: 2022-01-1189

@@ -1,16 +1,10 @@
 Text file: PRAV4858.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1099954800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-08 23:00:00
 idPredpisa: PRAV4858
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kolpa\
-  \ (2003\u20132012)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Kolpa
+  (2003\u20132012)"
 npbNum: 0
 path: /2004/50/2004-01-5010
 sopPredpisa: 2004-01-5010

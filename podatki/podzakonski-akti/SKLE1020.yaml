@@ -1,16 +1,10 @@
 Text file: SKLE1020.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 969228000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-09-17 22:00:00
 idPredpisa: SKLE1020
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o prenosu nadome\u0161\u010Denega dela dr\u017Eavne ceste med ob\u010D\
-  inske ceste"
+naslov: "SKLEP  o prenosu nadome\u0161\u010Denega dela dr\u017Eavne ceste med ob\u010Dinske
+  ceste"
 npbNum: 0
 path: /2000/36/2000-01-3680
 sopPredpisa: 2000-01-3680

@@ -1,17 +1,11 @@
 Text file: ODRE1804.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1034373600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-11 22:00:00
 idPredpisa: ODRE1804
 idPredpisaChng: ODRE1804
-instock: .nan
-naslov: "PRAVILNIK o izvajanju preventivnih cepljenj in diagnosti\u010Dnih ter drugih\
-  \ preiskav \u017Eivali v letu 2002 (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o izvajanju preventivnih cepljenj in diagnosti\u010Dnih ter drugih
+  preiskav \u017Eivali v letu 2002 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2002/42/2002-01-4246-2002-01-0265-npb2
 sopPredpisa: 2002-01-4246

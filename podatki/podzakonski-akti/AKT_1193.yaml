@@ -1,18 +1,12 @@
 Text file: AKT_1193.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609974000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-06 23:00:00
 idPredpisa: AKT_1193
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za zaprti distribucijski sistem zemeljskega\
-  \ plina za geografsko obmo\u010Dje dela kompleksa nekdanje \u017Delezarne Jesenice,\
-  \ ki obsega geografski enoti v katastrski ob\u010Dini Jesenice J2R6-UN Halda vzhod\
-  \ in J2M1-ZN Poslovna cona"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za zaprti distribucijski sistem zemeljskega
+  plina za geografsko obmo\u010Dje dela kompleksa nekdanje \u017Delezarne Jesenice,
+  ki obsega geografski enoti v katastrski ob\u010Dini Jesenice J2R6-UN Halda vzhod
+  in J2M1-ZN Poslovna cona"
 npbNum: 0
 path: /2020/35/2020-01-3505
 sopPredpisa: 2020-01-3505

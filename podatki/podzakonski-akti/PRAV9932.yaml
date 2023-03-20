@@ -1,16 +1,10 @@
 Text file: PRAV9932.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1267225200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-26 23:00:00
 idPredpisa: PRAV9932
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o vsebnosti histamina v dolo\u010D\
-  enih vrstah rib"
+naslov: "PRAVILNIK o prenehanju veljavnosti Pravilnika o vsebnosti histamina v dolo\u010Denih
+  vrstah rib"
 npbNum: 0
 path: /2010/05/2010-01-0584
 sopPredpisa: 2010-01-0584

@@ -1,18 +1,12 @@
 Text file: AKT_1138.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583535600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-06 23:00:00
 idPredpisa: AKT_1138
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijske sisteme zemeljskega plina\
-  \ za geografska obmo\u010Dja Mestne ob\u010Dine Maribor, Ob\u010Dine Ho\u010De-Slivnica,\
-  \ Ob\u010Dine Miklav\u017E na Dravskem polju, Ob\u010Dine Ru\u0161e, Ob\u010Dine\
-  \ Ra\u010De-Fram in Ob\u010Dine \u0160entilj"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijske sisteme zemeljskega plina
+  za geografska obmo\u010Dja Mestne ob\u010Dine Maribor, Ob\u010Dine Ho\u010De-Slivnica,
+  Ob\u010Dine Miklav\u017E na Dravskem polju, Ob\u010Dine Ru\u0161e, Ob\u010Dine Ra\u010De-Fram
+  in Ob\u010Dine \u0160entilj"
 npbNum: 0
 path: /2020/02/2020-01-0297
 sopPredpisa: 2020-01-0297

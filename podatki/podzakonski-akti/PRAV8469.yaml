@@ -1,14 +1,8 @@
 Text file: PRAV8469.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186178400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-03 22:00:00
 idPredpisa: PRAV8469
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o nagradah za izume iz delovnega razmerja
 npbNum: 0
 path: /2007/35/2007-01-3559

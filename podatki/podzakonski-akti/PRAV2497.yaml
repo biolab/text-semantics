@@ -1,16 +1,10 @@
 Text file: PRAV2497.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 790642800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-01-20 23:00:00
 idPredpisa: PRAV2497
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu valorizacije vrednosti lastne udele\u017Ebe za pridobitev\
-  \ stanovanjske pravice"
+naslov: "PRAVILNIK o na\u010Dinu valorizacije vrednosti lastne udele\u017Ebe za pridobitev
+  stanovanjske pravice"
 npbNum: 0
 path: /1995/02/1995-01-0291
 sopPredpisa: 1995-01-0291

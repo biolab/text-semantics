@@ -1,16 +1,10 @@
 Text file: TARI139.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
+datumZacetkaUpor: 2011-12-31 23:00:00
+datumZacetkaVelj: null
 idPredpisa: TARI139
 idPredpisaChng: null
-instock: .nan
-naslov: "ZA\u010CASNO TARIFO za prizemeljsko radiodifuzno oddajanje fonogramov v nacionalnih\
-  \ radijskih in televizijskih programih, ki so v javnem in kulturnem interesu RS"
+naslov: "ZA\u010CASNO TARIFO za prizemeljsko radiodifuzno oddajanje fonogramov v nacionalnih
+  radijskih in televizijskih programih, ki so v javnem in kulturnem interesu RS"
 npbNum: 0
 path: /2012/01/2012-01-0139
 sopPredpisa: 2012-01-0139

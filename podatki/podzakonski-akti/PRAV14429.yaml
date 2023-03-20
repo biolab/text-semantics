@@ -1,17 +1,11 @@
 Text file: PRAV14429.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640905200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-30 23:00:00
 idPredpisa: PRAV14429
 idPredpisaChng: PRAV14429
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu poro\u010Danja in posredovanja zahtevkov za povra\u010D\
-  ilo stro\u0161kov ter najvi\u0161ji vi\u0161ini povra\u010Dila stro\u0161kov sekvenciranja\
-  \ genoma SARS-CoV-2 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu poro\u010Danja in posredovanja zahtevkov za povra\u010Dilo
+  stro\u0161kov ter najvi\u0161ji vi\u0161ini povra\u010Dila stro\u0161kov sekvenciranja
+  genoma SARS-CoV-2 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/42/2021-01-4296-2021-01-3273-npb1
 sopPredpisa: 2021-01-4296

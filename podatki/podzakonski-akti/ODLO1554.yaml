@@ -1,16 +1,10 @@
 Text file: ODLO1554.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1215208800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-04 22:00:00
 idPredpisa: ODLO1554
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o razglasitvi Hidroelektrarne Fala za kulturni spomenik dr\u017Eavnega\
-  \ pomena"
+naslov: "ODLOK o razglasitvi Hidroelektrarne Fala za kulturni spomenik dr\u017Eavnega
+  pomena"
 npbNum: 0
 path: /2008/26/2008-01-2635
 sopPredpisa: 2008-01-2635

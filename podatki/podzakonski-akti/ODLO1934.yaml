@@ -1,19 +1,10 @@
 Text file: ODLO1934.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513206000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2017-12-13 23:00:00
 idPredpisa: ODLO1934
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Komisijo\
-  \ za prepre\u010Devanje korupcije za leto 2019 (OdRSPKPK19)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Komisijo
+  za prepre\u010Devanje korupcije za leto 2019 (OdRSPKPK19)"
 npbNum: 0
 path: /2017/34/2017-01-3422
 sopPredpisa: 2017-01-3422

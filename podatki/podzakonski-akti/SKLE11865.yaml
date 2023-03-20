@@ -1,19 +1,10 @@
 Text file: SKLE11865.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1563573600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-12-31 23:00:00
+datumZacetkaVelj: 2019-07-19 22:00:00
 idPredpisa: SKLE11865
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o ocenjevanju izgube ob nepla\u010Dilu (LGD), primerne\
-  \ za obdobje gospodarske recesije (ocenjevanje LGD za recesijo)"
+naslov: "SKLEP o uporabi Smernic o ocenjevanju izgube ob nepla\u010Dilu (LGD), primerne
+  za obdobje gospodarske recesije (ocenjevanje LGD za recesijo)"
 npbNum: 0
 path: /2019/22/2019-01-2214
 sopPredpisa: 2019-01-2214

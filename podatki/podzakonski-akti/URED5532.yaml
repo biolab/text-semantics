@@ -1,17 +1,11 @@
 Text file: URED5532.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1353106800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-16 23:00:00
 idPredpisa: URED5532
 idPredpisaChng: URED5532
-instock: .nan
-naslov: "UREDBA o izvajanju Zakona o poro\u0161tvih Republike Slovenije za financiranje\
-  \ investicij gospodarskih dru\u017Eb (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o izvajanju Zakona o poro\u0161tvih Republike Slovenije za financiranje
+  investicij gospodarskih dru\u017Eb (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2012/34/2012-01-3447-2010-01-3338-npb1
 sopPredpisa: 2012-01-3447

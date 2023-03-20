@@ -1,17 +1,11 @@
 Text file: SKLE10655.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-12 22:00:00
 idPredpisa: SKLE10655
 idPredpisaChng: SKLE10655
-instock: .nan
-naslov: "SKLEP o dokumentaciji za izdajo dovoljenj oziroma soglasij dru\u017Ebi za\
-  \ upravljanje in dru\u017Ebi za upravljanje dr\u017Eave \u010Dlanice (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o dokumentaciji za izdajo dovoljenj oziroma soglasij dru\u017Ebi za
+  upravljanje in dru\u017Ebi za upravljanje dr\u017Eave \u010Dlanice (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/13/2020-01-1352-2016-01-0422-npb1
 sopPredpisa: 2020-01-1352

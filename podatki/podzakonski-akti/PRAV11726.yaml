@@ -1,18 +1,12 @@
 Text file: PRAV11726.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1550271600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-15 23:00:00
 idPredpisa: PRAV11726
 idPredpisaChng: PRAV11726
-instock: .nan
-naslov: "PRAVILNIK o zahtevah za zdravstveno varstvo \u017Eivali in proizvodov iz\
-  \ akvakulture ter o ukrepih za ugotavljanje, prepre\u010Devanje in obvladovanje\
-  \ dolo\u010Denih bolezni vodnih \u017Eivali (neuradno pre\u010Di\u0161\u010Deno\
-  \ besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o zahtevah za zdravstveno varstvo \u017Eivali in proizvodov iz
+  akvakulture ter o ukrepih za ugotavljanje, prepre\u010Devanje in obvladovanje dolo\u010Denih
+  bolezni vodnih \u017Eivali (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2019/03/2019-01-0304-2014-01-0123-npb1
 sopPredpisa: 2019-01-0304

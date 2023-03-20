@@ -1,16 +1,10 @@
 Text file: URED5815.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1302904800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-04-15 22:00:00
 idPredpisa: URED5815
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za izvajanje gospodarske javne slu\u017Ebe obratovanja\
-  \ javnega letali\u0161\u010Da Portoro\u017E"
+naslov: "UREDBO o koncesiji za izvajanje gospodarske javne slu\u017Ebe obratovanja
+  javnega letali\u0161\u010Da Portoro\u017E"
 npbNum: 0
 path: /2011/13/2011-01-1370
 sopPredpisa: 2011-01-1370

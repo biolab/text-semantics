@@ -1,14 +1,8 @@
 Text file: PRAV12059.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1397512800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-14 22:00:00
 idPredpisa: PRAV12059
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o napotitvi uslu\u017Ebencev policije v druge organizacije"
 npbNum: 0
 path: /2014/08/2014-01-0830

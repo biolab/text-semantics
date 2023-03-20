@@ -1,14 +1,8 @@
 Text file: PRAV3741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071788400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-18 23:00:00
 idPredpisa: PRAV3741
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o sprejetju \u010Distopasemskih plemenskih ovc in koz za pleme*"
 npbNum: 0
 path: /2003/42/2003-01-4252

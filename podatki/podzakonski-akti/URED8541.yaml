@@ -1,16 +1,10 @@
 Text file: URED8541.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648850400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-01 22:00:00
 idPredpisa: URED8541
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izra\u010Dunu vi\u0161ine povra\u010Dila dela stro\u0161kov ob\u010D\
-  inam zaradi pove\u010Danega nadzora dr\u017Eavne meje"
+naslov: "UREDBO o izra\u010Dunu vi\u0161ine povra\u010Dila dela stro\u0161kov ob\u010Dinam
+  zaradi pove\u010Danega nadzora dr\u017Eavne meje"
 npbNum: 0
 path: /2022/09/2022-01-0971
 sopPredpisa: 2022-01-0971

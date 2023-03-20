@@ -1,19 +1,10 @@
 Text file: ODLO1887.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1481842800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: 2016-12-15 23:00:00
 idPredpisa: ODLO1887
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Ra\u010D\
-  unsko sodi\u0161\u010De Republike Slovenije za leto 2018 (OdRSPRacS18)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Ra\u010Dunsko
+  sodi\u0161\u010De Republike Slovenije za leto 2018 (OdRSPRacS18)"
 npbNum: 0
 path: /2016/33/2016-01-3392
 sopPredpisa: 2016-01-3392

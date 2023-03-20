@@ -1,16 +1,10 @@
 Text file: AKT_231.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 972597600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-10-26 22:00:00
 idPredpisa: AKT_231
 idPredpisaChng: null
-instock: .nan
-naslov: "SOGLASJE  k aktu o ustanovitvi Mednarodne od\u0161kodninske fundacije \u2013\
-  \ ustanove za popla\u010Dilo od\u0161kodnine \_\u017Ertvam vojnega nasilja"
+naslov: "SOGLASJE  k aktu o ustanovitvi Mednarodne od\u0161kodninske fundacije \u2013
+  ustanove za popla\u010Dilo od\u0161kodnine \_\u017Ertvam vojnega nasilja"
 npbNum: 0
 path: /2000/41/2000-01-4169
 sopPredpisa: 2000-01-4169

@@ -1,14 +1,8 @@
 Text file: ODRE646.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 940629600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-10-22 22:00:00
 idPredpisa: ODRE646
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o enotni prometni ureditvi v \u010Dasu izvajanja mobilizacije"
 npbNum: 0
 path: /1999/41/1999-01-4118

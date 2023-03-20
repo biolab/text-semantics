@@ -1,16 +1,10 @@
 Text file: ODLO2614.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1652479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-13 22:00:00
 idPredpisa: ODLO2614
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o razglasitvi Dvorca Gutenbuchel s parkom v Ravnah pri \u0160o\u0161\
-  tanju za kulturni spomenik dr\u017Eavnega pomena"
+naslov: "ODLOK o razglasitvi Dvorca Gutenbuchel s parkom v Ravnah pri \u0160o\u0161tanju
+  za kulturni spomenik dr\u017Eavnega pomena"
 npbNum: 0
 path: /2022/15/2022-01-1548
 sopPredpisa: 2022-01-1548

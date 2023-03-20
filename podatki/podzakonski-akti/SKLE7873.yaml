@@ -1,16 +1,10 @@
 Text file: SKLE7873.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1229122800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-12 23:00:00
 idPredpisa: SKLE7873
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi nove vi\u0161ine stro\u0161kov za opravljanje strokovnih\
-  \ izpitov pri In\u017Eenirski zbornici Slovenije"
+naslov: "SKLEP o dolo\u010Ditvi nove vi\u0161ine stro\u0161kov za opravljanje strokovnih
+  izpitov pri In\u017Eenirski zbornici Slovenije"
 npbNum: 0
 path: /2008/48/2008-01-4867
 sopPredpisa: 2008-01-4867

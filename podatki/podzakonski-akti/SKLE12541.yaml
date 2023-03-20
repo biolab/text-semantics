@@ -1,17 +1,8 @@
 Text file: SKLE12541.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634940000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-12-31 23:00:00
+datumZacetkaVelj: 2021-10-22 22:00:00
 idPredpisa: SKLE12541
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic o obveznostih glede podatkov o trgu v skladu z MiFID
   II/MiFIR
 npbNum: 0

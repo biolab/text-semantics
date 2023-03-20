@@ -1,16 +1,10 @@
 Text file: URED4433.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1186524000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-08-07 22:00:00
 idPredpisa: URED4433
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obliki in barvi zastave in znaka dav\u010Dne slu\u017Ebe ter njuni\
-  \ uporabi"
+naslov: "UREDBO o obliki in barvi zastave in znaka dav\u010Dne slu\u017Ebe ter njuni
+  uporabi"
 npbNum: 0
 path: /2007/38/2007-01-3882
 sopPredpisa: 2007-01-3882

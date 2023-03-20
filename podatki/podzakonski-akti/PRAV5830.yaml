@@ -1,14 +1,8 @@
 Text file: PRAV5830.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-04-30 22:00:00
 idPredpisa: PRAV5830
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o geografski ozna\u010Dbi Zgornjesavinjski \u017Eelodec"
 npbNum: 0
 path: /2004/22/2004-01-2241

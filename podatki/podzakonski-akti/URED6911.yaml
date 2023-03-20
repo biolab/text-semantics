@@ -1,16 +1,10 @@
 Text file: URED6911.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1495231200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-05-19 22:00:00
 idPredpisa: URED6911
 idPredpisaChng: URED6911
-instock: .nan
-naslov: "UREDBA o sistemu dovoljenj za zasaditev vinske trte (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o sistemu dovoljenj za zasaditev vinske trte (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/12/2017-01-1214-2016-01-0196-npb1
 sopPredpisa: 2017-01-1214

@@ -1,17 +1,11 @@
 Text file: SKLE12434.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626472800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-16 22:00:00
 idPredpisa: SKLE12434
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadnih nagrobnih sve\u010D\
-  \ pri izvajalcih javne slu\u017Ebe zbiranja in upravljavcih pokopali\u0161\u010D\
-  \ za obdobje do 30.\_junija 2022"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev prevzemanja odpadnih nagrobnih sve\u010D
+  pri izvajalcih javne slu\u017Ebe zbiranja in upravljavcih pokopali\u0161\u010D za
+  obdobje do 30.\_junija 2022"
 npbNum: 0
 path: /2021/25/2021-01-2537
 sopPredpisa: 2021-01-2537

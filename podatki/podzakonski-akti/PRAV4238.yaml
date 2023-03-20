@@ -1,16 +1,10 @@
 Text file: PRAV4238.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1023487200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-06-07 22:00:00
 idPredpisa: PRAV4238
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju uporabe pravilnika o tehi\u010Dnih \_pogojih, ki jim\
-  \ morajo glede izdelave ustrezati predmeti iz plemenitih kovin"
+naslov: "PRAVILNIK o prenehanju uporabe pravilnika o tehi\u010Dnih \_pogojih, ki jim
+  morajo glede izdelave ustrezati predmeti iz plemenitih kovin"
 npbNum: 0
 path: /2002/22/2002-01-2216
 sopPredpisa: 2002-01-2216

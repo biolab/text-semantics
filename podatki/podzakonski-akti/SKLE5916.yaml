@@ -1,17 +1,11 @@
 Text file: SKLE5916.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1134601200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-12-14 23:00:00
 idPredpisa: SKLE5916
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi tarife za ceno storitev opravljanja gospodarske javne\
-  \ slu\u017Ebe ravnanja s klavni\u010Dnimi odpadki in ku\u017Enim materialom \u017E\
-  ivalskega porekla"
+naslov: "SKLEP o dolo\u010Ditvi tarife za ceno storitev opravljanja gospodarske javne
+  slu\u017Ebe ravnanja s klavni\u010Dnimi odpadki in ku\u017Enim materialom \u017Eivalskega
+  porekla"
 npbNum: 0
 path: /2005/48/2005-01-4884
 sopPredpisa: 2005-01-4884

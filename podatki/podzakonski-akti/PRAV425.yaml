@@ -1,17 +1,8 @@
 Text file: PRAV425.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 956268000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 956268000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2000-04-20 22:00:00
+datumZacetkaVelj: 2000-04-20 22:00:00
 idPredpisa: PRAV425
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o varnosti in zdravju pri delu s slikovnim zaslonom
 npbNum: 0
 path: /2000/14/2000-01-1404

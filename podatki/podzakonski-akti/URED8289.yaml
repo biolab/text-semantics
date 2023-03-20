@@ -1,16 +1,10 @@
 Text file: URED8289.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1616713200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-25 23:00:00
 idPredpisa: URED8289
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o ocenjevanju javnih uslu\u017Ebencev za leto 2020 zaradi posledic\
-  \ epidemije COVID-19"
+naslov: "UREDBO o ocenjevanju javnih uslu\u017Ebencev za leto 2020 zaradi posledic
+  epidemije COVID-19"
 npbNum: 0
 path: /2021/08/2021-01-0860
 sopPredpisa: 2021-01-0860

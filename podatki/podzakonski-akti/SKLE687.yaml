@@ -1,16 +1,10 @@
 Text file: SKLE687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 915145200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-31 23:00:00
 idPredpisa: SKLE687
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi stopnje \u010Dlanskega prispevka Gospodarske zbornice\
-  \ Slovenije za leto 1999"
+naslov: "SKLEP o dolo\u010Ditvi stopnje \u010Dlanskega prispevka Gospodarske zbornice
+  Slovenije za leto 1999"
 npbNum: 0
 path: /1998/43/1998-01-4334
 sopPredpisa: 1998-01-4334

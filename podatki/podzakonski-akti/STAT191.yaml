@@ -1,16 +1,10 @@
 Text file: STAT191.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1363734000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-19 23:00:00
 idPredpisa: STAT191
 idPredpisaChng: null
-instock: .nan
-naslov: "STATUT Zveze bibliotekarskih dru\u0161tev Slovenije \u2013 uradno pre\u010D\
-  i\u0161\u010Deno besedilo  (Statut ZBDS-UPB1)"
+naslov: "STATUT Zveze bibliotekarskih dru\u0161tev Slovenije \u2013 uradno pre\u010Di\u0161\u010Deno
+  besedilo  (Statut ZBDS-UPB1)"
 npbNum: 0
 path: /2013/27/2013-01-2728
 sopPredpisa: 2013-01-2728

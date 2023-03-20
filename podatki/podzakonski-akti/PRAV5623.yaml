@@ -1,14 +1,8 @@
 Text file: PRAV5623.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1087509600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-17 22:00:00
 idPredpisa: PRAV5623
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o izdaji dovoljenj za delo otrok, mlaj\u0161ih od 15 let"
 npbNum: 0
 path: /2004/27/2004-01-2760

@@ -1,16 +1,10 @@
 Text file: ODRE1612.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 988322400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-04-26 22:00:00
 idPredpisa: ODRE1612
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o uporabi merskih enot, ki ne spadajo med dovoljene merske enote,\
-  \ v jedrski elektrarni Kr\u0161ko"
+naslov: "ODREDBO o uporabi merskih enot, ki ne spadajo med dovoljene merske enote,
+  v jedrski elektrarni Kr\u0161ko"
 npbNum: 0
 path: /2001/15/2001-01-1595
 sopPredpisa: 2001-01-1595

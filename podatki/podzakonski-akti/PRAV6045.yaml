@@ -1,18 +1,12 @@
 Text file: PRAV6045.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089756000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-13 22:00:00
 idPredpisa: PRAV6045
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju uporabe pravilnika o sofinanciranju avtorskih honorarjev\
-  \ na podro\u010Dju glasbene, glasbeno-scenske, plesne, baletne, gledali\u0161ke,\
-  \ filmske, audio, video in multimedijske ustvarjalnosti in na podro\u010Dju knji\u017E\
-  evnosti, znanosti in likovne umetnosti"
+naslov: "PRAVILNIK o prenehanju uporabe pravilnika o sofinanciranju avtorskih honorarjev
+  na podro\u010Dju glasbene, glasbeno-scenske, plesne, baletne, gledali\u0161ke, filmske,
+  audio, video in multimedijske ustvarjalnosti in na podro\u010Dju knji\u017Eevnosti,
+  znanosti in likovne umetnosti"
 npbNum: 0
 path: /2004/33/2004-01-3367
 sopPredpisa: 2004-01-3367

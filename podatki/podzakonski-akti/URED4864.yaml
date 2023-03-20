@@ -1,16 +1,10 @@
 Text file: URED4864.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1216418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-18 22:00:00
 idPredpisa: URED4864
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o nagradah za sklenitev in podalj\u0161anje pogodbe o zaposlitvi v\
-  \ Slovenski vojski"
+naslov: "UREDBO o nagradah za sklenitev in podalj\u0161anje pogodbe o zaposlitvi v
+  Slovenski vojski"
 npbNum: 0
 path: /2008/28/2008-01-2885
 sopPredpisa: 2008-01-2885

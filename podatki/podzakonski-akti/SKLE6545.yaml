@@ -1,14 +1,8 @@
 Text file: SKLE6545.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1153432800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-07-20 22:00:00
 idPredpisa: SKLE6545
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o ustanovitvi, sestavi, organizaciji in nalogah Sveta Vlade Republike
   Slovenije za Slovence po svetu
 npbNum: 0

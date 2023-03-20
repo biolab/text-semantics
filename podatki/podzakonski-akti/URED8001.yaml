@@ -1,17 +1,10 @@
 Text file: URED8001.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1579302000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-17 23:00:00
 idPredpisa: URED8001
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov\
-  \ prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2020 in\
-  \ 2021"
+naslov: "UREDBO o na\u010Dinu priprave kadrovskih na\u010Drtov posrednih uporabnikov
+  prora\u010Duna in metodologiji spremljanja njihovega izvajanja za leti 2020 in 2021"
 npbNum: 0
 path: /2020/00/2020-01-0091
 sopPredpisa: 2020-01-0091

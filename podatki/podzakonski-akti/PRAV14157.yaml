@@ -1,19 +1,10 @@
 Text file: PRAV14157.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1605913200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2021-11-19 23:00:00
+datumZacetkaVelj: 2020-11-20 23:00:00
 idPredpisa: PRAV14157
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti biolo\u0161\
-  kim dejavnikom pri delu"
+naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti biolo\u0161kim
+  dejavnikom pri delu"
 npbNum: 0
 path: /2020/29/2020-01-2934
 sopPredpisa: 2020-01-2934

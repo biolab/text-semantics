@@ -1,14 +1,8 @@
 Text file: SKLE11815.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562364000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-05 22:00:00
 idPredpisa: SKLE11815
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o razre\u0161itvi generalnega konzula Republike Slovenije v Celovcu"
 npbNum: 0
 path: /2019/20/2019-01-2006

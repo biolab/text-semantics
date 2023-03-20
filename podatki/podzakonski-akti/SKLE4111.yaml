@@ -1,16 +1,10 @@
 Text file: SKLE4111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1512169200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-01 23:00:00
 idPredpisa: SKLE4111
 idPredpisaChng: SKLE4111
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega zavoda Pokrajinski arhiv v Novi Gorici (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi javnega zavoda Pokrajinski arhiv v Novi Gorici (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/32/2017-01-3262-2003-01-3237-npb2
 sopPredpisa: 2017-01-3262

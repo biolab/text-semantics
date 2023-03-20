@@ -1,16 +1,10 @@
 Text file: ODLO958.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1374271200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-07-19 22:00:00
 idPredpisa: ODLO958
 idPredpisaChng: ODLO958
-instock: .nan
-naslov: "ODLOK o ustanovitvi Sveta za elektronske komunikacije (prenehal veljati)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 13)"
+naslov: "ODLOK o ustanovitvi Sveta za elektronske komunikacije (prenehal veljati)
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 13)"
 npbNum: 13
 path: /2013/23/2013-01-2364-2001-01-2958-npb13
 sopPredpisa: 2013-01-2364

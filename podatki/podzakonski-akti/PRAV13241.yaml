@@ -1,14 +1,8 @@
 Text file: PRAV13241.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1520463600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-03-07 23:00:00
 idPredpisa: PRAV13241
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o postopku uveljavljanja terjatev Republike Slovenije v postopkih
   zaradi insolventnosti
 npbNum: 0

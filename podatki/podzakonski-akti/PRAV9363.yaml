@@ -1,14 +1,8 @@
 Text file: PRAV9363.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1247004000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-07 22:00:00
 idPredpisa: PRAV9363
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o varnostnih ukrepih pred previsoko napetostjo dotika na elektrificiranih
   progah
 npbNum: 0

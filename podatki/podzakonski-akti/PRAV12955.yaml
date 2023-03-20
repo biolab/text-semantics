@@ -1,20 +1,11 @@
 Text file: PRAV12955.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483225200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482966000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-12-31 23:00:00
+datumZacetkaVelj: 2016-12-28 23:00:00
 idPredpisa: PRAV12955
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o seznamu izdanih ra\u010Dunov in predlo\u017Eitvi podatkov dav\u010D\
-  nemu organu v zvezi z malim obsegom prve stopnje predelave lastnih kmetijskih in\
-  \ gozdarskih pridelkov"
+naslov: "PRAVILNIK o seznamu izdanih ra\u010Dunov in predlo\u017Eitvi podatkov dav\u010Dnemu
+  organu v zvezi z malim obsegom prve stopnje predelave lastnih kmetijskih in gozdarskih
+  pridelkov"
 npbNum: 0
 path: /2016/37/2016-01-3702
 sopPredpisa: 2016-01-3702

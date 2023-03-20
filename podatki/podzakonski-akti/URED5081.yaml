@@ -1,14 +1,8 @@
 Text file: URED5081.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1244239200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-06-05 22:00:00
 idPredpisa: URED5081
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o izvozu in
   uvozu nevarnih kemikalij
 npbNum: 0

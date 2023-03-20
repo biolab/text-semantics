@@ -1,17 +1,11 @@
 Text file: URED6808.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1407535200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-08-08 22:00:00
 idPredpisa: URED6808
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi parametrov horizontalne sestavine in gravimetri\u010D\
-  nega dela vertikalne sestavine dr\u017Eavnega prostorskega koordinatnega sistema,\
-  \ imen teh sestavin in dr\u017Eavne kartografske projekcije"
+naslov: "UREDBO o dolo\u010Ditvi parametrov horizontalne sestavine in gravimetri\u010Dnega
+  dela vertikalne sestavine dr\u017Eavnega prostorskega koordinatnega sistema, imen
+  teh sestavin in dr\u017Eavne kartografske projekcije"
 npbNum: 0
 path: /2014/25/2014-01-2526
 sopPredpisa: 2014-01-2526

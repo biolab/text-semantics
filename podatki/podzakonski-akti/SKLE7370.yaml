@@ -1,16 +1,10 @@
 Text file: SKLE7370.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1332543600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-03-23 23:00:00
 idPredpisa: SKLE7370
 idPredpisaChng: SKLE7370
-instock: .nan
-naslov: "SKLEP o organizacijskih zahtevah za vodenje centralnega registra in upravljanje\
-  \ poravnalnega sistema (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o organizacijskih zahtevah za vodenje centralnega registra in upravljanje
+  poravnalnega sistema (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2012/08/2012-01-0859-2007-01-5287-npb1
 sopPredpisa: 2012-01-0859

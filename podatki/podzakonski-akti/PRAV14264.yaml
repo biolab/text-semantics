@@ -1,16 +1,10 @@
 Text file: PRAV14264.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1626991200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-22 22:00:00
 idPredpisa: PRAV14264
 idPredpisaChng: PRAV14264
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi povr\u0161inskih standardov za prijavo prebivali\u0161\
-  \u010Da (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o dolo\u010Ditvi povr\u0161inskih standardov za prijavo prebivali\u0161\u010Da
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/25/2021-01-2569-2021-01-1407-npb1
 sopPredpisa: 2021-01-2569

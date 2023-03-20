@@ -1,17 +1,11 @@
 Text file: PRAV8227.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1177538400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-04-25 22:00:00
 idPredpisa: PRAV8227
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine nadomestila za kritje stro\u0161kov\
-  \ za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010D\
-  jih od aprila do decembra 2007"
+naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine nadomestila za kritje stro\u0161kov
+  za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010Djih
+  od aprila do decembra 2007"
 npbNum: 0
 path: /2007/17/2007-01-1767
 sopPredpisa: 2007-01-1767

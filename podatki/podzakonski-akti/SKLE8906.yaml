@@ -1,17 +1,11 @@
 Text file: SKLE8906.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1306533600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-27 22:00:00
 idPredpisa: SKLE8906
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o dolo\u010Ditvi vi\u0161ine prispevka\
-  \ za zagotavljanje podpor proizvodnji elektri\u010Dne energije v soproizvodnji z\
-  \ visokim izkoristkom in iz obnovljivih virov energije"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o dolo\u010Ditvi vi\u0161ine prispevka
+  za zagotavljanje podpor proizvodnji elektri\u010Dne energije v soproizvodnji z visokim
+  izkoristkom in iz obnovljivih virov energije"
 npbNum: 0
 path: /2011/19/2011-01-1968
 sopPredpisa: 2011-01-1968

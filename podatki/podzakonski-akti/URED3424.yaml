@@ -1,17 +1,11 @@
 Text file: URED3424.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090620000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-23 22:00:00
 idPredpisa: URED3424
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih za dolo\u010Danje razvitosti infrastrukture in obremenjenosti\
-  \ okolja zaradi ugotavljanja dele\u017Ea pla\u010Dila ob\u010Dini za koncesijo na\
-  \ naravni dobrini"
+naslov: "UREDBO o merilih za dolo\u010Danje razvitosti infrastrukture in obremenjenosti
+  okolja zaradi ugotavljanja dele\u017Ea pla\u010Dila ob\u010Dini za koncesijo na
+  naravni dobrini"
 npbNum: 0
 path: /2004/32/2004-01-3275
 sopPredpisa: 2004-01-3275

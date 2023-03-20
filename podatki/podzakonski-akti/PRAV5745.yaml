@@ -1,14 +1,8 @@
 Text file: PRAV5745.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080255600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-25 23:00:00
 idPredpisa: PRAV5745
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o specifikaciji kmetijskih pridelkov oziroma \u017Eivil"
 npbNum: 0
 path: /2004/12/2004-01-1214

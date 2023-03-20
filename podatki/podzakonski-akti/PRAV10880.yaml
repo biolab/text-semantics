@@ -1,16 +1,10 @@
 Text file: PRAV10880.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1328569200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-02-06 23:00:00
 idPredpisa: PRAV10880
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izvajanju pomo\u010Di v primeru tranzita tujca, ki se prisilno\
-  \ odstranjuje po zra\u010Dni poti"
+naslov: "PRAVILNIK o izvajanju pomo\u010Di v primeru tranzita tujca, ki se prisilno
+  odstranjuje po zra\u010Dni poti"
 npbNum: 0
 path: /2012/01/2012-01-0177
 sopPredpisa: 2012-01-0177

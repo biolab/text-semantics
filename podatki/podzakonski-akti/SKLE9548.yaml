@@ -1,16 +1,10 @@
 Text file: SKLE9548.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383346800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-11-01 23:00:00
 idPredpisa: SKLE9548
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
-  \ vinogradov in izpada dohodka v vinskem letu 2013/2014"
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja
+  vinogradov in izpada dohodka v vinskem letu 2013/2014"
 npbNum: 0
 path: /2013/31/2013-01-3160
 sopPredpisa: 2013-01-3160

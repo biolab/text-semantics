@@ -1,14 +1,8 @@
 Text file: SKLE11581.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1535148000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-24 22:00:00
 idPredpisa: SKLE11581
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi vsebine in oblike obrazca volilne karte"
 npbNum: 0
 path: /2018/28/2018-01-2874

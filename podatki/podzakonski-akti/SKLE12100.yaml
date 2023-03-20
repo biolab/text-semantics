@@ -1,16 +1,10 @@
 Text file: SKLE12100.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592172000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-14 22:00:00
 idPredpisa: SKLE12100
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa Vlade Republike Slovenije \u0161t.\_\
-  021-06/94-1/2-8 z dne 8.\_decembra 1994"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa Vlade Republike Slovenije \u0161t.\_021-06/94-1/2-8
+  z dne 8.\_decembra 1994"
 npbNum: 0
 path: /2020/14/2020-01-1405
 sopPredpisa: 2020-01-1405

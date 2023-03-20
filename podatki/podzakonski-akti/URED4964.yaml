@@ -1,16 +1,10 @@
 Text file: URED4964.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1223071200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-03 22:00:00
 idPredpisa: URED4964
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije na\
-  \ delu vodnega telesa vodotoka Lobnica"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo elektri\u010Dne energije na
+  delu vodnega telesa vodotoka Lobnica"
 npbNum: 0
 path: /2008/38/2008-01-3808
 sopPredpisa: 2008-01-3808

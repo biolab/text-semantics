@@ -1,16 +1,10 @@
 Text file: ODRE1246.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 838418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-26 22:00:00
 idPredpisa: ODRE1246
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine\
-  \ \u010Crnomelj \u2013 agromelioracijski kompleks \u010Crnomelj I"
+naslov: "ODREDBO  o uvedbi agromelioracijskega postopka na obmo\u010Dju Ob\u010Dine
+  \u010Crnomelj \u2013 agromelioracijski kompleks \u010Crnomelj I"
 npbNum: 0
 path: /1996/25/1996-01-2566
 sopPredpisa: 1996-01-2566

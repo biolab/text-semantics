@@ -1,14 +1,8 @@
 Text file: URED7085.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1462053600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-30 22:00:00
 idPredpisa: URED7085
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju uredbe (EU) o uveljavljanju pravic intelektualne lastnine
   s strani carinskih organov
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: PRAV12407.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1433455200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-04 22:00:00
 idPredpisa: PRAV12407
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o dolo\u010Ditvi obmo\u010Dij za gojenje morskih organizmov"
 npbNum: 0
 path: /2015/16/2015-01-1600

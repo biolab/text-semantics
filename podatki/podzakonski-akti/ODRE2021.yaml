@@ -1,16 +1,10 @@
 Text file: ODRE2021.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1235170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-20 23:00:00
 idPredpisa: ODRE2021
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o klasi\u010Dnih igrah na sre\u010Do, ki se lahko prirejajo brez\
-  \ dovoljenja"
+naslov: "PRAVILNIK o klasi\u010Dnih igrah na sre\u010Do, ki se lahko prirejajo brez
+  dovoljenja"
 npbNum: 0
 path: /2009/04/2009-01-0495
 sopPredpisa: 2009-01-0495

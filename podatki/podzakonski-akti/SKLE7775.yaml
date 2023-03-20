@@ -1,10 +1,8 @@
 Text file: SKLE7775.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE7775
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o veljavnosti revidiranih monografij Evropske farmakopeje Natrijev heparinat
   (0333) in Kalcijev heparinat (0332)
 npbNum: 0

@@ -1,14 +1,8 @@
 Text file: URED1232.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 747698400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-09-10 22:00:00
 idPredpisa: URED1232
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izdajanju zakladnih zapisov
 npbNum: 0
 path: /1993/19/1993-01-1918

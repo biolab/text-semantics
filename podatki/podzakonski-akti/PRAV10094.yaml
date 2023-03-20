@@ -1,14 +1,8 @@
 Text file: PRAV10094.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259017200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
+datumZacetkaUpor: 2009-11-23 23:00:00
+datumZacetkaVelj: null
 idPredpisa: PRAV10094
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o vsebini in obliki diplom visoke \u0161ole za tehnologije in sisteme"
 npbNum: 0
 path: /2009/42/2009-01-4282

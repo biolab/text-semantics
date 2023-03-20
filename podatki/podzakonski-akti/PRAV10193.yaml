@@ -1,16 +1,10 @@
 Text file: PRAV10193.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1281132000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-08-06 22:00:00
 idPredpisa: PRAV10193
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uporabi tablet kalijevega jodida ob jedrski ali radiolo\u0161\
-  ki nesre\u010Di"
+naslov: "PRAVILNIK o uporabi tablet kalijevega jodida ob jedrski ali radiolo\u0161ki
+  nesre\u010Di"
 npbNum: 0
 path: /2010/32/2010-01-3291
 sopPredpisa: 2010-01-3291

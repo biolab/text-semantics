@@ -1,16 +1,10 @@
 Text file: TARI130.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1304719200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-06 22:00:00
 idPredpisa: TARI130
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO o nadomestilu stro\u0161kov in pla\u010Dilu storitev Javne agencije\
-  \ Republike Slovenije za varnost prometa"
+naslov: "TARIFO o nadomestilu stro\u0161kov in pla\u010Dilu storitev Javne agencije
+  Republike Slovenije za varnost prometa"
 npbNum: 0
 path: /2011/16/2011-01-1666
 sopPredpisa: 2011-01-1666

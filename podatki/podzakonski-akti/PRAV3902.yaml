@@ -1,20 +1,11 @@
 Text file: PRAV3902.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1083362400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080770400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-04-30 22:00:00
+datumZacetkaVelj: 2004-03-31 22:00:00
 idPredpisa: PRAV3902
 idPredpisaChng: PRAV3902
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih in organizacijskih pogojih, ki jih morajo izpolnjevati\
-  \ preskusni laboratoriji za ugotavljanje skladnosti kmetijskih pridelkov oziroma\
-  \ \u017Eivil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o tehni\u010Dnih in organizacijskih pogojih, ki jih morajo izpolnjevati
+  preskusni laboratoriji za ugotavljanje skladnosti kmetijskih pridelkov oziroma \u017Eivil
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 4)"
 npbNum: 4
 path: /2004/13/2004-01-1354-2001-01-3064-npb4
 sopPredpisa: 2004-01-1354

@@ -1,16 +1,10 @@
 Text file: SKLE6374.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1141858800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-03-08 23:00:00
 idPredpisa: SKLE6374
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vi\u0161ini sredstev, ki pripadajo posamezni politi\u010Dni stranki\
-  \ iz sredstev dr\u017Eavnega prora\u010Duna v letu 2006"
+naslov: "SKLEP o vi\u0161ini sredstev, ki pripadajo posamezni politi\u010Dni stranki
+  iz sredstev dr\u017Eavnega prora\u010Duna v letu 2006"
 npbNum: 0
 path: /2006/10/2006-01-1020
 sopPredpisa: 2006-01-1020

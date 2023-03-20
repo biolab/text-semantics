@@ -1,17 +1,11 @@
 Text file: URED5622.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293231600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-24 23:00:00
 idPredpisa: URED5622
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi cene vadbe varne vo\u017Enje in skupinske delavnice\
-  \ o varnosti cestnega prometa in psihosocialnih odnosih med udele\u017Eenci cestnega\
-  \ prometa"
+naslov: "UREDBO o dolo\u010Ditvi cene vadbe varne vo\u017Enje in skupinske delavnice
+  o varnosti cestnega prometa in psihosocialnih odnosih med udele\u017Eenci cestnega
+  prometa"
 npbNum: 0
 path: /2010/54/2010-01-5468
 sopPredpisa: 2010-01-5468

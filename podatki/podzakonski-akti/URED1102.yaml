@@ -1,16 +1,10 @@
 Text file: URED1102.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 914454000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-23 23:00:00
 idPredpisa: URED1102
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o valorizaciji katastrskega dohodka in o dolo\u010Ditvi koli\u010D\
-  nika za valorizacijo katastrskega dohodka za leto 1999"
+naslov: "UREDBO o valorizaciji katastrskega dohodka in o dolo\u010Ditvi koli\u010Dnika
+  za valorizacijo katastrskega dohodka za leto 1999"
 npbNum: 0
 path: /1998/45/1998-01-4585
 sopPredpisa: 1998-01-4585

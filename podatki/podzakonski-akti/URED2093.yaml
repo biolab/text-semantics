@@ -1,16 +1,10 @@
 Text file: URED2093.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1013468400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-11 23:00:00
 idPredpisa: URED2093
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo naravne vrednote Se\u010Doveljskih solin in o\
-  \ koncesiji za upravljanje Krajinskega parka Se\u010Doveljske soline"
+naslov: "UREDBO o koncesiji za rabo naravne vrednote Se\u010Doveljskih solin in o
+  koncesiji za upravljanje Krajinskega parka Se\u010Doveljske soline"
 npbNum: 0
 path: /2002/04/2002-01-0462
 sopPredpisa: 2002-01-0462

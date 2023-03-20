@@ -1,17 +1,11 @@
 Text file: PRAV10819.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1317679200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-10-03 22:00:00
 idPredpisa: PRAV10819
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu izvajanja strokovnega izpita za meroslovne\
-  \ nadzornike ter o preverjanju strokovne usposobljenosti poobla\u0161\u010Denih\
-  \ uradnih oseb na Uradu Republike Slovenije za meroslovje"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu izvajanja strokovnega izpita za meroslovne
+  nadzornike ter o preverjanju strokovne usposobljenosti poobla\u0161\u010Denih uradnih
+  oseb na Uradu Republike Slovenije za meroslovje"
 npbNum: 0
 path: /2011/31/2011-01-3153
 sopPredpisa: 2011-01-3153

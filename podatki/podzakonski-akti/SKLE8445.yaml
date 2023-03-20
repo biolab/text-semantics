@@ -1,17 +1,11 @@
 Text file: SKLE8445.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1267398000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-28 23:00:00
 idPredpisa: SKLE8445
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP Raz\u0161irjene komisije Eurocontrol \u0161t. 106 o spremembi Na\u010D\
-  el za ugotavljanje stro\u0161kovne baze pristojbin na zra\u010Dnih poteh in izra\u010D\
-  un cene za enoto storitve ter Poslovnika Raz\u0161irjene komisije"
+naslov: "SKLEP Raz\u0161irjene komisije Eurocontrol \u0161t. 106 o spremembi Na\u010Del
+  za ugotavljanje stro\u0161kovne baze pristojbin na zra\u010Dnih poteh in izra\u010Dun
+  cene za enoto storitve ter Poslovnika Raz\u0161irjene komisije"
 npbNum: 0
 path: /2011/22/2011-01-2298
 sopPredpisa: 2011-01-2298

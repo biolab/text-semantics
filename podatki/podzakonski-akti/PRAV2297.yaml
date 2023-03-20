@@ -1,16 +1,10 @@
 Text file: PRAV2297.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293490800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-27 23:00:00
 idPredpisa: PRAV2297
 idPredpisaChng: PRAV2297
-instock: .nan
-naslov: "PRAVILNIK o dodeljevanju \u0161tudijskih pomo\u010Di (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o dodeljevanju \u0161tudijskih pomo\u010Di (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2010/54/2010-01-5499-1994-01-2692-npb4
 sopPredpisa: 2010-01-5499

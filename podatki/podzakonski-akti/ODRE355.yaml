@@ -1,16 +1,10 @@
 Text file: ODRE355.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 846280800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-10-25 22:00:00
 idPredpisa: ODRE355
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe \u2013 elektronika"
+naslov: "ODREDBO o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe \u2013 elektronika"
 npbNum: 0
 path: /1996/33/1996-01-3396
 sopPredpisa: 1996-01-3396

@@ -1,20 +1,11 @@
 Text file: PRAV13096.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1507586400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: 2017-10-09 22:00:00
 idPredpisa: PRAV13096
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu sporo\u010Danja podatkov o prostem delovnem mestu\
-  \ ali vrsti dela Zavodu Republike Slovenije za zaposlovanje, javni objavi ter postopku\
-  \ posredovanja zaposlitve"
+naslov: "PRAVILNIK o na\u010Dinu sporo\u010Danja podatkov o prostem delovnem mestu
+  ali vrsti dela Zavodu Republike Slovenije za zaposlovanje, javni objavi ter postopku
+  posredovanja zaposlitve"
 npbNum: 0
 path: /2017/24/2017-01-2418
 sopPredpisa: 2017-01-2418

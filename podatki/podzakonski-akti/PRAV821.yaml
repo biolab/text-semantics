@@ -1,16 +1,10 @@
 Text file: PRAV821.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 897688800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-06-12 22:00:00
 idPredpisa: PRAV821
 idPredpisaChng: PRAV821
-instock: .nan
-naslov: "PRAVILNIK o \u0161olninah in drugih prispevkih v visokem \u0161olstvu (neuradno\
-  \ pre\u010Di\u0161\u010Dena besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o \u0161olninah in drugih prispevkih v visokem \u0161olstvu (neuradno
+  pre\u010Di\u0161\u010Dena besedilo \u0161t. 1)"
 npbNum: 1
 path: /1998/19/1998-01-1959-1994-01-1647-npb1
 sopPredpisa: 1998-01-1959

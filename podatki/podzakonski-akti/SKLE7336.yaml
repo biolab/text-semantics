@@ -1,16 +1,10 @@
 Text file: SKLE7336.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1195686000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-21 23:00:00
 idPredpisa: SKLE7336
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dokumentaciji za izdajo dovoljenj za opravljanje investicijskih ter\
-  \ pomo\u017Enih investicijskih storitev in drugih dovoljenj"
+naslov: "SKLEP o dokumentaciji za izdajo dovoljenj za opravljanje investicijskih ter
+  pomo\u017Enih investicijskih storitev in drugih dovoljenj"
 npbNum: 0
 path: /2007/52/2007-01-5254
 sopPredpisa: 2007-01-5254

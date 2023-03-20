@@ -1,17 +1,11 @@
 Text file: PRAV7452.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293231600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-24 23:00:00
 idPredpisa: PRAV7452
 idPredpisaChng: PRAV7452
-instock: .nan
-naslov: "PRAVILNIK o pogojih in kriterijih za dolo\u010Ditev fitofarmacevtskih sredstev\
-  \ za prodajo brez predlo\u017Eitve dokazila o opravljenem strokovnem usposabljanju\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih in kriterijih za dolo\u010Ditev fitofarmacevtskih sredstev
+  za prodajo brez predlo\u017Eitve dokazila o opravljenem strokovnem usposabljanju
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/51/2010-01-5135-2007-01-5137-npb1
 sopPredpisa: 2010-01-5135

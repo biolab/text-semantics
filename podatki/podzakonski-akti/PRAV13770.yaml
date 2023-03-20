@@ -1,16 +1,10 @@
 Text file: PRAV13770.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1557525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-10 22:00:00
 idPredpisa: PRAV13770
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uvrstitvi strokovnih podro\u010Dij in jezikov v posamezen sklop\
-  \ strokovnih podro\u010Dij in jezikov"
+naslov: "PRAVILNIK o uvrstitvi strokovnih podro\u010Dij in jezikov v posamezen sklop
+  strokovnih podro\u010Dij in jezikov"
 npbNum: 0
 path: /2019/13/2019-01-1363
 sopPredpisa: 2019-01-1363

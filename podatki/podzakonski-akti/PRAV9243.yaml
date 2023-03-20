@@ -1,17 +1,11 @@
 Text file: PRAV9243.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1224540000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-10-20 22:00:00
 idPredpisa: PRAV9243
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine nadomestila za kritje stro\u0161kov\
-  \ za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010D\
-  jih za leto 2008"
+naslov: "PRAVILNIK o dolo\u010Ditvi vi\u0161ine nadomestila za kritje stro\u0161kov
+  za vzdr\u017Eevalna dela na skupnih objektih in napravah na melioracijskih obmo\u010Djih
+  za leto 2008"
 npbNum: 0
 path: /2008/42/2008-01-4245
 sopPredpisa: 2008-01-4245

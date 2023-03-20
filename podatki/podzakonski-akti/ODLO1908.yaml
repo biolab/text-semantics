@@ -1,16 +1,10 @@
 Text file: ODLO1908.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513378800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-15 23:00:00
 idPredpisa: ODLO1908
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ukrepu odvzema osebkov vrst rjavega medveda (Ursus arctos) in volka\
-  \ (Canis lupus) iz narave za obdobje do 30.\_septembra 2018"
+naslov: "ODLOK o ukrepu odvzema osebkov vrst rjavega medveda (Ursus arctos) in volka
+  (Canis lupus) iz narave za obdobje do 30.\_septembra 2018"
 npbNum: 0
 path: /2017/35/2017-01-3501
 sopPredpisa: 2017-01-3501

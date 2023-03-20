@@ -1,16 +1,10 @@
 Text file: URED8412.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640386800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-24 23:00:00
 idPredpisa: URED8412
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o ukrepu dobrobit \u017Eivali iz Programa razvoja pode\u017Eelja Republike\
-  \ Slovenije za obdobje 2014\u20132020 v letu 2022"
+naslov: "UREDBO o ukrepu dobrobit \u017Eivali iz Programa razvoja pode\u017Eelja Republike
+  Slovenije za obdobje 2014\u20132020 v letu 2022"
 npbNum: 0
 path: /2021/41/2021-01-4134
 sopPredpisa: 2021-01-4134

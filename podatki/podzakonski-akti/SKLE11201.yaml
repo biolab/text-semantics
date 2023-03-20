@@ -1,19 +1,12 @@
 Text file: SKLE11201.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1499983200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-13 22:00:00
 idPredpisa: SKLE11201
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in\
-  \ namestnikov \u010Dlanov Preiskovalne komisije o ugotavljanju domnevnega pranja\
-  \ denarja in financiranja terorizma, jedrske proliferacije ter financiranja aktivnosti\
-  \ tujih obve\u0161\u010Devalno-varnostnih slu\u017Eb v tujini v Novi Ljubljanski\
-  \ banki d.d."
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in
+  namestnikov \u010Dlanov Preiskovalne komisije o ugotavljanju domnevnega pranja denarja
+  in financiranja terorizma, jedrske proliferacije ter financiranja aktivnosti tujih
+  obve\u0161\u010Devalno-varnostnih slu\u017Eb v tujini v Novi Ljubljanski banki d.d."
 npbNum: 0
 path: /2017/20/2017-01-2008
 sopPredpisa: 2017-01-2008

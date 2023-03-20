@@ -1,16 +1,10 @@
 Text file: SKLE1238.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 963525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-07-13 22:00:00
 idPredpisa: SKLE1238
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Novo mesto \u2013 Sever"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Novo mesto \u2013 Sever"
 npbNum: 0
 path: /2000/29/2000-01-2919
 sopPredpisa: 2000-01-2919

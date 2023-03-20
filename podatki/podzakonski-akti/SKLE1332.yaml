@@ -1,16 +1,10 @@
 Text file: SKLE1332.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 683244000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-08-26 22:00:00
 idPredpisa: SKLE1332
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vpla\u010Dilu dela sredstev solidarnosti na ra\u010Dun sredstev solidarnosti\
-  \ Republike Slovenije"
+naslov: "SKLEP o vpla\u010Dilu dela sredstev solidarnosti na ra\u010Dun sredstev solidarnosti
+  Republike Slovenije"
 npbNum: 0
 path: /1991/04/1991-01-0440
 sopPredpisa: 1991-01-0440

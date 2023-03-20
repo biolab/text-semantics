@@ -1,16 +1,10 @@
 Text file: URED6132.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1343080800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-07-23 22:00:00
 idPredpisa: URED6132
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen prevoza potnikov po \u017Eeleznici\
-  \ v notranjem potni\u0161kem prometu"
+naslov: "UREDBO o dolo\u010Ditvi najvi\u0161jih cen prevoza potnikov po \u017Eeleznici
+  v notranjem potni\u0161kem prometu"
 npbNum: 0
 path: /2012/23/2012-01-2388
 sopPredpisa: 2012-01-2388

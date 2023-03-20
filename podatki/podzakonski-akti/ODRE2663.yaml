@@ -1,14 +1,8 @@
 Text file: ODRE2663.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1621634400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-05-21 22:00:00
 idPredpisa: ODRE2663
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o dnevu izvedbe projekta Tradicionalni slovenski zajtrk
 npbNum: 0
 path: /2021/17/2021-01-1714

@@ -1,14 +1,8 @@
 Text file: AKT_1217.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628200800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-05 22:00:00
 idPredpisa: AKT_1217
 idPredpisaChng: null
-instock: .nan
 naslov: "AKT o vodenju registra transakcijskih ra\u010Dunov"
 npbNum: 0
 path: /2021/26/2021-01-2641

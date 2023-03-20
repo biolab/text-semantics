@@ -1,16 +1,10 @@
 Text file: ODRE1330.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 842220000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-09-08 22:00:00
 idPredpisa: ODRE1330
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o uvedbi melioracijskega postopka na obmo\u010Dju Ob\u010Dine Ljubno\
-  \ ob Savinji"
+naslov: "ODREDBO o uvedbi melioracijskega postopka na obmo\u010Dju Ob\u010Dine Ljubno
+  ob Savinji"
 npbNum: 0
 path: /1996/29/1996-01-2955
 sopPredpisa: 1996-01-2955

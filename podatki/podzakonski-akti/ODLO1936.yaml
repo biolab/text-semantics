@@ -1,19 +1,10 @@
 Text file: ODLO1936.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1513206000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-12-31 23:00:00
+datumZacetkaVelj: 2017-12-13 23:00:00
 idPredpisa: ODLO1936
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Ustavno\
-  \ sodi\u0161\u010De Republike Slovenije za leto 2018 (OdRSPUS18-1)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Ustavno
+  sodi\u0161\u010De Republike Slovenije za leto 2018 (OdRSPUS18-1)"
 npbNum: 0
 path: /2017/34/2017-01-3424
 sopPredpisa: 2017-01-3424

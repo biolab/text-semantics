@@ -1,14 +1,8 @@
 Text file: SKLE557.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 789778800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-01-10 23:00:00
 idPredpisa: SKLE557
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o kriterijih za odobritev prodaje delnic ali sredstev podjetja tujemu
   kupcu
 npbNum: 0

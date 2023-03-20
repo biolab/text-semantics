@@ -1,17 +1,11 @@
 Text file: SKLE12178.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1604703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-06 23:00:00
 idPredpisa: SKLE12178
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo\
-  \ proizvajalci elektri\u010Dne in elektronske opreme za leto 2020 zagotoviti zbiranje\
-  \ in obdelavo odpadne elektri\u010Dne in elektronske opreme"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo
+  proizvajalci elektri\u010Dne in elektronske opreme za leto 2020 zagotoviti zbiranje
+  in obdelavo odpadne elektri\u010Dne in elektronske opreme"
 npbNum: 0
 path: /2020/28/2020-01-2838
 sopPredpisa: 2020-01-2838

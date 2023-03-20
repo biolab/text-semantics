@@ -1,16 +1,10 @@
 Text file: SKLE4023.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1477087200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-21 22:00:00
 idPredpisa: SKLE4023
 idPredpisaChng: SKLE4023
-instock: .nan
-naslov: "SKLEP o ustanovitvi javnega zavoda Slovenski etnografski muzej (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi javnega zavoda Slovenski etnografski muzej (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2016/28/2016-01-2854-2003-01-2980-npb2
 sopPredpisa: 2016-01-2854

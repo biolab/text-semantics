@@ -1,16 +1,10 @@
 Text file: URED7076.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-11 23:00:00
 idPredpisa: URED7076
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo termalne vode za potrebe ogrevanja iz vrtine AFP-1/95\
-  \ lastnika Aleksandra Polovi\u010Da"
+naslov: "UREDBO o koncesiji za rabo termalne vode za potrebe ogrevanja iz vrtine AFP-1/95
+  lastnika Aleksandra Polovi\u010Da"
 npbNum: 0
 path: /2015/38/2015-01-3802
 sopPredpisa: 2015-01-3802

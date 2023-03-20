@@ -1,16 +1,10 @@
 Text file: PRAV4324.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1028844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-08-08 22:00:00
 idPredpisa: PRAV4324
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta\
-  \ gozdnogospodarske enote Jesenice"
+naslov: "PRAVILNIK o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Jesenice"
 npbNum: 0
 path: /2002/33/2002-01-3393
 sopPredpisa: 2002-01-3393

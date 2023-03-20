@@ -1,16 +1,10 @@
 Text file: PRAV13252.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1514761200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-12-31 23:00:00
 idPredpisa: PRAV13252
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uvrstitvi delovnih mest direktorjev s podro\u010Dja kmetijstva,\
-  \ gozdarstva in prehrane v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov"
+naslov: "PRAVILNIK o uvrstitvi delovnih mest direktorjev s podro\u010Dja kmetijstva,
+  gozdarstva in prehrane v pla\u010Dne razrede znotraj razponov pla\u010Dnih razredov"
 npbNum: 0
 path: /2017/35/2017-01-3521
 sopPredpisa: 2017-01-3521

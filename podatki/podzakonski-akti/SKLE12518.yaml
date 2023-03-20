@@ -1,13 +1,11 @@
 Text file: SKLE12518.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12518
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEPOM o razglasitvi odlo\u010Ditve, ki je bila sprejeta na glasovanju na\
-  \ zakonodajnem referendumu o Zakonu o spremembah in dopolnitvah Zakona o vodah (ZV-1G),\
-  \ ki je bil 11.\_7. 2021"
+naslov: "SKLEPOM o razglasitvi odlo\u010Ditve, ki je bila sprejeta na glasovanju na
+  zakonodajnem referendumu o Zakonu o spremembah in dopolnitvah Zakona o vodah (ZV-1G),
+  ki je bil 11.\_7. 2021"
 npbNum: 0
 path: /2021/28/2021-01-2875
 sopPredpisa: 2021-01-2875

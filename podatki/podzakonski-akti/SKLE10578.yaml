@@ -1,16 +1,10 @@
 Text file: SKLE10578.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1441058400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-08-31 22:00:00
 idPredpisa: SKLE10578
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o minimalnem seznamu kvalitativnih in kvantitativnih\
-  \ kazalnikov na\u010Drta sanacije"
+naslov: "SKLEP o uporabi Smernic o minimalnem seznamu kvalitativnih in kvantitativnih
+  kazalnikov na\u010Drta sanacije"
 npbNum: 0
 path: /2015/26/2015-01-2627
 sopPredpisa: 2015-01-2627

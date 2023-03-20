@@ -1,17 +1,8 @@
 Text file: PRAV13447.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1534197600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1528927200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-08-13 22:00:00
+datumZacetkaVelj: 2018-06-13 22:00:00
 idPredpisa: PRAV13447
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o kolesarskih povr\u0161inah"
 npbNum: 0
 path: /2018/17/2018-01-1770

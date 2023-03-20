@@ -1,19 +1,13 @@
 Text file: PRAV11364.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1366149600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-04-16 22:00:00
 idPredpisa: PRAV11364
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja dru\u0161tva  za podelitev statusa dru\u0161tva v javnem interesu\
-  \ na podro\u010Dju socialnega varstva, dru\u017Einske politike, enakih mo\u017E\
-  nosti \u017Eensk in mo\u0161kih, vojnih veteranov, vojnih invalidov in \u017Ertev\
-  \ vojnega nasilja ter varnosti in zdravja pri delu"
+naslov: "PRAVILNIK o dolo\u010Ditvi kriterijev za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja dru\u0161tva  za podelitev statusa dru\u0161tva v javnem interesu na podro\u010Dju
+  socialnega varstva, dru\u017Einske politike, enakih mo\u017Enosti \u017Eensk in
+  mo\u0161kih, vojnih veteranov, vojnih invalidov in \u017Ertev vojnega nasilja ter
+  varnosti in zdravja pri delu"
 npbNum: 0
 path: /2013/10/2013-01-1030
 sopPredpisa: 2013-01-1030

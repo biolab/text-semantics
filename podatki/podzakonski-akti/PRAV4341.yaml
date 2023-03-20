@@ -1,16 +1,10 @@
 Text file: PRAV4341.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1032559200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-09-20 22:00:00
 idPredpisa: PRAV4341
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu kataloga standardov strokovnih znanj in spretnosti za\
-  \ pridobitev nacionalne poklicne kvalifikacije \u010Dipkar/\u010Dipkarica"
+naslov: "PRAVILNIK o sprejemu kataloga standardov strokovnih znanj in spretnosti za
+  pridobitev nacionalne poklicne kvalifikacije \u010Dipkar/\u010Dipkarica"
 npbNum: 0
 path: /2002/39/2002-01-3966
 sopPredpisa: 2002-01-3966

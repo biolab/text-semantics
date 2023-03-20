@@ -1,17 +1,10 @@
 Text file: AKT_791.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356994800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-31 23:00:00
 idPredpisa: AKT_791
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017E\
-  je zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine Ravne na Koro\u0161\
-  kem"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za distribucijsko omre\u017Eje
+  zemeljskega plina na geografskem obmo\u010Dju Ob\u010Dine Ravne na Koro\u0161kem"
 npbNum: 0
 path: /2012/38/2012-01-3875
 sopPredpisa: 2012-01-3875

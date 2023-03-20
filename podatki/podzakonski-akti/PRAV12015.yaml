@@ -1,16 +1,10 @@
 Text file: PRAV12015.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1405720800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-07-18 22:00:00
 idPredpisa: PRAV12015
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu predlo\u017Eitve letnega poro\u010Dila\
-  \ politi\u010Dnih strank"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu predlo\u017Eitve letnega poro\u010Dila
+  politi\u010Dnih strank"
 npbNum: 0
 path: /2014/20/2014-01-2089
 sopPredpisa: 2014-01-2089

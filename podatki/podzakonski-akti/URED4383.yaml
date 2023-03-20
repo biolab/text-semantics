@@ -1,16 +1,10 @@
 Text file: URED4383.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1185314400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-24 22:00:00
 idPredpisa: URED4383
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o neposrednih pla\u010Dilih podizvajalcu pri nastopanju ponudnika\
-  \ s podizvajalcem pri javnem naro\u010Danju"
+naslov: "UREDBO o neposrednih pla\u010Dilih podizvajalcu pri nastopanju ponudnika
+  s podizvajalcem pri javnem naro\u010Danju"
 npbNum: 0
 path: /2007/36/2007-01-3636
 sopPredpisa: 2007-01-3636

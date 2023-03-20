@@ -1,17 +1,11 @@
 Text file: URED2967.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1192831200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-19 22:00:00
 idPredpisa: URED2967
 idPredpisaChng: URED2967
-instock: .nan
-naslov: "UREDBA o prodaji in drugih oblikah razpolaganja s finan\u010Dnim premo\u017E\
-  enjem dr\u017Eave in ob\u010Din (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "UREDBA o prodaji in drugih oblikah razpolaganja s finan\u010Dnim premo\u017Eenjem
+  dr\u017Eave in ob\u010Din (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2007/47/2007-01-4741-2003-01-5249-npb2
 sopPredpisa: 2007-01-4741

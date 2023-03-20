@@ -1,17 +1,11 @@
 Text file: SKLE7375.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527285600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-25 22:00:00
 idPredpisa: SKLE7375
 idPredpisaChng: SKLE7375
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi programa in na\u010Dina opravljanja preizkusa strokovnih\
-  \ znanj, potrebnih za opravljanje poslov borznega posrednika (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o dolo\u010Ditvi programa in na\u010Dina opravljanja preizkusa strokovnih
+  znanj, potrebnih za opravljanje poslov borznega posrednika (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/16/2018-01-1694-2007-01-5292-npb2
 sopPredpisa: 2018-01-1694

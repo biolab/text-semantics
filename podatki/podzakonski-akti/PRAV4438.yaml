@@ -1,14 +1,8 @@
 Text file: PRAV4438.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1037833200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-11-20 23:00:00
 idPredpisa: PRAV4438
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o uporabi lovskih psov v lovi\u0161\u010Dih"
 npbNum: 0
 path: /2002/48/2002-01-4897

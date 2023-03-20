@@ -1,14 +1,8 @@
 Text file: URED877.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 944262000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-12-03 23:00:00
 idPredpisa: URED877
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o lokacijskem na\u010Drtu za avtocestni priklju\u010Dek Razdrto"
 npbNum: 0
 path: /1999/45/1999-01-4516

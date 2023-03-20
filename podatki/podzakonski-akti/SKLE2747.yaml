@@ -1,16 +1,10 @@
 Text file: SKLE2747.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1013814000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-02-15 23:00:00
 idPredpisa: SKLE2747
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi stalne predstavnice Republike Slovenije pri organizaciji\
-  \ za prepoved kemi\u010Dnega oro\u017Eja (OPCW)"
+naslov: "SKLEP o razre\u0161itvi stalne predstavnice Republike Slovenije pri organizaciji
+  za prepoved kemi\u010Dnega oro\u017Eja (OPCW)"
 npbNum: 0
 path: /2002/05/2002-01-0541
 sopPredpisa: 2002-01-0541

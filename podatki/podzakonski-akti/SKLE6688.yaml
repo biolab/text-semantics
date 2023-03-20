@@ -1,17 +1,11 @@
 Text file: SKLE6688.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1163718000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-16 23:00:00
 idPredpisa: SKLE6688
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi utemeljitve predlagane re\u0161itve za prenosni\
-  \ plinovod R25A/1 Trojane\u2013Hrastnik, okoljskega poro\u010Dila in revizije okoljskega\
-  \ poro\u010Dila in SKLIC 2. prostorske konference"
+naslov: "SKLEP o javni razgrnitvi utemeljitve predlagane re\u0161itve za prenosni
+  plinovod R25A/1 Trojane\u2013Hrastnik, okoljskega poro\u010Dila in revizije okoljskega
+  poro\u010Dila in SKLIC 2. prostorske konference"
 npbNum: 0
 path: /2006/50/2006-01-5039
 sopPredpisa: 2006-01-5039

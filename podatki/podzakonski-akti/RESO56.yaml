@@ -1,14 +1,8 @@
 Text file: RESO56.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1196809200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-12-04 23:00:00
 idPredpisa: RESO56
 idPredpisaChng: null
-instock: .nan
 naslov: RESOLUCIJO o nacionalnem gozdnem programu (ReNGP)
 npbNum: 0
 path: /2007/55/2007-01-5510

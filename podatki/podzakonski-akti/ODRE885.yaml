@@ -1,17 +1,11 @@
 Text file: ODRE885.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 728348400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-01-29 23:00:00
 idPredpisa: ODRE885
 idPredpisaChng: ODRE885
-instock: .nan
-naslov: "ODREDBA o izdaji blagajni\u0161kih zapisov Republike Slovenije za kritje\
-  \ izgube slovenskih \u017Eelezarn, na\u010Dinu poravnavanja obveznosti z blagajni\u0161\
-  kimi zapisi in o izpla\u010Dilu blagajni\u0161kih zapisov"
+naslov: "ODREDBA o izdaji blagajni\u0161kih zapisov Republike Slovenije za kritje
+  izgube slovenskih \u017Eelezarn, na\u010Dinu poravnavanja obveznosti z blagajni\u0161kimi
+  zapisi in o izpla\u010Dilu blagajni\u0161kih zapisov"
 npbNum: 1
 path: /1993/02/1993-01-0237-1992-01-2844-npb1
 sopPredpisa: 1993-01-0237

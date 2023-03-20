@@ -1,13 +1,11 @@
 Text file: SKLE12131.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12131
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju \u010Dastnega konzula\
-  \ Republike Slovenije v St. Peter Portu na Guernseyu (Bailiwick of Guernsey), v\
-  \ Zdru\u017Eenem kraljestvu Velike Britanije in Severne Irske"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju \u010Dastnega konzula
+  Republike Slovenije v St. Peter Portu na Guernseyu (Bailiwick of Guernsey), v Zdru\u017Eenem
+  kraljestvu Velike Britanije in Severne Irske"
 npbNum: 0
 path: /2020/20/2020-01-2064
 sopPredpisa: 2020-01-2064

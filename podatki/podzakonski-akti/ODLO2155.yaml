@@ -1,14 +1,8 @@
 Text file: ODLO2155.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1614898800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-04 23:00:00
 idPredpisa: ODLO2155
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o ustanovitvi komisije za nadzor izvoza blaga z dvojno rabo
 npbNum: 0
 path: /2021/05/2021-01-0504

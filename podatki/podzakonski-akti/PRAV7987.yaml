@@ -1,17 +1,10 @@
 Text file: PRAV7987.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193785200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-30 23:00:00
 idPredpisa: PRAV7987
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi pogojev zdravstvenega varstva \u017Eivali, ki\
-  \ vplivajo na proizvodnjo, predelavo in distribucijo \u017Eivil \u017Eivalskega\
-  \ izvora"
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev zdravstvenega varstva \u017Eivali, ki
+  vplivajo na proizvodnjo, predelavo in distribucijo \u017Eivil \u017Eivalskega izvora"
 npbNum: 0
 path: /2007/49/2007-01-4917
 sopPredpisa: 2007-01-4917

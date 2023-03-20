@@ -1,16 +1,9 @@
 Text file: PRAV13512.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1532124000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-07-20 22:00:00
 idPredpisa: PRAV13512
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ukrepih varstva pred sevanji na nadzorovanih in opazovanih obmo\u010D\
-  jih"
+naslov: "PRAVILNIK o ukrepih varstva pred sevanji na nadzorovanih in opazovanih obmo\u010Djih"
 npbNum: 0
 path: /2018/24/2018-01-2438
 sopPredpisa: 2018-01-2438

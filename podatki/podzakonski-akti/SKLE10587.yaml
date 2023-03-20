@@ -1,16 +1,10 @@
 Text file: SKLE10587.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1452121200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-06 23:00:00
 idPredpisa: SKLE10587
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o obve\u0161\u010Danju Agencije za trg vrednostnih papirjev o prenosu\
-  \ posamezne storitve upravljanja alternativnih investicijskih skladov"
+naslov: "SKLEP o obve\u0161\u010Danju Agencije za trg vrednostnih papirjev o prenosu
+  posamezne storitve upravljanja alternativnih investicijskih skladov"
 npbNum: 0
 path: /2015/39/2015-01-3986
 sopPredpisa: 2015-01-3986

@@ -1,12 +1,9 @@
 Text file: RESO91.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: RESO91
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o Nacionalnem programu za jezikovno politiko 2014\u20132018 (ReNPJP14\u2013\
-  18)"
+naslov: "RESOLUCIJO o Nacionalnem programu za jezikovno politiko 2014\u20132018 (ReNPJP14\u201318)"
 npbNum: 0
 path: /2013/24/2013-01-2475
 sopPredpisa: 2013-01-2475

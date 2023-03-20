@@ -1,19 +1,10 @@
 Text file: PRAV6076.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090015200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-07-31 22:00:00
+datumZacetkaVelj: 2004-07-16 22:00:00
 idPredpisa: PRAV6076
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za vrednotenje materialnih stro\u0161kov v dvojezi\u010D\
-  ni srednji \u0161oli"
+naslov: "PRAVILNIK o merilih za vrednotenje materialnih stro\u0161kov v dvojezi\u010Dni
+  srednji \u0161oli"
 npbNum: 0
 path: /2004/34/2004-01-3461
 sopPredpisa: 2004-01-3461

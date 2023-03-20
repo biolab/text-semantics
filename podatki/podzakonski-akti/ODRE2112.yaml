@@ -1,16 +1,10 @@
 Text file: ODRE2112.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1315260000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-09-05 22:00:00
 idPredpisa: ODRE2112
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programa dopolnilnega strokovnega usposabljanja\
-  \ in izpopolnjevanja za varnostnika"
+naslov: "ODREDBO o dolo\u010Ditvi programa dopolnilnega strokovnega usposabljanja
+  in izpopolnjevanja za varnostnika"
 npbNum: 0
 path: /2011/30/2011-01-3075
 sopPredpisa: 2011-01-3075

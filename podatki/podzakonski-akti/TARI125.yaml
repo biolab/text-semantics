@@ -1,16 +1,10 @@
 Text file: TARI125.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1277935200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-06-30 22:00:00
 idPredpisa: TARI125
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz distribucijskega omre\u017E\
-  ja na obmo\u010Dju mesta Ribnica"
+naslov: "TARIFNI SISTEM za dobavo in odjem toplote iz distribucijskega omre\u017Eja
+  na obmo\u010Dju mesta Ribnica"
 npbNum: 0
 path: /2010/28/2010-01-2833
 sopPredpisa: 2010-01-2833

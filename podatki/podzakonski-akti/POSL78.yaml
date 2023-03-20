@@ -1,14 +1,8 @@
 Text file: POSL78.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1221084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-09-10 22:00:00
 idPredpisa: POSL78
 idPredpisaChng: null
-instock: .nan
 naslov: POSLOVNIK Sodnega sveta
 npbNum: 0
 path: /2009/00/2009-01-0012

@@ -1,14 +1,8 @@
 Text file: ODRE841.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 788223600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-12-23 23:00:00
 idPredpisa: ODRE841
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o najni\u017Eji zavarovalni vsoti"
 npbNum: 0
 path: /1994/29/1994-01-2903

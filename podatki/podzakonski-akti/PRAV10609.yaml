@@ -1,19 +1,13 @@
 Text file: PRAV10609.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-31 23:00:00
 idPredpisa: PRAV10609
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu upo\u0161tevanja dohodkov pri ugotavljanju upravi\u010D\
-  enosti do otro\u0161kega dodatka, dr\u017Eavne \u0161tipendije, zni\u017Eanega pla\u010D\
-  ila vrtca, subvencije malice za u\u010Dence in dijake, subvencije kosila za u\u010D\
-  ence, subvencije prevozov za dijake in \u0161tudente, oprostitve pla\u010Dila socialnovarstvenih\
-  \ storitev in prispevka k pla\u010Dilu dru\u017Einskega pomo\u010Dnika"
+naslov: "PRAVILNIK o na\u010Dinu upo\u0161tevanja dohodkov pri ugotavljanju upravi\u010Denosti
+  do otro\u0161kega dodatka, dr\u017Eavne \u0161tipendije, zni\u017Eanega pla\u010Dila
+  vrtca, subvencije malice za u\u010Dence in dijake, subvencije kosila za u\u010Dence,
+  subvencije prevozov za dijake in \u0161tudente, oprostitve pla\u010Dila socialnovarstvenih
+  storitev in prispevka k pla\u010Dilu dru\u017Einskega pomo\u010Dnika"
 npbNum: 0
 path: /2011/39/2011-01-3961
 sopPredpisa: 2011-01-3961

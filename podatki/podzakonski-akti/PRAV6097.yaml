@@ -1,16 +1,10 @@
 Text file: PRAV6097.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091829600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-06 22:00:00
 idPredpisa: PRAV6097
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zbiranju in varstvu osebnih podatkov na podro\u010Dju pred\u0161\
-  olske vzgoje"
+naslov: "PRAVILNIK o zbiranju in varstvu osebnih podatkov na podro\u010Dju pred\u0161olske
+  vzgoje"
 npbNum: 0
 path: /2004/35/2004-01-3546
 sopPredpisa: 2004-01-3546

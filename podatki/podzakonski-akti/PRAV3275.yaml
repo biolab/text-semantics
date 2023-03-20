@@ -1,17 +1,11 @@
 Text file: PRAV3275.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1211925600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-05-27 22:00:00
 idPredpisa: PRAV3275
 idPredpisaChng: PRAV3275
-instock: .nan
-naslov: "PRAVILNIK o minimalnih tehni\u010Dnih pogojih in o minimalnem obsegu storitev\
-  \ za opravljanje gostinske dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o minimalnih tehni\u010Dnih pogojih in o minimalnem obsegu storitev
+  za opravljanje gostinske dejavnosti (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2008/21/2008-01-2170-2000-01-3847-npb2
 sopPredpisa: 2008-01-2170

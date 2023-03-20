@@ -1,17 +1,10 @@
 Text file: SKLE4594.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1087768800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-20 22:00:00
 idPredpisa: SKLE4594
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za obojestranski bencinski servis Vipava na odseku hitre ceste Razdrto \u2013\
-  \ Vipava"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za obojestranski bencinski servis Vipava na odseku hitre ceste Razdrto \u2013 Vipava"
 npbNum: 0
 path: /2004/30/2004-01-3049
 sopPredpisa: 2004-01-3049

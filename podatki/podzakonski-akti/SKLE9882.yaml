@@ -1,16 +1,10 @@
 Text file: SKLE9882.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE9882
 idPredpisaChng: SKLE9882
-instock: .nan
-naslov: "SKLEP o poro\u010Danju upravljavca pokojninskega sklada, oblikovanega kot\
-  \ kritni sklad (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "SKLEP o poro\u010Danju upravljavca pokojninskega sklada, oblikovanega kot
+  kritni sklad (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2020/12/2020-01-1257-2013-01-3501-npb5
 sopPredpisa: 2020-01-1257

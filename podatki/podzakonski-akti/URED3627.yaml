@@ -1,16 +1,10 @@
 Text file: URED3627.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1108162800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-02-11 23:00:00
 idPredpisa: URED3627
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih prilo\u017E\
-  nostnih kovancev ob 100-letnici ustanovitve Slovenske sokolske zveze"
+naslov: "UREDBO o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih prilo\u017Enostnih
+  kovancev ob 100-letnici ustanovitve Slovenske sokolske zveze"
 npbNum: 0
 path: /2005/03/2005-01-0387
 sopPredpisa: 2005-01-0387

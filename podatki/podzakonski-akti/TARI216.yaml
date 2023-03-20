@@ -1,20 +1,11 @@
 Text file: TARI216.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: TARI216
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO 2019 o vrednosti to\u010Dke in o vi\u0161ini dele\u017Ea glede na\
-  \ zara\u010Dunano uporabnino za uporabo javne \u017Eelezni\u0161ke infrastrukture,\
-  \ za delovanje regulatornega organa na podro\u010Dju \u017Eelezni\u0161kega prometa"
+naslov: "TARIFO 2019 o vrednosti to\u010Dke in o vi\u0161ini dele\u017Ea glede na
+  zara\u010Dunano uporabnino za uporabo javne \u017Eelezni\u0161ke infrastrukture,
+  za delovanje regulatornega organa na podro\u010Dju \u017Eelezni\u0161kega prometa"
 npbNum: 0
 path: /2018/41/2018-01-4106
 sopPredpisa: 2018-01-4106

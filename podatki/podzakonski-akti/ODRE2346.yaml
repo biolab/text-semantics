@@ -1,14 +1,8 @@
 Text file: ODRE2346.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1498860000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-30 22:00:00
 idPredpisa: ODRE2346
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o dolo\u010Ditvi nacionalnega centra za farmakovigilanco"
 npbNum: 0
 path: /2017/16/2017-01-1608

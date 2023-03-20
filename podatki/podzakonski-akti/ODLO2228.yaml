@@ -1,16 +1,10 @@
 Text file: ODLO2228.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1608332400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-18 23:00:00
 idPredpisa: ODLO2228
 idPredpisaChng: ODLO2228
-instock: .nan
-naslov: "ODLOK o za\u010Dasnih omejitvah pri izvajanju \u0161portne dejavnosti (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o za\u010Dasnih omejitvah pri izvajanju \u0161portne dejavnosti (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2020/33/2020-01-3336-2020-01-3192-npb1
 sopPredpisa: 2020-01-3336

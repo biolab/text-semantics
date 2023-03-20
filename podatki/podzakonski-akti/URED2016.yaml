@@ -1,14 +1,8 @@
 Text file: URED2016.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009839600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-12-31 23:00:00
 idPredpisa: URED2016
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju Sporazuma o prosti trgovini med Republiko Slovenijo in
   Republiko Litvo
 npbNum: 0

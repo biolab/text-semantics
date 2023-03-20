@@ -1,17 +1,10 @@
 Text file: URED4437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1508536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-10-20 22:00:00
 idPredpisa: URED4437
 idPredpisaChng: URED4437
-instock: .nan
-naslov: "UREDBA o ravnanju in na\u010Dinih varstva pri trgovini z \u017Eivalskimi\
-  \ in rastlinskimi vrstami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 3)"
+naslov: "UREDBA o ravnanju in na\u010Dinih varstva pri trgovini z \u017Eivalskimi
+  in rastlinskimi vrstami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2017/26/2017-01-2695-2008-01-1636-npb3
 sopPredpisa: 2017-01-2695

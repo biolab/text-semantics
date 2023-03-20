@@ -1,14 +1,8 @@
 Text file: SKLE8585.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1285365600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-24 22:00:00
 idPredpisa: SKLE8585
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP  o veljavnosti sedme izdaje Evropske farmakopeje ter prvega, drugega
   in tretjega dodatka k sedmi izdaji Evropske farmakopeje
 npbNum: 0

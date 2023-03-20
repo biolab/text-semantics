@@ -1,16 +1,10 @@
 Text file: URED8336.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1638572400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-03 23:00:00
 idPredpisa: URED8336
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta Vozli\u0161\u010D\
-  e v voja\u0161nici Petra Petri\u010Da Kranj"
+naslov: "UREDBO o javno-zasebnem partnerstvu pri izvedbi projekta Vozli\u0161\u010De
+  v voja\u0161nici Petra Petri\u010Da Kranj"
 npbNum: 0
 path: /2021/35/2021-01-3534
 sopPredpisa: 2021-01-3534

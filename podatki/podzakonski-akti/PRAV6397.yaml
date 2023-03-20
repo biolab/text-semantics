@@ -1,17 +1,11 @@
 Text file: PRAV6397.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1104534000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-12-31 23:00:00
 idPredpisa: PRAV6397
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu opravljanja posebnega strokovnega izpita\
-  \ za dav\u010Dnega in\u0161pektorja in dav\u010Dnega izterjevalca v Dav\u010Dni\
-  \ upravi Republike Slovenije"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu opravljanja posebnega strokovnega izpita
+  za dav\u010Dnega in\u0161pektorja in dav\u010Dnega izterjevalca v Dav\u010Dni upravi
+  Republike Slovenije"
 npbNum: 0
 path: /2004/62/2004-01-6213
 sopPredpisa: 2004-01-6213

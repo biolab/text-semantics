@@ -1,17 +1,11 @@
 Text file: ODRE1491.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1076626800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-12 23:00:00
 idPredpisa: ODRE1491
 idPredpisaChng: ODRE1491
-instock: .nan
-naslov: "PRAVILNIK o obliki poro\u010Dila o ob\u010Dasnih ali trajnih meritvah v okviru\
-  \ obratovalnega monitoringa odpadnih vod (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o obliki poro\u010Dila o ob\u010Dasnih ali trajnih meritvah v okviru
+  obratovalnega monitoringa odpadnih vod (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2004/05/2004-01-0511-2001-01-0001-npb2
 sopPredpisa: 2004-01-0511

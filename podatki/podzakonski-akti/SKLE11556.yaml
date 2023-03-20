@@ -1,16 +1,10 @@
 Text file: SKLE11556.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1533333600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-03 22:00:00
 idPredpisa: SKLE11556
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o scenarijih za teste izjemnih situacij v skladu\
-  \ s \u010Dlenom 28 uredbe o skladih denarnega trga"
+naslov: "SKLEP o uporabi Smernic o scenarijih za teste izjemnih situacij v skladu
+  s \u010Dlenom 28 uredbe o skladih denarnega trga"
 npbNum: 0
 path: /2018/26/2018-01-2633
 sopPredpisa: 2018-01-2633

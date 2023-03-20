@@ -1,16 +1,9 @@
 Text file: PRAV12343.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1420844400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-09 23:00:00
 idPredpisa: PRAV12343
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu potrjevanja vezane knjige ra\u010D\
-  unov"
+naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu potrjevanja vezane knjige ra\u010Dunov"
 npbNum: 0
 path: /2015/00/2015-01-0055
 sopPredpisa: 2015-01-0055

@@ -1,19 +1,13 @@
 Text file: SKLE462.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1346450400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-08-31 22:00:00
 idPredpisa: SKLE462
 idPredpisaChng: SKLE462
-instock: .nan
-naslov: "SKLEP o imenovanju poveljnika Civilne za\u0161\u010Dite Republike Slovenije,\
-  \ njegovega namestnika in \u010Dlanov \u0160taba Civilne za\u0161\u010Dite Republike\
-  \ Slovenije ter regijskih poveljnikov Civilne za\u0161\u010Dite, njihovih namestnikov\
-  \ in \u010Dlanov regijskih \u0161tabov Civilne za\u0161\u010Dite (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 22)"
+naslov: "SKLEP o imenovanju poveljnika Civilne za\u0161\u010Dite Republike Slovenije,
+  njegovega namestnika in \u010Dlanov \u0160taba Civilne za\u0161\u010Dite Republike
+  Slovenije ter regijskih poveljnikov Civilne za\u0161\u010Dite, njihovih namestnikov
+  in \u010Dlanov regijskih \u0161tabov Civilne za\u0161\u010Dite (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 22)"
 npbNum: 22
 path: /2012/26/2012-01-2625-1995-01-1594-npb22
 sopPredpisa: 2012-01-2625

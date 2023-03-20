@@ -1,14 +1,8 @@
 Text file: SKLE11972.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-31 23:00:00
 idPredpisa: SKLE11972
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi \u010Dlanarine OOZ Ljubljana Vi\u010D za leto 2020"
 npbNum: 0
 path: /2020/01/2020-01-0116

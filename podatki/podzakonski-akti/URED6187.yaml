@@ -1,17 +1,11 @@
 Text file: URED6187.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1398463200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-04-25 22:00:00
 idPredpisa: URED6187
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju uporabe Uredbe o dolo\u010Ditvi vi\u0161ine povra\u010D\
-  il in drugih pogojev za oddajo in uporabo povr\u0161in za opravljanje spremljajo\u010D\
-  ih dejavnosti na in ob javni cesti, na katerih se opravljajo spremljajo\u010De dejavnosti"
+naslov: "UREDBO o prenehanju uporabe Uredbe o dolo\u010Ditvi vi\u0161ine povra\u010Dil
+  in drugih pogojev za oddajo in uporabo povr\u0161in za opravljanje spremljajo\u010Dih
+  dejavnosti na in ob javni cesti, na katerih se opravljajo spremljajo\u010De dejavnosti"
 npbNum: 0
 path: /2014/12/2014-01-1255
 sopPredpisa: 2014-01-1255

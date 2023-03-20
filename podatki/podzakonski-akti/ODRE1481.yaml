@@ -1,16 +1,10 @@
 Text file: ODRE1481.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 829346400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-04-12 22:00:00
 idPredpisa: ODRE1481
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi organov krajevno pristojnih za odlo\u010Danje o\
-  \ zahtevah tujcev s stalnim prebivali\u0161\u010Dem v tujini"
+naslov: "ODREDBO o dolo\u010Ditvi organov krajevno pristojnih za odlo\u010Danje o
+  zahtevah tujcev s stalnim prebivali\u0161\u010Dem v tujini"
 npbNum: 0
 path: /1996/11/1996-01-1142
 sopPredpisa: 1996-01-1142

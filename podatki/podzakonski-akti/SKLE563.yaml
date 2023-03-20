@@ -1,16 +1,10 @@
 Text file: SKLE563.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 832975200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-05-24 22:00:00
 idPredpisa: SKLE563
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o za\u010Dasni dodelitvi nepremi\u010Dnin z opremo MIC Bohinj p.o.\
-  \ Rib\u010Dev laz 63, Bohinjsko jezero"
+naslov: "SKLEP o za\u010Dasni dodelitvi nepremi\u010Dnin z opremo MIC Bohinj p.o.
+  Rib\u010Dev laz 63, Bohinjsko jezero"
 npbNum: 0
 path: /1996/16/1996-01-1643
 sopPredpisa: 1996-01-1643

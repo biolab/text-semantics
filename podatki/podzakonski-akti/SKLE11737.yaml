@@ -1,17 +1,11 @@
 Text file: SKLE11737.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643756400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-01 23:00:00
 idPredpisa: SKLE11737
 idPredpisaChng: SKLE11737
-instock: .nan
-naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in\
-  \ namestnikov \u010Dlanov Preiskovalne komisije o ugotavljanju zlorab in negospodarnega\
-  \ ravnanja v DUTB (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
+naslov: "SKLEP o sestavi in imenovanju predsednika, podpredsednika, \u010Dlanov in
+  namestnikov \u010Dlanov Preiskovalne komisije o ugotavljanju zlorab in negospodarnega
+  ravnanja v DUTB (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 5)"
 npbNum: 5
 path: /2022/02/2022-01-0226-2019-01-0600-npb5
 sopPredpisa: 2022-01-0226

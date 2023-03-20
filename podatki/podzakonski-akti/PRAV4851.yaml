@@ -1,16 +1,10 @@
 Text file: PRAV4851.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1109286000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-02-24 23:00:00
 idPredpisa: PRAV4851
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Nanos-Hru\u0161\
-  ica (2003\u20132012)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Nanos-Hru\u0161ica
+  (2003\u20132012)"
 npbNum: 0
 path: /2005/05/2005-01-0522
 sopPredpisa: 2005-01-0522

@@ -1,19 +1,10 @@
 Text file: URED6437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1359932400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1383433200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-02-03 23:00:00
+datumZacetkaVelj: 2013-11-02 23:00:00
 idPredpisa: URED6437
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Komisije (ES) o dolo\u010Ditvi skupnih pravil za\
-  \ prilagodljivo uporabo zra\u010Dnega prostora"
+naslov: "UREDBO o izvajanju Uredbe Komisije (ES) o dolo\u010Ditvi skupnih pravil za
+  prilagodljivo uporabo zra\u010Dnega prostora"
 npbNum: 0
 path: /2013/30/2013-01-3028
 sopPredpisa: 2013-01-3028

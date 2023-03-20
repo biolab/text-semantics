@@ -1,17 +1,11 @@
 Text file: PRAV5200.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1060725600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-08-12 22:00:00
 idPredpisa: PRAV5200
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za\
-  \ pridobitev srednje poklicne in srednje strokovne izobrazbe za dijake, ki se bodo\
-  \ vpisali v za\u010Detni letnik v \u0161olskem letu 2003/2004"
+naslov: "PRAVILNIK o podalj\u0161anju veljavnosti izobra\u017Eevalnih programov za
+  pridobitev srednje poklicne in srednje strokovne izobrazbe za dijake, ki se bodo
+  vpisali v za\u010Detni letnik v \u0161olskem letu 2003/2004"
 npbNum: 0
 path: /2003/37/2003-01-3759
 sopPredpisa: 2003-01-3759

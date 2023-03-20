@@ -1,17 +1,11 @@
 Text file: ODLO296.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 915145200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-12-31 23:00:00
 idPredpisa: ODLO296
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o preferencialnih pravilih o poreklu blaga, ki se v letu 1999 uporabljajo\
-  \ za izvajanje uredbe o izvajanju Sporazuma med dr\u017Eavami \u010Dlanicami EFTE\
-  \ in Republiko Slovenijo"
+naslov: "ODLOK o preferencialnih pravilih o poreklu blaga, ki se v letu 1999 uporabljajo
+  za izvajanje uredbe o izvajanju Sporazuma med dr\u017Eavami \u010Dlanicami EFTE
+  in Republiko Slovenijo"
 npbNum: 0
 path: /1998/47/1998-01-4758
 sopPredpisa: 1998-01-4758

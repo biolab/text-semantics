@@ -1,14 +1,8 @@
 Text file: URED2925.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054936800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-06 22:00:00
 idPredpisa: URED2925
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o prenehanju veljavnosti uredbe o nagradah in priznanjih predsednika
   Vlade Republike Slovenije
 npbNum: 0

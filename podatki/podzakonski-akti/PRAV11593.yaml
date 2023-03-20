@@ -1,16 +1,10 @@
 Text file: PRAV11593.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1363388400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-15 23:00:00
 idPredpisa: PRAV11593
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev vi\u0161ine pla\u010Dila opravljanja\
-  \ zdravstvenih storitev po podjemni pogodbi ali drugih pogodbah civilnega prava"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev vi\u0161ine pla\u010Dila opravljanja
+  zdravstvenih storitev po podjemni pogodbi ali drugih pogodbah civilnega prava"
 npbNum: 0
 path: /2013/06/2013-01-0614
 sopPredpisa: 2013-01-0614

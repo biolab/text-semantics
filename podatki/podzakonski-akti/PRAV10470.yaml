@@ -1,18 +1,11 @@
 Text file: PRAV10470.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1365199200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-04-05 22:00:00
 idPredpisa: PRAV10470
 idPredpisaChng: PRAV10470
-instock: .nan
-naslov: "PRAVILNIK o postopku s tujcem, ki izrazi namen podati pro\u0161njo za mednarodno\
-  \ za\u0161\u010Dito v Republiki Sloveniji ter postopku sprejema pro\u0161nje za\
-  \ mednarodno za\u0161\u010Dito (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "PRAVILNIK o postopku s tujcem, ki izrazi namen podati pro\u0161njo za mednarodno
+  za\u0161\u010Dito v Republiki Sloveniji ter postopku sprejema pro\u0161nje za mednarodno
+  za\u0161\u010Dito (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2013/11/2013-01-1123-2011-01-2972-npb1
 sopPredpisa: 2013-01-1123

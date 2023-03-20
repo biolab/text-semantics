@@ -1,18 +1,12 @@
 Text file: URED1082.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 901922400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-07-31 22:00:00
 idPredpisa: URED1082
 idPredpisaChng: URED1082
-instock: .nan
-naslov: "UREDBA o dolo\u010Ditvi delovnih mest v Ministrstvu za pravosodje, Upravi\
-  \ za izvr\u0161evanje kazenskih sankcij, na katerih imajo delavci pravice po 112.\
-  \ \u010Dlenu zakona o izvr\u0161evanju kazenskih sankcij (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o dolo\u010Ditvi delovnih mest v Ministrstvu za pravosodje, Upravi
+  za izvr\u0161evanje kazenskih sankcij, na katerih imajo delavci pravice po 112.
+  \u010Dlenu zakona o izvr\u0161evanju kazenskih sankcij (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /1998/25/1998-01-2503-1998-01-2298-npb1
 sopPredpisa: 1998-01-2503

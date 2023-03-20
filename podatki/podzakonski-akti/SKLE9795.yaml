@@ -1,12 +1,10 @@
 Text file: SKLE9795.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9795
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega generalnega konzula Republike Slovenije\
-  \ v Cape Townu"
+naslov: "SKLEP o imenovanju \u010Dastnega generalnega konzula Republike Slovenije
+  v Cape Townu"
 npbNum: 0
 path: /2014/20/2014-01-2086
 sopPredpisa: 2014-01-2086

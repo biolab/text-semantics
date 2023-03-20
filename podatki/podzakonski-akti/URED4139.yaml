@@ -1,17 +1,11 @@
 Text file: URED4139.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193785200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-30 23:00:00
 idPredpisa: URED4139
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih proti Uzbekistanu in izvajanju Uredbe Sveta\
-  \ (ES) \u0161t. 1859/2005 z dne 14. novembra 2005 o uvedbi nekaterih omejevalnih\
-  \ ukrepov v zvezi z Uzbekistanom"
+naslov: "UREDBO o omejevalnih ukrepih proti Uzbekistanu in izvajanju Uredbe Sveta
+  (ES) \u0161t. 1859/2005 z dne 14. novembra 2005 o uvedbi nekaterih omejevalnih ukrepov
+  v zvezi z Uzbekistanom"
 npbNum: 0
 path: /2007/47/2007-01-4701
 sopPredpisa: 2007-01-4701

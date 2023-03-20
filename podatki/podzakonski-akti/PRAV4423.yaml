@@ -1,16 +1,10 @@
 Text file: PRAV4423.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1037228400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-11-13 23:00:00
 idPredpisa: PRAV4423
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sprejemu gozdnogospodarskega na\u010Drta gozdnogospodarske enote\
-  \ Kamni\u0161ka Bistrica"
+naslov: "PRAVILNIK o sprejemu gozdnogospodarskega na\u010Drta gozdnogospodarske enote
+  Kamni\u0161ka Bistrica"
 npbNum: 0
 path: /2002/47/2002-01-4787
 sopPredpisa: 2002-01-4787

@@ -1,24 +1,17 @@
 Text file: SKLE2116.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 994111200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-02 22:00:00
 idPredpisa: SKLE2116
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) osnutka lokacijskega na\u010Drta za avtocesto\
-  \ na odseku Smednik\u2013Kr\u0161ka vas, in b) \u2013 predloga sprememb in dopolnitev\
-  \ prostorskih sestavin dolgoro\u010Dnega plana Ob\u010Dine Bre\u017Eice za obdobje\
-  \ 1986\u20132000 in prostorskih sestavin srednjero\u010Dnega dru\u017Ebenega plana\
-  \ Ob\u010Dine Bre\u017Eice za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek\
-  \ lokacijskega na\u010Drta, in \u2013 predloga sprememb in dopolnitev prostorskih\
-  \ sestavin dolgoro\u010Dnega plana Ob\u010Dine Kr\u0161ko za obdobje 1986\u2013\
-  2000 in prostorskih sestavin srednjero\u010Dnega dru\u017Ebenega plana Ob\u010D\
-  ine Kr\u0161ko za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek lokacijskega\
-  \ na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi a) osnutka lokacijskega na\u010Drta za avtocesto
+  na odseku Smednik\u2013Kr\u0161ka vas, in b) \u2013 predloga sprememb in dopolnitev
+  prostorskih sestavin dolgoro\u010Dnega plana Ob\u010Dine Bre\u017Eice za obdobje
+  1986\u20132000 in prostorskih sestavin srednjero\u010Dnega dru\u017Ebenega plana
+  Ob\u010Dine Bre\u017Eice za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek
+  lokacijskega na\u010Drta, in \u2013 predloga sprememb in dopolnitev prostorskih
+  sestavin dolgoro\u010Dnega plana Ob\u010Dine Kr\u0161ko za obdobje 1986\u20132000
+  in prostorskih sestavin srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Kr\u0161ko
+  za obdobje 1986\u20131990 v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /2001/29/2001-01-2934
 sopPredpisa: 2001-01-2934

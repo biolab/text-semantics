@@ -1,17 +1,11 @@
 Text file: PRAV3791.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1078786800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-08 23:00:00
 idPredpisa: PRAV3791
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih in postopku za odobritev gozdnih semenskih objektov,\
-  \ namenjenih pridelovanju gozdnega reprodukcijskega materiala v kategorijah \xBB\
-  kvalificiran\xAB in \xBBtestiran\xAB*"
+naslov: "PRAVILNIK o pogojih in postopku za odobritev gozdnih semenskih objektov,
+  namenjenih pridelovanju gozdnega reprodukcijskega materiala v kategorijah \xBBkvalificiran\xAB
+  in \xBBtestiran\xAB*"
 npbNum: 0
 path: /2004/08/2004-01-0847
 sopPredpisa: 2004-01-0847

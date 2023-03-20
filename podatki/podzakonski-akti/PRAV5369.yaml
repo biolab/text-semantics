@@ -1,16 +1,10 @@
 Text file: PRAV5369.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1068591600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-11-11 23:00:00
 idPredpisa: PRAV5369
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Drtovanju, spremljanju in izvajanju supervizije strokovnega\
-  \ dela na podro\u010Dju socialnega varstva"
+naslov: "PRAVILNIK o na\u010Drtovanju, spremljanju in izvajanju supervizije strokovnega
+  dela na podro\u010Dju socialnega varstva"
 npbNum: 0
 path: /2003/50/2003-01-5080
 sopPredpisa: 2003-01-5080

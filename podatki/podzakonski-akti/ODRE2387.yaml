@@ -1,17 +1,11 @@
 Text file: ODRE2387.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1646089200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-28 23:00:00
 idPredpisa: ODRE2387
 idPredpisaChng: ODRE2387
-instock: .nan
-naslov: "ODREDBA o razvrstitvi obmo\u010Dij, aglomeracij in podobmo\u010Dij glede\
-  \ na onesna\u017Eenost zunanjega zraka (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 3)"
+naslov: "ODREDBA o razvrstitvi obmo\u010Dij, aglomeracij in podobmo\u010Dij glede
+  na onesna\u017Eenost zunanjega zraka (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 3)"
 npbNum: 3
 path: /2021/41/2021-01-4144-2017-01-1946-npb3
 sopPredpisa: 2021-01-4144

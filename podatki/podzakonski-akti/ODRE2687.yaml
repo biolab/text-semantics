@@ -1,17 +1,11 @@
 Text file: ODRE2687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630101600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-27 22:00:00
 idPredpisa: ODRE2687
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejetju izobra\u017Eevalnih programov ni\u017Ejega poklicnega\
-  \ izobra\u017Eevanja prilagojenih za dvojezi\u010Dno izvajanje v slovenskem in mad\u017E\
-  arskem u\u010Dnem jeziku na narodno me\u0161anem obmo\u010Dju v Prekmurju"
+naslov: "ODREDBO o sprejetju izobra\u017Eevalnih programov ni\u017Ejega poklicnega
+  izobra\u017Eevanja prilagojenih za dvojezi\u010Dno izvajanje v slovenskem in mad\u017Earskem
+  u\u010Dnem jeziku na narodno me\u0161anem obmo\u010Dju v Prekmurju"
 npbNum: 0
 path: /2021/27/2021-01-2780
 sopPredpisa: 2021-01-2780

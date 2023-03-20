@@ -1,14 +1,8 @@
 Text file: URED3490.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1113256800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-04-11 22:00:00
 idPredpisa: URED3490
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju postopkov pri porabi sredstev Kohezijskega sklada EU v
   Republiki Sloveniji
 npbNum: 0

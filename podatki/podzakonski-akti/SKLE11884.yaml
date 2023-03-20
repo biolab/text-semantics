@@ -1,16 +1,10 @@
 Text file: SKLE11884.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1569880800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-09-30 22:00:00
 idPredpisa: SKLE11884
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine obrestnih mer, po katerih Banka Slovenije\
-  \ obrestuje sredstva javnih subjektov"
+naslov: "SKLEP o dolo\u010Ditvi vi\u0161ine obrestnih mer, po katerih Banka Slovenije
+  obrestuje sredstva javnih subjektov"
 npbNum: 0
 path: /2019/25/2019-01-2532
 sopPredpisa: 2019-01-2532

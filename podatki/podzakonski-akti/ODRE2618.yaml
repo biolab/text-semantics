@@ -1,16 +1,10 @@
 Text file: ODRE2618.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1611097200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-01-19 23:00:00
 idPredpisa: ODRE2618
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o prenehanju veljavnosti Odredbe o razglasitvi obmo\u010Dja \u010C\
-  rne na Koro\u0161kem kot ogro\u017Eeno obmo\u010Dje zaradi nalezljive bolezni COVID-19"
+naslov: "ODREDBO o prenehanju veljavnosti Odredbe o razglasitvi obmo\u010Dja \u010Crne
+  na Koro\u0161kem kot ogro\u017Eeno obmo\u010Dje zaradi nalezljive bolezni COVID-19"
 npbNum: 0
 path: /2021/01/2021-01-0150
 sopPredpisa: 2021-01-0150

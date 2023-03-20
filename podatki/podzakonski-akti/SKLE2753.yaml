@@ -1,17 +1,11 @@
 Text file: SKLE2753.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1012518000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-01-31 23:00:00
 idPredpisa: SKLE2753
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 46, ki se nana\u0161\
-  a na spremembo pogojev uporabe sistema pristojbin na zra\u010Dnih poteh in pla\u010D\
-  ilnih pogojev,"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL \u0161t. 46, ki se nana\u0161a
+  na spremembo pogojev uporabe sistema pristojbin na zra\u010Dnih poteh in pla\u010Dilnih
+  pogojev,"
 npbNum: 0
 path: /2002/05/2002-01-0594
 sopPredpisa: 2002-01-0594

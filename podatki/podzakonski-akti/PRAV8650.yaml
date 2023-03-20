@@ -1,17 +1,11 @@
 Text file: PRAV8650.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1203980400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-02-25 23:00:00
 idPredpisa: PRAV8650
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vrednostih, potrebnih za ovrednotenje programa prestrukturiranja\
-  \ v vinskem letu 2008/2009, in koeficientu za izra\u010Dun vi\u0161ine podpore za\
-  \ prestrukturiranje v vinskem letu 2007/2008"
+naslov: "PRAVILNIK o vrednostih, potrebnih za ovrednotenje programa prestrukturiranja
+  v vinskem letu 2008/2009, in koeficientu za izra\u010Dun vi\u0161ine podpore za
+  prestrukturiranje v vinskem letu 2007/2008"
 npbNum: 0
 path: /2008/06/2008-01-0644
 sopPredpisa: 2008-01-0644

@@ -1,16 +1,10 @@
 Text file: PRAV12636.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1475272800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-09-30 22:00:00
 idPredpisa: PRAV12636
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o evidenci ribi\u0161kih plovil in evidenci plovil, ki se uporabljajo\
-  \ v marikulturi"
+naslov: "PRAVILNIK o evidenci ribi\u0161kih plovil in evidenci plovil, ki se uporabljajo
+  v marikulturi"
 npbNum: 0
 path: /2016/25/2016-01-2554
 sopPredpisa: 2016-01-2554

@@ -1,17 +1,11 @@
 Text file: ODRE2350.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1472248800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-08-26 22:00:00
 idPredpisa: ODRE2350
 idPredpisaChng: ODRE2350
-instock: .nan
-naslov: "ODREDBA o izvajanju sistemati\u010Dnega spremljanja zdravstvenega stanja\
-  \ \u017Eivali, programov izkoreninjenja bolezni \u017Eivali ter cepljenj \u017E\
-  ivali v letu 2016 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ODREDBA o izvajanju sistemati\u010Dnega spremljanja zdravstvenega stanja
+  \u017Eivali, programov izkoreninjenja bolezni \u017Eivali ter cepljenj \u017Eivali
+  v letu 2016 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2016/24/2016-01-2438-2015-01-4190-npb2
 sopPredpisa: 2016-01-2438

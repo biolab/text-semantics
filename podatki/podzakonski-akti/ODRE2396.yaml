@@ -1,16 +1,10 @@
 Text file: ODRE2396.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1489186800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-10 23:00:00
 idPredpisa: ODRE2396
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa srednjega splo\u0161nega\
-  \ izobra\u017Eevanja Umetni\u0161ka gimnazija, smer gledali\u0161\u010De in film"
+naslov: "ODREDBO o sprejetju izobra\u017Eevalnega programa srednjega splo\u0161nega
+  izobra\u017Eevanja Umetni\u0161ka gimnazija, smer gledali\u0161\u010De in film"
 npbNum: 0
 path: /2017/05/2017-01-0553
 sopPredpisa: 2017-01-0553

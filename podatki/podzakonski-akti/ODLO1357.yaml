@@ -1,14 +1,8 @@
 Text file: ODLO1357.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080770400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-31 22:00:00
 idPredpisa: ODLO1357
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o razveljavitvi Odloka o ustanovitvi Urada za priseljevanje in begunce
 npbNum: 0
 path: /2004/10/2004-01-1070

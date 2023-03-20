@@ -1,17 +1,11 @@
 Text file: PRAV13382.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590616800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-27 22:00:00
 idPredpisa: PRAV13382
 idPredpisaChng: PRAV13382
-instock: .nan
-naslov: "PRAVILNIK o portalu eRevizija za izmenjavo informacij in dokumentov v predrevizijskem,\
-  \ revizijskem in prito\u017Ebenem postopku (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o portalu eRevizija za izmenjavo informacij in dokumentov v predrevizijskem,
+  revizijskem in prito\u017Ebenem postopku (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2020/10/2020-01-1016-2019-01-1439-npb1
 sopPredpisa: 2020-01-1016

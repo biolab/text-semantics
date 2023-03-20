@@ -1,16 +1,10 @@
 Text file: URED4532.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387580400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-20 23:00:00
 idPredpisa: URED4532
 idPredpisaChng: URED4532
-instock: .nan
-naslov: "UREDBA o koncesiji za graditev sede\u017Enice Kladje na Golteh (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesiji za graditev sede\u017Enice Kladje na Golteh (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2013/39/2013-01-3944-2007-01-2893-npb2
 sopPredpisa: 2013-01-3944

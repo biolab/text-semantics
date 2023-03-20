@@ -1,14 +1,8 @@
 Text file: URED3995.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1161381600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-10-20 22:00:00
 idPredpisa: URED3995
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o zneskih nadomestil za privatno in drugo lastno reproduciranje
 npbNum: 0
 path: /2006/44/2006-01-4439

@@ -1,16 +1,9 @@
 Text file: SKLE12032.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1592604000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-19 22:00:00
 idPredpisa: SKLE12032
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o izra\u010Dunu kapitala in kapitalski ustreznosti pokojninskih dru\u017E\
-  b"
+naslov: "SKLEP o izra\u010Dunu kapitala in kapitalski ustreznosti pokojninskih dru\u017Eb"
 npbNum: 0
 path: /2020/12/2020-01-1249
 sopPredpisa: 2020-01-1249

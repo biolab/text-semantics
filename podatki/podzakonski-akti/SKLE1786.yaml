@@ -1,14 +1,8 @@
 Text file: SKLE1786.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 699922800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-03-06 23:00:00
 idPredpisa: SKLE1786
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o premo\u017Eenjskih pogojih za priznanje varstvenega dodatka"
 npbNum: 0
 path: /1992/05/1992-01-0505

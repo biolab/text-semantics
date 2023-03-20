@@ -1,19 +1,13 @@
 Text file: PRAV6903.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1114812000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-04-29 22:00:00
 idPredpisa: PRAV6903
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o posebnem delu strokovnega izpita za kmetijskega in\u0161pektorja,\
-  \ kmetijskega in\u0161pektorja na podro\u010Dju vinarstva, in\u0161pektorja na podro\u010D\
-  ju kmetijstva in kontrole kakovosti krme, in\u0161pektorja na podro\u010Dju kontrole\
-  \ kakovosti kmetijskih pridelkov in \u017Eivil, fitosanitarnega in\u0161pektorja,\
-  \ lovskega in ribi\u0161kega in\u0161pektorja ter gozdarskega in\u0161pektorja"
+naslov: "PRAVILNIK o posebnem delu strokovnega izpita za kmetijskega in\u0161pektorja,
+  kmetijskega in\u0161pektorja na podro\u010Dju vinarstva, in\u0161pektorja na podro\u010Dju
+  kmetijstva in kontrole kakovosti krme, in\u0161pektorja na podro\u010Dju kontrole
+  kakovosti kmetijskih pridelkov in \u017Eivil, fitosanitarnega in\u0161pektorja,
+  lovskega in ribi\u0161kega in\u0161pektorja ter gozdarskega in\u0161pektorja"
 npbNum: 0
 path: /2005/13/2005-01-1388
 sopPredpisa: 2005-01-1388

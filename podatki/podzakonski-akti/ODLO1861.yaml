@@ -1,14 +1,8 @@
 Text file: ODLO1861.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1454367600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-01 23:00:00
 idPredpisa: ODLO1861
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o Programu porabe sredstev Sklada za podnebne spremembe v letu 2016
 npbNum: 0
 path: /2016/02/2016-01-0265

@@ -1,16 +1,10 @@
 Text file: SKLE11706.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1551308400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-02-27 23:00:00
 idPredpisa: SKLE11706
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uskladitvi in zneskih dodatka za pomo\u010D in postre\u017Ebo od\
-  \ 1.\_januarja 2019"
+naslov: "SKLEP o uskladitvi in zneskih dodatka za pomo\u010D in postre\u017Ebo od
+  1.\_januarja 2019"
 npbNum: 0
 path: /2019/04/2019-01-0431
 sopPredpisa: 2019-01-0431

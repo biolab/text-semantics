@@ -1,16 +1,10 @@
 Text file: PRAV13004.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1505512800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-15 22:00:00
 idPredpisa: PRAV13004
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi pogojev za ugotavljanje in preverjanje istovetnosti\
-  \ stranke z uporabo sredstva elektronske identifikacije"
+naslov: "PRAVILNIK o dolo\u010Ditvi pogojev za ugotavljanje in preverjanje istovetnosti
+  stranke z uporabo sredstva elektronske identifikacije"
 npbNum: 0
 path: /2017/23/2017-01-2347
 sopPredpisa: 2017-01-2347

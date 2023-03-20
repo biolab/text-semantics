@@ -1,14 +1,8 @@
 Text file: SKLE7553.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217282400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-28 22:00:00
 idPredpisa: SKLE7553
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o objavi seznama upravi\u010Dencev do donacij za leto 2008"
 npbNum: 0
 path: /2008/34/2008-01-3453

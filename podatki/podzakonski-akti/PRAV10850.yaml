@@ -1,17 +1,11 @@
 Text file: PRAV10850.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1420066800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-31 23:00:00
 idPredpisa: PRAV10850
 idPredpisaChng: PRAV10850
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izdaje dovoljenja za prebivanje, na\u010Dinu zajemanja\
-  \ prstnih odtisov in na\u010Dinu ozna\u010Ditve prenehanja dovoljenja za prebivanje\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o na\u010Dinu izdaje dovoljenja za prebivanje, na\u010Dinu zajemanja
+  prstnih odtisov in na\u010Dinu ozna\u010Ditve prenehanja dovoljenja za prebivanje
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2014/40/2014-01-4079-2011-01-3608-npb2
 sopPredpisa: 2014-01-4079

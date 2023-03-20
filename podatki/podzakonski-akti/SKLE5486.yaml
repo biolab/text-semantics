@@ -1,14 +1,8 @@
 Text file: SKLE5486.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1111100400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-03-17 23:00:00
 idPredpisa: SKLE5486
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o ra\u010Dunovodskem izkazu Zavoda za leto 2004"
 npbNum: 0
 path: /2005/09/2005-01-0960

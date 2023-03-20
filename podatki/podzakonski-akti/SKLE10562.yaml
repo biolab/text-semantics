@@ -1,17 +1,11 @@
 Text file: SKLE10562.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1487977200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-02-24 23:00:00
 idPredpisa: SKLE10562
 idPredpisaChng: SKLE10562
-instock: .nan
-naslov: "SKLEP o izra\u010Dunu stopnje posamezni banki lastnega proticikli\u010Dnega\
-  \ kapitalskega bla\u017Eilnika za banke in hranilnice (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o izra\u010Dunu stopnje posamezni banki lastnega proticikli\u010Dnega
+  kapitalskega bla\u017Eilnika za banke in hranilnice (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2017/04/2017-01-0425-2015-01-2306-npb2
 sopPredpisa: 2017-01-0425

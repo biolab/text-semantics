@@ -1,20 +1,10 @@
 Text file: SKLE10686.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1567288800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1566597600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-08-31 22:00:00
+datumZacetkaVelj: 2019-08-23 22:00:00
 idPredpisa: SKLE10686
 idPredpisaChng: SKLE10686
-instock: .nan
-naslov: "SKLEP o poro\u010Danju dru\u017Ebe za upravljanje in dru\u017Ebe za upravljanje\
-  \ dr\u017Eave \u010Dlanice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.\
-  \ 2)"
+naslov: "SKLEP o poro\u010Danju dru\u017Ebe za upravljanje in dru\u017Ebe za upravljanje
+  dr\u017Eave \u010Dlanice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/23/2019-01-2380-2016-01-0429-npb2
 sopPredpisa: 2019-01-2380

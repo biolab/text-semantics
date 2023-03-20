@@ -1,17 +1,11 @@
 Text file: PRAV12692.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1652479200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-13 22:00:00
 idPredpisa: PRAV12692
 idPredpisaChng: PRAV12692
-instock: .nan
-naslov: "PRAVILNIK o slu\u017Ebeni izkaznici pomorskega in\u0161pektorja, in\u0161\
-  pektorja za plovbo po celinskih vodah in pristani\u0161kega nadzornika (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o slu\u017Ebeni izkaznici pomorskega in\u0161pektorja, in\u0161pektorja
+  za plovbo po celinskih vodah in pristani\u0161kega nadzornika (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2022/12/2022-01-1267-2018-01-0043-npb1
 sopPredpisa: 2022-01-1267

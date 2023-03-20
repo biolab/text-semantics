@@ -1,16 +1,10 @@
 Text file: ODLO2498.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1623362400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-06-10 22:00:00
 idPredpisa: ODLO2498
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o za\u010Dasnih ukrepih za zmanj\u0161anje tveganja oku\u017Ebe in\
-  \ prepre\u010Devanje \u0161irjenja nalezljive bolezni COVID-19 v upravnih zadevah"
+naslov: "ODLOK o za\u010Dasnih ukrepih za zmanj\u0161anje tveganja oku\u017Ebe in
+  prepre\u010Devanje \u0161irjenja nalezljive bolezni COVID-19 v upravnih zadevah"
 npbNum: 0
 path: /2021/19/2021-01-1993
 sopPredpisa: 2021-01-1993

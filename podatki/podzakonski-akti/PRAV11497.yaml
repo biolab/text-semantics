@@ -1,16 +1,10 @@
 Text file: PRAV11497.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356130800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-21 23:00:00
 idPredpisa: PRAV11497
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obrazcu informativnega izra\u010Duna dohodnine in obrazcu napovedi\
-  \ za odmero dohodnine za leto 2012"
+naslov: "PRAVILNIK o obrazcu informativnega izra\u010Duna dohodnine in obrazcu napovedi
+  za odmero dohodnine za leto 2012"
 npbNum: 0
 path: /2012/38/2012-01-3865
 sopPredpisa: 2012-01-3865

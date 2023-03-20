@@ -1,19 +1,9 @@
 Text file: PRAV13465.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564610400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1530914400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-07-31 22:00:00
+datumZacetkaVelj: 2018-07-06 22:00:00
 idPredpisa: PRAV13465
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o posebnih okoli\u0161\u010Dinah, ki vplivajo na vrednost nepremi\u010D\
-  nin"
+naslov: "PRAVILNIK o posebnih okoli\u0161\u010Dinah, ki vplivajo na vrednost nepremi\u010Dnin"
 npbNum: 0
 path: /2018/21/2018-01-2130
 sopPredpisa: 2018-01-2130

@@ -1,14 +1,8 @@
 Text file: SKLE7884.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1238194800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-27 23:00:00
 idPredpisa: SKLE7884
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o opustitvi delov dr\u017Eavnih cest"
 npbNum: 0
 path: /2009/09/2009-01-0940

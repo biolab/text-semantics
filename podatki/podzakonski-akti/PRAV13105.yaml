@@ -1,16 +1,10 @@
 Text file: PRAV13105.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1535580000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-08-29 22:00:00
 idPredpisa: PRAV13105
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vro\u010Danju po detektivih in izvr\u0161iteljih v civilnih sodnih\
-  \ postopkih"
+naslov: "PRAVILNIK o vro\u010Danju po detektivih in izvr\u0161iteljih v civilnih sodnih
+  postopkih"
 npbNum: 0
 path: /2018/22/2018-01-2210
 sopPredpisa: 2018-01-2210

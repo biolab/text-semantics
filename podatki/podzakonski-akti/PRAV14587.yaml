@@ -1,19 +1,10 @@
 Text file: PRAV14587.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1672527600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1648249200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-12-31 23:00:00
+datumZacetkaVelj: 2022-03-25 23:00:00
 idPredpisa: PRAV14587
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu vra\u010Dila tro\u0161arine za energente, ki se porabijo\
-  \ za kmetijsko in gozdarsko mehanizacijo"
+naslov: "PRAVILNIK o na\u010Dinu vra\u010Dila tro\u0161arine za energente, ki se porabijo
+  za kmetijsko in gozdarsko mehanizacijo"
 npbNum: 0
 path: /2022/07/2022-01-0705
 sopPredpisa: 2022-01-0705

@@ -1,16 +1,10 @@
 Text file: URED3801.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1116021600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-13 22:00:00
 idPredpisa: URED3801
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za odvzem podzemne vode iz vodnega vira \u010C-1 nad \u010C\
-  rnivcem za proizvodnjo pija\u010D"
+naslov: "UREDBO o koncesiji za odvzem podzemne vode iz vodnega vira \u010C-1 nad \u010Crnivcem
+  za proizvodnjo pija\u010D"
 npbNum: 0
 path: /2005/19/2005-01-1904
 sopPredpisa: 2005-01-1904

@@ -1,16 +1,10 @@
 Text file: ODLO269.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054936800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-06 22:00:00
 idPredpisa: ODLO269
 idPredpisaChng: ODLO269
-instock: .nan
-naslov: "ODLOK o razglasitvi Gradu in parka Turni\u0161\u010De za kulturni spomenik\
-  \ dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ODLOK o razglasitvi Gradu in parka Turni\u0161\u010De za kulturni spomenik
+  dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2003/27/2003-01-2700-1999-01-3848-npb2
 sopPredpisa: 2003-01-2700

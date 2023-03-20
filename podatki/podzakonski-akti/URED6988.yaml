@@ -1,16 +1,10 @@
 Text file: URED6988.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1429912800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-24 22:00:00
 idPredpisa: URED6988
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o ustanovitvi evropskega zdru\u017Eenja za\
-  \ teritorialno sodelovanje"
+naslov: "UREDBO o izvajanju Uredbe (ES) o ustanovitvi evropskega zdru\u017Eenja za
+  teritorialno sodelovanje"
 npbNum: 0
 path: /2015/10/2015-01-1062
 sopPredpisa: 2015-01-1062

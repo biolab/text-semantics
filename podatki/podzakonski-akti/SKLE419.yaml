@@ -1,16 +1,10 @@
 Text file: SKLE419.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 942447600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-11-12 23:00:00
 idPredpisa: SKLE419
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o zadnji izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim\
-  \ bonom"
+naslov: "SKLEP o zadnji izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim
+  bonom"
 npbNum: 0
 path: /1999/43/1999-01-4367
 sopPredpisa: 1999-01-4367

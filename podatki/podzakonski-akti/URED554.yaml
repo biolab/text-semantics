@@ -1,16 +1,10 @@
 Text file: URED554.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 782780400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-10-21 23:00:00
 idPredpisa: URED554
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora\
-  \ ob\u010Dine Bre\u017Eice"
+naslov: "UREDBO o prostorskih ureditvenih pogojih za sanacijo degradiranega prostora
+  ob\u010Dine Bre\u017Eice"
 npbNum: 0
 path: /1994/21/1994-01-2114
 sopPredpisa: 1994-01-2114

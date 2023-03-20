@@ -1,18 +1,11 @@
 Text file: URED6299.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1353711600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-11-23 23:00:00
 idPredpisa: URED6299
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje\
-  \ urejanja prostora na podlagi Programa priprave dr\u017Eavnega lokacijskega na\u010D\
-  rta za celovito prostorsko ureditev pristani\u0161\u010Da za mednarodni promet v\
-  \ Kopru"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o za\u010Dasnih ukrepih za zavarovanje
+  urejanja prostora na podlagi Programa priprave dr\u017Eavnega lokacijskega na\u010Drta
+  za celovito prostorsko ureditev pristani\u0161\u010Da za mednarodni promet v Kopru"
 npbNum: 0
 path: /2012/35/2012-01-3500
 sopPredpisa: 2012-01-3500

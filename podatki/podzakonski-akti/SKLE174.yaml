@@ -1,23 +1,17 @@
 Text file: SKLE174.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 923004000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-04-01 22:00:00
 idPredpisa: SKLE174
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za avtocestni\
-  \ priklju\u010Dek Celje-zahod, povezovalno cesto in oskrbni center Lopata, b) Predloga\
-  \ sprememb in dopolnitev prostorskih sestavin: - dolgoro\u010Dnega plana Ob\u010D\
-  ine Celje za obdobje 1986-2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010D\
-  ine Celje za obdobje 1986.1990 za obmo\u010Dje Mestne ob\u010Dine Celje v delu,\
-  \ ki ga opredeljuje osnutek lokacijskega na\u010Drta, in - dolgoro\u010Dnega plana\
-  \ Ob\u010Dine \u017Dalec za obdobje 1986.2000 in srednjero\u010Dnega dru\u017Ebenega\
-  \ plana Ob\u010Dine \u017Dalec za obdobje 1986.1990 za obmo\u010Dje Ob\u010Dine\
-  \ \u017Dalec v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta"
+naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za avtocestni
+  priklju\u010Dek Celje-zahod, povezovalno cesto in oskrbni center Lopata, b) Predloga
+  sprememb in dopolnitev prostorskih sestavin: - dolgoro\u010Dnega plana Ob\u010Dine
+  Celje za obdobje 1986-2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine
+  Celje za obdobje 1986.1990 za obmo\u010Dje Mestne ob\u010Dine Celje v delu, ki ga
+  opredeljuje osnutek lokacijskega na\u010Drta, in - dolgoro\u010Dnega plana Ob\u010Dine
+  \u017Dalec za obdobje 1986.2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine
+  \u017Dalec za obdobje 1986.1990 za obmo\u010Dje Ob\u010Dine \u017Dalec v delu, ki
+  ga opredeljuje osnutek lokacijskega na\u010Drta"
 npbNum: 0
 path: /1999/10/1999-01-1027
 sopPredpisa: 1999-01-1027

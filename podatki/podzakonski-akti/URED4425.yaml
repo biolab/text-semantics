@@ -1,16 +1,10 @@
 Text file: URED4425.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1195513200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-11-19 23:00:00
 idPredpisa: URED4425
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi prekr\u0161kov in sankcij zanje za kr\u0161itve dolo\u010D\
-  b Uredbe 1228/2003/ES"
+naslov: "UREDBO o dolo\u010Ditvi prekr\u0161kov in sankcij zanje za kr\u0161itve dolo\u010Db
+  Uredbe 1228/2003/ES"
 npbNum: 0
 path: /2007/52/2007-01-5222
 sopPredpisa: 2007-01-5222

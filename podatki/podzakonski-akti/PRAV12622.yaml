@@ -1,16 +1,10 @@
 Text file: PRAV12622.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482966000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-28 23:00:00
 idPredpisa: PRAV12622
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu  gozdnogospodarske enote \u017D\
-  u\u017Eemberk  (2016\u20132025)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu  gozdnogospodarske enote \u017Du\u017Eemberk
+  \ (2016\u20132025)"
 npbNum: 0
 path: /2016/36/2016-01-3694
 sopPredpisa: 2016-01-3694

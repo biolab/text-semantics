@@ -1,17 +1,11 @@
 Text file: URED522.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 921884400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-03-19 23:00:00
 idPredpisa: URED522
 idPredpisaChng: URED522
-instock: .nan
-naslov: "UREDBA o merilih, pogojih in postopku za dodelitev sredstev za ustvarjanje\
-  \ gospodarske osnove za avtohtoni narodni skupnosti (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "UREDBA o merilih, pogojih in postopku za dodelitev sredstev za ustvarjanje
+  gospodarske osnove za avtohtoni narodni skupnosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /1999/08/1999-01-0866-1997-01-1860-npb1
 sopPredpisa: 1999-01-0866

@@ -1,16 +1,10 @@
 Text file: URED4808.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1200092400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-11 23:00:00
 idPredpisa: URED4808
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za nadvoz dr\u017Eavne ceste\
-  \ Teharje\u2013Svetina \u010Dez \u017Eelezni\u0161ko progo Zidani Most\u2013Maribor"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za nadvoz dr\u017Eavne ceste
+  Teharje\u2013Svetina \u010Dez \u017Eelezni\u0161ko progo Zidani Most\u2013Maribor"
 npbNum: 0
 path: /2007/61/2007-01-6167
 sopPredpisa: 2007-01-6167

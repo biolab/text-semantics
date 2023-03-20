@@ -1,19 +1,10 @@
 Text file: POSL46.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1059429600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1050962400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2003-07-28 22:00:00
+datumZacetkaVelj: 2003-04-21 22:00:00
 idPredpisa: POSL46
 idPredpisaChng: null
-instock: .nan
-naslov: "POSLOVNIK o na\u010Dinu dela Sveta sodnikov za prekr\u0161ke po zakonu o\
-  \ nezdru\u017Eljivosti opravljanja javne funkcije s pridobitno dejavnostjo"
+naslov: "POSLOVNIK o na\u010Dinu dela Sveta sodnikov za prekr\u0161ke po zakonu o
+  nezdru\u017Eljivosti opravljanja javne funkcije s pridobitno dejavnostjo"
 npbNum: 0
 path: /2003/35/2003-01-3581
 sopPredpisa: 2003-01-3581

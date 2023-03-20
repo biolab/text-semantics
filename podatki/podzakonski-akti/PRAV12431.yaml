@@ -1,16 +1,10 @@
 Text file: PRAV12431.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1443218400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-09-25 22:00:00
 idPredpisa: PRAV12431
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi vzgojiteljev in drugih strokovnih delavcev v vzgojnem\
-  \ programu za otroke in\_mladostnike s posebnimi potrebami"
+naslov: "PRAVILNIK o izobrazbi vzgojiteljev in drugih strokovnih delavcev v vzgojnem
+  programu za otroke in\_mladostnike s posebnimi potrebami"
 npbNum: 0
 path: /2015/26/2015-01-2686
 sopPredpisa: 2015-01-2686

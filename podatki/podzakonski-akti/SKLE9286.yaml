@@ -1,14 +1,8 @@
 Text file: SKLE9286.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1337810400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-23 22:00:00
 idPredpisa: SKLE9286
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o statutu investicijske dru\u017Ebe"
 npbNum: 0
 path: /2012/14/2012-01-1445

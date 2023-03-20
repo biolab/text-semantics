@@ -1,17 +1,11 @@
 Text file: URED4357.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1199487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-04 23:00:00
 idPredpisa: URED4357
 idPredpisaChng: URED4357
-instock: .nan
-naslov: "UREDBA o financiranju in sofinanciranju razvoja morskega in sladkovodnega\
-  \ ribi\u0161tva za leti 2007 in 2008 (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o financiranju in sofinanciranju razvoja morskega in sladkovodnega
+  ribi\u0161tva za leti 2007 in 2008 (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2008/00/2008-01-0056-2007-01-0945-npb1
 sopPredpisa: 2008-01-0056

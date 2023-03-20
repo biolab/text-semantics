@@ -1,14 +1,8 @@
 Text file: SKLE9754.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1371852000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-06-21 22:00:00
 idPredpisa: SKLE9754
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o zgornjih mejah za izpla\u010Dilo dela vdovske pokojnine"
 npbNum: 0
 path: /2013/20/2013-01-2006

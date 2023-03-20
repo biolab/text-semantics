@@ -1,17 +1,11 @@
 Text file: PRAV8953.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201734000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-30 23:00:00
 idPredpisa: PRAV8953
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izvajanju notranje kontrole, poobla\u0161\u010Dencu, hrambi in\
-  \ varstvu podatkov ter upravljanju evidenc pri organizacijah, odvetnikih, odvetni\u0161\
-  kih dru\u017Ebah in notarjih"
+naslov: "PRAVILNIK o izvajanju notranje kontrole, poobla\u0161\u010Dencu, hrambi in
+  varstvu podatkov ter upravljanju evidenc pri organizacijah, odvetnikih, odvetni\u0161kih
+  dru\u017Ebah in notarjih"
 npbNum: 0
 path: /2008/03/2008-01-0312
 sopPredpisa: 2008-01-0312

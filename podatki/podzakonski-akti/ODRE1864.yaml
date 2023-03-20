@@ -1,14 +1,8 @@
 Text file: ODRE1864.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1022536800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-05-27 22:00:00
 idPredpisa: ODRE1864
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO o sprejemu katalogov standardov strokovnih znanj in spretnosti za
   pridobitev nacionalnih poklicnih kvalifikacij
 npbNum: 0

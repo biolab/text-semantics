@@ -1,14 +1,8 @@
 Text file: SKLE1923.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982278000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-15 23:00:00
 idPredpisa: SKLE1923
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o za\u010Detku uradne uporabe digitalnega katastrskega na\u010Drta"
 npbNum: 0
 path: /2001/06/2001-01-0672

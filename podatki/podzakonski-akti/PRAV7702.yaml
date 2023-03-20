@@ -1,14 +1,8 @@
 Text file: PRAV7702.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1170457200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-02-02 23:00:00
 idPredpisa: PRAV7702
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izvajanju ukrepov v zvezi s skupno ureditvijo trgov v sektorju sladkorja
 npbNum: 0
 path: /2007/04/2007-01-0439

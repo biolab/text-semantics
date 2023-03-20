@@ -1,16 +1,10 @@
 Text file: URED586.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 975106800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-11-24 23:00:00
 idPredpisa: URED586
 idPredpisaChng: URED586
-instock: .nan
-naslov: "UREDBA o ustanovitvi dru\u017Ebe Rudnik Kani\u017Earica v zapiranju, d.o.o.\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o ustanovitvi dru\u017Ebe Rudnik Kani\u017Earica v zapiranju, d.o.o.
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2000/44/2000-01-4458-1995-01-1987-npb1
 sopPredpisa: 2000-01-4458

@@ -1,16 +1,10 @@
 Text file: URED7168.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450998000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-24 23:00:00
 idPredpisa: URED7168
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Dani d. o. o.\
-  \ iz vrtine D-2/05"
+naslov: "UREDBO o koncesiji za rabo vode za proizvodnjo pija\u010D v Dani d. o. o.
+  iz vrtine D-2/05"
 npbNum: 0
 path: /2015/41/2015-01-4101
 sopPredpisa: 2015-01-4101

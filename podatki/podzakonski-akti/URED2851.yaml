@@ -1,14 +1,8 @@
 Text file: URED2851.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1048287600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-21 23:00:00
 idPredpisa: URED2851
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o osnovnih storitvah knji\u017Enic"
 npbNum: 0
 path: /2003/11/2003-01-1129

@@ -1,16 +1,10 @@
 Text file: PRAV10512.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1327359600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-01-23 23:00:00
 idPredpisa: PRAV10512
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Draga\
-  \ (2011\u20132020)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Draga
+  (2011\u20132020)"
 npbNum: 0
 path: /2012/01/2012-01-0168
 sopPredpisa: 2012-01-0168

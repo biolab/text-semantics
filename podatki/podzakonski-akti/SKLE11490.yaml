@@ -1,14 +1,8 @@
 Text file: SKLE11490.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1523656800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-04-13 22:00:00
 idPredpisa: SKLE11490
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi Smernic Evropskega organa za vrednostne papirje in trge o
   zahtevah glede upravljanja produktov
 npbNum: 0

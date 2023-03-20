@@ -1,16 +1,10 @@
 Text file: ODLO735.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 690764400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-21 23:00:00
 idPredpisa: ODLO735
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK  o dolo\u010Ditvi enotnega povpre\u010Dnega koli\u010Dnika za valorizacijo\
-  \ katastrskega dohodka za dolo\u010Ditev kmetij v letu 1991"
+naslov: "ODLOK  o dolo\u010Ditvi enotnega povpre\u010Dnega koli\u010Dnika za valorizacijo
+  katastrskega dohodka za dolo\u010Ditev kmetij v letu 1991"
 npbNum: 0
 path: /1991/10/1991-01-1062
 sopPredpisa: 1991-01-1062

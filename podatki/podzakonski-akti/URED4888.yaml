@@ -1,16 +1,10 @@
 Text file: URED4888.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1385161200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-11-22 23:00:00
 idPredpisa: URED4888
 idPredpisaChng: URED4888
-instock: .nan
-naslov: "UREDBO o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehni\u010D\
-  ni izdelki (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "UREDBO o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehni\u010Dni
+  izdelki (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2013/34/2013-01-3447-2008-01-5713-npb3
 sopPredpisa: 2013-01-3447

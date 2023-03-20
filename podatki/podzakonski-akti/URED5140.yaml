@@ -1,16 +1,10 @@
 Text file: URED5140.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1266015600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-02-12 23:00:00
 idPredpisa: URED5140
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o vsebini in na\u010Dinu priprave podrobnej\u0161ega na\u010Drta zmanj\u0161\
-  evanja ogro\u017Eenosti pred poplavami"
+naslov: "UREDBO o vsebini in na\u010Dinu priprave podrobnej\u0161ega na\u010Drta zmanj\u0161evanja
+  ogro\u017Eenosti pred poplavami"
 npbNum: 0
 path: /2010/02/2010-01-0236
 sopPredpisa: 2010-01-0236

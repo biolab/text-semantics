@@ -1,16 +1,10 @@
 Text file: PRAV6490.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1119650400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-06-24 22:00:00
 idPredpisa: PRAV6490
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o katastru javnega komunikacijskega omre\u017Eja in pripadajo\u010D\
-  e infrastrukture"
+naslov: "PRAVILNIK o katastru javnega komunikacijskega omre\u017Eja in pripadajo\u010De
+  infrastrukture"
 npbNum: 0
 path: /2005/24/2005-01-2442
 sopPredpisa: 2005-01-2442

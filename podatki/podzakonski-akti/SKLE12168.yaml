@@ -1,14 +1,8 @@
 Text file: SKLE12168.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1599084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-09-02 22:00:00
 idPredpisa: SKLE12168
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o uporabi smernic o testiranju izjemnih situacij likvidnosti KNPVP in
   AIS
 npbNum: 0

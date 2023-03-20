@@ -1,14 +1,8 @@
 Text file: URED6450.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1379109600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-13 22:00:00
 idPredpisa: URED6450
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o izvajanju Uredbe (ES) o za\u0161\u010Diti \u017Eivali pri usmrtitvi"
 npbNum: 0
 path: /2013/27/2013-01-2716

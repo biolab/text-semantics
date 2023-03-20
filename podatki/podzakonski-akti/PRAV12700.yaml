@@ -1,16 +1,10 @@
 Text file: PRAV12700.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1464991200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-06-03 22:00:00
 idPredpisa: PRAV12700
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vrstah in na\u010Dinu zbiranja podatkov za letno statisti\u010D\
-  no poro\u010Dilo o oddanih javnih naro\u010Dilih"
+naslov: "PRAVILNIK o vrstah in na\u010Dinu zbiranja podatkov za letno statisti\u010Dno
+  poro\u010Dilo o oddanih javnih naro\u010Dilih"
 npbNum: 0
 path: /2016/17/2016-01-1715
 sopPredpisa: 2016-01-1715

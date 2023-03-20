@@ -1,17 +1,11 @@
 Text file: ODRE2072.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1293836400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-31 23:00:00
 idPredpisa: ODRE2072
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov srednjega strokovnega izobra\u017E\
-  evanja Ladijski strojni tehnik in Plovbni tehnik in poklicno-tehni\u0161kega izobra\u017E\
-  evanja Gradbeni tehnik"
+naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov srednjega strokovnega izobra\u017Eevanja
+  Ladijski strojni tehnik in Plovbni tehnik in poklicno-tehni\u0161kega izobra\u017Eevanja
+  Gradbeni tehnik"
 npbNum: 0
 path: /2010/57/2010-01-5774
 sopPredpisa: 2010-01-5774

@@ -1,16 +1,10 @@
 Text file: PRAV8747.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1222466400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-09-26 22:00:00
 idPredpisa: PRAV8747
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razvr\u0161\u010Danju, predpisovanju in izdajanju zdravil za\
-  \ uporabo v veterinarski medicini"
+naslov: "PRAVILNIK o razvr\u0161\u010Danju, predpisovanju in izdajanju zdravil za
+  uporabo v veterinarski medicini"
 npbNum: 0
 path: /2008/38/2008-01-3889
 sopPredpisa: 2008-01-3889

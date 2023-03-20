@@ -1,14 +1,8 @@
 Text file: MERI23.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1100905200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-19 23:00:00
 idPredpisa: MERI23
 idPredpisaChng: null
-instock: .nan
 naslov: "MERILA za kreditno vrednotenje \u0161tudijskih programov po ECTS"
 npbNum: 0
 path: /2004/52/2004-01-5200

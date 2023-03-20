@@ -1,16 +1,10 @@
 Text file: ODRE2721.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645830000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-02-25 23:00:00
 idPredpisa: ODRE2721
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programa obdobnega strokovnega izpopolnjevanja varnostnega\
-  \ osebja"
+naslov: "ODREDBO o dolo\u010Ditvi programa obdobnega strokovnega izpopolnjevanja varnostnega
+  osebja"
 npbNum: 0
 path: /2022/03/2022-01-0318
 sopPredpisa: 2022-01-0318

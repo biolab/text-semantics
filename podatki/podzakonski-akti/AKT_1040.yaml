@@ -1,16 +1,10 @@
 Text file: AKT_1040.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1617141600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-03-30 22:00:00
 idPredpisa: AKT_1040
 idPredpisaChng: AKT_1040
-instock: .nan
-naslov: "AKT o metodologiji za dolo\u010Ditev regulativnega okvira operaterja sistema\
-  \ zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "AKT o metodologiji za dolo\u010Ditev regulativnega okvira operaterja sistema
+  zemeljskega plina (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2021/09/2021-01-0961-2018-01-0906-npb1
 sopPredpisa: 2021-01-0961

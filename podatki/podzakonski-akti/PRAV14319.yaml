@@ -1,17 +1,11 @@
 Text file: PRAV14319.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639177200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-10 23:00:00
 idPredpisa: PRAV14319
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi meril za izkazovanje pomembnej\u0161ih dose\u017E\
-  kov delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v\
-  \ javnem interesu na podro\u010Dju razvoja socialnega podjetni\u0161tva"
+naslov: "PRAVILNIK o dolo\u010Ditvi meril za izkazovanje pomembnej\u0161ih dose\u017Ekov
+  delovanja nevladnih organizacij za podelitev statusa nevladne organizacije v javnem
+  interesu na podro\u010Dju razvoja socialnega podjetni\u0161tva"
 npbNum: 0
 path: /2021/36/2021-01-3626
 sopPredpisa: 2021-01-3626

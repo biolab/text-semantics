@@ -1,16 +1,10 @@
 Text file: PRAV12057.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1402351200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-06-09 22:00:00
 idPredpisa: PRAV12057
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu vro\u010Danja sklepov o izvr\u0161\
-  bi v elektronski obliki, drugih pravnih aktov, dokumentov in informacij"
+naslov: "PRAVILNIK o vsebini, obliki in na\u010Dinu vro\u010Danja sklepov o izvr\u0161bi
+  v elektronski obliki, drugih pravnih aktov, dokumentov in informacij"
 npbNum: 0
 path: /2014/16/2014-01-1685
 sopPredpisa: 2014-01-1685

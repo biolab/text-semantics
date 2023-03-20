@@ -1,17 +1,11 @@
 Text file: PRAV5144.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1518217200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-02-09 23:00:00
 idPredpisa: PRAV5144
 idPredpisaChng: PRAV5144
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi meja povodij in pore\u010Dij ter meja vodnih obmo\u010D\
-  ij z vodami 1. reda, ki jima pripadajo (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o dolo\u010Ditvi meja povodij in pore\u010Dij ter meja vodnih obmo\u010Dij
+  z vodami 1. reda, ki jima pripadajo (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2018/03/2018-01-0302-2003-01-3929-npb1
 sopPredpisa: 2018-01-0302

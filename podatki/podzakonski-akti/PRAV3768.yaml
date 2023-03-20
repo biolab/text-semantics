@@ -1,17 +1,11 @@
 Text file: PRAV3768.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1274133600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-17 22:00:00
 idPredpisa: PRAV3768
 idPredpisaChng: PRAV3768
-instock: .nan
-naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo\
-  \ rodovni\u0161ko knjigo za registrirane kopitarje (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo
+  rodovni\u0161ko knjigo za registrirane kopitarje (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2010/19/2010-01-1942-2003-01-5367-npb2
 sopPredpisa: 2010-01-1942

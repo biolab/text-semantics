@@ -1,17 +1,11 @@
 Text file: SKLE10992.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482447600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-22 23:00:00
 idPredpisa: SKLE10992
 idPredpisaChng: SKLE10992
-instock: .nan
-naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka\
-  \ Kmetijsko gozdarske zbornice Slovenije za leto 2016 (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o stopnjah, na\u010Dinih in rokih zbiranja zborni\u010Dnega prispevka
+  Kmetijsko gozdarske zbornice Slovenije za leto 2016 (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/38/2016-01-3855-2016-01-3854-npb1
 sopPredpisa: 2016-01-3855

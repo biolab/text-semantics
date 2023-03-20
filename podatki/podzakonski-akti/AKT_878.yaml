@@ -1,19 +1,10 @@
 Text file: AKT_878.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1377986400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1377900000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2013-08-31 22:00:00
+datumZacetkaVelj: 2013-08-30 22:00:00
 idPredpisa: AKT_878
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi prispevka za zagotavljanje podpor proizvodnji elektri\u010D\
-  ne energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije"
+naslov: "AKT o dolo\u010Ditvi prispevka za zagotavljanje podpor proizvodnji elektri\u010Dne
+  energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije"
 npbNum: 0
 path: /2013/27/2013-01-2721
 sopPredpisa: 2013-01-2721

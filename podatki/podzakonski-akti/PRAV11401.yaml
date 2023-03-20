@@ -1,19 +1,10 @@
 Text file: PRAV11401.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1349042400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1342821600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2012-09-30 22:00:00
+datumZacetkaVelj: 2012-07-20 22:00:00
 idPredpisa: PRAV11401
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o metodologiji za posredovanje in analizo podatkov o pla\u010D\
-  ah v javnem sektorju"
+naslov: "PRAVILNIK o metodologiji za posredovanje in analizo podatkov o pla\u010Dah
+  v javnem sektorju"
 npbNum: 0
 path: /2012/23/2012-01-2338
 sopPredpisa: 2012-01-2338

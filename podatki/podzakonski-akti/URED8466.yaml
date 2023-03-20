@@ -1,18 +1,12 @@
 Text file: URED8466.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640991600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-31 23:00:00
 idPredpisa: URED8466
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu unov\u010Ditve bona za izbolj\u0161anje gospodarskega\
-  \ polo\u017Eaja na podro\u010Dju turizma, o povra\u010Dilu sredstev prek informacijskega\
-  \ sistema Finan\u010Dne uprave Republike Slovenije ter o na\u010Dinu vodenja in\
-  \ upravljanja evidence bonov"
+naslov: "UREDBO o na\u010Dinu unov\u010Ditve bona za izbolj\u0161anje gospodarskega
+  polo\u017Eaja na podro\u010Dju turizma, o povra\u010Dilu sredstev prek informacijskega
+  sistema Finan\u010Dne uprave Republike Slovenije ter o na\u010Dinu vodenja in upravljanja
+  evidence bonov"
 npbNum: 0
 path: /2021/43/2021-01-4395
 sopPredpisa: 2021-01-4395

@@ -1,10 +1,8 @@
 Text file: SKLE12838.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12838
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o izvolitvi podpredsednice Dr\u017Eavnega zbora"
 npbNum: 0
 path: /2022/15/2022-01-1597

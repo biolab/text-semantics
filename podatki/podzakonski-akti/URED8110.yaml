@@ -1,17 +1,11 @@
 Text file: URED8110.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1605913200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-11-20 23:00:00
 idPredpisa: URED8110
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine\
-  \ tehni\u010Dni kamen \u2013 dolomit v pridobivalnem prostoru Laze\_2 v ob\u010D\
-  ini Ko\u010Devje"
+naslov: "UREDBO o podelitvi rudarske pravice za izkori\u0161\u010Danje mineralne surovine
+  tehni\u010Dni kamen \u2013 dolomit v pridobivalnem prostoru Laze\_2 v ob\u010Dini
+  Ko\u010Devje"
 npbNum: 0
 path: /2020/29/2020-01-2927
 sopPredpisa: 2020-01-2927

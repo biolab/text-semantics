@@ -1,16 +1,10 @@
 Text file: PRAV7062.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1126303200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-09-09 22:00:00
 idPredpisa: PRAV7062
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o poreklu za \u010Distopasemsko plemensko\
-  \ govedo, bikovo seme, jaj\u010Dne celice in zarodke"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o poreklu za \u010Distopasemsko plemensko
+  govedo, bikovo seme, jaj\u010Dne celice in zarodke"
 npbNum: 0
 path: /2005/36/2005-01-3602
 sopPredpisa: 2005-01-3602

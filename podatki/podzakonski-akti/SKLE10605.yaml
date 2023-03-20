@@ -1,19 +1,10 @@
 Text file: SKLE10605.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1442268000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2015-12-31 23:00:00
+datumZacetkaVelj: 2015-09-14 22:00:00
 idPredpisa: SKLE10605
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o spro\u017Eilnih dejavnikih za\_uporabo ukrepov\
-  \ za zgodnje posredovanje v\_skladu s \u010Dlenom 27(4) Direktive 2014/59/EU"
+naslov: "SKLEP o uporabi Smernic o spro\u017Eilnih dejavnikih za\_uporabo ukrepov
+  za zgodnje posredovanje v\_skladu s \u010Dlenom 27(4) Direktive 2014/59/EU"
 npbNum: 0
 path: /2015/27/2015-01-2711
 sopPredpisa: 2015-01-2711

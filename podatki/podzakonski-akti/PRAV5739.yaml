@@ -1,17 +1,11 @@
 Text file: PRAV5739.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1090015200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-16 22:00:00
 idPredpisa: PRAV5739
 idPredpisaChng: PRAV5739
-instock: .nan
-naslov: "PRAVILNIK o asistenci Veterinarske uprave Republike Slovenije in pristojnih\
-  \ veterinarskih organov dr\u017Eav \u010Dlanic EU ter Evropske komisije (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o asistenci Veterinarske uprave Republike Slovenije in pristojnih
+  veterinarskih organov dr\u017Eav \u010Dlanic EU ter Evropske komisije (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2004/34/2004-01-3460-2004-01-1207-npb1
 sopPredpisa: 2004-01-3460

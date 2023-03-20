@@ -1,17 +1,11 @@
 Text file: PRAV11474.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1356044400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-12-20 23:00:00
 idPredpisa: PRAV11474
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi vzgojiteljev pred\u0161olskih otrok in drugih strokovnih\
-  \ delavcev v programih za pred\u0161olske otroke in v prilagojenih programih za\
-  \ pred\u0161olske otroke s posebnimi potrebami"
+naslov: "PRAVILNIK o izobrazbi vzgojiteljev pred\u0161olskih otrok in drugih strokovnih
+  delavcev v programih za pred\u0161olske otroke in v prilagojenih programih za pred\u0161olske
+  otroke s posebnimi potrebami"
 npbNum: 0
 path: /2012/35/2012-01-3592
 sopPredpisa: 2012-01-3592

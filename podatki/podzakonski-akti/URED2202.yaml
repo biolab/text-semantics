@@ -1,14 +1,8 @@
 Text file: URED2202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1017442800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-03-29 23:00:00
 idPredpisa: URED2202
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o ekonomskih conah
 npbNum: 0
 path: /2002/12/2002-01-1211

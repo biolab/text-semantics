@@ -1,16 +1,10 @@
 Text file: URED1975.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1008370800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-12-14 23:00:00
 idPredpisa: URED1975
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi najvi\u0161je drobnoprodajne cene uteko\u010Dinjenega\
-  \ naftnega plina"
+naslov: "UREDBO o dolo\u010Ditvi najvi\u0161je drobnoprodajne cene uteko\u010Dinjenega
+  naftnega plina"
 npbNum: 0
 path: /2001/49/2001-01-4902
 sopPredpisa: 2001-01-4902

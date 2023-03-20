@@ -1,16 +1,10 @@
 Text file: URED7506.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1500069600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-14 22:00:00
 idPredpisa: URED7506
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o finan\u010Dni pomo\u010Di za izpad krme v \u017Eivinorejski proizvodnji\
-  \ na kmetijskem gospodarstvu"
+naslov: "ODLOK o finan\u010Dni pomo\u010Di za izpad krme v \u017Eivinorejski proizvodnji
+  na kmetijskem gospodarstvu"
 npbNum: 0
 path: /2017/19/2017-01-1942
 sopPredpisa: 2017-01-1942

@@ -1,18 +1,12 @@
 Text file: PRAV10603.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1517007600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-01-26 23:00:00
 idPredpisa: PRAV10603
 idPredpisaChng: PRAV10603
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu ugotavljanja premo\u017Eenja in njegove vrednosti\
-  \ pri dodeljevanju pravic iz javnih sredstev ter o razlogih za zmanj\u0161evanje\
-  \ v postopku dodelitve denarne socialne pomo\u010Di (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o na\u010Dinu ugotavljanja premo\u017Eenja in njegove vrednosti
+  pri dodeljevanju pravic iz javnih sredstev ter o razlogih za zmanj\u0161evanje v
+  postopku dodelitve denarne socialne pomo\u010Di (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2018/01/2018-01-0171-2012-01-0276-npb2
 sopPredpisa: 2018-01-0171

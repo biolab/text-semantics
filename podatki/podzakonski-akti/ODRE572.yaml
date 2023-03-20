@@ -1,16 +1,10 @@
 Text file: ODRE572.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1001109600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-09-21 22:00:00
 idPredpisa: ODRE572
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote Slovenska Bistrica"
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote Slovenska Bistrica"
 npbNum: 0
 path: /2001/39/2001-01-3911
 sopPredpisa: 2001-01-3911

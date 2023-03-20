@@ -1,14 +1,8 @@
 Text file: PRAV11537.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1382133600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-10-18 22:00:00
 idPredpisa: PRAV11537
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o usposabljanju o fitofarmacevtskih sredstvih
 npbNum: 0
 path: /2013/31/2013-01-3123

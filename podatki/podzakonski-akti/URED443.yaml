@@ -1,14 +1,8 @@
 Text file: URED443.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 829692000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-04-16 22:00:00
 idPredpisa: URED443
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o lokacijskem na\u010Drtu za avtocesto na odseku Vransko\u2013Blagovica"
 npbNum: 0
 path: /1996/10/1996-01-1066

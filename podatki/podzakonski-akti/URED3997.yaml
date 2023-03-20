@@ -1,16 +1,10 @@
 Text file: URED3997.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1290726000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-11-25 23:00:00
 idPredpisa: URED3997
 idPredpisaChng: URED3997
-instock: .nan
-naslov: "UREDBA o koncesiji za obstoje\u010De \u017Ei\u010Dnice (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o koncesiji za obstoje\u010De \u017Ei\u010Dnice (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2010/49/2010-01-4915-2006-01-4434-npb2
 sopPredpisa: 2010-01-4915

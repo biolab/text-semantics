@@ -1,17 +1,11 @@
 Text file: ODRE1648.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982969200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-23 23:00:00
 idPredpisa: ODRE1648
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izobra\u017Eevalnih programih za pridobitev srednje strokovne izobrazbe\
-  \ Tehnik zdravstvene nege, Konfekcijski modelar, \u017Divilski tehnik \_in Gostinsko-turisti\u010D\
-  ni tehnik (poklicno-tehni\u0161ko izobra\u017Eevanje)"
+naslov: "ODREDBO o izobra\u017Eevalnih programih za pridobitev srednje strokovne izobrazbe
+  Tehnik zdravstvene nege, Konfekcijski modelar, \u017Divilski tehnik \_in Gostinsko-turisti\u010Dni
+  tehnik (poklicno-tehni\u0161ko izobra\u017Eevanje)"
 npbNum: 0
 path: /2001/07/2001-01-0738
 sopPredpisa: 2001-01-0738

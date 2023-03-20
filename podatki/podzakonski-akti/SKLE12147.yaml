@@ -1,14 +1,8 @@
 Text file: SKLE12147.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1594418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-07-10 22:00:00
 idPredpisa: SKLE12147
 idPredpisaChng: null
-instock: .nan
 naslov: SKLEP o nedopustnosti razpisa zakonodajnega referenduma o Zakonu o interventnih
   ukrepih za pripravo na drugi val COVID-19 (ZIUPDV, EPA 1249-VIII)
 npbNum: 0

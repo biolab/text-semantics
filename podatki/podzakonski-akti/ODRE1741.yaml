@@ -1,16 +1,10 @@
 Text file: ODRE1741.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1004047200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-10-25 22:00:00
 idPredpisa: ODRE1741
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta\
-  \ \_gozdnogospodarske enote Lo\u0161ki potok"
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Lo\u0161ki potok"
 npbNum: 0
 path: /2001/42/2001-01-4296
 sopPredpisa: 2001-01-4296

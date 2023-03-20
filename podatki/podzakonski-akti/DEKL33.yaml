@@ -1,19 +1,16 @@
 Text file: DEKL33.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: DEKL33
 idPredpisaChng: null
-instock: .nan
-naslov: "DEKLARACIJO Deklaracija v zvezi z \xBBumikom tajnosti iz vseh dokumentov\
-  \ nekdanjega predsedstva Republike Slovenije, predsednika Republike Slovenije, Vlade\
-  \ Republike Slovenije, preiskovalnih komisij dr\u017Eavnega zbora, Komisije za nadzor\
-  \ varnostnih in obve\u0161\u010Devalnih slu\u017Eb, Ministrstva za obrambo, Ministrstva\
-  \ za notranje zadeve, Slovenske obve\u0161\u010Devalno varnostne slu\u017Ebe v delih,\
-  \ ki se nana\u0161ajo na priprave in izvedbo osamosvojitve in obrambe Republike\
-  \ Slovenije ter nabav oboro\u017Eitve in voja\u0161ke opreme do leta 2000 in delih,\
-  \ ki se nana\u0161ajo na pomo\u010D Republiki Hrva\u0161ki in Republiki Bosni in\
-  \ Hercegovini\xAB (DeUTObrVO)"
+naslov: "DEKLARACIJO Deklaracija v zvezi z \xBBumikom tajnosti iz vseh dokumentov
+  nekdanjega predsedstva Republike Slovenije, predsednika Republike Slovenije, Vlade
+  Republike Slovenije, preiskovalnih komisij dr\u017Eavnega zbora, Komisije za nadzor
+  varnostnih in obve\u0161\u010Devalnih slu\u017Eb, Ministrstva za obrambo, Ministrstva
+  za notranje zadeve, Slovenske obve\u0161\u010Devalno varnostne slu\u017Ebe v delih,
+  ki se nana\u0161ajo na priprave in izvedbo osamosvojitve in obrambe Republike Slovenije
+  ter nabav oboro\u017Eitve in voja\u0161ke opreme do leta 2000 in delih, ki se nana\u0161ajo
+  na pomo\u010D Republiki Hrva\u0161ki in Republiki Bosni in Hercegovini\xAB (DeUTObrVO)"
 npbNum: 0
 path: /2011/12/2011-01-1299
 sopPredpisa: 2011-01-1299

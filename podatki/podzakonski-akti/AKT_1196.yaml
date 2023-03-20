@@ -1,16 +1,10 @@
 Text file: AKT_1196.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613170800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-12 23:00:00
 idPredpisa: AKT_1196
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote za geografsko\
-  \ obmo\u010Dje Ob\u010Dine Ko\u010Devje"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem toplote za geografsko
+  obmo\u010Dje Ob\u010Dine Ko\u010Devje"
 npbNum: 0
 path: /2021/02/2021-01-0260
 sopPredpisa: 2021-01-0260

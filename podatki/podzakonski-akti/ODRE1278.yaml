@@ -1,16 +1,10 @@
 Text file: ODRE1278.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 838418400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-26 22:00:00
 idPredpisa: ODRE1278
 idPredpisaChng: ODRE1278
-instock: .nan
-naslov: "ODREDBA o uvedbi agromelioracij in obnovi nasadov na obmo\u010Dju Ob\u010D\
-  ine Slovenske Konjice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODREDBA o uvedbi agromelioracij in obnovi nasadov na obmo\u010Dju Ob\u010Dine
+  Slovenske Konjice (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1996/25/1996-01-2578-1996-01-1440-npb1
 sopPredpisa: 1996-01-2578

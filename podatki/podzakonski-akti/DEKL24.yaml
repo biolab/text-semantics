@@ -1,16 +1,10 @@
 Text file: DEKL24.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1218492000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-11 22:00:00
 idPredpisa: DEKL24
 idPredpisaChng: null
-instock: .nan
-naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah\
-  \ Evropske unije v obdobju julij 2008\u2013december 2009 (DeUDIEU0809)"
+naslov: "DEKLARACIJO o usmeritvah za delovanje Republike Slovenije v institucijah
+  Evropske unije v obdobju julij 2008\u2013december 2009 (DeUDIEU0809)"
 npbNum: 0
 path: /2008/34/2008-01-3451
 sopPredpisa: 2008-01-3451

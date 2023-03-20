@@ -1,17 +1,11 @@
 Text file: PRAV2067.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613775600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-19 23:00:00
 idPredpisa: PRAV2067
 idPredpisaChng: PRAV2067
-instock: .nan
-naslov: "PRAVILNIK o merilih za dolo\u010Ditev obratovalnega \u010Dasa gostinskih\
-  \ obratov in kmetij, na katerih se opravlja gostinska dejavnost (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o merilih za dolo\u010Ditev obratovalnega \u010Dasa gostinskih
+  obratov in kmetij, na katerih se opravlja gostinska dejavnost (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2021/03/2021-01-0343-1999-01-3702-npb4
 sopPredpisa: 2021-01-0343

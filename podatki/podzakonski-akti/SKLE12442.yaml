@@ -1,16 +1,10 @@
 Text file: SKLE12442.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628287200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-06 22:00:00
 idPredpisa: SKLE12442
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja\
-  \ vinogradov in izpada dohodka v vinskem letu 2021/2022"
+naslov: "SKLEP o vrednostih, potrebnih za ovrednotenje priznanih stro\u0161kov prestrukturiranja
+  vinogradov in izpada dohodka v vinskem letu 2021/2022"
 npbNum: 0
 path: /2021/25/2021-01-2587
 sopPredpisa: 2021-01-2587

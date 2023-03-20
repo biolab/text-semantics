@@ -1,16 +1,10 @@
 Text file: ODLO1827.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1425164400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-02-28 23:00:00
 idPredpisa: ODLO1827
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Urad\
-  \ predsednika Republike Slovenije za leto 2015 (OdRSPUP15)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Urad
+  predsednika Republike Slovenije za leto 2015 (OdRSPUP15)"
 npbNum: 0
 path: /2015/05/2015-01-0508
 sopPredpisa: 2015-01-0508

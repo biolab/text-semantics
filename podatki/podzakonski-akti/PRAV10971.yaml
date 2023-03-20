@@ -1,19 +1,13 @@
 Text file: PRAV10971.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590962400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-31 22:00:00
 idPredpisa: PRAV10971
 idPredpisaChng: PRAV10971
-instock: .nan
-naslov: "PRAVILNIK o pridobitvi potrdil o strokovnih nazivih preizku\u0161eni dav\u010D\
-  nik, preizku\u0161eni ra\u010Dunovodja, preizku\u0161eni notranji revizor in preizku\u0161\
-  eni revizor informacijskih sistemov, vpisu v registre pri in\u0161titutu ter na\u010D\
-  inu vodenja seznamov aktivnih imetnikov nazivov (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o pridobitvi potrdil o strokovnih nazivih preizku\u0161eni dav\u010Dnik,
+  preizku\u0161eni ra\u010Dunovodja, preizku\u0161eni notranji revizor in preizku\u0161eni
+  revizor informacijskih sistemov, vpisu v registre pri in\u0161titutu ter na\u010Dinu
+  vodenja seznamov aktivnih imetnikov nazivov (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2020/11/2020-01-1162-2011-01-3973-npb4
 sopPredpisa: 2020-01-1162

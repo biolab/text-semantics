@@ -1,17 +1,11 @@
 Text file: SKLE12025.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1585090800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-24 23:00:00
 idPredpisa: SKLE12025
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi Sklepa o razpisu volitev v svet Kmetijsko gozdarske\
-  \ zbornice Slovenije in v svete obmo\u010Dnih enot Kmetijsko gozdarske zbornice\
-  \ Slovenije v letu 2020"
+naslov: "SKLEP o razveljavitvi Sklepa o razpisu volitev v svet Kmetijsko gozdarske
+  zbornice Slovenije in v svete obmo\u010Dnih enot Kmetijsko gozdarske zbornice Slovenije
+  v letu 2020"
 npbNum: 0
 path: /2020/06/2020-01-0653
 sopPredpisa: 2020-01-0653

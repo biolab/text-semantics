@@ -1,14 +1,8 @@
 Text file: PRAV817.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 695689200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-01-17 23:00:00
 idPredpisa: PRAV817
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o vsebini glavne knjige registra zrakoplovov
 npbNum: 0
 path: /1992/00/1992-01-0095

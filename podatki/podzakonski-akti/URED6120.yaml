@@ -1,16 +1,10 @@
 Text file: URED6120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: URED6120
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi koncesije in na\u010Dinu izvajanja gospodarske javne slu\u017E\
-  be dejavnost operaterja trga z elektriko"
+naslov: "UREDBO o podelitvi koncesije in na\u010Dinu izvajanja gospodarske javne slu\u017Ebe
+  dejavnost operaterja trga z elektriko"
 npbNum: 0
 path: /2015/16/2015-01-1612
 sopPredpisa: 2015-01-1612

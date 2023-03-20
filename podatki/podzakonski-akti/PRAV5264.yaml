@@ -1,17 +1,11 @@
 Text file: PRAV5264.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1072825200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-30 23:00:00
 idPredpisa: PRAV5264
 idPredpisaChng: PRAV5264
-instock: .nan
-naslov: "PRAVILNIK o najmanj\u0161em \u0161tevilu zaposlenih v pokojninski dru\u017E\
-  bi ter o pogojih, ki jih morajo izpolnjevati in na\u010Dinu preverjanja teh pogojev\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o najmanj\u0161em \u0161tevilu zaposlenih v pokojninski dru\u017Ebi
+  ter o pogojih, ki jih morajo izpolnjevati in na\u010Dinu preverjanja teh pogojev
+  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2003/58/2003-01-5846-2003-01-4410-npb1
 sopPredpisa: 2003-01-5846

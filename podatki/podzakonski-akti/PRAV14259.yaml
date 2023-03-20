@@ -1,20 +1,11 @@
 Text file: PRAV14259.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656540000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1645138800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-06-29 22:00:00
+datumZacetkaVelj: 2022-02-17 23:00:00
 idPredpisa: PRAV14259
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zahtevah za novogradnje, posege v obstoje\u010De stavbe in sanacija\
-  \ obstoje\u010Dih stavb zaradi varovanja zdravja ljudi pred \u0161kodljivimi u\u010D\
-  inki radona"
+naslov: "PRAVILNIK o zahtevah za novogradnje, posege v obstoje\u010De stavbe in sanacija
+  obstoje\u010Dih stavb zaradi varovanja zdravja ljudi pred \u0161kodljivimi u\u010Dinki
+  radona"
 npbNum: 0
 path: /2022/02/2022-01-0213
 sopPredpisa: 2022-01-0213

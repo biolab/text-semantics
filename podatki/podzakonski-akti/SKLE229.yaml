@@ -1,14 +1,8 @@
 Text file: SKLE229.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 936136800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-08-31 22:00:00
 idPredpisa: SKLE229
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o na\u010Dinu sklepanja kreditnih poslov med rezidenti in nerezidenti"
 npbNum: 0
 path: /1999/23/1999-01-2396

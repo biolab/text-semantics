@@ -1,17 +1,11 @@
 Text file: PRAV11979.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1438380000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-07-31 22:00:00
 idPredpisa: PRAV11979
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izvr\u0161evanja pooblastil uradnih oseb Finan\u010D\
-  ne uprave Republike Slovenije in ozna\u010Ditvi slu\u017Ebenih vozil Finan\u010D\
-  ne uprave Republike Slovenije"
+naslov: "PRAVILNIK o na\u010Dinu izvr\u0161evanja pooblastil uradnih oseb Finan\u010Dne
+  uprave Republike Slovenije in ozna\u010Ditvi slu\u017Ebenih vozil Finan\u010Dne
+  uprave Republike Slovenije"
 npbNum: 0
 path: /2015/24/2015-01-2407
 sopPredpisa: 2015-01-2407

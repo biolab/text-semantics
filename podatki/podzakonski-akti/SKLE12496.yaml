@@ -1,10 +1,8 @@
 Text file: SKLE12496.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE12496
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o imenovanju \u010Dlana Nadzornega sveta RTV Slovenija"
 npbNum: 0
 path: /2021/24/2021-01-2471

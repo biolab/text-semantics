@@ -1,19 +1,10 @@
 Text file: KOLP87.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1091311200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2004-07-31 22:00:00
+datumZacetkaVelj: 2004-07-31 22:00:00
 idPredpisa: KOLP87
 idPredpisaChng: KOLP87
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA grafi\u010Dne dejavnosti (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 4)"
+naslov: "KOLEKTIVNA POGODBA grafi\u010Dne dejavnosti (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2004/44/2004-01-4421-1998-01-2321-npb4
 sopPredpisa: 2004-01-4421

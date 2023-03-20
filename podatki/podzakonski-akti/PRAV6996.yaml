@@ -1,16 +1,10 @@
 Text file: PRAV6996.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1152309600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-07-07 22:00:00
 idPredpisa: PRAV6996
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o javljanju podatkov za seme kmetijskih rastlin in registraciji\
-  \ pogodb za razmno\u017Eevanje semen v dr\u017Eavah ne\u010Dlanicah"
+naslov: "PRAVILNIK o javljanju podatkov za seme kmetijskih rastlin in registraciji
+  pogodb za razmno\u017Eevanje semen v dr\u017Eavah ne\u010Dlanicah"
 npbNum: 0
 path: /2006/30/2006-01-3050
 sopPredpisa: 2006-01-3050

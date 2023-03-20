@@ -1,16 +1,10 @@
 Text file: ODLO1930.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1643670000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-31 23:00:00
 idPredpisa: ODLO1930
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi javnega gospodarskega zavoda ARAO \u2013 Agencija za\
-  \ radioaktivne odpadke"
+naslov: "ODLOK o ustanovitvi javnega gospodarskega zavoda ARAO \u2013 Agencija za
+  radioaktivne odpadke"
 npbNum: 0
 path: /2022/01/2022-01-0100
 sopPredpisa: 2022-01-0100

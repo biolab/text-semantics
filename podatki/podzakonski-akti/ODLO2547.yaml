@@ -1,16 +1,10 @@
 Text file: ODLO2547.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1627077600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-23 22:00:00
 idPredpisa: ODLO2547
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o ustanovitvi in nalogah Slu\u017Ebe Vlade Republike Slovenije za digitalno\
-  \ preobrazbo"
+naslov: "ODLOK o ustanovitvi in nalogah Slu\u017Ebe Vlade Republike Slovenije za digitalno
+  preobrazbo"
 npbNum: 0
 path: /2021/25/2021-01-2585
 sopPredpisa: 2021-01-2585

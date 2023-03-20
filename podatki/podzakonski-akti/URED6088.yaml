@@ -1,16 +1,10 @@
 Text file: URED6088.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1341525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-07-05 22:00:00
 idPredpisa: URED6088
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o vzpostavitvi okvira za dolo\u010D\
-  anje zahtev za okoljsko primerno zasnovo izdelkov, ki rabijo energijo"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o vzpostavitvi okvira za dolo\u010Danje
+  zahtev za okoljsko primerno zasnovo izdelkov, ki rabijo energijo"
 npbNum: 0
 path: /2012/21/2012-01-2113
 sopPredpisa: 2012-01-2113

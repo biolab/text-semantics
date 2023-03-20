@@ -1,17 +1,10 @@
 Text file: ODRE2400.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1490997600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-31 22:00:00
 idPredpisa: ODRE2400
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi roka za vklju\u010Ditev pravnih oseb iz 110.a \u010D\
-  lena Zakona o javnih financah v sistem enotnega upravljanja s prostimi denarnimi\
-  \ sredstvi"
+naslov: "ODREDBO o dolo\u010Ditvi roka za vklju\u010Ditev pravnih oseb iz 110.a \u010Dlena
+  Zakona o javnih financah v sistem enotnega upravljanja s prostimi denarnimi sredstvi"
 npbNum: 0
 path: /2017/07/2017-01-0738
 sopPredpisa: 2017-01-0738

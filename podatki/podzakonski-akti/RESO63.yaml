@@ -1,16 +1,10 @@
 Text file: RESO63.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1291762800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-12-07 23:00:00
 idPredpisa: RESO63
 idPredpisaChng: null
-instock: .nan
-naslov: "RESOLUCIJO o splo\u0161nem dolgoro\u010Dnem programu razvoja in opremljanja\
-  \ Slovenske vojske do leta 2025 (ReDPROSV25)"
+naslov: "RESOLUCIJO o splo\u0161nem dolgoro\u010Dnem programu razvoja in opremljanja
+  Slovenske vojske do leta 2025 (ReDPROSV25)"
 npbNum: 0
 path: /2010/51/2010-01-5106
 sopPredpisa: 2010-01-5106

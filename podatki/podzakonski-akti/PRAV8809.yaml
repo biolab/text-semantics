@@ -1,17 +1,11 @@
 Text file: PRAV8809.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1205535600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-14 23:00:00
 idPredpisa: PRAV8809
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izjemah od obveznosti predlo\u017Eitve blaga ter o dolo\u010D\
-  itvi vi\u0161ine in na\u010Dina obra\u010Dunavanja stro\u0161kov pri opravljanju\
-  \ pregleda blaga"
+naslov: "PRAVILNIK o izjemah od obveznosti predlo\u017Eitve blaga ter o dolo\u010Ditvi
+  vi\u0161ine in na\u010Dina obra\u010Dunavanja stro\u0161kov pri opravljanju pregleda
+  blaga"
 npbNum: 0
 path: /2008/07/2008-01-0707
 sopPredpisa: 2008-01-0707

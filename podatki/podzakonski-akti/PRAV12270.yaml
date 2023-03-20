@@ -1,16 +1,10 @@
 Text file: PRAV12270.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1500674400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-07-21 22:00:00
 idPredpisa: PRAV12270
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o meroslovnih zahtevah za merilne sisteme za stati\u010Dno merjenje\
-  \ koli\u010Din teko\u010Din na premi\u010Dnih merilnih rezervoarjih"
+naslov: "PRAVILNIK o meroslovnih zahtevah za merilne sisteme za stati\u010Dno merjenje
+  koli\u010Din teko\u010Din na premi\u010Dnih merilnih rezervoarjih"
 npbNum: 0
 path: /2017/18/2017-01-1855
 sopPredpisa: 2017-01-1855

@@ -1,17 +1,11 @@
 Text file: URED7111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1543014000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-11-23 23:00:00
 idPredpisa: URED7111
 idPredpisaChng: URED7111
-instock: .nan
-naslov: "UREDBA o koncesiji za rabo termalne vode za potrebe kopali\u0161\u010Da LifeClass\
-  \ Portoro\u017E iz vrtine HV-1/94 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 2)"
+naslov: "UREDBA o koncesiji za rabo termalne vode za potrebe kopali\u0161\u010Da LifeClass
+  Portoro\u017E iz vrtine HV-1/94 (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  2)"
 npbNum: 2
 path: /2018/35/2018-01-3588-2015-01-3349-npb2
 sopPredpisa: 2018-01-3588

@@ -1,16 +1,10 @@
 Text file: PRAV209.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 995666400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-07-20 22:00:00
 idPredpisa: PRAV209
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK  o metodah za dolo\u010Danje kakovosti \u017Eit, ki so predmet\
-  \ intervencijskega nakupa"
+naslov: "PRAVILNIK  o metodah za dolo\u010Danje kakovosti \u017Eit, ki so predmet
+  intervencijskega nakupa"
 npbNum: 0
 path: /2001/30/2001-01-3065
 sopPredpisa: 2001-01-3065

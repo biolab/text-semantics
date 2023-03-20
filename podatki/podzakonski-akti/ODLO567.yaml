@@ -1,14 +1,8 @@
 Text file: ODLO567.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 686962800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-10-08 23:00:00
 idPredpisa: ODLO567
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK  o obveznem pobotanju obveznosti in terjatev pravnih oseb v Republiki
   Sloveniji
 npbNum: 0

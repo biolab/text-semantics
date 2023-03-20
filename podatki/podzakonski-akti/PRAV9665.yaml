@@ -1,16 +1,10 @@
 Text file: PRAV9665.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1233961200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-06 23:00:00
 idPredpisa: PRAV9665
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK Zavoda Republike Slovenije za zaposlovanje o napredovanju javnih\
-  \ uslu\u017Ebencev v vi\u0161ji pla\u010Dni razred"
+naslov: "PRAVILNIK Zavoda Republike Slovenije za zaposlovanje o napredovanju javnih
+  uslu\u017Ebencev v vi\u0161ji pla\u010Dni razred"
 npbNum: 0
 path: /2009/02/2009-01-0260
 sopPredpisa: 2009-01-0260

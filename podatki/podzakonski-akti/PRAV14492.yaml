@@ -1,16 +1,10 @@
 Text file: PRAV14492.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640214000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-22 23:00:00
 idPredpisa: PRAV14492
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010D\
-  anov za leto 2022"
+naslov: "PRAVILNIK o valorizaciji zneskov za odmero davkov po zakonu o davkih ob\u010Danov
+  za leto 2022"
 npbNum: 0
 path: /2021/39/2021-01-3985
 sopPredpisa: 2021-01-3985

@@ -1,19 +1,10 @@
 Text file: URED7798.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1551394800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1550876400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-02-28 23:00:00
+datumZacetkaVelj: 2019-02-22 23:00:00
 idPredpisa: URED7798
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podrobnej\u0161i dolo\u010Ditvi vrst tovora, ki se uvr\u0161\u010D\
-  ajo v posamezno kategorijo tovora za odmero takse na pretovor"
+naslov: "UREDBO o podrobnej\u0161i dolo\u010Ditvi vrst tovora, ki se uvr\u0161\u010Dajo
+  v posamezno kategorijo tovora za odmero takse na pretovor"
 npbNum: 0
 path: /2019/04/2019-01-0418
 sopPredpisa: 2019-01-0418

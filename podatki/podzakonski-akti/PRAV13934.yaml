@@ -1,14 +1,8 @@
 Text file: PRAV13934.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583881200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-10 23:00:00
 idPredpisa: PRAV13934
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o diplomatski, konzularni in slu\u017Ebeni izkaznici"
 npbNum: 0
 path: /2020/05/2020-01-0507

@@ -1,19 +1,10 @@
 Text file: URED5321.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576882800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576278000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-12-20 23:00:00
+datumZacetkaVelj: 2019-12-13 23:00:00
 idPredpisa: URED5321
 idPredpisaChng: URED5321
-instock: .nan
-naslov: "UREDBA o in\u0161pekcijskem nadzoru tujih ladij (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o in\u0161pekcijskem nadzoru tujih ladij (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 2)"
 npbNum: 2
 path: /2019/31/2019-01-3182-2010-01-5419-npb2
 sopPredpisa: 2019-01-3182

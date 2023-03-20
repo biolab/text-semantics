@@ -1,16 +1,10 @@
 Text file: URED3762.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1124143200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-15 22:00:00
 idPredpisa: URED3762
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za vodnogospodarsko ureditev\
-  \ Drave od Dogo\u0161 do jezu v Melju"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za vodnogospodarsko ureditev
+  Drave od Dogo\u0161 do jezu v Melju"
 npbNum: 0
 path: /2005/32/2005-01-3250
 sopPredpisa: 2005-01-3250

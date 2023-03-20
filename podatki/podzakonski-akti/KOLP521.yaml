@@ -1,12 +1,10 @@
 Text file: KOLP521.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: KOLP521
 idPredpisaChng: null
-instock: .nan
-naslov: "STAVKOVNI\_\_SPORAZUM med Vlado Republike Slovenije in Sindikatom vzgoje,\
-  \ izobra\u017Eevanja, znanosti in kulture Slovenije"
+naslov: "STAVKOVNI\_\_SPORAZUM med Vlado Republike Slovenije in Sindikatom vzgoje,
+  izobra\u017Eevanja, znanosti in kulture Slovenije"
 npbNum: 0
 path: /2018/38/2018-01-3863
 sopPredpisa: 2018-01-3863

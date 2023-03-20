@@ -1,16 +1,10 @@
 Text file: SKLE3607.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1047510000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-03-12 23:00:00
 idPredpisa: SKLE3607
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote Zahodno Gori\u010Dko (2001\u20132010)"
+naslov: "SKLEP o javni razgrnitvi gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote Zahodno Gori\u010Dko (2001\u20132010)"
 npbNum: 0
 path: /2003/10/2003-01-1004
 sopPredpisa: 2003-01-1004

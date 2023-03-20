@@ -1,16 +1,10 @@
 Text file: SKLE1979.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 983487600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-03-01 23:00:00
 idPredpisa: SKLE1979
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010D\
-  rta \_gozdnogospodarske enote Radovljica \u2013 levi breg"
+naslov: "SKLEP  o javni razgrnitvi splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Radovljica \u2013 levi breg"
 npbNum: 0
 path: /2001/09/2001-01-0912
 sopPredpisa: 2001-01-0912

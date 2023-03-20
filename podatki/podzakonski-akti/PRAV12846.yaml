@@ -1,17 +1,8 @@
 Text file: PRAV12846.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468274400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1460757600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2016-07-11 22:00:00
+datumZacetkaVelj: 2016-04-15 22:00:00
 idPredpisa: PRAV12846
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o dolo\u010Ditvi obrazca potrdila o pridobitvi dodatne kvalifikacije"
 npbNum: 0
 path: /2016/11/2016-01-1106

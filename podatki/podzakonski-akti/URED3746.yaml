@@ -1,16 +1,9 @@
 Text file: URED3746.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1156456800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-08-24 22:00:00
 idPredpisa: URED3746
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za avtocesto na odseku Ponikve\u2013\
-  Hrastje"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za avtocesto na odseku Ponikve\u2013Hrastje"
 npbNum: 0
 path: /2006/37/2006-01-3706
 sopPredpisa: 2006-01-3706

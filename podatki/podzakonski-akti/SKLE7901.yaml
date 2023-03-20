@@ -1,16 +1,10 @@
 Text file: SKLE7901.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1236380400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-03-06 23:00:00
 idPredpisa: SKLE7901
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi koli\u010Dine elektri\u010Dne energije, proizvedene\
-  \ s sose\u017Eigom biomase, ter o vi\u0161ini premije v letu 2009"
+naslov: "SKLEP o dolo\u010Ditvi koli\u010Dine elektri\u010Dne energije, proizvedene
+  s sose\u017Eigom biomase, ter o vi\u0161ini premije v letu 2009"
 npbNum: 0
 path: /2009/06/2009-01-0647
 sopPredpisa: 2009-01-0647

@@ -1,16 +1,10 @@
 Text file: PRAV10607.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1537999200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-09-26 22:00:00
 idPredpisa: PRAV10607
 idPredpisaChng: PRAV10607
-instock: .nan
-naslov: "PRAVILNIK o ekstrakcijskih topilih (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "PRAVILNIK o ekstrakcijskih topilih (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2018/29/2018-01-2954-2011-01-0970-npb1
 sopPredpisa: 2018-01-2954

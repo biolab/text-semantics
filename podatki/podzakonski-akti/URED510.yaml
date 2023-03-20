@@ -1,17 +1,11 @@
 Text file: URED510.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 982364400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-02-16 23:00:00
 idPredpisa: URED510
 idPredpisaChng: URED510
-instock: .nan
-naslov: "UREDBA o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe oskrbe z zemeljskim\
-  \ plinom iz transportnega omre\u017Eja (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o na\u010Dinu izvajanja gospodarske javne slu\u017Ebe oskrbe z zemeljskim
+  plinom iz transportnega omre\u017Eja (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2001/04/2001-01-0473-1996-01-4103-npb1
 sopPredpisa: 2001-01-0473

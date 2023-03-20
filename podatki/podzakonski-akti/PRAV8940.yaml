@@ -1,16 +1,10 @@
 Text file: PRAV8940.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217023200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-25 22:00:00
 idPredpisa: PRAV8940
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih in postopku za uvoz in izvoz ter vnos in iznos \u010D\
-  love\u0161kih tkiv in celic"
+naslov: "PRAVILNIK o pogojih in postopku za uvoz in izvoz ter vnos in iznos \u010Dlove\u0161kih
+  tkiv in celic"
 npbNum: 0
 path: /2008/30/2008-01-3037
 sopPredpisa: 2008-01-3037

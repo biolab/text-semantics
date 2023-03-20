@@ -1,17 +1,11 @@
 Text file: URED8317.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1630706400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-03 22:00:00
 idPredpisa: URED8317
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prepovedi dajanja nekaterih plasti\u010Dnih proizvodov za enkratno\
-  \ uporabo na trg v Republiki Sloveniji in o ozna\u010Devanju nekaterih plasti\u010D\
-  nih proizvodov"
+naslov: "UREDBO o prepovedi dajanja nekaterih plasti\u010Dnih proizvodov za enkratno
+  uporabo na trg v Republiki Sloveniji in o ozna\u010Devanju nekaterih plasti\u010Dnih
+  proizvodov"
 npbNum: 0
 path: /2021/27/2021-01-2724
 sopPredpisa: 2021-01-2724

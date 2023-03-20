@@ -1,16 +1,10 @@
 Text file: PRAV14515.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1640732400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-28 23:00:00
 idPredpisa: PRAV14515
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pripravi konsolidirane premo\u017Eenjske bilance dr\u017Eave\
-  \ in ob\u010Din"
+naslov: "PRAVILNIK o pripravi konsolidirane premo\u017Eenjske bilance dr\u017Eave
+  in ob\u010Din"
 npbNum: 0
 path: /2021/41/2021-01-4158
 sopPredpisa: 2021-01-4158

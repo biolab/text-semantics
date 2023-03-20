@@ -1,14 +1,8 @@
 Text file: ODLO1568.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1211493600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-05-22 22:00:00
 idPredpisa: ODLO1568
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o razglasitvi Republike Hrva\u0161ke za varno tretjo dr\u017Eavo"
 npbNum: 0
 path: /2008/21/2008-01-2128

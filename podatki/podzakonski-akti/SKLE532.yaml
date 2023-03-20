@@ -1,14 +1,8 @@
 Text file: SKLE532.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 837813600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-07-19 22:00:00
 idPredpisa: SKLE532
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP  o drugi izdaji obveznic Slovenskega \_od\u0161kodninskega sklada"
 npbNum: 0
 path: /1996/25/1996-01-2508

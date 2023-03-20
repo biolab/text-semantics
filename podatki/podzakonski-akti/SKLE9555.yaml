@@ -1,16 +1,10 @@
 Text file: SKLE9555.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1359154800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-01-25 23:00:00
 idPredpisa: SKLE9555
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dajanju zbirateljskih kovancev ob 300.\_obletnici velikega tolminskega\
-  \ punta v prodajo in obtok"
+naslov: "SKLEP o dajanju zbirateljskih kovancev ob 300.\_obletnici velikega tolminskega
+  punta v prodajo in obtok"
 npbNum: 0
 path: /2013/02/2013-01-0206
 sopPredpisa: 2013-01-0206

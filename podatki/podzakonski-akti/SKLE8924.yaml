@@ -1,16 +1,10 @@
 Text file: SKLE8924.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1306533600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-05-27 22:00:00
 idPredpisa: SKLE8924
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o veljavnosti \u010Detrtega, petega in \u0161estega dodatka k sedmi\
-  \ izdaji Evropske farmakopeje"
+naslov: "SKLEP o veljavnosti \u010Detrtega, petega in \u0161estega dodatka k sedmi
+  izdaji Evropske farmakopeje"
 npbNum: 0
 path: /2011/19/2011-01-1923
 sopPredpisa: 2011-01-1923

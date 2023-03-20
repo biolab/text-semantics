@@ -1,16 +1,10 @@
 Text file: URED4606.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1272405600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-04-27 22:00:00
 idPredpisa: URED4606
 idPredpisaChng: URED4606
-instock: .nan
-naslov: "UREDBA o emisiji snovi pri odvajanju odpadne vode iz malih komunalnih \u010D\
-  istilnih naprav (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o emisiji snovi pri odvajanju odpadne vode iz malih komunalnih \u010Distilnih
+  naprav (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/13/2010-01-1392-2007-01-4857-npb1
 sopPredpisa: 2010-01-1392

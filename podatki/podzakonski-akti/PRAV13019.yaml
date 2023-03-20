@@ -1,17 +1,8 @@
 Text file: PRAV13019.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1555711200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-12-31 23:00:00
+datumZacetkaVelj: 2019-04-19 22:00:00
 idPredpisa: PRAV13019
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o enotni embala\u017Ei toba\u010Dnih izdelkov"
 npbNum: 0
 path: /2019/09/2019-01-0924

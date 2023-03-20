@@ -1,16 +1,10 @@
 Text file: SKLE9540.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1511564400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-11-24 23:00:00
 idPredpisa: SKLE9540
 idPredpisaChng: SKLE9540
-instock: .nan
-naslov: "SKLEP o ustanovitvi Agencije za komunikacijska omre\u017Eja in storitve Republike\
-  \ Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o ustanovitvi Agencije za komunikacijska omre\u017Eja in storitve Republike
+  Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2017/30/2017-01-3096-2013-01-1608-npb1
 sopPredpisa: 2017-01-3096

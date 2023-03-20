@@ -1,14 +1,8 @@
 Text file: PRAV11409.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387580400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-20 23:00:00
 idPredpisa: PRAV11409
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o zahtevah za vgradnjo kurilnih naprav
 npbNum: 0
 path: /2013/36/2013-01-3610

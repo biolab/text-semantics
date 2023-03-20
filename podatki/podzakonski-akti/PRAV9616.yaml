@@ -1,16 +1,10 @@
 Text file: PRAV9616.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1239400800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-04-10 22:00:00
 idPredpisa: PRAV9616
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o trajanju pripravni\u0161tva, na\u010Dinu, poteku in programu\
-  \ usposabljanja pripravnikov"
+naslov: "PRAVILNIK o trajanju pripravni\u0161tva, na\u010Dinu, poteku in programu
+  usposabljanja pripravnikov"
 npbNum: 0
 path: /2009/12/2009-01-1263
 sopPredpisa: 2009-01-1263

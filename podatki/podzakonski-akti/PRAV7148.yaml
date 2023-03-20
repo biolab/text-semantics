@@ -1,17 +1,8 @@
 Text file: PRAV7148.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1136070000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132614000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2005-12-31 23:00:00
+datumZacetkaVelj: 2005-11-21 23:00:00
 idPredpisa: PRAV7148
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o veterinarskih pogojih ob uvozu in tranzitu parkljarjev
 npbNum: 0
 path: /2005/45/2005-01-4547

@@ -1,16 +1,10 @@
 Text file: PRAV13083.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1497045600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-06-09 22:00:00
 idPredpisa: PRAV13083
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih za oprostitev opravljanja izpita iz prve pomo\u010Di\
-  \ za kandidate za voznike"
+naslov: "PRAVILNIK o pogojih za oprostitev opravljanja izpita iz prve pomo\u010Di
+  za kandidate za voznike"
 npbNum: 0
 path: /2017/13/2017-01-1379
 sopPredpisa: 2017-01-1379

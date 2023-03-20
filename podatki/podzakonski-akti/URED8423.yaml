@@ -1,17 +1,11 @@
 Text file: URED8423.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1639177200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-12-10 23:00:00
 idPredpisa: URED8423
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pravilih za pripravo napovedi polo\u017Eaja proizvodnih naprav na\
-  \ obnovljive vire energije in s soproizvodnjo toplote in elektri\u010Dne energije\
-  \ z visokim izkoristkom na trgu z elektri\u010Dno energijo"
+naslov: "UREDBO o pravilih za pripravo napovedi polo\u017Eaja proizvodnih naprav na
+  obnovljive vire energije in s soproizvodnjo toplote in elektri\u010Dne energije
+  z visokim izkoristkom na trgu z elektri\u010Dno energijo"
 npbNum: 0
 path: /2021/38/2021-01-3883
 sopPredpisa: 2021-01-3883

@@ -1,17 +1,11 @@
 Text file: ODLO2484.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1625176800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-01 22:00:00
 idPredpisa: ODLO2484
 idPredpisaChng: ODLO2484
-instock: .nan
-naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja ponujanja in prodajanja blaga\
-  \ in storitev neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki\
-  \ Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "ODLOK o omejitvah in na\u010Dinu izvajanja ponujanja in prodajanja blaga
+  in storitev neposredno potro\u0161nikom na podro\u010Dju voznikov in vozil v Republiki
+  Sloveniji (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2021/22/2021-01-2229-2021-01-1675-npb6
 sopPredpisa: 2021-01-2229

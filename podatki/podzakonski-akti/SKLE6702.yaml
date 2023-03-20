@@ -1,17 +1,11 @@
 Text file: SKLE6702.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1164322800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-23 23:00:00
 idPredpisa: SKLE6702
 idPredpisaChng: null
-instock: .nan
-naslov: "o objavi vi\u0161ine usklajene izhodi\u0161\u010Dne pla\u010De za negospodarske\
-  \ dejavnosti za I. tarifni razred in o objavi usklajene pla\u010Dne lestvice iz\
-  \ priloge 1 ZSPJS, ki se uporabljata od 1.\_januarja 2007 dalje"
+naslov: "o objavi vi\u0161ine usklajene izhodi\u0161\u010Dne pla\u010De za negospodarske
+  dejavnosti za I. tarifni razred in o objavi usklajene pla\u010Dne lestvice iz priloge
+  1 ZSPJS, ki se uporabljata od 1.\_januarja 2007 dalje"
 npbNum: 0
 path: /2006/51/2006-01-5186
 sopPredpisa: 2006-01-5186

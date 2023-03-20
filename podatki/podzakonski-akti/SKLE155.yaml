@@ -1,24 +1,17 @@
 Text file: SKLE155.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 848617200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-21 23:00:00
 idPredpisa: SKLE155
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za Primorski\
-  \ krak avtoceste na odseku hitre ceste Razdrto\u2013Vipava,  b) Predlog sprememb\
-  \ in dopolnitev prostorskih sestavin  \u2013 dolgoro\u010Dnega plana Ob\u010Dine\
-  \ Ajdov\u0161\u010Dina za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017E\
-  benega plana Ob\u010Dine Ajdov\u0161\u010Dina za obdobje 1986\u20131990 za obmo\u010D\
-  je Ob\u010Dine VIPAVA v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta,\
-  \ in  \u2013 dolgoro\u010Dnega plana Ob\u010Dine Se\u017Eana za obdobje 1986\u2013\
-  2000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine Se\u017Eana za obdobje\
-  \ 1986\u20131990 za obmo\u010Dje Ob\u010Dine DIVA\u010CA v delu, ki ga opredeljuje\
-  \ osnutek lokacijskega na\u010Drta."
+naslov: "SKLEP o javni razgrnitvi a) Osnutka lokacijskega na\u010Drta za Primorski
+  krak avtoceste na odseku hitre ceste Razdrto\u2013Vipava,  b) Predlog sprememb in
+  dopolnitev prostorskih sestavin  \u2013 dolgoro\u010Dnega plana Ob\u010Dine Ajdov\u0161\u010Dina
+  za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega plana Ob\u010Dine
+  Ajdov\u0161\u010Dina za obdobje 1986\u20131990 za obmo\u010Dje Ob\u010Dine VIPAVA
+  v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta, in  \u2013 dolgoro\u010Dnega
+  plana Ob\u010Dine Se\u017Eana za obdobje 1986\u20132000 in srednjero\u010Dnega dru\u017Ebenega
+  plana Ob\u010Dine Se\u017Eana za obdobje 1986\u20131990 za obmo\u010Dje Ob\u010Dine
+  DIVA\u010CA v delu, ki ga opredeljuje osnutek lokacijskega na\u010Drta."
 npbNum: 0
 path: /1996/37/1996-01-3716
 sopPredpisa: 1996-01-3716

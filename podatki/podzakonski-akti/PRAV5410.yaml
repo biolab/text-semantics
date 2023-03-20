@@ -1,16 +1,10 @@
 Text file: PRAV5410.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1228086000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-30 23:00:00
 idPredpisa: PRAV5410
 idPredpisaChng: PRAV5410
-instock: .nan
-naslov: "PRAVILNIK o uveljavljanju pravice do oprostitve uvoznih dajatev (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o uveljavljanju pravice do oprostitve uvoznih dajatev (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2008/49/2008-01-4904-2004-01-1439-npb2
 sopPredpisa: 2008-01-4904

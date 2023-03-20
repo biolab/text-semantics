@@ -1,16 +1,9 @@
 Text file: PRAV5122.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1071874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-19 23:00:00
 idPredpisa: PRAV5122
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o usposabljanju za varno delo s traktorjem in traktorskimi priklju\u010D\
-  ki"
+naslov: "PRAVILNIK o usposabljanju za varno delo s traktorjem in traktorskimi priklju\u010Dki"
 npbNum: 0
 path: /2003/52/2003-01-5202
 sopPredpisa: 2003-01-5202

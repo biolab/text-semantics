@@ -1,16 +1,10 @@
 Text file: PRAV14394.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1628287200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-08-06 22:00:00
 idPredpisa: PRAV14394
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o najve\u010Djem dopustnem obsegu nerealiziranega programa, ki\
-  \ se lahko za\u010Dasno prenese"
+naslov: "PRAVILNIK o najve\u010Djem dopustnem obsegu nerealiziranega programa, ki
+  se lahko za\u010Dasno prenese"
 npbNum: 0
 path: /2021/26/2021-01-2674
 sopPredpisa: 2021-01-2674

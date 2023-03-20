@@ -1,16 +1,10 @@
 Text file: URED7120.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1454367600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-02-01 23:00:00
 idPredpisa: URED7120
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju 6.\_\u010Dlena Uredbe (ES) \u0161t.\_1071/2009 o skupnih\
-  \ pravilih glede pogojev za opravljanje dejavnosti cestnega prevoznika"
+naslov: "UREDBO o izvajanju 6.\_\u010Dlena Uredbe (ES) \u0161t.\_1071/2009 o skupnih
+  pravilih glede pogojev za opravljanje dejavnosti cestnega prevoznika"
 npbNum: 0
 path: /2016/01/2016-01-0137
 sopPredpisa: 2016-01-0137

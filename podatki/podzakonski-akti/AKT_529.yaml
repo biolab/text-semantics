@@ -1,16 +1,10 @@
 Text file: AKT_529.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1217282400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-07-28 22:00:00
 idPredpisa: AKT_529
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o uvrstitvi delovnih mest javnih uslu\u017Ebencev Dr\u017Eavne revizijske\
-  \ komisije za revizijo postopkov oddaje javnih naro\u010Dil v pla\u010Dne razrede"
+naslov: "AKT o uvrstitvi delovnih mest javnih uslu\u017Ebencev Dr\u017Eavne revizijske
+  komisije za revizijo postopkov oddaje javnih naro\u010Dil v pla\u010Dne razrede"
 npbNum: 0
 path: /2008/34/2008-01-3468
 sopPredpisa: 2008-01-3468

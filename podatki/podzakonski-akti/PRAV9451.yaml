@@ -1,16 +1,10 @@
 Text file: PRAV9451.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1250028000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-08-11 22:00:00
 idPredpisa: PRAV9451
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu sodelovanja med zdravstvenim osebjem in re\u0161\
-  evalno slu\u017Ebo ter policijo"
+naslov: "PRAVILNIK o na\u010Dinu sodelovanja med zdravstvenim osebjem in re\u0161evalno
+  slu\u017Ebo ter policijo"
 npbNum: 0
 path: /2009/21/2009-01-2161
 sopPredpisa: 2009-01-2161

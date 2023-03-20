@@ -1,16 +1,10 @@
 Text file: ODLO601.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 713916000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-08-15 22:00:00
 idPredpisa: ODLO601
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o najni\u017Ejih zavarovalnih vsotah, na katere mora biti sklenjeno\
-  \ zavarovanje na potnika v javnem prevozu proti posledicam nezgode"
+naslov: "ODLOK o najni\u017Ejih zavarovalnih vsotah, na katere mora biti sklenjeno
+  zavarovanje na potnika v javnem prevozu proti posledicam nezgode"
 npbNum: 0
 path: /1992/19/1992-01-1905
 sopPredpisa: 1992-01-1905

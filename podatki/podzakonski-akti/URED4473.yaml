@@ -1,14 +1,8 @@
 Text file: URED4473.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1178056800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-01 22:00:00
 idPredpisa: URED4473
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o emisiji snovi v zrak iz naprav za proizvodnjo lesnih kompozitov
 npbNum: 0
 path: /2007/18/2007-01-1837

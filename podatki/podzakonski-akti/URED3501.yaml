@@ -1,16 +1,10 @@
 Text file: URED3501.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1097791200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-10-14 22:00:00
 idPredpisa: URED3501
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za avtocesto na odseku Vrba\
-  \ \u2013 \u010Crnivec (Pera\u010Dica)"
+naslov: "UREDBO o dr\u017Eavnem lokacijskem na\u010Drtu za avtocesto na odseku Vrba
+  \u2013 \u010Crnivec (Pera\u010Dica)"
 npbNum: 0
 path: /2004/44/2004-01-4468
 sopPredpisa: 2004-01-4468

@@ -1,14 +1,8 @@
 Text file: POSL117.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1463176800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-05-13 22:00:00
 idPredpisa: POSL117
 idPredpisaChng: null
-instock: .nan
 naslov: "POSLOVNIK Dr\u017Eavnoto\u017Eilskega sveta (Poslovnik)"
 npbNum: 0
 path: /2016/14/2016-01-1487

@@ -1,16 +1,10 @@
 Text file: URED959.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 847148400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-04 23:00:00
 idPredpisa: URED959
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izdaji obveznic in o izvr\u0161evanju odlo\u010Db, ki se glasijo\
-  \ \_na od\u0161kodnino, za katero je zavezanec Slovenski od\u0161kodninski sklad"
+naslov: "UREDBO o izdaji obveznic in o izvr\u0161evanju odlo\u010Db, ki se glasijo
+  \_na od\u0161kodnino, za katero je zavezanec Slovenski od\u0161kodninski sklad"
 npbNum: 0
 path: /1996/35/1996-01-3504
 sopPredpisa: 1996-01-3504

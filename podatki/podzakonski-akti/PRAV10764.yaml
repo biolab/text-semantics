@@ -1,16 +1,10 @@
 Text file: PRAV10764.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1307138400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-03 22:00:00
 idPredpisa: PRAV10764
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu in pogojih dostopa do podatkov iz centralne evidence\
-  \ udele\u017Eencev vzgoje in izobra\u017Eevanja"
+naslov: "PRAVILNIK o na\u010Dinu in pogojih dostopa do podatkov iz centralne evidence
+  udele\u017Eencev vzgoje in izobra\u017Eevanja"
 npbNum: 0
 path: /2011/20/2011-01-2099
 sopPredpisa: 2011-01-2099

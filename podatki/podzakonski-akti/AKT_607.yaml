@@ -1,16 +1,10 @@
 Text file: AKT_607.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1263596400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-15 23:00:00
 idPredpisa: AKT_607
 idPredpisaChng: null
-instock: .nan
-naslov: "SPLO\u0160NE POGOJE za dobavo in odjem toplote iz distribucijskega omre\u017E\
-  ja toplotne energije v Ob\u010Dini Hrastnik"
+naslov: "SPLO\u0160NE POGOJE za dobavo in odjem toplote iz distribucijskega omre\u017Eja
+  toplotne energije v Ob\u010Dini Hrastnik"
 npbNum: 0
 path: /2010/01/2010-01-0126
 sopPredpisa: 2010-01-0126

@@ -1,14 +1,8 @@
 Text file: PRAV6940.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1115330400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-05-05 22:00:00
 idPredpisa: PRAV6940
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o re\u0161evanju prito\u017Eb v carinski slu\u017Ebi"
 npbNum: 0
 path: /2005/14/2005-01-1436

@@ -1,16 +1,10 @@
 Text file: URED6959.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1460152800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-04-08 22:00:00
 idPredpisa: URED6959
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu in merilih za dolo\u010Ditev vi\u0161ine stro\u0161\
-  kov postopka izdaje upravnih aktov pri ravnanju z gensko spremenjenimi organizmi"
+naslov: "UREDBO o na\u010Dinu in merilih za dolo\u010Ditev vi\u0161ine stro\u0161kov
+  postopka izdaje upravnih aktov pri ravnanju z gensko spremenjenimi organizmi"
 npbNum: 0
 path: /2016/08/2016-01-0888
 sopPredpisa: 2016-01-0888

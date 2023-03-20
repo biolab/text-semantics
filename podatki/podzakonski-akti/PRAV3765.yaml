@@ -1,17 +1,11 @@
 Text file: PRAV3765.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1274133600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-17 22:00:00
 idPredpisa: PRAV3765
 idPredpisaChng: PRAV3765
-instock: .nan
-naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo\
-  \ rodovni\u0161ko knjigo za \u010Distopasemsko plemensko govedo (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih za priznanje rejskih organizacij, ki vodijo ali ustanavljajo
+  rodovni\u0161ko knjigo za \u010Distopasemsko plemensko govedo (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/19/2010-01-1939-2003-01-4269-npb1
 sopPredpisa: 2010-01-1939

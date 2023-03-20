@@ -1,16 +1,10 @@
 Text file: URED3958.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1150236000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-06-13 22:00:00
 idPredpisa: URED3958
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o pla\u010Dilih za kmetijska gospodarstva zaradi neugodnih naravnih\
-  \ razmer za leto 2006"
+naslov: "UREDBO o pla\u010Dilih za kmetijska gospodarstva zaradi neugodnih naravnih
+  razmer za leto 2006"
 npbNum: 0
 path: /2006/26/2006-01-2624
 sopPredpisa: 2006-01-2624

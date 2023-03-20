@@ -1,14 +1,8 @@
 Text file: ODLO467.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 736812000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-05-07 22:00:00
 idPredpisa: ODLO467
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK o organizaciji in delovanju slu\u017Eb predsednika republike"
 npbNum: 0
 path: /1993/09/1993-01-0908

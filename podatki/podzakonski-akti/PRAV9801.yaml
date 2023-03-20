@@ -1,19 +1,10 @@
 Text file: PRAV9801.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325286000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2011-12-31 23:00:00
+datumZacetkaVelj: 2011-12-30 23:00:00
 idPredpisa: PRAV9801
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi obmo\u010Dij, ki so primerna za ekolo\u0161ko\
-  \ \u010Debelarjenje"
+naslov: "PRAVILNIK o dolo\u010Ditvi obmo\u010Dij, ki so primerna za ekolo\u0161ko
+  \u010Debelarjenje"
 npbNum: 0
 path: /2011/44/2011-01-4420
 sopPredpisa: 2011-01-4420

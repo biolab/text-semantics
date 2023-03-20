@@ -1,14 +1,8 @@
 Text file: PRAV8402.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1234220400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-09 23:00:00
 idPredpisa: PRAV8402
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o uvedbi ukrepov v zvezi z aviarno
   influenco
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: URED4210.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1317420000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-09-30 22:00:00
 idPredpisa: URED4210
 idPredpisaChng: URED4210
-instock: .nan
-naslov: "UREDBA o pospe\u0161evanju uporabe biogoriv in drugih obnovljivih goriv za\
-  \ pogon motornih vozil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o pospe\u0161evanju uporabe biogoriv in drugih obnovljivih goriv za
+  pogon motornih vozil (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2011/31/2011-01-3198-2007-01-5135-npb2
 sopPredpisa: 2011-01-3198

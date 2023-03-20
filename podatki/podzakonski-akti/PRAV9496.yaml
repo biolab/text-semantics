@@ -1,17 +1,11 @@
 Text file: PRAV9496.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1249423200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-08-04 22:00:00
 idPredpisa: PRAV9496
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o evidenci o kr\u0161itvah dav\u010Dnih in drugih predpisov, za\
-  \ izvajanje katerih je pristojna dav\u010Dna slu\u017Eba, in o ravnanju s podatki,\
-  \ ki so izlo\u010Deni iz evidence"
+naslov: "PRAVILNIK o evidenci o kr\u0161itvah dav\u010Dnih in drugih predpisov, za
+  izvajanje katerih je pristojna dav\u010Dna slu\u017Eba, in o ravnanju s podatki,
+  ki so izlo\u010Deni iz evidence"
 npbNum: 0
 path: /2009/29/2009-01-2960
 sopPredpisa: 2009-01-2960

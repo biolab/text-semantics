@@ -1,14 +1,8 @@
 Text file: STAT146.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1242684000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-05-18 22:00:00
 idPredpisa: STAT146
 idPredpisaChng: null
-instock: .nan
 naslov: "STATUT Zveze bibliotekarskih dru\u0161tev Slovenije"
 npbNum: 0
 path: /2009/17/2009-01-1784

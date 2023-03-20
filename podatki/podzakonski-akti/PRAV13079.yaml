@@ -1,19 +1,12 @@
 Text file: PRAV13079.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1556661600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-30 22:00:00
 idPredpisa: PRAV13079
 idPredpisaChng: PRAV13079
-instock: .nan
-naslov: "PRAVILNIK o izvedbi postopka izbire projektov in programov, pogojih in merilih\
-  \ za izbor projektov in programov ter postopku sklepanja pogodb, vsebine pogodb\
-  \ in na\u010Dinu nadzora nad izvajanjem pogodb Slovenskega filmskega centra, javne\
-  \ agencije Republike Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "PRAVILNIK o izvedbi postopka izbire projektov in programov, pogojih in merilih
+  za izbor projektov in programov ter postopku sklepanja pogodb, vsebine pogodb in
+  na\u010Dinu nadzora nad izvajanjem pogodb Slovenskega filmskega centra, javne agencije
+  Republike Slovenije (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2019/13/2019-01-1312-2017-01-2184-npb1
 sopPredpisa: 2019-01-1312

@@ -1,20 +1,11 @@
 Text file: SKLE11009.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1488322800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1485558000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-02-28 23:00:00
+datumZacetkaVelj: 2017-01-27 23:00:00
 idPredpisa: SKLE11009
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o korekcijah modificiranega trajanja dol\u017Eni\u0161\
-  kih instrumentov v skladu z drugim pododstavkom \u010Dlena 340(3) Uredbe (EU) \u0161\
-  t. 575/2013"
+naslov: "SKLEP o uporabi Smernic o korekcijah modificiranega trajanja dol\u017Eni\u0161kih
+  instrumentov v skladu z drugim pododstavkom \u010Dlena 340(3) Uredbe (EU) \u0161t.
+  575/2013"
 npbNum: 0
 path: /2017/01/2017-01-0188
 sopPredpisa: 2017-01-0188

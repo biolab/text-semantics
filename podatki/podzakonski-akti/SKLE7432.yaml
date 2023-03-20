@@ -1,16 +1,10 @@
 Text file: SKLE7432.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1204671600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-03-04 23:00:00
 idPredpisa: SKLE7432
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi cene za osnove vodnih povra\u010Dil za rabo vode,\
-  \ naplavin in vodnih zemlji\u0161\u010D za leto 2008"
+naslov: "SKLEP o dolo\u010Ditvi cene za osnove vodnih povra\u010Dil za rabo vode,
+  naplavin in vodnih zemlji\u0161\u010D za leto 2008"
 npbNum: 0
 path: /2008/07/2008-01-0779
 sopPredpisa: 2008-01-0779

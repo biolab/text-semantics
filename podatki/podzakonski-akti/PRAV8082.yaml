@@ -1,16 +1,10 @@
 Text file: PRAV8082.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1182895200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-06-26 22:00:00
 idPredpisa: PRAV8082
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja evidenc projektov javno-zasebnega\
-  \ partnerstva in sklenjenih pogodb v okviru javno-zasebnega partnerstva"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja evidenc projektov javno-zasebnega
+  partnerstva in sklenjenih pogodb v okviru javno-zasebnega partnerstva"
 npbNum: 0
 path: /2007/29/2007-01-2991
 sopPredpisa: 2007-01-2991

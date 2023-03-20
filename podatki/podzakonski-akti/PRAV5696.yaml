@@ -1,17 +1,11 @@
 Text file: PRAV5696.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1275084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-05-28 22:00:00
 idPredpisa: PRAV5696
 idPredpisaChng: PRAV5696
-instock: .nan
-naslov: "PRAVILNIK o veterinarskih pogojih za premike kopitarjev med dr\u017Eavami\
-  \ \u010Dlanicami EU in o uvozu kopitarjev iz tretjih dr\u017Eav (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 4)"
+naslov: "PRAVILNIK o veterinarskih pogojih za premike kopitarjev med dr\u017Eavami
+  \u010Dlanicami EU in o uvozu kopitarjev iz tretjih dr\u017Eav (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 4)"
 npbNum: 4
 path: /2010/21/2010-01-2117-2004-01-0892-npb4
 sopPredpisa: 2010-01-2117

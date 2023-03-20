@@ -1,12 +1,10 @@
 Text file: SKLE11056.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11056
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Jekaterinburgu, v Uralskem\
-  \ zveznem okro\u017Eju, v Ruski federaciji"
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v Jekaterinburgu, v Uralskem
+  zveznem okro\u017Eju, v Ruski federaciji"
 npbNum: 0
 path: /2018/33/2018-01-3322
 sopPredpisa: 2018-01-3322

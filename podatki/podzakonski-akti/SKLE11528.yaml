@@ -1,17 +1,11 @@
 Text file: SKLE11528.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1658527200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-22 22:00:00
 idPredpisa: SKLE11528
 idPredpisaChng: SKLE11528
-instock: .nan
-naslov: "SKLEP o ugotovitvi javne koristi za ustanovitev slu\u017Enosti zaradi opravljanja\
-  \ nalog nadzora dr\u017Eavne meje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 5)"
+naslov: "SKLEP o ugotovitvi javne koristi za ustanovitev slu\u017Enosti zaradi opravljanja
+  nalog nadzora dr\u017Eavne meje (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  5)"
 npbNum: 5
 path: /2022/25/2022-01-2509-2018-01-2528-npb5
 sopPredpisa: 2022-01-2509

@@ -1,16 +1,10 @@
 Text file: SKLE12412.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1619215200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-23 22:00:00
 idPredpisa: SKLE12412
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o poro\u010Danju podatkov s podro\u010Dja prepre\u010Devanja pranja\
-  \ denarja in financiranja terorizma"
+naslov: "SKLEP o poro\u010Danju podatkov s podro\u010Dja prepre\u010Devanja pranja
+  denarja in financiranja terorizma"
 npbNum: 0
 path: /2021/12/2021-01-1298
 sopPredpisa: 2021-01-1298

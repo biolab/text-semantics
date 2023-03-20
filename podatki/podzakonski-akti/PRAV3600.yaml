@@ -1,16 +1,10 @@
 Text file: PRAV3600.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 867708000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-06-30 22:00:00
 idPredpisa: PRAV3600
 idPredpisaChng: PRAV3600
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu izpla\u010Devanja denarnih prejemkov in vodenja evidenc\
-  \ o izpla\u010Dilih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o na\u010Dinu izpla\u010Devanja denarnih prejemkov in vodenja evidenc
+  o izpla\u010Dilih (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /1997/21/1997-01-2190-1996-01-2385-npb1
 sopPredpisa: 1997-01-2190

@@ -1,17 +1,11 @@
 Text file: AKT_951.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1443650400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-09-30 22:00:00
 idPredpisa: AKT_951
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za\_distribucijsko omre\u017E\
-  je zemeljskega plina na\_geografskem obmo\u010Dju Ob\u010Dine Dobrovnik \u2013 o\u017E\
-  je obmo\u010Dje"
+naslov: "AKT o dolo\u010Ditvi tarifnih postavk omre\u017Enine za\_distribucijsko omre\u017Eje
+  zemeljskega plina na\_geografskem obmo\u010Dju Ob\u010Dine Dobrovnik \u2013 o\u017Eje
+  obmo\u010Dje"
 npbNum: 0
 path: /2015/28/2015-01-2839
 sopPredpisa: 2015-01-2839

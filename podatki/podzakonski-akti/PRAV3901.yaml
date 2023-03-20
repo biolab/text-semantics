@@ -1,17 +1,11 @@
 Text file: PRAV3901.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1185314400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-24 22:00:00
 idPredpisa: PRAV3901
 idPredpisaChng: PRAV3901
-instock: .nan
-naslov: "PRAVILNIK o vpisu in izbrisu iz registra pravnih in fizi\u010Dnih oseb za\
-  \ trgovanje s fitofarmacevtskimi sredstvi (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "PRAVILNIK o vpisu in izbrisu iz registra pravnih in fizi\u010Dnih oseb za
+  trgovanje s fitofarmacevtskimi sredstvi (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2007/36/2007-01-3651-2001-01-3063-npb2
 sopPredpisa: 2007-01-3651

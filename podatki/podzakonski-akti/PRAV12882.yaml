@@ -1,14 +1,8 @@
 Text file: PRAV12882.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1525471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-04 22:00:00
 idPredpisa: PRAV12882
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o uporabi virov sevanja in sevalni dejavnosti
 npbNum: 0
 path: /2018/11/2018-01-1151

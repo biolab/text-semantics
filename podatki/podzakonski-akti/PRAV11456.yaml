@@ -1,16 +1,10 @@
 Text file: PRAV11456.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1363993200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-03-22 23:00:00
 idPredpisa: PRAV11456
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o strokovnem usposabljanju in preizkusu znanja za in\u0161talaterje\
-  \ naprav na obnovljive vire energije"
+naslov: "PRAVILNIK o strokovnem usposabljanju in preizkusu znanja za in\u0161talaterje
+  naprav na obnovljive vire energije"
 npbNum: 0
 path: /2013/07/2013-01-0724
 sopPredpisa: 2013-01-0724

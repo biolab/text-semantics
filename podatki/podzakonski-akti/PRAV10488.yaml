@@ -1,16 +1,10 @@
 Text file: PRAV10488.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-31 23:00:00
 idPredpisa: PRAV10488
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o nadzoru tehni\u010Dne brezhibnosti gospodarskih vozil v cestnem\
-  \ prometu"
+naslov: "PRAVILNIK o nadzoru tehni\u010Dne brezhibnosti gospodarskih vozil v cestnem
+  prometu"
 npbNum: 0
 path: /2011/47/2011-01-4791
 sopPredpisa: 2011-01-4791

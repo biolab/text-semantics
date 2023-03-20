@@ -1,19 +1,10 @@
 Text file: TARI39.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041375600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1038524400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2002-12-31 23:00:00
+datumZacetkaVelj: 2002-11-28 23:00:00
 idPredpisa: TARI39
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFNI SISTEM za dobavo zemeljskega plina tarifnim odjemalcem na prenosnem\
-  \ omre\u017Eju"
+naslov: "TARIFNI SISTEM za dobavo zemeljskega plina tarifnim odjemalcem na prenosnem
+  omre\u017Eju"
 npbNum: 0
 path: /2002/48/2002-01-4823
 sopPredpisa: 2002-01-4823

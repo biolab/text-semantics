@@ -1,17 +1,8 @@
 Text file: PRAV13866.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598911200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583881200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2020-08-31 22:00:00
+datumZacetkaVelj: 2020-03-10 23:00:00
 idPredpisa: PRAV13866
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o vpisnem postopku v program osnovne \u0161ole za odrasle"
 npbNum: 0
 path: /2020/03/2020-01-0343

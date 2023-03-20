@@ -1,16 +1,10 @@
 Text file: ODLO2333.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1612479600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-02-04 23:00:00
 idPredpisa: ODLO2333
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o spremembah dolo\u010Denih odlokov, izdanih na podlagi Zakona o nalezljivih\
-  \ boleznih"
+naslov: "ODLOK o spremembah dolo\u010Denih odlokov, izdanih na podlagi Zakona o nalezljivih
+  boleznih"
 npbNum: 0
 path: /2021/03/2021-01-0322
 sopPredpisa: 2021-01-0322

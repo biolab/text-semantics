@@ -1,14 +1,8 @@
 Text file: POSL74.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1193176800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-23 22:00:00
 idPredpisa: POSL74
 idPredpisaChng: null
-instock: .nan
 naslov: POSLOVNIK Sveta romske skupnosti Republike Slovenije
 npbNum: 0
 path: /2007/47/2007-01-4715

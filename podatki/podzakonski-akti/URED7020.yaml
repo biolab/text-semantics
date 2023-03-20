@@ -1,16 +1,10 @@
 Text file: URED7020.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1432936800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-05-29 22:00:00
 idPredpisa: URED7020
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih glede na razmere v Ju\u017Enem Sudanu in izvajanju\
-  \ uredb (EU) v zvezi s temi omejevalnimi ukrepi"
+naslov: "UREDBO o omejevalnih ukrepih glede na razmere v Ju\u017Enem Sudanu in izvajanju
+  uredb (EU) v zvezi s temi omejevalnimi ukrepi"
 npbNum: 0
 path: /2015/15/2015-01-1515
 sopPredpisa: 2015-01-1515

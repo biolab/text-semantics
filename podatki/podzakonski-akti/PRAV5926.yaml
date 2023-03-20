@@ -1,16 +1,10 @@
 Text file: PRAV5926.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1201042800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-01-22 23:00:00
 idPredpisa: PRAV5926
 idPredpisaChng: PRAV5926
-instock: .nan
-naslov: "PRAVILNIK o evropski kartici zdravstvenega zavarovanja (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o evropski kartici zdravstvenega zavarovanja (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2008/02/2008-01-0226-2004-01-2665-npb1
 sopPredpisa: 2008-01-0226

@@ -1,17 +1,11 @@
 Text file: ODLO2065.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1587592800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-04-22 22:00:00
 idPredpisa: ODLO2065
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o omejitvi izdaje zdravil za uporabo v humani medicini pri izvajalcih\
-  \ lekarni\u0161ke dejavnosti ter pove\u010Danju izdelave dezinfekcijskih sredstev\
-  \ za povr\u0161ine in roke"
+naslov: "ODLOK o omejitvi izdaje zdravil za uporabo v humani medicini pri izvajalcih
+  lekarni\u0161ke dejavnosti ter pove\u010Danju izdelave dezinfekcijskih sredstev
+  za povr\u0161ine in roke"
 npbNum: 0
 path: /2020/08/2020-01-0833
 sopPredpisa: 2020-01-0833

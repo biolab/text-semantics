@@ -1,16 +1,10 @@
 Text file: PRAV9766.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1249077600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-07-31 22:00:00
 idPredpisa: PRAV9766
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o predlo\u017Eitvi zaklju\u010Dnih ra\u010Dunov ob\u010Dinskih\
-  \ prora\u010Dunov"
+naslov: "PRAVILNIK o predlo\u017Eitvi zaklju\u010Dnih ra\u010Dunov ob\u010Dinskih
+  prora\u010Dunov"
 npbNum: 0
 path: /2009/29/2009-01-2931
 sopPredpisa: 2009-01-2931

@@ -1,14 +1,8 @@
 Text file: PRAV6954.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1131490800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-08 23:00:00
 idPredpisa: PRAV6954
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o registraciji posebnega na\u010Dina reje"
 npbNum: 0
 path: /2005/41/2005-01-4112

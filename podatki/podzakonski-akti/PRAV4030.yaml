@@ -1,16 +1,10 @@
 Text file: PRAV4030.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1578610800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-01-09 23:00:00
 idPredpisa: PRAV4030
 idPredpisaChng: PRAV4030
-instock: .nan
-naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti kemi\u010D\
-  nim snovem pri delu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
+naslov: "PRAVILNIK o varovanju delavcev pred tveganji zaradi izpostavljenosti kemi\u010Dnim
+  snovem pri delu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 6)"
 npbNum: 6
 path: /2019/35/2019-01-3504-2001-01-4905-npb6
 sopPredpisa: 2019-01-3504

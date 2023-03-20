@@ -1,14 +1,8 @@
 Text file: PRAV9357.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1235862000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-02-28 23:00:00
 idPredpisa: PRAV9357
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o potrdilu o poravnani letni dajatvi za uporabo vozila v cestnem
   prometu
 npbNum: 0

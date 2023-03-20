@@ -1,12 +1,10 @@
 Text file: SKLE10630.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10630
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Zieloni G\xF3\
-  ri, v Republiki Poljski"
+naslov: "SKLEP o imenovanju \u010Dastnega konzula Republike Slovenije v Zieloni G\xF3ri,
+  v Republiki Poljski"
 npbNum: 0
 path: /2016/02/2016-01-0289
 sopPredpisa: 2016-01-0289

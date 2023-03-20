@@ -1,16 +1,10 @@
 Text file: URED2370.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1018994400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-16 22:00:00
 idPredpisa: URED2370
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO  o neposrednih pla\u010Dilih za rejo plemenskih \u017Eivali za leto\
-  \ 2002"
+naslov: "UREDBO  o neposrednih pla\u010Dilih za rejo plemenskih \u017Eivali za leto
+  2002"
 npbNum: 0
 path: /2002/15/2002-01-1576
 sopPredpisa: 2002-01-1576

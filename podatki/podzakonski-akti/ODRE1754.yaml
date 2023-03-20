@@ -1,16 +1,10 @@
 Text file: ODRE1754.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1004742000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-11-02 23:00:00
 idPredpisa: ODRE1754
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta\
-  \ \_gozdnogospodarske enote Bele Vode"
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela \_gozdnogospodarskega na\u010Drta
+  \_gozdnogospodarske enote Bele Vode"
 npbNum: 0
 path: /2001/44/2001-01-4423
 sopPredpisa: 2001-01-4423

@@ -1,16 +1,9 @@
 Text file: SKLE681.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 902527200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-08-07 22:00:00
 idPredpisa: SKLE681
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o ustanovitvi Odbora za priznanja Republike Slovenije za poslovno odli\u010D\
-  nost"
+naslov: "SKLEP o ustanovitvi Odbora za priznanja Republike Slovenije za poslovno odli\u010Dnost"
 npbNum: 0
 path: /1998/25/1998-01-2552
 sopPredpisa: 1998-01-2552

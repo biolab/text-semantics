@@ -1,18 +1,12 @@
 Text file: SKLE251.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 932162400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-07-16 22:00:00
 idPredpisa: SKLE251
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razveljavitvi sklepa o soglasju za odprtje Konzulata Republike Malte\
-  \ v Republiki Sloveniji s sede\u017Eem v Ljubljani na \u010Delu s \u010Dastno konzulko\
-  \ in sklepa o soglasju za imenovanje Irene Knehtl za \u010Dastno konzulko Republike\
-  \ Malte v Republiki Sloveniji s sede\u017Eem v Ljubljani"
+naslov: "SKLEP o razveljavitvi sklepa o soglasju za odprtje Konzulata Republike Malte
+  v Republiki Sloveniji s sede\u017Eem v Ljubljani na \u010Delu s \u010Dastno konzulko
+  in sklepa o soglasju za imenovanje Irene Knehtl za \u010Dastno konzulko Republike
+  Malte v Republiki Sloveniji s sede\u017Eem v Ljubljani"
 npbNum: 0
 path: /1999/26/1999-01-2689
 sopPredpisa: 1999-01-2689

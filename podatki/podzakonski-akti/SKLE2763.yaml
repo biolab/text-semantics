@@ -1,19 +1,10 @@
 Text file: SKLE2763.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009839600000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1009839600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2001-12-31 23:00:00
+datumZacetkaVelj: 2001-12-31 23:00:00
 idPredpisa: SKLE2763
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL \u0161t. 65 \_o dolo\u010Ditvi\
-  \ pristojbin za enoto storitve, \_ki se uporabljajo od 1. januarja 2002,"
+naslov: "SKLEP  raz\u0161irjene komisije EUROCONTROL \u0161t. 65 \_o dolo\u010Ditvi
+  pristojbin za enoto storitve, \_ki se uporabljajo od 1. januarja 2002,"
 npbNum: 0
 path: /2002/06/2002-01-0604
 sopPredpisa: 2002-01-0604

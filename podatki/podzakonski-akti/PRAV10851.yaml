@@ -1,16 +1,10 @@
 Text file: PRAV10851.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1330729200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-03-02 23:00:00
 idPredpisa: PRAV10851
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o \u010Dasu dela in \u010Dasu po\u010Ditka kontrolorjev zra\u010D\
-  nega prometa"
+naslov: "PRAVILNIK o \u010Dasu dela in \u010Dasu po\u010Ditka kontrolorjev zra\u010Dnega
+  prometa"
 npbNum: 0
 path: /2012/04/2012-01-0457
 sopPredpisa: 2012-01-0457

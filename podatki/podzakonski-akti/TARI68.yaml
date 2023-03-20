@@ -1,17 +1,8 @@
 Text file: TARI68.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1115676000000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1117490400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2005-05-09 22:00:00
+datumZacetkaVelj: 2005-05-30 22:00:00
 idPredpisa: TARI68
 idPredpisaChng: null
-instock: .nan
 naslov: TARIFO Zavoda IPF za radiodifuzno oddajanje in radiodifuzno retransmisijo
   fonogramov
 npbNum: 0

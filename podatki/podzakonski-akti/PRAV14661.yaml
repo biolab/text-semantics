@@ -1,17 +1,11 @@
 Text file: PRAV14661.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-20 22:00:00
 idPredpisa: PRAV14661
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o kritju stro\u0161kov za pridobitev srednje poklicne in srednje\
-  \ strokovne izobrazbe za zaposlitev v Slovenski vojski kandidatu, ki je sklenil\
-  \ pogodbo o prostovoljnem slu\u017Eenju voja\u0161kega roka"
+naslov: "PRAVILNIK o kritju stro\u0161kov za pridobitev srednje poklicne in srednje
+  strokovne izobrazbe za zaposlitev v Slovenski vojski kandidatu, ki je sklenil pogodbo
+  o prostovoljnem slu\u017Eenju voja\u0161kega roka"
 npbNum: 0
 path: /2022/13/2022-01-1364
 sopPredpisa: 2022-01-1364

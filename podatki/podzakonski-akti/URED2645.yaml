@@ -1,16 +1,10 @@
 Text file: URED2645.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1041030000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-12-27 23:00:00
 idPredpisa: URED2645
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o lokacijskem na\u010Drtu za gradnjo enostranskega spremljajo\u010D\
-  ega objekta tipa 2 na AC odseku \u0160marje Sap\u2013Vi\u0161nja Gora"
+naslov: "UREDBO o lokacijskem na\u010Drtu za gradnjo enostranskega spremljajo\u010Dega
+  objekta tipa 2 na AC odseku \u0160marje Sap\u2013Vi\u0161nja Gora"
 npbNum: 0
 path: /2002/53/2002-01-5349
 sopPredpisa: 2002-01-5349

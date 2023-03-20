@@ -1,16 +1,9 @@
 Text file: PRAV8211.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1178920800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-05-11 22:00:00
 idPredpisa: PRAV8211
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o Jajcih izpod Kamni\u0161kih planin s priznano geografsko ozna\u010D\
-  bo"
+naslov: "PRAVILNIK o Jajcih izpod Kamni\u0161kih planin s priznano geografsko ozna\u010Dbo"
 npbNum: 0
 path: /2007/21/2007-01-2119
 sopPredpisa: 2007-01-2119

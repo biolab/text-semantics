@@ -1,16 +1,10 @@
 Text file: URED3382.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1086386400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-04 22:00:00
 idPredpisa: URED3382
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo vode v ribogojnicah za vzrejo salmonidnih vrst\
-  \ rib, za katere je bilo pridobljeno pravnomo\u010Dno uporabno dovoljenje"
+naslov: "UREDBO o koncesiji za rabo vode v ribogojnicah za vzrejo salmonidnih vrst
+  rib, za katere je bilo pridobljeno pravnomo\u010Dno uporabno dovoljenje"
 npbNum: 0
 path: /2004/28/2004-01-2806
 sopPredpisa: 2004-01-2806

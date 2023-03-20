@@ -1,14 +1,8 @@
 Text file: STAT52.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 997221600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-07 22:00:00
 idPredpisa: STAT52
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT
 npbNum: 0
 path: /2001/33/2001-01-3345

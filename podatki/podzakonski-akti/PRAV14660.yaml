@@ -1,16 +1,10 @@
 Text file: PRAV14660.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1657317600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-07-08 22:00:00
 idPredpisa: PRAV14660
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobrazbi u\u010Diteljev in drugih strokovnih delavcev v izobra\u017E\
-  evalnih programih gimnazije"
+naslov: "PRAVILNIK o izobrazbi u\u010Diteljev in drugih strokovnih delavcev v izobra\u017Eevalnih
+  programih gimnazije"
 npbNum: 0
 path: /2022/20/2022-01-2036
 sopPredpisa: 2022-01-2036

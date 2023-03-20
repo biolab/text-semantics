@@ -1,18 +1,12 @@
 Text file: SKLE11230.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1526680800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-18 22:00:00
 idPredpisa: SKLE11230
 idPredpisaChng: SKLE11230
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo\
-  \ proizvajalci elektri\u010Dne in elektronske opreme za leto 2017 zagotoviti zbiranje\
-  \ in obdelavo odpadne elektri\u010Dne in elektronske opreme (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o dolo\u010Ditvi dele\u017Eev izpolnjevanja obveznosti, za katere morajo
+  proizvajalci elektri\u010Dne in elektronske opreme za leto 2017 zagotoviti zbiranje
+  in obdelavo odpadne elektri\u010Dne in elektronske opreme (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2018/15/2018-01-1548-2017-01-3363-npb1
 sopPredpisa: 2018-01-1548

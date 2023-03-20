@@ -1,18 +1,12 @@
 Text file: ODRE124.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1277935200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-06-30 22:00:00
 idPredpisa: ODRE124
 idPredpisaChng: ODRE124
-instock: .nan
-naslov: "ODREDBA o ukrepih za prepre\u010Devanje \u0161irjenja in zatiranje krompirjevega\
-  \ raka (Synchytrium endobioticum (Schilb.) Perc.) in krompirjevih ogor\u010Dic (Globodera\
-  \ rostochiensis Woll. in Globodera pallida Stone) (se delno preneha uporabljati)\
-  \ (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODREDBA o ukrepih za prepre\u010Devanje \u0161irjenja in zatiranje krompirjevega
+  raka (Synchytrium endobioticum (Schilb.) Perc.) in krompirjevih ogor\u010Dic (Globodera
+  rostochiensis Woll. in Globodera pallida Stone) (se delno preneha uporabljati) (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/26/2010-01-2638-1998-01-2309-npb1
 sopPredpisa: 2010-01-2638

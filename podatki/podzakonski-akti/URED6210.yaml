@@ -1,16 +1,10 @@
 Text file: URED6210.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1338501600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-05-31 22:00:00
 idPredpisa: URED6210
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o povra\u010Dilu stro\u0161kov prevoza\
-  \ na delo in z dela javnim uslu\u017Ebencem in funkcionarjem v dr\u017Eavnih organih"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o povra\u010Dilu stro\u0161kov prevoza
+  na delo in z dela javnim uslu\u017Ebencem in funkcionarjem v dr\u017Eavnih organih"
 npbNum: 0
 path: /2012/17/2012-01-1726
 sopPredpisa: 2012-01-1726

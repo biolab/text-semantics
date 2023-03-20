@@ -1,16 +1,10 @@
 Text file: ODLO1730.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1387580400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-12-20 23:00:00
 idPredpisa: ODLO1730
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine\
-  \ Kranj"
+naslov: "ODLOK o na\u010Drtu za kakovost zraka na obmo\u010Dju Mestne ob\u010Dine
+  Kranj"
 npbNum: 0
 path: /2013/39/2013-01-3945
 sopPredpisa: 2013-01-3945

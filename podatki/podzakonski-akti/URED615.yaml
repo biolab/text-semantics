@@ -1,16 +1,10 @@
 Text file: URED615.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 927237600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-05-20 22:00:00
 idPredpisa: URED615
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu, predmetu in pogojih opravljanja gospodarske javne slu\u017E\
-  be ravnanja z radioaktivnimi odpadki"
+naslov: "UREDBO o na\u010Dinu, predmetu in pogojih opravljanja gospodarske javne slu\u017Ebe
+  ravnanja z radioaktivnimi odpadki"
 npbNum: 0
 path: /1999/15/1999-01-1546
 sopPredpisa: 1999-01-1546

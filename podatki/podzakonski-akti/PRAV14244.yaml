@@ -1,16 +1,10 @@
 Text file: PRAV14244.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1632520800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-09-24 22:00:00
 idPredpisa: PRAV14244
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ozna\u010Devanju zavarovanih obmo\u010Dij, naravnih vrednot,\
-  \ ekolo\u0161ko pomembnih obmo\u010Dij in obmo\u010Dij Natura 2000"
+naslov: "PRAVILNIK o ozna\u010Devanju zavarovanih obmo\u010Dij, naravnih vrednot,
+  ekolo\u0161ko pomembnih obmo\u010Dij in obmo\u010Dij Natura 2000"
 npbNum: 0
 path: /2021/28/2021-01-2857
 sopPredpisa: 2021-01-2857

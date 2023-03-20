@@ -1,16 +1,10 @@
 Text file: SKLE2005.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1283810400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-09-06 22:00:00
 idPredpisa: SKLE2005
 idPredpisaChng: SKLE2005
-instock: .nan
-naslov: "SKLEP o ustanovitvi Kmetijsko gozdarskega zavoda Novo mesto (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o ustanovitvi Kmetijsko gozdarskega zavoda Novo mesto (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/38/2010-01-3859-2000-01-5102-npb1
 sopPredpisa: 2010-01-3859

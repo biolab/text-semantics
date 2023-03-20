@@ -1,16 +1,10 @@
 Text file: URED8014.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576882800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-20 23:00:00
 idPredpisa: URED8014
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe 2019/941/EU o pripravljenosti na tveganja v sektorju\
-  \ elektri\u010Dne energije in razveljavitvi Direktive 2005/89/ES"
+naslov: "UREDBO o izvajanju Uredbe 2019/941/EU o pripravljenosti na tveganja v sektorju
+  elektri\u010Dne energije in razveljavitvi Direktive 2005/89/ES"
 npbNum: 0
 path: /2019/34/2019-01-3488
 sopPredpisa: 2019-01-3488

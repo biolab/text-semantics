@@ -1,10 +1,8 @@
 Text file: ODLO2507.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODLO2507
 idPredpisaChng: null
-instock: .nan
 naslov: ODLOK o razglasitvi Ustavnega zakona o dopolnitvi II. poglavja Ustave Republike
   Slovenije (OdUZ62a)
 npbNum: 0

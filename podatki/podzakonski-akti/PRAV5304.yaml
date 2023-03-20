@@ -1,16 +1,10 @@
 Text file: PRAV5304.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1076972400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-02-16 23:00:00
 idPredpisa: PRAV5304
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja zbirke podatkov o dejanski rabi\
-  \ prostora"
+naslov: "PRAVILNIK o vsebini in na\u010Dinu vodenja zbirke podatkov o dejanski rabi
+  prostora"
 npbNum: 0
 path: /2004/04/2004-01-0415
 sopPredpisa: 2004-01-0415

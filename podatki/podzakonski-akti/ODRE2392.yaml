@@ -1,12 +1,10 @@
 Text file: ODRE2392.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: ODRE2392
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o usklajenih vi\u0161inah nominalnih vrednosti zneskov iz Pravilnika\
-  \ o sklepanju zakonske zveze za leto 2017"
+naslov: "ODREDBO o usklajenih vi\u0161inah nominalnih vrednosti zneskov iz Pravilnika
+  o sklepanju zakonske zveze za leto 2017"
 npbNum: 0
 path: /2017/04/2017-01-0492
 sopPredpisa: 2017-01-0492

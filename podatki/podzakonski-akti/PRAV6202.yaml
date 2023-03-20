@@ -1,17 +1,11 @@
 Text file: PRAV6202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1101855600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-11-30 23:00:00
 idPredpisa: PRAV6202
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o sodelovanju dr\u017Eavnih organov z dr\u017Eavnim pravobranilstvom\
-  \ Republike Slovenije glede postopkov pred Sodi\u0161\u010Dem Evropskih skupnosti,\
-  \ Sodi\u0161\u010Dem prve stopnje in Evropsko komisijo"
+naslov: "PRAVILNIK o sodelovanju dr\u017Eavnih organov z dr\u017Eavnim pravobranilstvom
+  Republike Slovenije glede postopkov pred Sodi\u0161\u010Dem Evropskih skupnosti,
+  Sodi\u0161\u010Dem prve stopnje in Evropsko komisijo"
 npbNum: 0
 path: /2004/52/2004-01-5288
 sopPredpisa: 2004-01-5288

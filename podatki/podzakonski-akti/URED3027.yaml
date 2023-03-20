@@ -1,14 +1,8 @@
 Text file: URED3027.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1063663200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-09-15 22:00:00
 idPredpisa: URED3027
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dolo\u010Ditvi mejnega prehoda za obmejni promet Pod\u010Detrtek"
 npbNum: 0
 path: /2003/41/2003-01-4112

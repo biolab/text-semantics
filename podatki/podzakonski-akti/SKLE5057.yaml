@@ -1,16 +1,10 @@
 Text file: SKLE5057.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1095890400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-09-22 22:00:00
 idPredpisa: SKLE5057
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o soglasju k Statutu Zbornice Republike Slovenije za zasebno varovanje\
-  \ v delu, ki se nana\u0161a na izvajanje javnih pooblastil"
+naslov: "SKLEP o soglasju k Statutu Zbornice Republike Slovenije za zasebno varovanje
+  v delu, ki se nana\u0161a na izvajanje javnih pooblastil"
 npbNum: 0
 path: /2004/44/2004-01-4410
 sopPredpisa: 2004-01-4410

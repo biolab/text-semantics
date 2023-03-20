@@ -1,17 +1,8 @@
 Text file: URED8623.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1661983200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1658440800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2022-08-31 22:00:00
+datumZacetkaVelj: 2022-07-21 22:00:00
 idPredpisa: URED8623
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o dolo\u010Ditvi cen zemeljskega plina iz plinskega sistema"
 npbNum: 0
 path: /2022/24/2022-01-2461

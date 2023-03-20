@@ -1,16 +1,10 @@
 Text file: PRAV10111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1269644400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-03-26 23:00:00
 idPredpisa: PRAV10111
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razvrstitvi kmetijskih gospodarstev v obmo\u010Dja z omejenimi\
-  \ mo\u017Enostmi za kmetijsko dejavnost"
+naslov: "PRAVILNIK o razvrstitvi kmetijskih gospodarstev v obmo\u010Dja z omejenimi
+  mo\u017Enostmi za kmetijsko dejavnost"
 npbNum: 0
 path: /2010/11/2010-01-1101
 sopPredpisa: 2010-01-1101

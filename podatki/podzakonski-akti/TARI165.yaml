@@ -1,13 +1,11 @@
 Text file: TARI165.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: TARI165
 idPredpisaChng: null
-instock: .nan
-naslov: "ZA\u010CASNO TARIFO za dajanje za\u0161\u010Ditenega repertoarja Zdru\u017E\
-  enja SAZAS na voljo javnosti v okviru funkcij \u010Dasovnega zamika programa in\
-  \ osebnega omre\u017Enega snemalnika"
+naslov: "ZA\u010CASNO TARIFO za dajanje za\u0161\u010Ditenega repertoarja Zdru\u017Eenja
+  SAZAS na voljo javnosti v okviru funkcij \u010Dasovnega zamika programa in osebnega
+  omre\u017Enega snemalnika"
 npbNum: 0
 path: /2013/26/2013-01-2649
 sopPredpisa: 2013-01-2649

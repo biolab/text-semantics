@@ -1,17 +1,10 @@
 Text file: PRAV10821.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1376085600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-08-09 22:00:00
 idPredpisa: PRAV10821
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ukrepih varstva pred po\u017Earom v po\u017Earnovarnostnem pasu\
-  \ \u017Eelezni\u0161ke proge, na tirnih vozilih in na tirnih vozilih z odprtim kuri\u0161\
-  \u010Dem"
+naslov: "PRAVILNIK o ukrepih varstva pred po\u017Earom v po\u017Earnovarnostnem pasu
+  \u017Eelezni\u0161ke proge, na tirnih vozilih in na tirnih vozilih z odprtim kuri\u0161\u010Dem"
 npbNum: 0
 path: /2013/25/2013-01-2537
 sopPredpisa: 2013-01-2537

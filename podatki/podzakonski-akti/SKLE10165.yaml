@@ -1,17 +1,11 @@
 Text file: SKLE10165.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1418425200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-12-12 23:00:00
 idPredpisa: SKLE10165
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o potrdilu o stanju na osebnem ra\u010Dunu, potrdilu o vpla\u010Dilih,\
-  \ ki jih je pla\u010Devalo \u0161portno dru\u0161tvo in obrazcu zahteve za izpla\u010D\
-  ilo enot premo\u017Eenja, vpisanih na osebnem ra\u010Dunu zavarovanca"
+naslov: "SKLEP o potrdilu o stanju na osebnem ra\u010Dunu, potrdilu o vpla\u010Dilih,
+  ki jih je pla\u010Devalo \u0161portno dru\u0161tvo in obrazcu zahteve za izpla\u010Dilo
+  enot premo\u017Eenja, vpisanih na osebnem ra\u010Dunu zavarovanca"
 npbNum: 0
 path: /2014/36/2014-01-3600
 sopPredpisa: 2014-01-3600

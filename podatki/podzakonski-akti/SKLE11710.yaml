@@ -1,16 +1,10 @@
 Text file: SKLE11710.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1557525600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-05-10 22:00:00
 idPredpisa: SKLE11710
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Reykjaviku,\
-  \ v Republiki Islandiji"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Reykjaviku,
+  v Republiki Islandiji"
 npbNum: 0
 path: /2019/14/2019-01-1427
 sopPredpisa: 2019-01-1427

@@ -1,16 +1,10 @@
 Text file: PRAV11564.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1375740000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-08-05 22:00:00
 idPredpisa: PRAV11564
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi kategorij posami\u010Dnih krmil, ki se lahko uporabljajo\
-  \ pri ozna\u010Devanju hrane za hi\u0161ne \u017Eivali"
+naslov: "PRAVILNIK o dolo\u010Ditvi kategorij posami\u010Dnih krmil, ki se lahko uporabljajo
+  pri ozna\u010Devanju hrane za hi\u0161ne \u017Eivali"
 npbNum: 0
 path: /2013/24/2013-01-2481
 sopPredpisa: 2013-01-2481

@@ -1,16 +1,10 @@
 Text file: SKLE1461.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 690159600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-11-14 23:00:00
 idPredpisa: SKLE1461
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uskladitvi socialnovarstvenih pomo\u010Di in prispevkov ter lestvice\
-  \ znosnih stanarin"
+naslov: "SKLEP o uskladitvi socialnovarstvenih pomo\u010Di in prispevkov ter lestvice
+  znosnih stanarin"
 npbNum: 0
 path: /1991/09/1991-01-0942
 sopPredpisa: 1991-01-0942

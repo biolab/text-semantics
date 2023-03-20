@@ -1,14 +1,8 @@
 Text file: URED5193.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1256335200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-10-23 22:00:00
 idPredpisa: URED5193
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o koncesiji za opravljanje javne svetovalne slu\u017Ebe v \u010Debelarstvu"
 npbNum: 0
 path: /2009/37/2009-01-3706

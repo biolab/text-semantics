@@ -1,19 +1,10 @@
 Text file: PRAV13570.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545433200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2018-12-21 23:00:00
 idPredpisa: PRAV13570
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podrobnej\u0161i vsebini in na\u010Dinu predlo\u017Eitve obra\u010D\
-  una pribitka k cestnini in vodenju evidence podatkov o pribitku k cestnini"
+naslov: "PRAVILNIK o podrobnej\u0161i vsebini in na\u010Dinu predlo\u017Eitve obra\u010Duna
+  pribitka k cestnini in vodenju evidence podatkov o pribitku k cestnini"
 npbNum: 0
 path: /2018/40/2018-01-4064
 sopPredpisa: 2018-01-4064

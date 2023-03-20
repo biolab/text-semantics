@@ -1,16 +1,10 @@
 Text file: PRAV4261.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1112306400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-03-31 22:00:00
 idPredpisa: PRAV4261
 idPredpisaChng: PRAV4261
-instock: .nan
-naslov: "PRAVILNIK o pogojih za uporabo ozna\u010Dbe \xBBtradicionalni ugled\xAB za\
-  \ idrijske \u017Elikrofe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o pogojih za uporabo ozna\u010Dbe \xBBtradicionalni ugled\xAB za
+  idrijske \u017Elikrofe (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2005/11/2005-01-1108-2002-01-2540-npb1
 sopPredpisa: 2005-01-1108

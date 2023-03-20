@@ -1,16 +1,10 @@
 Text file: PRAV2328.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 860104800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-04-03 22:00:00
 idPredpisa: PRAV2328
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o pogojih, merilih in postopkih pri izvajanju dejavnosti Tehnolo\u0161\
-  ko razvojnega sklada Republike Slovenije d.o.o. (v nadaljnjem besedilu: sklad)"
+naslov: "PRAVILNIK o pogojih, merilih in postopkih pri izvajanju dejavnosti Tehnolo\u0161ko
+  razvojnega sklada Republike Slovenije d.o.o. (v nadaljnjem besedilu: sklad)"
 npbNum: 0
 path: /1997/15/1997-01-1579
 sopPredpisa: 1997-01-1579

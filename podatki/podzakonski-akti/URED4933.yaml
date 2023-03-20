@@ -1,16 +1,10 @@
 Text file: URED4933.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1218232800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-08-08 22:00:00
 idPredpisa: URED4933
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Drtu prostorskih ureditev za obmo\u010Dje Kobilarne Lipica\
-  \ \u2013 I. del"
+naslov: "UREDBO o na\u010Drtu prostorskih ureditev za obmo\u010Dje Kobilarne Lipica
+  \u2013 I. del"
 npbNum: 0
 path: /2008/33/2008-01-3352
 sopPredpisa: 2008-01-3352

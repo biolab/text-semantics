@@ -1,17 +1,11 @@
 Text file: URED4707.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1233356400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-01-30 23:00:00
 idPredpisa: URED4707
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o na\u010Dinu dolo\u010Danja in obra\u010Dunavanja prispevka za zagotavljanje\
-  \ zanesljive oskrbe z elektri\u010Dno energijo z uporabo doma\u010Dih virov primarne\
-  \ energije"
+naslov: "UREDBO o na\u010Dinu dolo\u010Danja in obra\u010Dunavanja prispevka za zagotavljanje
+  zanesljive oskrbe z elektri\u010Dno energijo z uporabo doma\u010Dih virov primarne
+  energije"
 npbNum: 0
 path: /2009/02/2009-01-0209
 sopPredpisa: 2009-01-0209

@@ -1,16 +1,10 @@
 Text file: ODRE1597.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 992037600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-06-08 22:00:00
 idPredpisa: ODRE1597
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi najvi\u0161jih cen ozna\u010Devanja in registracije\
-  \ drobnice ter registracije kobil za potrebe uveljavljanja subvencij za leto 2001 "
+naslov: "ODREDBO o dolo\u010Ditvi najvi\u0161jih cen ozna\u010Devanja in registracije
+  drobnice ter registracije kobil za potrebe uveljavljanja subvencij za leto 2001 "
 npbNum: 0
 path: /2001/26/2001-01-2623
 sopPredpisa: 2001-01-2623

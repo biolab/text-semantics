@@ -1,16 +1,10 @@
 Text file: PRAV12831.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1457996400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-03-14 23:00:00
 idPredpisa: PRAV12831
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi poklicev, v katerih zaposlitev tujca ni\_vezana\
-  \ na trg dela"
+naslov: "ODREDBO o dolo\u010Ditvi poklicev, v katerih zaposlitev tujca ni\_vezana
+  na trg dela"
 npbNum: 0
 path: /2016/07/2016-01-0725
 sopPredpisa: 2016-01-0725

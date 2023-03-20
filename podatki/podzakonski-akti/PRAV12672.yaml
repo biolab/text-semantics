@@ -1,16 +1,10 @@
 Text file: PRAV12672.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1515798000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-01-12 23:00:00
 idPredpisa: PRAV12672
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Javorje\
-  \ (2017\u20132026)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Javorje
+  (2017\u20132026)"
 npbNum: 0
 path: /2018/01/2018-01-0103
 sopPredpisa: 2018-01-0103

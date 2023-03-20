@@ -1,17 +1,11 @@
 Text file: ODRE2096.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1295910000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-01-24 23:00:00
 idPredpisa: ODRE2096
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov ni\u017Ejega poklicnega\
-  \ izobra\u017Eevanja Preoblikovalec tekstilij in srednjega strokovnega izobra\u017E\
-  evanja Tehnik mehatronike"
+naslov: "ODREDBO o sprejemu izobra\u017Eevalnih programov ni\u017Ejega poklicnega
+  izobra\u017Eevanja Preoblikovalec tekstilij in srednjega strokovnega izobra\u017Eevanja
+  Tehnik mehatronike"
 npbNum: 0
 path: /2011/01/2011-01-0146
 sopPredpisa: 2011-01-0146

@@ -1,14 +1,8 @@
 Text file: PRAV2718.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 955663200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-04-13 22:00:00
 idPredpisa: PRAV2718
 idPredpisaChng: null
-instock: .nan
 naslov: "PRAVILNIK o evidencah in dokumentaciji v izobra\u017Eevanju odraslih"
 npbNum: 0
 path: /2000/14/2000-01-1493

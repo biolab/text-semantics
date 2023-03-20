@@ -1,16 +1,10 @@
 Text file: ODLO495.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 709596000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1992-06-26 22:00:00
 idPredpisa: ODLO495
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK \_prenehanju uporabe nekaterih predpisov s podro\u010Dja ra\u010Dunovodstva\
-  \ za sredstva za razvoj splo\u0161ne ljudske obrambe"
+naslov: "ODLOK \_prenehanju uporabe nekaterih predpisov s podro\u010Dja ra\u010Dunovodstva
+  za sredstva za razvoj splo\u0161ne ljudske obrambe"
 npbNum: 0
 path: /1992/14/1992-01-1481
 sopPredpisa: 1992-01-1481

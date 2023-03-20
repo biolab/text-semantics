@@ -1,16 +1,10 @@
 Text file: PRAV6884.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1161381600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-10-20 22:00:00
 idPredpisa: PRAV6884
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Idrija\
-  \ I (2005\u20132014)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Idrija
+  I (2005\u20132014)"
 npbNum: 0
 path: /2006/46/2006-01-4616
 sopPredpisa: 2006-01-4616

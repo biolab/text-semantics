@@ -1,17 +1,11 @@
 Text file: URED3109.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1070924400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-08 23:00:00
 idPredpisa: URED3109
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o postopku pridobitve uvoznega dovoljenja za uvoz dolo\u010Denih izdelkov\
-  \ s poreklom iz Ljudske Republike Kitajske po vstopu Republike Slovenije v Evropsko\
-  \ skupnost"
+naslov: "UREDBO o postopku pridobitve uvoznega dovoljenja za uvoz dolo\u010Denih izdelkov
+  s poreklom iz Ljudske Republike Kitajske po vstopu Republike Slovenije v Evropsko
+  skupnost"
 npbNum: 0
 path: /2003/52/2003-01-5216
 sopPredpisa: 2003-01-5216

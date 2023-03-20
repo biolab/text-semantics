@@ -1,16 +1,10 @@
 Text file: PRAV8164.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1554501600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-04-05 22:00:00
 idPredpisa: PRAV8164
 idPredpisaChng: PRAV8164
-instock: .nan
-naslov: "PRAVILNIK o programu sodni\u0161kega pripravni\u0161tva in pravni\u0161kem\
-  \ dr\u017Eavnem izpitu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o programu sodni\u0161kega pripravni\u0161tva in pravni\u0161kem
+  dr\u017Eavnem izpitu (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2019/07/2019-01-0704-2008-01-0984-npb3
 sopPredpisa: 2019-01-0704

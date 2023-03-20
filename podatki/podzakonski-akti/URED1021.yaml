@@ -1,17 +1,11 @@
 Text file: URED1021.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 783385200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-10-28 23:00:00
 idPredpisa: URED1021
 idPredpisaChng: URED1021
-instock: .nan
-naslov: "UREDBA o pripravi programa preoblikovanja in o izvedbi posameznih na\u010D\
-  inov lastninskega preoblikovanja podjetij (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 5)"
+naslov: "UREDBA o pripravi programa preoblikovanja in o izvedbi posameznih na\u010Dinov
+  lastninskega preoblikovanja podjetij (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 5)"
 npbNum: 5
 path: /1994/24/1994-01-2465-1993-01-0594-npb5
 sopPredpisa: 1994-01-2465

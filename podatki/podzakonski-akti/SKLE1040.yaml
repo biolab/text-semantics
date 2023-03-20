@@ -1,16 +1,10 @@
 Text file: SKLE1040.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 960501600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-06-08 22:00:00
 idPredpisa: SKLE1040
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o kriterijih in merilih, kdaj je psihiatri\u010Dnim bolnikom potrebno\
-  \ stalno nadzorstvo"
+naslov: "SKLEP  o kriterijih in merilih, kdaj je psihiatri\u010Dnim bolnikom potrebno
+  stalno nadzorstvo"
 npbNum: 0
 path: /2000/23/2000-01-2382
 sopPredpisa: 2000-01-2382

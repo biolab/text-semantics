@@ -1,16 +1,10 @@
 Text file: URED3388.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1088632800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-06-30 22:00:00
 idPredpisa: URED3388
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o dolo\u010Ditvi najvi\u0161jih tarifnih\
-  \ postavk za prodajo elektri\u010Dne energije za tarifne odjemalce"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o dolo\u010Ditvi najvi\u0161jih tarifnih
+  postavk za prodajo elektri\u010Dne energije za tarifne odjemalce"
 npbNum: 0
 path: /2004/29/2004-01-2989
 sopPredpisa: 2004-01-2989

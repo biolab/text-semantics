@@ -1,16 +1,10 @@
 Text file: PRAV3171.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 895183200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-05-14 22:00:00
 idPredpisa: PRAV3171
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o uporabi Gau\xDF-Kr\xFCgerjeve projekcije pri izdelavi dr\u017E\
-  avne topografske karte v merilu 1:25000 \_in razdelitev na liste"
+naslov: "PRAVILNIK o uporabi Gau\xDF-Kr\xFCgerjeve projekcije pri izdelavi dr\u017Eavne
+  topografske karte v merilu 1:25000 \_in razdelitev na liste"
 npbNum: 0
 path: /1998/15/1998-01-1572
 sopPredpisa: 1998-01-1572

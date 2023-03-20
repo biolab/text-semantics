@@ -1,17 +1,11 @@
 Text file: AKT_852.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1543618800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-11-30 23:00:00
 idPredpisa: AKT_852
 idPredpisaChng: AKT_852
-instock: .nan
-naslov: "SPLO\u0160NI AKT o velikosti \u0161tevilskih blokov, za pridobitev katerih\
-  \ je treba vlogi prilo\u017Eiti projekt (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "SPLO\u0160NI AKT o velikosti \u0161tevilskih blokov, za pridobitev katerih
+  je treba vlogi prilo\u017Eiti projekt (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2018/35/2018-01-3533-2013-01-2491-npb1
 sopPredpisa: 2018-01-3533

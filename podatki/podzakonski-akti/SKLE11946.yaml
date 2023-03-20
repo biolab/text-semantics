@@ -1,14 +1,8 @@
 Text file: SKLE11946.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577228400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-12-24 23:00:00
 idPredpisa: SKLE11946
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o dolo\u010Ditvi nujnih ukrepov v zvezi z boleznijo modrikastega jezika"
 npbNum: 0
 path: /2019/35/2019-01-3545

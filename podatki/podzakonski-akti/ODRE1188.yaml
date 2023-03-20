@@ -1,14 +1,8 @@
 Text file: ODRE1188.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 967240800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-08-25 22:00:00
 idPredpisa: ODRE1188
 idPredpisaChng: null
-instock: .nan
 naslov: ODREDBO  o katalogih standardov strokovnih znanj in spretnosti poklicnih kvalifikacij
 npbNum: 0
 path: /2000/35/2000-01-3565

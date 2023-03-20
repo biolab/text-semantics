@@ -1,14 +1,8 @@
 Text file: PRAV10811.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1320447600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-11-04 23:00:00
 idPredpisa: PRAV10811
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o seznamu prepovedanih drog, psihoaktivnih zdravil ter drugih psihoaktivnih
   snovi in njihovih presnovkov
 npbNum: 0

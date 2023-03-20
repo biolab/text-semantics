@@ -1,16 +1,10 @@
 Text file: SKLE3615.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1444428000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-10-09 22:00:00
 idPredpisa: SKLE3615
 idPredpisaChng: SKLE3615
-instock: .nan
-naslov: "SKLEP o ustanovitvi in imenovanju Sveta za slovenski znakovni jezik (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "SKLEP o ustanovitvi in imenovanju Sveta za slovenski znakovni jezik (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2015/30/2015-01-3018-2003-01-1222-npb2
 sopPredpisa: 2015-01-3018

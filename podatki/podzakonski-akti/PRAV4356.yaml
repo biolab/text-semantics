@@ -1,19 +1,13 @@
 Text file: PRAV4356.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1262041200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-28 23:00:00
 idPredpisa: PRAV4356
 idPredpisaChng: PRAV4356
-instock: .nan
-naslov: "PRAVILNIK o dvigih ter pologih doma\u010De in tuje gotovine neposrednih in\
-  \ posrednih prora\u010Dunskih uporabnikov dr\u017Eavnega in ob\u010Dinskih prora\u010D\
-  unov, Zavoda za zdravstveno zavarovanje Slovenije in Zavoda za pokojninsko in invalidsko\
-  \ zavarovanje Slovenije preko posebnega ra\u010Duna z ni\u010Delnim stanjem (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "PRAVILNIK o dvigih ter pologih doma\u010De in tuje gotovine neposrednih in
+  posrednih prora\u010Dunskih uporabnikov dr\u017Eavnega in ob\u010Dinskih prora\u010Dunov,
+  Zavoda za zdravstveno zavarovanje Slovenije in Zavoda za pokojninsko in invalidsko
+  zavarovanje Slovenije preko posebnega ra\u010Duna z ni\u010Delnim stanjem (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2009/49/2009-01-4934-2002-01-4449-npb2
 sopPredpisa: 2009-01-4934

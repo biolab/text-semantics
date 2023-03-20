@@ -1,16 +1,10 @@
 Text file: SKLE12648.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1641769200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-01-09 23:00:00
 idPredpisa: SKLE12648
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o skraj\u0161anju \u010Dasa trajanja karantene pri nalezljivi bolezni\
-  \ COVID-19"
+naslov: "SKLEP o skraj\u0161anju \u010Dasa trajanja karantene pri nalezljivi bolezni
+  COVID-19"
 npbNum: 0
 path: /2022/00/2022-01-0054
 sopPredpisa: 2022-01-0054

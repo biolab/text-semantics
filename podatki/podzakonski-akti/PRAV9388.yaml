@@ -1,16 +1,10 @@
 Text file: PRAV9388.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1252706400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-11 22:00:00
 idPredpisa: PRAV9388
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o ozna\u010Devanju in dajanju na trg mesa \u017Eivali, katerih\
-  \ nujni zakol je bil opravljen zunaj klavnice"
+naslov: "PRAVILNIK o ozna\u010Devanju in dajanju na trg mesa \u017Eivali, katerih
+  nujni zakol je bil opravljen zunaj klavnice"
 npbNum: 0
 path: /2009/31/2009-01-3108
 sopPredpisa: 2009-01-3108

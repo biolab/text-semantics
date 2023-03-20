@@ -1,19 +1,9 @@
 Text file: PRAV13437.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1541026800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1527890400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-10-31 23:00:00
+datumZacetkaVelj: 2018-06-01 22:00:00
 idPredpisa: PRAV13437
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o enotnem informacijskem sistemu na podro\u010Dju javnega naro\u010D\
-  anja"
+naslov: "PRAVILNIK o enotnem informacijskem sistemu na podro\u010Dju javnega naro\u010Danja"
 npbNum: 0
 path: /2018/19/2018-01-1908
 sopPredpisa: 2018-01-1908

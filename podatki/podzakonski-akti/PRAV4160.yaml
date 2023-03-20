@@ -1,17 +1,11 @@
 Text file: PRAV4160.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1018389600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-04-09 22:00:00
 idPredpisa: PRAV4160
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK  o meroslovnih zahtevah za merilne instrumente, ki se uporabljajo\
-  \ za merjenje izolacijske upornosti, impedance zanke, ozemljitvene upornosti povezav\
-  \ in povezav za izena\u010Ditev potencialov in ozemljitvene upornosti"
+naslov: "PRAVILNIK  o meroslovnih zahtevah za merilne instrumente, ki se uporabljajo
+  za merjenje izolacijske upornosti, impedance zanke, ozemljitvene upornosti povezav
+  in povezav za izena\u010Ditev potencialov in ozemljitvene upornosti"
 npbNum: 0
 path: /2002/11/2002-01-1149
 sopPredpisa: 2002-01-1149

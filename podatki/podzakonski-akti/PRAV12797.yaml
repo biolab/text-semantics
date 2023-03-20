@@ -1,16 +1,10 @@
 Text file: PRAV12797.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1483138800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-30 23:00:00
 idPredpisa: PRAV12797
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o zagotavljanju varnosti po za\u010Detku obratovanja sevalnih ali\
-  \ jedrskih objektov"
+naslov: "PRAVILNIK o zagotavljanju varnosti po za\u010Detku obratovanja sevalnih ali
+  jedrskih objektov"
 npbNum: 0
 path: /2016/34/2016-01-3445
 sopPredpisa: 2016-01-3445

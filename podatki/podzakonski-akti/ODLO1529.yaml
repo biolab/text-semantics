@@ -1,16 +1,10 @@
 Text file: ODLO1529.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1191016800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-28 22:00:00
 idPredpisa: ODLO1529
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o programu varstva in razvoja naravnega rezervata \u0160kocjanski zatok\
-  \ za obdobje 2007\u20132011"
+naslov: "ODLOK o programu varstva in razvoja naravnega rezervata \u0160kocjanski zatok
+  za obdobje 2007\u20132011"
 npbNum: 0
 path: /2007/42/2007-01-4211
 sopPredpisa: 2007-01-4211

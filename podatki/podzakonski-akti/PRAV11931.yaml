@@ -1,14 +1,8 @@
 Text file: PRAV11931.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1421190000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-01-13 23:00:00
 idPredpisa: PRAV11931
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o meroslovnih zahtevah za merilne sisteme za stisnjena plinasta
   goriva za vozila
 npbNum: 0

@@ -1,16 +1,10 @@
 Text file: PRAV4842.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1089410400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-07-09 22:00:00
 idPredpisa: PRAV4842
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Selca\
-  \ (2003\u20132012)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Selca
+  (2003\u20132012)"
 npbNum: 0
 path: /2004/32/2004-01-3286
 sopPredpisa: 2004-01-3286

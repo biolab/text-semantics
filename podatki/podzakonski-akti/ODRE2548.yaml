@@ -1,16 +1,10 @@
 Text file: ODRE2548.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1583967600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-11 23:00:00
 idPredpisa: ODRE2548
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o omejitvi dolo\u010Denih pravic zdravstvenih delavcev in zdravstvenih\
-  \ sodelavcev"
+naslov: "ODREDBO o omejitvi dolo\u010Denih pravic zdravstvenih delavcev in zdravstvenih
+  sodelavcev"
 npbNum: 0
 path: /2020/05/2020-01-0531
 sopPredpisa: 2020-01-0531

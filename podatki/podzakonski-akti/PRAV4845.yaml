@@ -1,16 +1,10 @@
 Text file: PRAV4845.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1123884000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-08-12 22:00:00
 idPredpisa: PRAV4845
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Litija-\u0160\
-  martno (2003\u20132012)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Litija-\u0160martno
+  (2003\u20132012)"
 npbNum: 0
 path: /2005/33/2005-01-3394
 sopPredpisa: 2005-01-3394

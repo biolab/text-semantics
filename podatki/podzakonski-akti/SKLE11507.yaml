@@ -1,16 +1,10 @@
 Text file: SKLE11507.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1526680800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2018-05-18 22:00:00
 idPredpisa: SKLE11507
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o zgornjih mejah za izpla\u010Dilo dela vdovske pokojnine od 1. januarja\
-  \ 2018 do 31. marca 2018"
+naslov: "SKLEP o zgornjih mejah za izpla\u010Dilo dela vdovske pokojnine od 1. januarja
+  2018 do 31. marca 2018"
 npbNum: 0
 path: /2018/15/2018-01-1562
 sopPredpisa: 2018-01-1562

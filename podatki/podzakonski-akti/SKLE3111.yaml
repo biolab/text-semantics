@@ -1,17 +1,11 @@
 Text file: SKLE3111.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1025820000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-04 22:00:00
 idPredpisa: SKLE3111
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o oprostitvi pla\u010Dila pristojbin na zra\u010Dnih poteh v slovenskem\
-  \ zra\u010Dnem prostoru za voja\u0161ke zrakoplove Nata in njegovih dr\u017Eav \u010D\
-  lanic ter za voja\u0161ke zrakoplove dr\u017Eav \u010Dlanic EUROCONTROL"
+naslov: "SKLEP o oprostitvi pla\u010Dila pristojbin na zra\u010Dnih poteh v slovenskem
+  zra\u010Dnem prostoru za voja\u0161ke zrakoplove Nata in njegovih dr\u017Eav \u010Dlanic
+  ter za voja\u0161ke zrakoplove dr\u017Eav \u010Dlanic EUROCONTROL"
 npbNum: 0
 path: /2002/28/2002-01-2829
 sopPredpisa: 2002-01-2829

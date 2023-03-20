@@ -1,14 +1,8 @@
 Text file: URED5067.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1259622000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-11-30 23:00:00
 idPredpisa: URED5067
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o dejavnikih sevalne in jedrske varnosti
 npbNum: 0
 path: /2009/40/2009-01-4017

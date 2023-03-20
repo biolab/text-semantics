@@ -1,14 +1,8 @@
 Text file: PRAV6121.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1093644000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-08-27 22:00:00
 idPredpisa: PRAV6121
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti pravilnika o meroslovnih zahtevah za nadzorne
   naprave za kontrolo dela voznika in gibanja vozila v cestnem prometu
 npbNum: 0

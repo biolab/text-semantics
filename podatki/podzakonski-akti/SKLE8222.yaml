@@ -1,17 +1,11 @@
 Text file: SKLE8222.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1380578400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-30 22:00:00
 idPredpisa: SKLE8222
 idPredpisaChng: SKLE8222
-instock: .nan
-naslov: "SKLEP o vi\u0161ini zneskov letnih pla\u010Dil za opravljanje nadzora in\
-  \ taksah za odlo\u010Danje o zahtevah za izdajo dovoljenj (neuradno pre\u010Di\u0161\
-  \u010Deno besedilo \u0161t. 5)"
+naslov: "SKLEP o vi\u0161ini zneskov letnih pla\u010Dil za opravljanje nadzora in
+  taksah za odlo\u010Danje o zahtevah za izdajo dovoljenj (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 5)"
 npbNum: 5
 path: /2013/29/2013-01-2920-2009-01-3392-npb5
 sopPredpisa: 2013-01-2920

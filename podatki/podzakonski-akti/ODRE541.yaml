@@ -1,16 +1,10 @@
 Text file: ODRE541.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933976800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-08-06 22:00:00
 idPredpisa: ODRE541
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o smeri izobrazbe vodje mentorske skupine in mentorjev v izobra\u017E\
-  evalnem programu projektno u\u010Denje za mlaj\u0161e odrasle"
+naslov: "ODREDBO o smeri izobrazbe vodje mentorske skupine in mentorjev v izobra\u017Eevalnem
+  programu projektno u\u010Denje za mlaj\u0161e odrasle"
 npbNum: 0
 path: /1999/30/1999-01-3025
 sopPredpisa: 1999-01-3025

@@ -1,18 +1,12 @@
 Text file: PRAV10155.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1590962400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-05-31 22:00:00
 idPredpisa: PRAV10155
 idPredpisaChng: PRAV10155
-instock: .nan
-naslov: "PRAVILNIK o priznanju dodatnega izobra\u017Eevanja za revizorje, preizku\u0161\
-  ene ra\u010Dunovodje, preizku\u0161ene notranje revizorje, preizku\u0161ene poslovne\
-  \ finan\u010Dnike, preizku\u0161ene revizorje informacijskih sistemov in preizku\u0161\
-  ene dav\u010Dnike (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o priznanju dodatnega izobra\u017Eevanja za revizorje, preizku\u0161ene
+  ra\u010Dunovodje, preizku\u0161ene notranje revizorje, preizku\u0161ene poslovne
+  finan\u010Dnike, preizku\u0161ene revizorje informacijskih sistemov in preizku\u0161ene
+  dav\u010Dnike (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2020/11/2020-01-1164-2010-01-0143-npb3
 sopPredpisa: 2020-01-1164

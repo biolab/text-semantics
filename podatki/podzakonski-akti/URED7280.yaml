@@ -1,14 +1,8 @@
 Text file: URED7280.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1469224800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-22 22:00:00
 idPredpisa: URED7280
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o varovanju delavcev pred tveganji zaradi izpostavljenosti elektromagnetnim
   sevanjem
 npbNum: 0

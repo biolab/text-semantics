@@ -1,20 +1,11 @@
 Text file: SKLE10957.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1490911200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1480546800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2017-03-30 22:00:00
+datumZacetkaVelj: 2016-11-30 23:00:00
 idPredpisa: SKLE10957
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o komunikaciji med pristojnimi organi, ki nadzorujejo\
-  \ kreditne institucije, ter zakonitimi revizorji in revizijskimi dru\u017Ebami,\
-  \ ki izvajajo obvezno revizijo kreditnih institucij"
+naslov: "SKLEP o uporabi Smernic o komunikaciji med pristojnimi organi, ki nadzorujejo
+  kreditne institucije, ter zakonitimi revizorji in revizijskimi dru\u017Ebami, ki
+  izvajajo obvezno revizijo kreditnih institucij"
 npbNum: 0
 path: /2016/32/2016-01-3216
 sopPredpisa: 2016-01-3216

@@ -1,18 +1,12 @@
 Text file: SKLE11046.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1490997600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-03-31 22:00:00
 idPredpisa: SKLE11046
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi cene storitve javne slu\u017Ebe ravnanja z \u017E\
-  ivalskimi stranskimi proizvodi kategorije 1 in 2 ter cene storitev javne slu\u017E\
-  be prevzema \u017Eivalskih stranskih proizvodov kategorije 1 in 2, ki nastanejo\
-  \ zaradi proizvodnje \u017Eivil za lastno uporabo"
+naslov: "SKLEP o dolo\u010Ditvi cene storitve javne slu\u017Ebe ravnanja z \u017Eivalskimi
+  stranskimi proizvodi kategorije 1 in 2 ter cene storitev javne slu\u017Ebe prevzema
+  \u017Eivalskih stranskih proizvodov kategorije 1 in 2, ki nastanejo zaradi proizvodnje
+  \u017Eivil za lastno uporabo"
 npbNum: 0
 path: /2017/07/2017-01-0797
 sopPredpisa: 2017-01-0797

@@ -1,17 +1,11 @@
 Text file: URED1043.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 869868000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-07-25 22:00:00
 idPredpisa: URED1043
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o metodologiji za izdelavo razdelitvene bilance podjetij \_(z dru\u017E\
-  benim kapitalom), ki opravljajo turisti\u010Dno dejavnost in katerih nepremi\u010D\
-  nine se nahajajo \_na obmo\u010Dju Triglavskega narodnega parka"
+naslov: "UREDBO o metodologiji za izdelavo razdelitvene bilance podjetij \_(z dru\u017Ebenim
+  kapitalom), ki opravljajo turisti\u010Dno dejavnost in katerih nepremi\u010Dnine
+  se nahajajo \_na obmo\u010Dju Triglavskega narodnega parka"
 npbNum: 0
 path: /1997/24/1997-01-2427
 sopPredpisa: 1997-01-2427

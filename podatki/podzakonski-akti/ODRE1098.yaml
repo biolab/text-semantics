@@ -1,16 +1,10 @@
 Text file: ODRE1098.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 846280800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-10-25 22:00:00
 idPredpisa: ODRE1098
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Mokronog"
+naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Mokronog"
 npbNum: 0
 path: /1996/34/1996-01-3410
 sopPredpisa: 1996-01-3410

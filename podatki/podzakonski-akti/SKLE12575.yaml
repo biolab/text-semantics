@@ -1,17 +1,11 @@
 Text file: SKLE12575.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637708400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-23 23:00:00
 idPredpisa: SKLE12575
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic o minimalnem seznamu storitev ali prostorov, ki so\
-  \ potrebni, da se prejemniku omogo\u010Di upravljanje nanj prenesenih poslovnih\
-  \ dejavnosti, v skladu s \u010Dlenom 65(5) Direktive 2014/59/EU"
+naslov: "SKLEP o uporabi Smernic o minimalnem seznamu storitev ali prostorov, ki so
+  potrebni, da se prejemniku omogo\u010Di upravljanje nanj prenesenih poslovnih dejavnosti,
+  v skladu s \u010Dlenom 65(5) Direktive 2014/59/EU"
 npbNum: 0
 path: /2021/36/2021-01-3601
 sopPredpisa: 2021-01-3601

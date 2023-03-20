@@ -1,16 +1,10 @@
 Text file: SKLE12268.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1609455600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-12-31 23:00:00
 idPredpisa: SKLE12268
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju ukrepa za\u010Dasne omejitve ali zadr\u017Eanja\
-  \ izvajanja pravic in pravnih koristi"
+naslov: "SKLEP o podalj\u0161anju ukrepa za\u010Dasne omejitve ali zadr\u017Eanja
+  izvajanja pravic in pravnih koristi"
 npbNum: 0
 path: /2020/35/2020-01-3542
 sopPredpisa: 2020-01-3542

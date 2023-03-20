@@ -1,16 +1,10 @@
 Text file: SKLE6687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1163113200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-11-09 23:00:00
 idPredpisa: SKLE6687
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za daljnovod 2 x 110 kV Beri\u010Devo\u2013Trbovlje"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za daljnovod 2 x 110 kV Beri\u010Devo\u2013Trbovlje"
 npbNum: 0
 path: /2006/50/2006-01-5001
 sopPredpisa: 2006-01-5001

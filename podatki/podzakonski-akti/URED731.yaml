@@ -1,16 +1,10 @@
 Text file: URED731.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1312581600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-08-05 22:00:00
 idPredpisa: URED731
 idPredpisaChng: URED731
-instock: .nan
-naslov: "UREDBA o varstvu samoniklih gliv (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 1)"
+naslov: "UREDBA o varstvu samoniklih gliv (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 1)"
 npbNum: 1
 path: /2011/27/2011-01-2723-1998-01-2689-npb1
 sopPredpisa: 2011-01-2723

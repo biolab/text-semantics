@@ -1,17 +1,11 @@
 Text file: PRAV13071.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1651874400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-06 22:00:00
 idPredpisa: PRAV13071
 idPredpisaChng: PRAV13071
-instock: .nan
-naslov: "PRAVILNIK o merilih in metodologiji za dolo\u010Danje obsega sredstev za\
-  \ materialne stro\u0161ke v zavodih za vzgojo in izobra\u017Eevanje otrok in mladostnikov\
-  \ s posebnimi potrebami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o merilih in metodologiji za dolo\u010Danje obsega sredstev za
+  materialne stro\u0161ke v zavodih za vzgojo in izobra\u017Eevanje otrok in mladostnikov
+  s posebnimi potrebami (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2022/13/2022-01-1374-2017-01-2079-npb3
 sopPredpisa: 2022-01-1374

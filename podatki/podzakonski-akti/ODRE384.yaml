@@ -1,18 +1,12 @@
 Text file: ODRE384.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 761439600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1994-02-16 23:00:00
 idPredpisa: ODRE384
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o obliki obveznic Republike Slovenije za odkup terjatev do Iraka,\
-  \ Kube in Ljudske Republike Angole ter Zvezne direkcije za promet in rezerve izdelkov\
-  \ posebnega namena REPUBLIKA SLOVENIJA 7% OBVEZNICA NA PRINOSNIKA ZA (oznaka nominalne\
-  \ vrednosti obveznice, navedena s \u0161tevilko in besedo)"
+naslov: "ODREDBO o obliki obveznic Republike Slovenije za odkup terjatev do Iraka,
+  Kube in Ljudske Republike Angole ter Zvezne direkcije za promet in rezerve izdelkov
+  posebnega namena REPUBLIKA SLOVENIJA 7% OBVEZNICA NA PRINOSNIKA ZA (oznaka nominalne
+  vrednosti obveznice, navedena s \u0161tevilko in besedo)"
 npbNum: 0
 path: /1994/03/1994-01-0314
 sopPredpisa: 1994-01-0314

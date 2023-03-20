@@ -1,16 +1,10 @@
 Text file: ODRE1066.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 906156000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1998-09-18 22:00:00
 idPredpisa: ODRE1066
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dodatnih ukrepih za prepre\u010Devanje \u0161irjenja in za zatiranje\
-  \ podlubnikov v letih 1998 in 1999"
+naslov: "ODREDBO o dodatnih ukrepih za prepre\u010Devanje \u0161irjenja in za zatiranje
+  podlubnikov v letih 1998 in 1999"
 npbNum: 0
 path: /1998/29/1998-01-2903
 sopPredpisa: 1998-01-2903

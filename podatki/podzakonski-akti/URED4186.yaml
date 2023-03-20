@@ -1,17 +1,11 @@
 Text file: URED4186.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1167951600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-01-04 23:00:00
 idPredpisa: URED4186
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dolo\u010Ditvi prekr\u0161kov za kr\u0161itve dolo\u010Db Uredbe\
-  \ Sveta (ES) o za\u0161\u010Diti \u017Eivali med prevozom in postopki, povezanimi\
-  \ z njim"
+naslov: "UREDBO o dolo\u010Ditvi prekr\u0161kov za kr\u0161itve dolo\u010Db Uredbe
+  Sveta (ES) o za\u0161\u010Diti \u017Eivali med prevozom in postopki, povezanimi
+  z njim"
 npbNum: 0
 path: /2006/34/2006-01-3409
 sopPredpisa: 2006-01-3409

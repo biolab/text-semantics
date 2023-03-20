@@ -1,16 +1,10 @@
 Text file: AKT_905.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1411768800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-09-26 22:00:00
 idPredpisa: AKT_905
 idPredpisaChng: null
-instock: .nan
-naslov: "AKT o na\u010Dinu elektronskega posredovanja podatkov za primerjavo cenikov\
-  \ ponudnikov elektrike in zemeljskega plina za gospodinjske in male poslovne odjemalce"
+naslov: "AKT o na\u010Dinu elektronskega posredovanja podatkov za primerjavo cenikov
+  ponudnikov elektrike in zemeljskega plina za gospodinjske in male poslovne odjemalce"
 npbNum: 0
 path: /2014/28/2014-01-2870
 sopPredpisa: 2014-01-2870

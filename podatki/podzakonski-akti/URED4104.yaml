@@ -1,16 +1,10 @@
 Text file: URED4104.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1189202400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-09-07 22:00:00
 idPredpisa: URED4104
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o prenehanju veljavnosti Uredbe o metodologiji oblikovanja cen javnih\
-  \ telekomunikacijskih storitev in omre\u017Eij"
+naslov: "UREDBO o prenehanju veljavnosti Uredbe o metodologiji oblikovanja cen javnih
+  telekomunikacijskih storitev in omre\u017Eij"
 npbNum: 0
 path: /2007/41/2007-01-4164
 sopPredpisa: 2007-01-4164

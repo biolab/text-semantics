@@ -1,16 +1,10 @@
 Text file: AKT_1164.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1591048800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-06-01 22:00:00
 idPredpisa: AKT_1164
 idPredpisaChng: null
-instock: .nan
-naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem zemeljskega plina\
-  \ za geografsko obmo\u010Dje Ob\u010Dine \u017Dirovnica"
+naslov: "SISTEMSKA OBRATOVALNA NAVODILA za distribucijski sistem zemeljskega plina
+  za geografsko obmo\u010Dje Ob\u010Dine \u017Dirovnica"
 npbNum: 0
 path: /2020/10/2020-01-1069
 sopPredpisa: 2020-01-1069

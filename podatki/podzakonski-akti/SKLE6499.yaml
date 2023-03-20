@@ -1,13 +1,11 @@
 Text file: SKLE6499.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE6499
 idPredpisaChng: SKLE6499
-instock: .nan
-naslov: "SKLEP o soglasju za odprtje Konzulata Kne\u017Eevine Monako v Republiki Sloveniji\
-  \ s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "SKLEP o soglasju za odprtje Konzulata Kne\u017Eevine Monako v Republiki Sloveniji
+  s sede\u017Eem v Ljubljani, na \u010Delu s \u010Dastnim konzulom (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/26/2016-01-2614-2006-01-3362-npb1
 sopPredpisa: 2016-01-2614

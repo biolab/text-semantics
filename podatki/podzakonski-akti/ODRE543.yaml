@@ -1,16 +1,10 @@
 Text file: ODRE543.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 933976800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-08-06 22:00:00
 idPredpisa: ODRE543
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o poravnavi dela prispevkov za socialno varnost za morske ribi\u010D\
-  e za obdobje 1. 11. 1998 do 31. 7. 1999 v vi\u0161ini 9,129.171 SIT"
+naslov: "ODREDBO  o poravnavi dela prispevkov za socialno varnost za morske ribi\u010De
+  za obdobje 1. 11. 1998 do 31. 7. 1999 v vi\u0161ini 9,129.171 SIT"
 npbNum: 0
 path: /1999/30/1999-01-3027
 sopPredpisa: 1999-01-3027

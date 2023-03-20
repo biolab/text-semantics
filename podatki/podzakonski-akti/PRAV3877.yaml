@@ -1,17 +1,11 @@
 Text file: PRAV3877.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1025906400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-05 22:00:00
 idPredpisa: PRAV3877
 idPredpisaChng: PRAV3877
-instock: .nan
-naslov: "PRAVILNIK o tehni\u010Dnih pogojih za graditev, obratovanje in vzdr\u017E\
-  evanje plinovodov z najve\u010Djim delovnim tlakom do vklju\u010Dno 16 barov (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o tehni\u010Dnih pogojih za graditev, obratovanje in vzdr\u017Eevanje
+  plinovodov z najve\u010Djim delovnim tlakom do vklju\u010Dno 16 barov (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2002/26/2002-01-2626-2002-01-1152-npb1
 sopPredpisa: 2002-01-2626

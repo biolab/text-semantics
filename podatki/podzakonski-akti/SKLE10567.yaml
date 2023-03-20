@@ -1,12 +1,10 @@
 Text file: SKLE10567.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE10567
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o odprtju Konzulata Republike Slovenije v\_Recifeju, v Zvezni dr\u017E\
-  avi Pernambuco, v\_Federativni republiki Braziliji"
+naslov: "SKLEP o odprtju Konzulata Republike Slovenije v\_Recifeju, v Zvezni dr\u017Eavi
+  Pernambuco, v\_Federativni republiki Braziliji"
 npbNum: 0
 path: /2016/08/2016-01-0825
 sopPredpisa: 2016-01-0825

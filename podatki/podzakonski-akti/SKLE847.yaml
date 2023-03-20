@@ -1,14 +1,8 @@
 Text file: SKLE847.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 735516000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-04-22 22:00:00
 idPredpisa: SKLE847
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o izro\u010Ditvi kovancev za 20 in 10 stotinov v obtok"
 npbNum: 0
 path: /1993/09/1993-01-0983

@@ -1,14 +1,8 @@
 Text file: PRAV3506.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 734392800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-04-09 22:00:00
 idPredpisa: PRAV3506
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o evidenci statutov sindikatov
 npbNum: 0
 path: /1993/08/1993-01-0827

@@ -1,14 +1,8 @@
 Text file: ODRE911.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 953938800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2000-03-24 23:00:00
 idPredpisa: ODRE911
 idPredpisaChng: null
-instock: .nan
 naslov: "ODREDBO o stro\u0161kih za izdajo dovoljenja za delo"
 npbNum: 0
 path: /2000/11/2000-01-1155

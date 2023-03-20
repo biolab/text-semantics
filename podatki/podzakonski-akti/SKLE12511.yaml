@@ -1,16 +1,10 @@
 Text file: SKLE12511.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1637362800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-19 23:00:00
 idPredpisa: SKLE12511
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju Branka Rogli\u0107a za\
-  \ \u010Dastnega generalnega konzula v Splitu, v Republiki Hrva\u0161ki"
+naslov: "SKLEP o prenehanju veljavnosti Sklepa o imenovanju Branka Rogli\u0107a za
+  \u010Dastnega generalnega konzula v Splitu, v Republiki Hrva\u0161ki"
 npbNum: 0
 path: /2021/35/2021-01-3541
 sopPredpisa: 2021-01-3541

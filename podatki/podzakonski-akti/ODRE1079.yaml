@@ -1,16 +1,10 @@
 Text file: ODRE1079.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 866844000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1997-06-20 22:00:00
 idPredpisa: ODRE1079
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010D\
-  rta gozdnogospodarske enote Dole"
+naslov: "ODREDBO o javni razgrnitvi splo\u0161nega dela gozdnogospodarskega na\u010Drta
+  gozdnogospodarske enote Dole"
 npbNum: 0
 path: /1997/21/1997-01-2102
 sopPredpisa: 1997-01-2102

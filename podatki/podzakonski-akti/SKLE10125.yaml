@@ -1,16 +1,10 @@
 Text file: SKLE10125.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1411768800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2014-09-26 22:00:00
 idPredpisa: SKLE10125
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o objavi spremenjenih zneskov za zavarovanje odgovornosti zavarovalnega\
-  \ posrednika in zavarovalno posredni\u0161ke dru\u017Ebe"
+naslov: "SKLEP o objavi spremenjenih zneskov za zavarovanje odgovornosti zavarovalnega
+  posrednika in zavarovalno posredni\u0161ke dru\u017Ebe"
 npbNum: 0
 path: /2014/28/2014-01-2809
 sopPredpisa: 2014-01-2809

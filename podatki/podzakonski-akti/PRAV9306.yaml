@@ -1,16 +1,10 @@
 Text file: PRAV9306.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1226703600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-11-14 23:00:00
 idPredpisa: PRAV9306
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu in pogojih dodeljevanja \u010Dezmejnih prenosnih\
-  \ zmogljivosti"
+naslov: "PRAVILNIK o na\u010Dinu in pogojih dodeljevanja \u010Dezmejnih prenosnih
+  zmogljivosti"
 npbNum: 0
 path: /2008/45/2008-01-4598
 sopPredpisa: 2008-01-4598

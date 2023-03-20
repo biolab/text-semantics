@@ -1,17 +1,11 @@
 Text file: SKLE3589.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1046473200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-02-28 23:00:00
 idPredpisa: SKLE3589
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP  o dolo\u010Ditvi in razvr\u0161\u010Danju obmo\u010Dja z vi\u0161\
-  jo stopnjo brezposelnosti od povpre\u010Dne v Republiki Sloveniji ter dolo\u010D\
-  anja ukrepov aktivne politike zaposlovanja za leto 2003"
+naslov: "SKLEP  o dolo\u010Ditvi in razvr\u0161\u010Danju obmo\u010Dja z vi\u0161jo
+  stopnjo brezposelnosti od povpre\u010Dne v Republiki Sloveniji ter dolo\u010Danja
+  ukrepov aktivne politike zaposlovanja za leto 2003"
 npbNum: 0
 path: /2003/08/2003-01-0827
 sopPredpisa: 2003-01-0827

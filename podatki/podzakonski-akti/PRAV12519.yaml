@@ -1,17 +1,11 @@
 Text file: PRAV12519.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1441404000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-09-04 22:00:00
 idPredpisa: PRAV12519
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o na\u010Dinu obrestovanja, rokih obra\u010Duna in pla\u010Dila\
-  \ obresti ter dolo\u010Danju obrestnih mer za posle sistema enotnega zakladni\u0161\
-  kega ra\u010Duna"
+naslov: "PRAVILNIK o na\u010Dinu obrestovanja, rokih obra\u010Duna in pla\u010Dila
+  obresti ter dolo\u010Danju obrestnih mer za posle sistema enotnega zakladni\u0161kega
+  ra\u010Duna"
 npbNum: 0
 path: /2015/26/2015-01-2656
 sopPredpisa: 2015-01-2656

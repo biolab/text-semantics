@@ -1,14 +1,8 @@
 Text file: URED3099.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1230764400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2008-12-31 23:00:00
 idPredpisa: URED3099
 idPredpisaChng: URED3099
-instock: .nan
 naslov: "UREDBA (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 1)"
 npbNum: 1
 path: /2008/42/2008-01-4242-2003-01-5835-npb1

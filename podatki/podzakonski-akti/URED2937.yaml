@@ -1,16 +1,10 @@
 Text file: URED2937.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1056751200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-27 22:00:00
 idPredpisa: URED2937
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o merilih in kriterijih za dolo\u010Ditev delovnih mest, za katera\
-  \ je obvezna vklju\u010Ditev v dodatno pokojninsko zavarovanje"
+naslov: "UREDBO o merilih in kriterijih za dolo\u010Ditev delovnih mest, za katera
+  je obvezna vklju\u010Ditev v dodatno pokojninsko zavarovanje"
 npbNum: 0
 path: /2003/27/2003-01-2779
 sopPredpisa: 2003-01-2779

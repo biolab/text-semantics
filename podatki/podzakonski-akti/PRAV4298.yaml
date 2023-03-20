@@ -1,16 +1,10 @@
 Text file: PRAV4298.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1027720800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-26 22:00:00
 idPredpisa: PRAV4298
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o prenehanju uporabe odredbe o obveznem atestiranju regulatorjev\
-  \ tlaka za uteko\u010Dinjen plin propan - butan"
+naslov: "PRAVILNIK o prenehanju uporabe odredbe o obveznem atestiranju regulatorjev
+  tlaka za uteko\u010Dinjen plin propan - butan"
 npbNum: 0
 path: /2002/32/2002-01-3203
 sopPredpisa: 2002-01-3203

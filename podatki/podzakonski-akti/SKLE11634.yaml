@@ -1,12 +1,10 @@
 Text file: SKLE11634.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE11634
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Kara\u010D\
-  iju, v Islamski republiki Pakistan"
+naslov: "SKLEP o razre\u0161itvi \u010Dastnega konzula Republike Slovenije v Kara\u010Diju,
+  v Islamski republiki Pakistan"
 npbNum: 0
 path: /2020/02/2020-01-0209
 sopPredpisa: 2020-01-0209

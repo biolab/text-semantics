@@ -1,16 +1,10 @@
 Text file: PRAV13011.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1506117600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-09-22 22:00:00
 idPredpisa: PRAV13011
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dolo\u010Ditvi podprogramov, ki se upo\u0161tevajo za izra\u010D\
-  un povpre\u010Dnih stro\u0161kov za financiranje nalog ob\u010Din"
+naslov: "PRAVILNIK o dolo\u010Ditvi podprogramov, ki se upo\u0161tevajo za izra\u010Dun
+  povpre\u010Dnih stro\u0161kov za financiranje nalog ob\u010Din"
 npbNum: 0
 path: /2017/22/2017-01-2297
 sopPredpisa: 2017-01-2297

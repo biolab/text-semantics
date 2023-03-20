@@ -1,16 +1,9 @@
 Text file: PRAV5406.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1072306800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-12-24 23:00:00
 idPredpisa: PRAV5406
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obliki in vsebini napovedi za pla\u010Dilo vodnega povra\u010D\
-  ila"
+naslov: "PRAVILNIK o obliki in vsebini napovedi za pla\u010Dilo vodnega povra\u010Dila"
 npbNum: 0
 path: /2003/55/2003-01-5572
 sopPredpisa: 2003-01-5572

@@ -1,16 +1,10 @@
 Text file: AKT_254.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 997480800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-08-10 22:00:00
 idPredpisa: AKT_254
 idPredpisaChng: null
-instock: .nan
-naslov: "SOGLASJE  k aktu o ustanovitvi Fundacije Gostinstvo in turizem \u2013 GT,\
-  \ ustanove"
+naslov: "SOGLASJE  k aktu o ustanovitvi Fundacije Gostinstvo in turizem \u2013 GT,
+  ustanove"
 npbNum: 0
 path: /2001/35/2001-01-3580
 sopPredpisa: 2001-01-3580

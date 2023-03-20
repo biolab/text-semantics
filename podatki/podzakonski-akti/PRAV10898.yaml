@@ -1,13 +1,10 @@
 Text file: PRAV10898.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: PRAV10898
 idPredpisaChng: null
-instock: .nan
-naslov: "SEZNAM ZDRAVIL za uporabo v humani medicini, za katera je bilo od 15. marca\
-  \ 2011 do 31. avgusta 2011 izdano, spremenjeno ali podalj\u0161ano dovoljenje za\
-  \ promet"
+naslov: "SEZNAM ZDRAVIL za uporabo v humani medicini, za katera je bilo od 15. marca
+  2011 do 31. avgusta 2011 izdano, spremenjeno ali podalj\u0161ano dovoljenje za promet"
 npbNum: 0
 path: /2011/37/2011-01-3794
 sopPredpisa: 2011-01-3794

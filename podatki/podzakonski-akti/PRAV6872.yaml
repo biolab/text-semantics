@@ -1,16 +1,10 @@
 Text file: PRAV6872.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132959600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-25 23:00:00
 idPredpisa: PRAV6872
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Bohinj\
-  \ (2004\u20132013)"
+naslov: "PRAVILNIK o gozdnogospodarskem na\u010Drtu gozdnogospodarske enote Bohinj
+  (2004\u20132013)"
 npbNum: 0
 path: /2005/45/2005-01-4584
 sopPredpisa: 2005-01-4584

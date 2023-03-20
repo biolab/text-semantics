@@ -1,17 +1,10 @@
 Text file: PRAV10102.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1264806000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-01-29 23:00:00
 idPredpisa: PRAV10102
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o razveljavitvi Pravilnika o koli\u010Dinah pesticidov in drugih\
-  \ strupenih snovi, hormonov, antibiotikov in mikotoksinov, ki smejo biti v \u017E\
-  ivilih"
+naslov: "PRAVILNIK o razveljavitvi Pravilnika o koli\u010Dinah pesticidov in drugih
+  strupenih snovi, hormonov, antibiotikov in mikotoksinov, ki smejo biti v \u017Eivilih"
 npbNum: 0
 path: /2010/02/2010-01-0243
 sopPredpisa: 2010-01-0243

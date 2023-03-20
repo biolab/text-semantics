@@ -1,14 +1,8 @@
 Text file: URED1235.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 816044400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1995-11-10 23:00:00
 idPredpisa: URED1235
 idPredpisaChng: null
-instock: .nan
 naslov: UREDBO o izdaji obveznic Republike Slovenije, ki se zamenjajo za obveznice
   Agencije Republike Slovenije za sanacijo bank in hranilnic
 npbNum: 0

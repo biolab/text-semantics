@@ -1,16 +1,10 @@
 Text file: PRAV13669.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1575068400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-11-29 23:00:00
 idPredpisa: PRAV13669
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o varnostni dokumentaciji in varnostnih ukrepih organov dr\u017E\
-  avne uprave"
+naslov: "PRAVILNIK o varnostni dokumentaciji in varnostnih ukrepih organov dr\u017Eavne
+  uprave"
 npbNum: 0
 path: /2019/29/2019-01-2990
 sopPredpisa: 2019-01-2990

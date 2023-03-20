@@ -1,16 +1,10 @@
 Text file: URED5230.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1260831600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-12-14 23:00:00
 idPredpisa: URED5230
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o skupnih pravilih\
-  \ za opravljanje zra\u010Dnih prevozov v Skupnosti"
+naslov: "UREDBO o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o skupnih pravilih
+  za opravljanje zra\u010Dnih prevozov v Skupnosti"
 npbNum: 0
 path: /2009/42/2009-01-4257
 sopPredpisa: 2009-01-4257

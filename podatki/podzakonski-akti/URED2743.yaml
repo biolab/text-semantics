@@ -1,21 +1,15 @@
 Text file: URED2743.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1067641200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-10-31 23:00:00
 idPredpisa: URED2743
 idPredpisaChng: URED2743
-instock: .nan
-naslov: "UREDBA o izvajanju Evropskega sporazuma o pridru\u017Eitvi med Republiko\
-  \ Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010D\
-  lanicami, ki delujejo v okviru Evropske unije na drugi strani, v delu, ki se nana\u0161\
-  a na trgovino in za\u010Dasni uporabi zapisnika trgovinskih pogajanj med Evropsko\
-  \ Komisijo in Slovenijo o predelanih kmetijskih proizvodih, zajetih v Protokolu\
-  \ 3 Evropskega sporazuma z dne 5. 2. 2003  (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 5)"
+naslov: "UREDBA o izvajanju Evropskega sporazuma o pridru\u017Eitvi med Republiko
+  Slovenijo na eni strani in Evropskimi skupnostmi in njihovimi dr\u017Eavami \u010Dlanicami,
+  ki delujejo v okviru Evropske unije na drugi strani, v delu, ki se nana\u0161a na
+  trgovino in za\u010Dasni uporabi zapisnika trgovinskih pogajanj med Evropsko Komisijo
+  in Slovenijo o predelanih kmetijskih proizvodih, zajetih v Protokolu 3 Evropskega
+  sporazuma z dne 5. 2. 2003  (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  5)"
 npbNum: 5
 path: /2003/46/2003-01-4622-2002-01-5624-npb5
 sopPredpisa: 2003-01-4622

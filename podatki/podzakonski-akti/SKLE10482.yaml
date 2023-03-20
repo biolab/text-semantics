@@ -1,17 +1,11 @@
 Text file: SKLE10482.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10482
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Smernic organa EBA o nacionalnih za\u010Dasnih seznamih najbolj\
-  \ reprezentativnih storitev, povezanih s pla\u010Dilnim ra\u010Dunom, za katere\
-  \ se pla\u010Duje nadomestilo"
+naslov: "SKLEP o uporabi Smernic organa EBA o nacionalnih za\u010Dasnih seznamih najbolj
+  reprezentativnih storitev, povezanih s pla\u010Dilnim ra\u010Dunom, za katere se
+  pla\u010Duje nadomestilo"
 npbNum: 0
 path: /2015/19/2015-01-1952
 sopPredpisa: 2015-01-1952

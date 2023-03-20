@@ -1,16 +1,10 @@
 Text file: SKLE7202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1184104800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-07-10 22:00:00
 idPredpisa: SKLE7202
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dolo\u010Ditvi roka za vklju\u010Ditev Zavoda Republike Slovenije\
-  \ za varstvo okolja v sistem enotnega upravljanja s prostimi denarnimi sredstvi"
+naslov: "SKLEP o dolo\u010Ditvi roka za vklju\u010Ditev Zavoda Republike Slovenije
+  za varstvo okolja v sistem enotnega upravljanja s prostimi denarnimi sredstvi"
 npbNum: 0
 path: /2007/33/2007-01-3305
 sopPredpisa: 2007-01-3305

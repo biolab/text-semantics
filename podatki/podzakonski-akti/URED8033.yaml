@@ -1,16 +1,9 @@
 Text file: URED8033.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1660773600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-08-17 22:00:00
 idPredpisa: URED8033
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o ekolo\u0161ki pridelavi in predelavi kmetijskih pridelkov in \u017E\
-  ivil"
+naslov: "UREDBO o ekolo\u0161ki pridelavi in predelavi kmetijskih pridelkov in \u017Eivil"
 npbNum: 0
 path: /2022/26/2022-01-2608
 sopPredpisa: 2022-01-2608

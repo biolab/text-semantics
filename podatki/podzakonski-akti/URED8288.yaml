@@ -1,16 +1,10 @@
 Text file: URED8288.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1625263200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-07-02 22:00:00
 idPredpisa: URED8288
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M1A/1\
-  \ \u2013 interkonekcija Rogatec"
+naslov: "UREDBO o dr\u017Eavnem prostorskem na\u010Drtu za prenosni plinovod M1A/1
+  \u2013 interkonekcija Rogatec"
 npbNum: 0
 path: /2021/21/2021-01-2127
 sopPredpisa: 2021-01-2127

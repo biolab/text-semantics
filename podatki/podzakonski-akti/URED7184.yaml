@@ -1,17 +1,11 @@
 Text file: URED7184.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1453158000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-18 23:00:00
 idPredpisa: URED7184
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe Komisije (EU) o stalni plovnosti zrakoplovov in\
-  \ letalskih izdelkov, delov in naprav ter o potrjevanju organizacij in\_osebja,\
-  \ ki se ukvarjajo s temi nalogami"
+naslov: "UREDBO o izvajanju Uredbe Komisije (EU) o stalni plovnosti zrakoplovov in
+  letalskih izdelkov, delov in naprav ter o potrjevanju organizacij in\_osebja, ki
+  se ukvarjajo s temi nalogami"
 npbNum: 0
 path: /2016/01/2016-01-0138
 sopPredpisa: 2016-01-0138

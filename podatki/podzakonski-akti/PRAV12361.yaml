@@ -1,16 +1,10 @@
 Text file: PRAV12361.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451948400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-04 23:00:00
 idPredpisa: PRAV12361
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o obliki in navodilu za pripravo letnega programa dela dr\u017E\
-  avnega to\u017Eilstva"
+naslov: "PRAVILNIK o obliki in navodilu za pripravo letnega programa dela dr\u017Eavnega
+  to\u017Eilstva"
 npbNum: 0
 path: /2015/39/2015-01-3919
 sopPredpisa: 2015-01-3919

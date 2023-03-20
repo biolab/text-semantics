@@ -1,14 +1,8 @@
 Text file: PRAV9806.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1254348000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2009-09-30 22:00:00
 idPredpisa: PRAV9806
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o posredovanju podatkov o postopkih zaradi insolventnosti v informatizirani
   obliki in tarifi o nadomestilih za posredovanje podatkov
 npbNum: 0

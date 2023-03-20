@@ -1,16 +1,10 @@
 Text file: SKLE10989.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1482966000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-12-28 23:00:00
 idPredpisa: SKLE10989
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o vsebini in uporabi slovenske strukture mednarodne \u0161tevilke ban\u010D\
-  nega ra\u010Duna"
+naslov: "SKLEP o vsebini in uporabi slovenske strukture mednarodne \u0161tevilke ban\u010Dnega
+  ra\u010Duna"
 npbNum: 0
 path: /2016/37/2016-01-3705
 sopPredpisa: 2016-01-3705

@@ -1,14 +1,8 @@
 Text file: SKLE3202.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1027720800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-07-26 22:00:00
 idPredpisa: SKLE3202
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o peti izdaji obveznic Slovenske od\u0161kodninske dru\u017Ebe, d.d."
 npbNum: 0
 path: /2002/32/2002-01-3246

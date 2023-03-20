@@ -1,17 +1,11 @@
 Text file: PRAV10773.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1307138400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-03 22:00:00
 idPredpisa: PRAV10773
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in\
-  \ zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta\
-  \ 2010"
+naslov: "PRAVILNIK o valorizacijskih koli\u010Dnikih za prera\u010Dun pla\u010D in
+  zavarovalnih osnov iz prej\u0161njih let na raven pla\u010D in pokojnin iz leta
+  2010"
 npbNum: 0
 path: /2011/20/2011-01-2098
 sopPredpisa: 2011-01-2098

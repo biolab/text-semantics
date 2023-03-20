@@ -1,17 +1,11 @@
 Text file: ODRE1776.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1011394800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-01-18 23:00:00
 idPredpisa: ODRE1776
 idPredpisaChng: ODRE1776
-instock: .nan
-naslov: "ODREDBA o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne\
-  \ izobrazbe \u2013 Ustni higienik (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161\
-  t. 1)"
+naslov: "ODREDBA o izobra\u017Eevalnem programu za pridobitev vi\u0161je strokovne
+  izobrazbe \u2013 Ustni higienik (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t.
+  1)"
 npbNum: 1
 path: /2002/02/2002-01-0250-2001-01-4994-npb1
 sopPredpisa: 2002-01-0250

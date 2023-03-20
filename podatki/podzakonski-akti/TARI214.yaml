@@ -1,20 +1,11 @@
 Text file: TARI214.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1546297200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1545692400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2018-12-31 23:00:00
+datumZacetkaVelj: 2018-12-24 23:00:00
 idPredpisa: TARI214
 idPredpisaChng: null
-instock: .nan
-naslov: "TARIFO 2019 o vrednosti to\u010Dke za pla\u010Dilo na podlagi dovoljenja\
-  \ za izvajanje televizijske dejavnosti oziroma vpisa v uradno evidenco ponudnikov\
-  \ avdiovizualnih medijskih storitev na zahtevo"
+naslov: "TARIFO 2019 o vrednosti to\u010Dke za pla\u010Dilo na podlagi dovoljenja
+  za izvajanje televizijske dejavnosti oziroma vpisa v uradno evidenco ponudnikov
+  avdiovizualnih medijskih storitev na zahtevo"
 npbNum: 0
 path: /2018/41/2018-01-4103
 sopPredpisa: 2018-01-4103

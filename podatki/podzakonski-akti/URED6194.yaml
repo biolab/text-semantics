@@ -1,16 +1,10 @@
 Text file: URED6194.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1342216800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-07-13 22:00:00
 idPredpisa: URED6194
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o omejevalnih ukrepih proti Iranu in izvajanju uredbe Sveta (EU) \u0161\
-  t. 359/2011"
+naslov: "UREDBO o omejevalnih ukrepih proti Iranu in izvajanju uredbe Sveta (EU) \u0161t.
+  359/2011"
 npbNum: 0
 path: /2012/22/2012-01-2216
 sopPredpisa: 2012-01-2216

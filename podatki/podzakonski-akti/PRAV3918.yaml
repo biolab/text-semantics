@@ -1,16 +1,10 @@
 Text file: PRAV3918.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 999900000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2001-09-07 22:00:00
 idPredpisa: PRAV3918
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o medicinskih merilih, na\u010Dinu in postopku ugotavljanja mo\u017E\
-  ganske smrti ter sestavi komisije za ugotavljanje mo\u017Eganske smrti"
+naslov: "PRAVILNIK o medicinskih merilih, na\u010Dinu in postopku ugotavljanja mo\u017Eganske
+  smrti ter sestavi komisije za ugotavljanje mo\u017Eganske smrti"
 npbNum: 0
 path: /2001/37/2001-01-3791
 sopPredpisa: 2001-01-3791

@@ -1,16 +1,10 @@
 Text file: SKLE10559.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1453503600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-01-22 23:00:00
 idPredpisa: SKLE10559
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o obrazcu za prijavo terjatev upnikov iz dr\u017Eave \u010Dlanice do\
-  \ zavarovalnic"
+naslov: "SKLEP o obrazcu za prijavo terjatev upnikov iz dr\u017Eave \u010Dlanice do
+  zavarovalnic"
 npbNum: 0
 path: /2016/00/2016-01-0013
 sopPredpisa: 2016-01-0013

@@ -1,12 +1,10 @@
 Text file: SKLE9022.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: SKLE9022
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o izdaji Tretje izdaje Slovenskega dodatka k Evropski farmakopeji\
-  \ \u2013 Formulariuma Slovenicuma 3.0"
+naslov: "ODREDBO o izdaji Tretje izdaje Slovenskega dodatka k Evropski farmakopeji
+  \u2013 Formulariuma Slovenicuma 3.0"
 npbNum: 0
 path: /2011/32/2011-01-3208
 sopPredpisa: 2011-01-3208

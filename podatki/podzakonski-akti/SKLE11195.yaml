@@ -1,17 +1,11 @@
 Text file: SKLE11195.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1503093600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2017-08-18 22:00:00
 idPredpisa: SKLE11195
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi smernic Evropskega organa za vrednostne papirje in trge o\
-  \ pravilih in postopkih pri neizpolnjevanju obveznosti udele\u017Eencev centralne\
-  \ depotne dru\u017Ebe"
+naslov: "SKLEP o uporabi smernic Evropskega organa za vrednostne papirje in trge o
+  pravilih in postopkih pri neizpolnjevanju obveznosti udele\u017Eencev centralne
+  depotne dru\u017Ebe"
 npbNum: 0
 path: /2017/22/2017-01-2207
 sopPredpisa: 2017-01-2207

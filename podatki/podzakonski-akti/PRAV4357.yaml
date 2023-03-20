@@ -1,14 +1,8 @@
 Text file: PRAV4357.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1033768800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2002-10-04 22:00:00
 idPredpisa: PRAV4357
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o programih posebnega pomena
 npbNum: 0
 path: /2002/41/2002-01-4171

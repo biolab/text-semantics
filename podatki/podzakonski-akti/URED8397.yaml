@@ -1,19 +1,13 @@
 Text file: URED8397.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1636153200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-11-05 23:00:00
 idPredpisa: URED8397
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o podelitvi koncesije za opravljanje javne zdravstvene slu\u017Ebe\
-  \ na podro\u010Djih \u010Deljustne in zobne ortopedije v zobozdravstveni dejavnosti,\
-  \ zobnih bolezni in endodontije v zobozdravstveni dejavnosti, parodontologije v\
-  \ zobozdravstveni dejavnosti in dermatovenerologije v specialisti\u010Dni zunajbolni\u0161\
-  ni\u010Dni dejavnosti"
+naslov: "UREDBO o podelitvi koncesije za opravljanje javne zdravstvene slu\u017Ebe
+  na podro\u010Djih \u010Deljustne in zobne ortopedije v zobozdravstveni dejavnosti,
+  zobnih bolezni in endodontije v zobozdravstveni dejavnosti, parodontologije v zobozdravstveni
+  dejavnosti in dermatovenerologije v specialisti\u010Dni zunajbolni\u0161ni\u010Dni
+  dejavnosti"
 npbNum: 0
 path: /2021/34/2021-01-3420
 sopPredpisa: 2021-01-3420

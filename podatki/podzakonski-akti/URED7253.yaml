@@ -1,16 +1,10 @@
 Text file: URED7253.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1450998000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-12-24 23:00:00
 idPredpisa: URED7253
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o koncesiji za rabo termalne vode za potrebe Zdravili\u0161\u010D\
-  a Radenci iz vrtin V-M in V-50t"
+naslov: "UREDBO o koncesiji za rabo termalne vode za potrebe Zdravili\u0161\u010Da
+  Radenci iz vrtin V-M in V-50t"
 npbNum: 0
 path: /2015/41/2015-01-4105
 sopPredpisa: 2015-01-4105

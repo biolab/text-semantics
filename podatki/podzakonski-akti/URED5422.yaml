@@ -1,16 +1,10 @@
 Text file: URED5422.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1272060000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-04-23 22:00:00
 idPredpisa: URED5422
 idPredpisaChng: URED5422
-instock: .nan
-naslov: "UREDBA o omejitvah in prepovedih zaposlovanja in dela tujcev (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "UREDBA o omejitvah in prepovedih zaposlovanja in dela tujcev (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2010/16/2010-01-1611-2010-01-0512-npb1
 sopPredpisa: 2010-01-1611

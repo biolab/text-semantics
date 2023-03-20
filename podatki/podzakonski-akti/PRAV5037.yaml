@@ -1,16 +1,10 @@
 Text file: PRAV5037.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1054677600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2003-06-03 22:00:00
 idPredpisa: PRAV5037
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega strokovnega izobra\u017E\
-  evanja elektrotehnik ra\u010Dunalni\u0161tva"
+naslov: "PRAVILNIK o izobra\u017Eevalnem programu srednjega strokovnega izobra\u017Eevanja
+  elektrotehnik ra\u010Dunalni\u0161tva"
 npbNum: 0
 path: /2003/25/2003-01-2564
 sopPredpisa: 2003-01-2564

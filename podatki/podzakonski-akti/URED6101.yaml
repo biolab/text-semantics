@@ -1,14 +1,8 @@
 Text file: URED6101.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1350079200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2012-10-12 22:00:00
 idPredpisa: URED6101
 idPredpisaChng: null
-instock: .nan
 naslov: "UREDBO o izdelavi voznega reda omre\u017Eja javne \u017Eelezni\u0161ke infrastrukture"
 npbNum: 0
 path: /2012/28/2012-01-2821

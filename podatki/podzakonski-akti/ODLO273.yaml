@@ -1,16 +1,10 @@
 Text file: ODLO273.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1097877600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-10-15 22:00:00
 idPredpisa: ODLO273
 idPredpisaChng: ODLO273
-instock: .nan
-naslov: "ODLOK o razglasitvi Vrta ob vili Ferrari v \u0160tanjelu za kulturni spomenik\
-  \ dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "ODLOK o razglasitvi Vrta ob vili Ferrari v \u0160tanjelu za kulturni spomenik
+  dr\u017Eavnega pomena (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2004/46/2004-01-4630-1999-01-3852-npb2
 sopPredpisa: 2004-01-4630

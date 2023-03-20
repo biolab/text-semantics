@@ -1,14 +1,8 @@
 Text file: PRAV7060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1122674400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-07-29 22:00:00
 idPredpisa: PRAV7060
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o razveljavitvi Pravilnika o postopkih izvajanja notranjega nadzora
   higiene v obratih za klanje in proizvodnjo mesa parkljarjev, kopitarjev in perutnine
 npbNum: 0

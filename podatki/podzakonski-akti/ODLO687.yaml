@@ -1,14 +1,8 @@
 Text file: ODLO687.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 686876400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1991-10-07 23:00:00
 idPredpisa: ODLO687
 idPredpisaChng: null
-instock: .nan
 naslov: "ODLOK  o oprostitvi pla\u010Dila posebne takse za uvo\u017Eeno blago"
 npbNum: 0
 path: /1991/06/1991-01-0617

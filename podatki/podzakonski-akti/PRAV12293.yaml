@@ -1,17 +1,11 @@
 Text file: PRAV12293.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1428098400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-04-03 22:00:00
 idPredpisa: PRAV12293
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o posredovanju podatkov Finan\u010Dne uprave Republike Slovenije\
-  \ in Ministrstva za delo, dru\u017Eino, socialne zadeve in enake mo\u017Enosti Zavodu\
-  \ za pokojninsko in invalidsko zavarovanje Slovenije in uporabi teh podatkov"
+naslov: "PRAVILNIK o posredovanju podatkov Finan\u010Dne uprave Republike Slovenije
+  in Ministrstva za delo, dru\u017Eino, socialne zadeve in enake mo\u017Enosti Zavodu
+  za pokojninsko in invalidsko zavarovanje Slovenije in uporabi teh podatkov"
 npbNum: 0
 path: /2015/09/2015-01-0909
 sopPredpisa: 2015-01-0909

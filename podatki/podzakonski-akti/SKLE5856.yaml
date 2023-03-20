@@ -1,17 +1,11 @@
 Text file: SKLE5856.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1118959200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-06-16 22:00:00
 idPredpisa: SKLE5856
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta\
-  \ za prelo\u017Eitev glavne ceste G1-6 in regionalne ceste R2-404 na obmo\u010D\
-  ju Ilirske Bistrice"
+naslov: "SKLEP o javni razgrnitvi predloga dr\u017Eavnega lokacijskega na\u010Drta
+  za prelo\u017Eitev glavne ceste G1-6 in regionalne ceste R2-404 na obmo\u010Dju
+  Ilirske Bistrice"
 npbNum: 0
 path: /2005/25/2005-01-2597
 sopPredpisa: 2005-01-2597

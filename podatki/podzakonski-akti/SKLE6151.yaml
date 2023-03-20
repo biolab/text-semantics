@@ -1,14 +1,8 @@
 Text file: SKLE6151.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1132095600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2005-11-15 23:00:00
 idPredpisa: SKLE6151
 idPredpisaChng: null
-instock: .nan
 naslov: "SKLEP o posebnem programu vzgoje in izobra\u017Eevanja"
 npbNum: 0
 path: /2005/44/2005-01-4434

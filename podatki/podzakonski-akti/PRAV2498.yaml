@@ -1,14 +1,8 @@
 Text file: PRAV2498.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 754700400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1993-11-30 23:00:00
 idPredpisa: PRAV2498
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o posebnih pogojih delovanja neprofitnih stanovanjskih organizacij
 npbNum: 0
 path: /1993/23/1993-01-2365

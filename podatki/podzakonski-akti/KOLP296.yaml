@@ -1,12 +1,10 @@
 Text file: KOLP296.txt
-datumZacetkaUpor: &id001 !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: *id001
+datumZacetkaUpor: null
+datumZacetkaVelj: null
 idPredpisa: KOLP296
 idPredpisaChng: null
-instock: .nan
-naslov: "ODPOVEDUJE Kolektivno pogodbo za dejavnosti pridobivanja in predelave nekovinskih\
-  \ rudnin Slovenije (Uradni list RS, \u0161t. 106/06) "
+naslov: "ODPOVEDUJE Kolektivno pogodbo za dejavnosti pridobivanja in predelave nekovinskih
+  rudnin Slovenije (Uradni list RS, \u0161t. 106/06) "
 npbNum: 0
 path: /2010/42/2010-01-4223
 sopPredpisa: 2010-01-4223

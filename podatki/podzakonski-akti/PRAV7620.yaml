@@ -1,14 +1,8 @@
 Text file: PRAV7620.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1144447200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2006-04-07 22:00:00
 idPredpisa: PRAV7620
 idPredpisaChng: null
-instock: .nan
 naslov: PRAVILNIK o prenehanju veljavnosti Pravilnika o meroslovnih pogojih za elektronsko
   kontrolno napravo za nadzor nad delovanjem igralnih avtomatov
 npbNum: 0

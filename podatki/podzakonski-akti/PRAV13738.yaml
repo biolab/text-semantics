@@ -1,16 +1,10 @@
 Text file: PRAV13738.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1585350000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2020-03-27 23:00:00
 idPredpisa: PRAV13738
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o minimalnih tehni\u010Dnih zahtevah za gradnjo, obratovanje in\
-  \ vzdr\u017Eevanje elektroenergetskih nizkonapetostnih vodov"
+naslov: "PRAVILNIK o minimalnih tehni\u010Dnih zahtevah za gradnjo, obratovanje in
+  vzdr\u017Eevanje elektroenergetskih nizkonapetostnih vodov"
 npbNum: 0
 path: /2020/05/2020-01-0536
 sopPredpisa: 2020-01-0536

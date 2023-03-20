@@ -1,16 +1,10 @@
 Text file: SKLE12381.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1618005600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2021-04-09 22:00:00
 idPredpisa: SKLE12381
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o podalj\u0161anju ukrepa delnega povra\u010Dila nadomestila pla\u010D\
-  e delavcem na za\u010Dasnem \u010Dakanju na delo"
+naslov: "SKLEP o podalj\u0161anju ukrepa delnega povra\u010Dila nadomestila pla\u010De
+  delavcem na za\u010Dasnem \u010Dakanju na delo"
 npbNum: 0
 path: /2021/11/2021-01-1138
 sopPredpisa: 2021-01-1138

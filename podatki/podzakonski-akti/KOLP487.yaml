@@ -1,16 +1,10 @@
 Text file: KOLP487.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564610400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-07-31 22:00:00
 idPredpisa: KOLP487
 idPredpisaChng: KOLP487
-instock: .nan
-naslov: "KOLEKTIVNA POGODBA za lesarstvo (neuradno pre\u010Di\u0161\u010Deno besedilo\
-  \ \u0161t. 2)"
+naslov: "KOLEKTIVNA POGODBA za lesarstvo (neuradno pre\u010Di\u0161\u010Deno besedilo
+  \u0161t. 2)"
 npbNum: 2
 path: /2019/21/2019-01-2137-2017-01-2703-npb2
 sopPredpisa: 2019-01-2137

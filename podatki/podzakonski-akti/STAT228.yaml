@@ -1,14 +1,8 @@
 Text file: STAT228.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1475532000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-10-03 22:00:00
 idPredpisa: STAT228
 idPredpisaChng: null
-instock: .nan
 naslov: STATUT javnega zavoda Slovenska akreditacija
 npbNum: 0
 path: /2016/31/2016-01-3147

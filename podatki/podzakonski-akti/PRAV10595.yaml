@@ -1,16 +1,10 @@
 Text file: PRAV10595.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1309471200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-06-30 22:00:00
 idPredpisa: PRAV10595
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o dovoljenjih za u\u010Ditelja vo\u017Enje, u\u010Ditelja predpisov\
-  \ in strokovnega vodjo \u0161ole vo\u017Enje"
+naslov: "PRAVILNIK o dovoljenjih za u\u010Ditelja vo\u017Enje, u\u010Ditelja predpisov
+  in strokovnega vodjo \u0161ole vo\u017Enje"
 npbNum: 0
 path: /2011/21/2011-01-2106
 sopPredpisa: 2011-01-2106

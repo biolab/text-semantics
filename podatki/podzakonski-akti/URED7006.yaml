@@ -1,16 +1,10 @@
 Text file: URED7006.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653084000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-20 22:00:00
 idPredpisa: URED7006
 idPredpisaChng: URED7006
-instock: .nan
-naslov: "UREDBA o vodovarstvenem obmo\u010Dju za vodno telo vodonosnika Ljubljanskega\
-  \ polja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
+naslov: "UREDBA o vodovarstvenem obmo\u010Dju za vodno telo vodonosnika Ljubljanskega
+  polja (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 2)"
 npbNum: 2
 path: /2022/14/2022-01-1463-2015-01-1813-npb2
 sopPredpisa: 2022-01-1463

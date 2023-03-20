@@ -1,16 +1,10 @@
 Text file: PRAV10060.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1650492000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-04-20 22:00:00
 idPredpisa: PRAV10060
 idPredpisaChng: PRAV10060
-instock: .nan
-naslov: "PRAVILNIK o standardih in normativih socialnovarstvenih storitev (neuradno\
-  \ pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
+naslov: "PRAVILNIK o standardih in normativih socialnovarstvenih storitev (neuradno
+  pre\u010Di\u0161\u010Deno besedilo \u0161t. 9)"
 npbNum: 9
 path: /2022/11/2022-01-1190-2010-01-2321-npb9
 sopPredpisa: 2022-01-1190

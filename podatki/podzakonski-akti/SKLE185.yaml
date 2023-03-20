@@ -1,17 +1,11 @@
 Text file: SKLE185.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 852073200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-12-31 23:00:00
 idPredpisa: SKLE185
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL, \u0161t. 35 v zvezi z dolo\u010D\
-  anjem zamudnih obresti za pristojbine na zra\u010Dnih poteh, ki veljajo od 1. januarja\
-  \ 1997 dalje"
+naslov: "SKLEP raz\u0161irjene komisije EUROCONTROL, \u0161t. 35 v zvezi z dolo\u010Danjem
+  zamudnih obresti za pristojbine na zra\u010Dnih poteh, ki veljajo od 1. januarja
+  1997 dalje"
 npbNum: 0
 path: /1996/41/1996-01-4158
 sopPredpisa: 1996-01-4158

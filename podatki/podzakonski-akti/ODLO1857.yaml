@@ -1,19 +1,10 @@
 Text file: ODLO1857.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1451602800000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1449874800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2015-12-31 23:00:00
+datumZacetkaVelj: 2015-12-11 23:00:00
 idPredpisa: ODLO1857
 idPredpisaChng: null
-instock: .nan
-naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Komisijo\
-  \ za prepre\u010Devanje korupcije za leto 2016 (OdRSPKPK16)"
+naslov: "ODLOK o na\u010Drtu ravnanja s stvarnim premo\u017Eenjem dr\u017Eave za Komisijo
+  za prepre\u010Devanje korupcije za leto 2016 (OdRSPKPK16)"
 npbNum: 0
 path: /2015/37/2015-01-3782
 sopPredpisa: 2015-01-3782

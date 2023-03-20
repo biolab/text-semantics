@@ -1,17 +1,11 @@
 Text file: PRAV8489.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1325372400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2011-12-31 23:00:00
 idPredpisa: PRAV8489
 idPredpisaChng: PRAV8489
-instock: .nan
-naslov: "PRAVILNIK o nalogah, ki se izvajajo v okviru obvezne ob\u010Dinske gospodarske\
-  \ javne slu\u017Ebe odvajanja in \u010Di\u0161\u010Denja komunalne in padavinske\
-  \ odpadne vode (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
+naslov: "PRAVILNIK o nalogah, ki se izvajajo v okviru obvezne ob\u010Dinske gospodarske
+  javne slu\u017Ebe odvajanja in \u010Di\u0161\u010Denja komunalne in padavinske odpadne
+  vode (neuradno pre\u010Di\u0161\u010Deno besedilo \u0161t. 3)"
 npbNum: 3
 path: /2011/37/2011-01-3745-2007-01-5410-npb3
 sopPredpisa: 2011-01-3745

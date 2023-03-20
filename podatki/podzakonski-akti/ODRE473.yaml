@@ -1,16 +1,10 @@
 Text file: ODRE473.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 928447200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1999-06-03 22:00:00
 idPredpisa: ODRE473
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske\
-  \ enote Zeleni pas"
+naslov: "ODREDBO  o sprejemu splo\u0161nega dela gozdnogospodarskega na\u010Drta gozdnogospodarske
+  enote Zeleni pas"
 npbNum: 0
 path: /1999/20/1999-01-2093
 sopPredpisa: 1999-01-2093

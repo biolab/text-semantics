@@ -1,19 +1,10 @@
 Text file: ODRE2522.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1577833200000000000
-- null
-- null
-- 10
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1576191600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: 2019-12-31 23:00:00
+datumZacetkaVelj: 2019-12-12 23:00:00
 idPredpisa: ODRE2522
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o obliki posredovanja napovedi o razpolaganju in obvestila o realizaciji\
-  \ razpolaganja s stvarnim premo\u017Eenjem"
+naslov: "ODREDBO o obliki posredovanja napovedi o razpolaganju in obvestila o realizaciji
+  razpolaganja s stvarnim premo\u017Eenjem"
 npbNum: 0
 path: /2019/33/2019-01-3308
 sopPredpisa: 2019-01-3308

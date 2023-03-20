@@ -1,17 +1,11 @@
 Text file: ODRE2179.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1378504800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2013-09-06 22:00:00
 idPredpisa: ODRE2179
 idPredpisaChng: null
-instock: .nan
-naslov: "ODREDBO o dolo\u010Ditvi programa strokovnega usposabljanja in izpopolnjevanja\
-  \ ter programa obdobnega strokovnega izpopolnjevanja za varnostnika, ki opravlja\
-  \ dela rentgenskega operaterja"
+naslov: "ODREDBO o dolo\u010Ditvi programa strokovnega usposabljanja in izpopolnjevanja
+  ter programa obdobnega strokovnega izpopolnjevanja za varnostnika, ki opravlja dela
+  rentgenskega operaterja"
 npbNum: 0
 path: /2013/26/2013-01-2671
 sopPredpisa: 2013-01-2671

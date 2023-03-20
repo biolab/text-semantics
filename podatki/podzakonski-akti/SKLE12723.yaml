@@ -1,16 +1,10 @@
 Text file: SKLE12723.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1653688800000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2022-05-27 22:00:00
 idPredpisa: SKLE12723
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev zavarovalnic in pokojninskih\
-  \ dru\u017Eb"
+naslov: "SKLEP o imetnikih kvalificiranih dele\u017Eev zavarovalnic in pokojninskih
+  dru\u017Eb"
 npbNum: 0
 path: /2022/15/2022-01-1564
 sopPredpisa: 2022-01-1564

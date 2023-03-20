@@ -1,16 +1,10 @@
 Text file: SKLE767.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 847407600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 1996-11-07 23:00:00
 idPredpisa: SKLE767
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o \u0161esti izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim\
-  \ bonom"
+naslov: "SKLEP o \u0161esti izdaji blagajni\u0161kega zapisa Banke Slovenije z nakupnim
+  bonom"
 npbNum: 0
 path: /1996/35/1996-01-3592
 sopPredpisa: 1996-01-3592

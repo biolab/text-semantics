@@ -1,16 +1,10 @@
 Text file: ODLO1817.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1468620000000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2016-07-15 22:00:00
 idPredpisa: ODLO1817
 idPredpisaChng: ODLO1817
-instock: .nan
-naslov: "ODLOK o ustanovitvi Javnega gospodarskega zavoda Rinka (neuradno pre\u010D\
-  i\u0161\u010Deno besedilo \u0161t. 1)"
+naslov: "ODLOK o ustanovitvi Javnega gospodarskega zavoda Rinka (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2016/21/2016-01-2181-2014-01-4049-npb1
 sopPredpisa: 2016-01-2181

@@ -1,16 +1,10 @@
 Text file: PRAV4739.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1080770400000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2004-03-31 22:00:00
 idPredpisa: PRAV4739
 idPredpisaChng: PRAV4739
-instock: .nan
-naslov: "PRAVILNIK o kakovosti izdelkov iz \u017Eit (neuradno pre\u010Di\u0161\u010D\
-  eno besedilo \u0161t. 1)"
+naslov: "PRAVILNIK o kakovosti izdelkov iz \u017Eit (neuradno pre\u010Di\u0161\u010Deno
+  besedilo \u0161t. 1)"
 npbNum: 1
 path: /2004/13/2004-01-1338-2003-01-0996-npb1
 sopPredpisa: 2004-01-1338

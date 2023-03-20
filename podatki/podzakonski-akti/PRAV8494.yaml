@@ -1,17 +1,11 @@
 Text file: PRAV8494.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1192831200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2007-10-19 22:00:00
 idPredpisa: PRAV8494
 idPredpisaChng: null
-instock: .nan
-naslov: "PRAVILNIK o podlagah za odmero komunalnega prispevka na osnovi povpre\u010D\
-  nih stro\u0161kov opremljanja stavbnih zemlji\u0161\u010D s posameznimi vrstami\
-  \ komunalne opreme"
+naslov: "PRAVILNIK o podlagah za odmero komunalnega prispevka na osnovi povpre\u010Dnih
+  stro\u0161kov opremljanja stavbnih zemlji\u0161\u010D s posameznimi vrstami komunalne
+  opreme"
 npbNum: 0
 path: /2007/47/2007-01-4749
 sopPredpisa: 2007-01-4749

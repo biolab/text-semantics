@@ -1,16 +1,10 @@
 Text file: SKLE10484.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1435701600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2015-06-30 22:00:00
 idPredpisa: SKLE10484
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o uporabi Priporo\u010Dila organa EBA o rabi identifikatorja pravnih\
-  \ subjektov (LEI)"
+naslov: "SKLEP o uporabi Priporo\u010Dila organa EBA o rabi identifikatorja pravnih
+  subjektov (LEI)"
 npbNum: 0
 path: /2015/19/2015-01-1954
 sopPredpisa: 2015-01-1954

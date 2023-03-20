@@ -1,17 +1,11 @@
 Text file: URED5370.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1291071600000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2010-11-29 23:00:00
 idPredpisa: URED5370
 idPredpisaChng: null
-instock: .nan
-naslov: "UREDBO o izvajanju Uredbe (ES) o prepovedi izvoza kovinskega \u017Eivega\
-  \ srebra in nekaterih spojin in zmesi \u017Eivega srebra ter varnem skladi\u0161\
-  \u010Denju kovinskega \u017Eivega srebra"
+naslov: "UREDBO o izvajanju Uredbe (ES) o prepovedi izvoza kovinskega \u017Eivega
+  srebra in nekaterih spojin in zmesi \u017Eivega srebra ter varnem skladi\u0161\u010Denju
+  kovinskega \u017Eivega srebra"
 npbNum: 0
 path: /2010/50/2010-01-5005
 sopPredpisa: 2010-01-5005

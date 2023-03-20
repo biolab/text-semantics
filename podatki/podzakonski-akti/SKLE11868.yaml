@@ -1,16 +1,10 @@
 Text file: SKLE11868.txt
-datumZacetkaUpor: !!python/object/apply:pandas._libs.tslibs.nattype.__nat_unpickle
-- null
-datumZacetkaVelj: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1564783200000000000
-- null
-- null
-- 10
+datumZacetkaUpor: null
+datumZacetkaVelj: 2019-08-02 22:00:00
 idPredpisa: SKLE11868
 idPredpisaChng: null
-instock: .nan
-naslov: "SKLEP o dajanju zbirateljskih kovancev ob 100. obletnici priklju\u010Ditve\
-  \ Prekmurja k mati\u010Dni domovini v prodajo in obtok"
+naslov: "SKLEP o dajanju zbirateljskih kovancev ob 100. obletnici priklju\u010Ditve
+  Prekmurja k mati\u010Dni domovini v prodajo in obtok"
 npbNum: 0
 path: /2019/23/2019-01-2346
 sopPredpisa: 2019-01-2346
