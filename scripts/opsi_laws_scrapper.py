@@ -1,3 +1,4 @@
+import datetime
 import logging
 import os
 import shutil
@@ -15,6 +16,9 @@ import yaml
 from bs4 import BeautifulSoup, Tag
 
 # url to source
+from yaml import CDumper
+from yaml.representer import SafeRepresenter
+
 SOURCE_URL = (
     "https://podatki.gov.si/dataset/a989ca8a-08be-4b87-a0ad-a7b6991f387d/"
     "resource/b37e18dd-d80e-4327-872e-5f1b355ccc3b/download/vsebina.tar.gz"
@@ -99,7 +103,7 @@ def extract_laws(types_: List[str]) -> pd.DataFrame:
     df = pd.DataFrame(data)
     logger.info(f"Types in data: {Counter(df['idPredpisa'].str[:4])}")
     df = df[df["idPredpisa"].str.contains("|".join(types_))]
-    df = df.drop(["_id", "cleni", "cleniList"], axis=1)
+    df = df.drop(["_id", "cleni", "cleniList", "instock"], axis=1)
     logger.info(f"Extracted {len(df)} documents")
     return df
 
@@ -248,6 +252,20 @@ def extract_data(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def save_documents(df: pd.DataFrame):
+    class TSDumper(CDumper):
+        pass
+
+    def timestamp_representer(dumper, data):
+        return SafeRepresenter.represent_datetime(dumper, data.to_pydatetime())
+
+    TSDumper.add_representer(datetime.datetime, SafeRepresenter.represent_datetime)
+    TSDumper.add_representer(pd.Timestamp, timestamp_representer)
+
+    df.datumZacetkaUpor = df.datumZacetkaUpor.astype("object")
+    df.datumZacetkaVelj = df.datumZacetkaVelj.astype("object")
+    df.datumZacetkaUpor = df.datumZacetkaUpor.where(df.datumZacetkaUpor.notnull(), None)
+    df.datumZacetkaVelj = df.datumZacetkaVelj.where(df.datumZacetkaVelj.notnull(), None)
+
     for _, document in df.iterrows():
         logger.info(f"Saving proposal with ID {document['idPredpisa']}")
         file_name = normalize("NFKD", str(document["idPredpisa"]))
@@ -264,7 +282,7 @@ def save_documents(df: pd.DataFrame):
         document.pop("vsebina")
 
         with open(os.path.join(dest_dir, f"{file_name}.yaml"), "w") as f:
-            yaml.dump(document, f, default_flow_style=False)
+            yaml.dump(document, f, default_flow_style=False, Dumper=TSDumper)
 
 
 def extract(types_: List[str]):
