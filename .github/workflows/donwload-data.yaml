@@ -3,6 +3,7 @@ name: Download data
 on:
   schedule:
     - cron: '0 6 * * 1'  # run every monday at 6:00
+  workflow_dispatch:
 
 jobs:
   download-and-upload:
