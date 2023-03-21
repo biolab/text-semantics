@@ -38,6 +38,7 @@ jobs:
         run: python scripts/${{ matrix.script }}
 
       - name: Rename CSV
+        if: ${{ matrix.publish_dir != matrix.scraper }}
         run: |
           mv -f ./data/${{ matrix.publish_dir }}.csv ./data/${{ matrix.scraper }}.csv
 
