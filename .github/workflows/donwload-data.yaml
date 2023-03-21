@@ -39,7 +39,7 @@ jobs:
 
       - name: Zip CSV
         run: |
-          mkdir csv
+          mkdir data/csv
           gzip -c data/${{ matrix.publish_dir }}.csv > data/csv/${{ matrix.scraper }}.csv.gz
 
       - name: Deploy CSV file
