@@ -62,9 +62,3 @@ jobs:
           publish_dir: ./data/${{ matrix.publish_dir }}
           publish_branch: gh-pages
           destination_dir: podatki/${{ matrix.scraper }}
-
-      - name: Archive CSV
-        uses: actions/upload-artifact@v3
-        with:
-          name: ${{ matrix.scraper }}.csv
-          path: data/${{ matrix.scraper }}.csv
