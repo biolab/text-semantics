@@ -254,7 +254,7 @@ def main():
         proposal = scrape_single_proposal(i, browser)
         if proposal:
             save_proposal(proposal)
-        proposals.append(proposal)
+            proposals.append(proposal)
     browser.close()
     df = pd.DataFrame(proposals)
     df.to_csv(os.path.join(ROOT_DIRECTORY, CSV_FILE), index=False)

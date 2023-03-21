@@ -39,8 +39,7 @@ jobs:
 
       - name: Rename CSV
         run: |
-          mkdir ./data/csv/
-          mv ./data/${{ matrix.publish_dir }}.csv ./data/${{ matrix.scraper }}.csv
+          mv -f ./data/${{ matrix.publish_dir }}.csv ./data/${{ matrix.scraper }}.csv
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
