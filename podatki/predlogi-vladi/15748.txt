@@ -1,9 +1,7 @@
 PROBLEM:
 Nekaj državnih portalov (E-prostor, PisRS, Zavod za zaposlovanje) za analitiko uporabe spletnega mesta uporablja storitev Google Analytics. Osnovni problem je že ta, da podjetje Google služi na račun zbiranja velikih količin osebnih podatkov ter podatkov o uporabi interneta posameznih ljudi, zato je uporaba njihovih storitev na državnih portalih že sama po sebi vprašljiva.
 Poleg tega, da Googlovo delovanje ni najbolj transparento, pa se tu pojavi še večji problem, po padcu zakonskega okvirja "Privacy Shield", ki je omogočal hranjenje osebnih podatkov uporabnikov iz EU na strežnikih v ZDA, v letu 2020, sta informacijska pooblaščenca Avstrije ter Francije v začetku leta 2022 odločila, da je uporaba storitve Google Analytics znotraj EU v nasprotju z splošno uredbo o varstvu osebnih podatkov (GDPR), kar bi pomenilo, da državni portali uporabljajo tehnologijo, ki ni skladna z slovensko zaknodajo, saj ima ta v okviru zakona o varstvu osebnih podatkov implementirano direktivo GDPR.
-
 Vir (Avstrija): www.wired.com/story/google-analytics-europe-austria-privacy-shield/
-
 Vir (Francija): www.forbes.com/sites/emmawoollacott/2022/02/10/french-regulator-rules-...
 REŠITEV:
 Obstajata dve možni rešitvi, prva je ta, da državni portali preprosto opustijo uporabo kakršne koli analitike, drgua pa, da ti portali zamenjajo ponudnika storitve za analitiko, na takega, ki je skladen z slovensko zakonodajo in bolj spoštuje zasebnost uporabnikov (npr. Fathom, Plausible, Simple Analytics, ipd.).
