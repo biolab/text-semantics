@@ -1,0 +1,116 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina splošnega akta)
+(1) Ta splošni akt določa lokacije omrežnih priključnih točk
+(v nadaljevanju: OPT) v različnih topologijah omrežij, za namen uporabe
+terminalske opreme po lastni izbiri končnih uporabnikov.
+(2) Ta akt v ničemer ne posega v metodologijo evidentiranja
+OPT v uradnih evidencah infrastrukturnih omrežij in objektov, kot je
+opredeljena v Izmenjevalnem formatu za posredovanje podatkov o omrežnih
+priključnih točkah.
+(3) Ta akt prav tako v ničemer ne posega v lokacijo fizične
+OPT, ki pomeni fizično mejo med javnim komunikacijskim omrežjem ponudnika in
+interno inštalacijo, ki je v lasti končnega uporabnika.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem splošnem aktu, pomenijo:
+1.     
+FWBA dostop (angl. »Fixed Wireless Broadband Access«) je širokopasovni
+dostop do elektronskih komunikacijskih storitev na fiksni lokaciji z uporabo
+brezžičnih tehnologij. Praviloma se storitev dostopa do interneta prek FWBA
+dostopa zagotavlja s pomočjo namenske opreme ter ustrezne notranje ali zunanje
+antene, nameščene na fiksni lokaciji končnega uporabnika.
+2.     
+Interna inštalacija je napeljava znotraj stavbe, ki je v lasti končnega
+uporabnika in običajno poteka od omarice ali druge ustrezne lokacije do opreme
+na lokaciji končnega uporabnika.
+3.     
+Oprema na lokaciji končnega uporabnika je komunikacijska oprema v lasti
+ponudnika storitev in terminalska oprema v lasti uporabnika, ki sta nameščeni
+na uporabnikovi lokaciji.
+4.     
+Ponudnik storitev dostopa do interneta je operater, ki končnim
+uporabnikom zagotavlja oziroma ponuja storitev dostopa do interneta (v
+nadaljevanju: ponudnik).
+5.     
+Specializirane storitve so elektronske komunikacijske storitve, ki niso
+del storitev dostopa do interneta in so optimizirane za specifično vsebino,
+aplikacijo ali storitev oziroma njihovo kombinacijo, kjer je optimizacija nujno
+potrebna, da se zaradi same narave storitve ali aplikacije zagotovi ustrezna
+raven kakovosti storitve ali/in zaupnosti, celovitosti ter razpoložljivosti.
+(2) Preostali izrazi, uporabljeni v tem splošnem aktu, imajo enak
+pomen, kot je določen v Zakonu o elektronskih komunikacijah (Uradni list RS,
+št. 130/22 in 18/23 – ZDU-1O; v nadaljevanju: zakon).
+II. OMREŽNE PRIKLJUČNE TOČKE
+3. člen
+(lokacije OPT)
+(1) Ponudniki morajo pri zagotavljanju storitev dostopa do
+interneta v skladu s prvim odstavkom 3. člena Uredbe (EU) 2015/2120 končnim
+uporabnikom omogočiti uporabo terminalske opreme po lastni izbiri. Uporaba
+terminalske opreme je pogojena z lokacijami OPT, ki določajo katera oprema na
+lokaciji končnega uporabnika je del javnega in katera del zasebnega omrežja.
+Lokacije OPT so odvisne od topologije omrežja in se lahko nahajajo v točkah A,
+B ali C.
+(2) Pri dostopu na fiksni lokaciji, vključno preko FWBA
+dostopa, je lokacija OPT za:
+a.     
+storitev dostopa do interneta določena v točki B, ki predstavlja izhod
+iz modema preko katerega se terminalska oprema povezuje z omrežjem ponudnika in
+b.     
+specializirane storitve določena v točki C, ki predstavlja izhod iz
+usmerjevalnika (za storitev fiksne telefonije) oziroma izhod iz televizijskega
+vmesnika (za storitev televizije).
+(3) Pri dostopu na fiksni lokaciji preko koaksialnega kabla
+je lokacija OPT za storitev televizije določena v točki A, v omarici ali drugi
+ustrezni lokaciji, ki predstavlja prehod med javnim komunikacijskim omrežjem
+ponudnika in interno inštalacijo, ki je v lasti končnega uporabnika.
+(4) Pri mobilnem dostopu je lokacija OPT določena v točki A,
+ki predstavlja radijski vmesnik preko katerega se terminalska oprema z modulom
+za identifikacijo naročnika (SIM) povezuje z mobilnim omrežjem ponudnika.
+III. PRAVICE IN DOLŽNOSTI PONUDNIKOV IN KONČNIH UPORABNIKOV
+TER REŠEVANJE SPOROV
+4. člen
+(ponudniki)
+(1) Ponudniki morajo v svoje splošne pogoje vključiti pravice
+in dolžnosti ponudnikov in končnih uporabnikov glede uporabe terminalske opreme
+po lastni izbiri, ki izhajajo iz tega splošnega akta.
+(2) Ponudnik mora v primeru zagotavljanja storitve dostopa do
+interneta na fiksni lokaciji, vključno preko FWBA dostopa, končnemu uporabniku
+na njegovo zahtevo omogočiti, da sam izbira in upravlja terminalsko opremo (tj.
+usmerjevalnik), s katero se poveže na modem ponudnika na nivoju povezovalnega L2
+OSI sloja, ki mora zagotavljati transparenten prenos prometa. V kolikor
+komunikacijska oprema ponudnika združuje modem in usmerjevalnik v eni napravi,
+ponudnik končnemu uporabniku slednje zagotovi na izhodu iz te naprave.
+(3) Ponudnik mora v primeru mobilnega dostopa končnemu
+uporabniku omogočiti, da sam izbira in upravlja terminalsko opremo, ki
+vključuje radijski modem in je podprta v mobilnem omrežju ponudnika.
+(4) Ponudniki končnih uporabnikov z lastno terminalsko opremo
+– v delu omrežja, ki je pod nadzorom ponudnikov storitev – na noben način ne
+smejo obravnavati drugače, kot končne uporabnike, ki na uporabniški strani
+omrežja uporabljajo opremo, dobavljeno s strani ponudnika.
+5. člen
+(končni uporabniki)
+(1) Terminalska oprema končnega uporabnika mora biti skladna
+s tehničnimi standardi Evropske unije.
+(2) Končni uporabniki s priključitvijo lastne terminalske
+opreme prevzamejo odgovornost nad njenim pravilnim delovanjem in morajo
+zagotoviti, da ta s svojim delovanjem ne moti delovanja javnega komunikacijskega
+omrežja in drugih končnih uporabnikov ponudnika. Če uporabnikova terminalska
+oprema povzroča nedelovanje, motnje, nepravilnosti ali varnostna tveganja v
+omrežju, ima ponudnik pravico začasnega izklopa storitve uporabnika do odprave
+težav s terminalsko opremo oziroma.
+6. člen
+(reševanje sporov)
+V primeru sporov je pristojna Agencija za komunikacijska
+omrežja in storitve Republike Slovenije v skladu z zakonom.
+IV. KONČNA DOLOČBA
+7. člen
+(začetek veljavnosti in uporabe)
+Ta splošni akt začne veljati naslednji dan po objavi v
+Uradnem listu Republike Slovenije, uporabljati pa se začne šestdeseti dan od
+uveljavitve tega splošnega akta.
+Št. 0073-7/2023/8
+Ljubljana, dne 10. maja 2023
+EVA 2023-3150-0021
+Mag. Mark Pohar
+v. d. direktorja

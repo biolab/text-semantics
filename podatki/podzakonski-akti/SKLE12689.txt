@@ -18,9 +18,10 @@ podatkov.
 Izrazi, uporabljeni v tem sklepu, imajo naslednji pomen:
 -       
 tajni podatek je dejstvo ali sredstvo, ki se nanaša na javno
-varnost, obrambo, zunanje zadeve ali obveščevalno in varnostno dejavnost države,
-ki ga je treba zaradi razlogov, določenih v ZTP, zavarovati pred nepoklicanimi
-osebami, in ki je v skladu z zakonom določeno in označeno za tajno;
+varnost, obrambo, zunanje zadeve ali obveščevalno in varnostno dejavnost
+države, ki ga je treba zaradi razlogov, določenih v ZTP, zavarovati pred
+nepoklicanimi osebami, in ki je v skladu z zakonom določeno in označeno za
+tajno;
 -       
 dokument je vsak napisan, narisan, natisnjen, razmnožen, posnet,
 fotografiran, magneten, optičen ali kakšen drugačen zapis tajnega podatka;
@@ -246,8 +247,8 @@ do tajnih podatkov in podatke potrebujejo za izvajanje svojih delovnih nalog in
 funkcij.
 Obravnavanje tajnih podatkov je dovoljeno le v skladu s
 predpisi, ki urejajo tajne podatke, internimi akti Državnega sveta, ki urejajo
-delo s tajnimi podatki, ter internimi akti Državnega zbora, ki urejajo poslovanje
-v varnostnem območju.
+delo s tajnimi podatki, ter internimi akti Državnega zbora, ki urejajo
+poslovanje v varnostnem območju.
 15. člen
 Tajni podatki se obravnavajo in hranijo na način, ki
 zagotavlja, da imajo dostop do teh podatkov samo osebe, ki imajo dovoljenje za
@@ -318,6 +319,10 @@ dosledno izvajati ostale ukrepe za varovanje tajnih podatkov v skladu s
 predpisi in akti Državnega sveta.
 Tajnih podatkov, ne glede na stopnjo njihove tajnosti, ni
 dovoljeno hraniti ali obravnavati v informacijskih sistemih Državnega sveta.
+Pred prenehanjem delovnega razmerja ali funkcije mora vsakdo,
+ki ima v delu dokumente s tajnimi podatki, nosilce tajnih podatkov predati
+pooblaščeni osebi iz drugega odstavka 6. člena tega sklepa, o čemer se sestavi
+zapisnik.
 17. člen
 Vsaka oseba, ki ugotovi, da je prišlo do izgube, odtujitve
 ali nepooblaščenega razkritja tajnih podatkov ali okoliščin, ki lahko vodijo k
@@ -339,11 +344,10 @@ ali je bil lastnik podatkov obveščen,
 postopke in ukrepe, ki so bili izvedeni, da se prepreči nadaljnja
 zloraba tajnih podatkov.
 V primeru zlorabe tajnih podatkov se uporabljajo določbe
-35. člena Uredbe o varovanju tajnih podatkov. Takoj se ukrene vse
-potrebno, da se ugotovijo okoliščine, zaradi katerih je prišlo do izgube ali
-razkritja tajnega podatka nepoklicani osebi, da se odpravijo škodljive
-posledice in prepreči ponovna izguba oziroma nepooblaščeno razkritje tajnega
-podatka.
+Uredbe o varovanju tajnih podatkov. Takoj se ukrene vse potrebno, da se
+ugotovijo okoliščine, zaradi katerih je prišlo do izgube ali razkritja tajnega
+podatka nepoklicani osebi, da se odpravijo škodljive posledice in prepreči
+ponovna izguba oziroma nepooblaščeno razkritje tajnega podatka.
 O vsaki zlorabi tajnega podatka sekretar Državnega sveta
 obvesti nacionalni varnostni organ. Če neupravičeno razpolaganje oziroma
 razkritje tajnega podatka kaže na kršitev predpisov o tajnih podatkih ali na
@@ -360,8 +364,8 @@ zaposleni, ki ugotovijo izgubo, najdbo, uničenje ali nepooblaščeno
 razkritje tajnih podatkov, morajo o tem takoj obvestiti neposredno nadrejenega
 in pooblaščeno osebo, ki mora takoj odrediti potrebne postopke in ukrepe za
 preprečitev nadaljnje zlorabe tajnega podatka in izsleditev odtujenih tajnih
-podatkov ter ukreniti vse potrebno, da se ugotovijo okoliščine, zaradi katerih
-je nastala izguba, najdba, uničenje ali razkritje tajnega podatka nepoklicani
+podatkov ter ukreniti vse potrebno, da se ugotovijo okoliščine, zaradi katerih je
+nastala izguba, najdba, uničenje ali razkritje tajnega podatka nepoklicani
 osebi, da se preprečijo možne oziroma odpravijo škodljive posledice in prepreči
 ponovna izguba, uničenje, neupravičeno razpolaganje oziroma nepooblaščeno
 razkritje tajnega podatka;
@@ -376,8 +380,15 @@ ga je o zlorabi tajnega podatka in sprejetih ukrepih treba nemudoma obvestiti;
 -       
 o vsaki zlorabi tajnega podatka je treba obvestiti nacionalni varnostni
 organ.
-VI. VAROVANJE KOMUNIKACIJ, PO KATERIH SE PRENAŠAJO TAJNI
-PODATKI IN OPREME ZA OBRAVNAVO TAJNIH PODATKOV
+Za vsako zlorabo tajnega
+podatka je treba uvesti notranjo preiskavo. Notranjo preiskavo vodi tričlanska
+komisija, ki jo imenuje sekretar, pri čemer med člani ne sme biti oseba, ki je
+neposredno povezana z zlorabo. Komisija najkasneje v roku 30 dni od imenovanja
+pripravi poročilo v katerem poda svoje ugotovitve in predlog ukrepov za odpravo
+škodljivih posledic in preprečitev vnovične zlorabe, na podlagi katerega
+sekretar določi nadaljnje ukrepe.
+VI. VAROVANJE KOMUNIKACIJ, PO KATERIH SE PRENAŠAJO TAJNI PODATKI
+IN OPREME ZA OBRAVNAVO TAJNIH PODATKOV
 19. člen
 Državni svet nima lastnega internega komunikacijskega
 sistema, namenjenega obravnavi tajnih podatkov.
@@ -459,6 +470,9 @@ TRÈS SECRET UE/EU TOP
   SECRET
 
 
+Državni svet vodi evidenco o
+prejetih in vrnjenih tajnih podatkih iz EU in NATO, ki se pregleda ob izvajanju
+letnega notranjega nadzora.
 23. člen
 Stopnjo tajnosti lahko podatkom, ki nastanejo v Državnem
 svetu, določijo: predsednik, sekretar in zaposleni v Državnem svetu, ki jih za
@@ -475,14 +489,27 @@ Oseba iz prvega odstavka 23. člena tega sklepa določi in
 označi stopnjo tajnosti posameznega podatka po postopku in na način, določen v
 ZTP in Uredbi o varovanju tajnih podatkov (v nadaljevanju: Uredba). Enako velja
 za preklic, spremembo in prenehanje tajnosti podatka.
-Pri določanju stopnje tajnosti podatka je treba določiti
-najnižjo stopnjo tajnosti, ki še zagotavlja varovanje podatka glede na možne
-škodljive posledice za varnost države ali za njene politične ali gospodarske
-koristi, če bi bil podatek razkrit nepoklicani osebi.
+Pri določanju stopnje tajnosti podatka je treba določiti najnižjo
+stopnjo tajnosti, ki še zagotavlja varovanje podatka glede na možne škodljive
+posledice za varnost države ali za njene politične ali gospodarske koristi, če
+bi bil podatek razkrit nepoklicani osebi.
 Vsi funkcionarji in vsi zaposleni so dolžni v okviru svojih
 delovnih nalog oziroma pristojnosti presojati varnostni pomen podatkov, s
 katerimi se srečujejo, in predlagati pooblaščenim osebam določitev teh podatkov
 za tajne, če menijo, da je to potrebno.
+24.a člen
+Če dokument ali njegov del le delno vsebuje tajne podatke
+oziroma so le posamezni odstavki dokumenta označeni s stopnjo tajnosti in jih
+je zaradi izvedbe nalog Državnega sveta mogoče izločiti iz dokumenta, ne da bi
+to ogrozilo njihovo tajnost, lahko oseba, ki je določila stopnjo tajnosti,
+izloči te podatke iz dokumenta.
+Izločanje oziroma odstranjevanje tajnih podatkov iz
+dokumentov pomeni, da se besedilo prekrije in se ohrani originalna oblika
+dokumenta.
+Iz dokumenta, iz katerega so bili v skladu s prejšnjim
+odstavkom izločeni tajni podatki, se odstranijo oznake stopenj tajnosti. V
+dokumentu, iz katerega so bili izločeni tajni podatki, je treba navesti, da so
+bili iz dokumenta izločeni tajni podatki.
 VIII. NAČIN SEZNANITVE UPORABNIKOV Z UKREPI IN POSTOPKI
 VAROVANJA TAJNIH PODATKOV
 25. člen
@@ -533,20 +560,20 @@ tajnosti ZAUPNO in TAJNO je mogoč, če je oseba pridobila dovoljenje za dostop
 do tajnih podatkov ustrezne stopnje tajnosti ZAUPNO in TAJNO, da je oseba
 podpisala izjavo, da je seznanjena z varnostno politiko EU in/ali zveze NATO,
 izpolnila obrazec zaprosilo za izdajo dovoljenja, da ima potrebo po vedenju
-(need to know) in da je osebi nacionalni varnostni organ na tej podlagi izdal dovoljenje
-za dostop do tajnih podatkov stopnje tajnosti ZAUPNO in TAJNO za EU in/ali
-zveze NATO.
+(need to know) in da je osebi nacionalni varnostni organ na tej podlagi izdal
+dovoljenje za dostop do tajnih podatkov stopnje tajnosti ZAUPNO in TAJNO za EU
+in/ali zveze NATO.
 Določba prejšnjega odstavka ne velja za predsednika Državnega
 sveta.
 Dovoljenje za dostop do tajnih podatkov EU in/ali zveze NATO
 stopnje tajnosti ZAUPNO in TAJNO velja za čas veljavnosti izdanega nacionalnega
 dovoljenja za dostop do tajnih podatkov ustrezne stopnje tajnosti.
 Sekretar mora o osebah, ki imajo izdano dovoljenje za dostop
-do tajnih podatkov EU in/ali zveze NATO, in jim je prenehala zaposlitev ali funkcija
-v Državnem svetu, takoj obvestiti predlagatelja za izdajo dovoljenja in Urad
-Vlade RS za varovanje tajnih podatkov. Veljavnost dovoljenja za dostop do
-tajnih podatkov EU in/ali zveze NATO preneha s preklicem dovoljenja pri Uradu
-vlade za varovanje tajnih podatkov.
+do tajnih podatkov EU in/ali zveze NATO, in jim je prenehala zaposlitev ali
+funkcija v Državnem svetu, takoj obvestiti predlagatelja za izdajo dovoljenja
+in Urad Vlade RS za varovanje tajnih podatkov. Veljavnost dovoljenja za dostop
+do tajnih podatkov EU in/ali zveze NATO preneha s preklicem dovoljenja pri
+Uradu vlade za varovanje tajnih podatkov.
 IX. PREVZEMANJE IN SEZNANITEV S POŠILJKAMI S TAJNIMI PODATKI
 29. člen
 Pošiljke s tajnimi podatki se sprejemajo v okviru poslovnega
@@ -561,10 +588,10 @@ ki jih je pošiljatelj označil, dostavil in izročil na predpisan način, ne gl
 na nosilec podatkov, se vpišejo v evidenco prejetih pošiljk s tajnimi podatki v
 Državnem svetu.
 Za evidentiranje dokumentov, ki vsebujejo tajne podatke, se
-uporabljajo določbe predpisov, ki urejajo varovanje tajnih podatkov, in
-predpisov, ki urejajo poslovanje z dokumentarnim gradivom. Evidentiranje se
-izvede na način, da iz evidenčnih podatkov – vpisov ni mogoče razbrati vsebine
-tajnih podatkov.
+uporabljajo določbe predpisov, ki urejajo varovanje tajnih podatkov, in predpisov,
+ki urejajo poslovanje z dokumentarnim gradivom. Evidentiranje se izvede na
+način, da iz evidenčnih podatkov – vpisov ni mogoče razbrati vsebine tajnih
+podatkov.
 30. člen
 Pošiljko s tajnimi podatki, ki prispe po pošti, sme
 pooblaščena oseba prevzeti, če je pošiljka nepoškodovana. Če je pošiljka
@@ -592,11 +619,12 @@ osebo, poteka seznanjanje z vsebino pošiljk.
 Pošiljke s tajnimi podatki, označene s stopnjo tajnosti
 ZAUPNO ali višje, se hranijo v varnostnem območju, kjer v času uradnih ur
 poteka seznanjanje z vsebino pošiljk.
-Tajnih podatkov s stopnjo tajnosti ZAUPNO ni dopustno odnesti
-iz varnostnega območja, razen ob zagotovitvi ukrepov iz 16. člena Uredbe.
-Ob prevzemu tajnih podatkov iz varnostnega območja odgovornost za prevzete
-tajne podatke in njihovo varovanje proti podpisu prevzame prejemnik tajnih
-dokumentov do vrnitve v varnostno območje.
+Tajni podatki stopnje tajnosti ZAUPNO ali TAJNO se smejo
+obravnavati izven varnostnega območja le ob izpolnjevanju pogojev in zagotovitvi
+ukrepov določenih v Uredbi o varovanju tajnih podatkov. Ob prevzemu tajnih
+podatkov iz varnostnega območja odgovornost za prevzete tajne podatke in
+njihovo varovanje proti podpisu prevzame prejemnik tajnih dokumentov do vrnitve
+v varnostno območje.
 33. člen
 V primeru prejema osebno naslovljene pošiljke s tajnimi
 podatki se naslovniku gradiva nemudoma na njegov elektronski naslov pošlje
@@ -670,8 +698,7 @@ Državnem zboru.
 Če se morajo funkcionarji in uslužbenci Državnega sveta, ki
 imajo dovoljenje za dostop do tajnih podatkov, zaradi opravljanja svoje
 funkcije oziroma svojih delovnih nalog seznaniti s tajnimi podatki, ki se
-hranijo v Državnem svetu, to napovedo v skladu z določbami Sklepa o ravnanju s
-tajnimi podatki v Državnem svetu.
+hranijo v Državnem svetu, to napovedo v skladu z določbami tega sklepa.
 V primeru zahtevanega vpogleda mora pooblaščena oseba
 pripraviti gradivo za vpogled. Ob vpogledu se izpolni obrazec, v katerem se
 vodi seznam vpogledov v tajne podatke. Obrazec se hrani v arhivski mapi.
@@ -771,34 +798,37 @@ gradiva. Pisarniška odredba se hrani v evidenci.
 Izhodni dokument se evidentira v evidenci oddanih pošiljk z
 oznako stopnje tajnosti.
 47. člen
-Tajni podatki se znotraj upravnega območja prenašajo v
-zaprti, neprosojni ovojnici.
-Tajni podatki stopnje INTERNO se lahko prenašajo po lastni
-prenosni mreži ali s priporočeno pošto s povratnico.
-Tajni podatki stopnje tajnosti ZAUPNO ali višje stopnje se
-prenašajo v dveh ovojnicah. Na zunanji ovojnici, ki je je iz trdega,
-neprosojnega in neprepustnega materiala so podatki o naslovniku, pošiljatelju
-in šifra dokumenta. Iz oznak na zunanji ovojnici ne sme biti razvidno, da
-vsebuje tajni podatek. Notranja ovojnica vsebuje oznako stopnje tajnosti, šifro
-dokumenta, podatke o naslovniku in pošiljatelju ter druge podatke, pomembne za
-varnost.
+Tajni podatki se prenašajo v dveh ovojnicah. Zunanja ovojnica
+mora biti iz trdnega in neprosojnega materiala. Iz oznak na zunanji ovojnici ne
+sme biti razvidno, da vsebuje tajni podatek. Notranja ovojnica mora imeti
+oznako stopnje tajnosti, številko dokumenta, podatke o naslovniku in
+pošiljatelju ter druge podatke, pomembne za varnost.
+Kadar se tajni podatki prenašajo znotraj varnostnega ali
+upravnega območja, prenos v dveh ovojnicah ni potreben, tajni podatki pa morajo
+biti zakriti tako, da se prepreči seznanitev z njihovo vsebino.
+Osebe, ki prenašajo tajne podatke, morajo biti varnostno
+preverjene glede na stopnjo tajnosti tajnih podatkov, ki jih prenašajo.
 Gradiv s tajnimi podatki ni dovoljeno pošiljati v elektronski
 obliki po javnem omrežju niti znotraj lokalnega računalniškega omrežja.
+V Državnem svetu mednarodni prenos tajnih podatkov ni možen.
 48. člen
-Dokumentov z oznako ZAUPNO ali višje stopnje tajnosti ni
-dovoljeno odnašati iz varnostnega območja, v katerem se obravnavajo, razen če
-je v nadaljevanju določeno drugače.
-Kadar državni svetnik rabi tajni podatek stopnje tajnosti
-ZAUPNO ali višje zaradi izvedbe točno določene naloge izven varnostnega
-območja, to lahko dovoli predsednik ali sekretar, ki mora ob tem hkrati
-izdelati načrt ukrepov in postopkov za varovanje tajnega podatka glede na
-njegovo stopnjo tajnosti ter načrt poti in varovanja prenosa tajnih podatkov,
-gradivo pa mora biti pod stalnim nadzorom.
+Tajni podatki stopnje tajnosti INTERNO se lahko prenašajo po
+lastni prenosni mreži ali priporočeni pošti s povratnico. Dokumentov z oznako
+ZAUPNO ali višje stopnje tajnosti ni dovoljeno odnašati iz varnostnega območja,
+v katerem se obravnavajo, razen pod pogoji določenimi v Uredbi o varovanju
+tajnih podatkov in tem sklepu.
 Kadar se želijo državni svetniki zaradi opravljanja svoje
 funkcije ali delovnih nalog seznaniti s tajnimi podatki, ki se hranijo v
 Državnem svetu, o tem pisno seznanijo predsednika in sekretarja, ki jim
 omogočita vpogled v tajne podatke na način, ki ustreza stopnji tajnosti
 zahtevanih podatkov.
+Kadar državni svetnik rabi tajni podatek stopnje tajnosti
+ZAUPNO ali višje zaradi izvedbe točno določene naloge izven varnostnega
+območja, iznos iz varnostnega območja lahko dovoli predsednik ali sekretar.
+Iznos tajnih podatkov iz varnostnega območja je možno dovoliti le ob
+izpolnjevanju pogojev in zagotovitvi ukrepov določenih v Uredbi o varovanju
+tajnih podatkov. V primeru iznosa gradiv iz varnostnega območja mora gradivo
+biti ves čas pod stalnim nadzorom.
 XIV. HRAMBA, SPREMEMBA ALI ODPRAVA STOPNJE TAJNOSTI PODATKOV
 IN UNIČENJE
 49. člen
@@ -810,6 +840,8 @@ interni akti Državnega sveta.
 Državni svet tajne podatke hrani, dokler jih potrebuje za
 opravljanje delovnih nalog. Po uporabi se tajni podatki uničijo ali vrnejo
 organu, ki jim je določil stopnjo tajnosti.
+Dokumenti s tajnimi podatki, ki so del vsebinske zadeve, se
+hranijo v skladu z roki, ki veljajo za to zadevo.
 Kopije gradiv, ki so bile po uporabi vrnjene, je treba sproti
 uničiti.
 Pooblaščena oseba enkrat letno preveri, ali je treba na
@@ -821,6 +853,10 @@ sklep o imenovanju komisije za uničenje gradiv s tajnimi podatki, s katerim
 določi najmanj tričlansko komisijo, v katero mora biti vključena tudi najmanj
 ena pooblaščena oseba. Komisija ob uničenju gradiv naredi zapisnik o uničenju
 gradiv s tajnimi podatki.
+Tajni podatki se morajo uničiti na način, s katerim se
+zagotovi, da postane tajni podatek nerazpoznaven in neobnovljiv, pri čemer se
+uporabijo naprave in metode skladne z veljavno Uredbo o varovanju tajnih
+podatkov.
 XV. FIZIČNI IN TEHNIČNI UKREPI
 51. člen
 Ukrepe, kot so protiprisluškovalni pregled, opremljanje
@@ -856,14 +892,18 @@ Ovojnica se lahko odpre samo v primeru, ko uporabnik spremeni
 nastavitev kombinacije, če uporabnik pozabi nastavitev kombinacije, če je
 uporabnik odsoten in je dostop do dokumentacije nujen ter v primeru naravne
 nesreče. Pri odpiranju ovojnice mora biti poleg pooblaščene osebe Državnega
-sveta prisoten tudi skrbnik varnostnega območja. O odpiranju se sestavi
-zapisnik, v katerem se navede datum in čas odpiranja, razlog za odpiranje, navzoče
-osebe ter njihov podpis.
+sveta prisoten tudi skrbnik varnostnega območja. O odpiranju se sestavi zapisnik,
+v katerem se navede datum in čas odpiranja, razlog za odpiranje, navzoče osebe
+ter njihov podpis.
 Zapisnik se skupaj z ovojnico shrani med dokumentarno gradivo
 pri pooblaščeni osebi.
-Uporabniki varnostnih omar oziroma blagajn morajo nastavitev
-kombinacij zamenjati ob namestitvi omare oziroma blagajne ter nato vsakih šest mesecev
-in ob menjavi pooblaščene osebe.
+Nastavitve kombinacije elektronskih in mehanskih ključavnic
+na varnostnih omarah se zamenjajo, če tako odredi sekretar, če se zamenja
+oseba, ki ji je posamezna omara dodeljena v uporabo, po vsakem popravilu, in v
+drugih primerih, če je kombinacija bila razkrita ali bi lahko bila razkrita
+nepooblaščeni osebi.
+Ne glede na določbo prejšnjega odstavka, je potrebno
+kombinacijo zamenjati vsakih 12 mesecev.
 57. člen
 Državni svetniki, sekretarji delovnih teles in drugi
 zaposleni, ki imajo dovoljenje za dostop do tajnih podatkov, tajne podatke
@@ -872,9 +912,9 @@ V istem prostoru znotraj varnostnega območja se ne sme hkrati
 obravnavati tajnih podatkov različnih delovnih teles, razen če gre za skupno
 sejo.
 Po zaključenem obravnavanju je treba dokumente s tajnimi
-podatki shraniti v varnostni omari oziroma blagajni. Dokumente v papirnati obliki,
-ki niso več potrebni (delovna gradiva, osnutki, odvečne kopije, ipd.), je treba
-sproti uničiti v rezalniku papirja.
+podatki shraniti v varnostni omari oziroma blagajni. Dokumente v papirnati
+obliki, ki niso več potrebni (delovna gradiva, osnutki, odvečne kopije, ipd.),
+je treba sproti uničiti v rezalniku papirja.
 Pred odhodom iz varnostnega območja pooblaščena oseba
 preveri, ali so vsi dokumenti shranjeni v varnostnih blagajnah.
 58. člen
@@ -921,8 +961,7 @@ datum opravljanja osnovnega in dodatnega usposabljanja s področja
 varovanja tajnih podatkov.
 Evidenco dovoljenj za dostop do tajnih podatkov za zaposlene
 in evidenco opravljenih osnovnih in dodatnih usposabljanj za delo s tajnimi
-podatki za državne svetnike vodi svetovalka za kadre in javno naročanje v
-Splošni službi.
+podatki za državne svetnike vodi oseba, določena za vodenje kadrovskih evidenc.
 60. člen
 V evidenci tajnih podatkov stopnje tajnosti INTERNO, ki se
 nahaja v upravnem območju, se hranijo vsi izvirniki zapisov tajnih podatkov, ne
@@ -935,7 +974,11 @@ XVII. NOTRANJI NADZOR
 Za notranji nadzor nad izvajanjem tega sklepa, ZTP in
 predpisov, sprejetih na njegovi podlagi, je odgovoren sekretar, ki za izvedbo
 letnega nadzora pooblasti zaposlenega in ob tem določi obseg nadzora.
-XVIII. PREHODNA IN KONČNA DOLOČBA
+
+Sklep o obravnavanju in varovanju tajnih
+podatkov v Državnem svetu Republike Slovenije (Uradni list RS, št. 11/22) vsebuje naslednjo prehodno in
+končno določbo:
+»XVIII. PREHODNA IN KONČNA DOLOČBA
 62. člen
 Obliko in vsebino obrazcev določi sekretar v roku 8 dni po
 objavi tega sklepa.
@@ -948,8 +991,11 @@ ravnanju s tajnimi podatki v Državnem svetu Republike Slovenije (SkRTP),
 št. 040-02/11-0021, z dne 12. 10. 2011.
 64. člen
 Ta sklep začne veljati 8 dni po objavi v Uradnem listu
-Republike Slovenije.
-Št. 040-02-1/2022/7
-Ljubljana, dne 26. januarja 2022
-Alojz Kovšca
-predsednik
+Republike Slovenije.«.
+
+Sklep o spremembah in dopolnitvah Sklepa o
+obravnavanju in varovanju tajnih podatkov v Državnem svetu Republike Slovenije
+(Uradni list RS, št. 44/23) vsebuje naslednjo končno določbo:
+»13. člen
+Ta sklep začne veljati osem dni po objavi v Uradnem listu
+Republike Slovenije.«.

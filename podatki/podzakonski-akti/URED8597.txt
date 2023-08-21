@@ -13,74 +13,274 @@ in hitre ceste se štejejo ceste, kot jih določa Uredba o kategorizaciji
 državnih cest (Uradni list RS, št. 102/12, 35/15, 38/15, 78/15, 21/16,
 52/16, 64/16, 41/17, 63/17, 78/19, 89/20, 163/21 in 20/22).
 2. člen
-(1) Za naftne derivate iz prejšnjega člena se štejeta 95-oktanski
-neosvinčeni motorni bencin (v nadaljnjem besedilu: NMB-95) in dizelsko gorivo
-(v nadaljnjem besedilu: dizel).
+(1) Za naftne derivate iz prejšnjega člena se štejejo 95-oktanski
+neosvinčeni motorni bencin (v nadaljnjem besedilu: NMB-95), dizelsko gorivo (v
+nadaljnjem besedilu: dizel) in ekstra lahko kurilno olje (v nadaljnjem
+besedilu: KOEL).
 (2) Cena iz prejšnjega člena se oblikuje na enoto
 proizvoda, ki znaša en liter, in sicer kot povprečna 14-dnevna cena tekočega
 obdobja.
 3. člen
 Povprečna 14-dnevna prodajna cena tekočega obdobja brez
-dajatev (v nadaljnjem besedilu: modelska cena) za NMB 95 in dizel se določi z
-naslednjim izračunom:
-pri čemer je:
+dajatev (v nadaljnjem besedilu: modelska cena naftnega derivata) za NMB 95 in
+dizel se določi z izračunom po naslednji formuli:
+pri čemer je: 
 
 Pt:
 
-modelska cena naftnega derivata
-  v eurih/liter;
+modelska cena naftnega derivata, v
+  eurih/liter;
 
 
-ƿ:
+Pt (Min):
 
-gostota naftnega derivata (za
-  motorni bencin znaša 0,755 kg/l, za dizel 0,845 kg/l);
+modelska cena mineralnega naftnega
+  derivata, v eurih/liter;
+
+
+Δt (Bio):
+
+dodatek za biokomponento, ki se primešava
+  mineralnim gorivom, v eurih/liter;
+
+
+M:
+
+marža distributerjev v eurih/liter,
+  navedena v 9. členu te uredbe;
 
 
 r:
 
-članarina Zavodu Republike
-  Slovenije za blagovne rezerve v evrih/l, ki ga na podlagi 21.b člena Zakona o
-  blagovnih rezervah (Uradni list RS, št. 96/09 – uradno prečiščeno
-  besedilo) z uredbo določi Vlada Republike Slovenije;
+članarina Zavodu Republike Slovenije za
+  blagovne rezerve v eurih/liter, ki jo na podlagi 21.b člena Zakona o
+  blagovnih rezervah (Uradni list RS, 
+  št. 96/09 – uradno prečiščeno besedilo in 83/12) z uredbo določi Vlada
+  Republike Slovenije.
+
+3.a člen
+Modelska cena mineralnega naftnega derivata v eurih/liter iz
+izračuna v prejšnjem členu se določi z naslednjo formulo:
+pri čemer je:
+
+Pt (Min):
+
+modelska cena mineralnega naftnega derivata,
+  v eurih/liter;
 
 
-M: 
+r:  
 
-marža distributerjev, kakor je
-  navedena v 9. členu te uredbe;
+gostota naftnega derivata (za motorne
+  bencine znaša 0,755 kg/l, za dizel 0,845 kg/l);
 
 
-i: 
+i:             
 
-dnevni podatek; i = 1, 2, 3, …,
-  n;
+dnevni podatek; i = 1, 2, 3 … n;
 
 
 t:
 
-14-dnevni interval tekočega
-  obdobja;
+14-dnevni interval tekočega obdobja;
 
 
 n:
 
-n = 14; spremljamo 14-dnevno
-  povprečje (dejansko je n = 10, ker za soboto in nedeljo ni objave borznih
-  kotacij);
+n = 14-dnevno povprečje oziroma n = 10
+  podatkov, ker za soboto in nedeljo ni objave borznih kotacij;
 
 
-e: 
+e:               
 
-1 USD = x EUR (objavljeni dnevni
-  tečaj Banke Slovenije);
+1 USD = x EUR (objavljeni dnevni tečaj
+  Banke Slovenije);
 
 
-CIFMedH:
+CIF Med H: 
 
-PLATTS kotacija derivata (najvišja
-  dnevna vrednost v USD/tono po viru: Platt's European Marketscan pod rubriko
-  »Mediteranean Cargoes CIF Med (Genova/Lavera)«).
+Platts kotacija derivata (najvišja dnevna
+  vrednost v USD/tono po viru: Platts European Marketscan v rubriki »Mediterranean
+  Cargoes CIF Med High (Genova/Lavera)«), pri čemer je:
+-       
+  Prem Unl 10 ppm = NMB-95,
+-       
+  ULSD 10 ppm = dizel.
+
+3.b člen
+Dodatek za biokomponento v eurih/liter iz izračuna v 3. členu
+te uredbe se izračuna, kot sledi:
+a)    
+za NMB-95 po naslednji formuli:
+pri čemer je:
+
+Δt (Bio-bencin):
+
+dodatek za biokomponento v mineralnem
+  bencinu NMB-95, v eurih/liter;
+
+
+i:
+
+dnevni podatek; i = 1, 2, 3 … n;
+
+
+t:
+
+14-dnevni interval tekočega obdobja;
+
+
+n:
+
+n = 14-dnevno povprečje oziroma n = 10
+  podatkov, ker za soboto in nedeljo ni objave borznih kotacij;
+
+
+FOBRottT2EthH:
+
+Platts kotacija bioetanola (najvišja dnevna
+  vrednost, v eurih/m3, po viru: Platts Bio-fuelscan v
+  rubriki »Northwest Europe Ethanol Price Assesments« pod vrstico »Ethanol FOB
+  T2 Rotterdam H«;
+
+
+Pt (Min.bencin):
+
+modelska cena mineralnega naftnega derivata
+  NMB-95, v eurih/liter, izračunana po formuli za mineralne naftne derivate iz prejšnjega
+  člena;
+
+
+TQ (Bio-b):
+
+priznani strošek transporta z železniško
+  cisterno za bioetanol prostornine 60 m3 na relaciji Ljubljana–Rotterdam–Ljubljana
+  v eurih/liter po tarifniku Slovenskih železnic, ki znaša 0,056 eura/liter;
+
+
+D Bio-b:
+
+delež vsebnosti bioetanola v mineralnem
+  bencinu NMB-95, izražen v volumskem odstotku, ki znaša 5 %;
+
+b)     za dizel
+po naslednji formuli:
+pri čemer je:
+
+Δt (Bio-dizel) :
+
+dodatek za biodizel v mineralnem dizlu v
+  eurih/liter;
+
+
+i:
+
+dnevni podatek; i = 1, 2, 3 … n;
+
+
+t:
+
+14-dnevni interval tekočega obdobja;
+
+
+n:
+
+n = 14-dnevno povprečje oziroma n = 10, ker
+  za soboto in nedeljo ni objave borznih kotacij;
+
+
+RME FOB ARA H:
+
+Platts kotacija biodizla (najvišja dnevna
+  vrednost, v USD/mt, po viru: Platts-Biofuelscan v rubriki »Biodiesel Price
+  Assesments–Northwest Europe (USD/mt)« pod vrstico »RME (RED) FOB ARA High«;
+
+
+ρ:
+
+gostota za biodizel, ki znaša 0,883
+  kg/liter;
+
+
+Pt (Min.dizel):
+
+modelska cena mineralnega dizla, v eurih/liter,
+  izračunana po formuli za mineralne naftne derivate iz 3.a člena te uredbe;
+
+
+TQ (Bio-d):
+
+priznani strošek transporta z železniško
+  cisterno za biodizel prostornine 60 m3 na relaciji Ljubljana–Rotterdam–Ljubljana
+  v eurih/liter po tarifniku Slovenskih železnic, ki znaša 
+  0,063 eura/liter;
+
+
+D Bio-d:
+
+delež vsebnosti biodizla v mineralnem dizlu,
+  izražen v volumskem odstotku, ki znaša 7 %.
+
+3.c člen
+Povprečna 14-dnevna prodajna cena tekočega obdobja brez
+dajatev (v nadaljnjem 
+besedilu: modelska cena) za KOEL se določi z naslednjim izračunom:
+pri čemer je:
+
+Pt:
+
+modelska cena naftnega derivata v
+  eurih/liter;
+
+
+r:
+
+gostota naftnega derivata (za KOEL 0,845
+  kg/l);
+
+
+r:
+
+članarina Zavodu Republike Slovenije za
+  blagovne rezerve v eurih/l, ki ga na podlagi 21.b člena Zakona o blagovnih rezervah
+  (Uradni list RS, št. 96/09 – uradno prečiščeno besedilo in 83/12) z uredbo
+  določi Vlada Republike Slovenije;
+
+
+M:
+
+marža distributerjev, določena v skladu z
+  9. členom te uredbe;
+
+
+i:
+
+dnevni podatek; i = 1, 2, 3, …, n;
+
+
+t:
+
+14-dnevni interval tekočega obdobja;
+
+
+n:
+
+n = 14; spremljamo 14-dnevno povprečje
+  (dejansko je n = 10, ker za soboto in nedeljo ni objave borznih kotacij);
+
+
+e:               
+
+1 USD = x EUR (objavljeni dnevni tečaj
+  Banke Slovenije);
+
+
+CIFMedH:  
+
+PLATTS kotacija derivata (najvišja dnevna
+  vrednost v USD/tono po viru: Platt's European Marketscan pod rubriko
+  »Mediteranean Cargoes CIF Med (Genova/Lavera), pri čemer se za KOEL uporabijo
+  kotacije 10 ppm ULSD.
 
 4. člen
 P* je najvišja prodajna cena brez dajatev v eurih/liter,
@@ -97,7 +297,7 @@ kakršnega predvideva prejšnji odstavek, se popravljena prodajna cena tekočega
 14-dnevnega obdobja P*t določi kot najvišja prodajna cena brez
 dajatev Pt, ki velja v obdobju t + 1 (P*t = Pt).
 6. člen
-Postopek delovanja mehanizma iz 3. člena te uredbe je
+Postopek delovanja mehanizma iz 3.a člena te uredbe je
 naslednji:
 a)    
 osnova za izračun najvišje prodajne cene brez dajatev (v eurih/liter),
@@ -124,6 +324,100 @@ izračunana modelska cena, izražena v eurih/tono, se prek gostote (ρ)
 derivata in faktorja 1/1000 preračuna v eure/liter ter se ji prištejeta v
 eurih/liter izražena članarina Zavodu za blagovne rezerve in v eurih/liter
 izražena bruto marža.
+6.a člen
+(1) Postopek delovanja mehanizma za izračun dodatka
+biokomponente v mineralnem bencinu NMB-95 je naslednji:
+a)    
+osnova za izračun modelske cene bioetanola so dnevne kotacije
+bioetanola, objavljene v Platts Bio-fuelscan v rubriki »Northwest Europe
+Ethanol Price Assesments« in za »Ethanol T2 FOB Rotterdam High«, izražene v
+eurih/m3;
+b)    
+modelska cena za bioetanol se izračuna tako, da se dnevni podatek za
+bioetanol deli s 1000, skupna vsota dnevnih podatkov pa se deli s številom dni,
+za katere so podatki na voljo;
+c)    
+od tako dobljene modelske cene za bioetanol v eurih/liter se odšteje po
+formuli iz 3.a člena te uredbe izračunana modelska cena za mineralni bencin
+NMB-95 v eurih/liter in prišteje strošek transporta TQ (Bio-b) v
+eurih/liter za železniški transport bioetanola;
+d)    
+seštevek iz prejšnje točke se pomnoži s 5 %, s čimer se dobi
+dodatek za biokomponento za mineralni bencin NMB-95 v eurih/liter;
+e)    
+dejansko se dodatek za biokomponento za mineralni bencin NMB-95 izračuna
+na podlagi podatkov za deset dni, in sicer od ponedeljka v tednu x do petka v
+tednu x + 1. Če je zaradi državnih praznikov ali dela prostih dni ali zaradi
+drugega vzroka na voljo manj kakor deset podatkov, se 14-dnevno povprečje
+izračuna na podlagi razpoložljivih podatkov. Za razpoložljive podatke se
+štejejo podatki o Platts Bio-fuelscan kotacijah za »Ethanol T2 FOB Rotterdam
+High«, ki so objavljeni najpozneje do ponedeljka v tednu x + 2, in sicer do 8.
+ure. Navedeni podatki se za izračun dodatka za biokomponento za mineralni
+bencin NMB-95 štejejo kot dokončni podatki.
+(2) Postopek delovanja mehanizma za izračun dodatka biodizla
+v mineralnem dizlu je naslednji:
+a)    
+osnova za izračun modelske cene biodizla so dnevne kotacije biodizla,
+objavljene v Platts Bio-fuelscan v rubriki »Northwest Europe Bio-diesel Price
+Assesments« in za »RME (RED) FOB ARA High«, izražene v ameriških dolarjih/tono;
+b)    
+modelska cena za biodizel v eurih/tono se izračuna tako, da se
+vsakodnevna Platts Bio- fuelscan kotacija pomnoži s tečajem ameriškega dolarja
+za isti dan, skupna vsota pa se deli s številom dni, za katere so podatki na
+voljo;
+c)    
+če za neki dan ni podatka o deviznem tečaju, se kot relevanten podatek upošteva
+zadnji razpoložljivi devizni tečaj;
+d)    
+izračunana modelska cena za biodizel, izražena v eurih/tono, se prek
+gostote ()
+biodizla in faktorja 1/1000 preračuna v eure/liter;
+e)    
+tako izračunani modelski ceni za biodizel v eurih/liter se odšteje po
+formuli iz 3.a člena te uredbe izračunana modelska cena za mineralni dizel v
+eurih/liter in se prišteje strošek transporta TQ(Bio-b) v
+eurih/liter za železniški transport biodizla;
+f)     
+seštevek iz prejšnje točke se pomnoži s 7 %, s čimer se dobi
+dodatek za biokomponento za dizel v eurih/liter;
+g)    
+dejansko se dodatek za biokomponento za dizel izračuna na podlagi
+podatkov za deset dni, in sicer od ponedeljka v tednu x do petka v tednu x + 1.
+Če je zaradi državnih praznikov ali dela prostih dni ali zaradi drugega vzroka
+na voljo manj kakor deset podatkov, se 14-dnevno povprečje izračuna na podlagi
+razpoložljivih podatkov. Za razpoložljive podatke se štejejo podatki o Platts
+Bio-fuelscan kotacijah za »RME (RED) FOB ARA High« in podatki o deviznem
+tečaju, ki so objavljeni najpozneje do ponedeljka v tednu x + 2, in sicer do 8.
+ure. Navedeni podatki se za izračun dodatka za biokomponento za mineralni dizel
+štejejo kot dokončni podatki.
+6.b člen
+Postopek delovanja mehanizma iz 3.c člena te uredbe je
+naslednji:
+a)    
+osnova za izračun najvišje prodajne cene brez dajatev (v eurih/liter),
+ki se lahko uveljavi na trgu, so borzne kotacije CIF MedH (CIF Mediteran –
+High), izražene v ameriških dolarjih/tono;
+b)    
+modelska cena v eurih/tono se izračuna tako, da se vsakodnevna borzna
+cena pomnoži s tečajem ameriškega dolarja za isti dan, skupna vsota pa se deli
+s številom dni, za katere so na razpolago podatki;
+c)    
+če za določen dan ni podatka o deviznem tečaju, se kot relevanten
+podatek vzame zadnji razpoložljivi devizni tečaj;
+č)    dejansko se modelska cena
+izračuna na podlagi podatkov za deset dni (v soboto in nedeljo ni podatkov o
+borznem trgovanju), in sicer od ponedeljka v tednu x do petka v tednu x + 1. Če
+je zaradi državnih praznikov ali dela prostih dni ali zaradi drugega vzroka na
+razpolago manj kakor deset podatkov, se 14-dnevno povprečje izračuna na podlagi
+razpoložljivih podatkov. Za razpoložljive podatke se štejejo podatki o borznih
+kotacijah CIF MedH in podatki o deviznem tečaju, ki so objavljeni najpozneje do
+ponedeljka v tednu x + 2. Navedeni podatki se za izračun modelske cene štejejo
+kot dokončni podatki;
+d)    
+izračunana modelska cena, izražena v eurih/tono, se prek gostote () derivata in
+faktorja 1/1000 preračuna v eure/liter ter se ji prištejeta v eurih/liter
+izražena članarina Zavodu za blagovne rezerve in v eurih/liter izražena bruto
+marža.
 7. člen
 (1) Nova najvišja cena se uveljavi v torek v tednu x + 2
 in velja do ponedeljka v tednu x + 4, distributerji pa morajo že v ponedeljek v
@@ -141,7 +435,8 @@ mest in zaokroževanje:
 -       
   borzna cena v ameriških dolarjih/tono: 
 
-dve decimalni mesti (vhodni podatek);
+dve decimalni mesti (vhodni
+  podatek);
 
 
 -       
@@ -179,13 +474,17 @@ zaokrožitev na tri decimalna
   mesta.
 
 9. člen
-Najvišja dovoljena višina marže znaša za dizel 0,0983 in za
-NMB 95 0,0994 eura/liter.
-PREHODNI IN KONČNI DOLOČBI
+Najvišja dovoljena višina marže znaša za dizel 0,0983
+eura/liter, za NMB-95 0,0994 eura/liter in za KOEL 0,08 eura/liter.
+
+Uredba o oblikovanju cen določenih naftnih
+derivatov (Uradni list RS, št. 84/22) vsebuje naslednji prehodni in
+končni določbi:
+»PREHODNI IN KONČNI DOLOČBI
 10. člen
-Ne glede na določbo 9 člena te uredbe najvišja dovoljena marža
-do vključno 16. avgusta 2022 znaša za dizel 0,0591 eura/liter in za NMB 95
-0,0607 eura/liter.
+Ne glede na določbo 9 člena te uredbe najvišja dovoljena
+marža do vključno 16. avgusta 2022 znaša za dizel 0,0591 eura/liter in za
+NMB 95 0,0607 eura/liter.
 11. člen
 Za prvi izračun povprečne 14-dnevne prodajne cene tekočega
 obdobja brez dajatev se upošteva obračunsko obdobje od 6. junija 2022 do
@@ -195,10 +494,22 @@ Z dnem uveljavitve te uredbe preneha veljati Uredba o
 določitvi cen določenih naftnih derivatov (Uradni list RS, št. 64/22).
 13. člen
 Ta uredba začne veljati 21. junija 2022 in velja eno
-leto.
-Št. 00704-223/2022
-Ljubljana, dne 15. junija 2022
-EVA 2022-2130-0023
-Vlada Republike Slovenije
-dr. Robert Golob
-predsednik
+leto.«.
+
+Uredba o spremembah Uredbe o oblikovanju cen
+določenih naftnih derivatov (Uradni list RS, št. 118/22) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+Ta uredba začne veljati 13. septembra 2022.«.
+
+Uredba o spremembah in dopolnitvah Uredbe o
+oblikovanju cen določenih naftnih derivatov (Uradni list RS, št. 151/22) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+5. člen
+Za prvi izračun povprečne 14-dnevne prodajne cene tekočega
+obdobja brez dajatev se upošteva obračunsko obdobje od 21. novembra 2022 do 2.
+decembra 2022.
+6. člen
+Ta uredba začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

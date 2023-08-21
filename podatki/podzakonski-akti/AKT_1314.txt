@@ -1,0 +1,513 @@
+I. SPLOŠNI DOLOČBI
+1. člen
+(vsebina in namen splošnega akta)
+(1) Ta splošni akt
+podrobneje ureja način prenosa številk, način zamenjave izvajalca storitve
+dostopa do interneta in določa s tem povezane tehnične in druge ukrepe ter
+višino oziroma način izračuna nadomestil.
+(2) Namen tega
+splošnega akta je zagotoviti učinkovitost in enostavnost postopka zamenjave
+izvajalca storitev dostopa do interneta oziroma prenosa številke.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni
+v tem splošnem aktu, pomenijo:
+1.     
+Centralna baza podatkov je centralna zbirka podatkov prenesenih številk,
+ki beleži status vsake transakcije med postopkom prenosa številk in vsebuje
+podatke, potrebne za usmerjanje klicev na prenesene številke, s katerimi se
+pravočasno posodabljajo lokalne baze prenesenih številk.
+2.     
+Izvajalec je izvajalec storitev dostopa do interneta oziroma izvajalec
+storitev, ki temeljijo na številkah iz načrta telefonskega oštevilčenja iz 98.
+člena Zakona o elektronskih komunikacijah (Uradni list RS, št. 130/22 in 18/23
+– ZDU-1O; v nadaljnjem besedilu: zakon).
+3.     
+Izvorno omrežje je javno komunikacijsko omrežje, v katero je priključen
+kličoči oziroma prenosno omrežje izvajalca, ki posreduje nacionalne
+(medkrajevne) oziroma mednarodne klice.
+4.     
+Lokalna baza prenesenih številk je zbirka aktivnih podatkov, ki se
+nahaja pri izvajalcih in vsebuje podatke, potrebne za usmerjanje klicev na
+prenesene številke.
+5.     
+Metoda »All Call Query« (ACQ) je metoda direktnega usmerjanja klicev na
+prenesene številke, ki temelji na IN-inteligentnem omrežju in kjer izvorno
+omrežje z namenom ugotovitve, če je klicana številka prenesena, pred
+vzpostavljanjem vsakega klica izvrši povpraševanje v lastni lokalni bazi
+prenesenih številk. V primeru, da je klicana številka prenesena, izvorno omrežje
+na osnovi številke za usmerjanje, pridobljeni v lastni lokalni bazi prenesenih
+številk, vzpostavi klic direktno proti omrežju, kjer se prenesena številka
+nahaja. V primeru, da številka ni prenesena, izvorno omrežje vzpostavi klic
+direktno z omrežjem, kjer se nahaja klicana številka.
+6.     
+MSISDN je nacionalna (značilna) številka N(S)N, ki jo mobilnemu
+uporabniku dodeli operater.
+7.     
+Prenesena številka je nacionalna značilna številka iz načrta
+telefonskega oštevilčenja iz 98. člena zakona, ki se nespremenjena prenese iz
+mobilnega telekomunikacijskega omrežja enega izvajalca v mobilno
+telekomunikacijsko omrežje drugega izvajalca ali iz fiksnega
+telekomunikacijskega omrežja enega operaterja v fiksno telekomunikacijsko
+omrežje drugega operaterja.
+8.     
+Prenosni izvajalec je izvajalec storitve dostopa do interneta, ki
+končnemu uporabniku zagotavlja storitev dostopa do interneta do zamenjave
+izvajalca storitve ali izvajalec storitev, ki temeljijo na številkah iz načrta
+telefonskega oštevilčenja iz 98. člena zakona, ki zagotavlja storitev končnemu
+uporabniku pred prenosom številke (donor).
+9.     
+PUK številka je edinstvena koda in hkrati osebni ključ, ki jo uporabnik
+prejme skupaj s SIM kartico in se uporablja za njeno zaščito.
+10.  
+Sprejemni izvajalec je izvajalec storitve dostopa do interneta, ki bo
+končnemu uporabniku zagotavljal storitev po izvedeni zamenjavi ali izvajalec
+storitev, ki temeljijo na številkah iz načrta telefonskega oštevilčenja iz 98.
+člena zakona, ki bo končnemu uporabniku zagotavljal storitev po prenosu
+številke (recipient).
+11.  
+Upravljavec centralne baze podatkov je fizična ali pravna oseba, ki na
+podlagi sklenjenega pravnega posla z operaterji upravlja s centralno bazo
+podatkov.
+(2) Ostali izrazi,
+uporabljeni v tem splošnem aktu, imajo enak pomen, kot je določen v zakonu.
+II. PRENOSLJIVOST ŠTEVILK
+3. člen
+(tehnične rešitve)
+(1) Vsi izvajalci storitev, ki temeljijo na številkah iz
+načrta telefonskega oštevilčenja iz 98. člena zakona, so dolžni prilagoditi
+svoja omrežja tako, da ta omogočajo prenosljivost številk ter jih razvijati in
+izboljševati v skladu z naraščanjem števila prenesenih številk.
+(2) Vsi izvajalci so
+dolžni vzpostaviti lokalno bazo prenesenih številk s podatki o vseh prenesenih
+številkah v Republiki Sloveniji.
+(3) Vsi izvajalci so
+pri prenašanju številk dolžni za medsebojno izmenjavo informacij o prenesenih
+številkah uporabljati centralno bazo podatkov, ki beleži vse faze prenosa
+številk.
+(4) Komunikacija med
+izvajalci poteka izključno preko centralne baze podatkov. Sprejemni izvajalec
+(recipient) preko centralne baze podatkov, pri prenosnem izvajalcu (donorju)
+preveri možnost prenosa številke v skladu s 14. členom
+tega splošnega akta. Prenosni izvajalec v časovnem okviru, določenem v 11.
+členu tega splošnega akta, preko centralne baze podatkov potrdi ali zavrne možnost
+prenosa številke. V primeru pozitivnega odgovora in soglasja uporabnika,
+sprejemni izvajalec (recipient) v predpisanem času obvesti centralno bazo
+podatkov o zahtevi za prenos. Centralna baza podatkov to sporoči prenosnemu
+izvajalcu (donorju), ki preveri zahtevo in status zahteve sporoči centralni
+bazi podatkov, v nadaljevanju postopka ta informacijo posreduje sprejemnemu
+izvajalcu (recipientu).
+(5) Kadar je to
+tehnično izvedljivo, se mora prenos izvesti na daljavo, razen če končni
+uporabnik zahteva drugače.
+4. člen
+(podatki o prenesenih številkah)
+(1) Podatki o
+prenesenih številkah se hranijo v lokalnih bazah prenesenih številk in v
+centralni bazi podatkov, ki je referenčna baza podatkov.
+(2) Upravljavec
+centralne baze podatkov lahko za izvajalca Agenciji za komunikacijska omrežja
+in storitve Republike Slovenije (v nadaljnjem besedilu: agencija) posreduje
+podatke o številkah prenesenih v posamezno omrežje, o datumu prenosa in oznako
+izvajalca dajalca številke, o zakasnelih in zavrnjenih prenosih z navedenimi
+razlogi, kakor tudi druga poročila, podatke in informacije, ki so jih izvajalci
+v zvezi z zagotavljanjem prenosljivosti številk dolžni posredovati v skladu z
+določili 195. in 265. člena zakona.
+5. člen
+(usmerjanje telekomunikacijskega prometa na prenesene
+številke)
+(1) Izvajalci so
+odgovorni za direktno usmerjanje klicev na prenesene številke.
+(2) Če se izvajalci ne
+dogovorijo drugače, velja da:
+1.     
+so izvajalci mobilnih omrežja oziroma storitev, v katerih se klic
+prične, odgovorni za pravilno usmerjanje klicev (direktno usmerjanje) ali
+predajo sporočil, naslovljenih na prenesene številke v vsa omrežja, v katerih
+se prenesena številka nahaja, skladno s tehničnimi specifikacijami Evropskega
+inštituta za telekomunikacijske standarde ETSI TS 123 066,
+2.     
+so izvajalci fiksnih komunikacijskih omrežij in storitev ter izvajalci,
+ki posredujejo klice med omrežji, odgovorni za pravilno direktno usmerjanje
+klicev na prenesene številke v druga fiksna omrežja z uporabo metode »All Call
+Query«,
+3.     
+so izvajalci fiksnih komunikacijskih omrežij, v katerih se pričnejo
+pozivi in izvajalci prenosnih omrežij, ki posredujejo klice iz drugih omrežij,
+odgovorni za pravilno direktno usmerjanje klicev na prenesene številke v
+mobilnih omrežjih, in sicer po metodi »All Call Query«,
+4.     
+so izvajalci komunikacijskih omrežij, ki dobijo zahtevo za vzpostavitev
+mednarodnega klica ali za prenos sporočila na preneseno številko, odgovorni za
+pravilno usmerjanje takih klicev ali za prenos sporočil direktno v
+komunikacijsko omrežje, v katerem se prenesena številka nahaja v skladu z 2. in
+4. točko tega odstavka.
+6. člen
+(centralna baza podatkov)
+(1) Za izmenjavo
+podatkov o prenesenih številkah med lokalnimi bazami prenesenih številk se
+uporablja centralna baza podatkov.
+(2) Centralna baza
+podatkov vsebuje vse prenesene številke, številke za usmerjanje klicev na
+prenesene številke in transakcije med izvajalci (imena prenosnih (donorjev) in
+sprejemnih (recepientov) izvajalcev, datume prenosov številk ter obvestila o
+statusu procesa prenosa številk).
+(3) Za vzpostavitev,
+razvoj, vzdrževanje in upravljanje centralne baze podatkov je odgovoren
+upravljavec centralne baze podatkov.
+(4) Upravljavec
+centralne baze podatkov je odgovoren za pravočasno posodabljanje podatkov.
+(5) Izvajalci sami
+izberejo upravljavca, ki na podlagi pravnega posla z izvajalci upravlja
+centralno bazo podatkov. Pri tem morajo izvajalci in upravljavec CBP zagotoviti
+neprekinjeno in zanesljivo delovanje sistema prenosljivosti.
+(6) Pogodba med
+upravljavcem CBP in izvajalci storitev, ki temeljijo na številkah iz načrta
+telefonskega oštevilčenja iz 98. člena zakona, je enaka za vse. Vzorec pogodbe
+se hrani pri agenciji.
+7. člen
+(opozorilo uporabnikom)
+(1) Izvajalec v
+izvornem omrežju lahko kličočim uporabnikom omogoča, da vklopijo funkcijo, ki
+jim ob klicu na preneseno številko posreduje kratko sporočilo »Kličete v drugo
+omrežje«.
+(2) Uporabnik lahko
+svojo odločitev o prejemanju opozorila kadarkoli spremeni.
+(3) Izvajalci obvestijo
+uporabnike o možnosti iz prejšnjih odstavkov tega člena ter o načinu posredovanja
+zahteve v skladu z ustreznim priporočilom agencije (Priporočilo o preglednosti
+in objavi informacij).
+(4) Izvajalci, lahko pa
+tudi upravljavec centralne baze podatkov, na svojih spletnih straneh oziroma
+brezplačnih številkah klicnih centrov zagotavljajo informacijo o omrežju, v
+katerega je številka prenesena, tako da se kličoči lahko sam informira o ceni
+klica.
+(5) Informacijo o
+omrežju, v katerega je številka prenesena, lahko zagotavlja tudi agencija na
+svoji spletni strani.
+(6) Ne glede na prvi
+odstavek tega člena:
+1.     
+izvajalec ne posreduje opozorila iz prvega odstavka tega člena kličočim
+iz tujine in
+2.     
+izvajalec ne posreduje opozorila iz prvega odstavka tega člena kličočim
+na številke brezplačnih storitev (številke iz območja (0) 80) in premijskih storitev
+(številke iz območja (0) 90).
+8. člen
+(uporaba usmerjalnih kod)
+(1) Za neposredno usmerjanje klicev na prenesene
+številke se uporabljajo usmerjalne kode iz številskega območja (0) 98 MN,
+določene s splošnim aktom, ki ureja načrt oštevilčenja.
+(2) Agencija za potrebe usmerjanja klicev na prenesene
+številke izvajalcem, ki so dolžni zagotavljati prenosljivost številk, dodeli
+usmerjalne kode.
+(3) Usmerjalna koda iz prejšnjega odstavka je
+sestavljena, kot sledi:
+98 MN, kjer je: MN – identifikacijska koda izvajalca.
+(4) Izvajalec je dolžan
+poskrbeti, da uporabnik ne more izbirati usmerjalnih kod. Vsak tak poskus mora
+biti prestrežen in zavržen.
+(5) Izvajalci so dolžni
+uporabljati usmerjalno kodo pri posredovanju vseh klicev na prenesene številke,
+mobilni izvajalci pa tudi pri posredovanju sporočil na prenesene številke.
+9. člen
+(povpraševanje o možnostih prenosa številke in zahteva za
+prenos številke)
+(1) Uporabnik, ki želi
+prenesti svojo telefonsko številko, poda povpraševanje o možnosti prenosa
+številke pri sprejemnem izvajalcu (recipientu).
+(2) Uporabnik
+predplačnik mora sprejemnemu izvajalcu (recipientu) predložiti MSISDN številko
+in PUK številko. Vzorčni obrazec zahteve za prenos predplačniške številke je
+določen v Prilogi 1, ki je sestavni del tega splošnega akta in vsebuje
+minimalen nabor podatkov, ki jih mora vsebovati obrazec zahteve za prenos
+predplačniške številke.
+(3) Uporabnik naročnik,
+ki ni predplačnik, mora sprejemnemu izvajalcu (recipientu) predložiti
+nacionalno (značilno) N(S)N številko in številko računa za komunikacijske
+storitve, izdanega s strani prenosnega izvajalca, ki ni starejši od treh
+mesecev.
+(4) Sprejemni izvajalec
+(recipient) posreduje povpraševanje preko centralne baze podatkov prenosnemu
+izvajalcu (donorju), ki mora na prejeto povpraševanje odgovoriti v roku 15
+minut.
+(5) Uporabnik naročnik,
+ki želi po prejetem pozitivnem odgovoru na posredovano povpraševanje prenesti
+svojo naročniško številko iz omrežja prenosnega izvajalca (donorja) v omrežje
+sprejemnega izvajalca (recipienta), mora vložiti pisno zahtevo za prenos
+številke pri sprejemnem izvajalcu (recipientu). Vzorčni obrazec zahteve za
+prenos naročniške številke je določen v Prilogi 2, ki je sestavni del tega
+splošnega akta in vsebuje minimalen nabor podatkov, ki jih mora vsebovati
+obrazec zahteve za prenos naročniške številke.
+10. člen
+(dolžnosti sprejemnega izvajalca (recipienta))
+(1) Pred prenosom
+številke je sprejemni izvajalec (recipient) dolžan preveriti identifikacijo
+uporabnika naročnika oziroma uporabnika predplačnika.
+(2) Identifikacija
+uporabnika naročnika se opravi s pomočjo dokumenta, s katerim se dokazuje
+identiteto osebe in računa za komunikacijske storitve, izdanega s strani
+prenosnega izvajalca (donorja), ki ni starejši od treh mesecev. Identifikacijo
+uporabnika predplačnika se opravi s predložitvijo PUK številke SIM kartice.
+(3) Sprejemni izvajalec
+(recipient) mora uporabnika naročnika oziroma uporabnika predplačnika, ki
+zahteva prenos številke, takoj obvestiti o postopku prenosa številke in še
+posebej o:
+1.     
+časovnem obdobju, v katerem mu bo onemogočena uporaba storitev,
+2.     
+obsegu in načinu uporabe storitev v omrežju sprejemnega izvajalca
+(recipienta),
+3.     
+omrežjih tistih izvajalcev, iz katerih bo možen dostop do številk
+namenjenim brezplačnim storitvam (številke iz območja oštevilčenja (0) 80) in
+do številk namenjenim premijskim storitvam (številke iz območja oštevilčenja
+(0) 90), ki so prenesene v omrežje sprejemnega izvajalca (recipienta),
+4.     
+omrežjih tistih izvajalcev, v katerih bo možen dostop do številk
+namenjenim brezplačnim storitvam (številke iz območja oštevilčenja (0) 80) in
+do številk namenjenim premijskim storitvam (številke iz območja oštevilčenja
+(0) 90) iz omrežja sprejemnega izvajalca (recipienta),
+5.     
+obveznostih in pogojih posredovanja opozorila kličočim uporabnikom pri
+klicih na prenesene številke,
+6.     
+razlogih za zavrnitev zahtevka za prenos številke in
+7.     
+razlogih za zakasnitev prenosa številke.
+(4) Sprejemni izvajalec
+(recipient) mora vključiti številko v svoje omrežje na dan prenosa usklajeno s
+prehodi med izvajalci na krajevni zanki in drugimi storitvami med izvajalci.
+(5) Sprejemni izvajalec
+(recipient) je dolžan preko centralne baze podatkov obvestiti imetnika
+številskega prostora v času treh mesecev, po tistem, ko je preneseno številko
+postavil v status številke, ki se ne uporablja (deaktivacija), in mu po izteku
+tega časovnega obdobja vrniti preneseno številko.
+11. člen
+(dolžnosti prenosnega izvajalca (donorja))
+(1) Po prejemu zahteve za prenos številke mora prenosni
+izvajalec (donor), od ponedeljka do četrtka v delovnem času od 8. do 16. ure, v
+petek pa od 8. do 13. ure, nemudoma pričeti s postopkom prenosa številke.
+Prenosni izvajalec (donor) je dolžan, od ponedeljka do četrtka v delovnem času
+od 8. do 16. ure, v petek pa od 8. do 13. ure, v roku 15 minut odgovoriti na
+posredovano povpraševanje o možnostih prenosa številke.
+(2) V primeru upravičene zahteve za prenos številke mora
+prenosni izvajalec (donor), v roku treh ur od prejete zahteve potrditi
+centralni bazi podatkov datum prenosa številke, ki je v okviru roka, določenega
+v tretjem oziroma četrtem odstavku 13. člena tega splošnega akta.
+(3) V kolikor prenosni izvajalec (donor) po potrditvi
+datuma prenosa in pred dejanskim prenosom ugotovi, da je prenos lahko sporen,
+ali če se v času izvedbe delne ali popolne razvezave krajevne zanke izkaže, da
+bi prenos številke med izvajalcema storitev na fiksni lokaciji povzročil izpad
+storitve za uporabnika za daljši čas, kot je predpisan s tem splošnim aktom, se
+s pisno utemeljitvijo prenosnega izvajalca (donorja) zamrzne postopek prenosa
+za največ sedem delovnih dni. Pisna utemeljitev se po elektronski pošti pošlje
+upravljavcu CBP in sprejemnemu izvajalcu (recipientu). Če v navedenem roku ni
+mogoče zagotoviti prenosa številke, se lahko proces prenosa številke ob soglasju
+sprejemnega izvajalca (recipienta) in uporabnika ustavi. V primeru, da postopek
+prenosa ni uspešen, prenosni izvajalec (donor) ponovno aktivira številko in
+povezane storitve. Upravljavec CBP o takšnih primerih mesečno obvešča agencijo.
+(4) Prenosni izvajalec (donor) po izključitvi številke
+iz svojega omrežja obvesti centralno bazo podatkov.
+(5) Prenosni izvajalec (donor) mora v postopku poizvedbe
+o možnosti prenosa številk nuditi vse potrebne informacije sprejemnemu
+izvajalcu (recipientu) v zvezi z informiranostjo uporabnika ob prenosu številk,
+če teh informacij ni na priloženem računu iz tretjega odstavka 9. člena tega
+splošnega akta.
+12. člen
+(administrativni postopek prenosa)
+(1) Če uporabnik
+naročnik oziroma uporabnik predplačnik vloži popolno zahtevo za prenos
+številke, sprejemni izvajalec (recipient) obvesti centralno bazo podatkov o
+prejeti zahtevi za prenos številke ter o želenem datumu izvedbe prenosa.
+(2) V trenutku, ko
+prenosni izvajalec (donor) centralni bazi podatkov potrdi prenos številke,
+uporabnik naročnik oziroma uporabnik predplačnik ne more več zahtevati preklica
+prenosa številke (razen v izjemnih primerih, ko o tem soglašata oba izvajalca),
+sprejemni izvajalec (recipient), pa je dolžan priključiti uporabnika v svoje
+omrežje.
+13. člen
+(roki za prenos številk)
+(1) Šteje se, da je
+zahteva za prenos številke, ki jo je sprejemni izvajalec (recipient) prejel na
+delovni dan od 8. do 15:45. ure, v petek pa do 12:45. ure, prejeta tega
+delovnega dne.
+(2) Če sprejemni
+izvajalec (recipient) prejme zahtevo za prenos številke na delovni dan po
+15:45. uri ali v petek po 12:45. uri, se šteje, da je bila zahteva vložena prvi
+naslednji delovni dan.
+(3) Izvajalci storitev
+morajo kar najhitreje prenesti številko in jo aktivirati. V vsakem primeru mora
+biti številka aktivirana v enem delovnem dnevu od dogovorjenega datuma, kakor
+je to predpisano v tretjem odstavku 195. člena zakona.
+(4) Izvajalci, ki
+zagotavljajo storitve na fiksni lokacij morajo kar najhitreje prenesti številko
+in jo aktivirati. V vsakem primeru mora biti številka aktivirana v enem
+delovnem dnevu, kakor je predpisano v tretjem odstavku 195. člena zakona
+oziroma najhitreje možno, če gre za posebne primere, navedene v tretjem
+odstavku 11. člena tega splošnega akta.
+(5) Uporabniku
+naročniku oziroma uporabniku predplačniku je uporaba elektronskih
+komunikacijskih storitev onemogočena v času postopka prenosa številke, ki se
+mora izvesti v najkrajšem možnem času. Deaktiviranje številk se mora izvesti v
+času med 00. in 4. uro. Vsi izvajalci morajo zagotoviti pravilno in popolno
+usmerjanje klicev na prenesene številke do 7. ure, razen v posebnih primerih,
+navedenih v tretjem odstavku 11. člena tega splošnega akta.
+14. člen
+(razlogi za zavrnitev zahteve za prenos številke s strani
+prenosnega izvajalca (donorja))
+(1) Zahtevo za prenos
+številke prenosni izvajalec (donor) zavrne, če:
+1.     
+se zahteva nanaša na neobstoječo ali neaktivno številko, in sicer v
+kolikor je številka neaktivna več kot en mesec, ko je odpoved začela
+učinkovati, prej pa le v primerih, ko se je končni uporabnik odpovedal pravici
+iz sedmega odstavka 195. člena zakona,
+2.     
+je zahteva vložena s strani nepooblaščene osebe,
+3.     
+je zahteva nepopolna, tako da prenos številke ni mogoč,
+4.     
+se zahtevana številka že nahaja v postopku prenosa oziroma obstaja predhodno
+podana zahteva za prenos iste številke ali
+5.     
+je številka, za katero se zahteva prenos, začasno ali trajno izključena
+iz omrežja prenosnega izvajalca (donorja).
+(2) V primeru, da
+uporabnik odpove zgolj naročniško razmerje, ohrani pravico, da številko v roku
+30 dni prenese k drugemu izvajalcu.
+15. člen
+(stroški)
+(1) Vsak izvajalec
+storitev na telekomunikacijskem omrežju sam nosi stroške prilagoditve svojega
+omrežja, tako da ta omogoča prenosljivost številk in stroške vzdrževanja te
+zmogljivosti.
+(2) Izvajalec omrežja,
+v katerem se generira klic, plača stroške po pogodbi o medomrežnem povezovanju
+izvajalcu omrežja, v katerem se klic na preneseno številko zaključi.
+(3) Izvajalec izvornega
+omrežja nosi vse dodatne stroške (usmerjanje in obračun), vezane na vzpostavljanje
+klica na preneseno številko, pri čemer ne sme klicev na prenesene številke v
+določeno omrežje zaračunavati več kot klice na neprenesene številke v to isto
+omrežje.
+(4) Prenos številke je
+za končnega uporabnika brezplačen, kar se nanaša tudi na morebitne stroške
+aktivacije neaktivne številke, če se številko aktivira v primeru izpolnjevanja
+pogojev iz sedmega odstavka 195. člena zakona.
+III. POSTOPEK ZAMENJAVE IZVAJALCA STORITEV DOSTOPA DO
+INTERNETA
+16. člen
+(zahteva za zamenjavo izvajalca storitev dostopa do
+interneta)
+(1) Naročnik, ki želi
+zamenjati izvajalca storitev dostopa do interneta, mora vložiti pisno zahtevo
+za zamenjavo izvajalca storitev dostopa do interneta. Vzorčni obrazec zahteve
+za zamenjavo izvajalca storitev dostopa do interneta je določen v Prilogi 3, ki
+je sestavni del tega splošnega akta in vsebuje minimalen nabor podatkov, ki jih
+mora vsebovati obrazec zahteve za zamenjavo izvajalca storitev dostopa do
+interneta.
+(2) Sprejemni izvajalec
+storitve dostopa do interneta se mora na zahtevo za zamenjavo izvajalca
+storitev dostopa do interneta odzvati v razumnem času, ki ne sme presegati dveh
+delovnih dni. Vzpostaviti mora stik s prenosnim izvajalcem storitve dostopa do
+interneta in z njim dogovoriti predvideni datum izvedbe prenosa. Naročniku mora
+sporočiti podrobnosti fizičnega preklopa, ki naj se izvede v najkrajšem možnem
+času. Prenosni izvajalec mora naročniku pisno obrazložiti postopek zamenjave,
+ki mora obsegati vsaj naslednje informacije:
+1.     
+storitve, ki bodo zamenjane,
+2.     
+vse storitve, na katere postopek zamenjave ne vpliva in
+3.     
+kakršne koli stroške, ki jih nosi naročnik, če pogodbo prekinja
+predčasno.
+(3) Naročnik s
+sprejemnim izvajalcem storitve dostopa do interneta sklene pogodbo, ki mora med
+drugim določati časovni okvir fizičnega preklopa in ga s tem pooblasti, da
+uskladi postopek zamenjave s prenosnim izvajalcem storitve. V vmesnem času je
+prenosni izvajalec dolžan neprekinjeno zagotavljati storitev dostopa do
+interneta.
+(4) Sprejemni izvajalec
+mora vključiti storitve naročniku na dan zamenjave izvajalca storitev usklajeno
+s prehodi med izvajalci na krajevni zanki in drugih storitvah kot je to
+določeno v naročniški pogodbi. Če je tehnično možno, mora prenosni izvajalec
+storitev dostopa do interneta zagotavljati neprekinjeno do končno delujoče
+izvedene zamenjave izvajalca storitev dostopa do interneta.
+(5) Z naslednjim dnem
+od dneva, ko je zamenjava izvajalca storitve tudi dejansko opravljena, kar
+pomeni, da delujočo storitev do dostopa do interneta vzpostavi in zagotavlja
+sprejemni izvajalec, se pogodba za storitev dostopa do interneta s prenosnim
+izvajalcem samodejno šteje za razvezano.
+IV. NADOMESTILA
+17. člen
+(nadomestila za primer zamude ali zlorabe)
+(1) Izvajalec, ki ne
+spoštuje obveznosti iz 194. do 196. člena
+zakona ter v primeru zamud in zlorab v postopku prenosa telefonske številke ali
+zamenjave izvajalca dostopa do interneta in v primeru, da se storitev ne opravi
+v dogovorjenem roku oziroma na dogovorjen datum, mora končnemu uporabniku
+izplačati ustrezno nadomestilo.
+(2) Nadomestilo iz
+prvega odstavka tega člena znaša za vsak začeti dan zamude 10 eurov na dan, in
+sicer:
+1.     
+pri prenosu posamezne telefonske številke ali
+2.     
+med postopkom zamenjave izvajalca storitve dostopa do interneta.
+(3) Nadomestilo iz
+prvega odstavka tega člena v primeru nespoštovanja obveznosti oziroma v primeru
+zlorabe znaša 100 eurov.
+(4) Končni uporabnik ni
+upravičen do nadomestila za čas, ko je vzrok za zamudo nedostopnost ali
+neodzivnost končnega uporabnika na pozive s strani prenosnega ali sprejemnega
+izvajalca storitve v zvezi s prenosom telefonske številke ali zaradi dostave in
+namestitve opreme na lokaciji končnega uporabnika za potrebe fizičnega preklopa
+dostopa do interneta. Šteje se, da je končni uporabnik neodziven ali nedostopen
+predvsem v naslednjih primerih:
+1.     
+če ob dogovorjenem času ne zagotovi dostopa do lokacije priključka,
+2.     
+če se na dogovorjeni dan izvedbe zamenjave izvajalca storitve dostopa do
+interneta ne odzove na telefonski klic predstavnika prenosnega ali sprejemnega
+izvajalca storitve, niti ga ne vrne v roku 30 minut ali
+3.     
+če se v roku 24 ur ne odzove na elektronsko sporočilo, poslano na naslov
+elektronske pošte, iz katerega je končni uporabnik predhodno komuniciral z
+izvajalcem storitev ali ga navedel v zahtevi za zamenjavo ali v naročniški pogodbi.
+(5) Nadomestila iz tega
+člena so strošek izvajalca, ki je povzročitelj zamude ali nosi odgovornost za
+zlorabo, ki ni nastala po krivdi uporabnika, v postopku prenosa številke ali
+zamenjave izvajalca storitve dostopa do interneta. Izvajalec nadomestilo na
+zahtevo končnega uporabnika izplača na njegov transakcijski račun.
+(6) Med drugim se
+šteje, da gre za zlorabo, kadar zahteve za prenos številke ni podal končni
+uporabnik (naročnik ali predplačnik).
+(7) V primeru zlorab v
+postopku prenosa telefonske številke ali pri prehodu dostopa do interneta od
+prenosnega k sprejemnemu izvajalcu storitve, se že izveden prenos telefonske
+številke ali fizični preklop dostopa do interneta povrne v prejšnje stanje.
+(8) Nadomestilo po tem
+členu ne izključuje morebitne odškodninske odgovornosti izvajalca.
+V. PREHODNA IN KONČNA DOLOČBA
+18. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega splošnega akta se preneha uporabljati
+Splošni akt o prenosljivosti številk (Uradni list RS, št. 62/13, 23/18, 77/18
+in 130/22 – ZEKom-2).
+19. člen
+(začetek veljavnosti)
+Ta splošni akt začne veljati petnajsti dan po objavi v
+Uradnem listu Republike Slovenije.
+Št. 0073-45/2022/12 
+Ljubljana, dne 4. aprila 2023 
+EVA 2023-1545-0005
+Mag. Tanja Muha
+v. d. direktorja
+
+Priloga
+1: Zahteva za prenos predplačniške številke k drugemu izvajalcu
+Priloga
+2: Zahteva za prenos naročniške številke k drugemu izvajalcu
+Priloga
+3: Zahteva za zamenjavo izvajalca storitev dostopa do interneta

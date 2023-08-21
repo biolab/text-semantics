@@ -465,11 +465,11 @@ mora imeti udeleženec cestnega prometa pri približevanju k NPr glede na
 dovoljeno hitrost na cesti zagotovljen pregled do mesta vidnosti na progi.
 Mesto vidljivosti je na razdalji dolžine poti ustavljanja pred prometnim znakom
 »Andrejev križ«.
-(4) Mesto vidnosti (B) je tisto mesto na progi, najmanj
-toliko oddaljeno od NPr, na katerem mora imeti udeleženec cestnega prometa z
-mesta vidljivosti na cesti možnost opaziti prihajajoče tirno vozilo in svoje
-vozilo pred prometnim znakom »Andrejev križ« zaustaviti. Mesto vidnosti se
-določi z izračunom poti približevanja tirnega vozila.
+(4) Mesto vidnosti (B) je tisto mesto na progi, najmanj toliko
+oddaljeno od NPr, na katerem mora imeti udeleženec cestnega prometa z mesta
+vidljivosti na cesti možnost opaziti prihajajoče tirno vozilo in svoje vozilo
+pred prometnim znakom »Andrejev križ« zaustaviti. Mesto vidnosti se določi z
+izračunom poti približevanja tirnega vozila.
 (5) Vsebina tretjega in četrtega odstavka tega člena je
 prikazana na sliki iz Priloge 6, ki je sestavni del tega pravilnika.
 (6) Na nezavarovanih prehodih se svetlobni utripalniki
@@ -548,9 +548,9 @@ ustrezno podaljša.
 (2) Samodejni izklop mora biti onemogočen, kadar je izpolnjen
 vsaj eden od naslednjih pogojev:
 1.     
-če je na približevalnem območju predvideno mesto zaustavitve vlaka (postajališče,
-glavni signal), razen za NPr, katerih delovanje se kontrolira s kontrolnim
-signalom;
+če je na približevalnem območju predvideno mesto zaustavitve vlaka
+(postajališče, glavni signal), razen za NPr, katerih delovanje se kontrolira s
+kontrolnim signalom;
 2.     
 če avtomatska naprava za zavarovanje NPr omogoča izklop zavarovanja z
 izdajo ukaza na nadzornem mestu.
@@ -562,6 +562,9 @@ mesta, mora biti zagotovljeno javljanje vklopljenega zavarovanja.
 (5) Na NPr, kjer je omogočen tudi vklop zavarovanja z
 nadzornega mesta, mora biti zagotovljeno javljanje lege drogov zapornic ali
 polzapornic.
+(6) Pri obstoječih NPr mora biti zahteva iz 1. točke prvega
+odstavka tega člena izpolnjena pri prvi nadgradnji ali obnovi proge, odseka
+proge ali NPr.
 33. člen
 (viri energetskega napajanja naprav za zavarovanje NPr)
 Avtomatske naprave morajo biti napajane s stalnim energetskim
@@ -571,9 +574,9 @@ delovanje še najmanj osem ur po izpadu stalnega napajanja.
 34. člen
 (spuščanje drogov zapornic ali polzapornic pri izpadu
 celotnega napajanja)
-Pri avtomatskih napravah za zavarovanje NPr s cestnimi
-signali in zapornicami ali polzapornicami se morajo drogovi zapornic ali
-polzapornic pri izpadu napajanja samodejno spustiti v spodnjo, vodoravno lego.
+Pri avtomatskih napravah za zavarovanje NPr s cestnimi signali
+in zapornicami ali polzapornicami se morajo drogovi zapornic ali polzapornic
+pri izpadu napajanja samodejno spustiti v spodnjo, vodoravno lego.
 35. člen
 (delovanje na dvotirnih progah)
 (1) Če na zavarovanem NPr s cestnimi signali in zapornicami
@@ -716,10 +719,10 @@ zapornic ali polzapornic).
 (2) Oddaljenost vklopnega mesta (lvm) na progi na
 približevalnem območju pred NPr se izračuna kot zmnožek časa približevanja
 tirnega vozila prehodu (tp) in največje progovne hitrosti tirnih vozil vtvmax:
-(3) Oddaljenost vklopnega mesta lvm na progi na
-približevalnem območju pred NPr, na katerih se delovanje kontrolira s
-kontrolnim signalom, se izračuna kot vsota zavorne razdalje in razdalje, ki jo
-naredi tirno vozilo z največjo progovno hitrostjo v 7,2 sekunde:
+(3) Oddaljenost vklopnega mesta lvm na progi na približevalnem
+območju pred NPr, na katerih se delovanje kontrolira s kontrolnim signalom, se
+izračuna kot vsota zavorne razdalje in razdalje, ki jo naredi tirno vozilo z
+največjo progovno hitrostjo v 7,2 sekunde:
 46. člen
 (obvezna uporaba zapornic ali deljenih zapornic)
 Uporaba zapornic ali deljenih zapornic skupaj s cestnimi
@@ -734,25 +737,47 @@ vseh tirih iz vseh smeri.
 48. člen
 (označba višinskega profila)
 (1) Pred NPr na elektrificiranih progah mora biti označena
-najvišja dovoljena višina cestnih vozil, ki smejo prečkati nivojski prehod. Označba
-višine je sestavljena iz žice, ki poteka vzporedno z nivojem vozišča, nad osjo
-ceste pa je opozorilna tabla z napisom »POZOR Visoka napetost Smrtno nevarno«
-in opozorilnim znakom za nevarnost pred električno napetostjo – rdečo lomljeno
-puščico. Oblika in mere opozorilne table so določene v Prilogi 7, ki je
-sestavni del tega pravilnika.
+najvišja dovoljena višina cestnih vozil, ki smejo prečkati nivojski prehod.
+Označba višine je sestavljena iz žice, ki poteka vzporedno z nivojem vozišča,
+nad osjo ceste pa je opozorilna tabla z napisom »POZOR Visoka napetost Smrtno
+nevarno« in opozorilnim znakom za nevarnost pred električno napetostjo – rdečo
+lomljeno puščico. Oblika in mere opozorilne table so določene v Prilogi 7, ki
+je sestavni del tega pravilnika.
 (2) Na NPr samo za pešce oziroma kolesarje ni treba
 postavljati višinskega profila.
-VI. PREHODNE IN KONČNE DOLOČBE
+
+Priloga
+1: Meja nevarnega območja
+Priloga
+2: Prikaz zapornic, polzapornic in deljenih zapornic
+Priloga
+3: Prikaz cone prehoda in cone zapornic
+Priloga
+4: Dolžina prehoda pri nezavarovanih prehodih
+Priloga
+5: Preglednostni prostor pri nezavarovanih prehodih
+Priloga
+6: Preglednostni prostor pri nezavarovanih prehodih z mestom vidljivosti na
+cesti oziroma progi
+Priloga
+7: Oblika in mere višinskega profila
+
+Pravilnik o nivojskih prehodih (Uradni list
+RS, št. 55/19) vsebuje naslednje prehodne in
+končne določbe:
+»VI. PREHODNE IN KONČNE DOLOČBE
 49. člen
-(mehanske naprave za zavarovanje NPr)
+(mehanske naprave za
+zavarovanje NPr)
 Mehanske naprave za zavarovanje NPr se nadomestijo z
 ustreznejšo rešitvijo (ukinitev, izvennivojsko križanje, avtomatske naprave za
 zavarovanje) ob prvi nadgradnji proge.
 50. člen
-(prehodno obdobje za izpolnitev zahtev)
-(1) Kadar sta dva ali več NPr na manjši razdalji od
-2000 m, se NPr ukine tako, da bo razdalja med dvema NPr najmanj 2000 m,
-najpozneje:
+(prehodno obdobje za
+izpolnitev zahtev)
+(1) Kadar sta dva ali več
+NPr na manjši razdalji od 2000 m, se NPr ukine tako, da bo razdalja med dvema
+NPr najmanj 2000 m, najpozneje:
 1.     
 ob prvi rekonstrukciji cest znotraj 2000 metrov in po zgraditvi
 povezovalne ceste, ki omogoča preusmeritev;
@@ -777,26 +802,16 @@ Pravilnik o nivojskih prehodih (Uradni list RS, št. 49/16).
 53. člen
 (začetek veljavnosti)
 Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
-listu Republike Slovenije.
-Št. 007-33/2019/22-02131786
-Ljubljana, dne 23 avgusta 2019
-EVA 2019-2430-0018
-Alenka Bratušek
-ministrica
-za infrastrukturo
+listu Republike Slovenije.«.
 
-Priloga
-1: Meja nevarnega območja
-Priloga
-2: Prikaz zapornic, polzapornic in deljenih zapornic
-Priloga
-3: Prikaz cone prehoda in cone zapornic
-Priloga
-4: Dolžina prehoda pri nezavarovanih prehodih
-Priloga
-5: Preglednostni prostor pri nezavarovanih prehodih
-Priloga
-6: Preglednostni prostor pri nezavarovanih prehodih z mestom vidljivosti na
-cesti oziroma progi
-Priloga
-7: Oblika in mere višinskega profila
+Pravilnik
+o dopolnitvi Pravilnika o nivojskih prehodih (Uradni list RS, št. 110/22)
+vsebuje naslednjo prehodno in končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+2. člen
+(rok za izpolnitev)
+Zahteva iz novega šestega odstavka 32. člena pravilnika mora biti izpolnjena najpozneje do 31. decembra 2030.
+3. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.

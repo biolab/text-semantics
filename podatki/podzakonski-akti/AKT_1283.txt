@@ -1,0 +1,819 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) S tem aktom se določa metodologija za izračunavanje faktorjev primarne energije za sisteme
+daljinskega ogrevanja in hlajenja, izpustov ogljikovega dioksida na enoto
+dobavljene energije iz sistemov ter učinkovitosti sistemov daljinskega
+ogrevanja in hlajenja.
+(2) S tem aktom se določa tudi vsebina in oblika
+zbirnega pregleda načrtovanih ukrepov in z njimi povezanih podatkov. 
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem aktu, pomenijo:
+
+-       
+  nOVE del:
+
+je delež, ki odraža količino toplote, proizvedene iz
+  neobnovljivih virov energije, oziroma delež neobnovljivih virov energije v
+  faktorju primarne energije;
+
+
+-       
+  OVE del:
+
+je delež, ki odraža količino toplote, proizvedene iz
+  obnovljivih virov energije, oziroma delež obnovljivih virov energije v
+  faktorju primarne energije;
+
+
+-       
+  sistem:
+
+je sistem daljinskega ogrevanja ali hlajenja;
+
+
+-       
+  vir toplote:
+
+je proizvodna ali soproizvodna naprava ali drug vir
+  energije, iz katerega se pridobiva toplota za oskrbo sistema daljinskega
+  ogrevanja ali hlajenja. 
+
+II. METODOLOGIJA ZA IZRAČUNAVANJE
+FAKTORJEV PRIMARNE ENERGIJE
+3. člen
+(splošno)
+(1) Z metodologijo iz tega poglavja se za vsak sistem
+daljinskega ogrevanja ali hlajenja določa način izračunavanja faktorja primarne
+energije, ki podaja razmerje med letno porabljeno primarno energijo za
+proizvodnjo toplote in letno dobavljeno toploto iz sistemov. 
+(2) Faktor primarne energije za preteklo leto za
+posamezen sistem izračuna Agencija za energijo (v nadaljnjem besedilu:
+agencija) na podlagi vsaj naslednjih podatkov za preteklo leto:
+1.     
+porabe energentov za proizvodnjo toplote oziroma električne energije v
+procesu proizvodnje oziroma priprave toplote za prevzem v sistem;
+2.     
+skupne količine proizvedene toplote iz posameznega vira;
+3.     
+količine toplote, ki je bila prevzeta v sistem iz virov, pri katerih
+primarni namen ni proizvodnja toplote ali toplota prevzeta iz drugih sistemov;
+4.     
+dobavljene toplote odjemalcem; 
+5.     
+porabljene električne energije za delovanje sistema in
+6.     
+v soproizvodnji proizvedene električne energije ali druge oblike
+koristne energije, ki ni bila porabljena v sistemu niti za delovanje sistema.
+(3) Pri izračunu faktorja primarne energije za sistem se
+upoštevajo vrednosti faktorjev primarne energije za posamezne energente iz
+Tabele 1 Priloge 1, ki je sestavni del tega akta.
+4. člen
+(vhodni podatki)
+(1) Podatke iz drugega odstavka 0. člena tega akta agencija pridobi od distributerjev toplote z obrazci v elektronski obliki. 
+(2) Distributerji toplote so dolžni poslati zahtevane
+podatke agenciji v skladu aktom, ki ureja način posredovanja podatkov in
+dokumentov izvajalcev energetskih dejavnosti.
+5. člen
+(način izračuna faktorja primarne energije za sistem)
+(1) Skupni faktor primarne energije za posamezen sistem
+odraža porabo obnovljivih virov energije in neobnovljivih virov energije pri
+proizvodnji toplote.
+(2) Skupni faktor primarne energije za sistem se izračuna v
+naslednjih korakih:
+1.     
+izračuna se faktor primarne energije za posamezen vir toplote, iz
+katerega je bila v sistem prevzeta toplota. Faktor primarne energije za
+posamezen vir toplote vključuje tudi porabljeno električno energijo v procesu
+proizvodnje oziroma priprave toplote za prevzem v sistem, pri čemer se upošteva
+utežen faktor primarne energije za porabljeno količino električne energije; 
+2.     
+izračunajo se deleži količin toplote iz posameznih virov toplote, ki so
+bili prevzeti v sistem;
+3.     
+na podlagi vrednosti faktorjev primarne energije iz 1. točke in njihovih
+deležev iz 2. točke tega odstavka se izračuna utežen skupni faktor primarne
+energije virov toplote, iz katerih je bila toplota prevzeta v sistem;
+4.     
+izračuna se utežen faktor primarne energije za količino električne
+energije, ki je bila porabljena za delovanje sistema;
+5.     
+izračuna se faktor primarne energije za celoten sistem na podlagi
+uteženega faktorja primarne energije virov toplote, deležev količin posamezne
+vrste toplote, ki je bila prevzeta v sistem, uteženega faktorja primarne
+energije za električno energijo in količine električne energije, ki je bila
+porabljena za delovanje proizvodnih virov in sistema, ob upoštevanju
+dobavljene količine toplote končnim odjemalcem.
+6. člen
+(izračun skupnega faktorja primarne energije za vire toplote)
+(1)  Pri izračunu skupnega faktorja primarne energije za
+sistem se upoštevajo faktorji primarne energije za posamezne vire toplote in
+deleži posameznih virov.
+(2) Skupni faktor primarne energije za posamezen vir
+toplote se izračuna na naslednji način:
+kjer oznake pomenijo: 
+    skupni faktor
+primarne energije posameznega vira toplote;
+   porabljena
+energija posameznega energenta za delovanje proizvodne ali soproizvodne naprave
+toplote [MWh], pri izračunu energije se upošteva spodnja kurilna vrednost
+energenta;
+    skupni faktor
+primarne energije posameznega energenta, porabljenega v proizvodni oziroma
+soproizvodni napravi ali faktor primarne energije toplote, pridobljene iz
+drugega vira toplote, pri katerem primarni namen ni proizvodnja toplote;
+ porabljena
+električna energija pri proizvodnji ali soproizvodnji toplote v posameznem viru
+toplote [MWh] in vključuje električno energijo, porabljeno za delovanje naprav,
+vključenih v proces proizvodnje oziroma priprave toplote za prevzem v sistem;
+ utežen skupni
+faktor primarne energije za električno energijo, ki je bila porabljena v
+procesu proizvodnje ali priprave toplote za prevzem v sistem iz posameznega
+vira (lastna raba);
+   neto električna energija
+ali druga oblika koristne energije, ki ni namenjena delovanju sistema niti
+oskrbi sistema s toploto, proizvedena v soproizvodni napravi [MWh], če se za
+proizvodnjo toplote uporablja soproizvodna naprava;
+   skupni faktor
+primarne energije za električno energijo ali drugo obliko energije, ki velja za
+proizvodnjo v Sloveniji, vrednost je določena v Tabeli 1 Priloge 1 tega akta;
+    celotna količina toplote iz posameznega vira [MWh];
+    posamezen vir toplote,
+ki je bila prevzeta v sistem;
+   vrsta
+porabljenega energenta za delovanje proizvodne oziroma soproizvodne naprave ali
+druga oblika energije;
+  posamezna vrsta
+koristne energije, ki ni bila prevzeta v sistem.
+(3) Če je bila za delovanje proizvodnih ali
+soproizvodnih virov toplote porabljena električna energija iz več virov, se
+utežen faktor primarne energije za električno energijo za posamezen vir toplote
+izračuna na naslednji način:
+kjer oznake pomenijo:
+ utežen skupni
+faktor primarne energije za električno energijo, ki je bila porabljena v
+procesu proizvodnje ali priprave toplote za prevzem v sistem iz posameznega
+vira (lastna raba);
+ faktor primarne
+energije za posamezen vir električne energije;
+ delež električne
+energije iz posameznega vira v skupni količini električne energije, ki je bila porabljena
+v procesu proizvodnje ali priprave toplote za prevzem v sistem;
+   posamezen vir
+električne energije.
+(4) Če se v sistem prevzema
+odvečna toplota ali toplota iz geotermalnih virov, se za ta vir toplote faktor  določi na podlagi
+vrednosti v Tabeli 1 Priloge 1 tega akta. 
+(5) Če se v sistem prevzema toplota iz drugega sistema,
+se za ta vir toplote uporabi faktor , ki je enak
+vrednosti faktorja  za sistem, iz
+katerega je bila prevzeta toplota.
+(6) Če je bila v primerih iz četrtega in petega odstavka
+tega člena pri pripravi ali prevzemu toplote pred vstopno točko v sistem
+porabljena električna energija, se faktor  izračuna na
+naslednji način:
+kjer oznake pomenijo: 
+    skupni faktor
+primarne energije posameznega vira toplote;
+  količina toplote,
+ki je bila prevzeta v sistem iz virov, katerih primarni namen ni proizvodnja
+toplote ali je bila prevzeta iz drugih sistemov [MWh];
+    skupni faktor
+primarne energije za vir toplote, ki je bila prevzeta v sistem;
+ porabljena električna
+energija pri proizvodnji ali soproizvodnji toplote v posameznem viru toplote
+[MWh] in vključuje električno energijo, porabljeno za delovanje naprav,
+vključenih v proces proizvodnje oziroma priprave toplote za prevzem v sistem;
+ utežen skupni
+faktor primarne energije za električno energijo, ki je bila porabljena v
+procesu proizvodnje ali priprave toplote za prevzem v sistem iz posameznega
+vira (lastna raba);
+    celotna
+količina toplote iz posameznega vira [MWh];
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+7. člen
+(izračun OVE in nOVE dela skupnega faktorja primarne
+energije za vire toplote)
+(1) Skupni faktor primarne energije  posameznega vira
+toplote je sestavljen iz dveh faktorjev, pri čemer prvi odraža delež rabe
+obnovljivih virov energije, drugi pa delež rabe neobnovljivih virov energije.
+(2) Faktor primarne energije, ki odraža delež rabe
+obnovljivih virov energije za posamezen vir toplote iz drugega odstavka
+prejšnjega člena, se izračuna na naslednji način: 
+,
+kjer oznake pomenijo:
+     faktor
+primarne energije proizvodne ali soproizvodne naprave oziroma drugega vira
+toplote, pri katerem primarni namen ni proizvodnja toplote, OVE del;
+    skupni faktor
+primarne energije posameznega vira toplote;
+    delež neto
+količine toplote, proizvedene v proizvodni oziroma soproizvodni napravi iz
+obnovljivih virov energije ali pridobljene iz drugega vira toplote, pri katerem
+primarni namen ni proizvodnja toplote. Pri izračunu deleža toplote iz
+obnovljivih virov se upošteva delež obnovljivih virov energije v porabljenih
+energentih.
+(3) Delež neto količine toplote, proizvedene iz
+obnovljivih virov energije v posamezni proizvodni oziroma soproizvodni napravi
+ali pridobljene iz drugega vira toplote, pri katerem primarni namen ni
+proizvodnja toplote, se izračuna na naslednji način: 
+,
+kjer oznake pomenijo:
+    delež neto
+količine toplote, proizvedene v proizvodni oziroma soproizvodni napravi iz obnovljivih
+virov energije ali pridobljene iz drugega vira toplote, pri katerem primarni
+namen ni proizvodnja toplote. Pri izračunu deleža toplote iz obnovljivih virov
+se upošteva delež obnovljivih virov energije v porabljenih energentih;
+   porabljena
+energija posameznega energenta za delovanje proizvodne ali soproizvodne naprave
+toplote [MWh], ki upošteva spodnjo kurilno vrednost energenta;
+     faktor
+primarne energije posameznega energenta, porabljenega v proizvodni oziroma
+soproizvodni napravi, ali faktor primarne energije toplote, pridobljene iz
+drugega vira toplote, pri katerem primarni namen ni proizvodnja toplote, OVE
+del;
+   skupni faktor
+primarne energije posameznega energenta, porabljenega v proizvodni oziroma
+soproizvodni napravi ali faktor primarne energije toplote, pridobljene iz
+drugega vira toplote, pri katerem primarni namen ni proizvodnja toplote;
+   vrsta
+porabljenega energenta za delovanje proizvodne oziroma soproizvodne naprave;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+(4) Faktor primarne energije, ki odraža delež rabe
+neobnovljivih virov energije za delovanje proizvodne oziroma soproizvodne
+naprave iz drugega odstavka prejšnjega člena, se izračuna na naslednji način: 
+kjer oznake pomenijo:
+   faktor primarne energije
+proizvodne ali soproizvodne naprave oziroma drugega vira toplote, ki je bila
+prevzeta v sistem, pri katerem primarni namen ni proizvodnja toplote, nOVE del;
+    skupni faktor
+primarne energije posameznega vira toplote;
+     faktor
+primarne energije proizvodne ali soproizvodne naprave oziroma drugega vira
+toplote, pri katerem primarni namen ni proizvodnja toplote, OVE del;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+8. člen
+(uteženi faktorji primarne energije za več proizvodnih virov
+toplote)
+(1) Če se toplota proizvaja v več proizvodnih ali
+soproizvodnih napravah oziroma je pridobljena iz več virov toplote, se uteženi
+faktor primarne energije vseh v sistemu uporabljenih virov toplote izračuna z
+upoštevanjem deležev uporabljenih virov v skupni toploti, ki je bila prevzeta v
+sistem, na naslednji način:
+kjer oznake pomenijo:
+    uteženi
+skupni faktor primarne energije za uporabljene vire toplote, ki je bila
+prevzeta v sistem;
+    skupni faktor
+primarne energije posameznega vira toplote;
+ delež toplote iz
+posameznega vira v skupni toploti, ki je bila prevzeta v sistem;
+    posamezen vir toplote,
+ki je bila prevzeta v sistem.
+(2) Faktor primarne energije  se za vsak
+posamezen vir toplote izračuna na način, kot je določen v prejšnjem členu.
+(3) Uteženi faktor primarne energije vseh virov toplote,
+ki je bila prevzeta v sistem in odraža delež rabe obnovljivih virov energije,
+se izračuna na naslednji način: 
+kjer oznake pomenijo:
+     uteženi faktor
+primarne energije vseh virov toplote, iz katerih je bila toplota prevzeta v
+sistem, OVE del;
+     faktor
+primarne energije proizvodne ali soproizvodne naprave oziroma drugega vira
+toplote, pri katerem primarni namen ni proizvodnja toplote, OVE del;
+ delež toplote iz
+posameznega vira toplote v skupni toploti, ki je bila prevzeta v sistem;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+(4) Uteženi faktor primarne energije vseh virov toplote,
+ki je bila prevzeta v sistem in odraža delež rabe neobnovljivih virov energije,
+se izračuna na naslednji način: 
+kjer oznake pomenijo:
+   uteženi faktor
+primarne energije vseh virov toplote, iz katerih je bila toplota prevzeta v
+sistem, nOVE del;
+    uteženi skupni
+faktor primarne energije za uporabljene vire toplote, ki je bila prevzeta v
+sistem;
+     uteženi faktor
+primarne energije vseh virov toplote, iz katerih je bila toplota prevzeta v
+sistem, OVE del.
+9. člen
+(izračun faktorja primarne energije za sistem)
+(1) Skupni faktor primarne energije za sistem, ki
+vsebuje OVE in nOVE del, se izračuna na naslednji način:
+kjer oznake pomenijo:
+    skupni faktor primarne
+energije za sistem;
+    uteženi skupni
+faktor primarne energije za uporabljene vire toplote, ki je bila prevzeta v
+sistem;
+   količina
+toplote, ki je bila prevzeta v sistem [MWh];
+     utežen skupni
+faktor primarne energije za električno energijo, ki je bila porabljena za
+delovanje sistema (lastna raba);
+ električna
+energija, ki je bila porabljena za delovanje sistema (lastna raba) [MWh];
+      skupna
+količina toplote, dobavljena končnim odjemalcem [MWh].
+(2) Če je bila za delovanje sistema porabljena
+električna energija iz več virov, se utežen faktor primarne energije za
+električno energijo izračuna na naslednji način:
+kjer oznake pomenijo:
+     utežen skupni
+faktor primarne energije za električno energijo, ki je bila porabljena za
+delovanje sistema (lastna raba);
+ faktor primarne
+energije za posamezen vir električne energije;
+  delež električne
+energije iz posameznega vira v skupni količini električne energije, ki je bila
+porabljena za delovanje sistema;
+   posamezen vir
+električne energije.
+(3) Faktor primarne energije za
+sistem, ki odraža delež porabe obnovljivih virov energije za delovanje sistema,
+se izračuna na naslednji način: 
+kjer oznake pomenijo:
+    faktor primarne
+energije za sistem, OVE del;
+     uteženi faktor
+primarne energije vseh virov toplote, iz katerih je bila toplota prevzeta v
+sistem, OVE del;
+   količina
+toplote, ki je bila prevzeta v sistem [MWh];
+ faktor primarne
+energije za električno energijo, ki je bila porabljena za delovanje sistema
+(lastna raba), OVE del, ki je določen v Tabeli 1 Priloge 1 tega akta;
+ električna
+energija, ki je bila porabljena za delovanje sistema (lastna raba) [MWh];
+ skupna količina
+toplote, dobavljena končnim odjemalcem [MWh].
+(4) Faktor primarne energije za sistem, ki odraža delež
+rabe neobnovljivih virov energije za delovanje sistema, se izračuna na
+naslednji način: 
+kjer oznake pomenijo:
+   faktor primarne
+energije za sistem, nOVE del;
+    skupni faktor
+primarne energije za sistem;
+    faktor primarne
+energije za sistem, OVE del.
+III. METODOLOGIJA ZA DOLOČANJE UČINKOVITOSTI SISTEMOV
+10. člen
+(splošno)
+Izpolnjevanje kriterija učinkovitosti sistema se ugotavlja na
+podlagi izračunanih deležev porabe toplote iz obnovljivih virov, odvečne
+toplote ali soproizvodnje oziroma kombinacije prej navedenih virov toplote v
+skupni količini toplote, ki je bila prevzeta v sistem. Deleži iz prejšnjega
+stavka se nanašajo na količine porabljenih energentov za proizvodnjo toplote
+ali količine toplote iz drugih virov, ki je bila prevzeta v sistem v preteklem
+letu.
+11. člen
+(določanje deleža toplote iz obnovljivih virov)
+(1) Skupni delež toplote iz obnovljivih virov energije v
+sistemu se izračuna kot razmerje med vsoto virov toplote iz obnovljivih virov
+in vsoto vseh virov toplote, ki je bila prevzeta v sistem.
+(2) Delež toplote, proizvedene iz obnovljivih virov
+energije, se za posamezen vir toplote izračuna na naslednji način:
+kjer oznake pomenijo:
+    delež neto količine
+toplote, proizvedene v proizvodni oziroma soproizvodni napravi iz obnovljivih
+virov energije ali pridobljene iz drugega vira toplote, pri katerem primarni
+namen ni proizvodnja toplote. Pri izračunu deleža toplote iz obnovljivih virov
+se upošteva delež obnovljivih virov energije v porabljenih energentih;
+   porabljena
+energija posameznega energenta za delovanje proizvodne ali soproizvodne naprave
+toplote [MWh], ki upošteva spodnjo kurilno vrednost energenta;
+     faktor
+primarne energije posameznega energenta, porabljenega v proizvodni oziroma
+soproizvodni napravi, ali faktor primarne energije toplote, pridobljene iz
+drugega vira toplote, pri katerem primarni namen ni proizvodnja toplote, OVE
+del;
+    skupni faktor
+primarne energije posameznega energenta, porabljenega v proizvodni oziroma
+soproizvodni napravi ali faktor primarne energije toplote, pridobljene iz
+drugega vira toplote, pri katerem primarni namen ni proizvodnja toplote;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem;
+   vrsta
+porabljenega energenta za delovanje proizvodne oziroma soproizvodne naprave.
+(3) Če je bila v sistem prevzeta toplota iz več virov,
+se skupni delež toplote iz obnovljivih virov energije v sistemu izračuna na
+naslednji način:
+kjer oznake pomenijo:
+    skupni delež
+toplote iz obnovljivih virov energije v sistemu;
+ neto količina
+toplote, ki je bila prevzeta v sistem iz posameznega vira [MWh];
+   delež
+obnovljivih virov energije v posameznem viru toplote, ki je bila prevzeta v
+sistem;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+12. člen
+(določanje deleža odvečne toplote)
+(1) Če je sistem oskrbovan samo z odvečno toploto, je
+delež odvečne toplote za sistem
+100 %. 
+(2) Če se pri oskrbi sistema z odvečno toploto uporablja
+še drug vir toplote, se delež odvečne toplote v posameznem viru toplote
+izračuna na naslednji način: 
+kjer oznake pomenijo:
+    delež odvečne
+toplote v posameznem viru, ki je bila prevzeta v sistem;
+ odvečna toplota,
+ki je bila prevzeta v sistem iz posameznega vira [MWh];
+ celotna količina
+toplote iz posameznega vira [MWh];
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+(3) Če je bila v sistem prevzeta toplota iz več virov,
+se skupni delež odvečne toplote v sistemu izračuna na
+naslednji način:
+kjer oznake pomenijo:
+    delež odvečne
+toplote v skupni toploti, ki je bila prevzeta v sistem;
+ celotna količina
+toplote iz posameznega vira [MWh];
+     delež odvečne toplote
+v posameznem viru, ki je bila prevzeta v sistem;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+13. člen
+(določanje deleža toplote iz soproizvodnje)
+(1) Če je sistem oskrbovan samo s toploto iz
+soproizvodnje, je delež vira toplote iz soproizvodnje za sistem 100 %. 
+(2) Če se sistem oskrbuje iz več virov toplote, se za
+toploto iz soproizvodnje šteje le del toplote brez obnovljivega dela, ki je
+upoštevan v izračunu deleža obnovljivih virov energije v skladu z drugim
+odstavkom 0. člena tega akta. 
+(3) Če se pri oskrbi sistema s toploto uporablja toplota
+iz ene ali več soproizvodnih naprav, se delež toplote
+iz posamezne soproizvodne naprave brez deleža obnovljivih virov energije izračuna
+na naslednji način:
+kjer oznake pomenijo:
+    delež toplote
+iz posamezne soproizvodne naprave brez deleža obnovljivih virov energije, nOVE
+del;
+ celotna količina
+toplote iz posameznega vira [MWh];
+ delež toplote,
+proizvedene iz obnovljivih virov toplote, v posameznem viru, ki je bila
+proizvedena v soproizvodnji in prevzeta v sistem, [MWh]. 
+(4) Če je bila v sistem prevzeta toplota iz več
+soproizvodnih virov, se skupni delež toplote iz soproizvodnih virov v sistemu
+izračuna na naslednji način:
+kjer oznake pomenijo:
+  skupni delež
+toplote, ki je bila prevzeta v sistem, iz soproizvodnih virov, brez deleža
+energije iz obnovljivih virov;
+ celotna količina
+toplote iz posameznega vira [MWh];
+    delež toplote
+iz posamezne soproizvodne naprave, ki je bila prevzeta v sistem, brez deleža
+energije iz obnovljivih virov;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+14. člen
+(ocena učinkovitosti sistema in trajnostni kazalnik)
+(1) Sistem je učinkovit, če izpolnjuje zakonsko določeno
+merilo učinkovitosti, ki določa, da mora biti izpolnjen vsaj eden od naslednjih
+pogojev: 
+-       
+;
+-       
+;
+-       
+ ali
+-       
+.
+(2) Ne glede na učinkovitost je delovanje sistema tem
+trajnejše, čim nižje so toplotne izgube sistema in čim višji je kazalnik
+uporabljenih virov toplote, ki se izračuna kot vsota . 
+(3) Za potrebe trajnostnega kazalnika se izračuna
+energetski izkoristek sistema, v katerem se upošteva porabljena energija v
+proizvodnih oziroma soproizvodnih napravah toplote, ki je bila prevzeta v
+sistem, in količina toplote, ki je bila prevzeta v sistem iz drugih virov, ter
+porabljena električna energija za lastno rabo pri proizvodnji ali soproizvodnji
+toplote v posameznem viru toplote. Energetski izkoristek sistema se za potrebe
+trajnostnega kazalnika izračuna na naslednji način:
+kjer oznake pomenijo: 
+     energetski
+izkoristek sistema;
+ skupna količina
+toplote, dobavljena končnim odjemalcem [MWh];
+ porabljena
+energija posameznega energenta ali električne energije za proizvodnjo toplote,
+prevzete v sistem iz proizvodnih ali soproizvodnih naprav [MWh], ki v primeru
+energentov upošteva spodnjo kurilno vrednost; 
+  količina toplote,
+ki je bila prevzeta v sistem iz virov, katerih primarni namen ni proizvodnja
+toplote ali je bila prevzeta iz drugih sistemov [MWh];
+   porabljena
+električna energija neobnovljivega izvora za lastno rabo [MWh], ki vključuje
+električno energijo, porabljeno za delovanje naprav, vključenih v proces
+proizvodnje oziroma priprave toplote za prevzem v sistem;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem;
+   vrsta
+porabljenega energenta za delovanje proizvodne oziroma soproizvodne naprave.
+(4) Trajnostni kazalnik sistema se izračuna na naslednji
+način:
+ ,
+kjer oznake pomenijo:
+  trajnostni
+kazalnik sistema;
+     skupni delež
+toplote iz obnovljivih virov energije v sistemu;
+    delež odvečne
+toplote v skupni toploti, ki je bila prevzeta v sistem;
+  skupni delež
+toplote, ki je bila prevzeta v sistem, iz soproizvodnih virov, brez deleža
+energije iz obnovljivih virov;
+     energetski
+izkoristek sistema.
+(5) Agencija lahko na spletni strani objavi vrednosti
+energetskih izkoristkov sistemov in trajnostnih kazalnikov za posamezne
+sisteme.
+IV. METODOLOGIJA ZA DOLOČANJE VREDNOSTI IZPUSTOV OGLJIKOVEGA
+DIOKSIDA NA ENOTO DOBAVLJENE ENERGIJE IZ SISTEMA
+15. člen
+(splošno)
+Kazalnik izpustov ogljikovega dioksida na enoto dobavljene
+energije iz sistema je kazalnik sistema, ki se izračunava na podlagi zbranih
+podatkov za preteklo leto:
+-       
+količine porabljenih energentov za proizvodnjo toplote oziroma količine
+posameznih vrst toplote, ki je bila prevzeta v sistem; 
+-       
+porabljene električne energije pri proizvodnji ali soproizvodnji toplote
+v posameznem viru toplote oziroma pri pripravi toplote za prevzem v sistem in 
+-       
+vrednosti emisijskih faktorjev za posamezne energente ali vire energije
+iz Tabele 2 Priloge 1 tega akta.
+16. člen
+(izračun kazalnika izpustov)
+Kazalnik izpustov ogljikovega dioksida za dobavljeno energijo
+iz sistema se izračuna v naslednjih korakih:
+-       
+izračuna se kazalnik izpustov ogljikovega dioksida  za posamezen vir
+toplote, ki je bila prevzeta v sistem;
+-       
+izračuna se deleže toplote, ki je bila prevzeta v sistem iz posameznih
+virov;
+-       
+izračuna se skupen kazalnik izpustov ogljikovega dioksida vseh virov
+toplote , ki
+je bila prevzeta v sistem;
+-       
+izračuna se skupen kazalnik izpustov ogljikovega dioksida sistema , ki vključuje tudi
+porabljeno električno energijo pri proizvodnji ali soproizvodnji toplote v
+posameznem viru toplote oziroma pri pripravi toplote za prevzem v sistem in za
+delovanje sistema.
+17. člen
+(kazalnik izpustov ogljikovega dioksida za posamezen vir
+toplote)
+(1) Kazalnik izpustov ogljikovega dioksida za posamezen
+vir toplote se izračuna na naslednji način:
+kjer oznake pomenijo:
+   kazalnik
+izpustov ogljikovega dioksida za posamezen vir toplote, ki je bila prevzeta v
+sistem [gCO2/kWh];
+   porabljena
+energija posameznega energenta za delovanje proizvodne ali soproizvodne naprave
+toplote [MWh], ki upošteva spodnjo kurilno vrednost energenta; 
+ emisijski faktor
+za posamezen porabljeni energent za proizvodnjo toplote, ki je bila prevzeta v
+sistem [gCO2/kWh];
+  količina toplote,
+ki je bila prevzeta v sistem iz virov, katerih primarni namen ni proizvodnja
+toplote ali je bila prevzeta iz drugih sistemov [MWh];
+     emisijski
+faktor za posamezen vir toplote, ki je bila prevzeta v sistem [gCO2/kWh];
+ porabljena
+električna energija pri proizvodnji ali soproizvodnji toplote v posameznem viru
+toplote [MWh] in vključuje električno energijo, porabljeno za delovanje naprav,
+vključenih v proces proizvodnje oziroma priprave toplote za prevzem v sistem;
+  emisijski faktor
+za posamezen vir električne energije, ki je bila porabljena v procesu
+proizvodnje ali priprave toplote za prevzem v sistem iz posameznega vira
+(lastna raba) [gCO2/kWh];
+   neto električna
+energija ali druga oblika koristne energije, ki ni namenjena delovanju sistema
+niti oskrbi sistema s toploto, proizvedena v soproizvodni napravi [MWh], če se
+za proizvodnjo toplote uporablja soproizvodna naprava;
+ emisijski faktor
+za električno energijo ali drugo obliko energije, ki se ne uporablja za
+delovanje sistema, vrednosti zanje so določene v Tabeli 2 Priloge 1 tega akta
+[gCO2/kWh]; 
+    celotna
+količina toplote iz posameznega vira [MWh];
+    posamezen vir
+toplote, ki je bila prevzeta v sistem;
+   vrsta
+porabljenega energenta za delovanje proizvodne oziroma soproizvodne naprave.
+(2) Pri izračunu kazalnika izpustov ogljikovega dioksida
+za posamezen vir toplote, ki je bila prevzeta v sistem, kot to določa prejšnji
+odstavek, se za emisijski faktor za posamezni porabljeni energent za
+proizvodnjo toplote ali vrsto toplote, ki je bila prevzeta v sistem, električno
+energijo za delovanje sistema, emisijski faktor za proizvedeno električno
+energijo v soproizvodnji ali drug posamezni vir energije, ki se ne uporablja za
+delovanje sistema, uporabljajo vrednosti iz Tabele 2 Priloge 1 tega akta. 
+(3) Za izračune iz prejšnjega odstavka se v primeru
+proizvodnih naprav na trdna goriva, ki so vključene v emisijsko trgovanje,
+lahko uporabijo dejanski emisijski faktorji.
+(4) Če je med viri energije za proizvodnjo toplote, ki
+je bila prevzeta v sistem, tudi električna energija, ali se električna energija
+porablja za delovanje sistema (lastna raba), se pri izračunu emisijskega
+faktorja za ta vir energije upošteva le delež te energije, ki ni iz
+obnovljivega vira.
+18. člen
+(izračun deleža posameznega vira toplote)
+Delež posameznega vira toplote v skupni toploti, ki je bila
+prevzeta v sistem, se izračuna na naslednji način:
+kjer oznake pomenijo:
+     delež toplote
+iz posameznega vira v skupni toploti, ki je bila prevzeta v sistem;
+    celotna
+količina toplote iz posameznega vira [MWh];
+ skupna toplota, ki
+je bila prevzeta v sistem [MWh];
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+19. člen
+(skupni kazalnik izpustov za vse vire toplote)
+Skupni kazalnik izpustov za vse vire toplote, ki je bila prevzeta
+v sistem, se izračuna na naslednji način:
+kjer oznake pomenijo:
+  skupni kazalnik
+izpustov ogljikovega dioksida za vse vire toplote, ki je bila prevzeta v sistem
+[gCO2/kWh];
+  kazalnik izpustov
+ogljikovega dioksida za posamezen vir toplote, ki je bila prevzeta v sistem
+[gCO2/kWh];
+     delež toplote
+posameznega vira v skupni toploti, ki je bila prevzeta v sistem;
+    posamezen vir
+toplote, ki je bila prevzeta v sistem.
+20. člen
+(skupni kazalnik izpustov za celoten sistem)
+(1) Skupni kazalnik izpustov ogljikovega dioksida za
+sistem se izračuna na naslednji način:
+kjer oznake pomenijo:
+ kazalnik izpustov
+ogljikovega dioksida za sistem [gCO2/kWh];
+  skupni kazalnik
+izpustov ogljikovega dioksida za vse vire toplote, ki je bila prevzeta v sistem
+[gCO2/kWh];
+ skupna toplota, ki
+je bila prevzeta v sistem [MWh];
+     utežen
+emisijski faktor za uporabljene vire električne energije glede na deleže
+posameznih virov električne energije, uporabljenih za delovanje sistema [gCO2/kWh].
+Emisijski faktor za proizvodnjo električne energije v Sloveniji je določen v
+Tabeli 2 Priloge 1 tega akta;
+    električna
+energija, porabljena za delovanje sistema (lastna raba) [MWh];
+   skupna toplota,
+dobavljena na odjemna mesta končnih odjemalcev [MWh].
+(2) Utežen emisijski faktor za uporabljene vire
+električne energije se izračuna na naslednji način: 
+kjer oznake pomenijo:
+     utežen
+emisijski faktor za uporabljene vire električne energije glede na deleže
+posameznih virov električne energije, uporabljenih za delovanje sistema [gCO2/kWh].
+Emisijski faktor za proizvodnjo električne energije v Sloveniji je določen v
+Tabeli 2 Priloge 1 tega akta;
+  emisijski faktor
+za proizvodnjo električne energije iz posameznega vira električne energije [gCO2/kWh];
+   delež električne
+energije iz posameznega vira v skupni količini električne energije, ki je bila porabljena
+za delovanje sistema;
+   posamezen vir
+električne energije.
+V. VSEBINA IN OBLIKA ZBIRNEGA PREGLEDA NAČRTOVANIH UKREPOV IN
+POVEZANIH PODATKOV
+21. člen
+(vsebina in oblika zbirnega pregleda)
+(1) Zbirni pregled načrtovanih ukrepov je sestavni del
+trajnostnega načrta za sistem, ki ga v skladu s prvim in drugim odstavkom 56.
+člena Zakona o spodbujanju rabe obnovljivih virov energije (Uradni list RS, št.
+121/21 in 189/21, v nadaljnjem besedilu: ZSROVE) pripravi distributer toplote.
+Zbirni pregled načrtovanih ukrepov se izdela za vsak posamezen sistem.
+(2) Distributer toplote za posamezen sistem in z njim
+povezan posamezen ukrep ali dejavnost iz točk d) in e) drugega odstavka 56.
+člena ZSROVE v zbirnem pregledu navede naslednje podatke:
+1.     
+identifikacijska oznaka ukrepa ali dejavnosti, vsebovane v ukrepu;
+2.     
+vrsta načrtovanega ukrepa iz nabora ukrepov;
+3.     
+načrtovana vrednost prispevka ukrepa, ki se odraža v povečanem deležu
+porabe obnovljivih virov in odvečne toplote. Če je prispevkov istega ukrepa
+več, se navede ocene vseh prispevkov;
+4.     
+načrtovana vrednost prispevka ukrepa, ki se odraža v doseganju in
+ohranjanju doseganja predpisanega merila učinkovitosti sistema. Če je
+prispevkov istega ukrepa več, se navede ocene vseh prispevkov;
+5.     
+predvideni investicijski stroški ukrepa po letih od začetka naložbe do
+aktivacije ukrepa. Poleg skupnega stroška ukrepa ali dejavnosti morajo biti
+navedeni tudi vsi potrebni povezani podatki vključno z morebitnimi študijami,
+ki so bili uporabljeni pri izračunu gospodarnosti ukrepa;
+6.     
+časovnica izvedbe načrtovanih ukrepov vključno z načrtovanim rokom do začetka
+uporabe posameznega načrtovanega ukrepa. Če se ukrep predvidoma izvede v več
+fazah, se v zbirnem pregledu vsaka faza navede kot samostojen ukrep in se zanjo
+poroča posebej. V časovnici so vsebovani pomembni časovni mejniki, kot npr.
+končna odločitev o naložbi, pridobitev potrebnih dovoljenj, in
+7.     
+ocenjen možen prispevek ukrepa k prilagajanju odjema in shranjevanju
+presežne električne energije iz obnovljivih virov v skladu s točko c) drugega
+odstavka 56. člena ZSROVE.
+(3) Distributer toplote za ukrepe, ki se že izvajajo, v
+poročilu o izvajanju ukrepov iz šestega odstavka 56. člena ZSROVE navede tudi
+doseženo stopnjo izvedbe posameznega ukrepa iz zbirnega pregleda.
+(4) Oblika in struktura zbirnega pregleda je podrobneje
+določena v Tabeli 1 Priloge 2, ki je sestavni del tega akta. 
+22. člen
+(povezani podatki)
+(1) V trajnostnem načrtu morajo biti podane analize in
+ocene iz točk od a) do č) drugega odstavka 56. člena ZSROVE na način, da je
+vidna in razumljiva povezava z ukrepi iz prejšnjega člena.
+(2) V zbirni pregled iz prejšnjega člena se dodajo tudi
+drugi podatki na podlagi določb 57. člena ZSROVE, če so potrebni za razumevanje
+trajnostnega načrta ali njegovih vsebinskih delov ali povezave med posamezimi
+deli trajnostnega načrta in ukrepi iz prejšnjega člena ali so podlaga za
+izračun, analizo ali oceno, navedeno v trajnostnem načrtu. Podatki iz
+prejšnjega stavka so obvezni povezani podatki.
+(3) Podatki, potrebni za izračun učinkovitosti sistema v
+skladu s 45. točko prvega odstavka 3. člena ZSROVE za posamezen sistem ali za
+oceno učinka posameznega ukrepa ali dejavnosti iz točk d) in e) drugega
+odstavka 56. člena ZSROVE, so obvezni povezani podatki. 
+(4) Podatki, na podlagi katerih se izračunavajo
+kazalniki po 57. členu ZSROVE, so obvezni povezani podatki. 
+(5) Kadar agencija daje soglasje k trajnostnemu načrtu,
+lahko v postopku izdaje soglasja zahteva dodatne povezane podatke v obliki, ki
+jih določi v zahtevku.
+23. člen
+(podatki za izračun kazalnikov)
+(1) Distributer toplote za vsak sistem letno poroča
+agenciji naslednji nabor podatkov:
+-       
+količina dobavljene toplote iz posameznega vira toplote, ki je bila
+prevzeta v sistem;
+-       
+količina porabljene električne energije za delovanje sistema in
+-       
+količina dobavljene toplote na odjemna mesta odjemalcev.
+(2) Proizvajalec toplote oziroma dobavitelj energije, ki
+dobavlja toploto distributerju toplote, za vsak vir toplote letno poroča
+agenciji naslednji nabor podatkov:
+1.     
+raba posamezne vrste primarne energije za proizvodnjo oziroma
+soproizvodnjo toplote iz posameznega vira, ki je bila namenjena za oskrbo
+sistema in dobavljena distributerjem toplote;
+2.     
+količina proizvedene toplote iz posameznega vira; 
+3.     
+količina proizvedene električne energije ali druge oblike koristne
+energije, ki ni bila porabljena za delovanje sistema, če je bila v sistemu
+porabljena toplota iz soproizvodnih naprav;
+4.     
+izkoristki proizvodnih oziroma soproizvodnih naprav;
+5.     
+količina električne energije, porabljena za delovanje naprav, vključenih
+v proces proizvodnje ali soproizvodnje oziroma pripravo toplote za prevzem v sistem,
+in
+6.     
+za proizvodne naprave na trdna goriva, ki so vključene v emisijsko
+trgovanje, lastni emijski faktor za goriva (gCO2/kWh).
+VI. PREHODNA IN KONČNA DOLOČBA
+24. člen
+(prehodna določba)
+Distributer toplote v zbirnem pregledu iz prvega odstavka 0. člena tega akta navede tudi podatke za ukrepe, ki se morebiti že izvajajo in o
+izvedbi katerih je bila odločitev sprejeta pred uveljavitvijo tega akta,
+izvedeni ukrepi ali dejavnosti pa bodo vplivali na povečanje deleža rabe
+obnovljivih virov in odvečne toplote, rabo toplote iz soproizvodnje in
+doseganje, preseganje ali ohranjanje merila učinkovitosti sistema. 
+25. člen
+(začetek veljavnosti)
+Ta akt začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije. 
+Št. 71-6/2022/11
+Maribor, dne 21. septembra 2022
+EVA 2022-2430-0068
+Predsednik sveta
+Agencije za energijo
+dr. Franc Žlahtič
+
+Priloga 1: Faktorji
+primarne energije in emisijski faktorji
+Priloga 2: Struktura
+in vsebina zbirnega pregleda

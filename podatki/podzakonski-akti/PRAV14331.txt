@@ -109,8 +109,8 @@ energijska učinkovitost stavbe;
 14.  
 kazalnik pripravljenosti na pametne sisteme (v nadaljnjem besedilu: SRI)
 pomeni kazalnik, ki podaja informacije o razvrstitvi stavbe ali njenega
-posameznega dela glede na pripravljenost na pametne sisteme v skladu s
-slovenskimi predpisi in 8. členom Direktive 2010/31/EU;
+posameznega dela glede na pripravljenost na pametne sisteme v skladu s slovenskimi
+predpisi in 8. členom Direktive 2010/31/EU;
 15.  
 končna (dovedena) energija je energija, dovedena v stavbo ali
 proizvedena na ali v stavbi, ki je potrebna za delovanje TSS;
@@ -331,9 +331,9 @@ upoštevanju referenčnega celoletnega načina uporabe,
 stavbe, pokrite z napihljivimi konstrukcijami,
 10.  
 stavbe, v katerih se prostori ne ogrevajo na temperaturo, višjo od 12
-°C, in se ne hladijo ali katerih notranji viri toplote zaradi tehnoloških procesov
-nadomeščajo v času ogrevanja več kot polovico toplotnih izgub in se ne hladijo
-ali je njihov toplotni ovoj odprt več kot polovico leta.
+°C, in se ne hladijo ali katerih notranji viri toplote zaradi tehnoloških
+procesov nadomeščajo v času ogrevanja več kot polovico toplotnih izgub in se ne
+hladijo ali je njihov toplotni ovoj odprt več kot polovico leta.
 (3) V stavbah, zaščitenih po predpisih o varstvu kulturne
 dediščine, se določbe tega pravilnika ne uporabijo v tistih prostorih in
 elementih stavb, ki jih v mnenju opredeli služba, pristojna za varstvo kulturne
@@ -354,8 +354,8 @@ je treba pred začetkom izvajanja prve faze pripraviti koncept – načrt celovi
 energetske prenove stavbe, ki bo zagotavljal doseganje zahtev tega pravilnika.
 Pri pripravi načrta celovite energetske prenove stavbe s postopno energetsko
 prenove stavbe je treba posamezne ukrepe načrtovati v smiselnem zaporedju tako,
-da se posamezni ukrepi z vidika energijske učinkovitosti stavbe dopolnjujejo.
-Pri tem se praviloma najprej predvidi prenova toplotnega ovoja stavbe (stavbno
+da se posamezni ukrepi z vidika energijske učinkovitosti stavbe dopolnjujejo. Pri
+tem se praviloma najprej predvidi prenova toplotnega ovoja stavbe (stavbno
 pohištvo, toplotna izolacija fasade, podstrešja, poda itd.), nato pa prenova
 posameznih delov TSS ali TSS nadomestitev z novimi in načrtuje oprema za
 sisteme regulacije in avtomatizacije ter s tem izboljša tudi kazalnik SRI
@@ -427,8 +427,8 @@ referenčnih TSS ter spremenljivke, ki vplivajo na rabo energije, so navedene v
 TSG-1-004.
 7. člen
 (tehnična smernica)
-(1) TSG-1-004 določa gradbene ukrepe oziroma rešitve za
-doseganje energijske učinkovitosti stavb, s katerimi so izpolnjene zahteve tega
+(1) TSG-1-004 določa gradbene ukrepe oziroma rešitve za doseganje
+energijske učinkovitosti stavb, s katerimi so izpolnjene zahteve tega
 pravilnika.TSG-1-004 določa tudi metode in poenostavitve ter robne pogoje, ki
 se uporabijo pri določitvi kazalnikov energijske učinkovitosti stavb.
 (2) Če so pri gradnji stavb v celoti izpolnjene zahteve in
@@ -513,11 +513,11 @@ slovenskih nacionalnih standardih.
 (3) Zunanji podnebni pogoji, ki se uporabijo pri stacionarnem
 modeliranju, obsegajo podatke o povprečni mesečni temperaturi okolice,
 vlažnosti zraka ter povprečnem dnevnem in letnem sončnem obsevanju na vodoravno
-ploskev ali za različne usmerjenosti in naklone osončenih ploskev glede na
-koordinate kraja gradnje in so dosegljivi na spletni strani Agencije Republike
-Slovenije za okolje (v nadaljnjem besedilu: ARSO). Uporabijo se lahko tudi
-izračunane vrednosti zunanjih podnebnih pogojev, za izračun pa se uporabijo
-podatki, objavljeni na spletni strani ARSO.
+ploskev ali za različne usmerjenosti in naklone osončenih ploskev glede na koordinate
+kraja gradnje in so dosegljivi na spletni strani Agencije Republike Slovenije
+za okolje (v nadaljnjem besedilu: ARSO). Uporabijo se lahko tudi izračunane
+vrednosti zunanjih podnebnih pogojev, za izračun pa se uporabijo podatki,
+objavljeni na spletni strani ARSO.
 (4) Pri nestacionarnem modeliranju se uporabijo zunanji
 podnebni pogoji v obliki referenčnih meteoroloških let, ki so dosegljivi na
 spletni strani ARSO. Prilagoditev podatkov računalniškim orodjem za
@@ -594,9 +594,9 @@ dele stavbe, ki so v stiku z drugimi stavbami.
 (3) Toplotna prehodnost gradnikov toplotnega ovoja stavbe U
 ne sme presegati dovoljene toplotne prehodnosti Udov, navedene v
 tabeli 6 Priloge 1 tega pravilnika.
-(4) Dovoljen specifični koeficient transmisijskih toplotnih
-izgub H'tr,dov za energetsko manj zahtevne stavbe se določi z
-naslednjo enačbo:
+(4) Dovoljen specifični koeficient transmisijskih toplotnih izgub
+H'tr,dov za energetsko manj zahtevne stavbe se določi z naslednjo
+enačbo:
 pri čemer se upoštevajo naslednji robni pogoji:
 -       
 fo = Aenv,e / Ve (m-1),
@@ -638,15 +638,15 @@ manj zahtevne stavbe na leto Q'H,nd,dov,an je:
 (6) Kadar dovoljene korigirane specifične potrebe toplote za
 ogrevanje na leto Q'H,nd,dov,kor,an energetsko manj zahtevne stavbe
 ni mogoče izpolniti tudi ob upoštevanju najboljših tržnih tehnologij ali kadar
-potrebni tehnični ukrepi ne dosegajo stopnje stroškovne učinkovitosti, je ne
-glede na zahteve iz prejšnjega odstavka dovoljena prekoračitev tega kazalnika
-največ 20 %. V tem primeru je treba pri določitvi korigirane specifične
-potrebne skupne primarne energije za delovanje TSS E'Ptot,kor,an
-upoštevati kompenzacijski faktor YH,nd skupne primarne energije, kot
-je navaden v tabeli 4 v Prilogi 1 tega pravilnika. Prekoračitev dovoljene
-korigirane specifične potrebne toplote na leto za ogrevanje Q'H,nd,dov,kor,an
-energetsko manj zahtevne stavbe mora biti utemeljeno v tehničnem poročilu in
-prikazano tudi v izkazu o energijskih lastnostih stavbe.
+potrebni tehnični ukrepi ne dosegajo stopnje stroškovne učinkovitosti, je ne glede
+na zahteve iz prejšnjega odstavka dovoljena prekoračitev tega kazalnika največ
+20 %. V tem primeru je treba pri določitvi korigirane specifične potrebne
+skupne primarne energije za delovanje TSS E'Ptot,kor,an upoštevati
+kompenzacijski faktor YH,nd skupne primarne energije, kot je navaden
+v tabeli 4 v Prilogi 1 tega pravilnika. Prekoračitev dovoljene korigirane
+specifične potrebne toplote na leto za ogrevanje Q'H,nd,dov,kor,an
+energetsko manj zahtevne stavbe mora biti utemeljeno v tehničnem poročilu in prikazano
+tudi v izkazu o energijskih lastnostih stavbe.
 (7) Za energetsko zahtevne stavbe mora biti razmernik
 potrebne dovedene toplote za ogrevanje Hnd manjši ali enak
 dovoljenemu razmerniku potrebne dovedene toplote za ogrevanje Hnd,dov:
@@ -683,8 +683,8 @@ kazalniki se določijo oziroma navedejo za energetsko nezahtevne, energetsko
 manj zahtevne in energetsko zahtevne stavbe, kot je določeno v tabeli 2, tabeli
 3, tabeli 8, tabeli 9 in tabeli 10 Priloge 1 tega pravilnika.
 (2) Za izračun dovedene energije za delovanje TSS v
-energetsko manj zahtevnih in energetsko zahtevnih stavbah se za električno energijo
-upošteva energijski faktor utežene energije fi,el je 2,5.
+energetsko manj zahtevnih in energetsko zahtevnih stavbah se za električno
+energijo upošteva energijski faktor utežene energije fi,el je 2,5.
 (3) Količina goriv za delovanje TSS se določi na podlagi
 izračunane dovedene energije z upoštevanjem spodnje toplotne vrednosti goriv,
 dovedena energija z gorivi pa z upoštevanjem zgornje toplotne vrednosti goriv,
@@ -699,8 +699,8 @@ energenta se določi s pretvornimi faktorji, navedenimi v tabeli 1 Priloge 1
 tega pravilnika. Za izračun iz stavbe oddane skupne primarne energije se
 uporabijo pretvorni faktorji, ki veljajo za energent v omrežju.
 (6) Pri vrednotenju iz stavbe oddane skupne primarne energije
-se upošteva kontrolni faktor oddanega energenta kexp, naveden v tabeli 13
-Priloge 1 tega pravilnika. Pri stacionarnem modeliranju se pri določitvi oddane
+se upošteva kontrolni faktor oddanega energenta kexp, naveden v tabeli 13 Priloge
+1 tega pravilnika. Pri stacionarnem modeliranju se pri določitvi oddane
 električne energije upoštevajo mesečni faktorji ujemanja v, na, ob stavbi ali v
 njeni bližini proizvedene in v stavbi porabljene električne energije fmatch,m.
 Način določitve fmatch,m je naveden v TSG-004 2022. Oddana toplota
@@ -804,8 +804,8 @@ kjer je E'Ptot,ref,an izračunana specifična
 potrebna skupna primarna energija za delovanje referenčne stavbe.
 (10) Korigirana specifična potrebna skupna primarna energija
 E'Ptot,kor,an za delovanje TSS v obravnavani energetsko zahtevni
-stavbi ne sme biti večja od korigirane specifične potrebne skupne primarne energije
-E'Ptot,ref,kor,an za delovanje TSS v referenčni stavbi:
+stavbi ne sme biti večja od korigirane specifične potrebne skupne primarne
+energije E'Ptot,ref,kor,an za delovanje TSS v referenčni stavbi:
 Korigirana specifična potrebna skupna primarna energija za
 delovanje TSS v obravnavani energetsko zahtevni stavbi E'Ptot,kor,an
 se določi z nasledenjo enačbo:
@@ -836,9 +836,8 @@ tehnologijami OVE v bližini stavbe. Za tehnologije v bližini stavbe se štejej
 energijsko učinkovit sistem daljinskega ogrevanja in/ali hlajenje, po
 zakonu, ki ureja učinkovito rabo energije; ROVE se določi z upoštevanjem deleža
 OVE v energentih generatorja toplote daljinskega sistema, deležem odvečne
-toplote ali deležem SPTE, ki jo zagotavlja daljinski sistem, pri čemer se
-upoštevajo ustrezni faktorji primarne energije iz tabele 1 Priloge 1 tega
-pravilnika,
+toplote ali deležem SPTE, ki jo zagotavlja daljinski sistem, pri čemer se upoštevajo
+ustrezni faktorji primarne energije iz tabele 1 Priloge 1 tega pravilnika,
 -       
 plinovodno omrežje, če je fosilnemu plinu dodan bioenergent (npr.
 biometan, vodik); ROVE se določi z upoštevanjem dobavljenega deleža
@@ -896,9 +895,9 @@ dovedena energija z energentom j, proizvedenim v, na, ob
 
 Eexp,k,an
 
-iz stavbe letno oddana energija z energentom,
-  proizvedenim v, na, ob stavbi ali njeni neposredni bližini, s katerim
-  zamenjujemo doveden i v omrežju na leto,
+iz stavbe letno oddana energija z energentom, proizvedenim
+  v, na, ob stavbi ali njeni neposredni bližini, s katerim zamenjujemo doveden
+  i v omrežju na leto,
 
 
 kCO2,i,k
@@ -919,10 +918,10 @@ emisijski faktor energenta, ki ga z na stavbi
 
 16. člen
 (priporočen vrstni red rabe OVE)
-Če je v, na, ob stavbi ali njeni neposredni bližini več sistemov
-ali naprav za proizvodnjo energije iz OVE, se za delovanje TSS uporabijo
-energenti, tehnologije in sistemi OVE po priporočenem vrstnem redu, kot je
-naveden v tabeli 14 Priloge 1 tega pravilnika.
+Če je v, na, ob stavbi ali njeni neposredni bližini več
+sistemov ali naprav za proizvodnjo energije iz OVE, se za delovanje TSS
+uporabijo energenti, tehnologije in sistemi OVE po priporočenem vrstnem redu,
+kot je naveden v tabeli 14 Priloge 1 tega pravilnika.
 17. člen
 (dodatne omejitve in zahteve)
 (1) Generatorjev toplote in grelnih teles, ki toploto za
@@ -989,19 +988,18 @@ III. DOKUMENTACIJA
 (1) Energijska učinkovitost stavb se izkazuje v tehničnem
 poročilu o energijski učinkovitosti stavbe z vsebino, določeno v Prilogi 2, ki
 je kot priloga sestavni del tega pravilnika.
-(2) Tehnično poročilo vsebuje podatke o stavbi, vhodne
-podatke za izračun energijskih lastnosti stavbe, kazalnike z omejitvami in
-informativne kazalnike, podatke o zagotavljanju e-mobilnosti in doseženo
-pripravljenost na pametne sisteme ter druge podatke o izpolnjevanju zahtev tega
-pravilnika.
+(2) Tehnično poročilo vsebuje podatke o stavbi, vhodne podatke
+za izračun energijskih lastnosti stavbe, kazalnike z omejitvami in informativne
+kazalnike, podatke o zagotavljanju e-mobilnosti in doseženo pripravljenost na
+pametne sisteme ter druge podatke o izpolnjevanju zahtev tega pravilnika.
 19. člen
 (izkaz o energijskih lastnostih stavbe)
 (1) Izkaz o energijskih lastnostih stavbe se izdela na
 podlagi tehničnega poročila o energijski učinkovitosti stavbe.
-(2) Izkaz o energijskih lastnostih stavbe se glede na energetsko
-zahtevnost stavbe izdela z vsebino, ki je določena v Prilogi 2 tega pravilnika
-in se deli na področje gradbene fizike in na področje TSS. Iz izkaza mora biti
-razvidno, da bo stavba izpolnjevala zahteve tega pravilnika.
+(2) Izkaz o energijskih lastnostih stavbe se glede na
+energetsko zahtevnost stavbe izdela z vsebino, ki je določena v Prilogi 2 tega
+pravilnika in se deli na področje gradbene fizike in na področje TSS. Iz izkaza
+mora biti razvidno, da bo stavba izpolnjevala zahteve tega pravilnika.
 IV. ČASOVNO POGOJENI KOREKCIJSKI FAKTORJI
 20. člen
 (mejne vrednosti učinkovite rabe energije v prihodnjem
@@ -1027,9 +1025,19 @@ za javne stavbe je XP:
 do 31. decembra 2025: Xp = 0,9,
 -       
 od 1. januarja 2026: Xp = 0,72.
-V. PREHODNE IN KONČNE DOLOČBE
+
+Priloga
+1: Slika in tabele
+Priloga
+2: Izkaz o energijskih lastnostih stavbe
+
+Pravilnik o učinkoviti rabi energije v stavbah
+(Uradni list RS, št. 70/22) vsebuje naslednje prehodne in
+končne določbe:
+»V. PREHODNE IN KONČNE DOLOČBE
 21. člen
-(izračun energijske učinkovitosti stavb v prehodnem obdobju)
+(izračun energijske
+učinkovitosti stavb v prehodnem obdobju)
 (1) Kazalniki energijske učinkovitosti energetsko manj
 zahtevnih in energetsko zahtevnih stavb se lahko do 31. decembra 2022 določajo
 po računski metodi, ki je določena v Pravilniku o učinkoviti rabi energije v
@@ -1044,13 +1052,14 @@ opredeljeni v TSG-1-004: 2010 Učinkovita raba energije. Kazalniki energijske
 učinkovitosti energetsko zahtevnih stavb se izkazujejo na način, ki je naveden
 v tem pravilniku.
 22. člen
-(zamenjava generatorja toplote za pripravo TSV v prehodnem
-obdobju)
+(zamenjava generatorja
+toplote za pripravo TSV v prehodnem obdobju)
 Zahteve tretjega odstavka 17. člena tega pravilnika se za
 zamenjavo generatorja toplote, ki TSV pripravlja z direktno rabo električne
 energije, uporabljajo od 1. januarja 2025.
 23. člen
-(izdelava projektne dokumentacije v prehodnem obdobju)
+(izdelava projektne
+dokumentacije v prehodnem obdobju)
 Do 31. marca 2023 se projektni dokumentaciji za izvedbo
 gradnje lahko prilagata elaborat gradbene fizike za področje učinkovite rabe
 energije v stavbah in izkaz energijskih lastnosti stavbe, izdelana v skladu s
@@ -1079,15 +1088,28 @@ o učinkoviti rabi energije v stavbah (Uradni list RS, št. 52/10 in 61/17 – G
 25. člen
 (začetek veljavnosti)
 Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
-listu Republike Slovenije.
-Št. 007-326/2021
-Ljubljana, dne 9. maja 2022
-EVA 2021-2550-0032
-mag. Andrej Vizjak
-minister
-za okolje in prostor
+listu Republike Slovenije.«.
 
-Priloga
-1: Slika in tabele
-Priloga
-2: Izkaz o energijskih lastnostih stavbe
+Pravilnik
+o spremembah Pravilnika o učinkoviti rabi energije v stavbah (Uradni list RS,
+št. 161/22)
+spreminja 21. člen pravilnika tako, da se glasi:
+»21. člen
+(izračun energijske
+učinkovitosti stavb v prehodnem obdobju)
+(1) Kazalniki energijske učinkovitosti energetsko manj
+zahtevnih in energetsko zahtevnih stavb se lahko do 31. januarja 2023 določajo
+po računski metodi, ki je določena v Pravilniku o učinkoviti rabi energije v
+stavbah (Uradni list RS, št. 52/10 in 61/17 – GZ) in pripadajoči tehnični
+smernici TSG-1-004: 2010 Učinkovita raba energije, izkazujejo pa se na način,
+ki je naveden v tem pravilniku.
+(2) Za določanje kazalnikov energijske učinkovitosti
+energetsko zahtevnih stavb se lahko do 31. decembra 2023 ne glede na
+določbo osmega odstavka 8. člena uporabi stacionarno modeliranje in robni
+pogoji, ki veljajo za energetsko manj zahtevane stavbe.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

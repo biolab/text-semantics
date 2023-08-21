@@ -19,17 +19,19 @@ način izračuna omrežnine;
 način zaračunavanja omrežnine in ostalih storitev.
 2. člen
 (pomen izrazov)
-Izrazi, uporabljeni v tem aktu, imajo enak pomen kot izrazi,
-opredeljeni v 4. in 159. členu Energetskega zakona (Uradni list RS, št. 17/14
-in 81/15, v nadaljnjem besedilu: EZ-1), poleg tega imajo posamezni izrazi še
-naslednji pomen:
+Izrazi uporabljeni v tem aktu, imajo enak pomen, kot izrazi
+opredeljeni v 4. členu Energetskega zakona (Uradni list RS, št. 60/19 – uradno
+prečiščeno besedilo, 65/20, 158/20 – ZURE, 121/21 – ZSROVE, 172/21 – ZOEE,
+204/21 – ZOP in 44/22 – ZOTDS) in 3. členu Zakona o oskrbi s plini (Uradni list
+RS, št. 204/21 in 121/22, v nadaljnjem besedilu: ZOP), poleg tega pa posamezni
+izrazi pomenijo:
 
 -       
   biometan:
 
 pomeni energetski plin, pridobljen iz
-  biomase ali iz biološko razgradljivih odpadkov, ali lesni plin, ki je
-  prečiščen do kakovosti, enakovredne zemeljskemu plinu;
+  biomase ali iz biološko razgradljivih odpadkov, ali lesni plin, ki je prečiščen
+  do kakovosti, enakovredne zemeljskemu plinu;
 
 
 -       
@@ -220,10 +222,11 @@ zagotavljanjem sistemskih storitev razen lastne rabe;
 -       
 posredovanjem kateremu koli drugemu operaterju prenosnega sistema,
 operaterju skladiščnega sistema, operaterju sistema za utekočinjen zemeljski
-plin (v nadaljnjem besedilu: UZP) in operaterju distribucijskega sistema zemeljskega
-plina (v nadaljnjem besedilu: operater distribucijskega sistema) dovolj
-informacij, da se lahko zagotovita prenos in skladiščenje zemeljskega plina, ki
-bosta združljiva z varnim in učinkovitim obratovanjem povezanega sistema;
+plin (v nadaljnjem besedilu: UZP) in operaterju distribucijskega sistema
+zemeljskega plina (v nadaljnjem besedilu: operater distribucijskega sistema)
+dovolj informacij, da se lahko zagotovita prenos in skladiščenje zemeljskega
+plina, ki bosta združljiva z varnim in učinkovitim obratovanjem povezanega
+sistema;
 -       
 pravočasnim zagotavljanjem potrebnih podatkov uporabnikom sistema, da
 lahko učinkovito uveljavljajo dostop do prenosnega sistema;
@@ -263,10 +266,10 @@ terminala za UZP.
 9. člen
 (omrežnina za lastno rabo)
 (1) Z omrežnino za lastno rabo se pokriva tisti del
-upravičenih stroškov, ki se nanaša na količine zemeljskega plina, ki so na
-merilnih mestih prenosnega sistema registrirane za potrebe delovanje
-kompresorjev in za tehnološko ogrevanje. Količine zemeljskega plina za lastno
-rabo vključujejo tudi registrirane količine izpihanega zemeljskega plina.
+upravičenih stroškov, ki se nanaša na količine zemeljskega plina, ki so na merilnih
+mestih prenosnega sistema registrirane za potrebe delovanje kompresorjev in za
+tehnološko ogrevanje. Količine zemeljskega plina za lastno rabo vključujejo
+tudi registrirane količine izpihanega zemeljskega plina.
 (2) Omrežnina za lastno rabo se obračunava v obliki tarifne
 postavke za lastno rabo (CLR)
 glede na preneseno količino zemeljskega plina na posamezni izstopni točki.
@@ -367,7 +370,7 @@ leto regulativnega obdobja pred začetkom regulativnega obdobja, ki je določeno
 v skladu z metodologijo za določitev RO, in jih po predhodni pridobitvi
 soglasja agencije k tarifnim postavkam za ostale storitve objavi na svoji
 spletni strani.
-VI. NAČIN IZRAČUNA OMREŽNINE
+V. NAČIN IZRAČUNA OMREŽNINE
 1. Način izračuna omrežnine za uporabo prenosnega sistema
 14. člen
 (obračunavanje omrežnine za uporabo prenosnega sistema)
@@ -629,11 +632,11 @@ sklenil okvirno pogodbo za zakup vstopnih zmogljivosti za dan vnaprej, na
 podlagi katere lahko uporabnik sistema zakupi zagotovljeno vstopno zmogljivost
 za dan vnaprej, obračuna znesek zagotovljene dnevne vstopne zmogljivosti za dan
 vnaprej (ZVDV(m)(e)).
-(2) Fiksni del mesečnega zneska dnevne zagotovljene vstopne
-zmogljivosti za dan vnaprej za vodenje okvirne pogodbe za vstopne zmogljivosti
-za dan vnaprej operater prenosnega sistema obračuna uporabniku sistema za vsak
-mesec veljave okvirne pogodbe ne glede na to, ali so bile na njeni podlagi
-sklenjene posamezne pogodbe o prenosu.
+(2) Fiksni del mesečnega zneska dnevne zagotovljene vstopne zmogljivosti
+za dan vnaprej za vodenje okvirne pogodbe za vstopne zmogljivosti za dan
+vnaprej operater prenosnega sistema obračuna uporabniku sistema za vsak mesec
+veljave okvirne pogodbe ne glede na to, ali so bile na njeni podlagi sklenjene
+posamezne pogodbe o prenosu.
 (3) Operater prenosnega sistema obračuna uporabniku sistema v
 koledarskem mesecu (m) za vstopno zmogljivost za dan vnaprej mesečni
 znesek (ZVDV(m)(e))
@@ -649,8 +652,9 @@ mesečni znesek zagotovljene vstopne
 
 ZVD(m)(e)
 
-mesečni znesek zagotovljene dnevne vstopne zmogljivosti
-  za vstopno točko (e), v koledarskem mesecu (m), v eurih.
+mesečni znesek zagotovljene dnevne vstopne
+  zmogljivosti za vstopno točko (e), v koledarskem mesecu (m), v
+  eurih.
 
 3. Način izračuna zneska prekinljive vstopne zmogljivosti
 24. člen
@@ -710,11 +714,11 @@ Dt
 število dni v koledarskem letu (t);
 
 
-PKV(m)(d)(e)
+PK"V(m)(d)(e)
 
-zakupljena vstopna zmogljivost vstopne
-  točke (e), za dan (d), v koledarskem mesecu (m), v
-  kWh/dan.
+prekinjena oziroma zmanjšana zakupljena
+  vstopna zmogljivost vstopne točke (e), za dan (d), v
+  koledarskem mesecu (m), v kWh/dan.
 
 4. Način izračun zneska zagotovljene izstopne zmogljivosti
 25. člen
@@ -731,8 +735,7 @@ tega akta, če se prekorači:
 -       
 skupna izstopna zmogljivost dveh ali več izstopnih točk (e), ki
 so medsebojno povezane znotraj distribucijskega sistema posamezne lokalne
-skupnosti ali znotraj povezanih distribucijskih sistemov iz 216. člena EZ-1 (v
-nadaljnjem besedilu: povezane izstopne točke), ali
+skupnosti ali znotraj povezanih distribucijskih sistemov iz 59. člena ZOP (v nadaljnjem besedilu: povezane izstopne točke), ali
 -       
 izstopna zmogljivost na posamezni izstopni točki (e), ki
 predstavlja izstopno točko znotraj Republike Slovenije, ki ni del povezanih
@@ -741,18 +744,19 @@ izstopnih točk.
 prenosnega sistema in agenciji pred sklenitvijo pogodbe o prenosu oziroma ob
 vsaki spremembi, ki se nanaša na povezane izstopne točke, predložiti seznam
 povezanih in ostalih izstopnih točk za vsako posamezno lokalno skupnost ali več
-lokalnih skupnosti v primeru povezanih distribucijskih sistemov iz 216. člena
-EZ-1, v kateri izvajajo dejavnost operaterja distribucijskega sistema. Če
-operater distribucijskega sistema ne predloži navedenega seznama do vključno
-zadnjega dne tekočega obračunskega meseca, se šteje, da je seznam, ki se nanaša
-na povezane izstopne točke, ostal nespremenjen. Če operater distribucijskega
-sistema predloži nepopoln seznam, se za izstopno mesto, ki v seznamu ni
-navedeno, obračuna prekoračitev pogodbene prenosne zmogljivosti kot
-prekoračitev izstopne zmogljivosti posamezne izstopne točke (e).
+lokalnih skupnosti v primeru povezanih distribucijskih sistemov iz 59. člena ZOP, v kateri izvajajo dejavnost
+operaterja distribucijskega sistema. Če operater distribucijskega sistema ne
+predloži navedenega seznama do vključno zadnjega dne tekočega obračunskega
+meseca, se šteje, da je seznam, ki se nanaša na povezane izstopne točke, ostal
+nespremenjen. Če operater distribucijskega sistema predloži nepopoln seznam, se
+za izstopno mesto, ki v seznamu ni navedeno, obračuna prekoračitev pogodbene
+prenosne zmogljivosti kot prekoračitev izstopne zmogljivosti posamezne izstopne
+točke (e).
 (4) Povezane izstopne točke so skupina izstopnih točk znotraj
-Republike Slovenije, na katerih je dejansko izvedena povezava in je s tem omogočen
-medsebojni fizični pretok zemeljskega plina za potrebe oskrbe lokalne skupnosti
-ali povezanega distribucijskega sistema iz 216. člena EZ-1.
+Republike Slovenije, na katerih je dejansko izvedena povezava in je s tem
+omogočen medsebojni fizični pretok zemeljskega plina za potrebe oskrbe lokalne
+skupnosti ali povezanega distribucijskega sistema iz 59.
+člena ZOP.
 (5) Pri obračunu zneska izstopne zmogljivosti za kratkoročni
 produkt zmogljivosti (četrtletni, mesečni, dnevni in znotraj dnevni) se v
 izračunu upoštevata multiplikator in sezonski faktor za posamezni standardni
@@ -1343,8 +1347,8 @@ mesečni znesek za meritve iz 41. člena tega akta.
 (3) Pri zaračunavanju omrežnine iz točke b) prejšnjega
 odstavka, se upoštevajo tudi določbe 32. in 33. člena tega akta.
 (4) Operater prenosnega sistema mora uporabniku sistema v
-prilogi računa posredovati ali mu na drug način omogočiti dostop do izračuna mesečnega
-zneska za posamezne postavke omrežnine.
+prilogi računa posredovati ali mu na drug način omogočiti dostop do izračuna
+mesečnega zneska za posamezne postavke omrežnine.
 44. člen
 (izstavljanje računov za ostale storitve)
 (1) Operater prenosnega sistema izstavi račun za izvedene
@@ -1582,9 +1586,9 @@ znotraj Republike Slovenije v odjemno skupino)
 akta operater prenosnega sistema za obdobje od 1. januarja 2020 do
 31. decembra 2024 z namenom izračuna zneska izstopne zmogljivosti za
 posamezno izstopno točko znotraj Republike Slovenije najprej izračuna znesek za
-posamično izstopno zmogljivost na podlagi določb 26., 28., 29., 31. in 37.
-člena tega akta, ki ga nato glede na uvrstitev posamezne izstopne točke (e)
-v odjemno skupino (CPKi) pomnoži s stopnjo izstopne
+posamično izstopno zmogljivost na podlagi določb 26., 28., 29., 31. in 37. člena
+tega akta, ki ga nato glede na uvrstitev posamezne izstopne točke (e) v
+odjemno skupino (CPKi) pomnoži s stopnjo izstopne
 tarifne postavke (kl(i)), kot je določena za posamezno leto v
 tabeli v naslednjem odstavku.
 (2) Operater prenosnega sistema
@@ -1772,3 +1776,15 @@ metodologiji za obračunavanje omrežnine za prenosni sistem zemeljskega plina
 (začetek veljavnosti)
 Ta akt začne veljati 1. januarja 2022, razen 2. člena tega
 akta, ki začne veljati 1. oktobra 2021.«.
+
+Akt
+o spremembah Akta o metodologiji za obračunavanje omrežnine za prenosni sistem
+zemeljskega plina
+(Uradni list RS, št. 146/22)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+(začetek veljavnosti in
+uporabe)
+Ta akt začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije, uporabljati pa se začne 1. decembra 2022.«.

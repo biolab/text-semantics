@@ -37,13 +37,13 @@ prevozov ter na prodajnih mestih in spletnih straneh izvajalcev.
 zastopniku, če gre za mladoletnega upravičenca, statusu upravičenca v obdobju
 koriščenja subvencije prevoza ter relaciji. Če se upravičenec izobražuje v
 tujini, vlogi predloži potrdilo o vpisu v vzgojno-izobraževalni oziroma
-študijski program. Če upravičenec iz 114.g člena Zakona o prevozih v cestnem prometu
-(Uradni list RS, št. 6/16 – uradno prečiščeno besedilo, 67/19 in 94/21; v
-nadaljnjem besedilu: zakon) uporablja javni prevoz, vlogi predloži obrazložen
-sklep o ugotovljeni težji ali težki gibalni oviranosti, ki ga v skladu s
-svojimi internimi akti izda pristojna komisija posameznega visokošolskega
-zavoda, na katerega je upravičenec vpisan, ali zdravniško potrdilo o težji ali
-težki gibalni oviranosti.
+študijski program. Če upravičenec iz 114.g člena Zakona o prevozih v cestnem
+prometu (Uradni list RS, št. 6/16 – uradno prečiščeno besedilo, 67/19 in
+94/21; v nadaljnjem besedilu: zakon) uporablja javni prevoz, vlogi predloži
+obrazložen sklep o ugotovljeni težji ali težki gibalni oviranosti, ki ga v
+skladu s svojimi internimi akti izda pristojna komisija posameznega
+visokošolskega zavoda, na katerega je upravičenec vpisan, ali zdravniško
+potrdilo o težji ali težki gibalni oviranosti.
 (3) Upravičenec iz
 114.g člena zakona, ki ne more uporabljati javnega prevoznega sredstva in kjer
 na relaciji od kraja bivanja do kraja izobraževanja ni organiziran prevoz s
@@ -100,12 +100,12 @@ elektronsko. Obrazec in povezava do elektronske vloge se objavita na spletnih
 straneh ministrstva, ministrstva, pristojnega za javno upravo ter na prodajnih
 mestih in spletnih straneh izvajalcev.
 (2) Vloga vsebuje podatke o upravičencu in statusu
-upravičenca v obdobju koriščenja brezplačnega prevoza. Upravičenec do
-brezplačnega prevoza iz devetega odstavka 114.b člena zakona vlogi predloži
-evropsko kartico ugodnosti za invalide. Upravičenec do brezplačnega prevoza iz desetega
-odstavka 114.b člena zakona vlogi predloži izkaznico vojnega veterana. Za
-upravičence iz desetega odstavka 114.b člena zakona se podatek o statusu
-pridobi avtomatsko iz uradnih evidenc.
+upravičenca v obdobju koriščenja brezplačnega prevoza. Upravičenec do brezplačnega
+prevoza iz devetega odstavka 114.b člena zakona vlogi predloži evropsko kartico
+ugodnosti za invalide. Upravičenec do brezplačnega prevoza iz desetega odstavka
+114.b člena zakona vlogi predloži izkaznico vojnega veterana. Za upravičence iz
+desetega odstavka 114.b člena zakona se podatek o statusu pridobi avtomatsko iz
+uradnih evidenc.
 (3) Upravičenec do
 brezplačnega prevoza lahko odda eno vlogo za izdajo subvencionirane vozovnice.
 Po preteku enega leta oziroma največ 30 dni pred iztekom veljavnosti vozovnice,
@@ -178,8 +178,8 @@ iz prejšnjega odstavka sporoča s pošiljanjem podatkov preko spletnih storitev
 (3) Podatke o izdanih letnih subvencioniranih vozovnicah
 izvajalec mesečno sporoča v evidenco subvencij prevoza. Podatke o plačilu
 poroča ob prejemu plačila upravičenca v celoti, podatek o polni ceni in
-subvenciji pa se vsak mesec določi v višini, ki predstavlja sorazmerni mesečni delež
-polne cene letne subvencionirane vozovnice.
+subvenciji pa se vsak mesec določi v višini, ki predstavlja sorazmerni mesečni
+delež polne cene letne subvencionirane vozovnice.
 (4) Podrobnejši način
 poročanja ter vsebina in oblika podatkov za poročanje se podrobneje določijo v
 tehnični dokumentaciji evidence subvencije prevoza.
@@ -206,9 +206,9 @@ izdano subvencionirano vozovnico se izračuna kot razlika med polno ceno
 subvencionirane vozovnice, ki jo ureja pravilnik, ki določa cene
 subvencioniranega prevoza, in ceno subvencionirane vozovnice, ki jo plača
 upravičenec.
-(2) Višina polne cene subvencionirane
-vozovnice iz prejšnjega odstavka se za prvi mesec veljavnosti določi glede na
-datum prodaje subvencionirane vozovnice, in sicer:
+(2) Višina polne cene
+subvencionirane vozovnice iz prejšnjega odstavka se za prvi mesec veljavnosti
+določi glede na datum prodaje subvencionirane vozovnice, in sicer:
 -       
 za subvencionirane vozovnice, prodane v predprodaji in do vključno
 desetega dne tekočega meseca, predstavlja višina polne cene subvencionirane
@@ -230,108 +230,87 @@ izdano subvencionirano vozovnico za upravičenca iz tretjega odstavka 114.c
 pravilnik, ki določa cene subvencioniranega prevoza.
 8.a člen
 (subvencija v mestnem linijskem prevozu potnikov)
-(1) Ministrstvo z
-izvajalcem mestnega linijskega prevoza potnikov v posameznem mestnem območju
-sklene pogodbo o zagotavljanju subvencioniranih prevozov upravičencev iz 114.b
-člena zakona.
-(2) Do subvencije za
-izdano subvencionirano vozovnico v mestnem linijskem prevozu je upravičen
-izvajalec mestnega linijskega prevoza, ki ima z upravljavcem mestnega
-linijskega prevoza sklenjeno pogodbo.
-(3) Izvajalec je
-upravičen do višine subvencije, ki se izračuna po naslednji formuli:
-S=CV*K*ŠTV,
+(1) Ministrstvo z izvajalcem mestnega linijskega prevoza
+potnikov v posameznem mestnem območju sklene pogodbo o zagotavljanju
+subvencioniranih prevozov upravičencev iz 114.b člena zakona.
+(2) Do subvencije za izdano subvencionirano vozovnico v
+mestnem linijskem prevozu je upravičen izvajalec mestnega linijskega prevoza,
+ki ima z upravljavcem mestnega linijskega prevoza sklenjeno pogodbo.
+(3) Izvajalec je upravičen do višine subvencije, ki se
+izračuna po naslednji formuli:
+S=(CEV*K*ŠTV) – Cv + Cmv,
 pri čemer je:
-
-S
-
-–
-
-subvencija za
-  uporabo vozovnice Slovenija v območju mestnega linijskega prevoza;
-
-
-CV
-
-–
-
-cena enkratne
-  enosmerne vozovnice kupljene v predprodaji za posamezno območje mestnega
-  linijskega prevoza;
-
-
-K
-
-–
-
-koeficient;
-
-
-ŠtV
-
-–
-
-število uspešnih
-  validacij uporabnikov vozovnice Slovenija v območju mestnega linijskega
-  prevoza.
-
-(4) Vrednost K iz
-prejšnjega odstavka se na letni ravni določi na podlagi števila uspešnih
-validacij potnikov z vozovnico Slovenija in številom vseh potnikov v območju
-mestnega linijskega prevoza. Vrednost K je omejena z zgornjo mejo, ki zanaša
-0,98 in s spodnjo mejo, ki znaša 0,45.
-(5) Ne glede na tretji
-odstavek tega člena, višina subvencije za izvajalca iz prvega odstavka tega
-člena, ne sme biti višja od izpada prihodkov v tekočem letu, glede na prihodke
-od prodaje vozovnic in prihodke od subvencioniranih vozovnic v letu 2019 v
-mestnem linijskem prevozu, povečane za 20 %. Za izračun se upoštevajo prihodki
-iz prodaje vozovnic in morebitne subvencije, ki jih prejme izvajalec za
-sofinanciranje vozovnic upravičencev za mestni potniški promet.
-(6) Izplačilo
-subvencije se ustavi, ko letni znesek izplačane subvencije doseže izpad
-prihodkov iz prejšnjega odstavka.
-(7) Če izvajalec
-mestnega linijskega prevoza potnikov zaradi bistveno povečanega števila
-upravičencev, poveča obseg števila kilometrov mestnega linijskega prevoza
-potnikov za več kot 5 %, je upravičen do sofinanciranja dodatnih kilometrov, na
-podlagi odobrenega predloga o povečanju obsega. Sofinanciranje je dovoljeno v
-višini 75 % operativnih stroškov izvajanja mestnega prometa za tekoče leto.
-Izvajalec predlaga povečanje obsega mestnega linijskega prometa na podlagi
-analize števila potnikov, zasedenosti vozil v koničnem času in s predložitvijo
-potrjenih operativnih stroškov na kilometer. Za izvedbo sofinanciranja se
-sklene aneks k pogodbi za izvajanje subvencioniranih prevozov.
+S –         subvencija za uporabo mestne
+vozovnice v območju mestnega linijskega prevoza;
+CEV
+–    cena enkratne enosmerne ali dnevne vozovnice kupljene v predprodaji za
+posamezno območje mestnega linijskega prevoza;
+K –         koeficient;
+ŠTV
+–    število uspešnih validacij uporabnika mestne vozovnice v območju mestnega
+linijskega prevoza;
+Cv
+–       skupna cena vozovnic, ki jo plačajo upravičenci izvajalcu za izvajanje
+prevoza, ki ga ta ne opravlja;
+Cmv
+–   skupna cena vozovnic za mestni linijski prevoz, ki jo plačajo upravičenci
+izvajalcem, ki tega prevoza ne opravljajo.
+(4) Kadar sta za posamezno območje mestnega linijskega
+prevoza določeni cena enkratne enosmerne in cena dnevne vozovnice kupljeni v
+predprodaji, se pri obračunu višine subvencije v mestnem linijskem prevozu
+upošteva cena vozovnice, ki je nižja.
+(5) Vrednost K iz tretjega odstavka tega člena se na letni
+ravni določi na podlagi števila uspešnih validacij potnikov z mestno vozovnico
+in številom vseh potnikov v območju mestnega linijskega prevoza. Vrednost K je
+omejena z zgornjo mejo, ki zanaša 0,98 in s spodnjo mejo, ki znaša 0,45 in je
+odvisna od vrste produkta v posamezni občini.
+(6) Ne glede na tretji odstavek tega člena, višina subvencije
+za izvajalca iz prvega odstavka tega člena, ne sme biti višja od izpada
+prihodkov v tekočem letu, glede na prihodke od prodaje vozovnic in prihodke od
+subvencioniranih vozovnic v letu 2019 v mestnem linijskem prevozu, povečane za
+20 %. Za izračun se upoštevajo prihodki iz prodaje vozovnic in subvencije, ki
+jih prejme izvajalec za sofinanciranje vozovnic upravičencev za mestni potniški
+promet.
+(7) Izplačilo subvencije se ustavi, ko letni znesek izplačane
+subvencije doseže izpad prihodkov iz prejšnjega odstavka.
+(8) Če izvajalec mestnega linijskega prevoza potnikov zaradi
+bistveno povečanega števila upravičencev, poveča obseg števila kilometrov
+mestnega linijskega prevoza potnikov za več kot 5 %, je upravičen do
+sofinanciranja dodatnih kilometrov, na podlagi odobrenega predloga o povečanju
+obsega. Sofinanciranje je dovoljeno v višini 75 % operativnih stroškov
+izvajanja mestnega prometa za tekoče leto. Izvajalec predlaga povečanje obsega
+mestnega linijskega prometa na podlagi analize števila potnikov, zasedenosti
+vozil v koničnem času in s predložitvijo potrjenih operativnih stroškov na
+kilometer. Za izvedbo sofinanciranja se sklene aneks k pogodbi za izvajanje
+subvencioniranih prevozov.
 9. člen
 (vračilo plačila subvencionirane mesečne vozovnice)
-(1) Izvajalec na
-zahtevo upravičenca prekliče neuporabljeno subvencionirano mesečno vozovnico
-pred začetkom veljavnosti oziroma na dan prodaje. Upravičencu se vrne celotni
-znesek plačila.
-(2) Vračilo
-subvencionirane mesečne vozovnice v času veljavnosti subvencionirane vozovnice
-ni možno.
-(3) Preklicana
-subvencionirana mesečna vozovnica se ne subvencionira.
+(1) Izvajalec na zahtevo upravičenca prekliče neuporabljeno
+subvencionirano mesečno vozovnico pred začetkom veljavnosti, na dan nakupa ali
+v času veljavnosti vozovnice. Upravičencu se vrne celotni znesek plačila.
+(2) Vračilo plačila za subvencionirano mesečno vozovnico, ki
+je bila uporabljena in je aktivna, ni možno.
+(3) Preklicana subvencionirana mesečna vozovnica se ne
+subvencionira.
 10. člen
 (vračilo plačila subvencionirane letne vozovnice)
 (1) Izvajalec na
-zahtevo upravičenca prekliče subvencionirano letno vozovnico.
-(2) Če se preklic
-neuporabljene subvencionirane vozovnice izvede pred začetkom veljavnosti
-subvencionirane vozovnice oziroma na dan nakupa, se upravičencu vrne celotni
-znesek plačila.
-(3) Izvajalec v primeru
-vračila neuporabljene subvencionirane vozovnice in vračila celotnega zneska
-plačila upravičenca, poroča o preklicu poročane subvencionirane vozovnice.
-(4) Preklic subvencionirane
-vozovnice v času veljavnosti se izvede z zadnjim dnem tekočega meseca,
-upravičencu se vrne plačilo v sorazmernem deležu za neizkoriščene mesece.
-Upravičencu se vrne znesek plačila v višini razlike med zneskom plačila
+zahtevo upravičenca prekliče neuporabljeno subvencionirano vozovnico pred
+začetkom veljavnosti, na dan nakupa ali v času veljavnosti vozovnice.
+Upravičencu se vrne celotni znesek plačila.
+(2) Izvajalec v primeru
+vračila neuporabljene subvencionirane vozovnice in vračila celotnega zneska plačila
+upravičenca, poroča o preklicu poročane subvencionirane vozovnice.
+(3) Preklic uporabljene
+subvencionirane vozovnice v času veljavnosti se izvede z zadnjim dnem tekočega
+meseca, upravičencu se vrne plačilo v sorazmernem deležu za neizkoriščene
+mesece. Upravičencu se vrne znesek plačila v višini razlike med zneskom plačila
 upravičenca za subvencionirano letno vozovnico in ceno subvencionirane mesečne
 vozovnice oziroma subvencionirane mesečne vozovnice za deset voženj na mesec,
 ki jo plača upravičenec in je določena v pravilniku, ki določa cene
 subvencioniranega prevoza, za mesece dejanske uporabe subvencionirane
 vozovnice.
-(5) Ob preklicu
+(4) Ob preklicu
 izvajalec poroča o vračilu razlike pri plačilu upravičenca, ki se izračuna po
 naslednji formuli:
 V = Clv – (Mv*Cmv),
@@ -386,9 +365,9 @@ vozovnico, ki se ne subvencionira.
 (zloraba subvencionirane vozovnice)
 (1) Izvajalec
 ministrstvu posreduje podatke o zlorabljenih subvencioniranih vozovnicah.
-(2) Če je prišlo do zlorabe
-pravice iz sedmega odstavka 114.b člena zakona, upravičenec to pravico izgubi,
-zlorabo pa ministrstvo ustrezno označi v evidenci subvencij prevoza.
+(2) Če je prišlo do
+zlorabe pravice iz sedmega odstavka 114.b člena zakona, upravičenec to pravico
+izgubi, zlorabo pa ministrstvo ustrezno označi v evidenci subvencij prevoza.
 (3) Izvajalec
 upravičencem, ki so izgubili pravico do subvencioniranega prevoza, v obdobju, v
 katerem so pravico izgubili, subvencionirane vozovnice ne izda, za že izdane
@@ -426,8 +405,8 @@ Priloga
 3: Vloga za izdajo subvencionirane vozovnice za brezplačen prevoz
 
 Pravilnik o izvajanju subvencioniranega
-prevoza (Uradni list RS, št. 7/20) vsebuje naslednjo prehodno in
-končni določbi:
+prevoza (Uradni list RS, št. 7/20)
+vsebuje naslednjo prehodno in končni določbi:
 »PREHODNA IN KONČNI DOLOČBI
 15. člen
 (način določitve subvencije
@@ -451,8 +430,8 @@ Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
 listu Republike Slovenije.«.
 
 Pravilnik o dopolnitvah Pravilnika o izvajanju
-subvencioniranega prevoza (Uradni list RS, št. 89/20) vsebuje naslednjo prehodno in
-končno določbo:
+subvencioniranega prevoza (Uradni list RS, št. 89/20)
+vsebuje naslednjo prehodno in končno določbo:
 »PREHODNA IN KONČNA DOLOČBA
 4. člen
 (oddaja elektronske vloge)
@@ -476,10 +455,20 @@ listu Republike Slovenije.«.
 
 Pravilnik
 o spremembi in dopolnitvi Pravilnika o izvajanju subvencioniranega prevoza
-(Uradni list RS, št. 140/21) vsebuje
-naslednjo končno določbo:
+(Uradni list RS, št. 140/21)
+vsebuje naslednjo končno določbo:
 »KONČNA DOLOČBA
 3. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik
+o spremembah Pravilnika o izvajanju subvencioniranega prevoza (Uradni list RS,
+št. 116/22)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
 (začetek veljavnosti)
 Ta pravilnik začne veljati naslednji dan po objavi v Uradnem
 listu Republike Slovenije.«.

@@ -11,7 +11,8 @@ pravil delovanja upravljalnega organa in njegovih komisij ter ravnanja
 njegovih članov v skladu s standardi ustrezne profesionalne skrbnosti in
 najvišjimi etičnimi standardi ter preprečevanja nasprotja interesov; 
 3.     
-notranjega procesa ocenjevanja ustreznega kapitala; 
+notranjega procesa ocenjevanja ustreznega kapitala, likvidnosti in
+tveganj;
 4.     
 podrobnejše vsebine poročil v zvezi z ureditvami notranjega upravljanja
 ter roke in način predložitve teh poročil Agenciji za trg vrednostnih papirjev
@@ -22,14 +23,14 @@ se te določbe uporabljajo v njihovem vsakokrat veljavnem besedilu.
 (opredelitev pojmov)
 (1) Pojmi, uporabljeni v tem sklepu, imajo enak pomen kot v
 določbah Zakona o trgu finančnih instrumentov (Uradni list RS, št. 77/18, 17/19
-– popr. in 123/21; v nadaljevanju ZTFI-1), Zakonu o bonitetnem nadzoru
-investicijskih podjetij (Uradni list RS, št. 123/21; v nadaljevanju ZBNIP),
-Uredbi (EU) 2019/2033 Evropskega Parlamenta in Sveta z dne 27. novembra 2019 o
-bonitetnih zahtevah za investicijska podjetja ter o spremembi uredb (EU) št.
-1093/2010, (EU) št. 575/2013, (EU) št. 600/2014 in (EU) št. 806/2014 (UL L št.
-314 z dne 5. 12. 2019, str. 1), zadnjič spremenjeni s Popravkom (UL L št. 405 z
-dne 2. 12. 2020, str. 79; v nadaljevanju Uredba (EU) 2019/2033) ter v
-predpisih, izdanih na njihovi podlagi. 
+– popr. in 123/21; v nadaljevanju ZTFI-1), Zakonu o bonitetnem nadzoru investicijskih
+podjetij (Uradni list RS, št. 123/21; v nadaljevanju ZBNIP), Uredbi (EU)
+2019/2033 Evropskega Parlamenta in Sveta z dne 27. novembra 2019 o bonitetnih
+zahtevah za investicijska podjetja ter o spremembi uredb (EU) št. 1093/2010,
+(EU) št. 575/2013, (EU) št. 600/2014 in (EU) št. 806/2014 (UL L št. 314 z dne
+5. 12. 2019, str. 1), zadnjič spremenjeni s Popravkom (UL L št. 405 z dne 2.
+12. 2020, str. 79; v nadaljevanju Uredba (EU) 2019/2033) ter v predpisih,
+izdanih na njihovi podlagi. 
 (2) Drugi pojmi, uporabljeni v tem sklepu imajo naslednji
 pomen: 
 1.     
@@ -95,11 +96,10 @@ z oziroma je član organizacije, ki od borznoposredniške družbe prejema
 prispevke v obliki donatorskih, sponzorskih ali drugih podpornih sredstev, če
 ti prispevki skupaj presegajo znesek 1.000 EUR na letni ravni, 
 - 
-član višjega vodstva ali njegov ožji družinski član je kot stranka
-borznoposredniške družbe ali njene podrejene družbe pri uporabi investicijskih
-ali drugih storitev deležen posebne obravnave, ki ni skladna s sprejeto
-poslovno politiko oziroma običajno prakso borznoposredniške družbe ali njene
-podrejene družbe; 
+član višjega vodstva ali njegov ožji družinski član je kot stranka borznoposredniške
+družbe ali njene podrejene družbe pri uporabi investicijskih ali drugih
+storitev deležen posebne obravnave, ki ni skladna s sprejeto poslovno politiko
+oziroma običajno prakso borznoposredniške družbe ali njene podrejene družbe; 
 6.     
 »posredni pomemben poslovni stik« je položaj pomembnega poslovnega stika
 iz prejšnje točke tega odstavka, v katerem je član upravljalnega organa ali
@@ -117,11 +117,11 @@ obvladovanje tveganj;
 8.     
 »nagnjenost k prevzemanju tveganj« (v nadaljevanju nagnjenost k
 tveganjem) je vnaprej dogovorjena skupna raven tveganj, vključno z ravnmi
-posameznih vrst tveganj, ki jih je borznoposredniška družba še pripravljena
-prevzeti za namen uresničevanja svojih poslovnih ciljev, strategij, politik in
-načrtov, ob upoštevanju sposobnosti za prevzemanje tveganj, strategij in
-politik prevzemanja in upravljanja tveganj, ter politik kapitala, likvidnosti
-in prejemkov borznoposredniške družbe;
+posameznih vrst tveganj, ki jih je borznoposredniška družba še pripravljena prevzeti
+za namen uresničevanja svojih poslovnih ciljev, strategij, politik in načrtov,
+ob upoštevanju sposobnosti za prevzemanje tveganj, strategij in politik
+prevzemanja in upravljanja tveganj, ter politik kapitala, likvidnosti in
+prejemkov borznoposredniške družbe;
 9.     
 »limiti tveganj« so sprejete kvantitativne omejitve in ukrepi, na
 podlagi katerih borznoposredniška družba obvladuje prevzemanje tveganj in
@@ -188,16 +188,44 @@ poslovanja;
 oziroma razpršenosti prihodkov oziroma nezmožnosti borznoposredniške družbe za
 zagotavljanje zadostne in trajnostne ravni dobičkonosnosti; 
 20.  
-»preostalo tveganje« je za potrebe uporabe priloge 1 tega sklepa
-tveganje manjše učinkovitosti zavarovanj od pričakovane, ki je posledica
-nastanka ali porasta drugih tveganj (npr. pravnega, operativnega,
-likvidnostnega ali tveganja za stranke) zaradi uporabe zavarovanj; 
-21.  
-»interna ocena kapitalskih potreb« je ocena potrebnega kapitala za
-kritje tveganj borznoposredniške družbe; 
-22.  
-»interna ocena kapitala« je kapital, izračunan na podlagi interne
-opredelitve sestavin kapitala borznoposredniške družbe; 
+»preostalo tveganje« je za potrebe uporabe priloge 1 tega sklepa tveganje
+manjše učinkovitosti zavarovanj od pričakovane, ki je posledica nastanka ali
+porasta drugih tveganj (npr. pravnega, operativnega, likvidnostnega ali
+tveganja za stranke) zaradi uporabe zavarovanj; 
+21.      »interna
+ocena kapitalskih potreb« je ocena potrebnega kapitala za kritje tveganj
+borznoposredniške družbe;
+21a.   »interna
+ocena likvidnostnih potreb« je ocena potrebne likvidnosti za kritje tveganj
+borznoposredniške družbe;
+22.      »interna
+ocena kapitala« je kapital, izračunan na podlagi interne opredelitve sestavin
+kapitala borznoposredniške družbe;
+22a.   »interna
+ocena likvidnosti« je likvidnost, izračunana ali ocenjena na podlagi lastnih
+metodologij borznoposredniške družbe ter na podlagi interne opredelitve
+sestavin elementov likvidnosti borznoposredniške družbe;
+22b.   »proces
+ocenjevanja ustreznosti notranjega kapitala in proces ocenjevanja notranjih
+tveganj (ICARAP)« pomeni ureditve, strategije in procese iz 26. člena
+ZBNIP, sestavljata pa ga proces ocenjevanja ustreznosti notranjega kapitala
+(ICAAP) in proces ocenjevanja ustreznosti notranje likvidnosti (ILAAP);
+22c.   »proces
+ocenjevanja ustreznosti notranjega kapitala (ICAAP)« je del procesa ICARAP in
+pomeni ureditve, strategije in procese za ocenjevanje in ohranjevanje višine,
+vrste in razporeditve notranjega kapitala za potrebe rednega poslovanja in ki
+ga borznoposredniška smatra kot ustreznega za pokrivanje vseh vrst in višine
+tveganj, ki jih borznoposredniška družba lahko povzroča drugim ali za
+pokrivanje vrst in višine tveganj, ki jim borznoposredniška družba je ali bi
+jim lahko bila izpostavljena;
+22d.   »proces
+ocenjevanja ustreznosti notranje likvidnosti (ILAAP)« je del procesa ICARAP in
+pomeni ureditve, strategije in procese za ocenjevanje in ohranjevanje višine,
+vrste in razporeditve notranje likvidnosti za potrebe rednega poslovanja in ki
+jo borznoposredniška smatra kot ustrezno za pokrivanje vseh vrst in višine
+tveganj, ki jih borznoposredniška družba lahko povzroča drugim ali za
+pokrivanje vrst in višine tveganj, ki jim borznoposredniška družba je ali bi jim
+lahko bila izpostavljena;
 23.  
 »stresni test, tudi obremenitveni test, tudi test izjemnih, a verjetnih
 situacij, (v nadaljevanju stresni test)« pomeni uporabo različnih,
@@ -225,9 +253,9 @@ tega sklepa
 3. člen
 (razmerje med poslovno strategijo in strategijo tveganj
 borznoposredniške družbe)
-(1) Upravljalni organ mora, z namenom uresničevanja učinkovite
-ureditve korporativnega upravljanja iz 1. točke drugega odstavka 2. člena tega
-sklepa zagotoviti, da so poslovni cilji, strategije in politike
+(1) Upravljalni organ mora, z namenom uresničevanja
+učinkovite ureditve korporativnega upravljanja iz 1. točke drugega odstavka 2.
+člena tega sklepa zagotoviti, da so poslovni cilji, strategije in politike
 borznoposredniške družbe ustrezno usklajene s strategijami in politikami
 prevzemanja in upravljanja tveganj iz 4. in 5. člena tega sklepa. 
 (2) Če poslovni cilji, strategije in politike iz prvega
@@ -236,9 +264,9 @@ upravljalni organ, ob upoštevanju narave, obsega in zapletenosti tveganj, ki
 izhajajo iz poslovnega modela borznoposredniške družbe ter dejavnosti, katere
 opravlja borznoposredniška družba, zagotoviti temu sorazmerno učinkovito
 ureditev notranjega upravljanja. 
-(3) Strategija tveganj, ki ne temelji na sorazmerno
-učinkoviti ureditvi notranjega upravljanja, se lahko odrazi v strateškem
-tveganju borznoposredniške družbe ter čezmernemu prevzemanju tveganj. 
+(3) Strategija tveganj, ki ne temelji na sorazmerno učinkoviti
+ureditvi notranjega upravljanja, se lahko odrazi v strateškem tveganju
+borznoposredniške družbe ter čezmernemu prevzemanju tveganj. 
 4. člen
 (strategije tveganj)
 Borznoposredniška družba mora imeti in uresničevati
@@ -275,8 +303,8 @@ zgleda določiti standard korporativne kulture borznoposredniške družbe, ki:
 temelji na korporativnih vrednotah borznoposredniške družbe, na podlagi
 katerih se od članov upravljalnega organa in drugih zaposlenih pričakuje
 ravnanje v skladu z ustrezno profesionalno skrbnostjo in etiko, pravili
-preprečevanja nasprotja interesov ter predpisi, standardi in notranjimi akti
-borznoposredniške družbe; 
+preprečevanja nasprotja interesov ter predpisi, standardi in notranjimi akti borznoposredniške
+družbe; 
 2.     
 spodbuja kulturo upravljanja tveganj, ki je v skladu s sprejeto
 nagnjenostjo k tveganjem, limiti tveganj in sposobnostjo prevzemanja tveganj; 
@@ -294,10 +322,11 @@ borznoposredniške družbe, ter določa politiko ničelne tolerance
 borznoposredniške družbe do delovanja posameznikov, ki lahko negativno vpliva
 na ugled borznoposredniške družbe, oziroma je nedopustno z zakonskega,
 moralnega ali etičnega vidika. 
-(3) Borznoposredniška družba mora zagotoviti redne preglede ustreznosti
-uresničevanja kodeksa ravnanja s strani oseb iz prvega odstavka tega člena ter
-določiti funkcijo oziroma komisijo, ki se do sumov kršitev kodeksa opredeli. O
-ugotovitvah s teh pregledov mora biti obveščen upravljalni organ. 
+(3) Borznoposredniška družba mora zagotoviti redne preglede
+ustreznosti uresničevanja kodeksa ravnanja s strani oseb iz prvega odstavka
+tega člena ter določiti funkcijo oziroma komisijo, ki se do sumov kršitev
+kodeksa opredeli. O ugotovitvah s teh pregledov mora biti obveščen upravljalni
+organ. 
 2.2. Organizacijska zgradba
 2.2.1. Lastnosti organizacijske zgradbe
 7. člen
@@ -533,11 +562,12 @@ podrobneje obravnavane v prilogah od 1 do 4 tega sklepa.
 (1) Procesi ugotavljanja, upravljanja, spremljanja in
 poročanja tveganj iz 2. točke prvega odstavka 28. člena ZBNIP so učinkoviti, če
 omogočajo izdelavo kakovostnih ocen, analiz, poročil, predlogov ukrepov in
-drugih rezultatov teh procesov, vključno z interno oceno kapitalskih potreb in
-interno oceno kapitala, na podlagi katerih lahko organ vodenja sprejema
-poslovne odločitve, ki so skladne s sprejeto nagnjenostjo k tveganjem in druge
-ukrepe v zvezi z uresničevanjem zanesljive ureditve notranjega upravljanja
-borznoposredniške družbe. 
+drugih rezultatov teh procesov, vključno z interno oceno kapitalskih potreb,
+interno oceno likvidnostnih potreb, interno oceno kapitala in interno oceno
+likvidnosti, na podlagi katerih lahko organ vodenja sprejema poslovne
+odločitve, ki so skladne s sprejeto nagnjenostjo k tveganjem in druge ukrepe v
+zvezi z uresničevanjem zanesljive ureditve notranjega upravljanja
+borznoposredniške družbe.
 (2) Borznoposredniška družba mora zagotoviti sistematično
 načrtovanje razvoja procesov upravljanja tveganj iz prvega odstavka tega člena,
 z namenom njihovega učinkovitega prilagajanja morebitnim spremembam profila
@@ -656,8 +686,8 @@ izredna poročila o tveganjih.
 (2) Redna poročila o tveganjih iz prvega odstavka tega člena
 morajo omogočati sprejemanje učinkovitih odločitev glede ukrepov obvladovanja
 in kontroliranja tveganj ter spremljanje rezultatov teh ukrepov. Ta poročila
-morajo omogočati jasen pregled profila tveganosti, predvsem na podlagi
-informacij o: 
+morajo omogočati jasen pregled profila tveganosti, predvsem na podlagi informacij
+o: 
 1.     
 upoštevanju nagnjenosti k prevzemanju tveganj po poslovnih področjih ter
 kršitvah limitov tveganj; 
@@ -685,11 +715,11 @@ upravljalni organ in višje vodstvo borznoposredniške družbe morajo
 prejemati celovite informacije o vseh pomembnih zadevah v zvezi s poslovanjem
 borznoposredniške družbe in njenimi tveganji; 
 2.     
-služba notranje revizije, funkcija upravljanja tveganj in drugo vodstvo borznoposredniške
-družbe prejemajo ustrezne informacije o ključnih zadevah v zvezi s poslovanjem
-borznoposredniške družbe in njenimi tveganji. Informacije so ustrezne, če so
-predstavljene na način, ki pregledno povzema pomembno vsebino problematike
-glede na njeno prioriteto. 
+služba notranje revizije, funkcija upravljanja tveganj in drugo vodstvo
+borznoposredniške družbe prejemajo ustrezne informacije o ključnih zadevah v
+zvezi s poslovanjem borznoposredniške družbe in njenimi tveganji. Informacije
+so ustrezne, če so predstavljene na način, ki pregledno povzema pomembno
+vsebino problematike glede na njeno prioriteto. 
 (2) Poročila o tveganjih morajo biti: 
 1.     
 razumljiva; poročila so razumljiva, če vsebujejo jasne in natančne
@@ -1011,8 +1041,8 @@ izpuščanju informacij. Borznoposredniška družba mora v ta namen zagotoviti, 
 je način obveščanja organa vodenja in organa nadzora določen s strani službe
 notranje revizije in ne s strani organa vodenja ali organa nadzora. Neodvisno
 obveščanje pomeni, da lahko služba notranje revizije v navedenih primerih
-obvesti organ nadzora brez predhodne obvezne predložitve informacije organu vodenja
-v podpis oziroma odobritev. 
+obvesti organ nadzora brez predhodne obvezne predložitve informacije organu
+vodenja v podpis oziroma odobritev. 
 2.4.2.2. Funkcija upravljanja tveganj
 34. člen
 (funkcija upravljanja tveganj)
@@ -1031,8 +1061,8 @@ upravljanja tveganj obvestiti organ nadzora.
 (sodelovanje pri pripravi strategije)
 Funkcija upravljanja tveganj sodeluje pri pripravi strategije
 upravljanja tveganj borznoposredniške družbe in pri vseh pomembnih odločitvah
-glede upravljanja tveganj iz 2. točke četrtega odstavka 34. člena ZBNIP na
-podlagi izdelane: 
+glede upravljanja tveganj iz 2. točke četrtega odstavka 34. člena ZBNIP na podlagi
+izdelane: 
 1.     
 analize tveganj borznoposredniške družbe, ki jo upravljalni organ
 upošteva pri določitvi nagnjenosti k tveganjem; 
@@ -1060,14 +1090,14 @@ tveganj obvesti organ vodenja, predsednika organa nadzora oziroma odbor za
 tveganja, če je ta ustanovljen, neovirano in neodvisno. Neovirano obveščanje
 pomeni, da vodja funkcije upravljanja tveganj obvesti organ vodenja,
 predsednika organa nadzora oziroma odbor za tveganja brez morebitnih zahtev ali
-pritiskov s strani člana upravljalnega organa ali višjega vodstva po neprimernem
-prilagajanju ali izpuščanju informacij. Borznoposredniška družba mora v ta
-namen zagotoviti, da je način obveščanja organa vodenja in organa nadzora
-določen s strani funkcije upravljanja tveganj in ne s strani organa vodenja ali
-organa nadzora. Neodvisno obveščanje pomeni, da lahko vodja funkcije
-upravljanja tveganj v navedenih primerih obvesti predsednika organa nadzora
-brez predhodne predložitve zadevnega obvestila organu vodenja v podpis oziroma
-odobritev. 
+pritiskov s strani člana upravljalnega organa ali višjega vodstva po
+neprimernem prilagajanju ali izpuščanju informacij. Borznoposredniška družba
+mora v ta namen zagotoviti, da je način obveščanja organa vodenja in organa
+nadzora določen s strani funkcije upravljanja tveganj in ne s strani organa
+vodenja ali organa nadzora. Neodvisno obveščanje pomeni, da lahko vodja
+funkcije upravljanja tveganj v navedenih primerih obvesti predsednika organa
+nadzora brez predhodne predložitve zadevnega obvestila organu vodenja v podpis
+oziroma odobritev. 
 2.4.2.3. Služba skladnosti poslovanja
 38. člen
 (politike skladnosti poslovanja)
@@ -1122,9 +1152,9 @@ notranjimi akti borznoposredniške družbe ter spremljanje delovanja postopka za
 reševanje pritožb strank ter upoštevanje informacij v zvezi s tem za namen
 ugotavljanja odgovornosti borznoposredniške družbe; 
 3.     
-vzpostavitev rednega in izrednega poročanja o tveganju skladnosti
-upravljalnemu organu ter, kjer je ustrezno, funkciji upravljanja tveganj in
-službi notranje revizije; 
+vzpostavitev rednega in izrednega poročanja o tveganju skladnosti upravljalnemu
+organu ter, kjer je ustrezno, funkciji upravljanja tveganj in službi notranje
+revizije; 
 4.     
 svetovanje organu vodenja in višjemu vodstvu glede zagotavljanja
 skladnosti poslovanja, vključno glede razvoja predpisov in standardov s tega
@@ -1157,11 +1187,11 @@ poroča organu vodenja in organu nadzora ter, kadar je ustrezno, funkciji
 upravljanja tveganj ali odboru za tveganja, kadar je ta ustanovljen, neovirano
 in neodvisno. Neovirano poročanje pomeni, da funkcija skladnosti poslovanja
 poroča navedenim organom, funkcijam ali odborom brez morebitnih zahtev ali
-pritiskov s strani člana upravljalnega organa ali višjega vodstva po neprimernem
-prilagajanju ali izpuščanju informacij. Borznoposredniška družba mora v ta
-namen zagotoviti, da je način navedenega poročanja organu vodenja in organu
-nadzora določen s strani funkcije skladnosti poslovanja in ne s strani organa
-vodenja ali organa nadzora. Neodvisno obveščanje pomeni, da lahko služba
+pritiskov s strani člana upravljalnega organa ali višjega vodstva po
+neprimernem prilagajanju ali izpuščanju informacij. Borznoposredniška družba
+mora v ta namen zagotoviti, da je način navedenega poročanja organu vodenja in
+organu nadzora določen s strani funkcije skladnosti poslovanja in ne s strani
+organa vodenja ali organa nadzora. Neodvisno obveščanje pomeni, da lahko služba
 skladnosti poslovanja poroča organu nadzora brez predhodne predložitve
 zadevnega obvestila organu vodenja v podpis oziroma odobritev. 
 2.5. Politike in prakse prejemkov
@@ -1177,8 +1207,7 @@ upoštevanjem omejitev glede prejemkov;
 upoštevanjem vpliva variabilnih prejemkov na finančno stanje
 borznoposredniške družbe; 
 3.     
-določitvijo ustreznih razmerij med fiksnim in variabilnim delom
-prejemkov; 
+določitvijo ustreznih razmerij med fiksnim in variabilnim delom prejemkov;
 4.     
 ocenjevanjem uspešnosti zaposlenih z namenom prilagoditve prejemkov
 tveganjem. 
@@ -1225,7 +1254,8 @@ ravni borznoposredniške družbe
 slediti sprejetim korporativnim vrednotam borznoposredniške družbe iz 1. točke
 prvega odstavka 6. člena tega sklepa ter izpolnjevati visoke standarde
 profesionalne skrbnosti in etične standarde, vključno s preprečevanjem
-okoliščin, ki pomenijo ali bi lahko vodile v nastanek kakršnega koli nasprotja interesov.
+okoliščin, ki pomenijo ali bi lahko vodile v nastanek kakršnega koli nasprotja
+interesov. 
 (2) Član upravljalnega organa mora s svojim vsakodnevnim
 zgledom spodbujati visoko kulturo upravljanja tveganj iz 2. točke prvega
 odstavka 6. člena tega sklepa, ki dajejo najvišjo prioriteto poštenemu,
@@ -1265,10 +1295,10 @@ borznoposredniške družbe in upravljanje tveganj borznoposredniške družbe.
 področij iz 1. točke drugega odstavka tega člena ustrezno izkazovati na sejah
 organa nadzora, sejah komisij organa nadzora, katerih član je, ter na sestankih
 z Agencijo (v nadaljevanju sestankih). Razumevanje in poznavanje teh področij
-je ustrezno, če se član organa nadzora na sestankih aktivno vključuje in
-sodeluje v razpravah s svojimi samostojnimi stališči in utemeljitvami. Tak
-način ravnanja člana organa nadzora mora biti razviden tudi iz zapisnikov sej
-organa nadzora iz 1. točke četrtega odstavka 49. člena tega sklepa.
+je ustrezno, če se član organa nadzora na sestankih aktivno vključuje in sodeluje
+v razpravah s svojimi samostojnimi stališči in utemeljitvami. Tak način
+ravnanja člana organa nadzora mora biti razviden tudi iz zapisnikov sej organa
+nadzora iz 1. točke četrtega odstavka 49. člena tega sklepa.
 (4) Član organa nadzora, ki mu je zaradi kakršnih koli
 razlogov onemogočeno opravljanje funkcije nadzora nad delovanjem organa vodenja
 oziroma izvajanje njegovih pristojnosti (npr. nasprotje interesov tega člana,
@@ -1311,8 +1341,8 @@ odločitve.
 (2) Znanje in izkušnje člana upravljalnega organa iz prvega
 odstavka tega člena je ustrezno, če vključuje: 
 1.     
-znanje s področja opravljanja storitev iz 176. člena ZTFI-1 ali drugih ustreznih
-področij (npr. s področja ekonomije, prava, upravnih ved in finančnih
+znanje s področja opravljanja storitev iz 176. člena ZTFI-1 ali drugih
+ustreznih področij (npr. s področja ekonomije, prava, upravnih ved in finančnih
 predpisov, matematike oziroma statistike); 
 2.     
 izkušnje, pridobljene s preteklim poslovnim ravnanjem, zlasti na
@@ -1328,9 +1358,9 @@ institucije,
 - 
 upravljanja tveganj, 
 - 
-ocenjevanja učinkovitosti notranje ureditve upravljanja borznoposredniške
-družbe ali druge podobne institucije in vzpostavljanja učinkovitih mehanizmov
-notranjih kontrol, 
+ocenjevanja učinkovitosti notranje ureditve upravljanja
+borznoposredniške družbe ali druge podobne institucije in vzpostavljanja
+učinkovitih mehanizmov notranjih kontrol, 
 - 
 tolmačenja finančnih podatkov borznoposredniške družbe ali druge podobne
 institucije. 
@@ -1425,9 +1455,9 @@ katerih član je, zlasti upoštevati naslednje previdnostne ukrepe za izognitev
 nasprotju interesov: 
 1.     
 z namenom izognitve nastanka nasprotja interesov, ki bi lahko vplivalo
-na njegovo presojo, mora na svojo pobudo oziroma na poziv predsednika organa
-vodenja oziroma organa nadzora izjaviti, ali obstaja sum nasprotja interesov
-pri zadevi, ki je predmet glasovanja, ter ga pojasniti; 
+na njegovo presojo, mora na svojo pobudo oziroma na poziv predsednika organa vodenja
+oziroma organa nadzora izjaviti, ali obstaja sum nasprotja interesov pri
+zadevi, ki je predmet glasovanja, ter ga pojasniti; 
 2.     
 če obstaja sum nasprotja interesov, se mora član upravljalnega organa
 pri zadevi, ki je predmet glasovanja, vzdržati glasovanja ter za čas glasovanja
@@ -1445,9 +1475,8 @@ mora, z namenom transparentnega opravljanja njegove funkcije, o vseh
 okoliščinah nasprotja interesov, nemudoma obvestiti predsednika organa nadzora.
 V primeru nastanka okoliščin nasprotja interesov pri predsedniku organa
 vodenja, le-ta obvesti predsednika organa nadzora, ob smiselni uporabi določb
-tega člena. V primeru nastanka okoliščin nasprotja interesov pri predsedniku
-organa nadzora, le-ta obvesti organ nadzora, ob smiselni uporabi določb tega
-člena. 
+tega člena. V primeru nastanka okoliščin nasprotja interesov pri predsedniku organa
+nadzora, le-ta obvesti organ nadzora, ob smiselni uporabi določb tega člena. 
 (3) Predsednik organa vodenja oziroma predsednik organa
 nadzora mora, v primeru obvestila o okoliščinah nasprotja interesov s strani
 člana upravljalnega organa, na podlagi lastne presoje glede obstoja okoliščin
@@ -1473,11 +1502,11 @@ kakršno koli škodo;
 prenehanje funkcije člana upravljalnega organa, če le-ta okoliščin
 nasprotja interesov zaradi kakršnega koli razloga ne more ali noče odpraviti. 
 (4) Če se izkaže, da član upravljalnega organa o okoliščinah
-nasprotja interesov, za katere je sicer vedel, ni obvestil predsednika organa vodenja
-oziroma organa nadzora in hkrati ni takoj odpravil posledic tega ravnanja, ali
-če član upravljalnega organa ni upošteval previdnostnih ukrepov iz prvega
-odstavka tega člena, mora biti o tem obveščen organ nadzora. Organ nadzora mora
-v tem primeru odpoklicati člana organa vodenja z njegove funkcije oziroma
+nasprotja interesov, za katere je sicer vedel, ni obvestil predsednika organa
+vodenja oziroma organa nadzora in hkrati ni takoj odpravil posledic tega
+ravnanja, ali če član upravljalnega organa ni upošteval previdnostnih ukrepov
+iz prvega odstavka tega člena, mora biti o tem obveščen organ nadzora. Organ nadzora
+mora v tem primeru odpoklicati člana organa vodenja z njegove funkcije oziroma
 skupščini predlagati odpoklic člana organa nadzora takoj, ko je sporni položaj
 ugotovljen. 
 3.4. Delovanje komisij organa nadzora
@@ -1503,10 +1532,10 @@ organa nadzora.
 nadzora sestajal najmanj enkrat v četrtletju. Če predsednik organa nadzora tega
 ne zagotovi, morajo sejo sklicati drugi člani organa nadzora v skladu z
 zakonom, ki ureja gospodarske družbe. 
-(2) Predsednik organa nadzora mora vzdrževati redne stike s predsednikom
-organa vodenja, zahtevati od njega pojasnila o pomembnih poslovnih dogodkih, za
-katere izve, in o tveganjih borznoposredniške družbe iz naslova teh dogodkov,
-ter po potrebi sklicati izredno sejo organa nadzora. 
+(2) Predsednik organa nadzora mora vzdrževati redne stike s
+predsednikom organa vodenja, zahtevati od njega pojasnila o pomembnih poslovnih
+dogodkih, za katere izve, in o tveganjih borznoposredniške družbe iz naslova
+teh dogodkov, ter po potrebi sklicati izredno sejo organa nadzora. 
 56. člen
 (učinkovitost dela organa nadzora)
 (1) Učinkovitost dela organa nadzora je v največji meri
@@ -1518,22 +1547,21 @@ družbe, profil tveganosti, strategije in politike borznoposredniške družbe te
 na odstopanja od sprejetih ciljev. Organ nadzora je upravičen in dolžan od
 organa vodenja zahtevati dodatna pojasnila in poročila o morebitnih nejasnostih
 v zvezi s poslovanjem borznoposredniške družbe in njenih podrejenih družb.
-(2) Predsednik organa nadzora mora usklajevati delo organa
-nadzora in voditi seje organa nadzora. Druge člane organa nadzora mora
-spodbujati k učinkovitemu in aktivnemu opravljanju funkcije, člani organa
-nadzora pa morajo skrbeti, da imajo dovolj časa za opravljanje svojih nalog in
-so se dolžni po potrebi vseskozi v svojem mandatu izobraževati in
-izpopolnjevati na področjih, ki so pomembna za kakovostno in učinkovito
-izvrševanje njihovih nalog. Predsednik organa nadzora mora s predsednikom
-organa vodenja sprejeti načrt o usposabljanju članov organa nadzora in uvajanju
-novih članov. 
+(2) Predsednik organa nadzora mora usklajevati delo organa nadzora
+in voditi seje organa nadzora. Druge člane organa nadzora mora spodbujati k
+učinkovitemu in aktivnemu opravljanju funkcije, člani organa nadzora pa morajo
+skrbeti, da imajo dovolj časa za opravljanje svojih nalog in so se dolžni po
+potrebi vseskozi v svojem mandatu izobraževati in izpopolnjevati na področjih,
+ki so pomembna za kakovostno in učinkovito izvrševanje njihovih nalog.
+Predsednik organa nadzora mora s predsednikom organa vodenja sprejeti načrt o
+usposabljanju članov organa nadzora in uvajanju novih članov. 
 57. člen
 (imenovanje in odpoklic članov organa vodenja)
 (1) Pri imenovanju in odpoklicu članov organa vodenja ter ob
 upoštevanju politike izbora in imenovanja primernih kandidatov za člane
-upravljalnega organa iz drugega odstavka 35. člena ZBan-3 v zvezi s prvim in drugim
-odstavkom 185. člena ZTFI-1, si mora organ nadzora s skrbno in pravočasno
-izbiro kandidatov prizadevati za kontinuiteto dela organa vodenja. 
+upravljalnega organa iz drugega odstavka 35. člena ZBan-3 v zvezi s prvim in
+drugim odstavkom 185. člena ZTFI-1, si mora organ nadzora s skrbno in
+pravočasno izbiro kandidatov prizadevati za kontinuiteto dela organa vodenja. 
 (2) Pri izbiri članov organov vodenja mora sodelovati tudi
 organ vodenja, predsednik organa nadzora pa mora organ vodenja oziroma njenega
 predsednika pozvati, da pravočasno predlaga primerne kandidate pred iztekom
@@ -1599,9 +1627,9 @@ prvim ali drugim odstavkom 185. člena ZTFI-1 zlasti na podlagi presoje, ali:
 1.     
 notranje kontrole iz 1. točke prvega odstavka 27. člena tega sklepa
 zagotavljajo sistematičen nadzor nad vsemi pomembnimi tveganji
-borznoposredniške družbe na podlagi njihovega uresničevanja na vseh ravneh organizacijske
-zgradbe borznoposredniške družbe ter izvajanja v okviru vsakodnevnih procesov,
-postopkov in dejavnosti borznoposredniške družbe; 
+borznoposredniške družbe na podlagi njihovega uresničevanja na vseh ravneh
+organizacijske zgradbe borznoposredniške družbe ter izvajanja v okviru
+vsakodnevnih procesov, postopkov in dejavnosti borznoposredniške družbe; 
 2.     
 funkcije notranjih kontrol iz 2. točke prvega odstavka 27. člena tega
 sklepa zagotavljajo neodvisno in objektivno oceno za ustrezno in skladno
@@ -1682,15 +1710,16 @@ odstavka tega člena upoštevati zlasti:
 pisna pojasnila organa vodenja ter pisna pojasnila vodje službe notranje
 revizije glede navedenih razlogov za razrešitev; 
 2.     
-predložene materialne dokaze, ki so razlog za razrešitev vodje službe notranje
-revizije; 
+predložene materialne dokaze, ki so razlog za razrešitev vodje službe
+notranje revizije; 
 3.     
 predpise in kadrovske politike borznoposredniške družbe, ki urejajo
 prenehanje pogodbe o zaposlitvi oziroma razrešitev zaposlenih; 
 4.     
 druge ustrezne dokaze in pojasnila. 
 65. člen
-(sprejem in nadzor nad izvajanjem splošnih načel politik prejemkov)
+(sprejem in nadzor nad izvajanjem splošnih načel politik
+prejemkov)
 (1) Organ nadzora sprejme in nadzoruje izvajanje splošnih
 načel politik prejemkov iz 7. točke 50. člena ZBan-3 v zvezi s prvim ali drugim
 odstavkom 185. člena ZTFI-1 zlasti na podlagi presoje, ali je politika
@@ -1740,9 +1769,9 @@ pripadajočih tveganj.
 3.6.1. Odločanje o drugih zadevah, določenih z ZBNIP
 66. člen
 (soglasje k razrešitvi vodje funkcije upravljanja tveganj)
-(1) Organ nadzora mora dati soglasje organu vodenja k razrešitvi
-vodje funkcije upravljanja tveganj iz petega odstavka 34. člena ZBNIP na
-podlagi presoje o upravičenosti razlogov za njegovo razrešitev. 
+(1) Organ nadzora mora dati soglasje organu vodenja k
+razrešitvi vodje funkcije upravljanja tveganj iz petega odstavka 34. člena
+ZBNIP na podlagi presoje o upravičenosti razlogov za njegovo razrešitev. 
 (2) Pri presoji o upravičenosti razlogov za razrešitev vodje
 funkcije upravljanja tveganj organ nadzora upošteva predvsem: 
 1.     
@@ -1761,219 +1790,237 @@ Organ nadzora daje soglasje organu vodenja k načrtu
 aktivnosti za upravljanje tveganj iz prvega odstavka 33. člena ZBNIP zlasti na
 podlagi presoje, ali ta načrt omogoča uresničevanje strategij in politik
 tveganj iz 4. in 5. člena tega sklepa. 
-4. NOTRANJI PROCES OCENJEVANJA USTREZNEGA KAPITALA
+4. NOTRANJI PROCES OCENJEVANJA USTREZNEGA KAPITALA,
+LIKVIDNOSTI IN TVEGANJ
 68. člen
 (splošno)
 Borznoposredniška družba mora, z namenom stalnega ocenjevanja
 ter zagotavljanja potrebnih zneskov, sestave in razporeditve notranjega
 kapitala, ki ga ocenjuje kot ustrezno za kritje narave in stopnje tveganj
 borznoposredniške družbe iz 26. člena ZBNIP, vzpostaviti zanesljiv, ustrezen in
-učinkovit notranji proces ocenjevanja ustreznega kapitala (v nadaljevanju
-proces ICAAP), ki zagotavlja dosledno uporabo: 
+učinkovit proces ocenjevanja ustreznosti notranjega kapitala in proces
+ocenjevanja notranjih tveganj (v nadaljevanju proces ICARAP), ki zagotavlja
+dosledno uporabo:
 1.     
-procesov upravljanja tveganj iz prvega odstavka 17. člena tega sklepa; 
+procesov upravljanja tveganj iz prvega odstavka 17. člena tega sklepa;
 2.     
-rezultatov procesa ICAAP pri določanju strategij tveganj iz 4. člena
-tega sklepa in načrtovanju kapitala. 
-4.1. Proces ICAAP kot sestavni del procesov upravljanja
+rezultatov procesa ICARAP pri določanju strategij tveganj iz 4. člena
+tega sklepa in načrtovanju kapitala in likvidnosti.
+4.1. Proces ICARAP kot sestavni del procesov upravljanja
 tveganj
 69. člen
 (splošno)
 (1) Borznoposredniška družba mora zagotoviti, da je proces
-ICAAP sestavni del procesov upravljanja tveganj iz prvega odstavka 20. člena
+ICARAP sestavni del procesov upravljanja tveganj iz prvega odstavka 20. člena
 tega sklepa. Borznoposredniška družba mora v ta namen pri uresničevanju procesa
-ICAAP ter pripadajočih izračunov interne ocene kapitalskih potreb oziroma
-interne ocene kapitala uporabljati enake sisteme, procese, metodologije ter
-podatke in opredelitve tveganj, kot jih uporablja pri ugotavljanju, ocenjevanju
-oziroma merjenju, obvladovanju, spremljanju in kontroliranju tveganj. 
+ICARAP ter pripadajočih izračunih interne ocene kapitalskih potreb, interne
+ocene likvidnostnih potreb, interne ocene kapitala oziroma interne ocene
+likvidnosti uporabljati enake sisteme, procese, metodologije ter podatke in
+opredelitve tveganj, kot jih uporablja pri ugotavljanju, ocenjevanju oziroma
+merjenju, obvladovanju, spremljanju in kontroliranju tveganj.
 (2) Organ vodenja mora zagotoviti upoštevanje rezultatov
-procesa ICAAP, vključno z interno oceno kapitalskih potreb in interno oceno
-kapitala, pri: 
+procesa ICARAP, vključno z interno oceno kapitalskih potreb, interno oceno
+likvidnostnih potreb, interno oceno kapitala in interno oceno likvidnosti, pri:
 1.     
-sprejemanju poslovnih odločitev borznoposredniške družbe; 
+sprejemanju poslovnih odločitev borznoposredniške družbe;
 2.     
 opredelitvi in sprejemanju strategij tveganja, nagnjenosti k tveganjem,
-sposobnosti prevzemanja tveganj ter dolgoročnemu načrtovanju kapitala
-borznoposredniške družbe. 
+sposobnosti prevzemanja tveganj ter dolgoročnemu načrtovanju kapitala in
+likvidnosti borznoposredniške družbe.
 4.1.1. Operativna in organizacijska struktura uresničevanja
-procesa ICAAP
+procesa ICARAP
 70. člen
 (odgovornost upravljalnega organa za odobritev procesa
-ICAAP)
+ICARAP)
 (1) Upravljalni organ mora z namenom ustrezne uporabe in
-rezultatov procesa ICAAP pri sprejemanju oziroma nadzoru nad poslovnimi
+rezultatov procesa ICARAP pri sprejemanju oziroma nadzoru nad poslovnimi
 odločitvami in strategijami tveganj najmanj enkrat letno odobriti ustreznost
-procesa ICAAP, vključno z vsakokratno interno oceno kapitalskih potreb ter
-interno oceno kapitala in pripadajočih ukrepov (v nadaljevanju rezultati
-procesa ICAAP). Pri tem mora: 
+procesa ICARAP, vključno z vsakokratno interno oceno kapitalskih potreb,
+interno oceno likvidnostnih potreb, interno oceno kapitala ter interno oceno
+likvidnosti in pripadajočih ukrepov (v nadaljevanju rezultati procesa ICARAP).
+Pri tem mora:
 1.     
-organ vodenja odobriti ustreznost procesa ICAAP ter njegove rezultate na
-podlagi podrobnega poznavanja ciljev, procesov, postopkov in metodologij
-procesa ICAAP; 
+organ vodenja odobriti ustreznost procesa ICARAP ter njegove rezultate
+na podlagi podrobnega poznavanja ciljev, procesov, postopkov in metodologij
+procesa ICARAP;
 2.     
-organ nadzora odobriti ustreznost procesa ICAAP ter njegove rezultate na
-podlagi zagotavljanja splošnega poznavanja zasnove in ciljev procesa ICAAP,
-vključno z razumevanjem pomena njegovih rezultatov ter pripadajočih ukrepov. 
-(2) Z vsakokratno odobritvijo ustreznosti procesa ICAAP
-upravljalni organ potrdi, da proces ICAAP upošteva strategije tveganj. 
+organ nadzora odobriti ustreznost procesa ICARAP ter njegove rezultate
+na podlagi zagotavljanja splošnega poznavanja zasnove in ciljev procesa ICARAP,
+vključno z razumevanjem pomena njegovih rezultatov ter pripadajočih ukrepov.
+(2) Z vsakokratno odobritvijo ustreznosti procesa ICARAP
+upravljalni organ potrdi, da proces ICARAP upošteva strategije tveganj.
 (3) Borznoposredniška družba mora zagotoviti, da je
 upravljalni organ, za namen učinkovitega spremljanja oziroma nadzora nad
 uresničevanjem poslovnih odločitev in strategij tveganj iz prvega odstavka tega
 člena, redno seznanjen, katera tveganja borznoposredniške družbe so obravnavana
-v procesu ICAAP, vključno s pripadajočimi internimi ocenami kapitalskih potreb.
+v procesu ICARAP, vključno s pripadajočimi internimi ocenami kapitalskih potreb
+in internimi ocenami likvidnostnih potreb.
 71. člen
-(načrtovanje in uresničevanje procesa ICAAP)
+(načrtovanje in uresničevanje procesa ICARAP)
 (1) Borznoposredniška družba mora zagotoviti vključitev
-procesa ICAAP v procese načrtovanja poslovanja borznoposredniške družbe za
-naslednje plansko obdobje. 
+procesa ICARAP v procese načrtovanja poslovanja borznoposredniške družbe za
+naslednje plansko obdobje.
 (2) Borznoposredniška družba mora zagotoviti ustrezne
 pristojnosti in odgovornosti organizacijskih enot in funkcij borznoposredniške
 družbe za izvajanje, spremljanje, pregledovanje ter sprejemanje operativnih
-odločitev za namen uresničevanja procesa ICAAP, vključno z izračunavanjem
-interne ocene kapitalskih potreb ter interne ocene kapitala borznoposredniške
-družbe. Te pristojnosti in odgovornosti so ustrezne, če so določene v skladu z
-naslednjima zahtevama: 
+odločitev za namen uresničevanja procesa ICARAP, vključno z izračunavanjem
+interne ocene kapitalskih potreb, interne ocene likvidnostnih potreb, interne
+ocene kapitala ter interne ocene likvidnosti borznoposredniške družbe. Te
+pristojnosti in odgovornosti so ustrezne, če so določene v skladu z naslednjima
+zahtevama:
 1.     
 funkcije borznoposredniške družbe, ki razvijajo metodologije v zvezi z
-upravljanjem tveganj ter izračunavajo interno oceno kapitalskih potreb, morajo
-biti funkcionalno in organizacijsko ločene od poslovnih enot in drugih
-organizacijskih enot, ki prevzemajo tveganja, vključno z organom vodenja; 
+upravljanjem tveganj ter izračunavajo interno oceno kapitalskih potreb ter
+interno oceno likvidnostnih potreb, morajo biti funkcionalno in organizacijsko
+ločene od poslovnih enot in drugih organizacijskih enot, ki prevzemajo
+tveganja, vključno z organom vodenja;
 2.     
 poslovne enote in druge organizacijske enote, ki prevzemajo tveganja v
-procesu ICAAP, sodelujejo v procesu ICAAP pod vodstvom funkcije upravljanja
+procesu ICARAP, sodelujejo v procesu ICARAP pod vodstvom funkcije upravljanja
 tveganj, ki zagotavlja ustrezno uravnoteženost interesov med prevzemanjem
 tveganj in upravljanjem tveganj borznoposredniške družbe.
 (3) Borznoposredniška družba mora za namen uresničevanja
-procesa ICAAP zagotoviti zadostne kadrovske in finančne pogoje, vključno z
-uporabo ustrezne informacijske tehnologije. 
-(4) Borznoposredniška družba mora zagotoviti redno
-posodabljanje procesa ICAAP glede na spremembe v notranjem in zunanjem okolju
+procesa ICARAP zagotoviti zadostne kadrovske in finančne pogoje, vključno z
+uporabo ustrezne informacijske tehnologije.
+(4) Borznoposredniška družba mora zagotoviti redno posodabljanje
+procesa ICARAP glede na spremembe v notranjem in zunanjem okolju
 borznoposredniške družbe ali spremembe ciljev, strategij in politik iz prvega
-odstavka 3. člena tega sklepa. 
-4.2. Uporaba rezultatov procesa ICAAP pri določanju strategij
-tveganj in načrtovanju kapitala
+odstavka 3. člena tega sklepa.
+4.2. Uporaba rezultatov procesa ICARAP pri določanju strategij
+tveganj in načrtovanju kapitala in likvidnosti
 72. člen
-(vključevanje ugotovljenih tveganj v proces ICAAP)
-(1) Borznoposredniška družba mora zagotoviti, da proces ICAAP
-pokriva vsa ugotovljena pomembna tveganja borznoposredniške družbe, vključno s
-tveganji iz naslova novih produktov ter uporabe zunanjih izvajalcev, na
-konsolidirani, subkonsolidirani in posamični podlagi. 
+(vključevanje ugotovljenih tveganj v proces ICARAP)
+(1) Borznoposredniška družba mora zagotoviti, da proces
+ICARAP pokriva vsa ugotovljena pomembna tveganja borznoposredniške družbe,
+vključno s tveganji iz naslova novih produktov, uporabe zunanjih izvajalcev ter
+tveganja informacijske tehnologije, na konsolidirani, subkonsolidirani in
+posamični podlagi.
 (2) Ne glede na prvi odstavek tega člena lahko
 borznoposredniška družba za namen vključevanja določenih tveganj iz prvega
-odstavka tega člena v proces ICAAP, namesto uporabe kvantitativnih metodologij
-za izračun interne ocene kapitalskih potreb za ta tveganja, uporablja ukrepe
-njihovega upravljanja iz prvega odstavka 20. člena tega sklepa ali mehanizme
-notranjih kontrol iz prvega odstavka 27. člena tega sklepa. Borznoposredniška
-družba mora v tem primeru zagotoviti visoko kakovost uporabe navedenih ukrepov
-ter jih utemeljiti. 
+odstavka tega člena v proces ICARAP, namesto uporabe kvantitativnih metodologij
+za izračun interne ocene kapitalskih potreb in interne ocene likvidnostnih
+potreb za ta tveganja, uporablja ukrepe njihovega upravljanja iz prvega
+odstavka 20. člena tega sklepa ali mehanizme notranjih kontrol iz prvega
+odstavka 27. člena tega sklepa. Borznoposredniška družba mora v tem primeru
+zagotoviti visoko kakovost uporabe navedenih ukrepov ter jih utemeljiti.
 (3) Borznoposredniška družba mora vsaj enkrat letno ter ob
 vsaki pomembni spremembi izpostavljenosti tveganjem zagotoviti pregled
-ustreznosti in celovitosti vključevanja ugotovljenih tveganj v proces ICAAP. 
+ustreznosti in celovitosti vključevanja ugotovljenih tveganj v proces ICARAP.
 73. člen
 (merjenje tveganj)
 (1) Borznoposredniška družba mora pri merjenju tveganj, za
-namen izračuna interne ocene kapitalskih potreb, zagotoviti uporabo celovitih
-podatkov. Podatki so celoviti, če pokrivajo vsa tveganja, ki izhajajo iz
-poslovnega modela, dejavnosti in produktov borznoposredniške družbe na
-konsolidirani, subkonsolidirani in posamični podlagi. Borznoposredniška družba
-mora zagotavljati redno preverjanje celovitosti teh podatkov ter usklajevanje
-uporabljenih podatkov s podatki iz bilance stanja in drugimi ustreznimi
-podatki, ki izhajajo iz finančnih poročil borznoposredniške družbe. 
+namen izračuna interne ocene kapitalskih potreb in interne ocene likvidnostnih
+potreb, zagotoviti uporabo celovitih podatkov. Podatki so celoviti, če
+pokrivajo vsa tveganja, ki izhajajo iz poslovnega modela, dejavnosti in
+produktov borznoposredniške družbe na konsolidirani, subkonsolidirani in
+posamični podlagi. Borznoposredniška družba mora zagotavljati redno preverjanje
+celovitosti teh podatkov ter usklajevanje uporabljenih podatkov s podatki iz
+bilance stanja in drugimi ustreznimi podatki, ki izhajajo iz finančnih poročil
+borznoposredniške družbe.
 (2) Borznoposredniška družba mora pri merjenju tveganj iz
 prvega odstavka tega člena zagotoviti, da morebitno upoštevanje učinkov ukrepov
-upravljanja tveganj pri izračunu interne ocene kapitalskih potreb ne vpliva na
-zmanjšanje interne ocene kapitalskih potreb na način, ki bi lahko pomenil
-nesorazmerno zmanjšanje ocene internih kapitalskih potreb glede na dejanski
-učinek ukrepov upravljanja tveganj. 
+upravljanja tveganj pri izračunu interne ocene kapitalskih potreb in interne
+ocene likvidnostnih potreb ne vpliva na zmanjšanje interne ocene kapitalskih
+potreb in interne ocene likvidnostnih potreb na način, ki bi lahko pomenil
+nesorazmerno zmanjšanje interne ocene kapitalskih potreb in interne ocene
+likvidnostnih potreb glede na dejanski učinek ukrepov upravljanja tveganj.
 74. člen
-(interna ocena kapitalskih potreb)
+(interna ocena kapitalskih in likvidnostnih potreb)
 Borznoposredniška družba mora izračunati interno oceno
-kapitalskih potreb na podlagi lastne metodologije, ki vključuje združevanje
-internih ocen kapitalskih potreb za posamezna tveganja, ali drugo ustrezno
-metodologijo. 
-4.3. Interna ocena kapitala
+kapitalskih potreb in interno oceno likvidnostnih potreb na podlagi lastne
+metodologije, ki vključuje združevanje internih ocen kapitalskih oziroma
+likvidnostnih potreb za posamezna tveganja, ali drugo ustrezno metodologijo.
+4.3. Interna ocena kapitala in likvidnosti
 75. člen
 (cilji za ohranjanje sposobnosti za prevzemanje tveganj)
 (1) Borznoposredniška družba mora, na podlagi ustreznih
 ciljev za ohranjanje sposobnosti za prevzemanje tveganj, zagotoviti opredelitev
-ustreznih postavk kapitala, ki jih za namen procesa ICAAP vključuje v interno
-oceno kapitala. Cilji za ohranjanje sposobnosti za prevzemanje tveganj so
-ustrezni, če vključujejo pristop borznoposredniške družbe k zagotavljanju
-ustreznega kapitala najmanj po scenariju, ki upošteva pogoje: 
+ustreznih postavk kapitala in likvidnosti, ki jih za namen procesa ICARAP
+vključuje v interno oceno kapitala ter v interno oceno likvidnosti. Cilji za
+ohranjanje sposobnosti za prevzemanje tveganj so ustrezni, če vključujejo
+pristop borznoposredniške družbe k zagotavljanju ustreznega kapitala oziroma
+likvidnosti najmanj po scenariju, ki upošteva pogoje:
 1.     
-rednega poslovanja borznoposredniške družbe; 
+rednega poslovanja borznoposredniške družbe;
 2.     
-izrednih (vendar verjetnih) razmer poslovanja borznoposredniške družbe. 
+izrednih (vendar verjetnih) razmer poslovanja borznoposredniške družbe.
 (2) Borznoposredniška družba mora zagotoviti redno (najmanj
-enkrat letno) ocenjevanje ustreznosti postavk kapitala iz prvega odstavka tega
-člena, vključno z upoštevanjem morebitnih načrtovanih sprememb glede teh
-sestavin. 
+enkrat letno) ocenjevanje ustreznosti postavk kapitala in likvidnosti iz prvega
+odstavka tega člena, vključno z upoštevanjem morebitnih načrtovanih sprememb
+glede teh sestavin.
 76. člen
-(načrtovanje kapitala)
+(načrtovanje kapitala in likvidnosti)
 Borznoposredniška družba mora, z namenom stabilnega
-zagotavljanja ustreznega kapitala, zagotoviti ustrezno načrtovanje kapitala
-najmanj za triletno obdobje, ki upošteva pristop borznoposredniške družbe do
-razdelitve morebitnih dividend in možnost dokapitalizacije. Načrtovanje kapitala
-mora temeljiti na realnih predpostavkah, ob upoštevanju poslovne strategije in
-strategije tveganj iz prvega odstavka 3. člena tega sklepa ter morebitnih
-omejitev, ki izhajajo iz predpisov ali standardov ter zahtev Agencije in drugih
-nadzornih organov. 
+zagotavljanja ustreznega kapitala in likvidnosti, zagotoviti ustrezno
+načrtovanje kapitala in likvidnosti najmanj za triletno obdobje, ki upošteva
+pristop borznoposredniške družbe do razdelitve morebitnih dividend, možnost
+dokapitalizacije in načrt financiranja ter zagotoviti ustrezno likvidnost
+znotraj dneva za pokrivanje potreb, ki izhajajo iz dnevnih operacij
+borznoposredniške družbe. Načrtovanje kapitala in likvidnosti mora temeljiti na
+realnih predpostavkah, ob upoštevanju poslovne strategije in strategije tveganj
+iz prvega odstavka 3. člena tega sklepa ter morebitnih omejitev, ki izhajajo iz
+predpisov ali standardov ter zahtev Agencije in drugih nadzornih organov.
 77. člen
 (analiza sposobnosti prevzemanja tveganj)
-(1) Borznoposredniška družba mora zagotoviti, da je interna
-ocena kapitala vedno usklajena z njeno sposobnostjo prevzemanja tveganj. V ta
-namen mora borznoposredniška družba zagotoviti analizo sposobnosti prevzemanja
-tveganj borznoposredniške družbe, vključno na podlagi scenarijev ohranjanja
-sposobnosti prevzemanja tveganj iz prvega odstavka 75. člena tega sklepa. 
+(1) Borznoposredniška družba mora zagotoviti, da sta interna
+ocena kapitala in interna ocena likvidnosti vedno usklajena z njeno sposobnostjo
+prevzemanja tveganj. V ta namen mora borznoposredniška družba zagotoviti
+analizo sposobnosti prevzemanja tveganj borznoposredniške družbe, vključno na
+podlagi scenarijev ohranjanja sposobnosti prevzemanja tveganj iz prvega
+odstavka 75. člena tega sklepa.
 (2) Scenarij ohranjanja sposobnosti za prevzemanje tveganj v
 pogojih rednega poslovanja borznoposredniške družbe iz 1. točke prvega odstavka
 75. člena tega sklepa mora upoštevati ustrezno zaščito interesov lastnikov,
 upravljalnega organa ter drugih zaposlenih borznoposredniške družbe. Zaščita
-teh interesov je ustrezna, če dostopnost do kapitala omogoča zaščito pred
-dogodki, ki bi lahko ogrozili redno poslovanje borznoposredniške družbe.
-Borznoposredniška družba mora za namen tega scenarija ves čas zagotavljati
-najmanj interno oceno kapitalskih potreb, ki je na ravni kapitalskih zahtev,
-izračunanih v skladu s pravili Uredbe (EU) 2019/2033. 
+teh interesov je ustrezna, če dostopnost do kapitala in likvidnosti omogoča
+zaščito pred dogodki, ki bi lahko ogrozili redno poslovanje borznoposredniške
+družbe. Borznoposredniška družba mora za namen tega scenarija ves čas
+zagotavljati najmanj interno oceno kapitalskih potreb oziroma interno oceno
+likvidnostnih potreb, ki je na ravni kapitalskih oziroma likvidnostnih zahtev,
+izračunanih v skladu s pravili Uredbe (EU) 2019/2033.
 (3) Scenarij ohranjanja sposobnosti za prevzemanje tveganj ob
 izrednih, vendar verjetnih razmerah poslovanja borznoposredniške družbe iz 2.
 točke prvega odstavka 75. člena tega sklepa mora upoštevati ustrezno zaščito
-interesov vlagateljev borznoposredniške družbe. Zaščita teh interesov je
-ustrezna, če kapital borznoposredniške družbe omogoča poplačilo upnikov
-borznoposredniške družbe. 
+interesov vlagateljev borznoposredniške družbe. Zaščita teh interesov je ustrezna,
+če kapital in likvidnost borznoposredniške družbe omogočata poplačilo upnikov
+borznoposredniške družbe.
 (4) Borznoposredniška družba lahko opredeli tudi scenarije
 ohranjanja sposobnosti za prevzemanje tveganj za namen pokrivanja drugih, sicer
-manj pomembnih tveganj, ki pa se pogosto realizirajo. 
+manj pomembnih tveganj, ki pa se pogosto realizirajo.
 (5) Borznoposredniška družba mora spremljati upoštevanje in
-morebitne kršitve sposobnosti za prevzemanje tveganj po vzpostavljenih scenarijih
-ohranjanja sposobnosti za prevzemanje tveganj. 
+morebitne kršitve sposobnosti za prevzemanje tveganj po vzpostavljenih
+scenarijih ohranjanja sposobnosti za prevzemanje tveganj.
 78. člen
 (uporaba stresnih testov in analiz občutljivosti)
 (1) Borznoposredniška družba mora, za namen izračuna interne
-ocene kapitalskih potreb, najmanj enkrat letno izvajati stresne teste ali
-analize občutljivosti iz 19. člena tega sklepa po stresnih scenarijih, ki
-predpostavljajo spremembe tržnih pogojev, ob upoštevanju vseh relevantnih oseb
-v skupini. Za ugotavljanje sprememb v tržnih pogojih, ki lahko neugodno
-vplivajo na njeno prihodnjo kapitalsko ustreznost, morajo stresni testi ali
-analize občutljivosti upoštevati tudi stanje splošnega poslovnega cikla,
-katerega poslabšanje lahko vpliva na obseg opravljenih poslov, višino
-potrebnega kapitala za morebitno prestrukturiranje poslovanja ter nezmožnost
-vstopa na nove trge in ponudbe novih produktov in/ali storitev. 
+ocene kapitalskih potreb in interne ocene likvidnostnih potreb, najmanj enkrat
+letno izvajati stresne teste ali analize občutljivosti iz 19. člena tega sklepa
+po stresnih scenarijih, ki predpostavljajo spremembe tržnih pogojev, ob
+upoštevanju vseh relevantnih oseb v skupini. Za ugotavljanje sprememb v tržnih
+pogojih, ki lahko neugodno vplivajo na njeno prihodnjo kapitalsko ustreznost
+oziroma likvidnost, morajo stresni testi ali analize občutljivosti upoštevati
+tudi stanje splošnega poslovnega cikla, katerega poslabšanje lahko vpliva na
+obseg opravljenih poslov, višino potrebnega kapitala oziroma likvidnosti za
+morebitno prestrukturiranje poslovanja ter nezmožnost vstopa na nove trge in
+ponudbe novih produktov in/ali storitev.
 (2) Borznoposredniška družba mora zagotoviti upoštevanje
 rezultatov stresnih testov ali analiz občutljivosti iz prvega odstavka tega
-člena v procesu načrtovanja kapitala iz 76. člena tega sklepa ter določanju
-ukrepov v zvezi s strategijami in politikami tveganj iz 4. in 5. člena tega
-sklepa, vključno glede profila tveganosti in načrtov neprekinjenega poslovanja.
+člena v procesu načrtovanja kapitala in likvidnosti iz 76. člena tega sklepa
+ter določanju ukrepov v zvezi s strategijami in politikami tveganj iz 4. in 5.
+člena tega sklepa, vključno glede profila tveganosti in načrtov neprekinjenega
+poslovanja.
 79. člen
-(proces razporeditve kapitala)
+(proces razporeditve kapitala in likvidnosti)
 (1) Borznoposredniška družba, na podlagi upoštevanja interne
-ocene kapitalskih potreb iz 74. člena tega sklepa, ter analize sposobnosti za
-prevzemanje tveganj iz 77. člena tega sklepa, zagotavlja ustrezen proces
-razporeditve kapitala med poslovnimi področji in osebami v skupini. Proces
-razporeditve kapitala je ustrezen, če povezuje poslovno strategijo
-borznoposredniške družbe s strategijo tveganj borznoposredniške družbe. 
+ocene kapitalskih in likvidnostnih potreb iz 74. člena tega sklepa ter analize
+sposobnosti za prevzemanje tveganj iz 77. člena tega sklepa, zagotavlja
+ustrezen proces razporeditve kapitala in likvidnosti med poslovnimi področji in
+osebami v skupini. Proces razporeditve kapitala in likvidnosti je ustrezen, če
+povezuje poslovno strategijo borznoposredniške družbe s strategijo tveganj
+borznoposredniške družbe.
 (2) Borznoposredniška družba mora zagotoviti ocenjevanje
-ustreznosti kapitala in njegove razporeditve vsaj enkrat na leto ter ob vsaki
-pomembni spremembi izpostavljenosti tveganjem. 
+ustreznosti kapitala in likvidnosti ter njune razporeditve vsaj enkrat na leto
+ter ob vsaki pomembni spremembi izpostavljenosti tveganjem.
 5. DOKUMENTACIJA
 80. člen
 (splošno)
@@ -1989,8 +2036,10 @@ posodobitev npr. strategije, politike, kodekse, navodila …);
 ustrezne dokumente v zvezi z dejavnostmi organizacijskih enot (npr.
 sprejete odločitve, analize, ukrepe, poslovne rezultate); 
 3.     
-podroben opis procesa ICAAP in njegovih rezultatov (npr. obseg uporabe,
-cilji, metodologije, ocene, postopke, izračune, ukrepe); 
+podroben opis procesa ICARAP in njegovih rezultatov, ločeno za proces
+ICAAP in ILAAP (npr. obseg uporabe, cilji, metodologije, ocene, postopki,
+izračuni, ukrepi). Borznoposredniška družba lahko opis procesa ICARAP (ICAAP in
+ILAAP) združi v enoten dokument, ob upoštevanju principa proporcionalnosti;
 4.     
 ugotovitve in ukrepe, ki izhajajo iz uresničevanja procesa notranjih
 kontrol, vključno s poročili funkcij notranjih kontrol; 
@@ -2030,9 +2079,24 @@ od posredovanega obvestila organu vodenja oziroma organu nadzora.
 ali razrešitvi vodje službe notranje revizije, vodje funkcije upravljanja
 tveganj in vodje funkcije skladnosti poslovanja ter predloži vso relevantno
 dokumentacijo, najkasneje v petih delovnih dneh po njegovem imenovanju ali razrešitvi.
-7. PREHODNE IN KONČNE DOLOČBE
+
+Priloga
+1: Kreditno tveganje
+Priloga
+2: Likvidnostno tveganje
+Priloga
+3: Tveganje neprekinjenega poslovanja
+Priloga
+4: Tveganja za stranke
+
+Sklep o ureditvi notranjega upravljanja,
+upravljalnem organu in procesu ocenjevanja ustreznega notranjega kapitala za
+borznoposredniške družbe (Uradni list RS, št. 29/22) vsebuje naslednje prehodne in
+končne določbe:
+»7. PREHODNE IN KONČNE DOLOČBE
 82. člen
-(uporaba dodatnih zahtev glede obravnave tveganj)
+(uporaba dodatnih zahtev
+glede obravnave tveganj)
 (1) Borznoposredniška družba mora dodatne zahteve glede
 obravnave likvidnostnega tveganja iz 2. točke tretjega odstavka 16. člena tega
 sklepa in kot podrobneje obravnavano v Prilogi 2 tega sklepa izpolnjevati do
@@ -2045,9 +2109,9 @@ smernic, kot ga določi Agencija.
 (2) Borznoposredniška družba mora dodatne zahteve glede
 obravnave tveganja neprekinjenega poslovanja iz 3. točke tretjega odstavka 16.
 člena tega sklepa in kot podrobneje obravnavano v Prilogi 3 tega sklepa
-izpolnjevati do uveljavitve smernic Evropskega bančnega organa, izdanih na
-podlagi četrtega odstavka 26. člena Direktive 2019/2034/EU, in sicer glede na
-obseg spoštovanja teh smernic, kot ga določi Agencija.
+izpolnjevati do uveljavitve smernic Evropskega bančnega organa, izdanih na podlagi
+četrtega odstavka 26. člena Direktive 2019/2034/EU, in sicer glede na obseg
+spoštovanja teh smernic, kot ga določi Agencija.
 83. člen
 (prenehanje uporabe)
 Z uveljavitvijo tega sklepa se preneha uporabljati Sklep o
@@ -2057,20 +2121,14 @@ ustreznega notranjega kapitala za borznoposredniške družbe (Uradni list RS, š
 84. člen
 (uveljavitev sklepa)
 Ta sklep začne veljati petnajsti dan po objavi v Uradnem
-listu Republike Slovenije. 
-Št. 00700-5/2022-5
-Ljubljana, dne 24. februarja 2022
-EVA 2022-1611-0018
-Predsednica Sveta
-Agencije za trg vrednostnih
-papirjev
-Anka Čadež
+listu Republike Slovenije.«.
 
-Priloga
-1: Kreditno tveganje
-Priloga
-2: Likvidnostno tveganje
-Priloga
-3: Tveganje neprekinjenega poslovanja
-Priloga
-4: Tveganja za stranke
+Sklep o spremembah in dopolnitvah Sklepa o
+ureditvi notranjega upravljanja, upravljalnem organu in procesu ocenjevanja
+ustreznega notranjega kapitala za borznoposredniške družbe (Uradni list RS, št.
+110/22) vsebuje naslednjo končno določbo:
+»6. člen
+(1) Borznoposredniška družba se mora z vsebino tega sklepa
+uskladiti do 31. 12. 2022.
+(2) Ta sklep začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.

@@ -51,8 +51,8 @@ stran opredeliti v 60. dneh po prejemu.
 kolektivne pogodbe oziroma za spremembe in dopolnitve obstoječe kolektivne
 pogodbe se začnejo, ko ena stran predloži drugi strani predlog nove kolektivne
 pogodbe oziroma predlog sprememb in dopolnitev obstoječe kolektivne pogodbe.
-(2) Šteje se, da pogajanja niso
-uspela, če druga stran pisno izjavi, da zavrača pogajanja.
+(2) Šteje se, da pogajanja niso uspela,
+če druga stran pisno izjavi, da zavrača pogajanja.
 7. člen
 (Reševanje nesoglasij oziroma sporov)
 Nesoglasja oziroma spore med stranema
@@ -62,10 +62,10 @@ Kolektivne pogodbe za javni sektor (Uradni list RS, št. 57/08).
 8. člen
 (Komisija za razlago kolektivne pogodbe)
 (1) Pogodbeni strani sporazumno
-imenujeta petčlansko komisijo za razlago kolektivne pogodbe, pri čemer vsaka
-stran imenuje dva člana komisije, s soglasjem pa imenujejo predsednika
-komisije. Komisija se konstituira najkasneje v treh mesecih po začetku
-veljavnosti kolektivne pogodbe.
+imenujeta petčlansko komisijo za razlago kolektivne pogodbe, pri čemer vsaka stran
+imenuje dva člana komisije, s soglasjem pa imenujejo predsednika komisije.
+Komisija se konstituira najkasneje v treh mesecih po začetku veljavnosti
+kolektivne pogodbe.
 (2) Do konstituiranja komisije za
 razlago kolektivne pogodbe opravlja delo komisije pogajalska komisija za pogajanja
 o tej pogodbi.
@@ -128,521 +128,461 @@ TR
 
 NAZIV
 
-Plačni razred brez napr.
-   MIN
+Plačni razred brez napr. MIN
 
-Plačni razred z napr.
-   MAX
+Plačni razred z napr. MAX
 
 
 1
 
 I015003
 
-GASILEC
+GASILEC 
 
 V
 
 0
 
- 
+25
 
-24
-
-34
+35
 
 
 2
 
 I015004
 
-GASILEC DISPEČER / SPECIALIST
+GASILEC DISPEČER / SPECIALIST 
 
 V
 
 0
 
- 
+27
 
-26
-
-36
+37
 
 
 3
 
 I015005
 
-GASILEC I
+GASILEC I 
 
 V
 
 0
-
- 
-
-25
-
-35
-
-
-4
-
-I015006
-
-GASILSKI INŠTRUKTOR
-
-V
-
-0
-
- 
 
 26
 
 36
 
 
-5
+4
 
-I015009
+I015006
 
-KANDIDAT ZA GASILCA
+GASILSKI INŠTRUKTOR 
 
 V
 
 0
 
- 
+27
 
-20
+37
 
-30
+
+5
+
+I015009
+
+KANDIDAT ZA GASILCA 
+
+V
+
+0
+
+21
+
+31
 
 
 6
 
 I015061
 
-VODJA GASILSKE SKUPINE
+VODJA GASILSKE SKUPINE 
 
 V
 
 0
 
- 
+28
 
-27
-
-37
+38
 
 
 7
 
 I016004
 
-GASILSKI INŠTRUKTOR II
+GASILSKI INŠTRUKTOR II 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 8
 
 I016014
 
-NAMESTNIK POVELJNIKA GASILSKEGA PLOVILA
+NAMESTNIK POVELJNIKA GASILSKEGA PLOVILA 
 
 VI
 
 0
 
- 
+28
 
-27
-
-37
+38
 
 
 9
 
 I016015
 
-NAMESTNIK VODJE GASILSKE IZMENE II
+NAMESTNIK VODJE GASILSKE IZMENE II 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 10
 
 I016022
 
-POVELJNIK GASILSKEGA PLOVILA
+POVELJNIK GASILSKEGA PLOVILA 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 11
 
 I016049
 
-VODJA GASILSKE IZMENE II
+VODJA GASILSKE IZMENE II 
 
 VI
 
 0
 
- 
+31
 
-30
-
-40
+41
 
 
 12
 
 I016050
 
-VODJA GASILSKE PREVENTIVE II
+VODJA GASILSKE PREVENTIVE II 
 
 VI
 
 0
 
- 
+30
 
-29
-
-39
+40
 
 
 13
 
 I016051
 
-VODJA GASILSKE TAKTIČNE ENOTE
+VODJA GASILSKE TAKTIČNE ENOTE 
 
 VI
 
 0
 
- 
+30
 
-29
-
-39
+40
 
 
 14
 
 I016052
 
-VODJA GASILSKE TEHNIKE IN SERVISA
+VODJA GASILSKE TEHNIKE IN SERVISA 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 15
 
 I016053
 
-VODJA GASILSKE VZDRŽEVALNE SLUŽBE II
+VODJA GASILSKE VZDRŽEVALNE SLUŽBE II 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 16
 
 I016054
 
-VODJA GASILSKEGA ODDELKA
+VODJA GASILSKEGA ODDELKA 
 
 VI
 
 0
 
- 
+29
 
-28
-
-38
+39
 
 
 17
 
 I017004
 
-GASILSKI INŠTRUKTOR I
+GASILSKI INŠTRUKTOR I 
 
 VII/1
 
 0
 
- 
+35
 
-34
-
-44
+45
 
 
 18
 
 I017038
 
-NAMESTNIK POVELJNIKA GASILSKE OPERATIVE
+NAMESTNIK POVELJNIKA GASILSKE OPERATIVE 
 
 VII/2
 
 0
 
- 
+40
 
-39
-
-49
+50
 
 
 19
 
 I017039
 
-NAMESTNIK VODJE GASILSKE IZMENE
+NAMESTNIK VODJE GASILSKE IZMENE 
 
 VII/1
 
 0
 
- 
+33
 
-32
-
-42
+43
 
 
 20
 
 I017057
 
-POVELJNIK GASILSKE OPERATIVE
+POVELJNIK GASILSKE OPERATIVE 
 
 VII/2
 
 0
 
- 
+42
 
-41
-
-51
+52
 
 
 21
 
 I017058
 
-POVELJNIK GASILSKE OPERATIVNE ENOTE
+POVELJNIK GASILSKE OPERATIVNE ENOTE 
 
 VII/1
 
 0
 
- 
+38
 
-37
-
-47
+48
 
 
 22
 
 I017089
 
-STAREJŠI POVELJNIK GASILSKE OPERATIVE
+STAREJŠI POVELJNIK GASILSKE OPERATIVE 
 
 VII/2
 
 0
 
- 
+44
 
-43
-
-53
+54
 
 
 23
 
 I017117
 
-SVETOVALEC POVELJNIKA - DIREKTORJA ZA GASILSKO TEHNIKO
+SVETOVALEC POVELJNIKA – DIREKTORJA ZA GASILSKO
+  TEHNIKO 
 
 VII/2
 
 0
 
- 
+36
 
-35
-
-45
+46
 
 
 24
 
 I017118
 
-SVETOVALEC POVELJNIKA - DIREKTORJA ZA POŽARNO VARNOST
+SVETOVALEC POVELJNIKA – DIREKTORJA ZA POŽARNO
+  VARNOST 
 
 VII/2
 
 0
 
- 
+36
 
-35
-
-45
+46
 
 
 25
 
 I017123
 
-KOORDINATOR ZA GASILSKO PREVENTIVO
+KOORDINATOR ZA GASILSKO PREVENTIVO 
 
 VII/1
 
 0
-
- 
-
-31
-
-41
-
-
-26
-
-I017127
-
-KOORDINATOR ZA USPOSABLJANJE IN NAČRTOVANJE
-
-VII/1
-
-0
-
- 
-
-31
-
-41
-
-
-27
-
-I017165
-
-VODJA GASILSKE IZMENE I
-
-VII/1
-
-0
-
- 
-
-34
-
-44
-
-
-28
-
-I017170
-
-VODJA GASILSKE PREVENTIVE I
-
-VII/1
-
-0
-
- 
 
 32
 
 42
 
 
-29
+26
 
-I017171
+I017127
 
-VODJA GASILSKE TEHNIKE IN SERVISA
+KOORDINATOR ZA USPOSABLJANJE IN NAČRTOVANJE 
 
 VII/1
 
 0
 
- 
+32
 
-31
+42
 
-41
+
+27
+
+I017165
+
+VODJA GASILSKE IZMENE I 
+
+VII/1
+
+0
+
+35
+
+45
+
+
+28
+
+I017170
+
+VODJA GASILSKE PREVENTIVE I 
+
+VII/1
+
+0
+
+33
+
+43
+
+
+29
+
+I017171
+
+VODJA GASILSKE TEHNIKE IN SERVISA 
+
+VII/1
+
+0
+
+32
+
+42
 
 
 30
 
 I017172
 
-VODJA GASILSKE VZDRŽEVALNE SLUŽBE I
+VODJA GASILSKE VZDRŽEVALNE SLUŽBE I 
 
 VII/1
 
 0
 
- 
+32
 
-31
-
-41
+42
 
 
 (2) Prevedba delovnih mest plačne
@@ -656,7 +596,7 @@ kategorije mora poklicni gasilec, ki vodi operativno delo v poklicni gasilski
 enoti ali te naloge opravlja kot namestnik vodje oziroma poveljnika, imeti
 najmanj višjo strokovno izobrazbo, opravljeno dodatno usposabljanje za to delo,
 pet let delovnih izkušenj pri opravljanju operativnih nalog gasilstva in
-opravljen predpisan strokovni izpit, in sicer:    
+opravljen predpisan strokovni izpit, in sicer:
 -       
 namestnik poveljnika gasilskega plovila,
 -       
@@ -712,357 +652,315 @@ Plačni razred z napr.
 
 J015013
 
-KNJIGOVODJA V
+KNJIGOVODJA V 
 
 V
 
 0
 
- 
+21
 
-20
-
-30
+31
 
 
 2
 
 J016006
 
-GLAVNI KNJIGOVODJA VI
+GLAVNI KNJIGOVODJA VI 
 
 VI
 
 0
 
- 
+26
 
-25
-
-35
+36
 
 
 3
 
 J016007
 
-GLAVNI RAČUNOVODJA VI
+GLAVNI RAČUNOVODJA VI 
 
 VI
 
 0
 
- 
+28
 
-27
-
-37
+38
 
 
 4
 
 J016014
 
-KNJIGOVODJA VI
+KNJIGOVODJA VI 
 
 VI
 
 0
-
- 
-
-23
-
-33
-
-
-5
-
-J016028
-
-REFERENT VI
-
-VI
-
-0
-
- 
-
-23
-
-33
-
-
-6
-
-J016030
-
-SAMOSTOJNI STROKOVNI SODELAVEC VI
-
-VI
-
-0
-
- 
 
 24
 
 34
 
 
+5
+
+J016028
+
+REFERENT VI 
+
+VI
+
+0
+
+24
+
+34
+
+
+6
+
+J016030
+
+SAMOSTOJNI STROKOVNI SODELAVEC VI 
+
+VI
+
+0
+
+25
+
+35
+
+
 7
 
 J017020
 
-GLAVNI RAČUNOVODJA VII/1
+GLAVNI RAČUNOVODJA VII/1 
 
 VII/1
 
 0
 
- 
+32
 
-31
-
-41
+42
 
 
 8
 
 J017073
 
-PRAVNIK VII/1
+PRAVNIK VII/1 
 
 VII/1
 
 0
 
- 
+31
 
-30
-
-40
+41
 
 
 9
 
 J017110
 
-SAMOSTOJNI SVETOVALEC VII/2
+SAMOSTOJNI SVETOVALEC VII/2 
 
 VII/2
 
 0
 
- 
+37
 
-36
-
-46
+47
 
 
 10
 
 J017141
 
-STROKOVNI SODELAVEC ZA UPRAVNO PRAVNE ZADEVE VII/1
+STROKOVNI SODELAVEC ZA UPRAVNO PRAVNE ZADEVE VII/1 
 
 VII/1
 
 0
 
- 
+31
 
-30
-
-40
+41
 
 
 11
 
 J025011
 
-POSLOVNI SEKRETAR V (II)
+POSLOVNI SEKRETAR V (II) 
 
 V
 
 0
-
- 
-
-20
-
-30
-
-
-12
-
-J025019
-
-TAJNICA V
-
-V
-
-0
-
- 
-
-18
-
-28
-
-
-13
-
-J026004
-
-POSLOVNI SEKRETAR VI
-
-VI
-
-0
-
- 
-
-23
-
-33
-
-
-14
-
-J032018
-
-SERVIRKA - ČISTILKA II
-
-II
-
-0
-
- 
-
-11
-
-21
-
-
-15
-
-J032019
-
-SERVIRKA II
-
-II
-
-0
-
- 
-
-11
-
-21
-
-
-16
-
-J034030
-
-KUHAR IV
-
-IV
-
-0
-
- 
-
-17
-
-27
-
-
-17
-
-J034059
-
-SERVISER IV
-
-IV
-
-0
-
- 
-
-17
-
-27
-
-
-18
-
-J035017
-
-GLAVNI VZDRŽEVALEC V
-
-V
-
-0
-
- 
 
 21
 
 31
 
 
-19
+12
 
-J035035
+J025019
 
-KUHAR V
+TAJNICA V 
 
 V
 
 0
 
- 
-
 19
 
 29
+
+
+13
+
+J026004
+
+POSLOVNI SEKRETAR VI 
+
+VI
+
+0
+
+24
+
+34
+
+
+14
+
+J032018
+
+SERVIRKA – ČISTILKA II 
+
+II
+
+0
+
+12
+
+22
+
+
+15
+
+J032019
+
+SERVIRKA II 
+
+II
+
+0
+
+12
+
+22
+
+
+16
+
+J034030
+
+KUHAR IV 
+
+IV
+
+0
+
+18
+
+28
+
+
+17
+
+J034059
+
+SERVISER IV 
+
+IV
+
+0
+
+18
+
+28
+
+
+18
+
+J035017
+
+GLAVNI VZDRŽEVALEC V 
+
+V
+
+0
+
+22
+
+32
+
+
+19
+
+J035035
+
+KUHAR V 
+
+V
+
+0
+
+20
+
+30
 
 
 20
 
 J035036
 
-KUHARSKI TEHNIK V
+KUHARSKI TEHNIK V 
 
 V
 
 0
 
- 
+20
 
-19
-
-29
+30
 
 
 21
 
 J035045
 
-OPERATER V
+OPERATER V 
 
 V
 
 0
 
- 
+21
 
-20
-
-30
+31
 
 
 (2) Prevedba delovnih mest plačne
@@ -1153,9 +1051,9 @@ podskupini oziroma se na njem opravljajo istovrstne oziroma sorodne naloge, pod
 pogojem, da se premestijo oziroma sklenejo pogodbo o zaposlitvi za novo delovno
 mesto najpozneje v 30 dneh od uveljavitve akta o notranji organizaciji in
 sistemizaciji delovnih mest.
-Pravica do izplačila višje plače iz
-prejšnjega odstavka ne velja za javne uslužbence, ki se prvič zaposlijo v
-javnem sektorju na novem delovnem mestu iz tega aneksa.
+Pravica do izplačila višje plače iz prejšnjega
+odstavka ne velja za javne uslužbence, ki se prvič zaposlijo v javnem sektorju
+na novem delovnem mestu iz tega aneksa.
 6. člen
 (začetek
 veljavnosti)
@@ -1196,3 +1094,24 @@ povišanja.
 (veljavnost)
 Ta aneks začne veljati naslednji dan po
 objavi v Uradnem listu Republike Slovenije.«.
+
+Aneks
+št. 4 h Kolektivni pogodbi za dejavnost poklicnega gasilstva – tarifni del
+(Uradni list RS, št. 136/22)
+določa:
+»1. člen
+(namen
+sklepanja)
+Ta aneks se sklepa zaradi sprememb
+uvrstitev delovnih mest v skladu z 2. točko Dogovora o ukrepih na področju plač
+in drugih stroškov dela v javnem sektorju za leti 2022 in 2023.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+(začetek
+veljavnosti in uporabe)
+Ta aneks začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.
+Uvrstitve delovnih mest v plačne razrede iz
+tega aneksa se začnejo uporabljati 1. aprila
+2023.«.

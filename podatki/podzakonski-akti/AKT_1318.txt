@@ -1,0 +1,567 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+Ta akt določa vsebine in način izkazovanja informacij na
+računu za električno energijo ter zagotavljanje drugih informacij in pojasnil v
+zvezi z računom končnim odjemalcem in velja za dobavitelje električne energije,
+elektrooperaterje in druge izvajalce elektroenergetskih storitev.
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tem aktu, imajo enak pomen kot izrazi,
+opredeljeni v 4. členu Zakona o oskrbi z električno energijo (Uradni list RS,
+št. 172/21; v nadaljnjem besedilu: ZOEE), poleg tega pa posamezni izrazi
+pomenijo:
+
+-       
+  drugi izvajalec elektroenergetskih storitev:
+
+pomeni pravno ali fizično osebo, ki opravlja vsaj eno od
+  dejavnosti proizvodnje, trgovanja, agregiranja, prilagajanja odjema ali
+  shranjevanja energije;
+
+
+-       
+  končni obračun:
+
+je obračun električne energije na podlagi dejanske
+  porabe, ki se izda vsaj enkrat letno v primerih izstavljanja računov na
+  podlagi ocenjene porabe;
+
+
+-       
+  merilna naprava:
+
+je števec oziroma druga ustrezna naprava, skladna z
+  zahtevami zakonodaje v zvezi z obračunavanjem storitev iz tega akta;
+
+
+-       
+  pribitek:
+
+pomeni znesek na računu, ki se določi v obliki ene ali
+  več obračunskih postavk v pogodbi z dinamičnimi cenami električne energije in
+  dobavitelju omogoča pokrivanje stroškov in odhodkov poslovanja v zvezi z
+  izvajanjem storitve (npr. stroški povezani z napovedovanjem porabe oziroma
+  proizvodnje in upravljanjem z energijo, stroški odstopanj dejanske od
+  napovedane porabe kupca, stroški cenovnih zamejitev, stroške obdelave
+  merilnih podatkov in upravljanja merilnega mesta) in dobiček. V pribitku niso
+  zajeti fiksni stroški poslovanja v zvezi s pogodbo o dobavi, ki morajo biti
+  prikazani ločeno.
+
+3. člen
+(zavezanci za izdajo računa)
+(1) Račun za omrežnino za uporabo elektroenergetskega sistema
+(v nadaljnjem besedilu: omrežnina) izda elektrooperater. Račun za dobavljeno
+električno energijo izda dobavitelj. Račun za agregiranje oziroma druge
+elektroenergetske storitve izda drugi izvajalec elektroenergetskih storitev.
+(2) Dobavitelj lahko pod pogoji iz ZOEE in sistemskih
+obratovalnih navodil končnim odjemalcem izda enotni račun za dobavljeno
+električno energijo in omrežnino.
+4. člen
+(raven obračuna storitev in vključitev informacij na račun)
+Vsaka storitev iz tega akta se obračuna na ravni dodeljene
+obračunske merilne točke. Če je katerakoli obračunska merilna točka povezana z
+meritvami na določenem merilnem mestu, ki se nahaja na prevzemno-predajnem
+mestu ali za njim, mora račun vsebovati tudi informacijo o merilnem mestu in
+števcu, na katerega se navezujejo količine, dodeljene posamezni obračunski merilni
+točki.
+II. INFORMACIJE NA RAČUNU
+5. člen
+(račun za omrežnino)
+(1) Račun za omrežnino mora vsebovati vsaj naslednje podatke
+in informacije, ki morajo biti vidno prikazani na računu in jasno ločeni od
+drugih delov računa, in sicer:
+1.     
+osnovni podatki:
+a)   
+znesek za plačilo in njegova razčlenitev;
+b)   
+datum zapadlosti plačila;
+c)   
+podatki o elektrooperaterju in v primeru, da je izdajatelj računa
+pooblaščeni izvajalec nalog distribucijskega operaterja, tudi njegovi podatki:
+naziv, naslov, kontaktni podatki ter elektronski naslov in telefonska številka
+za pomoč uporabnikom;
+d)   
+podatki o končnem odjemalcu: ime in priimek oziroma naziv podjetja,
+naslov oziroma sedež podjetja, naslov za pošiljanje računa;
+e)   
+SN izvod, na katerega je priključeno merilno mesto odjemalca;
+f)    
+priključna moč, uporabniška skupina in podatki o omejevalcu toka za
+končne odjemalce do vključno 43 kW priključne moči;
+g)   
+osnovni podatki o posameznem merilnem mestu odjemalca ter pripadajočih
+merilnih napravah glede na obračunske merilne točke:
+-   
+številka merilnega mesta, določena s strani elektrooperaterja, oziroma
+GS1 GSRN oznaka merilnega mesta;
+-   
+številka merilne naprave;
+h)   
+datum izteka pogodbe o uporabi sistema, če je ta sklenjena za določen
+čas;
+2.     
+obračunski podatki:
+a)   
+identifikator posamezne merilne točke GS1 GSRN;
+b)   
+začetek in konec obračunskega obdobja, za katero se izdaja račun;
+c)   
+prevzeta električna energija v obračunskem obdobju v posameznem časovnem
+bloku in tarifna postavka za energijo;
+d)   
+dogovorjena obračunska moč za posamezen časovni blok oziroma obračunska
+moč za uporabnike sistema, ki se jim ne evidentirajo 15-minutne meritve za
+prevzeto energijo in tarifna postavka za moč;
+e)   
+presežna obračunska moč v časovnem bloku, faktor utežitve presežne moči
+in tarifna postavka za moč ali informacije o prekoračitvah obračunske moči in
+stroških, ki bi uporabniku sistema nastali, če bi se omrežnina za presežno moč
+zaračunala v skladu z 52. členom Akta o metodologiji za obračunavanje omrežnine
+za elektrooperaterje (Uradni list RS, št. 146/22; v nadaljnjem besedilu: akt,
+ki ureja metodologijo za obračunavanje omrežnine za elektrooperaterje);
+f)    
+prispevki: prispevek za zagotavljanje podpor proizvodnji električne
+energije v soproizvodnji z visokim izkoristkom in iz obnovljivih virov energije
+(OVE in SPTE), prispevek za energetsko učinkovitost (URE) in prispevek za
+delovanje operaterja trga oziroma druge prispevke v skladu z zakonodajo;
+3.     
+druge informacije:
+a)   
+povezava ali sklic na mesto, kjer so dostopne podrobne informacije o
+načinu izračuna posameznih postavk na računu, če to ni razvidno iz informacij
+na računu;
+b)   
+povezava ali sklic na mesto dostopa do merilnih podatkov na ravni
+nacionalnega podatkovnega vozlišča;
+c)   
+možnosti spremembe obračunskih podatkov v skladu z aktom, ki ureja
+metodologijo za obračunavanje omrežnine za elektrooperaterje, oziroma povezava
+ali sklic na mesto, kjer so informacije dostopne;
+d)   
+povezava ali sklic na mesto, kjer je dostopna enotna kontaktna točka;
+e)   
+povezava ali sklic na mesto primerjalnika stroškov oskrbe z električno
+energijo na spletni strani Agencije za energijo (v nadaljnjem besedilu:
+agencija).
+(2) Če prevzeta električna energija pod c) 2. točke
+prejšnjega odstavka ne predstavlja dejanske porabe, ali so količine, dodeljene
+merilni točki pod c) 2. točke prejšnjega odstavka, določene z izračunom, je
+treba podati način določitve količin (upoštevanje deležev izmerjenih veličin
+ipd.) in upoštevne količine.
+(3) Tarifna postavka za moč in tarifna postavka za energijo
+se lahko prikaže kot seštevek tarifnih postavk za prenos in distribucijo.
+(4) Če se obračun omrežnine izvaja za končnega odjemalca, ki
+je član ene ali več energetskih skupnosti, mora račun vključevati tudi
+informacijo o deležu proizvedene energije iz proizvodnih enot, katerih
+zmogljivosti si delijo člani posamezne zadevne energetske skupnosti in pripada
+končnemu odjemalcu. Članu energetske skupnosti se na ravni ustrezne merilne
+točke na prevzemno-predajnem mestu poleg podatkov iz 2. točke prvega odstavka
+tega člena prikaže ločeno tudi dodeljena količina proizvedene delovne energije
+iz proizvodnih naprav skupnosti v obračunskem obdobju v posameznem časovnem
+bloku in ustrezna prilagojena postavka za preneseno električno energijo iz
+proizvodnih naprav skupnosti glede na obseg uporabe omrežja. Vse navedene
+postavke se prikažejo v skladu z 20. členom akta, ki ureja metodologijo za
+obračunavanje omrežnine za elektrooperaterje.
+(5) Če končni odjemalec zagotavlja elektrooperaterju
+sistemske storitve in ima zagotovljene meritve na ravni obračunskega intervala
+neposredno, morajo informacije pod a) 3. točke prvega odstavka tega člena
+vključevati tudi informacijo o presežni moči, ki je izvzeta iz obračuna
+omrežnine v posameznih časovnih intervalih aktivacije v skladu z 21. členom
+akta, ki ureja metodologijo za obračunavanje omrežnine za elektrooperaterje.
+(6) Če končni odjemalec sklene z distribucijskim operaterjem
+pogodbo za obračun po lokalni dinamični tarifi za posamezno zaključeno
+geografsko področje, mora račun vsebovati tudi posamezne obračunske podatke za
+obračun omrežnine za energijo na podlagi dinamične tarifne postavke, in sicer
+odstopanja prevzete energije od osnovnice v posameznem časovnem intervalu in
+lokalno dinamično tarifno postavko energije v tem časovnem intervalu. Podrobna
+razčlenitev obračuna na ravni posameznega dinamično določenega časovnega bloka
+mora biti zagotovljena z informacijami pod a) 3. točke prvega odstavka tega
+člena v skladu z 22. členom akta, ki ureja metodologijo za obračunavanje
+omrežnine za elektrooperaterje.
+(7) Znesek za plačilo in datum zapadlosti plačila pod a) in
+pod b) 1. točke prvega odstavka tega člena morata biti na računu prikazana
+ločeno od ostalih delov računa.
+6. člen
+(račun za dobavo)
+(1) Račun za električno energijo, ki ga izda dobavitelj
+električne energije, mora vsebovati vsaj naslednje podatke, ki morajo biti
+vidno prikazani na računu in jasno ločeni od drugih delov računa, in sicer:
+1.     
+osnovni podatki:
+a)   
+znesek za plačilo in njegova razčlenitev;
+b)   
+datum zapadlosti plačila;
+c)   
+datum izteka pogodbe o dobavi, kadar je pogodba sklenjena za določen
+čas;
+d)   
+številka pogodbe o dobavi električne energije;
+e)   
+podatki o dobavitelju: naziv, naslov, kontaktni podatki, davčna številka
+ter elektronski naslov in telefonska številka za pomoč uporabnikom;
+f)    
+podatki o odjemalcu: ime in priimek oziroma naziv podjetja, naslov
+oziroma sedež podjetja, naslov za pošiljanje računa;
+g)   
+osnovni podatki o posameznem merilnem mestu odjemalca ter pripadajočih
+merilnih napravah glede na obračunske merilne točke:
+-   
+številka merilnega mesta, določena s strani elektrooperaterja, oziroma
+GS1 GSRN oznaka merilnega mesta;
+-   
+številka merilne naprave;
+h)   
+drugi potrebni podatki, ki definirajo upoštevne tarifne postavke (npr.
+območje porabe, obračunska moč, vrsta odjema ipd.);
+2.     
+obračunski podatki:
+a)   
+naziv tarife oziroma naziv produkta (npr. akcija, redni cenik ipd.);
+b)   
+identifikator posamezne merilne točke GS1 GSRN, na kateri dobavitelj
+opravlja dobavo energije;
+c)   
+začetek in konec obračunskega obdobja, za katero se izdaja račun;
+d)   
+količina električne energije: izmerjene količine v obračunskem obdobju
+po časovnih blokih oziroma način določitve količin, kadar račun ni izdan na
+podlagi dejanske porabe;
+e)   
+cena dobavljene električne energije;
+3.     
+druge informacije:
+a)   
+povezava ali sklic na mesto, kjer so dostopne podrobne informacije o
+načinu izračuna posameznih postavk na računu, če to ni razvidno iz informacij
+na računu;
+b)   
+povezava ali sklic na mesto, kjer se nahajajo informacije o postopku
+menjave dobavitelja;
+c)   
+podatki o pravicah končnega odjemalca v zvezi z izvensodnim reševanjem
+sporov, vključno s kontaktnimi podatki imenovanega izvajalca izvensodnega
+reševanja potrošniških sporov, oziroma povezava ali sklic na mesto, kjer so te
+informacije dostopne;
+d)   
+povezava ali sklic na mesto, kjer je dostopna enotna kontaktna točka;
+e)   
+povezava ali sklic na mesto primerjalnika stroškov oskrbe z električno
+energijo na spletni strani agencije;
+f)    
+če pogodba vsebuje prihodnje spremembe proizvoda, cene ali popusta, mora
+biti to navedeno na zadnjem računu pred spremembo skupaj z datumom, ko se
+sprememba izvrši.
+(2) Znesek za plačilo in datum zapadlosti plačila pod a) in
+pod b) 1. točke prejšnjega odstavka morata biti na računu prikazana ločeno od
+ostalih delov računa.
+(3) Če dobavitelj ponuja električno energijo po dinamičnih
+cenah, mora biti dinamična cena prikazana za del, ki odraža veleprodajno ceno
+električne energije in pribitek dobavitelja, ločeno. Količine in cene morajo
+biti prikazane na ravni časovnega trajanja veleprodajnega produkta. Končnemu
+odjemalcu, obračunanemu na podlagi dinamičnih cen, morajo biti zagotovljene
+agregirane informacije o porabi in referenčnih cenah na računu, kot so npr.
+dnevna ali tedenska povprečja. Dobavitelj mora končnemu odjemalcu omogočiti
+brezplačen dostop do informacij, ki mu omogočajo izvedbo analize stroškov,
+zaračunanih v intervalu tržne poravnave in niso zagotovljeni s
+standardiziranimi podatkovnimi storitvami nacionalnega podatkovnega vozlišča,
+ki ga upravlja distribucijski operater.
+(4) Če račun temelji na dejanski porabi, morajo biti na
+računu končnim odjemalcem na voljo informacije o mestu dostopnosti naslednjih
+informacij, in sicer:
+-       
+informacija o primerjavi trenutne porabe električne energije končnega
+odjemalca s porabo končnega odjemalca v enakem obdobju prejšnjega leta (v
+grafični obliki);
+-       
+primerjave s povprečnim posplošenim ali referenčnim končnim odjemalcem
+iz iste porabniške kategorije;
+-       
+kontaktne informacije potrošniških organizacij in agencije, vključno z
+naslovi in telefonskimi številkami za namene reševanja reklamacij in računov;
+-       
+navedba spletnih strani, na katerih je mogoče dobiti informacije o
+razpoložljivih ukrepih za izboljšanje energetske učinkovitosti za opremo, ki
+uporablja energijo.
+7. člen
+(račun drugih izvajalcev elektroenergetskih storitev)
+(1) Račun drugih izvajalcev elektroenergetskih storitev mora
+poleg podatkov, ki jih določa sklenjena pogodba med končnim odjemalcem in
+drugim izvajalcem elektroenergetskih storitev (npr. agregatorjem), vsebovati
+vsaj naslednje podatke in informacije, ki morajo biti vidno prikazane na računu
+in jasno ločene od drugih delov računa, in sicer:
+1.     
+osnovni podatki:
+a)   
+datum zapadlosti plačila;
+b)   
+številka pogodbe;
+c)   
+datum izteka pogodbe, kadar je pogodba sklenjena za določen čas;
+d)   
+podatki o drugem izvajalcu elektroenergetskih storitev: naziv, naslov,
+kontaktni podatki, davčna številka ter elektronski naslov in telefonska
+številka za pomoč uporabnikom;
+e)   
+podatki o končnem odjemalcu: ime in priimek oziroma naziv podjetja,
+naslov oziroma sedež podjetja, naslov za pošiljanje računa;
+f)    
+osnovni podatki o posameznem merilnem mestu odjemalca ter pripadajočih
+merilnih napravah glede na obračunske merilne točke:
+-   
+številka merilnega mesta, določena s strani elektrooperaterja oziroma
+GS1 GSRN oznaka merilnega mesta;
+-   
+številka merilne naprave;
+2.     
+obračunski podatki:
+a)   
+naziv produkta;
+b)   
+začetek in konec obračunskega obdobja, za katero se izdaja račun;
+c)   
+znesek storitve drugih energetskih storitev (npr. agregiranja) glede na
+postavke po pogodbi;
+3.     
+druge informacije:
+a)   
+povezava ali sklic na mesto, kjer so dostopne podrobne informacije o
+načinu izračuna posameznih postavk na računu, če to ni razvidno iz informacij
+na računu;
+b)   
+povezava ali sklic na mesto, kjer se nahajajo informacije o postopku
+menjave agregatorja, če je drugi izvajalec elektroenergetskih storitev v tej
+vlogi;
+c)   
+povezava ali sklic na mesto, kjer je dostopna enotna kontaktna točka;
+d)   
+povezava ali sklic na mesto primerjalnika stroškov oskrbe z električno
+energijo na spletni strani agencije;
+e)   
+če pogodba vsebuje prihodnje spremembe proizvoda, cene ali popusta, mora
+biti to navedeno na zadnjem računu pred spremembo skupaj z datumom, ko se
+sprememba izvrši.
+(2) Znesek za plačilo in datum zapadlosti plačila pod a) in
+pod b) 1. točke prejšnjega odstavka morata biti na računu prikazana ločeno od
+ostalih delov računa.
+8. člen
+(enotni račun dobavitelja)
+Če dobavitelj izda enotni račun za dobavljeno električno
+energijo in omrežnino, se na računu prikažejo vse informacije oziroma podatki
+iz 5. in 6. člena tega akta.
+9. člen
+(pogostost izdajanja računov)
+(1) Račun za omrežnino in dobavljeno električno energijo se
+izda za obračunsko obdobje, ki praviloma traja en mesec. Končni obračun na
+podlagi dejanske porabe se izvede vsaj enkrat letno.
+(2) Če končni odjemalec nima števca, ki bi elektrooperaterju
+omogočal daljinsko odčitavanje, ali če podatki za izvedbo obračuna niso na
+voljo, se točne informacije na računu na podlagi dejanske porabe dajo končnemu
+odjemalcu na voljo vsaj vsakih šest mesecev. Če je končni odjemalec izbral
+možnost elektronskega prejemanja računa, ali če tako zahteva, se mu te
+informacije zagotovijo na računu vsake tri mesece.
+(3) Obveznosti iz prejšnjega odstavka se lahko izpolnijo tudi
+s sistemom rednega samoodčitavanja končnega odjemalca, ki odčitane podatke s
+števca sporoča elektrooperaterju. Če končni odjemalec ne sporoči odčitanih
+podatkov s števca za zadevno obračunsko obdobje in dejanski podatki o porabi
+niso na voljo, se lahko račun ali informacije na računu pripravijo na podlagi
+ocenjene porabe ali pavšalnega zneska.
+(4) Če ima končni odjemalec števec, ki elektrooperaterju
+omogoča daljinsko odčitavanje, se točne informacije na računu na podlagi
+dejanske porabe zagotovijo najmanj enkrat mesečno, te informacije pa so lahko
+na voljo tudi prek spleta in se posodabljajo tako pogosto, kolikor dopuščajo
+merilne naprave in sistemi, ki se uporabljajo.
+III. DOLOČITEV OBRAČUNSKE MOČI
+10. člen
+(obvestilo o določitvi dogovorjene obračunske moči)
+(1) Elektrooperater najkasneje do konca maja določi
+dogovorjeno obračunsko moč posameznemu prevzemno-predajnemu mestu posameznega
+končnega odjemalca za prihodnje koledarsko leto v skladu z določbami akta, ki
+ureja metodologijo za obračunavanje omrežnine za elektrooperaterje. Informacije
+o določitvi dogovorjene obračunske moči za posamezno prevzemno-predajno mesto
+na distribucijskem sistemu posreduje elektrooperater z računom za omrežnino za
+junij, julij in avgust. Distribucijski operater zagotovi končnemu odjemalcu
+informacije o dogovorjeni obračunski moči tudi prek enotne vstopne točke
+nacionalnega podatkovnega vozlišča. Če ima končni odjemalec enotni račun,
+distribucijski operater informacijo o dogovorjeni obračunski moči posreduje
+dobavitelju. Dobavitelj seznani končnega odjemalca z določitvijo dogovorjene
+obračunske moči za naslednje koledarsko leto za posamezno prevzemno-predajno
+mesto z enotnim računom, ki se izdaja za junij, julij in avgust.
+(2) Na obvestilu iz prejšnjega odstavka morajo biti na jasen
+in pregleden način podane informacije, kako lahko uporabnik sistema spremeni
+dogovorjeno obračunsko moč, ki vključuje vsaj informacije o postopku in rokih
+za spremembo dogovorjene obračunske moči ter s tem povezanih posledicah v
+skladu s šestim, sedmim in osmim odstavkom 12. člena ter 52. členom akta, ki
+ureja metodologijo za obračunavanje omrežnine za elektrooperaterje.
+IV. POJASNILA V ZVEZI Z RAČUNOM
+11. člen
+(dodatno pojasnilo)
+(1) Izdajatelj računa končnemu odjemalcu na njegovo pisno
+zahtevo brezplačno posreduje pojasnilo o načinu priprave njegovega računa.
+Pojasnilo mora vsebovati jasne in razumljive informacije, kako je račun
+pripravljen in, kadar je to potrebno, tudi pojasnilo o končnem obračunu glede
+na dejansko porabo (če mesečni obračuni ne temeljijo na dejanski porabi).
+(2) Končni odjemalec lahko od izdajatelja računa zahteva
+dodatno pojasnilo iz prejšnjega odstavka za vsak račun, ki mu je bil
+izstavljen.
+(3) Dodatno pojasnilo se odjemalcu posreduje v elektronski
+obliki oziroma po fizični pošti na njegov naslov, kadar odjemalec nima možnosti
+prejemanja elektronskih sporočil.
+V. RAZKRITJE VIROV ENERGIJE
+12. člen
+(informacije o proizvodnih virih električne energije)
+(1) Dobavitelj na računih končnim odjemalcem opredeli
+informacije o deležih posameznih proizvodnih virov dobavljene električne
+energije kot produkta na podlagi pogodbe o dobavi, izraženih v odstotkih.
+(2) Dobavitelj končnim odjemalcem na računih poda tudi
+informacije ali napotitev do informacij o:
+-       
+deležih posameznih proizvodnih virov v skupni sestavi proizvodnih virov
+dobavljene električne energije dobavitelja na nacionalni ravni ter tudi na
+ravni vseh dobav dobavitelja, če dobavlja električno energijo tudi končnim
+odjemalcem v drugih državah EU, izraženih v odstotkih;
+-       
+količini emisij CO2 za skupno sestavo virov dobavljene električne
+energije dobavitelja, izraženi v gramih na kilovatno uro [g/kWh];
+-       
+količini radioaktivnih odpadkov za skupno sestavo virov dobavljene
+električne energije dobavitelja, izraženi v miligramih na kilovatno uro
+[mg/kWh].
+(3) Informacije iz prvega odstavka tega člena se nanašajo na
+električno energijo, dobavljeno v obračunskih obdobjih na podlagi veljavne
+pogodbe o dobavi. Informacije iz prejšnjega odstavka se nanašajo na skupno
+dobavljeno električno energijo posameznega dobavitelja v zadnjem preteklem
+koledarskem letu.
+(4) Dobavitelj ločeno predstavi deleže električne energije,
+proizvedene iz premoga, zemeljskega plina, naftnih derivatov, jedrskega goriva
+in obnovljivih virov, pri katerih mora ločeno prikazati deleže električne
+energije, proizvedene iz vodne energije, vetra, sončne energije, geotermalne
+energije in biomase.
+(5) Dobavitelj končnim odjemalcem informacije o proizvodnih
+virih za proizvodnjo električne energije objavi na razumljiv in pregleden način
+v obliki diagrama oziroma tabele.
+13. člen
+(deleži proizvodnih virov električne energije)
+(1) Deleži posameznih proizvodnih virov dobavljene električne
+energije kot produkta na podlagi pogodbe o dobavi temeljijo na proizvodnih
+virih dejansko dobavljene električne energije z opredelitvijo kritja
+posameznega deleža z razveljavljenimi potrdili o izvoru na ime dobavitelja ali
+njegovega končnega odjemalca za posamezen produkt.
+(2) Deleži posameznih virov v skupni sestavi proizvodnih
+virov dobavljene električne energije dobavitelja temeljijo na količini
+razveljavljenih potrdil o izvoru na ime dobavitelja ali njegovega končnega
+odjemalca glede na proizvodni vir, opredeljen na potrdilu o izvoru, in na
+preostali mešanici energijskih virov proizvedene električne energije na ravni
+Republike Slovenije, ki jo objavi agencija.
+(3) Delež posameznega vira proizvedene električne energije v
+skupni sestavi proizvodnih virov dobavljene električne energije dobavitelja je
+vsota deleža tega vira, ki temelji na količini dobavljene električne energije
+dobavitelja, za katero so razveljavljena potrdila o izvoru na ime dobavitelja
+ali njegovega končnega odjemalca, in deleža istega vira iz preostale mešanice
+energijskih virov v Republiki Sloveniji.
+14. člen
+(uporaba potrdil o izvoru)
+(1) Delež dobavljene električne energije iz obnovljivih virov
+dobavitelj dokazuje z razveljavljenimi potrdili o izvoru na račun dobavitelja
+oziroma njegovega končnega odjemalca.
+(2) Količina električne energije, katere izvor v svoji
+sestavi proizvodnih virov dobavljene električne energije dobavitelj dokazuje z
+razveljavljenimi potrdili o izvoru, se v sestavi proizvodnih virov dobavitelja
+za preteklo leto upošteva za tisto količino električne energije, za katero so
+bila na račun dobavitelja oziroma njegovega končnega odjemalca v obdobju od 1.
+aprila preteklega leta do 31. marca tekočega leta razveljavljena potrdila o
+izvoru.
+(3) Potrdila o izvoru, izdana za električno energijo,
+proizvedeno iz obnovljivih virov energije, za katero so proizvajalci pridobili
+podporo v obliki zagotovljenega odkupa v obdobju od 1. januarja do 31. decembra
+leta, za katero se prikazuje sestava proizvodnih virov, se razveljavijo na
+račune dobaviteljev v razmerju tržnih deležev njihovih dobav končnim odjemalcem
+v Republiki Sloveniji v letu, za katero se prikazuje sestava proizvodnih virov.
+Tržne deleže dobav določi in na svojih spletnih straneh objavi agencija do 31.
+marca v letu, ki sledi letu, na katero se nanaša sestava proizvodnih virov.
+(4) Potrdila o izvoru, ki so bila razveljavljena za
+dokazovanje proizvodnega vira električne energije pri dobavitelju ali končnem
+odjemalcu izven območja Republike Slovenije, se ne upoštevajo za dokazovanje
+proizvodnega vira električne energije pri dobavitelju, ki je izvedel tako
+razveljavitev.
+(5) Količine električne energije dobavitelja, katerih izvor
+ni dokazan z razveljavljenimi potrdili o izvoru, se v sestavi proizvodnih virov
+dobavitelja nadomestijo s preostalo mešanico energijskih virov.
+15. člen
+(preostala mešanica energijskih virov)
+(1) Nacionalna preostala mešanica energijskih virov je letna
+mešanica energijskih virov v Republiki Sloveniji za proizvodnjo električne
+energije, ki ne vključuje količin električne energije, ki jih krijejo
+razveljavljena potrdila o izvoru.
+(2) Nacionalna preostala mešanica energijskih virov električne
+energije je proizvodnja električne energije v Republiki Sloveniji v koledarskem
+letu, od katere se odšteje količina električne energije, za katero so bila
+izdana in v obdobju med 1. aprilom preteklega leta in 31. marcem tekočega leta
+na ime slovenskih končnih odjemalcev ali dobaviteljev tudi razveljavljena
+potrdila o izvoru. V nacionalno preostalo proizvodnjo se vključijo tudi
+potrdila o izvoru, ki jim je v obdobju med 1. aprilom leta, za katero se določa
+nacionalna preostala proizvodnja električne energije, in 31. marcem naslednjega
+leta potekla veljavnost. Pri določitvi nacionalne preostale proizvodnje
+električne energije se uporabijo merilni podatki o proizvedeni električni
+energiji, razen za vire, za katere se v Republiki Sloveniji izdajajo potrdila o
+izvoru, ki se vodijo v registru potrdil o izvoru.
+(3) Če so količine v Republiki Sloveniji dobavljene
+električne energije v letu, za katero se prikazuje sestava proizvodnih virov,
+večje od vsote količine proizvedene električne energije iz nacionalne preostale
+mešanice energijskih virov in količine električne energije, za katero so bila v
+Republiki Sloveniji na računih dobaviteljev ali njegovih končnih odjemalcev
+razveljavljena potrdila o izvoru v skladu s prvim odstavkom prejšnjega člena,
+se za razliko količin deleži proizvodnih virov določijo z evropsko preostalo
+mešanico energijskih virov.
+(4) Preostala evropska proizvodnja električne energije se
+določi v koordinaciji pristojnih organov evropskih držav po izračunu preostalih
+nacionalnih proizvodenj električne energije in preostalih sestav proizvodnih
+virov v posameznih državah. Preostali evropski proizvodnji električne energije
+ustreza preostala evropska sestava proizvodnih virov.
+(5) Preostala mešanica energijskih virov električne energije
+se določi tako, da se nacionalni preostali mešanici energijskih virov
+električne energije doda evropska preostala mešanica energijskih virov
+električne energije, pri čemer se deleži obeh upoštevajo v razmerju med
+nacionalno preostalo proizvodnjo električne energije in deležem v Republiki
+Sloveniji porabljene električne energije, ki ni pokrit z nacionalno preostalo
+proizvodnjo.
+(6) Preostalo mešanico energijskih virov električne energije
+za preteklo leto določi agencija in jo objavi na svojih spletnih straneh
+najkasneje do 31. maja v letu, ki sledi letu, na katero se ta sestava
+proizvodnih virov nanaša.
+16. člen
+(objava informacij)
+Dobavitelji informacije o sestavi proizvodnih virov
+dobavljene električne energije v preteklem letu objavijo do 1. julija tekočega
+leta.
+17. člen
+(objava informacij za nove dobavitelje)
+Dobavitelji, ki v preteklem koledarskem letu niso dobavljali
+električne energije končnim odjemalcem, objavijo skupno preostalo sestavo
+proizvodnih virov v skladu z določbami tega akta.
+VI. PREHODNA IN KONČNI DOLOČBI
+18. člen
+(prehodno obdobje za prikazovanje informacij o proizvodnih
+virih)
+Dobavitelji prikazovanje informacij v skladu z določbami V.
+poglavja tega akta uskladijo v roku treh mesecev od dneva uveljavitve tega
+akta.
+19. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega akta se preneha uporabljati Akt o
+načinu določanja in prikazovanja deležev posameznih proizvodnih virov elektrike
+(Uradni list RS, št. 22/16 in 172/21 – ZOEE).
+20. člen
+(začetek veljavnosti in uporabe)
+Ta akt začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije, uporabljati pa se začne 1. januarja 2024, razen 10. člena
+in V. poglavja tega akta, ki se začneta uporabljati z dnem uveljavitve tega
+akta.
+Št. 71-11/2022/15
+Maribor, dne 23. februarja 2023
+EVA 2023-2570-0009
+Predsednik sveta
+Agencije za energijo
+dr. Franc Žlahtič

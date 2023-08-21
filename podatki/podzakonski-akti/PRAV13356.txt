@@ -52,8 +52,9 @@ uporabniki po zakonu), kateri bodo sredstva obveznih dajatev razporejena.
 Referenca je podatek na plačilnem nalogu, na delu za plačnika in na delu
 za prejemnika. Sestavljena je iz modela in sklicevanja na številko. Kontrolne
 številke sklicevanja na številko so izračunane po modulu 11, ki je opredeljen v
-predpisu, ki ureja plačilna navodila, SEPA direktne obremenitve, izpiske o prometu
-in stanju, delne izpise ter obrestne liste v papirni in elektronski obliki.
+predpisu, ki ureja plačilna navodila, SEPA direktne obremenitve, izpiske o
+prometu in stanju, delne izpise ter obrestne liste v papirni in elektronski
+obliki.
 8.     
 Razporejanje obveznih dajatev je prenos plačane obvezne dajatve z enega
 podračuna JFP na drug podračun JFP v celoti ali v predpisanih deležih, vračanje
@@ -105,7 +106,8 @@ posameznega že odprtega podračuna JFP spremeni skrbnika na podlagi obsega
 transakcij, izvršenih v zadnjih dvanajstih mesecih pred določitvijo tega
 statusa.
 (8) Podračun JFP s seznama podračunov JFP
-skupine A, ki ima določen model, 19 in 21, ima lahko le enega nadzornika.
+skupine A, ki ima določen model, 19, 21, 22 in 23, ima lahko le enega
+nadzornika.
 4. člen
 (seznama podračunov JFP skupine A in skupine B)
 (1) UJP v Registru proračunskih uporabnikov dnevno
@@ -190,10 +192,10 @@ določa četrti odstavek tega člena, tako da pomenijo številke:
 veljavne statistične oznake občin, povečane za 400, za obvezne dajatve,
 ki pripadajo proračunom občin.
 (4) Prehodni davčni podračuni imajo na od šestem do
-osmem mestu številke podračuna oznako 888, prehodni carinski podračuni pa oznako
-999. Pripadnost plačanih obveznih dajatev iz prejšnjega odstavka je označena s
-številkami na od devetem do enajstem mestu številke prehodnega davčnega oziroma
-prehodnega carinskega podračuna.
+osmem mestu številke podračuna oznako 888, prehodni carinski podračuni pa
+oznako 999. Pripadnost plačanih obveznih dajatev iz prejšnjega odstavka je
+označena s številkami na od devetem do enajstem mestu številke prehodnega
+davčnega oziroma prehodnega carinskega podračuna.
 (5) Zbirni prehodni podračuni imajo na od šestem do
 osmem mestu številke podračuna oznako 844.
 (6) Prehodni podračuni imajo na od šestem do osmem mestu
@@ -231,10 +233,10 @@ ZPIZ prek posebnega računa z ničelnim stanjem. Sredstva s posebnega računa z
 ničelnim stanjem se razporedijo na podračun proračunskega uporabnika, ki jih
 ustrezno razporedi na podračune JFP.
 (4) Kadar je obvezna dajatev plačana ali razporejena na
-predpisane vplačilne podračune, UJP na podlagi oznak na od šestem do osmem
-mestu številke vplačilnega podračuna, kot so določene v tretjem odstavku 5.
-člena tega pravilnika, izdela in izvrši plačilne naloge v breme vplačilnih
-podračunov ter v dobro podračunov prejemnikov.
+predpisane vplačilne podračune, UJP na podlagi oznak na od šestem do osmem mestu
+številke vplačilnega podračuna, kot so določene v tretjem odstavku 5. člena
+tega pravilnika, izdela in izvrši plačilne naloge v breme vplačilnih podračunov
+ter v dobro podračunov prejemnikov.
 (5) Kadar je obvezna dajatev plačana na predpisan prehodni
 davčni ali prehodni carinski podračun, UJP izdela in izvrši plačilni nalog v
 breme prehodnega davčnega ali prehodnega carinskega podračuna in v dobro
@@ -265,13 +267,22 @@ pooblastijo UJP, da po zaključku medbančnega plačilnega prometa razporedi
 morebitni ostanek sredstev z njihovih prehodnih podračunov. V pooblastilu
 navedejo podračune, na katere se sredstva razporedijo, njihove deleže ter
 podatke o referenci plačnika in prejemnika.
-(9) Ne glede na prejšnji odstavek lahko organ v postopku
-davčne izvršbe s svojega prehodnega podračuna razporedi obvezno dajatev,
-izterjano v postopku davčne izvršbe, na prehodni oziroma vplačilni podračun
-nadzornika, ki je obvezno dajatev poslal v davčno izvršbo. Nadzornik obvezne
-dajatve, prejete na svoj prehodni podračun, ki so že bile poslane v davčno izvršbo
-in hkrati evidentirane kot terjatve v korist državnega proračuna, razporedi na
-prehodni podračun organa, ki izvaja postopek davčne izvršbe.
+(9) Ne glede na
+prejšnji odstavek lahko:
+-       
+organ v postopku davčne izvršbe s svojega prehodnega podračuna razporedi
+obvezno dajatev, izterjano v postopku davčne izvršbe, na prehodni oziroma
+vplačilni podračun nadzornika, ki je obvezno dajatev poslal v davčno izvršbo.
+Nadzornik obvezne dajatve, prejete na svoj prehodni podračun, ki so že bile
+poslane v davčno izvršbo in hkrati evidentirane kot terjatve v korist državnega
+proračuna, razporedi na prehodni podračun organa, ki izvaja postopek davčne
+izvršbe;
+-       
+upravna enota prenese denarna sredstva v višini prejetih obveznih
+dajatev, ki se nanašajo na upravne postopke, za katere je bil izvršen prenos
+krajevne pristojnosti, s svojega prehodnega podračuna z oznako 845 na prehodni
+podračun tiste upravne enote, ki ji je bila določena krajevna pristojnost za
+reševanje posameznih upravnih postopkov.
 (10) UJP praviloma isti dan izvrši razporeditev sredstev v
 breme vplačilnih, prehodnih davčnih in prehodnih carinskih podračunov. Za
 dajatve, ki so bile plačane v dobro zbirnih prehodnih podračunov z oznako 844
@@ -340,8 +351,8 @@ prehodnih, prehodnih in prehodnih davčnih podračunov, s katerih UJP razporeja
 sredstva istemu prejemniku. Sredstva se zagotovijo iz tekočih prilivov. UJP
 izvrši plačilni nalog nadzornika oziroma skrbnika, ko je tekočih prilivov
 dovolj za zagotovitev sredstev. Kadar naslednji delovni dan ni dovolj sredstev
-iz tekočih prilivov, manjkajoča sredstva zagotovi prejemnik tako, kot je določeno
-v prejšnjem odstavku;
+iz tekočih prilivov, manjkajoča sredstva zagotovi prejemnik tako, kot je
+določeno v prejšnjem odstavku;
 -       
 ugotovi, da je v postopku razčlenitve obveznih dajatev prišlo do
 tehnične napake nadzornika oziroma skrbnika. UJP v tem primeru na podlagi
@@ -434,8 +445,8 @@ nadzorniku, oziroma kadar je na podračunu določenih več nadzornikov, vsakemu
 nadzorniku pripadajoči delni izpis o prometu na tem podračunu.
 (6) Kadar pri plačilih obveznih dajatev na podračun JFP,
 ki ima več nadzornikov, s prvih petih mest sklicevanja na številko odobritve ni
-razviden nadzornik, UJP pošlje ta plačila v obliki delnega izpisa o prometu
-skrbniku tega podračuna.
+razviden nadzornik, UJP pošlje ta plačila v obliki delnega izpisa o prometu skrbniku
+tega podračuna.
 (7) UJP pošlje podatke prejemnikom, nadzornikom in
 skrbnikom v obliki delnega izpisa o prometu ali izpiska o prometu in stanju
 podračuna JFP ali podračuna prejemnika. Prejemniki, nadzorniki in skrbniki na
@@ -453,8 +464,8 @@ dajatve pripada.
 (2) Kadar je plačano obvezno dajatev odredil drug
 nadzornik, skrbnik plačano obvezno dajatev preusmeri nadzorniku tako, da UJP
 predloži plačilni nalog za prenos sredstev. Plačilni nalog za prenos sredstev
-na prvih petih mestih sklicevanja na številko odobritve vsebuje pripadajočo šifro
-proračunskega uporabnika nadzornika. Skrbnik prenos sredstev evidentira v
+na prvih petih mestih sklicevanja na številko odobritve vsebuje pripadajočo
+šifro proračunskega uporabnika nadzornika. Skrbnik prenos sredstev evidentira v
 skladu z veljavnimi predpisi.
 (3) Če plačani obvezni dajatvi ni mogoče določiti
 nadzornika, skrbnik plačano obvezno dajatev v svoji evidenci vodi kot
@@ -519,9 +530,7 @@ poročanje prestavljen na naslednji delovni dan.
 odstavka tega člena so objavljena na spletni strani Ministrstva za finance.
 (4) Nadzornik poroča o terjatvah in obveznostih iz
 naslova obveznih dajatev v elektronski obliki prek spletne aplikacije pri UJP,
-v sestavi, ki je določena s pravilnikom, ki opredeljuje plačilna navodila, SEPA
-direktne obremenitve, izpiske o prometu in stanju, delne izpise ter obrestne
-liste v papirni in elektronski obliki.
+v sestavi, ki je objavljena na spletni strani UJP.
 (5) Ne glede na prejšnji odstavek nadzornik, ki je
 hkrati tudi prejemnik iz naslova obveznih dajatev, poroča o odprtih terjatvah
 in obveznostih iz tega naslova v papirni obliki.
@@ -536,15 +545,15 @@ izdela poročilo o razčlenitvi obveznih dajatev za prehodni carinski podračun,
 ki ga pošlje v dopolnitev FURS, oziroma FURS izdela poročilo o razčlenitvi
 obveznih dajatev za prehodni davčni podračun in ga pošlje v dopolnitev UJP.
 Sestava poročila je objavljena na spletni strani UJP.
-(3) Ne glede na prejšnji odstavek se za zadnji delovni
-dan preteklega leta najkasneje do 20. januarja naslednjega leta izdela
-dodatno poročilo o razčlenitvi obveznih dajatev za prehodni davčni podračun.
-Dodatno poročilo o razčlenitvi obveznih dajatev za zadnji delovni dan
-preteklega leta vključuje podatke o plačilih, ki so bila izvršena na prehodne
-podračune 845 in 846 pri FURS zadnji delovni dan proračunskega leta in
-razporejena po prejemnikih prva dva delovna dneva v letu, ter podatke na
+(3) Ne glede na prejšnji odstavek se za zadnji dan
+preteklega leta najkasneje do 20. januarja tekočega leta izdela dodatno
+poročilo o razčlenitvi obveznih dajatev za prehodni davčni podračun. Dodatno
+poročilo o razčlenitvi obveznih dajatev za zadnji dan preteklega leta vključuje
+podatke o plačilih, ki so bila izvršena na prehodne podračune 845 in 846 pri
+FURS od zadnjega delovnega dne do zadnjega dne proračunskega leta in
+razporejena po prejemnikih prva dva delovna dneva v letu, ter podatke, na
 podlagi katerih prejemniki povečajo oziroma zmanjšajo prihodke na ustreznem
-podkontu dajatve za zadnji delovni dan proračunskega leta.
+podkontu dajatve za zadnji dan proračunskega leta.
 (4) UJP poročilo o razčlenitvi obveznih dajatev iz
 drugega in tretjega odstavka tega člena pošlje prejemnikom in Ministrstvu za
 finance.
@@ -588,5 +597,21 @@ dajatev in drugih javnofinančnih prihodkov (Uradni list RS, št. 18/21)
 vsebuje naslednjo končno določbo:
 »KONČNA DOLOČBA
 3. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o spremembi in dopolnitvah
+Pravilnika o plačevanju in razporejanju obveznih dajatev in drugih
+javnofinančnih prihodkov (Uradni list RS, št. 29/23) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+3. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o spremembah Pravilnika o plačevanju
+in razporejanju obveznih dajatev in drugih javnofinančnih prihodkov (Uradni
+list RS, št. 82/23) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+5. člen
 Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.

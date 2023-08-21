@@ -3,18 +3,16 @@ I. SPLOŠNA DOLOČBA
 (vsebina)
 (1) Ta uredba določa način posredovanja informacij
 javnega značaja prosilcem in v svetovni splet, zaračunavanje stroškov takega
-posredovanja, ceno in druge pogoje ponovne uporabe informacij javnega značaja
-ter poročanje o zagotavljanju dostopa do informacij javnega značaja.
-(2) S to uredbo se v pravni red Republike Slovenije
-prenašata Direktiva 2003/4/ES Evropskega parlamenta in Sveta z dne
-28. januarja 2003 o dostopu javnosti do informacij o okolju in o
-razveljavitvi Direktive Sveta 90/313/EGS (UL L št. 41 z dne
-14. 2. 2003, str. 26) in Direktiva 2003/98/ES Evropskega parlamenta in
-Sveta z dne 17. novembra 2003 o ponovni uporabi informacij javnega sektorja
-(UL L št. 345 z dne 31. 12. 2003, str. 90), zadnjič spremenjena z
-Direktivo 2013/37/EU Evropskega parlamenta in Sveta z dne 26. junija 2013
-o spremembi Direktive 2003/98/ES o ponovni uporabi informacij javnega sektorja
-(UL L št. 175 z dne 27. 6. 2013, str. 1).
+posredovanja, ceno in druge pogoje ponovne uporabe informacij javnega značaja,
+podatkovne zbirke, ki sodijo med nabore podatkov velike vrednosti, in poročanje
+o zagotavljanju dostopa do informacij javnega značaja.
+(2) S to uredbo se v pravni red Republike Slovenije prenašata
+Direktiva 2003/4/ES Evropskega parlamenta in Sveta z dne 28. januarja 2003
+o dostopu javnosti do informacij o okolju in o razveljavitvi Direktive Sveta
+90/313/EGS (UL L št. 41 z dne 14. 2. 2003, str. 26) in
+Direktiva (EU) 2019/1024 Evropskega parlamenta in Sveta z dne 20. junija
+2019 o odprtih podatkih in ponovni uporabi informacij javnega sektorja
+(prenovitev) (UL L št. 172 z dne 26. 6. 2019, str. 56).
 II. KATALOG INFORMACIJ JAVNEGA ZNAČAJA
 2. člen
 (vsebina kataloga informacij javnega značaja)
@@ -38,8 +36,8 @@ seznam vseh večjih notranjih organizacijskih enot ter za vsako notranjo
 organizacijsko enoto naslednje podatke: naziv, naslov in druge kontaktne
 podatke, če se ti razlikujejo od podatkov za organ kot celoto, ter navedbo
 vodje notranje organizacijske enote (ime, priimek, naziv), razen za
-obveščevalno-varnostne službe; ministrstva v svojih katalogih navedejo tudi
-druge organe z njihovega delovnega področja, 
+obveščevalno-varnostne službe; ministrstva v svojih katalogih navedejo tudi druge
+organe z njihovega delovnega področja, 
 b)   
 kontaktne podatke uradne osebe oziroma oseb, pristojnih za posredovanje
 informacij javnega značaja, ki vključujejo navedbo imena in priimka, delovnega
@@ -48,9 +46,9 @@ telefonske številke,
 c)   
 seznam glavnih predpisov z delovnega področja organa s povezavami na
 vsebino posameznega predpisa v Pravno-informacijskem sistemu Republike
-Slovenije (v nadaljnjem besedilu: PIS) in registru predpisov Evropske unije,
-organi lokalnih skupnosti pa s povezavami na lokalni register predpisov, če
-predpis ni objavljen v registru, pa z drugo povezavo na vsebino,
+Slovenije (v nadaljnjem besedilu: PIS) in registru predpisov Evropske unije, organi
+lokalnih skupnosti pa s povezavami na lokalni register predpisov, če predpis ni
+objavljen v registru, pa z drugo povezavo na vsebino,
 č)   ministrstva in vladne službe vodijo tudi
 seznam predlogov predpisov z ustreznimi povezavami na portal E-demokracija in
 PIS, na spletno mesto, kjer je posamezni predlog objavljen, ter predlogov
@@ -68,8 +66,8 @@ uporabnikom,
 f)    
 seznam javnih evidenc, ki jih upravlja organ,
 g)   
-seznam drugih informatiziranih zbirk podatkov, ki jih vodi organ na podlagi
-področne zakonodaje s svojega delovnega področja;
+seznam drugih informatiziranih zbirk podatkov, ki jih vodi organ na
+podlagi področne zakonodaje s svojega delovnega področja;
 3.     
 opis načina dostopa do informacij javnega značaja pri organu;
 4.     
@@ -129,9 +127,12 @@ jezik zapisa;
 opis morebitne povezanosti podatkov z drugimi javnimi evidencami oziroma
 podatkovnimi zbirkami ali navedbo, da ni take povezave;
 18.  
-odgovorno osebo.
+odgovorno osebo;
+19.  
+označbo, ali podatkovna zbirka sodi med nabore podatkov velike
+vrednosti.
 (5) Podrobnejši opis metapodatkov iz prejšnjega odstavka
-je določen v Prilogi, ki je sestavni del te uredbe. Ministrstvo, pristojno za
+je določen v Prilogi 1, ki je sestavni del te uredbe. Ministrstvo, pristojno za
 upravo (v nadaljnjem besedilu: ministrstvo), na svojih spletnih straneh objavi
 vzorčni primer metapodatkovnega opisa zbirke in vzorčno datoteko za vnos
 metapodatkov.
@@ -154,9 +155,9 @@ in je še predmet posvetovanja v organu, se štejejo podatki v dokumentu, ki ga
 še ni podpisala in odposlala ali kako drugače zaključila uradna oseba organa,
 ki je v skladu z veljavnimi predpisi pooblaščena za odločanje.
 (2) Za podatke iz dokumenta iz prejšnjega odstavka, se,
-če gre za dokument, ki nastaja v sklopu projekta, ki se vodi skladno z metodologijo
-vlade za vodenje projektov v državni upravi, štejejo podatki v dokumentu, ki še
-ni odobren v skladu s pravili take metodologije.
+če gre za dokument, ki nastaja v sklopu projekta, ki se vodi skladno z
+metodologijo vlade za vodenje projektov v državni upravi, štejejo podatki v
+dokumentu, ki še ni odobren v skladu s pravili take metodologije.
 IV. VRSTE INFORMACIJ JAVNEGA ZNAČAJA, KI SE POSREDUJEJO V
 SVETOVNI SPLET
 5. člen
@@ -350,7 +351,8 @@ V. NAČIN POSREDOVANJA INFORMACIJ JAVNEGA ZNAČAJA
 14. člen
 (izbira oblike)
 (1) Če je informacija javnega značaja tako v elektronski
-kot v fizični obliki, lahko prosilec sam izbere obliko, v kateri želi dobiti informacijo.
+kot v fizični obliki, lahko prosilec sam izbere obliko, v kateri želi dobiti
+informacijo.
 (2) Če je informacija javnega značaja samo v elektronski
 ali samo v fizični obliki in organ razpolaga s tehnološkimi zmogljivostmi za
 potrebno pretvorbo, lahko prosilec sam izbere obliko, pri čemer mu organ
@@ -403,8 +405,8 @@ primere iz 3. točke prejšnjega odstavka,
 5.     
 za posredovanje informacij po telefaksu, ki skupaj ne presegajo petih
 strani.
-(4) Organ posreduje informacije glede na tehnične
-pripomočke, s katerimi razpolaga.
+(4) Organ posreduje informacije glede na tehnične pripomočke,
+s katerimi razpolaga.
 17. člen
 (enotni stroškovnik)
 Cene materialnih stroškov za posredovanje informacij javnega
@@ -485,9 +487,9 @@ odstavka zaračuna v skladu s 16., 17., 18. in 25. členom te uredbe.
 (3) Ne glede na določbo prejšnjega odstavka arhivi,
 muzeji in knjižnice kot zavezanci za ponovno uporabo zaračunavajo mejne
 stroške, pri izračunu katerih lahko kot upravičene stroške upoštevajo stroške
-razširjanja podatkov, to je predvsem stroške reprodukcije (na primer dodatni izvod
-USB-ključka), stroške obdelave oziroma priprave naročila, stroške dostave in
-stroške posebnih zahtev (na primer priprava in formatiranje podatkov na
+razširjanja podatkov, to je predvsem stroške reprodukcije (na primer dodatni
+izvod USB-ključka), stroške obdelave oziroma priprave naročila, stroške dostave
+in stroške posebnih zahtev (na primer priprava in formatiranje podatkov na
 zahtevo, digitalizacija).
 (4) Kadar arhivi, muzeji in knjižnice zaračunavajo mejne
 stroške za ponovno uporabo v skladu s prejšnjim odstavkom, morajo te stroške
@@ -519,8 +521,8 @@ oblikuje ceno samo za delež, ki ne pripada tretjim osebam.
 muzeji in arhivi oblikujejo ceno ponovne uporabe informacij oziroma gradiva
 tako, da pri izračunu upoštevajo ceno razpolaganja z zahtevanimi informacijami
 javnega značaja ali z zahtevanim arhivskim gradivom, delež ponovne uporabe (za
-katerekoli namene) glede na celoten obseg predvidene uporabe in v tej uredbi določene
-omejitve.
+katerekoli namene) glede na celoten obseg predvidene uporabe in v tej uredbi
+določene omejitve.
 (2) Cena ponovne uporabe, ki jo organ zaračuna
 posameznemu prosilcu, se določi glede na pričakovano število zainteresiranih
 prosilcev za ponovno uporabo ob upoštevanju obsega njihove ponovne uporabe. Ne
@@ -536,8 +538,8 @@ ki sestavljajo informacijo javnega značaja, pri čemer se ločeno upoštevajo
 stroški vzpostavitve in stroški vzdrževanja uporabnosti informacije javnega
 značaja, ki obsegajo:
 1.     
-amortizacijo potrebnih prostorov in opreme, ki se pretežno uporabljajo
-za upravljanje podatkov;
+amortizacijo potrebnih prostorov in opreme, ki se pretežno uporabljajo za
+upravljanje podatkov;
 2.     
 stroške nujno potrebnih storitev v zvezi z obdelavo podatkov
 (informacijske rešitve, zunanje obdelave podatkov in podobno);
@@ -612,6 +614,10 @@ datum prenehanja pravice izključne uporabe.
 (2) Organ objavi na svoji spletni strani in posreduje
 Informacijskemu pooblaščencu podatke iz prejšnjega odstavka v 15 dneh po
 dokončnosti podelitve pravice izključne uporabe.
+26.a člen
+(nabori podatkov velike vrednosti)
+Podatkovne zbirke, ki sodijo med nabore podatkov velike
+vrednosti, so določene v Prilogi 2, ki je sestavni del te uredbe.
 IX. LETNA POROČILA ORGANOV
 27. člen
 (vsebina letnega poročila)
@@ -645,9 +651,19 @@ temelji odločitev sodišča;
 skupno število zbirk podatkov in seznam tistih zbirk podatkov, ki v
 skladu z zakonom pomenijo odprte podatke za namen ponovne uporabe (stanje ob
 koncu poročevalskega obdobja).
-X. PREHODNA IN KONČNE DOLOČBE
+
+Priloga
+1: Podrobnejši opis metapodatkov javnih evidenc in informatiziranih zbirk
+Priloga
+2: Seznam podatkovnih zbirk, ki so nabori podatkov velike vrednosti
+
+Uredba o posredovanju in ponovni uporabi
+informacij javnega značaja (Uradni list RS, št. 24/16) vsebuje naslednjo prehodno in končne
+določbe:
+»X. PREHODNA IN KONČNE DOLOČBE
 28. člen
-(prilagoditev katalogov informacij javnega značaja)
+(prilagoditev katalogov
+informacij javnega značaja)
 Organi svoje kataloge informacij javnega značaja prilagodijo,
 vključno z novimi metapodatkovnimi opisi podatkovnih zbirk in evidenc iz 2.
 člena te uredbe, najpozneje do 31. decembra 2016.
@@ -658,20 +674,22 @@ stroškovniki, sprejeti na podlagi tretjega odstavka 19. člena Uredbe o
 posredovanju in ponovni uporabi informacij javnega značaja (Uradni list RS, št.
 76/05, 119/07 in 95/11).
 30. člen
-(prenehanje veljavnosti uredbe)
+(prenehanje veljavnosti
+uredbe)
 Z dnem uveljavitve te uredbe preneha veljati Uredba o
 posredovanju in ponovni uporabi informacij javnega značaja (Uradni list RS, št.
 76/05, 119/07 in 95/11), ki pa se uporablja do začetka uporabe te uredbe.
 31. člen
 (začetek veljavnosti)
 Ta uredba začne veljati naslednji dan po objavi v Uradnem listu
-Republike Slovenije, uporabljati pa se začne 8. maja 2016.
-Št. 00714-9/2016
-Ljubljana, dne 31. marca 2016
-EVA 2015-3130-0008
-Vlada Republike Slovenije
-dr. Miroslav Cerar l.r.
-Predsednik
+Republike Slovenije, uporabljati pa se začne 8. maja 2016.«.
 
-Priloga: Podrobnejši
-opis metapodatkov javnih evidenc in informatiziranih zbirk
+Uredba
+o spremembah in dopolnitvah Uredbe o posredovanju in ponovni uporabi informacij
+javnega značaja (Uradni list RS, št. 146/22)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+6. člen
+(začetek veljavnosti)
+Ta uredba začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

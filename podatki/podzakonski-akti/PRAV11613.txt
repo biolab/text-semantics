@@ -49,13 +49,13 @@ Kuretno, Lahomno, Lahomšek, Lahov Graben, Laška vas, Laško, Laziše, Leskovca
 Lipni Dol, Log pri Vrhovem, Lokavec, Loška Gora, Lože, Mačkovec, Mala Breza,
 Male Grahovše, Marija Gradec, Marijina vas, Močilno, Modrič, Mrzlo Polje,
 Njivice, Obrežje pri Zidanem Mostu, Obrežje, Ojstro, Olešče, Padež, Paneče,
-Plazovje, Počakovo, Polana, Povčeno, Požnica, Prapretno, Radeče, Radoblje,
-Reka, Rifengozd, Rimske Toplice, Rudna vas, Sedraž, Selo nad Laškim, Senožete,
-Sevce, Slivno, Spodnja Rečica, Stari Dvor, Stopce, Strensko, Strmca, Suhadol,
-Svibno, Šentrupert, Širje, Škofce, Šmihel, Šmohor, Tevče, Tovsto, Trnov Hrib,
-Trnovo, Trobni Dol, Trojno, Udmat, Velike Gorelce, Velike Grahovše, Veliko
-Širje, Vodiško, Vrh nad Laškim, Vrhovo, Zabrež, Zagrad, Zavrate, Zgornja
-Rečica, Zidani Most, Žebnik, Žigon;
+Plazovje, Počakovo, Polana, Povčeno, Požnica, Prapretno, Radeče, Radoblje, Reka,
+Rifengozd, Rimske Toplice, Rudna vas, Sedraž, Selo nad Laškim, Senožete, Sevce,
+Slivno, Spodnja Rečica, Stari Dvor, Stopce, Strensko, Strmca, Suhadol, Svibno,
+Šentrupert, Širje, Škofce, Šmihel, Šmohor, Tevče, Tovsto, Trnov Hrib, Trnovo,
+Trobni Dol, Trojno, Udmat, Velike Gorelce, Velike Grahovše, Veliko Širje,
+Vodiško, Vrh nad Laškim, Vrhovo, Zabrež, Zagrad, Zavrate, Zgornja Rečica,
+Zidani Most, Žebnik, Žigon;
 4.     
 Policijska postaja Mozirje, s sedežem v Mozirju, za območje naslednjih
 naselij:
@@ -67,8 +67,8 @@ Mozirju, Luče, Meliše, Mozirje, Nazarje, Nizka, Okonina, Planina, Podolševa,
 Podveža, Podvolovljek, Poljane, Potok, Prihova, Primož pri Ljubnem, Pusto
 Polje, Radegunda, Radmirje, Raduha, Rečica ob Savinji, Robanov Kot, Rovt pod
 Menino, Savina, Solčava, Spodnja Rečica, Spodnje Kraše, Spodnje Pobrežje,
-Strmec, Šentjanž, Šmartno ob Dreti, Šmihel nad Mozirjem, Šmiklavž, Ter,
-Tirosek, Trnovec, Varpolje, Volog, Zavodice, Zgornje Pobrežje, Žlabor;
+Strmec, Šentjanž, Šmartno ob Dreti, Šmihel nad Mozirjem, Šmiklavž, Ter, Tirosek,
+Trnovec, Varpolje, Volog, Zavodice, Zgornje Pobrežje, Žlabor;
 5.     
 Policijska postaja Radlje ob Dravi, s sedežem v Radljah ob Dravi, za
 območje naslednjih naselij:
@@ -118,26 +118,26 @@ Bezina, Bezovje nad Zrečami, Blato, Boharina, Brdo, Breg pri
 Konjicah, Brezen, Brezje pri Ločah, Bukovlje, Črešnova, Čretvež, Dobrava pri
 Konjicah, Dobrnež, Dobrovlje, Draža vas, Gabrovlje, Gabrovnik, Gorenje pri
 Zrečah, Gornja vas, Gračič, Hudinja, Kamna Gora, Klokočovnik, Koble, Kolačno,
-Konjiška vas, Koroška vas na Pohorju, Kraberk, Križevec, Ličenca, Lipa,
-Lipoglav, Ljubnica, Loče, Loška Gora pri Zrečah, Mala Gora, Mali Breg, Mlače,
-Nova vas pri Konjicah, Novo Tepanje, Osredek pri Zrečah, Ostrožno pri Ločah,
-Padeški Vrh, Paka, Penoje, Perovec, Petelinjek pri Ločah, Planina na Pohorju,
-Podob, Podpeč ob Dravinji, Polajna, Polene, Preloge pri Konjicah, Prežigal,
-Radana vas, Resnik, Rogla, Selski Vrh, Skomarje, Slovenske Konjice, Sojek, Spodnja
+Konjiška vas, Koroška vas na Pohorju, Kraberk, Križevec, Ličenca, Lipa, Lipoglav,
+Ljubnica, Loče, Loška Gora pri Zrečah, Mala Gora, Mali Breg, Mlače, Nova vas
+pri Konjicah, Novo Tepanje, Osredek pri Zrečah, Ostrožno pri Ločah, Padeški
+Vrh, Paka, Penoje, Perovec, Petelinjek pri Ločah, Planina na Pohorju, Podob,
+Podpeč ob Dravinji, Polajna, Polene, Preloge pri Konjicah, Prežigal, Radana
+vas, Resnik, Rogla, Selski Vrh, Skomarje, Slovenske Konjice, Sojek, Spodnja
 Pristava, Spodnje Grušovje, Spodnje Laže, Spodnje Preloge, Spodnje Stranice,
 Spodnji Dolič, Spodnji Jernej, Stare Slemene, Stenica, Stranice, Strtenik,
 Suhadol, Sveti Jernej, Škalce, Škedenj, Špitalič pri Slovenskih Konjicah,
 Štajerska vas, Tepanje, Tepanjski Vrh, Tolsti Vrh, Vešenik, Vitanje, Vitanjsko
-Skomarje, Zabork, Zbelovo, Zbelovska Gora, Zeče, Zgornja Pristava, Zgornje
-Laže, Zlakova, Zreče, Žiče;
+Skomarje, Zabork, Zbelovo, Zbelovska Gora, Zeče, Zgornja Pristava, Zgornje Laže,
+Zlakova, Zreče, Žiče;
 10.  
 Policijska postaja Šentjur pri Celju, s sedežem v Šentjurju, za območje
 naslednjih naselij:
 Bezovje pri Šentjurju, Bobovo pri Ponikvi, Boletina, Botričnica,
-Brdo, Brezje ob Slomu, Brezje pri Dobjem, Bukovje pri Slivnici, Cerovec,
-Črnolica, Dobje pri Lesičnem, Dobje pri Planini, Dobovec pri Ponikvi, Dobrina,
-Dole, Dolga Gora, Doropolje, Dramlje, Drobinsko, Golobinjek pri Planini, Gorica
-pri Dobjem, Gorica pri Slivnici, Goričica, Grobelno – del, Grušce, Hotunje,
+Brdo, Brezje ob Slomu, Brezje pri Dobjem, Bukovje pri Slivnici, Cerovec, Črnolica,
+Dobje pri Lesičnem, Dobje pri Planini, Dobovec pri Ponikvi, Dobrina, Dole,
+Dolga Gora, Doropolje, Dramlje, Drobinsko, Golobinjek pri Planini, Gorica pri
+Dobjem, Gorica pri Slivnici, Goričica, Grobelno – del, Grušce, Hotunje,
 Hrastje, Hruševec, Hrušovje, Jakob pri Šentjurju, Jarmovec, Javorje, Jazbin
 Vrh, Jazbine, Jelce, Jezerce pri Dobjem, Kalobje, Kameno, Kostrivnica, Košnica,
 Krajnčica, Krivica, Laze pri Dramljah, Lažiše, Loka pri Žusmu, Lokarje, Loke
@@ -253,12 +253,12 @@ Trsek, Truške, Tuljaki, Vanganel, Zabavlje, Zanigrad, Zazid, Zgornje Škofije,
 4.     
 Policijska postaja Kozina, s sedežem v Kozini, za območje naslednjih
 naselij:
-Artviže, Bač pri Materiji, Beka, Brezovica, Brezovo Brdo, Golac,
-Gradišče pri Materiji, Gradišica, Hotična, Hrpelje, Javorje, Klanec pri Kozini,
-Kovčice, Kozina, Krvavi Potok, Markovščina, Materija, Mihele, Mrše, Nasirec,
-Obrov, Ocizla, Odolina, Orehek pri Materiji, Petrinje, Poljane pri Podgradu,
-Povžane, Prešnica, Ritomeče, Rodik, Rožice, Skadanščina, Slivje, Slope, Tatre,
-Tublje pri Hrpeljah, Velike Loče, Vrhpolje;
+Artviže, Bač pri Materiji, Beka, Brezovica, Brezovo Brdo, Golac, Gradišče
+pri Materiji, Gradišica, Hotična, Hrpelje, Javorje, Klanec pri Kozini, Kovčice,
+Kozina, Krvavi Potok, Markovščina, Materija, Mihele, Mrše, Nasirec, Obrov,
+Ocizla, Odolina, Orehek pri Materiji, Petrinje, Poljane pri Podgradu, Povžane,
+Prešnica, Ritomeče, Rodik, Rožice, Skadanščina, Slivje, Slope, Tatre, Tublje
+pri Hrpeljah, Velike Loče, Vrhpolje;
 5.     
 Policijska postaja Piran, s sedežem v Luciji, za območja naslednjih
 naselij:
@@ -268,12 +268,12 @@ Portorož, Seča, Sečovlje, Strunjan, Sv. Peter;
 Policijska postaja Postojna, s sedežem v Postojni, za območje naslednjih
 naselij:
 Belsko, Brezje pod Nanosom, Buje, Bukovje, Čepno, Dilce, Dolnja
-Košana, Drskovče, Gorenje, Goriče, Gornja Košana, Gradec, Grobišče, Hrašče,
-Hrenovice, Hruševje, Jurišče, Kal, Klenik, Koče, Landol, Liplje, Lohača, Mala
-Brda, Mala Pristava, Mali Otok, Malo Ubeljsko, Matenja vas, Nadanje selo,
-Narin, Neverke, Nova Sušica, Orehek, Palčje, Parje, Petelinje, Pivka, Planina,
-Postojna, Predjama, Prestranek, Rakitnik, Rakulik, Razdrto, Ribnica, Sajevče,
-Selce, Slavina, Slavinje, Slovenska vas, Stara Sušica, Stara vas, Strane, Strmca,
+Košana, Drskovče, Gorenje, Goriče, Gornja Košana, Gradec, Grobišče, Hrašče, Hrenovice,
+Hruševje, Jurišče, Kal, Klenik, Koče, Landol, Liplje, Lohača, Mala Brda, Mala
+Pristava, Mali Otok, Malo Ubeljsko, Matenja vas, Nadanje selo, Narin, Neverke,
+Nova Sušica, Orehek, Palčje, Parje, Petelinje, Pivka, Planina, Postojna,
+Predjama, Prestranek, Rakitnik, Rakulik, Razdrto, Ribnica, Sajevče, Selce,
+Slavina, Slavinje, Slovenska vas, Stara Sušica, Stara vas, Strane, Strmca,
 Studenec, Studeno, Suhorje, Šilentabor, Šmihel, Šmihel pod Nanosom, Trnje,
 Velika Brda, Velika Pristava, Veliki Otok, Veliko Ubeljsko, Volče, Zagon,
 Zagorje, Žeje;
@@ -333,17 +333,16 @@ Ilovka, Jama, Jamnik, Javornik, Kokra, Kokrica, Kranj, Lahovče, Lavtarski Vrh,
 Letenice, Luže, Mače, Mavčiče, Meja, Milje, Mlaka pri Kranju, Možjanca, Naklo,
 Nemilje, Njivica, Nova vas, Okroglo, Olševek, Orehek, Orehovlje, Pangršica,
 Planica, Podblica, Podbrezje, Podreča, Polica, Potoče, Povlje, Poženik,
-Praprotna Polica, Praše, Prebačevo, Preddvor, Predoslje, Pšata, Pšenična
-Polica, Pševo, Rakovica, Ravne, Rupa, Sidraž, Spodnja Bela, Spodnja Besnica,
-Spodnje Bitnje, Spodnje Dup­lje, Spodnje Jezersko, Spodnji Brnik, Srakovlje,
-Srednja Bela, Srednja vas Goriče, Srednja vas pri Šenčurju, Srednje Bitnje,
-Stiška vas, Strahinj, Struževo, Suha pri Predosljah, Sveti Jošt nad Kranjem,
-Sveti Lenart, Šenčur, Šenturška Gora, Šmartno, Štefanja Gora, Šutna – del,
-Tatinec, Tenetiše, Trata pri Velesovem, Trboje, Trstenik, Tupaliče, Vašca,
-Velesovo, Visoko, Viševca, Voglje, Voklo, Vopovlje, Vrhovje, Zabukovje,
-Zadraga, Zalog, Zalog pri Cerkljah, Zgornja Bela, Zgornja Besnica, Zgornje
-Bitnje, Zgornje Duplje, Zgornje Jezersko, Zgornji Brnik, Žablje, Žabnica, Žeje,
-Žerjavka;
+Praprotna Polica, Praše, Prebačevo, Preddvor, Predoslje, Pšata, Pšenična Polica,
+Pševo, Rakovica, Ravne, Rupa, Sidraž, Spodnja Bela, Spodnja Besnica, Spodnje
+Bitnje, Spodnje Dup­lje, Spodnje Jezersko, Spodnji Brnik, Srakovlje, Srednja
+Bela, Srednja vas Goriče, Srednja vas pri Šenčurju, Srednje Bitnje, Stiška vas,
+Strahinj, Struževo, Suha pri Predosljah, Sveti Jošt nad Kranjem, Sveti Lenart,
+Šenčur, Šenturška Gora, Šmartno, Štefanja Gora, Šutna – del, Tatinec, Tenetiše,
+Trata pri Velesovem, Trboje, Trstenik, Tupaliče, Vašca, Velesovo, Visoko,
+Viševca, Voglje, Voklo, Vopovlje, Vrhovje, Zabukovje, Zadraga, Zalog, Zalog pri
+Cerkljah, Zgornja Bela, Zgornja Besnica, Zgornje Bitnje, Zgornje Duplje,
+Zgornje Jezersko, Zgornji Brnik, Žablje, Žabnica, Žeje, Žerjavka;
 4.     
 Policijska postaja Kranjska Gora, s sedežem v Kranjski Gori, za območje
 naslednjih naselij:
@@ -383,14 +382,13 @@ Potok, Pozirno, Praprotno, Predmost, Prelesje, Prtovč, Pungert, Puštal, Račev
 Ravne, Ravne pri Žireh, Reteče, Robidnica, Rovte v Selški Dolini, Rudno, Selca,
 Selo, Selške Lajše, Smoldno, Smoleva, Sopotnica, Sovodenj, Sovra, Spodnja Luša,
 Spodnja Sorica, Spodnje Danje, Srednja vas Poljane, Srednje Brdo, Staniše,
-Stara Loka, Stara Oselica, Stirpnik, Strmica, Studeno, Studor, Suha, Suša,Sv.
-Andrej, Sv. Barbara, Sv. Duh, Sv. Lenart, Sv. Ožbolt, Sv. Petra Hrib, Sv.
-Tomaž, Ševlje, Škofja Loka, Todraž, Topolje, Torka, Trata, Trebija, Trnje,
-Valterski Vrh, Vešter, Vincarje, Vinharje, Virlog, Virmaše, Visoko pri
-Poljanah, Volaka, Volča, Zabrdo, Zabrekve, Zabrežnik, Zadobje, Zakobiljek,
-Zala, Zali Log, Zapreval, Zgornja Luša, Zgornja Sorica, Zgornje Danje, Zminec,
-Žabja vas, Železniki, Žiri, Žirovski Vrh, Žirovski Vrh Sv. Antona, Žirovski Vrh
-Sv. Urbana;
+Stara Loka, Stara Oselica, Stirpnik, Strmica, Studeno, Studor, Suha, Suša,Sv. Andrej,
+Sv. Barbara, Sv. Duh, Sv. Lenart, Sv. Ožbolt, Sv. Petra Hrib, Sv. Tomaž,
+Ševlje, Škofja Loka, Todraž, Topolje, Torka, Trata, Trebija, Trnje, Valterski
+Vrh, Vešter, Vincarje, Vinharje, Virlog, Virmaše, Visoko pri Poljanah, Volaka,
+Volča, Zabrdo, Zabrekve, Zabrežnik, Zadobje, Zakobiljek, Zala, Zali Log,
+Zapreval, Zgornja Luša, Zgornja Sorica, Zgornje Danje, Zminec, Žabja vas, Železniki,
+Žiri, Žirovski Vrh, Žirovski Vrh Sv. Antona, Žirovski Vrh Sv. Urbana;
 7.     
 Policijska postaja Tržič, s sedežem v Tržiču, za območje naslednjih
 naselij:
@@ -412,8 +410,8 @@ Andrejčje, Babna Polica, Babno Polje, Beč, Bečaje, Begunje pri
 Cerknici, Benete, Bezuljak, Bločice, Bloška Polica, Bočkovo, Brezje, Cajnarje,
 Cerknica, Čohovo, Dane, Dobec, Dolenja vas, Dolenje Jezero, Dolenje Otave,
 Dolenje Poljane, Fara, Glina, Godičevo, Gora, Gorenje Jezero, Gorenje Otave,
-Goričice, Gradiško, Grahovo, Hiteno, Hribarjevo, Hribljane, Hruškarje, Hudi
-Vrh, Iga vas, Ivanje selo, Jeršanovo, Jeršiče, Klance, Knežja Njiva, Korošče,
+Goričice, Gradiško, Grahovo, Hiteno, Hribarjevo, Hribljane, Hruškarje, Hudi Vrh,
+Iga vas, Ivanje selo, Jeršanovo, Jeršiče, Klance, Knežja Njiva, Korošče,
 Koščake, Kozarišče, Kožljek, Kramplje, Kranjče, Kremenca, Krušče, Kržišče,
 Lahovo, Laze pri Gorenjem Jezeru, Lepi Vrh, Lešnjake, Lipsenj, Lovranovo, Lož,
 Mahneti, Malni, Markovec, Martinjak, Metulje, Milava, Mramorovo pri Lužarjih,
@@ -458,8 +456,8 @@ Jelnik, Videm pri Lukovici, Vinje pri Moravčah, Vir, Vošce, Vranke, Vrba, Vrh
 nad Krašnjo, Vrhovlje, Vrhpolje pri Moravčah, Zaboršt, Zagorica pri Rovah,
 Zalog pod Sv. Trojico, Zalog pri Kresnicah, Zalog pri Moravčah, Zavrh pri
 Trojanah, Zgornja Dobrava, Zgornja Javoršica, Zgornje Jarše, Zgornje Koseze,
-Zgornje Loke, Zgornje Prapreče, Zgornji Petelinjek, Zgornji Prekar, Zgornji
-Tuštanj, Zlatenek, Zlato Polje, Žeje, Želodnik, Žiče, Žirovše;
+Zgornje Loke, Zgornje Prapreče, Zgornji Petelinjek, Zgornji Prekar, Zgornji Tuštanj,
+Zlatenek, Zlato Polje, Žeje, Želodnik, Žiče, Žirovše;
 3.     
 Policijska postaja Grosuplje, s sedežem v Grosuplju, za območje naslednjih
 naselij:
@@ -528,14 +526,14 @@ Mlaka pri Kočevju, Mlaka pri Kočevski Reki, Mokri Potok, Morava, Mozelj,
 Mrtvice, Muha vas, Nemška Loka, Nova sela, Nove Ložine, Novi Lazi, Ograja,
 Onek, Osilnica, Oskrt, Padovo pri Fari, Padovo pri Osilnici, Paka pri
 Predgradu, Papeži, Petrina, Pirče, Planina, Poden, Podjetniško naselje Kočevje,
-Podlesje, Podstene, Podstene pri Kostelu, Podvrh, Polom, Potok, Predgrad,
-Preža, Primoži, Puc, Pugled pri Starem Logu, Raihenav, Rajndol, Rajšele, Rake,
-Ribjek, Rogati Hrib, Sadni Hrib, Sapnik, Seč, Sela, Selo pri Kostelu, Slavski
-Laz, Slovenska vas, Smuka, Spodnja Bilpa, Spodnji Čačič, Spodnji Log, Srednji
-Potok, Srobotnik ob Kolpi, Stara Cerkev, Stari Breg, Stari Log, Staro Brezje,
-Stelnik, Strojiči, Stružnica, Suhi Potok, Suhor, Svetli Potok, Šalka vas,
-Škrilj, Štajer, Štalcerji, Tišenpolj, Topla Reber, Trnovec, Vas, Vimolj, Vimolj
-pri Predgradu, Vrbovec, Vrh pri Fari, Vrt, Zajčje Polje, Zapuže pri Kostelu,
+Podlesje, Podstene, Podstene pri Kostelu, Podvrh, Polom, Potok, Predgrad, Preža,
+Primoži, Puc, Pugled pri Starem Logu, Raihenav, Rajndol, Rajšele, Rake, Ribjek,
+Rogati Hrib, Sadni Hrib, Sapnik, Seč, Sela, Selo pri Kostelu, Slavski Laz,
+Slovenska vas, Smuka, Spodnja Bilpa, Spodnji Čačič, Spodnji Log, Srednji Potok,
+Srobotnik ob Kolpi, Stara Cerkev, Stari Breg, Stari Log, Staro Brezje, Stelnik,
+Strojiči, Stružnica, Suhi Potok, Suhor, Svetli Potok, Šalka vas, Škrilj,
+Štajer, Štalcerji, Tišenpolj, Topla Reber, Trnovec, Vas, Vimolj, Vimolj pri
+Predgradu, Vrbovec, Vrh pri Fari, Vrt, Zajčje Polje, Zapuže pri Kostelu,
 Zdihovo, Zgornji Čačič, Željne, Žurge in za območje:
 - 
 mejnega prehoda za mednarodni cestni potniški in tovorni promet Petrina,
@@ -568,10 +566,10 @@ Spodnja Jablanica, Spodnje Jelenje, Spodnji Hotič, Spodnji Log, Stara Gora pri
 Velikem Gabru, Stranski Vrh, Strmec, Suhadole, Ščit, Širmanski Hrib, Široka
 Set, Šmartno pri Litiji, Štangarske Poljane, Šumnik, Tenetiše, Tepe, Tihaboj,
 Tlaka, Tolsti Vrh, Vače, Velika Goba, Velika Kostrevnica, Velika Preska, Velika
-Štanga, Veliki Vrh pri Litiji, Vernek, Vinji Vrh, Vintarjevec, Višnji Grm, Vodice
-pri Gabrovki, Volčja Jama, Vovše, Vrata, Zagorica, Zagozd, Zagrič, Zapodje,
-Zavrh, Zavrstnik, Zglavnica, Zgornja Jablanica, Zgornja Jevnica, Zgornji Hotič,
-Zgornji Log;
+Štanga, Veliki Vrh pri Litiji, Vernek, Vinji Vrh, Vintarjevec, Višnji Grm,
+Vodice pri Gabrovki, Volčja Jama, Vovše, Vrata, Zagorica, Zagozd, Zagrič,
+Zapodje, Zavrh, Zavrstnik, Zglavnica, Zgornja Jablanica, Zgornja Jevnica,
+Zgornji Hotič, Zgornji Log;
 8.     
 Policijska postaja Ljubljana Bežigrad, s sedežem v Ljubljani, za območje
 četrtne skupnosti Črnuče, Posavje in Bežigrad;
@@ -601,12 +599,12 @@ Draževnik, Drenik, Dvor pri Polhovem Gradcu, Gabrje, Glinek, Golo, Gorenja
 Brezovica, Gorenje blato, Goričica pod Krimom, Gornji Ig, Gradišče nad Pijavo
 Gorico, Gumnišče, Horjul, Hrastenice, Hruševo, Ig, Iška, Iška Loka, Iška vas,
 Jezero, Kamnik pod Krimom Klada, Komanija, Koreno nad Horjulom, Kot, Kremenica,
-Lanišče, Lavrica, Lesno Brdo, Ljubgojna, Log pri Polhovem Gradcu, Matena, Notranje
-Gorice, Orle, Osredek pri Dobrovi, Pijava Gorica, Planina nad Horjulom,
-Planinca, Pleše, Plešivica, Podgozd, Podolnica, Podpeč, Podreber, Podsmreka,
-Polhov Gradec, Praproče, Preserje, Prevalje pod Krimom, Pristava pri Polhovem
-Gradcu, Podpleševica, Rakitna, Razori, Reber pri Škofljici, Rogatec nad
-Želimljami, Rovt, Samotornica, Sarsko, Selnik, Selo nad Polhovim Gradcem,
+Lanišče, Lavrica, Lesno Brdo, Ljubgojna, Log pri Polhovem Gradcu, Matena,
+Notranje Gorice, Orle, Osredek pri Dobrovi, Pijava Gorica, Planina nad
+Horjulom, Planinca, Pleše, Plešivica, Podgozd, Podolnica, Podpeč, Podreber,
+Podsmreka, Polhov Gradec, Praproče, Preserje, Prevalje pod Krimom, Pristava pri
+Polhovem Gradcu, Podpleševica, Rakitna, Razori, Reber pri Škofljici, Rogatec
+nad Želimljami, Rovt, Samotornica, Sarsko, Selnik, Selo nad Polhovim Gradcem,
 Setnica – del, Setnik, Smolnik, Smrjene, Srednja vas pri Polhovem Gradcu,
 Srednji vrh, Staje, Strahomer, Stranska vas, Suša, Šentjošt nad Horjulom,
 Škofljica, Škrilje, Šujica, Tomišelj, Visoko, Vnanje Gorice, Vrbljene, Vrh nad
@@ -622,9 +620,9 @@ Zaplana – del, Žibrše;
 14.  
 Policijska postaja Medvode, s sedežem v Medvodah, za območje naslednjih
 naselij:
-Belo, Brezovica pri Medvodah, Bukovica pri Vodicah, Dobruša, Dol,
-Dornice, Dragočajna, Golo Brdo, Goričane, Hraše, Koseze, Ladja, Medvode, Moše,
-Osolnik, Polje pri Vodicah, Povodje, Rakovnik, Repnje, Selo pri Vodicah, Seničica,
+Belo, Brezovica pri Medvodah, Bukovica pri Vodicah, Dobruša, Dol, Dornice,
+Dragočajna, Golo Brdo, Goričane, Hraše, Koseze, Ladja, Medvode, Moše, Osolnik,
+Polje pri Vodicah, Povodje, Rakovnik, Repnje, Selo pri Vodicah, Seničica,
 Skaručna, Smlednik, Sora, Spodnja Senica, Spodnje Pirniče, Studenčice, Šinkov
 Turn, Tehovec, Topol pri Medvodah, Torovo, Trnovec, Utik, Valburga, Vaše,
 Verje, Vesca, Vikrče, Vodice, Vojsko, Zapoge, Zavrh pod Šmarno goro, Zbilje,
@@ -887,13 +885,12 @@ in Ženavlje;
 3.     
 Policijska postaja Lendava, s sedežem v Lendavi, za območje naslednjih
 naselij:
-Banuta, Benica, Brezovica, Brezovec – del, Čentiba, Črenšovci,
-Dobrovnik, Dolga vas, Dolgovaške Gorice, Dolina pri Lendavi, Dolnja Bistrica,
-Dolnji Lakoš, Gaberje, Genterovci, Gomilica, Gornja Bistrica, Gornji Lakoš,
-Hotiza, Kamovci, Kapca, Kobilje, Kot, Lendava, Lendavske Gorice, Mala Polana,
-Mostje, Nedelica, Odranci, Petišovci, Pince, Pince Marof, Radmožanci, Renkovci,
-Srednja Bistrica, Strehovci, Trimlini, Trnje, Turnišče, Velika Polana,
-Žitkovci, Žižki;
+Banuta, Benica, Brezovica, Čentiba, Črenšovci, Dobrovnik, Dolga
+vas, Dolgovaške Gorice, Dolina pri Lendavi, Dolnja Bistrica, Dolnji Lakoš,
+Gaberje, Genterovci, Gomilica, Gornja Bistrica, Gornji Lakoš, Hotiza, Kamovci,
+Kapca, Kobilje, Kot, Lendava, Lendavske Gorice, Mala Polana, Mostje, Nedelica,
+Odranci, Petišovci, Pince, Pince Marof, Radmožanci, Renkovci, Srednja Bistrica,
+Strehovci, Trimlini, Trnje, Turnišče, Velika Polana, Žitkovci, Žižki;
 4.     
 Policijska postaja Ljutomer, s sedežem v Ljutomeru, za območje
 naslednjih naselij:
@@ -917,13 +914,13 @@ vas, Dankovci, Dokležovje, Dolina, Domajinci, Filovci, Fokovci, Gančani,
 Gederovci, Gerlinci, Gorica, Gornji Črnci, Gradišče, Ivanci, Ivanjševci,
 Ivanovci, Ižakovci, Kančevci, Korovci, Krajna, Krašči, Krnci, Krog, Kupšinci,
 Kuštanovci, Lemerje, Lipa, Lipovci, Lončarovci, Lukačevci, Mačkovci,
-Markišavci, Martjanci, Melinci, Mlajtinci, Moravske Toplice, Moščanci,
-Motvarjevci, Murska Sobota, Murski Črnci, Murski Petrovci, Nemčavci, Noršinci,
-Otovci, Pečarovci, Petanjci, Polana, Pordašinci, Poznanovci, Predanovci,
-Prosečka vas, Prosenjakovci, Puconci, Pušča, Puževci, Rakičan, Rankovci,
-Ratkovci, Satahovci, Sebeborci, Selo, Skakovci, Sodišinci, Središče, Strukovci,
-Suhi Vrh, Šalamenci, Tešanovci, Tišina, Topolovci, Tropovci, Vadarci, Vanča
-vas, Vaneča, Veščica, Vučja Gomila, Zenkovci.
+Markišavci, Martjanci, Melinci, Mlajtinci, Moravske Toplice, Moščanci, Motvarjevci,
+Murska Sobota, Murski Črnci, Murski Petrovci, Nemčavci, Noršinci, Otovci,
+Pečarovci, Petanjci, Polana, Pordašinci, Poznanovci, Predanovci, Prosečka vas,
+Prosenjakovci, Puconci, Pušča, Puževci, Rakičan, Rankovci, Ratkovci, Satahovci,
+Sebeborci, Selo, Skakovci, Sodišinci, Središče, Strukovci, Suhi Vrh, Šalamenci,
+Tešanovci, Tišina, Topolovci, Tropovci, Vadarci, Vanča vas, Vaneča, Veščica,
+Vučja Gomila, Zenkovci.
 8. člen
 (Policijska uprava Nova Gorica)
 Za neposredno opravljanje policijskih nalog
@@ -993,8 +990,8 @@ Policijska postaja Tolmin, s sedežem v Tolminu, za območje naslednjih
 naselij:
 Bača pri Modreju, Bača pri Podbrdu, Bukovski Vrh, Čadrg, Čiginj,
 Daber, Dolenja Trebuša, Dolgi Laz, Dolje, Drobočnik, Gabrje, Gorenja Trebuša,
-Gorenji Log, Gorski Vrh, Grahovo ob Bači, Grant, Grudnica, Hudajužna, Idrija
-pri Bači, Kal, Kamno, Kanalski Lom, Klavže, Kneške Ravne, Kneža, Koritnica,
+Gorenji Log, Gorski Vrh, Grahovo ob Bači, Grant, Grudnica, Hudajužna, Idrija pri
+Bači, Kal, Kamno, Kanalski Lom, Klavže, Kneške Ravne, Kneža, Koritnica,
 Kozaršče, Kozmerice, Kuk, Lisec, Ljubinj, Logaršče, Loje, Modrej, Modrejce,
 Most na Soči, Obloke, Pečine, Petrovo Brdo, Podbrdo, Podmelec, Polje,
 Poljubinj, Ponikve, Porezen, Postaja, Prapetno, Prapetno Brdo, Roče, Rut, Sela
@@ -1022,12 +1019,12 @@ Jereslavec, Jesenice, Kamence, Kapele, Koritno, Kraška vas, Križe, Krška vas,
 Laze, Loče, Mala Dolina, Mali Cirnik, Mali Obrež, Mali Vrh, Mihalovec, Mostec,
 Mrzlava vas, Nova vas ob Sotli, Nova vas pri Mokricah, Obrežje, Oklukova Gora,
 Orešje na Bizeljskem, Pavlova vas, Pečice, Perišče, Piršenbreg, Pišece,
-Podgorje pri Pišecah, Podgračeno, Podvinje, Ponikve, Poštena vas, Prilipe,
-Račja vas, Rajec, Rakovec, Ribnica, Rigonce, Sela pri Dobovi, Silovec,
-Slogonsko, Slovenska vas, Sobenja vas, Spodnja Pohanca, Sromlje, Stankovo,
-Stara vas Bizeljsko, Stojanski Vrh, Šentlenart, Trebež, Trnje, Velika Dolina,
-Velike Malence, Veliki Obrež, Vinji Vrh, Vitna vas, Volčje, Vrhje, Vrhovska
-vas, Zasap, Zgornja Pohanca, Zgornji Obrež, Žejno, Župeča vas, Župelevec;
+Podgorje pri Pišecah, Podgračeno, Podvinje, Ponikve, Poštena vas, Prilipe, Račja
+vas, Rajec, Rakovec, Ribnica, Rigonce, Sela pri Dobovi, Silovec, Slogonsko,
+Slovenska vas, Sobenja vas, Spodnja Pohanca, Sromlje, Stankovo, Stara vas
+Bizeljsko, Stojanski Vrh, Šentlenart, Trebež, Trnje, Velika Dolina, Velike
+Malence, Veliki Obrež, Vinji Vrh, Vitna vas, Volčje, Vrhje, Vrhovska vas,
+Zasap, Zgornja Pohanca, Zgornji Obrež, Žejno, Župeča vas, Župelevec;
 2.     
 Policijska postaja Črnomelj, s sedežem v Črnomlju, za območje naslednjih
 naselij:
@@ -1076,8 +1073,8 @@ Reber, Rumanja vas, Sadinja vas pri Dvoru, Sela pri Ajdovcu, Sela pri Dol.
 Toplicah, Sela pri Hinjah, Selišče, Soteska, Srednji Lipovec, Stare Žage,
 Stavča vas, Straža, Suhor pri Dol. Toplicah, Šmihel pri Žužemberku, Travni Dol,
 Trebča vas, Uršna sela, Vavta vas, Veliki Lipovec, Veliki Rigelj, Veliko Lipje,
-Verdun pri Uršnih selih, Vinkov Vrh, Visejec, Vrh pri Hinjah, Vrh pri Križu,
-Vrhovo pri Žužemberku, Zafara, Zalisec, Zalog, Žužemberk, Žvirče;
+Verdun pri Uršnih selih, Vinkov Vrh, Visejec, Vrh pri Hinjah, Vrh pri Križu, Vrhovo
+pri Žužemberku, Zafara, Zalisec, Zalog, Žužemberk, Žvirče;
 4.     
 Policijska postaja Krško, s sedežem v Krškem, za območje naslednjih
 naselij:
@@ -1105,13 +1102,13 @@ ob Krki, Pristava pod Rako, Pristava pri Leskovcu, Prušnja vas, Raka, Ravne pri
 Zdolah, Ravni, Ravno, Raztez, Reštanj, Rožno, Ržišče, Sajevce, Sela pri Raki,
 Selce pri Leskovcu, Selo, Senovo, Senožete, Senuše, Slinovce, Slivje, Smečice,
 Smednik, Sotelsko, Spodnja Libna, Spodnje Dule, Spodnje Pijavško, Spodnji Stari
-Grad, Srednje Arto, Srednje Pijavško, Sremič, Stari Grad, Stari Grad v
-Podbočju, Stolovnik, Stranje, Straža pri Krškem, Straža pri Raki, Strmo Rebro,
-Šedem, Šutna, Trška Gora, Velika vas pri Krškem, Velike Vodenice, Veliki Dol,
-Veliki Kamen, Veliki Koren, Veliki Podlog, Veliki Trn, Veliko Mraševo, Veniše,
-Videm, Vihre, Volovnik, Vrbina, Vrbje, Vrh pri Površju, Vrhulje, Vrtača,
-Zaboršt, Zabukovje pri Raki, Zaloke, Zdole, Žabjek v Podbočju, Žadovinek, Ženje
-in za območje mejnega prehoda za obmejni promet Planina v Podbočju;
+Grad, Srednje Arto, Srednje Pijavško, Sremič, Stari Grad, Stari Grad v Podbočju,
+Stolovnik, Stranje, Straža pri Krškem, Straža pri Raki, Strmo Rebro, Šedem,
+Šutna, Trška Gora, Velika vas pri Krškem, Velike Vodenice, Veliki Dol, Veliki
+Kamen, Veliki Koren, Veliki Podlog, Veliki Trn, Veliko Mraševo, Veniše, Videm,
+Vihre, Volovnik, Vrbina, Vrbje, Vrh pri Površju, Vrhulje, Vrtača, Zaboršt,
+Zabukovje pri Raki, Zaloke, Zdole, Žabjek v Podbočju, Žadovinek, Ženje in za
+območje mejnega prehoda za obmejni promet Planina v Podbočju;
 5.     
 Policijska postaja Metlika, s sedežem v Metliki, za območje naslednjih
 naselij:
@@ -1150,11 +1147,10 @@ vasi, Ratež, Sela, Sela pri Ratežu, Sela pri Štravberku, Sela pri Zajčjem Vr
 Sela pri Zburah, Selo pri Zagorici, Sevno, Smolenja vas, Srebrniče, Srednje
 Grčevje, Srednji Globodol, Stopiče, Stranska vas, Strelac, Suhor, Šentjošt,
 Šentjurij na Dolenjskem, Škrjanče pri Novem mestu, Šmarješke Toplice, Šmarjeta,
-Štravberk, Trška Gora, Velike Brusnice, Veliki Cerovec, Veliki Kal, Veliki
-Orehek, Veliki Podljuben, Veliki Slatnik, Verdun, Vinica pri Šmarjeti, Vinja
-vas, Vinji Vrh, Vrh pri Ljubnu, Vrh pri Pahi, Vrhe, Vrhovo pri Mirni Peči,
-Vrhpeč, Zagrad pri Otočcu, Zajčji Vrh pri Stopičah, Zbure, Žaloviče, Ždinja
-vas, Žihovo selo;
+Štravberk, Trška Gora, Velike Brusnice, Veliki Cerovec, Veliki Kal, Veliki Orehek,
+Veliki Podljuben, Veliki Slatnik, Verdun, Vinica pri Šmarjeti, Vinja vas, Vinji
+Vrh, Vrh pri Ljubnu, Vrh pri Pahi, Vrhe, Vrhovo pri Mirni Peči, Vrhpeč, Zagrad
+pri Otočcu, Zajčji Vrh pri Stopičah, Zbure, Žaloviče, Ždinja vas, Žihovo selo;
 7.     
 Policijska postaja Sevnica, s sedežem v Sevnici, za območje naslednjih
 naselij:
@@ -1163,20 +1159,20 @@ Brezovo, Bučka, Budna vas, Cerovec, Čanje, Čelovnik, Češnjice, Dedna Gora,
 Dolenje Radulje, Dolenji Boštanj, Dolnje Brezovo, Dolnje Impolje, Dolnje Orle,
 Drožanje, Drušče, Dule, Gabrijele, Gabrje, Gorenje Radulje, Gornja Stara vas,
 Gornje Brezovo, Gornje Impolje, Gornje Orle, Goveji Dol, Hinje, Hudo Brezje,
-Jablanica, Jarčji Vrh, Jelovec, Jeperjek, Jerman Vrh, Kal pri Krmelju,
-Kamenica, Kamenško, Kaplja vas, Kladje nad Blanco, Kladje pri Krmelju,
-Koludrje, Kompolje, Konjsko, Krajna Brda, Križ, Krmelj, Krsinji Vrh, Laze pri
-Boštanju, Ledina, Leskovec v Podborštu, Log, Loka pri Zidanem Mostu, Lončarjev
-Dol, Lukovec, Mala Hubajnica, Malkovec, Metni Vrh, Močvirje, Mrtovec, Mrzla
-Planina, Novi Grad, Okroglice, Orehovo, Orešje nad Sevnico, Osredek pri Hubajnici,
-Osredek pri Krmelju, Otavnik, Pavla vas, Pečje, Pijavice, Podboršt, Podgorica,
-Podgorje ob Sevnični, Podvrh, Poklek nad Blanco, Polje pri Tržišču, Ponikve pri
-Studencu, Preska, Prešna Loka, Primož, Račica, Radež, Radna, Razbor, Rogačice,
-Rovišče pri Studencu, Selce nad Blanco, Sevnica, Skrovnik, Slančji Vrh, Slap,
-Spodnje Mladetiče, Spodnje Vodale, Srednik, Stržišče, Studenec, Svinjsko,
-Šentjanž, Šentjur na Polju, Škovec, Šmarčna, Štajngrob, Štrit, Telče, Telčice,
-Trnovec, Trščina, Tržišče, Velika Hubajnica, Veliki Cirnik, Vranje, Vrh pri
-Boštanju, Vrhek, Zaboršt, Zabukovje nad Sevnico, Zavratec, Zgornje Mladetiče, Zgornje
+Jablanica, Jarčji Vrh, Jelovec, Jeperjek, Jerman Vrh, Kal pri Krmelju, Kamenica,
+Kamenško, Kaplja vas, Kladje nad Blanco, Kladje pri Krmelju, Koludrje, Kompolje,
+Konjsko, Krajna Brda, Križ, Krmelj, Krsinji Vrh, Laze pri Boštanju, Ledina,
+Leskovec v Podborštu, Log, Loka pri Zidanem Mostu, Lončarjev Dol, Lukovec, Mala
+Hubajnica, Malkovec, Metni Vrh, Močvirje, Mrtovec, Mrzla Planina, Novi Grad,
+Okroglice, Orehovo, Orešje nad Sevnico, Osredek pri Hubajnici, Osredek pri
+Krmelju, Otavnik, Pavla vas, Pečje, Pijavice, Podboršt, Podgorica, Podgorje ob
+Sevnični, Podvrh, Poklek nad Blanco, Polje pri Tržišču, Ponikve pri Studencu,
+Preska, Prešna Loka, Primož, Račica, Radež, Radna, Razbor, Rogačice, Rovišče
+pri Studencu, Selce nad Blanco, Sevnica, Skrovnik, Slančji Vrh, Slap, Spodnje
+Mladetiče, Spodnje Vodale, Srednik, Stržišče, Studenec, Svinjsko, Šentjanž,
+Šentjur na Polju, Škovec, Šmarčna, Štajngrob, Štrit, Telče, Telčice, Trnovec,
+Trščina, Tržišče, Velika Hubajnica, Veliki Cirnik, Vranje, Vrh pri Boštanju,
+Vrhek, Zaboršt, Zabukovje nad Sevnico, Zavratec, Zgornje Mladetiče, Zgornje
 Vodale, Znojile pri Studencu, Žigrski Vrh, Žirovnica, Žurkov Dol;
 8.     
 Policijska postaja Šentjernej, s sedežem v Šentjerneju, za območje
@@ -1284,3 +1280,11 @@ objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne
 1. decembra 2023. Do takrat se uporablja Pravilnik o območjih in sedežih
 območnih policijskih postaj (Uradni list RS, št. 38/13,
 18/14 in 78/15).«.
+
+Pravilnik
+o spremembi Pravilnika o območjih in sedežih območnih policijskih postaj (Uradni list RS, št. 2/23)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
+Ta pravilnik začne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.

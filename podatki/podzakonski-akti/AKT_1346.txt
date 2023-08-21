@@ -1,0 +1,315 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina splošnega akta)
+Ta splošni akt ureja kakovost univerzalne storitve, parametre
+kakovosti, njihove mejne vrednosti in metode merjenja ter vsebino, obliko,
+način in pogostost objave podatkov o kakovosti univerzalne storitve.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem splošnem aktu, pomenijo:
+1.     
+Čas odprave okvar je čas, merjen v urah, ki preteče od sprejetja
+veljavne prijave okvare pri ustrezni službi izvajalca univerzalne storitve do
+odstranitve okvare in povrnitve v prejšnje delujoče stanje.
+2.     
+Čas vzpostavitve storitve je čas, ki preteče od sprejetja veljavne
+zahteve končnega uporabnika, ki jo končni uporabnik poda ustno, pisno ali v
+drugi dogovorjeni obliki, za priključitev na javno komunikacijsko omrežje,
+oziroma od uveljavitve pogodbe o sklenitvi naročniškega razmerja, ki končnemu
+uporabniku omogoča dostop do govorne komunikacijske storitve, do vzpostavitve
+dogovorjene storitve.
+3.     
+Čas vzpostavljanja klica je čas, merjen v sekundah na eno decimalko
+natančno, ki preteče od trenutka, ko je javno komunikacijsko omrežje prejelo
+vse potrebne informacije za vzpostavitev govorne komunikacijske storitve, pa do
+trenutka, ko kličoči prejme znak za zasedeno, za zvonjenje ali signal
+javljanja.
+4.     
+Delež neuspelih klicev je razmerje v odstotkih med neuspelimi klici in
+vsemi poizkusi vzpostavitve zvez v določenem časovnem obdobju.
+5.     
+Delež ugovorov je razmerje v odstotkih med številom računov za
+univerzalno storitev, na katere so se končni uporabniki utemeljeno pritožili
+zaradi nepravilnosti in številom vseh izdanih računov za univerzalno storitev v
+določenem časovnem obdobju.
+6.     
+Neuspeli klic je klic na veljavno številko v javnem omrežju, ki je bila
+pravilno izbrana, kjer se po 30 sekundah od trenutka, ko omrežje prejme vse
+potrebne informacije za vzpostavitev zveze, na terminalu kličočega ne pojavi
+znak za zasedeno ali za zvonjenje ali signal javljanja.
+7.     
+Odzivni čas univerzalne imeniške službe je čas, ki preteče od trenutka,
+ko javno komunikacijsko omrežje prejme vse potrebne informacije za vzpostavitev
+govorne komunikacijske storitve, do trenutka, ko se oglasi telefonist iz
+univerzalne imeniške službe ali enakovreden, glasovno krmiljen sistem
+(prepoznava govora).
+8.     
+Razpoložljivost storitve je čas, ko izvajalec univerzalne storitve
+zagotavlja delujočo storitev.
+9.     
+Veljavna prijava okvare je prijava prekinitve ali poslabšanja kakovosti
+storitve zaradi okvare v javnem komunikacijskem omrežju izvajalca univerzalne
+storitve, ali kateremkoli od medomrežno povezanih javnih komunikacijskih
+omrežij. Pri tem se ne upoštevajo okvare kakršnekoli opreme, ki je ne upravlja
+izvajalec univerzalne storitve.
+10.  
+Vršna ura je čas statistično največje obremenitve fiksnega omrežja, ki
+traja največ dve uri in pol v določenem neprekinjenem obdobju dneva.
+(2) Preostali izrazi, uporabljeni v tem splošnem aktu, imajo
+enak pomen, kot je določen v Zakonu o elektronskih komunikacijah (Uradni list
+RS, št. 130/22 in 18/23 – ZDU-1O; v nadaljnjem besedilu: zakon).
+II. IZVAJANJE UNIVERZALNE STORITVE
+3. člen
+(dostop do storitev iz nabora univerzalnih storitev)
+(1) Izvajalec univerzalne storitve, ki zagotavlja eno ali več
+storitev iz nabora univerzalne storitve po 166. členu zakona, mora omogočati
+dostop do storitev 24 ur na dan in sedem dni v tednu.
+(2) Ne glede na prejšnji odstavek se sme omejiti ali
+prekiniti izvajanje storitev iz prejšnjega odstavka na način, pod pogoji in v
+trajanju, kot je določeno v 125. in 208. členu zakona.
+(3) Izvajalec univerzalne storitve priključitve na javno
+komunikacijsko omrežje mora organizirati službo za prijavo okvar, ki mora
+delovati nepretrgoma 24 ur na dan in sedem dni v tednu. Izvajalci storitve iz
+167. člena zakona morajo organizirati službo za prijavo okvar, ki mora delovati
+vsak delovni dan in mora poskrbeti za odpravo okvar. Prijave okvar morajo biti
+zabeležene s pomočjo informacijskega sistema za obdelavo podatkov.
+4. člen
+(prenosna hitrost širokopasovnega dostopa do interneta)
+(1) Prenosna hitrost širokopasovnega dostopa do interneta
+mora biti v skladu s splošnim aktom Agencije za komunikacijska omrežja in
+storitve Republike Slovenije (v nadaljnjem besedilu: agencija), izdanim na
+podlagi prvega odstavka 180. člena zakona.
+(2) Izvajalec univerzalne storitve širokopasovnega dostopa do
+interneta mora zagotavljati enako hitrost prenosa podatkov, kot pri primerljivih
+storitvah izvajalca, ki jih ponuja na trgu pod komercialnimi pogoji.
+5. člen
+(univerzalni imenik in univerzalna imeniška služba)
+(1) Če ima izvajalec univerzalne storitve, ki zagotavlja
+univerzalni imenik, v odločbi določeno obveznost izdaje tiskanega imenika, mora
+poskrbeti, da končni uporabnik dobi tiskano verzijo imenika najkasneje v roku
+sedem dni od zahteve, razen v primeru, ko je od zahteve do izida novega imenika
+le 30 dni ali manj in bi bil potreben ponatis, v tem primeru se končnemu
+uporabniku posreduje nov imenik.
+(2) Izvajalec univerzalne storitve mora poskrbeti, da je
+elektronska oblika imenika ves čas dostopna na internetu.
+(3) Izvajalec univerzalne storitve, ki zagotavlja univerzalno
+imeniško službo, mora poskrbeti, da ta deluje nemoteno 24 ur na dan in sedem
+dni v tednu.
+6. člen
+(ukrepi za končne uporabnike – invalide)
+Izvajalec univerzalne storitve, ki zagotavlja ukrepe za
+končne uporabnike – invalide, mora le-te izvajati redno, nemoteno in trajno.
+III. KAKOVOST UNIVERZALNE STORITVE
+7. člen
+(parametri kakovosti)
+(1) Parametri kakovosti, povezani z izvajanjem univerzalne
+storitve, so:
+1.     
+čas vzpostavitve storitve,
+2.     
+razpoložljivost storitve,
+3.     
+čas odprave okvar,
+4.     
+delež neuspelih klicev,
+5.     
+čas vzpostavljanja klica,
+6.     
+običajno razpoložljiva prenosna hitrost,
+7.     
+minimalna hitrost prenosa podatkov,
+8.     
+maksimalna skupna zakasnitev prenosa podatkov,
+9.     
+izgube paketov pri prenosu podatkov,
+10.  
+minimalna mesečna količina prenesenih podatkov h končnemu uporabniku,
+11.  
+odzivni čas univerzalne imeniške službe,
+12.  
+delež utemeljenih ugovorov zaradi nepravilnosti v računu za storitve.
+(2) Izvajalec univerzalne storitve mora poskrbeti, da se
+parametre kakovosti meri v skladu z definicijami in metodami merjenja iz
+slovenskih standardov SIST EG 201 769-1, EG 202 057-1, EG 202 057-4 in družine
+standardov EG 202 057.
+8. člen
+(čas vzpostavitve storitve)
+(1) Kadar čas vzpostavitve storitve ni vnaprej dogovorjen,
+povprečni čas, v katerem je bilo v enem letu uspešno izvedenih 95 %
+vzpostavitev, ne sme biti daljši od 15 dni. V ta rok se ne šteje čas za
+preverjanje upravičenosti za univerzalno storitev pri agenciji.
+(2) Kadar je rok za čas vzpostavitve storitve vnaprej
+dogovorjen, mora biti v enem letu, v dogovorjenem roku izvedenih vsaj 90 %
+vzpostavitev storitev.
+(3) Čas vzpostavitve storitve je največ 30 dni, razen v
+primeru izrednih okoliščin, ki morajo biti obrazložene končnemu uporabniku in
+izkazane z zapisnikom, ki ga potrdi pooblaščena oseba izvajalca univerzalne
+storitve.
+(4) Čas vzpostavitve storitve oziroma čas dobave se meri in
+izračuna v skladu s Splošnim aktom o določitvi informacij o kakovosti javnih
+komunikacijskih storitev (Uradni list RS, št. 32/23; v nadaljnjem besedilu:
+Splošni akt o določitvi informacij).
+(5) Izvajalec univerzalne storitve mora priključitev izvesti
+na način, da ne omejuje končnega uporabnika pri prehodu k drugemu operaterju
+ali naročilu drugačne storitve.
+9. člen
+(razpoložljivost univerzalne storitve)
+(1) Mesečna razpoložljivost univerzalne storitve mora biti
+vsaj 95 %.
+(2) Razpoložljivost univerzalne storitve v določenem obdobju
+se izračuna tako, da se od celotnega obdobja zagotavljanja univerzalne
+storitve, za katero se računa razpoložljivost, odšteje čas izpada univerzalne
+storitve na končnega uporabnika v tem obdobju, pri čemer se ne upošteva izpad
+storitve zaradi stanja povečane ogroženosti po 120. členu zakona.
+(3) Čas izpada univerzalne storitve na končnega uporabnika se
+izračuna kot kvocient skupnega časa izpada univerzalne storitve za vse končne
+uporabnike univerzalne storitve in števila končnih uporabnikov na zadnji dan
+obdobja, za katerega se računa razpoložljivost univerzalne storitve.
+(4) Izračun razpoložljivosti univerzalne storitve se opravi
+ločeno za širokopasovni dostop do interneta in dostop do govornih komunikacijskih
+storitev.
+(5) V čas, ko univerzalna storitev ni bila razpoložljiva, se
+ne šteje čas nerazpoložljivosti univerzalne storitve zaradi vzrokov na strani
+končnega uporabnika (npr. izpad dobave električne energije na lokaciji končnega
+uporabnika).
+10. člen
+(čas odprave napak ali okvar)
+(1) Pri določanju časa odprave napak ali okvar se upošteva
+vse odpravljene napake in okvare v obdobju enega leta v skladu s Splošnim aktom
+o določitvi informacij.
+(2) Povprečni čas za odpravo 80 % napak ali okvar na dostopovnem
+delu omrežja v obdobju enega leta ne sme biti daljši od 48 ur. Povprečni čas za
+odpravo 80 % drugih napak ali okvar na omrežju izvajalca univerzalne storitve v
+obdobju enega leta ne sme biti daljši od 12 ur, z izjemo satelitskega dostopa,
+kjer je ta čas 24 ur.
+(3) Čas odprave napak ali okvar na dostopovnem delu omrežja
+je največ pet delovnih dni, razen v primeru izrednih okoliščin, ki morajo biti
+obrazložene končnemu uporabniku in izkazane z zapisnikom, ki ga potrdi
+pooblaščena oseba izvajalca univerzalne storitve.
+11. člen
+(delež neuspelih klicev)
+(1) Delež neuspelih klicev se določi na osnovi realnih
+prometnih podatkov v skladu s Splošnim aktom o določitvi informacij.
+(2) Delež neuspelih klicev znotraj Republike Slovenije v
+obdobju enega leta ne sme preseči 5 % in delež neuspelih klicev v tujino v
+obdobju enega leta ne sme preseči 8 %.
+12. člen
+(čas vzpostavljanja klica)
+(1) Čas vzpostavljanja klica se določi na osnovi realnih
+prometnih podatkov v skladu s Splošnim aktom o določitvi informacij.
+(2) Povprečni čas vzpostavljanja zveze znotraj Republike
+Slovenije v obdobju enega leta ne sme biti daljši od treh sekund, povprečni čas
+vzpostavljanja zveze s tujino v obdobju enega leta pa ne daljši od petih
+sekund.
+(3) Čas vzpostavljanja klica, v katerem je vzpostavljenih 95
+% klicev v Republiki Sloveniji, v obdobju enega leta ne sme biti daljši od
+petih sekund. Čas vzpostavljanja klica, v katerem je vzpostavljenih 95 % klicev
+v tujino, v obdobju enega leta ne sme biti daljši od osmih sekund.
+13. člen
+(kvaliteta storitev, ki jih mora omogočati univerzalna
+storitev)
+Vse storitve iz drugega odstavka 180. člena zakona morajo
+nemoteno delovati tudi v vršni uri za najmanj enega uporabnika.
+14. člen
+(maksimalna skupna zakasnitev prenosa podatkov)
+(1) Maksimalna skupna zakasnitev prenosa podatkov ne sme
+bistveno odstopati od maksimalne skupne zakasnitve prenosa podatkov pri
+primerljivih storitvah, dostopnih na trgu za vsako tehnologijo posebej.
+(2) Končni uporabnik meri zakasnitev s pomočjo orodja AKOS
+Test Net ali na drug primerljiv verodostojen način.
+15. člen
+(izgube paketov pri prenosu podatkov)
+Maksimalna izguba paketov ne sme presegati maksimalne skupne
+izgube paketov pri primerljivih na trgu dostopnih storitvah za vsako
+tehnologijo posebej.
+16. člen
+(minimalna mesečna količina prenesenih podatkov h končnemu
+uporabniku)
+(1) Mesečna količina prenesenih podatkov, ki jo mora
+zagotoviti izvajalec univerzalne storitve širokopasovnega dostopa do interneta,
+ne sme biti omejena.
+(2) Ne glede na prejšnji odstavek, je minimalna mesečna
+količina prenesenih podatkov h končnemu uporabniku, ki jo mora zagotoviti
+izvajalec širokopasovnega dostopa do interneta preko satelita, najmanj 75 GB,
+pri čemer mora imeti končni uporabnik možnost nakupa dodatne količine
+prenesenih podatkov po dostopni ceni.
+(3) Če končni uporabnik prekorači skupno zakupljeno mesečno
+količino prenesenih podatkov iz prejšnjega odstavka, mu mora izvajalec
+univerzalne storitve zagotoviti prenosno hitrost, ki je enaka prenosni hitrosti
+v primeru prekoračitve dovoljene količine prenesenih podatkov pri primerljivih
+storitvah, dostopnih na trgu.
+17. člen
+(odzivni čas univerzalne imeniške službe)
+(1) Povprečni odzivni čas univerzalne imeniške službe v
+obdobju enega leta ne sme preseči 12 sekund.
+(2) Odstotek klicev, na katere odgovori univerzalna imeniška
+služba prej kot v 20 sekundah, v obdobju enega leta, ne sme biti manjši od 80
+%.
+(3) Povprečni odzivni čas iz prvega odstavka in odstotek
+klicev iz drugega odstavka tega člena v času med 22.00 in 6.00 uro se lahko povečata
+za 50 %.
+(4) Odzivni čas univerzalne imeniške službe se meri in beleži
+v skladu s standardom SIST EG 202 057-1.
+18. člen
+(delež ugovorov zaradi nepravilnosti v računu za univerzalno
+storitev)
+Delež ugovorov zaradi nepravilnosti v računu za univerzalno
+storitev v obdobju enega leta ne sme biti višji od 0,5 %.
+IV. PODATKI O KAKOVOSTI UNIVERZALNE STORITVE
+19. člen
+(vsebina, oblika, način in pogostost objave podatkov o
+kakovosti univerzalne storitve)
+(1) Izvajalec univerzalne storitve mora vsako leto do 31.
+marca na svoji spletni strani objaviti podatke o kakovosti univerzalne storitve
+za preteklo leto po parametrih kakovosti, določenih v tem splošnem aktu in jih
+posredovati agenciji. Obveznost poročanja ne velja za naslednje parametre
+kakovosti:
+1.     
+običajno razpoložljiva prenosna hitrost prenosa podatkov,
+2.     
+minimalna hitrost prenosa podatkov,
+3.     
+maksimalna skupna zakasnitve prenosa podatkov in
+4.     
+izgube paketov pri prenosu podatkov.
+(2) Izvajalec univerzalne storitve mora podatke iz prvega
+odstavka tega člena posredovati agenciji na njeno zahtevo, in sicer v roku, ki
+je določen v zahtevi in na način, kot ga določi agencija.
+(3) Agencija na svoji spletni strani vsako leto objavi
+podatke o kakovosti univerzalne storitve, iz katerih je razvidno letno gibanje
+podatkov o kakovosti univerzalne storitve.
+V. NADZOR PARAMETROV KAKOVOSTI UNIVERZALNE STORITVE
+20. člen
+(ugotavljanje preseganja mejnih vrednosti parametrov)
+(1) Če merjeni parameter kakovosti univerzalne storitve
+odstopa od predpisane vrednosti v škodo uporabnika za najmanj 20 % najmanj tri
+zaporedne dni ali najmanj pet, ne nujno zaporednih dni v plačilnem obdobju, je
+vrednost parametra neustrezna.
+(2) Postopek ugotavljanja ustreznosti na način iz prvega
+odstavka tega člena, se uporablja za naslednje parametre:
+1.     
+običajno razpoložljiva povprečna prenosna hitrost,
+2.     
+maksimalna skupna zakasnitev prenosa podatkov in
+3.     
+izgube paketov pri prenosu podatkov.
+(3) Ostali parametri kakovosti ne smejo v škodo uporabnikov
+presegati vrednosti, predpisanih s tem splošnim aktom.
+(4) Agencija lahko ugotavlja vrednosti parametrov na podlagi
+poročil izvajalcev univerzalne storitve, podatkov posredovanih s strani končnih
+uporabnikov ali lastnih meritev.
+VI. PREHODNA IN KONČNA DOLOČBA
+21. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega splošnega akta se preneha uporabljati
+Splošni akt o kakovosti univerzalne storitve (Uradni list RS, št. 27/18, 21/21
+in 130/22 – ZEKom-2).
+22. člen
+(začetek veljavnosti)
+Ta splošni akt začne veljati petnajsti dan po objavi v
+Uradnem listu Republike Slovenije.
+Št. 0073-51/2022/7
+Ljubljana, dne 10. maja 2023
+EVA 2023-3150-0025
+Mag. Mark Pohar
+v. d. direktorja

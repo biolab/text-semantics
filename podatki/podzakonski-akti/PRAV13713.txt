@@ -66,8 +66,8 @@ in razporejanja obveznih dajatev in drugih javnofinančnih prihodkov, in za
 potrebe evidentiranja poslovnih dogodkov na podračunu, prek katerega posluje
 več proračunskih uporabnikov, za potrebe nadzornikov javnofinančnih prihodkov;
 14.  
-PDP poročilo je informacija o razčlenitvi pobranih obveznih dajatev na prehodnem
-davčnem podračunu;
+PDP poročilo je informacija o razčlenitvi pobranih obveznih dajatev na
+prehodnem davčnem podračunu;
 15.  
 PCP poročilo je informacija o razčlenitvi pobranih obveznih dajatev na
 prehodnem carinskem podračunu;
@@ -216,16 +216,29 @@ e-računa, se obvezno navede konstanta 999999999999999.
 (8) Podatek o šifri PU se navede v datoteki s plačilnimi
 nalogi v breme podračuna javnofinančnih prihodkov, na katerem je uporabnik
 UJPnet pridobil pravico poslovanja od več nadzornikov javnofinančnih prihodkov.
+3.a člen
+(1) Plačilni nalog v
+papirni obliki na obrazcih UPN, TPNO 70 in TPNP 60 ter nalog za kritje lahko
+proračunski uporabnik predloži UJP izključno v izrednih razmerah.
+(2) Izredne razmere so
+razmere, v katerih proračunski uporabnik zaradi katerih koli razlogov ne more
+opravljati nalog s področja plačilnih storitev po elektronski poti. Izredne
+razmere so lahko izpad informacijsko-komunikacijske tehnologije, odpoved mrežne
+povezave, daljši izpad električne energije, elementarne nesreče (rušilni
+potres, požar, poplava), vdor v informacijski sistem, izredno prenehanje dela
+zastopnika proračunskega uporabnika ali oseb, pooblaščenih za podpisovanje
+plačilnih nalogov, nedelovanje spletne aplikacije UJPnet ali drugi primeri
+nepredvidenih dogodkov.
 III. PLAČILNI NALOGI V PAPIRNI OBLIKI
 1. Obrazec UPN
 4. člen
 (1) Glede oblike, vsebine in tiskanja obrazca UPN se
-neposredno uporablja Tehnični standard univerzalnega plačilnega naloga
-Združenja bank Slovenije.
+neposredno uporablja Tehnični standard univerzalnega plačilnega naloga Združenja
+bank Slovenije.
 (2) Navodilo za izpolnjevanje obrazca UPN je Priloga 2
 tega pravilnika in njegov sestavni del.
-(3) Vzorčni primeri izpolnjenih obrazcev UPN so objavljeni
-na spletnih straneh UJP.
+(3) Vzorčni primeri izpolnjenih obrazcev UPN so
+objavljeni na spletnih straneh UJP.
 5. člen
 (1) Obrazec UPN lahko proračunski uporabniki kot
 prejemniki plačila izdajo plačniku, za gotovinsko ali negotovinsko poravnavo
@@ -246,27 +259,17 @@ Proračunski uporabnik ob predložitvi dveh ali več obrazcev UPN
 v breme istega podračuna predložijo UJP tudi popis zneskov s posamičnih
 obrazcev UPN in njihov seštevek.
 8. člen
-(1) Proračunski uporabnik postane izdajatelj obrazca UPN
-s kodo QR (v nadaljnjem besedilu: izdajatelj), če:
-1.     
-ima odprt podračun pri UJP,
-2.     
-je uspešno opravil preverjanje pravilnosti podatkov obrazca UPN s
-kodo QR, ki ga izvaja s strani Združenja bank Slovenije za to pooblaščeni
-izvajalec.
-(2) Izdajatelj obrazca UPN s kodo QR zagotovi izpis kode
-QR na obrazcu UPN v skladu s tehničnim standardom univerzalnega
-plačilnega naloga UPN QR. Vsebina in način zapisa podatkov v
-kodi QR na obrazcu UPN je opredeljena v pravilih, ki določajo vsebino in način
-zapisa podatkov v kodi QR, ki so dostopna prek povezave na spletni strani UJP.
+(1) Proračunski
+uporabnik postane izdajatelj obrazca UPN s kodo QR (v nadaljnjem besedilu:
+izdajatelj), če ima odprt podračun pri UJP.
+(2) Izdajatelj obrazca
+UPN s kodo QR zagotovi izpis kode QR na obrazcu UPN v skladu s tehničnim
+standardom univerzalnega plačilnega naloga UPN QR. Vsebina in način zapisa
+podatkov v kodi QR na obrazcu UPN je opredeljena v pravilih, ki določajo vsebino
+in način zapisa podatkov v kodi QR, ki so dostopna prek povezave na spletni
+strani UJP.
 9. člen
-(1) Izdajatelj obrazca UPN s kodo QR pri UJP podpiše
-Izjavo o sprejemu pravil o izdajanju obrazca univerzalni plačilni nalog (UPN),
-ki je objavljena na spletnih straneh UJP.
-(2) Izdajatelj obrazca UPN s kodo QR se s podpisom
-Izjave UPN zavezuje, da bo UJP na podlagi zahteve in sporočene reference
-posredoval zahtevane podatke o plačniku. Izdajatelj obrazca UPN s kodo QR mora
-podatke o plačniku hraniti pet let po izvršeni transakciji.
+(črtan)
 2. Obrazec TPNO 70
 10. člen
 (1) Za izvršitev tujega plačilnega naloga za odliv in za
@@ -277,48 +280,25 @@ pravilnika in njegov sestavni del.
 (3) Vzorčni primeri izpolnjenih obrazcev TPNO 70 so
 objavljeni na spletnih straneh UJP.
 (4) Obrazec TPNO 70 se uporablja tudi za plačilne
-transakcije z več statističnimi vrsticami, in sicer v valuti euro in tujih valutah,
-kjer ima prejemnik sredstev odprt račun pri ponudniku plačilnih storitev izven
-Republike Slovenije. Več statističnih vrstic se uporablja v primerih, kadar
-želi proračunski uporabnik kot plačnik izvesti plačilo po različnih namenih
-(Vknjižba/Odredba) in referencah v breme. Podatki za transakcije se generirajo
-v izpisku na podlagi skupnega zneska plačila, ki se izvrši prek plačilnega
-prometa in hkrati dodatnih transakcij, ki odražajo statistične vrstice v breme
-in v dobro posebej.
+transakcije z več statističnimi vrsticami, in sicer v valuti euro in tujih
+valutah, kjer ima prejemnik sredstev odprt račun pri ponudniku plačilnih
+storitev izven Republike Slovenije. Več statističnih vrstic se uporablja v
+primerih, kadar želi proračunski uporabnik kot plačnik izvesti plačilo po
+različnih namenih (Vknjižba/Odredba) in referencah v breme. Podatki za
+transakcije se generirajo v izpisku na podlagi skupnega zneska plačila, ki se
+izvrši prek plačilnega prometa in hkrati dodatnih transakcij, ki odražajo
+statistične vrstice v breme in v dobro posebej.
 3. Obrazec TPNO 70 s seznamom prejemnikov plačil
+(črtano)
 11. člen
-(1) Proračunski uporabnik lahko pri odrejanju plačil več
-prejemnikom hkrati predloži UJP en obrazec TPNO 70 skupaj z obrazcem Seznam
-prejemnikov plačil, ki je Priloga 5 tega pravilnika in njegov sestavni del, pri
-čemer morajo biti izpolnjeni naslednji pogoji:
-1.     
-vsi prejemniki morajo imeti račun pri istem ponudniku plačilnih
-storitev,
-2.     
-za vsa plačila velja isti datum obremenitve,
-3.     
-za vsa plačila velja ista oznaka stroškov,
-4.     
-obveznosti se plačujejo v isti valuti,
-5.     
-za vsa plačila velja ista valuta kritja in
-6.     
-vsa plačila se izvršujejo v breme istega podračuna proračunskega
-uporabnika.
-(2) Obrazec TPNO 70 lahko uporablja tudi UJP, in sicer v
-skladu s Protokolom o postopku prenosa sredstev s posebnih namenskih
-transakcijskih računov med UJP in Zakladnico enotnega zakladniškega računa
-države (v nadaljnjem besedilu: Zakladnica).
-(3) Navodilo za izpolnjevanje obrazca TPNO 70 s seznamom
-prejemnikov plačil je Priloga 6 tega pravilnika in njegov sestavni del.
-(4) Vzorčni primer izpolnjenega obrazca Seznam
-prejemnikov plačil je objavljen na spletnih straneh UJP.
+(črtan)
 4. Nalog za kritje
 12. člen
 (1) Če proračunski uporabnik predloži obrazec TPNO 70 v
-breme podračuna državnega proračuna in kritje zagotavlja Zakladnica, mora le-ta
-UJP predložiti obrazec Nalog za kritje, ki je Priloga 7 tega pravilnika in
-njegov sestavni del.
+breme podračuna državnega proračuna in kritje zagotavlja Zakladnica Ministrstva
+za finance (v nadaljnjem besedilu: Zakladnica), mora le-ta UJP predložiti
+obrazec Nalog za kritje, ki je Priloga 7 tega pravilnika in njegov sestavni
+del.
 (2) Postopek, po katerem Zakladnica določa kritje za
 čezmejna in druga plačila, velja le za neposredne uporabnike državnega
 proračuna.
@@ -343,9 +323,9 @@ objavljen na spletnih straneh UJP.
 15. člen
 (1) Obrazec TPNP 60 se uporablja:
 1.     
-kot obvestilo UJP proračunskemu uporabniku o prejetem plačilu v
-katerikoli valuti, kadar ima plačnik račun odprt v državi članici Evropske
-unije ali v tretji državi,
+kot obvestilo UJP proračunskemu uporabniku o prejetem plačilu v katerikoli
+valuti, kadar ima plačnik račun odprt v državi članici Evropske unije ali v
+tretji državi,
 2.     
 kot obvestilo UJP proračunskemu uporabniku o prejetem plačilu v tuji
 valuti, kadar ima plačnik račun ali podračun odprt v Republiki Sloveniji, ali
@@ -362,8 +342,8 @@ zadoščajo za razporeditev prejetega plačila.
 (4) Ostale obrazce TPNP 60 UJP proračunskim uporabnikom odloži
 na UJPnet.
 (5) Obrazec TPNP 60, ki ga proračunski uporabnik prejme
-v dopolnitev, mora proračunski uporabnik predložiti UJP najkasneje četrti
-delovni dan po prejemu.
+v dopolnitev, mora proračunski uporabnik predložiti UJP najkasneje četrti delovni
+dan po prejemu.
 (6) Proračunski uporabnik mora svojim dolžnikom
 posredovati vsaj naslednje podatke: BIC kodo, ki je za Banko Slovenije BSLJSI2X,
 številko podračuna proračunskega uporabnika v strukturi IBAN, šifro
@@ -431,7 +411,7 @@ niso vpisani obvezni podatki.
 vrne proračunskemu uporabniku v dopolnitev v primeru:
 -       
 ko plačilni nalogi niso izpolnjeni v skladu s Prilogo 2, Prilogo 4,
-Prilogo 6, Prilogo 8 in Prilogo 10 tega pravilnika,
+Prilogo 8 in Prilogo 10 tega pravilnika,
 -       
 ko sredstva na podračunu proračunskega uporabnika tudi konec dneva ne
 zadoščajo za celotno poravnavo obveznosti,
@@ -621,7 +601,31 @@ prihodkov.
 (2) V strukturo elektronske oblike plačilnih nalogov za
 SDD so vključene tudi lastnosti in pravila oblikovanja datotek za SDD v
 strukturi ISO 20022 XML.
-VIII. PREHODNA IN KONČNA DOLOČBA
+
+Priloga
+1: Pravila za oblikovanje in uporabo standardiziranih referenc pri opravljanju
+plačilnih storitev
+Priloga
+2: Navodilo za izpolnjevanje obrazca UPN
+Priloga3:
+Obrazec TPNO 70
+Priloga
+4: Navodilo za izpolnjevanje obrazca TPNO 70
+Priloga 5: (črtana)
+Priloga 6: (črtana)
+Priloga
+7: Obrazec nalog za kritje
+Priloga
+8: Navodilo za izpolnjevanje obrazca nalog za kritje
+Priloga
+9: Obrazec TPNP 60
+Priloga
+10: Navodilo za izpolnjevanje obrazca TPNP 60
+
+Pravilnik o izvajanju plačilnih storitev za
+proračunske uporabnike (Uradni list RS, št. 34/19) vsebuje naslednjo prehodno in
+končno določbo:
+»VIII. PREHODNA IN KONČNA DOLOČBA
 32. člen
 (1) Z dnem uveljavitve tega pravilnika preneha veljati
 Pravilnik o plačilnih navodilih, SEPA direktnih obremenitvah, izpiskih o
@@ -634,32 +638,23 @@ UJP predložijo v obdelavo obrazce TPNO 70, ki so izpolnjeni v skladu s Prilogo
 3, Prilogo 4, Prilogo 6 in Prilogo 8 pravilnika iz prejšnjega odstavka.
 33. člen
 Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu
-Republike Slovenije.
-Št. 007/11/2019
-Ljubljana, dne 21. maja 2019
-EVA 2019-1611-0012
-Dr. Andrej Bertoncelj
-minister
-za finance
+Republike Slovenije.«.
 
-Priloga 1: Pravila
-za oblikovanje in uporabo standardiziranih referenc pri opravljanju plačilnih
-storitev
-Priloga 2: Navodilo
-za izpolnjevanje obrazca UPN
-Priloga3: Obrazec
-TPNO 70
-Priloga 4: Navodilo
-za izpolnjevanje obrazca TPNO 70
-Priloga 5: Obrazec
-seznam prejemnikov plačil
-Priloga 6: Navodilo
-za izpolnjevanje obrazca TPNO 70 s seznamom prejemnikov plačil
-Priloga 7: Obrazec
-nalog za kritje
-Priloga 8: Navodilo
-za izpolnjevanje obrazca nalog za kritje
-Priloga 9: Obrazec
-TPNP 60
-Priloga 10:
-Navodilo za izpolnjevanje obrazca TPNP 60
+Pravilnik
+o spremembah in dopolnitvah Pravilnika o izvajanju plačilnih storitev za
+proračunske uporabnike (Uradni list RS, št. 25/23)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+7. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik
+o spremembah Pravilnika o izvajanju plačilnih storitev za proračunske
+uporabnike (Uradni
+list RS, št. 82/23)
+vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.

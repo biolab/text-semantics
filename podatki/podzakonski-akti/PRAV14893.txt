@@ -1,0 +1,329 @@
+1. člen
+(vsebina)
+Ta pravilnik podrobneje določa način posredovanja zahteve za
+pridobitev podatkov o zadnji lokaciji opreme za mobilno komunikacijo pogrešane
+osebe (v nadaljnjem besedilu: zahteva), način obdelave posredovanih podatkov in
+notranjega nadzora obdelave osebnih podatkov ter tehnične značilnosti
+informacijskega sistema za izvajanje nalog pri iskanju pogrešanih oseb s
+pomočjo podatkov zadnje lokacije opreme oziroma več zadnjih lokacij opreme za
+mobilno komunikacijo, ki jih policiji posreduje operater, ki zagotavlja javno
+komunikacijsko omrežje (v nadaljnjem besedilu: operater).
+2. člen
+(pomen izrazov)
+(1) Izraz pogrešana
+oseba v tem pravilniku se uporablja za osebe iz prvega odstavka 220. člena Zakona o elektronskih komunikacijah
+(Uradni list RS, št. 130/22; v nadaljnjem
+besedilu: Zakon o elektronskih komunikacijah).
+(2) Oprema za mobilno
+komunikacijo so naprave, s katerimi se lahko opravljajo pogovori in prenos
+podatkov v javnem komunikacijskem omrežju.
+(3) Kot oprema za
+mobilno komunikacijo se v tem pravilniku uporablja tudi izraz mobilni telefon.
+3. člen
+(pristojnost)
+(1) Zahtevo operaterju
+pošlje Operativno-komunikacijski center Uprave za policijske specialnosti
+Generalne policijske uprave (v nadaljnjem besedilu: OKC UPS GPU). V OKC UPS GPU
+so za izvrševanje 220. člena Zakona o
+elektronskih komunikacijah in tega pravilnika pristojni policijski inšpektorji
+oddelka za operativo.
+(2) Podatke, potrebne
+za ugotovitev zadnje lokacije opreme oziroma več zadnjih lokacij opreme za
+mobilno komunikacijo, operater posreduje OKC UPS GPU.
+4. člen
+(ugotavljanje lokacije opreme za mobilno komunikacijo)
+(1) Policijska enota,
+ki obravnava pogrešanje osebe (v nadaljnjem besedilu: policijska enota), zbere
+vsa obvestila in dokaze, ki utegnejo koristiti pri iskanju osebe. Preveriti
+mora, ali ima pogrešana oseba pri sebi opremo za mobilno komunikacijo, in
+ugotoviti operaterja, katerega uporabnik je pogrešana oseba.
+(2) Če z drugimi ukrepi
+ni mogoče najti pogrešane osebe, ki se ne odziva na telefonske klice, ali je iz
+razgovora z njo mogoče sklepati, da se je izgubila oziroma je v takem
+psihofizičnem stanju, da nujno potrebuje pomoč, lahko policija od operaterja
+zahteva podatek o zadnji lokaciji oziroma več zadnjih lokacijah opreme za
+mobilno komunikacijo.
+5. člen
+(ugotavljanje pogojev za pridobitev podatkov o zadnji
+lokaciji opreme za mobilno komunikacijo)
+(1) Če policijska enota
+ugotovi, da ima pogrešana oseba pri sebi opremo za mobilno komunikacijo,
+najprej poskusi vzpostaviti telefonski stik s pogrešano osebo.
+(2) Če se pogrešana
+oseba odzove na telefonski klic in nedvoumno pove, da je z njo vse v redu
+oziroma da ne potrebuje ali noče pomoči, policija ne začne postopka ugotavljanja
+zadnje lokacije opreme za mobilno komunikacijo po tem pravilniku. Izjemoma
+lahko policija tudi v tem primeru začne postopek ugotavljanja zadnje lokacije
+oziroma več zadnjih lokacij opreme za mobilno komunikacijo, ko je iz
+zdravniškega mnenja razvidno, da pogrešana oseba zaradi zdravstvenih težav ali
+težav v duševnem zdravju nima v oblasti svojega ravnanja.
+(3) Če policijska enota
+ne more vzpostaviti telefonskega stika s pogrešano osebo ali je iz razgovora z
+njo mogoče sklepati, da se je izgubila oziroma je v takšnem psihofizičnem
+stanju, da nujno potrebuje pomoč, Operativno-komunikacijski center pristojne
+policijske uprave (v nadaljnjem besedilu: OKC PU) zaprosi za pridobitev
+podatkov o zadnji lokaciji opreme za mobilno komunikacijo oziroma več zadnjih
+lokacijah opreme in ga seznani z naslednjimi podatki:
+1.     
+datumom in uro, ko je bila pogrešana oseba zadnjič opažena;
+2.     
+datumom in uro prijave ali zaznave pogrešanja;
+3.     
+datumom in uro, ko je policija poskušala vzpostaviti telefonski stik s
+pogrešano osebo;
+4.     
+telefonsko številko, s katere je bila klicana pogrešana oseba;
+5.     
+podatkom o delovanju mobilnega telefona pogrešane osebe (oseba se ne
+javi, zasedena telefonska linija, obvestilo operaterja, da je številka trenutno
+nedosegljiva);
+6.     
+številko mobilnega telefona, ki ga uporablja pogrešana oseba, in
+operaterja ter
+7.     
+vsemi drugimi podatki in okoliščinami primera.
+(4) OKC PU preuči
+zbrana obvestila in navedbe policijske enote. Če so izpolnjeni pogoji za
+pridobitev podatkov o zadnji lokaciji opreme za mobilno komunikacijo oziroma
+več zadnjih lokacijah opreme, na OKC UPS GPU pošlje obrazloženo pisno
+zaprosilo.
+6. člen
+(komunikacija med policijskimi enotami)
+Zaradi načela hitrosti lahko komunikacije med policijskimi
+enotami potekajo po telefonu ali sredstvih zvez, pozneje pa je treba dogodek
+tudi pisno dokumentirati (zapis v dnevniku dogodkov operativno-komunikacijskega
+centra, depešno obvestilo itd.).
+7. člen
+(zahteva za pridobitev podatkov o zadnji lokaciji mobilnega
+telefona)
+(1) OKC UPS GPU preveri
+pravno podlago in utemeljenost zahteve OKC PU za posredovanje podatkov o lokaciji
+mobilnega telefona pogrešane osebe.
+(2) Če OKC UPS GPU
+meni, da zahteva OKC PU nima pravne podlage oziroma ni utemeljena, o tem brez
+odlašanja obvesti OKC PU.
+(3) Če ima zahteva OKC
+PU ustrezno pravno podlago in je utemeljena, OKC UPS GPU poskusi vzpostaviti
+komunikacijo s pogrešano osebo tako, da jo pokliče ali pošlje sporočilo v
+obliki SMS s povratnico. Vsebina sporočila v SMS obliki mora biti taka, da
+prejemnik nedvomno ve, da njegovo pogrešanje obravnava policija in naj odgovori
+na sporočilo v obliki SMS ali jo pokliče.
+8. člen
+(mobilni telefon pogrešane osebe ni dosegljiv)
+Če OKC UPS GPU v primeru iz tretjega odstavka prejšnjega
+člena ugotovi, da mobilni telefon pogrešane osebe ni dosegljiv (ker je
+ugasnjen, zveza se ne vzpostavi itd.),
+pošlje operaterju zahtevo za posredovanje podatkov o lokaciji oziroma več
+zadnjih lokacijah mobilnega telefona pogrešane osebe z naslednjo vsebino:
+1.     
+številka mobilnega telefona, ki ga uporablja pogrešana oseba in s
+katerim je policija poskusila vzpostaviti stik, in naziv operaterja;
+2.     
+navedba, da telefon ni dosegljiv;
+3.     
+datum in ura, ko je policija poskušala vzpostaviti telefonski stik s
+pogrešano osebo;
+4.     
+datum in ura prijave ali zaznave pogrešanja;
+5.     
+datum in ura, ko je bila pogrešana oseba zadnjič opažena;
+6.     
+obrazložitev;
+7.     
+kontaktni podatki OKC UPS GPU.
+9. člen
+(mobilni telefon pogrešane osebe je dosegljiv)
+Če OKC UPS GPU v primeru iz tretjega odstavka 7. člena
+tega pravilnika ugotovi, da se telefon pogrešane osebe odziva, vendar se
+pogrešana oseba ne javi oziroma je iz razgovora z njo mogoče sklepati, da se je
+izgubila oziroma je v takem psihofizičnem stanju, da nujno potrebuje pomoč, OKC
+UPS GPU pošlje operaterju zahtevo za posredovanje podatkov o lokaciji oziroma
+več zadnjih lokacijah mobilnega telefona pogrešane osebe z naslednjo vsebino:
+1.     
+številka mobilnega telefona, ki ga uporablja pogrešana oseba in s
+katerim je policija vzpostavila stik, in naziv operaterja;
+2.     
+datum in ura, ko je policija vzpostavila telefonski stik s pogrešano
+osebo oziroma dostavila sporočilo SMS na mobilni telefon pogrešane osebe;
+3.     
+datum in ura prijave ali zaznave pogrešanja;
+4.     
+datum in ura, ko je bila pogrešana oseba zadnjič opažena;
+5.     
+obrazložitev;
+6.     
+kontaktni podatki OKC UPS GPU.
+10. člen
+(pošiljanje zahteve)
+(1) OKC UPS GPU zahtevo
+za posredovanje podatkov operaterju najavi na telefonsko številko, navedeno v
+tehničnem protokolu iz 19. člena tega
+pravilnika. OKC UPS GPU operaterju pošlje zahtevo za posredovanje podatkov
+najpozneje 90 minut po njeni najavi.
+(2) OKC UPS GPU zahtevo
+za posredovanje podatkov pošlje operaterju pisno. Zahteva mora biti podpisana
+elektronsko s kvalificiranim elektronskim podpisom.
+(3) Izključno v primeru
+tehničnih težav, ki onemogočajo ravnanje po prejšnjem odstavku, sme OKC UPS GPU
+zahtevo za posredovanje podatkov poslati po elektronski poti v obliki skena
+lastnoročno podpisanega dokumenta in najpozneje naslednji dan napisati poročilo
+z opisom tehničnih težav, ki ga vloži v zadevo.
+(4) Način pošiljanja
+zahteve za posredovanje podatkov se smiselno uporablja tudi za pošiljanje
+odgovora operaterja.
+11. člen
+(posredovanje podatkov mobilnega operaterja, kadar mobilni
+telefon pogrešane osebe ni dosegljiv)
+(1) V primeru iz 8. člena tega pravilnika operater brez odlašanja
+GPU UPS OKC pošlje naslednje podatke o mobilnem telefonu pogrešane osebe:
+-       
+grafični prikaz območja na zemljevidu, na katerem se je mobilni telefon
+pogrešane osebe najverjetneje nahajal (op. radijska slika), na podlagi zadnjih
+podatkov, zapisanih v operaterjevi zbirki podatkov, ter datum in čas teh
+komunikacij;
+-       
+koordinate (zemljepisna širina in dolžina), lokacijsko oznako, če ni
+razvidna iz podatkov iz prejšnje alineje;
+-       
+morebitne dodatne informacije, opozorila ali nezavezujoče komentarje, ki
+bi lahko pripomogli k učinkovitejšemu lociranju pogrešane osebe (verjetnost, da
+je oseba na določenem območju glede na specifiko terena in pokritje s signalom
+mobilne telefonije).
+(2) Tehnični vidiki
+prikaza podatkov iz prve in druge alineje prejšnjega odstavka se natančneje
+opredelijo v tehničnem protokolu.
+12. člen
+(posredovanje podatkov mobilnega operaterja, kadar je
+mobilni telefon pogrešane osebe dosegljiv)
+(1) V primeru iz 9. člena tega pravilnika operater brez odlašanja
+pogrešani osebi pošlje sporočilo v obliki SMS ali tihega SMS, vpogleda v zadnje
+lokacijske podatke njenega mobilnega telefona, s katerimi razpolaga, in GPU UPS
+OKC pošlje naslednje podatke o mobilnem telefonu pogrešane osebe:
+-       
+grafični prikaz območja na zemljevidu, na katerem je najverjetneje
+mobilni telefon pogrešane osebe (op. radijska slika), na podlagi zadnjih
+podatkov, ki jih ima operater v svoji zbirki podatkov;
+-       
+koordinate (zemljepisna širina in dolžina), lokacijsko oznako, če ni
+razvidna iz podatkov iz prejšnje alineje;
+-       
+morebitne dodatne informacije, opozorila ali nezavezujoče komentarje, ki
+bi lahko pripomogli k učinkovitejšemu lociranju pogrešane osebe (verjetnost, da
+je oseba na določenem območju glede na specifiko terena in pokritje s signalom
+mobilne telefonije);
+-       
+morebitne posebnosti, ki jih operater ugotovi pri obdelavi podatkov iz
+prejšnjih alinej.
+(2) Operater čez 15 minut ponovi postopek iz prejšnjega odstavka.
+(3) Način prikaza
+podatkov iz prve alineje prvega odstavka tega člena se natančneje opredeli v
+tehničnem protokolu.
+13. člen
+(ponovna zahteva za pridobitev podatkov)
+(1) Če policija na
+podlagi podatkov, ki jih sporoči operater, pogrešane osebe ne najde, lahko, če
+je to utemeljeno, ko pridobi nove informacije oziroma pride do novih ugotovitev
+in bi te informacije oziroma ugotovitve lahko pomenile, da je pogrešana oseba
+spremenila svojo lokacijo, od operaterja ponovno zahteva podatke na način iz 8.
+ali 9. člena tega pravilnika.
+(2) Policija mora
+izpolnjevanje pogojev iz prejšnjega odstavka obrazložiti.
+(3) Če operater ne
+razpolaga z novimi podatki glede na tiste, ki jih je že posredoval, lahko
+sporoči samo to dejstvo.
+14. člen
+(uporaba podatkov)
+Pridobljene podatke o zadnji lokaciji opreme za mobilno
+komunikacijo oziroma več zadnjih lokacijah opreme lahko policisti uporabijo le
+pri operativnem delu in z namenom najdbe pogrešane osebe. S pridobljenimi
+podatki morajo ravnati še posebno skrbno ter jih uporabiti na način in v
+obsegu, ki je nujno potreben za ugotavljanje okoliščin pri iskanju pogrešane
+osebe, in pri tem ne ogrožajo osebne varnosti ali dostojanstva pogrešane osebe.
+15. člen
+(standardizirani obrazci)
+OKC UPS GPU in operaterji podatke izmenjujejo z uporabo
+standardiziranih obrazcev, določenih v tehničnem protokolu.
+16. člen
+(obveščanje upravičenca)
+(1) Policijska enota
+OKC UPS GPU pisno seznani o najdbi pogrešane osebe v vseh primerih, kjer je
+bilo uporabljeno pooblastilo iz 220. člena
+Zakona o elektronskih komunikacijah.
+(2) OKC UPS GPU osebo,
+ki je bila najdena ter za katero je zahteval in pridobil podatke o lokaciji
+opreme za mobilno komunikacijo, po zaključku iskanja pisno obvesti o razlogih
+za uporabo tega pooblastila. Upravičencu obvestilo pošlje priporočeno s
+povratnico na naslov bivanja. Če je upravičenec otrok ali oseba pod
+skrbništvom, obvestilo pošlje staršem, zakonitemu zastopniku oziroma skrbniku,
+ki je pogrešanje prijavil.
+(3) Pisno obvestilo
+vsebuje:
+-       
+osebno ime in naslov upravičenca;
+-       
+razlog za pridobitev podatkov o lokaciji opreme za mobilno komunikacijo;
+-       
+številko mobilnega telefona, ki je bila predmet obravnave;
+-       
+policijsko enoto, ki je obravnavala prijavo ali zaznavo pogrešanja.
+17. člen
+(obdelava in hramba podatkov)
+Policija vso dokumentacijo in ugotovitve, ki so podlaga za
+posredovanje zahteve, zahtevo, obrazložitev ponovne zahteve, pisni odgovor
+operaterja, pisno obvestilo upravičencu in druge dokumente v zvezi s
+pridobitvijo podatkov, obdeluje in hrani v skladu s predpisi in internimi akti,
+ki urejajo ravnanje s podatki v policiji.
+18. člen
+(tehnične značilnosti informacijskega sistema policije)
+Vse pisne komunikacije med enotami policije potekajo po
+varovani elektronski pošti (LOTUS NOTES), do katere imajo dostop policisti z
+osebnim geslom. Operativno obveščanje o dogodkih in pojavih med policijskimi
+enotami poteka v sistemu Dnevnika dogodkov operativno-komunikacijskih centrov,
+do katerega lahko dostopajo upravičeni uporabniki z geslom REGP, pri čemer so
+vsi vpogledi in posegi v sistem zapisani. Vse radijske komunikacije,
+komunikacije na interventni številki policije 113 in telefonske komunikacije v
+Oddelku za operativo OKC UPS GPU se snemajo. Za pošiljanje zahteve mobilnemu
+operaterju in prejem pisnega odgovora OKC UPS GPU uporablja elektronsko pošto
+(lokacija.gsm@policija.si).
+19. člen
+(tehnični protokoli o izvajanju pravilnika)
+(1) S tehničnim
+protokolom, ki ga po predhodnem soglasju informacijskega pooblaščenca sklenejo
+policija in operaterji, se določijo najmanj:
+-       
+njegovi vsebinski in tehnični skrbniki;
+-       
+format zapisa podatkov lokacije mobilnega telefona;
+-       
+način prikaza podatkov;
+-       
+obrazci za izmenjavo podatkov.
+(2) Tehnični protokol
+se sklepa z vsakim operaterjem posebej.
+20. člen
+(nadzor)
+(1) Notranji nadzor nad izvajanjem postopkov, ki jih
+predpisuje ta pravilnik, izvajata Generalna policijska uprava in ministrstvo,
+pristojno za notranje zadeve, na način, določen v zakonu, ki ureja
+organiziranost in delo v policiji, ter v predpisih in aktih, izdanih na njegovi
+podlagi.
+(2) Poročilo o
+opravljenem nadzoru mora vsebovati ugotovitve o odkritih nepravilnostih in
+odstopanjih pri izvajanju določb tega pravilnika ter o sprejetih ukrepih za
+odpravo nepravilnosti.
+KONČNI DOLOČBI
+21. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega pravilnika se preneha uporabljati
+Pravilnik o načinu izvajanja 153. člena
+Zakona o elektronskih komunikacijah (Uradni list RS, št. 73/13 in 130/22 – ZEKom-2).
+22. člen
+(začetek veljavnosti)
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.
+Št. 007-456/2022
+Ljubljana, dne 2. marca 2023
+EVA 2022-1711-0041
+Boštjan Poklukar
+minister
+za notranje zadeve

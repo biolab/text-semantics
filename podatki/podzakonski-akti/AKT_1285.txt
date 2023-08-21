@@ -1,0 +1,181 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(vsebina)
+(1) S tem aktom se določa metodologija za izračun cene plina
+ob neprostovoljnem zmanjšanju ali prekinitvi odjema plina.
+(2) Cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema plina se uporablja, ko je v skladu z načrtom za izredne razmere v skladu
+z Uredbo (EU) 2017/1938 Evropskega parlamenta in Sveta z dne 25. oktobra 2017 o
+ukrepih za zagotavljanje zanesljivosti oskrbe s plinom in o razveljavitvi
+Uredbe (EU) št. 994/2010 (UL L št. 280 z dne 28. 10. 2017, str. 1), zadnjič
+spremenjene z Uredbo (EU) 2022/1032 Evropskega parlamenta in Sveta z dne 29.
+junija 2022 o spremembi Uredb (EU) 2017/1938 in (ES) št. 715/2009 glede
+skladiščenja plina (UL L št. 173 z dne 30. 6. 2022, str. 17), (v nadaljnjem
+besedilu: Uredba 2017/1938/EU) razglašena stopnja izrednih razmer in s strani
+pristojnega organa izdana generalna odločba o neprostovoljnem zmanjšanju ali
+prekinitvi odjema plina.
+(3) Cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema plina je sestavni del cene za krizni plin. Obračunava se za količine
+kriznega plina, ki so bile v sistemu sproščene zaradi izvedbe ukrepov
+neprostovoljnega zmanjšanja ali prekinitve odjema plina posameznih skupin
+odjemalcev, z namenom oskrbe zaščitenih odjemalcev oziroma drugih odjemalcev,
+od katerih še ni bilo zahtevano zmanjšanje ali prekinitev odjema plina.
+II. METODOLOŠKE OSNOVE
+2. člen
+(metodološke osnove)
+(1) Pri izračunu cene plina ob neprostovoljnem zmanjšanju ali
+prekinitvi odjema plina se upoštevajo naslednje cene trgovalnih točk:
+-       
+tehtana povprečna cena trgovanj z nazivnimi produkti na trgovalni
+platformi virtualne točke prenosnega sistema;
+-       
+borzne cene plina na sosednjih plinskih vozliščih, ki so s slovenskim
+prenosnim sistemom povezana z neposredno plinovodno povezavo.
+(2) V izračunu cene plina ob neprostovoljnem zmanjšanju ali
+prekinitvi odjema se upoštevajo tudi tveganja in stroški pri zagotavljanju
+dobave izravnalnega plina. Ta dodatek upošteva ocene stroškov, ki nastanejo
+dobavitelju pri nakupu plina na plinskih vozliščih in ocene stroškov prenosa
+plina v slovenski prenosni sistem. Upoštevajo se tudi ocene tveganj, ki so pri
+tem prisotna.
+III. METODOLOGIJA IZRAČUNA CENE PLINA
+3. člen
+(podlaga za izračun)
+(1) Pri izračunu cene plina ob neprostovoljnem zmanjšanju ali
+prekinitvi odjema plina se upoštevajo:
+1.     
+pri borznih cenah plina produkt, ki na plinskem vozlišču CEGH in PSV
+izkazuje ceno plina za dan vnaprej;
+2.     
+na trgovalni platformi tehtana povprečna cena, kot se uporablja za
+izračun mejne prodajne in nakupne cene in je določena v sistemskih obratovalnih
+navodilih operaterja prenosnega sistema;
+3.     
+količine plina, ki so bile trgovane med operaterjem prenosnega sistema
+in dobavitelji na trgovalni platformi, in količine plina, prenesene iz držav,
+za katere se upošteva plinsko vozlišče ter so bile porabljene za oskrbo
+odjemalcev plina v Republiki Sloveniji;
+4.     
+količinski utežni faktorji, ki utežijo izračunano povprečno dnevno ceno
+plina glede na količine plina iz prejšnje točke;
+5.     
+količinski utežni faktor, ki uteži izračunano ceno plina s količinami
+porabe plina odjemalcev v Republiki Sloveniji v opazovanem obdobju desetih dni;
+6.     
+razmerje med dnevno prenesenimi količinami plina skozi posamezne mejne
+vstopne točke glede na porabo plina v Sloveniji;
+7.     
+količine plina in cene na trgovalnih točkah iz obdobja zadnjih desetih
+dni pred dnevom, ko je cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema objavljena; če na kateri dan iz navedenega obdobja cena na kateri od
+trgovalnih točk ni določena, se za tisti dan cene in količine iz te trgovalne
+točke v izračunu ne upoštevajo;
+8.     
+dodatek za tveganja in stroške pri zagotavljanju dobave izravnalnega
+plina.
+(2) Če se trgovanje na kateri od trgovalnih točk prekine, se
+pri izračunu upoštevajo le podatki za tiste dneve obdobja zadnjih desetih dni,
+ko so cene plina na razpolago.
+4. člen
+(izračun cene plina)
+(1) Cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema plina se za posamezen plinski dan izračuna na naslednji način:
+kjer oznake pomenijo:
+CPNZPO(d)        cena plina ob neprostovoljnem
+zmanjšanju ali prekinitvi odjema za dan (d), v EUR/MWh;
+CTP(d-1)          tehtana povprečna cena na
+trgovalni platformi za dan (d-1), v EUR/MWh;
+CPV1(d-1)         cena plina za dan vnaprej,
+določena s cenovnim indeksom CEGHIX na avstrijskem plinskem vozlišču CEGH, za
+dan (d-1), v EUR/MWh;
+CPV2(d-1)         cena plina za dan vnaprej,
+določena s cenovnim indeksom PSV na italijanskem plinskem vozlišču PSV, za dan
+(d-1), v EUR/MWh;
+QTP(d-1)                     količina plina, trgovana na
+trgovalni platformi, za dan (d-1), v EUR/MWh;
+QVT1,U(d-1)       utežena količina plina, prenesena
+skozi vstopno točko Ceršak, za dan (d-1), v MWh;
+QVT2,U(d-1)       utežena količina plina, prenesena
+skozi vstopno točko Šempeter, za dan (d-1), v MWh;
+DTS               dodatek za tveganja
+in stroške pri zagotavljanju dobave izravnalnega plina, v EUR/MWh;
+d                 plinski dan.
+(2) Utežene količine plina, prenesene skozi mejni povezovalni
+točki, se za posamezen plinski dan izračunajo na naslednji način:
+in
+kjer oznake pomenijo:
+QVT1,U(d-1)       utežena količina plina, prenesena
+skozi vstopno točko Ceršak, za dan (d-1), v MWh;
+QVT2,U(d-1)       utežena količina plina, prenesena
+skozi vstopno točko Šempeter, za dan (d-1), v MWh;
+QSI(d-1)           količina plina, prenesena
+skozi izstopno točko v Republiki Sloveniji, za dan (d-1), v MWh;
+QVT1(d-1)         količina plina, prenesena
+skozi vstopno točko Ceršak, za dan (d-1), v MWh;
+QVT2(d-1)         količina plina, prenesena
+skozi vstopno točko Šempeter, za dan (d-1), v MWh;
+d                     plinski dan.
+(3) Cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema plina se za obdobje desetih plinskih dni izračuna na naslednji način:
+kjer oznake pomenijo:
+CPNZPO             cena plina ob neprostovoljnem
+zmanjšanju ali prekinitvi odjema, v EUR/MWh;
+CPNZPO(d)        cena plina ob
+neprostovoljnem zmanjšanju ali prekinitvi odjema za dan (d), v EUR/MWh;
+QSI(d)             količina plina,
+prenesena skozi izstopno točko v Republiki Sloveniji, za dan (d), v MWh;
+d                 plinski dan.
+(4) Dodatek za tveganje in stroške pri zagotavljanju dobave
+izravnalnega plina znaša 10 EUR/MWh.
+(5) Cena plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema se izračuna na štiri decimalke natančno. Količine in cene, ki se
+uporabijo v izračunu, se upoštevajo na štiri decimalke natančno.
+5. člen
+(izračun cene plina, ko je trgovanje na trgovalnih točkah
+prekinjeno)
+Če pride do prekinitve trgovanja na vseh trgovalnih točkah,
+ki so upoštevane pri izračunu cene plina ob neprostovoljnem zmanjšanju ali
+prekinitvi odjema, in prekinitev traja več kot deset dni, se za izračun cene
+plina ob neprostovoljnem zmanjšanju ali prekinitvi odjema uporabi cena, ki
+upošteva zadnje še objavljene cene plina in trenutne razmere na trgu s plinom
+in jo po posvetovanju s krizno skupino, opredeljeno v načrtu za izredne razmere
+v skladu z Uredbo 2017/1938/EU, določi pristojni organ.
+6. člen
+(objava cene plina)
+(1) Ceno plina ob neprostovoljnem zmanjšanju ali prekinitvi
+odjema v skladu s 4. členom tega akta izračuna operater prenosnega sistema in
+jo objavi na svoji spletni strani najkasneje do 8. ure vsak dan, ko velja
+generalna odločba o neprostovoljnem zmanjšanju ali prekinitvi odjema.
+(2) Prvi dan veljavnosti ukrepov neprostovoljnega zmanjšanja
+ali prekinitve odjema operater prenosnega sistema objavi ceno plina ob
+neprostovoljnem zmanjšanju ali prekinitvi odjema najkasneje dve uri po izdani
+generalni odločbi pristojnega organa, s katero se odredi neprostovoljno zmanjšanje
+ali prekinitev odjema.
+(3) Ceno iz 5. člena tega akta objavi operater prenosnega
+sistema na svoji spletni strani takoj po sprejeti odločitvi pristojnega organa.
+IV. PREHODNI IN KONČNA DOLOČBA
+7. člen
+(relevantna plinska vozlišča)
+Če pride do vzpostavitve plinske borze na Hrvaškem oziroma se
+vzpostavi plinovodna povezava med prenosnim sistemom Republike Slovenije in
+Madžarske, se pri izračunu cene plina ob neprostovoljnem zmanjšanju ali
+prekinitvi odjema smiselno v skladu z določbami 4. člena tega akta dodatno
+upoštevata borzna indeksa in prenesene količine plina iz Hrvaške in Madžarske.
+8. člen
+(ažuriranje dodatka za tveganje in stroške)
+Vrednost dodatka za tveganje in stroške pri zagotavljanju
+dobave izravnalnega plina iz četrtega odstavka 4. člena tega akta velja v letu
+uveljavitve tega akta. Vsako nadaljnje leto veljavnosti tega akta se vrednost
+predmetnega dodatka indeksira z indeksom cen storitev pri proizvajalcih,
+poslovanje podjetij z vsemi subjekti, za SKD dejavnost H49.5 Cevovodni
+transport, ki je objavljen pri Statističnem uradu Republike Slovenije. Uporabi
+se primerjalni indeks četrtletje/zadnje četrtletje prejšnjega leta.
+9. člen
+(začetek veljavnosti)
+Ta akt začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.
+Št. 71-9/2022/8
+Maribor, dne 20. oktobra 2022
+EVA 2022-2430-0079
+Predsednik sveta
+Agencije za energijo
+dr. Franc Žlahtič

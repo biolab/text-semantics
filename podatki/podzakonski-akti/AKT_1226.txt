@@ -48,8 +48,8 @@ podatke o registrski označbi vozila, državi registracije vozila, na katero je
 vezana elektronska vinjeta, in podatke o elektronski vinjeti;
 -       
 potrdilo za potrditev pravilnosti podatkov je dokument, ki ga stranka
-prejme pred izdajo elektronske vinjete za preveritev pravilnosti vnesene registrske
-označbe in države registracije vozila, cestninskega razreda in vrste
+prejme pred izdajo elektronske vinjete za preveritev pravilnosti vnesene
+registrske označbe in države registracije vozila, cestninskega razreda in vrste
 elektronske vinjete ter dneva začetka njene veljavnosti; pravilnost podatkov
 stranka potrdi z lastnoročnim podpisom;
 -       
@@ -63,8 +63,8 @@ sistemu DarsGo;
 sistem elektronske vinjete je informacijski sistem upravljavca
 cestninskih cest, v katerem so shranjeni podatki o elektronskih vinjetah,
 registrskih označbah vozil, ki so oproščena plačila cestnine, ter drugi
-podatki, ki jih upravljavec cestninskih cest potrebuje za izvajanje cestninjenja
-glede na določen čas uporabe cestninske ceste;
+podatki, ki jih upravljavec cestninskih cest potrebuje za izvajanje
+cestninjenja glede na določen čas uporabe cestninske ceste;
 -       
 spletna trgovina je spletni portal upravljavca cestninskih cest, na
 katerem je mogoče opraviti spletni nakup elektronske vinjete in uporabljati s
@@ -73,9 +73,9 @@ tem povezane funkcionalnosti;
 stop lista je lista naprav DarsGo, ki so uvrščene na seznam naprav
 DarsGo, s katerimi ni mogoče izvajati postopkov cestninjenja;
 -       
-stranka je v sistemu DarsGo pravna ali fizična oseba, ki uporablja
-sistem DarsGo, v sistemu cestninjenja glede na določen čas uporabe cestninske
-ceste pa cestninski zavezanec, ki za uporabo cestninskih cest kupi predpisano
+stranka je v sistemu DarsGo pravna ali fizična oseba, ki uporablja sistem
+DarsGo, v sistemu cestninjenja glede na določen čas uporabe cestninske ceste pa
+cestninski zavezanec, ki za uporabo cestninskih cest kupi predpisano
 elektronsko vinjeto;
 -       
 veljavna elektronska vinjeta je elektronska vinjeta, ki ima enak zapis
@@ -91,12 +91,12 @@ Plačevanje cestnine glede na prevoženo razdaljo se izvaja z
 elektronskim sistemom cestninjenja v prostem prometnem toku.
 Celotno omrežje avtocest in hitrih cest (v nadaljnjem
 besedilu: cestninska cesta), za katere je treba plačevati cestnino, je
-razdeljeno na posamezne cestninske odseke, pri čemer se cestnina za vsak
-posamezni odsek plačuje ločeno. Pogoj za pravilno plačevanje cestnine je, da je
-v vozilu vedno pravilno nameščena delujoča naprava DarsGo, prilagojena za
-konkretno vozilo (s konkretno registrsko številko, ki je zapisana na napravi
-DarsGo) in s pravilno nastavljenim številom osi vozila oziroma skupine vozil za
-posamezno vožnjo.
+razdeljeno na posamezne cestninske odseke, pri čemer se cestnina za vsak posamezni
+odsek plačuje ločeno. Pogoj za pravilno plačevanje cestnine je, da je v vozilu
+vedno pravilno nameščena delujoča naprava DarsGo, prilagojena za konkretno
+vozilo (s konkretno registrsko številko, ki je zapisana na napravi DarsGo) in s
+pravilno nastavljenim številom osi vozila oziroma skupine vozil za posamezno
+vožnjo.
 Med posameznimi priključki na cestninsko cesto so na
 določenih mestih nameščene naprave za cestninjenje. To so točke cestninjenja,
 na katerih se obračuna cestnina za prevoženi odsek cestninske ceste.
@@ -189,9 +189,9 @@ cestnine;
 plačevanje cestnine za nazaj in plačevanje cestnine vnaprej;
 -       
 pridobitev informacij v zvezi s sistemom DarsGo.
-Lokacije DarsGo servisov so objavljene na spletnem portalu
-www.darsgo.si. DarsGo servisi so na vseh lokacijah označeni z enotno oznako, ki
-je prikazana na sliki 1.
+Lokacije DarsGo servisov so objavljene na spletnem portalu www.darsgo.si.
+DarsGo servisi so na vseh lokacijah označeni z enotno oznako, ki je prikazana
+na sliki 1.
 Slika 1: Certifikat DarsGo
 servisa
 5.1.2 Postopek registracije stranke in vozila na DarsGo servisu
@@ -215,11 +215,11 @@ registrsko številko vozila,
 število osi vlečnega vozila,
 -       
 emisijski razred vozila EURO.
-V postopku registracije vozila stranka predloži prometno dovoljenje
-ali enakovreden dokument, ki ga je v državi registracije motornega vozila izdal
-organ, pooblaščen za izdajanje tovrstnih dokumentov. Če iz prometnega
-dovoljenja niso razvidni podatki o emisijskem razredu vozila EURO, stranka
-predloži naslednja dokazila, iz katerih so ti podatki razvidni:
+V postopku registracije vozila stranka predloži prometno
+dovoljenje ali enakovreden dokument, ki ga je v državi registracije motornega
+vozila izdal organ, pooblaščen za izdajanje tovrstnih dokumentov. Če iz
+prometnega dovoljenja niso razvidni podatki o emisijskem razredu vozila EURO,
+stranka predloži naslednja dokazila, iz katerih so ti podatki razvidni:
 -       
 dokument, ki potrjuje skladnost proizvodnje, ki ga je v državi
 registracije motornega vozila izdal organ, pooblaščen za izdajo tovrstnih
@@ -230,11 +230,12 @@ vozilo, ki ga je v državi registracije motornega vozila izdal organ, pooblašč
 za izdajanje tovrstnih dokazil;
 -       
 certifikat o skladnosti (v nadaljnjem besedilu: COC) v skladu z Uredbo
-(EU) 2018/858 Evropskega parlamenta in Sveta z dne 30. maja 2018 o odobritvi
-in tržnem nadzoru motornih vozil in njihovih priklopnikov ter sistemov,
-sestavnih delov in samostojnih tehničnih enot, namenjenih za taka vozila,
-spremembi uredb (ES) št. 715/2007 in (ES) št. 595/2009 ter razveljavitvi
-Direktive 2007/46/ES (UL L št. 151 z dne 14. 6. 2018, str. 1);
+(EU) 2018/858 Evropskega parlamenta in Sveta z dne 30. maja 2018 o
+odobritvi in tržnem nadzoru motornih vozil in njihovih priklopnikov ter
+sistemov, sestavnih delov in samostojnih tehničnih enot, namenjenih za taka
+vozila, spremembi uredb (ES) št. 715/2007 in (ES) št. 595/2009 ter
+razveljavitvi Direktive 2007/46/ES (UL L št. 151 z dne 14. 6. 2018, str.
+1);
 -       
 potrdilo proizvajalca vozila, če dodeljenega emisijskega razreda vozila
 EURO ni mogoče dokazati z dokumenti in dokazili iz tega odstavka, pri čemer to
@@ -266,11 +267,11 @@ po elektronski pošti na naslov ccs@darsgo.si ali
 -       
 po pošti na naslov DARS d. d., Center cestninskega sistema, Dunajska 7,
 1000 Ljubljana.
-Center cestninskega sistema (v nadaljnjem besedilu: CCS)
-potrdi ustreznost poslanih dokazil najpozneje v 30 dneh od prejema. Naprava
-DarsGo stranko pri vožnji skozi točko cestninjenja z zvočnim signalom (štirje
-zvočni signali) opozori, naj se z napravo DarsGo oglasi na prvem DarsGo servisu
-za dokončno ureditev spremenjenega emisijskega razreda vozila EURO. Po ureditvi
+Center cestninskega sistema (v nadaljnjem besedilu: CCS) potrdi
+ustreznost poslanih dokazil najpozneje v 30 dneh od prejema. Naprava DarsGo
+stranko pri vožnji skozi točko cestninjenja z zvočnim signalom (štirje zvočni
+signali) opozori, naj se z napravo DarsGo oglasi na prvem DarsGo servisu za
+dokončno ureditev spremenjenega emisijskega razreda vozila EURO. Po ureditvi
 spremembe emisijskega razreda vozila EURO na DarsGo servisu se začne
 obračunavati ustrezna višina cestnine v skladu s cenikom cestnine.
 Če se pri preverjanju dokumentov ugotovi, da predložena
@@ -321,11 +322,10 @@ in plača strošek izdaje naprave DarsGo s kreditno ali debetno kartico. Stranka
 s sedežem zunaj Evropske unije je mogoče naprave DarsGo poslati po pošti, če
 jih želijo prejeti na naslov v Evropski uniji.
 5.1.3.1 Preverjanje dokazila o emisijskem razredu vozila EURO
-Pravilnost določitve emisijskega razreda vozila EURO se
-preverja v CCS. Če je na podlagi dokumentov, ki jih je predložila stranka,
-mogoče potrditi določen emisijski razred vozila EURO, je preverjanje dokazil
-končano in določeni emisijski razred vozila EURO se dokončno potrdi v sistemu
-DarsGo.
+Pravilnost določitve emisijskega razreda vozila EURO se preverja
+v CCS. Če je na podlagi dokumentov, ki jih je predložila stranka, mogoče
+potrditi določen emisijski razred vozila EURO, je preverjanje dokazil končano
+in določeni emisijski razred vozila EURO se dokončno potrdi v sistemu DarsGo.
 Če so predloženi dokumenti, ki jih je predložila stranka,
 napačni, neberljivi ali nepopolni, DARS, d. d., zahteva dopolnitev manjkajoče
 oziroma nepopolne dokumentacije.
@@ -1462,7 +1462,7 @@ elektronsko vinjeto za vozilo z isto registrsko označbo za pravilen cestninski
 razred. V tem primeru je treba zagotoviti ustrezno plačilo cestnine za obdobje,
 v katerem je stranka imela elektronsko vinjeto za nepravilen cestninski razred;
 -       
-ugotovi, da je za isto registrsko označbo vozila kupil dve letni ali
+ugotovi, da je za isto registrsko označbo vozila kupila dve letni ali
 polletni elektronski vinjeti, ki sta že začeli veljati; v primeru ugoditve
 zahtevku se stranki vrne sorazmerni del vrednosti elektronske vinjete, ki je
 začela veljati prej, in sicer od dneva nakupa nove elektronske vinjete do dneva
@@ -1474,8 +1474,10 @@ Zahtevku za vračilo sorazmernega dela vrednosti elektronske
 vinjete iz razlogov, navedenih v prvem odstavku te točke, mora stranka
 priložiti kopijo računa in potrdilo o nakupu obeh elektronskih vinjet, za
 vozila, ki niso registrirana v Republiki Sloveniji, pa tudi kopijo veljavnega
-prometnega dovoljenja. Zahtevek mora stranka vložiti najpozneje v 30 dneh
-od nakupa prve elektronske vinjete po elektronski ali navadni pošti.
+prometnega dovoljenja. Zahtevek mora stranka vložiti najpozneje v 30 dneh od
+nakupa druge elektronske vinjete v spletni trgovini oziroma po elektronski ali
+navadni pošti. Ob vložitvi zahtevka mora biti preostala vrednost prve
+elektronske vinjete višja od vrednosti nadomestila iz točke 10.11.2.
 11. Opravljanje meritev za določanje vozil, ki se
 uvrščajo v drugi cestninski razred B
 Upravljavec cestninskih cest opravlja meritve višine vozil
@@ -1488,8 +1490,8 @@ za njihovo uporabo, dimenzije pnevmatik, ki jih predpiše proizvajalec in so
 vpisane v dokumentu o skladnosti vozila, tlak v pnevmatikah, ki je predpisan za
 obremenitev vozila do njegove največje dovoljene mase, nenaloženo vozilo v
 obratovalnem stanju), ter določb tehnične specifikacije TSV 148 – Mase in mere
-določenih kategorij motornih in priklopnih vozil (brez upoštevanja anten in
-tokovnih odjemnikov).
+določenih kategorij motornih in priklopnih vozil (brez upoštevanja anten in tokovnih
+odjemnikov).
 Opravljajo se meritve višine vozil, ki jih vozniki pripeljejo
 na izmero. Meritev se opravlja s certificirano merilno napravo na stalnem
 merilnem mestu upravljavca cestninskih cest na lokaciji Grič 54, Ljubljana. Pri
@@ -1557,5 +1559,12 @@ Spremembe Splošnega akta o cestninjenju
 (Uradni list RS, št. 69/22) vsebuje naslednjo končno določbo:
 »KONČNA DOLOČBA
 5. člen
+Ta splošni akt začne veljati naslednji dan po objavi v
+Uradnem listu Republike Slovenije.«.
+
+Sprememba Splošnega akta o cestninjenju
+(Uradni list RS, št. 82/23) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+2. člen
 Ta splošni akt začne veljati naslednji dan po objavi v
 Uradnem listu Republike Slovenije.«.

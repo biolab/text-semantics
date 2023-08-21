@@ -25,7 +25,8 @@ okviru, tarifnim postavkam omrežnine in tarifnim postavkam za ostale storitve
 vrsta, format in način posredovanja podatkov, potrebnih za določitev
 regulativnega okvira;
 -       
-podrobnejša pravila in način ugotavljanja odstopanj od regulativnega okvira;
+podrobnejša pravila in način ugotavljanja odstopanj od regulativnega
+okvira;
 -       
 parametri posameznih dimenzij kakovosti, njihove referenčne vrednosti
 ter načini in standardi njihovega izračunavanja;
@@ -84,13 +85,14 @@ zemeljski plin za izravnavo:                          �
 zemeljskega plina operaterja prenosnega sistema, izražena v kWh, ki je
 namenjena izravnavi dnevnih odstopanj med prevzetimi in predanimi količinami
 zemeljskega plina in uravnoteženju prenosnega sistema ter ne vključuje
-zemeljskega plina za lastno rabo, osnovno polnitev in sistemske razlike;
+zemeljskega plina za lastno rabo, osnovno polnitev in sistemske razlike, ki so
+posledice izgub, ki niso registrirane na merilnih napravah;
 -       
 zemeljski plin za lastno rabo:                           je količina
 zemeljskega plina, izražena v kWh, ki je na merilnih mestih sistema registriran
 za potrebe delovanja kompresorjev in za tehnološko ogrevanje. Količina
-zemeljskega plina za lastno rabo vključuje tudi registrirane količine izpihanega
-zemeljskega plina;
+zemeljskega plina za lastno rabo vključuje tudi registrirane količine
+izpihanega zemeljskega plina;
 -       
 zemeljski plin za namen obračuna po OBA:    je količina zemeljskega
 plina, izražena v kWh, ki je dodeljena operativnemu izravnalnemu računu;
@@ -100,7 +102,10 @@ zemeljskega plina, izražena v kWh, ki je namenjena osnovnemu polnjenju sistema
 za potrebe usposobitve sistema ali dela sistema za obratovanje oziroma
 izvajanje prenosa oziroma distribucije zemeljskega plina po sistemu;
 -       
-zemeljski plin za sistemske razlike:                 je količina
+zemeljski plin za sistemske razlike:                 je za operaterja
+prenosnega sistema količina zemeljskega plina, izražena v kWh, ki predstavlja
+primanjkljaje energije, ki so posledica izgub, ki niso registrirane na merilnih
+napravah, oziroma je za potrebe operaterja distribucijskega sistema količina
 zemeljskega plina, izražena v kWh, ki predstavlja višek ali primanjkljaj
 energije in je posledica merilnih negotovosti in izgub, ki niso registrirane na
 merilnih napravah.
@@ -129,15 +134,15 @@ uporabo sistema in drugih prihodkov in je namenjen pokrivanju upravičenih
 stroškov operaterja sistema.
 (3) Omrežnina je znesek, ki ga je za uporabo sistema
 dolžan plačati uporabnik sistema in se izračuna na podlagi tarifnih postavk
-omrežnine ter obsega uporabe tega sistema v skladu z aktom, ki ureja metodologijo
-za obračunavanje omrežnine za sistem (v nadaljnjem besedilu: metodologija za
-obračunavanje omrežnine).
+omrežnine ter obsega uporabe tega sistema v skladu z aktom, ki ureja
+metodologijo za obračunavanje omrežnine za sistem (v nadaljnjem besedilu:
+metodologija za obračunavanje omrežnine).
 (4) Omrežnine so seštevek omrežnin za posamezno leto
 regulativnega obdobja.
 (5) Metoda reguliranega letnega prihodka in omrežnin
-operaterja sistema temelji na spodbudah, ki so odvisne od doseganja nižjih
-realiziranih stroškov od priznanih upravičenih stroškov (PUSt),
-od doseganja spodbud za pridobljena brezplačno prevzeta evropska sredstva in od
+operaterja sistema temelji na spodbudah, ki so odvisne od doseganja nižjih realiziranih
+stroškov od priznanih upravičenih stroškov (PUSt), od
+doseganja spodbud za pridobljena brezplačno prevzeta evropska sredstva in od
 doseganja 25-odstotne razlike med prihodki in stroški ter odhodki operaterja
 prenosnega sistema od nakupa dodatnih zmogljivosti po programu prevelikega
 zakupa in ponovnega odkupa v skladu z 52. členom tega akta.
@@ -183,8 +188,8 @@ omrežnin operater sistema določi regulativni okvir tako, da z načrtovanim
 reguliranim letnim prihodkom za regulativno obdobje, presežkom omrežnin iz
 preteklih let in načrtovanim primanjkljajem omrežnin največ v višini
 načrtovanega stroška amortizacije zagotovi kritje največ do zneska načrtovanih
-upravičenih stroškov za regulativno obdobje in pripadajočega primanjkljaja omrežnin
-iz preteklih let.
+upravičenih stroškov za regulativno obdobje in pripadajočega primanjkljaja
+omrežnin iz preteklih let.
 7. člen
 (elementi regulativnega okvira)
 (1) Elementi regulativnega okvira so:
@@ -197,8 +202,8 @@ drugi prihodki iz izvajanja dejavnosti operaterja sistema;
 -       
 presežki oziroma primanjkljaji omrežnin iz preteklih let;
 -       
-načrtovan primanjkljaj omrežnin največ v višini načrtovanega stroška
-amortizacije in
+načrtovan primanjkljaj omrežnin največ v višini načrtovanega stroška amortizacije
+in
 -       
 izravnava.
 (2) Elementi regulativnega okvira so na podlagi
@@ -281,8 +286,8 @@ stroškov v zahtevi za izdajo soglasja agencije upoštevati:
 zgolj tiste postavke, ki so neposreden pogoj za opravljanje dejavnosti
 operaterja sistema, posledica opravljanja dejavnosti operaterja sistema in
 nimajo značaja privatnosti ter so v skladu z običajno poslovno prakso,
-tehničnimi standardi in zahtevami iz aktov, ki urejajo področje sistemskih obratovalnih
-navodil;
+tehničnimi standardi in zahtevami iz aktov, ki urejajo področje sistemskih
+obratovalnih navodil;
 -       
 namensko rabo postavk;
 -       
@@ -291,9 +296,9 @@ gospodarno in učinkovito rabo postavk.
 (sredstva v najemu)
 (1) Če operater sistema ni lastnik sistema ali njegovega
 dela in ga uporablja za opravljanje dejavnosti operaterja sistema, mora z
-lastnikom sistema pogodbeno urediti vsa vprašanja v zvezi z uporabo tega
-sistema, vključno z določitvijo stroškov uporabe sistema, ki za potrebe tega
-akta predstavljajo strošek najemnine in druge stroške uporabe sistema.
+lastnikom sistema pogodbeno urediti vsa vprašanja v zvezi z uporabo tega sistema,
+vključno z določitvijo stroškov uporabe sistema, ki za potrebe tega akta
+predstavljajo strošek najemnine in druge stroške uporabe sistema.
 (2) Operater sistema v skladu s tem aktom pri določitvi
 upravičenih stroškov v delu, ki se nanaša na določitev stroškov delovanja in
 vzdrževanja (SDVt), ne upošteva stroškov najemnin. Pri
@@ -312,8 +317,8 @@ ne priznavajo stroški in odhodki:
 -       
 ki se nanašajo na stroške zemeljskega plina za lastno rabo, zemeljskega
 plina za sistemske razlike in zemeljskega plina za namen obračuna po OBA v
-obsegu, ki presega dva odstotka po prenosnem sistemu prenesenih oziroma v
-distribucijski sistem prevzetih količin zemeljskega plina;
+obsegu, ki presega 0,5 odstotka po prenosnem sistemu prenesenih oziroma presega
+dva odstotka v distribucijski sistem prevzetih količin zemeljskega plina;
 -       
 uporabe prenosnega sistema, ki se nanašajo na vstopne točke v prenosni
 sistem v Republiko Slovenijo in izstopne točke iz prenosnega sistema iz
@@ -334,11 +339,11 @@ pripadajočimi dajatvami, kot so opredeljene po davčni zakonodaji;
 -       
 ki se nanašajo na donacije;
 -       
-v višini 50 odstotkov stroškov reklame operaterja sistema v zvezi s
-pridobivanjem novih odjemalcev na sistemu in reklamiranjem zanesljivosti ter
-varnosti oskrbe z zemeljskim plinom. Če preostali strošek reklam presega
-0,3 odstotka čistih prihodkov od prodaje operaterja sistema, se tudi ta
-presežni del stroška reklam ne priznava med stroške delovanja in vzdrževanja;
+v višini 50 odstotkov stroškov reklame operaterja sistema v zvezi s pridobivanjem
+novih odjemalcev na sistemu in reklamiranjem zanesljivosti ter varnosti oskrbe
+z zemeljskim plinom. Če preostali strošek reklam presega 0,3 odstotka
+čistih prihodkov od prodaje operaterja sistema, se tudi ta presežni del stroška
+reklam ne priznava med stroške delovanja in vzdrževanja;
 -       
 za sponzorstva;
 -       
@@ -382,9 +387,9 @@ in nenadzorovani stroški delovanja in vzdrževanja (NNSDV).
 operaterja sistema so stroški oziroma odhodki, ki se nanašajo na:
 -       
 porabljen zemeljski plin za lastno rabo, zemeljski plin za sistemske
-razlike in zemeljski plin za namen obračuna po OBA do vključno dveh odstotkov
-po prenosnem sistemu prenesenih oziroma v distribucijski sistem prevzetih
-količin zemeljskega plina;
+razlike in zemeljski plin za namen obračuna po OBA do vključno 0,5 odstotka po
+prenosnem sistemu prenesenih oziroma dveh odstotkov v distribucijski sistem
+prevzetih količin zemeljskega plina;
 -       
 nadomestilo za uporabo stavbnega zemljišča oziroma dajatev, ki bo
 nadomestila to dajatev;
@@ -451,7 +456,8 @@ regulativnega obdobja.
 izkazati nadzorovane stroške delovanja in vzdrževanja (NSDV) od
 nenadzorovanih stroškov delovanja in vzdrževanja (NNSDV).
 16. člen
-(podlaga za določitev nadzorovanih stroškov delovanja in vzdrževanja)
+(podlaga za določitev nadzorovanih stroškov delovanja in
+vzdrževanja)
 (1) Operater sistema pri določitvi nadzorovanih stroškov
 delovanja in vzdrževanja (NSDV) za prvo leto regulativnega obdobja (leto
 t) kot nadzorovane stroške delovanja in vzdrževanja predhodnega
@@ -540,9 +546,9 @@ gospodarskih gibanj.
 20. člen
 (faktor učinkovitosti)
 (1) Operater sistema pri določitvi nadzorovanih stroškov
-delovanja in vzdrževanja za posamezno leto regulativnega obdobja upošteva povečevanje
-učinkovitosti, ki se odraža v faktorju učinkovitosti za posamezno leto
-regulativnega obdobja (Ut). Faktor učinkovitosti odraža
+delovanja in vzdrževanja za posamezno leto regulativnega obdobja upošteva
+povečevanje učinkovitosti, ki se odraža v faktorju učinkovitosti za posamezno
+leto regulativnega obdobja (Ut). Faktor učinkovitosti odraža
 zahtevo po potrebnem znižanju upravičenih stroškov operaterja sistema.
 (2) Faktor učinkovitosti za posamezno leto regulativnega
 obdobja (Ut) za operaterja prenosnega sistema z odločbo
@@ -625,9 +631,9 @@ skladu s tem aktom upoštevati nižje amortizacijske stopnje.
 (4) Pri določitvi stroška amortizacije se amortizacija
 od posameznega sredstva ali dela sredstva obračuna in prizna le enkrat.
 (5) Če operater sistema pri sredstvih v dobi uporabnosti
-ugotovi neenakomerno uporabo sredstev, se za ta sredstva pri določitvi
-omrežnine uporabi metoda proizvedenih enot glede na pričakovani vzorec
-gospodarskih koristi iz sredstev.
+ugotovi neenakomerno uporabo sredstev, se za ta sredstva pri določitvi omrežnine
+uporabi metoda proizvedenih enot glede na pričakovani vzorec gospodarskih
+koristi iz sredstev.
 23. člen
 (nabavna vrednost sredstev)
 (1) Operater sistema mora pri določitvi stroška
@@ -741,9 +747,9 @@ t             leto regulativnega obdobja.
 (1) Pri določitvi otvoritvene vrednosti regulativne baze
 sredstev (OVSt) za prvo leto regulativnega obdobja operater
 sistema upošteva realizirane knjigovodske vrednosti sredstev iz bilance stanja
-na dan 31. december predpreteklega leta pred začetkom regulativnega obdobja
-(leto t-2), zmanjšane za knjigovodsko vrednost tistih sredstev, na
-katera se v skladu s 25. členom tega akta ne priznava reguliran donos na
+na dan 31. december predpreteklega leta pred začetkom regulativnega
+obdobja (leto t-2), zmanjšane za knjigovodsko vrednost tistih sredstev,
+na katera se v skladu s 25. členom tega akta ne priznava reguliran donos na
 sredstva, ter spremenjene za leto pred začetkom regulativnega obdobja (leto
 t-1) na način, kot ga določa 29. člen tega akta.
 (2) Za drugo in tretje leto regulativnega obdobja se pri
@@ -811,11 +817,11 @@ sistema.
 (2) Če bi upoštevanje vseh naložb iz naložbenega načrta
 operaterja prenosnega sistema imelo prevelik vpliv na omrežnine, agencija v
 postopku preverjanja in ocenjevanja naložbenega načrta operaterju prenosnega
-sistema naloži, da pri določitvi načrtovanih upravičenih stroškov, ki se nanašajo
-na načrtovani strošek amortizacije in načrtovani reguliran donos na sredstva,
-za regulativno obdobje upošteva le določene naložbe po prioritetnem vrstnem
-redu iz naložbenega načrta operaterja prenosnega sistema, ki bodo usposobljene
-za uporabo po posameznih letih regulativnega obdobja.
+sistema naloži, da pri določitvi načrtovanih upravičenih stroškov, ki se
+nanašajo na načrtovani strošek amortizacije in načrtovani reguliran donos na
+sredstva, za regulativno obdobje upošteva le določene naložbe po prioritetnem
+vrstnem redu iz naložbenega načrta operaterja prenosnega sistema, ki bodo
+usposobljene za uporabo po posameznih letih regulativnega obdobja.
 33. člen
 (naložbeni načrt operaterja distribucijskega sistema)
 (1) Agencija v postopku odločanja o zahtevi za izdajo
@@ -848,8 +854,8 @@ kjer oznake pomenijo:
 Vt           viri za pokrivanje upravičenih
 stroškov za posamezno leto regulativnega obdobja, v eurih;
 RPt        reguliran letni prihodek operaterja
-sistema iz izvajanja dejavnosti operaterja sistema za posamezno leto
-regulativnega obdobja, določen v skladu s 36. členom tega akta, v eurih;
+sistema iz izvajanja dejavnosti operaterja sistema za posamezno leto regulativnega
+obdobja, določen v skladu s 36. členom tega akta, v eurih;
 ΔROT-1  tisti del odstopanj od regulativnega okvira
 za pretekla leta (ΔRO), ki ga operater sistema še ni upošteval pri
 določitvi regulativnega okvira za pretekla leta in ki se odraža v presežku
@@ -873,8 +879,8 @@ RPt        reguliran letni prihodek operaterja
 sistema za posamezno leto regulativnega obdobja, v eurih;
 OMRt     omrežnine za posamezno leto regulativnega
 obdobja, v eurih;
-DPt        drugi prihodki, ki so predhodno
-zmanjšani za izločene prihodke iz 37. člena tega akta, v eurih;
+DPt        drugi prihodki, ki so predhodno zmanjšani
+za izločene prihodke iz 37. člena tega akta, v eurih;
 t             leto regulativnega obdobja.
 (2) V skladu s tem aktom drugi prihodki operaterja
 prenosnega sistema vključujejo tudi prihodke iz naslova bilančnega obračuna.
@@ -918,8 +924,8 @@ take spremembe tarifnih postavk, ki zagotavljajo pokritje celotnega
 načrtovanega upravičenega stroška amortizacije, pri določitvi tistega dela
 regulativnega okvira, ki se nanaša na določitev načrtovanih virov za pokrivanje
 upravičenih stroškov regulativnega obdobja, načrtuje primanjkljaj omrežnin za
-regulativno obdobje (nΔROT) največ v višini načrtovanega stroška
-amortizacije za to regulativno obdobje.
+regulativno obdobje (nΔROT) največ v višini načrtovanega
+stroška amortizacije za to regulativno obdobje.
 VI. ZAHTEVA ZA IZDAJO SOGLASJA AGENCIJE
 41. člen
 (zahteva za izdajo soglasja agencije)
@@ -929,8 +935,8 @@ zmogljivosti, ki se določijo v koledarju dražb na podlagi 4. točke 11. člena
 Uredbe (EU) št. 2017/459, v letu pred začetkom regulativnega obdobja (leto
 t-1).
 (2) Operater distribucijskega sistema mora vložiti
-zahtevo za izdajo soglasja agencije najkasneje do 15. julija leta pred
-začetkom regulativnega obdobja (leto t-1).
+zahtevo za izdajo soglasja agencije najkasneje do 15. julija leta pred začetkom
+regulativnega obdobja (leto t-1).
 (3) Operater sistema vloži zahtevo za izdajo soglasja
 agencije na obrazcih v elektronski obliki, ki jih pripravi agencija najkasneje
 dva meseca pred iztekom roka iz prejšnjih dveh odstavkov in ki vsebujejo
@@ -939,8 +945,8 @@ naslednje podatke in razkritja:
 navedba regulativnega obdobja, za katero je operater sistema določil
 regulativni okvir in vlaga zahtevo za izdajo soglasja agencije;
 -       
-navedba geografskega območja, za katero operater sistema določa regulativni
-okvir;
+navedba geografskega območja, za katero operater sistema določa
+regulativni okvir;
 -       
 potrebna za izračun načrtovanih stroškov delovanja in vzdrževanja za
 posamezna leta regulativnega obdobja in za regulativno obdobje, ločeno za
@@ -1183,9 +1189,9 @@ c)    
 realizirane nenadzorovane stroške delovanja in vzdrževanja, ki se
 nanašajo na stroške materiala za zemeljski plin za lastno rabo, za zemeljski
 plin za sistemske razlike in zemeljski plin za namen obračuna po OBA v obsegu,
-ki ne presega dveh odstotkov po prenosnem sistemu prenesenih oziroma v
-distribucijski sistem prevzetih količin zemeljskega plina, iz izkaza poslovnega
-izida operaterja sistema kot priznane;
+ki ne presega 0,5 odstotka po prenosnem sistemu prenesenih oziroma dveh
+odstotkov v distribucijski sistem prevzetih količin zemeljskega plina, iz
+izkaza poslovnega izida operaterja sistema kot priznane;
 d)    
 preostale realizirane nenadzorovane stroške delovanja in vzdrževanja iz
 izkaza poslovnega izida operaterja sistema pod pogoji iz tega akta kot
@@ -1251,14 +1257,14 @@ veljavne zakonodaje.
 (3) Načrtovani nadzorovani stroški delovanja in vzdrževanja
 iz točk a) in b) prvega odstavka tega člena se pri določitvi odstopanj od
 regulativnega okvira najprej preračunajo tako, da se ne glede na drugi stavek
-prvega odstavka 16. člena tega akta preračuna povprečna vrednost tistih
-priznanih nenadzorovanih stroškov delovanja in vzdrževanja (NNSDV), ki so bili
-v preteklih dveh regulativnih obdobjih priznani operaterju sistema pri
-določitvi odstopanj od regulativnega okvira v zvezi z zakonom ali drugimi
-predpisi določenimi novimi nalogami operaterja sistema. Povprečna vrednost se
-izračuna kot povprečna vrednost pri odstopanju od regulativnega okvira
-priznanih nenadzorovanih stroškov delovanja in vzdrževanja (NNSDV) za posamezno
-nalogo v obdobju let t-6, t-5, t-4, t-3, t-2 in t-1 pred začetkom tega regulativnega
+prvega odstavka 16. člena tega akta preračuna povprečna vrednost tistih priznanih
+nenadzorovanih stroškov delovanja in vzdrževanja (NNSDV), ki so bili v
+preteklih dveh regulativnih obdobjih priznani operaterju sistema pri določitvi
+odstopanj od regulativnega okvira v zvezi z zakonom ali drugimi predpisi
+določenimi novimi nalogami operaterja sistema. Povprečna vrednost se izračuna
+kot povprečna vrednost pri odstopanju od regulativnega okvira priznanih
+nenadzorovanih stroškov delovanja in vzdrževanja (NNSDV) za posamezno nalogo v
+obdobju let t-6, t-5, t-4, t-3, t-2 in t-1 pred začetkom tega regulativnega
 obdobja (ROT), in sicer glede na število let, v katerih so bili ti stroški
 priznani operaterju sistema pri odstopanju od regulativnega okvira.
 50.a člen
@@ -1282,8 +1288,8 @@ iz prvega odstavka 26.a člena tega akta za posamezno leto regulativnega obdobja
 (t) (OPSr(t)) in upoštevajo kriteriji, ki so določeni
 v desetem odstavku tega člena. 
 (4) Osnova za priznavanje reguliranega donosa na posamezno
-sredstvo iz prvega odstavka 26.a člena tega akta za posamezno leto
-regulativnega obdobja se določi na naslednji način:
+sredstvo iz prvega odstavka 26.a člena tega akta za posamezno leto regulativnega
+obdobja se določi na naslednji način:
    [EUR],
 kjer oznake pomenijo:
 OPSr(t)                         osnova
@@ -1367,9 +1373,9 @@ sredstva iz prvega odstavka 26.a člena tega akta (t0) do
 vključno preteklega leta regulativnega obdobja (t-1), v eurih;
                 skupni
 stroški posameznega sredstva iz prvega odstavka 26.a člena tega akta v
-relevantnem obdobju (r) od leta usposobitve za uporabo posameznega
-sredstva iz prvega odstavka 26.a člena tega akta (t0) do
-vključno preteklega leta regulativnega obdobja (t-1), v eurih;
+relevantnem obdobju (r) od leta usposobitve za uporabo posameznega sredstva
+iz prvega odstavka 26.a člena tega akta (t0) do vključno
+preteklega leta regulativnega obdobja (t-1), v eurih;
 r                                  relevantno
 obdobje;
 t0                                 leto
@@ -1398,10 +1404,10 @@ prvega odstavka 26.a člena tega akta za to leto regulativnega obdobja (t)
 če je osnova za priznavanje reguliranega donosa na posamezno sredstvo iz
 prvega odstavka 26.a člena tega akta za leto regulativnega obdobja (t) (OPSr(t))
 večja od nič in hkrati večja od skupaj priznanega reguliranega donosa na
-posamezno sredstvo iz prvega odstavka 26.a člena tega akta za relevantno obdobje
-(r) od leta usposobitve za uporabo posameznega sredstva iz prvega
-odstavka 26.a člena tega akta (t0) do vključno preteklega
-leta regulativnega obdobja (t-1) () ter je
+posamezno sredstvo iz prvega odstavka 26.a člena tega akta za relevantno
+obdobje (r) od leta usposobitve za uporabo posameznega sredstva iz
+prvega odstavka 26.a člena tega akta (t0) do vključno
+preteklega leta regulativnega obdobja (t-1) () ter je
 hkrati seštevek osnove za priznavanje reguliranega donosa na posamezno sredstvo
 iz prvega odstavka 26.a člena tega akta za leto regulativnega obdobja (t) (OPSr(t))
 in skupaj priznani reguliran donos na posamezno sredstvo iz prvega odstavka
@@ -1416,8 +1422,8 @@ na podlagi določb od 25. do 31. člena tega akta (), je
 operaterju sistema za to leto regulativnega obdobja (t) priznan
 regulirani donos na posamezno sredstvo iz prvega odstavka 26.a člena tega akta
 (RDSSr(t)) v višini osnove za priznavanje reguliranega donosa
-na posamezno sredstvo iz prvega odstavka 26.a člena tega akta za leto
-regulativnega obdobja (t) (OPSr(t));
+na posamezno sredstvo iz prvega odstavka 26.a člena tega akta za leto regulativnega
+obdobja (t) (OPSr(t));
 -       
 če je osnova za priznavanje reguliranega donosa na posamezno sredstvo iz
 prvega odstavka 26.a člena tega akta za leto regulativnega obdobja (t) (OPSr(t))
@@ -1467,19 +1473,19 @@ višje stroške, kot so priznani upravičeni stroški, razliko krije v breme
 reguliranega donosa na sredstva.
 (2) Operater sistema pri določitvi priznanih upravičenih
 stroškov za posamezno leto regulativnega obdobja upošteva enkratno spodbudo za
-pridobljena brezplačno prevzeta evropska sredstva (SEUt). Spodbuda
-se upošteva v tistem letu regulativnega obdobja, ko je sredstvo, zgrajeno iz
-teh virov, predano v uporabo, in sicer v višini 6 odstotkov od pridobljenih
-brezplačno prevzetih evropskih sredstev. Če mora operater sistema vrniti
-brezplačno pridobljena evropska sredstva, prejeta spodbuda zmanjšuje priznane
-upravičene stroške pri ugotavljanju odstopanj od regulativnega okvira za tisto
-leto regulativnega obdobja, v katerem je prišlo do vrnitve sredstev.
+pridobljena brezplačno prevzeta evropska sredstva (SEUt).
+Spodbuda se upošteva v tistem letu regulativnega obdobja, ko je sredstvo,
+zgrajeno iz teh virov, predano v uporabo, in sicer v višini 6 odstotkov od
+pridobljenih brezplačno prevzetih evropskih sredstev. Če mora operater sistema
+vrniti brezplačno pridobljena evropska sredstva, prejeta spodbuda zmanjšuje
+priznane upravičene stroške pri ugotavljanju odstopanj od regulativnega okvira
+za tisto leto regulativnega obdobja, v katerem je prišlo do vrnitve sredstev.
 (3) Operater prenosnega sistema pri določitvi priznanih
 upravičenih stroškov za posamezno leto regulativnega obdobja upošteva spodbudo
 od doseganja 25-odstotne razlike med prihodki in stroški ter odhodki operaterja
-prenosnega sistema od nakupa dodatnih zmogljivosti po programu prevelikega
-zakupa in ponovnega odkupa v skladu s 50. členom tega akta. Ta spodbuda
-povečuje ali znižuje priznane upravičene stroške operaterja prenosnega sistema.
+prenosnega sistema od nakupa dodatnih zmogljivosti po programu prevelikega zakupa
+in ponovnega odkupa v skladu s 50. členom tega akta. Ta spodbuda povečuje ali
+znižuje priznane upravičene stroške operaterja prenosnega sistema.
 1.2. Priznani viri za pokrivanje upravičenih stroškov
 53. člen
 (priznani regulirani letni prihodek)
@@ -1532,8 +1538,8 @@ t           leto regulativnega obdobja.
 (1) Odstopanje od regulativnega okvira za posamezno leto
 regulativnega obdobja, ki se odraža v presežku ali primanjkljaju omrežnin, se
 letno obrestuje z upoštevanjem povprečne letne vrednosti odstopanj od
-regulativnega okvira in priznane letne obrestne mere, ki je za posamezno
-regulativno obdobje določena v Prilogi 3, ki je sestavni del tega akta.
+regulativnega okvira in priznane letne obrestne mere, ki je za posamezno regulativno
+obdobje določena v Prilogi 3, ki je sestavni del tega akta.
 (2) Povprečna letna vrednost odstopanj od regulativnega
 okvira za posamezno leto regulativnega obdobja se določi kot povprečna vrednost
 stanja odstopanj na začetku posameznega leta, ki vključuje stanje obresti za
@@ -1563,8 +1569,8 @@ regulativnega okvira
 regulativnega okvira za pretekla leta, ki ga še ni upošteval pri določitvi
 regulativnega okvira za pretekla leta (ΔROT-1) in ga upošteva
 pri določitvi regulativnega okvira za regulativno obdobje tako, da skupaj z
-upoštevanjem vpliva naložb iz naložbenega načrta operaterja sistema na podlagi 32.
-oziroma 33. člena tega akta ne preseže omejitve višine načrtovanega
+upoštevanjem vpliva naložb iz naložbenega načrta operaterja sistema na podlagi
+32. oziroma 33. člena tega akta ne preseže omejitve višine načrtovanega
 primanjkljaja omrežnin za regulativno obdobje (nΔROT), ki na
 podlagi 40. člena tega akta ne sme preseči višine načrtovanega stroška
 amortizacije za regulativno obdobje.
@@ -1588,19 +1594,19 @@ vrednost ΔRO pomeni obveznost operaterja sistema, da presežek omrežnin
 nameni pokrivanju upravičenih stroškov pri določitvi omrežnin naslednjih let,
 pozitivna vrednost ΔRO pa pomeni pravico operaterja sistema, da upošteva
 primanjkljaj omrežnin pri določitvi omrežnin v naslednjih letih, v eurih;
-ΔzRO    zadržano odstopanje od regulativnega okvira za pretekla
-leta je tisti del odstopanja od regulativnega okvira za pretekla leta, ki ga
-operater sistema še ni upošteval pri določitvi regulativnega okvira za pretekla
-leta in ga v skladu s prejšnjim odstavkom ni upošteval oziroma ni bil upoštevan
-v primeru določitve regulativnega okvira na podlagi 254. člena EZ-1 za
-regulativno obdobje, ki sledi letu t-1, v eurih.
+ΔzRO    zadržano odstopanje od regulativnega okvira za
+pretekla leta je tisti del odstopanja od regulativnega okvira za pretekla leta,
+ki ga operater sistema še ni upošteval pri določitvi regulativnega okvira za
+pretekla leta in ga v skladu s prejšnjim odstavkom ni upošteval oziroma ni bil
+upoštevan v primeru določitve regulativnega okvira na podlagi 254. člena EZ-1
+za regulativno obdobje, ki sledi letu t-1, v eurih.
 VIII. KAKOVOST STORITEV
 59. člen
 (namen in način reguliranja s kakovostjo storitev)
-(1) Namen reguliranja s kakovostjo storitev pri
-operaterju sistema je doseči tak nivo kakovosti storitev, da bodo prekinitve
-oskrbe čim manj pogoste in čim krajše oziroma da bodo doseženi minimalni
-standardi kakovosti storitev.
+(1) Namen reguliranja s kakovostjo storitev pri operaterju
+sistema je doseči tak nivo kakovosti storitev, da bodo prekinitve oskrbe čim
+manj pogoste in čim krajše oziroma da bodo doseženi minimalni standardi
+kakovosti storitev.
 (2) Načina reguliranja s kakovostjo storitev, ki ju
 agencija uporablja za posamezno dimenzijo kakovosti storitev, sta:
 -       
@@ -1609,8 +1615,9 @@ javna objava podatkov o vrednostih parametrov kakovosti storitev in
 določitev minimalnih standardov kakovosti storitev.
 60. člen
 (spremljanje dimenzij kakovost storitev)
-Za izvajanje reguliranja s kakovostjo storitev agencija spremlja
-naslednje dimenzije in njihove parametre kakovosti storitev operaterja sistema:
+Za izvajanje reguliranja s kakovostjo storitev agencija
+spremlja naslednje dimenzije in njihove parametre kakovosti storitev operaterja
+sistema:
 a)    
 neprekinjenost oskrbe:
 - 
@@ -1792,3 +1799,12 @@ Ta akt začne veljati naslednji dan po objavi v Uradnem listu
 Republike Slovenije in se uporablja za določitev regulativnih okvirov in
 ugotavljanje odstopanj od regulativnih okvirov za regulativna obdobja, ki se
 začnejo od 1. januarja 2022 dalje.«.
+
+Akt o spremembah in dopolnitvi Akta o
+metodologiji za določitev regulativnega okvira operaterja sistema zemeljskega
+plina (Uradni list RS, št. 136/22) vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+5. člen
+(začetek veljavnosti in uporabe)
+Ta akt začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije, uporabljati pa se začne 1. novembra 2022.«.

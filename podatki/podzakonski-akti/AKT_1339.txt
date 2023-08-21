@@ -1,0 +1,283 @@
+1. člen
+(vsebina splošnega akta)
+Ta splošni akt določa način izračuna višine plačila za
+uporabo elementov oštevilčenja.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni v tem splošnem aktu, pomenijo:
+1.     
+Identifikacijska koda podatkovnega omrežja (DNIC) je koda, ki v skladu s
+priporočilom Mednarodne telekomunikacijske zveze (v nadaljnjem besedilu: ITU-T)
+ITU-T X.121 določa določeno javno podatkovno omrežje.
+2.     
+Koda mednarodne signalizacijske točke (ISPC) je koda signalizacijske
+točke, določena v skladu s priporočilom ITU-T Q.708.
+3.     
+Koda mobilnega omrežja (MNC) je koda, ki določa mobilno omrežje v skladu
+s priporočilom ITU-T E.212.
+4.     
+Koda nacionalne signalizacijske točke (DPC) je koda, določena v skladu s
+priporočilom ITU-T Q.704.
+5.     
+Koda nestandardne opreme je binarna koda, ki v skladu s priporočilom
+ITU-T T.35 določa nestandardno opremo za potrebe identifikacije proizvodov s
+področja prenosa govora preko paketnih omrežij v skladu s priporočilom ITU-T
+H.323.
+6.     
+M2M/IoT je komunikacijska tehnologija, kjer se podatki med napravami ali
+aplikacijami prenesejo samodejno z manjšim posredovanjem človeka ali brez njega
+(npr. daljinski nadzor, vzdrževanje v industrijskih IoT aplikacijah,
+telemetrija ipd.).
+7.     
+Nacionalna smerna koda (NDC) je števka ali kombinacija več števk (brez
+kakršnekoli predpone), ki enolično določajo geografsko območje v državi oziroma
+javno komunikacijsko omrežje ali storitev.
+8.     
+Številka izdajateljeve oznake (IIN) je oznaka, določena v priporočilu
+ITU-T E.118, ki je potrebna pri obračunavanju mednarodnih storitev, plačanih s
+telefonsko kartico.
+9.     
+Usmerjalne kode 98MN so kode, namenjene za potrebe usmerjanja pri
+izvedbi prenosljivosti številk.
+(2) Preostali izrazi, uporabljeni v tem splošnem aktu, imajo
+enak pomen, kot je določen v Zakonu o elektronskih komunikacijah (Uradni list
+RS, št. 130/22 in 18/23 – ZDU-1O; v nadaljnjem besedilu: zakon).
+3. člen
+(način izračuna plačila)
+(1) Plačilo, določeno s tem splošnim aktom, se izraža s
+številom točk.
+(2) Višina določenega plačila se izračuna kot zmnožek števila
+točk in vrednosti točke za to vrsto plačila, kot veljata tisto leto, za katero
+se višina plačila odmerja.
+4. člen
+(vrednost točke in tarifa)
+Vrednost točke je določena s tarifo skladno s 6. in 7. členom
+zakona.
+5. člen
+(odločba o odmeri plačila)
+(1) Plačilo za posameznega zavezanca odmeri Agencija za
+komunikacijska omrežja in storitve Republike Slovenije (v nadaljnjem besedilu:
+agencija) z odločbo o odmeri plačila.
+(2) Agencija praviloma izda odločbo iz prejšnjega odstavka do
+konca marca tekočega leta.
+(3) Zavezanec lahko odmerjeno plačilo poravna v dveh enakih
+obrokih, in sicer prvega v 30 dneh od vročitve odločbe, drugega pa najkasneje
+do 15. oktobra v tekočem letu. Če se zavezanec odloči poravnati obveznost v
+enkratnem znesku, je odmerjeno plačilo dolžan poravnati v 30 dneh od vročitve
+odločbe.
+(4) V primeru prenosa pravice do uporabe elementov
+oštevilčenja v skladu s 106. členom zakona, morajo biti pred prenosom poravnane
+obveznosti do agencije v celoti.
+(5) Vsem zavezancem, ki se jim odločba o dodelitvi elementov
+oštevilčenja izda po izdaji odločb v skladu z drugim odstavkom tega člena, se
+odločba iz prvega odstavka tega člena izda do konca decembra tekočega leta.
+Zavezanci so odmerjeno plačilo dolžni poravnati v 30 dneh od vročitve odločbe o
+odmeri plačila.
+6. člen
+(število točk)
+Število točk je določeno glede
+na količino, dolžino in vrsto elementov oštevilčenja, in sicer je število točk
+na element oštevilčenja za posamezno vrsto elementov oštevilčenja naslednje:
+
+
+Vrsta elementov oštevilčenja
+
+Število točk na element oštevilčenja
+
+
+Geografske številke:
+
+0,03
+
+
+Negeografske številke:
+
+
+-       
+  številke, ki se uporabljajo v javnih mobilnih omrežjih ali za potrebe
+  dostopa do javnih komunikacijskih storitev na fiksni lokaciji
+
+0,03
+
+
+-       
+  negeografske številke, ki se uporabljajo v fiksnih in mobilnih javnih
+  omrežjih za potrebe storitev komunikacije med napravami (M2M/IoT)
+
+0,01
+
+
+številke brezplačnih storitev 80CDEF(GH):
+
+
+-       
+  šestmestne 80CDEF
+
+40
+
+
+-       
+  osemmestne 80CDEFGH
+
+3
+
+
+številke premijskih storitev 90CDEF(GH):
+
+
+-       
+  šestmestne 90CDEF
+
+40
+
+
+-       
+  osemmestne 90CDEFGH
+
+3
+
+
+Številke za storitve, kot so daljinsko glasovanje,
+  masovno klicanje itd. 89CDEF(G(H)):
+
+
+-       
+  šestmestne 89CDEF
+
+40
+
+
+-       
+  sedemmestne 89CDEFG
+
+10
+
+
+-       
+  osemmestne 89CDEFGH
+
+3
+
+
+Številke za vstop v posebna omrežja (podatkovna omrežja,
+  internet) 88CDEFGH
+
+3
+
+
+Številke skrajšanega izbiranja razen za številke za klice
+  v sili in številke za dostop do družbeno koristnih vseevropskih telefonskih
+  storitev (116QRT)
+
+
+-       
+  trimestne številke
+
+5 000
+
+
+-       
+  štirimestne številke
+
+500
+
+
+-       
+  petmestne številke
+
+50
+
+
+Predpone za izbiro operaterja mednarodnih prenosnih
+  omrežij 10 PQ
+
+650
+
+
+Nacionalna smerna koda (NDC – AB(C(D)):
+
+
+-       
+  dvomestne kode
+
+1 600
+
+
+-       
+  trimestne kode
+
+400
+
+
+-       
+  štirimestne kode
+
+200
+
+
+Signalne kode in druge kode
+
+
+-       
+  identifikacijska koda podatkovnega omrežja (DNIC)
+
+10
+
+
+-       
+  koda mednarodne signalizacijske točke (ISPC)
+
+200
+
+
+-       
+  koda nacionalne signalizacijske točke (DPC)
+
+10
+
+
+-       
+  koda mobilnega omrežja (MNC)
+
+200
+
+
+-       
+  številka izdajateljeve oznake (IIN)
+
+10
+
+
+-       
+  usmerjalne kode 98MN
+
+10
+
+
+-       
+  koda nestandardne opreme (koda proizvajalca opreme)
+
+10
+
+
+-       
+  druge kode
+
+10
+
+
+PREHODNA IN KONČNA DOLOČB
+7. člen
+(prenehanje uporabe)
+Z dnem uveljavitve tega splošnega akta se preneha uporabljati
+Splošni akt o načinu izračuna višine plačil za uporabo elementov oštevilčenja
+(Uradni list RS, št. 31/13, 21/16, 15/17, 72/18 in 130/22 – ZEKom-2).
+8. člen
+(začetek veljavnosti)
+Ta splošni akt začne veljati petnajsti dan po objavi v
+Uradnem listu Republike Slovenije.
+Št. 0073/23/2022/5
+Ljubljana, dne 12. aprila 2023
+EVA 2023-3150-0018
+Mag. Tanja Muha
+v. d. direktorja
