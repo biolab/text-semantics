@@ -10,11 +10,15 @@ vpisa enot poslovnega registra v poslovni register, podatke, ki jih ob vpisu
 dodeli ali določi upravljavec registra, uporabo podatkov iz poslovnega registra
 in hrambo dokumentacije.
 (2) S tem zakonom se v pravni red Republike Slovenije delno
-prenaša Direktiva 2012/17/EU Evropskega parlamenta in Sveta z dne 13. junija
-2012 o spremembi Direktive Sveta 89/666/EGS ter direktiv 2005/56/ES in
-2009/101/ES Evropskega parlamenta in Sveta glede povezovanja centralnih in
-trgovinskih registrov ter registrov družb (UL L št. 156 z dne 16. 6. 2012, str.
-1).
+prenaša Direktiva (EU) 2017/1132 Evropskega parlamenta in Sveta z dne
+14. julija 2017 o določenih vidikih prava družb (kodificirano besedilo)
+(UL L št. 169 z dne 30. 6. 2017, str. 46), zadnjič spremenjena z
+Uredbo (EU) 2021/23 Evropskega parlamenta in Sveta z dne 16. decembra 2020
+o okviru za sanacijo in reševanje centralnih nasprotnih strank ter spremembi
+uredb (EU) št. 1095/2010, (EU) št. 648/2012, (EU) št. 600/2014,
+(EU) št. 806/2014 in (EU) 2015/2365 ter direktiv 2002/47/ES, 2004/25/ES,
+2007/36/ES, 2014/59/EU in (EU) 2017/1132 (UL L št. 22 z dne 22. 1.
+2021, str. 1), (v nadaljnjem besedilu: Direktiva 2017/1132/EU).
 2. člen
 (izrazi)
 Izrazi, uporabljeni v tem zakonu, imajo naslednji pomen: 
@@ -53,9 +57,9 @@ z aktom o ustanovitvi določene dejavnosti;
 »deli poslovnih subjektov« so podružnice, poslovne enote,
 predstavništva, zadružne enote, režijski obrati in drugi deli poslovnih
 subjektov, ki se registrirajo pri registrskem organu in tisti deli poslovnih
-subjektov, ki se ne registrirajo pri registrskem organu, pa jim je mogoče opredeliti
-naslov, opravljajo pa na istem ali drugem naslovu različno ali isto dejavnost
-kot poslovni subjekt; 
+subjektov, ki se ne registrirajo pri registrskem organu, pa jim je mogoče
+opredeliti naslov, opravljajo pa na istem ali drugem naslovu različno ali isto
+dejavnost kot poslovni subjekt; 
 -       
 »matična številka« je enolična identifikacija vsake enote poslovnega
 registra, ki jo ob vpisu v poslovni register dodeli upravljavec registra in se
@@ -69,9 +73,10 @@ treba opraviti za zagotovitev pogojev za začetek poslovanja enote poslovnega
 registra ali v zvezi s kasnejšimi spremembami;
 -       
 »informacijski sistem za podporo poslovnim subjektom« je računalniški
-sistem, ki ga upravlja ministrstvo, pristojno za javno upravo, in zagotavlja
-ustrezno informacijsko podporo za integrirano izvajanje poslovnih procesov, ki
-jih obsega sistem za podporo poslovnim subjektom;
+sistem, ki ga upravlja ministrstvo, pristojno za zagotavljanje elektronskih
+storitev javne uprave, in zagotavlja ustrezno informacijsko podporo za
+integrirano izvajanje poslovnih procesov, ki jih obsega sistem za podporo
+poslovnim subjektom;
 -       
 »točke za podporo poslovnim subjektom« so krajevne točke, ki prek
 informacijskega sistema za podporo poslovnim subjektom izvajajo postopke za
@@ -88,8 +93,8 @@ fizična oseba, ki uporablja podatke poslovnega registra za statistične ali
 druge namene.
 3. člen
 (upravljavec registra)
-(1) Poslovni register vodi, vzdržuje in upravlja Agencija
-Republike Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu:
+(1) Poslovni register vodi, vzdržuje in upravlja Agencija Republike
+Slovenije za javnopravne evidence in storitve (v nadaljnjem besedilu:
 upravljavec registra). 
 (2) Upravljavec registra posreduje javne podatke iz
 poslovnega registra in jih objavlja na svojem spletnem portalu. 
@@ -97,14 +102,46 @@ poslovnega registra in jih objavlja na svojem spletnem portalu.
 registrov: 
 1.     
 prejema podatke in listine o tujih podjetjih iz držav članic Evropske
-unije in Evropskega gospodarskega prostora ter jih posreduje registrskemu organu,
-ki vodi sodni register, in
+unije in Evropskega gospodarskega prostora in podružnicah, ki jih enote
+poslovnega registra iz 3. do 6. točke prvega odstavka Zakona o sodnem registru
+(Uradni list RS, št. 54/07 – uradno prečiščeno besedilo, 65/08, 49/09,
+82/13 – ZGD-1H, 17/15, 54/17, 16/19 – ZNP-1 in 75/23; v nadaljnjem besedilu:
+ZSReg) ustanovijo v državah članicah Evropske unije in Evropskega gospodarskega
+prostora, ter jih posreduje registrskemu organu, ki vodi sodni register,
 2.     
 posreduje podatke in listine o enotah poslovnega registra iz 3. do 6.
-točke prvega odstavka 3. člena Zakona o sodnem registru (Uradni list RS,
-št. 54/07 – uradno prečiščeno besedilo, 65/08, 49/09, 82/13 – ZGD-1H in
-17/15; v nadaljnjem besedilu: ZSReg), ki jih posreduje registrski organ iz
-prejšnje točke.
+točke prvega odstavka in 2. točke drugega odstavka 3. člena ZSReg, ki jih
+posreduje registrski organ iz prejšnje točke,
+3.     
+prejema zahteve za podatke in listine o okoliščinah, ki nasprotujejo
+imenovanju osebe za poslovodjo ali člana organa nadzora ali upravnega odbora v
+tujih podjetjih držav članic ter jih posreduje ministrstvu, pristojnemu za
+pravosodje ali Vrhovnemu sodišču Republike Slovenije,
+4.     
+posreduje podatke o okoliščinah, ki nasprotujejo imenovanju osebe za
+poslovodjo ali člana organa nadzora ali upravnega odbora v tujih podjetjih
+držav članic, ki jih posredujeta organa iz prejšnje točke,
+5.     
+posreduje zahteve registrskega organa iz 1. točke tega odstavka državam
+članicam za podatke in listine o okoliščinah, ki nasprotujejo imenovanju osebe
+za poslovodjo ali člana organa vodenja ali nadzora ali upravnega odbora v
+enotah poslovnega registra iz 3. do 6. točke prvega odstavka 3. člena
+ZSReg,
+6.     
+prejema podatke in listine iz držav članic o okoliščinah, ki
+nasprotujejo imenovanju osebe za poslovodjo ali člana organa vodenja ali
+nadzora ali upravnega odbora v enotah poslovnega registra iz 3. do 6. točke
+prvega odstavka 3. člena ZSReg, ter jih posreduje registrskemu organu iz
+1. točke tega odstavka,
+7.     
+prejema podatke in listine o čezmejnem preoblikovanju, čezmejni
+združitvi ali čezmejni delitvi iz držav članic Evropske unije in Evropskega
+gospodarskega prostora ter jih posreduje registrskemu organu iz 1. točke tega
+odstavka in
+8.     
+posreduje podatke in listine o čezmejnem preoblikovanju, čezmejni
+združitvi in čezmejni delitvi, ki jih posreduje registrski organ iz 1. točke
+tega odstavka.
 (4) Upravljavec registra vodi poslovni register tako, da se
 poleg zadnjega stanja podatkov o vseh enotah poslovnega registra ohranjajo tudi
 vsi pretekli vpisi, spremembe podatkov in izbrisi enot poslovnega registra po
@@ -126,8 +163,8 @@ sektorja v skladu s standardno klasifikacijo institucionalnih sektorjev.
 II. IDENTIFIKACIJA ENOT POSLOVNEGA REGISTRA
 6. člen
 (matična številka)
-(1) Upravljavec registra enotam poslovnega registra ob
-njihovem vpisu v primarni register ali uradno evidenco dodeli matično številko.
+(1) Upravljavec registra enotam poslovnega registra ob njihovem
+vpisu v primarni register ali uradno evidenco dodeli matično številko. 
 (2) Matična številka enolično opredeli vsako enoto poslovnega
 registra in služi kot enolična identifikacija enote poslovnega registra. 
 (3) Po izbrisu enote poslovnega registra iz poslovnega
@@ -151,8 +188,8 @@ Direktiva 2009/101/ES Evropskega parlamenta in Sveta z dne 16. septembra
 tretjih oseb, ki jih države članice zahtevajo od gospodarskih družb v skladu z
 drugim pododstavkom člena 54 Pogodbe, zato da se oblikujejo zaščitni ukrepi z
 enakim učinkom v vsej Skupnosti (UL L št. 258 z dne 1. 10. 2009, str.
-11), zadnjič spremenjena z Direktivo Sveta 2013/24/EU z dne 13. maja 2013 o
-prilagoditvi nekaterih direktiv na področju prava družb zaradi pristopa
+11), zadnjič spremenjena z Direktivo Sveta 2013/24/EU z dne 13. maja 2013
+o prilagoditvi nekaterih direktiv na področju prava družb zaradi pristopa
 Republike Hrvaške (UL L št. 158 z dne 10. 6. 2013, str. 365), (v
 nadaljnjem besedilu: Direktiva 2009/101/ES), ob njihovem vpisu v primarni
 register dodeli enotni identifikator za prejemanje in posredovanje podatkov in
@@ -166,9 +203,9 @@ določitve enotnega identifikatorja.
 III. VSEBINA POSLOVNEGA REGISTRA
 8. člen
 (podatki o enotah poslovnega registra)
-(1) Za vodenje in vzdrževanje poslovnega registra ter za zagotavljanje
-varnosti pravnega prometa obdeluje upravljavec registra naslednje podatke o
-posamezni enoti poslovnega registra: 
+(1) Za vodenje in vzdrževanje poslovnega registra ter za
+zagotavljanje varnosti pravnega prometa obdeluje upravljavec registra naslednje
+podatke o posamezni enoti poslovnega registra: 
 -       
 datum vpisa v poslovni register, 
 -       
@@ -244,8 +281,8 @@ telefon, telefaks, elektronski naslov in naslov spletne strani,
 o spremembah (vrsto in datum), 
 -       
 o izbrisu (vrsta, datum, pravni naslednik). 
-(2) Pristojne institucije upravljavcu registra iz svojih
-uradnih registrov in evidenc zagotavljajo podatke o: 
+(2) Pristojne institucije upravljavcu registra iz svojih uradnih
+registrov in evidenc zagotavljajo podatke o: 
 -       
 davčnih številkah, identifikacijskih številkah za DDV in številkah
 računov, ki so odprti v tujini, ki jih upravljavcu registra posreduje Finančna
@@ -313,8 +350,8 @@ drugega predpisa in se ne registrirajo pri registrskem organu, morajo
 posredovati prijavo upravljavcu registra najpozneje v 15 dneh od ustanovitve
 skupaj z drugimi listinami, opredeljenimi v posameznem predpisu. 
 (3) Za vse ostale poslovne subjekte mora registrski organ ob
-prejemu predpisanih listin za vpis v primarni register ali uradno evidenco pozvati
-upravljavca registra, da poslovnemu subjektu dodeli matično številko.
+prejemu predpisanih listin za vpis v primarni register ali uradno evidenco
+pozvati upravljavca registra, da poslovnemu subjektu dodeli matično številko.
 Registrski organ mora na prijavo vpisati matično številko. Poslovni subjekt
 mora upravljavcu registra posredovati prijavo in akt o vpisu v primarni
 register ali uradno evidenco najpozneje v 15 dneh od registracije. 
@@ -372,9 +409,9 @@ obrtno dovoljenje, in
 6.     
 drugih postopkih v zvezi s poslovanjem enote poslovnega registra, ki jih
 določi minister, pristojen za gospodarstvo, v soglasju z ministrom, pristojnim
-za javno upravo, ob upoštevanju tehničnih možnosti za informacijsko
-združljivost teh postopkov v informacijskem sistemu za podporo poslovnim
-subjektom. 
+za zagotavljanje elektronskih storitev javne uprave, ob upoštevanju tehničnih
+možnosti za informacijsko združljivost teh postopkov v informacijskem sistemu
+za podporo poslovnim subjektom. 
 (2) Sistem za podporo poslovnim subjektom obsega naslednje
 poslovne procese: 
 1.     
@@ -404,13 +441,15 @@ odstavka 3. člena ZSReg in podjetnika opravlja poslovne procese iz 1. do
 tega zakona ali notar. Če so za to izpolnjeni ustrezni tehnični pogoji, lahko
 navedene poslovne procese opravljajo enote poslovnega registra neposredno prek
 oddaljenega dostopa do informacijskega sistema za podporo poslovnim subjektom. 
-(4) Ministrstvo, pristojno za javno upravo, na javnem
-spletnem portalu objavi informacije o postopkih za podporo poslovnim subjektom
-in pregled predpisanih pogojev za opravljanje posameznih dejavnosti. 
+(4) Ministrstvo, pristojno za zagotavljanje elektronskih
+storitev javne uprave, na javnem spletnem portalu objavi informacije o
+postopkih za podporo poslovnim subjektom in pregled predpisanih pogojev za
+opravljanje posameznih dejavnosti. 
 (5) Drugo ministrstvo mora obvestiti ministrstvo, pristojno
-za javno upravo, o vsakem novem predpisu ali spremembi predpisa, ki določa
-pogoje za opravljanje posameznih dejavnosti in spada v njegovo delovno
-področje, v petih dneh po objavi predpisa v Uradnem listu Republike Slovenije.
+za zagotavljanje elektronskih storitev javne uprave, o vsakem novem predpisu
+ali spremembi predpisa, ki določa pogoje za opravljanje posameznih dejavnosti
+in spada v njegovo delovno področje, v petih dneh po objavi predpisa v Uradnem
+listu Republike Slovenije.
 11.b člen
 (informacijski sistem za podporo poslovnim subjektom)
 (1) V informacijski sistem za podporo poslovnim subjektom se
@@ -533,8 +572,8 @@ podlagi, nadzira ministrstvo, pristojno za gospodarstvo.
 odpravi kršitev, ugotovljenih pri nadzoru nad točko za podporo poslovnim
 subjektom, če točka za podporo poslovnim subjektom pri opravljanju postopkov za
 podporo poslovnim subjektom krši obveznosti iz petega odstavka tega člena. 
-(9) Ministrstvo, pristojno za gospodarstvo, odvzame
-dovoljenje za opravljanje postopkov za podporo poslovnim subjektom, če: 
+(9) Ministrstvo, pristojno za gospodarstvo, odvzame dovoljenje
+za opravljanje postopkov za podporo poslovnim subjektom, če: 
 1.     
 točka za podporo poslovnim subjektom v roku, določenem v odločbi iz
 prejšnjega odstavka, ne odpravi kršitev, katerih odprava ji je bila naložena s
@@ -544,14 +583,15 @@ je točka za podporo poslovnim subjektom v koledarskem letu opravila manj
 kot 20 postopkov za podporo poslovnim subjektom, razen če v oddaljenosti 20 km
 ni na voljo druge točke za podporo poslovnim subjektom, 
 3.     
-točka za podporo poslovnim subjektom iz 4. točke prvega odstavka tega
-člena nalog podjetniškega okolja v skladu z zakonom, ki ureja podporno okolje
-za podjetništvo, ne izvaja več. 
+točka za podporo poslovnim subjektom iz 4. točke prvega odstavka tega člena
+nalog podjetniškega okolja v skladu z zakonom, ki ureja podporno okolje za
+podjetništvo, ne izvaja več. 
 (10) Točki za podporo poslovnim subjektom preneha dovoljenje
 za opravljanje postopkov za podporo poslovnim subjektom na podlagi izjave, da
 ne želi več opravljati postopkov za podporo poslovnim subjektom. 
 (11) Minister, pristojen za gospodarstvo, v soglasju z
-ministrom, pristojnim za javno upravo, predpiše: 
+ministrom, pristojnim za zagotavljanje elektronskih storitev javne uprave,
+predpiše: 
 1.     
 podrobnejše kadrovske, organizacijske in tehnične pogoje, potrebne za
 učinkovito in strokovno opravljanje poslovnih procesov, ki jih obsega sistem za
@@ -596,11 +636,11 @@ kjer se opravi postopek vpisa v poslovni register.
 14. člen
 (postopek vpisa)
 (1) Upravljavec registra izvede postopek vpisa enote
-poslovnega registra iz prvega odstavka 10. člena tega zakona v poslovni
-register na podlagi popolne prijave, enoti poslovnega registra določi matično
-številko, šifro glavne dejavnosti v skladu s standardno klasifikacijo
-dejavnosti, jo razvrsti v institucionalni sektor v skladu s standardno
-klasifikacijo institucionalnih sektorjev ter jo vpiše v poslovni register. 
+poslovnega registra iz prvega odstavka 10. člena tega zakona v poslovni register
+na podlagi popolne prijave, enoti poslovnega registra določi matično številko,
+šifro glavne dejavnosti v skladu s standardno klasifikacijo dejavnosti, jo
+razvrsti v institucionalni sektor v skladu s standardno klasifikacijo
+institucionalnih sektorjev ter jo vpiše v poslovni register. 
 (2) V primeru nepopolne prijave upravljavec registra pozove
 enoto poslovnega registra, da v roku osmih dni dopolni prijavo. Če enota
 poslovnega registra prijave ne dopolni v določenem roku, upravljavec registra
@@ -635,9 +675,9 @@ upravljavcu registra v roku osmih dni od vročitve sklepa. O pritožbi odloča
 ministrstvo, pristojno za gospodarstvo. 
 (3) Če enota poslovnega registra ne izpolnjuje pogojev za
 vpis spremembe v poslovni register, upravljavec registra izda sklep o zavrnitvi
-vpisa. Zoper ta sklep je dovoljena pritožba, ki se vloži pri upravljavcu registra
-v roku osmih dni od vročitve sklepa. O pritožbi odloča ministrstvo, pristojno
-za gospodarstvo. 
+vpisa. Zoper ta sklep je dovoljena pritožba, ki se vloži pri upravljavcu
+registra v roku osmih dni od vročitve sklepa. O pritožbi odloča ministrstvo,
+pristojno za gospodarstvo. 
 (4) Upravljavec registra podatke, ki jih sam določa, spremeni
 po uradni dolžnosti. Druge podatke v poslovnem registru upravljavec registra
 spremeni v primerih, ki jih določajo drugi predpisi. 
@@ -675,10 +715,9 @@ VI. POSTOPEK VPISA OSTALIH ENOT POSLOVNEGA REGISTRA
 (1) Upravljavec registra izvede postopek vpisa enote
 poslovnega registra v poslovni register na podlagi popolne prijave in akta o
 vpisu v primarni register oziroma uradno evidenco. Enoti poslovnega registra
-določi matično številko, šifro glavne dejavnosti v skladu s standardno
-klasifikacijo dejavnosti, jo razvrsti v institucionalni sektor v skladu s
-standardno klasifikacijo institucionalnih sektorjev ter jo vpiše v poslovni
-register. 
+določi matično številko, šifro glavne dejavnosti v skladu s standardno klasifikacijo
+dejavnosti, jo razvrsti v institucionalni sektor v skladu s standardno
+klasifikacijo institucionalnih sektorjev ter jo vpiše v poslovni register. 
 (2) Upravljavec registra izda obvestilo o vpisu v poslovni
 register in ga posreduje enoti poslovnega registra. 
 (3) V primeru nepopolne prijave upravljavec registra pozove
@@ -734,12 +773,17 @@ dejavnost. Pri enotah poslovnega registra, ki se vpisujejo na podlagi zakona,
 ki ureja sodni register, se vpogled v podatke iz drugega stavka omogoči tudi s
 povezavo v skladu z zakonom, ki ureja sodni register. Iskanje in vpogled v
 podatke sta brezplačna. 
-(2) Ne glede na prejšnji odstavek zagotavlja upravljavec
-registra javne podatke in listine o posamezni enoti poslovnega registra iz 3.
-do 6. točke prvega odstavka 3. člena ZSReg in iz 2. točke drugega odstavka
-3. člena ZSReg, ki jih ustanovijo poslovni subjekti iz držav članic
-Evropske unije in Evropskega gospodarskega prostora, za katere velja Direktiva
-2009/101/ES, tudi prek sistema povezovanja poslovnih registrov.
+(2) Ne glede na prejšnji odstavek upravljavec registra
+brezplačno zagotavlja javne podatke in listine o:
+-       
+posamezni enoti poslovnega registra iz 3. do 6. točke prvega odstavka
+3. člena ZSReg in iz 2. točke drugega odstavka 3. člena ZSReg, ki jih
+ustanovijo poslovni subjekti iz držav članic Evropske unije in Evropskega
+gospodarskega prostora, za katere velja Priloga II Direktive 2017/1132/EU,
+-       
+čezmejnem preoblikovanju ali čezmejni združitvi ali čezmejni delitvi
+tudi prek sistema povezovanja poslovnih
+registrov.
 (3) Upravljavec registra zagotavlja uradni izpis javnih
 podatkov za tiste enote poslovnega registra, za katere je upravljavec registra
 registrski organ, na podlagi vloge uporabnika. 
@@ -762,10 +806,9 @@ sklepe, potrdila, obvestila in druge listine, ki so pomembne za vodenje in
 vzdrževanje poslovnega registra. 
 (2) Dokumentacijo o enotah poslovnega registra iz V. poglavja
 tega zakona upravljavec registra hrani deset let od izbrisa enote poslovnega
-registra iz poslovnega registra, razen sklepov in potrdil o vpisih, ki se
-hranijo trajno. Izvirna papirna dokumentacija za vpis v poslovni register se
-hrani dve leti na točki za podporo poslovnim subjektom, ki je dokumentacijo
-sprejela. 
+registra iz poslovnega registra, razen sklepov in potrdil o vpisih, ki se hranijo
+trajno. Izvirna papirna dokumentacija za vpis v poslovni register se hrani dve
+leti na točki za podporo poslovnim subjektom, ki je dokumentacijo sprejela. 
 (3) Dokumentacijo o ostalih enotah poslovnega registra hrani
 upravljavec registra deset let od izbrisa enote poslovnega registra iz
 poslovnega registra. Prejeto dokumentacijo v papirni obliki hrani dve leti.
@@ -801,8 +844,7 @@ posameznika, ki samostojno opravlja dejavnost.
 25.a člen
 (višina globe v hitrem prekrškovnem postopku)
 Za prekrške iz tega zakona se sme v hitrem postopku izreči
-globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem
-zakonom.
+globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.
 
 Zakon o Poslovnem registru Slovenije – ZPRS-1
 (Uradni list RS, št. 49/06)
@@ -839,8 +881,8 @@ Poslovnem registru Slovenije (Uradni list RS, št. 13/95).
 (2) Do uveljavitve predpisov iz prvega in drugega odstavka
 prejšnjega člena se uporabljajo tiste določbe Uredbe o vodenju in vzdrževanju
 Poslovnega registra Slovenije (Uradni list RS, 70/95) in Metodološkega navodila
-za vodenje Poslovnega registra Slovenije (Uradni list RS, št. 117/02), ki niso v
-nasprotju s tem zakonom.
+za vodenje Poslovnega registra Slovenije (Uradni list RS, št. 117/02), ki niso
+v nasprotju s tem zakonom.
 28. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.
@@ -857,9 +899,9 @@ Poslovnem registru Slovenije – ZPRS-1A (Uradni list RS, št. 19/15)
 vsebuje naslednje prehodne in končne določbe:
 »PREHODNE IN KONČNE DOLOČBE
 12. člen
-(1) Določbe spremenjenega oziroma dopolnjenega četrtega odstavka
-14. člena, petega odstavka 15. člena in četrtega odstavka 16. člena zakona se
-začnejo uporabljati šest mesecev po uveljavitvi tega zakona.
+(1) Določbe spremenjenega oziroma dopolnjenega četrtega
+odstavka 14. člena, petega odstavka 15. člena in četrtega odstavka 16. člena
+zakona se začnejo uporabljati šest mesecev po uveljavitvi tega zakona.
 (2) Določba spremenjenega prvega odstavka 22. člena zakona se
 začne uporabljati štiri mesece po uveljavitvi tega zakona.
 13. člen
@@ -907,5 +949,20 @@ se začne uporabljati v roku iz drugega odstavka 15. člena Zakona o
 spremembah in dopolnitvah Zakona sodnem registru (Uradni list RS,
 št. 54/17).
 21. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o državni
+upravi – ZDU-1O (Uradni list RS, št. 18/23)
+vsebuje naslednjo končno določbo:
+»59. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona
+o gospodarskih družbah – ZGD-1L (Uradni list RS, št. 75/23)
+vsebuje naslednjo končno določbo:
+»56. člen
+(začetek veljavnosti)
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.

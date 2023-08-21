@@ -5,25 +5,22 @@ vpišejo v sodni register, pravila postopka, v katerem pristojno sodišče odlo�
 o vpisu v sodni register, in pravila, po katerih Agencija Republike Slovenije
 za javnopravne evidence in storitve upravlja sodni register.
 (2) S tem zakonom se v pravni red Republike Slovenije delno
-prenašata Enajsta direktiva Sveta z dne 21. decembra 1989 o razkritjih
-podružnic, ki jih v državi članici odprejo nekatere oblike družb za katere
-velja zakonodaja druge države (UL L št. 395 z dne 30. 12. 1989, str.
-36) in Direktiva 2009/101/ES Evropskega parlamenta in Sveta z dne
-16. septembra 2009 o uskladitvi zaščitnih ukrepov za varovanje interesov
-družbenikov in tretjih oseb, ki jih države članice zahtevajo od gospodarskih
-družb v skladu z drugim pododstavkom člena 48 Pogodbe, zato da se oblikujejo
-zaščitni ukrepi z enakim učinkom v vsej Skupnosti (UL L št. 258 z dne
-1. 10. 2009, str. 11), kot sta bili spremenjeni z Direktivo 2012/17/EU
-Evropskega parlamenta in Sveta z dne 13. junija 2012 o spremembi Direktive
-Sveta 89/666/EGS ter direktiv 2005/56/ES in 2009/101/ES Evropskega parlamenta
-in Sveta glede povezovanja centralnih in trgovinskih registrov ter registrov
-družb (UL L št. 156 z dne 16. 6. 2012, str. 1).
+prenaša Direktiva (EU) 2017/1132 Evropskega parlamenta in Sveta z dne
+14. julija 2017 o določenih vidikih prava družb (kodificirano besedilo)
+(UL L št. 169 z dne 30. 6. 2017, str. 46), zadnjič spremenjena z
+Uredbo (EU) 2021/23 Evropskega parlamenta in Sveta z dne 16. decembra 2020
+o okviru za sanacijo in reševanje centralnih nasprotnih strank ter spremembi
+uredb (EU) št. 1095/2010, (EU) št. 648/2012, (EU) št. 600/2014,
+(EU) št. 806/2014 in (EU) 2015/2365 ter direktiv 2002/47/ES, 2004/25/ES,
+2007/36/ES, 2014/59/EU in (EU) 2017/1132 (UL L št. 22 z dne 22. 1.
+2021, str. 1).
 1.a člen
 (1) "Agencija" po tem zakonu je Agencija Republike
 Slovenije za javnopravne evidence in storitve.
 (2) Ti pojmi imajo v tem zakonu pomen, opredeljen v teh
 določbah Zakona o Poslovnem registru Slovenije (Uradni list RS, št. 49/06,
-33/07 – ZSReg-B, 19/15 in 54/17; v nadaljnjem besedilu: ZPRS-1):
+33/07 – ZSReg-B, 19/15, 54/17, 18/23 – ZDU-1O in 75/23 – ZGD-1L; v nadaljnjem
+besedilu: ZPRS-1):
 1.     
 »poslovni register« v prvi alineji 2. člena,
 2.     
@@ -40,9 +37,11 @@ določbah Zakona o Poslovnem registru Slovenije (Uradni list RS, št. 49/06,
 zakonu je:
 1.     
 za fizične osebe, ki so vpisane v centralnem registru prebivalstva in
-imajo v Republiki Sloveniji stalno ali začasno prebivališče: EMŠO,
+imajo v Republiki Sloveniji stalno ali začasno prebivališče: EMŠO in davčna
+številka,
 2.     
-za pravne osebe, ki so vpisane v poslovnem registru: matična številka,
+za pravne osebe, ki so vpisane v poslovnem registru: matična številka in
+davčna številka,
 3.     
 za druge fizične in pravne osebe: davčna številka.
 (4) "Matična evidenca identifikacijskih podatkov"
@@ -58,10 +57,14 @@ točke tega odstavka,
 4.     
 davčni register za druge fizične in pravne osebe, razen oseb iz 1. do 3.
 točke tega odstavka.
-(5) Pojma "tuje podjetje iz ES" in "tuje
-podjetje iz tretje države" sta v tem zakonu uporabljena v pomenu, kot je
-opredeljen v prvem odstavku 674. člena Zakona o gospodarskih družbah (Uradni
-list RS, št. 42/06 in 60/06 – popravek; v nadaljnjem besedilu: ZGD-1).
+(5) Pojma »tuje podjetje iz države članice« in »tuje podjetje
+iz tretje države« sta v tem zakonu uporabljena v pomenu, kot je opredeljen v
+prvem odstavku 674. člena Zakona o gospodarskih družbah (Uradni list RS,
+št. 65/09 – uradno prečiščeno besedilo, 33/11, 91/11, 32/12, 57/12, 44/13
+– odl. US, 82/13, 55/15, 15/17, 22/19 – ZPosS, 158/20 – ZIntPK-C, 18/21, 18/23
+– ZDU-1O in 75/23; v nadaljnjem besedilu: ZGD-1), pojem »država članica« pa je
+v tem zakonu uporabljen v pomenu, kot je opredeljen v tretji alineji osmega
+odstavka 3. člena ZGD-1.
 (6) Če fizična oseba v Republiki Sloveniji nima stalnega ali
 začasnega prebivališča, ali če pravna oseba nima matične številke, ker ni
 vpisana v poslovni register, in potrebuje identifikacijsko številko, da bi se
@@ -106,10 +109,11 @@ ti podatki (v nadaljnjem besedilu: identifikacijski podatki):
 pri fizični osebi: 
 -  enotna identifikacijska
 številka, 
--  osebno ime in
+-  osebno ime,
+-  datum rojstva in
 -   če ima v Republiki
 Sloveniji samo začasno prebivališče, podatki o naslovu začasnega prebivališča,
-v drugih primerih pa podatki o naslovu stalnega prebivališča
+v drugih primerih pa podatki o naslovu stalnega prebivališča;
 2.     
 pri pravni osebi: 
 -  enotna identifikacijska
@@ -131,10 +135,22 @@ poštna številka in kraj.
 (3) V sodni register se vpiše enotna identifikacijska
 številka osebe iz prvega odstavka tega člena, drugi identifikacijski podatki te
 osebe pa se avtomatično na podlagi povezanosti matične evidence s sodnim
-registrom prevzamejo iz matične evidence in so s tem vpisani v sodni register. 
+registrom prevzamejo iz matične evidence in so s tem vpisani v sodni register. Za
+osebe iz 1. točke tretjega odstavka 1.a člena tega zakona se v sodni register
+vpiše EMŠO, drugi identifikacijski podatki te osebe, vključno z davčno
+številko, pa se avtomatično na podlagi povezanosti centralnega registra
+prebivalstva s sodnim registrom prevzamejo iz centralnega registra prebivalstva
+in so s tem vpisani v sodni register.
 (4) Če se v matični evidenci spremenijo identifikacijski
 podatki osebe iz prvega odstavka tega člena, se te spremembe avtomatično na
-podlagi povezanosti z matično evidenco prevzamejo tudi v sodni register. 
+podlagi povezanosti z matično evidenco prevzamejo tudi v sodni register. Če
+fizična oseba iz šestega odstavka 1.a člena tega zakona pridobi v Republiki
+Sloveniji stalno ali začasno prebivališče in se vpiše v centralni register
+prebivalstva, se podatek o njeni EMŠO na podlagi davčne številke avtomatično
+prevzame iz centralnega registra prebivalstva in je s tem vpisana v sodni register;
+po vpisu EMŠO v sodni register postane centralni register prebivalstva matična
+evidenca za avtomatični prevzem drugih identifikacijskih podatkov te osebe na
+podlagi EMŠO.
 (5) Identifikacijski podatki se v sodnem registru vodijo in
 obdelujejo zaradi varnosti pravnega prometa.
 Subjekt vpisa
@@ -218,21 +234,23 @@ pooblastila,
 8.     
 čas trajanja subjekta vpisa, če je ustanovljen za določen čas,
 9.     
-v zvezi s postopkom prisilne poravnave, likvidacije ali stečaja:
--  sklep o začetku postopka
-prisilne poravnave, likvidacije ali stečaja,
--  sklep o zaključku postopka
-prisilne poravnave, likvidacije ali stečaja, s kratko označbo načina zaključka
-postopka,
+v zvezi s postopkom zaradi insolventnosti, prisilne likvidacije ali
+izbrisa iz sodnega registra brez likvidacije:
+-  sklep o začetku postopka,
+-  sklep o končanju postopka, s
+kratko označbo načina končanja postopka,
 -  sklep o potrditvi sklenjene
 prisilne poravnave,
 10.  
 v zvezi z drugimi načini prenehanja subjekta vpisa: pravni temelj
 prenehanja in podatki o morebitnem pravnem nasledniku,
 11.  
-sklenitev, sprememba in prenehanje podjetniške pogodbe ter identifikacijski
-podatki sopogodbenika,
+izbris subjekta iz sodnega registra (sklep sodišča, s katerim odloči o
+vpisu izbrisa),
 12.  
+sklenitev, sprememba in prenehanje podjetniške pogodbe ter
+identifikacijski podatki sopogodbenika,
+13.  
 drugi podatki,
 -  za katere zakon določa, da
 se vpišejo v sodni register, ali
@@ -246,7 +264,7 @@ podatki iz 1. do 5. ter 7. točke prejšnjega odstavka,
 podatki o matični številki, firmi in sedežu gospodarske družbe ali druge
 pravne osebe, katere del je ta subjekt vpisa,
 3.     
-zaprtje podružnice.
+prenehanje podružnice.
 (3) Ne glede na prvi odstavek tega člena se pri subjektih
 vpisa iz 4., 6. in 9. točke prvega odstavka 3. člena tega zakona ne vpišejo
 podatki iz 6. točke prvega odstavka tega člena, pri subjektih vpisa iz 5. točke
@@ -256,53 +274,73 @@ tega člena vpišejo samo glede komplementarjev.
 navedenem v prijavi, mora prijavi priložiti overjeno izjavo lastnika objekta,
 da subjektu vpisa dovoljuje poslovanje na tem naslovu.
 4.a člen
-(1) Pri podružnici tujega podjetja iz ES se v sodni register
-vpišejo naslednji podatki:
+(1) Pri podružnici tujega podjetja iz države članice se v
+sodni register vpišejo naslednji podatki: 
 1.     
-firma ter sedež (kraj) in poslovni naslov podružnice; 
+enotna identifikacijska številka podružnice; 
 2.     
-register, v katerega je vpisano tuje podjetje, in številka registrskega
-vpisa; 
+firma ter sedež (kraj) in poslovni naslov podružnice; 
 3.     
+register, v katerega je vpisano tuje podjetje, številka registrskega
+vpisa in identifikacijska številka tujega podjetja; 
+4.     
 firma in pravna oblika tujega podjetja in skrajšana firma, če je v
 statutu določeno, da tuje podjetje posluje s skrajšano firmo; 
-4.     
-v zvezi z osebami, ki so pooblaščene za zastopanje tujega podjetja: 
--  identifikacijski podatki, 
--  tip zastopnika, 
--  način zastopanja (skupno ali
-samostojno), 
--  meje pooblastil za
-zastopanje, če v skladu z zakonom omejitev pooblastila za zastopanje učinkuje
-proti tretjim osebam, in podatek, da nastopa kot zastopnik tujega podjetja, 
--  datum podelitve pooblastila,
--  datum prenehanja
-pooblastila; 
 5.     
+sedež in poslovni naslov tujega podjetja; 
+6.     
+v zvezi z osebami, ki so pooblaščene za zastopanje tujega podjetja: 
+- 
+identifikacijski podatki osebe (osebno ime, naslov prebivališča, datum
+rojstva, identifikacijska številka), 
+- 
+tip zastopnika, 
+- 
+način zastopanja (skupno ali samostojno), 
+- 
+meje pooblastil za zastopanje, če v skladu z zakonom omejitev
+pooblastila za zastopanje učinkuje proti tretjim osebam, in podatek, da nastopa
+kot zastopnik tujega podjetja, 
+- 
+datum podelitve pooblastila, 
+- 
+datum prenehanja pooblastila; 
+7.     
 v zvezi z osebami, ki so imenovane za zastopnike tujega podjetja v
 podružnici: 
--  identifikacijski podatki, 
--  tip zastopnika, 
--  način zastopanja (skupno ali
-samostojno), 
--  meje pooblastil za
-zastopanje, če v skladu z zakonom omejitev pooblastila za zastopanje učinkuje
-proti tretjim osebam, in podatek, da nastopa samo kot zastopnik podružnice, 
--  datum podelitve pooblastila,
--  datum prenehanja
-pooblastila; 
-6.     
-v zvezi z ustanovitelji ali družbeniki tujega podjetja: 
--  identifikacijski podatki, 
--  vrsta in obseg odgovornosti,
--  datum vstopa in datum
-izstopa, 
--  višina vložka;
-7.     
-začetek postopka likvidacije, prisilne poravnave ali stečaja nad tujim
-podjetjem in prenehanje tujega podjetja; 
+- 
+identifikacijski podatki, 
+- 
+tip zastopnika, 
+- 
+način zastopanja (skupno ali samostojno), 
+- 
+meje pooblastil za zastopanje, če v skladu z zakonom omejitev
+pooblastila za zastopanje učinkuje proti tretjim osebam, in podatek, da nastopa
+samo kot zastopnik podružnice, 
+- 
+datum podelitve pooblastila, 
+- 
+datum prenehanja pooblastila; 
 8.     
-zaprtje podružnice. 
+v zvezi z ustanovitelji ali družbeniki tujega podjetja: 
+- 
+identifikacijski podatki osebe (če je fizična oseba: osebno ime, naslov
+prebivališča, datum rojstva, identifikacijska številka in če je prava oseba:
+firma, sedež, poslovni naslov, identifikacijska številka), 
+- 
+vrsta in obseg odgovornosti, 
+- 
+datum vstopa in datum izstopa, 
+- 
+višina vložka; 
+9.     
+podatki o začetku in končanju postopka zaradi insolventnosti tujega
+podjetja, dogovori ali poravnave v zvezi s takimi postopki, začetku ali
+končanju likvidacijskega postopka ali podobnega postopka prenehanja, vključno z
+izbrisom tujega podjetja iz registra; 
+10.  
+prenehanje podružnice.
 (2) Pri podružnici tujega podjetja iz tretje države se poleg
 podatkov iz prejšnjega odstavka v sodni register vpišejo tudi: 
 1.     
@@ -311,20 +349,50 @@ pravo države, ki velja za tuje podjetje;
 ustanovitveni akt tujega podjetja (pogodba, statut ali drug akt), če je
 v obliki posebnega dokumenta, ter vse njegove naknadne spremembe; 
 3.     
-sedež tujega podjetja in najmanj enkrat letno znesek vpisanega kapitala,
-razen če so ti podatki navedeni v dokumentu iz prejšnje točke; 
+najmanj enkrat letno znesek vpisanega kapitala, razen če so ti podatki
+navedeni v dokumentu iz prejšnje točke; 
 4.     
 drugi podatki, določeni z zakonom ali podzakonskim aktom.
-(3) Osebe iz 4. ali 5. točke prvega odstavka tega člena
-morajo za vpis v register prijaviti začetek stečajnega postopka, postopka
-prisilne poravnave ali podobnega postopka nad tujim podjetjem, razen če lahko
-registrsko sodišče tak podatek pridobi iz sistema povezovanja poslovnih
-registrov.
-(4) Pri podružnici tujega podjetja iz ES, ki je organizirano
-v pravnoorganizacijski obliki kapitalske družbe, se zaradi izmenjave ter
-dostopa do podatkov in listin sodnega registra v sistemu povezovanja poslovnih
-registrov vpiše v sodni register tudi enotni identifikator podružnice in tujega
-podjetja.
+(3) Pri podružnici tujega podjetja iz države članice, ki je
+organizirano v pravnoorganizacijski obliki kapitalske družbe, se zaradi
+varnosti pravnega prometa, izmenjave ter dostopa do podatkov in listin sodnega
+registra v sistemu povezovanja poslovnih registrov vpiše v sodni register kot
+javni podatek tudi enotni identifikator podružnice in tujega podjetja.
+(4) Po vpisu ustanovitve podružnice tujega podjetja iz
+prejšnjega odstavka v sodni register registrsko sodišče prek sistema
+povezovanja poslovnih registrov po uradni dolžnosti nemudoma obvesti register
+države članice, v katerega je vpisano tuje podjetje, o tem vpisu z obvestilom,
+ki vsebuje podatke o enotnem identifikatorju in firmi tujega podjetja in
+najmanj naslednje podatke o podružnici (peti odstavek 677. člena ZGD-1):
+1.     
+enotni identifikator,
+2.     
+datum ustanovitve podružnice,
+3.     
+firma ter sedež (kraj) in poslovni naslov podružnice.
+(5) Določba prejšnjega odstavka se smiselno uporablja tudi
+pri vpisu prenehanja podružnice (drugi odstavek 683.a člena ZGD-1). 
+(6) Osebe iz 6. in 7. točke prvega odstavka tega člena morajo
+za vpis v sodni register prijaviti podatke o začetku in končanju postopka
+zaradi insolventnosti tujega podjetja, začetku ali končanju likvidacijskega
+postopka ali podobnega postopka prenehanja, vključno z izbrisom tujega podjetja
+iz registra, ter vsako drugo spremembo podatkov iz prvega odstavka tega člena,
+razen kadar lahko registrsko sodišče o tujem podjetju iz države članice tak
+podatek oziroma listino, na kateri temelji sprememba podatka, pridobi iz
+sistema povezovanja poslovnih registrov (677.a člen ZGD-1). 
+(7) Kadar je registrsko sodišče prek sistema povezovanja
+poslovnih registrov obveščeno o spremembi katerega od podatkov iz prvega
+odstavka tega člena (677.a člen ZGD-1) ali je obveščeno o začetku ali končanju
+postopka zaradi insolventnosti tujega podjetja, začetku ali končanju
+likvidacijskega postopka ali podobnega postopka prenehanja, potrdi prejem
+obvestila prek sistema povezovanja poslovnih registrov in po uradni dolžnosti
+izvede postopek vpisa v sodni register. 
+(8) Kadar je registrsko sodišče prek sistema povezovanja
+poslovnih registrov obveščeno, da je tuje podjetje na podlagi postopka iz
+prejšnjega odstavka prenehalo poslovati, je bilo izbrisano iz registra in nima
+več pravnega naslednika, potrdi prejem obvestila prek sistema povezovanja
+poslovnih registrov in po uradni dolžnosti izvede postopek izbrisa podružnice
+tujega podjetja iz sodnega registra (prvi odstavek 683.a člen ZGD-1).
 5. člen
 (1) Kadar je subjekt vpisa delniška družba, evropska delniška
 družba, komanditna delniška družba ali družba z omejeno odgovornostjo, se v
@@ -342,20 +410,39 @@ sklepi pristojnih organov družbe v zvezi s povečanjem in zmanjšanjem osnovneg
 kapitala, 
 3.     
 statusno preoblikovanje (združitev, delitev, prenos premoženja ali
-sprememba pravnoorganizacijske oblike) in pogodba, ki je bila pravni temelj
-statusnemu preoblikovanju, 
+sprememba pravnoorganizacijske oblike) in pogodba, ki je bila pravni temelj statusnemu
+preoblikovanju,
 4.     
+čezmejna združitev, čezmejna delitev ali čezmejno preoblikovanje družbe
+znotraj držav članic (podatki o objavi načrta, o vpisu namere in vpisu čezmejne
+združitve, delitve ali preoblikovanja, o potrdilu sodišča, da so za čezmejno
+združitev, čezmejno delitev ali čezmejno preoblikovanje izpolnjeni vsi pogoji
+in da so bila pravilno opravljena vsa pravna opravila, ki jih je bilo treba
+opraviti, ter o družbi, udeleženi v čezmejno združitev, delitev ali
+preoblikovanje),
+5.     
 pravnomočne sodne odločbe o ugotovitvi ničnosti ali razveljavitvi
 skupščinskih sklepov, 
-5.     
-pravnomočna sodna odločba o ugotovitvi ničnosti kapitalske družbe.
+6.     
+pravnomočna sodna odločba o ugotovitvi ničnosti kapitalske družbe,
+7.     
+o podružnicah družbe, ustanovljenih v drugih državah članicah (31.a člen
+ZGD-1):
+- 
+enotni identifikator,
+- 
+datum ustanovitve podružnice,
+- 
+firma, sedež (kraj) in poslovni naslov podružnice, vključno z državo,
+- 
+register, v katerega je podružnica vpisana,
+- 
+datum prenehanja podružnice in izbrisa iz registra.
 (2) Kadar je subjekt vpisa družba z omejeno odgovornostjo, se
-vpišejo tudi naslednji podatki o osnovnem vložku in poslovnem deležu posameznega
-družbenika:
+vpišejo tudi naslednji podatki o osnovnem vložku in poslovnem deležu
+posameznega družbenika:
 1.     
-identifikacijski znak poslovnega deleža, ki je sestavljen iz matične
-številke subjekta vpisa in zaporedne številke poslovnega deleža pri tem
-subjektu vpisa, 
+identifikacijski znak poslovnega deleža, 
 2.     
 nominalni znesek osnovnega vložka, 
 3.     
@@ -370,21 +457,59 @@ poslovni delež in za katera zakon določa, da se vpišejo v sodni register,
 če se izvede združitev poslovnih deležev ali razdelitev poslovnih
 deležev tudi podatek o tem, z združitvijo ali razdelitvijo katerih prejšnjih
 poslovnih deležev je nastal poslovni delež. 
-(3) Kadar je subjekt vpisa delniška družba, se vpiše tudi število
-delnic, na katere je razdeljen osnovni kapital družbe.
+(3) Kadar je subjekt vpisa delniška družba, evropska delniška
+družba ali komanditna delniška družba, se vpiše tudi število delnic, na katere
+je razdeljen osnovni kapital družbe.
 (4) Kadar je subjekt vpisa zadruga oziroma zavod, se v sodni
 register, poleg podatkov iz 4. člena tega zakona, vpišejo tudi podatki iz 3.
-točke prvega odstavka tega člena. 
+točke prvega odstavka tega člena. Podatki o članih nadzornega sveta iz
+1. točke prvega odstavka tega člena se vpišejo v sodni register tudi,
+kadar je subjekt vpisa javni sklad, in tudi pri drugih subjektih vpisa v sodni
+register, za katere tako določa zakon ali če je to pomembno za pravni promet in
+njihov vpis zahteva subjekt vpisa.
 (5) Kadar je subjekt vpisa komanditna družba, se v sodni
 register, poleg podatkov iz 4. člena tega zakona, vpiše tudi višina vložka
 posameznega komanditista.
 (6) Pri delniški družbi, evropski delniški družbi, komanditni
-delniški družbi ali družbi z omejeno odgovornostjo se zaradi izmenjave ter
-dostopa do podatkov in listin sodnega registra v sistemu povezovanja poslovnih
-registrov v sodni register vpiše tudi enotni identifikator.
+delniški družbi ali družbi z omejeno odgovornostjo se zaradi varnosti pravnega
+prometa, izmenjave ter dostopa do podatkov in listin sodnega registra v sistemu
+povezovanja poslovnih registrov v sodni register  kot javni podatek vpiše tudi
+enotni identifikator.
+(7) Podatki iz 7. točke prvega odstavka tega člena se vpišejo
+na podlagi prejetega obvestila prek sistema povezovanja poslovnih registrov.
+Kadar je registrsko sodišče prek sistema povezovanja poslovnih registrov
+obveščeno o ustanovitvi podružnice subjekta vpisa v drugi državi članici
+(31.a člen ZGD-1), potrdi prejem obvestila prek sistema povezovanja
+poslovnih registrov in po uradni dolžnosti izvede postopek vpisa v sodni
+register.
+(8) Določba prejšnjega odstavka se smiselno uporablja tudi,
+kadar sodišče prejeme obvestilo o prenehanju podružnice.
 6. člen
-Glede na naravo vpisa se v sodni register vpišejo tudi
+(1) Glede na naravo vpisa se v sodni register vpišejo tudi
 spremembe podatkov iz 4., 4.a in 5. člena tega zakona.
+(2) Registrsko sodišče prek sistema povezovanja poslovnih
+registrov nemudoma obvesti vse registre držav članic, v katerih so podružnice
+subjekta vpisa iz šestega odstavka prejšnjega člena vpisane v register, kadar
+pride pri tem subjektu vpisa do vpisa ali spremembe naslednjih podatkov ali
+listin, na katerih temeljijo vpisi: 
+1.     
+spremembe podatkov iz 2., 3., 4. ali 7. točke prvega odstavka
+4. člena tega zakona, 
+2.     
+spremembe podatkov iz 1. točke prvega odstavka 5. člena tega zakona
+ali 
+3.     
+vpisa podatkov iz 9. in 11. točke prvega odstavka 4. člena tega
+zakona. 
+(3) Če se obvestilo iz prejšnjega odstavka nanaša na vpis ali
+spremembo podatkov o fizični osebi, ki je pooblaščena za zastopanje subjekta
+vpisa ali je udeležena pri nadzoru subjekta vpisa, obvestilo vsebuje njene
+identifikacijske podatke (osebno ime, naslov prebivališča, datum rojstva ali
+enotna identifikacijska številka) ter podatke o zastopanju ali nadzoru. 
+(4) Registrsko sodišče prek sistema povezovanja poslovnih
+registrov obvesti register države članice tudi takrat, kadar je bil prvotni
+vpis zaradi ustavitve začetega postopka iz 3. točke drugega odstavka tega člena
+izbrisan.
 Javnost podatkov in učinek vpisa
 7. člen
 (1) Sodni register je javna knjiga. 
@@ -401,10 +526,13 @@ v subjektu vpisa in v katerem subjektu vpisa je ustanovitelj ali družbenik,
 3.     
 tako, da mora biti vsakomur prek spletnih strani agencije omogočen
 brezplačen vpogled v podatke, ali je določena oseba zastopnik ali član organa
-nadzora v subjektu vpisa in v katerem subjektu vpisa je zastopnik ali član organa
-nadzora, in
+nadzora v subjektu vpisa in v katerem subjektu vpisa je zastopnik ali član
+organa nadzora,
 4.     
-z izstavitvijo izpisov iz sodnega registra po 48. členu tega zakona. 
+z izstavitvijo izpisov iz sodnega registra po 48. členu tega zakona in
+5.     
+z dostopom do podatkov v sistemu povezovanja poslovnih registrov po 49.b
+členu tega zakona.
 (3) Javnost vsebine listin, na katerih temeljijo vpisi v
 sodni register, ali ki so bile zaradi javne objave predložene sodnemu registru,
 se zagotavlja: 
@@ -422,13 +550,25 @@ alineje, vključno s spremembami ali čistopisi sprememb,
 ugotovitvi ničnosti kapitalske družbe,
 -  zapisnikov skupščine
 delniške družbe, ki so bili v zadnjem letu predloženi sodnemu registru zaradi
-objave, in
+objave,
 -  listin, ki so bile v zadnjem
 letu pred objavo vpisa priložene predlogu za vpis združitve ali delitve v sodni
 register, če je sodišče na podlagi tega predloga dovolilo vpis združitve ali
-delitve v sodni register, 
+delitve v sodni register,
+-  načrta čezmejne združitve
+(622.e člen ZGD-1), čezmejne delitve (638.e člen ZGD-1) in čezmejnega
+preoblikovanja (661.e člen ZGD-1), skupaj s priloženimi listinami, predloženega
+sodnemu registru zaradi javne objave,
+-  potrdila sodišča, da so za
+čezmejno združitev (sedmi odstavek 622.k člena ZGD-1), čezmejno delitev (sedmi
+odstavek 638.k člena ZGD-1) ali čezmejno preoblikovanje (sedmi odstavek 661.j
+člena ZGD-1) izpolnjeni vsi pogoji in da so bila pravilno opravljena vsa pravna
+opravila, ki jih je bilo treba opraviti,
 2.     
-z izstavitvijo izpisa listine po 48.a členu tega zakona.
+z izstavitvijo izpisa listine po 48.a členu tega zakona in
+3.     
+z dostopom do listin v sistemu povezovanja poslovnih registrov po 49.b
+členu tega zakona.
 (4) Na zahtevo izda sodišče tudi potrdilo, da določen vpis
 obstaja, da v določeni zadevi ni poznejših vpisov, da je določeni vpis izbrisan
 ali da določenega vpisa ni.
@@ -436,27 +576,31 @@ ali da določenega vpisa ni.
 člena se pri fizičnih osebah omogoči z uporabo kombinacije osebnega imena ter
 EMŠO ali kombinacije osebnega imena ter davčne številke ali kombinacije
 osebnega imena ter naslova prebivališča, vpisanega v sodni register, pri
-pravnih osebah pa z uporabo firme, imena, matične ali davčne številke.
+pravnih osebah pa z uporabo firme, imena, matične ali davčne številke. Pri
+iskanju s kombinacijo osebnega imena in EMŠO mora rezultat iskanja vključevati
+tudi podatke o subjektih vpisa, pri katerih je iskana fizična oseba zaradi
+spremembe prebivališča iz Republike Slovenije v tujino vpisana le z davčno
+številko.
 (6) Spletne strani agencije morajo biti zasnovane tako, da
 vpogled podatkov o subjektu vpisa v sodni register vsebuje tudi povezavo do
 vpogleda podatkov o osebah iz 2. in 3. točke drugega odstavka tega člena
 (v nadaljnjem besedilu: vpogled o udeležbi v povezanih osebah). Prikaz vpogleda
-o udeležbi v povezanih osebah se izvede na zahtevo uporabnika. Povezanost podatkov
-se izvede avtomatično na podlagi enotne identifikacijske številke fizične ali
-pravne osebe, ne da bi bilo treba uporabniku številko vpisati. Vpogled o
-udeležbi v povezanih osebah ne sme vsebovati EMŠO in davčne številke fizične
-osebe.
+o udeležbi v povezanih osebah se izvede na zahtevo uporabnika. Povezanost
+podatkov se izvede avtomatično na podlagi enotne identifikacijske številke
+fizične ali pravne osebe, ne da bi bilo treba uporabniku številko vpisati.
+Vpogled o udeležbi v povezanih osebah ne sme vsebovati EMŠO in davčne številke
+fizične osebe.
 8. člen
 (1) Vpis posameznega podatka v sodni register ima nasproti
 tretjim pravni učinek od dneva objave vpisa tega podatka v sodni register po
 prvem odstavku 43. člena tega zakona, če zakon ne določa drugače. 
-(2) Po objavi vpisa podatkov v sodni register po prvem odstavku
-43. člena tega zakona se v zvezi z osebami iz 8. točke 4. člena ter 5. in 6.
-točke prvega odstavka 4.a člena tega zakona v razmerju do tretjih šteje, da so
-te osebe upravičene za zastopanje subjekta vpisa, ne glede na morebitne
-pomanjkljivosti v postopku njihovega imenovanja. Subjekt vpisa se na te
-pomanjkljivosti v razmerju do tretjega lahko sklicuje le, če dokaže, da je
-tretjemu to dejstvo bilo znano. 
+(2) Po objavi vpisa podatkov v sodni register po prvem
+odstavku 43. člena tega zakona se v zvezi z osebami iz 7. točke prvega odstavka
+4. člena ter 6. in 7. točke prvega odstavka 4.a člena tega zakona v
+razmerju do tretjih šteje, da so te osebe upravičene za zastopanje subjekta
+vpisa, ne glede na morebitne pomanjkljivosti v postopku njihovega imenovanja.
+Subjekt vpisa se na te pomanjkljivosti v razmerju do tretjega lahko sklicuje
+le, če dokaže, da je tretjemu to dejstvo bilo znano. 
 (3) Kdor v pravnem prometu vestno ravna in se pri tem zanese
 na podatke, vpisane v sodni register, ga ne prizadenejo škodljive pravne
 posledice. 
@@ -534,8 +678,8 @@ prejelo, če posebne okoliščine ne zahtevajo drugače.
 pritožba. 
 (2) Zoper odredbo ni dovoljena posebna pritožba.
 15. člen
-V postopku za vpis v sodni register ni dovoljena vrnitev v
-prejšnje stanje in ni mirovanja postopka.
+V postopku za vpis v sodni register ni dovoljena vrnitev v prejšnje
+stanje in ni mirovanja postopka.
 16. člen
 Zoper pravnomočen sklep, izdan v postopku za vpis v sodni
 register, ni dovoljena obnova postopka.
@@ -558,7 +702,7 @@ Pristojnost sodišča
 (1) Za odločanje o vpisih v sodni register v zvezi s
 posameznim subjektom vpisa je pristojno sodišče, na območju katerega je sedež
 tega subjekta vpisa (v nadaljnjem besedilu: registrsko sodišče), če ni v drugem
-do četrtem odstavku tega člena določeno drugače.
+in tretjem odstavku tega člena določeno drugače.
 (2) Sodišče, ki je pristojno za odločanje o vpisih združitve
 ali razdelitve v sodni register pri prevzemni ali novi družbi, hkrati z
 odločitvijo o teh vpisih po uradni dolžnosti odloči tudi o izbrisu prevzetih
@@ -567,26 +711,10 @@ to, na območju katerega registrskega sodišča imajo svoj sedež prevzete ali
 prenosne družbe.
 (3) Prejšnji odstavek se smiselno uporablja tudi za odločanje
 o zmanjšanju osnovnega kapitala prenosne družbe pri oddelitvi.
-(4) Če je predmet stvarnega vložka pri ustanovitvi ali
-povečanju osnovnega kapitala subjekta vpisa poslovni delež družbe z omejeno
-odgovornostjo, sodišče, ki je pristojno za odločanje o vpisih v sodni register
-v zvezi z ustanovitvijo ali povečanjem osnovnega kapitala subjekta vpisa,
-hkrati z odločitvijo o teh vpisih po uradni dolžnosti odloči tudi o vpisu
-spremembe družbenika – imetnika poslovnega deleža, ki je predmet stvarnega
-vložka, ne glede na to, na območju katerega registrskega sodišča ima svoj sedež
-družba z omejeno odgovornostjo, katere poslovni delež je predmet tega stvarnega
-vložka.
 21. člen
-(1) Ne glede na prejšnji člen je za vpis novih subjektov
-vpisa, nastalih z razdelitvijo subjekta vpisa, pristojno sodišče, pri katerem
-je vpisan subjekt vpisa, ki se razdeli. 
-(2) Registrsko sodišče mora sklep o vpisu poslati sodiščem,
-na območju katerih je sedež novih subjektov vpisa, ki na podlagi tega sklepa o
-vpisu po uradni dolžnosti vpišejo nove subjekte vpisa in o tem obvestijo
-prejšnje registrsko sodišče. 
-(3) Ko prejme obvestila iz prejšnjega odstavka o vpisih vseh
-subjektov, nastalih z razdelitvijo, prejšnje registrsko sodišče po uradni
-dolžnosti vpiše izbris subjekta, ki se je razdelil.
+Ne glede na prejšnji člen je za vpis novih subjektov vpisa,
+nastalih z razdelitvijo subjekta vpisa, pristojno sodišče, pri katerem je
+vpisan subjekt vpisa, ki se razdeli. 
 22. člen
 Za vpis delov subjekta vpisa, ki se po zakonu vpisujejo v
 sodni register, je pristojno sodišče po sedežu subjekta vpisa, ne glede na to,
@@ -622,8 +750,8 @@ podporo poslovnim subjektom se ne glede na splošna pravila o vročanju
 pooblaščencu vse vročitve sodnih pisanj in pisanj morebitnih drugih strank
 postopka opravijo subjektu vpisa in ne točki za podporo poslovnim subjektom.
 25. člen
-(1) Kadar več oseb, ki so upravičene skupaj vložiti predlog za
-vpis in nimajo skupnega pooblaščenca, morajo v predlogu določiti tudi skupnega
+(1) Kadar več oseb, ki so upravičene skupaj vložiti predlog
+za vpis in nimajo skupnega pooblaščenca, morajo v predlogu določiti tudi skupnega
 pooblaščenca za vročanje pisanj. Če skupnega pooblaščenca za vročanje v
 predlogu ne določijo, zadostuje, da se vročitev opravi enemu izmed njih.
 Vročitve se opravijo tisti osebi, ki je v predlogu navedena prva. 
@@ -631,10 +759,10 @@ Vročitve se opravijo tisti osebi, ki je v predlogu navedena prva.
 postopku vpisa podatkov pri že vpisanem subjektu vpisa opravijo na naslov
 sedeža subjekta vpisa. 
 26. člen
-Kadar vročitve na način iz prejšnjega člena ni mogoče opraviti,
-ker je oseba, ki bi ji bilo potrebno vročitev opraviti na naslovu, neznana ali
-kljub obvestilu pooblaščenega delavca poštne pošiljke ne dvigne, se vročitev
-opravi z nabitjem na sodno desko.
+Kadar vročitve na način iz prejšnjega člena ni mogoče
+opraviti, ker je oseba, ki bi ji bilo potrebno vročitev opraviti na naslovu,
+neznana ali kljub obvestilu pooblaščenega delavca poštne pošiljke ne dvigne, se
+vročitev opravi z nabitjem na sodno desko.
 (2) Ne glede na določbo prejšnjega odstavka se šteje, da je
 vročitev sklepa o dovolitvi vpisa opravljena s potekom osmih dni od objave tega
 sklepa na spletnih straneh agencije.
@@ -644,13 +772,15 @@ Predlog za vpis v sodni register
 vpis v sodni register:
 1.     
 vsi predlogi, ki se nanašajo na subjekt vpisa, organiziran kot delniška
-družba ali družba z omejeno odgovornostjo,
+družba, družba z omejeno odgovornostjo, komanditna delniška družba, evropska
+delniška družba, gospodarsko interesno združenje in evropsko gospodarsko
+interesno združenje,
 2.     
 predlog za vpis ustanovitve družbe z neomejeno odgovornostjo ali
 komanditne družbe,
 3.     
-vsi predlogi, ki se nanašajo na podružnico gospodarske družbe ali podružnico
-tujega podjetja.
+vsi predlogi, ki se nanašajo na podružnico gospodarske družbe ali
+podružnico tujega podjetja.
 (2) Drug predlog za vpis v sodni register, razen predloga iz
 prejšnjega odstavka, je lahko po izbiri predlagatelja vložen v elektronski ali
 pisni obliki in na obrazcu, če je ta predpisan.
@@ -697,21 +827,74 @@ podatkov ali prenehanja podružnice družbe z omejeno odgovornostjo.
 2.     
 notar, če je predmet predloga drug vpis, razen vpisa iz prve do tretje
 alinee prejšnje točke.
-(6) Za predlog za vpis v sodni register, ki se vloži v
-elektronski obliki, in listine, ki se v elektronski obliki priložijo k temu
-predlogu, se ne uporablja drugi odstavek 28. člena tega zakona.
+(6) Za predlog za vpis v sodni register, ki se vloži v elektronski
+obliki, in listine, ki se v elektronski obliki priložijo k temu predlogu, se ne
+uporablja drugi odstavek 28. člena tega zakona.
 (7) Če je predlog za vpis po prvem ali drugem odstavku tega
 člena vložen v elektronski obliki, morajo biti tudi druge vloge v postopku s
 tem predlogom in listine, ki so jim priložene, vložene v elektronski obliki. Za
 druge vloge iz prejšnjega stavka se smiselno uporabljata peti in šesti odstavek
 tega člena.
+(8) Če je predlog vložen v pisni obliki, ga registrsko
+sodišče skupaj s predloženimi listinami pretvori v elektronsko obliko in vnese
+v sistem za podporo poslovnim subjektom.
+(9) Predlog za vpis v sodni register iz petega in osmega
+odstavka tega člena in predlogu priložene listine se vložijo v sistem za
+podporo poslovnim subjektom tako, da se hranijo v strojno berljivi obliki, ki
+omogoča iskanje, ali pa kot strukturirani podatki.
+27.a člen
+(1) Predlog za vpis iz 1. točke petega odstavka
+27. člena tega zakona točka za podporo poslovnim subjektom sestavi in
+vloži v sistemu za podporo poslovnim subjektom.
+(2) Predlagatelj vpisa sporoči podatke o vsebini predloga iz
+prejšnjega odstavka točki za podporo poslovnim subjektom:
+1.     
+tako, da se osebno oglasi na točki za podporo poslovnim subjektom, ali
+2.     
+pri predlogu za vpis ustanovitve enoosebne družbe z omejeno
+odgovornostjo na podlagi akta o ustanovitvi na predpisanem obrazcu iz prvega
+odstavka 523. člena ZGD-1, katere osnovni vložek družbenika je v celoti
+vplačan v denarju, ali sprememb akta o ustanovitvi na predpisanem obrazcu lahko
+tudi tako, da podatke elektronsko pošlje z uporabo ustrezne funkcionalnosti
+portala za podporo poslovnim subjektom.
+(3) Pred sestavo predloga za vpis po 2. točki prejšnjega
+odstavka se mora predlagatelj vpisa predhodno prijaviti v sistem za podporo
+poslovnim subjektom s sredstvom elektronske identifikacije visoke ravni
+zanesljivosti ter predlog in listine, ki jih izdela sistem, podpisati z
+elektronskim podpisom, ki je enakovreden lastnoročnemu podpisu.
+27.b člen
+(1) Predlog za vpis iz 2. točke petega odstavka
+27. člena tega zakona notar sestavi in vloži v sistemu za podporo
+poslovnim subjektom.
+(2) Predlagatelj vpisa sporoči podatke o vsebini predloga iz
+prejšnjega odstavka notarju:
+1.     
+pisno ali tako, da se osebno oglasi pri notarju, ali
+2.     
+z uporabo videokomunikacijskega sistema za komunikacijo z notarjem ter
+videoelektronsko identifikacijo in sestavo notarskih listin na daljavo v skladu
+z zakonom, ki ureja notariat, in pod pogoji, kot jih določa zakon, ali
+3.     
+pri predlogu za vpis ustanovitve družbe z omejeno odgovornostjo na
+podlagi družbene pogodbe na predpisanem obrazcu iz tretjega odstavka
+474. člena ZGD-1 ali sprememb družbene pogodbe na predpisanem obrazcu
+lahko tudi tako, da podatke elektronsko pošlje z uporabo ustrezne
+funkcionalnosti portala za podporo poslovnim subjektom.
+(3) Pred sestavo predloga za vpis po 3. točki prejšnjega
+odstavka se mora predlagatelj vpisa predhodno prijaviti v sistem za podporo
+poslovnim subjektom s sredstvom elektronske identifikacije visoke ravni
+zanesljivosti.
 28. člen
 (1) Predlagatelj mora predlogu priložiti listine, na katerih
 temeljijo podatki, ki se vpisujejo v sodni register, ter druge listine, če
-zakon tako določa, v izvirniku oziroma overjenem prepisu. 
+zakon tako določa, v izvirniku oziroma overjenem prepisu. Če je listina že
+vložena v informatizirano zbirko listin, je predlogu ni treba priložiti, temveč
+zadošča, da je navedena opravilna številka zadeve, v kateri je registrsko
+sodišče na podlagi te listine že dovolilo vpis ali pa jo javno objavilo zaradi
+predložitve sodnemu registru v objavo.
 (2) Predlog za vpis in listine se vložijo v toliko izvodih,
 kolikor jih je potrebno za sodišče in druge udeležence v postopku, ki jim je po
-določbah tega zakona potrebno vročiti predlog. 
+določbah tega zakona potrebno vročiti predlog.
 (3) Natančnejše predpise o vsebini predloga za vpis v sodni
 register, o listinah in dokazih, ki jih je treba priložiti predlogu, izda Vlada
 Republike Slovenije.
@@ -748,11 +931,32 @@ delitvi,
 -  listine, ki jih je treba
 priložiti k predlogu za vpis delitve v sodni register,
 6.     
+načrt čezmejne združitve (622.e člen ZGD-1), čezmejne delitve (638.e
+člen ZGD-1) ali čezmejnega preoblikovanja (661.e člen ZGD-1) znotraj držav
+članic, skupaj s priloženimi listinami, predložen sodnemu registru zaradi javne
+objave,
+7.     
+listine, ki se priložijo predlogu za vpis namere čezmejne združitve
+(drugi odstavek 622.k člena ZGD-1), namere čezmejne delitve (drugi odstavek
+638.k člena ZGD-1) ali namere čezmejnega preoblikovanja (drugi odstavek
+661.j člena ZGD-1) znotraj držav članic,
+8.     
+listine, ki se priložijo predlogu za vpis čezmejne združitve (drugi
+odstavek 622.l člena ZGD-1), čezmejne delitve (drugi odstavek 638.l člena
+ZGD-1) ali čezmejnega preoblikovanja (drugi odstavek 661.k člena ZGD-1) znotraj
+držav članic,
+9.     
 druge listine, ki jih je treba priložiti k predlogu za vpis iz prvega
 odstavka 27. člena tega zakona ali k predlogu za vpis iz drugega odstavka 27.
 člena tega zakona, ki se po izbiri predlagatelja vloži v elektronski obliki.
 (2) Predlagatelj lahko v elektronski obliki predloži tudi
-druge listine iz prvega odstavka 28. člena tega zakona.
+druge listine iz prvega odstavka 28. člena tega zakona. Predloženi izvirnik
+listine v elektronski obliki mora biti opremljen s kvalificiranim elektronskim
+žigom izdajatelja listine ali podpisan z elektronskim podpisom pooblaščene
+osebe izdajatelja, ki je enakovreden njenemu lastnoročnemu podpisu. Kadar se
+izjava osebe predloži v elektronski obliki v izvirniku, mora biti listina
+podpisana z elektronskim podpisom izjavitelja, ki je enakovreden njegovemu
+lastnoročnemu podpisu.
 (3) Notar ali točka za podporo poslovnim subjektom, ki po
 petem odstavku 27. člena tega zakona v imenu predlagatelja vloži predlog za
 vpis v elektronski obliki, mora v elektronsko obliko pretvoriti listine, ki jih
@@ -767,6 +971,11 @@ odstavku tega člena, mora notar ali točka za podporo poslovnim subjektom
 overiti s svojim elektronskim podpisom, ki je enakovreden lastnoročnemu
 podpisu. Šteje se, da imajo listine iz prejšnjega stavka značilnost overjenega
 prepisa izvirnika listine.
+(6) Predlogu za vpis iz 2. točke drugega odstavka
+27.a člena tega zakona in 2. in 3. točke drugega odstavka 27.b člena tega
+zakona se ne glede na določbe prejšnjih odstavkov izjemoma lahko priloži tudi
+elektronski prepis izvirnika pisne listine, kadar pristojni organ listine ne
+izdaja v elektronski obliki v skladu z drugim odstavkom tega člena.
 Predhodni preizkus in vročitev predloga
 29. člen
 V postopku predhodnega preizkusa predloga za vpis registrsko
@@ -793,6 +1002,23 @@ oziroma ime subjekta vpisa v nasprotju z zakonom, pozove predlagatelja, naj v
 roku iz prejšnjega odstavka spremeni firmo oziroma ime ter vloži spremenjen
 predlog z ustreznimi listinami. Če predlagatelj ne ravna po odredbi sodišča,
 sodišče zavrne predlog za vpis v sodni register.
+(3) Če registrsko sodišče v zvezi s posameznim predlogom iz
+2. točke drugega odstavka 27.a člena tega zakona ugotovi, da obstajajo razlogi
+za sum ponaredbe ali zlorabe identitete ali da se z ustanovitvijo družbe kršijo
+predpisi o preprečevanju pranja denarja in financiranju terorizma ali pa je to
+potrebno zaradi ugotovitve ali razjasnitev okoliščin glede poslovne sposobnosti
+ali pooblastil za zastopanje, predlagatelja pozove, naj se zaradi razjasnitve
+navedenih okoliščin, odprave pomanjkljivosti in dopolnitve predloga za vpis
+osebno zglasi pri katerem od notarjev. Notar na stroške predlagatelja izdela
+notarsko potrdilo, v katerem odpravi pomanjkljivosti oziroma razjasni
+okoliščine, dopolni predlog in ga posreduje sodišču. Če predlagatelj ne ravna
+po odredbi sodišča in sodišče v roku iz prvega odstavka tega člena ne prejme
+dopolnitve predloga, sodišče predlog za vpis v sodni register zavrne.
+(4) Če registrsko sodišče v zvezi z elektronskim prepisom
+izvirnika pisne listine iz šestega odstavka 28.a člena tega zakona ugotovi, da
+obstojijo razlogi za sum poneverbe, predlagatelja pozove, naj sodišču v roku iz
+prvega odstavka tega člena predloži izvirnik listine. Če predlagatelj ne ravna
+po odredbi sodišča, sodišče predlog za vpis v sodni register zavrne.
 31. člen
 (1) Kadar je predlog za vpis v sodni register vložila
 upravičena oseba, ki hkrati ni oseba, pooblaščena za zastopanje subjekta vpisa,
@@ -836,6 +1062,18 @@ drug ustrezen postopek za odločitev o predhodnem vprašanju.
 (4) Če udeleženec postopka v roku iz prejšnjega odstavka ne
 začne postopka, registrsko sodišče nadaljuje postopek vpisa v sodni register in
 odloči o predlogu za vpis.
+33.a člen
+(1) O predlogu za vpis ustanovitve družbe z omejeno
+odgovornostjo, delniške družbe in komanditne delniške družbe in predlogu za
+vpis podružnice tujega podjetja iz države članice v sodni register sodišče
+odloči najpozneje v desetih delovnih dneh od prejema popolnega predloga za
+vpis. 
+(2) Ne glede na prejšnji odstavek o predlogu za vpis
+ustanovitve družbe z omejeno odgovornostjo iz 2. točke drugega odstavka 27.a in
+3. točke drugega odstavka 27.b člena tega zakona sodišče odloči v petih
+delovnih dneh od prejema popolnega predloga za vpis. 
+(3) Če sodišče o predlogu ne odloči v roku iz prejšnjih
+odstavkov, predlagatelja vpisa na njegovo zahtevo obvesti o razlogih za zamudo.
 34. člen
 (1) Registrsko sodišče ugodi zahtevku za vpis v sodni
 register, če ugotovi: 
@@ -908,7 +1146,8 @@ uporabljata tudi za vročitve subjektu vpisa ali drugi stranki postopka ali
 pooblaščencu stranke, če ta v predlogu za vpis ali vlogi, s katero prijavi
 svojo udeležbo v postopku, izrecno zahteva, da se mu vročitve opravijo po varni
 elektronski poti in navede naslov za vročanje po varni elektronski poti,
-registriran v informacijskem sistemu sodstva, ali naslov varnega elektronskega predala.
+registriran v informacijskem sistemu sodstva, ali naslov varnega elektronskega
+predala.
 Postopek s pritožbo
 36. člen
 (1) Zoper sklep, s katerim registrsko sodišče odloči o vpisu
@@ -955,8 +1194,8 @@ spremeni sklep registrskega sodišča.
 (1) Sodišče druge stopnje spremeni sklep registrskega
 sodišča: 
 1.     
-če je registrsko sodišče zmotno presodilo listine, sklep sodišča pa
-temelji izključno na njih, 
+če je registrsko sodišče zmotno presodilo listine, sklep sodišča pa temelji
+izključno na njih, 
 2.     
 če je registrsko sodišče iz dejstev, ki jih je ugotovilo, nepravilno
 sklepalo na obstoj drugih dejstev, sklep pa se opira na ta dejstva, 
@@ -1016,9 +1255,9 @@ ali
 6.     
 če so bile ob ustanovitvi delnice vplačane v nasprotju z določbami
 zakona, ki ureja gospodarske družbe, o vplačilu delnic pri delniški družbi, ali
-če so bili ob ustanovitvi družbe osnovni vložki vplačani v nasprotju z določbami
-zakona, ki ureja gospodarske družbe, o osnovnem kapitalu in osnovnih vložkih
-pri družbi z omejeno odgovornostjo, ali 
+če so bili ob ustanovitvi družbe osnovni vložki vplačani v nasprotju z
+določbami zakona, ki ureja gospodarske družbe, o osnovnem kapitalu in osnovnih
+vložkih pri družbi z omejeno odgovornostjo, ali 
 7.     
 če nihče od ustanoviteljev ni bil neomejeno poslovno sposoben. 
 (2) Ničnostni razlogi, ki so določeni za delniško družbo, se
@@ -1070,9 +1309,11 @@ teh listin še niso vpisani v sodni register ali objavljeni po prvem odstavku
 tega člena, razen kadar je vpis določenega podatka predpostavka za začetek
 pravnega učinkovanja tega podatka.
 (5) Objava vpisa in objava predložitve listin iz prvega
-odstavka tega člena morata obsegati:
+odstavka tega člena morata o subjektu vpisa, na katerega se nanašata, obsegati
+najmanj:
 1.     
-matično številko subjekta vpisa, na katerega se nanaša,
+matično številko, enotni identifikator, če ga subjekt vpisa ima, firmo
+ali ime in pravnoorganizacijsko obliko subjekta vpisa,
 2.     
 vsebino vpisa ali vsebino predložene listine,
 3.     
@@ -1108,6 +1349,73 @@ odstavku 43. člena tega zakona.
 (3) Objava predložitve letnega poročila družbe mora v primeru
 iz prvega odstavka 58. člena ZGD-1 obsegati tudi informacijo, ali je bilo
 hkrati predloženo in javno objavljeno tudi revizorjevo poročilo.
+(4) Po objavi letnega poročila subjekta vpisa iz šestega
+odstavka 5. člena tega zakona agencija prek sistema povezovanja poslovnih
+registrov o objavi nemudoma obvesti pristojni organ države članice podružnice,
+ki jo je ustanovila kapitalska družba s sedežem v Republiki Sloveniji (šesti
+odstavek 58. člena ZGD-1).
+(5) Kadar agencija prek sistema povezovanja poslovnih
+registrov prejme letno poročilo tujega podjetja iz države članice ali obvestilo
+pristojnega organa iz države članice o objavi letnega poročila tujega podjetja
+iz države članice, katerega podružnica je subjekt vpisa v sodni register,
+agencija prek sistema povezovanja poslovnih registrov potrdi njegov prejem in
+obvesti podružnico tega podjetja o prejemu letnega poročila ali obvestila
+pristojnega organa države članice (677.b člen ZGD-1).
+43.c člen
+(1) V objavi predložitve načrta čezmejne združitve, čezmejne
+delitve ali čezmejnega preoblikovanja, ki je skupaj s priloženimi listinami
+predložen sodnemu registru zaradi javne objave, mora biti poleg podatkov iz
+petega odstavka 43. člena tega zakona naveden tudi:
+1.     
+datum poteka roka, v katerem lahko delavci, upniki in imetniki deležev
+družb podajo pripombe na načrt čezmejne združitve, čezmejne delitve ali
+čezmejnega preoblikovanja in
+2.     
+datum zasedanja skupščine družbe, ki bo odločala o čezmejni združitvi,
+čezmejni delitvi ali čezmejnem preoblikovanju.
+(2) V objavi vpisa namere za čezmejno združitev, vpisa namere
+za čezmejno delitev ali vpisa namere za čezmejno preoblikovanje mora biti poleg
+podatkov iz petega odstavka 43. člena tega zakona naveden tudi:
+1.     
+datum izdaje potrdila registrskega sodišča, da so za čezmejno združitev,
+čezmejno delitev ali čezmejno preoblikovanje izpolnjeni vsi pogoji in da so
+bila pravilno opravljena vsa pravna opravila, ki jih je bilo treba opraviti,
+ter podatek o tem, da gre za potrdilo, ki se izdaja zaradi namere čezmejne
+združitve, čezmejne delitve ali čezmejnega preoblikovanja, ter
+2.     
+podatki o družbi, ki izide iz čezmejne združitve, o družbi, ki nastane s
+čezmejno delitvijo, ali o preoblikovani družbi (nameravana firma, pravnoorganizacijska
+oblika, sedež).
+(3) V objavi vpisa čezmejne združitve, vpisa čezmejne delitve
+ali vpisa čezmejnega preoblikovanja družbe mora biti poleg podatkov iz petega
+odstavka 43. člena tega zakona o vpisu subjekta vpisa kot družbe, ki izide
+iz čezmejne združitve, kot nove družbe, ki nastane s čezmejno delitvijo, ali
+kot preoblikovane družbe, naveden tudi:
+1.     
+podatek o tem, da je bila družba vpisana zaradi čezmejne združitve,
+čezmejne delitve ali čezmejnega preoblikovanja, in
+2.     
+podatki o družbah, ki se čezmejno združujejo, o prenosni družbi, katere
+premoženje se čezmejno deli, ali o družbi, ki je izvedla čezmejno
+preoblikovanje (enotni identifikator, firma, pravnoorganizacijska oblika, sedež
+in podatek o registrskem organu, pri katerem je ta družba vpisana).
+(4) V objavi vpisa izbrisa subjekta vpisa, ki je prevzeta
+družba, ki se čezmejno združuje, prenosna družba, katere celotno premoženje se
+čezmejno razdeli, ali družba, ki je izvedla čezmejno preoblikovanje, ter v
+objavi vpisa zmanjšanja osnovnega kapitala subjekta vpisa, če je kot prenosna
+družba zmanjšala osnovni kapital zaradi čezmejne delitve, mora biti poleg
+podatkov iz petega odstavka 43. člena tega zakona naveden tudi:
+1.     
+podatek o tem, da je bila družba izbrisana zaradi čezmejne združitve,
+čezmejne delitve ali čezmejnega preoblikovanja, ali
+2.     
+podatek o zmanjšanju osnovnega kapitala, če je prenosna družba zmanjšala
+osnovni kapital zaradi čezmejne delitve, in
+3.     
+podatki o družbi, ki izide iz čezmejne združitve, o novi družbi, ki
+nastane s čezmejno delitvijo, ali o preoblikovani družbi (enotni identifikator,
+firma, pravnoorganizacijska oblika, sedež in podatek o registrskem organu, pri
+katerem je ta družba vpisana).
 SODNI REGISTER KOT CENTRALNA INFORMATIZIRANA BAZA
 44. člen
 (1) V elektronski obliki se vodijo ti deli sodnega registra
@@ -1160,8 +1468,8 @@ načinu zagotavljanja javnosti vsebine zbirke listin v skladu z 48.a
 9.     
 načinu vložitve zahteve za izpise v skladu z 48.b členom tega zakona,
 10.  
-višino nadomestila, ki sta ga za izpis iz sodnega registra ali izpis listine
-upravičena zaračunati agencija in notar ter
+višino nadomestila, ki sta ga za izpis iz sodnega registra ali izpis
+listine upravičena zaračunati agencija in notar ter
 11.  
 izmenjavi in dostopu do podatkov in listin sodnega registra v sistemu povezovanja
 poslovnih registrov (prvi odstavek 49.a člena tega zakona).
@@ -1225,6 +1533,12 @@ v elektronski obliki izdati vsako registrsko sodišče, ne glede na to, pri
 katerem sodišču je vpisan subjekt vpisa, na katerega se nanaša izpis.
 (7) Redni in sestavljeni izpis iz sodnega registra morata v
 skladu s tretjim do petim odstavkom tega člena izdati tudi agencija in notar.
+(8) Redni izpis iz sodnega registra, sestavljeni izpis iz
+sodnega registra in zgodovinski izpis iz sodnega registra glede podatkov, ki so
+bili v sodni register vpisani od 1. februarja 2008 dalje, lahko vsakdo
+brezplačno pridobi tudi prek spletnih strani agencije. Izpis iz prejšnjega
+stavka mora biti opremljen s kvalificiranim elektronskim žigom informacijskega
+sistema poslovnega registra.
 48.a člen
 (1) Javnost zbirke listin se zagotovi z izpisom ali prepisom
 vsebine listine (v nadaljnjem besedilu: izpis listine).
@@ -1248,19 +1562,22 @@ listin, jo mora sodišče pretvoriti v elektronsko obliko ob izstavitvi izpisa.
 člena tega zakona.
 (6) Izpis listine, ki se že vodi v elektronski zbirki listin,
 morajo kot izpis na papir ali v elektronski obliki izdati vsako registrsko
-sodišče, ne glede na to, pri katerem sodišču je vpisan subjekt vpisa, na
-katerega se nanaša listina, ki je predmet izpisa, agencija in notar.
+sodišče, ne glede na to, pri katerem sodišču je vpisan subjekt vpisa, na katerega
+se nanaša listina, ki je predmet izpisa, agencija in notar.
 48.b člen
 Zahteva za izpis iz sodnega registra ali za izpis listine se
 lahko vloži v elektronski ali pisni obliki.
 48.c člen
 (1) Objava podatkov o subjektu vpisa na spletnih straneh
-agencije po 1. točki drugega odstavka 7. člena tega zakona in izpis iz sodnega
-registra, ki se izda po 48. členu tega zakona, ne smeta vsebovati EMŠO
+agencije po 1. točki drugega odstavka 7. člena tega zakona ne sme
+vsebovati EMŠO in davčne številke družbenikov, zastopnikov in članov organa
+nadzora subjekta vpisa, od podatkov o njihovem datumu rojstva pa lahko vsebuje
+le podatek o letnici rojstva. Izpis iz sodnega registra, ki se izda po
+48. členu tega zakona, ne sme vsebovati EMŠO in davčne številke
 družbenikov, zastopnikov in članov organa nadzora subjekta vpisa. 
 (2) Sodišče lahko izda izpis iz sodnega registra, ki vsebuje
-tudi EMŠO zastopnika, družbenika ali člana organa nadzora tega subjekta vpisa
-samo v teh primerih: 
+tudi EMŠO ali davčno številko zastopnika, družbenika ali člana organa nadzora
+tega subjekta vpisa samo v teh primerih: 
 1.     
 izpis glede posameznega subjekta, če ga zahteva družbenik, zastopnik,
 ali član organa nadzora tega subjekta vpisa, ali 
@@ -1271,7 +1588,8 @@ upravičena do podatkov iz 51. člena tega zakona, če izpis zahteva ta oseba.
 listine iz 1. točke tretjega odstavka 7. člena tega zakona in prevoda podatkov
 po 46. a členu tega zakona ne sme vsebovati: 
 1.     
-EMŠO družbenikov, zastopnikov in članov organa nadzora subjekta vpisa, 
+EMŠO in davčne številke družbenikov, zastopnikov in članov organa
+nadzora subjekta vpisa, 
 2.     
 osebnih podatkov posameznikov, ki niso družbeniki, zastopniki ali člani
 organov nadzora subjekta vpisa, ali 
@@ -1295,45 +1613,35 @@ prejšnjim odstavkom.
 Agencija lahko v soglasju z ministroma, pristojnima za
 pravosodje in gospodarstvo, daje ali objavlja javne podatke o subjektih vpisa,
 ki se vodijo v poslovnem registru, v sistemih za izmenjavo ali objavo podatkov
-poslovnih registrov držav članic EU in tretjih držav.
+poslovnih registrov držav članic in tretjih držav.
 49.a člen
 (1) V sistemu povezovanja poslovnih registrov se o subjektih
-vpisa iz četrtega odstavka 4.a člena tega zakona in šestega odstavka 5. člena
+vpisa iz tretjega odstavka 4.a člena tega zakona in šestega odstavka 5. člena
 tega zakona zagotavlja:
 1.     
-javen dostop do podatkov in listin po 49.b členu tega zakona,
+javen dostop do podatkov in listin po 49.b členu tega zakona ter
 2.     
-izmenjava podatkov med sodnim registrom in sistemom povezovanja
-poslovnih registrov, in sicer:
-- 
-posredovanje obvestil o začetku ali končanju postopka likvidacije ali
-izbrisa brez likvidacije, prisilne poravnave ali stečaja nad subjektom vpisa in
-o vpisu izbrisa subjekta vpisa iz sodnega registra (49.c člen tega zakona),
-- 
-prejem obvestila o začetku ali končanju postopka likvidacije, postopka
-zaradi insolventnosti, postopka izbrisa ali postopka prenehanja tujega podjetja
-iz ES zaradi vpisa tega dejstva po uradni dolžnosti po tretjem odstavku 4.a
-člena tega zakona in o prenehanju takega podjetja zaradi izvedbe izbrisa
-podružnice tujega podjetja iz ES po 683.a členu ZGD-1,
-- 
-posredovanje obvestila o vpisu v sodni register družbe s sedežem v
-Republiki Sloveniji, ki je pri čezmejni združitvi udeležena kot družba, ki
-izide iz združitve, po določbah četrtega odstavka 622.l člena ZGD-1,
-- 
-prejem obvestila o vpisu tujega podjetja iz ES v register, ki je pri
-čezmejni združitvi udeleženo kot družba, ki izide iz združitve, zaradi izvedbe
-postopka vpisa izbrisa prevzete družbe iz sodnega registra po določbah sedmega
-odstavka 622.k člena ZGD-1.
-(2) Dostop do podatkov in listin po 1. točki prejšnjega
-odstavka in izmenjava podatkov po 2. točki prejšnjega odstavka sta brezplačna.
+izmenjava in dostop do podatkov in listin med sodnim registrom in
+sistemom povezovanja poslovnih registrov po določbah tega zakona in zakona, ki
+ureja gospodarske družbe, ter v skladu s pravili in tehničnimi zahtevami
+sistema povezovanja poslovnih registrov.
+(2) Dostop do podatkov in listin iz 1. točke prejšnjega
+odstavka in izmenjava ali dostop do podatkov in listin iz 2. točke prejšnjega
+odstavka sta brezplačna.
+(3) Listine in podatki, do katerih se v skladu s prvim
+odstavkom 49.b člena tega zakona omogoči dostop ali se izmenjujejo z obvestili
+v sistemu povezovanja poslovnih registrov iz 2. točke prvega odstavka tega
+člena, se morajo hraniti v strojno berljivi obliki, ki omogoča iskanje, ali kot
+strukturirani podatki, tako da ustrezajo tehničnim zahtevam sistema povezovanja
+poslovnih registrov.
 49.b člen
 (1) V sistemu povezovanja poslovnih registrov se omogoči
 dostop do podatkov iz 4., 4.a, 5. in 6. člena tega zakona in listin iz
-prve in tretje alineje 1. točke tretjega odstavka 7. člena tega zakona ter
-letnih poročil, objavljenih po 43.b členu tega zakona. Dostop se lahko
-omogoči tudi do listin, na katerih temeljijo vpisi podatkov iz prejšnjega
-stavka, za katere zakon določa, da se objavijo na spletnih straneh agencije,
-namenjenih uradnim javnim objavam.
+prve, tretje, šeste in sedme alineje 1. točke tretjega odstavka 7. člena
+tega zakona ter letnih poročil, objavljenih po 43.b členu tega zakona.
+Dostop se lahko omogoči tudi do listin, na katerih temeljijo vpisi podatkov iz
+prejšnjega stavka, za katere zakon določa, da se objavijo na spletnih straneh
+agencije, namenjenih uradnim javnim objavam.
 (2) Dostop do podatkov in listin iz prejšnjega odstavka se
 omogoči na podlagi iskalne zahteve, ki se prek elektronske točke za dostop na
 evropskem portalu e-pravosodje, kot dela sistema povezovanja poslovnih
@@ -1345,14 +1653,7 @@ elektronsko obliko in posreduje v sistem povezovanja poslovnih registrov.
 (4) Za posredovanje podatkov in listin v sistemu povezovanja
 poslovnih registrov se smiselno uporablja 48.c člena tega zakona.
 49.c člen
-Po vpisu pravnega dejstva, da se je nad subjektom vpisa začel
-ali končal postopek likvidacije ali izbrisa brez likvidacije, postopek zaradi
-insolventnosti ali ko je na podlagi takega postopka subjekt vpisa izbrisan iz
-sodnega registra, registrsko sodišče prek sistema povezovanja poslovnih
-registrov o tem vpisu nemudoma obvestiti vse registre držav članic, v katerih
-so podružnice subjekta vpisa vpisane v register. Registrsko sodišče prek
-sistema povezovanja poslovnih registrov obvesti register države članice tudi,
-kadar je bil prvotni vpis zaradi ustavitve postopka izbrisan.
+(črtan)
 50. člen
 (črtan)
 51. člen
@@ -1370,15 +1671,20 @@ izvrševanja svojih pooblastil in dolžnosti pravico tudi do vpogleda in izpisa
 vseh listin, na podlagi katerih se opravijo posamezni vpisi subjektov in
 spremembe pri že vpisanih subjektih v sodnem registru. 
 (3) Pravici iz prvega in drugega odstavka tega člena se
-zagotavljata z neposrednim elektronskim dostopom do teh podatkov, če se
-nanašajo na obdobje od 1. februarja 2008 dalje. Dostop do podatkov in listin za
-obdobje pred 1. februarjem 2008 se zagotovi na podlagi pisne zahteve na
-registrsko sodišče. 
+zagotavljata z neposrednim elektronskim dostopom do teh podatkov, če se nanašajo
+na obdobje od 1. februarja 2008 dalje. Dostop do podatkov in listin za obdobje
+pred 1. februarjem 2008 se zagotovi na podlagi pisne zahteve na registrsko
+sodišče. 
 (4) Pravico do vpogleda in izpisa podatkov iz prvega odstavka
 tega člena ima tudi upnik, ki z izvršilno listino izkaže terjatev do te osebe,
 in druga oseba, ki izkaže pravni interes. O dostopu do teh podatkov odloči
 registrsko sodišče na podlagi obrazložene pisne zahteve. Zahtevi morajo biti
 predložene listine, na podlagi katerih je dostop do podatkov dopusten.
+(5) Pravica do vpogleda in izpisa po tem členu je omejena
+tako, da se o fizični osebi kot družbeniku, ustanovitelju, zastopniku ali članu
+organa nadzora subjekta vpisa ne smeta posredovati obe identifikacijski
+številki, temveč po izbiri upravičenca bodisi samo davčna številka bodisi samo
+EMŠO številka, če je ta vpisana.
 52. člen
 (črtan)
 KAZENSKE DOLOČBE
@@ -1439,8 +1745,8 @@ Zakon o gospodarskih družbah – ZGD-1(Uradni
 list RS, št. 42/06) vsebuje naslednjo končno določbo:
 »709. člen
 (začetek veljavnosti)
-Ta zakon začne veljati petnajsti dan po objavi v Uradnem
-listu Republike Slovenije.«.
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije.«.
 
 Zakon o spremembah in dopolnitvah Zakona o
 sodnem registru – ZSReg-B (Uradni list RS, št. 33/07) vsebuje naslednje prehodne in
@@ -1472,12 +1778,12 @@ stavka.
 predlog za vpis vložen po uveljavitvi tega zakona. 
 (6) Vrhovno sodišče Republike Slovenije mora do 30. junija
 2007 prenesti upravljanje in vzdrževanje centralne informatizirane baze sodnega
-registra na agencijo. Vrhovno sodišče Republike Slovenije mora zaradi
-usklajevanja podatkov opraviti prvi prenos celotne informatizirane baze sodnega
-registra v 15 dneh po uveljavitvi tega zakona. 
+registra na agencijo. Vrhovno sodišče Republike Slovenije mora zaradi usklajevanja
+podatkov opraviti prvi prenos celotne informatizirane baze sodnega registra v
+15 dneh po uveljavitvi tega zakona. 
 (7) Agencija mora ob prevzemu upravljanja in vzdrževanja
-centralne informatizirane baze sodnega registra, to bazo vključiti v poslovni
-register kot njegov sestavni del.
+centralne informatizirane baze sodnega registra, to bazo vključiti v poslovni register
+kot njegov sestavni del.
 33. člen
 (1) Družba z omejeno odgovornostjo, ki do 31. decembra 2007
 izvede spremembo akta o ustanovitvi ali družbene pogodbe (v nadaljnjem
@@ -1494,22 +1800,22 @@ izvede spremembe akta o ustanovitvi zaradi izvedbe prehoda na euro, se šteje,
 da je s 1. januarjem 2008 akt o ustanovitvi spremenjen tako: 
 1.     
 da se znesek osnovnega kapitala in vseh osnovnih vložkov v tolarjih
-nadomesti z zneskom, preračunanim v euro po metodi preračuna, kot jo določa 696.
-člen ZGD-1; in 
+nadomesti z zneskom, preračunanim v euro po metodi preračuna, kot jo določa
+696. člen ZGD-1; in 
 2.     
 da se določi poslovni delež v odstotku, ki ga predstavlja vsak osnovni
 vložek v osnovnem kapitalu, preračunanem po prejšnji točki in zaokroženem na
 štiri decimalna mesta. 
-(4) Družba z omejeno odgovornostjo mora spremembo akta o
-ustanovitvi po prejšnjem odstavku upoštevati pri izdelavi čistopisa akta o
-ustanovitvi ob njegovi prvi spremembi po 1. januarju 2008. 
+(4) Družba z omejeno odgovornostjo mora spremembo akta o ustanovitvi
+po prejšnjem odstavku upoštevati pri izdelavi čistopisa akta o ustanovitvi ob
+njegovi prvi spremembi po 1. januarju 2008. 
 (5) Agencija do 31. januarja 2008 po uradni dolžnosti izvede
 vpise sprememb iz tretjega odstavka tega člena v sodni register in o tem
 obvesti družbo z omejeno odgovornostjo. Obvestilo iz prejšnjega stavka mora
 vsebovati tudi podatek o razliki v zneskih, ki izhajajo iz preračunavanja, iz
 tretjega odstavka 696. člena ZGD-1. 
-(6) Vpisov sprememb iz drugega odstavka tega člena v sodni register
-ni treba objaviti po prvem odstavku 43. člena zakona. 
+(6) Vpisov sprememb iz drugega odstavka tega člena v sodni
+register ni treba objaviti po prvem odstavku 43. člena zakona. 
 (7) Družba z omejeno odgovornostjo lahko že pred izvedbo
 vpisa zneska osnovnega kapitala v eurih na podlagi spremembe akta o ustanovitvi
 iz prvega, drugega ali tretjega odstavka tega člena na svojih sporočilih iz
@@ -1553,9 +1859,9 @@ Z dnem uveljavitve tega zakona se v Zakonu o notariatu
 (Uradni list RS, št. 4/06 – uradno prečiščeno besedilo in 115/06) črta tretji
 odstavek 39. člena.
 37. člen
-Z dnem uveljavitve tega zakona se v Zakonu o finančnem
-poslovanju podjetij (Uradni list RS, št. 54/99, 110/99, 97/00 – odločba US,
-50/02 – sklep US in 93/02 – odločba US): 
+Z dnem uveljavitve tega zakona se v Zakonu o finančnem poslovanju
+podjetij (Uradni list RS, št. 54/99, 110/99, 97/00 – odločba US, 50/02 – sklep
+US in 93/02 – odločba US): 
 1.     
 33. člen spremeni tako, da se glasi:
 "33. člen
@@ -1643,9 +1949,9 @@ aprila 2008. Uradni list Republike Slovenije mora do 30. aprila 2008 sodiščem,
 ki so odločila o vpisih iz 2. točke drugega odstavka tega člena, posredovati
 podatke o vpisih, ki niso bili objavljeni do 15. aprila 2008. Agencija mora do
 31. maja 2008 objaviti neobjavljene vpise iz prejšnjega stavka.
-(5) Oprostitev plačila sodnih taks po novem drugem odstavku
-18. člena zakona velja za vse postopke vpisa v sodni register, v katerih je
-predlog za vpis vložen po uveljavitvi tega zakona. 
+(5) Oprostitev plačila sodnih taks po novem drugem odstavku 18.
+člena zakona velja za vse postopke vpisa v sodni register, v katerih je predlog
+za vpis vložen po uveljavitvi tega zakona. 
 (6) Vrhovno sodišče Republike Slovenije mora do 30. junija
 2007 prenesti upravljanje in vzdrževanje centralne informatizirane baze sodnega
 registra na agencijo. Vrhovno sodišče Republike Slovenije mora zaradi
@@ -1794,3 +2100,54 @@ list RS, št. 16/19) vsebuje naslednjo končno določbo:
 »224. člen
 (začetek veljavnosti)
 Ta zakon začne veljati 15. aprila 2019.«.
+
+Zakon o spremembah in dopolnitvah Zakona o
+sodnem registru – ZSReg-H (Uradni list RS, št. 75/23) vsebuje naslednje prehodne in
+končno določbo:
+»PREHODNE IN KONČNA DOLOČBA
+28. člen
+(1) Agencija Republike Slovenije za javnopravne evidence in
+storitve najpozneje do 1. januarja 2025 zagotovi nadgradnjo
+informacijskega sistema Poslovnega registra Slovenije in nacionalnega vozlišča
+sistema povezovanja poslovnih registrov tako, da bosta skladna z določbami tega
+zakona in tehničnimi zahtevami sistema povezovanja poslovnih registrov.
+(2) Ministrstvo, pristojno za javno upravo, najpozneje do
+1. januarja 2025 zagotovi nadgradnjo sistema za podporo poslovnim
+subjektom tako, da bo ta omogočal oddajo elektronskih predlogov za vpis v sodni
+register v skladu z določbami tega zakona.
+29. člen
+Ko so zagotovljeni tehnični pogoji iz 31. člena tega
+zakona, Agencija Republike Slovenije za javnopravne evidence in storitve po
+uradni dolžnosti izvede vpise podatkov v sodni register o davčni številki in
+datumu rojstva fizičnih oseb v skladu s spremenjeno 1. točko tretjega odstavka
+1.a člena, spremenjeno 1. točko prvega odstavka 2.b člena zakona in dopolnjenim
+tretjim odstavkom 2.b člena zakona ter vpise podatkov o EMŠO fizičnih oseb in
+sprememb njihovih drugih identifikacijskih podatkov v skladu z dopolnjenim
+četrtim odstavkom 2.b člena zakona. Te podatke prevzame v sodni register iz
+centralnega registra prebivalstva in davčnega registra. O vpisu podatkov
+agencija na svojih spletnih straneh objavi obvestilo.
+30. člen
+Vlada Republike Slovenije v treh mesecih po uveljavitvi tega
+zakona uskladi predpis iz 45. člena zakona v skladu z določbami tega
+zakona.
+31. člen
+(1) Določbe spremenjenega tretjega odstavka 1.a člena zakona,
+kolikor se nanaša na podatke o fizičnih osebah, spremenjenega 2.b člena,
+dopolnjenega petega odstavka 7. člena, novega devetega odstavka
+27. člena, 2. in 3. točke drugega odstavka in tretjega odstavka novega
+27.b člena, novega 43.c člena, spremenjenega 48.c člena, novega tretjega
+odstavka 49.a člena, spremenjenega 49.b člena in novega petega odstavka 51. člena
+zakona se začnejo uporabljati, ko so zagotovljeni tehnični pogoji za njihovo
+izvajanje. Tehnični pogoji za izvajanje določb tega zakona morajo biti
+zagotovljeni najpozneje do 1. januarja 2025.
+(2) Minister, pristojen za gospodarstvo, v soglasju z
+ministrom, pristojnim za pravosodje, ob zagotovitvi tehničnih pogojev z
+odredbo, ki se objavi v Uradnem listu Republike Slovenije, določi datum, od
+katerega se začnejo uporabljati določbe iz prejšnjega odstavka.
+(3) Do začetka uporabe določb iz prvega odstavka tega člena
+se uporabljajo določbe Zakona o sodnem registru (Uradni list RS, št. 54/07
+– uradno prečiščeno besedilo, 65/08, 49/09, 82/13 – ZGD-1H, 17/15, 54/17 in
+16/19 – ZNP-1).
+32. člen
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.

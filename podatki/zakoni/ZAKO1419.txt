@@ -35,22 +35,22 @@ zdravstvenega varstva so Nacionalni inštitut za javno zdravje (v nadaljnjem
 besedilu: NIJZ) in ostali izvajalci zdravstvene dejavnosti (v nadaljnjem
 besedilu: izvajalci) v Republiki Sloveniji.
 4. člen
-Upravljavci zbirk podatkov iz prejšnjega
-člena (v nadaljnjem besedilu: upravljavci zbirk podatkov), pridobivajo osebne
-podatke praviloma neposredno od posameznika, na katerega se nanašajo. 
+Upravljavci zbirk podatkov iz prejšnjega člena
+(v nadaljnjem besedilu: upravljavci zbirk podatkov), pridobivajo osebne podatke
+praviloma neposredno od posameznika, na katerega se nanašajo. 
 V primerih posrednega zbiranja osebnih
 podatkov, posameznika ni potrebno predhodno seznaniti s tem, da se bodo podatki
 pridobili iz že obstoječe zbirke podatkov, če ni s tem zakonom drugače
 določeno. 
 Upravljavci zbirk podatkov imajo pravico iz
 Centralnega registra prebivalstva (v nadaljnjem besedilu: CRP) brezplačno
-dobiti naslednje podatke: EMŠO, ime in priimek, kraj rojstva, leto rojstva, spol,
-prebivališče in vrste prebivališča, državljanstvo, zakonski stan, šolska
+dobiti naslednje podatke: EMŠO, ime in priimek, kraj rojstva, leto rojstva,
+spol, prebivališče in vrste prebivališča, državljanstvo, zakonski stan, šolska
 izobrazba, EMŠO matere, očeta, zakonca in otrok, datum in podatki o dogodkih,
 spremembah ali popravkih. 
-Upravljavci zbirk podatkov imajo pravico
-uporabe številke zdravstvenega zavarovanja na kartici zdravstvenega zavarovanja
-kot povezovalnega znaka za zbiranje, obdelovanje in posredovanje podatkov,
+Upravljavci zbirk podatkov imajo pravico uporabe
+številke zdravstvenega zavarovanja na kartici zdravstvenega zavarovanja kot
+povezovalnega znaka za zbiranje, obdelovanje in posredovanje podatkov,
 opredeljenih v zbirkah podatkov po tem zakonu. Infrastruktura kartice
 zdravstvenega zavarovanja se z uveljavitvijo tega zakona uporablja tudi za
 zdravstveno kartico kot zbirko podatkov, ob tem, da je zagotovljena popolna
@@ -113,9 +113,9 @@ drugega ali tretjega odstavka tega člena glede posredovanja v zbirke NIJZ 48
 ali NIJZ 49 iz Priloge 1, eNapotnica in eNaročilo iz Priloge 2 ali CRPP, se
 lahko do izpolnitve obveznosti posredovanja podatkov zadrži plačilo zdravstvene
 storitve iz sredstev obveznega in prostovoljnega zdravstvenega zavarovanja
-oziroma proračuna, kot ga določa zakon, ki ureja zdravstveno varstvo in zdravstveno
-zavarovanje. Podatke, ki omogočajo nadzor nad izpolnjevanjem določb tega
-odstavka, zagotavljajo izvajalci in NIJZ, sam nadzor pa izvaja Zavod za
+oziroma proračuna, kot ga določa zakon, ki ureja zdravstveno varstvo in
+zdravstveno zavarovanje. Podatke, ki omogočajo nadzor nad izpolnjevanjem določb
+tega odstavka, zagotavljajo izvajalci in NIJZ, sam nadzor pa izvaja Zavod za
 zdravstveno zavarovanje Slovenije.
 9. člen
 Odgovorna oseba upravljavca zbirke podatkov
@@ -134,8 +134,8 @@ ter standardni postopki oblikovanja in pošiljanja poročil (v nadaljnjem
 besedilu: poročila). 
 Enotna metodološka načela, enotne standarde
 (definicije, klasifikacije in šifranti) ter standardne postopke določi
-minister, pristojen za zdravje na predlog NIJZ po pridobitvi mnenja
-Statističnega urada Republike Slovenije.
+minister, pristojen za zdravje na predlog NIJZ po pridobitvi mnenja Statističnega
+urada Republike Slovenije.
 11. člen
 Enotna metodološka načela in enotne
 standarde (definicije, klasifikacije in šifranti) za oblikovanje in vodenje
@@ -169,8 +169,8 @@ zagotavlja sredstva za izvajanje nalog iz prejšnjega odstavka.
 VI. eZDRAVJE
 14. člen
 eZdravje je na nacionalni ravni usklajen
-zdravstveni informacijski sistem, ki z delovanjem na enotni
-informacijsko-komunikacijski infrastrukturi omogoča:
+zdravstveni informacijski sistem, ki z delovanjem na enotni informacijsko-komunikacijski
+infrastrukturi omogoča:
 -       
 obdelavo zdravstvenih in drugih podatkov, podrobneje določenih v 14.b
 členu tega zakona in v Prilogi 2;
@@ -252,10 +252,10 @@ za zbirke podatkov eZdravja brez plačila stroškov pridobiva podatke iz
 drugih zbirk podatkov, lahko tudi le z uporabo EMŠO ali ZZZS številke
 (identifikacijske številke) zavarovane osebe;
 -       
-za namen izvajanja storitev eZdravja brez predhodnega dovoljenja
-državnega nadzornega organa za varstvo osebnih podatkov povezuje zbirke
-podatkov eZdravja, tudi le z uporabo enega identifikatorja kot istega
-povezovalnega znaka.
+za namen izvajanja storitev eZdravja brez predhodnega dovoljenja državnega
+nadzornega organa za varstvo osebnih podatkov povezuje zbirke podatkov
+eZdravja, tudi le z uporabo enega identifikatorja kot istega povezovalnega
+znaka.
 14.b člen 
 CRPP je zbirka podatkov eZdravja o
 pacientih s stalnim ali začasnim prebivališčem v Republiki Sloveniji in o drugih pacientih, ki v Republiki
@@ -319,8 +319,8 @@ podatek o uporabi namenskih aplikacij) in datum zadnje potrditve pravilnosti
 podatkov;
 l)     
 podatki o osebnem zdravniku:
--     o izvajalcu,
-pri katerem dela osebni zdravnik;
+-     o
+izvajalcu, pri katerem dela osebni zdravnik;
 -     o osebnem
 zdravniku (osebno ime, telefonska številka in elektronski naslov pri izvajalcu,
 številka zdravstvenega delavca);
@@ -336,8 +336,7 @@ n)   
 podatki o družinskih članih, o osebah, ki jih določi pacient, njegovem
 zdravstvenem pooblaščencu, rejniku, skrbniku in drugih zakonitih zastopnikih,
 če so potrebni za uveljavljanje pravic:
--     osebno
-ime;
+-     osebno ime;
 -     EMŠO
 oziroma datum rojstva, če posameznik nima določene EMŠO;
 -     ZZZS
@@ -491,8 +490,8 @@ Sloveniji;
 od zavarovalnic, ki izvajajo prostovoljno zdravstveno zavarovanje:
 podatke o prostovoljnem zdravstvenem zavarovanju,
 5.     
-od Ministrstva za javno upravo iz podatkov Centralnega avtentikacijskega
-sistema:
+od ministrstva, pristojnega za zagotavljanje elektronskih storitev javne
+uprave, iz podatkov Centralnega avtentikacijskega sistema:
 a)   
 EMŠO;
 b)   
@@ -522,8 +521,8 @@ tega zakona;
 iz podtočke l) 1. točke četrtega odstavka 14.b člena tega zakona za
 izvajalce izven mreže javne zdravstvene službe;
 -       
-o kontaktnih podatkih iz podtočke n) 1. točke četrtega odstavka 14.b člena
-tega zakona;
+o kontaktnih podatkih iz podtočke n) 1. točke četrtega odstavka 14.b
+člena tega zakona;
 -       
 iz podtočk p), r) in š) 1. točke četrtega odstavka 14.b člena tega
 zakona.
@@ -532,26 +531,26 @@ zbirkami podatkov in pridobiva zdravstveno dokumentacijo iz 1.a člena tega
 zakona iz zbirk Osnovna zdravstvena dokumentacija, zbirk iz Priloge 1 tega
 zakona in zbirk upravljavca ZZZS, kot jih določa zakon, ki ureja zdravstveno
 varstvo in zdravstveno zavarovanje. Za podatke iz prvega in drugega odstavka
-tega člena se CRPP povezuje z zbirkami podatkov zavezancev za njihovo posredovanje.
-NIJZ z zavezanci iz prvega in drugega odstavka tega člena dogovori postopek
-izmenjave podatkov. Za potrebe nadzora nad evidentiranjem in obračunavanjem
-zdravstvenih storitev se lahko s CRPP povezuje evidenca o zavarovanih osebah
-obveznega zdravstvenega zavarovanja, kot jo določa zakon, ki ureja zdravstveno
-varstvo in zdravstveno zavarovanje.
+tega člena se CRPP povezuje z zbirkami podatkov zavezancev za njihovo
+posredovanje. NIJZ z zavezanci iz prvega in drugega odstavka tega člena
+dogovori postopek izmenjave podatkov. Za potrebe nadzora nad evidentiranjem in
+obračunavanjem zdravstvenih storitev se lahko s CRPP povezuje evidenca o
+zavarovanih osebah obveznega zdravstvenega zavarovanja, kot jo določa zakon, ki
+ureja zdravstveno varstvo in zdravstveno zavarovanje.
 Izvajalci so glede podatkov iz podtočk d),
 e), f), j), k), l), m), n), p) in r) 1. točke ter 2. in 3. točke četrtega
 odstavka 14.b člena tega zakona odgovorni za obdelavo, in sicer vsak izvajalec
 v delu, ki se nanaša na zagotavljanje določene zdravstvene oskrbe. Podatek se
 posreduje v CRPP takoj, ko nastane ali se prejme pri izvajanju zdravstvene
-oskrbe ali mrliško pregledne službe, vendar najpozneje do konca delavnika.
-Podatek se posreduje v CRPP na način, da je razviden čas njegovega nastanka in
-njegove veljavnosti. Podatek posreduje v CRPP izvajalec, ki ga ob izvajanju
-zdravstvene oskrbe ali mrliško pregledne službe prvi zabeleži. Izvajalci
-ažurirajo podatke iz podtočk k) in š) 1. točke četrtega odstavka 14.b člena
-tega zakona v svoji dokumentaciji iz CRPP pred vzpostavitvijo stika s pacientom
-in preverijo pravilnost kontaktnih podatkov ob vsakem stiku s pacientom, če ta
-omogoča nedvoumno identifikacijo pacienta. Spremembo kontaktnih podatkov ali
-načina vzpostavitve stika izvajalci posredujejo v CRPP do konca delavnika.
+oskrbe ali mrliško pregledne službe, vendar najpozneje do konca delavnika. Podatek
+se posreduje v CRPP na način, da je razviden čas njegovega nastanka in njegove
+veljavnosti. Podatek posreduje v CRPP izvajalec, ki ga ob izvajanju zdravstvene
+oskrbe ali mrliško pregledne službe prvi zabeleži. Izvajalci ažurirajo podatke
+iz podtočk k) in š) 1. točke četrtega odstavka 14.b člena tega zakona v svoji
+dokumentaciji iz CRPP pred vzpostavitvijo stika s pacientom in preverijo
+pravilnost kontaktnih podatkov ob vsakem stiku s pacientom, če ta omogoča
+nedvoumno identifikacijo pacienta. Spremembo kontaktnih podatkov ali načina
+vzpostavitve stika izvajalci posredujejo v CRPP do konca delavnika.
 Pooblastila zdravstvenih delavcev in drugih
 pooblaščenih oseb za obdelavo podatkov v CRPP se določijo za posamezen podatek
 ali po posameznih sklopih podatkov oziroma pacientove zdravstvene dokumentacije
@@ -605,7 +604,8 @@ Nadzor nad izvajanjem tega zakona opravlja inšpektorat,
 pristojen za zdravje.
 Inšpektorat, pristojen za zdravje, opravlja nadzor nad
 določbami prvega in drugega odstavka 8. člena, 14.b člena ter prvega, drugega
-in petega odstavka 14.č člena tega zakona.
+in petega odstavka 14.č člena tega zakona. (prenehal
+veljati)
 VII. KAZENSKE DOLOČBE
 15. člen
 Z globo od 5.000 do 15.000 eurov se kaznuje
@@ -652,10 +652,10 @@ končne določbe:
 17. člen
 Z uveljavitvijo tega zakona se prenehajo
 uporabljati zakon o evidencah na področju zdravstva (Uradni list SFRJ, št.
-22/78 in 18/88 in Uradni list RS, št. 10/91, 17/91, 13/93 in 66/93) in 41.,
-42., 43., 44., 45., 46., 53., 54., 55. in 56. člen zakona o evidencah na
-področju dela (Uradni list SFRJ, št. 17/90 in Uradni list RS, št. 10/91, 17/91,
-13/93 in 66/93), ki določajo evidence s področja zdravstvenega zavarovanja in
+22/78 in 18/88 in Uradni list RS, št. 10/91, 17/91, 13/93 in 66/93) in 41., 42.,
+43., 44., 45., 46., 53., 54., 55. in 56. člen zakona o evidencah na področju
+dela (Uradni list SFRJ, št. 17/90 in Uradni list RS, št. 10/91, 17/91, 13/93 in
+66/93), ki določajo evidence s področja zdravstvenega zavarovanja in
 zdravstvenega varstva.
 18. člen
 Enotna metodološka načela in enotne
@@ -668,11 +668,11 @@ standarde (definicije, klasifikacije, šifrante), evidenčna sredstva ter
 standardne postopke oblikovanja in pošiljanja poročil iz 12. člena tega zakona
 določita skupaj ministra, pristojna za delo in zdravstvo v enem letu od
 uveljavitve tega zakona. 
-Do izdaje novih metodoloških načel, standardov,
-evidenčnih sredstev in predpisov iz prvega in drugega odstavka tega člena se še
-naprej uporablja navodilo o enotnih metodoloških načelih in standardih za
-evidenco na področju zdravstva (Uradni list SFRJ, št. 13/79), kolikor ni v
-nasprotju s tem zakonom.
+Do izdaje novih metodoloških načel,
+standardov, evidenčnih sredstev in predpisov iz prvega in drugega odstavka tega
+člena se še naprej uporablja navodilo o enotnih metodoloških načelih in
+standardih za evidenco na področju zdravstva (Uradni list SFRJ, št. 13/79),
+kolikor ni v nasprotju s tem zakonom.
 19. člen
 Obliko, načine in sredstva evidentiranja iz
 8. člena tega zakona določi minister, pristojen za zdravstvo na predlog IVZ v
@@ -775,8 +775,8 @@ začneta uporabljati 1. januarja 2023.
 10. člena, 19., 20., 21., 22., 23., 24., 25., 26., 27., 28., 29.,
 30. člen, četrti odstavek 34. člena, peti odstavek 35. člena,
 četrti odstavek 39. člena, tretji odstavek 57. člena, 6. točka
-tretjega odstavka in peti odstavek 65. člena tega zakona, ki urejajo pravico
-do oskrbovalca družinskega člana iz 5. oddelka tega zakona, se začnejo
+tretjega odstavka in peti odstavek 65. člena tega zakona, ki urejajo
+pravico do oskrbovalca družinskega člana iz 5. oddelka tega zakona, se začnejo
 uporabljati 1. januarja 2023.
 (4) 34. člen tega zakona in četrta
 alineja drugega odstavka 39. člena tega zakona, ki urejata možnost
@@ -821,5 +821,20 @@ podatkov s področja zdravstvenega varstva se začne uporabljati 1. februarja
 85. člen
 (začetek
 veljavnosti)
+Ta zakon začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Zakon o nujnih ukrepih za zajezitev širjenja
+in blaženja posledic nalezljive bolezni COVID-19 na področju zdravstva – ZNUNBZ
+(Uradni list RS, št. 141/22) vsebuje naslednjo končno določbo:
+»45. člen
+(začetek
+veljavnosti)
+Ta zakon začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o državni
+upravi – ZDU-1O (Uradni list RS, št. 18/23) vsebuje naslednjo končno določbo:
+»59. člen
 Ta zakon začne veljati naslednji dan po
 objavi v Uradnem listu Republike Slovenije.«.

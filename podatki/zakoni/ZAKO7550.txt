@@ -148,8 +148,8 @@ srednje ravni zanesljivosti izdajatelj sredstva elektronske
 identifikacije izvede:
 - 
 preverjanje istovetnosti fizične osebe na podlagi veljavne javne
-listine, ki je opremljena s fotografijo, ter s fizično prisotnostjo fizične
-osebe, ki se identificira, ali
+listine, ki je opremljena s fotografijo, ter s fizično prisotnostjo fizične osebe,
+ki se identificira, ali
 - 
 avtentikacijo fizične osebe na podlagi sredstva elektronske
 identifikacije najmanj srednje ravni zanesljivosti;
@@ -218,12 +218,12 @@ elektronske identifikacije tako, da se za to ne potrebuje določenih podatkov iz
 prejšnjega odstavka, vlada z uredbo določi manjši nabor podatkov posamezne
 evidence imetnikov sredstev elektronske identifikacije.
 (4) Evidenca imetnikov sredstev elektronske identifikacije se
-na podlagi EMŠO ali davčne številke povezuje s centralnim registrom prebivalstva.
-Iz centralnega registra prebivalstva se v evidenco sredstev elektronske
-identifikacije pošljejo podatki o davčni številki ali EMŠO, osebnem imenu,
-stalnem prebivališču ali stalnem naslovu v tujini, začasnem prebivališču ali
-začasnem naslovu v tujini in naslovu za vročanje, državljanstvu in datumu smrti
-posameznika.
+na podlagi EMŠO ali davčne številke povezuje s centralnim registrom
+prebivalstva. Iz centralnega registra prebivalstva se v evidenco sredstev
+elektronske identifikacije pošljejo podatki o davčni številki ali EMŠO, osebnem
+imenu, stalnem prebivališču ali stalnem naslovu v tujini, začasnem prebivališču
+ali začasnem naslovu v tujini in naslovu za vročanje, državljanstvu in datumu
+smrti posameznika.
 (5) Podatki iz prejšnjega odstavka se iz centralnega registra
 prebivalstva v evidenco sredstev elektronske identifikacije pošljejo ob
 sprejemu vloge in ob vsaki spremembi navedenih podatkov v centralnem registru
@@ -238,9 +238,9 @@ evidence.
 prvo alinejo pod točko c) prvega odstavka 10. člena tega zakona, se evidenca
 imetnikov sredstev elektronske identifikacije povezuje z uradnimi evidencami iz
 prve alineje pod točko c) prvega odstavka 10. člena tega zakona tako, da se na
-podlagi vrste in številke javne listine v evidenco imetnikov sredstev
-elektronske identifikacije na posamezno zahtevo organa za sprejem vloge
-prenesejo podatki o tem, ali je javna listina veljavna.
+podlagi vrste in številke javne listine v evidenco imetnikov sredstev elektronske
+identifikacije na posamezno zahtevo organa za sprejem vloge prenesejo podatki o
+tem, ali je javna listina veljavna.
 12. člen
 (podatki na sredstvu elektronske identifikacije)
 (1) Sredstvo elektronske identifikacije vsebuje naslednje
@@ -870,10 +870,10 @@ kvalificiranih potrdil hranijo prijavne službe.
 42. člen
 (preverjanje interesa za certificiranje kvalificiranih
 naprav za ustvarjanje kvalificiranega elektronskega podpisa)
-Služba Vlade Republike Slovenije, pristojna za informacijsko
-družbo, z javnim pozivom vsaj vsaki dve leti pozove javnost k priglasitvi
-interesa za certificiranje kvalificiranih naprav za ustvarjanje kvalificiranega
-elektronskega podpisa.
+Ministrstvo, pristojno za zagotavljanje centralne storitve za
+spletno prijavo in elektronski podpis, z javnim pozivom vsaj vsaki dve leti
+pozove javnost k priglasitvi interesa za certificiranje kvalificiranih naprav
+za ustvarjanje kvalificiranega elektronskega podpisa.
 43. člen
 (vpis v nacionalni zanesljivi seznam)
 (1) Pristojni organ ponudnika storitev zaupanja in
@@ -987,10 +987,10 @@ podpis pooblastitelja,
 datum smrti pooblastitelja.
 (4) Centralna storitev za spletno prijavo in elektronski
 podpis v delu, ki omogoča ustvarjanje in hrambo pooblastil, ni uradna evidenca,
-v kateri organi preverjajo obstoj ali obseg pooblastila. Pooblastitelj ali
-pooblaščenec je dolžan zagotoviti, da organ, pred katerim se izvaja zastopanje,
-dobi pooblastilo iz centralne storitve za spletno prijavo in elektronski podpis
-in ne more zahtevati, da ga pridobi organ po uradni dolžnosti. Organ, ki vodi
+v kateri organi preverjajo obstoj ali obseg pooblastila. Pooblastitelj ali pooblaščenec
+je dolžan zagotoviti, da organ, pred katerim se izvaja zastopanje, dobi
+pooblastilo iz centralne storitve za spletno prijavo in elektronski podpis in
+ne more zahtevati, da ga pridobi organ po uradni dolžnosti. Organ, ki vodi
 postopek, nima dostopa do podatkov iz prejšnjega odstavka.
 (5) Pooblastilo in podatki iz tretjega odstavka tega člena se
 hranijo šest mesecev po posredovanju zahteve za preklic ali odpoved
@@ -1036,8 +1036,7 @@ sicer tako, da centralna storitev za spletno prijavo in elektronski podpis:
 centralnemu registru prebivalstva posreduje osebno ime in davčno
 številko pooblaščenca ali pooblastitelja, ki je fizična oseba, centralni
 register prebivalstva pa posreduje podatek o ujemanju prejetih podatkov ter v
-primeru ujemanja podatkov tudi podatek o morebitnem datumu smrti
-pooblastitelja;
+primeru ujemanja podatkov tudi podatek o morebitnem datumu smrti pooblastitelja;
 -       
 poslovnemu registru posreduje firmo in davčno številko pooblaščenca ali
 pooblastitelja, ki je poslovni subjekt, poslovni register pa posreduje podatek
@@ -1074,9 +1073,9 @@ EMŠO in številka zdravstvenega zavarovanja preverita v evidenci Zavoda
 za zdravstveno zavarovanje Slovenije, podatek o ujemanju pa se prenese v
 centralno storitev za spletno prijavo in elektronski podpis,
 -       
-EMŠO in številka osebne izkaznice preverita v evidenci izdanih osebnih izkaznic,
-podatek o ujemanju pa se prenese v centralno storitev za spletno prijavo in
-elektronski podpis,
+EMŠO in številka osebne izkaznice preverita v evidenci izdanih osebnih
+izkaznic, podatek o ujemanju pa se prenese v centralno storitev za spletno
+prijavo in elektronski podpis,
 -       
 EMŠO in številka potne listine preverita v evidenci izdanih potnih
 listin, podatek o ujemanju pa se prenese v centralno storitev za spletno
@@ -1089,8 +1088,9 @@ spletno prijavo in elektronski podpis.
 vseh uradnih evidencah, v katerih se preverjanje izvaja, je posameznik
 seznanjen le z dejstvom o neujemanju.
 (3) Če se vneseni podatki iz prvega odstavka tega člena
-ujemajo, se v centralni storitvi za spletno prijavo in elektronski podpis za nadaljnje
-prijave posameznika hranita njegovo uporabniško ime in davčna številka.
+ujemajo, se v centralni storitvi za spletno prijavo in elektronski podpis za
+nadaljnje prijave posameznika hranita njegovo uporabniško ime in davčna
+številka.
 (4) Posameznik lahko kadarkoli zahteva izbris svojega
 shranjenega uporabniškega imena in davčne številke. Podatka o shranjenem
 uporabniškem imenu in davčni številki se hranita še pet let po izvedeni zahtevi
@@ -1099,8 +1099,9 @@ za izbris podatkov ali po zadnji uporabi uporabniškega imena.
 49. člen
 (pristojni organi za elektronsko identifikacijo)
 (1) Za priglasitev shem elektronske identifikacije v skladu s
-prvim odstavkom 9. člena in 12. členom Uredbe 910/2014/EU je pristojna Služba
-Vlade Republike Slovenije, pristojna za informacijsko družbo.
+prvim odstavkom 9. člena in 12. členom Uredbe 910/2014/EU je pristojno
+ministrstvo, pristojno za zagotavljanje centralne storitve za spletno prijavo
+in elektronski podpis.
 (2) Za varnostno sodelovanje v skladu z 10. členom Uredbe
 910/2014/EU je pristojna inšpekcija za informacijsko družbo.
 (3) Za shemo elektronske identifikacije iz prvega odstavka
@@ -1118,9 +1119,8 @@ podpis.
 (6) Nadzorni organ za elektronsko identifikacijo je inšpekcija
 za informacijsko družbo.
 (7) Za vzpostavitev in vzdrževanje interoperabilnostnega
-okvira v skladu z 12. členom Uredbe 910/2014/EU je pristojno ministrstvo,
-pristojno za zagotavljanje centralne storitve za spletno prijavo in elektronski
-podpis.
+okvira v skladu z 12. členom Uredbe 910/2014/EU je pristojno ministrstvo, pristojno
+za zagotavljanje centralne storitve za spletno prijavo in elektronski podpis.
 50. člen
 (pristojnosti nadzornega organa za elektronsko
 identifikacijo)
@@ -1287,10 +1287,10 @@ oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja
 dejavnost, dejavnost še naprej opravlja, čeprav mu je nadzorni organ delno ali
 v celoti prepovedal opravljanje dejavnosti.
 (7) Z globo od 1.000 do 5.000 eurov se kaznuje odgovorna
-oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika,
-odgovorna oseba posameznika, ki samostojno opravlja dejavnost, ali odgovorna
-oseba v državnem organu ali v samoupravni lokalni skupnosti, ki stori prekršek
-iz prejšnjega odstavka.
+oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika, odgovorna
+oseba posameznika, ki samostojno opravlja dejavnost, ali odgovorna oseba v
+državnem organu ali v samoupravni lokalni skupnosti, ki stori prekršek iz
+prejšnjega odstavka.
 55. člen
 (prekrški v javnem sektorju)
 (1) Z globo od 2.000 do 10.000 eurov se kaznuje pravna oseba,
@@ -1317,13 +1317,13 @@ Uredbe 910/2014/EU, pa za uporabo spletne storitve, ki jo zagotavlja organ
 javnega sektorja ali se zagotavlja v njegovem imenu, zahteva napredni
 elektronski podpis (prvi odstavek 27. člena Uredbe 910/2014/EU);
 5.     
-ne prizna naprednih elektronskih podpisov, ki temeljijo na
-kvalificiranem potrdilu, in kvalificiranih elektronskih podpisov, ki so vsaj v
-formatih ali uporabljajo metode, ki so opredeljene v izvedbenih aktih iz petega
-odstavka 27. člena Uredbe 910/2014/EU, pa za uporabo spletne storitve, ki jo
-zagotavlja organ javnega sektorja ali se zagotavlja v njegovem imenu, zahteva
-napredni elektronski podpis, ki temelji na kvalificiranem potrdilu (drugi
-odstavek 27. člena Uredbe 910/2014/EU);
+ne prizna naprednih elektronskih podpisov, ki temeljijo na kvalificiranem
+potrdilu, in kvalificiranih elektronskih podpisov, ki so vsaj v formatih ali
+uporabljajo metode, ki so opredeljene v izvedbenih aktih iz petega odstavka 27.
+člena Uredbe 910/2014/EU, pa za uporabo spletne storitve, ki jo zagotavlja
+organ javnega sektorja ali se zagotavlja v njegovem imenu, zahteva napredni
+elektronski podpis, ki temelji na kvalificiranem potrdilu (drugi odstavek 27.
+člena Uredbe 910/2014/EU);
 6.     
 ne prizna naprednih elektronskih žigov, naprednih elektronskih žigov, ki
 temeljijo na kvalificiranem potrdilu za elektronske žige, in kvalificiranih
@@ -1337,9 +1337,9 @@ ne prizna naprednih elektronskih žigov, ki temeljijo na kvalificiranem
 potrdilu, in kvalificiranih elektronskih žigov, ki so vsaj v formatih ali
 uporabljajo metode, ki so opredeljene v izvedbenih aktih iz petega odstavka 37.
 člena Uredbe 910/2014/EU, pa za uporabo spletne storitve, ki jo zagotavlja
-organ javnega sektorja ali se zagotavlja v njegovem imenu, zahteva napredni
-elektronski žig, ki temelji na kvalificiranem potrdilu (drugi odstavek 37.
-člena Uredbe 910/2014/EU).
+organ javnega sektorja ali se zagotavlja v njegovem imenu, zahteva napredni elektronski
+žig, ki temelji na kvalificiranem potrdilu (drugi odstavek 37. člena Uredbe
+910/2014/EU).
 (2) Z globo od 1.000 do 4.000 eurov se za prekršek iz
 prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki
 samostojno opravlja dejavnost.
@@ -1377,9 +1377,9 @@ in avtentikacije za dostop do elektronskih storitev v javnem sektorju iz 14.
 člena tega zakona uporablja kvalificirano potrdilo za elektronski podpis še pet
 let po uveljavitvi tega zakona, če:
 -       
-je kvalificirano potrdilo izdal ponudnik kvalificiranih storitev
-zaupanja, ki je bil ob uveljavitvi zakona registriran v Republiki Sloveniji in
-vpisan v nacionalni zanesljivi seznam,
+je kvalificirano potrdilo izdal ponudnik kvalificiranih storitev zaupanja,
+ki je bil ob uveljavitvi zakona registriran v Republiki Sloveniji in vpisan v
+nacionalni zanesljivi seznam,
 -       
 je bilo kvalificirano potrdilo izdano tudi za namen avtentikacije in
 -       
@@ -1457,3 +1457,9 @@ Določba 1. člena tega zakona se začne uporabljati
 (Uradni list RS, št. 113/05 – uradno prečiščeno besedilo, 89/07 – odl. US,
 126/07 – ZUP-E, 48/09, 8/10 – ZUP-G, 8/12 – ZVRS-F, 21/12, 47/13, 12/14, 90/14,
 51/16, 36/21 in 82/21).«.
+
+Zakon o spremembah in dopolnitvah Zakona o državni
+upravi – ZDU-1O (Uradni list RS, št. 18/23) vsebuje naslednjo končno določbo:
+»59. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

@@ -13,9 +13,9 @@ nacionalni organ), enotne kontaktne točke za informacijsko varnost (v
 nadaljnjem besedilu: enotna kontaktna točka), nacionalne skupine za obravnavo
 incidentov s področja varnosti elektronskih omrežij in informacij (v nadaljnjem
 besedilu: nacionalni CSIRT) in skupine za obravnavo incidentov s področja
-varnosti elektronskih omrežij in informacij organov državne uprave (v nadaljnjem
-besedilu: CSIRT organov državne uprave) na področju zagotavljanja informacijske
-varnosti.
+varnosti elektronskih omrežij in informacij organov državne uprave (v
+nadaljnjem besedilu: CSIRT organov državne uprave) na področju zagotavljanja
+informacijske varnosti.
 2. člen
 (namen in področje uporabe zakona)
 (1) Namen zakona je ureditev področja informacijske varnosti in
@@ -74,10 +74,9 @@ okolja pred nedovoljenim dostopom, uporabo, razkritjem, motenjem, spreminjanjem
 ali uničenjem, z namenom zagotavljanja zaupnosti, avtentičnosti, celovitosti in
 razpoložljivosti.
 8.     
-Izvajalec bistvenih storitev je javni ali zasebni subjekt, ki spada v
-katero od področij, navedenih v 5. členu tega zakona, in izpolnjuje merila,
-določena v 7. členu tega zakona, ter dodatna področna merila, določena s
-predpisi.
+Izvajalec bistvenih storitev je javni ali zasebni subjekt, ki spada v katero
+od področij, navedenih v 5. členu tega zakona, in izpolnjuje merila, določena v
+7. členu tega zakona, ter dodatna področna merila, določena s predpisi.
 9.     
 Kibernetska grožnja je možnost zlonamernega poskusa poškodovanja ali
 prekinitve računalniškega omrežja, sistema, storitev in podatkov.
@@ -86,8 +85,9 @@ Kibernetska obramba je celota ukrepov in dejavnosti države, s katerimi
 se odvrača, onemogoča, preprečuje ali odbija kibernetske napade v
 informacijskem okolju.
 11.  
-Kibernetska varnost je sposobnost zaščititi, varovati in braniti kibernetski
-prostor pred kibernetskimi grožnjami, incidenti in kibernetskimi napadi.
+Kibernetska varnost je sposobnost zaščititi, varovati in braniti
+kibernetski prostor pred kibernetskimi grožnjami, incidenti in kibernetskimi
+napadi.
 12.  
 Kibernetski napad je napad prek kibernetskega prostora z namenom
 zlonamernega uničevanja, izpostavljanja, nadzorovanja ali spreminjanja,
@@ -184,8 +184,8 @@ poklicne dejavnosti) oziroma trgovcem (vsaka fizična ali pravna oseba v zasebni
 ali javni lasti, ki sama ali prek osebe, ki nastopa v njenem imenu ali po
 njenem naročilu, deluje za namene v zvezi s svojo trgovsko, poslovno, obrtno
 ali poklicno dejavnostjo) omogoča, da na spletišču spletne tržnice ali na
-spletišču trgovca, ki uporablja računalniške storitve spletne tržnice, s
-trgovci sklenejo pogodbe o spletni prodaji ali pogodbe o spletnih storitvah.
+spletišču trgovca, ki uporablja računalniške storitve spletne tržnice, s trgovci
+sklenejo pogodbe o spletni prodaji ali pogodbe o spletnih storitvah.
 32.  
 Spletni iskalnik je digitalna storitev, ki uporabnikom na podlagi
 poizvedbe o katerikoli temi v obliki ključne besede, fraze ali drugega vnosa
@@ -198,9 +198,9 @@ standardizacijo za večkratno ali stalno uporabo.
 Stičišče omrežij je omrežna zmogljivost, ki omogoča medsebojno povezavo
 več kot dveh neodvisnih avtonomnih sistemov, predvsem zaradi izmenjave
 internetnega prometa in zagotavlja medsebojno povezavo le avtonomnih sistemov
-ter omogoča izmenjavo internetnega prometa med katerimakoli sodelujočima avtonomnima
-sistemoma, brez prehoda prek tretjega avtonomnega sistema, prav tako pa ne
-spreminja takšnega prometa ali kako drugače posega vanj.
+ter omogoča izmenjavo internetnega prometa med katerimakoli sodelujočima
+avtonomnima sistemoma, brez prehoda prek tretjega avtonomnega sistema, prav
+tako pa ne spreminja takšnega prometa ali kako drugače posega vanj.
 35.  
 Storitev informacijske družbe je katerakoli storitev, ki se običajno
 opravi odplačno, na daljavo (storitev se opravi, ne da bi bile stranke sočasno
@@ -237,12 +237,18 @@ II. Zavezanci
 -       
 izvajalci bistvenih storitev,
 -       
-ponudniki digitalnih storitev in
+ponudniki digitalnih storitev,
 -       
 organi državne uprave, ki upravljajo z informacijskimi sistemi in deli
 omrežja oziroma izvajajo informacijske storitve, nujne za nemoteno delovanje
 države ali za zagotavljanje nacionalne varnosti (v nadaljnjem besedilu: organi
-državne uprave).
+državne uprave), in
+-       
+državni organi, organi lokalnih skupnosti, javne agencije in nosilci
+javnih pooblastil ter drugi subjekti, ki niso organi državne uprave iz prejšnje
+alineje ali izvajalci bistvenih storitev iz prve alineje tega odstavka in se
+povezujejo s centralnim državnim informacijsko-komunikacijskim omrežjem oziroma
+sistemom (v nadaljnjem besedilu: povezani subjekti).
 (2) Izvajalci bistvenih storitev so subjekti, ki delujejo na
 naslednjih področjih:
 1.     
@@ -419,14 +425,21 @@ nadzornih informacijskih sistemov in delov omrežja ter pripadajočih podatkov i
 (4) Če ima izvajalec bistvenih storitev za zagotavljanje
 varnosti svojih omrežij in informacijskih sistemov že izdelano varnostno
 dokumentacijo na podlagi drugih predpisov, jo dopolni skladno s tem zakonom.
-(5) Izvajalci bistvenih storitev za namen obvladovanja
-incidentov, skladno z analizo obvladovanja tveganj z oceno sprejemljive ravni
-tveganj in ob upoštevanju stanja tehnike zagotovijo tudi ohranjanje dnevniških
-zapisov o delovanju svojih ključnih, krmilnih ali nadzornih informacijskih
-sistemov ali delov omrežja, za obdobje šestih mesecev. Ohranjanje dnevniških
-zapisov se zagotavlja na ozemlju Republike Slovenije, razen za področja
-digitalne infrastrukture, bančništva in infrastrukture finančnega trga, glede
-katerih se lahko zagotavlja na ozemlju EU.
+(5) Izvajalci bistvenih storitev za namen obvladovanja in
+preprečevanja incidentov, skladno z analizo obvladovanja tveganj z oceno
+sprejemljive ravni tveganj in ob upoštevanju stanja tehnike zagotovijo tudi
+ohranjanje dnevniških zapisov o delovanju svojih ključnih, krmilnih ali
+nadzornih informacijskih sistemov ali delov omrežja, za obdobje šestih mesecev,
+lahko pa tudi za daljše obdobje, kadar iz analize obvladovanja tveganj in ocene
+sprejemljive ravni tveganj izhaja, da bi bilo tveganja ustrezno obvladovati z
+daljšo hrambo dnevniških zapisov. Ohranjanje dnevniških zapisov se zagotavlja
+na ozemlju Republike Slovenije, razen za področja digitalne infrastrukture,
+bančništva in infrastrukture finančnega trga, glede katerih se lahko zagotavlja
+na ozemlju EU.
+(6) Dnevniški zapisi o delovanju ključnih, krmilnih ali
+nadzornih informacijskih sistemov ali delov omrežja iz prejšnjega odstavka
+morajo biti hranjeni na način, ki zagotavlja njihovo avtentičnost, celovitost
+in razpoložljivost v primeru incidentov.
 13. člen
 (priglasitev incidentov)
 (1) Izvajalci bistvenih storitev nacionalnemu CSIRT brez
@@ -444,8 +457,7 @@ trajanje incidenta in
 geografska razširjenost, kar zadeva območje, na katerega incident
 vpliva.
 (2) Priglasitelj mora ob prijavi incidenta poskrbeti za
-ustrezno zavarovanje dnevniških zapisov oziroma revizijskih sledi, če te
-obstajajo.
+ustrezno zavarovanje dnevniških zapisov oziroma revizijskih sledi, če te obstajajo.
 (3) Nacionalni CSIRT o incidentu obvesti pristojni nacionalni
 organ, ki vodi seznam incidentov iz tretjega odstavka 25. člena tega zakona.
 Pristojni nacionalni organ o incidentu, ki bi lahko imel večji medpodročni
@@ -635,19 +647,25 @@ odstavka tega člena.
 (4) Če ima organ državne uprave za zagotavljanje varnosti svojih
 omrežij in informacijskih sistemov že izdelano varnostno dokumentacijo na
 podlagi drugih predpisov, jo dopolni skladno s tem zakonom.
-(5) Organi državne uprave za namen obvladovanja incidentov, skladno
-z analizo obvladovanja tveganj z oceno sprejemljive ravni tveganj, ki jo
-izvedejo ob upoštevanju stanja tehnike, zagotovijo tudi ohranjanje dnevniških
-zapisov o delovanju svojih informacijskih sistemov ali delov omrežja za obdobje
-šestih mesecev. Ohranjanje teh dnevniških zapisov mora biti zagotovljeno na
-ozemlju Republike Slovenije.
+(5) Organi državne uprave za namen obvladovanja in
+preprečevanja incidentov, skladno z analizo obvladovanja tveganj z oceno sprejemljive
+ravni tveganj, ki jo izvedejo ob upoštevanju stanja tehnike, zagotovijo tudi
+ohranjanje dnevniških zapisov o delovanju svojih informacijskih sistemov ali
+delov omrežja za obdobje šestih mesecev, lahko pa tudi za daljše obdobje, kadar
+iz analize obvladovanja tveganj in ocene sprejemljive ravni tveganj izhaja, da
+bi bilo tveganja ustrezno obvladovati z daljšo hrambo dnevniških zapisov.
+Ohranjanje teh dnevniških zapisov mora biti zagotovljeno na ozemlju Republike
+Slovenije.
+(6) Dnevniški zapisi iz prejšnjega odstavka morajo biti
+hranjeni na način, ki zagotavlja njihovo avtentičnost, celovitost in
+razpoložljivost v primeru incidentov.
 18. člen
 (priglasitev incidentov)
 (1) Organi državne uprave brez nepotrebnega odlašanja CSIRT
 organov državne uprave priglasijo incidente s pomembnim vplivom na neprekinjeno
 izvajanje storitev organov državne uprave, tisti organi državne uprave, ki
-imajo lastne zmogljivosti vsaj na ravni varnostno operativnega centra, pa pristojnemu
-nacionalnemu organu. Pri določitvi pomembnosti vpliva incidenta upoštevajo
+imajo lastne zmogljivosti vsaj na ravni varnostno operativnega centra, pa
+pristojnemu nacionalnemu organu. Pri določitvi pomembnosti vpliva incidenta upoštevajo
 zlasti:
 -       
 število uporabnikov, ki jih je prizadela motnja pri zagotavljanju storitve
@@ -678,6 +696,44 @@ nacionalni organ upošteva ravnotežje med interesom javnosti, da je obveščena
 nevarnostih, na eni strani ter morebitnim negativnim vplivom takšne objave na
 preiskovanje ali pregon kaznivih dejanj, javni red in mir, nacionalno varnost
 in obrambo države na drugi strani.
+V.a Informacijska varnost povezanih subjektov
+18.a člen
+(obveznosti povezanih subjektov)
+(1) Povezani subjekti so zavezani za izpolnjevanje
+obveznosti po tem zakonu, in sicer za:
+-       
+določitev kontaktne osebe za informacijsko varnost in njenega namestnika
+ter za posredovanje njunih kontaktnih podatkov pristojnemu nacionalnemu organu
+in vsakokratnih sprememb teh podatkov v 15 delovnih dneh od njihovega nastanka,
+-       
+pripravo analize obvladovanja tveganj informacijske varnosti z oceno
+sprejemljive ravni tveganj,
+-       
+sprejetje in izvajanje minimalnega obsega varnostnih ukrepov za
+zagotavljanje celovitosti, zaupnosti in razpoložljivosti omrežja in
+informacijskih sistemov, ki upoštevajo posebne potrebe delovnega področja
+povezanega subjekta, ter
+-       
+pripravo navodil in postopkov za obvladovanje incidentov informacijske
+varnosti s protokolom obveščanja CSIRT organov državne uprave, ki mu priglašajo
+incidente z možnim vplivom na centralno državno informacijsko-komunikacijsko
+omrežje oziroma sistem (v nadaljnjem besedilu: centralni informacijsko-komunikacijski
+sistem).
+(2) Vlada podrobneje določi način izvajanja obveznosti
+iz prejšnjega odstavka in minimalni obseg varnostnih ukrepov povezanih
+subjektov glede informacijske varnosti ter metodologijo za pripravo analize
+obvladovanja tveganj iz druge alineje prejšnjega odstavka.
+(3) V zvezi s priglasitvijo incidentov povezanih subjektov
+CSIRT organov državne uprave se smiselno uporabljajo tretji, četrti, peti in
+šesti odstavek 18. člena tega zakona.
+(4) Centralni informacijsko-komunikacijski sistem je
+osrednji državni informacijsko-komunikacijski sistem v upravljanju ministrstva,
+pristojnega za upravljanje informacijsko-komunikacijskih sistemov, namenjen
+povezovanju lokalnih omrežij organov državne uprave in drugih subjektov za
+namene izvrševanja njihovih zakonskih obveznosti ter dostopu do skupnih
+informacijskih rešitev in informacijsko-komunikacijske infrastrukture preko
+centraliziranega upravljanja in nadzora. Centralni informacijsko-komunikacijski
+sistem uporabnikom zagotavlja tudi varen dostop do interneta.
 VI. Standardizacija in prostovoljna priglasitev
 19. člen
 (standardizacija)
@@ -689,8 +745,8 @@ specifikacij, pomembnih za varnost omrežij in informacijskih sistemov, te
 informacije objavlja na svoji spletni strani.
 20. člen
 (prostovoljna priglasitev)
-(1) Subjekti, ki niso bili določeni kot zavezanci po tem
-zakonu, lahko prostovoljno priglasijo incidente, ki imajo pomemben vpliv na
+(1) Subjekti, ki niso bili določeni kot zavezanci po tem zakonu,
+lahko prostovoljno priglasijo incidente, ki imajo pomemben vpliv na
 neprekinjeno izvajanje storitev, ki jih zagotavljajo. Pri tem subjekti javnega
 sektorja, ki niso organi državne uprave iz 9. člena tega zakona, ravnajo v
 skladu s postopkom iz 18. člena tega zakona, subjekti zasebnega sektorja pa
@@ -763,8 +819,10 @@ njegovih posledic. Zavezancu se pisni odpravek ustne odločbe vroči čim prej,
 vendar najkasneje v roku 48 ur po ustni odločbi.
 (5) Ukrepi, izdani na podlagi prejšnjega odstavka, se
 določijo v takšnem obsegu in za toliko časa, kot je nujno potrebno za dosego
-namena iz prejšnjega odstavka. Pritožba zoper odločbo iz prejšnjega odstavka ne
-zadrži njene izvršitve.
+namena iz prejšnjega odstavka. Zoper odločbo iz prejšnjega odstavka ni
+dovoljena pritožba, dovoljen pa je upravni spor. Tožba v upravnem sporu se
+vloži na sedežu upravnega sodišča Republike Slovenije. Postopek je nujen in
+prednosten.
 (6) Pristojni nacionalni organ o ukrepih iz četrtega odstavka
 tega člena obvesti vlado in SNAV.
 22. člen
@@ -774,9 +832,9 @@ informacijskih sistemov (v nadaljnjem besedilu: stanje povečane ogroženosti) j
 stanje, ko je podana velika verjetnost realizacije težjega ali kritičnega
 incidenta iz prvega odstavka oziroma kibernetskega napada iz drugega odstavka
 prejšnjega člena v 72 urah od zaznave takšne verjetnosti.
-(2) Pristojni nacionalni organ glede na podatke in informacije,
-s katerimi razpolaga, in v sodelovanju s preostalimi pristojnimi organi oceni,
-ali gre za stanje povečane ogroženosti iz prejšnjega odstavka.
+(2) Pristojni nacionalni organ glede na podatke in
+informacije, s katerimi razpolaga, in v sodelovanju s preostalimi pristojnimi
+organi oceni, ali gre za stanje povečane ogroženosti iz prejšnjega odstavka.
 (3) Pristojni nacionalni organ mora o stanju povečane
 ogroženosti zaradi verjetnosti realizacije kritičnega incidenta ali
 kibernetskega napada iz prvega odstavka tega člena nemudoma obvestiti vlado in
@@ -792,26 +850,31 @@ Zavezancu se pisni odpravek ustne odločbe vroči čim prej, vendar najkasneje v
 roku 48 ur po ustni odločbi.
 (5) Ukrepi, izdani na podlagi prejšnjega odstavka, se
 določijo v takšnem obsegu in za toliko časa, kot je nujno potrebno za dosego
-namena iz prejšnjega odstavka. Pritožba zoper odločbo ne zadrži njene
-izvršitve.
+namena iz prejšnjega odstavka. Zoper odločbo iz prejšnjega odstavka ni
+dovoljena pritožba, dovoljen pa je upravni spor. Tožba v upravnem sporu se
+vloži na sedežu upravnega sodišča Republike Slovenije. Postopek je nujen in
+prednosten.
 (6) Pristojni nacionalni organ o ukrepih iz četrtega odstavka
 tega člena obvesti vlado in SNAV.
 23. člen
 (obveščanje javnosti)
 Če je v zvezi s sprejetimi ukrepi iz 21. ali prejšnjega člena
-tega zakona potrebno tudi obveščanje javnosti, pristojni nacionalni organ skupaj
-s službo vlade, pristojno za komuniciranje z javnostjo, pripravi sporočilo za
-javno objavo, ki ga mediji smejo objaviti le v nespremenjeni obliki.
+tega zakona potrebno tudi obveščanje javnosti, pristojni nacionalni organ
+skupaj s službo vlade, pristojno za komuniciranje z javnostjo, pripravi
+sporočilo za javno objavo, ki ga mediji smejo objaviti le v nespremenjeni
+obliki.
 24. člen
 (kibernetska obramba)
 (1) Kibernetsko obrambo usklajujejo in izvajajo pristojni
 nacionalni organ, nacionalni CSIRT in CSIRT organov državne uprave ter
-ministrstvo, pristojno za obrambo, policija, Slovenska obveščevalno-varnostna
+ministrstvo, pristojno za obrambo,  ministrstvo, pristojno za upravljanje
+informacijsko-komunikacijskih sistemov, policija, Slovenska obveščevalno-varnostna
 agencija (v nadaljnjem besedilu: SOVA) in drugi nacionalni organi skladno s
 svojimi pristojnostmi pri zagotavljanju nacionalne varnosti.
 (2) Pristojni organi iz prejšnjega odstavka zagotavljajo
 ustrezne zmogljivosti kibernetske obrambe v svojem kibernetskem prostoru. Pri
-tem ministrstvo, pristojno za javno upravo, ministrstvo, pristojno za obrambo,
+tem pristojni nacionalni organ, ministrstvo, pristojno za upravljanje
+informacijsko-komunikacijskih sistemov, ministrstvo, pristojno za obrambo,
 ministrstvo, pristojno za zunanje zadeve, ter policija in SOVA stalno
 spremljajo stanje in odzive na dogodke v kibernetskem prostoru.
 (3) Za namen kibernetske obrambe organi iz prvega in
@@ -855,14 +918,14 @@ sprejete za preprečitev ponavljanja oziroma za zmanjšanje tveganja pojava
 incidenta ali napada.
 (4) Nacionalni CSIRT in CSIRT organov državne uprave za namen
 preprečevanja in odzivanja na incidente ter kibernetske napade vodita seznam
-incidentov in kibernetskih napadov s podatki iz prejšnjega odstavka za
-incidente, ki jih obravnavata.
+incidentov in kibernetskih napadov s podatki iz prejšnjega odstavka za incidente,
+ki jih obravnavata.
 (5) Pristojni nacionalni organ za namen ustrezne določitve
-izvajalcev bistvenih storitev in organov državne uprave ter odzivanja na
-incidente in kibernetske napade vodi tudi seznam bistvenih storitev ter seznam
-informacijskih sistemov, delov omrežja in informacijskih storitev organov
-državne uprave, nujnih za nemoteno delovanje države ali za zagotavljanje nacionalne
-varnosti.
+izvajalcev bistvenih storitev in organov državne uprave ter preprečevanja in
+odzivanja na incidente in kibernetske napade vodi tudi seznam bistvenih
+storitev ter seznam informacijskih sistemov, delov omrežja in informacijskih
+storitev izvajalcev bistvenih storitev in organov državne uprave, nujnih za
+nemoteno delovanje države ali za zagotavljanje nacionalne varnosti.
 (6) Pristojni nacionalni organ in nacionalni CSIRT ter CSIRT
 organov državne uprave na podlagi podatkov iz tretjega in četrtega odstavka
 tega člena za statistične namene in namene seznanjanja javnosti dvakrat letno
@@ -889,8 +952,8 @@ opredelitev ukrepov v zvezi s pripravljenostjo, odzivanjem in ponovno
 vzpostavitvijo informacijske varnosti, vključno s sodelovanjem med javnim in
 zasebnim sektorjem;
 4.     
-opredelitev programov izobraževanja, ozaveščanja in usposabljanja v
-zvezi s strategijo;
+opredelitev programov izobraževanja, ozaveščanja in usposabljanja v zvezi
+s strategijo;
 5.     
 opredelitev načrtov raziskav in razvoja v zvezi s strategijo;
 6.     
@@ -965,7 +1028,24 @@ pripravlja predloge predpisov s področja informacijske in kibernetske
 varnosti;
 18.  
 izvaja naloge nacionalnega certifikacijskega organa za kibernetsko
-varnost.
+varnost;
+19.  
+določi enotno informacijsko varnostno politiko, razen za
+informacijsko-komunikacijske sisteme, namenjene področju obrambe, varstva pred
+naravnimi in drugimi nesrečami, policije, internega informacijskega sistema
+notranjih zadev, obveščevalno-varnostne dejavnosti, zunanjih zadev, preprečevanja
+in odkrivanja pranja denarja in financiranja terorizma ter opravljanja
+plačilnega prometa za proračunske uporabnike.
+(3) Pristojni nacionalni organ je pristojen za načrtovanje in
+upravljanje proračunskih virov na področju informacijske varnosti v državni
+upravi, razen za izvajanje tehničnih nalog informacijske varnosti oziroma
+kibernetske obrambe pri upravljanju centralnega informacijsko-komunikacijskega
+sistema oziroma upravljanju informacijsko-komunikacijskih sistemov, namenjenih
+področju obrambe, varstva pred naravnimi in drugimi nesrečami, policije,
+internega informacijskega sistema notranjih zadev, obveščevalno-varnostne
+dejavnosti, zunanjih zadev, preprečevanja in odkrivanja pranja denarja in
+financiranja terorizma ter opravljanja plačilnega prometa za proračunske
+uporabnike.
 28. člen
 (nacionalni CSIRT)
 (1) Nacionalni CSIRT je odzivni center za obravnavo
@@ -1002,37 +1082,61 @@ neprekinjenega poslovanja skladno z Direktivo 2016/1148/ES.
 organizacijska enota pristojnega nacionalnega organa.
 (2) CSIRT organov državne uprave poleg drugih nalog,
 določenih s tem zakonom, izvaja še naslednje naloge:
--       
-sprejema, obravnava in ocenjuje priglasitve incidentov, prejete od
-zavezancev, za katere je pristojen, ter te podatke evidentira, hrani in varuje;
--       
+1.     
+sprejema priglasitve incidentov, obravnava ter ocenjuje incidente
+informacijske varnosti v državni upravi in se odziva nanje ter podatke o tem
+evidentira, hrani in varuje;
+2.     
 zavezancem, za katere je pristojen, nudi metodološko podporo, pomoč in
-sodelovanje ob pojavu incidenta;
--       
-sodeluje z nacionalnim CSIRT in s pristojnim nacionalnim organom ter
-jima na poziv na varen način nudi informacije o izvajanju svojih pristojnosti
-na podlagi tega zakona;
--       
-objavlja opozorila o tveganjih in ranljivostih na področju informacijske
-varnosti organov državne uprave.
+sodelovanje pri pojavitvi incidenta;
+3.     
+spremlja in se odziva na incidente v organih državne uprave in povezanih
+subjektih;
+4.     
+opozarja, obvešča ter razširja informacije o tveganjih in incidentih
+informacijske varnosti v državni upravi in povezanih subjektih ter objavlja
+opozorila o tveganjih in ranljivostih na področju informacijske varnosti;
+5.     
+opravlja dinamične analize tveganja in incidentov informacijske varnosti
+ter spremlja razmere;
+6.     
+izmenjuje informacije o incidentih informacijske varnosti s skupinami za
+odzivanje na incidente informacijske varnosti v državi in tujini;
+7.     
+sodeluje z nacionalnim CSIRT in pristojnim nacionalnim organom ter jima
+na poziv na varen način nudi informacije o izvajanju svojih pristojnosti na
+podlagi tega zakona.
+(3) CSIRT organov državne uprave je za namen učinkovitega
+izvajanja nalog informacijske in kibernetske varnosti ter kibernetske obrambe
+pooblaščen za neposredni, nujni in sorazmerni vpogled v delovanje informacijske
+infrastrukture centralnega informacijsko-komunikacijskega sistema, upravljavec
+centralnega informacijsko-komunikacijskega sistema pa mu mora to omogočiti.
+(4) Za namen pravočasnega odzivanja na kibernetske
+grožnje in preprečevanja škodljivih posledic morebitnega težjega ali kritičnega
+incidenta ter zaradi izvajanja kibernetske obrambe je CSIRT organov državne
+uprave pooblaščen, da upravljavcu centralnega informacijsko-komunikacijskega
+sistema oziroma povezanim subjektom odredi ustrezne, nujne in sorazmerne
+ukrepe, ki jih morajo ti nemudoma oziroma v postavljenem roku izvesti v svojem
+informacijsko-komunikacijskem sistemu.
 30. člen
 (sodelovanje na nacionalni ravni)
 (1) Nacionalni CSIRT in CSIRT organov državne uprave
 pristojnemu nacionalnemu organu četrtletno posredujeta poročilo o izvajanju
 svojih nalog.
-(2) Za potrebe nacionalnega sistema za zagotavljanje informacijske
-varnosti lahko pristojni nacionalni organ, nacionalni CSIRT in CSIRT organov
-državne uprave sodelujejo s subjekti v javni upravi, gospodarstvu, z
-raziskovalno-razvojnimi organizacijami, znanstvenimi institucijami, interesnimi
-združenji in posamezniki.
+(2) Za potrebe nacionalnega sistema za zagotavljanje
+informacijske varnosti lahko pristojni nacionalni organ, nacionalni CSIRT in
+CSIRT organov državne uprave sodelujejo s subjekti v javni upravi,
+gospodarstvu, z raziskovalno-razvojnimi organizacijami, znanstvenimi institucijami,
+interesnimi združenji in posamezniki.
 X. Nadzor
 31. člen
 (pristojnost, postopek in pravna sredstva)
 (1) Nadzor nad izvajanjem določb tega zakona, na njegovi
 podlagi sprejetih predpisov in nad izvajanjem upravnih odločb, izdanih na
 podlagi četrtega odstavka 21. člena in četrtega odstavka 22. člena tega zakona,
-opravljajo inšpektorji za informacijsko varnost pristojnega nacionalnega organa
-(v nadaljnjem besedilu: inšpektor).
+ter nad izvajanjem odrejenih ukrepov iz četrtega dostavka 29. člena tega
+zakona opravljajo inšpektorji za informacijsko varnost pristojnega nacionalnega
+organa (v nadaljnjem besedilu: inšpektor).
 (2) Inšpektor lahko poleg ukrepov, ki jih ima po zakonu, ki
 ureja inšpekcijski nadzor, odredi še ukrepe, določene s tem zakonom.
 (3) Inšpektor o obravnavi zadev iz prvega odstavka tega
@@ -1045,13 +1149,20 @@ osebnih podatkov.
 ni dovoljena pritožba, dovoljen pa je upravni spor. Tožba v upravnem sporu se
 vloži na sedežu Upravnega sodišča Republike Slovenije. Postopek je nujen in
 prednosten.
+(5) Inšpektor lahko v inšpekcijskem postopku na podlagi
+obrazloženega predloga zavezanca za podaljšanje rokov za odpravo nepravilnosti
+in pomanjkljivosti, ki je dan pred potekom roka za izvedbo odrejenih ukrepov,
+podaljša roke za odpravo nepravilnosti in pomanjkljivosti oziroma izvedbo
+odrejenih ukrepov, pri tem pa upošteva že izvedene aktivnosti zavezanca za
+odpravo nepravilnosti in pomanjkljivosti, objektivne okoliščine za zamudo in
+posledice za javni interes.
 32. člen
 (nadzor nad izvajalci bistvenih storitev)
 (1) Inšpektor nadzira, ali izvajalci bistvenih storitev
-izpolnjujejo svoje obveznosti iz prvega in petega odstavka 10. člena, iz 11.
-člena, iz prvega, drugega in petega odstavka 12. člena, iz prvega in drugega
-odstavka 13. člena, iz šestega odstavka 14. člena tega zakona ter iz odločb,
-izdanih na podlagi četrtega odstavka 21. člena in četrtega odstavka
+izpolnjujejo svoje obveznosti iz prvega in petega odstavka 10. člena, iz
+11. člena, iz prvega, drugega in petega odstavka 12. člena, iz prvega in
+drugega odstavka 13. člena, iz šestega odstavka 14. člena tega zakona ter iz
+odločb, izdanih na podlagi četrtega odstavka 21. člena in četrtega odstavka
 22. člena tega zakona, ter na njihovi podlagi določene ukrepe za varnost
 omrežij in informacijskih sistemov.
 (2) Inšpektor lahko od izvajalcev bistvenih storitev zahteva,
@@ -1059,8 +1170,9 @@ da predložijo informacije, potrebne za oceno varnosti njihovih omrežij in
 informacijskih sistemov, vključno z dokumentiranimi varnostnimi pravili, ter
 dokaze o učinkovitem izvajanju varnostnih pravil. Kadar inšpektor zahteva
 takšne informacije ali dokaze, navede namen te zahteve in opredeli, katere
-dodatne informacije so potrebne. Na podlagi navedenih informacij lahko izvajalcem
-bistvenih storitev izreka ukrepe za odpravo ugotovljenih pomanjkljivosti.
+dodatne informacije so potrebne. Na podlagi navedenih informacij lahko
+izvajalcem bistvenih storitev izreka ukrepe za odpravo ugotovljenih
+pomanjkljivosti.
 (3) Za dokaz o učinkovitem izvajanju varnostnih pravil iz
 prejšnjega odstavka se šteje ocena varnosti omrežij in informacijskih sistemov,
 ki jo je za izvajalca bistvenih storitev pripravil kvalificiran revizor.
@@ -1103,22 +1215,57 @@ varnost omrežij in informacijskih sistemov.
 predložijo informacije, potrebne za oceno varnosti njihovih omrežij in
 informacijskih sistemov oziroma informacijskih storitev, vključno z
 dokumentiranimi varnostnimi pravili, ter dokaze o učinkovitem izvajanju
-varnostnih pravil. Kadar inšpektor zahteva takšne informacije ali dokaze,
-navede namen te zahteve in opredeli, katere dodatne informacije so potrebne.
+varnostnih pravil. Kadar inšpektor zahteva takšne informacije ali dokaze, navede
+namen te zahteve in opredeli, katere dodatne informacije so potrebne.
 (3) Za dokaz o učinkovitem izvajanju varnostnih pravil iz
 prejšnjega odstavka se šteje ocena varnosti omrežij in informacijskih sistemov,
 ki jo je za organ državne uprave pripravil kvalificiran revizor.
 (4) Inšpektor lahko na podlagi ocene varnosti iz prejšnjega odstavka
 organov državne uprave izreka ukrepe za odpravo ugotovljenih pomanjkljivosti.
+34.a člen
+(nadzor nad povezanimi subjekti)
+(1) Inšpektor nadzira, ali povezani subjekti
+izpolnjujejo svoje obveznosti iz prve, druge, tretje in četrte alineje
+18.a člena tega zakona, iz odločb, izdanih na podlagi četrtega odstavka
+21. člena in četrtega odstavka 22. člena tega zakona, ter ali
+izvajajo na njihovi podlagi določene ukrepe za varnost omrežij in
+informacijskih sistemov ter ukrepe, odrejene na podlagi četrtega odstavka
+29. člena tega zakona.
+(2) Inšpektor lahko od povezanih subjektov zahteva, da
+predložijo informacije, potrebne za oceno varnosti njihovih omrežij in
+informacijskih sistemov oziroma informacijskih storitev, vključno z
+dokumentiranimi varnostnimi pravili, ter dokaze o učinkovitem izvajanju
+varnostnih pravil. Kadar inšpektor zahteva take informacije ali dokaze, navede
+namen te zahteve in opredeli, katere dodatne informacije so potrebne.
+(3) Za dokaz o učinkovitem izvajanju varnostnih pravil
+iz prejšnjega odstavka se šteje ocena varnosti omrežij in informacijskih
+sistemov, ki jo je za povezane subjekte pripravil kvalificirani revizor.
+(4) Inšpektor lahko na podlagi ocene varnosti iz
+prejšnjega odstavka povezanih subjektov izreka ukrepe za odpravo ugotovljenih
+pomanjkljivosti.
+34.b člen
+(nadzor nad upravljavcem centralnega
+informacijsko-komunikacijskega sistema)
+(1) Inšpektor nadzira, ali upravljavec centralnega
+informacijsko-komunikacijskega sistema izpolnjuje svoje obveznosti iz tretjega
+odstavka 29. člena tega zakona in ali izvaja ukrepe, odrejene na podlagi
+četrtega odstavka 29. člena tega zakona.
+(2) Inšpektor lahko od upravljavca centralnega
+informacijsko-komunikacijskega sistema zahteva, da predloži potrebne
+informacije za izvedbo nadzora iz prejšnjega odstavka. Kadar inšpektor zahteva
+take informacije ali dokaze, navede namen te zahteve in opredeli, katere dodatne
+informacije so potrebne.
+(3) Inšpektor lahko na podlagi ocene izpolnjevanja
+obveznosti in izvajanja ukrepov iz prvega odstavka tega člena izreka ukrepe za
+odpravo ugotovljenih pomanjkljivosti.
 35. člen
 (posebni ukrep)
 Ne glede na določbe zakona, ki ureja inšpekcijski nadzor,
 lahko inšpektor zavezancem le v skrajnem primeru in upoštevaje pomen področij
 iz drugega odstavka 5. člena tega zakona oziroma njihovega sistema ter
 dejavnosti, prepove uporabo tega sistema ali njegovega dela, dokler ni
-ugotovljena pomanjkljivost odpravljena in če s tem ukrepom ni ogrožena
-zanesljivost oskrbe na posameznem področju oziroma zagotavljanje njihovih
-storitev.
+ugotovljena pomanjkljivost odpravljena in če s tem ukrepom ni ogrožena zanesljivost
+oskrbe na posameznem področju oziroma zagotavljanje njihovih storitev.
 XI. Kazenske določbe
 36. člen
 (višina globe v hitrem prekrškovnem postopku)
@@ -1147,8 +1294,8 @@ ne izpolni obveznosti iz šestega odstavka 14. člena tega zakona,
 ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka
 21. člena tega zakona,
 7.     
-ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka 22.
-člena tega zakona.
+ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka
+22. člena tega zakona.
 (2) Z globo od 500 do 10.000 eurov se kaznuje samostojni
 podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori
 prekršek iz prejšnjega odstavka.
@@ -1188,11 +1335,56 @@ tega zakona,
 ne izpolni obveznosti iz prvega ali drugega odstavka 18. člena tega
 zakona,
 -       
-ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka 21.
-člena tega zakona,
+ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka
+21. člena tega zakona,
 -       
 ne izpolni obveznosti iz odločbe, izdane na podlagi četrtega odstavka
 22. člena tega zakona.
+39.a člen
+(prekrški povezanih subjektov)
+(1) Z globo od 500 do 10.000 eurov se za prekršek
+kaznuje pravna oseba, če:
+-       
+ne določi kontaktne osebe za informacijsko varnost in njenega namestnika
+ali ne posreduje njunih kontaktnih podatkov pristojnemu nacionalnemu organu (1.
+točka prvega odstavka 18.a člena tega zakona),
+-       
+ne pripravi analize obvladovanja tveganj informacijske varnosti z oceno
+sprejemljive ravni tveganj (2. točka prvega odstavka 18.a člena tega zakona),
+-       
+ne sprejme ali izvaja minimalnega obsega varnostnih ukrepov za
+zagotavljanje celovitosti, zaupnosti in razpoložljivosti omrežja in informacijskih
+sistemov, ki upoštevajo posebne potrebe delovnega področja povezanega subjekta
+(3. točka prvega odstavka 18.a člena tega zakona),
+-       
+ne pripravi navodil in postopkov za obvladovanje incidentov
+informacijske varnosti s protokolom obveščanja CSIRT organov državne uprave (4.
+točka prvega odstavka 18.a člena tega zakona),
+-       
+ne izvede odrejenih ukrepov CSIRT organov državne uprave v svojem
+informacijsko-komunikacijskem sistemu (četrti odstavek 29. člena tega
+zakona).
+(2) Z globo od 500 do 10.000 eurov se za prekršek iz
+prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki
+samostojno opravlja dejavnost. 
+(3) Z globo od 200 do 2.000 eurov se za prekršek iz
+prvega odstavka tega člena kaznuje odgovorna oseba pravne osebe, samostojnega podjetnika
+posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ter
+odgovorna oseba v državnem organu ali samoupravni lokalni skupnosti.
+39.b člen
+(prekrški upravljavca centralnega
+informacijsko-komunikacijskega sistema)
+Z globo od 200 do 2.000 eurov se za prekršek kaznuje
+odgovorna oseba upravljavca centralnega informacijsko-komunikacijskega sistema,
+če:
+-       
+ne omogoča vpogleda v delovanje informacijske infrastrukture centralnega
+informacijsko-komunikacijskega za CSIRT organov državne uprave (tretji odstavek
+29. člena tega zakona),
+-       
+ne izvede odrejenih ukrepov CSIRT organov državne uprave v svojem
+informacijsko-komunikacijskem sistemu (četrti odstavek 29. člena tega
+zakona).
 
 Zakon o informacijski varnosti – ZInfV (Uradni
 list RS, št. 30/18) vsebuje naslednje prehodne in
@@ -1318,6 +1510,69 @@ dostopnosti spletišč in mobilnih aplikacij)
 doda besedilo »organa, pristojnega«.
 (2) V 11. členu se v prvem, drugem in petem odstavku
 beseda »varnost« nadomesti z besedo »družbo«.
+15. člen
+(začetek veljavnosti)
+Ta zakon začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o elektronskih komunikacijah – ZEKom-2
+(Uradni list RS, št. 130/22) vsebuje naslednjo končno določbo:
+»323. člen
+(začetek veljavnosti)
+Ta zakon začne veljati trideseti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o državni
+upravi – ZDU-1O (Uradni list RS, št. 18/23) vsebuje naslednjo končno določbo:
+»59. člen
+Ta zakon začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o informacijski
+varnosti – ZInfV-B (Uradni list RS, št. 49/23) vsebuje naslednje prehodne in
+končne določbe:
+»PREHODNE IN KONČNE DOLOČBE
+12. člen
+(prehodno obdobje)
+(1) Ministrstvo, pristojno za upravljanje
+informacijsko-komunikacijskih sistemov, sporoči pristojnemu nacionalnemu organu
+podatke o povezanih subjektih v enem mesecu od uveljavitve tega zakona.
+(2) Pristojni nacionalni organ od ministrstva, pristojnega
+za upravljanje informacijsko-komunikacijskih sistemov, prevzame naloge iz
+spremenjenega drugega odstavka 29. člena zakona ter arhive, dokumentacijo,
+javne uslužbence, pravice proračunske porabe, opremo in druge zbirke podatkov
+oziroma evidence iz prevzetega delovnega področja trideseti dan od uveljavitve
+tega zakona.
+(3) Do prevzema nalog iz prejšnjega odstavka izvaja
+naloge iz novega tretjega odstavka 27. člena zakona ministrstvo, pristojno
+za upravljanje informacijsko-komunikacijskih sistemov.
+(4) Pristojni nacionalni organ uskladi splošni akt o
+notranji organizaciji in sistemizaciji delovnih mest z določbami tega zakona v
+tridesetih dneh od uveljavite tega zakona.
+(5) Povezani subjekt mora izpolniti obveznosti iz novega
+18.a člena, in sicer iz prvega odstavka:
+-       
+iz prve alineje glede določitve kontaktne osebe za informacijsko varnost
+in njenega namestnika ter posredovanja njunih kontaktnih podatkov pristojnemu
+nacionalnemu organu v tridesetih dneh od uveljavitve tega zakona,
+-       
+iz druge, tretje in četrte alineje v šestih mesecih od uveljavitve tega
+zakona.
+13. člen
+(izdaja podzakonskih
+predpisov)
+(1) Vlada izda podzakonski predpis iz novega 18.a člena
+zakona v šestdesetih dneh od uveljavitve tega zakona.
+(2) Vlada uskladi Odlok o ustanovitvi, nalogah in
+organizaciji Urada Vlade Republike Slovenije za informacijsko varnost (Uradni
+list RS, št. 114/21) s tem zakonom v enem mesecu od njegove uveljavitve.
+14. člen
+(prenehanje veljavnosti in
+podaljšanje uporabe)
+Z dnem uveljavitve tega zakona preneha veljati Uredba o
+informacijski varnosti v državni upravi (Uradni list RS, št. 29/18 in
+131/20), ki pa se uporablja do pričetka uporabe podzakonskega predpisa iz
+novega 18.a člena zakona.
 15. člen
 (začetek veljavnosti)
 Ta zakon začne veljati naslednji dan po objavi v Uradnem

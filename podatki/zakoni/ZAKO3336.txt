@@ -9,13 +9,11 @@ nadaljnjem besedilu: organi).
 (2) S tem zakonom se v pravni red Republike Slovenije
 prenašata Direktiva 2003/4/ES Evropskega parlamenta in Sveta z dne
 28. januarja 2003 o dostopu javnosti do informacij o okolju in o
-razveljavitvi Direktive Sveta 90/313/EGS (UL L št. 41 z dne 14. 2. 2003,
-str. 26) in Direktiva 2003/98/ES Evropskega parlamenta in Sveta z dne
-17. novembra 2003 o ponovni uporabi informacij javnega sektorja (UL L
-št. 345 z dne 31. 12. 2003, str. 90), zadnjič spremenjena z Direktivo
-2013/37/EU Evropskega parlamenta in Sveta z dne 26. junija 2013 o
-spremembi Direktive 2003/98/ES o ponovni uporabi informacij javnega sektorja
-(UL L št. 175 z dne 27. 6. 2013, str. 1). 
+razveljavitvi Direktive Sveta 90/313/EGS (UL L št. 41 z dne
+14. 2. 2003, str. 26) in Direktiva (EU) 2019/1024 Evropskega parlamenta in
+Sveta z dne 20. junija 2019 o odprtih podatkih in ponovni uporabi
+informacij javnega sektorja (prenovitev) (UL L št. 172 z dne 26. 6.
+2019, str. 56; v nadaljnjem besedilu: Direktiva 2019/1024/EU). 
 (3) (črtan).
 1.a člen
 (zavezani poslovni subjekti pod prevladujočim vplivom oseb
@@ -103,6 +101,25 @@ objavi na nacionalnem portalu odprtih podatkov.
 (7) Izraz metapodatek pomeni informacije, ki opisujejo zbirko
 podatkov in storitve v zvezi s podatki ter omogočajo njihovo iskanje,
 evidentiranje in uporabo.
+(8) Izraz raziskovalni podatki pomeni podatke v digitalni
+obliki, razen znanstvenih publikacij, ki se zbirajo ali ustvarjajo v okviru
+znanstvenega raziskovanja in se uporabljajo kot dokaz v raziskovalnem procesu,
+ali pa je v raziskovalni skupnosti splošno sprejeto, da so potrebni za
+potrditev ugotovitev in rezultatov raziskav.
+(9) Izraz dinamični podatki pomeni podatke v digitalni
+obliki, ki se pogosto ali v realnem času posodabljajo, zlasti zaradi svoje
+spremenljivosti ali hitre zastarelosti. Med dinamične podatke se ne uvrščajo
+podatki, ki se obdelujejo v zbirkah, ki vsebujejo posebne vrste osebnih
+podatkov.
+(10) Izraz nabori podatkov velike vrednosti pomeni podatke s
+področij geoprostora, opazovanja Zemlje, okolja, meteorologije, statistike,
+gospodarskih družb in lastništva gospodarskih družb ter mobilnosti, katerih
+ponovna uporaba je povezana s pomembnimi koristmi za družbo, okolje in
+gospodarstvo, zlasti zaradi njihove primernosti za ustvarjanje storitev in
+aplikacij z dodano vrednostjo ter novih, visokokakovostnih in dostojnih
+delovnih mest ter števila potencialnih prejemnikov storitev in aplikacij z
+dodano vrednostjo, ki temeljijo na teh naborih podatkov, in so določeni v
+predpisu iz 11. člena tega zakona.
 I.A REGISTER ZAVEZANCEV
 3.b člen
 (register zavezancev za informacije javnega značaja)
@@ -132,7 +149,8 @@ davčni številki pravne osebe;
 -       
 deležih oseb javnega prava v osnovnem kapitalu poslovnega subjekta; 
 -       
-pravni podlagi za podelitev javnega pooblastila ali izvajanje javne službe;
+pravni podlagi za podelitev javnega pooblastila ali izvajanje javne
+službe; 
 -       
 prijavitelju, če se vpis opravi na podlagi prijave; 
 -       
@@ -202,9 +220,9 @@ zavezancev)
 pristojni organizaciji posredujejo elektronsko prijavo za vpis zavezancev v
 register zavezancev iz svoje pristojnosti, in sicer za osebe javnega prava,
 izvajalce javnih služb in nosilce javnih pooblastil ter pravne osebe zasebnega
-prava, ki niso gospodarske družbe, v katerih je eden od ustanoviteljev
-ministrstvo oziroma organ samoupravne lokalne skupnosti, najkasneje v 15 dneh
-po ustanovitvi osebe javnega ali zasebnega prava oziroma od podelitve javnega
+prava, ki niso gospodarske družbe, v katerih je eden od ustanoviteljev ministrstvo
+oziroma organ samoupravne lokalne skupnosti, najkasneje v 15 dneh po
+ustanovitvi osebe javnega ali zasebnega prava oziroma od podelitve javnega
 pooblastila ali začetka izvajanja javne službe ter posredujejo elektronsko
 prijavo za izbris najkasneje v 15 dneh po prenehanju obstoja pogojev za
 zavezanost po tem zakonu. Kadar gre za zavezanca iz državne pristojnosti,
@@ -317,8 +335,7 @@ osebni podatek, katerega razkritje bi pomenilo kršitev varstva osebnih
 podatkov v skladu z zakonom, ki ureja varstvo osebnih podatkov; 
 4.     
 podatek, katerega razkritje bi pomenilo kršitev zaupnosti individualnih
-podatkov o poročevalskih enotah skladno z zakonom, ki ureja dejavnost državne
-statistike; 
+podatkov o poročevalskih enotah skladno z zakonom, ki ureja dejavnost državne statistike;
 5.     
 podatek, katerega razkritje bi pomenilo kršitev zaupnosti davčnega
 postopka ali davčne tajnosti, skladno z zakonom, ki ureja davčni postopek; 
@@ -330,9 +347,9 @@ njegovi izvedbi;
 podatek, ki je bil pridobljen ali sestavljen zaradi upravnega postopka,
 in bi njegovo razkritje škodovalo njegovi izvedbi; 
 8.     
-podatek, ki je bil pridobljen ali sestavljen zaradi pravdnega,
-nepravdnega ali drugega sodnega postopka, in bi njegovo razkritje škodovalo
-njegovi izvedbi; 
+podatek, ki je bil pridobljen ali sestavljen zaradi pravdnega, nepravdnega
+ali drugega sodnega postopka, in bi njegovo razkritje škodovalo njegovi
+izvedbi; 
 9.     
 podatek iz dokumenta, ki je v postopku izdelave, in je še predmet
 posvetovanja v organu, njegovo razkritje pa bi povzročilo napačno razumevanje
@@ -513,6 +530,36 @@ gradivo).
 (2) Ne glede na določbe šestega odstavka 6. člena tega
 zakona se ponovna uporaba arhivskega gradiva lahko zavrne iz razlogov,
 navedenih v prejšnjem odstavku.
+6.č člen
+(ponovna uporaba raziskovalnih podatkov)
+(1) Organi zagotavljajo ponovno uporabo raziskovalnih
+podatkov s posredovanjem v svetovni splet z objavo v odprtih formatih, ki
+upoštevajo formalne odprte standarde, v strojno berljivi obliki, skupaj z
+metapodatki, razen kadar bi bilo to v nasprotju z izjemami od dostopa iz 5.a
+ali 6. člena tega zakona.
+(2) Ne glede na 3. točko šestega odstavka 6. člena tega
+zakona obveznost iz prejšnjega odstavka velja tudi za izvajalce javne službe na
+področju raziskovalne dejavnosti in izvajalce javne službe na področju
+izobraževalne dejavnosti, višje od srednješolske stopnje, glede raziskovalnih
+podatkov, ki so financirani iz javnih sredstev.
+(3) Raziskovalni podatki, ki so financirani iz javnih
+sredstev ter jih raziskovalci, raziskovalne organizacije, organizacije, ki
+financirajo raziskave, ali izobraževalne organizacije, ne glede na to ali gre
+za zasebno-pravne ali javno-pravne subjekte, že odprto dostopno objavijo na
+svetovnem spletu v okviru institucionalnih ali tematskih spletnih odložišč, se
+lahko brezplačno ponovno uporabijo za pridobitne ali nepridobitne namene pod
+pogojema, da se:
+-       
+ponovna uporaba podatkov izvaja v skladu s predpisi, ki urejajo varstvo
+osebnih podatkov, in
+-       
+ob vsaki ponovni uporabi navede vir podatkov, ki je na institucionalnem
+ali tematskem spletnem odložišču naveden ob podatkih za ponovno uporabo.
+6.d člen
+(pravica izdelovalca podatkovne zbirke)
+Organ prosilcu ne sme zavrniti zahteve za ponovno uporabo iz
+razloga, da se zahteva nanaša na informacijo, zavarovano s pravico izdelovalca
+podatkovne zbirke, kadar je imetnik takšne pravice organ.
 7. člen
 (delni dostop)
 Če dokument ali njegov del le delno vsebuje informacije iz 5.a
@@ -581,8 +628,8 @@ druge informacije javnega značaja.
 prejšnjega odstavka brezplačno. 
 (3) Če za določeno področje obstaja nacionalni namenski
 portal, organi informacije objavijo na tem portalu.
-(4) Določbe tega člena ne veljajo za poslovne subjekte pod
-prevladujočim vplivom oseb javnega prava. 
+(4) Določbe tega člena ne veljajo za poslovne subjekte pod prevladujočim
+vplivom oseb javnega prava. 
 (5) Ob objavi predloga predpisa ali splošnega akta za
 izvrševanje javnih pooblastil (v nadaljnjem besedilu: akta), se z namenom
 zagotavljanja transparentnosti postopka sprejemanja akta posreduje v svetovni
@@ -591,14 +638,14 @@ pravne osebe, ki je sodelovala pri pripravi akta.
 10.a člen
 (zbiranje in posredovanje informacij javnega značaja v
 svetovni splet)
-(1) Z namenom krepitve preglednosti in odgovornosti
-upravljanja s finančnimi sredstvi, s katerimi razpolagajo zavezanci po tem
-zakonu in zaradi prevladujočega javnega interesa za razkritje podatkov o porabi
-teh sredstev, organ, pristojen za javna plačila, ustanovljen v skladu z
-zakonom, ki ureja opravljanje plačilnih storitev za proračunske uporabnike (v
-nadaljnjem besedilu: organ, pristojen za javna plačila), zbira podatke o stanju
-na računih in plačilnih transakcijah, ki so bile izvršene v breme računov
-naslednjih skupin registriranih zavezancev po tem zakonu: 
+(1) Z namenom krepitve preglednosti in odgovornosti upravljanja
+s finančnimi sredstvi, s katerimi razpolagajo zavezanci po tem zakonu in zaradi
+prevladujočega javnega interesa za razkritje podatkov o porabi teh sredstev,
+organ, pristojen za javna plačila, ustanovljen v skladu z zakonom, ki ureja
+opravljanje plačilnih storitev za proračunske uporabnike (v nadaljnjem
+besedilu: organ, pristojen za javna plačila), zbira podatke o stanju na računih
+in plačilnih transakcijah, ki so bile izvršene v breme računov naslednjih
+skupin registriranih zavezancev po tem zakonu: 
 -       
 javnih gospodarskih zavodov; 
 -       
@@ -643,8 +690,8 @@ plačilnih storitev.
 (3) Ponudniki plačilnih storitev, razen Banke Slovenije,
 organu, pristojnemu za javna plačila, brezplačno sporočajo podatke o stanju na
 računih in vseh plačilnih transakcijah, opravljenih v breme računov, ki jih
-imajo registrirani zavezanci iz prvega odstavka tega člena, na način, ki ga
-predpiše minister, pristojen za finance. 
+imajo registrirani zavezanci iz prvega odstavka tega člena, na način, ki ga predpiše
+minister, pristojen za finance. 
 (4) Organ, pristojen za javna plačila, posreduje v svetovni
 splet informacije javnega značaja o transakcijah, opravljenih s strani
 posrednih ali neposrednih proračunskih uporabnikov in registriranih zavezancev
@@ -730,11 +777,11 @@ za preteklo leto.
 – varnostno agencijo.
 10.b člen
 (zagotavljanje odprtih podatkov za ponovno uporabo)
-(1) Organi praviloma omogočajo ponovno uporabo informacij javnega
-značaja preko posredovanja v svetovni splet z objavo v odprtih formatih, ki
-upoštevajo formalne odprte standarde, v strojno berljivi obliki, skupaj z
-metapodatki, razen kadar bi to pomenilo nesorazmeren napor izven preprostega
-postopka.
+(1) Organi praviloma omogočajo ponovno uporabo informacij
+javnega značaja preko posredovanja v svetovni splet z objavo v odprtih
+formatih, ki upoštevajo formalne odprte standarde, v strojno berljivi obliki,
+skupaj z metapodatki, razen kadar bi to pomenilo nesorazmeren napor izven
+preprostega postopka.
 (2) Organi na nacionalnem portalu odprtih podatkov javnega
 sektorja (v nadaljnjem besedilu: nacionalni portal), ki ga vodi ministrstvo,
 objavijo seznam vseh zbirk podatkov iz svoje pristojnosti z metapodatki ter
@@ -750,13 +797,64 @@ osebnih podatkov in
 -       
 ob vsaki ponovni uporabi navede vir podatkov, ki je na nacionalnem
 portalu odprtih podatkov naveden ob podatkih za ponovno uporabo.
+10.c člen
+(ponovna uporaba naborov podatkov velike vrednosti)
+(1) Organi brezplačno omogočajo ponovno uporabo naborov
+podatkov velike vrednosti v odprtih formatih, ki upoštevajo formalne odprte
+standarde, v strojno berljivi obliki, skupaj z metapodatki, prek ustreznih
+vmesnikov za aplikacijsko programiranje, za zbirke, za katere tako v skladu z
+izvedbenimi akti Evropske komisije, sprejetimi na podlagi Direktive 2019/1024/EU,
+določi vlada, pa omogočijo tudi njihov masovni prenos k uporabniku. Ponovna
+uporaba se omogoči pod pogojema, da se:
+-       
+ponovna uporaba podatkov izvaja v skladu s predpisi, ki urejajo varstvo
+osebnih podatkov, in
+-       
+ob vsaki ponovni uporabi navede vir podatkov, ki je naveden ob
+objavljenih podatkih.
+(2) Obveznost iz prejšnjega odstavka ne velja za zavezance iz
+druge alineje drugega odstavka 34.a člena tega zakona.
+(3) Nacionalni portal je enotna dostopna točka do naborov
+podatkov velike vrednosti. Organi na nacionalnem portalu v katalogu vmesnikov
+za aplikacijsko programiranje objavijo seznam takšnih vmesnikov iz svoje
+pristojnosti z metapodatki in ustrezno dokumentacijo ter ustrezne spletne
+povezave, ki omogočajo prenos podatkov prek takšnih vmesnikov. Vmesniki za
+aplikacijsko programiranje, ki so objavljeni na nacionalnem portalu, se lahko
+ponovno uporabljajo pod pogoji iz prvega odstavka tega člena.
+(4) Ne glede na prvi odstavek tega člena in ne glede na prvo
+alinejo drugega odstavka 34.a člena tega zakona, lahko vlada skladno z
+izvedbenimi akti Evropske komisije, sprejetimi na podlagi Direktive
+2019/1024/EU, določi izvajalce javnih služb, ki lahko za podatkovne zbirke, ki
+jih hranijo in ki sodijo med posebne nabore podatkov velike vrednosti,
+zaračunavajo ceno za ponovno uporabo.
+10.č člen
+(ponovna uporaba dinamičnih podatkov)
+(1) Organi, ki pri izvajanju javnih nalog ustvarjajo ali
+pridobivajo dinamične podatke, omogočijo njihovo ponovno uporabo takoj po tem,
+ko jih zberejo, prek ustreznih vmesnikov za aplikacijsko programiranje, za
+zbirke, za katere tako v skladu z izvedbenimi akti Evropske komisije,
+sprejetimi na podlagi Direktive 2019/1024/EU, določi vlada, pa omogočijo tudi
+njihov masovni prenos k uporabniku.
+(2) Kadar bi dajanje dinamičnih podatkov na voljo za ponovno
+uporabo, kot je določeno v prejšnjem odstavku, presegalo finančne in tehnične
+zmogljivosti organa, kar bi imelo za posledico nesorazmeren vpliv na finančne,
+tehnične ali kadrovske vire organa, se podatki dajo na voljo za ponovno uporabo
+v časovnem okviru ali z začasnimi tehničnimi omejitvami, ki neupravičeno ne
+ovirajo izkoriščanja njihovega gospodarskega in družbenega potenciala.
 11. člen
 (predpis vlade)
 Vlada podrobneje predpiše, kaj se šteje za podatke iz
 dokumenta, ki je v postopku izdelave (9. točka prvega odstavka 6. člena tega
 zakona), način priprave in objave kataloga informacij javnega značaja (8. člen
 tega zakona), vrste informacij iz 4. in 7. točke prvega odstavka 10. člena
-tega zakona in način posredovanja informacij javnega značaja v svetovni splet.
+tega zakona in način posredovanja informacij javnega značaja v svetovni splet. Vlada
+določi tudi podatkovne zbirke, ki sodijo med nabore podatkov velike vrednosti
+(deseti odstavek 3.a člena tega zakona), podatkovne zbirke, za katere organi
+omogočijo ponovno uporabo na način masovnega prenosa k uporabniku (prvi
+odstavek 10.c in prvi odstavek 10.č člena tega zakona) in izvajalce javnih
+služb, ki lahko za podatkovne zbirke, ki jih hranijo in ki sodijo med posebne
+nabore podatkov velike vrednosti, zaračunavajo ceno za ponovno uporabo (četrti
+odstavek 10.c člena tega zakona).
 IV. POSTOPEK Z ZAHTEVO ZA DOSTOP ALI ZA PONOVNO UPORABO
 12. člen
 (zahteva)
@@ -806,9 +904,9 @@ podpis.
 17. člen
 (obvezna vsebina zahteve)
 (1) Zahteva mora vsebovati navedbo organa, kateremu se
-pošilja, osebno ime, firmo ali ime pravne osebe, navedbo o morebitnem zastopniku
-ali pooblaščencu ter naslov prosilca oziroma njegovega zastopnika ali
-pooblaščenca. 
+pošilja, osebno ime, firmo ali ime pravne osebe, navedbo o morebitnem
+zastopniku ali pooblaščencu ter naslov prosilca oziroma njegovega zastopnika
+ali pooblaščenca. 
 (2) V zahtevi za dostop do informacij javnega značaja mora
 prosilec opredeliti: 
 1.     
@@ -825,8 +923,8 @@ mora prosilec opredeliti:
 1.     
 informacijo, ki jo želi ponovno uporabiti; 
 2.     
-na kakšen način želi prevzeti vsebino zahtevane informacije (klasičen
-ali elektronski zapis ter praviloma tudi oblika in nosilec zapisa); 
+na kakšen način želi prevzeti vsebino zahtevane informacije (klasičen ali
+elektronski zapis ter praviloma tudi oblika in nosilec zapisa); 
 3.     
 za kakšen namen želi informacijo ponovno uporabiti.
 18. člen
@@ -868,8 +966,8 @@ nosilec javnih pooblastil ali izvajalec javne službe na državni ravni;
 vrhovno sodišče, če je zavezano sodišče; 
 -       
 svet samoupravne lokalne skupnosti, če je zavezan organ samoupravne
-lokalne skupnosti, oseba javnega prava, katere ustanovitelj je samoupravna
-lokalna skupnost, nosilec javnih pooblastil ali izvajalec javne službe na ravni
+lokalne skupnosti, oseba javnega prava, katere ustanovitelj je samoupravna lokalna
+skupnost, nosilec javnih pooblastil ali izvajalec javne službe na ravni
 samoupravne lokalne skupnosti; 
 -       
 organ sam, če ne gre za organe iz prejšnjih alinej. 
@@ -959,8 +1057,8 @@ ugotovi, da zahtevani podatek oziroma dokument pomeni izjemo po 5.a ali
 a26.a člen
 (stranska udeležba v postopku)
 (1) V postopku z zahtevo za dostop do informacije javnega
-značaja ali ponovno uporabo je stranka postopka samo prosilec, če je predmet
-odločanja dostop do podatkov, za katere je z zakonom določeno, da so javni. 
+značaja ali ponovno uporabo je stranka postopka samo prosilec, če je predmet odločanja
+dostop do podatkov, za katere je z zakonom določeno, da so javni. 
 (2) V postopku iz prejšnjega odstavka vsaka stranka nosi
 svoje stroške postopka. 
 (3) Določbe tega člena se ne uporabljajo za postopek z
@@ -1023,7 +1121,8 @@ pooblaščenec.
 izvršljive odločbe in sklepa o dovolitvi izvršbe. Zoper sklep o dovolitvi
 izvršbe ni pritožbe. 
 (4) Izvršba se opravi s prisilitvijo zoper organ ali poslovni
-subjekt pod prevladujočim vplivom oseb javnega prava, ki je dolžan izpolniti obveznost.
+subjekt pod prevladujočim vplivom oseb javnega prava, ki je dolžan izpolniti
+obveznost. 
 28. člen
 (prenehal
 veljati)
@@ -1072,36 +1171,46 @@ stroške. Organ zaradi ekonomičnosti ne zaračuna materialnih stroškov
 posredovanja informacij, ki ne presegajo 20 eurov (z vključenim DDV).
 34.a člen
 (cena in drugi pogoji glede ponovne uporabe informacij)
-(1) Za ponovno uporabo podatkov lahko organ zaračuna mejne
-stroške, ne sme pa zaračunati cene.
+(1) Za ponovno uporabo podatkov organ ne sme zaračunati cene,
+lahko pa zaračuna povračilo mejnih stroškov. Pri povračilu mejnih stroškov
+lahko organ upošteva stroške, ki nastanejo zaradi razmnoževanja, zagotavljanja
+in razširjanja podatkov. Kadar organ razširja podatke s stalnim ažuriranjem,
+lahko kot del mejnih stroškov upošteva tudi stroške anonimizacije osebnih podatkov
+in stroške ukrepov za varovanje zaupnih poslovnih informacij.
 (2) Ne glede na prejšnji odstavek lahko zaračunava ceno za
 ponovno uporabo:
 -       
 organ, ki mora v skladu z načrtom ali programom dela ali financiranja
 poleg proračunskih sredstev ustvariti prihodek za kritje vsaj 30 odstotkov
-svojih stroškov, povezanih z izvajanjem svojih javnih nalog, in
+svojih stroškov, povezanih z izvajanjem svojih javnih nalog, razen v zvezi s
+podatkovnimi zbirkami, ki sodijo med nabore podatkov velike vrednosti, in
 -       
 knjižnica, muzej in arhiv.
 (3) V primerih iz prejšnjega odstavka se za ponovno uporabo
 informacij zaračuna cena, ki ne sme preseči stroškov zbiranja, priprave,
-razmnoževanja in razširjanja informacij ter običajnega donosa vloženih
-sredstev. Cena mora biti stroškovno naravnana ter določena v običajnem
-knjigovodskem obdobju ter v skladu s predpisanimi knjigovodskimi pravili za
-organ. Obračunska podlaga za ceno je informacija javnega značaja.
+razmnoževanja, razširjanja, hranjenja informacij, običajnega donosa vloženih
+sredstev, stroškov anonimizacije osebnih podatkov in stroškov ukrepov za
+varovanje zaupnih poslovnih informacij. Cena mora biti stroškovno naravnana ter
+določena v običajnem knjigovodskem obdobju ter v skladu s predpisanimi
+knjigovodskimi pravili za organ. Obračunska podlaga za ceno je informacija
+javnega značaja.
 (4) Ne glede na prejšnji odstavek se v primeru prve alineje
 drugega odstavka tega člena cena za ponovno uporabo lahko zaračunava zgolj za
 pridobitni namen. Šteje se, da gre za pridobitni namen, kadar je prosilec
 gospodarska družba ali drug poslovni subjekt, ki na trgu opravlja pridobitno
 dejavnost, katerega namen ustanovitve je v ustvarjanju dobička, razen kadar
 informacije ponovno uporabi medij z namenom informiranja.
-(5) V primeru druge alineje drugega odstavka tega člena se
-lahko pri izračunu cene upošteva tudi stroške hrambe in pridobitve pravic
-informacij ali gradiva.
+(5) V primeru iz druge alineje drugega odstavka tega člena se
+lahko pri izračunu cene poleg stroškov iz tretjega odstavka tega člena upošteva
+tudi stroške ohranjanja in pridobitve pravic informacij ali gradiva, vključno z
+običajnim donosom vloženih sredstev.
 (6) O tem, da organ lahko zaračunava ceno na podlagi prve
 alineje drugega odstavka tega člena, odloči ministrstvo za obdobje dveh let, na
 podlagi predloga, ki mora biti utemeljen s številčnimi podatki iz sprejetega
 letnega vsebinskega in finančnega programa ter poročila. Pritožba organa na
-odločitev ministrstva ni dovoljena, dopusten pa je upravni spor.
+odločitev ministrstva ni dovoljena, dopusten pa je upravni spor. Ministrstvo na
+nacionalnem portalu objavi seznam organov iz prve alineje drugega odstavka tega
+člena, ki lahko zaračunavajo ceno za ponovno uporabo.
 (7) Obvezen pogoj za ponovno uporabo informacij javnega
 značaja je navedba vira. Navedba vira za muzeje in knjižnice obsega: naziv
 organa in zbirko, iz katere je informacija, za gradivo arhivov pa: ime ali
@@ -1128,7 +1237,8 @@ materialnega varstva in hrambe gradiva ali
 zagotavljanja kakovosti digitalizacije gradiva.
 (10) Šteje se, da metapodatki zavezancev za ponovno uporabo
 predstavljajo uradno besedilo z upravnega področja v smislu zakona, ki ureja
-avtorsko in sorodne pravice. Ponovna uporaba metapodatkov je brezplačna in prosta.
+avtorsko in sorodne pravice. Ponovna uporaba metapodatkov je brezplačna in
+prosta.
 35. člen
 (predpisi vlade)
 (1) Vlada po predhodnem mnenju Informacijskega pooblaščenca
@@ -1140,8 +1250,7 @@ cene iz 34.a člena.
 36. člen
 (objava stroškovnika in cene)
 (1) Vsak organ mora stroškovnik iz prejšnjega člena objaviti
-v svojem katalogu informacij javnega značaja ter ga dati na vpogled vsakemu
-prosilcu.
+v svojem katalogu informacij javnega značaja ter ga dati na vpogled vsakemu prosilcu.
 (2) Organ praviloma vse pogoje glede ponovne uporabe
 informacij, običajno ceno iz prvega odstavka 34.a člena ter obračunske podlage,
 ki jih bo upošteval pri posebnih zahtevah za ponovno uporabo informacij,
@@ -1149,9 +1258,9 @@ vnaprej posreduje v svetovni splet.
 (3) Organ je dolžan prosilca opozoriti na plačilo stroškov
 in, če prosilec to zahteva, mu mora organ vnaprej sporočiti višino stroškov, ki
 mu jih bo zaračunal za posredovanje informacij. 
-(4) Če se zahteva prosilca nanaša na informacijo večjega obsega,
-lahko organ zahteva od prosilca vnaprejšnji polog odmerjenega zneska za kritje
-stroškov posredovanja zahtevane informacije.
+(4) Če se zahteva prosilca nanaša na informacijo večjega
+obsega, lahko organ zahteva od prosilca vnaprejšnji polog odmerjenega zneska za
+kritje stroškov posredovanja zahtevane informacije.
 36.a člen
 (prepoved diskriminacije)
 (1) Cena iz 34.a člena ali drugi pogoji glede ponovne uporabe
@@ -1171,23 +1280,33 @@ izključevala ponovno uporabo informacij s strani tretjih oseb.
 podeli izključno pravico ponovne uporabe informacij, če je to neogibno potrebno
 za izvajanje javne službe ali drugih storitev v javnem interesu. Potrebnost
 izključne pravice organ redno preverja najmanj vsaka tri leta, o čemer izda
-poseben sklep. Zoper sklep organa je dovoljena pritožba. 
-(5) Organ javno objavi in posreduje Informacijskemu
+poseben sklep. Zoper sklep organa je dovoljena pritožba. Organ najmanj dva
+meseca pred začetkom učinkovanja pravice izključne uporabe na svoji spletni
+strani objavi informacije o podelitvi izključne pravice z vsemi elementi, kot
+so predpisani za objavo v evidenci podeljenih izključnih pravic.
+(5) Kadar izključna pravica ni podeljena, okoliščine primera
+pa imajo ali bi lahko imele na razpoložljivost dokumentov za ponovno uporabo
+enak učinek kot podelitev izključne pravice, organ javno objavi informacije o
+izključni ureditvi smiselno z elementi, kot so predpisani za objavo v evidenci
+podeljenih izključnih pravic, in jih posreduje Informacijskemu pooblaščencu.
+Vsakdo lahko zahteva, da organ izda sklep o tem, zakaj je izključna ureditev za
+določeno podatkovno zbirko potrebna. Zoper sklep organa je dovoljena pritožba.
+(6) Organ javno objavi in posreduje Informacijskemu
 pooblaščencu vse predpisane podatke glede podelitve in preverjanja izključne
 pravice ponovne uporabe informacij. Informacijski pooblaščenec vodi evidenco
 vseh podeljenih izključnih pravic. 
-(6) Vlada podrobneje predpiše pogoje glede ponovne uporabe
+(7) Vlada podrobneje predpiše pogoje glede ponovne uporabe
 informacij in podeljevanja izključnih pravic iz četrtega odstavka tega člena
 ter vsebino in način javnih objav ter evidence v zvezi s tem.
 36.b člen
 (izključne pravice zaradi digitalizacije informacij muzejev
 in knjižnic ter arhivskega gradiva)
 (1) Muzeji, knjižnice in arhivi lahko za namen digitalizacije
-podelijo izključno pravico do ponovne uporabe digitaliziranega gradiva, praviloma
-za največ deset let. Če je trajanje izključne pravice zaradi posebnih potreb po
-digitalizaciji gradiva daljše od deset let, se v 11. letu in nato vsakih sedem
-let preveri potrebnost takšne izključne pravice, o čemer se izda poseben sklep.
-Zoper sklep je dovoljena pritožba.
+podelijo izključno pravico do ponovne uporabe digitaliziranega gradiva,
+praviloma za največ deset let. Če je trajanje izključne pravice zaradi posebnih
+potreb po digitalizaciji gradiva daljše od deset let, se v 11. letu in nato
+vsakih sedem let preveri potrebnost takšne izključne pravice, o čemer se izda
+poseben sklep. Zoper sklep je dovoljena pritožba.
 (2) Muzej, knjižnica ali arhiv lahko podeli izključno pravico
 iz prejšnjega odstavka na podlagi javnega razpisa, pri izbiri pa ima prednost,
 kdor:
@@ -1270,11 +1389,11 @@ tega zakona in odgovorna oseba osebe javnega prava, ki v predpisanem roku ne
 sporoči pristojni organizaciji podatkov v skladu z drugim odstavkom 3.č člena
 tega zakona. 
 (8) Z globo od 700 do 1.400 eurov se kaznuje za prekršek
-posameznik in od 2.000 do 30.000 eurov se kaznuje za prekršek pravna oseba, samostojni
-podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki
-ponovno uporabi informacijo javnega značaja v pridobitne namene, za katero
-organ zaračunava ceno ali določa druge pogoje, pa ji organ take uporabe ni
-dovolil v skladu s tretjim odstavkom 22. člena tega zakona. 
+posameznik in od 2.000 do 30.000 eurov se kaznuje za prekršek pravna oseba,
+samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja
+dejavnost, ki ponovno uporabi informacijo javnega značaja v pridobitne namene,
+za katero organ zaračunava ceno ali določa druge pogoje, pa ji organ take
+uporabe ni dovolil v skladu s tretjim odstavkom 22. člena tega zakona. 
 (9) V hitrem postopku o prekršku iz petega ali osmega
 odstavka tega člena lahko pristojni organ izreče globo v katerikoli višini znotraj
 predpisanih razponov. 
@@ -1472,8 +1591,8 @@ trinajstega odstavka 10.a člena in osmega odstavka 39. člena Zakona o dostopu
 do informacij javnega značaja ter o razveljavitvi 4. člena Zakona o spremembah
 in dopolnitvah Zakona o dostopu do informacij javnega značaja (Uradni list RS,
 št. 19/15)
-spreminja 4. člen Zakona o spremembah in dopolnitvah Zakona o dostopu do informacij
-javnega značaja – ZDIJZ-D (Uradni list RS, št. 50/14)
+spreminja 4. člen Zakona o spremembah in dopolnitvah Zakona o dostopu do
+informacij javnega značaja – ZDIJZ-D (Uradni list RS, št. 50/14)
 tako, da se glasi:
 »4. člen
 (razveljavljen)«.
@@ -1491,10 +1610,10 @@ razširjanja, in sicer:
 -       
 za evidence in podatkovne zbirke meteoroloških in hidroloških podatkov
 ter podatkov o kakovosti zraka, vode in tal, in sicer: točkovni meteorološki,
-hidrološki in fenološki podatki ter podatki o kakovosti zraka, terminski višinski
-podatki nad Ljubljano, pridobljeni z radiosondažnimi meritvami, podatki
-meteorološkega radarja za območje Slovenije, kemijski podatki kakovosti voda in
-tal ter biološki podatki kakovosti voda,
+hidrološki in fenološki podatki ter podatki o kakovosti zraka, terminski
+višinski podatki nad Ljubljano, pridobljeni z radiosondažnimi meritvami,
+podatki meteorološkega radarja za območje Slovenije, kemijski podatki kakovosti
+voda in tal ter biološki podatki kakovosti voda,
 -       
 za numerične rezultate analize vremena in zelo kratkoročnih napovedi ter
 numerične rezultate meteorološke modelske verige,
@@ -1527,16 +1646,57 @@ Do takrat se uporabljajo določbe Zakona o dostopu do informacij javnega značaj
 23/14, 50/14 in 19/15 – odl. US).
 (2) Četrta alineja četrtega odstavka 10.a člena zakona se
 začne uporabljati po pridobitvi nove kode namena, ki jo potrdi Evropski svet za
-plačila (European Payments Council) in obsega: donatorske, sponzorske,
-svetovalne in druge avtorske ali druge intelektualne storitve in po
-vzpostavitvi informacijskega sistema za uporabo nove kode pri opravljanju
-plačilnih storitev. Datum začetka uporabe te določbe objavi v Uradnem listu
-Republike Slovenije minister, pristojen za finance.«.
+plačila (European Payments Council) in obsega: donatorske, sponzorske, svetovalne
+in druge avtorske ali druge intelektualne storitve in po vzpostavitvi
+informacijskega sistema za uporabo nove kode pri opravljanju plačilnih
+storitev. Datum začetka uporabe te določbe objavi v Uradnem listu Republike
+Slovenije minister, pristojen za finance.«.
 
 Zakon o dopolnitvi Zakona o dostopu do
 informacij javnega značaja – ZDIJZ-F (Uradni list RS, št. 7/18)
 vsebuje naslednjo končno določbo:
 »2. člen
+(začetek veljavnosti)
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o
+dostopu do informacij javnega značaja – ZDIJZ-G (Uradni list RS, št. 141/22)
+vsebuje naslednje prehodne in končne določbe:
+»PREHODNE IN KONČNE DOLOČBE
+8. člen
+(prehodno obdobje glede
+naborov podatkov velike vrednosti)
+(1) Po uveljavitvi predpisa vlade iz drugega odstavka
+10. člena tega zakona lahko organ na podlagi 34.a člena Zakona o dostopu
+do informacij javnega značaja (Uradni list RS, št. 51/06 – uradno
+prečiščeno besedilo, 117/06 – ZDavP-2, 23/14, 50/14, 19/15 – odl. US, 102/15 in
+7/18; v nadaljnjem besedilu: ZDIJZ) poda zahtevo, da za ponovno uporabo podatkovnih
+zbirk, ki sodijo med nabore podatkov velike vrednosti, za obdobje 20 mesecev od
+uveljavitve predpisa vlade iz drugega odstavka 10. člena tega zakona,
+zaračunava ceno.
+(2) Odločba, izdana organu na podlagi šestega odstavka 34.a
+člena ZDIJZ, ki se nanaša na podatkovne zbirke, ki sodijo med nabore podatkov
+velike vrednosti, ostane v veljavi do izteka roka, ki je naveden v odločbi.
+9. člen
+(objava izključnih pravic
+in informacij o izključnih ureditvah)
+(1) Izključne pravice, ki so začele učinkovati od 16. julija
+2019 do uveljavitve tega zakona, se objavijo na način in v obsegu, kot je
+določeno v dopolnjenem četrtem odstavku 36.a člena zakona, v dveh mesecih od
+uveljavitve tega zakona.
+(2) Organi informacije v zvezi z izključnimi ureditvami iz
+novega petega odstavka 36.a člena zakona objavijo in posredujejo
+Informacijskemu pooblaščencu v treh mesecih od uveljavitve tega zakona.
+10. člen
+(predpis vlade)
+(1) Vlada uskladi predpis iz dopolnjenega 11. člena
+zakona s tem zakonom v 30 dneh od uveljavitve tega zakona.
+(2) Vlada uskladi predpis iz dopolnjenega 11. člena
+zakona z novim četrtim odstavkom 10.c člena zakona v štirih mesecih po
+uveljavitvi izvedbenega akta Evropske komisije, sprejetega na podlagi Direktive
+2019/1024/EU.
+11. člen
 (začetek veljavnosti)
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.

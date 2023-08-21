@@ -4,9 +4,9 @@ Ta zakon določa obveznost izvajanja postopka potrjevanja računov
 za davčne namene pri gotovinskem poslovanju, zavezance za izvajanje postopka
 potrjevanja računov, izvajanje postopka potrjevanja računov, vsebino računa za
 namene izvajanja postopka potrjevanja računov, rok za izdajo računov, tehnične
-zahteve, obveznost zadržanja izdanega računa pri gotovinskem poslovanju za
-kupca, obdelavo podatkov za namene preverjanja zakonitosti zaposlitve in dela
-in nadzora pravilnosti obračuna davkov in prispevkov ter nadzor nad izvajanjem
+zahteve, obveznost izročitve in zadržanja izdanega računa za zavezanca in kupca,
+obdelavo podatkov za namene preverjanja zakonitosti zaposlitve in dela in
+nadzora pravilnosti obračuna davkov in prispevkov ter nadzor nad izvajanjem
 tega zakona.
 2. člen
 (pomen izrazov)
@@ -53,19 +53,19 @@ in 90/14; v nadaljnjem besedilu: ZDavP-2);
 »davčni organ« je Finančna uprava Republike Slovenije.
 3. člen
 (zavezanec za izvajanje postopka potrjevanja računov)
-(1) Zavezanka oziroma zavezanec za izvajanje postopka potrjevanja
-računov (v nadaljnjem besedilu: zavezanec) je oseba iz prvega in drugega
-odstavka 31. člena ZDavP-2, ki mora izdati račun.
+(1) Zavezanka oziroma zavezanec za izvajanje postopka
+potrjevanja računov (v nadaljnjem besedilu: zavezanec) je oseba iz prvega in
+drugega odstavka 31. člena ZDavP-2, ki mora izdati račun.
 (2) Ne glede na prejšnji odstavek se za zavezanca ne šteje
 davčni zavezanec v naslednjih primerih:
 1.     
 dobave blaga, ki jih opravi davčni zavezanec, ki nima sedeža v Republiki
-Sloveniji in za katere se kot kraj dobave po predpisih, ki urejajo davek na
-dodano vrednost, šteje Republika Slovenija, če skupna vrednost teh dobav v
-tekočem koledarskem letu oziroma v preteklem koledarskem letu presega 35.000
-eurov, ali če se dobavitelj odloči, da je, ne glede na to, da vrednost njegovih
-dobav v tekočem koledarskem letu ne presega tega zneska, kraj teh dobav
-Republika Slovenija;
+Sloveniji in za katere se kot kraj dobave po predpisih, ki urejajo davek na dodano
+vrednost, šteje Republika Slovenija, če skupna vrednost teh dobav v tekočem
+koledarskem letu oziroma v preteklem koledarskem letu presega 35.000 eurov, ali
+če se dobavitelj odloči, da je, ne glede na to, da vrednost njegovih dobav v
+tekočem koledarskem letu ne presega tega zneska, kraj teh dobav Republika
+Slovenija;
 2.     
 dobava telekomunikacijskih storitev, storitev oddajanja ali elektronskih
 storitev, ki jih opravi davčni zavezanec, ki nima sedeža v Republiki Sloveniji,
@@ -288,12 +288,12 @@ računov in
 datum začetka veljavnosti podatkov, ki se sporočajo.
 (2) Zavezanec mora sporočiti podatke iz prvega odstavka tega
 člena za vsak posamezen poslovni prostor zavezanca, v katerem izdaja račune.
-Zavezanec podatke podpiše z namenskim digitalnim potrdilom in jih pošlje davčnemu
-organu prek vzpostavljene elektronske povezave pred prvim pošiljanjem podatkov
-o računu za namene potrditve računa.
+Zavezanec podatke podpiše z namenskim digitalnim potrdilom in jih pošlje
+davčnemu organu prek vzpostavljene elektronske povezave pred prvim pošiljanjem
+podatkov o računu za namene potrditve računa.
 (3) Davčni organ preveri, če so poslani vsi podatki o
-poslovnem prostoru zavezanca iz prvega odstavka tega člena in če so podatki podpisani
-z namenskim digitalnim potrdilom.
+poslovnem prostoru zavezanca iz prvega odstavka tega člena in če so podatki
+podpisani z namenskim digitalnim potrdilom.
 (4) Davčni organ zavezancu nemudoma pošlje potrdilo o prejemu
 podatkov prek vzpostavljene elektronske povezave, če sta izpolnjena pogoja iz
 prejšnjega odstavka.
@@ -364,8 +364,8 @@ tega člena.
 vzpostaviti delovanja elektronske naprave za izdajo računov v roku iz drugega
 odstavka tega člena, pošlje podatke o računih prek vzpostavljene elektronske
 povezave najkasneje naslednji delovni dan po prenehanju vzrokov za zamudo.
-(4) Za opravičljive razloge iz tretjega odstavka tega člena se
-štejejo utemeljeni razlogi, ki jih zavezanec ni mogel predvideti oziroma
+(4) Za opravičljive razloge iz tretjega odstavka tega člena
+se štejejo utemeljeni razlogi, ki jih zavezanec ni mogel predvideti oziroma
 odvrniti in preprečujejo vzpostavitev elektronske povezave v predpisanem roku. 
 (5) Zavezanec pošlje davčnemu organu podatke o serijski
 številki vezane knjige računov, zaporedni številki posameznega obrazca računa
@@ -389,8 +389,8 @@ urejajo davčni postopek. Zavezanec določi način izdajanja računov z internim
 aktom iz šestega odstavka 5. člena tega zakona.
 (2) Zavezanec iz prejšnjega odstavka mora davčnemu organu
 prek elektronske povezave poslati podatke o računih, izdanih z uporabo vezane
-knjige računov, do desetega dne v mesecu, ki sledi mesecu, v katerem je bil račun
-izdan.
+knjige računov, do desetega dne v mesecu, ki sledi mesecu, v katerem je bil
+račun izdan.
 (3) V primeru, ko se zavezanec odloči za izdajanje računov z
 uporabo vezane knjige računov v skladu s prvim odstavkom tega člena, ne sme v
 istem poslovnem prostoru uporabljati elektronske naprave za izdajo računov.
@@ -398,16 +398,18 @@ istem poslovnem prostoru uporabljati elektronske naprave za izdajo računov.
 uporabljajo drugi do peti odstavek 4. člena, peti odstavek 7. člena,
 8. člen ter peti, šesti in sedmi odstavek 10. člena tega zakona.
 12. člen
-(obvestilo o računu in obveznost kupca)
+(obveznost izročitve računa in obveznost kupca)
 (1) Zavezanec mora v poslovnem prostoru na vsaki elektronski napravi
 za izdajo računov ali drugem kupcu vidnem mestu objaviti obvestilo o obveznosti
 izdaje računa in izročitve računa kupcu ter obveznosti kupca, da prevzame in
 zadrži izdani račun.
-(2) Kupec blaga oziroma prejemnik storitve mora prevzeti
+(2) Zavezanec mora izdani račun izročiti kupcu blaga oziroma
+prejemniku storitve v elektronski ali papirni obliki.
+(3) Kupec blaga oziroma prejemnik storitve mora prevzeti
 račun in ga zadržati neposredno po odhodu iz poslovnega prostora in ga na
 zahtevo predložiti pooblaščeni osebi davčnega organa ali Tržnega inšpektorata
 Republike Slovenije.
-(3) Minister, pristojen za finance, podrobneje določi vsebino
+(4) Minister, pristojen za finance, podrobneje določi vsebino
 in obliko obvestila o obveznosti izdaje računa in obveznosti kupca da prevzame
 in zadrži izdani račun iz prvega odstavka tega člena.
 13. člen
@@ -430,13 +432,19 @@ računov, na katerem je razviden čas izdaje posamezne kopije.
 (nadzor)
 Za nadzor nad izvajanjem tega zakona je pristojen davčni
 organ. Za nadzor nad izvajanjem 1., 2., 3. in 4. točke prvega odstavka 5.
-člena, petega odstavka 7. člena ter prvega in drugega odstavka 12. člena tega
-zakona je pristojen tudi Tržni inšpektorat Republike Slovenije.
+člena, petega odstavka 7. člena ter prvega, drugega in tretjega odstavka 12.
+člena tega zakona je pristojen tudi Tržni inšpektorat Republike Slovenije.
 16. člen
 (uporaba drugih predpisov)
 Glede vprašanj postopka in pristojnosti davčnega organa, ki
 niso urejena s tem zakonom, se uporabljata zakon, ki ureja davčni postopek, in
 zakon, ki ureja finančno upravo.
+16.a člen
+(prekršek kupca)
+Z globo 40 eurov se kaznuje za prekršek kupec blaga oziroma
+prejemnik storitve, če ne prevzame in zadrži računa neposredno po odhodu iz
+poslovnega prostora oziroma ga na zahtevo ne predloži pooblaščeni osebi (tretji
+odstavek 12. člena).
 17. člen
 (prenehal
 veljati)
@@ -483,7 +491,10 @@ ne objavi oziroma ne objavi na kupcu vidnem mestu obvestila o obveznosti
 izdaje računa in obveznosti kupca, da prevzame in zadrži račun (prvi odstavek
 12. člena);
 10.  
-(črtana).
+(črtana);
+11.  
+ne izroči računa kupcu blaga oziroma prejemniku storitve (drugi odstavek
+12. člena).
 (2) Z globo od 5.000 do 75.000 eurov se za prekršek iz
 prejšnjega odstavka kaznuje pravna oseba, ki je po zakonu, ki ureja gospodarske
 družbe, srednja ali velika gospodarska družba.
@@ -505,8 +516,8 @@ ne sporoči podatkov o poslovnih prostorih (peti odstavek 4. člena);
 (črtana);
 3.     
 davčnemu organu ne pošlje podatkov o računu, ki so predpisani za namene
-izvajanja potrjevanja računov oziroma pošlje neresnične, nepravilne ali nepopolne
-podatke o računu (drugi odstavek 6. člena);
+izvajanja potrjevanja računov oziroma pošlje neresnične, nepravilne ali
+nepopolne podatke o računu (drugi odstavek 6. člena);
 4.     
 ne izvede postopka potrjevanja računa za vse naknadne spremembe podatkov
 na računu (četrti odstavek 6. člena);
@@ -626,9 +637,22 @@ Ta zakon začne veljati 1. januarja 2018.«.
 
 Zakon o spremembah
 in dopolnitvah Zakona o davku na dodano vrednost – ZDDV-1M (Uradni list RS, št.
-3/22) vsebuje naslednjo končno
-določbo:
+3/22) vsebuje naslednjo končno določbo:
 »49. člen
+(začetek veljavnosti)
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o davčnem
+potrjevanju računov – ZDavPR-B (Uradni list RS, št. 40/23) vsebuje naslednji končni določbi:
+»KONČNI DOLOČBI
+6. člen
+(prenehanje veljavnosti)
+Z dnem uveljavitve tega zakona preneha veljati deseti
+odstavek 81. člena Zakona o davku na dodano vrednost (Uradni list RS,
+št. 13/11 – uradno prečiščeno besedilo, 18/11, 78/11, 38/12, 83/12, 86/14,
+90/15, 77/18, 59/19, 72/19, 196/21 – ZDOsk, 3/22 in 29/22 – ZUOPDCE).
+7. člen
 (začetek veljavnosti)
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.

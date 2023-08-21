@@ -7,10 +7,10 @@ proizvodnje, prenosa, distribucije, shranjevanja in dobave plina, pravila
 varstva odjemalcev, načine in oblike izvajanja gospodarskih javnih služb pri
 prenosu in distribuciji plina ter načela in ukrepe za doseganje zanesljive
 oskrbe s plinom.
-(2) Namen tega zakona je zagotoviti konkurenčno, varno, zanesljivo
-in dostopno oskrbo s plini ob upoštevanju načel trajnostnega razvoja in
-vzpostaviti celovite konkurenčne, prožne, pravične in pregledne trge s plini ob
-upoštevanju pomembne vloge zemeljskega plina kot prehodnega energenta pri
+(2) Namen tega zakona je zagotoviti konkurenčno, varno,
+zanesljivo in dostopno oskrbo s plini ob upoštevanju načel trajnostnega razvoja
+in vzpostaviti celovite konkurenčne, prožne, pravične in pregledne trge s plini
+ob upoštevanju pomembne vloge zemeljskega plina kot prehodnega energenta pri
 prehodu v brezogljično gospodarstvo.
 (3) Določbe tega zakona se uporabljajo za vse vrste plinov,
 vključno z vodikom, če jih je tehnično mogoče varno prevzemati v sistem in jih
@@ -31,9 +31,9 @@ skupnih pravilih notranjega trga z zemeljskim plinom (UL L št. 117 z dne 3. 5.
 za kršitev:
 -       
 Uredbe (ES) št. 715/2009 Evropskega parlamenta in Sveta z dne 13. julija
-2009 o pogojih za dostop do prenosnih omrežij zemeljskega plina in
-razveljavitvi Uredbe (ES) št. 1775/2005, zadnjič spremenjene z Uredbo (EU)
-2018/1999 Evropskega parlamenta in Sveta z dne 11. decembra 2018 o upravljanju energetske
+2009 o pogojih za dostop do prenosnih omrežij zemeljskega plina in razveljavitvi
+Uredbe (ES) št. 1775/2005, zadnjič spremenjene z Uredbo (EU) 2018/1999
+Evropskega parlamenta in Sveta z dne 11. decembra 2018 o upravljanju energetske
 unije in podnebnih ukrepov, spremembi uredb (ES) št. 663/2009 in (ES) št.
 715/2009 Evropskega parlamenta in Sveta, direktiv 94/22/ES, 98/70/ES,
 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU Evropskega
@@ -49,10 +49,11 @@ razveljavitvi Uredbe (EU) št. 994/2010 (UL L št. 280 z dne 28. 10. 2017, str.
 Uredbe (EU) 2018/1999 Evropskega parlamenta in sveta z dne 11. decembra
 2018 o upravljanju energetske unije in podnebnih ukrepov, spremembi uredb (ES)
 št. 663/2009 in (ES) št. 715/2009 Evropskega parlamenta in Sveta, direktiv
-94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in 2013/30/EU
-Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU) 2015/652 ter
-razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in Sveta (UL L št.
-328 z dne 21. 12. 2018 str. 1), (v nadaljnjem besedilu: Uredba 2018/1999/EU).
+94/22/ES, 98/70/ES, 2009/31/ES, 2009/73/ES, 2010/31/EU, 2012/27/EU in
+2013/30/EU Evropskega parlamenta in Sveta, direktiv Sveta 2009/119/ES in (EU)
+2015/652 ter razveljavitvi Uredbe (EU) št. 525/2013 Evropskega parlamenta in
+Sveta (UL L št. 328 z dne 21. 12. 2018 str. 1), (v nadaljnjem besedilu: Uredba
+2018/1999/EU).
 3. člen
 (pomen izrazov)
 Izrazi, uporabljeni v tem zakonu, pomenijo:
@@ -78,8 +79,8 @@ bilančno pogodbo z operaterjem prenosnega sistema ali pogodbo o izravnavi z
 nosilcem bilančne skupine;
 6.     
 »bilančna skupina« je skupina uporabnikov sistema, za katero se
-izravnavajo in obračunavajo količinska odstopanja odjema in oddaje plina v okviru
-obračunskega intervala;
+izravnavajo in obračunavajo količinska odstopanja odjema in oddaje plina v
+okviru obračunskega intervala;
 7.     
 »certifikat« pomeni odločbo, s katero agencija certificira operaterja
 prenosnega sistema;
@@ -100,7 +101,8 @@ in zanesljivo oskrbo odjemalcev;
 12.  
 »gospodinjski odjemalec« pomeni odjemalca, ki kupuje plin za lastno rabo
 v gospodinjstvu, kar izključuje rabo za opravljanje trgovskih ali poklicnih
-dejavnosti;
+dejavnosti, in katerega predvidena povprečna letna poraba ne presega
+100.000 kWh;
 13.  
 »horizontalno integrirano podjetje« pomeni podjetje, ki izvaja vsaj eno
 od dejavnosti pridobivanja, prenosa, distribucije, dobave ali skladiščenja
@@ -167,9 +169,8 @@ uplinjanje UZP ter vključuje sistemske storitve in prehodna skladišča, ki so
 nujni pri postopku vnovičnega uplinjanja in poznejšem prevzemu zemeljskega
 plina v prenosni sistem, vendar ne sme vključevati nobenega dela terminalov za
 UZP, ki se uporablja za skladiščenje. Izraz se ne nanaša na postroje, namenjene
-utekočinjanju zemeljskega plina in distribuciji UZP v posodah končnim
-odjemalcem ali končnim odjemalcem na omrežju, ki ni povezano s prenosnim
-sistemom;
+utekočinjanju zemeljskega plina in distribuciji UZP v posodah končnim odjemalcem
+ali končnim odjemalcem na omrežju, ki ni povezano s prenosnim sistemom;
 29.  
 »odjem plina« je pretok plina iz sistema na izstopni točki ali odjemnem
 mestu;
@@ -180,6 +181,10 @@ sistema odjema plin iz sistema;
 31.  
 »odjemalec« pomeni trgovca, končnega odjemalca plina ali podjetje
 plinskega gospodarstva, ki kupuje plin;
+31.a »odjemalec
+osnovne oskrbe« pomeni gospodinjskega odjemalca, malega poslovnega odjemalca,
+skupnega gospodinjskega odjemalca in zaščitenega odjemalca iz 117. člena
+tega zakona, ki je priključen na distribucijski sistem;
 32.  
 »odprta pogodba« je pogodba o dobavi plina, ki določa pripadnost
 odjemnega ali prevzemnega mesta bilančni skupini;
@@ -229,8 +234,8 @@ nosilcem bilančne skupine ali podskupine uredi izravnavo in obračun odstopanj,
 s čimer se uvrsti v bilančno shemo kot nosilec hierarhično nižje bilančne
 podskupine;
 43.  
-»pogodba o prenosu« pomeni pogodbo, ki jo operater prenosnega sistema
-sklene z uporabnikom sistema z namenom izvajati prenos plina;
+»pogodba o prenosu« pomeni pogodbo, ki jo operater prenosnega sistema sklene
+z uporabnikom sistema z namenom izvajati prenos plina;
 44.  
 »povezani sistem« pomeni več distribucijskih sistemov, povezanih drug z
 drugim;
@@ -249,8 +254,8 @@ teritorialnega morja Republike Slovenije;
 47.  
 »prenos« pomeni prenos plina po omrežju, ki večinoma zajema visokotlačne
 plinovode, z namenom dostave odjemalcem, ki ne vključuje dobave. Prenos ne
-pomeni prenosa po pridobivalnem plinovodnem omrežju in po delu visokotlačnih plinovodov,
-ki se uporabljajo predvsem za lokalno distribucijo plina;
+pomeni prenosa po pridobivalnem plinovodnem omrežju in po delu visokotlačnih
+plinovodov, ki se uporabljajo predvsem za lokalno distribucijo plina;
 48.  
 »prevzem plina« je pretok plina v sistem na prevzemnem mestu ali vstopni
 točki;
@@ -270,9 +275,9 @@ Priključek se na distribucijskem sistemu začne na priključnem mestu na
 distribucijskem sistemu in konča z glavno požarno pipo ali ventilom pri
 uporabniku sistema;
 52.  
-»pristojni organ« je pristojni organ za izvajanje nalog v okviru zagotavljanja
-zanesljive oskrbe s plinom, imenovan v skladu z drugim odstavkom 3. člena
-Uredbe 2017/1938/EU;
+»pristojni organ« je pristojni organ za izvajanje nalog v okviru
+zagotavljanja zanesljive oskrbe s plinom, imenovan v skladu z drugim odstavkom
+3. člena Uredbe 2017/1938/EU;
 53.  
 »proizvajalec« je pravna ali fizična oseba, ki proizvaja plin primerne
 kakovosti za prevzem v sistem in ga v skladu s pogoji operaterja sistema odda v
@@ -304,8 +309,8 @@ koledarskih let, za katero se določa regulativni okvir;
 obrat za UZP ali skladišče, ki je v lasti podjetja plinskega gospodarstva ali
 ki ga upravlja podjetje plinskega gospodarstva, vključno s skladiščno
 zmogljivostjo plinovoda in njegovimi objekti, ki opravljajo sistemske storitve,
-ter s tistimi objekti povezanih podjetij, ki so potrebni za zagotavljanje
-dostopa do prenosa, distribucije in UZP;
+ter s tistimi objekti povezanih podjetij, ki so potrebni za zagotavljanje dostopa
+do prenosa, distribucije in UZP;
 60.  
 »sistemske storitve« pomenijo vse storitve, ki so nujne za zagotavljanje
 dostopa in obratovanje prenosnih omrežij, distribucijskih omrežij, obratov za
@@ -332,6 +337,12 @@ nadaljnjem besedilu: EU);
 »solidarnostni plin« je plin, ki ga država članica EU v okviru mehanizma
 solidarnostne pomoči pri oskrbi s plinom ponudi sosednji državi članici EU ali
 ji ga proda ali kupi od nje;
+64.a »skupni
+gospodinjski odjemalec« pomeni končnega odjemalca, ki kupuje plin za lastno
+rabo za namen oskrbe gospodinjstev s toploto preko posameznih in skupnih delov
+večstanovanjskih stavb preko skupne kurilne naprave v lasti ali solasti teh
+gospodinjstev. Za potrebe te določbe se za končnega odjemalca ne šteje ponudnik
+daljinskega ogrevanja;
 65.  
 »tarifa« je strukturirani seznam tarifnih elementov, ki na podlagi
 tarifnih postavk omogočajo izračun omrežnine za uporabo sistema plina;
@@ -342,8 +353,8 @@ enoto;
 »transakcija« je vsak pravni posel, ki ga sklene udeleženec na trgu s
 plinom, na podlagi katerega se spremeni pravica do razpolaganja z določeno
 količino plina v prenosnem sistemu v enem intervalu ali več obračunskih
-intervalih, vključno s pravnimi posli, ki lahko privedejo do take spremembe,
-tudi če celotno zaporedje pravnih poslov od oddaje do odjema ni povzročilo spremembe
+intervalih, vključno s pravnimi posli, ki lahko privedejo do take spremembe, tudi
+če celotno zaporedje pravnih poslov od oddaje do odjema ni povzročilo spremembe
 končnega odjemalca; kot transakcija se ne šteje dobava plina končnemu
 odjemalcu;
 68.  
@@ -384,10 +395,10 @@ in za katero se šteje, da je bila v celoti izvedena;
 »zanesljivost« pomeni zanesljivost oskrbe s plinom in tehnično varnost;
 77.  
 »zaprt distribucijski sistem« je od distribucijskega sistema v lokalni
-skupnosti izločen distribucijski sistem, namenjen distribuciji plina na
-geografsko zaokroženem industrijskem ali poslovnem območju ali območju za skupne
-storitve in ki praviloma ne oskrbuje gospodinjskih odjemalcev na tem območju
-ter je priključen neposredno na prenosni sistem na izstopni točki.
+skupnosti izločen distribucijski sistem, namenjen distribuciji plina na geografsko
+zaokroženem industrijskem ali poslovnem območju ali območju za skupne storitve
+in ki praviloma ne oskrbuje gospodinjskih odjemalcev na tem območju ter je
+priključen neposredno na prenosni sistem na izstopni točki.
 2. oddelek: Dejavnosti plinskega gospodarstva, naloge v javnem
 interesu in izvajanje gospodarske javne službe
 4. člen
@@ -553,10 +564,10 @@ seznani tudi z informacijo o dobaviteljih plina iz prejšnjega odstavka.
 zahtevo za zamenjavo operaterju sistema, na katerega je priključen.
 (2) V imenu in za račun končnega odjemalca lahko na podlagi
 pooblastila zahtevo predloži tudi novi dobavitelj.
-(3) Operater sistema, ki je prejel zahtevo za menjavo
-dobavitelja, mora izvesti vse potrebno, da lahko končni odjemalec začne
-uresničevati pogodbo o dobavi plina z novim dobaviteljem v 21 dneh od vložitve
-popolne zahteve. Končnemu odjemalcu se menjava dobavitelja ne sme zaračunati.
+(3) Operater sistema, ki je prejel zahtevo za menjavo dobavitelja,
+mora izvesti vse potrebno, da lahko končni odjemalec začne uresničevati pogodbo
+o dobavi plina z novim dobaviteljem v 21 dneh od vložitve popolne zahteve.
+Končnemu odjemalcu se menjava dobavitelja ne sme zaračunati.
 (4) Operater sistema zagotovi odčitek števca ob menjavi
 dobavitelja. Stroški, ki jih ima operater sistema z odčitavanjem stanja na
 merilni napravi, se krijejo iz zneska za meritve. Če dobavitelj v zvezi z
@@ -575,26 +586,25 @@ uredbo iz 80. člena tega zakona.
 (obveščanje o porabi)
 (1) Operater sistema brezplačno obdobno obvešča končne
 odjemalce, ki so uporabniki sistema, na katerem opravlja dejavnost operaterja
-sistema, o njihovi porabi plina ter značilnostih te porabe, in sicer tako
-pogosto, da lahko sami uravnavajo svojo porabo plina.
+sistema, o njihovi porabi plina ter značilnostih te porabe, in sicer tako pogosto,
+da lahko sami uravnavajo svojo porabo plina.
 (2) Na zahtevo končnega odjemalca ali na podlagi soglasja
 končnega odjemalca drugi pravni ali fizični osebi operater sistema obvesti
 končnega odjemalca ali drugo pravno ali fizično osebo o njegovi porabi plina
 ter značilnostih te porabe. Podatke o tem zagotovi v primernem času, pri čemer
 se upoštevata zmogljivost opreme končnega odjemalca za merjenje porabe in
 stroškovna učinkovitost takšnih ukrepov.
-(3) Stroški obvestila iz prejšnjega odstavka se ne
-zaračunavajo.
+(3) Stroški obvestila iz prejšnjega odstavka se ne zaračunavajo.
 (4) Podrobnejši način obveščanja končnih odjemalcev o porabi
 določi operater sistema v sistemskih obratovalnih navodilih, pri čemer omogoči
 obveščanje v elektronski obliki, če končni odjemalec izrazi takšno voljo.
 11. člen
 (zagotavljanje energetske učinkovitosti)
-Podjetja plinskega gospodarstva si morajo prizadevati za zagotavljanje
-energetske učinkovitosti tako, da v skladu s priporočili agencije optimizirajo
-porabo plina, zlasti z nudenjem energetskih storitev upravljanja energije,
-razvojem inovativnih načinov oblikovanja cen ali uvajanjem naprednih merilnih
-sistemov ali naprednih omrežij, kadar je to primerno.
+Podjetja plinskega gospodarstva si morajo prizadevati za
+zagotavljanje energetske učinkovitosti tako, da v skladu s priporočili agencije
+optimizirajo porabo plina, zlasti z nudenjem energetskih storitev upravljanja
+energije, razvojem inovativnih načinov oblikovanja cen ali uvajanjem naprednih
+merilnih sistemov ali naprednih omrežij, kadar je to primerno.
 12. člen
 (energetski kontrolni seznam)
 (1) Dobavitelji vsakemu končnemu odjemalcu, ki mu dobavljajo
@@ -641,11 +651,12 @@ pravici do menjave dobavitelja;
 pravicah do oskrbe s plinom določene kakovosti po razumni ceni v skladu
 z veljavnimi predpisi in splošnimi akti;
 7.     
-pravici do nujne oskrbe iz 18. člena tega zakona.
-(3) Dobavitelji morajo za izvajanje nalog iz 3. točke prejšnjega
-odstavka na elektronski način, ki ga s splošnim aktom določi agencija,
-najpozneje z začetkom uporabe spremenjene cene predložiti agenciji podatke o
-spremenjeni ceni.
+pravici do nujne oskrbe iz 18. člena tega zakona ali nadomestne
+oskrbe s plinom iz 18.a člena tega zakona.
+(3) Dobavitelji morajo za izvajanje nalog iz 3. točke
+prejšnjega odstavka na elektronski način, ki ga s splošnim aktom določi
+agencija, najpozneje z začetkom uporabe spremenjene cene predložiti agenciji
+podatke o spremenjeni ceni.
 (4) Agencija s splošnim aktom določi način elektronskega
 pošiljanja podatkov za izvajanje nalog iz 3. točke drugega odstavka tega člena,
 v katerem določi sistem za predložitev podatkov o cenah in način uporabe
@@ -694,18 +705,18 @@ odstavka odstop učinkuje prej kot eno leto po sklenitvi pogodbe, nosi odjemalec
 posledice, ki jih za predčasni odstop od pogodbe o dobavi določa ta pogodba.
 (5) Sestavni del pogodbe o dobavi so splošni pogodbeni
 pogoji, ki morajo biti pravični in znani vnaprej, dobavitelj pa jih mora
-gospodinjskemu odjemalcu zagotoviti pred sklenitvijo pogodbe, tudi če se
-pogodbe sklepajo po posrednikih. Splošni pogodbeni pogoji morajo biti
-pregledni, objavljeni v jasnem in razumljivem jeziku ter ne smejo vsebovati
-nepogodbenih ovir za uveljavljanje pravic odjemalcev, na primer preobsežne
-pogodbene dokumentacije. Dobavitelj mora gospodinjskim odjemalcem zagotoviti
-pregledne informacije o veljavnih cenah in tarifah ter splošnoveljavnih pogojih
-v zvezi z dobavo plina najmanj z objavo na svoji spletni strani.
+gospodinjskemu odjemalcu zagotoviti pred sklenitvijo pogodbe, tudi če se pogodbe
+sklepajo po posrednikih. Splošni pogodbeni pogoji morajo biti pregledni,
+objavljeni v jasnem in razumljivem jeziku ter ne smejo vsebovati nepogodbenih
+ovir za uveljavljanje pravic odjemalcev, na primer preobsežne pogodbene
+dokumentacije. Dobavitelj mora gospodinjskim odjemalcem zagotoviti pregledne
+informacije o veljavnih cenah in tarifah ter splošnoveljavnih pogojih v zvezi z
+dobavo plina najmanj z objavo na svoji spletni strani.
 (6) Spremembo splošnih pogodbenih pogojev mora dobavitelj
 neposredno ter pregledno in razumljivo sporočiti gospodinjskemu odjemalcu
-najmanj en mesec pred njihovo uveljavitvijo, če se sprememba nanaša na izpolnjevanje
-pogodbe z gospodinjskim odjemalcem. Obvestilo mora biti gospodinjskim
-odjemalcem poslano brezplačno na način, določen v pogodbi.
+najmanj en mesec pred njihovo uveljavitvijo, če se sprememba nanaša na
+izpolnjevanje pogodbe z gospodinjskim odjemalcem. Obvestilo mora biti
+gospodinjskim odjemalcem poslano brezplačno na način, določen v pogodbi.
 (7) Zaradi spremembe splošnih pogojev iz prejšnjega odstavka
 ima gospodinjski odjemalec pravico odstopiti od pogodbe o dobavi plina v enem
 mesecu po začetku veljavnosti spremenjenih splošnih pogojev brez odpovednega
@@ -720,9 +731,9 @@ pisnem obvestilu.
 široke izbire načinov plačevanja. Plačilni sistem ne sme povzročiti
 neupravičenega diskriminiranja odjemalcev, morebitne razlike v ceni in drugih
 pogojih plačila pa morajo odražati stroške dobavitelja zaradi različnih
-plačilnih sistemov. Če gospodinjski odjemalec ne plačuje po dejanski porabi,
-mora dobavitelj dati na voljo kot obliko plačila sistem akontacij, ki mora
-odražati verjetno porabo.
+plačilnih sistemov. Če gospodinjski odjemalec ne plačuje po dejanski porabi, mora
+dobavitelj dati na voljo kot obliko plačila sistem akontacij, ki mora odražati
+verjetno porabo.
 (10) Če dobavitelj gospodinjskim odjemalcem zaračuna pavšalne
 stroške poslovanja ne glede na njihovo poimenovanje, morajo ti odražati
 dejanske stroške, ki jih načini obračunavanja povzročajo dobaviteljem. Stroški
@@ -743,41 +754,41 @@ neresnične ali zavajajoče navedbe v zvezi s pogodbenim razmerjem.
 (obveščanje o porabi in dostop do podatkov o porabi)
 (1) Operater distribucijskega sistema ob priključitvi na
 distribucijski sistem obvesti gospodinjskega odjemalca o njegovih pravicah do
-oskrbe s plinom določene kakovosti po razumni ceni v skladu z veljavnimi predpisi
-in splošnimi akti.
+oskrbe s plinom določene kakovosti po razumni ceni v skladu z veljavnimi
+predpisi in splošnimi akti.
 (2) Operater distribucijskega sistema na zahtevo
 gospodinjskega odjemalca ali na podlagi njegovega pooblastila za vsak primer
 posebej ali za vse prihodnje primere do preklica določenemu podjetju plinskega
 gospodarstva brezplačno omogoči dostop do podatkov o porabi tega odjemalca.
-Operater distribucijskega sistema, ki je odgovoren za obdelavo podatkov, te
-podatke predloži podjetju plinskega gospodarstva v petih delovnih dneh, pri
-čemer podatke pošlje v elektronski obliki.
+Operater distribucijskega sistema, ki je odgovoren za obdelavo podatkov, te podatke
+predloži podjetju plinskega gospodarstva v petih delovnih dneh, pri čemer
+podatke pošlje v elektronski obliki.
 (3) Minister predpiše obliko za predstavitev podatkov in
 postopek, s katerim se dobaviteljem in odjemalcem zagotovi dostop do podatkov
 iz prejšnjega odstavka. Zagotovitve dostopa do podatkov operater
 distribucijskega sistema ne sme dodatno zaračunati.
 (4) Operater distribucijskega sistema gospodinjske odjemalce,
-ki so priključeni na distribucijski sistem, na katerem opravlja dejavnost
-operaterja sistema, najmanj enkrat letno obvešča o dejanski porabi plina in
-stroških. Podatke o tem zagotovi v primernem roku, pri čemer se upoštevata
-zmogljivost opreme odjemalca za merjenje porabe in stroškovna učinkovitost
-takšnih ukrepov. Te storitve odjemalcem operater distribucijskega sistema ne
-sme dodatno zaračunati.
+ki so priključeni na distribucijski sistem, na katerem opravlja dejavnost operaterja
+sistema, najmanj enkrat letno obvešča o dejanski porabi plina in stroških.
+Podatke o tem zagotovi v primernem roku, pri čemer se upoštevata zmogljivost
+opreme odjemalca za merjenje porabe in stroškovna učinkovitost takšnih ukrepov.
+Te storitve odjemalcem operater distribucijskega sistema ne sme dodatno
+zaračunati.
 17. člen
-(izvensodno reševanje sporov z gospodinjskimi odjemalci v zvezi
-z dobavo plina)
+(izvensodno reševanje sporov z gospodinjskimi odjemalci v
+zvezi z dobavo plina)
 (1) Dobavitelj plina zagotovi pregledni, preprosti in
 brezplačni notranji postopek obravnave pritožb gospodinjskih odjemalcev.
 (2) Dobavitelj plina sam ali skupaj z drugimi dobavitelji v
 okviru združenja zagotovi postopek izvensodnega reševanja sporov s potrošniki v
 zvezi z dobavo plina gospodinjskim odjemalcem po tem zakonu pred neodvisnim
 izvajalcem izvensodnega reševanja sporov, ki izpolnjuje pogoje in zagotavlja
-postopek v skladu z določbami zakona, ki ureja izvensodno reševanje potrošniških
-sporov. Če dobavitelj v postopku iz prejšnjega odstavka pritožbi ne ugodi
-najpozneje v enem mesecu ali zahtevku gospodinjskega odjemalca ne ugodi v
-celoti, lahko gospodinjski odjemalec vloži pobudo za začetek postopka v zvezi z
-domnevnimi kršitvami dobavitelja plina pri izvajanju pogodbe o dobavi plina pri
-neodvisnem izvajalcu izvensodnega reševanja sporov.
+postopek v skladu z določbami zakona, ki ureja izvensodno reševanje
+potrošniških sporov. Če dobavitelj v postopku iz prejšnjega odstavka pritožbi
+ne ugodi najpozneje v enem mesecu ali zahtevku gospodinjskega odjemalca ne
+ugodi v celoti, lahko gospodinjski odjemalec vloži pobudo za začetek postopka v
+zvezi z domnevnimi kršitvami dobavitelja plina pri izvajanju pogodbe o dobavi
+plina pri neodvisnem izvajalcu izvensodnega reševanja sporov.
 (3) Izvajalca izvensodnega reševanja sporov, pri katerem
 gospodinjski odjemalec vloži pobudo za začetek postopka, dobavitelj plina
 določi za štiri leta.
@@ -807,6 +818,76 @@ predložiti operaterju, da mu operater odobri nujno oskrbo, in o rokih, v
 katerih je treba ta dokazila predložiti. Podrobnejšo ureditev varstva ranljivih
 odjemalcev v zvezi z zagotavljanjem nadaljnje dobave plina določi operater
 distribucijskega sistema v sistemskih obratovalnih navodilih.
+18.a člen
+(nadomestna oskrba s plinom)
+(1) Nadomestna oskrba je oskrba s plinom, do katere so
+upravičeni gospodinjski odjemalec, mali poslovni odjemalec, skupni gospodinjski
+odjemalec in zaščiteni odjemalec iz 117. člena tega zakona, ki so
+priključeni na distribucijski sistem, če jim preneha veljavnost pogodbe o
+dobavi plina zaradi ukrepov, ki so posledica insolventnosti ali nelikvidnosti
+dobavitelja, ali če iz drugega razloga dobavitelj izgubi status člana bilančne
+sheme, pri čemer mora o tem dejstvu nosilec bilančne skupine obvestiti
+operaterja prenosnega sistema. Za drugi razlog se šteje izbris člana bilančne
+sheme iz sodnega registra, izrečena prepoved opravljanja dejavnosti članu
+bilančne sheme, izdaja inšpekcijske odločbe, s katero se članu bilančne sheme onemogoči
+delovanje na trgu s plinom, sporazumna razveza ali odstop od bilančne pogodbe
+oziroma pogodbe o izravnavi.
+(2) Operater distribucijskega sistema na podlagi obvestila
+operaterja prenosnega sistema o predvidenem datumu prenehanja statusa člana
+bilančne sheme dobavitelja vse končne odjemalce tega dobavitelja na
+distribucijskem sistemu obvesti o prenehanju veljavnosti pogodbe o dobavi in
+datumu začetka izvajanja nadomestne oskrbe, če do prenehanja veljavnosti
+obstoječe pogodbe o dobavi plina ne zamenjajo dobavitelja. Dobavitelj v primeru
+nameravanega prenehanja statusa člana bilančne sheme o svoji nameri obvesti
+operaterje sistema, svoje končne odjemalce in agencijo najpozneje tri mesece
+pred nameravanim prenehanjem statusa člana bilančne sheme.
+(3) Operater distribucijskega sistema za odjemalce iz prvega
+odstavka tega člena nemudoma, ko dosedanjemu dobavitelju preneha status člana v
+bilančni shemi, brez prestopnih rokov zagotovi dobavitelja nadomestne oskrbe, o
+čemer nemudoma seznani tudi dobavitelja nadomestne oskrbe. S tem se šteje, da
+je sklenjena pogodba o nadomestni oskrbi s plinom, ki jo lahko odjemalec iz
+prvega odstavka tega člena kadar koli odpove. Pogoj za menjavo dobavitelja je
+pridobitev števčnega stanja plinomera. Zamenjava dobavitelja se za odjemna
+mesta, ki niso dnevno merjena, lahko izvede tudi na podlagi fotografije
+plinomera, ki jo odjemalec iz prvega odstavka tega člena pošlje operaterju
+distribucijskega sistema. Če pridobitev stanja plinomera ni mogoča, se ta oceni
+v skladu z metodologijo, ki ureja prognoziranje ne dnevno merjenih prevzemov
+uporabnikov omrežja zemeljskega plina, sprejeto na podlagi 42. člena
+Uredbe Komisije (EU) št. 312/2014 z dne 26. marca 2014 o vzpostavitvi
+kodeksa omrežja za izravnavo odstopanj za plin v prenosnih omrežjih (UL L
+št. 91 z dne 27. 3. 2014, str. 15).
+(4) Odjemalec iz prvega odstavka tega člena najpozneje v treh
+mesecih od začetka izvajanja nadomestne oskrbe sklene pogodbo o dobavi z novim
+dobaviteljem in o tem obvesti dobavitelja, ki mu nudi nadomestno oskrbo. S
+sklenitvijo pogodbe o dobavi z novim dobaviteljem ali po treh mesecih od
+začetka izvajanja nadomestne oskrbe se šteje, da je pogodba o nadomestni oskrbi
+s plinom odpovedana.
+(5) Agencija določi najmanj enega dobavitelja nadomestne
+oskrbe za obdobje najmanj enega leta. Najpozneje v tridesetih dneh pred iztekom
+tega obdobja agencija določi dobavitelja nadomestne oskrbe za naslednje
+obdobje. Kriteriji, ki jih agencija upošteva pri določitvi dobavitelja
+nadomestne oskrbe, so najmanj: delež na maloprodajnem trgu, prodaja plina
+upravičenim odjemalcem za nadomestno oskrbo in prodaja plina tem odjemalcem na
+območju več distribucijskih sistemov. Agencija na svoji spletni strani objavi
+dobavitelje nadomestne oskrbe po posameznem distribucijskem sistemu.
+(6) Dobavitelj nadomestne oskrbe določi najpozneje v treh
+dneh od določitve dobavitelja nadomestne oskrbe način izračuna cene plina za
+nadomestno oskrbo za posamezno skupino odjemalcev iz prvega odstavka tega člena
+in ga sporoči agenciji. Ceno plina za nadomestno oskrbo določi dobavitelj
+nadomestne oskrbe in jo objavi najmanj na svoji spletni strani ter obvesti
+agencijo. Cena plina za nadomestno oskrbo je lahko višja od tržne cene za
+dobavo plina primerljivemu odjemalcu, ne sme pa presegati mejne nakupne cene plina
+na izravnalnem trgu, ki jo objavi operater prenosnega sistema, povečane za
+25 %.
+(7) Dobavitelj nadomestne oskrbe določi splošne dobavne
+pogoje nadomestne oskrbe ter jih pošlje agenciji v soglasje in objavi najmanj
+na svoji spletni strani.
+(8) Dobavitelj nadomestne oskrbe lahko odpove dobavo plina
+odjemalcu iz prvega odstavka tega člena, če ta redno ne poravna stroškov oskrbe
+s plinom. Operater sistema v tem primeru odklopi odjemalca nadomestne oskrbe po
+predhodnem obvestilu.
+(9) Podrobnejše kriterije za določitev dobavitelja nadomestne
+oskrbe iz petega odstavka tega člena določi agencija s splošnim aktom.
 III. POGLAVJE: PRENOS, SKLADIŠČENJE IN UZP
 1. oddelek: Gospodarska javna služba dejavnost operaterja
 prenosnega sistema
@@ -1028,8 +1109,8 @@ prenosni sistem, ali predstavnik v zvezi z lastniškim upravljanjem prenosnega
 sistema električne energije ali prenosnega sistema plina in
 -       
 član uprave, nadzornega sveta ali drugega organa, ki je zakoniti
-zastopnik podjetja, ki izvaja dejavnost proizvodnje ali dobave plina ali
-električne energije.
+zastopnik podjetja, ki izvaja dejavnost proizvodnje ali dobave plina ali električne
+energije.
 28. člen
 (posebna določba v primeru državnega lastništva)
 Če je oseba iz 25. ali 27. člena tega zakona Republika
@@ -1081,10 +1162,9 @@ prepove izvajanje posrednega ali neposrednega nadzora iz 21. točke 3.
 (2) Agencija lahko z odločbo naloži enega ali več ukrepov iz
 prejšnjega odstavka, vendar v obsegu, kolikor je to nujno potrebno, da se
 odpravi razlog kršitve zahtev iz 24., 25., 27. ali 28. člena tega zakona.
-(3) Če je odločbo iz prvega odstavka tega člena treba
-izvršiti s prisilitvijo, ne glede na zakon, ki ureja splošni upravni postopek,
-posamična denarna kazen v postopku izvršbe s prisilitvijo ne sme presegati
-100.000 eurov.
+(3) Če je odločbo iz prvega odstavka tega člena treba izvršiti
+s prisilitvijo, ne glede na zakon, ki ureja splošni upravni postopek, posamična
+denarna kazen v postopku izvršbe s prisilitvijo ne sme presegati 100.000 eurov.
 (4) Če z ukrepi iz tega člena ni mogoče odpraviti razloga
 kršitve z zahtevami iz 24., 25., 27. ali 28. člena tega zakona, začne agencija
 postopek preizkusa pogojev za certifikat.
@@ -1130,8 +1210,8 @@ vzpostavitev ustreznih družb, tudi z enim ali več operaterji prenosnih
 sistemov, borzami plina in drugimi ustreznimi deležniki za napredek pri
 vzpostavljanju regionalnih trgov ali olajšanje procesa liberalizacij;
 8.     
-opravljanje skupnih storitev, tudi pravnih, računovodskih in
-informacijskih storitev, ter
+opravljanje skupnih storitev, tudi pravnih, računovodskih in informacijskih
+storitev, ter
 9.     
 druge naloge, ki jih določa ta zakon za operaterja prenosnega sistema.
 (3) Operater prenosnega sistema ne sme v firmi družbe, v
@@ -1217,9 +1297,9 @@ integriranem podjetju)
 integriranim podjetjem in operaterjem prenosnega sistema morajo biti v skladu s
 tržnimi pogoji. Posojila operaterja prenosnega sistema vertikalno integriranemu
 podjetju niso dovoljena.
-(2) Operater prenosnega sistema mora voditi evidenco
-komercialnih in finančnih razmerij iz prejšnjega odstavka ter agenciji na
-zahtevo omogočiti dostop do nje.
+(2) Operater prenosnega sistema mora voditi evidenco komercialnih
+in finančnih razmerij iz prejšnjega odstavka ter agenciji na zahtevo omogočiti
+dostop do nje.
 (3) Operater prenosnega sistema mora predložiti agenciji v
 soglasje komercialne in finančne pogodbe ali sporazume z vertikalno
 integriranim podjetjem.
@@ -1240,11 +1320,11 @@ statut družbe operaterja prenosnega sistema morata zagotavljati dejansko
 neodvisnost operaterja prenosnega sistema v skladu z 31. do 44. členom tega
 zakona.
 (2) Vertikalno integrirano podjetje ne sme neposredno ali
-posredno po svojih predstavnikih v organih operaterja prenosnega sistema določati
-ravnanja operaterja prenosnega sistema pri dejavnostih in upravljanju sistema
-ter zagotavljanju konkurenčnosti tega delovanja ali dejavnostih, potrebnih za
-pripravo desetletnega načrta za razvoj omrežja na podlagi 42. člena tega
-zakona.
+posredno po svojih predstavnikih v organih operaterja prenosnega sistema
+določati ravnanja operaterja prenosnega sistema pri dejavnostih in upravljanju
+sistema ter zagotavljanju konkurenčnosti tega delovanja ali dejavnostih,
+potrebnih za pripravo desetletnega načrta za razvoj omrežja na podlagi 42.
+člena tega zakona.
 (3) Operater prenosnega sistema mora pri opravljanju nalog iz
 tega zakona in pri upoštevanju prvega odstavka 13. člena, točke a) prvega
 odstavka 14. člena, drugega, tretjega in petega odstavka 16. člena, šestega
@@ -1292,9 +1372,9 @@ mesecih pred imenovanjem niso opravljali nobene vodstvene ali druge pomembne
 dejavnosti v vertikalno integriranem podjetju.
 (7) Osebe, pristojne za upravljanje, člani uprave in
 zaposleni pri operaterju prenosnega sistema ne smejo imeti druge poklicne
-funkcije ali odgovornosti, neposrednega ali posrednega interesa v delu vertikalno
-integriranega podjetja, ki ni operater prenosnega sistema, od njega ne smejo
-pridobivati finančnih koristi ali imeti poslovnega odnosa z njegovimi
+funkcije ali odgovornosti, neposrednega ali posrednega interesa v delu
+vertikalno integriranega podjetja, ki ni operater prenosnega sistema, od njega
+ne smejo pridobivati finančnih koristi ali imeti poslovnega odnosa z njegovimi
 delničarji ali družbeniki s kontrolnim deležem.
 (8) Plačilo oseb, odgovornih za upravljanje, članov uprave in
 zaposlenih pri operaterju prenosnega sistema ne sme biti odvisno od dejavnosti
@@ -1452,8 +1532,8 @@ se obravnavajo naslednje zadeve:
 -       
 pogoji za dostop do omrežja iz Uredbe 715/2009/ES, zlasti v zvezi s
 tarifami, storitvami, povezanimi z dostopom tretjih strani, dodeljevanjem
-zmogljivosti in upravljanjem prezasedenosti, preglednostjo, usklajevanjem in
-sekundarnimi trgi;
+zmogljivosti in upravljanjem prezasedenosti, preglednostjo, usklajevanjem in sekundarnimi
+trgi;
 -       
 projekti za obratovanje, vzdrževanje in razvoj prenosnih omrežij, tudi
 naložbe v nove prenosne povezave, povečanje zmogljivosti in izboljšanje uporabe
@@ -1523,8 +1603,8 @@ razvojnega načrta omrežja.
 (2) Če operater prenosnega sistema zaradi razlogov, na katere
 nima vpliva, ne izvede naložbe, ki jo je treba v skladu z desetletnim razvojnim
 načrtom omrežja izvesti v naslednjih treh letih in je še vedno pomembna na
-podlagi najnovejšega desetletnega razvojnega načrta omrežja, agencija od
-operaterja prenosnega sistema zahteva:
+podlagi najnovejšega desetletnega razvojnega načrta omrežja, agencija od operaterja
+prenosnega sistema zahteva:
 -       
 izvedbo naložbe ali
 -       
@@ -1611,8 +1691,8 @@ izvršiti s prisilitvijo, ne glede na zakon, ki ureja splošni upravni postopek,
 posamična denarna kazen v postopku izvršbe s prisilitvijo ne sme presegati
 100.000 eurov.
 (9) Če z ukrepi iz tega člena ni mogoče odpraviti razloga za
-kršitev zahtev iz 31. do 44. člena tega zakona, začne agencija postopek preizkusa
-pogojev za certifikat.
+kršitev zahtev iz 31. do 44. člena tega zakona, začne agencija postopek
+preizkusa pogojev za certifikat.
 3. pododdelek: Certificiranje in imenovanje operaterja
 prenosnega sistema
 46. člen
@@ -1678,20 +1758,19 @@ državo šteje tudi država članica EU, za katero velja odstopanje iz 49. člen
 Direktive 2009/73/ES.
 (2) Agencija o prejemu vloge in okoliščinah, zaradi katerih
 bi oseba ali osebe iz tretje države ali tretjih držav lahko pridobile nadzor iz
-21. točke 3. člena tega zakona nad prenosnim sistemom ali operaterjem
-prenosnega sistema, nemudoma obvesti Evropsko komisijo.
+21. točke 3. člena tega zakona nad prenosnim sistemom ali operaterjem prenosnega
+sistema, nemudoma obvesti Evropsko komisijo.
 (3) Operater prenosnega sistema nemudoma obvesti agencijo o
 okoliščinah, zaradi katerih bi oseba ali osebe iz tretje države ali tretjih
 držav lahko pridobila ali pridobile nadzor iz 21. točke 3. člena tega zakona
 nad prenosnim sistemom ali operaterjem prenosnega sistema.
 (4) V postopku certificiranja po tem členu se ne uporablja
 domneva izdaje certifikata iz tretjega odstavka 47. člena tega zakona.
-(5) Vlagatelj zahteve za izdajo certifikata iz prvega
-odstavka tega člena mora v postopku certificiranja agenciji dokazati, da
-izpolnjuje pogoje iz 24., 25., 27. in 28. člena ali zahteve iz 31. do 44. člena
-tega zakona ter da izdaja certifikata ne bo ogrozila zanesljivosti oskrbe
-Republike Slovenije ali druge države članice EU z energijo. Pri tem agencija
-upošteva:
+(5) Vlagatelj zahteve za izdajo certifikata iz prvega odstavka
+tega člena mora v postopku certificiranja agenciji dokazati, da izpolnjuje
+pogoje iz 24., 25., 27. in 28. člena ali zahteve iz 31. do 44. člena tega
+zakona ter da izdaja certifikata ne bo ogrozila zanesljivosti oskrbe Republike
+Slovenije ali druge države članice EU z energijo. Pri tem agencija upošteva:
 -       
 pravice in obveznosti EU v zvezi s tretjo državo, ki izhajajo iz
 mednarodnega prava ter iz sporazumov, sklenjenih z eno ali več tretjimi
@@ -1724,9 +1803,9 @@ razlikuje od mnenja Evropske komisije, se objavi tudi obrazložitev odločbe
 agencije.
 50. člen
 (postopek preizkusa pogojev za certifikat)
-(1) Agencija spremlja, ali operater prenosnega sistema
-izpolnjuje zahteve iz 24., 25., 27. in 28. člena tega zakona. Agencija po
-uradni dolžnosti začne postopek preizkusa pogojev za certifikat, če:
+(1) Agencija spremlja, ali operater prenosnega sistema izpolnjuje
+zahteve iz 24., 25., 27. in 28. člena tega zakona. Agencija po uradni dolžnosti
+začne postopek preizkusa pogojev za certifikat, če:
 -       
 prejme obvestilo operaterja prenosnega sistema iz drugega odstavka 29.
 člena tega zakona;
@@ -1741,9 +1820,9 @@ prenosnega sistema ali operaterja prenosnega sistema do kršitve zahtev iz 24.,
 skladu z devetim odstavkom 45. člena tega zakona;
 -       
 tako utemeljeno zahteva Evropska komisija.
-(2) V postopku za preizkus pogojev za certifikat se uporabljajo
-določbe tega zakona o rednem postopku certificiranja, če ni v tem členu ta
-postopek urejen drugače.
+(2) V postopku za preizkus pogojev za certifikat se
+uporabljajo določbe tega zakona o rednem postopku certificiranja, če ni v tem
+členu ta postopek urejen drugače.
 (3) Domneva iz tretjega odstavka 47. člena tega zakona se
 uporablja v postopku preizkusa pogojev za certifikat le v primeru iz prve in
 četrte alineje prvega odstavka tega člena. Štirimesečni rok za uveljavitev
@@ -1764,8 +1843,8 @@ odločbe.
 (1) Če so po dokončnosti odločbe o izdaji certifikata ali po
 vzpostavitvi domneve iz tretjega odstavka 47. člena tega zakona pri določeni
 pravni ali fizični osebi izpolnjeni pogoji iz prve in druge alineje tretjega
-odstavka 20. člena tega zakona, jo s sklepom imenuje vlada na predlog agencije
-za operaterja prenosnega sistema.
+odstavka 20. člena tega zakona, jo s sklepom imenuje vlada na predlog agencije za
+operaterja prenosnega sistema.
 (2) Vlada na predlog agencije, na podlagi dokončne odločbe o
 ugotovitvi neizpolnjevanja pogojev, razveljavi sklep o imenovanju operaterja
 prenosnega sistema, če operater prenosnega sistema ne izpolnjuje enega izmed
@@ -1801,8 +1880,8 @@ prenosnega sistema in operaterjem iz prve alineje tega odstavka v zvezi z
 začasnim izvajanjem dejavnosti operaterja prenosnega sistema.
 (2) Operater iz prve alineje prejšnjega odstavka opravlja
 dejavnosti operaterja prenosnega sistema do prevzema opravljanja dejavnosti
-drugega operaterja prenosnega sistema, ki izpolnjuje pogoje iz tretjega
-odstavka 20. člena tega zakona.
+drugega operaterja prenosnega sistema, ki izpolnjuje pogoje iz tretjega odstavka
+20. člena tega zakona.
 (3) Če lastnik ali solastniki prenosnega sistema v enem letu
 od dokončnosti odločbe iz prvega odstavka tega člena ne zagotovi ali
 zagotovijo, da začne dejavnost operaterja prenosnega sistema na njihovem
@@ -1828,10 +1907,10 @@ učinkovitosti in gospodarskega ravnotežja.
 54. člen
 (naloge operaterja skladiščnega sistema in sistema za UZP)
 (1) Operater skladiščnega sistema ali sistema za UZP mora
-obratovati z varnimi, zanesljivimi in učinkovitimi napravami za prenos in skladiščenje
-ali z obrati za UZP, vzdrževati in razvijati naprave glede na gospodarske
-razmere in upoštevanje varovanja okolja ter zagotoviti ustrezne načine za
-izpolnitev obveznosti storitev.
+obratovati z varnimi, zanesljivimi in učinkovitimi napravami za prenos in
+skladiščenje ali z obrati za UZP, vzdrževati in razvijati naprave glede na
+gospodarske razmere in upoštevanje varovanja okolja ter zagotoviti ustrezne
+načine za izpolnitev obveznosti storitev.
 (2) Operater skladiščnega sistema ali sistema za UZP ne sme
 diskriminirati uporabnikov sistema ali vrst uporabnikov sistema, zlasti ne v
 korist svojih povezanih podjetij.
@@ -1840,9 +1919,9 @@ operaterju prenosnega sistema, drugemu operaterju skladiščnega sistema, drugem
 operaterju sistema za UZP ali operaterju distribucijskega sistema informacije
 za zagotovitev prenosa in skladiščenja plina, ki bosta združljiva z varnim in
 učinkovitim obratovanjem povezanega sistema.
-(4) Operater skladiščnega sistema ali sistema za UZP uporabnikom
-sistema zagotovi informacije, ki jih potrebujejo za učinkovit dostop do
-sistema.
+(4) Operater skladiščnega sistema ali sistema za UZP
+uporabnikom sistema zagotovi informacije, ki jih potrebujejo za učinkovit
+dostop do sistema.
 55. člen
 (ločevanje operaterjev skladiščnih sistemov)
 (1) Operater skladiščnega sistema, katerega objekti so
@@ -1886,9 +1965,8 @@ poročilo o sprejetih ukrepih, ki ga objavi tudi na njegovi spletni strani.
 (5) Če Evropska komisija sprejme smernice za zagotovitev
 učinkovitega izpolnjevanja zahtev iz tega člena, operater skladiščnega sistema
 ravna v skladu s temi smernicami.
-4. oddelek: Zaupnost podatkov za operaterje prenosnih
-sistemov, skladiščnih sistemov in sistemov za UZP ter lastnike prenosnih
-sistemov
+4. oddelek: Zaupnost podatkov za operaterje prenosnih sistemov,
+skladiščnih sistemov in sistemov za UZP ter lastnike prenosnih sistemov
 56. člen
 (obveznost varovanja zaupnosti)
 (1) Operater prenosnega sistema, operater skladiščnega
@@ -1916,8 +1994,8 @@ izvajanja gospodarske javne službe na podlagi koncesije.
 (1) Operater prenosnega sistema, operaterji skladiščnih
 sistemov ali operaterji sistemov za UZP pri prodaji ali nabavi plina prek
 povezanih podjetij ne smejo zlorabiti poslovno občutljivih podatkov,
-pridobljenih od tretjih oseb v okviru zagotavljanja dostopa do sistema ali pogajanja
-o njem.
+pridobljenih od tretjih oseb v okviru zagotavljanja dostopa do sistema ali
+pogajanja o njem.
 (2) Operater prenosnega sistema, operaterji skladiščnih
 sistemov ali operaterji sistemov za UZP morajo objaviti podatke, potrebne za
 učinkovito konkurenco in uspešno delovanje trga, razen poslovno občutljivih
@@ -2433,14 +2511,60 @@ odjemalcev v Republiki Sloveniji.
 (9) Vlada z uredbo predpiše podrobna pravila o delovanju trga
 s plinom, obračunavanju odstopanj prevzema in predaje plina, menjavi
 dobavitelja ter preostale prvine delovanja trga s plinom.
+80.a člen
+(enoten informacijski sistem)
+(1) Operater prenosnega sistema vzpostavi, upravlja in
+vzdržuje enoten informacijski sistem (v nadaljnjem besedilu: EIS), potreben za
+delovanje trga s plinom in zagotavljanje zanesljive oskrbe s plinom. Operater
+prenosnega sistema pripravi pravila za dostop in delovanje EIS ter jih po
+prejetem soglasju agencije objavi na svoji spletni strani.
+(2) V EIS se vodijo:
+-       
+podatki o odjemnih mestih,
+-       
+podatki o pripadnosti odjemnih mest operaterju sistema, dobavitelju,
+bilančni skupini in skupini glede na namen porabe plina,
+-       
+podatki o porabi plina,
+-       
+drugi podatki, potrebni za delovanje trga s plinom in za zagotavljanje
+zanesljivosti oskrbe s plinom.
+(3) Operaterji sistema in dobavitelji imajo dostop do EIS ter
+zagotavljajo informacije in podatke iz prejšnjega odstavka.
+(4) Dostop do podatkov iz EIS o posameznih odjemnih mestih
+imajo tudi operaterji distribucijskih sistemov za odjemalce, priključene na
+njihov distribucijski sistem, in dobavitelji plina za odjemalce, katerim
+dobavljajo plin.
+(5) Dostop do EIS ter do agregiranih in posamičnih podatkov
+glede porabe plina na odjemnih mestih imajo ministrstvo, center za podpore in
+agencija.
+(6) Stroški zagotavljanja EIS so upravičeni stroški
+operaterja prenosnega sistema skladno z merili upravičenih stroškov, določenih
+v splošnem aktu, s katerim agencija predpiše metodologijo za določitev
+regulativnega okvira. Dostop do EIS, do podatkov iz EIS in uporaba EIS je
+brezplačna.
+80.b člen
+(osnovna oskrba s plinom)
+(1) Osnovna oskrba je oskrba s plinom, ki jo morajo
+zagotavljati vsi dobavitelji za odjemalce osnovne oskrbe in za tiste odjemalce
+osnovne oskrbe, ki nimajo sklenjene pogodbe o dobavi plina. Dobavitelj mora
+odjemalcem iz prejšnjega stavka na distribucijskem sistemu zagotoviti ponudbo
+za osnovno oskrbo in ne sme zavrniti osnovne oskrbe s plinom. Odjemalec osnovne
+oskrbe lahko pri dobavitelju izbere dobavo plina po ceni osnovne oskrbe.
+(2) Dobavitelj plina odjemalcem osnovne oskrbe iz prejšnjega
+odstavka ceno plina za osnovno oskrbo določi in objavi v ceniku glede na
+značilnost odjema vrste odjemalcev osnovne oskrbe in periodo obračuna, pri
+čemer je cena plina za osnovno oskrbo lahko višja od tržne cene plina za
+primerljive nove odjemalce dobavitelja, vendar največ za
+20 eurov/1 MWh.
 2. pododdelek: Dostop do prenosnega sistema
 81. člen
 (sistem vstopnih in izstopnih točk)
 (1) Operater prenosnega sistema zagotovi dostop do prenosnega
 sistema s sklepanjem pogodb o prenosu na vstopnih in izstopnih točkah
-prenosnega sistema ločeno za točke, na katerih je priključen distribucijski sistem,
-in za točke, kjer so neposredno na sistem priključeni končni odjemalci ali
-proizvajalci.
+prenosnega sistema ločeno za točke, na katerih je priključen distribucijski
+sistem, in za točke, kjer so neposredno na sistem priključeni končni odjemalci
+ali proizvajalci.
 (2) Tehnične zmogljivosti posameznih točk prenosnega sistema
 ter njihove omejitve določa in dnevno objavi operater prenosnega sistema na
 svoji spletni strani. Prenos plina med vstopnimi in izstopnimi točkami se
@@ -2451,12 +2575,12 @@ objavi v skladu z Uredbo 715/2009/ES, potrdi agencija po predhodnem
 posvetovanju z uporabniki omrežja.
 82. člen
 (pogodbe o prenosu)
-(1) Uporabniki prenosnega sistema lahko sklenejo ločeno
-pogodbo o prenosu za eno ali več vstopnih točk ali ločeno pogodbo o prenosu za
-eno ali več izstopnih točk iz prenosnega sistema.
+(1) Uporabniki prenosnega sistema lahko sklenejo ločeno pogodbo
+o prenosu za eno ali več vstopnih točk ali ločeno pogodbo o prenosu za eno ali
+več izstopnih točk iz prenosnega sistema.
 (2) Posamezne pogodbe, ki jih uporabniki sistema sklenejo za
-vstopne ali izstopne točke, so lahko sklenjene za različne prenosne
-zmogljivosti in različna obdobja.
+vstopne ali izstopne točke, so lahko sklenjene za različne prenosne zmogljivosti
+in različna obdobja.
 (3) Pogodba o prenosu se lahko sklene, če to dopuščajo
 tehnična zmogljivost prenosnega sistema in omejitve tehnične zmogljivosti
 posamezne vstopne ali izstopne točke.
@@ -2486,10 +2610,12 @@ pogodbe.
 Republiki Sloveniji, mora skleniti bilančno pogodbo, s katero oblikuje bilančno
 skupino.
 (3) Nosilec bilančne skupine sklene bilančno pogodbo ter
-izvaja napovedi odjema in oddaje plina v prenosni sistem za člane bilančne
-skupine za vsak obračunski interval, pri čemer so vključene tudi vse
-transakcije na virtualni točki, operater prenosnega sistema pa nosilcu bilančne
-skupine obračunava odstopanja med odjemom in oddajo plina za bilančno skupino.
+izvaja napovedi odjema in oddaje plina v prenosni sistem za člane bilančne skupine
+za vsak obračunski interval, pri čemer so vključene tudi vse transakcije na
+virtualni točki, operater prenosnega sistema pa nosilcu bilančne skupine
+obračunava odstopanja med odjemom in oddajo plina za bilančno skupino s
+prilagoditvijo za pokrivanje sistemskih razlik, ki so posledica merilnih
+negotovosti.
 (4) Nosilec bilančne skupine mora operaterju prenosnega
 sistema napovedati količine plina za bilančno skupino na posamezni vstopni
 točki v prenosni sistem, in sicer ločeno za posamezno pogodbo o dobavi, v
@@ -2511,9 +2637,9 @@ obratovalnimi navodili preveriti usklajenost napovedi fizičnih in navideznih
 tokov plina iz prejšnjega odstavka. Če operater prenosnega sistema ugotovi, da
 napovedi odjema in oddaje niso skladne, napovedi zavrne. Zavrnjenih napovedi
 uporabniki sistema ne smejo izvesti.
-(6) Nosilec bilančne skupine mora vzpostaviti in voditi
-evidenco odjemnih in prevzemnih mest, ki neposredno ali posredno pripadajo
-njegovi bilančni skupini, in podatke redno pošiljati v skladu s sistemskimi
+(6) Nosilec bilančne skupine mora vzpostaviti in voditi evidenco
+odjemnih in prevzemnih mest, ki neposredno ali posredno pripadajo njegovi
+bilančni skupini, in podatke redno pošiljati v skladu s sistemskimi
 obratovalnimi navodili operaterju sistema, na čigar omrežju so pripadajoča
 odjemna ali prevzemna mesta. Evidenco in podatke iz prejšnjega stavka mora
 voditi in pošiljati nosilec bilančne skupine, organizirane po strukturi
@@ -2522,8 +2648,8 @@ bilančne skupine in bilančnih podskupin.
 prenosnega sistema in nosilcu bilančne skupine potrebne podatke za izvedbo
 obračuna odstopanj med odjemom in oddajo plina na prenosnem sistemu ločeno po
 bilančnih skupinah in podskupinah na distribucijskem sistemu. Pri tem so
-posebej po bilančnih skupinah navedeni podatki o prevzemu plina v
-distribucijski sistem prek prevzemnih mest na distribucijskem sistemu.
+posebej po bilančnih skupinah navedeni podatki o prevzemu plina v distribucijski
+sistem prek prevzemnih mest na distribucijskem sistemu.
 (8) Podrobnejša pravila o izravnavi odstopanj, ki so
 objektivna, pregledna in nediskriminatorna, določi operater prenosnega sistema
 v sistemskih obratovalnih navodilih.
@@ -2614,8 +2740,8 @@ navodili in pogodbo o dostopu, ki se lahko sklene za manjšo zmogljivost, kot je
 tehnična zmogljivost priključka.
 (2) Lastnik objekta lahko za sklenitev pogodbe o dostopu do
 distribucijskega sistema z operaterjem distribucijskega sistema pooblasti
-dobavitelja, ki mu dobavlja plin, pogodbo pa sklene v imenu in za račun
-lastnika objekta.
+dobavitelja, ki mu dobavlja plin, pogodbo pa sklene v imenu in za račun lastnika
+objekta.
 (3) Zavrnitev sklenitve pogodbe o dostopu za zahtevano
 zmogljivost pomeni zavrnitev dostopa po 78. členu tega zakona.
 89. člen
@@ -2666,9 +2792,9 @@ enotna in podrobna pravila o izmenjavi podatkov, lastništvu podatkov in
 odgovornosti za merjenje porabe.
 (3) V sistemskih obratovalnih navodilih morajo biti
 opredeljene vloge in odgovornosti operaterjev sistemov, dobaviteljev,
-odjemalcev, proizvajalcev in po potrebi drugih udeležencev na trgu glede na
-pogodbene dogovore, obveznosti do odjemalcev, izmenjavo podatkov ter pravil
-glede poravnave, lastništvo podatkov in odgovornost za merjenje porabe.
+odjemalcev, proizvajalcev in po potrebi drugih udeležencev na trgu glede na pogodbene
+dogovore, obveznosti do odjemalcev, izmenjavo podatkov ter pravil glede
+poravnave, lastništvo podatkov in odgovornost za merjenje porabe.
 (4) Sistemska obratovalna navodila za posamezen prenosni ali
 distribucijski sistem izda po javnem pooblastilu operater sistema, ki na tem
 sistemu opravlja dejavnost operaterja sistema, in jih objavi v Uradnem listu
@@ -2783,12 +2909,12 @@ izdanega soglasja.
 posebne ali izključne pravice izvajanja gospodarske javne službe dejavnost
 operaterja distribucijskega sistema, lahko operater prenosnega sistema izda
 soglasje za priključitev le, če operater distribucijskega sistema plina zavrne
-priključitev tega uporabnika sistema zaradi premajhne zmogljivosti distribucijskega
-sistema. V postopku izdaje soglasja za priključitev na prenosni sistem na
-območju posebne ali izključne pravice izvajanja gospodarske javne službe
-dejavnost operaterja distribucijskega sistema se lahko udeležuje postopka
-izdaje soglasja kot stranski udeleženec imenovani operater distribucijskega
-sistema na predmetnem območju.
+priključitev tega uporabnika sistema zaradi premajhne zmogljivosti
+distribucijskega sistema. V postopku izdaje soglasja za priključitev na
+prenosni sistem na območju posebne ali izključne pravice izvajanja gospodarske
+javne službe dejavnost operaterja distribucijskega sistema se lahko udeležuje
+postopka izdaje soglasja kot stranski udeleženec imenovani operater
+distribucijskega sistema na predmetnem območju.
 (13) Za proizvajalca vodika, ki se želi priključiti in v
 sistem oddajati vodik, ne velja omejitev priključitve na prenosni sistem iz
 prejšnjega odstavka.
@@ -2885,7 +3011,8 @@ uporablja ali oddaja plin brez zahtevanih ali dogovorjenih merilnih
 naprav ali mimo njih;
 8.     
 ne plača odstopanj ali omrežnine za uporabo sistema v roku, določenem v
-skladu s sistemskimi obratovalnimi navodili;
+skladu s sistemskimi obratovalnimi navodili ali dobavitelju nadomestne oskrbe
+ne plača stroškov oskrbe s plinom;
 9.     
 v roku, ki ga določi operater sistema ali pristojni inšpekcijski organ,
 ne odstrani ali ne zniža do dovoljene meje motenj, ki jih povzročajo njegovi
@@ -2947,9 +3074,9 @@ svoje energetske naprave ali napeljave.
 (1) Operater sistema uporabnika sistema, ki je bil
 odklopljen, na njegove stroške znova priključi na sistem po odpravi razlogov za
 odklop in ob izpolnjevanju pogojev iz tega oddelka tega zakona.
-(2) Če uporabnik sistema v primeru odklopa iz 96. in 97. člena
-tega zakona v roku treh let ne odpravi razlogov za odklop, ga operater sistema
-trajno odklopi.
+(2) Če uporabnik sistema v primeru odklopa iz 96. in 97.
+člena tega zakona v roku treh let ne odpravi razlogov za odklop, ga operater
+sistema trajno odklopi.
 (3) Priključitev uporabnika sistema na priključku, kjer je
 bil izveden trajni odklop, je mogoča kot nova priključitev na sistem.
 (4) Operater sistema, ki je uporabnika sistema neutemeljeno
@@ -3227,10 +3354,10 @@ začetkom regulativnega obdobja določi regulativni okvir, v katerem vrednostno
 opredeli načrtovane upravičene stroške po posameznih letih regulativnega
 obdobja, načrtovane omrežnine, načrtovane druge prihodke iz izvajanja
 dejavnosti operaterja sistema, presežke ali primanjkljaje omrežnin iz preteklih
-let. Če je regulativno obdobje daljše od enega leta, regulativni okvir, z namenom
-preprečitve skokovitega spreminjanja tarifnih postavk omrežnine po posameznih
-letih regulativnega obdobja, lahko določa tudi izravnavo tarifnih postavk ali
-omrežnin za prenosni ali distribucijski sistem.
+let. Če je regulativno obdobje daljše od enega leta, regulativni okvir, z
+namenom preprečitve skokovitega spreminjanja tarifnih postavk omrežnine po
+posameznih letih regulativnega obdobja, lahko določa tudi izravnavo tarifnih
+postavk ali omrežnin za prenosni ali distribucijski sistem.
 (2) Regulativni okvir, tarifne postavke omrežnine in tarifne
 postavke za preostale storitve določi operater sistema v skladu s splošnima
 aktoma iz 104. in 110. člena tega zakona s soglasjem agencije.
@@ -3276,9 +3403,10 @@ prihodka nad priznanimi letnimi upravičenimi stroški operaterja sistema.
 (3) Primanjkljaj omrežnine je primanjkljaj priznanega
 reguliranega letnega prihodka za pokrivanje priznanih upravičenih stroškov.
 (4) Presežek ali primanjkljaj omrežnine se ugotovi kot
-razlika med priznanimi upravičenimi stroški in zaračunanimi omrežninami (zmanjšanimi
-za primanjkljaj omrežnine iz preteklih let ali povečanimi za presežek omrežnine
-iz preteklih let) ter priznanimi drugimi letnimi prihodki operaterja sistema.
+razlika med priznanimi upravičenimi stroški in zaračunanimi omrežninami
+(zmanjšanimi za primanjkljaj omrežnine iz preteklih let ali povečanimi za
+presežek omrežnine iz preteklih let) ter priznanimi drugimi letnimi prihodki
+operaterja sistema.
 (5) Presežek omrežnine mora operater sistema uporabiti kot
 plačilo za storitve gospodarske javne službe dejavnost operaterja sistema
 naslednjega ali naslednjih let. Presežek omrežnine se izkaže kot preplačilo
@@ -3293,8 +3421,8 @@ je primanjkljaj ugotovljen. Operater sistema primanjkljaj omrežnine izkaže kot
 terjatev tistega leta regulativnega obdobja, za katerega je primanjkljaj
 omrežnine ugotovljen, če zanesljivo pričakuje, da bo primanjkljaj omrežnine
 zaračunan in plačan v naslednjih obdobjih. Operater sistema znesek
-primanjkljaja omrežnine upošteva pri določitvi omrežnine v naslednjem
-regulativnem ali naslednjih regulativnih obdobjih.
+primanjkljaja omrežnine upošteva pri določitvi omrežnine v naslednjem regulativnem
+ali naslednjih regulativnih obdobjih.
 (7) Operater sistema mora agenciji predložiti izračun
 presežka ali primanjkljaja omrežnine posameznega leta regulativnega obdobja v
 15 dneh od prejema revizorjevega poročila oziroma najpozneje v šestih mesecih
@@ -3312,10 +3440,10 @@ tega odstavka se uporablja tudi v primeru, da sodišče v upravnem sporu spremen
 odločbo o ugotovljenem odstopanju od regulativnega okvira.
 (9) Operater sistema lahko izjemoma med regulativnim obdobjem
 vloži zahtevo za izdajo soglasja k regulativnemu okviru, če je zaradi
-nepričakovanih sprememb v obsegu uporabe sistema ali drugih nepričakovanih okoliščin
-nastal tolikšen presežek ali primanjkljaj omrežnine, v primerjavi z načrtovanim
-primanjkljajem iz 105. člena tega zakona, da ga brez te spremembe ne bo mogoče
-izravnati pri določitvi regulativnega okvira v naslednjih regulativnih
+nepričakovanih sprememb v obsegu uporabe sistema ali drugih nepričakovanih
+okoliščin nastal tolikšen presežek ali primanjkljaj omrežnine, v primerjavi z
+načrtovanim primanjkljajem iz 105. člena tega zakona, da ga brez te spremembe
+ne bo mogoče izravnati pri določitvi regulativnega okvira v naslednjih regulativnih
 obdobjih.
 (10) Določbe o poračunavanju presežka ali primanjkljaja
 omrežnine se uporabljajo tudi, če dejavnost operaterja sistema na zadevnem
@@ -3365,9 +3493,9 @@ obračunava omrežnina za uporabo distribucijskega sistema.
 111. člen
 (določitev tarifnih postavk)
 (1) Tarifne postavke mora operater sistema določiti v skladu
-z metodologijo iz prejšnjega člena tako, da ob načrtovani uporabi sistema prihodki
-iz omrežnin dosežejo znesek reguliranega prihodka iz omrežnin v regulativnem
-obdobju, pri čemer ne sme diskriminirati oddaljenih območij.
+z metodologijo iz prejšnjega člena tako, da ob načrtovani uporabi sistema
+prihodki iz omrežnin dosežejo znesek reguliranega prihodka iz omrežnin v
+regulativnem obdobju, pri čemer ne sme diskriminirati oddaljenih območij.
 (2) Tarifne postavke za druge storitve, ki niso vsebovane v
 omrežnini in jih operater sistema zaračunava uporabnikom sistema, določi
 operater sistema v soglasju z agencijo tako, da upošteva dejanske stroške teh
@@ -3412,8 +3540,8 @@ sporočati agenciji na predpisan način in v predpisanih rokih.
 (2) Operater sistema lahko za izvajanje monitoringa iz
 prejšnjega odstavka pooblasti drugo osebo, pri čemer je odgovoren za pravilno
 in pravočasno izvajanje monitoringa in pošiljanje podatkov agenciji.
-(3) Agencija lahko opravi nadzor monitoringa kakovosti pri operaterju
-sistema ali osebi, ki opravlja monitoring.
+(3) Agencija lahko opravi nadzor monitoringa kakovosti pri
+operaterju sistema ali osebi, ki opravlja monitoring.
 (4) Postopek nadzora mora biti voden tako, da ne ovira
 poslovanja operaterja sistema in izvajanja dejavnosti operaterja sistema ter da
 ne nalaga operaterju sistema nesorazmernih bremen v zvezi s presojo
@@ -3470,28 +3598,33 @@ električno energijo in plinom ter
 -       
 dogovore o pogojih in praktičnih podrobnostih za medsebojno
 solidarnostno pomoč.
-(4) Ministrstvo o sodelovanju iz prejšnjega odstavka obvesti Evropsko
-komisijo in druge države članice EU.
+(4) Ministrstvo o sodelovanju iz prejšnjega odstavka obvesti
+Evropsko komisijo in druge države članice EU.
 (5) Če je v preteklem koledarskem letu dobavitelj zagotavljal
 dobavo plina za končne odjemalce v Republiki Sloveniji, mora v tekočem
-koledarskem letu v primeru razglašene ene izmed stopenj krize pri oskrbi s plinom
-v skladu z drugim odstavkom 118. člena tega zakona zagotavljati možnost dobave
-plina iz vsaj dveh različnih dobavnih virov.
+koledarskem letu v primeru razglašene ene izmed stopenj krize pri oskrbi s
+plinom v skladu z drugim odstavkom 118. člena tega zakona zagotavljati možnost
+dobave plina iz vsaj dveh različnih dobavnih virov.
 116. člen
 (imenovanje pristojnega organa iz Uredbe 2017/1938/EU)
-(1) Pristojni organ je agencija.
-(2) Agencija lahko posebne naloge iz drugega odstavka 3.
-člena Uredbe 2017/1938/EU prenese na druge organe.
+(1) V skladu s 3. členom Uredbe 2017/1938/EU je
+pristojni organ ministrstvo.
+(2) Pristojni organ lahko posebne naloge pristojnega organa v
+skladu z drugim odstavkom 3. člena Uredbe 2017/1938/EU prenese na agencijo
+ali operaterja prenosnega sistema.
+(3) Naloge pristojnega organa pri izvajanju določb priloge
+III Uredbe 2017/1938/EU izvaja agencija.
 117. člen
 (zaščiteni odjemalci)
 (1) Zaščiteni odjemalci iz 5. točke 2. člena Uredbe
-2017/1938/EU so poleg gospodinjskih odjemalcev, ki so priključeni na
+2017/1938/EU so poleg gospodinjskih odjemalcev, skupnih gospodinjskih
+odjemalcev, vrtcev, osnovnih šol in zdravstvenih domov, ki so priključeni na
 distribucijski sistem, tudi:
 -       
 distributerji toplote za daljinsko ogrevanje v napravah, ki ne morejo
 preiti na drugo gorivo ali vir toplote kot plin, v obsegu, kolikor dobavljajo
-toploto gospodinjskim odjemalcem in osnovnim socialnim službam, razen
-izobraževalnim ali javnoupravnim službam;
+toploto gospodinjstvom in osnovnim socialnim službam, razen izobraževalnim ali
+javnoupravnim službam;
 -       
 osnovne socialne službe, ki so priključene na distribucijski ali
 prenosni sistem in niso izobraževalne ali javnoupravne službe.
@@ -3500,37 +3633,37 @@ izvajalci zdravstvene dejavnosti, dijaški in študentski domovi ter izvajalci
 socialnovarstvenih storitev institucionalnega varstva, vsi s stalno ali začasno
 nastanitvijo varovancev, ter zapori.
 (3) Solidarnostno zaščiteni odjemalci iz 6. točke 2. člena
-Uredbe 2017/1938/EU so zaščiteni odjemalci iz prvega odstavka tega člena.
+Uredbe 2017/1938/EU so zaščiteni odjemalci iz prvega odstavka tega člena, razen
+vrtcev, osnovnih šol in zdravstvenih domov.
 (4) V sporih, ali je oseba zaščiteni odjemalec, odloča
 agencija po postopku, ki ga predpisuje zakon, ki ureja agencijo.
 (5) Operater sistema vodi evidenco odjemnih mest in na
-podlagi svojih podatkov in podatkov končnih odjemalcev evidentira, katera odjemna
-mesta oskrbujejo zaščitene odjemalce in solidarnostno zaščitene odjemalce iz
-tega člena. Odjemalec mora o vsakokratni spremembi podatka o odjemnem mestu za
-zaščitene in solidarnostno zaščitene odjemalce to sporočiti operaterju sistema
-najpozneje v 30 dneh od spremembe na obrazcu, ki ga pripravi operater sistema
-in objavi na svoji spletni strani.
+podlagi svojih podatkov in podatkov končnih odjemalcev evidentira, katera
+odjemna mesta oskrbujejo zaščitene odjemalce in solidarnostno zaščitene
+odjemalce iz tega člena. Odjemalec mora o vsakokratni spremembi podatka o
+odjemnem mestu za zaščitene in solidarnostno zaščitene odjemalce to sporočiti
+operaterju sistema najpozneje v 30 dneh od spremembe na obrazcu, ki ga pripravi
+operater sistema in objavi na svoji spletni strani.
 (6) Odjemno mesto, prek katerega se oskrbuje s plinom
 zaščiteni odjemalec, je v evidenci odjemnih mest označeno z ločeno oznako »Z«.
 Operater sistema odjemalcem in njihovim dobaviteljem brezplačno zagotovi
 podatek o tem, ali je odjemalec zaščiteni odjemalec.
-(7) Odjemalci, razen gospodinjskih odjemalcev, morajo
-operaterju sistema, na čigar sistem so priključeni, sporočiti podatke o svojih
-plinskih napravah zaradi izvedbe ukrepa neprostovoljnega zmanjšanja ali
-prekinitve odjema plina iz 119. člena tega zakona. Če podatki niso sporočeni,
-operater sistema odloči na podlagi podatkov, ki jih ima na razpolago, in
-splošnih značilnostih plinskih naprav posamezne vrste odjemalca. Obrazce za
-sporočanje podatkov o plinskih napravah pripravijo operaterji sistema in jih
-objavijo na svoji spletni strani.
+(7) Odjemalci, razen gospodinjskih odjemalcev, morajo operaterju
+sistema, na čigar sistem so priključeni, sporočiti podatke o svojih plinskih
+napravah zaradi izvedbe ukrepa neprostovoljnega zmanjšanja ali prekinitve
+odjema plina iz 119. člena tega zakona. Če podatki niso sporočeni, operater
+sistema odloči na podlagi podatkov, ki jih ima na razpolago, in splošnih
+značilnostih plinskih naprav posamezne vrste odjemalca. Obrazce za sporočanje
+podatkov o plinskih napravah pripravijo operaterji sistema in jih objavijo na
+svoji spletni strani.
 118. člen
 (nujni ukrepi za zagotavljanje zanesljivosti oskrbe)
-(1) Pristojni organ v skladu z Uredbo 2017/1938/EU za področje
-zagotavljanja zanesljivosti oskrbe s plinom pripravi oceno tveganj in sprejme
-načrt preventivnih ukrepov in načrt za izredne razmere. Oba načrta pristojni
-organ objavi na svoji spletni strani. Normativna dela obeh načrtov, ki
-vsebujeta obveznosti podjetij plinskega gospodarstva in odjemalcev, sta splošna
-akta pristojnega organa za izvajanje javnih pooblastil in ju objavi v Uradnem
-listu Republike Slovenije.
+(1) Agencija v skladu z Uredbo 2017/1938/EU za področje
+zagotavljanja zanesljivosti oskrbe s plinom sodeluje v regionalnih rizičnih
+skupinah pri pripravi skupne ocene tveganj ter koordinira in pripravi
+nacionalno oceno tveganj ter predlog načrta preventivnih ukrepov in predlog
+načrta za izredne razmere. Načrt preventivnih ukrepov in načrt za izredne
+razmere sprejme pristojni organ.
 (2) Če je zaradi obsega in trajanja motenj pri oskrbi s
 plinom ali drugih okoliščin ogrožena zanesljiva oskrba s plinom v Republiki
 Sloveniji, pristojni organ ukrepa v skladu z 11. členom Uredbe 2017/1938/EU in
@@ -3540,14 +3673,14 @@ izmed opredeljenih stopenj krize.
 odstavka morajo operaterji sistema storiti vse, da ob varnem obratovanju
 sistema omogočajo prenos in distribucijo plina za dobavo odjemalcem, dokler je
 to mogoče. Dobavitelji plina v Slovenijo morajo aktivno sodelovati med seboj, s
-pristojnim organom in operaterji sistemov pri iskanju rešitev za zagotavljanje
-oskrbe s plinom odjemalcev v Sloveniji.
+pristojnim organom, agencijo in operaterji sistemov pri iskanju rešitev za
+zagotavljanje oskrbe s plinom odjemalcev v Sloveniji.
 (4) Za zagotovitev cilja iz prejšnjega odstavka morajo
-operaterji sistema pripraviti načrt nujnih ukrepov, ki mora vsebovati
-okoliščine za uporabo nujnih ukrepov ter način, čas in obseg njihove izvedbe
-ter biti usklajen z načrtom za izredne razmere, ki ga sprejme pristojni organ.
-Ukrepi morajo biti nediskriminatorni in pregledni ter smejo prizadeti odjemalce
-le toliko, kolikor je potrebno, da se zagotovi zanesljiva oskrba. Načrt nujnih
+operaterji sistema pripraviti načrt nujnih ukrepov, ki mora vsebovati okoliščine
+za uporabo nujnih ukrepov ter način, čas in obseg njihove izvedbe ter biti
+usklajen z načrtom za izredne razmere, ki ga sprejme pristojni organ. Ukrepi
+morajo biti nediskriminatorni in pregledni ter smejo prizadeti odjemalce le
+toliko, kolikor je potrebno, da se zagotovi zanesljiva oskrba. Načrt nujnih
 ukrepov mora operater sistema objaviti na svoji spletni strani in ga poslati
 pristojnemu organu. Operater sistema mora o vsakem primeru izvedbe nujnih
 ukrepov nemudoma obvestiti pristojni organ.
@@ -3595,9 +3728,9 @@ odjemalcev po skupinah glede na vrsto odjema plina iz načrta za izredne
 razmere. Operater sistema za odjemalce v skupinah in za posamezno skupino ter
 pripadajočo bilančno skupno spremlja dnevni odjem plina od razglasitve katere
 koli stopnje izrednih razmer iz načrta za izredne razmere. Operater sistema v
-času izvajanja ukrepa neprostovoljnega zmanjšanja ali prekinitve odjema o dnevnem
-odjemu skupine sproti poroča operaterju prenosnega sistema in pristojnemu
-organu v časovnih intervalih, ki jih določi pristojni organ.
+času izvajanja ukrepa neprostovoljnega zmanjšanja ali prekinitve odjema o
+dnevnem odjemu skupine sproti poroča operaterju prenosnega sistema, agenciji in
+pristojnemu organu v časovnih intervalih, ki jih določi pristojni organ.
 120. člen
 (upravljanje kriznega plina)
 (1) Krizni plin je namenjen oskrbi odjemalcev, ki v skladu z
@@ -3642,8 +3775,10 @@ plinom med izrednimi razmerami in ukrepi neprostovoljnega zmanjšanja ali
 prekinitve odjema plina, ki so objektivna, pregledna in nediskriminatorna,
 določi operater prenosnega sistema v sistemskih obratovalnih navodilih.
 (8) Končni odjemalec, ki mu je bil zmanjšan ali prekinjen
-odjem plina zaradi ukrepov iz prvega odstavka 119. člena tega zakona, je v
-primeru, da mu je s tem nastala škoda, upravičen do nadomestila te škode, in
+odjem plina zaradi ukrepov iz prvega odstavka 119. člena tega zakona, je v
+primeru, da so mu s tem nastali stroški, upravičen do nadomestila dela
+stroškov, ki lahko nastanejo ob prehodu na uporabo nadomestnih tehnologij, ki
+za obratovanje uporabljajo alternativne energente oziroma vire energije, in
 sicer največ do višine, ki se določi v skladu z metodologijo za izračun
 nadomestila ob neprostovoljnem zmanjšanju ali prekinitvi odjema iz desetega
 odstavka tega člena. Končni odjemalec lahko upravičeno nadomestilo zahteva od
@@ -3656,9 +3791,9 @@ neprostovoljnem zmanjšanju ali prekinitvi odjema plina pripravi in s splošnim
 aktom sprejme agencija. Agencija pri pripravi metodologije za izračun
 nadomestila upošteva različne skupine odjemalcev, možne stroške zaradi
 zmanjšanja ali prekinitve odjema plina in druge posebne prvine posamezne
-skupine končnih odjemalcev. Agencija pri pripravi metodologije za izračun cene plina
-ob neprostovoljnem zmanjšanju ali prekinitvi odjema plina upošteva cene plina
-za izravnavo v Republiki Sloveniji in v sosednjih dosegljivih plinskih
+skupine končnih odjemalcev. Agencija pri pripravi metodologije za izračun cene
+plina ob neprostovoljnem zmanjšanju ali prekinitvi odjema plina upošteva cene
+plina za izravnavo v Republiki Sloveniji in v sosednjih dosegljivih plinskih
 vozliščih ter tveganja in stroške pri zagotavljanju dobave izravnalnega plina.
 (11) Med izrednimi razmerami in v primeru izvedbe ukrepov
 neprostovoljnega zmanjšanja ali prekinitve odjema plina nobeno podjetje
@@ -3712,9 +3847,9 @@ solidarnostnega plina za namen izvedbe solidarnostne pomoči iz prvega odstavka
 tega člena na mejni povezovalni točki s prenosnim sistemom sosednje države
 članice EU.
 (5) V primeru razglasitve krize pri oskrbi s plinom na ravni
-izrednih razmer v skladu z Uredbo 2017/1938/EU ministrstvo obvesti sekretariat
-Sveta za nacionalno varnost. Pristojni organ o kriznih razmerah in ukrepih ter
-solidarnostni pomoči obvešča zlasti ministrstvo, sekretariat Sveta za
+izrednih razmer v skladu z Uredbo 2017/1938/EU pristojni organ obvesti
+sekretariat Sveta za nacionalno varnost. Pristojni organ o kriznih razmerah in
+ukrepih ter solidarnostni pomoči sproti obvešča agencijo, sekretariat Sveta za
 nacionalno varnost in javnost.
 (6) Če Republika Slovenija zaprosi za solidarnostno pomoč pri
 oskrbi s plinom, krizna skupina v skladu z načrtom za izredne razmere oceni
@@ -3800,8 +3935,8 @@ izvzetje ne ovira konkurence na zadevnih trgih, na katere bodo
 investicije najverjetneje vplivale, učinkovitega delovanja notranjega trga s
 plinom, učinkovitega obratovanja plinovodnih sistemov, na katere je
 infrastruktura priključena, ali zanesljivosti oskrbe s plinom v EU.
-(3) Izvzetje iz prvega odstavka tega člena se lahko dovoli
-tudi za znatna povečanja zmogljivosti obstoječe infrastrukture in za spremembe
+(3) Izvzetje iz prvega odstavka tega člena se lahko dovoli tudi
+za znatna povečanja zmogljivosti obstoječe infrastrukture in za spremembe
 infrastrukture, ki omogoča razvoj novih virov oskrbe s plinom.
 124. člen
 (odločanje o izvzetju)
@@ -3828,9 +3963,9 @@ upravljanje in dodeljevanje prenosnih zmogljivosti, s katerimi določi tudi
 postopek zbiranja interesa uporabe zmogljivosti vseh potencialnih uporabnikov
 infrastrukture, vključno z lastno rabo, še preden se zmogljivosti dodelijo.
 (5) Agencija mora v splošnem aktu iz prejšnjega odstavka
-določiti obvezno ponudbo neuporabljene prenosne zmogljivosti nove
-infrastrukture na trgu, pravico uporabnikov te infrastrukture do trgovanja s
-pridobljenimi zmogljivostmi na sekundarnem trgu.
+določiti obvezno ponudbo neuporabljene prenosne zmogljivosti nove infrastrukture
+na trgu, pravico uporabnikov te infrastrukture do trgovanja s pridobljenimi
+zmogljivostmi na sekundarnem trgu.
 (6) Agencija pri ocenjevanju izpolnjevanja pogojev iz 1., 2.
 in 5. točke drugega odstavka 123. člena tega zakona upošteva rezultate postopka
 dodeljevanja prenosnih zmogljivosti iz četrtega in petega odstavka tega člena.
@@ -3912,9 +4047,9 @@ tri mesece.
 2. oddelek: Neposredni plinovodi
 128. člen
 (dopustnost neposrednega plinovoda)
-Podjetja plinskega gospodarstva s sedežem na območju
-Republike Slovenije oskrbujejo odjemalce na območju Republike Slovenije po
-neposrednih plinovodih.
+Podjetja plinskega gospodarstva s sedežem na območju Republike
+Slovenije oskrbujejo odjemalce na območju Republike Slovenije po neposrednih
+plinovodih.
 129. člen
 (dovoljenje za gradnjo neposrednega plinovoda)
 (1) Neposreden plinovod zgradi podjetje plinskega
@@ -3934,9 +4069,10 @@ začasno odstopanje od zahtev v zvezi z dostopom do sistema iz 77., 78. in 82.
 člena tega zakona, če se podjetje spoprijema ali meni, da se bo spoprijemalo z
 resnimi gospodarskimi in finančnimi težavami zaradi svojih obveznosti »vzemi
 ali plačaj«, sprejetih s pogodbo ali več pogodbami o nakupu plina.
-(2) Za odobritev odstopanja mora podjetje plinskega gospodarstva
-vložiti zahtevo pred zavrnitvijo dostopa do sistema ali po njej. Če podjetje
-plinskega gospodarstva zavrne dostop do sistema, mora zahtevo vložiti nemudoma.
+(2) Za odobritev odstopanja mora podjetje plinskega
+gospodarstva vložiti zahtevo pred zavrnitvijo dostopa do sistema ali po njej.
+Če podjetje plinskega gospodarstva zavrne dostop do sistema, mora zahtevo
+vložiti nemudoma.
 (3) Zahtevi iz prejšnjega odstavka mora podjetje plinskega
 gospodarstva priložiti informacije o naravi in obsegu težav iz prvega odstavka
 tega člena in o prizadevanjih podjetja plinskega gospodarstva za rešitev.
@@ -3969,8 +4105,9 @@ učinke dovolitve odstopanja na nemoteno delovanje notranjega trga s
 plinom.
 (5) Šteje se, da resne težave obstajajo, če se prodaja plina
 zniža pod raven minimalnih zajamčenih količin odjema, ki jih vsebujejo pogodbe
-za nakup plina, če se pogodba za nakup plina ne more prilagoditi novim količinam
-ali če podjetje plinskega gospodarstva ne najde alternativne možnosti.
+za nakup plina, če se pogodba za nakup plina ne more prilagoditi novim
+količinam ali če podjetje plinskega gospodarstva ne najde alternativne
+možnosti.
 (6) Šteje se, da so ekonomsko upravičene alternativne
 možnosti, če gre za pogodbe, sklenjene pred 4. avgustom 2003.
 (7) Podjetje plinskega gospodarstva, ki ni dobilo dovoljenja
@@ -3991,8 +4128,8 @@ ugotovitvenega postopka, mora pa omogočiti stranki, da se izjavi o dejstvih in
 okoliščinah, pomembnih za odločitev.
 (4) Na podlagi podatkov, zbranih v obnovljenem postopku,
 agencija razveljavi ali odpravi odločbo o dovolitvi odstopanja v skladu z
-odločitvijo Evropske komisije najpozneje v štirih tednih po prejemu zahteve Evropske
-komisije in o tem obvesti Evropsko komisijo.
+odločitvijo Evropske komisije najpozneje v štirih tednih po prejemu zahteve
+Evropske komisije in o tem obvesti Evropsko komisijo.
 (5) Če agencija ne izpolni zahteve Evropske komisije v štirih
 tednih, se dokončna odločitev sprejme hitro v skladu s postopkom iz drugega
 odstavka 51. člena Direktive 2009/73/ES.
@@ -4107,9 +4244,9 @@ zagotavljajo varen, učinkovit in brezplačen dostop do osebnih podatkov.
 osebnih podatkov iz prve do tretje alineje tretjega odstavka tega člena
 uporabnikom sistema in drugim subjektom, upravičenim do dostopa do osebnih
 podatkov na podlagi tega zakona, pogodbenega razmerja, sklenjenega z
-uporabnikom sistema ali njegovega dovolila, omogočijo dostop do osebnih
-podatkov tudi prek standardiziranega vmesnika naprednega števca za lokalni
-dostop do podatkov.
+uporabnikom sistema ali njegovega dovolila, omogočijo dostop do osebnih podatkov
+tudi prek standardiziranega vmesnika naprednega števca za lokalni dostop do
+podatkov.
 (10) Upravljavci osebnih podatkov iz prvih dveh alinej
 tretjega odstavka tega člena morajo imenovati pooblaščeno osebo za varstvo
 podatkov, ki je odgovorna za spremljanje izvajanja ukrepov, ki jih sprejme ta
@@ -4143,10 +4280,10 @@ ustrezno dokumentacijo in navedbo vsebin, ki bodo obravnavane v pogajanjih ali
 o katerih se bo vnovič pogajalo, cilje pogajanj in vse druge ustrezne
 informacije.
 (4) Po prejemu odločitve Evropske komisije o odobritvi
-začetka pogajanj iz drugega odstavka tega člena za del, ki lahko vpliva na
-skupna pravila EU, lahko ministrstvo vloži pobudo za začetek postopka za
-sklenitev mednarodne pogodbe v skladu z zakonom, ki ureja zunanje zadeve
-Republike Slovenije.
+začetka pogajanj iz drugega odstavka tega člena za del, ki lahko vpliva na skupna
+pravila EU, lahko ministrstvo vloži pobudo za začetek postopka za sklenitev
+mednarodne pogodbe v skladu z zakonom, ki ureja zunanje zadeve Republike
+Slovenije.
 (5) Ministrstvo upošteva smernice ali zahteve Evropske
 komisije o vključitvi določenih določb v načrtovano mednarodno pogodbo iz
 drugega odstavka tega člena.
@@ -4323,6 +4460,9 @@ ne zagotovi sam ali skupaj z drugimi dobavitelji v okviru združenja
 postopka izvensodnega reševanja sporov s potrošniki v zvezi z dobavo plina
 gospodinjskim odjemalcem po tem zakonu pred neodvisnim izvajalcem izvensodnega
 reševanja sporov v skladu z drugim odstavkom 17. člena tega zakona;
+9.a  ne
+zagotovi dobave plina za osnovno oskrbo v skladu s prvim odstavkom 80.b člena
+tega zakona;
 10.  
 ne omogoči izdaje enotnega računa v skladu s prvim odstavkom 89. člena
 tega zakona;
@@ -4410,9 +4550,9 @@ obvestila o porabi;
 kot dobavitelj ponudi gospodinjskemu odjemalcu ali sklene z njim pogodbo
 o dobavi plina, ki ne vsebuje vseh minimalnih sestavin iz drugega odstavka 15.
 člena tega zakona.
-(2) Z globo od 1.000 do 10.000 eurov se kaznuje samostojni
-podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori
-prekršek iz prejšnjega odstavka.
+(2) Z globo od 1.000 do 10.000 eurov se kaznuje samostojni podjetnik
+posameznik ali posameznik, ki samostojno opravlja dejavnost, če stori prekršek
+iz prejšnjega odstavka.
 (3) Z globo od 100 do 500 eurov se kaznuje odgovorna oseba
 pravne osebe, odgovorna oseba samostojnega podjetnika posameznika ali odgovorna
 oseba posameznika, ki samostojno opravlja dejavnost, če stori prekršek iz
@@ -4534,14 +4674,20 @@ samostojno opravlja dejavnost.
 Za prekrške iz tega zakona se sme v hitrem postopku izreči
 globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem
 zakonom.
-XIII. POGLAVJE: PREHODNE IN KONČNE DOLOČBE
+
+Zakon o oskrbi s plini – ZOP (Uradni list RS,
+št. 204/21) vsebuje naslednje prehodne in končne
+določbe:
+»XIII. POGLAVJE: PREHODNE IN KONČNE DOLOČBE
 147. člen
-(prekrškovni, inšpekcijski in upravni postopki v teku)
+(prekrškovni, inšpekcijski
+in upravni postopki v teku)
 Prekrškovni, inšpekcijski in upravni postopki, ki so se
 začeli pred uveljavitvijo tega zakona, se dokončajo po dosedanjih predpisih.
 148. člen
-(prvi načrti prilagoditve za prevzem in prenos plinov
-obnovljivega ali nefosilnega izvora, vključno z vodikom)
+(prvi načrti prilagoditve
+za prevzem in prenos plinov obnovljivega ali nefosilnega izvora, vključno z
+vodikom)
 (1) Operater prenosnega sistema pripravi prvi načrt
 prilagoditve sistema za prevzem in prenos plinov obnovljivega ali nefosilnega
 izvora, vključno z vodikom, iz 7. člena tega zakona v okviru razvojnega načrta,
@@ -4551,13 +4697,14 @@ prilagoditve sistema za prevzem in prenos plinov obnovljivega ali nefosilnega
 izvora, vključno z vodikom, iz 7. člena tega zakona v 12 mesecih od uveljavitve
 tega zakona.
 149. člen
-(prehodno obdobje za uskladitev bilančnih pogodb)
+(prehodno obdobje za
+uskladitev bilančnih pogodb)
 Bilančne pogodbe, sklenjene do uveljavitve tega zakona, se
 uskladijo s tem zakonom v šestih mesecih od sprejetja metodologije iz desetega
 odstavka 120. člena tega zakona.
 150. člen
-(nadaljevanje izvajanja dejavnosti operaterja prenosnega
-sistema)
+(nadaljevanje izvajanja
+dejavnosti operaterja prenosnega sistema)
 (1) Pravna ali fizična oseba, ki na dan uveljavitve tega
 zakona izvaja gospodarsko javno službo dejavnost operaterja prenosnega sistema,
 nadaljuje izvajanje te javne službe v skladu s tem zakonom na podlagi odločbe o
@@ -4581,8 +4728,8 @@ plina iz 46. člena tega zakona.
 št. 182 z dne 27. 6. 2013, str. 6) velja kot sklep o imenovanju operaterja
 prenosnega sistema iz 51. člena tega zakona.
 151. člen
-(nadaljevanje izvajanja dejavnosti operaterja
-distribucijskega sistema)
+(nadaljevanje izvajanja
+dejavnosti operaterja distribucijskega sistema)
 (1) Pravna ali fizična oseba, ki na dan uveljavitve tega
 zakona izvaja gospodarsko javno službo dejavnost operaterja distribucijskega
 sistema zemeljskega plina, nadaljuje izvajanje te javne službe v skladu s tem
@@ -4599,7 +4746,8 @@ RS, št. 61/16) še naprej velja kot akt, izdan za izvajanje devetega odstavka
 plina gospodinjskega odjemalca (Uradni list RS, št. 10/17) še naprej velja kot
 akt, izdan za izvajanje tretjega odstavka 16. člena tega zakona.
 153. člen
-(veljavnost splošnih aktov agencije)
+(veljavnost splošnih aktov
+agencije)
 Naslednji splošni akti agencije za izvrševanje javnih
 pooblastil veljajo še naprej kot splošni akti za izvrševanje javnih pooblastil
 za izvajanje tega zakona:
@@ -4650,13 +4798,15 @@ Akt o metodologiji za obračunavanje omrežnine za distribucijski sistem
 zemeljskega plina (Uradni list RS, št. 21/18 in 48/21) še naprej velja kot akt,
 izdan za izvajanje drugega odstavka 110. člena tega zakona.
 154. člen
-(rok za izdajo splošnih aktov agencije)
+(rok za izdajo splošnih
+aktov agencije)
 Agencija izda splošne akte iz petega odstavka 6. člena,
 drugega odstavka 12. člena, desetega odstavka 120. člena, četrtega odstavka
 124. člena in tretjega odstavka 132. člena tega zakona v devetih mesecih od
 uveljavitve tega zakona.
 155. člen
-(veljavnost splošnih aktov operaterjev sistemov)
+(veljavnost splošnih aktov
+operaterjev sistemov)
 (1) Naslednji splošni akti operaterja prenosnega sistema
 veljajo kot splošni akti za izvrševanje javnih pooblastil, izdani za izvajanje
 tega zakona:
@@ -4697,14 +4847,15 @@ odstavka 72. člena ter drugega in četrtega odstavka 90. člena tega zakona.
 (Agencija za energijo), osmega dela (Energetska infrastruktura) in devetega
 dela (Druge skupne določbe) Energetskega zakona (Uradni list RS, št. 60/19 –
 uradno prečiščeno besedilo, 65/20, 158/20 – ZURE, 121/21 – ZSROVE in 172/21 –
-ZOEE) se uporabljajo za področje urejanja tega zakona, razen če ta zakon določenega
-vprašanja ne ureja drugače.
+ZOEE) se uporabljajo za področje urejanja tega zakona, razen če ta zakon
+določenega vprašanja ne ureja drugače.
 (2) Do uveljavitve zakona, ki bo urejal agencijo, se vsi
 sklici na zakon, ki ureja agencijo, štejejo za sklice na Energetski zakon
 (Uradni list RS, št. 60/19 – uradno prečiščeno besedilo, 65/20, 158/20 – ZURE,
 121/21 – ZSROVE in 172/21 – ZOEE).
 157. člen
-(prenehanje veljavnosti nekaterih določb EZ-1)
+(prenehanje veljavnosti
+nekaterih določb EZ-1)
 V Energetskem zakonu (Uradni list RS, št. 60/19 – uradno
 prečiščeno besedilo, 65/20, 158/20 – ZURE, 121/21 – ZSROVE in 172/21 – ZOEE):
 1.     
@@ -4745,17 +4896,17 @@ sistema ter 238. do 240. člen, 2. pododdelek: Dostop do prenosnega sistema
 zemeljskega plina ter 241. do 246. člen, 3. pododdelek: Dostop do
 distribucijskega sistema zemeljskega plina ter 247. do 249. člen, 2. oddelek:
 Omrežnina za prenosni in distribucijski sistem, 1. pododdelek: Regulativni
-okvir ter 250. do 255. člen, 2. pododdelek: Tarifa za uporabo sistema
-zemeljskega plina ter 256. in 257. člen, 3. pododdelek: Posebne določbe o
-zagotavljanju kakovosti na prenosnem in distribucijskem sistemu zemeljskega
-plina ter 258. do 260. člen, 3. oddelek: Izvzetje za novo infrastrukturo ter
-261. do 265. člen, VI. poglavje: DRUGE DOLOČBE, 1. oddelek: Neposredni
-plinovodi ter 266. in 267. člen, 2. oddelek: Sistemska obratovalna navodila in
-tehnična varnost obratovanja ter 268. in 269. člen, 3. oddelek: Priključevanje
-na sistem in možnost odklopa uporabnika sistema ter 270. do 277. člen, 4.
-oddelek: Odstopanja v zvezi z obveznostmi »vzemi ali plačaj« ter 278. in 279.
-člen, 5. oddelek: Evidence ter 280. in 281. člen, 6. oddelek: Mednarodne
-pogodbe na področju zemeljskega plina ter 281.a člen;
+okvir ter 250. do 255. člen, 2. pododdelek: Tarifa za uporabo sistema zemeljskega
+plina ter 256. in 257. člen, 3. pododdelek: Posebne določbe o zagotavljanju
+kakovosti na prenosnem in distribucijskem sistemu zemeljskega plina ter 258. do
+260. člen, 3. oddelek: Izvzetje za novo infrastrukturo ter 261. do 265. člen,
+VI. poglavje: DRUGE DOLOČBE, 1. oddelek: Neposredni plinovodi ter 266. in 267.
+člen, 2. oddelek: Sistemska obratovalna navodila in tehnična varnost
+obratovanja ter 268. in 269. člen, 3. oddelek: Priključevanje na sistem in
+možnost odklopa uporabnika sistema ter 270. do 277. člen, 4. oddelek:
+Odstopanja v zvezi z obveznostmi »vzemi ali plačaj« ter 278. in 279. člen, 5.
+oddelek: Evidence ter 280. in 281. člen, 6. oddelek: Mednarodne pogodbe na
+področju zemeljskega plina ter 281.a člen;
 4.     
 v 451. členu preneha veljati četrti odstavek;
 5.     
@@ -4765,11 +4916,38 @@ prenehajo veljati 491., 499. in 500. člen.
 158. člen
 (začetek veljavnosti)
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
-listu Republike Slovenije.
-Št. 320-04/21-1/14
-Ljubljana, dne 15. decembra 2021
-EPA 2078-VIII
-Državni zbor
-Republike Slovenije
-Igor Zorčič
-predsednik
+listu Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o
+oskrbi s plini – ZOP-A (Uradni list RS, št. 121/22) vsebuje naslednje prehodne in končni
+določbi:
+»PREHODNE IN KONČNI DOLOČBI
+14. člen
+(rok za izdajo splošnega
+akta agencije, rok za prvo določitev dobavitelja nadomestne oskrbe, rok za
+vzpostavitev enotnega informacijskega sistema in rok za objavo cene plina za
+osnovno oskrbo)
+(1) Agencija sprejme splošni akt iz devetega odstavka novega
+18.a člena zakona najpozneje v tridesetih dneh od uveljavitve tega zakona.
+(2) Agencija prvič določi dobavitelja nadomestne oskrbe
+skladno s petim odstavkom novega 18.a člena zakona najpozneje v petnajstih dneh
+od uveljavitve splošnega akta iz devetega odstavka novega 18.a člena zakona, in
+sicer za obdobje najmanj enega leta.
+(3) Operater prenosnega sistema vzpostavi enoten
+informacijski sistem iz novega 80.a člena zakona najpozneje v treh mesecih od
+uveljavitve tega zakona.
+(4) Dobavitelji plina morajo skladno s drugim odstavkom
+novega 80.b člena zakona objaviti ceno plina za osnovno oskrbo s plinom
+najpozneje v osmih dneh od uveljavitve tega zakona.
+15. člen
+(začetek uporabe določb v
+zvezi s prenosom pristojnega organa)
+Določbe spremenjenega 116. člena, spremenjenega prvega
+odstavka 118. člena in spremenjenega petega odstavka 121. člena
+zakona se začnejo uporabljati 1. maja 2023. Do takrat se uporablja
+116. člen, prvi odstavek 118. člena in peti odstavek 121. člena
+Zakona o oskrbi s plini (Uradni list RS, št. 204/21).
+16. člen
+(začetek veljavnosti)
+Ta zakon začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
