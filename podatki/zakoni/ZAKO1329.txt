@@ -60,8 +60,8 @@ nepotrebnega odlašanja, vendar najpozneje v osmih dneh od prejema popolne
 zahteve, razen če obstajajo upravičeni razlogi za podaljšanje tega roka. 
 Notar do podatkov in dokazil o podatkih iz zbirk iz drugega
 odstavka tega člena dostopa z navedbo osebnega imena in enotne matične številke
-občana (v nadaljnjem besedilu: EMŠO) osebe, katere podatke pridobiva, če ta oseba
-nima EMŠO oziroma ta ni znana, pa z navedbo osebnega imena ter datuma rojstva,
+občana (v nadaljnjem besedilu: EMŠO) osebe, katere podatke pridobiva, če ta
+oseba nima EMŠO oziroma ta ni znana, pa z navedbo osebnega imena ter datuma rojstva,
 davčne številke, serijske številke javne listine ali drugega povezovalnega
 znaka, ki ga omogoča uradna evidenca, register ali javna knjiga. Za pravne
 osebe, podružnice tujih in domačih podjetij ter samostojnih podjetnikov
@@ -113,27 +113,26 @@ register, ter s sodnim registrom, ki ga določa zakon, ki ureja sodni register,
 pri čemer se iz obeh zbirk lahko pridobivajo podatki o firmi, matični in davčni
 številki pravne osebe, podružnice tujih in domačih podjetij ter samostojnih
 podjetnikov posameznikov in vseh drugih fizičnih oseb, ki opravljajo dejavnost,
-podatki o poslovnem naslovu in sedežu, podatki o imenu in priimku ter
-prebivališčih ustanoviteljev, družbenikov ali članov subjekta vpisa ter podatki
-o imenu in priimku ter prebivališčih oseb, ki so člani organov vodenja ali
-nadzora, oziroma oseb, ki imajo pooblastila za zastopanje ali odločanje ali
-nadzor, pa tudi datum podelitve in datum prenehanja njihovega pooblastila. 
+podatki o poslovnem naslovu in sedežu, podatki o imenu in priimku ter prebivališčih
+ustanoviteljev, družbenikov ali članov subjekta vpisa ter podatki o imenu in
+priimku ter prebivališčih oseb, ki so člani organov vodenja ali nadzora,
+oziroma oseb, ki imajo pooblastila za zastopanje ali odločanje ali nadzor, pa
+tudi datum podelitve in datum prenehanja njihovega pooblastila. 
 Informacijski sistem za podporo poslovanja notarja se za
 opravo posamične notarske storitve lahko na podlagi EMŠO ali serijske številke
-osebne izkaznice povezuje z evidenco izdanih osebnih izkaznic, ki jo določa
-zakon, ki ureja osebno izkaznico, pri čemer se iz evidence lahko pridobivajo
-podatki o imenu in priimku, prebivališčih in fotografiji imetnika, kot so bili
-navedeni v vlogi za izdajo osebne izkaznice, pa tudi podatki o statusu
-veljavnosti osebne izkaznice, podatki o statusu sredstev elektronske
-identifikacije ter podatki o obdobju veljavnosti kvalificiranega potrdila za
-elektronski podpis. 
+osebne izkaznice povezuje z evidenco izdanih osebnih izkaznic, ki jo določa zakon,
+ki ureja osebno izkaznico, pri čemer se iz evidence lahko pridobivajo podatki o
+imenu in priimku, prebivališčih in fotografiji imetnika, kot so bili navedeni v
+vlogi za izdajo osebne izkaznice, pa tudi podatki o statusu veljavnosti osebne
+izkaznice, podatki o statusu sredstev elektronske identifikacije ter podatki o
+obdobju veljavnosti kvalificiranega potrdila za elektronski podpis. 
 Informacijski sistem za podporo poslovanja notarja se za
 opravo posamične notarske storitve lahko na podlagi EMŠO ali serijske številke
 potnega lista povezuje z evidenco izdanih potnih listov, ki jo določa zakon, ki
 ureja potne listine, pri čemer se iz evidence lahko pridobivajo podatki o imenu
-in priimku, prebivališčih, državljanstvu in fotografiji imetnika, kot so bili
-navedeni v vlogi za izdajo potnega lista, pa tudi datum izdaje in datum
-veljavnosti potnega lista. 
+in priimku, prebivališčih, državljanstvu in fotografiji imetnika, kot so bili navedeni
+v vlogi za izdajo potnega lista, pa tudi datum izdaje in datum veljavnosti
+potnega lista. 
 Informacijski sistem za podporo poslovanja notarja se za
 opravo posamične notarske storitve lahko na podlagi EMŠO povezuje z evidenco o
 vozniških dovoljenjih, ki jo določa zakon, ki ureja voznike, pri čemer se iz
@@ -335,7 +334,8 @@ Pred prisego mora notar skleniti zavarovalno pogodbo za
 škodo, ki bi utegnila nastati stranki v zvezi z opravljanjem notariata. 
 Zavarovanje krije odškodninske zahtevke zaradi strokovne
 napake notarja, ki je nastala v času trajanja zavarovanja, če je odškodninski
-zahtevek vložen najpozneje v petih letih, odkar je škoda nastala. 
+zahtevek vložen najpozneje v petih letih po izteku trajanja zavarovanja
+(podaljšano obdobje uveljavljanja zahtevkov). 
 Notar mora skleniti zavarovanje, ki krije njegovo
 odškodninsko odgovornost iz prvega odstavka tega člena, za najnižjo zavarovalno
 vsoto 250.000 eurov v posameznem letu. 
@@ -508,9 +508,9 @@ listine, mora notar zahtevi ugoditi ter na listini navesti, s kakšnimi
 pomanjkljivostmi in pravnimi posledicami je udeležence seznanil. Če udeleženci
 takšni zaznambi nasprotujejo, mora notar sestavo notarske listine odkloniti.
 25. člen
-Notar mora varovati kot tajnost podatke o osebah, dejstvih oziroma
-pravnih razmerjih, glede katerih sestavi notarski zapis, kolikor iz volje
-strank ali vsebine pravnega posla ne izhaja kaj drugega. 
+Notar mora varovati kot tajnost podatke o osebah, dejstvih
+oziroma pravnih razmerjih, glede katerih sestavi notarski zapis, kolikor iz
+volje strank ali vsebine pravnega posla ne izhaja kaj drugega. 
 Predpisi o sodnih in upravnih postopkih določajo, kdaj in v
 kakšnem obsegu je notar dolžan dati podatke iz prejšnjega odstavka sodišču ali
 drugemu državnemu organu. 
@@ -529,8 +529,7 @@ Notar ne sme biti priprt v kazenskem postopku, ki je uveden
 proti njemu zaradi suma kaznivega dejanja, storjenega pri opravljanju
 notariata, brez poprejšnjega dovoljenja senata treh sodnikov višjega sodišča,
 na območju katerega se vodi postopek. 
-O odreditvi pripora sodišče obvesti Notarsko zbornico
-Slovenije.
+O odreditvi pripora sodišče obvesti Notarsko zbornico Slovenije.
 28. člen
 Pečat, žig, kvalificirano potrdilo za elektronski podpis in
 kvalificirano potrdilo za elektronski žig iz 15. člena tega zakona se
@@ -599,9 +598,9 @@ fizični ali elektronski obliki morajo biti izpisani tudi z besedami, razen
 oziroma posameznih določb zakona ali drugega predpisa, na katerega se sklicuje
 listina.
 33. člen
-V notarski listini v fizični obliki ne sme biti besed ali znakov
-nad začetkom besedila, med vrsticami ali ob robu besedila. Vsaka beseda, znak
-ali podpis, ki se nahaja nad, ob ali med vrsticami besedila, se šteje za
+V notarski listini v fizični obliki ne sme biti besed ali
+znakov nad začetkom besedila, med vrsticami ali ob robu besedila. Vsaka beseda,
+znak ali podpis, ki se nahaja nad, ob ali med vrsticami besedila, se šteje za
 neobstoječ.
 34. člen
 V notarski listini v fizični in elektronski obliki se ne sme
@@ -630,10 +629,9 @@ pritrjena s pečatnim voskom ali lepilnim trakom, pritrditev pa zavarovana z
 notarskim žigom oziroma pečatom. Enako velja za listine, ki morajo biti po
 zakonu ali drugem predpisu priložene javni listini. 
 Če pooblastil in drugih prilog ni mogoče spojiti z notarsko
-listino v fizični obliki na način, določen v prejšnjem odstavku, morajo biti
-opremljene z zaznamkom, da so priloge, in poslovno številko listine. Število in
-vrsta takih prilog se zapiše na koncu notarske listine v fizični obliki pred
-podpisi.
+listino v fizični obliki na način, določen v prejšnjem odstavku, morajo biti opremljene
+z zaznamkom, da so priloge, in poslovno številko listine. Število in vrsta
+takih prilog se zapiše na koncu notarske listine v fizični obliki pred podpisi.
 36. člen
 Vsako stran notarske listine v fizični obliki parafirajo
 udeleženci in notar, ki je listino v fizični obliki sestavil. 
@@ -732,15 +730,15 @@ pristnosti in veljavnosti tega dokumenta v javni evidenci izdajatelja.
 Ne glede na prejšnji odstavek se istovetnost strank in drugih
 udeležencev, ki pri sestavi notarske listine v elektronski obliki niso fizično
 prisotne, lahko ugotavlja in preveri tudi na podlagi sredstva elektronske
-identifikacije visoke ravni zanesljivosti v skladu s predpisi, ki urejajo
-elektronsko identifikacijo in storitve zaupanja, ali na drug način, po katerem
-je istovetnost strank ali drugih udeležencev mogoče nedvomno ugotoviti in
+identifikacije visoke ravni zanesljivosti v skladu s predpisi, ki urejajo elektronsko
+identifikacijo in storitve zaupanja, ali na drug način, po katerem je
+istovetnost strank ali drugih udeležencev mogoče nedvomno ugotoviti in
 preveriti.
 Način ugotovitve istovetnosti oseb, udeleženih pri sestavi
 notarske listine, mora biti vselej naveden v listini.
 Minister s predpisom iz 95. člena tega zakona določi
-minimalne tehnične pogoje, ki jih mora izpolnjevati videoelektronska identifikacija,
-ter način njene uporabe.
+minimalne tehnične pogoje, ki jih mora izpolnjevati videoelektronska
+identifikacija, ter način njene uporabe.
 40. člen
 Če je stranka gluha ali nema, mora notar zagotoviti, da ji je
 vsebina notarske listine v celoti znana in razumljiva. 
@@ -761,10 +759,10 @@ mora biti zapisano v listini, preden jo podpiše notar.
 Notar mora pred sestavo notarske listine strankam na
 razumljiv način opisati vsebino, pravne posledice nameravanega pravnega posla
 ali izjave volje, ter jih izrecno opozoriti na znana in običajna tveganja v
-zvezi s sklenitvijo takšnega pravnega posla ali izjave volje. Notar mora
-stranke opozoriti tudi na morebitne druge okoliščine v zvezi z nameravanim
-pravnim poslom, če jih pozna, razen podatkov, ki jih je notar v skladu s 25.
-členom tega zakona dolžan varovati kot tajnost. Stranke mora tudi odvračati od
+zvezi s sklenitvijo takšnega pravnega posla ali izjave volje. Notar mora stranke
+opozoriti tudi na morebitne druge okoliščine v zvezi z nameravanim pravnim
+poslom, če jih pozna, razen podatkov, ki jih je notar v skladu s 25. členom
+tega zakona dolžan varovati kot tajnost. Stranke mora tudi odvračati od
 nejasnih, nerazumljivih ali dvoumnih izjav ter jih izrecno opozoriti na možne
 pravne posledice takšnih izjav. Če stranke pri svojih izjavah vztrajajo, jih
 mora vnesti v notarsko listino, ob tem pa navesti tudi opozorila, dana strankam
@@ -804,9 +802,9 @@ posebej opozoriti na pravne posledice tako povezanih poslov.
 Prepisi listin iz drugega odstavka tega člena, ki jih
 predložijo udeleženci pravnega posla ali s katerimi razpolaga notar, se
 priložijo notarskemu zapisu. 
-Če notar ugotovi, da listine o povezanih pravnih poslih
-obstajajo, udeleženci pa zavrnejo predložitev teh listin, mora notar sestavo
-notarskega zapisa odkloniti.
+Če notar ugotovi, da listine o povezanih pravnih poslih obstajajo,
+udeleženci pa zavrnejo predložitev teh listin, mora notar sestavo notarskega
+zapisa odkloniti.
 Če je pri sestavljanju notarskega zapisa sodeloval eden ali
 več drugih notarjev, mora vsebovati zapis podatke iz 1. točke prvega odstavka
 tega člena tudi o tem notarju ter njegov podpis. 
@@ -855,9 +853,9 @@ notarskega zapisa, so nični.
 2. Potrjevanje zasebnih listin
 49. člen
 Udeleženci pravnega posla lahko potrdijo listino o pravnem
-poslu pri notarju. Tako potrjena listina o pravnem poslu ima lastnost
-notarskega zapisa in je pod pogoji, določenimi v 4. členu tega zakona,
-neposredno izvršljiva. 
+poslu pri notarju. Tako potrjena listina o pravnem poslu ima lastnost notarskega
+zapisa in je pod pogoji, določenimi v 4. členu tega zakona, neposredno
+izvršljiva. 
 Listino, ki vsebuje zemljiškoknjižno dovolilo in listino, na
 podlagi katere se pridobi lastninska ali kakšna druga stvarna pravica na
 nepremičnini, sme notar potrditi samo, če listino sestavi notar ali odvetnik. 
@@ -879,8 +877,8 @@ sestavni del.
 Pri potrjevanju zasebne listine po prejšnjem odstavku se
 uporablja četrti in peti odstavek 43. člena tega zakona. 
 Notarski zapis in pripojeno zasebno listino podpišejo osebe
-iz 2. točke prvega odstavka 43. člena tega zakona in notar, ki na notarski zapis
-odtisne svoj žig ali pečat.
+iz 2. točke prvega odstavka 43. člena tega zakona in notar, ki na notarski
+zapis odtisne svoj žig ali pečat.
 3. Zapisne priče in tolmač
 51. člen
 Pri sestavljanju notarskih zapisov morata sodelovati dve
@@ -927,7 +925,8 @@ priči nista potrebni iz razlogov po 2. oziroma 3. točki prvega odstavka 51.
 člena tega zakona, se smeta zapisni priči odstraniti za čas, ko se notarski
 zapis bere; v tem primeru morajo udeleženci podpisati notarski zapis vpričo
 zapisnih prič in izrecno izjaviti, da jim je njegova vsebina v celoti znana in
-da se ujema z njihovo voljo. Vse to je treba v notarskem zapisu posebej navesti.
+da se ujema z njihovo voljo. Vse to je treba v notarskem zapisu posebej
+navesti.
 55. člen
 Če kateri od udeležencev ne obvlada uradnega jezika (2. točka
 prvega odstavka 51. člena) ali če tako zahteva stranka (četrti odstavek 13.
@@ -1015,8 +1014,7 @@ Overjanje prevodov
 Notar sme overiti skladnost prevoda z izvirnikom samo, če ima
 status sodnega tolmača po predpisih, ki urejajo imenovanje sodnih tolmačev, za
 jezik, v katerega je listina prevedena iz uradnega jezika ali obratno. Prevod
-overi, če ga je opravil sam ali če ga je preizkusil in ga spoznal za
-pravilnega. 
+overi, če ga je opravil sam ali če ga je preizkusil in ga spoznal za pravilnega.
 Izvirnik in prevod morata biti združena na isti listini; če
 to ni mogoče, se prevod pripoji izvirniku, kot določa drugi odstavek 35. člena
 tega zakona. 
@@ -1111,13 +1109,14 @@ Notar lahko overi podpise oseb, pooblaščenih za zastopanje
 gospodarskih družb, tudi na podlagi pri njem deponiranih podpisov in odtisov
 pečatov.
 Državni organi, samoupravne lokalne skupnosti in nosilci
-javnih pooblastil lahko zaradi overitev podpisov, ki jih opravi notar, pri Notarski
-zbornici Slovenije priglasijo kvalificirana potrdila za elektronski podpis in
-elektronski žig, ki jih njihove pooblaščene osebe uporabljajo za elektronsko
-podpisovanje javnih listin, izvorno izdanih v elektronski obliki. Veljavnost
-kvalificiranega elektronskega podpisa in kvalificiranega elektronskega žiga na
-izvorni javni listini v elektronski obliki notar preveri na podlagi priglašenih
-kvalificiranih potrdil za elektronski podpis in elektronski žig.
+javnih pooblastil lahko zaradi overitev podpisov, ki jih opravi notar, pri
+Notarski zbornici Slovenije priglasijo kvalificirana potrdila za elektronski
+podpis in elektronski žig, ki jih njihove pooblaščene osebe uporabljajo za
+elektronsko podpisovanje javnih listin, izvorno izdanih v elektronski obliki.
+Veljavnost kvalificiranega elektronskega podpisa in kvalificiranega
+elektronskega žiga na izvorni javni listini v elektronski obliki notar preveri
+na podlagi priglašenih kvalificiranih potrdil za elektronski podpis in
+elektronski žig.
 Potrditev časa, ko je bila listina predložena na vpogled
 66. člen
 Čas, ko je bila listina predložena na vpogled notarju ali
@@ -1139,18 +1138,18 @@ mesec in leto, na zahtevo stranke pa tudi uro, ko se je to zgodilo, in način
 ugotovitve istovetnosti osebe, na katero se nanaša potrdilo.
 68. člen
 Na zahtevo stranke sme notar potrditi tudi druga dejstva, kot
-so: seznanitev druge stranke z opominom, z odpovedjo, s ponudbo ali z drugo izjavo,
-ki jo daje stranka z namenom doseči kakšen pravni učinek, seznanitev s ponudbo
-plačila, prevzemom ali izročitvijo listine ali drugih stvari, dejstva v zvezi z
-dražbo, žrebanjem ter stanji, za katera je izvedel notar sam ali s pomočjo
-strokovnjakov. 
+so: seznanitev druge stranke z opominom, z odpovedjo, s ponudbo ali z drugo
+izjavo, ki jo daje stranka z namenom doseči kakšen pravni učinek, seznanitev s
+ponudbo plačila, prevzemom ali izročitvijo listine ali drugih stvari, dejstva v
+zvezi z dražbo, žrebanjem ter stanji, za katera je izvedel notar sam ali s
+pomočjo strokovnjakov. 
 V izvirniku notarskega potrdila iz prejšnjega odstavka, ki je
 lahko sestavljeno tudi v obliki notarskega zapisnika o dogajanju, ki mu je
 notar neposredno prisostvoval, notar navede kraj in čas, v katerem se je
 zgodilo ali ugotovilo obravnavano dejstvo, osebna imena in naslove strank ter
-drugih udeležencev in natančen popis tega, kar se je zgodilo vpričo njega, ali
-dejstva, ki jih je neposredno ugotovil. Potrdilo podpiše samo notar, zapisnik
-pa podpišejo tudi stranke, ki so opravilu prisostvovale. 
+drugih udeležencev in natančen popis tega, kar se je zgodilo vpričo njega, ali dejstva,
+ki jih je neposredno ugotovil. Potrdilo podpiše samo notar, zapisnik pa
+podpišejo tudi stranke, ki so opravilu prisostvovale. 
 Vsebino izjav strank, ki jih podajajo z namenom doseči kakšen
 pravni učinek ter druge izjave strank notar zapiše v obliki notarskega
 zapisnika, v katerem navede kraj in čas sprejema izjave, osebno ime in naslov
@@ -1173,8 +1172,8 @@ tudi osebno istovetnost predsedujočega in drugih udeležencev seje ter to
 navesti v zapisniku.
 Protesti
 70. člen
-Proteste menic in čekov izdaja notar po določbah zakona o menici
-oziroma zakona o čeku.
+Proteste menic in čekov izdaja notar po določbah zakona o
+menici oziroma zakona o čeku.
 Popis in cenitev premoženja ter zavarovanje zapuščine
 71. člen
 Notar lahko opravi popis in cenitev zapustnikovega
@@ -1279,11 +1278,11 @@ Vsak odpravek se mora overiti. Odpravkom izvršljivih
 notarskih zapisov se morajo priložiti prepisi prilog tega zapisa. Overitvena
 klavzula mora obsegati tudi priloge.
 83. člen
-Overitvena klavzula se vpiše na koncu odpravka ter mora vsebovati:
-potrdilo, da se ta odpravek ujema z izvirnikom, označbo iz 76. člena tega
-zakona, navedbo prilog iz prejšnjega člena, navedbo, za koga je ta odpravek
-sestavljen, ter navedbo kraja in časa izdaje odpravka s podpisom in pečatom
-notarja.
+Overitvena klavzula se vpiše na koncu odpravka ter mora
+vsebovati: potrdilo, da se ta odpravek ujema z izvirnikom, označbo iz 76. člena
+tega zakona, navedbo prilog iz prejšnjega člena, navedbo, za koga je ta
+odpravek sestavljen, ter navedbo kraja in časa izdaje odpravka s podpisom in
+pečatom notarja.
 Overitvena klavzula v elektronski obliki mora biti neločljivo
 povezana z listino v elektronski obliki, ki vsebuje izvorno listino v
 elektronski obliki s pripisom »ODPRAVEK NOTARSKEGA ZAPISA« ter potrdilo, da se
@@ -1344,9 +1343,9 @@ Notar izda stranki o prevzemu potrdilo.
 89. člen
 Prevzeti denar in vrednostne papirje hrani notar v posebnem
 ovoju, na katerem zapiše predmet in strankino ime. 
-Prevzeti denar in vrednostne papirje mora notar nemudoma izročiti
-osebi, ki so ji namenjeni, ob poprejšnji ugotovitvi istovetnosti prejemnika
-(39. člen). 
+Prevzeti denar in vrednostne papirje mora notar nemudoma
+izročiti osebi, ki so ji namenjeni, ob poprejšnji ugotovitvi istovetnosti
+prejemnika (39. člen). 
 Prejemnik potrdi prejem na zapisniku o prevzemu ali v knjigi
 pologov.
 90. člen
@@ -1363,10 +1362,10 @@ papirje ali dragocenosti.
 V. POGLAVJE 
 HRAMBA LISTIN IN VODENJE KNJIG
 93. člen
-Notar mora listine, ki jih je sestavil sam ali ki jih je prevzel
-od strank ali ki mu jih je zaupala Notarska zbornica Slovenije, hraniti,
-urejeno po zaporedju vpisov v poslovne knjige, na varnem mestu v svoji pisarni
-ali v bančnem sefu, ločeno od drugih spisov. 
+Notar mora listine, ki jih je sestavil sam ali ki jih je
+prevzel od strank ali ki mu jih je zaupala Notarska zbornica Slovenije,
+hraniti, urejeno po zaporedju vpisov v poslovne knjige, na varnem mestu v svoji
+pisarni ali v bančnem sefu, ločeno od drugih spisov. 
 Če sta listino sestavila dva ali več notarjev, jo mora
 hraniti notar, ki jo je pečatil (drugi odstavek 30. člena).
 94. člen
@@ -1476,8 +1475,7 @@ pripravnikov:
 če se ugotovi, da ne izpolnjuje več z zakonom predpisanih pogojev za
 opravljanje prakse pri notarju; 
 3.     
-če brez opravičenega razloga več kot en mesec ne opravlja prakse pri
-notarju; 
+če brez opravičenega razloga več kot en mesec ne opravlja prakse pri notarju;
 4.     
 ko poteče čas, ki je določen za usposabljanje pri notarju; 
 5.     
@@ -1711,8 +1709,8 @@ lahko:
 odredi neposredni nadzor nad poslovanjem notarja, notarskega namestnika
 ali začasnega namestnika; 
 -       
-samo opravi neposredni nadzor nad poslovanjem notarja, notarskega namestnika
-ali začasnega namestnika;
+samo opravi neposredni nadzor nad poslovanjem notarja, notarskega
+namestnika ali začasnega namestnika;
 -       
 predlaga uvedbo disciplinskega postopka zoper notarja, notarskega pomočnika
 ali notarskega pripravnika; 
@@ -2023,7 +2021,8 @@ je notarju, notarskemu pomočniku ali notarskemu pripravniku izrečen ukrep
 prepoved opravljati notariat ali prakso pri notarju, je v 30 dneh dovoljena
 pritožba, o kateri odloča Vrhovno sodišče Republike Slovenije.
 123.e člen
-Pregon disciplinskih kršitev zastara v petih letih od dneva kršitve.
+Pregon disciplinskih kršitev zastara v petih letih od dneva
+kršitve. 
 Če ima disciplinska kršitev tudi znake kaznivega dejanja, ki
 se preganja po uradni dolžnosti ali na predlog, zastara pregon v enakem roku,
 kot ga določa zakon za zastaranje pregona za kaznivo dejanje. 
@@ -2078,10 +2077,9 @@ lahko imenuje za notarja tudi oseba, ki tega pogoja ne izpolnjuje.
 Določba prejšnjega odstavka se uporablja do 31. decembra
 1997. 
 Do uveljavitve zakona, ki bo urejal enotno usposabljanje
-diplomiranih pravnikov in pravniški državni izpit, se šteje, da izpolnjuje
-pogoj iz 4. točke prvega odstavka 8. člena tega zakona, kdor ima opravljen
-pravosodni izpit ali drug izpit, ki je po zakonu izenačen s pravosodnim
-izpitom.
+diplomiranih pravnikov in pravniški državni izpit, se šteje, da izpolnjuje pogoj
+iz 4. točke prvega odstavka 8. člena tega zakona, kdor ima opravljen pravosodni
+izpit ali drug izpit, ki je po zakonu izenačen s pravosodnim izpitom.
 127. člen
 Notarska zbornica Slovenije se konstituira in začne veljavno
 delovati potem, ko nastopi uradno poslovanje po tem zakonu najmanj trideset
@@ -2249,16 +2247,16 @@ Z imenovanjem člana disciplinskega sodišča in njegovega
 namestnika na podlagi prejšnjega odstavka, sta član disciplinskega sodišča in
 njegov namestnik, imenovana pred uveljavitvijo tega zakona, razrešena.
 19. člen
-Notarski kandidati, ki so pred uveljavitvijo tega zakona
-izpolnjevali pogoje za nadomeščanje notarja, lahko notarja nadomeščajo tudi kot
-notarski pomočniki.
+Notarski kandidati, ki so pred uveljavitvijo tega zakona izpolnjevali
+pogoje za nadomeščanje notarja, lahko notarja nadomeščajo tudi kot notarski
+pomočniki.
 KONČNA DOLOČBA
 20. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o
-izvršbi in zavarovanju – ZIZ-C (Uradni list RS, št. 17/06) vsebuje naslednjo končno določbo:
+Zakon o spremembah in dopolnitvah Zakona o izvršbi
+in zavarovanju – ZIZ-C (Uradni list RS, št. 17/06) vsebuje naslednjo končno določbo:
 »44. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.
@@ -2321,8 +2319,8 @@ Zakon o spremembi Zakona o notariatu – ZN-F
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.
 
-Zakon o spremembi Zakona o notariatu – ZN-G
-(Uradni list RS, št. 91/13) vsebuje naslednjo končno določbo:
+Zakon o spremembi Zakona o notariatu – ZN-G (Uradni
+list RS, št. 91/13) vsebuje naslednjo končno določbo:
 »2. člen
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.
@@ -2393,9 +2391,9 @@ mesecih od uveljavitve tega zakona.
 Postopki za imenovanje notarjev, ki so se začeli pred
 uveljavitvijo tega zakona, se nadaljujejo in dokončajo po dosedanjih predpisih.
 40. člen
-Merila za ugotavljanje strokovne usposobljenosti iz spremenjenega
-četrtega odstavka 10.a člena zakona minister izda v enem mesecu od uveljavitve
-tega zakona. 
+Merila za ugotavljanje strokovne usposobljenosti iz
+spremenjenega četrtega odstavka 10.a člena zakona minister izda v enem mesecu
+od uveljavitve tega zakona. 
 Pravilnik o poslovanju notarja (Uradni list RS,
 št. 50/94, 28/95, 18/09 in 30/11) se uskladi s tem zakonom v šestih
 mesecih od uveljavitve tega zakona.
@@ -2412,3 +2410,16 @@ list RS, št. 49/23) vsebuje naslednjo končno določbo:
 »29. člen
 Ta zakon začne veljati dva meseca po objavi v Uradnem listu
 Republike Slovenije.«.
+
+Zakon o spremembah in dopolnitvah Zakona o
+finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju –
+ZFPPIPP-H (Uradni list RS, št. 102/23) v zvezi s spremembo tretjega
+odstavka 14. člena zakona določa:
+»Notar uskladi zavarovalno pogodbo s prvim odstavkom tega
+člena v 12 mesecih od uveljavitve tega zakona.«;
+ter vsebuje naslednjo končno določbo:
+»143. člen
+(začetek veljavnosti)
+Ta zakon začne veljati trideseti dan po objavi v Uradnem
+listu Republike Slovenije, razen 138. člena tega zakona, ki začne veljati
+naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
