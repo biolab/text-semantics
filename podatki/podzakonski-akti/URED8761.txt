@@ -546,17 +546,17 @@ b)    
 KMG-MID;
 c)    
 podatke o kmetijskih površinah:
-1.  
+1.     
 blok-ID,
-2.  
+2.     
 največjo upravičeno površino bloka,
-3.  
+3.     
 GERK-PID,
-4.  
+4.     
 domače ime GERK,
-5.  
+5.     
 vrsto rabe GERK,
-6.  
+6.     
 največjo upravičeno površino GERK;
 č)    podatke, ki se nanašajo na del ali celotni
 GERK in so pomembni za izpolnjevanje določenih zahtev pogojenosti:
@@ -1219,9 +1219,9 @@ te uredbe ali uredbe, ki ureja pogojenost.
 (13) Trajanje pregleda na kraju samem mora biti omejeno na
 najkrajše potrebno obdobje.
 (14) Če je nekatere pogoje upravičenosti, zaveze ali druge
-obveznosti mogoče preveriti le v določenem obdobju, so lahko za preglede na
-kraju samem potrebni poznejši dodatni obiski. V takem primeru se pregledi na
-kraju samem uskladijo tako, da se število in trajanje takih obiskov pri enem
+obveznosti mogoče preveriti le v določenem obdobju, so lahko za preglede na kraju
+samem potrebni poznejši dodatni obiski. V takem primeru se pregledi na kraju
+samem uskladijo tako, da se število in trajanje takih obiskov pri enem
 upravičencu omejita na potrebni minimum. Poznejši dodatni obiski so lahko
 napovedani ali nenapovedani. Če so napovedani, se zanje uporabljajo določbe
 glede napovedi, ki veljajo za preglede na kraju samem iz zakona, ki ureja
@@ -1516,8 +1516,8 @@ za kokoši s podatki iz registra oziroma evidenc, ki jih vodi Javna
 služba nalog genske banke v živinoreji.
 (15) Podatki iz zahtevkov za intervencije KOPOP, EK, BVR in
 LOPS se preverjajo glede na podatke o usposabljanju in svetovanju upravičencev
-iz evidence o izobraževanju in usposabljanju kmetijskih gospodarstev in
-podjetij (v nadaljnjem besedilu: evidenca o izobraževanju).
+iz evidence o izobraževanju in usposabljanju kmetijskih gospodarstev in podjetij
+(v nadaljnjem besedilu: evidenca o izobraževanju).
 (16) Zahtevki za operaciji KOPOP v zvezi z integrirano
 pridelavo in seneno prirejo se preverjajo glede na podatke o vključenosti in
 izdanih certifikatih organizacij za kontrolo in certificiranje.
@@ -1589,12 +1589,13 @@ ekološko pomembnih območij iz uredbe, ki ureja dobrobit živali
 5.     
 seznama koproloških analiz, določenih v uredbi, ki ureja intervencijo
 dobrobit živali.
-(22) Podatki iz zahtevkov za intervencijo KOPOP_PS se
-preverjajo glede na podatke iz CRG, CRD in EIRŽ na presečne datume, kot jih za
-izračun plačila določa uredba, ki ureja plačila za okoljske in podnebne
-obveznosti, naravne ali druge omejitve in območja Natura 2000. Podatki o
-vključenosti krav molznic v kontrolo prireje mleka in podatki o vsebnosti
-sečnine se preverjajo s podatki Kmetijskega inštituta Slovenije.
+(22) Podatki iz zahtevkov za intervencijo KOPOP_PS, razen
+podatkov iz zahtevkov za krave molznice, se preverjajo glede na podatke iz CRG,
+CRD in EIRŽ, kot to določa uredba, ki ureja plačila za okoljske in podnebne
+obveznosti, naravne ali druge omejitve in območja Natura 2000. Podatki iz
+zahtevkov za krave molznice, o vključenosti krav molznic v kontrolo prireje
+mleka in podatki o vsebnosti sečnine se preverjajo s podatki Kmetijskega
+inštituta Slovenije.
 (23) Podatki iz zahtevkov za intervencijo biotično varstvo
 rastlin se preverjajo s programom izvajanja BVR. Podatke o izdelanem programu
 izvajanja BVR zagotovi Javna služba zdravstvenega varstva rastlin.
@@ -1690,10 +1691,12 @@ zahtevkov ter v skladu z določbami pravilnika Sopotnik o tem obvesti stranko.
 (9) Zadnji rok za spremembe in umike zahtevkov iz prejšnjega
 odstavka je:
 -       
-29. marec 2024 za shemo ozelenitev ornih površin prek zime intervencije
-SOPO,
+29. marec 2024 za shemo ozelenitev ornih površin prek zime, shemo
+naknadni posevki in podsevki intervencije SOPO ter za operacijo lokalne sorte
+intervencije LOPS, kadar se ta izvaja v okviru neprezimnih ali prezimnih
+posevkov,
 -       
-2. november 2023 za druge zahtevke v zvezi s površino.
+17. november 2023 za druge zahtevke v zvezi s površino.
 (10) Po objavi končnih rezultatov v Sopotniku agencija s
 pomočjo sistema za spremljanje površin še naprej pregleduje in spremlja
 izpolnjevanje pogojev upravičenosti, ki jih mora upravičenec izpolnjevati do
@@ -1702,8 +1705,8 @@ v prejšnjem odstavku, s pomočjo sistema za spremljanje površin ugotovi
 neizpolnjevanje pogoja upravičenosti, takšno ugotovitev objavi v Sopotniku,
 vendar upravičenec zahtevka, ki se nanaša na neskladje, prikazano z rdečo
 barvno oznako, po roku za spremembe in umike zahtevkov, določenem v prejšnjem
-odstavku, ne more več umakniti oziroma zahtevka ustrezno spremeniti ali prek Sopotnika
-poslati dokazov o izpolnjevanju njegove upravičenosti.
+odstavku, ne more več umakniti oziroma zahtevka ustrezno spremeniti ali prek
+Sopotnika poslati dokazov o izpolnjevanju njegove upravičenosti.
 (11) Če upravičenec do zadnjega roka za spremembe in umike
 zahtevkov, določenega v devetem odstavku tega člena, zahtevka, ki se nanaša na
 neskladje, prikazano z rdečo barvno oznako, ne umakne oziroma ustrezno ne
@@ -1736,8 +1739,7 @@ te uredbe. Agencija lahko postopek pregleda na kraju samem izvede tudi na
 podlagi lastne presoje razpoložljivih informacij, predlogov ali prijav drugih
 organizacij, služb in posameznikov o domnevnem neizpolnjevanju določenega
 pogoja upravičenosti na kmetijskem gospodarstvu, ki je predmet predloga ali
-prijave. Pregledi iz tega odstavka se lahko izvajajo za vse pogoje
-upravičenosti.
+prijave. Pregledi iz tega odstavka se lahko izvajajo za vse pogoje upravičenosti.
 (3) Ne glede na prvi odstavek tega člena se pregledi na kraju
 samem lahko omejijo na naključno izbrani vzorec najmanj 50 % kmetijskih parcel
 na kmetijskem gospodarstvu, ki je bilo izbrano za pregled na kraju samem. Če se
@@ -1869,7 +1871,12 @@ za intervencijo plačila NATURA 2000 vsaj 3 % upravičencev.
 (1) Zahtevki in upravičenci, za katere se že ob predložitvi
 zbirne vloge ali z upravnimi pregledi, opravljenimi pred izvedbo pregleda na
 kraju samem, ugotovi, da niso upravičeni do plačila, niso del kontrolnega
-vzorca.
+vzorca. Prav tako niso del kontrolnega vzorca upravičenci, za katere agencija
+ugotovi, da pri njih zaradi hude naravne nesreče, hudega vremenskega dogodka
+ali izjemne okoliščine iz 1. točke prvega odstavka 18.d člena Zakona o
+kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 – ZdZPVHVVR, 26/14, 32/15,
+27/17, 22/18, 86/21 – odl. US, 123/21, 44/22, 130/22 – ZPOmK-2, 18/23 in 78/23)
+ni mogoče izvesti pregleda na kraju samem.
 (2) Kontrolni vzorec se, kadar je to primerno, izbere
 naključno in z analizo tveganja. Najprej se od 20 do 25 % kontrolnega vzorca
 izbere naključno, za doseganje najmanjše stopnje kontrole, določene v prejšnjem
@@ -1909,8 +1916,8 @@ uredbe. Delni vzorec se dopolni, ko so vložene vse zbirne vloge.
 (zapisnik o pregledu na kraju samem)
 (1) V skladu z določbami, ki urejajo zapisnik o pregledu na
 kraju samem, iz zakona, ki ureja kmetijstvo, in določbami tega člena kontrolor
-za vsak pregled na kraju samem pripravi zapisnik o pregledu na kraju samem, v katerem
-se navedejo tudi:
+za vsak pregled na kraju samem pripravi zapisnik o pregledu na kraju samem, v
+katerem se navedejo tudi:
 1.     
 podatek, ali je bil pregled upravičencu predhodno napovedan in če je bil
 predhodno napovedan, način in datum napovedi pregleda; če je od napovedi do
@@ -1971,8 +1978,8 @@ ali hujše namerno ne izpolnjuje pogojev upravičenosti, ki lahko privede do
 resnih posledic za zdravje ljudi, zdravje in počutje živali ali varstvo okolja
 in narave, agencija zavrne plačilo za leto zahtevka, na katerega se ugotovitev
 nanaša, ter ukine plačila zadevnega zahtevka za naslednje leto ali naslednji
-dve leti, pri čemer se upoštevajo merila resnosti, obsega, trajanja in ponavljanja,
-določena v petem odstavku tega člena.
+dve leti, pri čemer se upoštevajo merila resnosti, obsega, trajanja in
+ponavljanja, določena v petem odstavku tega člena.
 (4) Če je po pregledu na kraju samem ponovno opravljen
 pregled na kraju samem ali nadzorstveni pregled iz devetega odstavka 13. člena te uredbe, se v skladu s pogoji
 upravičenosti za posamezni zahtevek presojajo ugotovitve iz vseh zapisnikov o
@@ -1995,10 +2002,9 @@ možnost za primerno odpravo tega učinka,
 ponavljanje neizpolnjevanja pomeni, da so bili v prejšnjih letih pri
 istem upravičencu odkriti podobni ali primerljivi primeri neizpolnjevanja
 pogojev upravičenosti.
-(6) V primeru preprečitve katerega koli pregleda na kraju
-samem se upravičencu zavrnejo vsa plačila na podlagi zahtevkov iz zbirne vloge
-iz 1. točke prvega odstavka 8. člena te
-uredbe.
+(6) V primeru preprečitve katerega koli pregleda na kraju samem
+se upravičencu zavrnejo vsa plačila na podlagi zahtevkov iz zbirne vloge iz 1.
+točke prvega odstavka 8. člena te uredbe.
 (7) Pri uporabi upravnih sankcij, določenih v tej uredbi,
 uredbah iz drugega odstavka 1. člena te
 uredbe in v uredbi, ki ureja pogojenost, agencija upošteva tudi preglede iz
@@ -2021,12 +2027,12 @@ celoti;
 3.     
 če čezmerno prijavljena površina predstavlja več kot 50 % ugotovljene
 površine, se čezmerno prijavljena površina zavrne, poleg tega se za to skupino
-kmetijskih rastlin znesek plačila zavrne v celoti ter upravičencu naloži
-dodatna upravna sankcija, ki je enaka znesku zahtevanega plačila, ki za ta
-zahtevek predstavlja čezmerno prijavljeno površino. Če zneska dodatne upravne
-sankcije ni mogoče v celoti odtegniti od katerih koli plačil zbirne vloge v
-tekočem letu ali naslednjih treh letih, se neporavnani znesek dodatne upravne
-sankcije odpiše.
+kmetijskih rastlin znesek plačila zavrne v celoti ter upravičencu naloži dodatna
+upravna sankcija, ki je enaka znesku zahtevanega plačila, ki za ta zahtevek
+predstavlja čezmerno prijavljeno površino. Če zneska dodatne upravne sankcije
+ni mogoče v celoti odtegniti od katerih koli plačil zbirne vloge v tekočem letu
+ali naslednjih treh letih, se neporavnani znesek dodatne upravne sankcije
+odpiše.
 (2) Kadar je ugotovljena drugačna kmetijska rastlina od
 prijavljene in ugotovljena kmetijska rastlina glede na šifrant za posamezni
 zahtevek ni upravičena ali je upravičena, vendar je zanjo višina plačila na
@@ -2074,10 +2080,11 @@ vrste rabe ne zavrne in površina šteje v nepravilno prijavo.
 (1) Če upravičenec v zbirni vlogi ne prijavi vseh kmetijskih
 površin in KRZ, se upravičencu znesek vseh plačil zahtevkov iz zbirne vloge v
 zvezi s površino zmanjša za odstotek, ki se izračuna tako, da se neprijavljena
-površina deli s površino vseh kmetijskih zemljišč kmetijskega gospodarstva, prijavljenih
-v zbirni vlogi, in pomnoži s 100. Če zneska upravne sankcije ni mogoče v celoti
-odtegniti od plačil zbirne vloge v zvezi s površino v tekočem letu, se
-neporavnani znesek upravne sankcije nosilcu kmetijskega gospodarstva odpiše.
+površina deli s površino vseh kmetijskih zemljišč kmetijskega gospodarstva,
+prijavljenih v zbirni vlogi, in pomnoži s 100. Če zneska upravne sankcije ni
+mogoče v celoti odtegniti od plačil zbirne vloge v zvezi s površino v tekočem
+letu, se neporavnani znesek upravne sankcije nosilcu kmetijskega gospodarstva
+odpiše.
 (2) Ne glede na prejšnji odstavek se v primeru, če je
 izračunani odstotek upravne sankcije v zvezi z nepopolno prijavo površin večji
 od 3 %, upoštevajo 3 %.
@@ -2093,8 +2100,8 @@ površina ne šteje kot prijavljena površina.
 (zavrnitev plačila in čezmerna prijava živali)
 (1) Če je s pregledom na kraju samem ali z upravnim pregledom
 za žival ugotovljeno neizpolnjevanje pogojev identifikacije in registracije, se
-za žival, za katero je bilo ugotovljeno neizpolnjevanje pogojev identifikacije
-in registracije, plačilo zavrne.
+za to žival plačilo zavrne, razen za intervencijo KOPOP_PS, zahtevo
+izkoreninjenje BVD in operacijo lokalne pasme.
 (2) Ne glede na prejšnji odstavek, če je za skupino živali
 ugotovljena čezmerna prijava živali iz naslednjih odstavkov tega člena, se
 upravne sankcije za posamezno skupino živali določijo na naslednji način:
@@ -2123,15 +2130,14 @@ predstavlja čezmerno prijavljeno število živali. Če zneska dodatne upravne
 sankcije ni mogoče v celoti odtegniti od katerih koli plačil zbirne vloge v
 tekočem letu ali naslednjih treh letih, se neporavnani znesek dodatne upravne
 sankcije odpiše.
-(3) Čezmerno prijavljena žival je žival, za katero je bilo s
-pregledom na kraju samem ugotovljeno kakršno koli neizpolnjevanje pogojev
-identifikacije in registracije, ali če je bilo z upravnim pregledom za skupino
-živali ugotovljeno neizpolnjevanje pogojev identifikacije in registracije pri
-več kot treh živalih. Če je bil za kmetijsko gospodarstvo poleg upravnega
-pregleda izveden tudi pregled na kraju samem in je število živali, za katere je
-bilo ugotovljeno neizpolnjevanje pogojev identifikacije in registracije, pri
-obeh pregledih skupaj večje od tri, se šteje, da so te živali čezmerno
-prijavljene.
+(3) Čezmerno prijavljena žival je žival, za katero je bilo s pregledom
+na kraju samem ugotovljeno kakršno koli neizpolnjevanje pogojev identifikacije
+in registracije, ali če je bilo z upravnim pregledom za skupino živali
+ugotovljeno neizpolnjevanje pogojev identifikacije in registracije pri več kot
+treh živalih. Če je bil za kmetijsko gospodarstvo poleg upravnega pregleda
+izveden tudi pregled na kraju samem in je število živali, za katere je bilo
+ugotovljeno neizpolnjevanje pogojev identifikacije in registracije, pri obeh
+pregledih skupaj večje od tri, se šteje, da so te živali čezmerno prijavljene.
 (4) Neizpolnjevanje pogoja iz prve alineje 1. točke drugega
 odstavka 18. člena te uredbe in
 nepravilno poročan stalež živali za podintervencijo dobrobit živali – prašiči,
@@ -2194,22 +2200,15 @@ V. SKUPNE DOLOČBE
 (višja sila in izjemne okoliščine)
 (1) Če upravičenec pri izvajanju intervencij ni mogel
 izpolniti pogojev upravičenosti zaradi višje sile ali izjemnih okoliščin, se
-plačilo za leta, v katerih je prišlo do višje sile ali izjemnih okoliščin,
-odobri v sorazmernem deležu. Neodobritev plačil se nanaša na pogoje
-upravičenosti, pri katerih do dodatnih stroškov ali izgube dohodka ni prišlo
-zaradi višje sile ali izjemnih okoliščin.
-(2) Ne glede na prejšnji odstavek se pri plačilih za naravne
-in druge omejitve ter pri intervencijah neposrednih plačil, razen SOPO in
-intervencije Natura 2000 plačila, plačilo za leto, v katerem je prišlo do
-primera višje sile ali izjemnih okoliščin, dodeli v celoti, če je upravičenec
-agenciji v predpisanem roku in na predpisani način sporočil nastanek višje sile
-ali izjemnih okoliščin.
-(3) Če upravičenec v tekočem letu ne more izpolniti vseh
+plačilo za posamezne kmetijske parcele oziroma živali, pri katerih je bila
+ugotovljena višja sila ali izjemne okoliščine, dodeli v celoti, če upravičenec
+agenciji sporoči ter dokaže nastanek višje sile ali izjemnih okoliščin.
+(2) Če upravičenec v tekočem letu ne more izpolniti vseh
 pogojev upravičenosti intervencij ali zahtev iz uredbe, ki ureja pogojenost,
 zaradi višje sile ali izjemnih okoliščin, se upravne sankcije v skladu s petim
 odstavkom 59. člena Uredbe 2021/2116 ne
 naložijo.
-(4) Kot primer višje sile ali izjemne okoliščine se upošteva
+(3) Kot primer višje sile ali izjemne okoliščine se upošteva
 tudi smrt ali dolgotrajna nezmožnost člana kmetijskega gospodarstva za delo, če
 je obseg dela tega člana na kmetijskem gospodarstvu znašal vsaj 0,5 polnovredne
 delovne moči (PDM). Za obseg dela 0,5 PDM se šteje, da ga dosega vsaka oseba,
@@ -2217,16 +2216,16 @@ ki je starejša od 15 let in je vpisana v register kmetijskih gospodarstev. Čla
 kmetije, za katerega se uveljavlja primer višje sile zaradi smrti ali
 dolgotrajne nezmožnosti za delo, mora biti ob nastanku višje sile ali izjemne
 okoliščine vpisan v RKG.
-(5) Kot primer višje sile ali izjemne okoliščine se upošteva
+(4) Kot primer višje sile ali izjemne okoliščine se upošteva
 tudi pogin živali zaradi bolezni, ki ni epizootska (kužna), in pogin živali
 zaradi nesreče, za katerega upravičenec ne nosi odgovornosti in je ravnal kot
 dober gospodar.
-(6) Višja sila ali izjemne okoliščine se priznajo za
+(5) Višja sila ali izjemne okoliščine se priznajo za
 posamezne kmetijske parcele ali posamezne živali. V primeru razlastitve ali
 naravne nesreče, ki prizadene več kot 30 % površin, ki so ob nastanku višje
 sile ali izjemne okoliščine vpisane v RKG, se lahko višja sila ali izjemne
 okoliščine priznajo za celotno kmetijsko gospodarstvo.
-(7) Če upravičenec uveljavlja primer višje sile ali izjemnih
+(6) Če upravičenec uveljavlja primer višje sile ali izjemnih
 okoliščin, lahko:
 -       
 dokončno preneha izvajati obveznosti, če zaradi primera višje sile ali
@@ -2239,20 +2238,20 @@ obveznosti, ali
 zmanjša obseg površin ali število živali, za katere je prevzel
 obveznost, in je izvajanje obveznosti zaradi višje sile ali izjemnih okoliščin
 onemogočeno.
-(8) Primere višje sile ali izjemnih okoliščin upravičenec
+(7) Primere višje sile ali izjemnih okoliščin upravičenec
 sporoči agenciji na obrazcu Sporočanje višje sile ali izjemnih okoliščin v
 petnajstih delovnih dneh od dneva, ko je upravičenec to zmožen storiti, ter
 priloži ustrezne dokaze.
-(9) Višjo silo ali izjemne okoliščine na podlagi vloge
+(8) Višjo silo ali izjemne okoliščine na podlagi vloge
 upravičenca in ustreznih dokazil agencija obravnava posamezno. Agencija glede
 višje sile in izjemnih okoliščin izda odločbo.
 30. člen
 (popravki in prilagoditve očitnih napak)
 (1) Ko uradna oseba agencije, ki vodi postopek, nedvoumno
 ugotovi, da gre za očitno napako, lahko zbirno vlogo iz 6. člena te uredbe
-v sodelovanju z upravičencem ali brez njega popravi ali prilagodi. Očitne napake
-se lahko priznajo samo, če se lahko odkrijejo ob preprostem pregledu informacij
-iz zbirne vloge in zahtevkov.
+v sodelovanju z upravičencem ali brez njega popravi ali prilagodi. Očitne
+napake se lahko priznajo samo, če se lahko odkrijejo ob preprostem pregledu
+informacij iz zbirne vloge in zahtevkov.
 (2) Uradna oseba agencije o popravkih in prilagoditvah iz
 prejšnjega odstavka predhodno obvesti upravičenca in naredi uradni zaznamek.
 31. člen
@@ -2261,9 +2260,9 @@ prejšnjega odstavka predhodno obvesti upravičenca in naredi uradni zaznamek.
 oziroma jih agencija poravna s prihodnjimi plačili v skladu z zakonom, ki ureja
 kmetijstvo.
 (2) Ne glede na prejšnji odstavek agencija ne izda odločbe o
-vračilu neupravičeno izplačanih sredstev v primerih iz določb, ki urejajo
-neizpolnitev ali kršitev obveznosti in neupravičeno izplačana sredstva pod
-določenim zneskom, iz zakona, ki ureja kmetijstvo.
+vračilu neupravičeno izplačanih sredstev v primerih iz določb, ki urejajo neizpolnitev
+ali kršitev obveznosti in neupravičeno izplačana sredstva pod določenim
+zneskom, iz zakona, ki ureja kmetijstvo.
 32. člen
 (učinkovanje prenosa kmetijskega gospodarstva)
 (1) V primeru prenosa kmetijskega gospodarstva z enega
@@ -2277,11 +2276,12 @@ na prevzemnika v obdobju od izteka roka za oddajo zbirne vloge, določenega v
 prvem odstavku 8. člena te uredbe, do 2.
 novembra tekočega leta, prevzemnik po vpisu v RKG in najpozneje do 2. novembra
 2023 agenciji pošlje obvestilo o prenosu in zahtevo za plačilo na obrazcu
-Izjava o prenosu kmetijskega gospodarstva in zahteva za plačilo v primeru prenosa
-celotnega kmetijskega gospodarstva po izteku roka za vložitev zbirne vloge za
-leto 2023 (v nadaljnjem besedilu: izjava o prenosu kmetijskega gospodarstva),
-ki je določen v Prilogi te uredbe. Če prevzemnik ne ravna v skladu s tem
-odstavkom, ni upravičen do sredstev na podlagi zbirne vloge za leto 2023.
+Izjava o prenosu kmetijskega gospodarstva in zahteva za plačilo v primeru
+prenosa celotnega kmetijskega gospodarstva po izteku roka za vložitev zbirne vloge
+za leto 2023 (v nadaljnjem besedilu: izjava o prenosu kmetijskega
+gospodarstva), ki je določen v Prilogi te uredbe. Če prevzemnik ne ravna v
+skladu s tem odstavkom, ni upravičen do sredstev na podlagi zbirne vloge za
+leto 2023.
 (3) V primeru prenosa kmetijskega gospodarstva s prenosnika
 na prevzemnika v obdobju po 2. novembru 2023 se kot upravičenec do sredstev na
 podlagi zbirne vloge za leto 2023 šteje prenosnik.
@@ -2351,9 +2351,9 @@ upoštevajo ugotovitve iz zapisnikov o pregledih na kraju samem za vse izvedene
 preglede.
 (4) Vse ugotovitve neskladnosti v zvezi s pravili navzkrižne
 skladnosti, ugotovljene pri kontroli upravičenosti za intervencije kmetijske
-politike za tekoče leto iz drugega odstavka 1. člena te uredbe z
-upoštevanjem obdobja preveritve iz tretjega odstavka 37. člena te uredbe, se upoštevajo pri izračunu upravne
-sankcije, ki se nanaša na zahtevke iz prejšnjega člena.
+politike za tekoče leto iz drugega odstavka 1. člena te uredbe, se
+upoštevajo pri izračunu upravne sankcije, ki se nanaša na zahtevke iz
+prejšnjega člena.
 (5) Podatki o nadzoru, ki ga opravijo Inšpekcija za varno
 hrano, veterinarstvo in varstvo rastlin, Inšpektorat Republike Slovenije za
 kmetijstvo, gozdarstvo, lovstvo in ribištvo, inšpekcija, pristojna za okolje in
@@ -2400,9 +2400,16 @@ priglasitve dogodkov v CRG, CRD in CRPš se izvedejo na kmetijskih
 gospodarstvih, ki bodo imeli izvedeno kontrolo navzkrižne skladnosti.
 (3) Pravočasnost priglasitve dogodkov v CRG, CRD in CRPš za
 leto 2023 se za posamezno kmetijsko gospodarstvo preverja za obdobje od 1.
-januarja 2023 do zadnjega datuma pregleda na kraju samem, ki je bil za navzkrižno
-skladnost opravljen v letu 2023.
-VII. PREHODNA IN KONČNA DOLOČBA
+januarja 2023 do zadnjega datuma pregleda na kraju samem, ki je bil za
+navzkrižno skladnost opravljen v letu 2023.
+
+Priloga:
+Obrazci
+
+Uredba o izvedbi intervencij kmetijske
+politike za leto 2023 (Uradni list RS, št. 34/23) vsebuje naslednjo prehodno in
+končno določbo:
+»VII. PREHODNA IN KONČNA DOLOČBA
 38. člen
 (prehodna določba)
 (1) Zahtevki, ki se nanašajo na intervencijo OMD, se vložijo
@@ -2411,21 +2418,25 @@ ureja ukrepe kmetijsko-okoljska-podnebna plačila, ekološko kmetovanje in
 plačila območjem z naravnimi ali drugimi posebnimi omejitvami iz Programa
 razvoja podeželja Republike Slovenije za obdobje 2014–2020, ter spremenjenim
 Programom razvoja podeželja Republike Slovenije za obdobje 2014–2020, ki se
-začne uporabljati naslednji dan po prejetju sklepa Evropske komisije o
-potrditvi spremembe Programa razvoja podeželja Republike Slovenije za obdobje
-2014–2020.
+začne uporabljati naslednji dan po prejetju sklepa Evropske komisije o potrditvi
+spremembe Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020.
 (2) Minister, pristojen za kmetijstvo, objavi naznanilo o
 prejetju sklepa iz prejšnjega odstavka v Uradnem listu Republike Slovenije.
 39. člen
 (začetek veljavnosti)
 Ta uredba začne veljati naslednji dan po objavi v Uradnem
-listu Republike Slovenije.
-Št. 00704-103/2023
-Ljubljana, dne 23. marca 2023
-EVA 2023-2330-0008
-Vlada Republike Slovenije
-Danijel Bešič Loredan
-podpredsednik
+listu Republike Slovenije.«.
 
-Priloga:
-Obrazci
+Uredba o spremembah in dopolnitvi Uredbe o izvedbi
+intervencij kmetijske politike za leto 2023 (Uradni list RS, št. 110/23)
+vsebuje naslednjo prehodno in končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+7. člen
+(končanje postopkov)
+Postopki, začeti v skladu z Uredbo o izvedbi intervencij
+kmetijske politike za leto 2023 (Uradni list RS, št. 34/23), se končajo v
+skladu s to uredbo.
+8. člen
+(začetek veljavnosti)
+Ta uredba začne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

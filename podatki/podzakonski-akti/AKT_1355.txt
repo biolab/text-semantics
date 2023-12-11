@@ -1,0 +1,267 @@
+1. člen
+(vsebina splošnega akta)
+Ta splošni akt določa kakovost storitev komunikacij v sili,
+in sicer zagotavljanje storitev komunikacij v sili, parametre kakovosti
+komunikacij za enotno evropsko telefonsko številko 112 (v nadaljnjem besedilu:
+številka 112), številko policije 113 (v nadaljnjem besedilu: številka 113) in
+enotno evropsko telefonsko številko za prijavo pogrešanih otrok na ozemlju
+Republike Slovenije 116 000 (v nadaljnjem besedilu: številka 116 000), njihove
+mejne vrednosti in metode merjenja teh parametrov ter merila za zagotavljanje točnih
+in zanesljivih podatkov o lokaciji kličočega.
+2. člen
+(pomen izrazov)
+(1) Izrazi, uporabljeni
+v tem splošnem aktu, pomenijo:
+1.     
+Center 112 je center, ki sprejema in obravnava komunikacije v sili na
+številki 112.
+2.     
+Center 113 je center, ki sprejema in obravnava komunikacije v sili na
+številki 113.
+3.     
+Center 116 000 je center, ki sprejema in obravnava komunikacije v sili
+na številki 116 000.
+4.     
+Dostop do centra 112, centra 113 ali centra 116 000 je celotna
+komunikacijska povezava s pripadajočimi zmogljivostmi od vključno prvega
+usmerjevalnika operaterja, izvajalca javno dostopnih medosebnih komunikacijskih
+storitev na podlagi številke, ki prejme klicano številko za klic v sili, do
+omrežne priključne točke centra 112, centra 113 ali centra 116 000, ki glede na
+naravo klica in lokacijo kličočega sprejema komunikacijo. Ne vključuje pa
+povezave od končnega uporabnika do prvega usmerjevalnika operaterja.
+5.     
+Informacija o številki kličočega je informacija o številki in drugih
+elementih oštevilčenja, s katere je bil začet klic na številko 112, številko
+113 ali številko 116 000.
+(2) Drugi izrazi,
+uporabljeni v tem splošnem aktu, imajo enak pomen, kot je določen v Zakonu o
+elektronskih komunikacijah (Uradni list RS, št. 130/22
+in 18/23 – ZDU-1O).
+3. člen
+(zagotavljanje storitev komunikacij v sili)
+(1) Operater, izvajalec
+javno dostopnih medosebnih komunikacijskih storitev na podlagi številke (v
+nadaljnjem besedilu: operater), je dolžan sam ali v pisnem dogovoru skupaj z
+drugimi operaterji zagotavljati 24 ur na dan in sedem dni v tednu nemoten in
+prednosten prenos vseh komunikacij v sili na center 116 000 ter na
+najprimernejši center 112 oziroma center 113.
+(2) Operater se v
+sodelovanju z operaterjem, ki zagotavlja dostop do posameznega centra 112,
+centra 113 in centra 116 000, ter pristojnimi organi za delovanje navedenih
+centrov, dogovori o standardiziranih vmesnikih in pravilih usmerjanja
+komunikacij v sili glede na vrsto klica in lokacijo kličočega.
+(3) Operater zagotovi
+na svojih prodajnih mestih končnim uporabnikom invalidom in uporabnikom z
+omejitvami sluha, vida ali govora, terminalne naprave, ki omogočajo enakovreden
+dostop do komunikacij v sili kot ga imajo drugi uporabniki, ki omejitev sluha,
+vida ali govora nimajo.
+(4) Operater mora sam
+ali v pisnem dogovoru skupaj z drugimi operaterji sprejeti in izvajati vse
+potrebne tehnične in organizacijske ukrepe, da zagotovi neprekinjeno delovanje
+in odpornost storitev komunikacij v sili na ravni programske opreme,
+komutacijskih vozlišč, omrežnih elementov, kot tudi na ravni topološko ločenih
+povezav, ki omogočajo komunikacijo in prenos storitev do centrov 112, centrov
+113 in centra 116 000. Omrežje in pripadajoče zmogljivosti mora operater
+načrtovati na način, da omogočajo preklop na redundantne elemente in povezave v
+primeru odpovedi primarnih zmogljivosti, pri čemer način preklopa dogovori s
+centri 112 in 113 ter centrom 116 000. To vključuje preventivne ukrepe in
+postopke, ki se sprožijo v primeru izpada ali neustreznega delovanja opreme in
+povezav na strani operaterja, vključno z ukrepi, ki preprečujejo zlorabo in
+preobremenitev dostopa do centrov 112, centrov 113 ali centra 116 000 v primeru
+varnostnega incidenta.
+(5) Operater zagotavlja
+uporabo komunikacij v sili na številke 112, 113 in 116 000 neomejeno in
+brezplačno. Prav tako sta za končnega uporabnika brezplačna pridobitev in
+prenos informacij o lokaciji kličočega, ne glede na način pridobitve ali način
+prenosa do posameznega centra 112, centra 113 ali centra 116 000. Zagotavljanje
+informacij o kličočem končnem uporabniku je omejeno glede na tehnične zmožnosti
+operaterja oziroma terminalske opreme končnega uporabnika.
+(6) Ob vzpostavitvi
+komunikacije v sili operater centru 112, centru 113 oziroma centru 116 000
+takoj in brezplačno posreduje informacijo o številki kličočega ter informacijo
+o lokaciji kličočega. Operater z organi, pristojnimi za delovanje centrov 112,
+centrov 113 in centra 116 000 dogovori obliko in način izmenjave informacije o
+lokaciji kličočega.
+(7) Odpravljanje
+morebitnih okvar in motenj v zvezi s storitvijo prenosa komunikacij v sili,
+vključno ob izpadih alternativnih povezav, obravnavajo operaterji prednostno 24
+ur na dan in sedem dni v tednu.
+4. člen
+(parametri kakovosti storitev komunikacij v sili, njihove
+mejne vrednosti in metode merjenja)
+(1) Operater za namene
+ocenjevanja kakovosti storitev komunikacij v sili meri najmanj naslednje
+parametre kakovosti za čas preteklega leta:
+1.     
+Razpoložljivost storitev komunikacije v sili: operater mora sam ali v
+pisnem dogovoru z drugimi operaterji z ustrezno arhitekturo omrežja, opremo,
+povezavami in kadrovskimi viri zagotoviti, da je letna razpoložljivost
+posameznih storitev komunikacij v sili (komunikacija s centri 112, centri 113
+oziroma centrom 116 000) najmanj 99,99 %. Razpoložljivost se izračuna kot
+kvocient vsote vseh obdobij v koledarskem letu, ko je bila posamezna storitev
+komunikacij v sili na voljo, merjeno v minutah, in skupnega časa obdobja enega
+leta. Podatek o razpoložljivosti mora biti prikazan ločeno za vsak posamezni
+regionalni center.
+2.     
+Število okvar, ki onemogočajo komunikacijo v sili: meri se število okvar
+dostopa do posameznih centrov 112, centrov 113 in centra 116 000 v koledarskem
+letu, tj. število dogodkov na strani operaterja ali povezanih operaterjev, ki
+so onemogočili komunikacijo v sili s posameznim centrom 112, centrom 113 in
+centrom 116 000 (od storitvene platforme operaterja do posameznega centra 112,
+centra 113 ali centra 116 000).
+3.     
+Čas odprave okvar dostopa do centra 112, centra 113 ali centra 116 000,
+katerih razlog izpada ni naravna nesreča ali fizična poškodba komunikacijskega
+voda kot posledica gradbenih del: naveden čas ne sme biti daljši od štirih ur
+in se meri od trenutka, ko je bila okvara javljena pristojni službi operaterja
+ali jo je zaznal operater sam, do trenutka, ko je polna funkcionalnost storitve
+komunikacije v sili ponovno na voljo končnim uporabnikom.
+4.     
+Čas dostave SMS sporočila na številko 112, merjen v sekundah: navedeni
+čas za 95 % vseh odposlanih sporočil v enem letu ne sme biti daljši od 25
+sekund in se meri od trenutka, ko je bilo SMS sporočilo poslano na številko 112
+do trenutka prispetja sporočila do centra 112.
+5.     
+Delež neuspelih SMS sporočil na številko 112: naveden delež v enem letu
+ne sme preseči 5 % vseh na številko 112 poslanih sporočil in se izračuna kot
+razmerje v odstotkih med številom vseh neuspešnih poskusov oddaje SMS sporočil
+na številko 112 in številom vseh poskusov oddaje SMS sporočila na številko 112.
+Za neuspelo SMS sporočilo na številko 112 se šteje sporočilo, ki je bilo
+dostavljeno v času, daljšem od 50 sekund ali ni prispelo do centra 112.
+6.     
+Čas vzpostavitve klica na številko 112, številko 113 ali številko 116
+000, merjen v sekundah: naveden čas za 95 % vseh klicev v enem letu ne sme biti
+daljši od osmih sekund in se meri od trenutka, ko omrežje prejme zadostne
+naslovne podatke za vzpostavitev klica s centrom 112, centrom 113 ali centrom
+116 000, do trenutka, ko kličoči prejme ton zasedenosti, ton zvonjenja ali
+javljanje odzivnika.
+7.     
+Število neuspelih poskusov klicev na številko 112, številko 113 in
+številko 116 000: beleži se letno število neuspelih poskusov klicev na številko
+112, številko 113 in številko 116 000, pri katerih se klic ni vzpostavil, torej
+kličoči ni prejel znaka zvonjenja in govorna zveza ni bila vzpostavljena.
+8.     
+Čas sporočanja informacije o lokaciji kličočega, merjen v sekundah:
+naveden čas, ki preteče od trenutka, ko je bila vzpostavljena komunikacija na
+številko 112, številko 113 ali številko 116 000 do trenutka sprejema podatka o
+lokaciji kličočega v centru 112, centru 113 oziroma centru 116 000 v enem letu
+v 90 % klicev oziroma SMS sporočil, pri katerih je bilo sporočanje informacije
+o lokaciji uspešno. Ta čas ne sme biti daljši od 25 sekund.
+9.     
+Delež neuspelih prenosov informacij o lokaciji kličočega na številko
+112, številko 113 in številko 116 000: naveden delež neuspelih prenosov ne sme
+biti večji od 5 % in se izračuna kot kvocient števila klicev na številko 112,
+številko 113 in številko 116 000, pri katerih centri za sprejem komunikacij v
+sili niso prejeli informacije o lokaciji kličočega oziroma so jo prejeli v
+nerazpoznavni obliki ali v nasprotju z določbami glede natančnosti lokacije iz
+tretjega in četrtega odstavka 5. člena tega splošnega akta in vseh
+vzpostavljenih klicev na centre za sprejem komunikacij v sili.
+(2) Operater pri
+merjenju parametrov kakovosti komunikacij v sili smiselno uporablja definicije
+in metode merjenja iz veljavnega slovenskega standarda SIST-V ETSI/EG 201 769
+V.1.1.2:2007.
+5. člen
+(informacija o lokaciji kličočega)
+(1) Operater za namen
+določitve lokacije kličočega centru 112, centru 113 ali centru 116 000 sporoči
+vse informacije, s katerimi razpolaga, in sicer: naslov naročnika, geografsko
+sklenjeno območje, opredeljeno s poligonom pokrivanja sektorske antene ter
+točko, opredeljeno z geografskimi koordinatami. V primeru fizične osebe naslov
+naročnika vsebuje tudi podatek o številki stanovanja oziroma nadstropja, v
+primeru pravne osebe pa številko dela stavbe oziroma nadstropja, če operater
+razpolaga s temi podatki.
+(2) Informacija o
+lokaciji kličočega se takoj in brezplačno po vzpostavitvi komunikacije v sili
+pošlje centru 112, centru 113 ali centru 116 000 v okviru tehničnih možnosti
+preko signalizacije ali po ločeni podatkovni povezavi. Tehnične specifikacije
+podatkovne povezave, način in obliko izmenjave podatkov operater dogovori z
+organi, pristojnimi za obravnavo klicev in sporočil na številko 112, za obravnavo
+klicev na številko 113 in za obravnavo klicev na številko 116 000.
+(3) V nobenem primeru
+sporočeno območje lokacije fiksnega priključka ne sme biti večje od 100 m².
+(4) Informacija o
+lokaciji kličočega z mobilnih naprav ne sme obsegati večjega območja, kot je
+območje pokrivanja geografsko sklenjenega območja, ki je opredeljeno s
+poligonom pokrivanja sektorske antene, preko katere je bil sprožen klic na
+številko 112, klic na številko 113 oziroma klic na 116 000. Zaradi
+zagotavljanja čim bolj natančne lokacije kličočega, operater zagotovi centru
+112, centru 113 oziroma centru 116 000 tudi lokacijo kličočega, pridobljeno iz
+mobilnih naprav (GPS koordinate). Operater posreduje pridobljene podatke
+brezplačno in v obsegu, kot je tehnično mogoče.
+6. člen
+(informacija o številki kličočega)
+Informacijo o številki kličočega operater ob vsakem začetem
+klicu pošlje centru 112, centru 113 oziroma centru 116 000 v okviru
+signalizacije oziroma s samim klicem in ne glede na nastavitve uporabnika.
+7. člen
+(poročanje podatkov o kakovosti storitev komunikacij v sili)
+(1) Operater za namene
+ocenjevanja kakovosti storitev komunikacij v sili v opazovanem obdobju ločeno
+za vsak center 112, center 113 in center 116 000 zbira in poroča Agenciji za
+komunikacijska omrežja in storitve Republike Slovenije (v nadaljnjem besedilu:
+agencija) poleg parametrov, navedenih od 1. do 7. točke prvega odstavka 4. člena tega splošnega akta, še naslednje
+podatke za obdobje preteklega koledarskega leta:
+1.     
+število vseh fiksnih in mobilnih klicev do centrov 112, centrov 113 in
+centra 116 000,
+2.     
+število neuspelih prenosov informacij o lokaciji,
+3.     
+število dogodkov na strani operaterja ali povezanih operaterjev, ki so
+onemogočili komunikacijo v sili do posameznega centra 112, centra 113 in centra
+116 000 (od storitvene platforme operaterja do posameznega centra 112, centra
+113, ali centra 116 000),
+4.     
+povprečno trajanje izpada komunikacije iz prejšnje točke,
+5.     
+število vseh poslanih SMS sporočil na številko 112,
+6.     
+število neuspelih SMS sporočil, poslanih na številko 112,
+7.     
+število vseh vzpostavljenih eKlicev iz vozil na številko 112,
+predstavljeno ločeno kot samodejni klici in kot ročno vzpostavljeni klici, če
+je pri operaterju ločeno beleženje tehnično mogoče.
+(2) Operaterji vsako
+leto do 1. aprila posredujejo agenciji podatke
+iz prejšnjega odstavka za preteklo koledarsko leto.
+(3) Agencija na svoji
+spletni strani vsako leto najkasneje do 1. marca
+objavi obliko in vsebino obrazca ter format digitalnega zapisa iz prejšnjega
+odstavka tega člena oziroma omogoči operaterjem varen vnos podatkov preko
+spletnega obrazca.
+PREHODNI IN KONČNA DOLOČBA
+8. člen
+(prenehanje uporabe)
+Na podlagi 14. člena
+Zakona o spremembah Zakona o državni upravi (Uradni list RS, št. 189/21) se z dnem uveljavitve tega splošnega
+akta preneha uporabljati Pravilnik o kakovosti storitve za enotno evropsko
+telefonsko številko za klice v sili 112 in številko policije 113 (Uradni list
+RS, št. 17/18 in 189/21 – ZDU-1M); v
+nadaljnjem besedilu: Pravilnik).
+9. člen
+(poročanje podatkov agenciji)
+(1) Operaterji agenciji
+do 1. aprila 2024 posredujejo rezultate
+meritev oziroma izračunov parametrov kakovosti za leto 2023, ki so jih
+izračunali oziroma izmerili v skladu s Pravilnikom.
+(2) Prvo poročilo v
+skladu s 7. členom tega splošnega akta
+operaterji posredujejo agenciji do 1. aprila
+2025 za leto 2024.
+10. člen
+(začetek veljavnosti)
+Ta splošni akt začne veljati 1. januarja
+2024.
+Št. 0073-10/2023/15
+Ljubljana, dne 16. avgusta 2023
+EVA 2023-3150-0035
+Mag. Marko Mišmaš
+direktor
+Soglašam!
+Marjan Šarec
+minister 
+za obrambo
+Soglašam!
+Boštjan Poklukar
+minister 
+za notranje zadeve

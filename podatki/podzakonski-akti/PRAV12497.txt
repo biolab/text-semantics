@@ -93,10 +93,9 @@ zakona, ki ureja zbirke podatkov s področja zdravstvenega varstva.
 podatkov o opredeljenih darovalcih, katere upravljavec je Zavod Republike Slovenije
 za presaditve organov in tkiv Slovenija–Transplant na podlagi zakona, ki ureja
 pridobivanje in presaditev delov človeškega telesa zaradi zdravljenja.
-(4) KZZ in PK se lahko v skladu z zakonom in drugimi
-predpisi uporabljata za dostop do podatkov v zalednih sistemih upravljavcev
-zbirk podatkov, ki niso navedeni v prvem, drugem in tretjem odstavku tega
-člena.
+(4) KZZ in PK se lahko v skladu z zakonom in drugimi predpisi
+uporabljata za dostop do podatkov v zalednih sistemih upravljavcev zbirk
+podatkov, ki niso navedeni v prvem, drugem in tretjem odstavku tega člena.
 (5) KZZ in PK se lahko s pisnim soglasjem Zavoda
 uporabljata v eZdravju in informacijskih sistemih izvajalcev zdravstvenih storitev
 za potrebe drugih storitev.
@@ -163,8 +162,8 @@ Za izdajo KZZ se uporabljajo podatki iz evidenc Zavoda.
 10. člen
 (1) Zavod izda KZZ osebi, ko ji je prvič priznana
 lastnost zavarovane osebe oziroma osebi, ko je v skladu s pravnim redom EU
-oziroma mednarodno pogodbo z njo izenačena glede uveljavljanja pravic iz
-zakona, ki ureja zdravstveno varstvo in zdravstveno zavarovanje.
+oziroma mednarodno pogodbo z njo izenačena glede uveljavljanja pravic iz zakona,
+ki ureja zdravstveno varstvo in zdravstveno zavarovanje.
 (2) Če KZZ ni mogoče izdati takoj ali če je treba izdati
 novo KZZ zaradi razlogov iz prvega odstavka 11. člena tega pravilnika,
 Zavod izda začasno potrdilo za največ tri tedne, ki v času njegove veljavnosti
@@ -220,9 +219,9 @@ prenosljiva.
 -       
 avtomatično pred potekom veljavnosti KZZ iz 16. člena tega
 pravilnika.
-(2) Razen v primeru iz četrte alineje prejšnjega
-odstavka Zavod izda imetniku KZZ novo KZZ na podlagi njegove pisne zahteve, ki
-jo posreduje Zavodu:
+(2) Razen v primeru iz četrte alineje prejšnjega odstavka
+Zavod izda imetniku KZZ novo KZZ na podlagi njegove pisne zahteve, ki jo
+posreduje Zavodu:
 -       
 osebno na katerikoli območni enoti ali izpostavi Zavoda;
 -       
@@ -295,7 +294,8 @@ ZZZS številka imetnika PK;
 -       
 osebno ime imetnika PK.
 (2) V mikroprocesorju PK je poleg podatkov iz prejšnjega
-odstavka zapisano PEP, na PK zdravnikov in farmacevtov pa tudi KPEP.
+odstavka zapisano PEP, na PK zdravnikov, farmacevtov in zdravstvenih delavcev,
+ki izvajajo naloge v zvezi z darovanjem krvi, pa tudi KPEP.
 (3) V potrdilih iz prejšnjega odstavka so zapisani
 naslednji podatki, ki so prosto dostopni z uporabo čitalnika pametnih kartic in
 spletnega brskalnika:
@@ -334,7 +334,8 @@ Zavoda.
 (2) Zavod izda imetniku PK prvo PK na podlagi skupne
 prijave imetnika PK in njegovega delodajalca, novo PK pa na podlagi same
 zahteve imetnika PK iz 23. člena tega pravilnika.
-(3) Imetnik PK s KPEP (zdravnik ali farmacevt) za vsako
+(3) Imetnik PK s KPEP (zdravnik, farmacevt ali
+zdravstveni delavec, ki izvaja naloge v zvezi z darovanjem krvi) za vsako
 izdajo PK odda tudi vlogo za pridobitev KPEP v skladu s splošnim aktom Zavoda
 iz 31. člena tega pravilnika.
 22. člen
@@ -377,8 +378,9 @@ glasi. Uporaba PK je mogoča z osebnim geslom – PIN, ki je znan le imetniku PK
 če imetnik PK izgubi geslo za uporabo PK ali zaklene PK.
 (2) Zavod avtomatično izda imetniku PK novo PK pred
 potekom njene veljavnosti iz 27. člena tega pravilnika, imetnika PK s KPEP
-(zdravnike in farmacevte) pa 72 dni pred potekom veljavnosti PK pisno pozove k
-oddaji vloge za pridobitev KPEP.
+(zdravnika, farmacevta ali zdravstvenega delavca, ki izvaja naloge v zvezi z
+darovanjem krvi) pa 72 dni pred potekom veljavnosti PK pisno pozove k oddaji
+vloge za pridobitev KPEP.
 24. člen
 (1) Zavod krije stroške izdaje PK, razen za imetnike PK
 skupine 16 – Referent PZZ, opredeljene v Prilogi 2, ki je sestavni del tega
@@ -522,8 +524,18 @@ branje seznama pošiljk podatkov;
 branje podatkov o zdravstvenih delavcih;
 30.     
 urejanje pooblastil imetnikov PK in KPEP, naročanje PK;
-31.     
-branje podatkov iz Centralne baze zdravil.
+31.  
+branje podatkov iz Centralne baze zdravil;
+32.  
+zapis podatkov zdravstvenega dela elektronske prijave nezgode in
+poškodbe pri delu;
+33.  
+branje podatkov splošnega in zdravstvenega dela elektronske prijave
+nezgode in poškodbe pri delu;
+34.  
+zapis podatkov elektronskega potrdila o darovanju krvi;
+35.  
+branje podatkov elektronskega potrdila o darovanju krvi.
 (2) Natančnejša opredelitev podatkov iz 1. do 25.b točke
 in iz 29. točke prejšnjega odstavka je določena v navodilih za uporabo sistema
 on-line zdravstvenega zavarovanja, ki so objavljena na spletni strani Zavoda.
@@ -534,7 +546,12 @@ na spletni strani Zavoda.
 (4) Natančnejša opredelitev podatkov iz 30. točke prvega
 odstavka tega člena je določena v splošnem aktu Zavoda iz 31. člena tega
 pravilnika.
-(5) Imetniki PK z dodeljenim pooblastilom »1 – Splošni,
+(5) Natančnejša opredelitev podatkov iz 32. in 33. točke
+prvega odstavka tega člena je določena v Navodilu za elektronsko prijavo ali
+preklic prijave nezgode in poškodbe pri delu, natančnejša opredelitev podatkov
+iz 34. in 35. točke pa v Navodilu za izdajo in preklic elektronskega potrdila o
+darovanju krvi, ki sta objavljena na portalu SPOT.
+(6) Imetniki PK z dodeljenim pooblastilom »1 – Splošni,
 družinski, šolski, IOZ v DSO, pediater« lahko uporabljajo PEP ali KPEP na svoji
 PK za branje neosebnih podatkov o kakovosti predpisovanja zdravil (število
 izdanih receptov, celotna vrednost izdanih receptov in podobno).
@@ -671,5 +688,29 @@ kartici in pooblastilih za branje in zapisovanje podatkov v zalednem sistemu
 vsebuje naslednjo končno določbo:
 »KONČNA DOLOČBA
 3. člen
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o kartici zdravstvenega zavarovanja, profesionalni kartici in
+pooblastilih za branje in zapisovanje podatkov v zalednem sistemu (Uradni list
+RS, št. 106/23) vsebuje naslednjo prehodno in
+končno določbo:
+»PREHODNA IN KONČNA DOLOČBA
+6. člen
+Spremenjeni drugi odstavek 19. člena,
+spremenjeni tretji odstavek 21. člena,
+spremenjeni drugi odstavek 23. člena,
+novi 34. in 35. točka prvega odstavka 30. člena,
+nov peti odstavek 30. člena pravilnika v
+delu, ki se nanaša na elektronsko potrdilo o darovanju krvi, spremenjeni šifri
+10 in 12 v Prilogi 1 pravilnika, ki se nanašata na branje podatkov elektronskega
+potrdila o darovanju krvi, nova šifra 29 in nova opredelitev kratice ePODK v
+Prilogi 1 pravilnika, nova pooblastila farmacevta, farmacevtskega tehnika in
+izdajatelja MP vključno z opisom oznake 13 v Prilogi 2 pravilnika ter
+pooblastila nove podskupine »Zdravstveni delavci – darovanje krvi« v skupini
+»Drugi zdravstveni delavci« v Prilogi 2 pravilnika se začnejo uporabljati 1.
+januarja 2024.
+7. člen
 Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem
 listu Republike Slovenije.«.

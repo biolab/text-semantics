@@ -112,8 +112,8 @@ je metoda za določanje tarifnih postavk za omrežnino, pri
 -       
   nivo:
 
-označuje nivo priključitve uporabnika sistema znotraj
-  posameznega napetostnega nivoja, ki je lahko tudi napetostni nivo;
+označuje nivo priključitve uporabnika sistema znotraj posameznega
+  napetostnega nivoja, ki je lahko tudi napetostni nivo;
 
 
 -       
@@ -153,9 +153,9 @@ OMREŽNINE
 (načela metode
 obračunavanja omrežnine)
 (1) V metodologiji za obračunavanje
-omrežnine je uporabljena netransakcijska metoda poštne znamke. Ta izhaja iz
-sistema enotnih tarifnih postavk, ki jih ločeno za vsako prevzemno-predajno
-mesto pristojni elektrooperater obračuna uporabnikom sistema.
+omrežnine je uporabljena netransakcijska metoda poštne znamke. Ta izhaja iz sistema
+enotnih tarifnih postavk, ki jih ločeno za vsako prevzemno-predajno mesto
+pristojni elektrooperater obračuna uporabnikom sistema.
 (2) Tarifne postavke omrežnine za
 prenosni in distribucijski sistem se izračunajo na podlagi omrežnine, določene
 v skladu z metodologijo za določitev regulativnega okvira.
@@ -196,8 +196,8 @@ omrežnino za priključno moč.
 namenjena pokrivanju stroškov sistemskega operaterja, ki se nanašajo na
 vzdrževanje, delovanje in razvoj sistema, ter pokrivanju stroškov sistemskega
 operaterja za sistemske storitve, katerih namen je izravnavanje nihanj moči v
-sistemu, regulacija napetosti in jalove moči ter angažiranje zagona agregatov
-brez zunanjega napajanja.
+sistemu, regulacija napetosti in jalove moči ter angažiranje zagona agregatov brez
+zunanjega napajanja.
 (3) Omrežnina za distribucijski sistem je
 namenjena pokrivanju stroškov distribucijskega operaterja, ki se nanašajo na
 vzdrževanje in delovanje ter razvoj sistema in pokrivanju stroškov
@@ -286,8 +286,8 @@ sistem.
 (2) Ne glede na prejšnji odstavek je
 zavezanec za plačilo omrežnine tudi dobavitelj, ki po distribucijskem vodu, ki
 prečka državno mejo, oskrbuje z električno energijo odjemalce zunaj Republike
-Slovenije. Elektrooperater obračunava omrežnino glede na evidentirane količine
-prevzete električne energije iz sistema na prevzemno-predajnem mestu.
+Slovenije. Elektrooperater obračunava omrežnino glede na evidentirane količine prevzete
+električne energije iz sistema na prevzemno-predajnem mestu.
 (3) Proizvajalci kot uporabniki prenosnega
 oziroma distribucijskega sistema ne plačujejo omrežnine za prenosni oziroma
 distribucijski sistem, razen kadar prevzemajo električno energijo iz sistema. 
@@ -307,8 +307,8 @@ VN), srednja napetost (v nadaljnjem besedilu: SN), nizka napetost (v nadaljnjem
 besedilu: NN)) ter način priključitve (zbiralnice, izvod),
 in sicer:
 1.     
-uporabniška skupina 0, v katero so uvrščeni uporabniki sistema,
-priključeni na NN izvod nazivne napetosti 400/230 V; 
+uporabniška skupina 0, v katero so uvrščeni uporabniki sistema, priključeni
+na NN izvod nazivne napetosti 400/230 V; 
 2.     
 uporabniška skupina 1, v katero so uvrščeni uporabniki sistema,
 priključeni na NN na zbiralnici NN v transformatorski postaji (v nadaljnjem
@@ -317,9 +317,9 @@ besedilu: TP) SN/NN;
 uporabniška skupina 2, v katero so uvrščeni uporabniki sistema,
 priključeni na SN izvod nazivne napetosti 35, 20 in 10 kV;
 4.     
-uporabniška skupina 3, v katero so uvrščeni uporabniki sistema, priključeni
-na SN na zbiralnici SN v razdelilno-transformatorski postaji (v nadaljnjem
-besedilu: RTP) VN/SN;
+uporabniška skupina 3, v katero so uvrščeni uporabniki sistema,
+priključeni na SN na zbiralnici SN v razdelilno-transformatorski postaji (v
+nadaljnjem besedilu: RTP) VN/SN;
 5.     
 uporabniška skupina 4, v katero so uvrščeni uporabniki sistema,
 priključeni na VN izvod nazivne napetosti 400, 220 in 110 kV.
@@ -343,8 +343,8 @@ SN uporabniške skupine 3).
 i predstavlja posamezni nivo poenostavljenega kaskadnega modela omrežja iz
 slike 1 1.1. oddelka 1. poglavja Priloge 1, ki je sestavni del tega akta. 
 8. člen
-(opredelitev
-časovnih blokov)
+(opredelitev časovnih
+blokov)
 (1) Tarifne postavke omrežnine za prenos
 oziroma distribucijo se določijo za posamezni časovni blok. Metodo in način
 določitve časovnih blokov podrobneje določa Priloga 1 tega akta.
@@ -363,8 +363,8 @@ omrežnine za prenosni sistem določi agencija na način in pod pogoji, določen
 s tem aktom, ob upoštevanju omrežnine za prenosni sistem, določene v skladu z
 metodologijo za določitev regulativnega okvira.
 (2) Agencija določi v obliki tarif za
-obračunavanje omrežnine za prenosni sistem iz 39. člena tega akta naslednje
-tarifne postavke omrežnine za prenosni sistem:
+obračunavanje omrežnine za prenosni sistem iz 39. člena tega akta naslednje tarifne
+postavke omrežnine za prenosni sistem:
 -       
 tarifna postavka za moč za prenosni sistem ;
 -       
@@ -408,8 +408,8 @@ v časovnem bloku b.
 (3) Tarifna postavka za moč za
 distribucijski sistem se obračunava glede na dogovorjeno in presežno obračunsko
 moč uporabnika distribucijskega sistema v EUR/kW, medtem ko se tarifna postavka
-za energijo za distribucijski sistem obračunava glede na prevzeto delovno električno
-energijo iz omrežja v EUR/kWh.
+za energijo za distribucijski sistem obračunava glede na prevzeto delovno
+električno energijo iz omrežja v EUR/kWh.
 (4) Tarifna postavka za moč oziroma
 energijo za distribucijski sistem se obračuna uporabniku sistema glede na
 razvrstitev uporabnika sistema v uporabniško skupino in glede na uporabo
@@ -482,31 +482,28 @@ moči.
 (5) Dogovorjeno obračunsko moč uporabnika
 sistema določi elektrooperater za posamezni časovni blok najkasneje do konca
 meseca maja za prihodnje koledarsko leto in z njo seznani uporabnika sistema z
-računom za omrežnino za mesec junij, julij in avgust v skladu s splošnim aktom
-agencije, ki ureja obvezne sestavine računa. Če ima uporabnik sistema enotni
-račun, ga z določitvijo dogovorjene obračunske moči za naslednje koledarsko
-leto za posamezno prevzemno- predajno mesto seznani dobavitelj z enotnim
-računom za mesec junij, julij in avgust. 
+računom za omrežnino za mesec junij, julij, avgust in september v skladu s
+splošnim aktom agencije, ki ureja obvezne sestavine računa. Če ima uporabnik
+sistema enotni račun, ga z določitvijo dogovorjene obračunske moči za naslednje
+koledarsko leto za posamezno prevzemno- predajno mesto seznani dobavitelj z
+enotnim računom za mesec junij, julij, avgust in september. 
 (6) Uporabnik sistema lahko moč, s katero
-ga je seznanil elektrooperater z računom za omrežnino ali dobavitelj z enotnim
-računom za mesec junij, julij in avgust v skladu s prejšnjim odstavkom, do 20.
-septembra tekočega leta spremeni tako, da elektrooperaterju brezplačno
-posreduje novo dogovorjeno obračunsko moč za posamezne časovne bloke za
-naslednje koledarsko leto, v nasprotnem primeru se šteje, da je s strani
-elektrooperaterja določena obračunska moč ustrezna. 
-(7) Uporabnik sistema lahko zahteva
-spremembo dogovorjene obračunske moči tudi izven roka, navedenega v prejšnjem
-odstavku, pri čemer navede, na katero časovno obdobje se sprememba nanaša.
-Spremembo dogovorjene moči lahko zahteva za obdobje najmanj enega koledarskega
-meseca in sicer samo vnaprej od prvega dne v naslednjem mesecu, če je zahtevo
-oddal do vključno osmega dne v mesecu. Sprememba dogovorjene obračunske moči je
-brezplačna.
+ga je seznanil elektrooperater ali dobavitelj v skladu s prejšnjim odstavkom,
+spremeni tako, da elektrooperaterju posreduje novo dogovorjeno obračunsko moč
+za posamezne časovne bloke za naslednje koledarsko leto najkasneje do 8.
+decembra tekočega leta, v nasprotnem primeru se šteje, da je s strani
+elektrooperaterja določena obračunska moč ustrezna.
+(7) Znotraj koledarskega leta lahko
+uporabnik sistema zahteva spremembo dogovorjene moči za obdobje najmanj enega
+koledarskega meseca, in sicer samo vnaprej od prvega dne v naslednjem mesecu,
+če je zahtevo oddal do vključno osmega dne v mesecu. Sprememba dogovorjene
+obračunske moči je brezplačna.
 (8) Če uporabnik sistema predlaga drugačno
 dogovorjeno obračunsko moč, elektrooperater predlog za spremembo prouči in
 določi novo dogovorjeno obračunsko moč najkasneje v roku 20 dni od prejema
-zahteve. Elektrooperater predlagano dogovorjeno obračunsko moč potrdi, če izpolnjuje
-zahteve iz četrtega in desetega  odstavka tega člena in je manjša ali enaka
-priključni moči iz soglasja za priključitev.
+zahteve. Elektrooperater predlagano dogovorjeno obračunsko moč potrdi, če
+izpolnjuje zahteve iz četrtega in desetega  odstavka tega člena in je manjša
+ali enaka priključni moči iz soglasja za priključitev.
 (9) Pri uporabniku sistema, ki ima merilno
 napravo, ki evidentira 15-minutne meritve porabe električne energije, se moč v
 kW za vsak 15-minutni interval določi kot kvocient v tem intervalu ugotovljene
@@ -551,8 +548,8 @@ sistema v časovnem bloku b v kWh.
 obračunske moči in prevzete energije uporabnikom sistema, katerim se ne
 evidentirajo 15-minutne meritve za prevzeto energijo)
 (1) Pri uporabnikih
-sistema na NN s priključno močjo enako ali manjšo od 43 kW, katerim se ne
-evidentirajo 15-minutne meritve za prevzeto energijo, se obračunska moč  [kW] določi:
+sistema na NN s priključno močjo enako ali manjšo od 43 kW, katerim se ne evidentirajo
+15-minutne meritve za prevzeto energijo, se obračunska moč  [kW] določi:
 -       
 za enofazni priključek uporabnika sistema kot 58 % priključne moči iz
 soglasja za priključitev;
@@ -570,11 +567,11 @@ omrežnine za moč do izteka tekočega koledarskega leta in za novo koledarsko
 leto kot dogovorjeno moč upošteva doseženo moč posameznega časovnega bloka ob
 upoštevanju pogoja iz desetega odstavka 12. člena tega akta.
 (3) Če se uporabniku sistema iz prvega
-odstavka tega člena od novembra tekočega koledarskega leta omogoči
-evidentiranje 15-minutne porabe, elektrooperater za namene obračunavanja
-omrežnine za moč do izteka tekočega koledarskega leta in za naslednji dve
-koledarski leti kot dogovorjeno moč upošteva doseženo moč posameznega časovnega
-bloka ob upoštevanju pogoja iz desetega odstavka 12. člena tega akta.
+odstavka tega člena od novembra tekočega koledarskega leta omogoči evidentiranje
+15-minutne porabe, elektrooperater za namene obračunavanja omrežnine za moč do
+izteka tekočega koledarskega leta in za naslednji dve koledarski leti kot
+dogovorjeno moč upošteva doseženo moč posameznega časovnega bloka ob
+upoštevanju pogoja iz desetega odstavka 12. člena tega akta.
 (4) Uporabnik sistema ima v roku enega leta
 od dneva, ko se mu omogoči evidentiranje 15-minutne porabe, pravico brezplačno
 spremeniti obračunsko moč iz prvega odstavka tega člena v skladu z 12. členom
@@ -613,7 +610,7 @@ obračunska moč uporabnika sistema v časovnem bloku b [kW];
            tarifna
 postavka za moč za prenosni sistem za uporabniško skupino i, v časovnem
 bloku b [EUR/kW];
-              faktor
+              faktor
 utežitve presežne moči, določen v 5. poglavju Priloge 2;
                  število
 evidentiranih 15-minutnih meritev, ki presežejo dogovorjeno obračunsko moč v
@@ -655,8 +652,8 @@ presežno moč, za distribucijski sistem [EUR];
               dogovorjena
 obračunska moč uporabnika sistema v časovnem bloku b [kW];
           dosežena
-moč uporabnika sistema evidentirana iz 15-minutne meritve k v časovnem bloku
-b [kW];
+moč uporabnika sistema evidentirana iz 15-minutne meritve k v časovnem
+bloku b [kW];
            presežna
 obračunska moč uporabnika sistema, v časovnem bloku b [kW];
            tarifna
@@ -705,8 +702,8 @@ meritve, za prenosni sistem [EUR/kW)];
 moč uporabnika sistema, kateremu se ne evidentirajo 15-minutne meritve [kW].
 (3) Mesečni znesek omrežnine za energijo za
 prenos, ko se uporabniku sistema ugotavlja prevzeta energija v obdobju VT in MT
-, se določi na naslednji
-način:
+, se določi na
+naslednji način:
  
 kjer oznake pomenijo:
    omrežnina
@@ -735,8 +732,8 @@ meritve, temveč prevzeta energija v obdobju ET, za prenosni sistem [EUR];
 tarifna postavka za energijo za uporabnika sistema, kateremu se ne evidentirajo
 15-minutne meritve, za prenosni sistem [EUR/kW];
             prevzeta
-energija uporabnika sistema v obdobju ET, kateremu se ne evidentirajo 15-minutne
-meritve [kWh].
+energija uporabnika sistema v obdobju ET, kateremu se ne evidentirajo
+15-minutne meritve [kWh].
 (5) Mesečni znesek omrežnine za moč  in
 omrežnine za energijo  ali  za
 distribucijski sistem se določi tako, da se uporabita enačbi iz drugega in
@@ -762,10 +759,11 @@ obračuna omrežnino v skladu s 15. in 16. členom tega akta glede na dogovorjen
 in presežno moč ter prevzeto delovno energijo po obračunskem intervalu.
 (2) Elektrooperater končnemu odjemalcu, za
 katerega se na podlagi 72. člena Zakona o spodbujanju rabe obnovljivih virov
-energije (Uradni list RS, št. 121/21, 189/21 in 121/22 – ZUOKPOE; v nadaljnjem besedilu:
-ZSROVE) uporabljajo določbe 315.a člena Energetskega zakona (Uradni list RS, št. 60/19 – uradno prečiščeno besedilo,
-65/20, 158/20 – ZURE, 121/21 – ZSROVE, 172/21 – ZOEE, 204/21 – ZOP in 44/22 –
-ZOTDS), obračuna omrežnino za prenos oziroma distribucijo tako da:
+energije (Uradni list RS, št. 121/21, 189/21 in 121/22 – ZUOKPOE; v nadaljnjem
+besedilu: ZSROVE) uporabljajo določbe 315.a člena Energetskega
+zakona (Uradni list RS, št. 60/19 – uradno prečiščeno
+besedilo, 65/20, 158/20 – ZURE, 121/21 – ZSROVE, 172/21 – ZOEE, 204/21 – ZOP in
+44/22 – ZOTDS), obračuna omrežnino za prenos oziroma distribucijo tako da:
 -       
 obračuna omrežnino za moč v skladu s 15. in 16. členom tega akta ali v
 skladu s 17. členom tega akta za tiste končne odjemalce, katerim se ne
@@ -780,11 +778,11 @@ električno energijo iz obnovljivih virov energije (Uradni list RS, št. 17/19,
 20. člen
 (določitev obračuna
 omrežnine za člane skupnosti)
-(1) Elektrooperater članom energetskih skupnosti državljanov, skupnosti na področju obnovljivih
-virov oziroma skupnostne samooskrbe (v nadaljnjem besedilu: skupnosti)
-obračuna omrežnino za moč za prenos oziroma distribucijo v skladu s prvim
-odstavkom 15. člena tega akta in prvim odstavkom 16. člena tega akta, pri tem
-pa pri obračunu omrežnine za presežno moč namesto dosežene moči uporabnika
+(1) Elektrooperater članom energetskih skupnosti državljanov, skupnosti na področju
+obnovljivih virov oziroma skupnostne samooskrbe (v nadaljnjem besedilu:
+skupnosti) obračuna omrežnino za moč za prenos oziroma distribucijo v skladu s
+prvim odstavkom 15. člena tega akta in prvim odstavkom 16. člena tega akta, pri
+tem pa pri obračunu omrežnine za presežno moč namesto dosežene moči uporabnika
 sistema, evidentirane iz 15-minutnih meritev v časovnem bloku b  upošteva doseženo moč uporabnika sistema,
 evidentirano iz 15-minutnih meritev prevzema in dodeljene količine proizvedene
 delovne energije iz proizvodnih naprav skupnosti po obračunskih intervalih v
@@ -807,14 +805,14 @@ akta in drugim odstavkom 16. člena tega akta obračuna
 omrežnino za energijo tako, da se:
 neto poraba , določena na
 prevzemno-predajnem mestu v ustrezni merilni točki (skupna poraba  izmerjena
-na prevzemno-predajnem mestu, zmanjšana za dodeljeno količino proizvedene
-energije iz proizvodnih naprav skupnosti ), pomnoži s tarifno
+na prevzemno-predajnem mestu, zmanjšana za dodeljeno količino proizvedene energije
+iz proizvodnih naprav skupnosti ), pomnoži s tarifno
 postavko za energijo  in , pri
 čemer se neto poraba v obračunskih intervalih časovnega bloka b določi
 na naslednji način:
 -       
-dodeljena količina proizvedene delovne energije iz proizvodnih naprav
-skupnosti ( pomnoži s
+dodeljena količina proizvedene delovne energije iz proizvodnih naprav skupnosti
+( pomnoži s
 prilagojeno tarifno postavko za energijo (), ki upošteva le
 obseg uporabe javnega distribucijskega omrežja med prevzemno-predajnimi mesti
 proizvodnih naprav in prevzemno-predajnimi mesti končnih odjemalcev v skupnosti
@@ -1133,10 +1131,13 @@ priključno moč)
 plačati vsak uporabnik sistema kot enkratni pavšalni znesek glede na potrebno
 priključno moč za njegov odjem (izražena v kW, zaokrožena na cela števila) ob
 prvi priključitvi na omrežje in ob vsakem povečanju priključne moči že
-obstoječega priključka, razen za začasne priključitve, določene s sistemskimi obratovalnimi
-navodili elektrooperaterja, ter uporabnik sistema oziroma dobavitelj, ki po
-distribucijskem vodu, ki prečka državno mejo, oskrbuje z električno energijo
-odjemalce zunaj Republike Slovenije.
+obstoječega priključka. Omrežnino za priključno moč mora plačati tudi vsak uporabnik
+sistema oziroma dobavitelj, ki po distribucijskem vodu, ki prečka državno mejo,
+oskrbuje z električno energijo odjemalce zunaj Republike Slovenije. Omrežnine
+za priključno moč ne plača uporabnik sistema za začasne priključitve, ki so
+skladne s sistemskimi obratovalnimi navodili, in za začasne priključitve naprav
+za shranjevanje energije, ki so namenjene izključno za izvajanje sistemskih
+storitev.
 (2) Tarifno postavko omrežnine za
 priključno moč ) določi agencija
 glede na vpliv moči priključka uporabnika sistema na potrebne razširitve,
@@ -1162,8 +1163,8 @@ priključitev, ob upoštevanju tarifne postavke omrežnine za priključno moč v
 (3) Omrežnina za priključno moč se po
 izvedbi priključitve ne vrača.
 35. člen
-(določitev zneska za omrežnino za priključno
-moč)
+(določitev zneska za omrežnino za
+priključno moč)
 Znesek omrežnine za priključno moč, ki ga
 plača uporabnik sistema za priključitev na sistem, je odvisen od priključne
 moči in tarifne postavke omrežnine za priključno moč ob upoštevanju
@@ -1315,9 +1316,9 @@ priključna moč  [kW]
 (minimalni pogoji za določanje omrežnine
 za priključno moč)
 (1) Za novega uporabnika sistema,
-priključenega na NN, elektrooperater pri izdaji soglasja za priključitev upošteva
-najnižjo priključno moč 6 kW za enofazni priključek in 14 kW za trifazni
-priključek. 
+priključenega na NN, elektrooperater pri izdaji soglasja za priključitev
+upošteva najnižjo priključno moč 6 kW za enofazni priključek in 14 kW za
+trifazni priključek. 
 (2) Minimalna priključna moč za lastno
 rabo proizvodnih naprav, direktno priključenih na omrežje, je 14 kW za trifazni
 oziroma 6 kW za enofazni priključek.
@@ -2060,10 +2061,10 @@ z izvajanjem gospodarske javne službe.
 (2) Stroški drugih storitev, ki niso
 vsebovani v omrežnini, morajo predstavljati stroške stroškovno učinkovitega
 izvajanja dejavnosti elektrooperaterja.
-(3) Cene za druge storitve določi agencija
-po uradni dolžnosti ali na zahtevo elektrooperaterja s posebno odločbo tako, da
-pri tem upošteva dejanske stroške dela, materiala, prevoza in normativne
-količine stroškovnih elementov.
+(3) Cene za druge storitve določi
+agencija po uradni dolžnosti ali na zahtevo elektrooperaterja s posebno odločbo
+tako, da pri tem upošteva dejanske stroške dela, materiala, prevoza in
+normativne količine stroškovnih elementov.
 (4) Cenik, nabor in opis drugih
 storitev elektrooperater javno objavi na svojih spletnih straneh.
 VII. ZARAČUNAVANJE IN PLAČEVANJE
@@ -2101,9 +2102,8 @@ izvedene druge storitve najkasneje v roku desetih dni po izvedeni storitvi.
 Sistemski operater lahko izvedene druge storitve zaračuna tudi na računu iz
 prvega odstavka tega člena skupaj z omrežnino, distribucijski operater pa na
 računu iz drugega odstavka skupaj z omrežnino.
-(7) Na računu, s katerim se
-zaračunavajo druge storitve, mora biti podana podrobna specifikacija drugih
-storitev.
+(7) Na računu, s katerim se zaračunavajo
+druge storitve, mora biti podana podrobna specifikacija drugih storitev.
 43. člen
 (roki in obveznosti plačevanja omrežnine)
 (1) Uporabnik sistema iz prvega
@@ -2204,8 +2204,8 @@ posameznih uporabniških skupinah na podlagi dogovorjenih obračunskih moči iz
 po območjih distribucijskega sistema. 
 (2) Elektrooperater agenciji posreduje
 podatke, potrebne za določitev stroškov po uporabniških skupinah glede na nivo.
-(3) Elektrooperater mora agenciji posredovati
-podatke iz tega člena najkasneje do 15. oktobra tekočega leta.
+(3) Elektrooperater mora agenciji
+posredovati podatke iz tega člena najkasneje do 15. oktobra tekočega leta.
 50. člen
 (spodbujanje naprednejših oblik obračuna
 omrežnine in aktivnega odjema)
@@ -2380,6 +2380,49 @@ končnega odjemalca v sistemskih storitvah, začne uporabljati 1. januarja 2023.
 ter vsebuje naslednjo končno določbo:
 »KONČNA DOLOČBA
 3. člen
+(začetek veljavnosti)
+Ta akt začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+Akt o spremembah in dopolnitvi Akta o
+metodologiji za obračunavanje omrežnine za elektrooperaterje (Uradni list RS,
+št. 117/23) spreminja 52. člen akta tako, da
+se glasi:
+»52. člen
+(prehodno
+obdobje za obračunavanje omrežnine za presežno moč)
+(1) Uporabnikom sistema s priključno močjo
+enako ali manjšo od 43 kW se v obdobju od 1. julija 2024 do 30. junija 2026
+omrežnina za presežno moč ne obračunava, če je obračunska moč določena v skladu
+s petim odstavkom 12. člena tega akta in je uporabnik sistema ni spremenil v
+skladu s šestim, sedmim ali osmim odstavkom 12. člena tega akta.
+(2) V obdobju iz prejšnjega odstavka mora
+distribucijski operater uporabnika sistema mesečno seznanjati o prekoračitvah
+obračunske moči in stroških, ki bi mu nastali, če bi se omrežnina za presežno
+moč zaračunala.«;
+dodaja 56.a člen akta tako, da se glasi:
+»56.a člen
+(dodatno
+obveščanje o dogovorjeni obračunski moči)
+Ne glede na peti odstavek 12. člena tega
+akta elektrooperater oziroma dobavitelj uporabnika sistema z dogovorjeno
+obračunsko močjo za leto 2024 seznani tudi na računih za mesec april, maj in
+junij 2024.«;
+spreminja 58. člen akta tako, da se glasi:
+»58. člen
+(začetek
+veljavnosti in uporabe)
+(1) Ta akt začne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. julija 2024, razen 12. in 49. člena tega akta, ki se začneta uporabljati
+z uveljavitvijo tega akta.
+(2) Ne glede na prejšnji odstavek se 50.
+člen tega akta v delu, ki se nanaša na namestitev ustrezne merilne naprave za
+namene učinkovitejše uporabe omrežja in vključitev obračunskih merilnih točk
+končnega odjemalca v merjen odjem za zagotavljanje učinkovitega sodelovanja
+končnega odjemalca v sistemskih storitvah, začne uporabljati 1. januarja 2023.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+6. člen
 (začetek veljavnosti)
 Ta akt začne veljati naslednji dan po
 objavi v Uradnem listu Republike Slovenije.«.

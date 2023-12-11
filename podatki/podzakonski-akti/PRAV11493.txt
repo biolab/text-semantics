@@ -39,7 +39,7 @@ pravilniku, imajo naslednji pomen:
 1.     
 "Analiza finančnih učinkov (Budget Impact Analysis)" je
 analiza, katere cilj je natančna ocena finančnih posledic novega načina
-zdravljenja v breme zdravstvenega zavarovanja.
+zdravljenja v breme obveznega zdravstvenega zavarovanja.
 2.     
 "Analiza občutljivosti" je ocena posledic nezanesljivosti pri
 parametrih vrednotenja in pri predpostavkah, na katerih temelji
@@ -73,7 +73,8 @@ lastnosti mogoče dajati le v bolnišnici.
 9.     
 "Cena zdravila" je veljavna cena zdravila, dogovorjena ali
 določena v skladu z zakonom, ki ureja zdravila, in je podlaga za obračun
-zdravila zdravstvenemu zavarovanju ali izvajalcem zdravstvene dejavnosti.
+zdravila obveznemu zdravstvenemu zavarovanju ali izvajalcem
+zdravstvene dejavnosti.
 10.  
 "Definirani dnevni odmerek" je enota Svetovne zdravstvene
 organizacije za porabo zdravil.
@@ -116,8 +117,8 @@ zdravila in medicinske pripomočke.
 "Končni izid zdravljenja" je izid, ki se nanaša na čas
 podaljšanja življenja za zdravljeno bolezen ali čas do njene ponovitve.
 21.  
-"Lista zdravil" je skupni izraz za pozitivno in vmesno listo
-zdravil na recept ter seznam bolnišničnih zdravil.
+"Lista zdravil" je skupni izraz za pozitivno listo zdravil na
+recept ter seznam bolnišničnih zdravil.
 22.  
 "Magistralno zdravilo" je zdravilo za uporabo v humani
 medicini, kakor je opredeljeno v zakonu, ki ureja zdravila.
@@ -138,9 +139,7 @@ zakonu, ki ureja zdravila.
 "Najvišja priznana vrednost (NPV)" je cenovni standard, ki ga
 Zavod določi za posamezno zdravilo v skupini medsebojno zamenljivih zdravil in
 v terapevtski skupini zdravil, ki se krije iz obveznega zdravstvenega
-zavarovanja v celoti ali v ustreznem odstotnem deležu na podlagi zakona, ki
-ureja zdravstveno varstvo in zdravstveno zavarovanje (v nadaljnjem besedilu:
-zakon) in glede na razvrstitev zdravila na listo zdravil.
+zavarovanja.
 27.  
 "Novo zdravilo" pomeni, da zdravilo z enako učinkovino še ni
 razvrščena na listo zdravil.
@@ -154,10 +153,9 @@ zdravilo v breme obveznega zdravstvenega zavarovanja le v okviru določene
 omejitve.
 30.  
 "Oznaka razvrščenega zdravila" je sestavljena oznaka, ki poleg
-oznake liste zdravil in odstotnega deleža, ki se krije iz obveznega
-zdravstvenega zavarovanja, lahko vsebuje oznako za zdravilo z določeno
-omejitvijo predpisovanja ali izdajanja in oznako za zdravilo z določeno
-najvišjo priznano vrednostjo.
+oznake liste zdravil lahko vsebuje oznako za zdravilo z določeno omejitvijo
+predpisovanja ali izdajanja in oznako za zdravilo z določeno najvišjo priznano
+vrednostjo.
 31.  
 "Oznaka zdravila iz seznama bolnišničnih zdravil" je
 sestavljena oznaka, ki poleg oznake seznama lahko vsebuje oznako za zdravilo z
@@ -174,9 +172,9 @@ omejitve predpisovanja ali izdajanja, ki se vodijo na podlagi tega pravilnika.
 "Prerazvrščanje" je sprememba razvrstitve zdravila z ene liste
 zdravil na drugo listo zdravil.
 35.  
-"Prilagoditev farmakoekonomske analize" pomeni za slovenski
-prostor s slovenskimi vhodnimi podatki metodološko prilagoditev analize,
-narejene za eno od držav članic Evropskega gospodarskega prostora.
+"Prilagoditev farmakoekonomske analize" pomeni za slovenski prostor
+s slovenskimi vhodnimi podatki metodološko prilagoditev analize, narejene za
+eno od držav članic Evropskega gospodarskega prostora.
 36.  
 "Primerjalno zdravilo" je zdravilo, ki je osnova za primerjavo
 zdravila v postopku pri ugotavljanju relativne terapevtske vrednosti in v
@@ -217,13 +215,13 @@ značilnosti zdravila navedena bolezen ali motnja, pri kateri lahko zdravilo
 učinkuje v smislu ozdravitve ali izboljšanja.
 45.  
 "Terapevtska skupina zdravil" je skupina zdravil, razvrščenih
-na pozitivno in vmesno listo zdravil z enako terapevtsko indikacijo, ki lahko
-vključuje posamezna zdravila, kombinirana zdravila in različne farmacevtske
-oblike zdravila, ki jo določi Zavod.
+na pozitivno listo zdravil z enako terapevtsko indikacijo, ki lahko vključuje
+posamezna zdravila, kombinirana zdravila in različne farmacevtske oblike
+zdravila, ki jo določi Zavod.
 46.  
 "Zdravila na recept" so zdravila, ki jih Zavod razvrsti na
-pozitivno ali vmesno listo zdravil in jih osebni ali napotni zdravnik predpiše
-na recept ter se jih izda v lekarnah.
+pozitivno listo zdravil in jih osebni ali napotni zdravnik predpiše na recept
+ter se jih izda v lekarnah.
 47.  
 "Zdravilo sirota" je zdravilo za zdravljenje redkih bolezni,
 ki je pridobilo ta status od Evropske agencije za zdravila.
@@ -233,8 +231,7 @@ zdravila.
 49.  
 "Zdravstvena institucija" je izvajalec zdravstvene dejavnosti.
 50.  
-"Zdravstveno zavarovanje" je skupni izraz za obvezno in
-dopolnilno zdravstveno zavarovanje.
+(črtana).
 (2) V tem pravilniku imajo oznake in
 kratice naslednji pomen:
 1.     
@@ -256,7 +253,7 @@ najvišjo priznano vrednostjo,
 8.     
 "P" pomeni pozitivno listo zdravil na recept,
 9.     
-"V" pomeni vmesno listo zdravil na recept,
+(črtana),
 10.  
 "*" zvezdica ob razvrstitvi pomeni zdravilo z omejitvijo
 predpisovanja ali izdajanja.
@@ -281,11 +278,11 @@ galenska zdravila za uporabo v humani medicini, in
 magistralna zdravila.
 (2) Bolnišnično zdravilo se razvršča,
 če njegova cena v priporočenem odmerku presega vrednost 5.000 eurov na osebo v
-enem letu v breme zdravstvenega zavarovanja.
+enem letu v breme obveznega zdravstvenega zavarovanja.
 4. člen
 (lista zdravil)
 (1) Zdravila na recept se razvrstijo
-na pozitivno listo zdravil ali na vmesno listo zdravil.
+na pozitivno listo zdravil.
 (2) Bolnišnična zdravila se razvrstijo
 na seznam bolnišničnih zdravil.
 (3) Zdravila se razvrstijo z
@@ -317,10 +314,9 @@ programov zdravstvenega varstva)
 (1) Za oceno pomena posameznega
 zdravila z vidika javnega zdravja, prednostnih nalog izvajanja programa
 zdravstvenega varstva in prioritete programov zdravstvenega varstva se
-upoštevajo prednostna področja preprečevanja in zdravljenja oseb in stanj, ki
-so:
+upoštevajo prednostna področja preprečevanja in zdravljenja bolezni, ki so:
 1.     
-določena v 23. členu zakona,
+(črtana),
 2.     
 opredeljena v resoluciji, ki se nanaša na nacionalni plan zdravstvenega
 varstva, ali
@@ -328,8 +324,8 @@ varstva, ali
 opredeljena v dokumentih Svetovne zdravstvene organizacije o
 prioritetnih programih zdravstvenega varstva v Evropi.
 (2) Pri oceni iz prejšnjega odstavka
-se upošteva tudi pomen področij, ki niso posebej našteta v dokumentih iz
-prejšnjega odstavka, kadar imajo velik javno zdravstven pomen.
+se upošteva tudi pomen področij, ki niso posebej našteta v dokumentih iz prejšnjega
+odstavka, kadar imajo velik javno zdravstven pomen.
 7. člen
 (terapevtski pomen zdravila)
 (1) Zdravilo se opredeli glede na
@@ -382,14 +378,14 @@ pacientu prijaznejšo uporabo zdravila.
 zdravilo)
 (1) Zavod ocenjuje zdravilo na podlagi
 rezultatov farmakoekonomske analize in analize finančnih učinkov, ki mora biti
-prikazana za obdobje prvih treh let kritja zdravstvenega zavarovanja.
+prikazana za obdobje prvih treh let kritja obveznega zdravstvenega zavarovanja.
 (2) V primeru analize stroškovne
 učinkovitosti oziroma koristnosti, narejene ali prilagojene za slovenski
 prostor, se kot podlaga za oceno zdravila upošteva tudi mejno razmerje
-stroškovne učinkovitosti, kot razmerje prirastka stroškov in prirastka
-učinkovitosti ali koristnosti med novim in standardnim zdravljenjem, ki ga s
-sklepom določi upravni odbor Zavoda na podlagi načrtovanih sredstev obveznega
-zdravstvenega zavarovanja za zdravila, določenih s finančnim načrtom Zavoda.
+stroškovne učinkovitosti, kot razmerje prirastka stroškov in prirastka učinkovitosti
+ali koristnosti med novim in standardnim zdravljenjem, ki ga s sklepom določi
+upravni odbor Zavoda na podlagi načrtovanih sredstev obveznega zdravstvenega
+zavarovanja za zdravila, določenih s finančnim načrtom Zavoda.
 (3) V primeru analize finančnih
 učinkov se kot podlaga za oceno zdravila upošteva vidik načrtovanih sredstev
 obveznega zdravstvenega zavarovanja za zdravila, določenih s finančnim načrtom
@@ -397,8 +393,8 @@ Zavoda.
 10. člen
 (vrste in rezultati farmakoekonomskih
 analiz)
-(1) Pri pripravi farmakoekonomskih
-analiz iz prejšnjega člena se lahko uporabi:
+(1) Pri pripravi farmakoekonomskih analiz
+iz prejšnjega člena se lahko uporabi:
 1.     
 celostno vrednotenje z analizo stroškov in izidov zdravljenja, ali
 2.     
@@ -429,12 +425,12 @@ ravni.
 11. člen
 (vidik farmakoekonomskih podatkov)
 (1) Farmakoekonomska analiza se izvaja
-z vidika zdravstvenega zavarovanja. Analiza se lahko izvede tudi z družbenega
-vidika, zlasti kadar se lahko pričakuje pomembna razlika med družbenim vidikom
-in vidikom zdravstvenega zavarovanja. V tem primeru morata biti oba vidika
-prikazana ločeno.
-(2) Analiza finančnih učinkov se
-izvaja z vidika zdravstvenega zavarovanja.
+z vidika obveznega zdravstvenega zavarovanja. Analiza se lahko izvede tudi z
+družbenega vidika, zlasti kadar se lahko pričakuje pomembna razlika med
+družbenim vidikom in vidikom obveznega zdravstvenega zavarovanja. V tem primeru
+morata biti oba vidika prikazana ločeno.
+(2) Analiza finančnih učinkov se izvaja
+z vidika obveznega zdravstvenega zavarovanja.
 12. člen
 (vsebina farmakoekonomskih podatkov)
 (1) Farmakoekonomska analiza mora
@@ -520,8 +516,8 @@ ekonomske podatke (upoštevane farmakoekonomske analize),
 opis novega zdravljenja v primerjavi s standardnim, vključno z
 morebitnimi spremembami izvajanja zdravljenja,
 3.     
-cilj analize finančnih učinkov (upoštevati je treba vidik zdravstvenega
-zavarovanja),
+cilj analize finančnih učinkov (upoštevati je treba vidik obveznega
+zdravstvenega zavarovanja),
 4.     
 metode in obliko analize:
 a)   
@@ -545,8 +541,9 @@ opis metod(e) za izdelavo analize ter
 5.     
 rezultate:
 a)   
-prikaz vpliva uvedbe novega zdravila v breme zdravstvenega zavarovanja
-za vsako posamezno leto za pesimistično, optimistično in srednjo varianto,
+prikaz vpliva uvedbe novega zdravila v breme obveznega
+zdravstvenega zavarovanja za vsako posamezno leto za pesimistično,
+optimistično in srednjo varianto,
 b)   
 prikaz vsakoletnih stroškov uvedbe novega zdravila (skupni stroški in
 stroški po posameznih postavkah) za pesimistično, optimistično in srednjo
@@ -583,17 +580,18 @@ izvorna analiza ali njen prevod v slovenskem jeziku ali jeziku, ki je Zavodu
 razumljiv.
 (3) Za zdravilo iz prvega odstavka
 tega člena, ki ima v vseh jakostih in oblikah v analizi finančnih učinkov v
-prvih treh letih kritja predvideni skupni promet v breme zdravstvenega
+prvih treh letih kritja predvideni skupni promet v breme obveznega zdravstvenega
 zavarovanja do vključno 500.000 eurov, zadostuje, da je vlogi iz prvega
 odstavka tega člena, namesto farmakoekonomske analize, priložena izvorna analiza
 ali njen prevod v slovenskem jeziku ali jeziku, ki je Zavodu razumljiv in ki je
 bila opravljena za eno od držav članic Evropskega gospodarskega prostora.
 (4) Če zdravilo iz prejšnjega odstavka
 po preteku tretjega leta kritja ali prej preseže skupni znesek 500.000 eurov v
-breme zdravstvenega zavarovanja, mora imetnik dovoljenja v šestih mesecih od
-prejema poziva Zavoda predložiti farmakoekonomsko analizo v skladu s prvim
-odstavkom tega člena. Če imetnik dovoljenja v tem roku analize ne predloži,
-Zavod začne postopek za izločitev zdravila z liste zdravil.
+breme obveznega zdravstvenega
+zavarovanja, mora imetnik dovoljenja v šestih mesecih od prejema poziva Zavoda
+predložiti farmakoekonomsko analizo v skladu s prvim odstavkom tega člena. Če
+imetnik dovoljenja v tem roku analize ne predloži, Zavod začne postopek za
+izločitev zdravila z liste zdravil.
 (5) Za zdravilo iz prvega odstavka
 tega člena, pri katerem ni klinično pomembnih razlik v učinkovitosti in
 varnosti glede na primerjalno zdravilo, se vlogi iz prvega odstavka tega člena
@@ -601,8 +599,8 @@ predloži analiza zmanjševanja stroškov ali analiza stroškov.
 (6) Vse zahtevane analize za zdravila
 iz tega člena morajo temeljiti na rezultatih javno dostopnih metaanaliz ali
 visoko kakovostnih randomiziranih raziskav. Dopolnilne podatke, če so potrebni,
-se lahko povzame iz opazovalnih raziskav. Če ni na voljo dovolj realnih
-podatkov, se za analizo lahko uporabijo metode modeliranja.
+se lahko povzame iz opazovalnih raziskav. Če ni na voljo dovolj realnih podatkov,
+se za analizo lahko uporabijo metode modeliranja.
 14. člen
 (ocena etičnih vidikov)
 Etični vidik se kot merilo upošteva zlasti
@@ -976,8 +974,7 @@ oziroma pozitivno mnenje Evropske agencije za zdravila za paralelno
 distribucijo.
 27. člen
 (vloga za novo obliko, jakost ali
-pakiranje 
-razvrščenega zdravila)
+pakiranje razvrščenega zdravila)
 (1) Vloga za razvrščanje nove oblike,
 jakosti ali pakiranje razvrščenega zdravila mora vsebovati:
 1.     
@@ -1018,9 +1015,8 @@ ali Evropska agencija za zdravila (D.1.),
 b)   
 klinične raziskave, na katere je v povzetku vloge sklic (D.3.).
 (2) Vloga iz prejšnjega odstavka mora
-vsebovati tudi farmakoekonomske podatke iz rubrike B.10.3. v Prilogi 1 tega
-pravilnika, če nova oblika zdravila vpliva na stroške zdravljenja v primerjavi
-z razvrščeno obliko.
+vsebovati tudi farmakoekonomske podatke iz rubrike B.11.3. v Prilogi 1 tega pravilnika, če nova oblika zdravila vpliva na
+stroške zdravljenja v primerjavi z razvrščeno obliko.
 28. člen
 (vloga za zdravilo s seznama nujno
 potrebnih zdravil in za nadomestno zdravilo)
@@ -1207,8 +1203,8 @@ VII. TERAPEVTSKE SKUPINE ZDRAVIL
 38. člen
 (določanje terapevtskih skupin zdravil)
 (1) Zavod na lastno pobudo določa
-terapevtske skupine zdravil med zdravili, razvrščenimi na pozitivno in vmesno
-listo zdravil. Podlaga za vključitev zdravila v terapevtsko skupino zdravil so
+terapevtske skupine zdravil med zdravili, razvrščenimi na pozitivno listo
+zdravil. Podlaga za vključitev zdravila v terapevtsko skupino zdravil so
 terapevtska indikacija in merila iz 5. člena tega pravilnika.
 (2) V vsaki terapevtski skupini
 zdravil se določi zdravilo z najugodnejšim razmerjem med stroški in učinki
@@ -1274,9 +1270,9 @@ mesečne podatke o izdanih zdravilih iz prejšnjega stavka.
 (določanje NPV za skupine medsebojno
 zamenljivih zdravil)
 (1) Zavod določa NPV za skupine
-medsebojno zamenljivih zdravil, razvrščenih na pozitivno in vmesno listo
-zdravil, na ravni najcenejšega zdravila glede na primerljivi odmerek v skupini
-medsebojno zamenljivih zdravil.
+medsebojno zamenljivih zdravil, razvrščenih na pozitivno listo zdravil, na
+ravni najcenejšega zdravila glede na primerljivi odmerek v skupini medsebojno
+zamenljivih zdravil.
 (2) Podlaga za določitev NPV iz
 prejšnjega odstavka so seznam medsebojno zamenljivih zdravil, lista zdravil in
 cene zdravil.
@@ -1296,14 +1292,14 @@ zdravil)
 skupino zdravil na ravni cene zdravila z najugodnejšim razmerjem med stroški in
 učinki zdravljenja, tako, da krije vse odmerke vsaj enega zdravila v tej
 terapevtski skupini zdravil.
-(2) NPV iz prejšnjega odstavka se
-določijo tako, da se cena primerljivega odmerka zdravila z najugodnejšim razmerjem
-med stroški in učinki zdravljenja, izračunana na štiri decimalna mesta
-natančno, pomnoži s številom odmernih enot posameznega zdravila in zaokroži na
-dve decimalni mesti tako, da če je tretje decimalno mesto enako ali večje od 5,
-se zaokroži navzgor, sicer navzdol. Na podlagi primerljivih odmerkov se
-določijo NPV za vsa zdravila v terapevtski skupini zdravil, upoštevajoč
-morebitno dodano vrednost iz četrtega odstavka 38. člena tega pravilnika.
+(2) NPV iz prejšnjega odstavka se določijo
+tako, da se cena primerljivega odmerka zdravila z najugodnejšim razmerjem med
+stroški in učinki zdravljenja, izračunana na štiri decimalna mesta natančno,
+pomnoži s številom odmernih enot posameznega zdravila in zaokroži na dve
+decimalni mesti tako, da če je tretje decimalno mesto enako ali večje od 5, se
+zaokroži navzgor, sicer navzdol. Na podlagi primerljivih odmerkov se določijo
+NPV za vsa zdravila v terapevtski skupini zdravil, upoštevajoč morebitno dodano
+vrednost iz šestega oziroma sedmega odstavka 38. člena tega pravilnika.
 42. člen
 (pravilo nižje NPV)
 Če ima zdravilo določen NPV v skladu s
@@ -1374,13 +1370,13 @@ zdravilo.
 46. člen
 (uveljavitev dogovorjenih cen zdravil)
 Imetniki dovoljenja oziroma lekarne, ko so
-predmet dogovora o ceni zdravila galenska zdravila, o dogovorjenih cenah
-svojega zdravila obvestijo pravne in fizične osebe, ki imajo dovoljenje za
-opravljanje dejavnosti prometa na debelo z zdravili, oziroma imajo z njimi
-sklenjene pogodbe o sodelovanju, takoj po sklenitvi dogovora o ceni zdravila
-ali najpozneje v osmih dneh po datumu veljavnosti, navedenem na obrazcu Dogovor
-o ceni zdravila, oziroma najpozneje v osmih dneh pred prihodom zdravila na trg
-v Republiko Slovenijo.
+predmet dogovora o ceni zdravila galenska zdravila, o dogovorjenih cenah svojega
+zdravila obvestijo pravne in fizične osebe, ki imajo dovoljenje za opravljanje
+dejavnosti prometa na debelo z zdravili, oziroma imajo z njimi sklenjene
+pogodbe o sodelovanju, takoj po sklenitvi dogovora o ceni zdravila ali najpozneje
+v osmih dneh po datumu veljavnosti, navedenem na obrazcu Dogovor o ceni
+zdravila, oziroma najpozneje v osmih dneh pred prihodom zdravila na trg v
+Republiko Slovenijo.
 X. EVIDENCE O ZDRAVILIH
 47. člen
 (evidence)
@@ -1410,34 +1406,57 @@ prek sistema Zavoda za avtomatsko elektronsko obveščanje, v katerega se
 imetniki dovoljenj, zdravstvene institucije, ki naslovijo na Zavod pobudo, in
 izvajalci zdravstvene dejavnosti lahko vključijo prek spletne aplikacije, ki je
 javno objavljena na naslovu http://www.zzzs.si/egradiva.
-XI. PREHODNI IN KONČNA DOLOČBA
+
+Priloga
+1: Vsebina vlog
+Priloga
+2: Obrazec Dogovor o ceni zdravil
+
+Pravilnik o razvrščanju zdravil na listo (Uradni
+list RS, št. 35/13) vsebuje naslednji prehodni in
+končno določbo:
+»XI. PREHODNI IN KONČNA DOLOČBA
 49. člen
-(vloge in pobude, prejete pred
-uveljavitvijo pravilnika)
+(vloge in
+pobude, prejete pred uveljavitvijo pravilnika)
 Vloge za razvrščanje, prerazvrščanje,
 izločitev z liste zdravil in določitev ali spremembo omejitve predpisovanja ali
 izdajanja, ki jih je Zavod prejel pred uveljavitvijo tega pravilnika, se
 obravnavajo po določbah Pravilnika o razvrščanju zdravil na listo (Uradni list
 RS, št. 110/10).
 50. člen
-(prenehanje veljavnosti)
+(prenehanje
+veljavnosti)
 Z dnem uveljavitve tega pravilnika preneha
 veljati Pravilnik o razvrščanju zdravil na listo (Uradni list RS, št. 110/10).
 51. člen
-(začetek veljavnosti)
+(začetek
+veljavnosti)
 Ta pravilnik se objavi v Uradnem listu
 Republike Slovenije, ko da nanj soglasje minister, pristojen za zdravje, in
-začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
-Št. 9000-3/2013-DI/11
-Ljubljana, dne 3. aprila 2013
-EVA 2012-2711-0050
-Predsednik
-skupščine
-Zavoda za
-zdravstveno zavarovanje Slovenije
-Vladimir Tkalec l.r.
+začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
 
-Priloga 1: Vsebina
-vlog
-Priloga 2: Obrazec
-Dogovor o ceni zdravil
+Pravilnik
+o spremembah in dopolnitvah Pravilnika o razvrščanju zdravil na listo (Uradni
+list RS, št. 121/23)
+vsebuje naslednji prehodni in končno določbo:
+»XI. PREHODNI IN KONČNA DOLOČBA
+49. člen
+(vloge in
+pobude, prejete pred uveljavitvijo pravilnika)
+Vloge za razvrščanje, prerazvrščanje,
+izločitev z liste zdravil in določitev ali spremembo omejitve predpisovanja ali
+izdajanja, ki jih je Zavod prejel pred uveljavitvijo tega pravilnika, se obravnavajo
+po določbah Pravilnika o razvrščanju zdravil na listo (Uradni list RS, št.
+110/10).
+50. člen
+(prenehanje
+veljavnosti)
+Z dnem uveljavitve tega pravilnika preneha
+veljati Pravilnik o razvrščanju zdravil na listo (Uradni list RS, št. 110/10).
+51. člen
+(začetek
+veljavnosti)
+Ta pravilnik se objavi v Uradnem listu
+Republike Slovenije, ko da nanj soglasje minister, pristojen za zdravje, in
+začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

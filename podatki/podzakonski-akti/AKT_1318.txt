@@ -262,12 +262,12 @@ cenah, mora biti dinamična cena prikazana za del, ki odraža veleprodajno ceno
 električne energije in pribitek dobavitelja, ločeno. Količine in cene morajo
 biti prikazane na ravni časovnega trajanja veleprodajnega produkta. Končnemu
 odjemalcu, obračunanemu na podlagi dinamičnih cen, morajo biti zagotovljene
-agregirane informacije o porabi in referenčnih cenah na računu, kot so npr.
-dnevna ali tedenska povprečja. Dobavitelj mora končnemu odjemalcu omogočiti
-brezplačen dostop do informacij, ki mu omogočajo izvedbo analize stroškov,
-zaračunanih v intervalu tržne poravnave in niso zagotovljeni s
-standardiziranimi podatkovnimi storitvami nacionalnega podatkovnega vozlišča,
-ki ga upravlja distribucijski operater.
+agregirane informacije o porabi in referenčnih cenah na računu, kot so npr. dnevna
+ali tedenska povprečja. Dobavitelj mora končnemu odjemalcu omogočiti brezplačen
+dostop do informacij, ki mu omogočajo izvedbo analize stroškov, zaračunanih v
+intervalu tržne poravnave in niso zagotovljeni s standardiziranimi podatkovnimi
+storitvami nacionalnega podatkovnega vozlišča, ki ga upravlja distribucijski
+operater.
 (4) Če račun temelji na dejanski porabi, morajo biti na
 računu končnim odjemalcem na voljo informacije o mestu dostopnosti naslednjih
 informacij, in sicer:
@@ -381,14 +381,14 @@ dogovorjeno obračunsko moč posameznemu prevzemno-predajnemu mestu posameznega
 končnega odjemalca za prihodnje koledarsko leto v skladu z določbami akta, ki
 ureja metodologijo za obračunavanje omrežnine za elektrooperaterje. Informacije
 o določitvi dogovorjene obračunske moči za posamezno prevzemno-predajno mesto
-na distribucijskem sistemu posreduje elektrooperater z računom za omrežnino za
-junij, julij in avgust. Distribucijski operater zagotovi končnemu odjemalcu
+na distribucijskem sistemu posreduje elektrooperater z računom za omrežnino za junij,
+julij, avgust in september. Distribucijski operater zagotovi končnemu odjemalcu
 informacije o dogovorjeni obračunski moči tudi prek enotne vstopne točke
 nacionalnega podatkovnega vozlišča. Če ima končni odjemalec enotni račun,
 distribucijski operater informacijo o dogovorjeni obračunski moči posreduje
 dobavitelju. Dobavitelj seznani končnega odjemalca z določitvijo dogovorjene
 obračunske moči za naslednje koledarsko leto za posamezno prevzemno-predajno
-mesto z enotnim računom, ki se izdaja za junij, julij in avgust.
+mesto z enotnim računom, ki se izdaja za junij, julij, avgust in september.
 (2) Na obvestilu iz prejšnjega odstavka morajo biti na jasen
 in pregleden način podane informacije, kako lahko uporabnik sistema spremeni
 dogovorjeno obračunsko moč, ki vključuje vsaj informacije o postopku in rokih
@@ -427,8 +427,7 @@ količini emisij CO2 za skupno sestavo virov dobavljene električne
 energije dobavitelja, izraženi v gramih na kilovatno uro [g/kWh];
 -       
 količini radioaktivnih odpadkov za skupno sestavo virov dobavljene
-električne energije dobavitelja, izraženi v miligramih na kilovatno uro
-[mg/kWh].
+električne energije dobavitelja, izraženi v miligramih na kilovatno uro [mg/kWh].
 (3) Informacije iz prvega odstavka tega člena se nanašajo na
 električno energijo, dobavljeno v obračunskih obdobjih na podlagi veljavne
 pogodbe o dobavi. Informacije iz prejšnjega odstavka se nanašajo na skupno
@@ -481,11 +480,10 @@ račune dobaviteljev v razmerju tržnih deležev njihovih dobav končnim odjemal
 v Republiki Sloveniji v letu, za katero se prikazuje sestava proizvodnih virov.
 Tržne deleže dobav določi in na svojih spletnih straneh objavi agencija do 31.
 marca v letu, ki sledi letu, na katero se nanaša sestava proizvodnih virov.
-(4) Potrdila o izvoru, ki so bila razveljavljena za
-dokazovanje proizvodnega vira električne energije pri dobavitelju ali končnem
-odjemalcu izven območja Republike Slovenije, se ne upoštevajo za dokazovanje
-proizvodnega vira električne energije pri dobavitelju, ki je izvedel tako
-razveljavitev.
+(4) Potrdila o izvoru, ki so bila razveljavljena za dokazovanje
+proizvodnega vira električne energije pri dobavitelju ali končnem odjemalcu
+izven območja Republike Slovenije, se ne upoštevajo za dokazovanje proizvodnega
+vira električne energije pri dobavitelju, ki je izvedel tako razveljavitev.
 (5) Količine električne energije dobavitelja, katerih izvor
 ni dokazan z razveljavljenimi potrdili o izvoru, se v sestavi proizvodnih virov
 dobavitelja nadomestijo s preostalo mešanico energijskih virov.
@@ -495,11 +493,11 @@ dobavitelja nadomestijo s preostalo mešanico energijskih virov.
 mešanica energijskih virov v Republiki Sloveniji za proizvodnjo električne
 energije, ki ne vključuje količin električne energije, ki jih krijejo
 razveljavljena potrdila o izvoru.
-(2) Nacionalna preostala mešanica energijskih virov električne
-energije je proizvodnja električne energije v Republiki Sloveniji v koledarskem
-letu, od katere se odšteje količina električne energije, za katero so bila
-izdana in v obdobju med 1. aprilom preteklega leta in 31. marcem tekočega leta
-na ime slovenskih končnih odjemalcev ali dobaviteljev tudi razveljavljena
+(2) Nacionalna preostala mešanica energijskih virov
+električne energije je proizvodnja električne energije v Republiki Sloveniji v
+koledarskem letu, od katere se odšteje količina električne energije, za katero
+so bila izdana in v obdobju med 1. aprilom preteklega leta in 31. marcem tekočega
+leta na ime slovenskih končnih odjemalcev ali dobaviteljev tudi razveljavljena
 potrdila o izvoru. V nacionalno preostalo proizvodnjo se vključijo tudi
 potrdila o izvoru, ki jim je v obdobju med 1. aprilom leta, za katero se določa
 nacionalna preostala proizvodnja električne energije, in 31. marcem naslednjega
@@ -541,10 +539,14 @@ leta.
 Dobavitelji, ki v preteklem koledarskem letu niso dobavljali
 električne energije končnim odjemalcem, objavijo skupno preostalo sestavo
 proizvodnih virov v skladu z določbami tega akta.
-VI. PREHODNA IN KONČNI DOLOČBI
+
+Akt o načinu izkazovanja informacij na računu
+za električno energijo in v dodatnem pojasnilu (Uradni list RS, št. 28/23) vsebuje naslednjo prehodno in
+končni določbi:
+»VI. PREHODNA IN KONČNI DOLOČBI
 18. člen
-(prehodno obdobje za prikazovanje informacij o proizvodnih
-virih)
+(prehodno obdobje za
+prikazovanje informacij o proizvodnih virih)
 Dobavitelji prikazovanje informacij v skladu z določbami V.
 poglavja tega akta uskladijo v roku treh mesecev od dneva uveljavitve tega
 akta.
@@ -554,14 +556,38 @@ Z dnem uveljavitve tega akta se preneha uporabljati Akt o
 načinu določanja in prikazovanja deležev posameznih proizvodnih virov elektrike
 (Uradni list RS, št. 22/16 in 172/21 – ZOEE).
 20. člen
-(začetek veljavnosti in uporabe)
+(začetek veljavnosti in
+uporabe)
 Ta akt začne veljati petnajsti dan po objavi v Uradnem listu
 Republike Slovenije, uporabljati pa se začne 1. januarja 2024, razen 10. člena
 in V. poglavja tega akta, ki se začneta uporabljati z dnem uveljavitve tega
-akta.
-Št. 71-11/2022/15
-Maribor, dne 23. februarja 2023
-EVA 2023-2570-0009
-Predsednik sveta
-Agencije za energijo
-dr. Franc Žlahtič
+akta.«.
+
+Akt o spremembah in dopolnitvi Akta o načinu
+izkazovanja informacij na računu za električno energijo in v dodatnem pojasnilu
+(Uradni list RS, št. 117/23) dodaja 18.a člen akta tako, da se
+glasi:
+»18.a člen
+(obveščanje končnih
+odjemalcev, ki se jim ne evidentirajo 15-minutne meritve za prevzeto energijo)
+Elektrooperater oziroma v primeru enotnega računa dobavitelj
+zagotovi končnemu odjemalcu, ki se mu ne evidentirajo 15-minutne meritve za
+prevzeto energijo, informacijo o obračunski moči za posamezno
+prevzemno-predajno mesto na distribucijskem sistemu z računom za maj in junij
+2024. Če ima končni odjemalec enotni račun, elektrooperater dobavitelju za
+potrebe izstavitve računov iz prejšnjega stavka pravočasno posreduje
+informacijo o obračunski moči.«;
+spreminja 20. člen akta tako, da se glasi:
+»20. člen
+(začetek veljavnosti in
+uporabe)
+Ta akt začne veljati petnajsti dan po objavi v Uradnem listu
+Republike Slovenije, uporabljati pa se začne 1. julija 2024, razen 10. člena in
+V. poglavja tega akta, ki se začneta uporabljati z dnem uveljavitve tega
+akta.«;
+ter vsebuje naslednjo končno določbo:
+»KONČNA DOLOČBA
+4. člen
+(začetek veljavnosti)
+Ta akt začne veljati naslednji dan po objavi v Uradnem listu
+Republike Slovenije.«.

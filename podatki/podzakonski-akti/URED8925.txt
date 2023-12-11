@@ -1,0 +1,333 @@
+I. SPLOŠNE DOLOČBE
+1. člen
+(namen in področja uporabe)
+Ta uredba podrobneje določa vsebino in strukturo predpisane
+dokumentacije povezanih subjektov, metodologijo za pripravo analize
+obvladovanja tveganj informacijske varnosti z oceno sprejemljive ravni tveganj,
+način izvajanja obveznosti povezanega subjekta na področju informacijske
+varnosti, minimalni obseg varnostnih ukrepov glede informacijske varnosti ter
+pripravo navodil in postopkov za obvladovanje incidentov informacijske varnosti
+s protokolom obveščanja CSIRT organov državne uprave.
+2. člen
+(pomen izrazov)
+Izrazi, uporabljeni v tej uredbi, pomenijo:
+1.     
+analiza obvladovanja tveganj je proces ugotavljanja narave tveganja,
+ocenitve tveganja in ovrednotenje tveganja ter določitve ravni tveganja;
+2.     
+celovitost je lastnost informacij in informacijskih sistemov, da so
+točne in popolne;
+3.     
+centralizirani organi državne uprave (v nadaljnjem besedilu:
+centralizirani organi) so subjekti, za katere v skladu s prvim odstavkom 74.a
+člena Zakona o državni upravi (Uradni list RS, št. 113/05 – uradno prečiščeno besedilo, 89/07 – odl. US,
+126/07 – ZUP-E, 48/09, 8/10 – ZUP-G, 8/12
+– ZVRS-F, 21/12, 47/13, 12/14, 90/14, 51/16, 36/21, 82/21, 189/21, 153/22 in
+18/23) upravljanje informacijsko-komunikacijske infrastrukture, razvoj skupnih
+informacijskih rešitev ter njihovo tehnološko, procesno in organizacijsko
+skladnost s centralnim informacijsko-komunikacijskim sistemom ter načrtovanje
+in upravljanje vseh proračunskih virov na teh področjih izvaja ministrstvo,
+pristojno za upravljanje informacijsko-komunikacijskih sistemov;
+4.     
+CSIRT organov državne uprave je organizacijska enota Urada Vlade
+Republike Slovenije za informacijsko varnost, ki se odziva na incidente na
+področju informacijske varnosti organov državne uprave, sprejema prijave o
+kršitvah varnosti, izvaja analize in pomaga priglasiteljem pri obvladovanju
+incidentov ter od povezanih subjektov sprejema priglasitve incidentov z možnim
+vplivom na centralno državno informacijsko-komunikacijsko omrežje oziroma
+sistem;
+5.     
+ocenitev tveganja je celotni proces ugotavljanja tveganja, analize
+tveganja in ovrednotenja tveganja;
+6.     
+ovrednotenje tveganja je proces primerjanja rezultatov analize tveganja
+z merili tveganja, da bi ugotovili, ali je tveganje oziroma njegova velikost
+sprejemljiva oziroma znosna;
+7.     
+razpoložljivost je lastnost informacij in informacijskih sistemov, da so
+dostopni in uporabni na pooblaščeno zahtevo;
+8.     
+sistem upravljanja varovanja informacij je sistem upravljanja, ki
+omogoča celovit in koordiniran pogled na informacijska varnostna tveganja
+organizacije ter zagotavlja vzpostavitev, vpeljavo, delovanje, spremljanje,
+pregledovanje, vzdrževanje in izboljševanje varnosti omrežij in informacijskih
+sistemov;
+9.     
+sredstvo je vsaka opredmetena ali neopredmetena stvar, ki ima vrednost
+za povezani subjekt in zato zahteva zaščito;
+10.  
+ugotavljanje tveganja je proces odkrivanja, prepoznavanja in opisovanja
+tveganj;
+11.  
+uporabnik je fizična ali pravna oseba, ki uporablja posamezno storitev
+povezanega subjekta neposredno, posredno ali s posredovanjem oziroma je odvisna
+od nje;
+12.  
+zaupnost je lastnost, da informacije niso razpoložljive ali razkrite
+nepooblaščenim subjektom ali procesom.
+II. UPRAVLJANJE INFORMACIJSKE VARNOSTI
+3. člen
+(odgovorne osebe povezanega subjekta)
+(1) Za informacijsko
+varnost povezanega subjekta je odgovoren predstojnik organa oziroma odgovorna
+oseba pravne osebe (v nadaljnjem besedilu: odgovorna oseba povezanega
+subjekta).
+(2) Odgovorna oseba
+povezanega subjekta v skladu s prvo alinejo prvega odstavka 18.a člena Zakona o
+informacijski varnosti (Uradni list RS, št. 30/18,
+95/21, 130/22 – ZEKom-2, 18/23 – ZDU-1O in 49/23; v nadaljnjem besedilu: ZInfV)
+določi kontaktno osebo za informacijsko varnost in njenega namestnika. Za
+izvajanje posameznih ključnih nalog na področju informacijske varnosti povezanega
+subjekta iz druge, tretje in četrte alineje prvega odstavka 18.a člena ZInfV
+odgovorna oseba povezanega subjekta lahko določi tudi drugo fizično ali pravno
+osebo.
+III. VSEBINA IN STRUKTURA VARNOSTNE DOKUMENTACIJE
+4. člen
+(vsebina in struktura varnostne dokumentacije)
+(1) Povezani subjekti
+izdelajo varnostno dokumentacijo, ki vsebuje najmanj elemente iz prvega
+odstavka 18.a člena ZInfV.
+(2) Varnostno
+dokumentacijo iz prejšnjega odstavka tega člena podpiše odgovorna oseba
+povezanega subjekta.
+(3) Če ima povezani
+subjekt za zagotavljanje varnosti svojih omrežij in informacijskih sistemov že
+izdelano varnostno dokumentacijo na podlagi drugih predpisov, jo vsebinsko
+dopolni v skladu s to uredbo.
+(4) Pristojni
+nacionalni organ na svoji spletni strani objavi priporočila za pripravo
+varnostne dokumentacije.
+5. člen
+(analiza obvladovanja tveganj)
+(1) Povezani subjekt
+pripravi analizo obvladovanja tveganj z oceno sprejemljive ravni tveganj na
+način iz 6. člena te uredbe.
+(2) Povezani subjekt na
+podlagi analize obvladovanja tveganj z oceno sprejemljive ravni tveganj navede
+ustrezne ukrepe za preprečitev ali omilitev neželenih učinkov in zagotovi
+nenehno izboljševanje.
+(3) Povezani subjekt
+izvaja analizo obvladovanja tveganj informacijske varnosti najmanj enkrat letno
+in kadar so predlagane ali nastanejo bistvene spremembe v informacijskih
+sistemih in delovnih procesih, pri čemer upošteva splošna merila za
+sprejemljivo raven tveganj in merila za izvajanje ocenitve tveganj
+informacijske varnosti.
+(4) Povezani subjekt
+dokumentira in hrani informacije o ugotovitvah ocene sprejemljive ravni tveganj
+in obravnave tveganj informacijske varnosti.
+6. člen
+(metodologija za pripravo analize obvladovanja tveganj
+informacijske varnosti)
+(1) Povezani subjekt
+pripravi analizo obvladovanja tveganj z oceno sprejemljive ravni tveganj tako,
+da:
+1.     
+navede metodologijo z opredelitvijo lestvic in atributov ocenjevanja, po
+kateri bo izvedel analizo obvladovanja tveganj v skladu s to uredbo;
+2.     
+izvede popis informacijskih sredstev znotraj sistema upravljanja
+varovanja informacij oziroma omrežja, iz katerega se povezuje v centralno
+državno informacijsko-komunikacijsko omrežje oziroma sistem, in določi njihove
+upravljavce ter v analizo obvladovanja tveganj vključi navedena sredstva.
+Centralizirani organi izvedejo ta popis v sodelovanju z ministrstvom,
+pristojnim za upravljanje informacijsko-komunikacijskih sistemov, ki jim mora
+na zahtevo poslati ustrezne podatke, s katerimi razpolaga, in sicer v 15 dneh
+od prejema posamičnega zahtevka;
+3.     
+prepozna in v analizi obvladovanja tveganj navede možne grožnje za
+izgubo celovitosti, razpoložljivosti in zaupnosti sredstev iz prejšnje točke;
+4.     
+prepozna in v analizi obvladovanja tveganj navede ranljivosti sredstev
+iz 2. točke tega odstavka, ki bi jih grožnje iz prejšnje točke lahko prizadele;
+5.     
+oceni stopnjo vpliva uresničitve groženj iz 2. točke tega odstavka na
+razpoložljivost, celovitost in zaupnost sredstev iz 1. točke tega odstavka
+zaradi ranljivosti iz prejšnje točke ter v analizi obvladovanja tveganj navede
+ocenjeno stopnjo vpliva uresničitve groženj;
+6.     
+oceni primernost obstoječih ukrepov in stopnjo obvladovanja ugotovljenih
+tveganj s temi ukrepi ter v analizi obvladovanja tveganj navede oceno o
+primernosti obstoječih ukrepov;
+7.     
+v analizi obvladovanja tveganj ovrednoti ugotovljena tveganja glede na
+verjetnost nastanka tveganj in obseg negativnih posledic ob uresničitvi tveganj
+na zagotavljanje storitev;
+8.     
+glede na vrednotenje ugotovljenih tveganj in posebnosti delovnega
+področja, na katerem deluje povezani subjekt, določi in obrazloži oceno
+sprejemljive ravni tveganj ter
+9.     
+navede ukrepe za odpravo ali zmanjšanje tveganj nad sprejemljivo ravnjo
+tveganj.
+(2) Povezani subjekt v
+sistem upravljanja varovanja informacij vključi najmanj tista informacijska
+sredstva, ki podpirajo njegove glavne oziroma pomembne storitve in procese za
+zagotovitev povezave s centralnim državnim informacijsko-komunikacijskim
+omrežjem oziroma sistemom. Centralizirani organi izvedejo to nalogo v
+sodelovanju z ministrstvom, pristojnim za upravljanje
+informacijsko-komunikacijskih sistemov, ki jim mora na zahtevo poslati ustrezne
+podatke, s katerimi razpolaga, in sicer v 15 dneh od prejema posamičnega
+zahtevka.
+(3) Povezani subjekt
+izvede popis informacijskih sredstev iz druge točke prvega odstavka tega člena
+tako, da za vsako informacijsko sredstvo določi oziroma navede najmanj:
+1.     
+kratko identifikacijsko oznako, s katero se to informacijsko sredstvo
+edinstveno identificira;
+2.     
+naziv oziroma ime informacijskega sredstva;
+3.     
+opis glavnih funkcionalnosti informacijskega sredstva;
+4.     
+ime in priimek ali naziv delovnega mesta osebe, ki je skrbnik
+informacijskega sredstva. Centralizirani organi te podatke navedejo v
+sodelovanju z ministrstvom, pristojnim za upravljanje
+informacijsko-komunikacijskih sistemov, ki jim mora na zahtevo poslati ustrezne
+podatke o skrbništvu posameznega dodeljenega informacijskega sredstva, in sicer
+v 15 dneh od prejema posamičnega zahtevka, ter
+5.     
+opis glavnih komponent strojne oziroma programske opreme.
+(4) Povezani subjekt
+izvede analizo obvladovanja tveganj z določitvijo sprejemljive ravni tveganj
+tako, da so rezultati teh postopkov dosledni, primerljivi in verodostojni.
+IV. OBVLADOVANJE INCIDENTOV INFORMACIJSKE VARNOSTI
+7. člen
+(navodila in postopki za obvladovanje incidentov
+informacijske varnosti)
+(1) Povezani subjekt
+izdela in vzdržuje navodila in postopke za obvladovanje incidentov
+informacijske varnosti s protokolom obveščanja CSIRT organov državne uprave, ki
+mu priglaša incidente z možnim pomembnim vplivom na centralno državno
+informacijsko-komunikacijsko omrežje oziroma sistem.
+(2) Navodila in
+postopki za obvladovanje incidentov informacijske varnosti s protokolom
+obveščanja CSIRT organov državne uprave morajo vsebovati najmanj:
+1.     
+opis sistema in postopkov za zaznavo incidentov informacijske varnosti v
+informacijskem sistemu in delovnem okolju;
+2.     
+opis sistema in postopkov za zbiranje in zavarovanje dokazov o incidentu
+informacijske varnosti, vključno z dnevniškimi zapisi in revizijskimi sledmi,
+če te obstajajo;
+3.     
+opis postopkov za odziv, obravnavo in analizo incidentov informacijske
+varnosti, vključno z evidentiranjem vseh odzivnih aktivnosti;
+4.     
+opis odgovornosti oseb oziroma organizacijskih enot ali pogodbenih
+izvajalcev, ki jih je treba vključiti v aktivnosti iz prejšnje točke;
+5.     
+opis postopkov in odgovornosti za poročanje o incidentih znotraj in zunaj
+povezanega subjekta;
+6.     
+opis protokola obveščanja o incidentu informacijske varnosti CSIRT
+organov državne uprave.
+(3) Obvestilo, ki mora
+biti zajeto s protokolom obveščanja iz 6. točke prejšnjega odstavka, se pošlje
+CSIRT organov državne uprave in zajema najmanj:
+1.     
+identifikacijsko oznako dogodka oziroma zadeve;
+2.     
+ime povezanega subjekta, ki poroča;
+3.     
+podatke o osebi, ki poroča, in
+4.     
+opis dogodka, ki vsebuje podatke o tem, kdaj, kako in zakaj se je
+incident zgodil, kdaj je bil odkrit, katera informacijska sredstva so bila
+prizadeta in kakšni so možni negativni vplivi na centralno državno
+informacijsko-komunikacijsko omrežje oziroma sistem.
+V. MINIMALNI VARNOSTNI UKREPI
+8. člen
+(sprejetje in izvajanje minimalnih varnostnih ukrepov
+informacijske varnosti)
+(1) Povezani subjekt za
+zagotavljanje celovitosti, zaupnosti, razpoložljivosti omrežij in
+informacijskih sistemov sprejme in izvaja organizacijske, logično-tehnične in
+tehnične varnostne ukrepe, ki izhajajo iz analize obvladovanja tveganj
+informacijske varnosti in zahtev upravljavca centralnega
+informacijsko-komunikacijskega sistema, ki jih ta objavi na svoji spletni
+strani.
+(2) Varnostni ukrepi iz
+prejšnjega odstavka morajo biti:
+1.     
+učinkoviti tako, da povečajo informacijsko varnost glede na obstoječe in
+predvidene grožnje, ki izhajajo iz analize obvladovanja tveganj z oceno
+sprejemljive ravni tveganj;
+2.     
+prilagojeni tako, da se prizadevanja povezanega subjekta usmerijo v
+ukrepe, ki najbolj vplivajo na njegovo informacijsko varnost, povezano s
+centralnim državnim informacijsko-komunikacijskim omrežjem oziroma sistemom, in
+se izogibajo podvajanjem;
+3.     
+skladni tako, da se primarno obravnavajo osnovne in skupne varnostne
+ranljivosti povezanega subjekta, ki se lahko dopolnijo z varnostnimi ukrepi za
+posamezna delovna področja;
+4.     
+sorazmerni s tveganji tako, da se izogiba čezmerni obremenitvi
+povezanega subjekta;
+5.     
+konkretni tako, da povezani subjekt te varnostne ukrepe izvaja in da ti
+ukrepi prispevajo h krepitvi njegove informacijske varnosti;
+6.     
+preverljivi tako, da povezani subjekt lahko na zahtevo pristojnega
+organa predloži dokazila o njihovem izvajanju, in
+7.     
+vključujoči tako, da so upoštevani vsi vidiki informacijske varnosti,
+vključno s fizično varnostjo informacijskih sredstev.
+(3) Organizacijski,
+logično-tehnični in tehnični varnostni ukrepi morajo obsegati najmanj:
+1.     
+upravljanje pooblastil za dostop;
+2.     
+varovanje dostopa do glavnih komponent strojne opreme;
+3.     
+preverjanje identitete uporabnikov;
+4.     
+zaščito pred zlonamerno programsko kodo;
+5.     
+zaznavanje poskusov vdorov in preprečevanje incidentov ter
+6.     
+upravljanje in preprečevanje izrab tehničnih ranljivosti.
+(4) Ukrepe iz 4. do 6.
+točke prejšnjega odstavka za centralizirane organe izvaja ministrstvo,
+pristojno za upravljanje informacijsko-komunikacijskih sistemov.
+(5) Pri načrtovanju in
+izvajanju varnostnih ukrepov povezani subjekti upoštevajo mednarodne standarde
+in dobre prakse na področju informacijske varnosti, posebne potrebe delovnega
+področja povezanega subjekta ter varnostne zahteve upravljavca centralnega
+informacijsko-komunikacijskega sistema. Informacijski sistem mora izpolnjevati
+minimalne varnostne zahteve, kar pomeni, da mora imeti nameščeno programsko
+opremo zadnje (stabilne) verzije oziroma verzije, za katero se zagotavlja
+podpora proizvajalca programske opreme.
+(6) V primerih oziroma
+delih, kjer varnostne ukrepe izvaja ministrstvo, pristojno za upravljanje
+informacijsko-komunikacijskih sistemov, mora le-to o izvedenih ukrepih redno
+obveščati povezani subjekt, za katerega izvaja te ukrepe.
+(7) Upravljavec
+centralnega informacijsko-komunikacijskega sistema varnostne zahteve iz petega
+odstavka tega člena objavi na svoji spletni strani.
+VI. PREHODNI IN KONČNA DOLOČBA
+9. člen
+(objava na spletnih straneh)
+(1) Pristojni
+nacionalni organ na svoji spletni strani objavi prva priporočila za pripravo
+varnostne dokumentacije iz četrtega odstavka 4. člena
+te uredbe v 60 dneh od njene uveljavitve.
+(2) Upravljavec
+centralnega informacijsko-komunikacijskega sistema na svoji spletni strani
+prvič objavi zahteve iz prvega in iz sedmega odstavka 8. člena te uredbe v 60 dneh od njene uveljavitve.
+10. člen
+(prenehanje uporabe)
+Z dnem začetka uporabe te uredbe se preneha uporabljati
+Uredba o informacijski varnosti v državni upravi (Uradni list RS,
+št. 29/18, 131/20 in 49/23 – ZInfV-B).
+11. člen
+(začetek veljavnosti in uporabe)
+Ta uredba začne veljati 1. januarja
+2024, uporabljati pa se začne 1. maja
+2024.
+Št. 00704-300/2023
+Ljubljana, dne 22. novembra 2023
+EVA 2023-1544-0003
+Vlada Republike Slovenije
+Luka Mesec
+podpredsednik
